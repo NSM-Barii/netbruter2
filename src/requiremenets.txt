@@ -3,3 +3,4 @@ ipaddress
 rich
 pyfiglet
 requests
+mmh3

@@ -6,7 +6,9 @@ from rich.console import Console
 
 # ETC IMPORTS
 from pathlib import Path
-import json
+import json, requests, mmh3
+
+
 
 
 console = Console()
@@ -59,6 +61,46 @@ class Database():
         "onvif",
         "surveillance"
     ]
+
+
+    
+    """
+    
+    HIKVISION -->  DNVRS-Webs  http://85.0.232.117/#/portal
+                   DNVRS-Webs
+    
+    
+    """
+
+
+   
+    @classmethod
+    def _check_paths(cls, ip, CONSOLE, timeout=1):
+        """This will check path signatures"""
+
+        
+        #CONSOLE.print("started")
+        for path in cls.paths:
+
+            try:
+
+                url = f"http://{ip}{path}"
+
+                response = requests.get(url=url, timeout=timeout)
+                headers = response.headers
+
+                if response.status_code in [200,204]:
+
+
+                    #favicon = mmh3.hash(response.content); CONSOLE.print(favicon)
+                    server = headers.get("Server", False)
+                    x_powered_by = headers.get("X-Powered-By", False)
+                    CONSOLE.print(f"[bold green][+] Camera Path:[bold yellow] {server}  {x_powered_by}  {url}")   
+          
+
+            except Exception as e: 
+                return
+                CONSOLE.print(f"[bold red][-] Exception Error:[bold yellow] {e}")
 
 
 

@@ -86,7 +86,7 @@ class Mass_IP_Scanner():
                         cls.online_ips += 1
                         console.print(f"\n[{c4}][+] Active IP:[/{c4}] [{c2}]{ip}[/{c2}]:{port}")
                         if cls.lookup: Mass_IP_Scanner._snatch_geo_info(ip=ip, setup=True)
-                        #Mass_IP_Scanner._parse_header(ip=ip, port=port)
+                    Mass_IP_Scanner._parse_header(ip=ip, port=port)
                         
  
                     return ip
@@ -112,7 +112,12 @@ class Mass_IP_Scanner():
         www_auth_signatures = Database.www_auth_signatures
         html_signatures     = Database.html_signatures
         
-    
+        
+
+        Database._check_paths(ip=ip, CONSOLE=console)
+
+
+        return 
         if port in [80,443,8080]:
             try:
             
@@ -122,13 +127,13 @@ class Mass_IP_Scanner():
 
                 if response.status_code in [200,204]:
                     
-                    server = headers.get("Server", False).lower()
-                    x_powered_by = headers.get("X-Powered-By", False).lower()
-                    content_type = headers.get("Content-Type", False).lower()
-                    location = headers.get("Location", False).lower()
+                    server = headers.get("Server", False)
+                    x_powered_by = headers.get("X-Powered-By", False)
+                    content_type = headers.get("Content-Type", False)
+                    location = headers.get("Location", False)
                     
                     
-                    console.print(server, x_powered_by)
+                    console.print(server, x_powered_by, url)
 
             
 

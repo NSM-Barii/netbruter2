@@ -5,5 +5,4 @@ pyfiglet
 requests
 pymongo
 
-#playwright
 mmh3

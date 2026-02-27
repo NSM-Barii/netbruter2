@@ -3,8 +3,13 @@
 
 
 # ETC IMPORTS
-import argparse
+import argparse, time
 
+
+# UI IMPORTS
+from rich.console import Console
+from rich.panel import Panel
+console = Console()
 
 
 # NSM IMPORTS
@@ -33,29 +38,99 @@ class Main():
         description="Mass IP Scanning framework meant to find vulnerable devices left uncheck open to the internet"
     )
 
-    parser.add_argument("-p", help="The port you want to scan for")
-    parser.add_argument("-t", help="This is to choose the max amount of threads you want to spawn at a time")
-    parser.add_argument("-f", action="store_true", help="This option will save all active ips to a list database/ips.txt")
-    parser.add_argument("-database", action="store_true", help="This will look for open databases via: (3306,5432,27017,6379,9200)")
-    parser.add_argument("-lookup", action="store_true", help="this is to enable a ipinfo lookup")
-    parser.add_argument("--ipinfo", help="Opotional to pass along your own api key for ipinfo.io or the program will default to none")
+    parser.add_argument("-p", help="Port to scan.")
+    parser.add_argument("-t", help="Maximum number of threads to spawn.")
+    parser.add_argument("-f", action="store_true", help="Save all active IPs to database/ips.txt.")
+
+    parser.add_argument("--iot",    action="store_true", help="Scan for IoT devices (MQTT, CoAP, mDNS).")
+    parser.add_argument("--nas",    action="store_true", help="Scan for NAS devices (SMB, Synology, web panels).")
+    parser.add_argument("--camera", action="store_true", help="Scan for IP cameras (RTSP, ONVIF, web interfaces).")
+    parser.add_argument("--router", action="store_true", help="Scan for routers and network infrastructure (admin panels, SSH, Telnet, TR-069).")
+    parser.add_argument("--remote", action="store_true", help="Scan for remote access services (RDP, VNC, SSH, FTP).")
+    parser.add_argument("--database", action="store_true", help="Scan for open databases (3306, 5432, 27017, 6379, 9200).")
+
+    parser.add_argument("--lookup", action="store_true", help="Enable IP geolocation lookup.")
+    parser.add_argument("--ipinfo", help="Optional ipinfo.io API key. Defaults to none.")
+    parser.add_argument("--paths",  help="Manually set path for directory bruteforcing (nas, router, camera).")
 
 
     args = parser.parse_args()
+    
 
+    # REQUIRED VARS
     port = args.p or False
     max_threads = args.t or 250
-    save = args.f or False
-    database = args.database or False
-    lookup = args.lookup or False
-    api_key_ipinfo = args.ipinfo or False
 
+
+    # ADDITIONS
+    save           = args.f      or False
+    paths          = args.paths  or False
+    lookup         = args.lookup or False
+    api_key_ipinfo = args.ipinfo or False
+    
+
+
+    # PRESET OPTIONS
+    iot      = args.iot        or False
+    nas      = args.nas        or False
+    router   = args.router     or False
+    remote   = args.remote     or False
+    camera   = args.camera     or False
+    database = args.database   or False
 
     
+    # SET CONSTANTS
     Mass_IP_Scanner.save   = save
     Mass_IP_Scanner.lookup = lookup
     Mass_IP_Scanner.api_key_ipinfo = api_key_ipinfo
-    if database: port = Database.DATABASE_PORTS
+    
 
+    # ASSIGN PRESETS
+    if iot:        port = Database.IOT_PORTS;    
+    elif nas:      port = Database.paths_nas      ; Database.paths = Database.paths_nas
+    elif router:   port = Database.ROUTER_PORTS   ; Database.paths = Database.paths_router
+    elif remote:   port = Database.REMOTE_PORTS
+    elif camera:   port = Database.CAMERA_PORTS   ; Database.paths = Database.paths_camera
+    elif database: port = Database.DATABASE_PORTS 
+    
+    
+    if paths:
+        if   paths in ["nas"]: Database.paths = Database.paths_nas
+        elif paths in ["router"]: Database.paths = Database.paths_router    
+        elif paths in ["camera"]: Database.paths = Database.paths_camera
+
+
+    Database.selection = iot or nas or router or remote or camera or database
+    Database.ports = port
+
+
+
+    # COLORS
+    c1 = "red"; c2 = "bold green"; c3 = "bold blue"; c4 = "bold yellow"
+    
+
+    # PRINT ASSIGNMENT
+    stats = (
+        f"[{c1}][+] Port(s):[{c4}] {port}"
+        f"\n[{c1}] [+] Max Workers:[{c4}] {max_threads}"
+        f"\n[{c1}] [+] File Saving:[{c4}] {save}"
+        f"\n[{c1}] [+] GEO Lookup:[{c4}] {lookup}"
+        f"\n[{c1}] [+] API Key:[{c4}] {api_key_ipinfo}"
+    )
+
+    panel  = Panel(renderable= stats,        
+        title="Constants",
+        border_style="purple",
+        style="bold red",
+        expand=False 
+                   )
+    
+    console.print(
+        f"[{c1}]=========   CONSTANTS   =========\n",
+        stats,
+        f"\n[{c1}]=================================",
+                  )
+
+    time.sleep(5)
 
     Mass_IP_Scanner._main(port=port, threads=max_threads)

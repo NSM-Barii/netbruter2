@@ -15,7 +15,7 @@ import ipaddress, socket, requests
 
 
 # ETC IMPORTS
-import time, random, threading
+import time, random, threading, sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 
@@ -33,6 +33,14 @@ class Mass_IP_Scanner():
     save = False
     lookup = False 
     api_key_ipinfo = False
+
+    # MODES
+    iot = False
+    nas = False
+    router = False
+    remote = False
+    camera = False
+    database = False
 
 
 
@@ -84,15 +92,18 @@ class Mass_IP_Scanner():
                     if result == 0:
 
                         with LOCK:
-                            cls.current_ips.append(ip)
-                            cls.online_ips += 1
-                            console.print(f"\n[{c4}][+] Active IP:[/{c4}] [{c2}]{ip}[/{c2}]:{port}")
+                            
+                            cls.current_ips.append(ip); cls.online_ips += 1
+                            
+                            if not Database.paths: console.print(f"\n[{c4}][+] Active IP:[/{c4}] [{c2}]{ip}[/{c2}]:{port}")
 
                             if cls.lookup: Mass_IP_Scanner._snatch_geo_info(ip=ip, setup=True)
-                            Mass_IP_Scanner._parse_header(ip=ip, port=port) 
-                            ##
+                        if Database.paths: Database._check_paths(ip=ip, port=port, CONSOLE=console)
+
+                            #if Database._check_database(ip=ip, port=port, CONSOLE=console)
+                            #Mass_IP_Scanner._parse_header(ip=ip, port=port) 
                             #Database._snatch_path(ip=ip, CONSOLE=console)
-    
+
                         return ip
 
                 return False
@@ -158,15 +169,9 @@ class Mass_IP_Scanner():
             
 
 
-
-
-
-
-        
         except Exception as e: 
             #return
             console.print(f"[bold red][-] Exception Error:[bold yellow] {e}")
-
 
 
     @classmethod
@@ -248,8 +253,8 @@ class Mass_IP_Scanner():
         try: max_workers = int(max_workers)
         except Exception: max_workers = 250
 
-        try: portz  = [int(port) for port in ports.split(',')]; console.print(portz) 
-        except Exception: portz = list(ports); console.print(ports)      
+        try: portz  = [int(port) for port in ports.split(',')]
+        except Exception: portz = list(ports)      
 
 
         
@@ -276,8 +281,11 @@ class Mass_IP_Scanner():
 
                         done = {f for f in futures if f.done()}
                         futures -= done
+                    
 
-                except KeyboardInterrupt as e: console.print("[bold red][-] Killing ALL Threds...."); cls.scan=False
+                    sys.exit()
+
+                except KeyboardInterrupt as e: console.print("[bold red][-] Killing ALL Threds...."); cls.scan=False; exit()
                 except Exception as e: console.print(f"[bold red]Exception Error:[bold yellow] {e}"); cls.scan=False; exit()
 
 

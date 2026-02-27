@@ -21,7 +21,8 @@ With additional fingerprinting data, this framework could become a highly effici
 ## Installation
 
 ```bash
-cd src
+git clone https://github.com/nsm-barii/netbruter2.git
+cd netbruter2/src
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requiremenets.txt

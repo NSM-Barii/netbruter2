@@ -8,7 +8,6 @@ from rich.console import Console
 from pathlib import Path
 import json, requests, mmh3
 from pymongo import MongoClient
-from playwright.sync_api import sync_playwright
 from urllib.parse import urljoin, urlparse
 
 

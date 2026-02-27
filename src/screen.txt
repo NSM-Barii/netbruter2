@@ -1,0 +1,24 @@
+# Install screen
+sudo apt update
+sudo apt install screen
+
+# Start a new screen session
+screen -S mysession
+
+# Run your program inside screen
+python3 script.py
+
+# Detach from screen (leave it running)
+CTRL + A, then press D
+
+# List screen sessions
+screen -ls
+
+# Reattach to a session
+screen -r mysession
+
+# If only one session exists
+screen -r
+
+# Kill a screen session
+screen -X -S mysession quit

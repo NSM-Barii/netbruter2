@@ -3,10 +3,7 @@ ipaddress
 rich
 pyfiglet
 requests
-<<<<<<< HEAD
 pymongo
 
 #playwright
-=======
 mmh3
->>>>>>> 3470c68c048e756e5aba6c7aae6c459b08d0133e

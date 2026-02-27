@@ -31,7 +31,7 @@ class Mass_IP_Scanner():
 
     
     save = False
-    lookup = False
+    lookup = False 
     api_key_ipinfo = False
 
 
@@ -54,7 +54,7 @@ class Mass_IP_Scanner():
     
     
     @classmethod
-    def _random_ip_validator(cls, port, timeout=3, verbose=False):
+    def _random_ip_validator(cls, ports, timeout=3, verbose=False):
         """This will validate random ip"""
 
 
@@ -75,21 +75,25 @@ class Mass_IP_Scanner():
             
             
             try:
+                
 
-                s.settimeout(timeout)
-                result = s.connect_ex((ip, port))
+                for port in ports:
+                    s.settimeout(timeout)
+                    result = s.connect_ex((ip, int(port)))
 
-                if result == 0:
+                    if result == 0:
 
-                    with LOCK:
-                        cls.current_ips.append(ip)
-                        cls.online_ips += 1
-                        console.print(f"\n[{c4}][+] Active IP:[/{c4}] [{c2}]{ip}[/{c2}]:{port}")
-                        if cls.lookup: Mass_IP_Scanner._snatch_geo_info(ip=ip, setup=True)
-                    Mass_IP_Scanner._parse_header(ip=ip, port=port)
-                        
- 
-                    return ip
+                        with LOCK:
+                            cls.current_ips.append(ip)
+                            cls.online_ips += 1
+                            console.print(f"\n[{c4}][+] Active IP:[/{c4}] [{c2}]{ip}[/{c2}]:{port}")
+
+                            if cls.lookup: Mass_IP_Scanner._snatch_geo_info(ip=ip, setup=True)
+                            if cls.lookup: Mass_IP_Scanner._parse_header(ip=ip, port=port)
+                            
+                            #Database._snatch_path(ip=ip, CONSOLE=console)
+    
+                        return ip
 
                 return False
 
@@ -97,14 +101,12 @@ class Mass_IP_Scanner():
             except Exception as e: console.print(f"[bold red]Exception Error:[bold yellow] {e}"); return False
     
     
-     
-
     @classmethod
     def _parse_header(cls, ip, port, timeout=3):
         """This will be used to parse the header of response for http/https only"""
 
 
-        url = f"http://{ip}/#/portal"
+        url = f"http://{ip}:{port}"
 
 
         paths               = Database.paths
@@ -114,17 +116,20 @@ class Mass_IP_Scanner():
         
         
 
-        Database._check_paths(ip=ip, CONSOLE=console)
+        #Database._check_paths(ip=ip, CONSOLE=console)
 
 
-        return 
-        if port in [80,443,8080]:
-            try:
+        #return 
+        try:
+
+            #print("fedsf")
+
+
+            if port in [80,443,8080]:
             
                 response = requests.get(url=url, timeout=timeout)
                 headers = response.headers
                 
-
                 if response.status_code in [200,204]:
                     
                     server = headers.get("Server", False)
@@ -134,12 +139,33 @@ class Mass_IP_Scanner():
                     
                     
                     console.print(server, x_powered_by, url)
-
             
 
-            except Exception as e: 
-                return
-                console.print(f"[bold red][-] Exception Error:[bold yellow] {e}")
+            elif port in Database.DATABASE_PORTS:
+
+                
+                #Database._check_database(ip=ip, port=port, CONSOLE=console)
+
+                if response.status_code in [200,204]:
+
+                    server = headers.get("Server", False)
+                    x_powered_by = headers.get("X-Powered-By", False)
+                    content_type = headers.get("Content-Type", False)
+                    location = headers.get("Location", False)
+                    
+                    
+                    console.print(server, x_powered_by, url)
+            
+
+
+
+
+
+
+        
+        except Exception as e: 
+            #return
+            console.print(f"[bold red][-] Exception Error:[bold yellow] {e}")
 
 
 
@@ -204,7 +230,7 @@ class Mass_IP_Scanner():
     
 
     @classmethod
-    def _ip_threader(cls, port, max_workers=250, timeout=1):
+    def _ip_threader(cls, ports, max_workers=250, timeout=1):
         """This will start a multi-proccess thread"""
 
         # COLORS
@@ -214,7 +240,6 @@ class Mass_IP_Scanner():
         c4 = "bold green"
         c5 = "white"
 
-
         futures = set()
         last_save = time.time()
         panel = Panel(renderable="[bold red]Mass IP Scanner", border_style="bold purple", expand=False)
@@ -222,7 +247,10 @@ class Mass_IP_Scanner():
 
         try: max_workers = int(max_workers)
         except Exception: max_workers = 250
-        
+
+        try: portz  = [int(port) for port in ports.split(',')]; console.print(portz) 
+        except Exception: portz = list(ports); console.print(ports)      
+
 
         
         with Live(panel, console=console, refresh_per_second=4):
@@ -234,9 +262,9 @@ class Mass_IP_Scanner():
 
                         if len(futures) < max_workers: 
 
-                            future = executor.submit(Mass_IP_Scanner._random_ip_validator, port, timeout)
+                            future = executor.submit(Mass_IP_Scanner._random_ip_validator, portz, timeout)
                             futures.add(future)
-                            panel.renderable = (f"[{c1}]Active IPs: [{c2}]{cls.online_ips} / {cls.scanned_ips}  -  [{c1}]Port: [{c2}]{port}  -  [{c1}]Max Workers:[{c2}] {max_workers}  -  Developed by NSM Barii")
+                            panel.renderable = (f"[{c1}]Active IPs: [{c2}]{cls.online_ips} / {cls.scanned_ips}  -  [{c1}]Port(s): [{c2}]{portz}  -  [{c1}]Max Workers:[{c2}] {max_workers}  -  Developed by NSM Barii")
                             
                         
                         with LOCK:
@@ -268,7 +296,7 @@ class Mass_IP_Scanner():
             port = console.input("\n[bold yellow]Enter port to mass scan for!: ") or 80
             threads = console.input("[bold yellow]Enter Thread count!: ") or 250; print('\n')
 
-        Mass_IP_Scanner._ip_threader(port=int(port), max_workers=threads or 250)
+        Mass_IP_Scanner._ip_threader(ports=port, max_workers=threads or 250)
 
 
 if __name__ =="__main__":

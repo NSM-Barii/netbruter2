@@ -3,3 +3,6 @@ ipaddress
 rich
 pyfiglet
 requests
+pymongo
+
+#playwright

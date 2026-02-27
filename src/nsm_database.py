@@ -7,6 +7,9 @@ from rich.console import Console
 # ETC IMPORTS
 from pathlib import Path
 import json, requests, mmh3
+from pymongo import MongoClient
+from playwright.sync_api import sync_playwright
+from urllib.parse import urljoin, urlparse
 
 
 
@@ -19,8 +22,16 @@ console = Console()
 class Database():
     """This will hold database values"""
 
+    DATABASE_PORTS = [
+        3306,   # MySQL
+        5432,   # PostgreSQL
+        27017,  # MongoDB
+        6379,   # Redis
+        9200    # Elasticsearch
+    ]
 
 
+   
     paths = [
          "/onvif/device_service",
         "/snapshot.jpg",
@@ -30,6 +41,7 @@ class Database():
         "/doc/page/login.asp",
         "/web/cgi-bin/"
     ]
+
 
     server_signatures = [
         "boa",
@@ -104,9 +116,62 @@ class Database():
 
 
 
+    @classmethod
+    def _check_database(cls, ip, port, CONSOLE, timeout=3):
+        """This method will check for database"""
+        
 
+        try:
 
+            client = MongoClient(f"mongodb://{ip}:{port}/", 
+            serverSelectionTimeoutMS=1500,
+            connectTimeoutMS=1500,
+            socketTimeoutMS=1500
+            )
+            db = client.list_database_names()
 
+            CONSOLE.print(f"[bold green][+] Dumped Your DB!!![/bold green] {db}")
+        
+        except Exception as e: CONSOLE.print(f"[bold red][-] Exception Error:[bold yellow] {e}")
+
+    
+    @classmethod
+    def _snatch_path(cls, ip, CONSOLE, timeout=1, verbose=True):
+        """Snatch the directory paths from js """  
+
+        paths = []
+        url = f"http://{ip}/"
+
+        
+        with sync_playwright() as p:
+            
+            browser = p.chromium.launch(headless=True)
+            page = browser.new_page()
+
+            page.goto(url=url,  timeout=10000)
+            page.wait_for_load_state("networkidle")
+
+            elements = page.eval_on_selector(
+            "a, script, link, form",
+            "els => els.map(e => e.href || e.src || e.action).filter(Boolean)"
+            )
+
+            browser.close()
+
+        
+        for link in elements:
+            parsed = urlparse(link)
+            if parsed.path:
+                paths.append(parsed.path)
+
+                if verbose: CONSOLE.print(f"[bold green][+] Found path: {parsed.path}")
+        
+
+        return paths
+
+    
+    #def _
+  
 
 
 

@@ -89,8 +89,8 @@ class Mass_IP_Scanner():
                             console.print(f"\n[{c4}][+] Active IP:[/{c4}] [{c2}]{ip}[/{c2}]:{port}")
 
                             if cls.lookup: Mass_IP_Scanner._snatch_geo_info(ip=ip, setup=True)
-                            Mass_IP_Scanner._parse_header(ip=ip, port=port) #
-                            
+                            Mass_IP_Scanner._parse_header(ip=ip, port=port) 
+                            ##
                             #Database._snatch_path(ip=ip, CONSOLE=console)
     
                         return ip

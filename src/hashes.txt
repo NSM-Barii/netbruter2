@@ -1,0 +1,19 @@
+ip_camera_favicon_hashes = [
+    {"model": "Axis IP Cameras", "hash": "b06e05c4b09e08bae67359c138e73d21"},
+    {"model": "Hikvision IP Cameras", "hash": "2570d07e8d5c5283110b3e23f1ae1817"},
+    {"model": "D-Link Sky IP Cameras", "hash": "c73c4b9efd843dcc7870f7c5be8cf603"},
+    {"model": "Panasonic IP Cameras", "hash": "8031482ee5264c083b1cc9548139b077"},
+    {"model": "Foscam IP Cameras", "hash": "530ca7eb297bf44e53dd13cc7024b42e"},
+    {"model": "Vivotek IP Cameras", "hash": "43242d019fbb25470a7a87a6200ba66a"},
+    {"model": "TP-Link IP Cameras", "hash": "5ae19a987cfae3351652008556fc8814"},
+    {"model": "Logitech Circle", "hash": "4b3de2257f3c1192d661550f2c85b9d8"},
+    {"model": "NETGEAR Arlo", "hash": "6e4a907392fa2924f798405e5cc94db4"},
+    {"model": "Samsung SmartCam", "hash": "f97d4584fccb9de9bc50ef1858d6c7a1"},
+    {"model": "Sony IP Cameras", "hash": "1c26fb09d268982a2d91b50f59e37345"},
+    {"model": "Dahua IP Cameras", "hash": "dc4a40b1a269365bd6b78911d1a4d5d6"},
+    {"model": "Amcrest IP Cameras", "hash": "63b2fc5054c4092e32e2fd8d0d2d6ac6"},
+    {"model": "Toshiba IP Cameras", "hash": "201dcd953eb87f7c6845bba9cc70a7bc"},
+    {"model": "Sricam IP Cameras", "hash": "494ae8e7ec4561bd7b8be2f36f0529c7"},
+    {"model": "Reolink IP Cameras", "hash": "fda7303c0001529aa043c07098324d77"},
+    {"model": "Zmodo IP Cameras", "hash": "6fc3cd798e5d2805c1b942c0b60ea482"}
+]

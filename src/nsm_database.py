@@ -6,13 +6,12 @@ from rich.console import Console
 
 # ETC IMPORTS
 from pathlib import Path
-import json, requests, mmh3, re
+import json, requests, mmh3, re, threading
 from pymongo import MongoClient
 from urllib.parse import urljoin, urlparse
 
 
-
-
+LOCK = threading.Lock()
 console = Console()
 
 
@@ -24,6 +23,7 @@ class Database():
     selection = ""
     ports = False
     paths = False
+    found = set()
 
 
     DATABASE_PORTS = [
@@ -150,7 +150,7 @@ class Database():
     
     HIKVISION -->  DNVRS-Webs  http://85.0.232.117/#/portal
                    DNVRS-Webs
-    
+    HIKIVISION --> 2107490541
     
     """
 
@@ -159,6 +159,26 @@ class Database():
     @classmethod
     def _check_paths(cls, ip, port, CONSOLE, timeout=1, errors=False):
         """This will check path signatures"""
+
+        ip_camera_favicon_hashes = [
+            {"model": "Axis IP Cameras", "hash": "b06e05c4b09e08bae67359c138e73d21"},
+            {"model": "Hikvision IP Cameras", "hash": "2570d07e8d5c5283110b3e23f1ae1817"},
+            {"model": "D-Link Sky IP Cameras", "hash": "c73c4b9efd843dcc7870f7c5be8cf603"},
+            {"model": "Panasonic IP Cameras", "hash": "8031482ee5264c083b1cc9548139b077"},
+            {"model": "Foscam IP Cameras", "hash": "530ca7eb297bf44e53dd13cc7024b42e"},
+            {"model": "Vivotek IP Cameras", "hash": "43242d019fbb25470a7a87a6200ba66a"},
+            {"model": "TP-Link IP Cameras", "hash": "5ae19a987cfae3351652008556fc8814"},
+            {"model": "Logitech Circle", "hash": "4b3de2257f3c1192d661550f2c85b9d8"},
+            {"model": "NETGEAR Arlo", "hash": "6e4a907392fa2924f798405e5cc94db4"},
+            {"model": "Samsung SmartCam", "hash": "f97d4584fccb9de9bc50ef1858d6c7a1"},
+            {"model": "Sony IP Cameras", "hash": "1c26fb09d268982a2d91b50f59e37345"},
+            {"model": "Dahua IP Cameras", "hash": "dc4a40b1a269365bd6b78911d1a4d5d6"},
+            {"model": "Amcrest IP Cameras", "hash": "63b2fc5054c4092e32e2fd8d0d2d6ac6"},
+            {"model": "Toshiba IP Cameras", "hash": "201dcd953eb87f7c6845bba9cc70a7bc"},
+            {"model": "Sricam IP Cameras", "hash": "494ae8e7ec4561bd7b8be2f36f0529c7"},
+            {"model": "Reolink IP Cameras", "hash": "fda7303c0001529aa043c07098324d77"},
+            {"model": "Zmodo IP Cameras", "hash": "6fc3cd798e5d2805c1b942c0b60ea482"}
+        ]
 
 
         if not cls.paths: return
@@ -169,7 +189,6 @@ class Database():
         c4 = "bold green"
 
         
-        #CONSOLE.print("started")
         for path in cls.paths:
 
             try:
@@ -187,8 +206,7 @@ class Database():
                     favicon = mmh3.hash(response.content)
                     title = False
                     match = re.search(r"<title>(.*?)</title>", response.text, re.IGNORECASE | re.DOTALL)
-                    if match:
-                        title = match.group(1).strip()
+                    if match: title = match.group(1).strip()
                     status = response.status_code
                     redirect = response.url if response.url != url else False
                     content_length = len(response.text) or False
@@ -196,19 +214,34 @@ class Database():
                     x_powered_by = headers.get("X-Powered-By", False)
 
 
+                    for var in cls.server_signatures:
+                        if var == server.strip(): CONSOLE.print(f"Found: {server}")
+                    
+                    for var in cls.html_signatures:
+                        if var == title.strip(): CONSOLE.print(f"Found: {title}")
+                    
 
-                    CONSOLE.print(f"\n[{c4}][+] Active IP:[/{c4}] [{c2}]{ip}[/{c2}]:{port}")
-                    CONSOLE.print(
-                        f"{space}[{c4}][+] Directory:[{c2}] {url}",
-                        f"\n{space}[{c4 if status else c1}][+] Status:[{c2}] {status}",
-                        f"\n{space}[{c4 if title else c1}][+] Title:[{c2}] {title}",
-                        f"\n{space}[{c4 if server else c1}][+] Server:[{c2}] {server}",
-                        f"\n{space}[{c4 if redirect else c1}][+] Redirect:[{c2}] {redirect}",
-                        f"\n{space}[{c4 if content_length else c1}][+] Content-Length:[{c2}] {content_length}",
-                        f"\n{space}[{c4 if x_powered_by else c1}][+] Powered-by:[{c2}] {x_powered_by}",
-                        f"\n{space}[{c4 if favicon else c1}][+] Favicon:[{c2}] {favicon}"
-                    )
-              
+                    for camera in ip_camera_favicon_hashes:
+                        if favicon == camera["hash"]:
+                            CONSOLE.print(f"Match found: {camera['model']} at IP {ip} with hash {favicon}")
+                    
+                  
+                  
+                    with LOCK:
+                        #if not t: CONSOLE.print(f"title: {title}  server: {server} favicon: {favicon}"); t = True
+                        
+                        CONSOLE.print(f"\n[{c4}][+] Active IP:[/{c4}] [{c2}]{ip}[/{c2}]:{port}")
+                        CONSOLE.print(
+                            f"{space}[{c4}][+] Directory:[{c2}] {url}",
+                            f"\n{space}[{c4 if status else c1}][+] Status:[{c2}] {status}",
+                            f"\n{space}[{c4 if title else c1}][+] Title:[{c2}] {title}",
+                            f"\n{space}[{c4 if server else c1}][+] Server:[{c2}] {server}",
+                            f"\n{space}[{c4 if redirect else c1}][+] Redirect:[{c2}] {redirect}",
+                            f"\n{space}[{c4 if content_length else c1}][+] Content-Length:[{c2}] {content_length}",
+                            f"\n{space}[{c4 if x_powered_by else c1}][+] Powered-by:[{c2}] {x_powered_by}",
+                            f"\n{space}[{c4 if favicon else c1}][+] Favicon:[{c2}] {favicon}"
+                        )
+            
             except Exception as e: 
                 if errors: CONSOLE.print(f"[bold red][-] Exception Error:[bold yellow] {e}")
 

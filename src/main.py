@@ -49,8 +49,9 @@ class Main():
     parser.add_argument("--remote", action="store_true", help="Scan for remote access services (RDP, VNC, SSH, FTP).")
     parser.add_argument("--database", action="store_true", help="Scan for open databases (3306, 5432, 27017, 6379, 9200).")
 
-    parser.add_argument("--lookup", action="store_true", help="Enable IP geolocation lookup.")
+    parser.add_argument("--lookup", action="store_true", help="Enable IP geolocation lookup.")  
     parser.add_argument("--ipinfo", help="Optional ipinfo.io API key. Defaults to none.")
+    parser.add_argument("--all", action="store_true", help="Show all active IPS")
     parser.add_argument("--paths",  help="Manually set path for directory bruteforcing (nas, router, camera).")
 
 
@@ -65,6 +66,7 @@ class Main():
     # ADDITIONS
     save           = args.f      or False
     paths          = args.paths  or False
+    all            = args.all    or False
     lookup         = args.lookup or False
     api_key_ipinfo = args.ipinfo or False
     
@@ -80,6 +82,7 @@ class Main():
 
     
     # SET CONSTANTS
+    Mass_IP_Scanner.all   = all
     Mass_IP_Scanner.save   = save
     Mass_IP_Scanner.lookup = lookup
     Mass_IP_Scanner.api_key_ipinfo = api_key_ipinfo
@@ -131,6 +134,10 @@ class Main():
         f"\n[{c1}]=================================",
                   )
 
-    time.sleep(5)
+    
+    t = 5
+    while t > 0:
+        print(f'[*] Starting in: {t}', end="\r", flush=True); t -= 1
+        time.sleep(1)
 
     Mass_IP_Scanner._main(port=port, threads=max_threads)

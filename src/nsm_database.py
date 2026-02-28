@@ -736,6 +736,42 @@ class Database():
 
         
         except Exception as e: console.print(f"[bold red][-] Exception Error:[bold yellow] {e}")
+    
+
+
+    @classmethod
+    def _download_asns_within_each_country(cls):
+        """This will be used to download asns for each domain within a country"""
+
+
+        try:
+
+            asn_dir = str(Path(__file__).parent.parent / "database" / "asns" / "iran")
+            os.chdir(asn_dir)
+            console.print(f"[bold green][+] Successfully changed DIR to: {asn_dir}")
+            
+            
+            asn = "AS12880"
+            url = f"https://stat.ripe.net/data/announced-prefixes/data.json?resource={asn}"
+
+
+            response = requests.get(url=url)
+
+
+            if response.status_code in [200, 204]:
+
+                with open(f"{asn}.json", "w") as file: 
+                    json.dump(response.json(), file, indent=4)
+                console.print(f"[bold green][+] Successfully downloaded:[bold yellow] {asn} <-> {url}")
+            
+        
+
+        except Exception as e: console.print(f"[bold red][-] Exception Error:[bold yellow] {e}")
+    
+
+
+
+
 
     
 
@@ -758,7 +794,7 @@ class Database():
             if   cls.lookup == "local":  Database._get_geo_info_local(ip=ip, CONSOLE=CONSOLE, verbose=False)
             elif cls.lookup == "ipinfo": Database._get_geo_info_ipinfo(ip=ip, CONSOLE=CONSOLE)
         
-        if Database.paths: Database._check_paths(ip=ip, port=port, CONSOLE=CONSOLE)
+            if Database.paths: Database._check_paths(ip=ip, port=port, CONSOLE=CONSOLE)
 
 
 
@@ -892,7 +928,7 @@ class Deappreciated():
 
 if __name__ == "__main__":
 
-    t = 1
+    t = 2
 
     if t == 0: pass
 
@@ -900,17 +936,21 @@ if __name__ == "__main__":
     elif t == 1:
         
         Database.validate_country(country="Turkey")
-
-
     
 
-    # DO NOT USE THIS
+
     elif t == 2:
+
+        Database._download_asns_within_each_country()
+
+
+    # DO NOT USE THIS
+    elif t == 3:
 
         Database._download_ip_blocks_for_each_country()
 
 
-    elif t == 3:
+    elif t == 4:
         Database.get_ip_block(filter="Mexico", CONSOLE=console)
 
         from nsm_scanner import Mass_IP_Scanner
@@ -919,6 +959,6 @@ if __name__ == "__main__":
 
 
 
-    elif t == 4:
+    elif t == 5:
         data = ["192.168.1.1", "10.0.0.1", "127.0.0.1"]
         File_Saver._push_ips_found(data=data)

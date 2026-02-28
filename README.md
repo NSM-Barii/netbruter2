@@ -1,4 +1,4 @@
-# netbruter2
+# xp
 
 Successor to [netbruter](https://github.com/nsm-barii/netbruter).
 
@@ -10,6 +10,8 @@ This tool performs rapid port scanning across IP ranges to detect devices with o
 
 ## Use Cases
 
+- Filter IP blocks by country to scan specific geographic regions
+- Target vulnerabilities in specific countries using geo-filtered scanning
 - Locate unsecured IP cameras and surveillance systems
 - Identify exposed IoT devices (MQTT, CoAP, mDNS)
 - Find misconfigured routers and network infrastructure
@@ -21,8 +23,8 @@ With additional fingerprinting data, this framework could become a highly effici
 ## Installation
 
 ```bash
-git clone https://github.com/nsm-barii/netbruter2.git
-cd netbruter2/src
+git clone https://github.com/nsm-barii/xp.git
+cd xp/src
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requiremenets.txt
@@ -64,10 +66,14 @@ sudo venv/bin/python main.py --database
 -p PORT              Port to scan
 -t THREADS           Maximum number of threads (default: 250)
 -f                   Save all active IPs to database/ips.txt
---lookup             Enable IP geolocation lookup
---ipinfo API_KEY     Optional ipinfo.io API key
 --all                Show all active IPs
 --paths {nas,router,camera}  Manually set path for directory bruteforcing
+
+# Geo Lookup Options
+--country {country}  Filter IPs to specific country (see database/ip_blocks/README.MD)
+--geo local          Enable offline geo lookup using local database
+--geo ipinfo         Enable geo lookup using ipinfo.io API
+--save               Save generated IPs (format: {Country}_timestamp.txt or timestamp.txt)
 ```
 
 ## Features
@@ -76,9 +82,14 @@ sudo venv/bin/python main.py --database
 - HTTP fingerprinting with favicon hash matching
 - Preset port lists for common device types
 - Path bruteforcing for web interfaces
-- Optional geolocation lookup
+- Country-based IP filtering (200+ countries)
+- Offline and online geolocation lookup
 - Database connectivity testing (MongoDB)
 - Server header and HTML title analysis
+
+## Known Issues / Work in Progress
+
+**Do not use directory search (preset ports: --camera, --iot, --router, --nas, --remote, --database with --paths) and geo lookup (--country, --geo) at the same time.** The program is not yet efficient when using both features simultaneously.
 
 ## Contributing
 

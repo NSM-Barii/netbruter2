@@ -9,6 +9,7 @@ from pathlib import Path
 import json, requests, mmh3, re, threading
 from pymongo import MongoClient
 from urllib.parse import urljoin, urlparse
+import geoip2.database
 
 
 LOCK = threading.Lock()
@@ -19,13 +20,17 @@ console = Console()
 
 class Database():
     """This will hold database values"""
+    
 
+    # SET FROM main.py
     selection = ""
     ports = False
     paths = False
     found = set()
 
+    
 
+    # PRESETS
     DATABASE_PORTS = [
         3306,   # MySQL
         5432,   # PostgreSQL
@@ -213,18 +218,19 @@ class Database():
                     server = headers.get("Server", False)
                     x_powered_by = headers.get("X-Powered-By", False)
 
+                    
+                    if False:
+                        for var in cls.server_signatures:
+                            if var == server.strip(): CONSOLE.print(f"Found: {server}")
+                        
+                        for var in cls.html_signatures:
+                            if var == title.strip(): CONSOLE.print(f"Found: {title}")
+                        
 
-                    for var in cls.server_signatures:
-                        if var == server.strip(): CONSOLE.print(f"Found: {server}")
-                    
-                    for var in cls.html_signatures:
-                        if var == title.strip(): CONSOLE.print(f"Found: {title}")
-                    
-
-                    for camera in ip_camera_favicon_hashes:
-                        if favicon == camera["hash"]:
-                            CONSOLE.print(f"Match found: {camera['model']} at IP {ip} with hash {favicon}")
-                    
+                        for camera in ip_camera_favicon_hashes:
+                            if favicon == camera["hash"]:
+                                CONSOLE.print(f"Match found: {camera['model']} at IP {ip} with hash {favicon}")
+                        
                   
                   
                     with LOCK:
@@ -245,6 +251,103 @@ class Database():
             except Exception as e: 
                 if errors: CONSOLE.print(f"[bold red][-] Exception Error:[bold yellow] {e}")
 
+
+    
+    @classmethod
+    def get_geo_info(cls, ip, CONSOLE, verbose=True):
+        """This method will be used to get our own in house geo ip info"""
+
+        
+        p1 = "geo_lookup"
+        path_asn  = str(Path(__file__).parent.parent / "database" /  p1 / "GeoLite2-ASN" / "GeoLite2-ASN.mmdb" )
+        path_city = str(Path(__file__).parent.parent / "database" /  p1 / "GeoLite2-City" / "GeoLite2-City.mmdb" )
+
+        
+        try:
+
+            reader_asn  = geoip2.database.Reader(path_asn)
+            reader_city = geoip2.database.Reader(path_city)
+            
+            asn  = reader_asn.asn(ip)
+            city  = reader_city.city(ip)
+
+
+            info = {
+                "country": city.country.name,
+                "city":    city.city.name,
+                "asn":     asn.autonomous_system_number,
+                "org":     asn.autonomous_system_organization 
+            
+            }
+
+            
+            if info["country"] == "Mexico":
+                CONSOLE.print(ip, info)
+        
+
+
+        except Exception as e: CONSOLE.print(f"[bold red][-] Exception Error:[bold yellow] {e}")
+
+
+
+
+
+
+class File_Saver():
+    """This class will save files"""
+
+
+
+
+    @classmethod
+    def _push_ips_found(cls, data, CONSOLE, verbose=True):
+        """This will push current set of ips"""
+
+
+        path = Path(__file__).parent.parent / "database" 
+
+        
+        if False:
+            try:
+
+                with open(path, "w") as file:json.dump(data, file, indent=4)
+                if verbose: CONSOLE.print(f"[bold green][+] Successfully pushed new info")
+
+            
+
+            except Exception as e: CONSOLE.print(f"[bold red][-] Exception Error:[bold yellow] {e}")
+        
+
+        else:
+
+            try:
+                path = str(path / "ips.txt")
+                clean = "\n".join(data)
+
+
+                with open(path, "a") as file: file.write(clean)
+                if verbose: CONSOLE.print(f"[bold green][+] Successfully pushed new info")
+
+            
+            except FileNotFoundError as e: 
+                CONSOLE.print(f"[bold red][-] FileNotFoundError:[bold yellow] {e}")
+                with open(path, "w") as file: 
+                    file.write(data)
+            
+            except Exception as e: CONSOLE.print(f"[bold red][-] Exception Error:[bold yellow] {e}")
+
+
+
+
+    #def _
+  
+
+
+
+
+
+class Deappreciated():
+    """Out of use methods"""
 
 
     @classmethod
@@ -302,56 +405,6 @@ class Database():
         return paths
 
     
-    #def _
-  
-
-
-
-class File_Saver():
-    """This class will save files"""
-
-
-
-
-    @classmethod
-    def _push_ips_found(cls, data, CONSOLE, verbose=True):
-        """This will push current set of ips"""
-
-
-        path = Path(__file__).parent.parent / "database" 
-
-        
-        if False:
-            try:
-
-                with open(path, "w") as file:json.dump(data, file, indent=4)
-                if verbose: CONSOLE.print(f"[bold green][+] Successfully pushed new info")
-
-            
-
-            except Exception as e: CONSOLE.print(f"[bold red][-] Exception Error:[bold yellow] {e}")
-        
-
-        else:
-
-            try:
-                path = str(path / "ips.txt")
-                clean = "\n".join(data)
-
-
-                with open(path, "a") as file: file.write(clean)
-                if verbose: CONSOLE.print(f"[bold green][+] Successfully pushed new info")
-
-            
-            except FileNotFoundError as e: 
-                CONSOLE.print(f"[bold red][-] FileNotFoundError:[bold yellow] {e}")
-                with open(path, "w") as file: 
-                    file.write(data)
-            
-            except Exception as e: CONSOLE.print(f"[bold red][-] Exception Error:[bold yellow] {e}")
-
-
-
 
 
 

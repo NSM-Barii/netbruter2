@@ -6,3 +6,4 @@ requests
 pymongo
 
 mmh3
+geoip2

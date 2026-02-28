@@ -97,10 +97,11 @@ class Mass_IP_Scanner():
                             
                             cls.current_ips.append(ip); cls.online_ips += 1
                             
-                            if not Database.paths or cls.all: console.print(f"\n[{c4}][+] Active IP:[/{c4}] [{c2}]{ip}[/{c2}]:{port}")
+                            #if not Database.paths or cls.all: console.print(f"\n[{c4}][+] Active IP:[/{c4}] [{c2}]{ip}[/{c2}]:{port}")
 
                             if cls.lookup: Mass_IP_Scanner._snatch_geo_info(ip=ip, setup=True)
-                        
+                            Database.get_geo_info(ip=ip, CONSOLE=console)
+
                         if Database.paths: Database._check_paths(ip=ip, port=port, CONSOLE=console)
 
                             #if Database._check_database(ip=ip, port=port, CONSOLE=console)

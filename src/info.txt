@@ -1,2 +1,3 @@
 ipblocks: https://www.ipdeny.com/ipblocks/
 ans: https://ipinfo.io/countries/ir
+asn: https://raw.githubusercontent.com/ipverse/as-metadata/master/as.csv

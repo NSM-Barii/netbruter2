@@ -1,0 +1,5090 @@
+{
+    "1756": {
+        "country_code": "IR",
+        "asn": "1756",
+        "description": "Shiraz Hamyar Co.",
+        "handle": "HAMYAR-AS"
+    },
+    "3263": {
+        "country_code": "IR",
+        "asn": "3263",
+        "description": "Pishgaman Toseeh Ertebatat Company (Private Joint Stock)",
+        "handle": "PISHGAMAN"
+    },
+    "5484": {
+        "country_code": "IR",
+        "asn": "5484",
+        "description": "Shabakeh Gostar Shahriyar Co. (Ltd.)",
+        "handle": "CIS"
+    },
+    "5542": {
+        "country_code": "IR",
+        "asn": "5542",
+        "description": "Ministry of Health Treatment and Medical Education",
+        "handle": "MINISTRY-OF-HEALTH"
+    },
+    "5618": {
+        "country_code": "IR",
+        "asn": "5618",
+        "description": "DP IRAN PLC",
+        "handle": "DPI"
+    },
+    "5627": {
+        "country_code": "IR",
+        "asn": "5627",
+        "description": "Shahrood University of Technology",
+        "handle": "SHAHROODUT-AS1"
+    },
+    "6736": {
+        "country_code": "IR",
+        "asn": "6736",
+        "description": "Institute for Research in Fundamental Sciences",
+        "handle": "IRANET-IPM"
+    },
+    "8604": {
+        "country_code": "IR",
+        "asn": "8604",
+        "description": "Pardazeshgaran Almas Pasargad Co. Pjs",
+        "handle": "DWCI-CORE-BACKBONE-NL"
+    },
+    "8868": {
+        "country_code": "IR",
+        "asn": "8868",
+        "description": "Khallagh Borhan Market Development for Creative Industries Co",
+        "handle": "IRCDN"
+    },
+    "9147": {
+        "country_code": "IR",
+        "asn": "9147",
+        "description": "Homaye Jahan Nama Co. ( Private Joint Stock)",
+        "handle": "JN-AS"
+    },
+    "12660": {
+        "country_code": "IR",
+        "asn": "12660",
+        "description": "Sharif University Of Technology",
+        "handle": "SHARIF-EDU-NET"
+    },
+    "12697": {
+        "country_code": "IR",
+        "asn": "12697",
+        "description": "Tose Masiryabi Shabake Aria PJSC",
+        "handle": "PARSUN-SINDAD-ANCHOR"
+    },
+    "12880": {
+        "country_code": "IR",
+        "asn": "12880",
+        "description": "Iran Information Technology Company PJSC",
+        "handle": "DCI-AS"
+    },
+    "13231": {
+        "country_code": "IR",
+        "asn": "13231",
+        "description": "Baharan PLC",
+        "handle": "BAHARAN"
+    },
+    "13235": {
+        "country_code": "IR",
+        "asn": "13235",
+        "description": "Nik Rayan Parsian Computer Services Cooperative Company",
+        "handle": "NIKRANET"
+    },
+    "15402": {
+        "country_code": "IR",
+        "asn": "15402",
+        "description": "Pishgaman Tejarat Sayar Company (Private Joint Stock)",
+        "handle": "PTS"
+    },
+    "15611": {
+        "country_code": "IR",
+        "asn": "15611",
+        "description": "Iranian Research Organization for Science & Technology",
+        "handle": "IROST-AS"
+    },
+    "15907": {
+        "country_code": "IR",
+        "asn": "15907",
+        "description": "Imam Khomeini International University of Qazvin",
+        "handle": "IKIU-ASN"
+    },
+    "16018": {
+        "country_code": "IR",
+        "asn": "16018",
+        "description": "Public JSC Bank Sepah",
+        "handle": "SEPAHBANK-AS"
+    },
+    "16235": {
+        "country_code": "IR",
+        "asn": "16235",
+        "description": "Pouya Nazm Najafabad Computer Co(PJS)",
+        "handle": "POYANAZM-AS"
+    },
+    "16286": {
+        "country_code": "IR",
+        "asn": "16286",
+        "description": "University of Kashan",
+        "handle": "UOKASHAN"
+    },
+    "16292": {
+        "country_code": "IR",
+        "asn": "16292",
+        "description": "Kermanshah University of Medical Science and Health Service",
+        "handle": "KUMS"
+    },
+    "16320": {
+        "country_code": "IR",
+        "asn": "16320",
+        "description": "Fanavaran Eniac Rayaneh PJSC",
+        "handle": "ENIAC-TECH-AS"
+    },
+    "16322": {
+        "country_code": "IR",
+        "asn": "16322",
+        "description": "Parsan Lin Co. PJS",
+        "handle": "PARSONLINE"
+    },
+    "20744": {
+        "country_code": "IR",
+        "asn": "20744",
+        "description": "Islamic Republic of Iran Post PJSC",
+        "handle": "IRPOST-SISVBAL"
+    },
+    "20749": {
+        "country_code": "IR",
+        "asn": "20749",
+        "description": "Islamic Republic of Iran Post PJSC",
+        "handle": "IRPOST-KGVBA"
+    },
+    "20801": {
+        "country_code": "IR",
+        "asn": "20801",
+        "description": "Islamic Republic of Iran Post PJSC",
+        "handle": "IRPOST-LORESTAN"
+    },
+    "21005": {
+        "country_code": "IR",
+        "asn": "21005",
+        "description": "Gostaresh Dade AKO Fanavaran Co LLC",
+        "handle": "AKO-FANAVARAN"
+    },
+    "21071": {
+        "country_code": "IR",
+        "asn": "21071",
+        "description": "Islamic Republic of Iran Post PJSC",
+        "handle": "IRPOST-KERMANSHAH"
+    },
+    "21112": {
+        "country_code": "IR",
+        "asn": "21112",
+        "description": "Islamic Republic of Iran Post PJSC",
+        "handle": "IRPOST-BOJNOORD"
+    },
+    "21121": {
+        "country_code": "IR",
+        "asn": "21121",
+        "description": "Islamic Republic of Iran Post PJSC",
+        "handle": "IRPOST-SHAHREKORD"
+    },
+    "21170": {
+        "country_code": "IR",
+        "asn": "21170",
+        "description": "Shazand Petrochemical Company (Private Joint Stock)",
+        "handle": "ARPC"
+    },
+    "21341": {
+        "country_code": "IR",
+        "asn": "21341",
+        "description": "Soroush Rasanheh Company Ltd",
+        "handle": "SINET-AS"
+    },
+    "21419": {
+        "country_code": "IR",
+        "asn": "21419",
+        "description": "PISHTAZE E JADID INFORMATION COMPANY (Ltd.)",
+        "handle": "PISHTAZEJADIDINFOMRATION"
+    },
+    "24631": {
+        "country_code": "IR",
+        "asn": "24631",
+        "description": "Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS",
+        "handle": "FANAPTELECOM-FCP"
+    },
+    "24707": {
+        "country_code": "IR",
+        "asn": "24707",
+        "description": "Melli Pakhsh Faravardehay Nafti Iran PJSC",
+        "handle": "NIOPDC"
+    },
+    "24737": {
+        "country_code": "IR",
+        "asn": "24737",
+        "description": "Islamic Republic of Iran Post PJSC",
+        "handle": "IRPOST-QAZVIN"
+    },
+    "24741": {
+        "country_code": "IR",
+        "asn": "24741",
+        "description": "Islamic Republic of Iran Post PJSC",
+        "handle": "IRPOST-KURDESTAN"
+    },
+    "24779": {
+        "country_code": "IR",
+        "asn": "24779",
+        "description": "Islamic Republic of Iran Post PJSC",
+        "handle": "IRPOST-KERMAN"
+    },
+    "24988": {
+        "country_code": "IR",
+        "asn": "24988",
+        "description": "Islamic Republic of Iran Post PJSC",
+        "handle": "IRPOST-HORMOZGAN"
+    },
+    "25124": {
+        "country_code": "IR",
+        "asn": "25124",
+        "description": "Datak Company LLC",
+        "handle": "DATAK"
+    },
+    "25184": {
+        "country_code": "IR",
+        "asn": "25184",
+        "description": "Afranet",
+        "handle": "AFRANET"
+    },
+    "25202": {
+        "country_code": "IR",
+        "asn": "25202",
+        "description": "Islamic Republic of Iran Post PJSC",
+        "handle": "IRPOST-GOLESTAN"
+    },
+    "25207": {
+        "country_code": "IR",
+        "asn": "25207",
+        "description": "Islamic Republic of Iran Post PJSC",
+        "handle": "IRPOST-RAZAVI"
+    },
+    "25239": {
+        "country_code": "IR",
+        "asn": "25239",
+        "description": "Islamic Republic of Iran Post PJSC",
+        "handle": "IRPOST-HAMEDAN"
+    },
+    "25243": {
+        "country_code": "IR",
+        "asn": "25243",
+        "description": "Islamic Republic of Iran Post PJSC",
+        "handle": "IRPOST-YAZD"
+    },
+    "25264": {
+        "country_code": "IR",
+        "asn": "25264",
+        "description": "Afagh Andish Dadeh Pardis Co. Ltd",
+        "handle": "AADP"
+    },
+    "25306": {
+        "country_code": "IR",
+        "asn": "25306",
+        "description": "IsIran",
+        "handle": "INSTITUTE-ISIRAN"
+    },
+    "29068": {
+        "country_code": "IR",
+        "asn": "29068",
+        "description": "University of Tehran",
+        "handle": "UT-AS"
+    },
+    "29077": {
+        "country_code": "IR",
+        "asn": "29077",
+        "description": "MOSHAVERIN PARSAYE BARIN Company Ltd.",
+        "handle": "PARSCYBERIAN-AS"
+    },
+    "29079": {
+        "country_code": "IR",
+        "asn": "29079",
+        "description": "IRNA",
+        "handle": "IRNA-AS"
+    },
+    "29350": {
+        "country_code": "IR",
+        "asn": "29350",
+        "description": "Islamic Republic of Iran Post PJSC",
+        "handle": "IRPOST-QOM"
+    },
+    "29577": {
+        "country_code": "IR",
+        "asn": "29577",
+        "description": "Isfahan University of Technology",
+        "handle": "IUT-AS"
+    },
+    "30902": {
+        "country_code": "IR",
+        "asn": "30902",
+        "description": "Moasese Gostaresh Etelaat Va Ertebatat Farhangi Neda Rayaneh",
+        "handle": "NEDA-AS"
+    },
+    "31175": {
+        "country_code": "IR",
+        "asn": "31175",
+        "description": "Securities and Exchange Organization",
+        "handle": "SEO"
+    },
+    "31182": {
+        "country_code": "IR",
+        "asn": "31182",
+        "description": "SAMAN BANK PJSC",
+        "handle": "SB24-AS"
+    },
+    "31303": {
+        "country_code": "IR",
+        "asn": "31303",
+        "description": "National Iranian Oil Company",
+        "handle": "NIOC-AS"
+    },
+    "31476": {
+        "country_code": "IR",
+        "asn": "31476",
+        "description": "Morva System Engineering Technical Company Private Joint Stock",
+        "handle": "MORVA-AS"
+    },
+    "31549": {
+        "country_code": "IR",
+        "asn": "31549",
+        "description": "Aria Shatel PJSC",
+        "handle": "RASANA"
+    },
+    "34078": {
+        "country_code": "IR",
+        "asn": "34078",
+        "description": "TOSE'EH ERTEBATAT NOVIN ARIA CO PJS",
+        "handle": "TN-AS"
+    },
+    "34369": {
+        "country_code": "IR",
+        "asn": "34369",
+        "description": "Aria Shatel PJSC",
+        "handle": "AS-SHATELMOBILE"
+    },
+    "34412": {
+        "country_code": "IR",
+        "asn": "34412",
+        "description": "Saba Abr Mizban LLC",
+        "handle": "SABA-HOST"
+    },
+    "34513": {
+        "country_code": "IR",
+        "asn": "34513",
+        "description": "Tarashe Sabz Tehran Co. Ltd.",
+        "handle": "TSTONLINE-AS"
+    },
+    "34592": {
+        "country_code": "IR",
+        "asn": "34592",
+        "description": "Iranian Presidential Administration",
+        "handle": "IRIPO-NET"
+    },
+    "34636": {
+        "country_code": "IR",
+        "asn": "34636",
+        "description": "Laser Company Ltd",
+        "handle": "LASER-AS"
+    },
+    "34837": {
+        "country_code": "IR",
+        "asn": "34837",
+        "description": "Institute for Research in Fundamental Sciences",
+        "handle": "IRANET-IPM"
+    },
+    "34871": {
+        "country_code": "IR",
+        "asn": "34871",
+        "description": "Part Financial Information Processing Co.",
+        "handle": "PART-FINANCIAL-INFORMATION-PROCESSING"
+    },
+    "34918": {
+        "country_code": "IR",
+        "asn": "34918",
+        "description": "Pishgaman Toseeh Ertebatat Company (Private Joint Stock)",
+        "handle": "PISHGAMAN-DATACENTER"
+    },
+    "34947": {
+        "country_code": "IR",
+        "asn": "34947",
+        "description": "Alibaba Travel Company (LTD)",
+        "handle": "ALIBABA-TRAVELS-COMPANY"
+    },
+    "35043": {
+        "country_code": "IR",
+        "asn": "35043",
+        "description": "Allameh Tabataba'i University",
+        "handle": "ALLAMEH-UNIVERSITY-AS"
+    },
+    "35088": {
+        "country_code": "IR",
+        "asn": "35088",
+        "description": "Rahyab Rayaneh Gostar",
+        "handle": "RAHYAB-AS"
+    },
+    "35285": {
+        "country_code": "IR",
+        "asn": "35285",
+        "description": "Institute for Research in Fundamental Sciences",
+        "handle": "IRNIC-AS"
+    },
+    "35570": {
+        "country_code": "IR",
+        "asn": "35570",
+        "description": "MOSHAVERIN PARSAYE BARIN Company Ltd.",
+        "handle": "PARSCYBERIAN"
+    },
+    "35615": {
+        "country_code": "IR",
+        "asn": "35615",
+        "description": "Middle East Bank (PJSC)",
+        "handle": "MEB-AS"
+    },
+    "35690": {
+        "country_code": "IR",
+        "asn": "35690",
+        "description": "IRAN INSURANCE JOINT STOCK COMPANY",
+        "handle": "IRANINSURANCE-AS"
+    },
+    "35766": {
+        "country_code": "IR",
+        "asn": "35766",
+        "description": "Mizbani Dadehaye Mabna PJSC",
+        "handle": "MABNA-CLOUD"
+    },
+    "39074": {
+        "country_code": "IR",
+        "asn": "39074",
+        "description": "Sepanta Communication Development Co. Ltd",
+        "handle": "IR-SEPANTA"
+    },
+    "39164": {
+        "country_code": "IR",
+        "asn": "39164",
+        "description": "Dade Samane Fanava Company (PJS)",
+        "handle": "FIDC"
+    },
+    "39200": {
+        "country_code": "IR",
+        "asn": "39200",
+        "description": "Institute for Research in Fundamental Sciences",
+        "handle": "IRNICANYCAST-AS"
+    },
+    "39308": {
+        "country_code": "IR",
+        "asn": "39308",
+        "description": "ANDISHE SABZ KHAZAR CO. P.J.S.",
+        "handle": "ASK-AS"
+    },
+    "39364": {
+        "country_code": "IR",
+        "asn": "39364",
+        "description": "Hormoz IT & Network Waves Connection Co. (PJS)",
+        "handle": "HORMOZ-IT"
+    },
+    "39454": {
+        "country_code": "IR",
+        "asn": "39454",
+        "description": "Sindad Network Technology PJSC",
+        "handle": "SINDAD"
+    },
+    "39466": {
+        "country_code": "IR",
+        "asn": "39466",
+        "description": "Ahang Rayan Malayer Co. LTD",
+        "handle": "ASSABZ"
+    },
+    "39501": {
+        "country_code": "IR",
+        "asn": "39501",
+        "description": "Parvaresh Dadeha Co. Private Joint Stock",
+        "handle": "NGSAS-NEDAGOSTARSABA"
+    },
+    "39571": {
+        "country_code": "IR",
+        "asn": "39571",
+        "description": "Sadad Informatics Corporation PJSC",
+        "handle": "SADAD-AS"
+    },
+    "39650": {
+        "country_code": "IR",
+        "asn": "39650",
+        "description": "Atrin Information & Communications Technology Company PJS",
+        "handle": "ATRINCOMMUNICATION"
+    },
+    "41061": {
+        "country_code": "IR",
+        "asn": "41061",
+        "description": "Iran Zamin Bank PJSC",
+        "handle": "IZBANK"
+    },
+    "41152": {
+        "country_code": "IR",
+        "asn": "41152",
+        "description": "Ertebatat Fara Gostar Shargh PJSC",
+        "handle": "AFTAB"
+    },
+    "41620": {
+        "country_code": "IR",
+        "asn": "41620",
+        "description": "Iran University Of Science and Technology",
+        "handle": "IUSTCC-AS"
+    },
+    "41689": {
+        "country_code": "IR",
+        "asn": "41689",
+        "description": "Asiatech Data Transmission company",
+        "handle": "EDGE-NETWORK"
+    },
+    "41797": {
+        "country_code": "IR",
+        "asn": "41797",
+        "description": "Apadana Ceram Co PJSC",
+        "handle": "ACN-AS"
+    },
+    "41856": {
+        "country_code": "IR",
+        "asn": "41856",
+        "description": "Pardazesh Rayaneh Bita Co.Ltd",
+        "handle": "BITA"
+    },
+    "41881": {
+        "country_code": "IR",
+        "asn": "41881",
+        "description": "Fanava Group",
+        "handle": "FANAVA-AS"
+    },
+    "41900": {
+        "country_code": "IR",
+        "asn": "41900",
+        "description": "Netafraz Iranian Ltd.",
+        "handle": "NETAFRAZIRANIAN-ASN"
+    },
+    "42019": {
+        "country_code": "IR",
+        "asn": "42019",
+        "description": "Aftab Communications and Informatics Private Joint Stock Company",
+        "handle": "AFTAB"
+    },
+    "42043": {
+        "country_code": "IR",
+        "asn": "42043",
+        "description": "Parsian High Tech Company PJSC",
+        "handle": "BERTINATECHNOLOGYCOMPANY"
+    },
+    "42143": {
+        "country_code": "IR",
+        "asn": "42143",
+        "description": "Iran Airports & Air Navigation Company (Private Joint Stock)",
+        "handle": "IR-IRANAIRPORTS"
+    },
+    "42170": {
+        "country_code": "IR",
+        "asn": "42170",
+        "description": "Pooya Parto Qeshm Cooperative Company",
+        "handle": "MOHANDESI-ERTEBATAT-DOURBORD-FARS-SERVCO-100-95-63"
+    },
+    "42288": {
+        "country_code": "IR",
+        "asn": "42288",
+        "description": "Shahkar Towse'e Tejarat Mana PJSC",
+        "handle": "MIZBANDADEPARDIS"
+    },
+    "42337": {
+        "country_code": "IR",
+        "asn": "42337",
+        "description": "Respina Networks & Beyond PJSC",
+        "handle": "RESPINA-AS"
+    },
+    "42440": {
+        "country_code": "IR",
+        "asn": "42440",
+        "description": "Rayaneh Danesh Golestan Complex P.J.S. Co.",
+        "handle": "RDG-AS"
+    },
+    "42468": {
+        "country_code": "IR",
+        "asn": "42468",
+        "description": "Behin Ertebatat Faragir Co. Ltd",
+        "handle": "MIZ"
+    },
+    "42586": {
+        "country_code": "IR",
+        "asn": "42586",
+        "description": "IRIB (Islamic Republic of Iran Broadcasting)",
+        "handle": "IRIB-AS"
+    },
+    "42750": {
+        "country_code": "IR",
+        "asn": "42750",
+        "description": "Marun Petrochemical Co.",
+        "handle": "MARUN"
+    },
+    "42867": {
+        "country_code": "IR",
+        "asn": "42867",
+        "description": "National Iranian Oil Company PJSC",
+        "handle": "NIOCI-AS"
+    },
+    "42907": {
+        "country_code": "IR",
+        "asn": "42907",
+        "description": "Research Institute Of Petroleum Industry",
+        "handle": "RIPI"
+    },
+    "42915": {
+        "country_code": "IR",
+        "asn": "42915",
+        "description": "Engeneering Designing and Supply the parts of Iran Khodro PJSC",
+        "handle": "SAPCO-AS"
+    },
+    "42990": {
+        "country_code": "IR",
+        "asn": "42990",
+        "description": "Bank Saderat Iran PJSC",
+        "handle": "SADERAT-BANK"
+    },
+    "43005": {
+        "country_code": "IR",
+        "asn": "43005",
+        "description": "Pishgaman Tejarat Sayar Company (Private Joint Stock)",
+        "handle": "FCP-CONSORTIUM"
+    },
+    "43135": {
+        "country_code": "IR",
+        "asn": "43135",
+        "description": "Moavenate rasaneh majazi seda va sima",
+        "handle": "EIRIB"
+    },
+    "43211": {
+        "country_code": "IR",
+        "asn": "43211",
+        "description": "Noavaran Fan Avazeh Co. PJS",
+        "handle": "DIGIKALA"
+    },
+    "43212": {
+        "country_code": "IR",
+        "asn": "43212",
+        "description": "Pejvak Ertebatat Atiyeh Roshan Company (P.J.S.)",
+        "handle": "PEJVAK-ERTEBATAT"
+    },
+    "43233": {
+        "country_code": "IR",
+        "asn": "43233",
+        "description": "Fara Negar Pardaz Noor Khuzestan Co.JSP",
+        "handle": "FARANET"
+    },
+    "43245": {
+        "country_code": "IR",
+        "asn": "43245",
+        "description": "Datak Company LLC",
+        "handle": "DATAKIX"
+    },
+    "43343": {
+        "country_code": "IR",
+        "asn": "43343",
+        "description": "Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS",
+        "handle": "FANAPTELECOM"
+    },
+    "43358": {
+        "country_code": "IR",
+        "asn": "43358",
+        "description": "Mobile Communication Company of Iran PLC",
+        "handle": "MCCI"
+    },
+    "43395": {
+        "country_code": "IR",
+        "asn": "43395",
+        "description": "Pooya Parto Qeshm Cooperative Company",
+        "handle": "ERTEBATAT-DOORBORD-FARS"
+    },
+    "43415": {
+        "country_code": "IR",
+        "asn": "43415",
+        "description": "Secure Infrastructure of Transactional Services Company PJSC",
+        "handle": "SITSCO-AS"
+    },
+    "43487": {
+        "country_code": "IR",
+        "asn": "43487",
+        "description": "Saman Electronic Payment Kish PJS",
+        "handle": "IR-SEP"
+    },
+    "43510": {
+        "country_code": "IR",
+        "asn": "43510",
+        "description": "Mehvar Machine",
+        "handle": "MEHVARMACHINE-AS"
+    },
+    "43528": {
+        "country_code": "IR",
+        "asn": "43528",
+        "description": "Behpardaz Jahan PJSC",
+        "handle": "BEHPARDAZ"
+    },
+    "43546": {
+        "country_code": "IR",
+        "asn": "43546",
+        "description": "Islamic Republic of Iran Post PJSC",
+        "handle": "IRPOST-ALBORZ"
+    },
+    "43657": {
+        "country_code": "IR",
+        "asn": "43657",
+        "description": "Novin Insurance Co. PJS",
+        "handle": "NOVIN"
+    },
+    "43689": {
+        "country_code": "IR",
+        "asn": "43689",
+        "description": "Patron Technology Persia Ltd",
+        "handle": "FCA"
+    },
+    "43754": {
+        "country_code": "IR",
+        "asn": "43754",
+        "description": "Asiatech Data Transmission company",
+        "handle": "ASIATECH"
+    },
+    "43955": {
+        "country_code": "IR",
+        "asn": "43955",
+        "description": "Negah Roshan Pars Company (PJS)",
+        "handle": "NRP-NETWORK-LLC"
+    },
+    "43965": {
+        "country_code": "IR",
+        "asn": "43965",
+        "description": "Tehran University of Medical Science",
+        "handle": "TUMS-IR-AS"
+    },
+    "44045": {
+        "country_code": "IR",
+        "asn": "44045",
+        "description": "Kish Iran Credit Card Corporation (Public Corporation)",
+        "handle": "KICCC-ASN"
+    },
+    "44090": {
+        "country_code": "IR",
+        "asn": "44090",
+        "description": "Enteghal Dadeh Mahan Co. PJSC",
+        "handle": "MAHANNET-AS"
+    },
+    "44208": {
+        "country_code": "IR",
+        "asn": "44208",
+        "description": "Farahoosh Dena PLC",
+        "handle": "FARAHOOSH"
+    },
+    "44243": {
+        "country_code": "IR",
+        "asn": "44243",
+        "description": "Iman Hamrah Behpardaz Company- Ltd",
+        "handle": "SHOOKA"
+    },
+    "44244": {
+        "country_code": "IR",
+        "asn": "44244",
+        "description": "Iran Cell Service and Communication Company",
+        "handle": "IRANCELL-AS"
+    },
+    "44285": {
+        "country_code": "IR",
+        "asn": "44285",
+        "description": "Sefroyek Pardaz Engineering PJSC",
+        "handle": "SEFROYEKPARDAZENG-AS"
+    },
+    "44375": {
+        "country_code": "IR",
+        "asn": "44375",
+        "description": "Asmanfaraz Sepahan Company (P.J.S)",
+        "handle": "AISDP"
+    },
+    "44400": {
+        "country_code": "IR",
+        "asn": "44400",
+        "description": "Ertebatat Sabet Parsian Co. PJS",
+        "handle": "IR-FCP"
+    },
+    "44410": {
+        "country_code": "IR",
+        "asn": "44410",
+        "description": "Towse'eh Sarmayeh Gozari Entekhab Group PJSC",
+        "handle": "ENTEKHAB-AS"
+    },
+    "44436": {
+        "country_code": "IR",
+        "asn": "44436",
+        "description": "Toosee Ertebatat Damavand",
+        "handle": "TED"
+    },
+    "44498": {
+        "country_code": "IR",
+        "asn": "44498",
+        "description": "Kish It Group Company Ltd.",
+        "handle": "KISHITGROUP"
+    },
+    "44531": {
+        "country_code": "IR",
+        "asn": "44531",
+        "description": "Rayanmehr Danesh Sanj Company Ltd",
+        "handle": "AS12280"
+    },
+    "44607": {
+        "country_code": "IR",
+        "asn": "44607",
+        "description": "Khallagh Borhan Market Development for Creative Industries Co",
+        "handle": "BORHANNOVINDEV"
+    },
+    "44609": {
+        "country_code": "IR",
+        "asn": "44609",
+        "description": "Fars News Agency Cultural Arts Institute",
+        "handle": "FNA"
+    },
+    "44650": {
+        "country_code": "IR",
+        "asn": "44650",
+        "description": "BISTALK TELECUMUNICATION SYSTEMS COMPANY (P.J.S.)",
+        "handle": "BLUBANK"
+    },
+    "44685": {
+        "country_code": "IR",
+        "asn": "44685",
+        "description": "Patron Technology Persia Ltd",
+        "handle": "DEDSERVERNET"
+    },
+    "44889": {
+        "country_code": "IR",
+        "asn": "44889",
+        "description": "Farhang Azma Communications Company LTD",
+        "handle": "AZMA-AS"
+    },
+    "44932": {
+        "country_code": "IR",
+        "asn": "44932",
+        "description": "Fannavaran-e Idea Pardaz-e Saba PJSC",
+        "handle": "SABAIDEA"
+    },
+    "44966": {
+        "country_code": "IR",
+        "asn": "44966",
+        "description": "Zirsakht Fanavari Etelaat va Ertebatat Pasargad Aryan PJS",
+        "handle": "FANAP-INFRA-ASN"
+    },
+    "44983": {
+        "country_code": "IR",
+        "asn": "44983",
+        "description": "Faraso Samaneh Pasargad Ltd.",
+        "handle": "FARASOSAMANEHPASARGAD"
+    },
+    "47162": {
+        "country_code": "IR",
+        "asn": "47162",
+        "description": "Pooya Parto Qeshm Cooperative Company",
+        "handle": "QESHM-MOHANDESI-ERTEBATAT-DOURBORD-FARS-SERVCO-100-95-63"
+    },
+    "47188": {
+        "country_code": "IR",
+        "asn": "47188",
+        "description": "Press TV Co.",
+        "handle": "PRESSTV"
+    },
+    "47216": {
+        "country_code": "IR",
+        "asn": "47216",
+        "description": "Ettelaat Fanavarn-E Tookan Co Ltd",
+        "handle": "TOOKANTECH"
+    },
+    "47262": {
+        "country_code": "IR",
+        "asn": "47262",
+        "description": "Hamara System Tabriz Engineering Company",
+        "handle": "HAMARA-AS"
+    },
+    "47285": {
+        "country_code": "IR",
+        "asn": "47285",
+        "description": "Patron Technology Persia Ltd",
+        "handle": "PTP"
+    },
+    "47308": {
+        "country_code": "IR",
+        "asn": "47308",
+        "description": "Web Gostaran Bandar Company (PJS)",
+        "handle": "WEB-GOSTARAN-BANDAR-WGB"
+    },
+    "47330": {
+        "country_code": "IR",
+        "asn": "47330",
+        "description": "Mobin Net Communication Company (Private Joint Stock)",
+        "handle": "MOBINNET-AS"
+    },
+    "47376": {
+        "country_code": "IR",
+        "asn": "47376",
+        "description": "Web Gostaran Bandar Company (PJS)",
+        "handle": "WGB-LLC"
+    },
+    "47430": {
+        "country_code": "IR",
+        "asn": "47430",
+        "description": "Arman White Water Way PJS",
+        "handle": "ARMAN"
+    },
+    "47539": {
+        "country_code": "IR",
+        "asn": "47539",
+        "description": "Kimiya Ertebat Dana Company Ltd",
+        "handle": "JALAL-MAZAHERI"
+    },
+    "47554": {
+        "country_code": "IR",
+        "asn": "47554",
+        "description": "Pardazeshgaran Almas Pasargad Co. Pjs",
+        "handle": "ALMASNET-AS"
+    },
+    "47558": {
+        "country_code": "IR",
+        "asn": "47558",
+        "description": "Kajeh Nasir Toosi University of Technology",
+        "handle": "KNTU-AS"
+    },
+    "47603": {
+        "country_code": "IR",
+        "asn": "47603",
+        "description": "Zirsakht Pishro Abr Damavand Private Joint Stock Company",
+        "handle": "DAMAVAND"
+    },
+    "47643": {
+        "country_code": "IR",
+        "asn": "47643",
+        "description": "Khallagh Borhan Market Development for Creative Industries Co",
+        "handle": "BORHANMOBINDEV"
+    },
+    "47817": {
+        "country_code": "IR",
+        "asn": "47817",
+        "description": "Bank Pasargad PJSC",
+        "handle": "PSRGD-AS"
+    },
+    "47843": {
+        "country_code": "IR",
+        "asn": "47843",
+        "description": "TOSE'EH ERTEBATAT NOVIN ARIA CO PJS",
+        "handle": "TANA-AS"
+    },
+    "47981": {
+        "country_code": "IR",
+        "asn": "47981",
+        "description": "Iran University of Medical Sciences",
+        "handle": "IUMS-AS"
+    },
+    "47990": {
+        "country_code": "IR",
+        "asn": "47990",
+        "description": "Pooya Parto Qeshm Cooperative Company",
+        "handle": "MOHANDESI-ERTEBATAT-DOURBORD-FARS-SERVCO-100-95-63"
+    },
+    "48029": {
+        "country_code": "IR",
+        "asn": "48029",
+        "description": "NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)",
+        "handle": "PARSDADE-NETWORK"
+    },
+    "48121": {
+        "country_code": "IR",
+        "asn": "48121",
+        "description": "Computer research center of Islamic seminary of Isfahan",
+        "handle": "CRSIIS-ISFAHANIDC"
+    },
+    "48147": {
+        "country_code": "IR",
+        "asn": "48147",
+        "description": "Asre Pardazeshe Ettelaate Amin Institute",
+        "handle": "AMINIDC"
+    },
+    "48159": {
+        "country_code": "IR",
+        "asn": "48159",
+        "description": "Telecommunication Infrastructure Company",
+        "handle": "TIC-AS"
+    },
+    "48203": {
+        "country_code": "IR",
+        "asn": "48203",
+        "description": "Simorgh Scientific Network Services and Communication Company PJS",
+        "handle": "NREN-IDC"
+    },
+    "48214": {
+        "country_code": "IR",
+        "asn": "48214",
+        "description": "Atis Omran Sevin PSJ",
+        "handle": "GAJNET-CDN-IRAN"
+    },
+    "48281": {
+        "country_code": "IR",
+        "asn": "48281",
+        "description": "Abr Tose'eh Darya Group Company PJSC",
+        "handle": "DARYAGROUP"
+    },
+    "48289": {
+        "country_code": "IR",
+        "asn": "48289",
+        "description": "Dadeh Pardazan Sabz Alborz Co.(P.J.S.)",
+        "handle": "DSA-AS"
+    },
+    "48309": {
+        "country_code": "IR",
+        "asn": "48309",
+        "description": "Ariana Gostar Spadana (PJSC)",
+        "handle": "AGS-AS"
+    },
+    "48356": {
+        "country_code": "IR",
+        "asn": "48356",
+        "description": "Moein Dadosetad Golestan Co. (P.J S)",
+        "handle": "IPROCESSINGINDUSTRY-ASN"
+    },
+    "48359": {
+        "country_code": "IR",
+        "asn": "48359",
+        "description": "Hesabgar Pardaz Gharb PJSC",
+        "handle": "HESABGAR-AS"
+    },
+    "48391": {
+        "country_code": "IR",
+        "asn": "48391",
+        "description": "Pars Data Processing Company (LTD)",
+        "handle": "PDP"
+    },
+    "48410": {
+        "country_code": "IR",
+        "asn": "48410",
+        "description": "Tamin Ertebatat Venus PJS",
+        "handle": "TEV"
+    },
+    "48431": {
+        "country_code": "IR",
+        "asn": "48431",
+        "description": "Bozorg Net-e Aria",
+        "handle": "MAXNET-AS"
+    },
+    "48434": {
+        "country_code": "IR",
+        "asn": "48434",
+        "description": "Tebyan-e-Noor Cultural-Artistic Institute",
+        "handle": "TEBYAN"
+    },
+    "48551": {
+        "country_code": "IR",
+        "asn": "48551",
+        "description": "Sindad Network Technology PJSC",
+        "handle": "SINDAD"
+    },
+    "48555": {
+        "country_code": "IR",
+        "asn": "48555",
+        "description": "Iranian Information Technology PJSC",
+        "handle": "IRITCO-AS"
+    },
+    "48597": {
+        "country_code": "IR",
+        "asn": "48597",
+        "description": "Ali Abedi",
+        "handle": "ABRBARANIDC"
+    },
+    "48601": {
+        "country_code": "IR",
+        "asn": "48601",
+        "description": "Mobtaker Tejarat Novin Vira Ltd",
+        "handle": "NOVIN-VIRA"
+    },
+    "48608": {
+        "country_code": "IR",
+        "asn": "48608",
+        "description": "Mellat Insurance Public Joint Stock Company",
+        "handle": "MELLAT-AS"
+    },
+    "48677": {
+        "country_code": "IR",
+        "asn": "48677",
+        "description": "Rajman Information Structures PJSC",
+        "handle": "RAJMAN"
+    },
+    "48715": {
+        "country_code": "IR",
+        "asn": "48715",
+        "description": "Sefroyek Pardaz Engineering PJSC",
+        "handle": "SEFROYEKPARDAZENG-AS"
+    },
+    "48762": {
+        "country_code": "IR",
+        "asn": "48762",
+        "description": "Iran Aseman Airlines PJSC",
+        "handle": "IAA-AS"
+    },
+    "48820": {
+        "country_code": "IR",
+        "asn": "48820",
+        "description": "Ali Niknam",
+        "handle": "IRNIX-AS"
+    },
+    "48898": {
+        "country_code": "IR",
+        "asn": "48898",
+        "description": "Medical Science University Of Kashan",
+        "handle": "KAUMS-ASN"
+    },
+    "48903": {
+        "country_code": "IR",
+        "asn": "48903",
+        "description": "Rasaneh Mehr Vatan Co. PJS",
+        "handle": "MEHRFCP"
+    },
+    "48944": {
+        "country_code": "IR",
+        "asn": "48944",
+        "description": "Khalij Fars Ettela Resan LTD",
+        "handle": "ASKHALIJFARSONLINE"
+    },
+    "49022": {
+        "country_code": "IR",
+        "asn": "49022",
+        "description": "Patron Technology Persia Ltd",
+        "handle": "PM"
+    },
+    "49099": {
+        "country_code": "IR",
+        "asn": "49099",
+        "description": "Tadbir Pardaz IT Group LTD",
+        "handle": "TADBIR-AS"
+    },
+    "49100": {
+        "country_code": "IR",
+        "asn": "49100",
+        "description": "Pishgaman Toseeh Ertebatat Company (Private Joint Stock)",
+        "handle": "IR-THR-PTE"
+    },
+    "49103": {
+        "country_code": "IR",
+        "asn": "49103",
+        "description": "Asr-e Enteghal-e Dadeha Company (Private J.S.)",
+        "handle": "IR-ASRETELECOM-AS"
+    },
+    "49148": {
+        "country_code": "IR",
+        "asn": "49148",
+        "description": "Atieh Dadeh Pardaz PJSC",
+        "handle": "ADPDIGITAL-AS"
+    },
+    "49207": {
+        "country_code": "IR",
+        "asn": "49207",
+        "description": "Sangan Khorasan Steel Mineral Industry Company (JSC)",
+        "handle": "SANGANCO-AS"
+    },
+    "49228": {
+        "country_code": "IR",
+        "asn": "49228",
+        "description": "Hormozgan University Of Medical Sciences",
+        "handle": "HUOM"
+    },
+    "49382": {
+        "country_code": "IR",
+        "asn": "49382",
+        "description": "FANAVARI HAMRAH PAYDA Co. ( Private J.S.)",
+        "handle": "PAYDA"
+    },
+    "49433": {
+        "country_code": "IR",
+        "asn": "49433",
+        "description": "Bank Refah Kargaran",
+        "handle": "RFB-AS"
+    },
+    "49517": {
+        "country_code": "IR",
+        "asn": "49517",
+        "description": "Asia Insurance Co. (Publicly Traded)",
+        "handle": "ASIA-INSURANCE"
+    },
+    "49556": {
+        "country_code": "IR",
+        "asn": "49556",
+        "description": "Web Dadeh Paydar Co (Ltd)",
+        "handle": "WEBDADE"
+    },
+    "49596": {
+        "country_code": "IR",
+        "asn": "49596",
+        "description": "Fara Negar Pardaz Noor Khuzestan Co.JSP",
+        "handle": "FARANET"
+    },
+    "49613": {
+        "country_code": "IR",
+        "asn": "49613",
+        "description": "Arian Web Pars",
+        "handle": "AWP"
+    },
+    "49666": {
+        "country_code": "IR",
+        "asn": "49666",
+        "description": "Telecommunication Infrastructure Company",
+        "handle": "TIC-GW-AS"
+    },
+    "49676": {
+        "country_code": "IR",
+        "asn": "49676",
+        "description": "Sindad Network Technology PJSC",
+        "handle": "SINDAD"
+    },
+    "49680": {
+        "country_code": "IR",
+        "asn": "49680",
+        "description": "Armaghan Rahe Talaie",
+        "handle": "DCI"
+    },
+    "49792": {
+        "country_code": "IR",
+        "asn": "49792",
+        "description": "Amirkabir University of Technology",
+        "handle": "AMIRKABIRUNIVERSITY"
+    },
+    "49796": {
+        "country_code": "IR",
+        "asn": "49796",
+        "description": "Shaparak Electronic Card Payment Network Company PJS",
+        "handle": "SHAPARAK"
+    },
+    "49801": {
+        "country_code": "IR",
+        "asn": "49801",
+        "description": "Hezardastan Unit Cloud Computing PJSC",
+        "handle": "SOTOON-CLOUD-INFRASTRUCTURE"
+    },
+    "49847": {
+        "country_code": "IR",
+        "asn": "49847",
+        "description": "Pardazeshgar Ray Azma Co. Ltd.",
+        "handle": "RAYAZMA-AS"
+    },
+    "49872": {
+        "country_code": "IR",
+        "asn": "49872",
+        "description": "Jahan Ruye Khat PJSC",
+        "handle": "JAHANONLINE"
+    },
+    "49906": {
+        "country_code": "IR",
+        "asn": "49906",
+        "description": "Kish It Group Company Ltd.",
+        "handle": "KISHITGROUP"
+    },
+    "49936": {
+        "country_code": "IR",
+        "asn": "49936",
+        "description": "Behsa Communication & Development Co. (Ltd.)",
+        "handle": "BEHSA"
+    },
+    "49972": {
+        "country_code": "IR",
+        "asn": "49972",
+        "description": "NAMAVARAN e ASR e Novin Information Technology (FANHAB) Private Joint-Stock Co",
+        "handle": "FANHAB"
+    },
+    "50000": {
+        "country_code": "IR",
+        "asn": "50000",
+        "description": "Parsian Hamrah Lotus Co.(Private Joint Stock)",
+        "handle": "LOTUSTEL"
+    },
+    "50041": {
+        "country_code": "IR",
+        "asn": "50041",
+        "description": "Saba Abr Mizban LLC",
+        "handle": "MIZBANCLOUD"
+    },
+    "50057": {
+        "country_code": "IR",
+        "asn": "50057",
+        "description": "Parvaz System Information Technology Company (Ltd)",
+        "handle": "PARVAZ-SYSTEM"
+    },
+    "50114": {
+        "country_code": "IR",
+        "asn": "50114",
+        "description": "Sanaye Khodrosazi Kerman (Kerman Car Industry) PLC",
+        "handle": "KAIC"
+    },
+    "50160": {
+        "country_code": "IR",
+        "asn": "50160",
+        "description": "Behin Saman Gostar Ltd.",
+        "handle": "BSG-AS"
+    },
+    "50177": {
+        "country_code": "IR",
+        "asn": "50177",
+        "description": "SHETAB INFORMATION PROCESSING CO",
+        "handle": "SHETAB"
+    },
+    "50259": {
+        "country_code": "IR",
+        "asn": "50259",
+        "description": "Information Technology ArmanNet PLC",
+        "handle": "ARMANNET"
+    },
+    "50269": {
+        "country_code": "IR",
+        "asn": "50269",
+        "description": "GuilaNet",
+        "handle": "GUILANET"
+    },
+    "50460": {
+        "country_code": "IR",
+        "asn": "50460",
+        "description": "Iranian Blood Transfusion Organization (IBTO)",
+        "handle": "IBTO"
+    },
+    "50548": {
+        "country_code": "IR",
+        "asn": "50548",
+        "description": "Rasa Abr Pardazesh Iranian",
+        "handle": "RASAABRPARDAZESHIRANIAN"
+    },
+    "50558": {
+        "country_code": "IR",
+        "asn": "50558",
+        "description": "Rayaneh Pardazan Baran Co. Ltd.",
+        "handle": "SYSTEC-AS"
+    },
+    "50692": {
+        "country_code": "IR",
+        "asn": "50692",
+        "description": "Iran Khodro Co. P.J.S.",
+        "handle": "IKCO-AS"
+    },
+    "50722": {
+        "country_code": "IR",
+        "asn": "50722",
+        "description": "Telecommunication Infrastructure Company",
+        "handle": "IR-IX-ASN"
+    },
+    "50733": {
+        "country_code": "IR",
+        "asn": "50733",
+        "description": "Ertebat Gostaran Bina PJSC",
+        "handle": "BINA-AS"
+    },
+    "50749": {
+        "country_code": "IR",
+        "asn": "50749",
+        "description": "Yaghoot Pars Asia Cooperative Company",
+        "handle": "YAGHOOT"
+    },
+    "50795": {
+        "country_code": "IR",
+        "asn": "50795",
+        "description": "Datis Arian Gheshm Software Company PJSC",
+        "handle": "DOTIN"
+    },
+    "50810": {
+        "country_code": "IR",
+        "asn": "50810",
+        "description": "Mobin Net Communication Company (Private Joint Stock)",
+        "handle": "MOBINNET-AS"
+    },
+    "50855": {
+        "country_code": "IR",
+        "asn": "50855",
+        "description": "Resalat Interest-free loaning Bank PJS",
+        "handle": "RQBANK-AS"
+    },
+    "50992": {
+        "country_code": "IR",
+        "asn": "50992",
+        "description": "Telecommunication Infrastructure Company",
+        "handle": "IR-IXP-ASN"
+    },
+    "51026": {
+        "country_code": "IR",
+        "asn": "51026",
+        "description": "Dade Pardazi Mobinhost Co LTD",
+        "handle": "MOBINHOSTINFRASTRUCTURE"
+    },
+    "51074": {
+        "country_code": "IR",
+        "asn": "51074",
+        "description": "GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)",
+        "handle": "MABNA"
+    },
+    "51119": {
+        "country_code": "IR",
+        "asn": "51119",
+        "description": "Iran Telecommunication Company PJS",
+        "handle": "TCI"
+    },
+    "51130": {
+        "country_code": "IR",
+        "asn": "51130",
+        "description": "Homaye Jahan Nama Co. ( Private Joint Stock)",
+        "handle": "JN-AS"
+    },
+    "51168": {
+        "country_code": "IR",
+        "asn": "51168",
+        "description": "Greater Tehran Electric Power Distribution PJSC",
+        "handle": "GTEP-AS"
+    },
+    "51235": {
+        "country_code": "IR",
+        "asn": "51235",
+        "description": "ARAAX DADEH GOSTAR information and communication Development Co (Private Joint Stock)",
+        "handle": "ADG-AS"
+    },
+    "51241": {
+        "country_code": "IR",
+        "asn": "51241",
+        "description": "Islamic Republic of Iran Post PJSC",
+        "handle": "IRPOST-TEH"
+    },
+    "51280": {
+        "country_code": "IR",
+        "asn": "51280",
+        "description": "Parsian Electronic Commerce PJSC",
+        "handle": "AS51280"
+    },
+    "51355": {
+        "country_code": "IR",
+        "asn": "51355",
+        "description": "Orum Torkan Rayaneh LLC",
+        "handle": "TORKANET"
+    },
+    "51411": {
+        "country_code": "IR",
+        "asn": "51411",
+        "description": "Toos-Ashena Pjsc",
+        "handle": "AFRA-RASA"
+    },
+    "51431": {
+        "country_code": "IR",
+        "asn": "51431",
+        "description": "Rasaneh Avabarid Private Joint Stock Company",
+        "handle": "IR-AVABARID-AS"
+    },
+    "51433": {
+        "country_code": "IR",
+        "asn": "51433",
+        "description": "Asiatech Data Transmission company",
+        "handle": "ASIATECH-DC-CUSTOMER"
+    },
+    "51460": {
+        "country_code": "IR",
+        "asn": "51460",
+        "description": "Sina Bank",
+        "handle": "SINA-AS"
+    },
+    "51469": {
+        "country_code": "IR",
+        "asn": "51469",
+        "description": "Petiak System Co JSC",
+        "handle": "PETIAK"
+    },
+    "51554": {
+        "country_code": "IR",
+        "asn": "51554",
+        "description": "Pars Oil & Gas Company (Private Joint Stock)",
+        "handle": "POGC"
+    },
+    "51618": {
+        "country_code": "IR",
+        "asn": "51618",
+        "description": "Eghtesad Novin Bank PJSC",
+        "handle": "ENBANK"
+    },
+    "51732": {
+        "country_code": "IR",
+        "asn": "51732",
+        "description": "MAPNA Power Plants Development & Construction PLC",
+        "handle": "MAPNA-AS"
+    },
+    "51759": {
+        "country_code": "IR",
+        "asn": "51759",
+        "description": "Pirooz Leen LLC",
+        "handle": "PIROOZLEEN"
+    },
+    "51777": {
+        "country_code": "IR",
+        "asn": "51777",
+        "description": "Alborz Insurance Company",
+        "handle": "ALBORZ-AS"
+    },
+    "51785": {
+        "country_code": "IR",
+        "asn": "51785",
+        "description": "Karafarin Bank Plc.",
+        "handle": "KARAFARIN-AS"
+    },
+    "51788": {
+        "country_code": "IR",
+        "asn": "51788",
+        "description": "Part Payam Paya LLC",
+        "handle": "PARTPAYAM"
+    },
+    "51828": {
+        "country_code": "IR",
+        "asn": "51828",
+        "description": "Iran Telecommunication Company PJS",
+        "handle": "IR-T-10"
+    },
+    "51889": {
+        "country_code": "IR",
+        "asn": "51889",
+        "description": "Gostaresh Pardazesh Dana Negar Co.(PJSC)",
+        "handle": "GPDN-AS"
+    },
+    "51897": {
+        "country_code": "IR",
+        "asn": "51897",
+        "description": "MIHAN COMMUNICATION SYSTEMS CO. LTD",
+        "handle": "MIHAN"
+    },
+    "52049": {
+        "country_code": "IR",
+        "asn": "52049",
+        "description": "Iranian Net Communication and Electronic Services Co PJS",
+        "handle": "IRANIANNET"
+    },
+    "52070": {
+        "country_code": "IR",
+        "asn": "52070",
+        "description": "Parsian Bank (Public Joint-Stock)",
+        "handle": "PARSIAN-BANK"
+    },
+    "52133": {
+        "country_code": "IR",
+        "asn": "52133",
+        "description": "Islamic Republic of Iran Post PJSC",
+        "handle": "IRPOST-BOUSHEHR"
+    },
+    "52134": {
+        "country_code": "IR",
+        "asn": "52134",
+        "description": "Islamic Republic of Iran Post PJSC",
+        "handle": "IRPOST-ILAM"
+    },
+    "52135": {
+        "country_code": "IR",
+        "asn": "52135",
+        "description": "Islamic Republic of Iran Post PJSC",
+        "handle": "IRPOST-ARDABIL"
+    },
+    "52136": {
+        "country_code": "IR",
+        "asn": "52136",
+        "description": "Islamic Republic of Iran Post PJSC",
+        "handle": "IRPOST-AZSHARGHI"
+    },
+    "52137": {
+        "country_code": "IR",
+        "asn": "52137",
+        "description": "Islamic Republic of Iran Post PJSC",
+        "handle": "IRPOST-AZGH"
+    },
+    "52140": {
+        "country_code": "IR",
+        "asn": "52140",
+        "description": "United Nations High Commissioner for Refugees",
+        "handle": "UNHCR-IR-AS"
+    },
+    "52155": {
+        "country_code": "IR",
+        "asn": "52155",
+        "description": "Caspian Applied Systems Services Supplying Company (Private Joint-Stock)",
+        "handle": "CASPIAN-LIR"
+    },
+    "52196": {
+        "country_code": "IR",
+        "asn": "52196",
+        "description": "Tehran Regional Electricity Joint Stock Company",
+        "handle": "TREC-AS"
+    },
+    "52209": {
+        "country_code": "IR",
+        "asn": "52209",
+        "description": "Atis Omran Sevin PSJ",
+        "handle": "LORDVPSNLNETWORKNL"
+    },
+    "56375": {
+        "country_code": "IR",
+        "asn": "56375",
+        "description": "Imam Khomeini Relief Foundation IKRF",
+        "handle": "IKRF"
+    },
+    "56402": {
+        "country_code": "IR",
+        "asn": "56402",
+        "description": "Dadeh Gostar Asr Novin P.J.S. Co.",
+        "handle": "DADEHGOSTAR-AS"
+    },
+    "56461": {
+        "country_code": "IR",
+        "asn": "56461",
+        "description": "Information Technology Organization of Isfahan Municipality",
+        "handle": "IR-FAVA-ISF"
+    },
+    "56466": {
+        "country_code": "IR",
+        "asn": "56466",
+        "description": "Pars Fonoun Ofogh Information Technology and Communications Company LTD",
+        "handle": "BAHAR-SAMANEH-SHARGH"
+    },
+    "56486": {
+        "country_code": "IR",
+        "asn": "56486",
+        "description": "Qom Municipality",
+        "handle": "QOM-MUNICIPALITY"
+    },
+    "56495": {
+        "country_code": "IR",
+        "asn": "56495",
+        "description": "MEHR AVA GOSTAR PARSIAN INFORMATION ENGINEERING CO. LTD",
+        "handle": "MEHRAVA-2"
+    },
+    "56503": {
+        "country_code": "IR",
+        "asn": "56503",
+        "description": "PJSC Badr Rayan Jonoob",
+        "handle": "BADR-AS"
+    },
+    "56547": {
+        "country_code": "IR",
+        "asn": "56547",
+        "description": "Tehran Municipality ICT Organization",
+        "handle": "TMUNICIPALITY-AS"
+    },
+    "56548": {
+        "country_code": "IR",
+        "asn": "56548",
+        "description": "Negin Ertebatate Ava Company PJS",
+        "handle": "NEGINTEL-AS"
+    },
+    "56616": {
+        "country_code": "IR",
+        "asn": "56616",
+        "description": "Tarahan Shabake Sharif LTD",
+        "handle": "SHARIF-AS"
+    },
+    "56632": {
+        "country_code": "IR",
+        "asn": "56632",
+        "description": "Aryan Satellite Co. (Private Joint Stock)",
+        "handle": "ARYANSATELLITE"
+    },
+    "56660": {
+        "country_code": "IR",
+        "asn": "56660",
+        "description": "Pishgaman Toseeh Ertebatat Company (Private Joint Stock)",
+        "handle": "POOYANPISHROLARESTAN"
+    },
+    "56703": {
+        "country_code": "IR",
+        "asn": "56703",
+        "description": "MEHR AVA GOSTAR PARSIAN INFORMATION ENGINEERING CO. LTD",
+        "handle": "MEHRAVA"
+    },
+    "56749": {
+        "country_code": "IR",
+        "asn": "56749",
+        "description": "Roshangaran Ertebatat Rayaneh PJSC",
+        "handle": "ROSHANGARANERTEBATATRAYANEH"
+    },
+    "56765": {
+        "country_code": "IR",
+        "asn": "56765",
+        "description": "Shahid Beheshti university",
+        "handle": "SBU-AS"
+    },
+    "56861": {
+        "country_code": "IR",
+        "asn": "56861",
+        "description": "Iranian Information Technology Company PLC",
+        "handle": "IRITCO"
+    },
+    "57027": {
+        "country_code": "IR",
+        "asn": "57027",
+        "description": "Aria Jahangiri Far",
+        "handle": "ARIA"
+    },
+    "57067": {
+        "country_code": "IR",
+        "asn": "57067",
+        "description": "KEYANA Information Technology Co. Ltd.",
+        "handle": "IRDC-AS"
+    },
+    "57218": {
+        "country_code": "IR",
+        "asn": "57218",
+        "description": "Rightel Communication Service Company PJS",
+        "handle": "RIGHTEL"
+    },
+    "57230": {
+        "country_code": "IR",
+        "asn": "57230",
+        "description": "Aria Web Development LLC",
+        "handle": "ARIAWEBCO-AS"
+    },
+    "57235": {
+        "country_code": "IR",
+        "asn": "57235",
+        "description": "Chapar Rasaneh LLC",
+        "handle": "CHAPARRASANEH"
+    },
+    "57241": {
+        "country_code": "IR",
+        "asn": "57241",
+        "description": "Maskan Bank",
+        "handle": "MASKANBANK"
+    },
+    "57292": {
+        "country_code": "IR",
+        "asn": "57292",
+        "description": "ICT Research Institute (Iran Telecommunications Research Center ITRC)",
+        "handle": "ITRC"
+    },
+    "57298": {
+        "country_code": "IR",
+        "asn": "57298",
+        "description": "Pouyasazan Fanavari-ye Ettela'at LLC",
+        "handle": "POUYASAZAN"
+    },
+    "57366": {
+        "country_code": "IR",
+        "asn": "57366",
+        "description": "Islamic Republic of Iran Post PJSC",
+        "handle": "IRPOST-ESFAHAN"
+    },
+    "57385": {
+        "country_code": "IR",
+        "asn": "57385",
+        "description": "Islamic Republic of Iran Post PJSC",
+        "handle": "IRPOST-GILAN"
+    },
+    "57386": {
+        "country_code": "IR",
+        "asn": "57386",
+        "description": "Islamic Republic of Iran Post PJSC",
+        "handle": "IRPOST-S-KHORASAN"
+    },
+    "57387": {
+        "country_code": "IR",
+        "asn": "57387",
+        "description": "Islamic Republic of Iran Post PJSC",
+        "handle": "IRPOST-MAZANDARAN"
+    },
+    "57391": {
+        "country_code": "IR",
+        "asn": "57391",
+        "description": "Laser Company Ltd",
+        "handle": "LASER-IDC"
+    },
+    "57405": {
+        "country_code": "IR",
+        "asn": "57405",
+        "description": "MIHAN COMMUNICATION SYSTEMS CO. LTD",
+        "handle": "MIHAN-NOC2"
+    },
+    "57457": {
+        "country_code": "IR",
+        "asn": "57457",
+        "description": "Asan Pardakht Persian Co. LTD",
+        "handle": "ASAN-AS"
+    },
+    "57461": {
+        "country_code": "IR",
+        "asn": "57461",
+        "description": "Poshtkar Rayaneh Kharg Company PJS",
+        "handle": "ERTEBATATDOORBORD"
+    },
+    "57474": {
+        "country_code": "IR",
+        "asn": "57474",
+        "description": "Nazhin Sepahan IT and data processing plc",
+        "handle": "NAZHIN"
+    },
+    "57497": {
+        "country_code": "IR",
+        "asn": "57497",
+        "description": "Faraso Samaneh Pasargad Ltd.",
+        "handle": "FARASOSAMANEHPASARGAD"
+    },
+    "57543": {
+        "country_code": "IR",
+        "asn": "57543",
+        "description": "Shabakieh Isfahan Co PJSC",
+        "handle": "SHABAKIEH"
+    },
+    "57563": {
+        "country_code": "IR",
+        "asn": "57563",
+        "description": "isfahan university of medical sciences & health services",
+        "handle": "MUI"
+    },
+    "57574": {
+        "country_code": "IR",
+        "asn": "57574",
+        "description": "Agriculture Bank PJSC",
+        "handle": "AGRIBANK-AS"
+    },
+    "57577": {
+        "country_code": "IR",
+        "asn": "57577",
+        "description": "Iran Power Generation transmission & Distribution Management Co.",
+        "handle": "TAVANIR"
+    },
+    "57625": {
+        "country_code": "IR",
+        "asn": "57625",
+        "description": "Pardazeshgaran Almas Pasargad Co. Pjs",
+        "handle": "EGRK"
+    },
+    "57687": {
+        "country_code": "IR",
+        "asn": "57687",
+        "description": "Abzarhaye Farsi Shabakeh Co. LTD.",
+        "handle": "PERSIANTOOLS"
+    },
+    "57745": {
+        "country_code": "IR",
+        "asn": "57745",
+        "description": "Tarbiat Modares University",
+        "handle": "TMU-ASN"
+    },
+    "57755": {
+        "country_code": "IR",
+        "asn": "57755",
+        "description": "Pishgaman Toseeh Ertebatat Company (Private Joint Stock)",
+        "handle": "NARIN"
+    },
+    "57816": {
+        "country_code": "IR",
+        "asn": "57816",
+        "description": "Samen Ertebat Asr Co. (P.J.S.)",
+        "handle": "SAMEN"
+    },
+    "57831": {
+        "country_code": "IR",
+        "asn": "57831",
+        "description": "Pishgaman Toseeh Ertebatat Company (Private Joint Stock)",
+        "handle": "MANISAFA"
+    },
+    "57880": {
+        "country_code": "IR",
+        "asn": "57880",
+        "description": "Bartar Andishan Avaye Bandar PJSC",
+        "handle": "IR-BARTAR"
+    },
+    "57986": {
+        "country_code": "IR",
+        "asn": "57986",
+        "description": "Sigma IT Infrastructures Development Co. (Ltd.)",
+        "handle": "SIGMA"
+    },
+    "58030": {
+        "country_code": "IR",
+        "asn": "58030",
+        "description": "Sorat Gostar Abr Datis LLC",
+        "handle": "SORATGOSTARABRDATISLTD"
+    },
+    "58053": {
+        "country_code": "IR",
+        "asn": "58053",
+        "description": "Tam Iran Khodro Company",
+        "handle": "TAMIKCO-AS"
+    },
+    "58080": {
+        "country_code": "IR",
+        "asn": "58080",
+        "description": "Honar Rayaneh Pooya Andisheh PJSC",
+        "handle": "HOOR"
+    },
+    "58081": {
+        "country_code": "IR",
+        "asn": "58081",
+        "description": "Baloot Communication Network Private Limited Company",
+        "handle": "BCN"
+    },
+    "58085": {
+        "country_code": "IR",
+        "asn": "58085",
+        "description": "Iran Telecommunication Company PJS",
+        "handle": "TCE-ASN"
+    },
+    "58104": {
+        "country_code": "IR",
+        "asn": "58104",
+        "description": "University of Isfahan",
+        "handle": "UI"
+    },
+    "58121": {
+        "country_code": "IR",
+        "asn": "58121",
+        "description": "Arya Pars Internet Gostar LLC",
+        "handle": "ARYAPARS"
+    },
+    "58125": {
+        "country_code": "IR",
+        "asn": "58125",
+        "description": "Trade Promotion Organization Of Iran",
+        "handle": "TPO-AS"
+    },
+    "58142": {
+        "country_code": "IR",
+        "asn": "58142",
+        "description": "Mizban Dade Pasargad LLC",
+        "handle": "RASANE-AS"
+    },
+    "58152": {
+        "country_code": "IR",
+        "asn": "58152",
+        "description": "Woshka Niknam",
+        "handle": "MAROONHOST"
+    },
+    "58161": {
+        "country_code": "IR",
+        "asn": "58161",
+        "description": "Islamic Republic of Iran Post PJSC",
+        "handle": "IRPOST-FARS"
+    },
+    "58167": {
+        "country_code": "IR",
+        "asn": "58167",
+        "description": "Productive Distributive Farzanegan Dadeh Pardaz Taha Cooperative Company",
+        "handle": "IR-TAHA"
+    },
+    "58168": {
+        "country_code": "IR",
+        "asn": "58168",
+        "description": "Islamic Republic of Iran Post PJSC",
+        "handle": "IRPOST-KHUZESTAN"
+    },
+    "58169": {
+        "country_code": "IR",
+        "asn": "58169",
+        "description": "Iran Grid Management Company (IGMC)",
+        "handle": "IGMC-AS"
+    },
+    "58192": {
+        "country_code": "IR",
+        "asn": "58192",
+        "description": "Atis Omran Sevin PSJ",
+        "handle": "DDOS-PROTECTION-GAJNET"
+    },
+    "58200": {
+        "country_code": "IR",
+        "asn": "58200",
+        "description": "Islamic Republic of Iran Post PJSC",
+        "handle": "IRPOST-ZANJAN"
+    },
+    "58201": {
+        "country_code": "IR",
+        "asn": "58201",
+        "description": "Islamic Republic of Iran Post PJSC",
+        "handle": "IRPOST-SEMNAN"
+    },
+    "58205": {
+        "country_code": "IR",
+        "asn": "58205",
+        "description": "Part Mehr Iranian High-tech and Telecommunication Cooperative",
+        "handle": "IR-PARTMEHR"
+    },
+    "58216": {
+        "country_code": "IR",
+        "asn": "58216",
+        "description": "Pishgaman Toseeh Ertebatat Company (Private Joint Stock)",
+        "handle": "POYAN-PISHRO-LARESTAN"
+    },
+    "58224": {
+        "country_code": "IR",
+        "asn": "58224",
+        "description": "Iran Telecommunication Company PJS",
+        "handle": "TCI"
+    },
+    "58248": {
+        "country_code": "IR",
+        "asn": "58248",
+        "description": "Islamic Republic of Iran Post PJSC",
+        "handle": "IRPOST-MARKAZI"
+    },
+    "58249": {
+        "country_code": "IR",
+        "asn": "58249",
+        "description": "Sky Dragon Company With Limited Liability",
+        "handle": "SKYDRAGONCOMPANYWITHLIMITEDLIABILITY"
+    },
+    "58256": {
+        "country_code": "IR",
+        "asn": "58256",
+        "description": "Rayaneh Gostar Farzanegan Ahwaz Company LTD.",
+        "handle": "REFATEC"
+    },
+    "58262": {
+        "country_code": "IR",
+        "asn": "58262",
+        "description": "Negah Roshan Pars Company (PJS)",
+        "handle": "NRP-NETWORK"
+    },
+    "58263": {
+        "country_code": "IR",
+        "asn": "58263",
+        "description": "Islamic Republic of Iran Post PJSC",
+        "handle": "IRPOST-LORESTAN"
+    },
+    "58303": {
+        "country_code": "IR",
+        "asn": "58303",
+        "description": "Rasana Pishtaz Iranian Service Cooperative Co.",
+        "handle": "IR-RASANAPISHTAZ"
+    },
+    "58331": {
+        "country_code": "IR",
+        "asn": "58331",
+        "description": "Rayaneh Asr-e Ertebat Bam Technology and Engineering Cooperative Co",
+        "handle": "AFRA-IR"
+    },
+    "58333": {
+        "country_code": "IR",
+        "asn": "58333",
+        "description": "Saman Insurance Co. (Public Joint Stock)",
+        "handle": "SAMANINSURANCE-AS"
+    },
+    "59431": {
+        "country_code": "IR",
+        "asn": "59431",
+        "description": "Ravand Tazeh Co .PJS.",
+        "handle": "RAV-NET-01"
+    },
+    "59441": {
+        "country_code": "IR",
+        "asn": "59441",
+        "description": "NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)",
+        "handle": "HOSTIRAN-NETWORK"
+    },
+    "59442": {
+        "country_code": "IR",
+        "asn": "59442",
+        "description": "GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)",
+        "handle": "SSJCO"
+    },
+    "59481": {
+        "country_code": "IR",
+        "asn": "59481",
+        "description": "Pishgaman Toseeh Ertebatat Company (Private Joint Stock)",
+        "handle": "ERFANNETFARSINTERNETANDSUPPORTSERVICESCOMPANY"
+    },
+    "59501": {
+        "country_code": "IR",
+        "asn": "59501",
+        "description": "Rahbord Houshmand Shahr PJSC",
+        "handle": "RAHBORDHOOSHMAND-SHAHR-AS"
+    },
+    "59506": {
+        "country_code": "IR",
+        "asn": "59506",
+        "description": "Shiraz University of Medical Science and Health Care Services",
+        "handle": "IR-SUMS"
+    },
+    "59553": {
+        "country_code": "IR",
+        "asn": "59553",
+        "description": "Jahrom Univesity Of Medical Sciences",
+        "handle": "JAHROMUNIVESITYOFMEDICALSCIENCES"
+    },
+    "59573": {
+        "country_code": "IR",
+        "asn": "59573",
+        "description": "Sari System Bandarabas Company LLC",
+        "handle": "SARISYSTEMBANDARABASCOMPANY"
+    },
+    "59587": {
+        "country_code": "IR",
+        "asn": "59587",
+        "description": "Iran Telecommunication Company PJS",
+        "handle": "IR-T-10"
+    },
+    "59623": {
+        "country_code": "IR",
+        "asn": "59623",
+        "description": "Zarin Amol Gozar Technology Development Co. Ltd",
+        "handle": "ZARIN-AMOL-GOZAR"
+    },
+    "59628": {
+        "country_code": "IR",
+        "asn": "59628",
+        "description": "Iran Telecommunication Company PJS",
+        "handle": "TCGOL"
+    },
+    "59635": {
+        "country_code": "IR",
+        "asn": "59635",
+        "description": "Dadeh Pardazan Mojtame Hormoz Company Ltd.",
+        "handle": "DADEHPARDAZANMOJTAMEHORMOZCOMPANY"
+    },
+    "59643": {
+        "country_code": "IR",
+        "asn": "59643",
+        "description": "Abr Afzar Sedna Ertebat Company (LTD.)",
+        "handle": "AS-SDNC"
+    },
+    "59654": {
+        "country_code": "IR",
+        "asn": "59654",
+        "description": "Fars Province Gas Company (PJS)",
+        "handle": "FPGC-AS"
+    },
+    "59691": {
+        "country_code": "IR",
+        "asn": "59691",
+        "description": "Pouya shabakeh Asr Co. (LTD.)",
+        "handle": "PCOMTELECOM"
+    },
+    "59703": {
+        "country_code": "IR",
+        "asn": "59703",
+        "description": "Parvaresh Dadeha Co. Private Joint Stock",
+        "handle": "IRTRANSIT1"
+    },
+    "59708": {
+        "country_code": "IR",
+        "asn": "59708",
+        "description": "Rayan Hamafza Company Public Joint Stock",
+        "handle": "RAYANHAMAFZA-AS"
+    },
+    "59754": {
+        "country_code": "IR",
+        "asn": "59754",
+        "description": "Bank of Industry and Mine PJSC",
+        "handle": "BIM"
+    },
+    "59757": {
+        "country_code": "IR",
+        "asn": "59757",
+        "description": "Sarmad Insurance PJSC",
+        "handle": "SARMADINS-AS"
+    },
+    "59794": {
+        "country_code": "IR",
+        "asn": "59794",
+        "description": "Amirkabir University of Technology",
+        "handle": "AKU-ASN"
+    },
+    "59797": {
+        "country_code": "IR",
+        "asn": "59797",
+        "description": "Industrial Projects Management Company (P.J.S) of Iran",
+        "handle": "IPMI-AS"
+    },
+    "59838": {
+        "country_code": "IR",
+        "asn": "59838",
+        "description": "Naghsh Awal Keyfiat PJSC",
+        "handle": "NAK-AS"
+    },
+    "59882": {
+        "country_code": "IR",
+        "asn": "59882",
+        "description": "Persia System Kashan Ltd",
+        "handle": "PERSIA-ASN"
+    },
+    "59884": {
+        "country_code": "IR",
+        "asn": "59884",
+        "description": "PERSIA TELECOM COMPANY",
+        "handle": "PTC-AS"
+    },
+    "59912": {
+        "country_code": "IR",
+        "asn": "59912",
+        "description": "University of Zanjan",
+        "handle": "ZNU-AS"
+    },
+    "59914": {
+        "country_code": "IR",
+        "asn": "59914",
+        "description": "Gerash Information Technology Co",
+        "handle": "GERASHINFORMATIONTECHNOLOGY"
+    },
+    "59961": {
+        "country_code": "IR",
+        "asn": "59961",
+        "description": "Road Maintenance & Transportation Organization",
+        "handle": "RMTO-AS"
+    },
+    "59962": {
+        "country_code": "IR",
+        "asn": "59962",
+        "description": "Shiraz University",
+        "handle": "SHIRAZUNIVERSITY-ASN"
+    },
+    "59968": {
+        "country_code": "IR",
+        "asn": "59968",
+        "description": "Avaye Resaye Iranian Co. Ltd",
+        "handle": "SEGAL"
+    },
+    "60014": {
+        "country_code": "IR",
+        "asn": "60014",
+        "description": "Abramad Technological Infrastructures Development Company PJS",
+        "handle": "SG-AS"
+    },
+    "60077": {
+        "country_code": "IR",
+        "asn": "60077",
+        "description": "Asre Dadeha Asiatech",
+        "handle": "AT-CLOUD"
+    },
+    "60138": {
+        "country_code": "IR",
+        "asn": "60138",
+        "description": "Naroon Intelligent Communications LTD.",
+        "handle": "NAROON"
+    },
+    "60148": {
+        "country_code": "IR",
+        "asn": "60148",
+        "description": "Iran Information Technology Company PJSC",
+        "handle": "ITO-AS"
+    },
+    "60178": {
+        "country_code": "IR",
+        "asn": "60178",
+        "description": "Mohammad Sheikhe Sajadie",
+        "handle": "IRANIANWEBMAN-NETWORK-TECHNOLOGY-LTD"
+    },
+    "60248": {
+        "country_code": "IR",
+        "asn": "60248",
+        "description": "Sefroyek Pardaz Engineering PJSC",
+        "handle": "MOBINONE"
+    },
+    "60249": {
+        "country_code": "IR",
+        "asn": "60249",
+        "description": "Islamic Republic of Iran Post PJSC",
+        "handle": "IRPOST-LASHGAR"
+    },
+    "60256": {
+        "country_code": "IR",
+        "asn": "60256",
+        "description": "E-Money Net Developers 24 Company Private Joint Stock",
+        "handle": "MEGANETWORK-ASN"
+    },
+    "60315": {
+        "country_code": "IR",
+        "asn": "60315",
+        "description": "Tehran Securities Exchange Technology Management Co. PLC",
+        "handle": "TSETMC"
+    },
+    "60340": {
+        "country_code": "IR",
+        "asn": "60340",
+        "description": "Iranian company of Saipa automobile manufacturing Public Joint Stock",
+        "handle": "SAIPA-AS"
+    },
+    "60374": {
+        "country_code": "IR",
+        "asn": "60374",
+        "description": "Aria Web Development LLC",
+        "handle": "JAHESH-SERVER"
+    },
+    "60394": {
+        "country_code": "IR",
+        "asn": "60394",
+        "description": "Saba Hour Yeganeh Co. ( Private Joint Stock)",
+        "handle": "CDN-MIZBANCLOUD"
+    },
+    "60407": {
+        "country_code": "IR",
+        "asn": "60407",
+        "description": "Tourism Bank (Public Joint Stock)",
+        "handle": "TOURISMBANK-AS"
+    },
+    "60423": {
+        "country_code": "IR",
+        "asn": "60423",
+        "description": "E-Money Net Developers 24 Company Private Joint Stock",
+        "handle": "DERAK-CLOUD-PJSC"
+    },
+    "60495": {
+        "country_code": "IR",
+        "asn": "60495",
+        "description": "Smart Land Solutions Co Ltd.",
+        "handle": "SLS-AS"
+    },
+    "60512": {
+        "country_code": "IR",
+        "asn": "60512",
+        "description": "Bours Kalay Iran PJSC",
+        "handle": "IME-AS"
+    },
+    "60516": {
+        "country_code": "IR",
+        "asn": "60516",
+        "description": "Bank Ghavamin (Public Joint Stock)",
+        "handle": "GHAVAMIN-AS"
+    },
+    "60562": {
+        "country_code": "IR",
+        "asn": "60562",
+        "description": "Ministry Of Health and Medical Education",
+        "handle": "FAS-AS"
+    },
+    "60577": {
+        "country_code": "IR",
+        "asn": "60577",
+        "description": "Behvar Engineering Design Co.",
+        "handle": "BEHVAR"
+    },
+    "60605": {
+        "country_code": "IR",
+        "asn": "60605",
+        "description": "Damavand Electronic Card Company (Private J.S)",
+        "handle": "ECDCO"
+    },
+    "60627": {
+        "country_code": "IR",
+        "asn": "60627",
+        "description": "Rayankadeh Apadana Company Ltd",
+        "handle": "RA-AS"
+    },
+    "60631": {
+        "country_code": "IR",
+        "asn": "60631",
+        "description": "Vandad Vira Hooman LLC",
+        "handle": "PARVASYSTEM"
+    },
+    "60637": {
+        "country_code": "IR",
+        "asn": "60637",
+        "description": "Fanava Group",
+        "handle": "FANAVACARD"
+    },
+    "60638": {
+        "country_code": "IR",
+        "asn": "60638",
+        "description": "Informatics Services PJSC",
+        "handle": "ISC-NET"
+    },
+    "60778": {
+        "country_code": "IR",
+        "asn": "60778",
+        "description": "Patron Technology Persia Ltd",
+        "handle": "PSM"
+    },
+    "60786": {
+        "country_code": "IR",
+        "asn": "60786",
+        "description": "Ava Mehr Informatics Company (Private Joint Stock)",
+        "handle": "AVAMEHR-ASN"
+    },
+    "60811": {
+        "country_code": "IR",
+        "asn": "60811",
+        "description": "Saipa Yadak Co. PLC",
+        "handle": "SAIPAYADAK-AS"
+    },
+    "60887": {
+        "country_code": "IR",
+        "asn": "60887",
+        "description": "International Systems Engineering & Automation Company PJS",
+        "handle": "IRISA-AS"
+    },
+    "60932": {
+        "country_code": "IR",
+        "asn": "60932",
+        "description": "DADE PARDAZAN AVAYE BANDAR COMPANY",
+        "handle": "DABCO"
+    },
+    "60976": {
+        "country_code": "IR",
+        "asn": "60976",
+        "description": "Parsan Lin Co. PJS",
+        "handle": "POL"
+    },
+    "61008": {
+        "country_code": "IR",
+        "asn": "61008",
+        "description": "MIHAN COMMUNICATION SYSTEMS CO. LTD",
+        "handle": "MIHAN-POP3"
+    },
+    "61036": {
+        "country_code": "IR",
+        "asn": "61036",
+        "description": "Fanava Group",
+        "handle": "FANAVADP-AS"
+    },
+    "61055": {
+        "country_code": "IR",
+        "asn": "61055",
+        "description": "Roshangar Rayaneh Tehran Co. Ltd.",
+        "handle": "IRANHOST-AS"
+    },
+    "61061": {
+        "country_code": "IR",
+        "asn": "61061",
+        "description": "Parsan Lin Co. PJS",
+        "handle": "PARS-ONLINE"
+    },
+    "61129": {
+        "country_code": "IR",
+        "asn": "61129",
+        "description": "Islamic Azad University",
+        "handle": "IAUN"
+    },
+    "61173": {
+        "country_code": "IR",
+        "asn": "61173",
+        "description": "Green Web Samaneh Novin PJSC",
+        "handle": "GWSN-AS"
+    },
+    "61176": {
+        "country_code": "IR",
+        "asn": "61176",
+        "description": "City Development and Innovation PJSC",
+        "handle": "CDI-AS"
+    },
+    "61209": {
+        "country_code": "IR",
+        "asn": "61209",
+        "description": "University of Sistan and Baluchestan",
+        "handle": "USB-AS"
+    },
+    "61239": {
+        "country_code": "IR",
+        "asn": "61239",
+        "description": "Naji Research & Development Company Private Join-Stock",
+        "handle": "NRDC-AS"
+    },
+    "61246": {
+        "country_code": "IR",
+        "asn": "61246",
+        "description": "IRAN METEOROLOGICAL ORGANIZATION",
+        "handle": "IRIMO-AS"
+    },
+    "61248": {
+        "country_code": "IR",
+        "asn": "61248",
+        "description": "Ferdowsi University of Mashhad",
+        "handle": "IR-FUM"
+    },
+    "61250": {
+        "country_code": "IR",
+        "asn": "61250",
+        "description": "Ayandeh Bank",
+        "handle": "AYANDEHBANK"
+    },
+    "61362": {
+        "country_code": "IR",
+        "asn": "61362",
+        "description": "Mashhad Municipality Information Technology and Communications Organization",
+        "handle": "MASHHAD-MUNICIPALITY-ITC"
+    },
+    "61386": {
+        "country_code": "IR",
+        "asn": "61386",
+        "description": "Ati Sazan Farhang Tasnim Intitute",
+        "handle": "TASNIM-AS"
+    },
+    "61391": {
+        "country_code": "IR",
+        "asn": "61391",
+        "description": "Simorgh Scientific Network Services and Communication Company PJS",
+        "handle": "IR-NERN"
+    },
+    "61962": {
+        "country_code": "IR",
+        "asn": "61962",
+        "description": "Sepahan Mapna Equipment Engineering and Manufacturing PJSC",
+        "handle": "IR-STSP"
+    },
+    "61974": {
+        "country_code": "IR",
+        "asn": "61974",
+        "description": "Lotus Net Company (Ltd.)",
+        "handle": "LOTUSNET"
+    },
+    "62039": {
+        "country_code": "IR",
+        "asn": "62039",
+        "description": "Iran Power Plant Projects Management (MAPNA) PJS",
+        "handle": "MAPNA-AS"
+    },
+    "62048": {
+        "country_code": "IR",
+        "asn": "62048",
+        "description": "Avini cultural and Art Institute",
+        "handle": "ACAI"
+    },
+    "62132": {
+        "country_code": "IR",
+        "asn": "62132",
+        "description": "MEHREGAN ERTEBATAT NOVIN ASIA CO.",
+        "handle": "MANA"
+    },
+    "62137": {
+        "country_code": "IR",
+        "asn": "62137",
+        "description": "Manzoomeh Negaran Co. (PJS)",
+        "handle": "MANZOOMEH"
+    },
+    "62140": {
+        "country_code": "IR",
+        "asn": "62140",
+        "description": "Rightel Communication Service Company PJS",
+        "handle": "RIGHTEL-DC"
+    },
+    "62157": {
+        "country_code": "IR",
+        "asn": "62157",
+        "description": "National Iranian Copper Industry Company PJS",
+        "handle": "NICI-AS"
+    },
+    "62173": {
+        "country_code": "IR",
+        "asn": "62173",
+        "description": "Sepehr Saye Ban Shokoufaei Company (ltd)",
+        "handle": "SEPEHR"
+    },
+    "62196": {
+        "country_code": "IR",
+        "asn": "62196",
+        "description": "Rayan Ravesh Sena Ltd",
+        "handle": "RAYANRAVESH"
+    },
+    "62198": {
+        "country_code": "IR",
+        "asn": "62198",
+        "description": "Melal Credit Company (Public Joint Stock)",
+        "handle": "ACFC-AS"
+    },
+    "62229": {
+        "country_code": "IR",
+        "asn": "62229",
+        "description": "Fars News Agency Cultural Arts Institute",
+        "handle": "FNA-CDN"
+    },
+    "62238": {
+        "country_code": "IR",
+        "asn": "62238",
+        "description": "Sina Financial & Investment Holding Co (PJS)",
+        "handle": "SINAICT"
+    },
+    "62250": {
+        "country_code": "IR",
+        "asn": "62250",
+        "description": "SINA ATINET Company (Ltd)",
+        "handle": "ATINET"
+    },
+    "62263": {
+        "country_code": "IR",
+        "asn": "62263",
+        "description": "Ertebat Gostaran Rangin Kaman Co. Ltd",
+        "handle": "HOOSHERTEBAT"
+    },
+    "62265": {
+        "country_code": "IR",
+        "asn": "62265",
+        "description": "Mahan Air PJSC",
+        "handle": "MAHAN-AIR-AS"
+    },
+    "62284": {
+        "country_code": "IR",
+        "asn": "62284",
+        "description": "ARIYA NET ABAZAR PJSC",
+        "handle": "ARIANET-ABAZAR"
+    },
+    "62318": {
+        "country_code": "IR",
+        "asn": "62318",
+        "description": "Bimeh Ma PJSC",
+        "handle": "BIMEH-MA-AS"
+    },
+    "62334": {
+        "country_code": "IR",
+        "asn": "62334",
+        "description": "Seyed Amir Tabatabaei Anaraki",
+        "handle": "IR-GULFCLOUD-V4-01"
+    },
+    "62367": {
+        "country_code": "IR",
+        "asn": "62367",
+        "description": "Pardakht Nowin Arian PJSC",
+        "handle": "PNA-AS"
+    },
+    "62375": {
+        "country_code": "IR",
+        "asn": "62375",
+        "description": "Raya Negar Radin Namdar Information and Technology Company (LTD)",
+        "handle": "RAYANEGAR"
+    },
+    "62401": {
+        "country_code": "IR",
+        "asn": "62401",
+        "description": "Ali Hajyani",
+        "handle": "ALI-HAJYANI"
+    },
+    "62442": {
+        "country_code": "IR",
+        "asn": "62442",
+        "description": "Dade Samane Fanava Company (PJS)",
+        "handle": "DADE-SAMANE-FANAVA"
+    },
+    "64399": {
+        "country_code": "IR",
+        "asn": "64399",
+        "description": "Farhang Azma Communications Company LTD",
+        "handle": "AZMA-IDC"
+    },
+    "64414": {
+        "country_code": "IR",
+        "asn": "64414",
+        "description": "Rasaneh Ayandeh Iranian Co PJS",
+        "handle": "IRASANEH"
+    },
+    "64422": {
+        "country_code": "IR",
+        "asn": "64422",
+        "description": "SIMA RAYAN SHARIF COMPANY (LTD.)",
+        "handle": "SIMRA-AS"
+    },
+    "64428": {
+        "country_code": "IR",
+        "asn": "64428",
+        "description": "Mizban Web Paytakht Co. Ltd.",
+        "handle": "MIZBANWEBPAYTAKHT-EHOST"
+    },
+    "64434": {
+        "country_code": "IR",
+        "asn": "64434",
+        "description": "Mizban Amvaj Sahel Sepehr Bushehr PJSC",
+        "handle": "IRANICASERVER"
+    },
+    "64458": {
+        "country_code": "IR",
+        "asn": "64458",
+        "description": "Mizban Dade Pasargad LLC",
+        "handle": "ONLINESERVER"
+    },
+    "64460": {
+        "country_code": "IR",
+        "asn": "64460",
+        "description": "Omid Computer Services Co. (PJS)",
+        "handle": "OCS-AS"
+    },
+    "197207": {
+        "country_code": "IR",
+        "asn": "197207",
+        "description": "Mobile Communication Company of Iran PLC",
+        "handle": "MCCI-AS"
+    },
+    "197343": {
+        "country_code": "IR",
+        "asn": "197343",
+        "description": "Toloe Rayaneh Loghman Educational and Cultural Co. LTD",
+        "handle": "TRLCO"
+    },
+    "197787": {
+        "country_code": "IR",
+        "asn": "197787",
+        "description": "Mehran Heidari",
+        "handle": "MEHRAN-HEIDARI"
+    },
+    "197937": {
+        "country_code": "IR",
+        "asn": "197937",
+        "description": "Mizban Dadeh Roham Co",
+        "handle": "HIDATA"
+    },
+    "197946": {
+        "country_code": "IR",
+        "asn": "197946",
+        "description": "Amnpardaz Soft Corporation",
+        "handle": "CLOUDGUARD"
+    },
+    "198154": {
+        "country_code": "IR",
+        "asn": "198154",
+        "description": "Pars Abr Toseeh Ertebatat LTD",
+        "handle": "PARSABR"
+    },
+    "198341": {
+        "country_code": "IR",
+        "asn": "198341",
+        "description": "Consumers Cooperative Company of Employees of Esfahan Zobahan Company",
+        "handle": "EZS"
+    },
+    "198357": {
+        "country_code": "IR",
+        "asn": "198357",
+        "description": "Padidar Technology PJSC",
+        "handle": "PADIDAR"
+    },
+    "198569": {
+        "country_code": "IR",
+        "asn": "198569",
+        "description": "Rahanet Zanjan Co. (Private Joint-Stock)",
+        "handle": "RAHANET-AS"
+    },
+    "198926": {
+        "country_code": "IR",
+        "asn": "198926",
+        "description": "Fazel Rezaei Kalantari",
+        "handle": "FAZEL"
+    },
+    "199082": {
+        "country_code": "IR",
+        "asn": "199082",
+        "description": "Razavi Information and communication technology company Plc",
+        "handle": "FAVARAZAVI-AS"
+    },
+    "199137": {
+        "country_code": "IR",
+        "asn": "199137",
+        "description": "Ali Norouzi",
+        "handle": "ANRZ"
+    },
+    "199495": {
+        "country_code": "IR",
+        "asn": "199495",
+        "description": "Mabna Tejarat Economic Development Group Company-Ltd",
+        "handle": "MABNATEJARAT"
+    },
+    "199633": {
+        "country_code": "IR",
+        "asn": "199633",
+        "description": "Faradast Energy Falat Co. (Private Joint-Stock)",
+        "handle": "FARADAST"
+    },
+    "199690": {
+        "country_code": "IR",
+        "asn": "199690",
+        "description": "PARDAZESH ABRI RISMAN LTD",
+        "handle": "ABRI"
+    },
+    "199849": {
+        "country_code": "IR",
+        "asn": "199849",
+        "description": "Gostaresh Etrtebatate Apadana Ltd.",
+        "handle": "APA-AS"
+    },
+    "199983": {
+        "country_code": "IR",
+        "asn": "199983",
+        "description": "Hoshmand shabake dez net",
+        "handle": "HOOSHMAND-SHABAKE-DEZ-NET-CO-LLC"
+    },
+    "200252": {
+        "country_code": "IR",
+        "asn": "200252",
+        "description": "Chakavak Pardazesh Hooshmand Alborz",
+        "handle": "CHAKAVAK"
+    },
+    "200296": {
+        "country_code": "IR",
+        "asn": "200296",
+        "description": "Dadeh Gostar Sina Shiraz PJSC",
+        "handle": "HOSTANDSERVERPROVIDER"
+    },
+    "200312": {
+        "country_code": "IR",
+        "asn": "200312",
+        "description": "Golrang System Co. P.J.S",
+        "handle": "GOLRANG-SYSTEM-CO"
+    },
+    "200324": {
+        "country_code": "IR",
+        "asn": "200324",
+        "description": "Mizban Abri Iman Iranian LLC",
+        "handle": "MIZBANABRI"
+    },
+    "200370": {
+        "country_code": "IR",
+        "asn": "200370",
+        "description": "Farzanegan Pars Communications Company PJS",
+        "handle": "FPCC-AS"
+    },
+    "200376": {
+        "country_code": "IR",
+        "asn": "200376",
+        "description": "Tehran Electric Energy Distribution",
+        "handle": "TVEDC"
+    },
+    "200406": {
+        "country_code": "IR",
+        "asn": "200406",
+        "description": "Javid Berbid Mamasani Information Technology Company PJS",
+        "handle": "BERBIDSERVER"
+    },
+    "200436": {
+        "country_code": "IR",
+        "asn": "200436",
+        "description": "Patron Technology Persia Ltd",
+        "handle": "TEHRANGAMING-COM"
+    },
+    "200530": {
+        "country_code": "IR",
+        "asn": "200530",
+        "description": "Razavi Hospital",
+        "handle": "RAZAVIHOSPITAL"
+    },
+    "200554": {
+        "country_code": "IR",
+        "asn": "200554",
+        "description": "Dade Pardaz Kimia Pouyesh PJS.",
+        "handle": "KIMIACLOUD-AS"
+    },
+    "200645": {
+        "country_code": "IR",
+        "asn": "200645",
+        "description": "Gilass Rayaneh Sirjan Co (PJS)",
+        "handle": "GILASSRAYANEH"
+    },
+    "200785": {
+        "country_code": "IR",
+        "asn": "200785",
+        "description": "Nano Systems Engineering Ltd.",
+        "handle": "NANO"
+    },
+    "200796": {
+        "country_code": "IR",
+        "asn": "200796",
+        "description": "Data Pardaz Afraz Private Joint Stock Company",
+        "handle": "DPA-AS"
+    },
+    "200816": {
+        "country_code": "IR",
+        "asn": "200816",
+        "description": "Pishgaman Kavir Asia Private Joint Stock",
+        "handle": "PKA"
+    },
+    "201015": {
+        "country_code": "IR",
+        "asn": "201015",
+        "description": "Pishgaman Toseeh Fanavari Etelaat Va Ertebatat Jonoub (Joint Stock Company)",
+        "handle": "ARYASASOL"
+    },
+    "201150": {
+        "country_code": "IR",
+        "asn": "201150",
+        "description": "Didehban Net Company PJS",
+        "handle": "DIDEHABNNET"
+    },
+    "201194": {
+        "country_code": "IR",
+        "asn": "201194",
+        "description": "Nahor Hadish Design and Architecture Co. Ltd",
+        "handle": "PRIVATE-NETWORK-IR"
+    },
+    "201227": {
+        "country_code": "IR",
+        "asn": "201227",
+        "description": "Mizban Dade Pasargad LLC",
+        "handle": "ONLINESERVER"
+    },
+    "201259": {
+        "country_code": "IR",
+        "asn": "201259",
+        "description": "Pardakht Electronic Pasargad (P.J.S)",
+        "handle": "PEP-ASN"
+    },
+    "201287": {
+        "country_code": "IR",
+        "asn": "201287",
+        "description": "Sepid Housh Abri Co. Ltd",
+        "handle": "SEPIDHOUSH"
+    },
+    "201295": {
+        "country_code": "IR",
+        "asn": "201295",
+        "description": "Shabakeh Ertebatat Artak Towseeh PJSC",
+        "handle": "VOLCAN"
+    },
+    "201309": {
+        "country_code": "IR",
+        "asn": "201309",
+        "description": "Morteza Imani Bidgoli",
+        "handle": "MORTEZA-IMANI"
+    },
+    "201442": {
+        "country_code": "IR",
+        "asn": "201442",
+        "description": "IR IRAN Civil Aviation Authority",
+        "handle": "IRCAO"
+    },
+    "201452": {
+        "country_code": "IR",
+        "asn": "201452",
+        "description": "Ramtin Ecommerce Development LTD",
+        "handle": "MACRONET-CO"
+    },
+    "201540": {
+        "country_code": "IR",
+        "asn": "201540",
+        "description": "Pishgaman Toseeh Fanavari Etelaat Va Ertebatat Jonoub (Joint Stock Company)",
+        "handle": "PJCO"
+    },
+    "201634": {
+        "country_code": "IR",
+        "asn": "201634",
+        "description": "Mizban Dade Shetaban Co. (Ltd)",
+        "handle": "SHETABAN"
+    },
+    "201689": {
+        "country_code": "IR",
+        "asn": "201689",
+        "description": "Lamerd Information & Communication Technology Co. ltd",
+        "handle": "ARIASEPEHR1"
+    },
+    "201691": {
+        "country_code": "IR",
+        "asn": "201691",
+        "description": "Fannavari Etelaate Samane Kavoshgar Ide Ltd.",
+        "handle": "WEIDE"
+    },
+    "201703": {
+        "country_code": "IR",
+        "asn": "201703",
+        "description": "Andisheh Sabz Mahan Co. Ltd",
+        "handle": "MAHANSERVER"
+    },
+    "201810": {
+        "country_code": "IR",
+        "asn": "201810",
+        "description": "AmirHosein Karimi",
+        "handle": "ARTANET"
+    },
+    "201871": {
+        "country_code": "IR",
+        "asn": "201871",
+        "description": "Tehran Internet Co.",
+        "handle": "TIC-AS"
+    },
+    "201999": {
+        "country_code": "IR",
+        "asn": "201999",
+        "description": "Fanavari Serverpars Argham Gostar Company Ltd.",
+        "handle": "SERVERPARS"
+    },
+    "202029": {
+        "country_code": "IR",
+        "asn": "202029",
+        "description": "Taknet Afzar Aftab PJSC",
+        "handle": "VIRAK"
+    },
+    "202251": {
+        "country_code": "IR",
+        "asn": "202251",
+        "description": "Padiz-Daderesan-Company",
+        "handle": "PADIZ-DADERESAN-COMPANY"
+    },
+    "202319": {
+        "country_code": "IR",
+        "asn": "202319",
+        "description": "Hezardastan Unit Cloud Computing PJSC",
+        "handle": "SOTOON-CDN"
+    },
+    "202368": {
+        "country_code": "IR",
+        "asn": "202368",
+        "description": "Hezardastan Unit Cloud Computing PJSC",
+        "handle": "AGAH"
+    },
+    "202391": {
+        "country_code": "IR",
+        "asn": "202391",
+        "description": "Cooperative Afra ertebatat-e-sabet-e Rasa Co",
+        "handle": "AFRARASA-AS-1"
+    },
+    "202468": {
+        "country_code": "IR",
+        "asn": "202468",
+        "description": "Noyan Abr Arvan Co. ( Private Joint Stock)",
+        "handle": "ABRARVAN-AS"
+    },
+    "202571": {
+        "country_code": "IR",
+        "asn": "202571",
+        "description": "Kharazmi University",
+        "handle": "KHARAZMI-AS"
+    },
+    "202601": {
+        "country_code": "IR",
+        "asn": "202601",
+        "description": "Pardis Etelaresan Sepehr Employee's Cooperative Co.",
+        "handle": "PARDIS-EC"
+    },
+    "202684": {
+        "country_code": "IR",
+        "asn": "202684",
+        "description": "Paya Communication Industries (PJSC)",
+        "handle": "PAYA-ASN"
+    },
+    "202697": {
+        "country_code": "IR",
+        "asn": "202697",
+        "description": "Homaye Jahan Nama Co. ( Private Joint Stock)",
+        "handle": "QOM-MUNICIPALITY-ICT-ORGANIZATION"
+    },
+    "202735": {
+        "country_code": "IR",
+        "asn": "202735",
+        "description": "Communication Regulatory Authority",
+        "handle": "CRA"
+    },
+    "202788": {
+        "country_code": "IR",
+        "asn": "202788",
+        "description": "Khuzestan Water and Power Authority Co. PJS",
+        "handle": "KWPA"
+    },
+    "202798": {
+        "country_code": "IR",
+        "asn": "202798",
+        "description": "Andisheh Yavaran Tamadon Emrooz LLC",
+        "handle": "EITAA-MESSENGER"
+    },
+    "202807": {
+        "country_code": "IR",
+        "asn": "202807",
+        "description": "Navid Bakzadegan Tabrizi",
+        "handle": "AS42337"
+    },
+    "203000": {
+        "country_code": "IR",
+        "asn": "203000",
+        "description": "Asiatech Data Transmission company",
+        "handle": "AMIN-ASIA"
+    },
+    "203010": {
+        "country_code": "IR",
+        "asn": "203010",
+        "description": "Rasaneh Mehr Vatan Co. PJS",
+        "handle": "MEHRFCP-1"
+    },
+    "203014": {
+        "country_code": "IR",
+        "asn": "203014",
+        "description": "IRAN CHAMBER OF COMMERCE INDUSTRIES MINES and AGRICULTURE",
+        "handle": "IRANCHAMBER"
+    },
+    "203024": {
+        "country_code": "IR",
+        "asn": "203024",
+        "description": "Shakiba Teb Medical Technology LLC",
+        "handle": "GAMELAB"
+    },
+    "203026": {
+        "country_code": "IR",
+        "asn": "203026",
+        "description": "Ports And Martime Organization",
+        "handle": "PORTS"
+    },
+    "203100": {
+        "country_code": "IR",
+        "asn": "203100",
+        "description": "Iman Samaneh Sepehr LLC",
+        "handle": "IMANSAMANEH"
+    },
+    "203102": {
+        "country_code": "IR",
+        "asn": "203102",
+        "description": "Kerman University of Medical Sciences",
+        "handle": "KMU"
+    },
+    "203162": {
+        "country_code": "IR",
+        "asn": "203162",
+        "description": "Charisma Financial Information Processing PJSC",
+        "handle": "CHARISMA"
+    },
+    "203229": {
+        "country_code": "IR",
+        "asn": "203229",
+        "description": "Nahayat Negar Brokerage Co LTD",
+        "handle": "NAHAYATNEGAR"
+    },
+    "203247": {
+        "country_code": "IR",
+        "asn": "203247",
+        "description": "Islamic Azad University",
+        "handle": "AUOS"
+    },
+    "203392": {
+        "country_code": "IR",
+        "asn": "203392",
+        "description": "Ayandeh Gostar Bastak Co. (Private Joint Stock)",
+        "handle": "AYANDEHGOSTAR"
+    },
+    "203433": {
+        "country_code": "IR",
+        "asn": "203433",
+        "description": "Ariya SamaneSaz FahimNegar Pars Co. Ltd",
+        "handle": "ARIYASAMANESAZ"
+    },
+    "203558": {
+        "country_code": "IR",
+        "asn": "203558",
+        "description": "Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS",
+        "handle": "FANAP-DC-AS"
+    },
+    "203616": {
+        "country_code": "IR",
+        "asn": "203616",
+        "description": "Paya Kian Parham Co. (PJS)",
+        "handle": "PAYAKIANPARHAM"
+    },
+    "203638": {
+        "country_code": "IR",
+        "asn": "203638",
+        "description": "Noavaran Ertebatat Douran Company (PJS)",
+        "handle": "NEDC"
+    },
+    "203684": {
+        "country_code": "IR",
+        "asn": "203684",
+        "description": "Imen Sanat Novin Alighapoo Private Joint Stock Company",
+        "handle": "IMEN-SANAT"
+    },
+    "203694": {
+        "country_code": "IR",
+        "asn": "203694",
+        "description": "Beh Pardakht Melat Co PJS",
+        "handle": "OYUNCEVHERI"
+    },
+    "203798": {
+        "country_code": "IR",
+        "asn": "203798",
+        "description": "Mashhad University of Medical Sciences",
+        "handle": "MUMS"
+    },
+    "203895": {
+        "country_code": "IR",
+        "asn": "203895",
+        "description": "Pardazeshgaran Etelat Zaban Layeha Co Ltd",
+        "handle": "PUZZLENET"
+    },
+    "203900": {
+        "country_code": "IR",
+        "asn": "203900",
+        "description": "Fara Ertebat Mabna PJS",
+        "handle": "FARAERTEBATMABNA"
+    },
+    "203916": {
+        "country_code": "IR",
+        "asn": "203916",
+        "description": "Hamed Manavi Haghighi",
+        "handle": "AVINA-GROUP"
+    },
+    "203951": {
+        "country_code": "IR",
+        "asn": "203951",
+        "description": "Toseh Samanehay-e Narmafzari-e Negin (Tosan) PJSC",
+        "handle": "TOSAN"
+    },
+    "204001": {
+        "country_code": "IR",
+        "asn": "204001",
+        "description": "Yazd University",
+        "handle": "YAZDUNI"
+    },
+    "204079": {
+        "country_code": "IR",
+        "asn": "204079",
+        "description": "Rahpoyan Pardazesh Gostar SAHRA (P.J.S)",
+        "handle": "SAHRA"
+    },
+    "204104": {
+        "country_code": "IR",
+        "asn": "204104",
+        "description": "Giti Secure Cloud LLC",
+        "handle": "GSC"
+    },
+    "204105": {
+        "country_code": "IR",
+        "asn": "204105",
+        "description": "Paya Bastar Arina Co. Private J.S.",
+        "handle": "PAYABASTAR-AS"
+    },
+    "204203": {
+        "country_code": "IR",
+        "asn": "204203",
+        "description": "Atrin Information & Communications Technology Company PJS",
+        "handle": "SEPEHR-SABZ-DC-TEH"
+    },
+    "204213": {
+        "country_code": "IR",
+        "asn": "204213",
+        "description": "Netmihan Communication Company Ltd",
+        "handle": "NETMIHAN"
+    },
+    "204270": {
+        "country_code": "IR",
+        "asn": "204270",
+        "description": "Pouria Jahangirifar",
+        "handle": "POORIA"
+    },
+    "204377": {
+        "country_code": "IR",
+        "asn": "204377",
+        "description": "Ertebatdehi Ilam Technical & Services Company PJS",
+        "handle": "DAYAN-SHABAKEH"
+    },
+    "204393": {
+        "country_code": "IR",
+        "asn": "204393",
+        "description": "Fara Net Gostar Kavoshgaran Aftab",
+        "handle": "FARANET-KAVOSHGARAN-AFTAB"
+    },
+    "204402": {
+        "country_code": "IR",
+        "asn": "204402",
+        "description": "Saeed Boroumandfar",
+        "handle": "COMPANY"
+    },
+    "204499": {
+        "country_code": "IR",
+        "asn": "204499",
+        "description": "Ertebatdehi Ilam Technical & Services Company PJS",
+        "handle": "ERTEBATDEHI-ILAM"
+    },
+    "204533": {
+        "country_code": "IR",
+        "asn": "204533",
+        "description": "Hezardastan Unit Cloud Computing PJSC",
+        "handle": "SOTOON-CLOUD-INFRASTRUCTURE-DC2"
+    },
+    "204544": {
+        "country_code": "IR",
+        "asn": "204544",
+        "description": "Dade Pardazi Mobinhost Co LTD",
+        "handle": "MOBINHOST"
+    },
+    "204650": {
+        "country_code": "IR",
+        "asn": "204650",
+        "description": "Toloe Rayaneh Loghman Educational and Cultural Co. LTD",
+        "handle": "ERTEBATATESABETEAVAARVAND"
+    },
+    "204686": {
+        "country_code": "IR",
+        "asn": "204686",
+        "description": "mobarakeh steel company",
+        "handle": "MSC"
+    },
+    "204687": {
+        "country_code": "IR",
+        "asn": "204687",
+        "description": "Saman Air Services (Private joint stock)",
+        "handle": "SAMAN-AS"
+    },
+    "204721": {
+        "country_code": "IR",
+        "asn": "204721",
+        "description": "Milad Mohammadi",
+        "handle": "MILAD"
+    },
+    "204781": {
+        "country_code": "IR",
+        "asn": "204781",
+        "description": "BOURS KALAYE IRAN PJSC (Iran Mercantile Exchange)",
+        "handle": "IME-ASN1"
+    },
+    "204787": {
+        "country_code": "IR",
+        "asn": "204787",
+        "description": "FANAVARAN NOVIN BONYAN PASARGAD Co. (psj)",
+        "handle": "NOVINBONYAN"
+    },
+    "204812": {
+        "country_code": "IR",
+        "asn": "204812",
+        "description": "Pars Tamin Navid Company (Private Joint-Stock)",
+        "handle": "PARSTAMIN-AS"
+    },
+    "204813": {
+        "country_code": "IR",
+        "asn": "204813",
+        "description": "Shahrekord University",
+        "handle": "SHAHREKORD-UNIVERSITY"
+    },
+    "204834": {
+        "country_code": "IR",
+        "asn": "204834",
+        "description": "Shabakieh Isfahan Co PJSC",
+        "handle": "SHABAKIEH-ESFAHAN"
+    },
+    "204865": {
+        "country_code": "IR",
+        "asn": "204865",
+        "description": "Shabakieh Isfahan Co PJSC",
+        "handle": "SHABAKIEH-AYRIK"
+    },
+    "204904": {
+        "country_code": "IR",
+        "asn": "204904",
+        "description": "University Of Art",
+        "handle": "ART-UNIVERSITY"
+    },
+    "204955": {
+        "country_code": "IR",
+        "asn": "204955",
+        "description": "Vista Samaneh ASA Company (PJS)",
+        "handle": "VISTASAMANEHASA"
+    },
+    "204981": {
+        "country_code": "IR",
+        "asn": "204981",
+        "description": "Padisar Informatics PJSC",
+        "handle": "PADISAR-AS"
+    },
+    "204999": {
+        "country_code": "IR",
+        "asn": "204999",
+        "description": "Rooyekhat Media Company Ltd",
+        "handle": "ROOYEKHAT"
+    },
+    "205061": {
+        "country_code": "IR",
+        "asn": "205061",
+        "description": "Cooperative Afra ertebatat-e-sabet-e Rasa Co",
+        "handle": "ZAMANI-ASN"
+    },
+    "205118": {
+        "country_code": "IR",
+        "asn": "205118",
+        "description": "BOURS KALAYE IRAN PJSC (Iran Mercantile Exchange)",
+        "handle": "IME-ASN4"
+    },
+    "205134": {
+        "country_code": "IR",
+        "asn": "205134",
+        "description": "Dorsa Expert System PJS",
+        "handle": "DORSACLOUD"
+    },
+    "205176": {
+        "country_code": "IR",
+        "asn": "205176",
+        "description": "Arya Hamrah Samaneh PJS",
+        "handle": "ARYAHAMRAH"
+    },
+    "205207": {
+        "country_code": "IR",
+        "asn": "205207",
+        "description": "Padiz Dadeh Resan PJSC",
+        "handle": "ABRENIK-CLOUD"
+    },
+    "205217": {
+        "country_code": "IR",
+        "asn": "205217",
+        "description": "Dadeh Pardaz Pouya-e Sharif LLC",
+        "handle": "DATAPARDAZ"
+    },
+    "205229": {
+        "country_code": "IR",
+        "asn": "205229",
+        "description": "Rahnamoun Rayaneh Ertebatat Company (Ltd.)",
+        "handle": "WIRELESS-CLIENT"
+    },
+    "205256": {
+        "country_code": "IR",
+        "asn": "205256",
+        "description": "Farmad Salamat Paras co. LLC",
+        "handle": "FARMAD"
+    },
+    "205415": {
+        "country_code": "IR",
+        "asn": "205415",
+        "description": "Hossein Ashraf Semnani",
+        "handle": "HOSSEINASHRAFSEMNANI"
+    },
+    "205490": {
+        "country_code": "IR",
+        "asn": "205490",
+        "description": "Railways of Islamic Republic of IRAN",
+        "handle": "RAI"
+    },
+    "205521": {
+        "country_code": "IR",
+        "asn": "205521",
+        "description": "Rahyab Payam Gostaran Co. P.J.S",
+        "handle": "RAHYAB"
+    },
+    "205536": {
+        "country_code": "IR",
+        "asn": "205536",
+        "description": "Tejarat Electronic Nojhan Pardazesh LLC",
+        "handle": "TENP"
+    },
+    "205550": {
+        "country_code": "IR",
+        "asn": "205550",
+        "description": "Tejarat Iranian Technology infrastructure PJSC",
+        "handle": "TCEC-AS"
+    },
+    "205560": {
+        "country_code": "IR",
+        "asn": "205560",
+        "description": "Agah Brokerage Company (P.J.S)",
+        "handle": "AGAH-GROUP"
+    },
+    "205585": {
+        "country_code": "IR",
+        "asn": "205585",
+        "description": "Noyan Abr Arvan Co. ( Private Joint Stock)",
+        "handle": "ARVANCLOUD-CDN-IR"
+    },
+    "205588": {
+        "country_code": "IR",
+        "asn": "205588",
+        "description": "The Islamic Propagation Office of Qom Seminary",
+        "handle": "DAFTARE-TABLIGHATE-ESLAMI"
+    },
+    "205622": {
+        "country_code": "IR",
+        "asn": "205622",
+        "description": "Iran Health Insurance Organization",
+        "handle": "IHIO"
+    },
+    "205643": {
+        "country_code": "IR",
+        "asn": "205643",
+        "description": "Central Insurance of Iran and Insurance Operations JSC",
+        "handle": "CENTINSUR"
+    },
+    "205647": {
+        "country_code": "IR",
+        "asn": "205647",
+        "description": "PARDIS FANVARI PARTAK LTD",
+        "handle": "AFAGH"
+    },
+    "205833": {
+        "country_code": "IR",
+        "asn": "205833",
+        "description": "Al-mustafa International University",
+        "handle": "IR-AL-MUSTAFA"
+    },
+    "205837": {
+        "country_code": "IR",
+        "asn": "205837",
+        "description": "Sadad Electronic Payment Company P.J.S.",
+        "handle": "SADADPSP-AS"
+    },
+    "205857": {
+        "country_code": "IR",
+        "asn": "205857",
+        "description": "IRIB (Islamic Republic of Iran Broadcasting)",
+        "handle": "RASANEH-MELLI"
+    },
+    "205883": {
+        "country_code": "IR",
+        "asn": "205883",
+        "description": "Mapna Operation & Maintenace Company PJS",
+        "handle": "IR-MAPNAOM"
+    },
+    "205894": {
+        "country_code": "IR",
+        "asn": "205894",
+        "description": "Export Development Bank of Iran - Public Joint Stock",
+        "handle": "EDBI-AS"
+    },
+    "205899": {
+        "country_code": "IR",
+        "asn": "205899",
+        "description": "Khadamat Ertebati Pishkhan Arvin Chenaran Co.LLC",
+        "handle": "PAPILIOHOST"
+    },
+    "205965": {
+        "country_code": "IR",
+        "asn": "205965",
+        "description": "Mojtaba Sohrabi",
+        "handle": "MOJTABA"
+    },
+    "206065": {
+        "country_code": "IR",
+        "asn": "206065",
+        "description": "Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS",
+        "handle": "FDI"
+    },
+    "206217": {
+        "country_code": "IR",
+        "asn": "206217",
+        "description": "Pars Car International Communication Age PJSC",
+        "handle": "ICASAT"
+    },
+    "206325": {
+        "country_code": "IR",
+        "asn": "206325",
+        "description": "Shabakieh Isfahan Co PJSC",
+        "handle": "FANAVARIETKA"
+    },
+    "206345": {
+        "country_code": "IR",
+        "asn": "206345",
+        "description": "Ayandeh Afzayeh Karaneh Co PJS",
+        "handle": "AAK-AS"
+    },
+    "206367": {
+        "country_code": "IR",
+        "asn": "206367",
+        "description": "ERTEBATAT SHABAKEH RISMAN Ltd",
+        "handle": "RISMAN"
+    },
+    "206388": {
+        "country_code": "IR",
+        "asn": "206388",
+        "description": "Gostaresh Ertebat Azin Kia Company PJSC",
+        "handle": "ERTEBATATAZINKIA"
+    },
+    "206443": {
+        "country_code": "IR",
+        "asn": "206443",
+        "description": "Sasan SalehZadeh",
+        "handle": "ORBITSERVER"
+    },
+    "206495": {
+        "country_code": "IR",
+        "asn": "206495",
+        "description": "Gostaresh Ertebat Azin Kia Company PJSC",
+        "handle": "IR-RESANEHPARDAZ"
+    },
+    "206507": {
+        "country_code": "IR",
+        "asn": "206507",
+        "description": "Noavaran System Sarv Co.Ltd",
+        "handle": "NOAVARAN"
+    },
+    "206596": {
+        "country_code": "IR",
+        "asn": "206596",
+        "description": "Computer Research Center of Islamic Sciences",
+        "handle": "NOOR-IDC"
+    },
+    "206635": {
+        "country_code": "IR",
+        "asn": "206635",
+        "description": "Homaye Jahan Nama Co. ( Private Joint Stock)",
+        "handle": "EBTEKARANDISHAN"
+    },
+    "206647": {
+        "country_code": "IR",
+        "asn": "206647",
+        "description": "Arsan Technology Development Co Ltd",
+        "handle": "IRANVM"
+    },
+    "206692": {
+        "country_code": "IR",
+        "asn": "206692",
+        "description": "Information and Communication Technology Organization of Tabriz Municipality",
+        "handle": "FAVA-TABRIZ-MUNICIPALITY"
+    },
+    "206840": {
+        "country_code": "IR",
+        "asn": "206840",
+        "description": "Favapayam Pars Co. Ltd",
+        "handle": "FAVAPAYAM"
+    },
+    "206854": {
+        "country_code": "IR",
+        "asn": "206854",
+        "description": "Lesun communication furtherance engineers Co (Ltd.)",
+        "handle": "SUNNET"
+    },
+    "206862": {
+        "country_code": "IR",
+        "asn": "206862",
+        "description": "Fereidoon Hedayatinia",
+        "handle": "MMR"
+    },
+    "206929": {
+        "country_code": "IR",
+        "asn": "206929",
+        "description": "Gostaresh Energy Pasargad Company (PJS)",
+        "handle": "PEDC"
+    },
+    "206931": {
+        "country_code": "IR",
+        "asn": "206931",
+        "description": "Dana Insurance PJSC",
+        "handle": "DICL"
+    },
+    "207125": {
+        "country_code": "IR",
+        "asn": "207125",
+        "description": "Dadeh Gostar Parmis PJS Company",
+        "handle": "DGPCO"
+    },
+    "207141": {
+        "country_code": "IR",
+        "asn": "207141",
+        "description": "Ertebat Gostare Nakhl Jonoob Company PJSC",
+        "handle": "NAKHLJONOOB"
+    },
+    "207350": {
+        "country_code": "IR",
+        "asn": "207350",
+        "description": "Arshia Asadi",
+        "handle": "FARATECHNOLOGY"
+    },
+    "207381": {
+        "country_code": "IR",
+        "asn": "207381",
+        "description": "Cooperative Afra ertebatat-e-sabet-e Rasa Co",
+        "handle": "AFRARASA-AS-2"
+    },
+    "207409": {
+        "country_code": "IR",
+        "asn": "207409",
+        "description": "Simorq Tejarat Integrated Systems PJSC",
+        "handle": "STTS"
+    },
+    "207655": {
+        "country_code": "IR",
+        "asn": "207655",
+        "description": "Day Telecom Company (ltd.)",
+        "handle": "DTCS"
+    },
+    "207680": {
+        "country_code": "IR",
+        "asn": "207680",
+        "description": "Pars Databan Co",
+        "handle": "PDC1"
+    },
+    "207724": {
+        "country_code": "IR",
+        "asn": "207724",
+        "description": "Web Dadeh Paydar Co (Ltd)",
+        "handle": "WEBDADE"
+    },
+    "207796": {
+        "country_code": "IR",
+        "asn": "207796",
+        "description": "Sourena Pardazesh Arya Software co. LLC",
+        "handle": "SOURENA"
+    },
+    "207817": {
+        "country_code": "IR",
+        "asn": "207817",
+        "description": "Saman Kish Electronic Payment Company",
+        "handle": "IR-SEP"
+    },
+    "207897": {
+        "country_code": "IR",
+        "asn": "207897",
+        "description": "Gostaresh Ertebat Azin Kia Company PJSC",
+        "handle": "IMENSANA"
+    },
+    "207920": {
+        "country_code": "IR",
+        "asn": "207920",
+        "description": "Fereidoon Hedayatinia",
+        "handle": "FEREIDOON-HEDAYATINIA"
+    },
+    "208005": {
+        "country_code": "IR",
+        "asn": "208005",
+        "description": "Gostaresh Ertebat Azin Kia Company PJSC",
+        "handle": "RAIMUN-SYSTEM"
+    },
+    "208048": {
+        "country_code": "IR",
+        "asn": "208048",
+        "description": "Tejarat Pardaz Mahan Novin Co. Ltd",
+        "handle": "MAHANNOVIN"
+    },
+    "208072": {
+        "country_code": "IR",
+        "asn": "208072",
+        "description": "Eligasht Air Travel & Tourist Services Company Limited",
+        "handle": "ELIGASHT"
+    },
+    "208124": {
+        "country_code": "IR",
+        "asn": "208124",
+        "description": "Negin Narmafzar Asak Research and Information Cooperative Company",
+        "handle": "IR-NEGINNET"
+    },
+    "208161": {
+        "country_code": "IR",
+        "asn": "208161",
+        "description": "Pars Shabakeh Azarakhsh LLC",
+        "handle": "PARSVDS"
+    },
+    "208173": {
+        "country_code": "IR",
+        "asn": "208173",
+        "description": "Maya Rayaneh Ravagh PJSC",
+        "handle": "MAYA"
+    },
+    "208231": {
+        "country_code": "IR",
+        "asn": "208231",
+        "description": "Pardis-e BeinolmelalNetwork Support Company (P.J.S)",
+        "handle": "SETARE-AVAL"
+    },
+    "208246": {
+        "country_code": "IR",
+        "asn": "208246",
+        "description": "Iran Fara Bourse Co. (Public Joint Stock)",
+        "handle": "IFB-AS"
+    },
+    "208254": {
+        "country_code": "IR",
+        "asn": "208254",
+        "description": "Tehran Didgah Company Ltd",
+        "handle": "DIDGAH"
+    },
+    "208264": {
+        "country_code": "IR",
+        "asn": "208264",
+        "description": "HAMED SHIRVANI BAGHERI",
+        "handle": "FIRESERVER"
+    },
+    "208268": {
+        "country_code": "IR",
+        "asn": "208268",
+        "description": "Parvaz System Information Technology Company (Ltd)",
+        "handle": "PARVAZSYS"
+    },
+    "208412": {
+        "country_code": "IR",
+        "asn": "208412",
+        "description": "Social Security Organization",
+        "handle": "TAMIN-EJTEMAEE"
+    },
+    "208492": {
+        "country_code": "IR",
+        "asn": "208492",
+        "description": "Ayandeh Afzayeh Karaneh Co PJS",
+        "handle": "KARANEH"
+    },
+    "208493": {
+        "country_code": "IR",
+        "asn": "208493",
+        "description": "Pasargad Bank PJSC",
+        "handle": "PASARGADBANK"
+    },
+    "208519": {
+        "country_code": "IR",
+        "asn": "208519",
+        "description": "Sazman Sanjesh",
+        "handle": "SAZMAN-SANJESH"
+    },
+    "208555": {
+        "country_code": "IR",
+        "asn": "208555",
+        "description": "Dade Pardazi Mobinhost Co LTD",
+        "handle": "MOBINHOST"
+    },
+    "208560": {
+        "country_code": "IR",
+        "asn": "208560",
+        "description": "SEPEHR NET IRANIAN PJSC",
+        "handle": "SEPEHRNET"
+    },
+    "208593": {
+        "country_code": "IR",
+        "asn": "208593",
+        "description": "Tosee Fan Afzar Tosan PJSC",
+        "handle": "TOSAN-TECHNO"
+    },
+    "208651": {
+        "country_code": "IR",
+        "asn": "208651",
+        "description": "Shahr Bank PJSC",
+        "handle": "SHAHR-AS"
+    },
+    "208675": {
+        "country_code": "IR",
+        "asn": "208675",
+        "description": "Hamrah Pardaz Zarin PJS",
+        "handle": "ZARINPAL"
+    },
+    "208703": {
+        "country_code": "IR",
+        "asn": "208703",
+        "description": "Central Securities Depository and Funds Settlement Public JSC",
+        "handle": "CSDI"
+    },
+    "208742": {
+        "country_code": "IR",
+        "asn": "208742",
+        "description": "Navaco information technology company (P.J.S.)",
+        "handle": "NAVACO"
+    },
+    "208828": {
+        "country_code": "IR",
+        "asn": "208828",
+        "description": "Pishgaman Toseeh Ertebatat Company (Private Joint Stock)",
+        "handle": "PISHGAMAN-FCP"
+    },
+    "208896": {
+        "country_code": "IR",
+        "asn": "208896",
+        "description": "Asr-e Danesh Afzar Company (Private J.S.)",
+        "handle": "IR-ADA-AS"
+    },
+    "208940": {
+        "country_code": "IR",
+        "asn": "208940",
+        "description": "Ashraf Rahimi Khorasgani",
+        "handle": "RAHKARPARDAZ"
+    },
+    "209079": {
+        "country_code": "IR",
+        "asn": "209079",
+        "description": "Imam Khomeini Airport city company",
+        "handle": "IKAC"
+    },
+    "209227": {
+        "country_code": "IR",
+        "asn": "209227",
+        "description": "Green Web Samaneh Novin PJSC",
+        "handle": "TAMIN"
+    },
+    "209279": {
+        "country_code": "IR",
+        "asn": "209279",
+        "description": "Padideh Sazan Poshtvar Co. PJS",
+        "handle": "POSHTVAR-AS"
+    },
+    "209459": {
+        "country_code": "IR",
+        "asn": "209459",
+        "description": "Noyan Abr Arvan Co. ( Private Joint Stock)",
+        "handle": "ABR-ARVAN-AS"
+    },
+    "209462": {
+        "country_code": "IR",
+        "asn": "209462",
+        "description": "South Hormozgan Steel PJSC",
+        "handle": "HOSCO-AS"
+    },
+    "209544": {
+        "country_code": "IR",
+        "asn": "209544",
+        "description": "Kargozari Mobin Sarmaye PJSC",
+        "handle": "POUYA-ANDISHAN-RASAM-RAYAN"
+    },
+    "209596": {
+        "country_code": "IR",
+        "asn": "209596",
+        "description": "Kish Cell Pars Co. (PJS)",
+        "handle": "SAMANTEL"
+    },
+    "209638": {
+        "country_code": "IR",
+        "asn": "209638",
+        "description": "Parsian Technology Innovative Solution Co. PJS.",
+        "handle": "PTCO"
+    },
+    "209782": {
+        "country_code": "IR",
+        "asn": "209782",
+        "description": "Dade Pardazi Mobinhost Company Ltd",
+        "handle": "DPMOBINIDC"
+    },
+    "209783": {
+        "country_code": "IR",
+        "asn": "209783",
+        "description": "Avaye Segal Net Co. PJS",
+        "handle": "SEGALNET"
+    },
+    "209814": {
+        "country_code": "IR",
+        "asn": "209814",
+        "description": "Faragostar Shargh Communication Company PJS",
+        "handle": "AFTAB"
+    },
+    "209836": {
+        "country_code": "IR",
+        "asn": "209836",
+        "description": "Toesegaran Shabakeh Arseh Novin Ltd",
+        "handle": "NHCO"
+    },
+    "209849": {
+        "country_code": "IR",
+        "asn": "209849",
+        "description": "Isfahan University of Technology",
+        "handle": "IUT-AS"
+    },
+    "209941": {
+        "country_code": "IR",
+        "asn": "209941",
+        "description": "Saman Smart Financial Solutions JSC",
+        "handle": "MOBILET"
+    },
+    "210064": {
+        "country_code": "IR",
+        "asn": "210064",
+        "description": "Dimit Network Technology Company LLC",
+        "handle": "DIMIT-NETWORK-TECHNOLOGY"
+    },
+    "210288": {
+        "country_code": "IR",
+        "asn": "210288",
+        "description": "Aranik Communications Technology PJSC",
+        "handle": "ARANIK"
+    },
+    "210392": {
+        "country_code": "IR",
+        "asn": "210392",
+        "description": "Azarakhsh Ava-e Ahvaz Co",
+        "handle": "ARIAOXIN-AS"
+    },
+    "210405": {
+        "country_code": "IR",
+        "asn": "210405",
+        "description": "Vira Cloud DataCenter PJSC",
+        "handle": "VIDC"
+    },
+    "210427": {
+        "country_code": "IR",
+        "asn": "210427",
+        "description": "Vandad Vira Hooman LLC",
+        "handle": "VANDAD"
+    },
+    "210460": {
+        "country_code": "IR",
+        "asn": "210460",
+        "description": "Fatemeh Nekouei",
+        "handle": "AS212615"
+    },
+    "210470": {
+        "country_code": "IR",
+        "asn": "210470",
+        "description": "Sarmayeh Bank Public Joint Stock",
+        "handle": "SBPJ"
+    },
+    "210474": {
+        "country_code": "IR",
+        "asn": "210474",
+        "description": "Parsway Shomal Company Ltd",
+        "handle": "SPAD-ABR-PARDAZESH"
+    },
+    "210487": {
+        "country_code": "IR",
+        "asn": "210487",
+        "description": "Atrin Information & Communications Technology Company PJS",
+        "handle": "ATRIN-NET"
+    },
+    "210503": {
+        "country_code": "IR",
+        "asn": "210503",
+        "description": "Mohammadhasan Jafarzadeh",
+        "handle": "MHJAFARZADEH"
+    },
+    "210547": {
+        "country_code": "IR",
+        "asn": "210547",
+        "description": "Karno Tejarat Yasin Company PJS",
+        "handle": "PARHAN"
+    },
+    "210548": {
+        "country_code": "IR",
+        "asn": "210548",
+        "description": "Iran Information Technology Company PJSC",
+        "handle": "ITC-NEW-AS"
+    },
+    "210571": {
+        "country_code": "IR",
+        "asn": "210571",
+        "description": "Razavi Information and communication technology company Plc",
+        "handle": "EPF-AS"
+    },
+    "210575": {
+        "country_code": "IR",
+        "asn": "210575",
+        "description": "sayan Card Co",
+        "handle": "AS-FREEZ"
+    },
+    "210583": {
+        "country_code": "IR",
+        "asn": "210583",
+        "description": "Khatam Academic Institute",
+        "handle": "KHATAMUNI-AS"
+    },
+    "210603": {
+        "country_code": "IR",
+        "asn": "210603",
+        "description": "omid entrepreneurship fund plc",
+        "handle": "OMID-ENTREPRENEURSHIP-FUND"
+    },
+    "210609": {
+        "country_code": "IR",
+        "asn": "210609",
+        "description": "Toloe Rayaneh Loghman Educational and Cultural Co. LTD",
+        "handle": "SAYANCARD"
+    },
+    "210621": {
+        "country_code": "IR",
+        "asn": "210621",
+        "description": "Novin Hamrah Communication Technology Delevopment PJS Co.",
+        "handle": "FANAPMOBILE-AS"
+    },
+    "210642": {
+        "country_code": "IR",
+        "asn": "210642",
+        "description": "Parvaz System Information Technology Company (Ltd)",
+        "handle": "TIAM"
+    },
+    "210650": {
+        "country_code": "IR",
+        "asn": "210650",
+        "description": "Sarmayeh & Danesh Brokerage Co.",
+        "handle": "SARMAYEHDANESH"
+    },
+    "210695": {
+        "country_code": "IR",
+        "asn": "210695",
+        "description": "Beh Pardakht Melat Co PJS",
+        "handle": "BPM"
+    },
+    "210705": {
+        "country_code": "IR",
+        "asn": "210705",
+        "description": "Ali Monfared",
+        "handle": "RAPIDOSERVER"
+    },
+    "210707": {
+        "country_code": "IR",
+        "asn": "210707",
+        "description": "Dadeh Pardazesh Boroumand Kerman co. LLC",
+        "handle": "COMPANY"
+    },
+    "210818": {
+        "country_code": "IR",
+        "asn": "210818",
+        "description": "Ayandeh Gostar Bastak Co. (Private Joint Stock)",
+        "handle": "WI4I"
+    },
+    "210820": {
+        "country_code": "IR",
+        "asn": "210820",
+        "description": "Enteghal Dadeh Araz Shomal Company PJSC",
+        "handle": "PENTASERVER"
+    },
+    "210867": {
+        "country_code": "IR",
+        "asn": "210867",
+        "description": "Middle East Mines and Mineral Industries Development Holding PLC",
+        "handle": "MIDHCO-AS"
+    },
+    "210877": {
+        "country_code": "IR",
+        "asn": "210877",
+        "description": "Towse'e Saman Information Technology Co. PJS",
+        "handle": "IR-TOWSESAMANIT-20201123"
+    },
+    "210999": {
+        "country_code": "IR",
+        "asn": "210999",
+        "description": "Tose'eh Karafarini va Technologyhaye Hoshmand NeginAsia Co PJS",
+        "handle": "NEGIN-AS"
+    },
+    "211021": {
+        "country_code": "IR",
+        "asn": "211021",
+        "description": "Bazi Gostaran Derick",
+        "handle": "DERICK"
+    },
+    "211056": {
+        "country_code": "IR",
+        "asn": "211056",
+        "description": "Amir Hosein Maaref",
+        "handle": "KHALIJSERVER"
+    },
+    "211081": {
+        "country_code": "IR",
+        "asn": "211081",
+        "description": "Tehran Stock Exchange Company (Public Joint Stock)",
+        "handle": "TSE"
+    },
+    "211162": {
+        "country_code": "IR",
+        "asn": "211162",
+        "description": "Modiriat Saderat Ozhan Mashregh Pars Company PJS",
+        "handle": "OMPFINEX"
+    },
+    "211228": {
+        "country_code": "IR",
+        "asn": "211228",
+        "description": "Ertebat Gostar Amin Koosha Co.Ltd.",
+        "handle": "AMINKOOSHA-ISP"
+    },
+    "211325": {
+        "country_code": "IR",
+        "asn": "211325",
+        "description": "Abramad Technological Infrastructures Development Company PJS",
+        "handle": "ABRAMAD"
+    },
+    "211408": {
+        "country_code": "IR",
+        "asn": "211408",
+        "description": "Fanavaran Nicsepehr Zenderood Ltd.",
+        "handle": "HOSTBARAN"
+    },
+    "211419": {
+        "country_code": "IR",
+        "asn": "211419",
+        "description": "Behsazan Mellat Company PJS",
+        "handle": "BEHSAZAN-MELLAT"
+    },
+    "211421": {
+        "country_code": "IR",
+        "asn": "211421",
+        "description": "Asiatech Data Transmission company",
+        "handle": "MOBINONE"
+    },
+    "211491": {
+        "country_code": "IR",
+        "asn": "211491",
+        "description": "Shahid Chamran University of Ahvaz",
+        "handle": "SCU"
+    },
+    "211505": {
+        "country_code": "IR",
+        "asn": "211505",
+        "description": "Pars Parva System LLC",
+        "handle": "PARSPACK"
+    },
+    "211583": {
+        "country_code": "IR",
+        "asn": "211583",
+        "description": "Tose Abzar Bazar Sarmayeh PJSC",
+        "handle": "BAZARSARMAYEH"
+    },
+    "211592": {
+        "country_code": "IR",
+        "asn": "211592",
+        "description": "Kian Iranian Smart Technologies Development Group (PJS)",
+        "handle": "KIAN"
+    },
+    "211627": {
+        "country_code": "IR",
+        "asn": "211627",
+        "description": "Negin Narmafzar Asak Research and Information Cooperative Company",
+        "handle": "NEGIN-1-1"
+    },
+    "211634": {
+        "country_code": "IR",
+        "asn": "211634",
+        "description": "Parin Pardaz Payam LLC",
+        "handle": "PARINSERVER"
+    },
+    "211670": {
+        "country_code": "IR",
+        "asn": "211670",
+        "description": "Fasa University",
+        "handle": "FASA-AS"
+    },
+    "211703": {
+        "country_code": "IR",
+        "asn": "211703",
+        "description": "Fanavaran Asak Mahan Asia Ltd.",
+        "handle": "FAMASERVER"
+    },
+    "211705": {
+        "country_code": "IR",
+        "asn": "211705",
+        "description": "Iranian Electronic Counter Anzali Free Zone(Private Joint Stock Company)",
+        "handle": "IEC-AS"
+    },
+    "211828": {
+        "country_code": "IR",
+        "asn": "211828",
+        "description": "Ertebatate Arian Tel Co.",
+        "handle": "ARIANTEL"
+    },
+    "211881": {
+        "country_code": "IR",
+        "asn": "211881",
+        "description": "Tahlil Dadeh Novin Fadak LLC",
+        "handle": "FADAKDATA"
+    },
+    "211903": {
+        "country_code": "IR",
+        "asn": "211903",
+        "description": "Tose'e Vistaye Mohadelat Nadin Company",
+        "handle": "TOMANPAY"
+    },
+    "211904": {
+        "country_code": "IR",
+        "asn": "211904",
+        "description": "Asre Pardazeshe Ettelaate Amin Institute",
+        "handle": "CLOUDINOW-SERVICE-CLOUD"
+    },
+    "211990": {
+        "country_code": "IR",
+        "asn": "211990",
+        "description": "Soroush Rasanheh Company Ltd",
+        "handle": "SINET"
+    },
+    "212004": {
+        "country_code": "IR",
+        "asn": "212004",
+        "description": "Fanavaran Ideh Pardaz Imenaria",
+        "handle": "IDEPARDAZIMENARIA"
+    },
+    "212036": {
+        "country_code": "IR",
+        "asn": "212036",
+        "description": "Parsway Shomal Company Ltd",
+        "handle": "PARSWAY-SHOMAL"
+    },
+    "212040": {
+        "country_code": "IR",
+        "asn": "212040",
+        "description": "FanAvaran Imen Aria Co. LLc",
+        "handle": "AS211545"
+    },
+    "212056": {
+        "country_code": "IR",
+        "asn": "212056",
+        "description": "Toseeh Shabake Rasta LLC",
+        "handle": "RASTACLOUD"
+    },
+    "212063": {
+        "country_code": "IR",
+        "asn": "212063",
+        "description": "RAHKAR PARDAZESH KHAVARMIANEH PJSC",
+        "handle": "RAHKAR-PARDAZESH-KHAVARMIANEH"
+    },
+    "212067": {
+        "country_code": "IR",
+        "asn": "212067",
+        "description": "Fekr Pardaz Shomal PLC",
+        "handle": "FEKRPARDAZ"
+    },
+    "212076": {
+        "country_code": "IR",
+        "asn": "212076",
+        "description": "Dadeh Rayanesh Abri Pardis Private Joint Stock Company",
+        "handle": "PARDISCO"
+    },
+    "212077": {
+        "country_code": "IR",
+        "asn": "212077",
+        "description": "Web Gostaran Shaina Shiraz LLC",
+        "handle": "ABRISHAM"
+    },
+    "212080": {
+        "country_code": "IR",
+        "asn": "212080",
+        "description": "Karafarini va FANAVARIHAYEH Novin Negin Pars Co PJS",
+        "handle": "NEGIN-AS"
+    },
+    "212161": {
+        "country_code": "IR",
+        "asn": "212161",
+        "description": "Ofogh Koroush Chain Store Public Joint Stock",
+        "handle": "OFOGH-KOROUSH"
+    },
+    "212188": {
+        "country_code": "IR",
+        "asn": "212188",
+        "description": "Sina Gostar MehrDasht Service Company",
+        "handle": "SINAGOSTAR"
+    },
+    "212216": {
+        "country_code": "IR",
+        "asn": "212216",
+        "description": "Netafraz Iranian Ltd.",
+        "handle": "NETAFRAZ"
+    },
+    "212227": {
+        "country_code": "IR",
+        "asn": "212227",
+        "description": "Ahvaz Jundishapur University of Medical Sciences",
+        "handle": "JUNDISHAPUR"
+    },
+    "212248": {
+        "country_code": "IR",
+        "asn": "212248",
+        "description": "Abolfazl-Shirdel",
+        "handle": "AB"
+    },
+    "212296": {
+        "country_code": "IR",
+        "asn": "212296",
+        "description": "Dade Pardazan Fahim Shahin Shahr (Ltd)",
+        "handle": "MIZBANFA"
+    },
+    "212328": {
+        "country_code": "IR",
+        "asn": "212328",
+        "description": "ALMA FAN AVARAN DEHKADE JAHANI Company Ltd",
+        "handle": "ALMAHOST"
+    },
+    "212355": {
+        "country_code": "IR",
+        "asn": "212355",
+        "description": "Emdadkhodro Iran",
+        "handle": "EMDADKHODRO-IRAN-AS"
+    },
+    "212476": {
+        "country_code": "IR",
+        "asn": "212476",
+        "description": "Barmak Khotvaneh",
+        "handle": "SEPEHRPAYMENT-AS"
+    },
+    "212544": {
+        "country_code": "IR",
+        "asn": "212544",
+        "description": "Darvag Cloud Infrastructure Innovators Co.PJS",
+        "handle": "DARVAG"
+    },
+    "212607": {
+        "country_code": "IR",
+        "asn": "212607",
+        "description": "Saeid Shahrokhi",
+        "handle": "POTENTING-AS"
+    },
+    "212615": {
+        "country_code": "IR",
+        "asn": "212615",
+        "description": "Reza Salehi",
+        "handle": "ASRHOSTING"
+    },
+    "212631": {
+        "country_code": "IR",
+        "asn": "212631",
+        "description": "Ava Katan Qeshm Co PJSC",
+        "handle": "AVAKATAN"
+    },
+    "212679": {
+        "country_code": "IR",
+        "asn": "212679",
+        "description": "Negin Narmafzar Asak Research and Information Cooperative Company",
+        "handle": "NEGIN-1-1"
+    },
+    "212697": {
+        "country_code": "IR",
+        "asn": "212697",
+        "description": "Pouya Andishan Rasam Rayan Company",
+        "handle": "POUYAN-ANDISHAN"
+    },
+    "212847": {
+        "country_code": "IR",
+        "asn": "212847",
+        "description": "Sepanta Server Iranian Company (Ltd.)",
+        "handle": "SEPANTA-SERVER"
+    },
+    "212907": {
+        "country_code": "IR",
+        "asn": "212907",
+        "description": "Hamkaran System Co. PJS",
+        "handle": "SYSTEMGROUP"
+    },
+    "212939": {
+        "country_code": "IR",
+        "asn": "212939",
+        "description": "Lamerd Information & Communication Technology Co. ltd",
+        "handle": "ARIASEPEHR2"
+    },
+    "212978": {
+        "country_code": "IR",
+        "asn": "212978",
+        "description": "Rayanmehr Danesh Sanj Company Ltd",
+        "handle": "RAYANMEHR-AS"
+    },
+    "213017": {
+        "country_code": "IR",
+        "asn": "213017",
+        "description": "Khalij Fars Ettela Resan LTD",
+        "handle": "KHALIJONLINE"
+    },
+    "213069": {
+        "country_code": "IR",
+        "asn": "213069",
+        "description": "Maya Pardazesh Iranian LLC",
+        "handle": "MAYAHOST-LLC"
+    },
+    "213222": {
+        "country_code": "IR",
+        "asn": "213222",
+        "description": "Tida Data Processing Ltd",
+        "handle": "TIDA"
+    },
+    "213406": {
+        "country_code": "IR",
+        "asn": "213406",
+        "description": "Arka Ertebat Amir Kabir LLC",
+        "handle": "ARKACELL"
+    },
+    "213470": {
+        "country_code": "IR",
+        "asn": "213470",
+        "description": "Pishgaman Systemhaye Novin Narmafzari Ofogh Co. Ltd.",
+        "handle": "ASPISHGAM"
+    },
+    "213486": {
+        "country_code": "IR",
+        "asn": "213486",
+        "description": "Arash Shahbazi",
+        "handle": "ARASH-NETWORK"
+    },
+    "213531": {
+        "country_code": "IR",
+        "asn": "213531",
+        "description": "Shabakeh Dadehaye Houshmand Iranian LLC",
+        "handle": "IRANIANS"
+    },
+    "213551": {
+        "country_code": "IR",
+        "asn": "213551",
+        "description": "Noavaran Fanavari Abri Simorgh Ltd",
+        "handle": "PHONIXCLOUD724"
+    },
+    "213575": {
+        "country_code": "IR",
+        "asn": "213575",
+        "description": "Maavaraaye Abaade Raika PJSC",
+        "handle": "RAIKA"
+    },
+    "213644": {
+        "country_code": "IR",
+        "asn": "213644",
+        "description": "Iranian Server Processing Limited Liability Company",
+        "handle": "ISPLC"
+    },
+    "213645": {
+        "country_code": "IR",
+        "asn": "213645",
+        "description": "Spad Abr Pardazesh Gilan PJSC",
+        "handle": "SPAD-ABR-PARDAZESH"
+    },
+    "213665": {
+        "country_code": "IR",
+        "asn": "213665",
+        "description": "PARMIN CLOUD COMPUTING LLC",
+        "handle": "PARMINCLOUD-AMIN-IAAS"
+    },
+    "213682": {
+        "country_code": "IR",
+        "asn": "213682",
+        "description": "Charisma Financial Information Processing PJSC",
+        "handle": "CHARISMA"
+    },
+    "213727": {
+        "country_code": "IR",
+        "asn": "213727",
+        "description": "Varesh Cloud Hosting Limited Liability Company",
+        "handle": "VARESH-ASN"
+    },
+    "213732": {
+        "country_code": "IR",
+        "asn": "213732",
+        "description": "Peyman Ertebatat Pouya Company (Ltd)",
+        "handle": "PEP-AS"
+    },
+    "213745": {
+        "country_code": "IR",
+        "asn": "213745",
+        "description": "VASLANDISH-AN SEPID PJSC",
+        "handle": "VASLANDISH"
+    },
+    "213759": {
+        "country_code": "IR",
+        "asn": "213759",
+        "description": "Tose'eh Lian Yas Ertebat PJSC",
+        "handle": "TELIA"
+    },
+    "213775": {
+        "country_code": "IR",
+        "asn": "213775",
+        "description": "Shabake Tarh Madar Iranian Private Joint Stock Company",
+        "handle": "IRANIAN-NETWORK"
+    },
+    "213807": {
+        "country_code": "IR",
+        "asn": "213807",
+        "description": "Fanavaran Mehr Vatan Tehran Server Group LLC",
+        "handle": "TEHRANSERVER"
+    },
+    "213852": {
+        "country_code": "IR",
+        "asn": "213852",
+        "description": "Tose'e Shabakeh Azad Ltd",
+        "handle": "LIARA"
+    },
+    "213872": {
+        "country_code": "IR",
+        "asn": "213872",
+        "description": "Tosee Taavon Bank PJSC",
+        "handle": "TOSEETAAVONBANK"
+    },
+    "213895": {
+        "country_code": "IR",
+        "asn": "213895",
+        "description": "Ayande sazan pardazesh amn ltd.",
+        "handle": "ASPA"
+    },
+    "213916": {
+        "country_code": "IR",
+        "asn": "213916",
+        "description": "Post Bank of Iran (Public Joint Stock)",
+        "handle": "POSTBANK"
+    },
+    "213944": {
+        "country_code": "IR",
+        "asn": "213944",
+        "description": "Mahdi Tasa",
+        "handle": "TASA"
+    },
+    "213953": {
+        "country_code": "IR",
+        "asn": "213953",
+        "description": "Mizban Dadeh Pardis .Ltd",
+        "handle": "MIZBANDADEHPARDIS"
+    },
+    "213960": {
+        "country_code": "IR",
+        "asn": "213960",
+        "description": "Ali Asadi",
+        "handle": "E1SERVER"
+    },
+    "213969": {
+        "country_code": "IR",
+        "asn": "213969",
+        "description": "Rayanesh Pardis Saman PJSC",
+        "handle": "SAMANTECH"
+    },
+    "214003": {
+        "country_code": "IR",
+        "asn": "214003",
+        "description": "Iranian Research Organization for Science & Technology",
+        "handle": "STI-AS"
+    },
+    "214039": {
+        "country_code": "IR",
+        "asn": "214039",
+        "description": "Majid Soltanifard Razlighi",
+        "handle": "IR-VE-AS"
+    },
+    "214042": {
+        "country_code": "IR",
+        "asn": "214042",
+        "description": "Rahkarhaye Shabake Novin Pendar Asia LTD",
+        "handle": "NOVIN"
+    },
+    "214078": {
+        "country_code": "IR",
+        "asn": "214078",
+        "description": "AMIR MOHAMMAD ZARIFI",
+        "handle": "PINGBAZ"
+    },
+    "214088": {
+        "country_code": "IR",
+        "asn": "214088",
+        "description": "Hessam Isaei trading as Mahallat Network",
+        "handle": "MAHALLAT-NETWORK"
+    },
+    "214090": {
+        "country_code": "IR",
+        "asn": "214090",
+        "description": "Milad Ghorbani Chahardeh",
+        "handle": "MILADGH"
+    },
+    "214105": {
+        "country_code": "IR",
+        "asn": "214105",
+        "description": "Fannavari Etelaate Samane Kavoshgar Ide Ltd.",
+        "handle": "WEBRAMZ"
+    },
+    "214142": {
+        "country_code": "IR",
+        "asn": "214142",
+        "description": "Sepehr Sabz International Middle East Engineering Company PJS",
+        "handle": "SEPEHR-SABZ-DC-MAIN"
+    },
+    "214145": {
+        "country_code": "IR",
+        "asn": "214145",
+        "description": "Seyed Pouria Mousavizadeh Tehrani",
+        "handle": "SPMZT"
+    },
+    "214151": {
+        "country_code": "IR",
+        "asn": "214151",
+        "description": "Amin Asia Cloud Data PJSC",
+        "handle": "AMINCLOUD"
+    },
+    "214171": {
+        "country_code": "IR",
+        "asn": "214171",
+        "description": "Foojan Cloud Computing Co. PJS",
+        "handle": "FOOJAN"
+    },
+    "214184": {
+        "country_code": "IR",
+        "asn": "214184",
+        "description": "Seyed M. Ehsan MirGhafori",
+        "handle": "EHSAN-MIRGHAFORI"
+    },
+    "214192": {
+        "country_code": "IR",
+        "asn": "214192",
+        "description": "Milad Ahadpour",
+        "handle": "ESPYRCLOUDNETWORKS"
+    },
+    "214225": {
+        "country_code": "IR",
+        "asn": "214225",
+        "description": "Sabz Pardazesh System Ghadir Co. (P.J.S.)",
+        "handle": "SABZSYSTEM-ASN"
+    },
+    "214263": {
+        "country_code": "IR",
+        "asn": "214263",
+        "description": "Rayan Bours PJSC",
+        "handle": "RAYANBOURSE"
+    },
+    "214270": {
+        "country_code": "IR",
+        "asn": "214270",
+        "description": "Amn Electronic Kashef Management Co. PJSC",
+        "handle": "KASHEF"
+    },
+    "214276": {
+        "country_code": "IR",
+        "asn": "214276",
+        "description": "Enteghal Dade Arya Sarv Co (Ltd.)",
+        "handle": "ERAMCLOUD"
+    },
+    "214277": {
+        "country_code": "IR",
+        "asn": "214277",
+        "description": "Mofid Brokerage PJSC",
+        "handle": "EMOFID"
+    },
+    "214357": {
+        "country_code": "IR",
+        "asn": "214357",
+        "description": "Abdolmajid Mashayekhi",
+        "handle": "FIRST-HOST"
+    },
+    "214361": {
+        "country_code": "IR",
+        "asn": "214361",
+        "description": "Mizban Dadeh Pardazi Pasargad Ltd",
+        "handle": "MIZBAN-DADEPARDAZ-PASARGAD"
+    },
+    "214384": {
+        "country_code": "IR",
+        "asn": "214384",
+        "description": "Shayan Menamen",
+        "handle": "WARZHOST"
+    },
+    "214399": {
+        "country_code": "IR",
+        "asn": "214399",
+        "description": "Parsian Technology Innovative Solution Co. PJS.",
+        "handle": "PTCO"
+    },
+    "214419": {
+        "country_code": "IR",
+        "asn": "214419",
+        "description": "Damash Software Computer Services LTD",
+        "handle": "DAMASH-AS"
+    },
+    "214431": {
+        "country_code": "IR",
+        "asn": "214431",
+        "description": "Mizban Gostar Dade Alvand Ltd",
+        "handle": "MAHANCLOUD"
+    },
+    "214475": {
+        "country_code": "IR",
+        "asn": "214475",
+        "description": "Iran Tax Affairs Organisation",
+        "handle": "INTA"
+    },
+    "214515": {
+        "country_code": "IR",
+        "asn": "214515",
+        "description": "Amir Mohammad Masoudi",
+        "handle": "DIGITALVPS"
+    },
+    "214526": {
+        "country_code": "IR",
+        "asn": "214526",
+        "description": "Tose Ertebatat Avid Mehregan Co.pjsc",
+        "handle": "AVIDMEHREGAN"
+    },
+    "214567": {
+        "country_code": "IR",
+        "asn": "214567",
+        "description": "Mizbani Hooshmand Mehr Afarin PJSC",
+        "handle": "BIA2HOST"
+    },
+    "214570": {
+        "country_code": "IR",
+        "asn": "214570",
+        "description": "Pishgam Rayan Dadeh Pajooh PJSC",
+        "handle": "PISHGAMRAYAN"
+    },
+    "214586": {
+        "country_code": "IR",
+        "asn": "214586",
+        "description": "Arvin Cloud Computing PJSC",
+        "handle": "ARVIN-SERVER"
+    },
+    "214680": {
+        "country_code": "IR",
+        "asn": "214680",
+        "description": "Bu-Ali Sina University",
+        "handle": "BASU"
+    },
+    "214735": {
+        "country_code": "IR",
+        "asn": "214735",
+        "description": "Pishro Fannavaran-e Hooshmand Ravesh JSC",
+        "handle": "HAMRAVESH"
+    },
+    "214737": {
+        "country_code": "IR",
+        "asn": "214737",
+        "description": "Iranian Offshore Oil Company",
+        "handle": "IOOC"
+    },
+    "214751": {
+        "country_code": "IR",
+        "asn": "214751",
+        "description": "Rahpooyan Pardazesh Gostar Sahra CO. PJS",
+        "handle": "SAHRA"
+    },
+    "214805": {
+        "country_code": "IR",
+        "asn": "214805",
+        "description": "Kimiyagaran Padideh Modern Company LLC",
+        "handle": "ROYAGARD-AS"
+    },
+    "214824": {
+        "country_code": "IR",
+        "asn": "214824",
+        "description": "Abr Gostar Arianet LLC",
+        "handle": "AEP"
+    },
+    "214857": {
+        "country_code": "IR",
+        "asn": "214857",
+        "description": "Kimiyagaran Padideh Modern Company LLC",
+        "handle": "ALCHEMYNETWORKS-AS"
+    },
+    "214858": {
+        "country_code": "IR",
+        "asn": "214858",
+        "description": "Ehsan Hosseini Sabzevar",
+        "handle": "EHSAN"
+    },
+    "214908": {
+        "country_code": "IR",
+        "asn": "214908",
+        "description": "Mohammad Hassan Ramezani",
+        "handle": "NABIC"
+    },
+    "214922": {
+        "country_code": "IR",
+        "asn": "214922",
+        "description": "FanAvaran Mihan Mizban PJSC",
+        "handle": "FANAVARAN-MIHAN-MIZBAN"
+    },
+    "214923": {
+        "country_code": "IR",
+        "asn": "214923",
+        "description": "AmirAbbas Moghanloo",
+        "handle": "AMIRABAS-MOGHANLOO"
+    },
+    "214949": {
+        "country_code": "IR",
+        "asn": "214949",
+        "description": "Seyed Ali Moosavi",
+        "handle": "FAMONET"
+    },
+    "214957": {
+        "country_code": "IR",
+        "asn": "214957",
+        "description": "Nahor Hadish Design and Architecture Co. Ltd",
+        "handle": "NAHOR-HADISH"
+    },
+    "214993": {
+        "country_code": "IR",
+        "asn": "214993",
+        "description": "Dade Pardazan Shabake Hamon PJS",
+        "handle": "DPSH"
+    },
+    "214998": {
+        "country_code": "IR",
+        "asn": "214998",
+        "description": "Ertebatat Modern Kavir Co.",
+        "handle": "EMKC"
+    },
+    "215154": {
+        "country_code": "IR",
+        "asn": "215154",
+        "description": "Fardin Nobakht",
+        "handle": "FARDINNETWORK"
+    },
+    "215177": {
+        "country_code": "IR",
+        "asn": "215177",
+        "description": "BABAK KEBRIAE",
+        "handle": "ASBARAK"
+    },
+    "215193": {
+        "country_code": "IR",
+        "asn": "215193",
+        "description": "mohammad khatibi",
+        "handle": "LI-TX"
+    },
+    "215271": {
+        "country_code": "IR",
+        "asn": "215271",
+        "description": "Isfahan Science & Technology Town",
+        "handle": "TECHNOLOGY-TOWN"
+    },
+    "215285": {
+        "country_code": "IR",
+        "asn": "215285",
+        "description": "Bonyan Sepehr Kasir PJSC",
+        "handle": "IRHOSTING"
+    },
+    "215350": {
+        "country_code": "IR",
+        "asn": "215350",
+        "description": "Abr Ayande Iranian Co. (Private Joint Stock)",
+        "handle": "AYANDE-CLOUD"
+    },
+    "215351": {
+        "country_code": "IR",
+        "asn": "215351",
+        "description": "Mohammadreza Gholami",
+        "handle": "MGADMIN-AS"
+    },
+    "215480": {
+        "country_code": "IR",
+        "asn": "215480",
+        "description": "Mehrdad Roshanaei",
+        "handle": "TAKANET"
+    },
+    "215496": {
+        "country_code": "IR",
+        "asn": "215496",
+        "description": "DyarWeb Information Technology Ltd",
+        "handle": "DYARWEB"
+    },
+    "215515": {
+        "country_code": "IR",
+        "asn": "215515",
+        "description": "Sorat Gostar Abr Datis LLC",
+        "handle": "SORATGOSTAR"
+    },
+    "215535": {
+        "country_code": "IR",
+        "asn": "215535",
+        "description": "JAHAN NIK PENDAR CO.",
+        "handle": "JAHAN-AS"
+    },
+    "215593": {
+        "country_code": "IR",
+        "asn": "215593",
+        "description": "Aria Jahangiri Far",
+        "handle": "ARIA"
+    },
+    "215610": {
+        "country_code": "IR",
+        "asn": "215610",
+        "description": "Amir Feizi",
+        "handle": "ASJ"
+    },
+    "215633": {
+        "country_code": "IR",
+        "asn": "215633",
+        "description": "Abr Baran Information Technologists LLC",
+        "handle": "ABRBARANIDC"
+    },
+    "215655": {
+        "country_code": "IR",
+        "asn": "215655",
+        "description": "Ertebatat Dourbord Fars Engineering Company PJSC",
+        "handle": "DOURBORD"
+    },
+    "215671": {
+        "country_code": "IR",
+        "asn": "215671",
+        "description": "Peimayesh Ertebat Oxin Co.(PJSC)",
+        "handle": "OXINTECH"
+    },
+    "215679": {
+        "country_code": "IR",
+        "asn": "215679",
+        "description": "Ideh Gozin Ertebatat e Romak Co. LTD",
+        "handle": "ROMAK"
+    },
+    "215700": {
+        "country_code": "IR",
+        "asn": "215700",
+        "description": "Mabna Financial Data Processing PJS",
+        "handle": "MABNADP"
+    },
+    "215708": {
+        "country_code": "IR",
+        "asn": "215708",
+        "description": "Mobin Arvand Infrastructure Company LTD",
+        "handle": "MOBINIDC"
+    },
+    "215746": {
+        "country_code": "IR",
+        "asn": "215746",
+        "description": "Dadeh Gostaran Webideh Co. Ltd.",
+        "handle": "WEBIDEH"
+    },
+    "215767": {
+        "country_code": "IR",
+        "asn": "215767",
+        "description": "Mizban Pardazesh Pouyan LLC",
+        "handle": "MPPL2C"
+    },
+    "215779": {
+        "country_code": "IR",
+        "asn": "215779",
+        "description": "Pasargad Electronic Payment Co.",
+        "handle": "PEPC"
+    },
+    "215850": {
+        "country_code": "IR",
+        "asn": "215850",
+        "description": "PJSC Toseh Etemad Vosoogh Gostar",
+        "handle": "EVTSP-AS"
+    },
+    "215892": {
+        "country_code": "IR",
+        "asn": "215892",
+        "description": "Pooyesh Axe Information and Communication Technology PJS",
+        "handle": "POOYESHAXE-IR"
+    },
+    "215938": {
+        "country_code": "IR",
+        "asn": "215938",
+        "description": "Mizban Pardazesh Nasle Farda PJSC",
+        "handle": "ERTEBANET-AS"
+    },
+    "215962": {
+        "country_code": "IR",
+        "asn": "215962",
+        "description": "Hamed Bagheri",
+        "handle": "HAMED-BAGHERI"
+    },
+    "215974": {
+        "country_code": "IR",
+        "asn": "215974",
+        "description": "Taliya Communicational Development Company (Private Joint Stock)",
+        "handle": "TALIYA"
+    },
+    "215978": {
+        "country_code": "IR",
+        "asn": "215978",
+        "description": "MEYSAM SADEGHI KHOYGANI",
+        "handle": "BOX-CLOUD"
+    },
+    "216008": {
+        "country_code": "IR",
+        "asn": "216008",
+        "description": "Pishgaman Pouya Investment Developmnet Company PJS",
+        "handle": "PPID"
+    },
+    "216054": {
+        "country_code": "IR",
+        "asn": "216054",
+        "description": "Taymaz Gostaran Naghshe Almas Co. ( Ltd )",
+        "handle": "VIP-HOST"
+    },
+    "216061": {
+        "country_code": "IR",
+        "asn": "216061",
+        "description": "Rasa Samaneh Ofogh LLC",
+        "handle": "CLOUDINOW"
+    },
+    "216074": {
+        "country_code": "IR",
+        "asn": "216074",
+        "description": "Arvin Data Transfer Co. Ltd.",
+        "handle": "ARVINCLOUD"
+    },
+    "216110": {
+        "country_code": "IR",
+        "asn": "216110",
+        "description": "SOREN NETWORK INNOVATOR LTD",
+        "handle": "SOREN"
+    },
+    "216125": {
+        "country_code": "IR",
+        "asn": "216125",
+        "description": "Avaye Etminan Asset Management PJSC",
+        "handle": "AEAV"
+    },
+    "216131": {
+        "country_code": "IR",
+        "asn": "216131",
+        "description": "Dadeh Gostar Parmis PJS Company",
+        "handle": "DGP-SH"
+    },
+    "216169": {
+        "country_code": "IR",
+        "asn": "216169",
+        "description": "Mohammad Taha Mashhorrodi",
+        "handle": "MTSERVER"
+    },
+    "216205": {
+        "country_code": "IR",
+        "asn": "216205",
+        "description": "Amn Gostare Hasin Co",
+        "handle": "AMNGOSTAR"
+    },
+    "216238": {
+        "country_code": "IR",
+        "asn": "216238",
+        "description": "Fayegh Mohamad Rahimi",
+        "handle": "AL-AS"
+    },
+    "216289": {
+        "country_code": "IR",
+        "asn": "216289",
+        "description": "Ehsan Imani Kalkhoran",
+        "handle": "NETREALM-AS"
+    },
+    "216344": {
+        "country_code": "IR",
+        "asn": "216344",
+        "description": "Enteghal Dade Arya Sarv Co (Ltd.)",
+        "handle": "ARIYASERVER"
+    },
+    "216380": {
+        "country_code": "IR",
+        "asn": "216380",
+        "description": "Rayan Dadeh Negar Dena LLC",
+        "handle": "RAYAN-DADEH"
+    },
+    "216417": {
+        "country_code": "IR",
+        "asn": "216417",
+        "description": "Mahdi Dehestani",
+        "handle": "HALALSHOP"
+    }
+}

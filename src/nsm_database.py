@@ -748,9 +748,11 @@ class Database():
         try:
 
             country_code = "IR"
-            asns = []
+            asns = {}
 
             asn_file = str(Path(__file__).parent.parent / "database" / "asns" / "info.txt")
+            save_file = str(Path(__file__).parent.parent / "database" / "asns" / "iran" / "asns.json")
+
             console.print(f"[bold green][+] Reading ASN database from: {asn_file}")
 
             with open(asn_file, 'r') as file:
@@ -758,16 +760,30 @@ class Database():
 
                 for row in reader:
                     if row['country-code'] == country_code:
-                        data = {
-                            "asn": row['asn'],
-                            "handle": row['handle'],
-                            "description": row['description'],
-                            "country_code": row['country-code']
-                        }
-                        asns.append(data)
+                        
 
+                        # DATA
+                        country_code = row["country-code"]
+                        asn          = row["asn"]
+                        description  = row["description"]
+                        handle       = row["handle"]
+
+                        data = {
+                            "country_code": country_code,
+                            "asn": asn,
+                            "description": description,
+                            "handle": handle
+                        }
+
+                        asns[row["asn"]] = data
+            
+            with open(save_file, "w") as file:
+                json.dump(asns, file, indent=4)
+                console.print(f"[bold green][+] Successfully saved asns: {save_file}")
+                
+                
+      
             console.print(f"[bold green][+] Found {len(asns)} ASNs for country code: {country_code}")
-            console.print(asns)
 
 
 

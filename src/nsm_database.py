@@ -778,6 +778,7 @@ class Database():
                             "country_code": parts[3]
                         }
                         
+                        console.print(data)
                         asns.append(data)
 
             

@@ -769,7 +769,7 @@ class Database():
 
                     parts = line.split(',')
 
-                    if parts and len(parts) >= parts[3] == country_code:
+                    if len(parts) >= 4 and parts[3] == country_code:
                         
                         data = {
                             "asn": parts[0],

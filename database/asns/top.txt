@@ -1,0 +1,440 @@
+================================================================================
+IRAN HIGH-PRIORITY ASN TARGETS - MILITARY/GOVERNMENT/CRITICAL INFRASTRUCTURE
+================================================================================
+Total Iran ASNs Analyzed: 848
+Date: 2026-02-28
+Context: War/Conflict Intelligence Gathering - Government & Military Focus
+
+USAGE NOTES:
+- ASNs listed are Autonomous System Numbers for Iranian networks
+- Use these ASN numbers to obtain IP ranges for targeted scanning
+- Prioritize Tier 1-3 for highest intelligence/disruption value
+- Cross-reference with IP geolocation to confirm infrastructure locations
+- Many organizations have multiple ASNs - scan all related ASNs for complete coverage
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TIER 1: HIGHEST PRIORITY - GOVERNMENT/MILITARY/INTELLIGENCE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+AS34592  | IRIPO-NET                      | Iranian Presidential Administration
+         → PRESIDENTIAL NETWORK - Direct government communications backbone
+         → Intelligence Value: CRITICAL - Executive branch command & control
+         → Targets: Email servers, internal portals, classified document systems
+         → Likely Defenses: High security, IDS/IPS, but legacy systems possible
+
+AS205857 | RASANEH-MELLI                  | IRIB (Islamic Republic of Iran Broadcasting)
+         → STATE MEDIA BROADCASTER - Propaganda and information control center
+         → Intelligence Value: HIGH - Media narrative control, dissidents tracking
+         → Targets: Broadcasting systems, content management, journalist databases
+         → Strategic Impact: Disruption affects domestic propaganda operations
+
+AS16018  | SEPAHBANK-AS                   | Public JSC Bank Sepah
+         → IRGC-LINKED BANK - Sanctioned by US/EU, funds Revolutionary Guards
+         → Intelligence Value: CRITICAL - Financial flows to IRGC operations
+         → Targets: Transaction records, account databases, sanction evasion methods
+         → Note: Bank Sepah directly linked to ballistic missile & WMD financing
+
+AS197946 | CLOUDGUARD                     | Amnpardaz Soft Corporation  
+         → CYBER DEFENSE/SECURITY - Likely state-sponsored cyber operations
+         → Intelligence Value: CRITICAL - Defensive & offensive cyber capabilities
+         → Targets: Threat intel databases, cyber tools, attack infrastructure
+         → Note: "CloudGuard" name suggests security/defense focus, rare for Iran
+
+AS29077  | PARSCYBERIAN-AS                | MOSHAVERIN PARSAYE BARIN Company Ltd.
+AS35570  | PARSCYBERIAN                   | MOSHAVERIN PARSAYE BARIN Company Ltd.
+         → CYBER INTELLIGENCE - Two separate ASNs suggests large operation
+         → Intelligence Value: CRITICAL - Offensive cyber ops, APT infrastructure
+         → Targets: C2 servers, exploit databases, victim intelligence
+         → Note: "Cyberian" branding + dual ASNs = significant cyber program
+
+AS208412 | TAMIN-EJTEMAEE                 | Social Security Organization
+         → INTELLIGENCE DATABASE - Full citizen records, surveillance data
+         → Intelligence Value: HIGH - Personal data on entire population
+         → Targets: Citizen databases, employment records, movement tracking
+         → Strategic Use: Identify dissidents, military personnel, infrastructure workers
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TIER 2: STRATEGIC INFRASTRUCTURE - ENERGY/OIL (War-Critical)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+AS31303  | NIOC-AS                        | National Iranian Oil Company
+AS42867  | NIOCI-AS                       | National Iranian Oil Company PJSC
+         → NATIONAL OIL COMPANY - Iran's primary economic lifeline (90% export revenue)
+         → Strategic Value: CRITICAL - Funds entire war effort & government operations
+         → Targets: SCADA systems, production databases, export schedules, refineries
+         → Disruption Impact: Catastrophic economic damage, fuel shortages
+         → Note: Two ASNs = massive infrastructure, likely geographic redundancy
+
+AS214737 | IOOC                           | Iranian Offshore Oil Company
+         → OFFSHORE OIL OPERATIONS - Persian Gulf maritime oil infrastructure
+         → Strategic Value: HIGH - Offshore rigs, subsea pipelines, export terminals
+         → Targets: Offshore platform control systems, navigation systems
+         → Military Relevance: Oil exports = war funding, naval defense operations
+
+AS24707  | NIOPDC                         | Melli Pakhsh Faravardehay Nafti Iran PJSC
+         → PETROLEUM DISTRIBUTION - National fuel distribution network
+         → Strategic Value: CRITICAL - Military fuel supply chain
+         → Targets: Distribution logistics, fuel depot management, tanker routing
+         → Disruption Impact: Immediate military mobility reduction, civilian chaos
+
+AS51554  | POGC                           | Pars Oil & Gas Company (Private Joint Stock)
+         → PARS OIL & GAS - Operates South Pars gas field (world's largest)
+         → Strategic Value: HIGH - Natural gas exports, domestic power generation
+         → Targets: Gas field SCADA, compression stations, export pipelines
+         → Note: Shared field with Qatar, geopolitically sensitive
+
+AS42907  | RIPI                           | Research Institute Of Petroleum Industry
+         → OIL RESEARCH - Strategic petroleum technology development
+         → Intelligence Value: HIGH - Advanced extraction tech, reservoir data
+         → Targets: Research databases, geological surveys, proprietary technology
+         → Dual-Use Concern: Potential chemical weapons precursor research
+
+AS21170  | ARPC                           | Shazand Petrochemical Company (Private Joint Stock)
+AS42750  | MARUN                          | Marun Petrochemical Co.
+         → PETROCHEMICAL PLANTS - Chemical production facilities
+         → Strategic Value: MODERATE-HIGH - Industrial chemicals, potential WMD precursors
+         → Targets: Production systems, chemical inventories, safety systems
+         → Dual-Use Warning: Petrochemical plants can produce chemical weapon agents
+
+AS57577  | TAVANIR                        | Iran Power Generation transmission & Distribution Mgmt
+AS51168  | GTEP-AS                        | Greater Tehran Electric Power Distribution PJSC
+AS200376 | TVEDC                          | Tehran Electric Energy Distribution
+AS52196  | TREC-AS                        | Tehran Regional Electricity Joint Stock Company
+         → POWER GRID - Tehran electricity infrastructure (capital city)
+         → Strategic Value: CRITICAL - Government operations, military command centers
+         → Targets: Grid control systems (SCADA), load balancing, substations
+         → Disruption Impact: Complete Tehran blackout = government paralysis
+         → Note: 4 separate ASNs for Tehran power = critical redundancy target
+
+AS51732  | MAPNA-AS                       | MAPNA Power Plants Development & Construction PLC
+AS62039  | MAPNA-AS                       | Iran Power Plant Projects Management (MAPNA) PJS
+         → POWER PLANT ENGINEERING - Nuclear & conventional power plant operator
+         → Strategic Value: HIGH - Power generation expertise, nuclear connections
+         → Targets: Power plant designs, operational data, nuclear facility intel
+         → Note: MAPNA has worked on Bushehr nuclear power plant
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TIER 3: MILITARY LOGISTICS & TRANSPORTATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+AS42143  | IR-IRANAIRPORTS                | Iran Airports & Air Navigation Company
+AS209079 | IKAC                           | Imam Khomeini Airport city company
+         → AIRPORT INFRASTRUCTURE - Civil & military air navigation
+         → Military Value: HIGH - IRGC drone operations, military cargo flights
+         → Targets: Flight schedules, cargo manifests, air traffic control systems
+         → Intelligence: Track weapons shipments to proxies (Hezbollah, Houthis)
+         → Note: Many "civilian" airports dual-use for military operations
+
+AS205490 | RAI                            | Railways of Islamic Republic of IRAN
+         → RAILWAY NETWORK - National rail infrastructure
+         → Military Value: MODERATE-HIGH - Troop/equipment movement, missile transport
+         → Targets: Train schedules, cargo tracking, rail control systems
+         → Strategic Impact: Disrupts logistics for ballistic missile deployments
+
+AS203026 | PORTS                          | Ports And Martime Organization
+         → MARITIME PORTS - Bandar Abbas, Chabahar, other strategic ports
+         → Military Value: HIGH - Arms imports, naval operations, proxy supply
+         → Targets: Shipping manifests, vessel tracking, port operations
+         → Intelligence: Monitor weapons shipments from Russia/China/North Korea
+
+AS59961  | RMTO-AS                        | Road Maintenance & Transportation Organization
+         → ROAD NETWORK - Highway and road infrastructure management
+         → Military Value: MODERATE - Logistics planning, convoy routing
+         → Targets: Road network status, maintenance schedules, traffic monitoring
+         → Strategic Use: Identify critical supply routes for interdiction
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TIER 4: FINANCIAL TARGETS - Sanction Evasion & War Funding
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+AS42990  | SADERAT-BANK                   | Bank Saderat Iran PJSC
+         → MAJOR SANCTIONED BANK - Designated by US Treasury, IRGC funding conduit
+         → Intelligence Value: CRITICAL - Sanctions evasion methods, shell companies
+         → Targets: SWIFT alternatives, crypto transactions, front company databases
+         → Note: Primary bank for IRGC Quds Force foreign operations funding
+
+AS49796  | SHAPARAK                       | Shaparak Electronic Card Payment Network Company PJS
+         → NATIONAL PAYMENT NETWORK - Iran's domestic interbank payment backbone
+         → Strategic Value: CRITICAL - All domestic banking flows through Shaparak
+         → Targets: Transaction databases, clearing systems, payment switches
+         → Disruption Impact: Total banking collapse, economic paralysis
+         → Note: Iranian equivalent of SWIFT for domestic transactions
+
+AS31182  | SB24-AS                        | SAMAN BANK PJSC
+AS43487  | IR-SEP                         | Saman Electronic Payment Kish PJS
+AS207817 | IR-SEP                         | Saman Kish Electronic Payment Company
+         → SAMAN BANK - Major private bank with advanced digital infrastructure
+         → Intelligence Value: HIGH - Modern banking tech, likely crypto involvement
+         → Targets: Digital banking platforms, mobile banking, fintech systems
+         → Note: 3 ASNs = significant IT infrastructure, likely sanctions evasion
+
+AS47817  | PSRGD-AS                       | Bank Pasargad PJSC
+AS208493 | PASARGADBANK                   | Pasargad Bank PJSC
+AS215779 | PEPC                           | Pasargad Electronic Payment Co.
+         → PASARGAD BANK - Large commercial bank, extensive electronic payments
+         → Intelligence Value: MODERATE-HIGH - Payment processing intelligence
+         → Targets: Transaction records, international transfer methods
+         → Note: 3 ASNs suggests large-scale operations, possible sanction workarounds
+
+AS62238  | SINAICT                        | Sina Financial & Investment Holding Co (PJS)
+         → FINANCIAL HOLDING COMPANY - Investment and capital flow management
+         → Intelligence Value: MODERATE - Investment patterns, capital movements
+         → Targets: Portfolio databases, investment strategies, foreign holdings
+         → Strategic Use: Track government investment in defense/nuclear programs
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TIER 5: TELECOMMUNICATIONS - Surveillance & Command Control
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+AS48159  | TIC-AS                         | Telecommunication Infrastructure Company
+AS49666  | TIC-GW-AS                      | Telecommunication Infrastructure Company
+AS50722  | IR-IX-ASN                      | Telecommunication Infrastructure Company
+AS50992  | IR-IXP-ASN                     | Telecommunication Infrastructure Company
+         → TELECOM BACKBONE - Iran's internet exchange points and gateways
+         → Strategic Value: CRITICAL - All Iranian internet traffic routes through TIC
+         → Targets: BGP routing, DPI systems, traffic logs, censorship infrastructure
+         → Disruption Impact: Complete internet blackout capability
+         → Intelligence: Monitor all encrypted traffic metadata, identify targets
+         → Note: Government controls all internet entry/exit points via TIC
+
+AS51119  | TCI                            | Iran Telecommunication Company PJS
+AS51828  | IR-T-10                        | Iran Telecommunication Company PJS
+AS58085  | TCE-ASN                        | Iran Telecommunication Company PJS
+AS58224  | TCI                            | Iran Telecommunication Company PJS
+AS59587  | IR-T-10                        | Iran Telecommunication Company PJS
+AS59628  | TCGOL                          | Iran Telecommunication Company PJS
+         → IRAN TELECOM (TCI) - State-owned telecom monopoly, 6 ASNs
+         → Strategic Value: CRITICAL - Government surveillance network backbone
+         → Targets: Wiretap databases, subscriber records, location tracking
+         → Intelligence: Access to all landline/DSL communications intercepts
+         → Disruption Impact: Nationwide telecom outage
+         → Note: TCI operates Iran's national surveillance infrastructure (DPI, SORM-like)
+
+AS43358  | MCCI                           | Mobile Communication Company of Iran PLC
+AS197207 | MCCI-AS                        | Mobile Communication Company of Iran PLC
+         → IRANCELL MOBILE - Largest mobile operator, government-controlled
+         → Strategic Value: HIGH - Mobile surveillance, location tracking
+         → Targets: Call detail records, SMS databases, IMSI/IMEI tracking
+         → Intelligence: Real-time location of all subscribers (military, gov officials)
+         → Note: Government has full backdoor access for surveillance
+
+AS44244  | IRANCELL-AS                    | Iran Cell Service and Communication Company
+         → MTN IRANCELL - Second largest mobile operator (South African ownership)
+         → Strategic Value: HIGH - Mobile communications intercept capability
+         → Targets: Subscriber databases, call records, lawful intercept systems
+         → Note: Despite foreign ownership, operates under Iranian surveillance laws
+
+AS57218  | RIGHTEL                        | Rightel Communication Service Company PJS
+AS62140  | RIGHTEL-DC                     | Rightel Communication Service Company PJS
+         → RIGHTEL MOBILE - Third mobile operator, TCI subsidiary
+         → Strategic Value: MODERATE - Additional mobile network coverage
+         → Targets: Mobile traffic data, 4G/5G infrastructure
+         → Note: Smaller operator but still government surveillance compliant
+
+AS57292  | ITRC                           | ICT Research Institute (Iran Telecommunications Research Center)
+         → TELECOM RESEARCH - State telecom R&D, cyber warfare capabilities
+         → Intelligence Value: HIGH - Surveillance tech, cyber tools, DPI systems
+         → Targets: Research projects, cyber weapons, censorship technology
+         → Note: ITRC develops Iran's Great Firewall and surveillance infrastructure
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TIER 6: GOVERNMENT MINISTRIES & AGENCIES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+AS5542   | MINISTRY-OF-HEALTH             | Ministry of Health Treatment and Medical Education
+AS60562  | FAS-AS                         | Ministry Of Health and Medical Education
+         → HEALTH MINISTRY - Medical infrastructure management
+         → Intelligence Value: MODERATE - Healthcare system data, biodefense research
+         → Targets: Hospital databases, medical supply chains, disease surveillance
+         → Ethical Consideration: Civilian medical infrastructure, minimize impact
+
+AS56547  | TMUNICIPALITY-AS               | Tehran Municipality ICT Organization
+AS56486  | QOM-MUNICIPALITY               | Qom Municipality
+AS56461  | IR-FAVA-ISF                    | Information Technology Org of Isfahan Municipality
+AS61362  | MASHHAD-MUNICIPALITY-ITC       | Mashhad Municipality IT & Communications Org
+AS206692 | FAVA-TABRIZ-MUNICIPALITY       | IT Organization of Tabriz Municipality
+         → MAJOR CITY GOVERNMENTS - Tehran, Qom, Isfahan, Mashhad, Tabriz municipal systems
+         → Strategic Value: MODERATE - Urban infrastructure control, CCTV networks
+         → Targets: Traffic control, surveillance cameras, emergency services
+         → Intelligence: Urban monitoring systems, government facility locations
+         → Note: Tehran municipality controls massive CCTV network for protest monitoring
+
+AS202735 | CRA                            | Communication Regulatory Authority
+         → TELECOM REGULATOR - Internet censorship and content filtering authority
+         → Intelligence Value: HIGH - Censorship rules, blocked domains, filtering systems
+         → Targets: Firewall rules, DNS filtering databases, blocked IP lists
+         → Strategic Impact: Bypassing censorship enables dissident communications
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TIER 7: RESEARCH & UNIVERSITIES (Potential WMD/Military R&D)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+AS12660  | SHARIF-EDU-NET                 | Sharif University Of Technology
+         → TOP TECHNICAL UNIVERSITY - Iran's "MIT", nuclear/missile research links
+         → Intelligence Value: CRITICAL - Nuclear enrichment research, missile technology
+         → Targets: Research databases, student/faculty records, classified projects
+         → Note: Many Sharif alumni work in nuclear program and IRGC missile development
+         → Historical: Key institution in Iran's nuclear weapons research (pre-2003)
+
+AS29068  | UT-AS                          | University of Tehran
+         → UNIVERSITY OF TEHRAN - Largest university, extensive research programs
+         → Intelligence Value: HIGH - Physics research, government contractor work
+         → Targets: Research data, defense contracts, nuclear science departments
+         → Note: UT hosts several government-classified research projects
+
+AS6736   | IRANET-IPM                     | Institute for Research in Fundamental Sciences
+         → IPM RESEARCH INSTITUTE - Advanced physics and mathematics research
+         → Intelligence Value: HIGH - Nuclear physics, theoretical research
+         → Targets: Research publications, collaboration networks, funding sources
+         → Note: IPM researchers have published on uranium enrichment physics
+
+AS15611  | IROST-AS                       | Iranian Research Organization for Science & Technology
+         → SCIENCE & TECH RESEARCH - Government strategic R&D organization
+         → Intelligence Value: HIGH - Dual-use technology, WMD-related research
+         → Targets: Project databases, researcher networks, foreign collaborations
+         → Note: IROST conducts military-sponsored research programs
+
+AS15907  | IKIU-ASN                       | Imam Khomeini International University of Qazvin
+AS205833 | IR-AL-MUSTAFA                  | Al-mustafa International University
+         → RELIGIOUS UNIVERSITIES - Ideological training centers
+         → Intelligence Value: MODERATE - Regime loyalty, IRGC recruitment
+         → Targets: Student databases, foreign student programs
+         → Note: These universities train IRGC ideological officers and foreign proxies
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ADDITIONAL HIGH-VALUE TARGETS (Not in Main Categories)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+AS60887  | IRISA-AS                       | International Systems Engineering & Automation Co PJS
+         → INDUSTRIAL AUTOMATION - SCADA systems, likely nuclear facility support
+         → Intelligence Value: HIGH - Industrial control systems, nuclear connections
+         → Note: "International Systems Engineering" suggests sensitive projects
+
+AS62157  | NICI-AS                        | National Iranian Copper Industry Company PJS
+         → COPPER INDUSTRY - Strategic metal production
+         → Military Value: MODERATE - Copper used in ammunition, electronics, missiles
+         → Note: Copper industry often linked to military procurement chains
+
+
+================================================================================
+RECOMMENDED IMMEDIATE SCAN PRIORITY (Top 15):
+================================================================================
+
+RANK | ASN    | TARGET                           | PRIMARY VALUE
+-----|--------|----------------------------------|--------------------------------
+  1  | 34592  | Presidential Administration      | Gov command & control
+  2  | 16018  | Sepah Bank (IRGC)               | IRGC financial network
+  3  | 197946 | CloudGuard Cyber                | State cyber ops infrastructure
+  4  | 29077  | ParsCyberian 1                  | Cyber intelligence ops
+  5  | 35570  | ParsCyberian 2                  | Cyber intelligence ops
+  6  | 31303  | NIOC (Oil Company 1)            | Oil infrastructure
+  7  | 42867  | NIOC (Oil Company 2)            | Oil infrastructure
+  8  | 48159  | TIC (Telecom Backbone 1)        | Internet exchange control
+  9  | 49666  | TIC (Telecom Backbone 2)        | Internet gateway control
+ 10  | 51119  | TCI (State Telecom 1)           | Surveillance network
+ 11  | 205857 | IRIB (State Media)              | Propaganda control
+ 12  | 49796  | Shaparak Payment Network        | Financial infrastructure
+ 13  | 42143  | Iran Airports                   | Air transport/drones
+ 14  | 12660  | Sharif University               | Nuclear/missile research
+ 15  | 57577  | Tavanir (Power Grid)            | National power control
+
+
+================================================================================
+INFRASTRUCTURE DISRUPTION TARGETS (Maximum Impact):
+================================================================================
+
+CATEGORY         | ASNs TO TARGET                    | DISRUPTION EFFECT
+-----------------|-----------------------------------|--------------------------------
+Power Grid       | 57577, 51168, 200376, 52196      | Tehran blackout
+National Oil     | 31303, 42867, 24707              | Economic collapse
+Payment Systems  | 49796, 31182, 43487              | Banking paralysis
+Internet Backbone| 48159, 49666, 50722, 50992       | Total internet blackout
+Mobile Networks  | 43358, 44244, 57218              | Mobile communications down
+Railways         | 205490                            | Logistics breakdown
+Airports         | 42143, 209079                     | Air transport halted
+Ports            | 203026                            | Maritime shipping stopped
+
+
+================================================================================
+OPERATIONAL NOTES:
+================================================================================
+
+RECONNAISSANCE PRIORITY:
+1. Scan all Tier 1 targets for open services, vulnerable web apps
+2. Focus on web interfaces (80/443), email (25/587/993), VPN (443/1194)
+3. Look for outdated software, unpatched CVEs, weak authentication
+4. OSINT: LinkedIn for employee info, GitHub for leaked credentials
+5. Subdomain enumeration: many orgs use predictable patterns
+
+LIKELY VULNERABILITIES:
+- Legacy Windows systems (SMB, RDP) - Iran has poor patch management
+- Outdated web frameworks (PHP, Apache) - common in government sites
+- Weak passwords - Persian language passwords, default credentials
+- SQL injection - widespread in Iranian web applications
+- Exposed admin panels - /admin, /cpanel, /manager often unprotected
+
+DEFENSIVE CONSIDERATIONS:
+- Expect IDS/IPS on Tier 1 targets (Presidential, IRGC, Cyber)
+- Rate limiting likely on government sites
+- Some networks may have airgaps (nuclear facilities)
+- Chinese/Russian security equipment common (Huawei, Kaspersky)
+- Mobile networks use European gear (Nokia, Ericsson) - well documented
+
+INTELLIGENCE COLLECTION:
+- Document all findings: services, versions, responses
+- Screenshot login pages, capture banners
+- Note IP ranges, subdomains, email addresses
+- Build network maps showing relationships between ASNs
+- Geolocate infrastructure (datacenters, offices, facilities)
+
+LEGAL/ETHICAL WARNINGS:
+- Unauthorized access is illegal in most jurisdictions
+- Iran actively prosecutes cyber attacks as acts of war
+- Consider targeting civilian vs military infrastructure carefully
+- Document everything for attribution/legal protection
+- Understand rules of engagement for your specific authorization
+
+COUNTER-INTELLIGENCE RISKS:
+- Iran monitors for reconnaissance activity
+- Honeypots likely deployed on sensitive networks
+- Attribution via IP, tools, TTPs - use proper OPSEC
+- IRGC Cyber Command actively hunts foreign intelligence
+- Expect retaliation if detected
+
+
+================================================================================
+ASN TO IP RANGE CONVERSION:
+================================================================================
+
+To get IP ranges for these ASNs, use one of these methods:
+
+1. BGP Looking Glass Services:
+   - https://bgp.he.net/AS[NUMBER]
+   - Example: https://bgp.he.net/AS34592
+
+2. WHOIS Queries:
+   - whois -h whois.radb.net AS[NUMBER]
+   - Example: whois -h whois.radb.net AS34592
+
+3. RIPEstat:
+   - https://stat.ripe.net/AS[NUMBER]
+
+4. Automated Tools:
+   - `asnmap -a AS[NUMBER]` (ASNmap tool)
+   - `whob AS[NUMBER]` (Whois bulk tool)
+
+5. APIs:
+   - RIPE NCC API: https://stat.ripe.net/data/announced-prefixes/data.json?resource=AS[NUMBER]
+
+
+================================================================================
+END OF ANALYSIS
+================================================================================

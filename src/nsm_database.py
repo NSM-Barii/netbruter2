@@ -746,24 +746,47 @@ class Database():
 
         try:
 
+            country_code = "IR"
+            asns = []
+
+
             asn_dir = str(Path(__file__).parent.parent / "database" / "asns" / "iran")
             os.chdir(asn_dir)
             console.print(f"[bold green][+] Successfully changed DIR to: {asn_dir}")
             
             
-            asn = "AS12880"
-            url = f"https://stat.ripe.net/data/announced-prefixes/data.json?resource={asn}"
+            url = f"https://raw.githubusercontent.com/ipverse/as-metadata/master/as.csv"
 
 
             response = requests.get(url=url)
 
 
             if response.status_code in [200, 204]:
+    
+                #console.print(response.text)
 
-                with open(f"{asn}.json", "w") as file: 
-                    json.dump(response.json(), file, indent=4)
-                console.print(f"[bold green][+] Successfully downloaded:[bold yellow] {asn} <-> {url}")
+                for line in response.text.strip().split("\n")[1:]:
+
+                    parts = line.split(',')
+
+                    if parts and len(parts) >= parts[3] == country_code:
+                        
+                        data = {
+                            "asn": parts[0],
+                            "handle": parts[1],
+                            "description": parts[2],
+                            "country_code": parts[3]
+                        }
+                        
+                        asns.append(data)
+
             
+            console.print(asns)
+
+
+
+
+
         
 
         except Exception as e: console.print(f"[bold red][-] Exception Error:[bold yellow] {e}")

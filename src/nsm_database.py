@@ -743,45 +743,30 @@ class Database():
     def _download_asns_within_each_country(cls):
         """This will be used to download asns for each domain within a country"""
 
+        import csv
 
         try:
 
             country_code = "IR"
             asns = []
 
+            asn_file = str(Path(__file__).parent.parent / "database" / "asns" / "info.txt")
+            console.print(f"[bold green][+] Reading ASN database from: {asn_file}")
 
-            asn_dir = str(Path(__file__).parent.parent / "database" / "asns" / "iran")
-            os.chdir(asn_dir)
-            console.print(f"[bold green][+] Successfully changed DIR to: {asn_dir}")
-            
-            
-            url = f"https://raw.githubusercontent.com/ipverse/as-metadata/master/as.csv"
+            with open(asn_file, 'r') as file:
+                reader = csv.DictReader(file)
 
-
-            response = requests.get(url=url)
-
-
-            if response.status_code in [200, 204]:
-    
-                #console.print(response.text)
-
-                for line in response.text.strip().split("\n")[1:]:
-
-                    parts = line.split(',')
-
-                    if len(parts) >= 4 and parts[3] == country_code:
-                        
+                for row in reader:
+                    if row['country-code'] == country_code:
                         data = {
-                            "asn": parts[0],
-                            "handle": parts[1],
-                            "description": parts[2],
-                            "country_code": parts[3]
+                            "asn": row['asn'],
+                            "handle": row['handle'],
+                            "description": row['description'],
+                            "country_code": row['country-code']
                         }
-                        
-                        console.print(data)
                         asns.append(data)
 
-            
+            console.print(f"[bold green][+] Found {len(asns)} ASNs for country code: {country_code}")
             console.print(asns)
 
 

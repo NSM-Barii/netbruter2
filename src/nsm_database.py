@@ -433,8 +433,8 @@ class Database():
 
     
     # WARNING
-    @classmethod
-    def _download_ip_blocks_for_each_country(cls):
+    @staticmethod
+    def _download_ip_blocks_for_each_country():
         """This will be a one time use method to automate downloading blocks for each country from ipdeny.com"""
 
 
@@ -738,20 +738,19 @@ class Database():
         except Exception as e: console.print(f"[bold red][-] Exception Error:[bold yellow] {e}")
     
 
-
-    @classmethod
-    def _download_asns_within_each_country(cls):
+    @staticmethod
+    def _download_asns_within_each_country():
         """This will be used to download asns for each domain within a country"""
 
         import csv
 
         try:
 
-            country_code = "IR"
+            country_code = "US"
             asns = {}
 
             asn_file = str(Path(__file__).parent.parent / "database" / "asns" / "info.txt")
-            save_file = str(Path(__file__).parent.parent / "database" / "asns" / "iran" / "asns.json")
+            save_file = str(Path(__file__).parent.parent / "database" / "asns" / "US" / "asns.json")
 
             console.print(f"[bold green][+] Reading ASN database from: {asn_file}")
 
@@ -793,6 +792,84 @@ class Database():
 
         except Exception as e: console.print(f"[bold red][-] Exception Error:[bold yellow] {e}")
     
+
+
+    
+    @staticmethod
+    def _download_ip_blocks_for_asn():
+        """This will download all ip blocks for asn given"""
+
+
+
+        try:
+
+            asns = [
+                "AS34592",
+                "AS16018",
+                "AS197946",
+                "AS29077",
+                "AS35570",
+                "AS31303",
+                "AS42867",
+                "AS48159",
+                "AS49666",
+                "AS51119"
+            ]
+
+
+
+            # 233 COUNTRYS
+            package = {}
+
+            ip_block_dir = str(Path(__file__).parent.parent / "database" / "asns" / "iran")
+            os.chdir(ip_block_dir)
+            console.print(f"[bold green][+] Successfully changed DIR to: {ip_block_dir}")
+            
+            for asn in asns:
+
+                url = f"https://stat.ripe.net/data/announced-prefixes/data.json?resource={asn}"
+                #country  = zone_to_country.get(zone, False)
+                #if not country: pass
+                #safe_country = country.replace(" ", "_")
+
+                response = requests.get(url=url)
+                data = response.json()
+                
+                if response.status_code in [200, 204]:
+                    
+
+                    prefixes = data["data"]["prefixes"]
+                    saved    = []
+
+                    for cidr in prefixes:
+
+                        prefix = cidr['prefix']
+
+                        console.print(f"[bold green] Found Block:[/bold green] {prefix}")
+                        saved.append(prefix)
+                          
+
+                    package[asn] = saved
+
+
+
+                with open(f"{asn}.json", "w") as file: 
+                    json.dump(package, file, indent=4)
+                console.print(f"[bold green][+] Successfully downloaded:[bold yellow] {asn}  <-> {url}")
+            
+
+        
+        except Exception as e: console.print(f"[bold red][-] Exception Error:[bold yellow] {e}")
+    
+
+
+
+
+
+
+
+
+
 
 
 
@@ -953,29 +1030,35 @@ class Deappreciated():
 
 if __name__ == "__main__":
 
-    t = 2
+    t = 3
 
     if t == 0: pass
 
 
     elif t == 1:
-        
+
         Database.validate_country(country="Turkey")
     
 
 
+    
     elif t == 2:
+
+        Database._download_ip_blocks_for_asn()
+        
+
+    elif t == 3:
 
         Database._download_asns_within_each_country()
 
 
     # DO NOT USE THIS
-    elif t == 3:
+    elif t == 4:
 
         Database._download_ip_blocks_for_each_country()
 
 
-    elif t == 4:
+    elif t == 5:
         Database.get_ip_block(filter="Mexico", CONSOLE=console)
 
         from nsm_scanner import Mass_IP_Scanner
@@ -984,6 +1067,7 @@ if __name__ == "__main__":
 
 
 
-    elif t == 5:
+    elif t == 6:
         data = ["192.168.1.1", "10.0.0.1", "127.0.0.1"]
         File_Saver._push_ips_found(data=data)
+

@@ -328,6 +328,8 @@ AS62157  | NICI-AS                        | National Iranian Copper Industry Com
 RECOMMENDED IMMEDIATE SCAN PRIORITY (Top 15):
 ================================================================================
 
+// IRANS TOP INFRASTRUCTURE // OSINT/RECON
+
 RANK | ASN    | TARGET                           | PRIMARY VALUE
 -----|--------|----------------------------------|--------------------------------
   1  | 34592  | Presidential Administration      | Gov command & control

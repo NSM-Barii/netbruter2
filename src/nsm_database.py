@@ -736,6 +736,11 @@ class Database():
     @classmethod
     def get_asn(cls, country, asns, CONSOLE=console, verbose=True):
         """This is going to be cool // pass the country and then filter through said country for asns"""
+
+
+        # TESTING THIS
+        # sudo venv/bin/python main.py --country Iran --asn 57577,51168,200376,52196 -p 80,443,8080,8443 --save --geo local -t 750
+
         
 
         # COLORS

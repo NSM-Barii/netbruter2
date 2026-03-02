@@ -740,6 +740,7 @@ class Database():
 
         # TESTING THIS
         # sudo venv/bin/python main.py --country Iran --asn 57577,51168,200376,52196 -p 80,443,8080,8443,22,23,502,102,20000,8000,47808,1911 --save --geo local -t 750
+        # 5.202.86.0/24, 91.233.56.0/24, 91.233.59.0/24, 91.233.58.0/24, 91.233.57.0/24, 195.20.136.0/24
         # web panels, remote access, SCADA/ICS protocols
 
         

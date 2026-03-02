@@ -34,7 +34,7 @@ class Database():
 
     # VARS
     lookup         = False
-    country        = False # FOR FIle_Saving
+    country        = False # FOR File_Saving
     api_key_ipinfo = False   
     reader_asn     = False
     reader_city    = False
@@ -440,7 +440,7 @@ class Database():
 
    
     @classmethod
-    def _check_paths(cls, ip, port, CONSOLE, timeout=1, errors=False):
+    def _check_paths(cls, ip, port, CONSOLE=console, timeout=1, errors=False):
         """This will check path signatures"""
 
         ip_camera_favicon_hashes = [
@@ -532,7 +532,7 @@ class Database():
 
 
     @classmethod
-    def _get_geo_info_local(cls, ip, CONSOLE, verbose=True):
+    def _get_geo_info_local(cls, ip, CONSOLE=console, verbose=True):
         """This method will be used to get our own in house geo ip info"""
 
         # COLORS
@@ -588,7 +588,7 @@ class Database():
 
     
     @classmethod
-    def _get_geo_info_ipinfo(cls, ip, CONSOLE, timeout=3, verbose=False):
+    def _get_geo_info_ipinfo(cls, ip, CONSOLE=console, timeout=3, verbose=False):
         """This method will be responsible for grabbing the geo info on said ip"""
 
         # COLORS
@@ -671,7 +671,7 @@ class Database():
   
 
     @classmethod
-    def get_ip_block(cls, country, CONSOLE, verbose=False):
+    def get_ip_block(cls, country, CONSOLE=console, verbose=False):
         """This method will be resposnible for getting the block for country"""
 
 
@@ -699,6 +699,57 @@ class Database():
             CONSOLE.print(f"[bold red]Exception Error:[bold yellow] {e}")
 
     
+     
+    @classmethod
+    def get_asn(cls, country, asns, CONSOLE=console, verbose=True):
+        """This is going to be cool // pass the country and then filter through said country for asns"""
+
+
+        path_asn = Path(__file__).parent.parent / "database" / "asns" / f"{country}.json"
+        base     = {}
+
+
+        try: asns  = [int(asn) for asn in asns.split(',')]
+        except Exception: asns = list(asns)      
+
+        CONSOLE.print(f"[yellow][*] Target asns:[/yellow] {asns}")
+        
+
+
+        try:
+
+
+            with open(path_asn, "r") as file: data = json.load(file)
+            if verbose: CONSOLE.print(f"[bold green][+] Successfully Pulled:[/bold green] {path_asn}") 
+                
+
+
+            for key, value in data.items():
+
+                asn = int(key)
+                country_code = value["country_code"]
+                description  = value["description"]
+                handle       = value["handle"]
+                
+                if asn in asns:
+
+                    base[asn] = {
+                        "asn": asn,
+                        "country_code": country_code,
+                        "description": description,
+                        "handle": handle
+                    }
+
+                    CONSOLE.print(f"[bold green][+] ASN:[bold yellow] {value}")
+    
+
+            #CONSOLE.print(f"[bold green][+] Pulled asns:[/bold green] {base}")
+            
+        except Exception as e: CONSOLE.print(f"[bold red][-] Exception Error:[bold yellow] {e}")
+
+
+
+
     # WARNING
     @classmethod
     def _download_ip_blocks_for_each_country(cls):
@@ -810,7 +861,6 @@ class Database():
         except Exception as e: console.print(f"[bold red][-] Exception Error:[bold yellow] {e}")
     
 
-    
     @staticmethod
     def _download_ip_blocks_for_asn():
         """This will download all ip blocks for asn given"""
@@ -1018,7 +1068,7 @@ class Deappreciated():
 
 if __name__ == "__main__":
 
-    t = 3
+    t = 2
 
     if t == 0: pass
 
@@ -1027,26 +1077,28 @@ if __name__ == "__main__":
 
         Database.validate_country(country="Turkey")
     
-
+    elif t == 2:
+        
+        Database.get_asn(country="Iran", asns=[215892, 214735, 214145, 213727, 212056])
 
     
-    elif t == 2:
+    elif t == 3:
 
         Database._download_ip_blocks_for_asn()
         
 
-    elif t == 3:
+    elif t == 4:
 
         Database._download_asns_within_each_country()
 
 
     # DO NOT USE THIS
-    elif t == 4:
+    elif t == 5:
 
         Database._download_ip_blocks_for_each_country()
 
 
-    elif t == 5:
+    elif t == 6:
         Database.get_ip_block(filter="Mexico", CONSOLE=console)
 
         from nsm_scanner import Mass_IP_Scanner
@@ -1055,7 +1107,7 @@ if __name__ == "__main__":
 
 
 
-    elif t == 6:
+    elif t == 7:
         data = ["192.168.1.1", "10.0.0.1", "127.0.0.1"]
         File_Saver._push_ips_found(data=data)
 

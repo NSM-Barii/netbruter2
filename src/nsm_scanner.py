@@ -71,7 +71,7 @@ class Mass_IP_Scanner():
 
                 # CONVERT THAT INTEGER BACK INTO A NORMAL X.X.X.X IPV4 ADDRESS
                 random_ip     = ipaddress.IPv4Address(random_ip_int)
-                if random_ip in bf: return
+                if random_ip in bf: return False
                 bf.add(random_ip)
                  
 
@@ -102,6 +102,7 @@ class Mass_IP_Scanner():
 
         
         ip = Mass_IP_Scanner._generate_random_ip(verbose=False)
+        if not ip: return
         if not cls.scan: return False
 
 

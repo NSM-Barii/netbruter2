@@ -15,7 +15,7 @@ import ipaddress, socket, requests
 
 
 # ETC IMPORTS
-import time, random, threading, sys
+import time, random, threading, sys; from pybloom_live import BloomFilter
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 
@@ -24,6 +24,7 @@ from nsm_database import File_Saver, Database
 
 console = Console()
 LOCK = threading.Lock()
+bf = BloomFilter(capacity=100000000, error_rate=0.001)
 
 
 class Mass_IP_Scanner():
@@ -70,6 +71,8 @@ class Mass_IP_Scanner():
 
                 # CONVERT THAT INTEGER BACK INTO A NORMAL X.X.X.X IPV4 ADDRESS
                 random_ip     = ipaddress.IPv4Address(random_ip_int)
+                if random_ip in bf: return
+                bf.add(random_ip)
                  
 
             else: random_ip = (f"{random.randint(0,255)}.{random.randint(0,255)}.{random.randint(0,255)}.{random.randint(0,255)}")

@@ -740,7 +740,7 @@ class Database():
         
         except Exception as e: console.print(f"[bold red][-] Exception Error:[bold yellow] {e}")
     
-
+   
     @classmethod
     def _download_asns_within_each_country(cls):
         """This will be used to download asns for each domain within a country"""
@@ -809,7 +809,6 @@ class Database():
 
         except Exception as e: console.print(f"[bold red][-] Exception Error:[bold yellow] {e}")
     
-
 
     
     @staticmethod

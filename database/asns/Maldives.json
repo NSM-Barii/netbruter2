@@ -1,0 +1,116 @@
+{
+    "7642": {
+        "country_code": "MV",
+        "asn": "7642",
+        "description": "Dhiraagu Pvt.Ltd.",
+        "handle": "DHIRAAGU-MV-AP"
+    },
+    "9446": {
+        "country_code": "MV",
+        "asn": "9446",
+        "description": "Maldives internet exchange",
+        "handle": "MIE-AS-AP"
+    },
+    "24016": {
+        "country_code": "MV",
+        "asn": "24016",
+        "description": "Focus Infocom",
+        "handle": "RAAJJEONLINE-AS"
+    },
+    "24082": {
+        "country_code": "MV",
+        "asn": "24082",
+        "description": "DHIVEHI RAAJJEYGE GULHUN PLC",
+        "handle": "MALDIVES-AS-AP"
+    },
+    "24184": {
+        "country_code": "MV",
+        "asn": "24184",
+        "description": "National Centre for Information Technology",
+        "handle": "GOVERNMENT-NETWORK-MALDIVES"
+    },
+    "55944": {
+        "country_code": "MV",
+        "asn": "55944",
+        "description": "OOREDOO MALDIVES PRIVATE LIMITED",
+        "handle": "OOREDOO-MV"
+    },
+    "132218": {
+        "country_code": "MV",
+        "asn": "132218",
+        "description": "Maldives Customs Service",
+        "handle": "MCS-AS-AP"
+    },
+    "133742": {
+        "country_code": "MV",
+        "asn": "133742",
+        "description": "State Trading Organization Plc",
+        "handle": "STOP-AS-AP"
+    },
+    "135053": {
+        "country_code": "MV",
+        "asn": "135053",
+        "description": "Dhiraagu Pvt.Ltd.",
+        "handle": "DRG-HOSTING-AS-AP"
+    },
+    "136234": {
+        "country_code": "MV",
+        "asn": "136234",
+        "description": "Media Net Pvt Ltd",
+        "handle": "MEDIANETPVTLTD-AS-AP"
+    },
+    "136238": {
+        "country_code": "MV",
+        "asn": "136238",
+        "description": "SatLink Pvt Ltd",
+        "handle": "SATLINKPVTLTD-AS-AP"
+    },
+    "137056": {
+        "country_code": "MV",
+        "asn": "137056",
+        "description": "Tree Top Health Pvt. Ltd.",
+        "handle": "TREETOP-AS-AP"
+    },
+    "137477": {
+        "country_code": "MV",
+        "asn": "137477",
+        "description": "Villa Shipping and Trading Company Pvt. Ltd.",
+        "handle": "VILLA-STC-AS-AP"
+    },
+    "137981": {
+        "country_code": "MV",
+        "asn": "137981",
+        "description": "Bank of Maldives Plc",
+        "handle": "BML-AS-AP"
+    },
+    "140727": {
+        "country_code": "MV",
+        "asn": "140727",
+        "description": "National Centre for Information Technology",
+        "handle": "NCN-AS-AP"
+    },
+    "142112": {
+        "country_code": "MV",
+        "asn": "142112",
+        "description": "ISLAND AVIATION SERVICES LTD",
+        "handle": "IASL-AS-AP"
+    },
+    "147039": {
+        "country_code": "MV",
+        "asn": "147039",
+        "description": "Cyprea Private Limited",
+        "handle": "CYPREA-AS-AP"
+    },
+    "150125": {
+        "country_code": "MV",
+        "asn": "150125",
+        "description": "Maldives internet exchange",
+        "handle": "MIE-AS-AP"
+    },
+    "216469": {
+        "country_code": "MV",
+        "asn": "216469",
+        "description": "Ismail Fayaz trading as PIONEN",
+        "handle": "PIONEN"
+    }
+}

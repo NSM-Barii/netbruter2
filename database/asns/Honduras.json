@@ -1,0 +1,716 @@
+{
+    "4914": {
+        "country_code": "HN",
+        "asn": "4914",
+        "description": "Red Nacional de Honduras HONDUNet",
+        "handle": "RED-NACIONAL-HONDURAS-HONDUNET"
+    },
+    "7727": {
+        "country_code": "HN",
+        "asn": "7727",
+        "description": "Hondutel",
+        "handle": "HONDUTEL"
+    },
+    "22869": {
+        "country_code": "HN",
+        "asn": "22869",
+        "description": "CABLECOLOR S.A.",
+        "handle": "CABLECOLOR"
+    },
+    "23383": {
+        "country_code": "HN",
+        "asn": "23383",
+        "description": "METRORED S.A. DE C.V.",
+        "handle": "METRORED"
+    },
+    "26612": {
+        "country_code": "HN",
+        "asn": "26612",
+        "description": "CGI TELEPORTS",
+        "handle": "CGI-TELEPORTS"
+    },
+    "27696": {
+        "country_code": "HN",
+        "asn": "27696",
+        "description": "LIBERTY NETWORKS HONDURAS SOCIEDAD DE RESPONSABILIDAD LIMITADA",
+        "handle": "LIBERTY-NETWORKS-HONDURAS"
+    },
+    "27729": {
+        "country_code": "HN",
+        "asn": "27729",
+        "description": "Globalnet.hn",
+        "handle": "GLOBALNETHN"
+    },
+    "27793": {
+        "country_code": "HN",
+        "asn": "27793",
+        "description": "Inform\u00e1tica Atl\u00e1ntida",
+        "handle": "INFORMATICA-ATLANTIDA"
+    },
+    "27804": {
+        "country_code": "HN",
+        "asn": "27804",
+        "description": "AMNET HONDURAS S. DE R.L.",
+        "handle": "AMNET-HONDURAS"
+    },
+    "27884": {
+        "country_code": "HN",
+        "asn": "27884",
+        "description": "CABLECOLOR S.A.",
+        "handle": "CABLECOLOR"
+    },
+    "27912": {
+        "country_code": "HN",
+        "asn": "27912",
+        "description": "UNIVERSIDAD TECNOLOGICA CENTROAMERICANA",
+        "handle": "UNIVERSIDAD-TECNOLOGICA-CENTROAMERICANA"
+    },
+    "27920": {
+        "country_code": "HN",
+        "asn": "27920",
+        "description": "SERCOM de Honduras",
+        "handle": "SERCOM-HONDURAS"
+    },
+    "27923": {
+        "country_code": "HN",
+        "asn": "27923",
+        "description": "COMPA\u00d1IA DE TELEVISION VIA SATELITE S.A. (TEVISAT S.A.)",
+        "handle": "COMPANIA-TELEVISION-VIA"
+    },
+    "27932": {
+        "country_code": "HN",
+        "asn": "27932",
+        "description": "Redes y Telecomunicaciones",
+        "handle": "REDES-TELECOMUNICACIONES"
+    },
+    "27966": {
+        "country_code": "HN",
+        "asn": "27966",
+        "description": "Telecorp",
+        "handle": "TELECORP"
+    },
+    "28055": {
+        "country_code": "HN",
+        "asn": "28055",
+        "description": "Banco Azteca Honduras",
+        "handle": "BANCO-AZTECA-HONDURAS"
+    },
+    "28084": {
+        "country_code": "HN",
+        "asn": "28084",
+        "description": "Infatlan S.A",
+        "handle": "INFATLAN"
+    },
+    "28088": {
+        "country_code": "HN",
+        "asn": "28088",
+        "description": "Inversiones Apolo S.A. de C.V.",
+        "handle": "INVERSIONES-APOLO"
+    },
+    "52262": {
+        "country_code": "HN",
+        "asn": "52262",
+        "description": "Telef\u00f3nica Celular S.A",
+        "handle": "TELEFONICA-CELULAR"
+    },
+    "52287": {
+        "country_code": "HN",
+        "asn": "52287",
+        "description": "Collective Solutions",
+        "handle": "COLLECTIVE-SOLUTIONS"
+    },
+    "52390": {
+        "country_code": "HN",
+        "asn": "52390",
+        "description": "Administradora de Redes S.A.",
+        "handle": "ADMINISTRADORA-REDES"
+    },
+    "52393": {
+        "country_code": "HN",
+        "asn": "52393",
+        "description": "Corporaci\u00f3n Dana S.A.",
+        "handle": "CORPORACION-DANA"
+    },
+    "52422": {
+        "country_code": "HN",
+        "asn": "52422",
+        "description": "Velco Globalnetwork",
+        "handle": "VELCO-GLOBALNETWORK"
+    },
+    "52485": {
+        "country_code": "HN",
+        "asn": "52485",
+        "description": "networksdelmanana.com",
+        "handle": "NETWORKSDELMANANACOM"
+    },
+    "64150": {
+        "country_code": "HN",
+        "asn": "64150",
+        "description": "PIT HONDURAS S. DE R.L. DE C.V.",
+        "handle": "PIT-HONDURAS"
+    },
+    "262146": {
+        "country_code": "HN",
+        "asn": "262146",
+        "description": "Datos",
+        "handle": "DATOS"
+    },
+    "262205": {
+        "country_code": "HN",
+        "asn": "262205",
+        "description": "Banco del Pais",
+        "handle": "BANCO-PAIS"
+    },
+    "262234": {
+        "country_code": "HN",
+        "asn": "262234",
+        "description": "ASOCIACION DE SERVICIO DE INTERNET S. DE RL.",
+        "handle": "ASOCIACION-SERVICIO-INTERNET"
+    },
+    "262262": {
+        "country_code": "HN",
+        "asn": "262262",
+        "description": "METRONET",
+        "handle": "METRONET"
+    },
+    "263170": {
+        "country_code": "HN",
+        "asn": "263170",
+        "description": "Netsys",
+        "handle": "NETSYS"
+    },
+    "263179": {
+        "country_code": "HN",
+        "asn": "263179",
+        "description": "Webline Services S.A.",
+        "handle": "WEBLINE-SERVICES"
+    },
+    "263193": {
+        "country_code": "HN",
+        "asn": "263193",
+        "description": "INVESTMENT LL CONTACT CENTER S.A DE CV",
+        "handle": "INVESTMENT-LL-CONTACT"
+    },
+    "263234": {
+        "country_code": "HN",
+        "asn": "263234",
+        "description": "SECRETARIA DE ESTADO EN EL DESPACHO DE FINANZAS",
+        "handle": "SECRETARIA-ESTADO-EL"
+    },
+    "263239": {
+        "country_code": "HN",
+        "asn": "263239",
+        "description": "Banco Financiera Comercial Hondure\u00f1a S.A.",
+        "handle": "BANCO-FINANCIERA-COMERCIAL"
+    },
+    "263686": {
+        "country_code": "HN",
+        "asn": "263686",
+        "description": "INET Communication",
+        "handle": "INET-COMMUNICATION"
+    },
+    "263690": {
+        "country_code": "HN",
+        "asn": "263690",
+        "description": "UNIVERSIDAD NACIONAL AUT\u00d3NOMA DE HONDURAS",
+        "handle": "UNIVERSIDAD-NACIONAL-AUTONOMA"
+    },
+    "263694": {
+        "country_code": "HN",
+        "asn": "263694",
+        "description": "MAYAVISION S. D R.L.",
+        "handle": "MAYAVISION-S-D-RL"
+    },
+    "263725": {
+        "country_code": "HN",
+        "asn": "263725",
+        "description": "MULTICABLE DE HONDURAS",
+        "handle": "MULTICABLE-HONDURAS"
+    },
+    "263735": {
+        "country_code": "HN",
+        "asn": "263735",
+        "description": "SOCIEDAD BUENA HOSTING S.A.",
+        "handle": "SOCIEDAD-BUENA-HOSTING"
+    },
+    "263740": {
+        "country_code": "HN",
+        "asn": "263740",
+        "description": "Corporacion Laceibanetsociety",
+        "handle": "CORPORACION-LACEIBANETSOCIETY"
+    },
+    "263744": {
+        "country_code": "HN",
+        "asn": "263744",
+        "description": "Udasha S.A.",
+        "handle": "UDASHA"
+    },
+    "263794": {
+        "country_code": "HN",
+        "asn": "263794",
+        "description": "Hondutel",
+        "handle": "HONDUTEL"
+    },
+    "263821": {
+        "country_code": "HN",
+        "asn": "263821",
+        "description": "Soluciones Favorables",
+        "handle": "SOLUCIONES-FAVORABLES"
+    },
+    "263829": {
+        "country_code": "HN",
+        "asn": "263829",
+        "description": "HOST PARA TU VIDA S.A.",
+        "handle": "HOST-PARA-TU-VIDA"
+    },
+    "264655": {
+        "country_code": "HN",
+        "asn": "264655",
+        "description": "UNIVERSIDAD CATOLICA DE HONDURAS",
+        "handle": "UNIVERSIDAD-CATOLICA-HONDURAS"
+    },
+    "264658": {
+        "country_code": "HN",
+        "asn": "264658",
+        "description": "MY-TEC S.A.",
+        "handle": "MY-TEC"
+    },
+    "264661": {
+        "country_code": "HN",
+        "asn": "264661",
+        "description": "Escuela Agricola Panemericana Inc. (Zamorano)",
+        "handle": "ESCUELA-AGRICOLA-PANEMERICANA"
+    },
+    "264696": {
+        "country_code": "HN",
+        "asn": "264696",
+        "description": "CABLEMAR",
+        "handle": "CABLEMAR"
+    },
+    "264719": {
+        "country_code": "HN",
+        "asn": "264719",
+        "description": "INGENIERIA TELECOMUNICACIONES S.A de CV",
+        "handle": "INGENIERIA-TELECOMUNICACIONES"
+    },
+    "264773": {
+        "country_code": "HN",
+        "asn": "264773",
+        "description": "GOZFLY S.A.",
+        "handle": "GOZFLY"
+    },
+    "264812": {
+        "country_code": "HN",
+        "asn": "264812",
+        "description": "MASNET SA de CV",
+        "handle": "MASNET"
+    },
+    "264819": {
+        "country_code": "HN",
+        "asn": "264819",
+        "description": "WICOM TELEFONICA S DE R.L.",
+        "handle": "WICOM-TELEFONICA"
+    },
+    "264847": {
+        "country_code": "HN",
+        "asn": "264847",
+        "description": "ENRED S.DE.R.L",
+        "handle": "ENRED-SDERL"
+    },
+    "264850": {
+        "country_code": "HN",
+        "asn": "264850",
+        "description": "TODAS LAS REDES SA",
+        "handle": "TODAS-LAS-REDES"
+    },
+    "265631": {
+        "country_code": "HN",
+        "asn": "265631",
+        "description": "INVERSIONES Y SOLUCIONES GENERALES S.A.",
+        "handle": "INVERSIONES-SOLUCIONES-GENERALES"
+    },
+    "265645": {
+        "country_code": "HN",
+        "asn": "265645",
+        "description": "HOSTINGFOREX S.A.",
+        "handle": "HOSTINGFOREX"
+    },
+    "265665": {
+        "country_code": "HN",
+        "asn": "265665",
+        "description": "CIBERNET S. de RL de CV",
+        "handle": "CIBERNET"
+    },
+    "265671": {
+        "country_code": "HN",
+        "asn": "265671",
+        "description": "PODOJIL CONTRACTING S.A.",
+        "handle": "PODOJIL-CONTRACTING"
+    },
+    "265680": {
+        "country_code": "HN",
+        "asn": "265680",
+        "description": "HNTELCO S.A",
+        "handle": "HNTELCO"
+    },
+    "265706": {
+        "country_code": "HN",
+        "asn": "265706",
+        "description": "WIANET SOLUTIONS",
+        "handle": "WIANET-SOLUTIONS"
+    },
+    "265735": {
+        "country_code": "HN",
+        "asn": "265735",
+        "description": "Max.TV Cable Service Inc. S.A.",
+        "handle": "MAXTV-CABLE-SERVICE"
+    },
+    "265753": {
+        "country_code": "HN",
+        "asn": "265753",
+        "description": "CW HOLDINGS S.A.",
+        "handle": "CW-HOLDINGS"
+    },
+    "265767": {
+        "country_code": "HN",
+        "asn": "265767",
+        "description": "GRUPO INMA S.A",
+        "handle": "GRUPO-INMA"
+    },
+    "265770": {
+        "country_code": "HN",
+        "asn": "265770",
+        "description": "GRUPO LANA S.A.",
+        "handle": "GRUPO-LANA"
+    },
+    "265788": {
+        "country_code": "HN",
+        "asn": "265788",
+        "description": "Denis Javier Rodr\u00edguez Guzm\u00e1n(BRYMANET)",
+        "handle": "DENIS-JAVIER-RODRIGUEZ-GUZMAN"
+    },
+    "265820": {
+        "country_code": "HN",
+        "asn": "265820",
+        "description": "SERVICIO DE ADMINISTRACI\u00d3N DE RENTAS",
+        "handle": "SERVICIO-ADMINISTRACION-RENTAS"
+    },
+    "265827": {
+        "country_code": "HN",
+        "asn": "265827",
+        "description": "CAPITALFUTURO SA",
+        "handle": "CAPITALFUTURO"
+    },
+    "265849": {
+        "country_code": "HN",
+        "asn": "265849",
+        "description": "HONDURAS ADELANTE SA",
+        "handle": "HONDURAS-ADELANTE"
+    },
+    "265850": {
+        "country_code": "HN",
+        "asn": "265850",
+        "description": "TELEIUM SA",
+        "handle": "TELEIUM"
+    },
+    "266820": {
+        "country_code": "HN",
+        "asn": "266820",
+        "description": "HAMMERHEAD DIVE S.A.",
+        "handle": "HAMMERHEAD-DIVE"
+    },
+    "266827": {
+        "country_code": "HN",
+        "asn": "266827",
+        "description": "BOHO BEACH CLUB S.A.",
+        "handle": "BOHO-BEACH-CLUB"
+    },
+    "266842": {
+        "country_code": "HN",
+        "asn": "266842",
+        "description": "HNHOSTING.NET S.A.",
+        "handle": "HNHOSTINGNET"
+    },
+    "266865": {
+        "country_code": "HN",
+        "asn": "266865",
+        "description": "ISPHONDURAS.NET S.A",
+        "handle": "ISPHONDURASNET"
+    },
+    "267737": {
+        "country_code": "HN",
+        "asn": "267737",
+        "description": "BANCO DE OCCIDENTE S.A.",
+        "handle": "BANCO-OCCIDENTE"
+    },
+    "267739": {
+        "country_code": "HN",
+        "asn": "267739",
+        "description": "CABLECOLOR S.A.",
+        "handle": "CABLECOLOR"
+    },
+    "267760": {
+        "country_code": "HN",
+        "asn": "267760",
+        "description": "BANCO FINANCIERA CENTROAMERICANA S.A",
+        "handle": "BANCO-FINANCIERA-CENTROAMERICANA"
+    },
+    "267761": {
+        "country_code": "HN",
+        "asn": "267761",
+        "description": "Onda Network S de R.L",
+        "handle": "ONDA-NETWORK"
+    },
+    "267803": {
+        "country_code": "HN",
+        "asn": "267803",
+        "description": "TEVISAT TELA S.A.",
+        "handle": "TEVISAT-TELA"
+    },
+    "269729": {
+        "country_code": "HN",
+        "asn": "269729",
+        "description": "GRUPO MULTICABLES DE CORTES S.R.L de C.V",
+        "handle": "GRUPO-MULTICABLES-CORTES"
+    },
+    "269780": {
+        "country_code": "HN",
+        "asn": "269780",
+        "description": "INTESA S. DE R.L.",
+        "handle": "INTESA"
+    },
+    "269800": {
+        "country_code": "HN",
+        "asn": "269800",
+        "description": "NTERCONEXION HN S.A",
+        "handle": "NTERCONEXION-HN"
+    },
+    "269866": {
+        "country_code": "HN",
+        "asn": "269866",
+        "description": "CLOUD COLIBRI S.A",
+        "handle": "CLOUD-COLIBRI"
+    },
+    "269869": {
+        "country_code": "HN",
+        "asn": "269869",
+        "description": "Ufinet Honduras S. A.",
+        "handle": "UFINET-HONDURAS-S-A"
+    },
+    "269880": {
+        "country_code": "HN",
+        "asn": "269880",
+        "description": "Honduras Internet S.A.",
+        "handle": "HONDURAS-INTERNET"
+    },
+    "269919": {
+        "country_code": "HN",
+        "asn": "269919",
+        "description": "HONDUVISION SRL",
+        "handle": "HONDUVISION"
+    },
+    "269934": {
+        "country_code": "HN",
+        "asn": "269934",
+        "description": "AIR NETWORK S. DE R. L. DE C.V.",
+        "handle": "AIR-NETWORK-S-R-L"
+    },
+    "269940": {
+        "country_code": "HN",
+        "asn": "269940",
+        "description": "CABLE SISTEMA S.R.L. DE C.V.",
+        "handle": "CABLE-SISTEMA"
+    },
+    "269960": {
+        "country_code": "HN",
+        "asn": "269960",
+        "description": "INNOVA SOLUTIONS S.A. DE C.V.",
+        "handle": "INNOVA-SOLUTIONS"
+    },
+    "269962": {
+        "country_code": "HN",
+        "asn": "269962",
+        "description": "PUNTASALHOSTING S.A.",
+        "handle": "PUNTASALHOSTING"
+    },
+    "269973": {
+        "country_code": "HN",
+        "asn": "269973",
+        "description": "OLANCHO NET S.R.L. DE C.V.",
+        "handle": "OLANCHO-NET"
+    },
+    "271781": {
+        "country_code": "HN",
+        "asn": "271781",
+        "description": "TELECOMUNICACIONES DE MARCALA SOCIEDAD ANONIMA DE CAPITAL VARIABLE",
+        "handle": "TELECOMUNICACIONES-MARCALA-SOCIEDAD"
+    },
+    "271971": {
+        "country_code": "HN",
+        "asn": "271971",
+        "description": "CABLE SATELITE S.DE R.L. DE C.V.",
+        "handle": "CABLE-SATELITE-SDE-RL"
+    },
+    "271981": {
+        "country_code": "HN",
+        "asn": "271981",
+        "description": "MEGANET BROADBAND S DE RL",
+        "handle": "MEGANET-BROADBAND"
+    },
+    "272009": {
+        "country_code": "HN",
+        "asn": "272009",
+        "description": "INVERSIONES NUEVOS HORIZONTES S.A DE C.V",
+        "handle": "INVERSIONES-NUEVOS-HORIZONTES"
+    },
+    "272056": {
+        "country_code": "HN",
+        "asn": "272056",
+        "description": "PALNETS S. de R.L",
+        "handle": "PALNETS"
+    },
+    "272825": {
+        "country_code": "HN",
+        "asn": "272825",
+        "description": "ELRIC DISE\u00d1OS DE HONDURAS S.A.",
+        "handle": "ELRIC-DISENOS-HONDURAS"
+    },
+    "272916": {
+        "country_code": "HN",
+        "asn": "272916",
+        "description": "CAVISAR S. DE R.L.",
+        "handle": "CAVISAR"
+    },
+    "272991": {
+        "country_code": "HN",
+        "asn": "272991",
+        "description": "NewTek S. de R.L de C.V",
+        "handle": "NEWTEK"
+    },
+    "273054": {
+        "country_code": "HN",
+        "asn": "273054",
+        "description": "TELEVISION POR CABLE VIA SATELITE CABLE YOJOA TV SOCIEDAD DE RESPONSABILIDAD LIMITADA",
+        "handle": "TELEVISION-POR-CABLE"
+    },
+    "273160": {
+        "country_code": "HN",
+        "asn": "273160",
+        "description": "CABLE NACIONAL S.A.",
+        "handle": "CABLE-NACIONAL"
+    },
+    "273189": {
+        "country_code": "HN",
+        "asn": "273189",
+        "description": "CA NETWORK S.A. DE C.V.",
+        "handle": "CA-NETWORK"
+    },
+    "273241": {
+        "country_code": "HN",
+        "asn": "273241",
+        "description": "SOL T.V. MAYA S. DE R.L. DE C.V.",
+        "handle": "SOL-TV-MAYA"
+    },
+    "273887": {
+        "country_code": "HN",
+        "asn": "273887",
+        "description": "INVERSIONES MOUNTAIN NETWORKS SOCIEDAD DE RESPONSABILIDAD LIMITADA",
+        "handle": "INVERSIONES-MOUNTAIN-NETWORKS"
+    },
+    "273916": {
+        "country_code": "HN",
+        "asn": "273916",
+        "description": "JUAN CARLOS FRANCO LOBO (INTERCOM HN)",
+        "handle": "JUAN-CARLOS-FRANCO-LOBO"
+    },
+    "273919": {
+        "country_code": "HN",
+        "asn": "273919",
+        "description": "MEGARED SOCIEDAD DE RESPONSABILIDAD LIMITADA",
+        "handle": "MEGARED-SOCIEDAD-RESPONSABILIDAD"
+    },
+    "273972": {
+        "country_code": "HN",
+        "asn": "273972",
+        "description": "SOFTNET S DE RL",
+        "handle": "SOFTNET"
+    },
+    "273980": {
+        "country_code": "HN",
+        "asn": "273980",
+        "description": "INVERSIONES SIRIUS SOCIEDAD DE RESPONSABILIDAD LIMITADA DE CAPITAL VARIABLE",
+        "handle": "INVERSIONES-SIRIUS-SOCIEDAD"
+    },
+    "274023": {
+        "country_code": "HN",
+        "asn": "274023",
+        "description": "INVERSIONES VARALMAR S. DE R.L",
+        "handle": "INVERSIONES-VARALMAR"
+    },
+    "274067": {
+        "country_code": "HN",
+        "asn": "274067",
+        "description": "PIT HONDURAS S. DE R.L. DE C.V.",
+        "handle": "PIT-HONDURAS"
+    },
+    "274074": {
+        "country_code": "HN",
+        "asn": "274074",
+        "description": "HERNANDEZ POLANCO DENNIS EMILIO (LA WEB DE GRACIAS)",
+        "handle": "HERNANDEZ-POLANCO-DENNIS"
+    },
+    "274085": {
+        "country_code": "HN",
+        "asn": "274085",
+        "description": "CORPORATE SOLUTIONS S DE RL DE CV",
+        "handle": "CORPORATE-SOLUTIONS"
+    },
+    "274086": {
+        "country_code": "HN",
+        "asn": "274086",
+        "description": "FIBER NET S.A. DE C.V",
+        "handle": "FIBER-NET"
+    },
+    "274112": {
+        "country_code": "HN",
+        "asn": "274112",
+        "description": "NAVIS S. DE R.L.",
+        "handle": "NAVIS"
+    },
+    "274120": {
+        "country_code": "HN",
+        "asn": "274120",
+        "description": "NOVANET S.A. DE C.V.",
+        "handle": "NOVANET"
+    },
+    "274125": {
+        "country_code": "HN",
+        "asn": "274125",
+        "description": "Speednet S. de R. L. de C. V.",
+        "handle": "SPEEDNET-S-R-L-C-V"
+    },
+    "274189": {
+        "country_code": "HN",
+        "asn": "274189",
+        "description": "CABLE VISION S. DE R.L. DE C.V.",
+        "handle": "CABLE-VISION"
+    },
+    "274234": {
+        "country_code": "HN",
+        "asn": "274234",
+        "description": "Trans Americas Fiber System S.A.",
+        "handle": "TRANS-AMERICAS-FIBER-SYSTEM"
+    },
+    "274235": {
+        "country_code": "HN",
+        "asn": "274235",
+        "description": "SERVICIOS MULTIPLES TECNOLOGICOS S.R.L",
+        "handle": "SERVICIOS-MULTIPLES-TECNOLOGICOS"
+    },
+    "274240": {
+        "country_code": "HN",
+        "asn": "274240",
+        "description": "NETWORK NAT S.A. DE C.V.",
+        "handle": "NETWORK-NAT"
+    }
+}

@@ -1,0 +1,194 @@
+{
+    "25543": {
+        "country_code": "BF",
+        "asn": "25543",
+        "description": "ONATEL (Office National des Telecommunications PTT)",
+        "handle": "FASONET-AS"
+    },
+    "37008": {
+        "country_code": "BF",
+        "asn": "37008",
+        "description": "Sancfis Faso SA",
+        "handle": "ALINK-FASO"
+    },
+    "37073": {
+        "country_code": "BF",
+        "asn": "37073",
+        "description": "Internet Puissance Plus Burkina SA",
+        "handle": "IPP-BURKINA-AS"
+    },
+    "37163": {
+        "country_code": "BF",
+        "asn": "37163",
+        "description": "IPSYSTEM S.A",
+        "handle": "IPSYSTEM"
+    },
+    "37526": {
+        "country_code": "BF",
+        "asn": "37526",
+        "description": "TELECEL FASO",
+        "handle": "TELECEL-FASO"
+    },
+    "37577": {
+        "country_code": "BF",
+        "asn": "37577",
+        "description": "Orange Burkina Faso",
+        "handle": "ORANGE-BF"
+    },
+    "37648": {
+        "country_code": "BF",
+        "asn": "37648",
+        "description": "Union Economique et Monetaire Ouest Africaine (UEMOA)",
+        "handle": "UEMOA"
+    },
+    "37716": {
+        "country_code": "BF",
+        "asn": "37716",
+        "description": "Burkina Faso Internet EXchange Point ( BFIX)",
+        "handle": "BURKINA-IX-PEERING"
+    },
+    "37721": {
+        "country_code": "BF",
+        "asn": "37721",
+        "description": "Virtual Technologies & Solutions",
+        "handle": "VIRTUAL-TECHNOLOGIES-SOLUTIONS-SA"
+    },
+    "37734": {
+        "country_code": "BF",
+        "asn": "37734",
+        "description": "Virtual Technologies & Solutions",
+        "handle": "VIRTIX-DATACENTER"
+    },
+    "327871": {
+        "country_code": "BF",
+        "asn": "327871",
+        "description": "Agence Nationale de Promotion des TIC (ANPTIC)",
+        "handle": "ANPTIC"
+    },
+    "328010": {
+        "country_code": "BF",
+        "asn": "328010",
+        "description": "Burkina Faso Internet EXchange Point ( BFIX)",
+        "handle": "BURKINA-IX-MNGNT"
+    },
+    "328215": {
+        "country_code": "BF",
+        "asn": "328215",
+        "description": "Universal Communication SA",
+        "handle": "UNIVERSAL-COMMUNICATION-AS"
+    },
+    "328245": {
+        "country_code": "BF",
+        "asn": "328245",
+        "description": "Autorite de Regulation des Communications Electroniques et des Postes",
+        "handle": "ARCEP-AS"
+    },
+    "328316": {
+        "country_code": "BF",
+        "asn": "328316",
+        "description": "Point d'Atterissement Virtuel - Burkina Faso",
+        "handle": "POINT-ATTERISSEMENT-AS"
+    },
+    "328330": {
+        "country_code": "BF",
+        "asn": "328330",
+        "description": "Agence Nationale de S\u00e9curit\u00e9 des Syst\u00e8mes d'Information (ANSSI)",
+        "handle": "ANSII-AS"
+    },
+    "328424": {
+        "country_code": "BF",
+        "asn": "328424",
+        "description": "IT PROJET",
+        "handle": "IT-PROJET-AS"
+    },
+    "328432": {
+        "country_code": "BF",
+        "asn": "328432",
+        "description": "NORTH STAR INTERNATIONAL",
+        "handle": "NORTH-STAR-INTERNATIONAL-AS"
+    },
+    "328448": {
+        "country_code": "BF",
+        "asn": "328448",
+        "description": "La Direction g\u00e9n\u00e9rale des imp\u00f4ts",
+        "handle": "DIRECTION-GENERALE-DES-IMPOTS-AS"
+    },
+    "328472": {
+        "country_code": "BF",
+        "asn": "328472",
+        "description": "YULCOM TECHNOLOGIES",
+        "handle": "YULCOM-TECHNOLOGIES"
+    },
+    "328534": {
+        "country_code": "BF",
+        "asn": "328534",
+        "description": "AFREENET SA",
+        "handle": "AFREENET-SA"
+    },
+    "328627": {
+        "country_code": "BF",
+        "asn": "328627",
+        "description": "Agence des technologies de communication et de s\u00e9curite (A.T.C.S)",
+        "handle": "ATCS-AS"
+    },
+    "328716": {
+        "country_code": "BF",
+        "asn": "328716",
+        "description": "VIPNET BURKINA FASO",
+        "handle": "VIPNET-BUKINA-FASO"
+    },
+    "328721": {
+        "country_code": "BF",
+        "asn": "328721",
+        "description": "Groupe Netforce",
+        "handle": "GROUPE-NETFORCE-AS"
+    },
+    "328898": {
+        "country_code": "BF",
+        "asn": "328898",
+        "description": "Association Burkinabe des Domaines Internet (ABDI)",
+        "handle": "ABDD-AS"
+    },
+    "328967": {
+        "country_code": "BF",
+        "asn": "328967",
+        "description": "PROCOMSAT AFRIQUE",
+        "handle": "PA16-AS"
+    },
+    "329041": {
+        "country_code": "BF",
+        "asn": "329041",
+        "description": "Association Nationale D'Education Et De Recherche Du Burkina Faso - F@soREN",
+        "handle": "ANDE1-AS"
+    },
+    "329306": {
+        "country_code": "BF",
+        "asn": "329306",
+        "description": "Soci\u00e9t\u00e9 Nationale d'Electricit\u00e9 du Burkina (SONABEL)",
+        "handle": "SONABEL"
+    },
+    "329440": {
+        "country_code": "BF",
+        "asn": "329440",
+        "description": "OFFICE NATIONAL DE L'EAU ET DE L'ASSAINISSEMENT - ONEA -",
+        "handle": "OFFICE-NATIONAL-DE-LEAU-ET-DE-LASSAINISSEMENT-ONEA"
+    },
+    "329485": {
+        "country_code": "BF",
+        "asn": "329485",
+        "description": "Bridge Fiber Solutions",
+        "handle": "BRIDGE-FIBER"
+    },
+    "329633": {
+        "country_code": "BF",
+        "asn": "329633",
+        "description": "SERENITY SARL",
+        "handle": "SERENITY-SARL"
+    },
+    "329651": {
+        "country_code": "BF",
+        "asn": "329651",
+        "description": "integris",
+        "handle": "INTEGRIS"
+    }
+}

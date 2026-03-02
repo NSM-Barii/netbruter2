@@ -1,0 +1,176 @@
+{
+    "13190": {
+        "country_code": "LI",
+        "asn": "13190",
+        "description": "Cryptoshell AG",
+        "handle": "CRYPTOSHELL"
+    },
+    "15955": {
+        "country_code": "LI",
+        "asn": "15955",
+        "description": "SupraNet AG",
+        "handle": "SUPRANET"
+    },
+    "20634": {
+        "country_code": "LI",
+        "asn": "20634",
+        "description": "Telecom Liechtenstein AG",
+        "handle": "TELECOM-LI"
+    },
+    "21113": {
+        "country_code": "LI",
+        "asn": "21113",
+        "description": "Hilti AG",
+        "handle": "HILTI-AS"
+    },
+    "25581": {
+        "country_code": "LI",
+        "asn": "25581",
+        "description": "GMG AG",
+        "handle": "GMG"
+    },
+    "35223": {
+        "country_code": "LI",
+        "asn": "35223",
+        "description": "Hoi Internet AG",
+        "handle": "HOI-AS"
+    },
+    "35535": {
+        "country_code": "LI",
+        "asn": "35535",
+        "description": "Verwaltungs- und Privat Bank AG",
+        "handle": "VPB-AS"
+    },
+    "39145": {
+        "country_code": "LI",
+        "asn": "39145",
+        "description": "kyberna AG",
+        "handle": "KYBERNA-LI"
+    },
+    "39430": {
+        "country_code": "LI",
+        "asn": "39430",
+        "description": "Bank Frick AG",
+        "handle": "BANKFRICK"
+    },
+    "42162": {
+        "country_code": "LI",
+        "asn": "42162",
+        "description": "QualityNet AG",
+        "handle": "QNET"
+    },
+    "43119": {
+        "country_code": "LI",
+        "asn": "43119",
+        "description": "Hilcona Aktiengesellschaft",
+        "handle": "HILCONA-AS"
+    },
+    "48491": {
+        "country_code": "LI",
+        "asn": "48491",
+        "description": "Herbert Ospelt Anstalt",
+        "handle": "OSPELT"
+    },
+    "48576": {
+        "country_code": "LI",
+        "asn": "48576",
+        "description": "Dr. Risch AG",
+        "handle": "RISCH"
+    },
+    "49652": {
+        "country_code": "LI",
+        "asn": "49652",
+        "description": "Domar Treuhand- und Verwaltungs-Anstalt",
+        "handle": "DOMAR-AS"
+    },
+    "56653": {
+        "country_code": "LI",
+        "asn": "56653",
+        "description": "TV-COM AG",
+        "handle": "TV-COM-AG"
+    },
+    "57210": {
+        "country_code": "LI",
+        "asn": "57210",
+        "description": "thyssenkrupp Presta AG",
+        "handle": "TK-AG"
+    },
+    "58171": {
+        "country_code": "LI",
+        "asn": "58171",
+        "description": "Verein Rheintal IX",
+        "handle": "RIX-RS-AS"
+    },
+    "59748": {
+        "country_code": "LI",
+        "asn": "59748",
+        "description": "Kaiser Partner Management Services Anstalt",
+        "handle": "KPMS"
+    },
+    "61150": {
+        "country_code": "LI",
+        "asn": "61150",
+        "description": "Verein Rheintal IX",
+        "handle": "RIX-SERVICE-AS"
+    },
+    "61363": {
+        "country_code": "LI",
+        "asn": "61363",
+        "description": "Ivoclar Vivadent AG",
+        "handle": "IVOCLAR"
+    },
+    "198288": {
+        "country_code": "LI",
+        "asn": "198288",
+        "description": "Newsnet AG",
+        "handle": "NEWSNET"
+    },
+    "202405": {
+        "country_code": "LI",
+        "asn": "202405",
+        "description": "Liechtensteinische Landesbank AG",
+        "handle": "LLB"
+    },
+    "202908": {
+        "country_code": "LI",
+        "asn": "202908",
+        "description": "LGT Financial Services AG",
+        "handle": "LGT-LI-AS"
+    },
+    "204342": {
+        "country_code": "LI",
+        "asn": "204342",
+        "description": "vestra ICT Ltd.",
+        "handle": "VESTRA"
+    },
+    "205183": {
+        "country_code": "LI",
+        "asn": "205183",
+        "description": "Neue Bank AG",
+        "handle": "NEUEBANK"
+    },
+    "205589": {
+        "country_code": "LI",
+        "asn": "205589",
+        "description": "Yves Jacques Meier",
+        "handle": "ADE22"
+    },
+    "206478": {
+        "country_code": "LI",
+        "asn": "206478",
+        "description": "li-life web + it establishment",
+        "handle": "LILIFE"
+    },
+    "211493": {
+        "country_code": "LI",
+        "asn": "211493",
+        "description": "TAG Systems AG",
+        "handle": "TAGSYSTEMS"
+    },
+    "213571": {
+        "country_code": "LI",
+        "asn": "213571",
+        "description": "David Robert Zelder",
+        "handle": "CODEBOTZ"
+    }
+}

@@ -1,0 +1,1466 @@
+{
+    "12455": {
+        "country_code": "KE",
+        "asn": "12455",
+        "description": "Kenyan Post & Telecommunications Company / Telkom Kenya Ltd",
+        "handle": "JAMBONET"
+    },
+    "12556": {
+        "country_code": "KE",
+        "asn": "12556",
+        "description": "Internet Solutions (Kenya)",
+        "handle": "INTERNET-SOLUTIONS-KE"
+    },
+    "15399": {
+        "country_code": "KE",
+        "asn": "15399",
+        "description": "Wananchi Group (Kenya) Limited",
+        "handle": "WANANCHI-KE"
+    },
+    "15808": {
+        "country_code": "KE",
+        "asn": "15808",
+        "description": "ACCESSKENYA GROUP LTD is an ISP serving",
+        "handle": "ACCESSKENYA-KE"
+    },
+    "16907": {
+        "country_code": "KE",
+        "asn": "16907",
+        "description": "Wananchi Group (Kenya) Limited",
+        "handle": "ISPKENYA"
+    },
+    "30896": {
+        "country_code": "KE",
+        "asn": "30896",
+        "description": "Afsat Communications Ltd",
+        "handle": "ECHO-NAMIBIA-AS"
+    },
+    "30994": {
+        "country_code": "KE",
+        "asn": "30994",
+        "description": "Kenyan Post & Telecommunications Company / Telkom Kenya Ltd",
+        "handle": "GALILEO-KENYA"
+    },
+    "33770": {
+        "country_code": "KE",
+        "asn": "33770",
+        "description": "Liquid Telecommunications Kenya Limited",
+        "handle": "KDN"
+    },
+    "33771": {
+        "country_code": "KE",
+        "asn": "33771",
+        "description": "Safaricom Limited",
+        "handle": "SAFARICOM-LIMITED"
+    },
+    "36866": {
+        "country_code": "KE",
+        "asn": "36866",
+        "description": "Jamii Telecommunications Limited",
+        "handle": "JTL"
+    },
+    "36904": {
+        "country_code": "KE",
+        "asn": "36904",
+        "description": "Craft Silicon Ltd",
+        "handle": "CRAFT-SILICON"
+    },
+    "36914": {
+        "country_code": "KE",
+        "asn": "36914",
+        "description": "Kenya Education Network",
+        "handle": "KENET-AS"
+    },
+    "36915": {
+        "country_code": "KE",
+        "asn": "36915",
+        "description": "Echotel International Kenya Limited",
+        "handle": "AFOL-KE-AS"
+    },
+    "36926": {
+        "country_code": "KE",
+        "asn": "36926",
+        "description": "Airtel Networks Kenya Limited",
+        "handle": "CKL1-ASN"
+    },
+    "36948": {
+        "country_code": "KE",
+        "asn": "36948",
+        "description": "Kenya Network Information Centre (KENIC)",
+        "handle": "KENIC"
+    },
+    "36967": {
+        "country_code": "KE",
+        "asn": "36967",
+        "description": "DATABIT LIMITED",
+        "handle": "DATABIT"
+    },
+    "36975": {
+        "country_code": "KE",
+        "asn": "36975",
+        "description": "NCBA Bank Kenya Plc",
+        "handle": "NCBA-BANK-KENYA"
+    },
+    "36987": {
+        "country_code": "KE",
+        "asn": "36987",
+        "description": "Google Kenya Limited",
+        "handle": "GOOGLE-AS"
+    },
+    "37019": {
+        "country_code": "KE",
+        "asn": "37019",
+        "description": "INTERSAT AFRICA LTD",
+        "handle": "IAL"
+    },
+    "37044": {
+        "country_code": "KE",
+        "asn": "37044",
+        "description": "Tangerine Limited",
+        "handle": "TANGERINE-AS"
+    },
+    "37052": {
+        "country_code": "KE",
+        "asn": "37052",
+        "description": "United Nations Office Nairobi (UNON)",
+        "handle": "UNON-AS"
+    },
+    "37061": {
+        "country_code": "KE",
+        "asn": "37061",
+        "description": "Safaricom Limited",
+        "handle": "SAFARICOM"
+    },
+    "37109": {
+        "country_code": "KE",
+        "asn": "37109",
+        "description": "MyISP Limited",
+        "handle": "MYISP-AS"
+    },
+    "37129": {
+        "country_code": "KE",
+        "asn": "37129",
+        "description": "Rasmilink",
+        "handle": "RASMILINK-AS"
+    },
+    "37156": {
+        "country_code": "KE",
+        "asn": "37156",
+        "description": "Xtranet Communications Ltd",
+        "handle": "XTRANET"
+    },
+    "37165": {
+        "country_code": "KE",
+        "asn": "37165",
+        "description": "WebRunner Limited",
+        "handle": "WEBRUNNER"
+    },
+    "37166": {
+        "country_code": "KE",
+        "asn": "37166",
+        "description": "Kenya Airways",
+        "handle": "KENYA-AIRWAYS"
+    },
+    "37210": {
+        "country_code": "KE",
+        "asn": "37210",
+        "description": "National Bank of Kenya",
+        "handle": "NBK"
+    },
+    "37219": {
+        "country_code": "KE",
+        "asn": "37219",
+        "description": "Information and Communications Technology Authority",
+        "handle": "ICTA-KE"
+    },
+    "37244": {
+        "country_code": "KE",
+        "asn": "37244",
+        "description": "DT DOBIE KENYA LTD",
+        "handle": "DTDOBIE"
+    },
+    "37247": {
+        "country_code": "KE",
+        "asn": "37247",
+        "description": "Jhpiego Corporation",
+        "handle": "JHPIEGO"
+    },
+    "37261": {
+        "country_code": "KE",
+        "asn": "37261",
+        "description": "The Rockefeller Foundation",
+        "handle": "ROCKFELLER"
+    },
+    "37274": {
+        "country_code": "KE",
+        "asn": "37274",
+        "description": "NIC Bank",
+        "handle": "NICBANK"
+    },
+    "37298": {
+        "country_code": "KE",
+        "asn": "37298",
+        "description": "Equity Bank Ltd",
+        "handle": "EQUITYBANK"
+    },
+    "37305": {
+        "country_code": "KE",
+        "asn": "37305",
+        "description": "Frontier Optical Networks Ltd",
+        "handle": "FON"
+    },
+    "37307": {
+        "country_code": "KE",
+        "asn": "37307",
+        "description": "Alliance for a Green Revolution in Africa",
+        "handle": "AGRA"
+    },
+    "37319": {
+        "country_code": "KE",
+        "asn": "37319",
+        "description": "Guaranty Trust Bank (Kenya) Ltd",
+        "handle": "FINA-BANK"
+    },
+    "37346": {
+        "country_code": "KE",
+        "asn": "37346",
+        "description": "Davis & Shirtliff Ltd",
+        "handle": "DAVIS-SHIRTLIFF"
+    },
+    "37354": {
+        "country_code": "KE",
+        "asn": "37354",
+        "description": "SawaSawa.com",
+        "handle": "SAWASAWA"
+    },
+    "37421": {
+        "country_code": "KE",
+        "asn": "37421",
+        "description": "Cellulant LTD",
+        "handle": "CELLULANT"
+    },
+    "37470": {
+        "country_code": "KE",
+        "asn": "37470",
+        "description": "Kenya Red Cross",
+        "handle": "KENYA-RED-CROSS"
+    },
+    "37499": {
+        "country_code": "KE",
+        "asn": "37499",
+        "description": "UAP Holdings Limited",
+        "handle": "UAP"
+    },
+    "37535": {
+        "country_code": "KE",
+        "asn": "37535",
+        "description": "PAYNET KENYA LIMITED",
+        "handle": "PAYNET"
+    },
+    "37578": {
+        "country_code": "KE",
+        "asn": "37578",
+        "description": "Telecommunication Sevice Providers Association of Kenya - TESPOK",
+        "handle": "TESPOK"
+    },
+    "37579": {
+        "country_code": "KE",
+        "asn": "37579",
+        "description": "Nation Media Group",
+        "handle": "NMG-AS"
+    },
+    "37601": {
+        "country_code": "KE",
+        "asn": "37601",
+        "description": "Isuzu East Africa Limited",
+        "handle": "GMEA-AS"
+    },
+    "37684": {
+        "country_code": "KE",
+        "asn": "37684",
+        "description": "Angani Limited",
+        "handle": "ANGANI-AS"
+    },
+    "37685": {
+        "country_code": "KE",
+        "asn": "37685",
+        "description": "Compfix Data Limited",
+        "handle": "COMPFIXDL-AS"
+    },
+    "37704": {
+        "country_code": "KE",
+        "asn": "37704",
+        "description": "Telecommunication Sevice Providers Association of Kenya - TESPOK",
+        "handle": "NAIROBI-IX-PEERING"
+    },
+    "37732": {
+        "country_code": "KE",
+        "asn": "37732",
+        "description": "LINX (Internet Exchange) Kenya Limited",
+        "handle": "LINX-KENYA-AS"
+    },
+    "37770": {
+        "country_code": "KE",
+        "asn": "37770",
+        "description": "Telecommunication Sevice Providers Association of Kenya - TESPOK",
+        "handle": "KIXP-MOMBASA-PEERING"
+    },
+    "37786": {
+        "country_code": "KE",
+        "asn": "37786",
+        "description": "Telecommunication Sevice Providers Association of Kenya - TESPOK",
+        "handle": "KIXP-ICOLO-PEERING"
+    },
+    "37789": {
+        "country_code": "KE",
+        "asn": "37789",
+        "description": "Telecommunication Sevice Providers Association of Kenya - TESPOK",
+        "handle": "KIXP-PAIX-NAIROBI-PEERINGAS"
+    },
+    "37804": {
+        "country_code": "KE",
+        "asn": "37804",
+        "description": "LINX (Internet Exchange) Kenya Limited",
+        "handle": "LINX-MOMBASSA-AS"
+    },
+    "37807": {
+        "country_code": "KE",
+        "asn": "37807",
+        "description": "PLUGINS IX LTD",
+        "handle": "PLUGINSIX-MOMBASA-PEERING"
+    },
+    "37808": {
+        "country_code": "KE",
+        "asn": "37808",
+        "description": "PLUGINS IX LTD",
+        "handle": "PLUGINSIX-NAIROBI-PEERING"
+    },
+    "207113": {
+        "country_code": "KE",
+        "asn": "207113",
+        "description": "Cyrus Mbitao trading as Wofbit Networks",
+        "handle": "WOFBIT-NETWORKS"
+    },
+    "327689": {
+        "country_code": "KE",
+        "asn": "327689",
+        "description": "WebRunner Limited",
+        "handle": "WEBRUNNER"
+    },
+    "327713": {
+        "country_code": "KE",
+        "asn": "327713",
+        "description": "Equity Bank Ltd",
+        "handle": "EQUITY-AS"
+    },
+    "327748": {
+        "country_code": "KE",
+        "asn": "327748",
+        "description": "Co-operative Bank of Kenya",
+        "handle": "COOP-BANK-KENYA"
+    },
+    "327753": {
+        "country_code": "KE",
+        "asn": "327753",
+        "description": "SBM BANK (KENYA) LIMITED",
+        "handle": "SBM-BANK-KENYA"
+    },
+    "327766": {
+        "country_code": "KE",
+        "asn": "327766",
+        "description": "TECH PITCH LTD",
+        "handle": "TECHPITCH-LTDKENYA"
+    },
+    "327780": {
+        "country_code": "KE",
+        "asn": "327780",
+        "description": "INTERSAT AFRICA LTD",
+        "handle": "INTERSAT-2014"
+    },
+    "327789": {
+        "country_code": "KE",
+        "asn": "327789",
+        "description": "COMMCARRIER SATELLITE SERVICES LIMITED",
+        "handle": "CSSL"
+    },
+    "327793": {
+        "country_code": "KE",
+        "asn": "327793",
+        "description": "World Vision Kenya",
+        "handle": "WORLD-VISION"
+    },
+    "327884": {
+        "country_code": "KE",
+        "asn": "327884",
+        "description": "I&M Bank Limited",
+        "handle": "I-AND-M-BANK"
+    },
+    "327906": {
+        "country_code": "KE",
+        "asn": "327906",
+        "description": "Embarq Limited",
+        "handle": "EMBARQ"
+    },
+    "327927": {
+        "country_code": "KE",
+        "asn": "327927",
+        "description": "LABOREX KENYA LTD",
+        "handle": "LABOREX-KENYA"
+    },
+    "327945": {
+        "country_code": "KE",
+        "asn": "327945",
+        "description": "International Livestock Research Institute",
+        "handle": "ILRI"
+    },
+    "327963": {
+        "country_code": "KE",
+        "asn": "327963",
+        "description": "Geonet Communications Ltd",
+        "handle": "GEONET"
+    },
+    "327972": {
+        "country_code": "KE",
+        "asn": "327972",
+        "description": "Mawingu Networks Ltd",
+        "handle": "MAWINGU-NETWORKS-LTD"
+    },
+    "327977": {
+        "country_code": "KE",
+        "asn": "327977",
+        "description": "Family Bank Ltd",
+        "handle": "FAMILY-BANK"
+    },
+    "327994": {
+        "country_code": "KE",
+        "asn": "327994",
+        "description": "Britam Holdings Limited",
+        "handle": "BRITAM-HOLDINGS-LIMITED"
+    },
+    "328087": {
+        "country_code": "KE",
+        "asn": "328087",
+        "description": "Unga Holdings Limited",
+        "handle": "UNGA-HOLDINGS-AS"
+    },
+    "328089": {
+        "country_code": "KE",
+        "asn": "328089",
+        "description": "Kenya Revenue Authority",
+        "handle": "KENYA-REVENUE-AUTHORITY-AS"
+    },
+    "328090": {
+        "country_code": "KE",
+        "asn": "328090",
+        "description": "Gulf African Bank",
+        "handle": "GULF-AFRICAN-BANK-AS"
+    },
+    "328093": {
+        "country_code": "KE",
+        "asn": "328093",
+        "description": "Kenya Commercial Bank Limited",
+        "handle": "KENYA-COMMERCIAL-BANK-AS"
+    },
+    "328100": {
+        "country_code": "KE",
+        "asn": "328100",
+        "description": "Telecommunication Sevice Providers Association of Kenya - TESPOK",
+        "handle": "GPRS-ROAMING-EXCHANGE-AS"
+    },
+    "328103": {
+        "country_code": "KE",
+        "asn": "328103",
+        "description": "BRADLEY LIMITED",
+        "handle": "BRADLEY-AS"
+    },
+    "328132": {
+        "country_code": "KE",
+        "asn": "328132",
+        "description": "Bank Of Africa Kenya Limited",
+        "handle": "BANK-OF-AFRICA-KENYA-AS"
+    },
+    "328142": {
+        "country_code": "KE",
+        "asn": "328142",
+        "description": "Eclectics International Ltd",
+        "handle": "ECLECTICS-INTERNATIONAL-AS"
+    },
+    "328162": {
+        "country_code": "KE",
+        "asn": "328162",
+        "description": "Icolo Ltd",
+        "handle": "ICOLO"
+    },
+    "328192": {
+        "country_code": "KE",
+        "asn": "328192",
+        "description": "Kenya Post Office Savings Bank",
+        "handle": "KENYA-POST-OFFICE-SAVINGS-BANK"
+    },
+    "328201": {
+        "country_code": "KE",
+        "asn": "328201",
+        "description": "Elige Communications Limited",
+        "handle": "ELIGE-COMMUNICATIONS-LTD"
+    },
+    "328225": {
+        "country_code": "KE",
+        "asn": "328225",
+        "description": "Strathmore University",
+        "handle": "STRATHMORE-UNIVERSITY"
+    },
+    "328271": {
+        "country_code": "KE",
+        "asn": "328271",
+        "description": "Syokinet Solutions Limited",
+        "handle": "SYOKINET-SOLUTIONS-AS"
+    },
+    "328296": {
+        "country_code": "KE",
+        "asn": "328296",
+        "description": "Atlancis Technologies Limited",
+        "handle": "ATLANCIS-AS"
+    },
+    "328298": {
+        "country_code": "KE",
+        "asn": "328298",
+        "description": "Duara Systems Limited",
+        "handle": "DUARA-AS"
+    },
+    "328301": {
+        "country_code": "KE",
+        "asn": "328301",
+        "description": "MESSAGE LABS AFRICA LTD",
+        "handle": "MESSAGELABS-AS"
+    },
+    "328302": {
+        "country_code": "KE",
+        "asn": "328302",
+        "description": "Cloud One Ltd",
+        "handle": "CLOUDONE-AS"
+    },
+    "328331": {
+        "country_code": "KE",
+        "asn": "328331",
+        "description": "POA INTERNET KENYA LIMITED",
+        "handle": "POA-INTERNET-AS"
+    },
+    "328354": {
+        "country_code": "KE",
+        "asn": "328354",
+        "description": "CABLE ONE LIMITED",
+        "handle": "CABLE-ONE-AS"
+    },
+    "328380": {
+        "country_code": "KE",
+        "asn": "328380",
+        "description": "PRIME BANK LIMITED",
+        "handle": "PRIME-BANK-AS"
+    },
+    "328392": {
+        "country_code": "KE",
+        "asn": "328392",
+        "description": "Unaitas Savings and Credit Co-operative Society Limited",
+        "handle": "USAC1-AS"
+    },
+    "328465": {
+        "country_code": "KE",
+        "asn": "328465",
+        "description": "INTEGRATED PAYMENT SERVICES LIMITED",
+        "handle": "INTEGRATED-PAYMENT-SERVICES-AS"
+    },
+    "328466": {
+        "country_code": "KE",
+        "asn": "328466",
+        "description": "The International School of Kenya Limited",
+        "handle": "INTERNATIONAL-SCHOOL-OF-KENYA-AS"
+    },
+    "328475": {
+        "country_code": "KE",
+        "asn": "328475",
+        "description": "AFRIQ NETWORK SOLUTIONS LIMITED",
+        "handle": "AFRIQ-NETWORK-SOLUTIONS-AS"
+    },
+    "328477": {
+        "country_code": "KE",
+        "asn": "328477",
+        "description": "African Banking Corporation Limited",
+        "handle": "AFRICAN-BANKING-CORPORATION"
+    },
+    "328479": {
+        "country_code": "KE",
+        "asn": "328479",
+        "description": "BULSHO FIBER LINK LIMITED",
+        "handle": "BULSHO-FIBER-LINK-AS"
+    },
+    "328482": {
+        "country_code": "KE",
+        "asn": "328482",
+        "description": "SKY TREND NETWORKS LIMITED",
+        "handle": "SKYTREND-NETWORKS"
+    },
+    "328490": {
+        "country_code": "KE",
+        "asn": "328490",
+        "description": "Unwired Communications Limited",
+        "handle": "UNWIRED-COMMUNICATIONS"
+    },
+    "328578": {
+        "country_code": "KE",
+        "asn": "328578",
+        "description": "KEMNET TECHNOLOGIES LIMITED",
+        "handle": "KEMNET-TECHNOLOGIES-AS"
+    },
+    "328592": {
+        "country_code": "KE",
+        "asn": "328592",
+        "description": "Central Bank of kenya",
+        "handle": "CENTRAL-BANK-KENYA"
+    },
+    "328606": {
+        "country_code": "KE",
+        "asn": "328606",
+        "description": "Iristel Kenya Limited",
+        "handle": "IRISTEL-KENYA-AS"
+    },
+    "328636": {
+        "country_code": "KE",
+        "asn": "328636",
+        "description": "Jambo telecoms limited",
+        "handle": "JAMBO-TELECOMS"
+    },
+    "328637": {
+        "country_code": "KE",
+        "asn": "328637",
+        "description": "Travelport Services (Kenya) Limited",
+        "handle": "TRAVELPORT-SERVICES-AS"
+    },
+    "328652": {
+        "country_code": "KE",
+        "asn": "328652",
+        "description": "Hirani Telecommunication ltd",
+        "handle": "HIRANI-TELECOMMUNICATION"
+    },
+    "328705": {
+        "country_code": "KE",
+        "asn": "328705",
+        "description": "Victoria Commercial Bank Limited",
+        "handle": "VICTORIA-COMMERCIAL-BANK-LIMITED"
+    },
+    "328724": {
+        "country_code": "KE",
+        "asn": "328724",
+        "description": "ISAT AFRICA KENYA LTD",
+        "handle": "ISAT-KENYA-AS"
+    },
+    "328734": {
+        "country_code": "KE",
+        "asn": "328734",
+        "description": "Blue Streak Horizons Net Limited",
+        "handle": "TANDAA-NETWORKS"
+    },
+    "328739": {
+        "country_code": "KE",
+        "asn": "328739",
+        "description": "KENYA PORTS AUTHORITY",
+        "handle": "KENYA-PORTS-AUTHORITY"
+    },
+    "328753": {
+        "country_code": "KE",
+        "asn": "328753",
+        "description": "Zeplin Investments Ltd",
+        "handle": "ZEPLIN-INVESTMENTS-AS"
+    },
+    "328782": {
+        "country_code": "KE",
+        "asn": "328782",
+        "description": "Karti Telecom Limited",
+        "handle": "KARTI-TELECOM"
+    },
+    "328784": {
+        "country_code": "KE",
+        "asn": "328784",
+        "description": "Credit Bank PLC",
+        "handle": "CREDIT-BANK"
+    },
+    "328793": {
+        "country_code": "KE",
+        "asn": "328793",
+        "description": "BRAND-fi Technologies Ltd",
+        "handle": "BTL7-AS"
+    },
+    "328800": {
+        "country_code": "KE",
+        "asn": "328800",
+        "description": "Faulu Microfinance Bank Limited",
+        "handle": "FMBL-MNT"
+    },
+    "328804": {
+        "country_code": "KE",
+        "asn": "328804",
+        "description": "Pesa Pap Digital Limited",
+        "handle": "PP-AS"
+    },
+    "328808": {
+        "country_code": "KE",
+        "asn": "328808",
+        "description": "DUMATEL AFRICA LIMITED",
+        "handle": "DUMATEL-AS"
+    },
+    "328815": {
+        "country_code": "KE",
+        "asn": "328815",
+        "description": "Sky World Limited",
+        "handle": "SWL-AS"
+    },
+    "328835": {
+        "country_code": "KE",
+        "asn": "328835",
+        "description": "Easy BroadBand Limited",
+        "handle": "EASY-BROADBAND"
+    },
+    "328836": {
+        "country_code": "KE",
+        "asn": "328836",
+        "description": "SIDIAN BANK LIMITED",
+        "handle": "SIDIAN-BANK"
+    },
+    "328846": {
+        "country_code": "KE",
+        "asn": "328846",
+        "description": "First Basics Technologies Limited",
+        "handle": "FBT-AS"
+    },
+    "328847": {
+        "country_code": "KE",
+        "asn": "328847",
+        "description": "THE KONZA TECHNOPOLIS DEVELOPMENT AUTHORITY",
+        "handle": "KOTDA"
+    },
+    "328856": {
+        "country_code": "KE",
+        "asn": "328856",
+        "description": "VIJIJI CONNECT LIMITED",
+        "handle": "VIJIJI-CONNECT-LIMITED"
+    },
+    "328858": {
+        "country_code": "KE",
+        "asn": "328858",
+        "description": "Express Data Networks Limited",
+        "handle": "EDN-AS"
+    },
+    "328862": {
+        "country_code": "KE",
+        "asn": "328862",
+        "description": "Sybyl Kenya Ltd",
+        "handle": "SKL-AS"
+    },
+    "328883": {
+        "country_code": "KE",
+        "asn": "328883",
+        "description": "Diamond Trust Bank Kenya Limited",
+        "handle": "DTBK1-AS"
+    },
+    "328892": {
+        "country_code": "KE",
+        "asn": "328892",
+        "description": "Atima Creations LTD",
+        "handle": "ATIMA-CREATIONS-AS"
+    },
+    "328906": {
+        "country_code": "KE",
+        "asn": "328906",
+        "description": "Directcore Technologies Limited",
+        "handle": "DTL-AS"
+    },
+    "328944": {
+        "country_code": "KE",
+        "asn": "328944",
+        "description": "Airtouch Connections Limited",
+        "handle": "ACL9-AS"
+    },
+    "328975": {
+        "country_code": "KE",
+        "asn": "328975",
+        "description": "MTAANI TELECOM",
+        "handle": "MTAANI-AS"
+    },
+    "328977": {
+        "country_code": "KE",
+        "asn": "328977",
+        "description": "Wavex Internet Service Provider LTD",
+        "handle": "WAVEX"
+    },
+    "328978": {
+        "country_code": "KE",
+        "asn": "328978",
+        "description": "Dew CIS Solutions Limited",
+        "handle": "DCSL1-AS"
+    },
+    "328986": {
+        "country_code": "KE",
+        "asn": "328986",
+        "description": "Vayacom Limited",
+        "handle": "VL9-AS"
+    },
+    "328987": {
+        "country_code": "KE",
+        "asn": "328987",
+        "description": "Lime Emerging Solutions Limited",
+        "handle": "LESL-AS"
+    },
+    "328989": {
+        "country_code": "KE",
+        "asn": "328989",
+        "description": "SMARTCLOUD AFRICA LIMITED",
+        "handle": "SMARTCLOUD"
+    },
+    "328993": {
+        "country_code": "KE",
+        "asn": "328993",
+        "description": "Click Fiber Communications Limited",
+        "handle": "CLICK-FIBER-AS"
+    },
+    "328994": {
+        "country_code": "KE",
+        "asn": "328994",
+        "description": "NuruNet Communications Ltd",
+        "handle": "NCL4-AS"
+    },
+    "329002": {
+        "country_code": "KE",
+        "asn": "329002",
+        "description": "Pan African IX Data Centres Kenya Ltd",
+        "handle": "PAID1-AS"
+    },
+    "329014": {
+        "country_code": "KE",
+        "asn": "329014",
+        "description": "Vilcom Networks Limited",
+        "handle": "VILCOM-NETWORKS"
+    },
+    "329021": {
+        "country_code": "KE",
+        "asn": "329021",
+        "description": "SAVENET LIMITED",
+        "handle": "SAVENET-LIMITED"
+    },
+    "329026": {
+        "country_code": "KE",
+        "asn": "329026",
+        "description": "Kenyaweb.com Limited",
+        "handle": "KENYAWEB"
+    },
+    "329029": {
+        "country_code": "KE",
+        "asn": "329029",
+        "description": "Mymanga Networks",
+        "handle": "MYMANGA-AS"
+    },
+    "329033": {
+        "country_code": "KE",
+        "asn": "329033",
+        "description": "Systel Limited",
+        "handle": "SYSTEL-LIMITED"
+    },
+    "329044": {
+        "country_code": "KE",
+        "asn": "329044",
+        "description": "Surf Net Solutions Limited",
+        "handle": "SURF-NET-AS"
+    },
+    "329074": {
+        "country_code": "KE",
+        "asn": "329074",
+        "description": "Millenia Limited",
+        "handle": "ML14-AS"
+    },
+    "329087": {
+        "country_code": "KE",
+        "asn": "329087",
+        "description": "Ace Micro Services Limited",
+        "handle": "AMSL2-AS"
+    },
+    "329093": {
+        "country_code": "KE",
+        "asn": "329093",
+        "description": "Pan African Solutions & Services Kenya",
+        "handle": "BOAPASS"
+    },
+    "329101": {
+        "country_code": "KE",
+        "asn": "329101",
+        "description": "Icon Fiber Solutions ltd",
+        "handle": "IFSL1-AS"
+    },
+    "329110": {
+        "country_code": "KE",
+        "asn": "329110",
+        "description": "FIBRE LINK LIMITED",
+        "handle": "FLL2-AS"
+    },
+    "329111": {
+        "country_code": "KE",
+        "asn": "329111",
+        "description": "KENYA POWER AND LIGHTING COMPANY PLC",
+        "handle": "KPAL1-AS"
+    },
+    "329135": {
+        "country_code": "KE",
+        "asn": "329135",
+        "description": "UNICAST TECHNOLOGY LTD",
+        "handle": "UNICAST-TECHNOLOGY"
+    },
+    "329152": {
+        "country_code": "KE",
+        "asn": "329152",
+        "description": "ATIS TELCOM LIMITED",
+        "handle": "ATL7-AS"
+    },
+    "329157": {
+        "country_code": "KE",
+        "asn": "329157",
+        "description": "Zoom Broadbands Limited",
+        "handle": "ZBL1-AS"
+    },
+    "329167": {
+        "country_code": "KE",
+        "asn": "329167",
+        "description": "SPRINKVILLE NETWORKS LIMITED",
+        "handle": "SPRINKVILLE-NETWORKS"
+    },
+    "329170": {
+        "country_code": "KE",
+        "asn": "329170",
+        "description": "Boss Telecom Ltd",
+        "handle": "BTL8-AS"
+    },
+    "329174": {
+        "country_code": "KE",
+        "asn": "329174",
+        "description": "Swift Broadband Limited",
+        "handle": "SWIFT-BROADBAND-LIMITED"
+    },
+    "329177": {
+        "country_code": "KE",
+        "asn": "329177",
+        "description": "Pepea Internet Limited",
+        "handle": "PEPEAINTERNET-AS"
+    },
+    "329183": {
+        "country_code": "KE",
+        "asn": "329183",
+        "description": "FLINK TECHNOLOGIES LTD",
+        "handle": "FLINK-AS"
+    },
+    "329190": {
+        "country_code": "KE",
+        "asn": "329190",
+        "description": "The Kenya Trade Network Agency",
+        "handle": "TKTN1-AS"
+    },
+    "329192": {
+        "country_code": "KE",
+        "asn": "329192",
+        "description": "Optinode Group LLP",
+        "handle": "OGL1-AS"
+    },
+    "329198": {
+        "country_code": "KE",
+        "asn": "329198",
+        "description": "CELCOM NETWORKS LIMITED",
+        "handle": "CELCOM-NETWORKS-LIMITED"
+    },
+    "329201": {
+        "country_code": "KE",
+        "asn": "329201",
+        "description": "Gigabit Connections Limited",
+        "handle": "GIGABIT-CONNECTIONS-LIMITED"
+    },
+    "329205": {
+        "country_code": "KE",
+        "asn": "329205",
+        "description": "VUMA FIBER LIMITED",
+        "handle": "VUMA-FIBER-LIMITED"
+    },
+    "329211": {
+        "country_code": "KE",
+        "asn": "329211",
+        "description": "Novia East Africa Ltd",
+        "handle": "NOVIA-EAST-AFRICA-AS"
+    },
+    "329239": {
+        "country_code": "KE",
+        "asn": "329239",
+        "description": "Xcobean Systems Limited",
+        "handle": "XCOBEAN-SYSTEMS-AS"
+    },
+    "329246": {
+        "country_code": "KE",
+        "asn": "329246",
+        "description": "HANIF TELECOM LIMITED",
+        "handle": "HANIF-TELECOM-LIMITED"
+    },
+    "329254": {
+        "country_code": "KE",
+        "asn": "329254",
+        "description": "TRUTH WIRELESS LIMITED",
+        "handle": "TRUTH"
+    },
+    "329255": {
+        "country_code": "KE",
+        "asn": "329255",
+        "description": "Telcoptics Solutions Ltd",
+        "handle": "TSL13-AS"
+    },
+    "329257": {
+        "country_code": "KE",
+        "asn": "329257",
+        "description": "SAWALINK LIMITED",
+        "handle": "SAWALINK-LIMITED"
+    },
+    "329261": {
+        "country_code": "KE",
+        "asn": "329261",
+        "description": "NEXT THING NETWORKS Limited",
+        "handle": "NEXT-THING-NETWORKS-LTD"
+    },
+    "329262": {
+        "country_code": "KE",
+        "asn": "329262",
+        "description": "TECHNO BRAIN BPO ITES LIMITED",
+        "handle": "TBBI1-AS"
+    },
+    "329272": {
+        "country_code": "KE",
+        "asn": "329272",
+        "description": "Servercore Africa Ltd",
+        "handle": "SERVERCORE-AFRICA-LTD"
+    },
+    "329278": {
+        "country_code": "KE",
+        "asn": "329278",
+        "description": "Truehost Cloud Limited",
+        "handle": "TRUEHOSTCLOUD"
+    },
+    "329288": {
+        "country_code": "KE",
+        "asn": "329288",
+        "description": "Fimnet Communications Limited",
+        "handle": "FIMNET-COMMUNICATIONS-LIMITED"
+    },
+    "329302": {
+        "country_code": "KE",
+        "asn": "329302",
+        "description": "Jevi-Tech Communications Ltd",
+        "handle": "JEVI-TECH-COMMUNICATIONS-LTD"
+    },
+    "329311": {
+        "country_code": "KE",
+        "asn": "329311",
+        "description": "Unitic Limited",
+        "handle": "UNITIC-LIMITED"
+    },
+    "329313": {
+        "country_code": "KE",
+        "asn": "329313",
+        "description": "Moi Teaching and Referral Hospital",
+        "handle": "MOI-TEACHING-AND-REFERRAL-HOSPITAL"
+    },
+    "329324": {
+        "country_code": "KE",
+        "asn": "329324",
+        "description": "Windstream Limited",
+        "handle": "WINDSTREAM-LIMITED"
+    },
+    "329341": {
+        "country_code": "KE",
+        "asn": "329341",
+        "description": "Tatu Telecom Company SEZ Limited",
+        "handle": "TATU-TELECOM-COMPANY-SEZ-LIMITED"
+    },
+    "329354": {
+        "country_code": "KE",
+        "asn": "329354",
+        "description": "Softnet Business Systems Limited",
+        "handle": "SOFTNET-BUSINESS-SYSTEMS-LIMITED"
+    },
+    "329367": {
+        "country_code": "KE",
+        "asn": "329367",
+        "description": "Tawala Networks Limited",
+        "handle": "TAWALA-NETWORKS-LIMITED"
+    },
+    "329373": {
+        "country_code": "KE",
+        "asn": "329373",
+        "description": "TECHNOBIZ BUSINESS SOLUTIONS LIMITED",
+        "handle": "TECHNOBIZ"
+    },
+    "329378": {
+        "country_code": "KE",
+        "asn": "329378",
+        "description": "MATRUCHHAYA CABLE NETWORK LIMITED",
+        "handle": "MATRUCHHAYA-CABLE-NETWORK"
+    },
+    "329379": {
+        "country_code": "KE",
+        "asn": "329379",
+        "description": "FIBERLINK SOLUTIONS LIMITED",
+        "handle": "FIBERLINK"
+    },
+    "329382": {
+        "country_code": "KE",
+        "asn": "329382",
+        "description": "Pure Infrastructure Limited",
+        "handle": "PURE-INFRASTRUCTURE-LIMITED"
+    },
+    "329387": {
+        "country_code": "KE",
+        "asn": "329387",
+        "description": "Skylink Networks LTD",
+        "handle": "SKYLINK"
+    },
+    "329390": {
+        "country_code": "KE",
+        "asn": "329390",
+        "description": "DANSTED TECH SUPPLIERS LIMITED",
+        "handle": "DANSTED"
+    },
+    "329403": {
+        "country_code": "KE",
+        "asn": "329403",
+        "description": "Vhost Limited",
+        "handle": "VHOST-LIMITED"
+    },
+    "329409": {
+        "country_code": "KE",
+        "asn": "329409",
+        "description": "JIJI FIBER LTD",
+        "handle": "JIJI-FIBER-LTD"
+    },
+    "329411": {
+        "country_code": "KE",
+        "asn": "329411",
+        "description": "Yala Kenya Limited",
+        "handle": "YALA-KENYA-LIMITED"
+    },
+    "329417": {
+        "country_code": "KE",
+        "asn": "329417",
+        "description": "HOME CONNECT NETWORKS LIMITED",
+        "handle": "HOME-CONNECT-NETWORKS-LIMITED"
+    },
+    "329418": {
+        "country_code": "KE",
+        "asn": "329418",
+        "description": "International Centre for Research in Agroforestry",
+        "handle": "INTERNATIONAL-CENTRE-RESEARCH-AGROFORESTRY"
+    },
+    "329419": {
+        "country_code": "KE",
+        "asn": "329419",
+        "description": "IX AFRICA DATA CENTRE LIMITED",
+        "handle": "IX-AFRICA-DATA-CENTRE"
+    },
+    "329421": {
+        "country_code": "KE",
+        "asn": "329421",
+        "description": "Localtel Communications Limited",
+        "handle": "LOCALTEL-COMMUNICATIONS-LIMITED"
+    },
+    "329422": {
+        "country_code": "KE",
+        "asn": "329422",
+        "description": "SAFHOME FIBRE LIMITED",
+        "handle": "SAFHOME-FIBRE-LIMITED"
+    },
+    "329424": {
+        "country_code": "KE",
+        "asn": "329424",
+        "description": "Hynfra Technologies Ltd",
+        "handle": "HTL8"
+    },
+    "329426": {
+        "country_code": "KE",
+        "asn": "329426",
+        "description": "Tabasamu Fibre Networks LTD",
+        "handle": "TABASAMU-FIBRE"
+    },
+    "329437": {
+        "country_code": "KE",
+        "asn": "329437",
+        "description": "VENNET SOLUTIONS LIMITED",
+        "handle": "VEENET-AFRICA"
+    },
+    "329451": {
+        "country_code": "KE",
+        "asn": "329451",
+        "description": "RAIN COMMUNICATIONS LIMITED",
+        "handle": "RAIN-COMMUNICATIONS-LIMITED"
+    },
+    "329452": {
+        "country_code": "KE",
+        "asn": "329452",
+        "description": "Alwen Networks Co. Limited",
+        "handle": "ALWEN-NETWORKS"
+    },
+    "329468": {
+        "country_code": "KE",
+        "asn": "329468",
+        "description": "ELEPHANT TECHNOLOGY LIMITED",
+        "handle": "ELEPHANT-TECHNOLOGY-LIMITED"
+    },
+    "329475": {
+        "country_code": "KE",
+        "asn": "329475",
+        "description": "KONNECT DATA NETWORKS LTD",
+        "handle": "KONNECT-DATA-NETWORKS-LTD"
+    },
+    "329492": {
+        "country_code": "KE",
+        "asn": "329492",
+        "description": "Telenet Solutions Limited",
+        "handle": "TELENET-SOLUTIONS"
+    },
+    "329497": {
+        "country_code": "KE",
+        "asn": "329497",
+        "description": "Avitech Solutions LTD",
+        "handle": "AVITECH-CLOUD-SERVICES"
+    },
+    "329504": {
+        "country_code": "KE",
+        "asn": "329504",
+        "description": "Vilcom Networks Limited",
+        "handle": "VILCOM-NETWORKS-LIMITED-CLOUD-SERVICES"
+    },
+    "329518": {
+        "country_code": "KE",
+        "asn": "329518",
+        "description": "Central Networks Communication LTD",
+        "handle": "CENTRAL-NETWORKS-COMMUNICATION-LTD"
+    },
+    "329528": {
+        "country_code": "KE",
+        "asn": "329528",
+        "description": "DEREKI ENTERPRISES",
+        "handle": "DEREKI"
+    },
+    "329535": {
+        "country_code": "KE",
+        "asn": "329535",
+        "description": "ONSITE AFRICA LIMITED",
+        "handle": "ONSITE-AFRICA-LIMITED"
+    },
+    "329538": {
+        "country_code": "KE",
+        "asn": "329538",
+        "description": "SOMTEL (K) LIMITED",
+        "handle": "SOMTEL-K-LIMITED"
+    },
+    "329539": {
+        "country_code": "KE",
+        "asn": "329539",
+        "description": "Grid-Link Networks Limited",
+        "handle": "GRIDNETWORKS"
+    },
+    "329552": {
+        "country_code": "KE",
+        "asn": "329552",
+        "description": "PHPLAVATEC SOLUTIONS LTD",
+        "handle": "PHPLAVATEC"
+    },
+    "329556": {
+        "country_code": "KE",
+        "asn": "329556",
+        "description": "Newworks Limited",
+        "handle": "NEWWORKS-LIMITED"
+    },
+    "329562": {
+        "country_code": "KE",
+        "asn": "329562",
+        "description": "SERVERLINK SOLUTIONS LIMITED",
+        "handle": "SERVERLINK-SOLUTIONS"
+    },
+    "329582": {
+        "country_code": "KE",
+        "asn": "329582",
+        "description": "Savanna Fibre (K) Limited",
+        "handle": "SAVANNA-FIBRE-KENYA"
+    },
+    "329583": {
+        "country_code": "KE",
+        "asn": "329583",
+        "description": "Simplux Solutions Limited",
+        "handle": "SIMPLUX-SOLUTIONS"
+    },
+    "329593": {
+        "country_code": "KE",
+        "asn": "329593",
+        "description": "Moveon Telecoms Limited",
+        "handle": "MOVEON-TELECOMS"
+    },
+    "329596": {
+        "country_code": "KE",
+        "asn": "329596",
+        "description": "INTERSIGHT ENGINEERING LIMITED",
+        "handle": "INTERSIGHT-ENGINEERING"
+    },
+    "329600": {
+        "country_code": "KE",
+        "asn": "329600",
+        "description": "Elegant Telekom Limited",
+        "handle": "ELEGANT-TELEKOM"
+    },
+    "329609": {
+        "country_code": "KE",
+        "asn": "329609",
+        "description": "Skye Platforms Limited",
+        "handle": "SKYE-PLATFORMS-LIMITED"
+    },
+    "329610": {
+        "country_code": "KE",
+        "asn": "329610",
+        "description": "Kenya National Police Deposit Taking Savings and Credit Co-Operative Society Ltd",
+        "handle": "KENYA-NATIONAL-POLICE-DT-SACCO"
+    },
+    "329618": {
+        "country_code": "KE",
+        "asn": "329618",
+        "description": "Mpaps Internet Solution Limited",
+        "handle": "MPAPS-INTERNET"
+    },
+    "329621": {
+        "country_code": "KE",
+        "asn": "329621",
+        "description": "Gawia Ltd",
+        "handle": "GAWIA-LTD"
+    },
+    "329622": {
+        "country_code": "KE",
+        "asn": "329622",
+        "description": "KONNEKT Smart Life LTD",
+        "handle": "KONNEKT-SMART-LIFE-LTD"
+    },
+    "329630": {
+        "country_code": "KE",
+        "asn": "329630",
+        "description": "Tego Networks LTD",
+        "handle": "TEGO-NETWORKS-LTD"
+    },
+    "329635": {
+        "country_code": "KE",
+        "asn": "329635",
+        "description": "Spacelink Network Technology Limited",
+        "handle": "SPACELINK-NETWORK-TECHNOLOGY"
+    },
+    "329636": {
+        "country_code": "KE",
+        "asn": "329636",
+        "description": "Imani Labs Limited",
+        "handle": "IMANI-LABS-LIMITED"
+    },
+    "329654": {
+        "country_code": "KE",
+        "asn": "329654",
+        "description": "Cortech Systems Limited",
+        "handle": "PAMOJA-FIBER"
+    },
+    "329656": {
+        "country_code": "KE",
+        "asn": "329656",
+        "description": "Skysurf Limited",
+        "handle": "SKYSURF"
+    },
+    "329658": {
+        "country_code": "KE",
+        "asn": "329658",
+        "description": "Net Point Solutions Limited",
+        "handle": "NETPOINT-SOLUTIONS"
+    },
+    "329659": {
+        "country_code": "KE",
+        "asn": "329659",
+        "description": "Lineserve Limited",
+        "handle": "LINESERVE"
+    },
+    "329660": {
+        "country_code": "KE",
+        "asn": "329660",
+        "description": "Asatel Technologies LTD",
+        "handle": "ASATEL"
+    },
+    "329664": {
+        "country_code": "KE",
+        "asn": "329664",
+        "description": "AGAPETECH ENTERPRISE SOLUTION LIMITED",
+        "handle": "AGAPETECH-ENTERPRISE-SOLUTION-LIMITED"
+    },
+    "329670": {
+        "country_code": "KE",
+        "asn": "329670",
+        "description": "MARANET SOLUTIONS LIMITED",
+        "handle": "MARANET"
+    },
+    "329671": {
+        "country_code": "KE",
+        "asn": "329671",
+        "description": "PERK GROUP AFRICA LIMITED",
+        "handle": "PERK-GROUP-AFRICA-LIMITED"
+    },
+    "329673": {
+        "country_code": "KE",
+        "asn": "329673",
+        "description": "SUPERFLASH NETWORKS LIMITED",
+        "handle": "SUPERFLASH-NETWORKS-LIMITED"
+    },
+    "329674": {
+        "country_code": "KE",
+        "asn": "329674",
+        "description": "PLUGINS IX LTD",
+        "handle": "PLUGINSIX-MOMBASA-MGMT"
+    },
+    "329675": {
+        "country_code": "KE",
+        "asn": "329675",
+        "description": "PLUGINS IX LTD",
+        "handle": "PLUGINSIX-NAIROBI-MGMT"
+    },
+    "329692": {
+        "country_code": "KE",
+        "asn": "329692",
+        "description": "HTG CLOUDS LIMITED",
+        "handle": "HTG-CLOUDS"
+    },
+    "329693": {
+        "country_code": "KE",
+        "asn": "329693",
+        "description": "ATLANTIC TECH FIBER LTD",
+        "handle": "ATLANTIC-TECH-FIBER"
+    },
+    "329696": {
+        "country_code": "KE",
+        "asn": "329696",
+        "description": "PRIMESOFT SOLUTIONS (K) LIMITED",
+        "handle": "PRIMESOFT-SOLUTIONS-K-LIMITED"
+    },
+    "329702": {
+        "country_code": "KE",
+        "asn": "329702",
+        "description": "CLOUD STREAMS NETWORKS LIMITED",
+        "handle": "CLOUD-STREAMS"
+    },
+    "329703": {
+        "country_code": "KE",
+        "asn": "329703",
+        "description": "WEKKITECH LIMITED",
+        "handle": "WEKKITECH"
+    },
+    "329707": {
+        "country_code": "KE",
+        "asn": "329707",
+        "description": "Naivatel Networks Limited",
+        "handle": "NAIVATEL-NETWORKS-LIMITED"
+    }
+}

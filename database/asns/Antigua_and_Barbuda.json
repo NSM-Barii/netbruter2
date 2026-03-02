@@ -1,0 +1,122 @@
+{
+    "11229": {
+        "country_code": "AG",
+        "asn": "11229",
+        "description": "Sunvale Inc.",
+        "handle": "SUNVALE-2"
+    },
+    "11594": {
+        "country_code": "AG",
+        "asn": "11594",
+        "description": "APUA",
+        "handle": "APUA-AG"
+    },
+    "19246": {
+        "country_code": "AG",
+        "asn": "19246",
+        "description": "Antigua Computer Technology Co. Ltd.",
+        "handle": "ACT2000"
+    },
+    "31500": {
+        "country_code": "AG",
+        "asn": "31500",
+        "description": "Global Network Management Inc",
+        "handle": "GNM-AS"
+    },
+    "35550": {
+        "country_code": "AG",
+        "asn": "35550",
+        "description": "Global Network Management Inc",
+        "handle": "WELLCOM-AS"
+    },
+    "39102": {
+        "country_code": "AG",
+        "asn": "39102",
+        "description": "Global Network Management Inc",
+        "handle": "AS-ATHM"
+    },
+    "39598": {
+        "country_code": "AG",
+        "asn": "39598",
+        "description": "Global Network Management Inc",
+        "handle": "TIERA-AS"
+    },
+    "44720": {
+        "country_code": "AG",
+        "asn": "44720",
+        "description": "Global Network Management Inc",
+        "handle": "DDCOM"
+    },
+    "45893": {
+        "country_code": "AG",
+        "asn": "45893",
+        "description": "Digital Media Management Inc.",
+        "handle": "DMMI-AP"
+    },
+    "50952": {
+        "country_code": "AG",
+        "asn": "50952",
+        "description": "Global Network Management Inc",
+        "handle": "GNMIX-AS"
+    },
+    "53312": {
+        "country_code": "AG",
+        "asn": "53312",
+        "description": "Sunvale Inc.",
+        "handle": "SUNVALE"
+    },
+    "396304": {
+        "country_code": "AG",
+        "asn": "396304",
+        "description": "Antigua Wireless ventures Ltd",
+        "handle": "ANU-DIGI"
+    },
+    "397529": {
+        "country_code": "AG",
+        "asn": "397529",
+        "description": "Pegasus Technologies Inc",
+        "handle": "PEGASUS-AG"
+    },
+    "397574": {
+        "country_code": "AG",
+        "asn": "397574",
+        "description": "Twentyone International Inc",
+        "handle": "TWENTYONE"
+    },
+    "398228": {
+        "country_code": "AG",
+        "asn": "398228",
+        "description": "Antigua Wireless ventures Ltd",
+        "handle": "STKITS"
+    },
+    "398723": {
+        "country_code": "AG",
+        "asn": "398723",
+        "description": "The Government of Antigua and Barbuda",
+        "handle": "GOAB-33"
+    },
+    "399478": {
+        "country_code": "AG",
+        "asn": "399478",
+        "description": "St. John's Cooperative Credit Union Ltd",
+        "handle": "SJCCU-HQ"
+    },
+    "401028": {
+        "country_code": "AG",
+        "asn": "401028",
+        "description": "Pegasus Technologies Inc",
+        "handle": "CONFERENCES-MEETINGS"
+    },
+    "401034": {
+        "country_code": "AG",
+        "asn": "401034",
+        "description": "ABIX",
+        "handle": "ABIX-01"
+    },
+    "401301": {
+        "country_code": "AG",
+        "asn": "401301",
+        "description": "Pegasus Technologies Inc",
+        "handle": "PEGASUS-LAB"
+    }
+}

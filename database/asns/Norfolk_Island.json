@@ -1,0 +1,14 @@
+{
+    "38234": {
+        "country_code": "NF",
+        "asn": "38234",
+        "description": "Norfolk Island Data Services",
+        "handle": "NIDS-AS-AP"
+    },
+    "45168": {
+        "country_code": "NF",
+        "asn": "45168",
+        "description": "Norfolk Telecom",
+        "handle": "NINET-AS-NF-AP"
+    }
+}

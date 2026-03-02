@@ -1,0 +1,6428 @@
+{
+    "173": {
+        "country_code": "JP",
+        "asn": "173",
+        "description": "Nippon Telegraph and Telephone Corporation",
+        "handle": "NTTECL-AS"
+    },
+    "945": {
+        "country_code": "JP",
+        "asn": "945",
+        "description": "HAONAN YANG",
+        "handle": "JP-77-20220621"
+    },
+    "1233": {
+        "country_code": "JP",
+        "asn": "1233",
+        "description": "National Space Development Agency",
+        "handle": "ERX-NASDA-ASN"
+    },
+    "2497": {
+        "country_code": "JP",
+        "asn": "2497",
+        "description": "Internet Initiative Japan Inc.",
+        "handle": "IIJ"
+    },
+    "2499": {
+        "country_code": "JP",
+        "asn": "2499",
+        "description": "Japan Network Information Center",
+        "handle": "IPV4EXH-LAB"
+    },
+    "2500": {
+        "country_code": "JP",
+        "asn": "2500",
+        "description": "WIDE Project",
+        "handle": "WIDE-BB"
+    },
+    "2501": {
+        "country_code": "JP",
+        "asn": "2501",
+        "description": "The University of Tokyo",
+        "handle": "UTNET"
+    },
+    "2502": {
+        "country_code": "JP",
+        "asn": "2502",
+        "description": "The University of Tokyo",
+        "handle": "TRAIN"
+    },
+    "2504": {
+        "country_code": "JP",
+        "asn": "2504",
+        "description": "Kyoto University",
+        "handle": "NCA5"
+    },
+    "2505": {
+        "country_code": "JP",
+        "asn": "2505",
+        "description": "High Energy Accelerator Research Organization KEK",
+        "handle": "HEPNET-J"
+    },
+    "2506": {
+        "country_code": "JP",
+        "asn": "2506",
+        "description": "NTT business Solutions corporation",
+        "handle": "SUPERCSI"
+    },
+    "2508": {
+        "country_code": "JP",
+        "asn": "2508",
+        "description": "Kyushu University",
+        "handle": "KYUSHU-U"
+    },
+    "2509": {
+        "country_code": "JP",
+        "asn": "2509",
+        "description": "Home NOC Operators Group",
+        "handle": "ICTSC2025"
+    },
+    "2510": {
+        "country_code": "JP",
+        "asn": "2510",
+        "description": "FUJITSU LIMITED",
+        "handle": "INFOWEB"
+    },
+    "2511": {
+        "country_code": "JP",
+        "asn": "2511",
+        "description": "Nippon Telegraph and Telephone Corporation",
+        "handle": "CORE"
+    },
+    "2512": {
+        "country_code": "JP",
+        "asn": "2512",
+        "description": "TCP Inc.",
+        "handle": "TCP-NET"
+    },
+    "2513": {
+        "country_code": "JP",
+        "asn": "2513",
+        "description": "Japan Science and Technology Agency",
+        "handle": "JST"
+    },
+    "2514": {
+        "country_code": "JP",
+        "asn": "2514",
+        "description": "NTT PC Communications Inc.",
+        "handle": "INFOSPHERE"
+    },
+    "2515": {
+        "country_code": "JP",
+        "asn": "2515",
+        "description": "Japan Network Information Center",
+        "handle": "JPNIC"
+    },
+    "2516": {
+        "country_code": "JP",
+        "asn": "2516",
+        "description": "KDDI CORPORATION",
+        "handle": "KDDI"
+    },
+    "2518": {
+        "country_code": "JP",
+        "asn": "2518",
+        "description": "BIGLOBE Inc.",
+        "handle": "BIGLOBE"
+    },
+    "2519": {
+        "country_code": "JP",
+        "asn": "2519",
+        "description": "ARTERIA Networks Corporation",
+        "handle": "VECTANT"
+    },
+    "2522": {
+        "country_code": "JP",
+        "asn": "2522",
+        "description": "Japan Network Information Center",
+        "handle": "PPP-EXP"
+    },
+    "2523": {
+        "country_code": "JP",
+        "asn": "2523",
+        "description": "Internet Technology Research Consortium",
+        "handle": "ITRC-NET"
+    },
+    "2524": {
+        "country_code": "JP",
+        "asn": "2524",
+        "description": "EJWORKS CORPORATION",
+        "handle": "RIM"
+    },
+    "2526": {
+        "country_code": "JP",
+        "asn": "2526",
+        "description": "Hitachi Ltd. IT strategy & Digital Integration Division Employee Experience Office",
+        "handle": "HITNET"
+    },
+    "2527": {
+        "country_code": "JP",
+        "asn": "2527",
+        "description": "Sony Network Communications Inc.",
+        "handle": "SO-NET"
+    },
+    "2554": {
+        "country_code": "JP",
+        "asn": "2554",
+        "description": "IDC Frontier Inc.",
+        "handle": "IDCF2554"
+    },
+    "2907": {
+        "country_code": "JP",
+        "asn": "2907",
+        "description": "Research Organization of Information and Systems National Institute of Informatics",
+        "handle": "SINET-AS"
+    },
+    "2915": {
+        "country_code": "JP",
+        "asn": "2915",
+        "description": "BBIX Inc.",
+        "handle": "BBIX-OCX"
+    },
+    "3258": {
+        "country_code": "JP",
+        "asn": "3258",
+        "description": "xTom Japan Corporation",
+        "handle": "XTOM-JAPAN"
+    },
+    "3391": {
+        "country_code": "JP",
+        "asn": "3391",
+        "description": "ASCIInet Corporation",
+        "handle": "ERX-ASCII-NET"
+    },
+    "3488": {
+        "country_code": "JP",
+        "asn": "3488",
+        "description": "Japan Aerospace Exploration Agency",
+        "handle": "JAXANET"
+    },
+    "3510": {
+        "country_code": "JP",
+        "asn": "3510",
+        "description": "Real World Computing Partnership",
+        "handle": "ERX-RWC-NET"
+    },
+    "3775": {
+        "country_code": "JP",
+        "asn": "3775",
+        "description": "Global Network Solutions IBM Japan Ltd.",
+        "handle": "ERX-IBMAP-MPN"
+    },
+    "4251": {
+        "country_code": "JP",
+        "asn": "4251",
+        "description": "TWICS Co. Ltd.",
+        "handle": "ERX-TWICS"
+    },
+    "4673": {
+        "country_code": "JP",
+        "asn": "4673",
+        "description": "NTT DATA CORPORATION",
+        "handle": "INTERVIA"
+    },
+    "4675": {
+        "country_code": "JP",
+        "asn": "4675",
+        "description": "UNIADEX LTD.",
+        "handle": "U-NETSURF"
+    },
+    "4677": {
+        "country_code": "JP",
+        "asn": "4677",
+        "description": "Marubeni OKI Network Solutions Inc.",
+        "handle": "PTOP"
+    },
+    "4678": {
+        "country_code": "JP",
+        "asn": "4678",
+        "description": "Canon IT Solutions Inc.",
+        "handle": "FINE"
+    },
+    "4680": {
+        "country_code": "JP",
+        "asn": "4680",
+        "description": "Mitsubishi Electric Information Network Corporation",
+        "handle": "MIND"
+    },
+    "4684": {
+        "country_code": "JP",
+        "asn": "4684",
+        "description": "NTT PC Communications Inc.",
+        "handle": "NTTPC"
+    },
+    "4685": {
+        "country_code": "JP",
+        "asn": "4685",
+        "description": "Asahi Net",
+        "handle": "ASAHI-NET"
+    },
+    "4686": {
+        "country_code": "JP",
+        "asn": "4686",
+        "description": "BEKKOAME INTERNET INC.",
+        "handle": "BEKKOAME"
+    },
+    "4688": {
+        "country_code": "JP",
+        "asn": "4688",
+        "description": "Internet Initiative Japan Inc.",
+        "handle": "HI-HO"
+    },
+    "4690": {
+        "country_code": "JP",
+        "asn": "4690",
+        "description": "WIDE Project",
+        "handle": "WIDE-SFO"
+    },
+    "4691": {
+        "country_code": "JP",
+        "asn": "4691",
+        "description": "Dream Train Internet Inc.",
+        "handle": "DTI"
+    },
+    "4692": {
+        "country_code": "JP",
+        "asn": "4692",
+        "description": "InternetWare Co. LTD.",
+        "handle": "INTERGATE"
+    },
+    "4693": {
+        "country_code": "JP",
+        "asn": "4693",
+        "description": "CSK-IT MANAGEMENT CORPORATION",
+        "handle": "CSK"
+    },
+    "4694": {
+        "country_code": "JP",
+        "asn": "4694",
+        "description": "IDC Frontier Inc.",
+        "handle": "IDCF"
+    },
+    "4695": {
+        "country_code": "JP",
+        "asn": "4695",
+        "description": "Enecom Inc.",
+        "handle": "URBAN"
+    },
+    "4697": {
+        "country_code": "JP",
+        "asn": "4697",
+        "description": "Nippon Telegraph and Telephone Corporation",
+        "handle": "NTTV6NET"
+    },
+    "4698": {
+        "country_code": "JP",
+        "asn": "4698",
+        "description": "InterLink Co. Ltd.",
+        "handle": "INTERLINK"
+    },
+    "4700": {
+        "country_code": "JP",
+        "asn": "4700",
+        "description": "Niji-Net Inc.",
+        "handle": "NIJI-NET"
+    },
+    "4704": {
+        "country_code": "JP",
+        "asn": "4704",
+        "description": "Rakuten Mobile Inc.",
+        "handle": "SANNET"
+    },
+    "4709": {
+        "country_code": "JP",
+        "asn": "4709",
+        "description": "NetLaputa Corporation",
+        "handle": "NETLAPUTA"
+    },
+    "4710": {
+        "country_code": "JP",
+        "asn": "4710",
+        "description": "Nippon Telegraph and Telephone Corporation",
+        "handle": "NTTV6NET2"
+    },
+    "4711": {
+        "country_code": "JP",
+        "asn": "4711",
+        "description": "INTEC Inc.",
+        "handle": "INTEC"
+    },
+    "4712": {
+        "country_code": "JP",
+        "asn": "4712",
+        "description": "JAPAN TOBACCO INC.",
+        "handle": "JT-NET"
+    },
+    "4713": {
+        "country_code": "JP",
+        "asn": "4713",
+        "description": "NTT DOCOMO BUSINESS Inc.",
+        "handle": "OCN"
+    },
+    "4716": {
+        "country_code": "JP",
+        "asn": "4716",
+        "description": "KDDI CORPORATION",
+        "handle": "POWEREDCOM"
+    },
+    "4717": {
+        "country_code": "JP",
+        "asn": "4717",
+        "description": "WIDE Project",
+        "handle": "AI3"
+    },
+    "4718": {
+        "country_code": "JP",
+        "asn": "4718",
+        "description": "Cyber Kansai Project",
+        "handle": "CKP"
+    },
+    "4719": {
+        "country_code": "JP",
+        "asn": "4719",
+        "description": "J-Stream Inc.",
+        "handle": "J-STREAM-4"
+    },
+    "4721": {
+        "country_code": "JP",
+        "asn": "4721",
+        "description": "JCOM Co. Ltd.",
+        "handle": "JCN"
+    },
+    "4722": {
+        "country_code": "JP",
+        "asn": "4722",
+        "description": "SoftBank Corp.",
+        "handle": "SB4722"
+    },
+    "4723": {
+        "country_code": "JP",
+        "asn": "4723",
+        "description": "Dolphin",
+        "handle": "DOLPHIN"
+    },
+    "4725": {
+        "country_code": "JP",
+        "asn": "4725",
+        "description": "SoftBank Corp.",
+        "handle": "ODN"
+    },
+    "4727": {
+        "country_code": "JP",
+        "asn": "4727",
+        "description": "KYODO PRINTING BUSINESS SOLUTIONS CO. LTD",
+        "handle": "BSS"
+    },
+    "4729": {
+        "country_code": "JP",
+        "asn": "4729",
+        "description": "Japan Atomic Energy Agency",
+        "handle": "JAEA"
+    },
+    "4730": {
+        "country_code": "JP",
+        "asn": "4730",
+        "description": "Osaka University",
+        "handle": "ODINS"
+    },
+    "4732": {
+        "country_code": "JP",
+        "asn": "4732",
+        "description": "KDDI CORPORATION",
+        "handle": "DION"
+    },
+    "4774": {
+        "country_code": "JP",
+        "asn": "4774",
+        "description": "Internet Initiative Japan Inc.",
+        "handle": "ABONE-AS"
+    },
+    "7257": {
+        "country_code": "JP",
+        "asn": "7257",
+        "description": "OTO GK",
+        "handle": "JP-MARU-20250124"
+    },
+    "7500": {
+        "country_code": "JP",
+        "asn": "7500",
+        "description": "WIDE Project",
+        "handle": "M-ROOT-DNS"
+    },
+    "7502": {
+        "country_code": "JP",
+        "asn": "7502",
+        "description": "Advanced Software Technology & Management Research Institute of KYOTO",
+        "handle": "IP-KYOTO"
+    },
+    "7503": {
+        "country_code": "JP",
+        "asn": "7503",
+        "description": "Air Internet Service Co. Ltd.",
+        "handle": "AIR"
+    },
+    "7505": {
+        "country_code": "JP",
+        "asn": "7505",
+        "description": "Fujitsu Systems Applications & Support Limited",
+        "handle": "MEDIAWEB"
+    },
+    "7506": {
+        "country_code": "JP",
+        "asn": "7506",
+        "description": "GMO Internet Group Inc.",
+        "handle": "INTERQ"
+    },
+    "7509": {
+        "country_code": "JP",
+        "asn": "7509",
+        "description": "Hokkaido University",
+        "handle": "HINES"
+    },
+    "7511": {
+        "country_code": "JP",
+        "asn": "7511",
+        "description": "SYNAPSE Co. Ltd.",
+        "handle": "SYNAPSE"
+    },
+    "7512": {
+        "country_code": "JP",
+        "asn": "7512",
+        "description": "WITH Network",
+        "handle": "WITH"
+    },
+    "7513": {
+        "country_code": "JP",
+        "asn": "7513",
+        "description": "Hitachi Systems Ltd.",
+        "handle": "SHIELD"
+    },
+    "7514": {
+        "country_code": "JP",
+        "asn": "7514",
+        "description": "Computer Engineering & Consulting Ltd.",
+        "handle": "MEX"
+    },
+    "7515": {
+        "country_code": "JP",
+        "asn": "7515",
+        "description": "NTT Ltd Japan Corporation",
+        "handle": "GIN-NTTLJ"
+    },
+    "7516": {
+        "country_code": "JP",
+        "asn": "7516",
+        "description": "TOHKnet Co. Inc.",
+        "handle": "TOHKNET"
+    },
+    "7521": {
+        "country_code": "JP",
+        "asn": "7521",
+        "description": "INTERNET MULTIFEED CO.",
+        "handle": "MFEED"
+    },
+    "7522": {
+        "country_code": "JP",
+        "asn": "7522",
+        "description": "STNet Incorporated",
+        "handle": "STCN"
+    },
+    "7523": {
+        "country_code": "JP",
+        "asn": "7523",
+        "description": "RICOH JAPAN Corporation",
+        "handle": "TECHNOW"
+    },
+    "7524": {
+        "country_code": "JP",
+        "asn": "7524",
+        "description": "ITEC HANKYU HANSHIN CO. LTD.",
+        "handle": "HANSHIN"
+    },
+    "7526": {
+        "country_code": "JP",
+        "asn": "7526",
+        "description": "Mitsubishi Electric Information Network Corporation",
+        "handle": "MIND-US"
+    },
+    "7527": {
+        "country_code": "JP",
+        "asn": "7527",
+        "description": "Japan Internet Xing Co. Ltd.",
+        "handle": "JPIX"
+    },
+    "7529": {
+        "country_code": "JP",
+        "asn": "7529",
+        "description": "GMO NetIRD Inc.",
+        "handle": "NETIRD"
+    },
+    "7530": {
+        "country_code": "JP",
+        "asn": "7530",
+        "description": "BroadBand Tower Inc.",
+        "handle": "BBTOWER-LAB"
+    },
+    "7531": {
+        "country_code": "JP",
+        "asn": "7531",
+        "description": "GenomeNet Project",
+        "handle": "GENOME"
+    },
+    "7619": {
+        "country_code": "JP",
+        "asn": "7619",
+        "description": "Internet Initiative Japan Inc.",
+        "handle": "IIJLAB-BACKUP-LINKS-EXP"
+    },
+    "7660": {
+        "country_code": "JP",
+        "asn": "7660",
+        "description": "Asia Pacific Advanced Network - Japan",
+        "handle": "APAN-JP"
+    },
+    "7663": {
+        "country_code": "JP",
+        "asn": "7663",
+        "description": "FUJI NEXTERA LABO INC.",
+        "handle": "FFNET"
+    },
+    "7664": {
+        "country_code": "JP",
+        "asn": "7664",
+        "description": "HARENET INC.",
+        "handle": "HARENET"
+    },
+    "7665": {
+        "country_code": "JP",
+        "asn": "7665",
+        "description": "Okayama Prefectural Government",
+        "handle": "OKIX"
+    },
+    "7666": {
+        "country_code": "JP",
+        "asn": "7666",
+        "description": "Mitsubishi Corporation",
+        "handle": "OKIX-1"
+    },
+    "7667": {
+        "country_code": "JP",
+        "asn": "7667",
+        "description": "KDDI Research Inc.",
+        "handle": "KDDLAB"
+    },
+    "7668": {
+        "country_code": "JP",
+        "asn": "7668",
+        "description": "Hokuriku Telecommunication Network Co.",
+        "handle": "HTCN"
+    },
+    "7670": {
+        "country_code": "JP",
+        "asn": "7670",
+        "description": "Enecom Inc.",
+        "handle": "CTNET"
+    },
+    "7671": {
+        "country_code": "JP",
+        "asn": "7671",
+        "description": "NTT SmartConnect Corporation",
+        "handle": "MCNET"
+    },
+    "7672": {
+        "country_code": "JP",
+        "asn": "7672",
+        "description": "Hokuden Information System Service Co. Ltd.",
+        "handle": "FITWEB"
+    },
+    "7673": {
+        "country_code": "JP",
+        "asn": "7673",
+        "description": "ejworks corporation",
+        "handle": "ALLES"
+    },
+    "7674": {
+        "country_code": "JP",
+        "asn": "7674",
+        "description": "NTT DOCOMO BUSINESS Inc",
+        "handle": "GOFORS"
+    },
+    "7676": {
+        "country_code": "JP",
+        "asn": "7676",
+        "description": "TAM Co. Ltd.",
+        "handle": "TAM"
+    },
+    "7677": {
+        "country_code": "JP",
+        "asn": "7677",
+        "description": "Dai Nippon Printing Co. Ltd",
+        "handle": "DNP"
+    },
+    "7678": {
+        "country_code": "JP",
+        "asn": "7678",
+        "description": "Prox System Design Inc.",
+        "handle": "PROX"
+    },
+    "7679": {
+        "country_code": "JP",
+        "asn": "7679",
+        "description": "QTnet Inc.",
+        "handle": "QTNET"
+    },
+    "7682": {
+        "country_code": "JP",
+        "asn": "7682",
+        "description": "HOKKAIDO TELECOMMUNICATIONS NETWORK Co. Inc.",
+        "handle": "HOTNET"
+    },
+    "7683": {
+        "country_code": "JP",
+        "asn": "7683",
+        "description": "trunk inc.",
+        "handle": "TRUNK-AS"
+    },
+    "7684": {
+        "country_code": "JP",
+        "asn": "7684",
+        "description": "SAKURA Internet Inc.",
+        "handle": "SAKURA-A"
+    },
+    "7686": {
+        "country_code": "JP",
+        "asn": "7686",
+        "description": "JCOM Co. Ltd.",
+        "handle": "ATNETHOME"
+    },
+    "7687": {
+        "country_code": "JP",
+        "asn": "7687",
+        "description": "TOYOTA SYSTEMS CORPORATION",
+        "handle": "D-CRUISENET"
+    },
+    "7690": {
+        "country_code": "JP",
+        "asn": "7690",
+        "description": "Mirai Communication Network Inc.",
+        "handle": "MIRAI"
+    },
+    "9351": {
+        "country_code": "JP",
+        "asn": "9351",
+        "description": "ZTV CO. LTD",
+        "handle": "ZLAN"
+    },
+    "9352": {
+        "country_code": "JP",
+        "asn": "9352",
+        "description": "KuMaGaYaNet",
+        "handle": "KUMAGAYA"
+    },
+    "9353": {
+        "country_code": "JP",
+        "asn": "9353",
+        "description": "MEDIAWARS co. ltd.",
+        "handle": "MEDIAWARS"
+    },
+    "9354": {
+        "country_code": "JP",
+        "asn": "9354",
+        "description": "Community Network Center Inc.",
+        "handle": "TDNC"
+    },
+    "9355": {
+        "country_code": "JP",
+        "asn": "9355",
+        "description": "National Institute of Information and Communications Technology",
+        "handle": "NICT"
+    },
+    "9357": {
+        "country_code": "JP",
+        "asn": "9357",
+        "description": "NRI SecureTechnologies Ltd.",
+        "handle": "FNC"
+    },
+    "9358": {
+        "country_code": "JP",
+        "asn": "9358",
+        "description": "OPTAGE Inc.",
+        "handle": "FINDER"
+    },
+    "9363": {
+        "country_code": "JP",
+        "asn": "9363",
+        "description": "FUJITSU NETWORK SOLUTIONS LIMITED",
+        "handle": "FNETS"
+    },
+    "9365": {
+        "country_code": "JP",
+        "asn": "9365",
+        "description": "its communications Inc.",
+        "handle": "ITSCOM"
+    },
+    "9366": {
+        "country_code": "JP",
+        "asn": "9366",
+        "description": "SOLITON-NET",
+        "handle": "SOLITON"
+    },
+    "9367": {
+        "country_code": "JP",
+        "asn": "9367",
+        "description": "Institute of Science Tokyo",
+        "handle": "ISCT"
+    },
+    "9370": {
+        "country_code": "JP",
+        "asn": "9370",
+        "description": "SAKURA Internet Inc.",
+        "handle": "SAKURA-B"
+    },
+    "9371": {
+        "country_code": "JP",
+        "asn": "9371",
+        "description": "SAKURA Internet Inc.",
+        "handle": "SAKURA-C"
+    },
+    "9374": {
+        "country_code": "JP",
+        "asn": "9374",
+        "description": "EDION Corporation",
+        "handle": "EDION"
+    },
+    "9376": {
+        "country_code": "JP",
+        "asn": "9376",
+        "description": "SMARTVALUE Co. Ltd.",
+        "handle": "SAKURANET"
+    },
+    "9378": {
+        "country_code": "JP",
+        "asn": "9378",
+        "description": "JCOM Co. Ltd.",
+        "handle": "CABLENET"
+    },
+    "9380": {
+        "country_code": "JP",
+        "asn": "9380",
+        "description": "Community Network Center Inc.",
+        "handle": "CNCI-AS"
+    },
+    "9409": {
+        "country_code": "JP",
+        "asn": "9409",
+        "description": "Rapid-Fire-y",
+        "handle": "RAPIDFIREYJP-AS-AP"
+    },
+    "9434": {
+        "country_code": "JP",
+        "asn": "9434",
+        "description": "Internet Initiative Japan Inc.",
+        "handle": "ABONE-AS-AP"
+    },
+    "9466": {
+        "country_code": "JP",
+        "asn": "9466",
+        "description": "Verizon Japan Limited",
+        "handle": "UUNET-JP-AP"
+    },
+    "9591": {
+        "country_code": "JP",
+        "asn": "9591",
+        "description": "National Institute for Fusion Science",
+        "handle": "NIFS"
+    },
+    "9592": {
+        "country_code": "JP",
+        "asn": "9592",
+        "description": "SOFTBANK TELECOM Corp.",
+        "handle": "PRISM"
+    },
+    "9593": {
+        "country_code": "JP",
+        "asn": "9593",
+        "description": "Nikkei Inc.",
+        "handle": "NIKKEI"
+    },
+    "9595": {
+        "country_code": "JP",
+        "asn": "9595",
+        "description": "NTT-ME Corporation",
+        "handle": "XEPHION"
+    },
+    "9597": {
+        "country_code": "JP",
+        "asn": "9597",
+        "description": "KDDI Web Communications Inc.",
+        "handle": "CPI-NET"
+    },
+    "9598": {
+        "country_code": "JP",
+        "asn": "9598",
+        "description": "NTT DOCOMO BUSINESS Inc.",
+        "handle": "MPLS-OCN"
+    },
+    "9599": {
+        "country_code": "JP",
+        "asn": "9599",
+        "description": "EJWORKS CORPORATION",
+        "handle": "INFOPEPPER"
+    },
+    "9600": {
+        "country_code": "JP",
+        "asn": "9600",
+        "description": "So-net Corporation",
+        "handle": "SONYTELECOM"
+    },
+    "9601": {
+        "country_code": "JP",
+        "asn": "9601",
+        "description": "Niigata Communication Service",
+        "handle": "SHIBATA"
+    },
+    "9604": {
+        "country_code": "JP",
+        "asn": "9604",
+        "description": "FUJI SOFT INCORPORATED",
+        "handle": "FSI-AS"
+    },
+    "9605": {
+        "country_code": "JP",
+        "asn": "9605",
+        "description": "NTT DOCOMO INC.",
+        "handle": "DOCOMO"
+    },
+    "9606": {
+        "country_code": "JP",
+        "asn": "9606",
+        "description": "Institute of Space and Astronautical Science Japan Aerospace Exploration Agency",
+        "handle": "ISAS-AS"
+    },
+    "9607": {
+        "country_code": "JP",
+        "asn": "9607",
+        "description": "BroadBand Tower Inc.",
+        "handle": "BBTOWER"
+    },
+    "9609": {
+        "country_code": "JP",
+        "asn": "9609",
+        "description": "BBIX Inc.",
+        "handle": "BBIX-CDN"
+    },
+    "9614": {
+        "country_code": "JP",
+        "asn": "9614",
+        "description": "Oita Cable Telecom Co ltd.",
+        "handle": "OCT"
+    },
+    "9615": {
+        "country_code": "JP",
+        "asn": "9615",
+        "description": "TOYOHASHI CABLE NETWORK INC.",
+        "handle": "TEES"
+    },
+    "9616": {
+        "country_code": "JP",
+        "asn": "9616",
+        "description": "WIDE Project",
+        "handle": "MUX"
+    },
+    "9617": {
+        "country_code": "JP",
+        "asn": "9617",
+        "description": "JCOM Co. Ltd.",
+        "handle": "ZAQ"
+    },
+    "9618": {
+        "country_code": "JP",
+        "asn": "9618",
+        "description": "catv-tokushima",
+        "handle": "TCN"
+    },
+    "9619": {
+        "country_code": "JP",
+        "asn": "9619",
+        "description": "Sony Global Solutions Inc.",
+        "handle": "SSD"
+    },
+    "9621": {
+        "country_code": "JP",
+        "asn": "9621",
+        "description": "Okinawa Telecommunication Network Co. Inc",
+        "handle": "II-OKINAWA"
+    },
+    "9622": {
+        "country_code": "JP",
+        "asn": "9622",
+        "description": "Kurashiki Cable TV",
+        "handle": "KCT"
+    },
+    "9663": {
+        "country_code": "JP",
+        "asn": "9663",
+        "description": "OTO GK",
+        "handle": "MARU-AS-JP"
+    },
+    "9743": {
+        "country_code": "JP",
+        "asn": "9743",
+        "description": "Nippon EDUIX",
+        "handle": "NIPPONEDUIX-AS-AP"
+    },
+    "9824": {
+        "country_code": "JP",
+        "asn": "9824",
+        "description": "JCOM Co. Ltd.",
+        "handle": "JTCL-JP-AS"
+    },
+    "9827": {
+        "country_code": "JP",
+        "asn": "9827",
+        "description": "Agilent Technologies Japan Ltd",
+        "handle": "AGILENT-AS-AP"
+    },
+    "9928": {
+        "country_code": "JP",
+        "asn": "9928",
+        "description": "Rapid-Fire-y",
+        "handle": "INIXP-ASIA-AS-AP"
+    },
+    "9935": {
+        "country_code": "JP",
+        "asn": "9935",
+        "description": "AT&T Japan K.K.",
+        "handle": "AGNSCUS-HK"
+    },
+    "9990": {
+        "country_code": "JP",
+        "asn": "9990",
+        "description": "Nippon Information and Communication Corporation",
+        "handle": "NIANDC"
+    },
+    "9991": {
+        "country_code": "JP",
+        "asn": "9991",
+        "description": "Hiroshima Shudo University",
+        "handle": "SHUDO-U"
+    },
+    "9993": {
+        "country_code": "JP",
+        "asn": "9993",
+        "description": "ITOCHU Techno-Solutions Corporation",
+        "handle": "CTC-ODC"
+    },
+    "9996": {
+        "country_code": "JP",
+        "asn": "9996",
+        "description": "KDDI Corporation",
+        "handle": "KDDIIP-VPN"
+    },
+    "9997": {
+        "country_code": "JP",
+        "asn": "9997",
+        "description": "Suzuka Cable Co. Ltd",
+        "handle": "MECHA"
+    },
+    "9998": {
+        "country_code": "JP",
+        "asn": "9998",
+        "description": "ISAO Corporation",
+        "handle": "ISAO"
+    },
+    "9999": {
+        "country_code": "JP",
+        "asn": "9999",
+        "description": "AT TOKYO Corporation",
+        "handle": "ATTOKYO"
+    },
+    "10000": {
+        "country_code": "JP",
+        "asn": "10000",
+        "description": "Nagasaki Cable Media Inc.",
+        "handle": "NCM"
+    },
+    "10001": {
+        "country_code": "JP",
+        "asn": "10001",
+        "description": "Mics Network Corporation",
+        "handle": "MICSNET"
+    },
+    "10002": {
+        "country_code": "JP",
+        "asn": "10002",
+        "description": "IGAUENO CABLE TELEVISION CO. LTD",
+        "handle": "ICT"
+    },
+    "10003": {
+        "country_code": "JP",
+        "asn": "10003",
+        "description": "Ogaki Cable Television Co. Inc.",
+        "handle": "OCT-NET"
+    },
+    "10004": {
+        "country_code": "JP",
+        "asn": "10004",
+        "description": "Phoenix Communications Inc.",
+        "handle": "AS-PHOENIX-J"
+    },
+    "10006": {
+        "country_code": "JP",
+        "asn": "10006",
+        "description": "SECOM Trust Systems Co. Ltd.",
+        "handle": "SECOMTRUST"
+    },
+    "10007": {
+        "country_code": "JP",
+        "asn": "10007",
+        "description": "SoftBank Corp.",
+        "handle": "IPR"
+    },
+    "10010": {
+        "country_code": "JP",
+        "asn": "10010",
+        "description": "TOKAI Communications Corporation",
+        "handle": "TOKAI"
+    },
+    "10011": {
+        "country_code": "JP",
+        "asn": "10011",
+        "description": "advanscope inc.",
+        "handle": "ADVAN"
+    },
+    "10012": {
+        "country_code": "JP",
+        "asn": "10012",
+        "description": "Rakuten Mobile Inc.",
+        "handle": "FUSION"
+    },
+    "10013": {
+        "country_code": "JP",
+        "asn": "10013",
+        "description": "FreeBit Co. Ltd.",
+        "handle": "FBDC"
+    },
+    "10014": {
+        "country_code": "JP",
+        "asn": "10014",
+        "description": "Nihon University",
+        "handle": "NIHON-U"
+    },
+    "10015": {
+        "country_code": "JP",
+        "asn": "10015",
+        "description": "Cyber Wave Japan Co. Ltd.",
+        "handle": "CWJ-NET"
+    },
+    "10016": {
+        "country_code": "JP",
+        "asn": "10016",
+        "description": "Minaminihon Information Processing Center Co Ltd",
+        "handle": "MINC"
+    },
+    "10019": {
+        "country_code": "JP",
+        "asn": "10019",
+        "description": "Matsusaka Cable-TV Station Inc.",
+        "handle": "MCTV"
+    },
+    "10021": {
+        "country_code": "JP",
+        "asn": "10021",
+        "description": "KVH Co. Ltd",
+        "handle": "KVH"
+    },
+    "10108": {
+        "country_code": "JP",
+        "asn": "10108",
+        "description": "Dresdner Kleinwort Wasserstein Ltd",
+        "handle": "DRESDNERHK-AP"
+    },
+    "10124": {
+        "country_code": "JP",
+        "asn": "10124",
+        "description": "Amazon Data Services Japan KK",
+        "handle": "AMAZON-AP-RESOURCES-AS-AP-NRT"
+    },
+    "10209": {
+        "country_code": "JP",
+        "asn": "10209",
+        "description": "Synopsys",
+        "handle": "SYNOPSYS-AS-JP-AP"
+    },
+    "10807": {
+        "country_code": "JP",
+        "asn": "10807",
+        "description": "Hitachi Business International Ltd.",
+        "handle": "ERX-HOLE-IN-ONE"
+    },
+    "17504": {
+        "country_code": "JP",
+        "asn": "17504",
+        "description": "NRI Netcom Ltd.",
+        "handle": "NETCOM"
+    },
+    "17505": {
+        "country_code": "JP",
+        "asn": "17505",
+        "description": "SoftBank Corp.",
+        "handle": "SBMOBILE"
+    },
+    "17506": {
+        "country_code": "JP",
+        "asn": "17506",
+        "description": "ARTERIA Networks Corporation",
+        "handle": "UCOM"
+    },
+    "17509": {
+        "country_code": "JP",
+        "asn": "17509",
+        "description": "STARNET Co. Ltd.",
+        "handle": "STARNET"
+    },
+    "17510": {
+        "country_code": "JP",
+        "asn": "17510",
+        "description": "INFORMATION SERVICES INTERNATIONAL - DENTSU LTD.",
+        "handle": "ISID"
+    },
+    "17511": {
+        "country_code": "JP",
+        "asn": "17511",
+        "description": "OPTAGE Inc.",
+        "handle": "OPTAGE"
+    },
+    "17512": {
+        "country_code": "JP",
+        "asn": "17512",
+        "description": "Japan Airlines Co. Ltd.",
+        "handle": "JAL"
+    },
+    "17514": {
+        "country_code": "JP",
+        "asn": "17514",
+        "description": "Otsuka Corp.",
+        "handle": "AICS"
+    },
+    "17516": {
+        "country_code": "JP",
+        "asn": "17516",
+        "description": "NTT COMWARE CORPORATION",
+        "handle": "NTTCOMWARE"
+    },
+    "17518": {
+        "country_code": "JP",
+        "asn": "17518",
+        "description": "Shiojiri City",
+        "handle": "SHIOJIRI"
+    },
+    "17521": {
+        "country_code": "JP",
+        "asn": "17521",
+        "description": "Kochi University of Technology",
+        "handle": "KUT"
+    },
+    "17522": {
+        "country_code": "JP",
+        "asn": "17522",
+        "description": "NIPPON TELEGRAPH AND TELEPHONE WEST CORPORATION",
+        "handle": "NTT-WEST"
+    },
+    "17523": {
+        "country_code": "JP",
+        "asn": "17523",
+        "description": "Aoyama Gakuin University",
+        "handle": "AOYAMA"
+    },
+    "17524": {
+        "country_code": "JP",
+        "asn": "17524",
+        "description": "OPTAGE Inc.",
+        "handle": "OPTAGE-17524"
+    },
+    "17527": {
+        "country_code": "JP",
+        "asn": "17527",
+        "description": "CHITA MEDIAS NETWORK INC.",
+        "handle": "MEDIAS"
+    },
+    "17529": {
+        "country_code": "JP",
+        "asn": "17529",
+        "description": "STARCAT Co . LTD.",
+        "handle": "MEDIACAT"
+    },
+    "17530": {
+        "country_code": "JP",
+        "asn": "17530",
+        "description": "Nihon Network Service Co .Ltd.",
+        "handle": "NNS"
+    },
+    "17532": {
+        "country_code": "JP",
+        "asn": "17532",
+        "description": "Tokyo Polytechnic University",
+        "handle": "T-KOUGEI"
+    },
+    "17534": {
+        "country_code": "JP",
+        "asn": "17534",
+        "description": "NSK Co. Ltd.",
+        "handle": "NSK"
+    },
+    "17661": {
+        "country_code": "JP",
+        "asn": "17661",
+        "description": "NHN Cloud Japan Corporation",
+        "handle": "NHN-JAPAN"
+    },
+    "17673": {
+        "country_code": "JP",
+        "asn": "17673",
+        "description": "MITSUI KNOWLEDGE INDUSTRY CO. LTD.",
+        "handle": "MKINET"
+    },
+    "17675": {
+        "country_code": "JP",
+        "asn": "17675",
+        "description": "PacketFabric (Japan) Co. Ltd.",
+        "handle": "AS-PNAPTOK"
+    },
+    "17676": {
+        "country_code": "JP",
+        "asn": "17676",
+        "description": "SoftBank Corp.",
+        "handle": "GIGAINFRA"
+    },
+    "17677": {
+        "country_code": "JP",
+        "asn": "17677",
+        "description": "ARTERIA Networks Corporation",
+        "handle": "MIINET"
+    },
+    "17678": {
+        "country_code": "JP",
+        "asn": "17678",
+        "description": "Gunma Internet Co .ltd",
+        "handle": "WIND"
+    },
+    "17680": {
+        "country_code": "JP",
+        "asn": "17680",
+        "description": "SCSK Corporation",
+        "handle": "SCS"
+    },
+    "17682": {
+        "country_code": "JP",
+        "asn": "17682",
+        "description": "296 BROAD NET Com Inc",
+        "handle": "CABLENET296"
+    },
+    "17683": {
+        "country_code": "JP",
+        "asn": "17683",
+        "description": "Wingtechnology Communications Inc.",
+        "handle": "WINTECH-COM"
+    },
+    "17685": {
+        "country_code": "JP",
+        "asn": "17685",
+        "description": "SQUARE ENIX CO. LTD.",
+        "handle": "PLAYONLINE"
+    },
+    "17686": {
+        "country_code": "JP",
+        "asn": "17686",
+        "description": "ACCELIA",
+        "handle": "ACCELIA"
+    },
+    "17687": {
+        "country_code": "JP",
+        "asn": "17687",
+        "description": "National University Corporation Nagoya University",
+        "handle": "NICE"
+    },
+    "17689": {
+        "country_code": "JP",
+        "asn": "17689",
+        "description": "Hokuden Information Technology Inc.",
+        "handle": "H-IX"
+    },
+    "17691": {
+        "country_code": "JP",
+        "asn": "17691",
+        "description": "NDS Co. Ltd.",
+        "handle": "TIKITIKI"
+    },
+    "17692": {
+        "country_code": "JP",
+        "asn": "17692",
+        "description": "Kyocera Communication Systems Co. Ltd.",
+        "handle": "KCCS"
+    },
+    "17693": {
+        "country_code": "JP",
+        "asn": "17693",
+        "description": "YAMATO SYSTEM DEVELOPMENT CO. LTD.",
+        "handle": "NEKONET"
+    },
+    "17694": {
+        "country_code": "JP",
+        "asn": "17694",
+        "description": "Deutsche Bank Group Japan BGP connection",
+        "handle": "JPN-DBJP"
+    },
+    "17695": {
+        "country_code": "JP",
+        "asn": "17695",
+        "description": "MLJS",
+        "handle": "MLJS"
+    },
+    "17697": {
+        "country_code": "JP",
+        "asn": "17697",
+        "description": "NTT PC Communications Inc.",
+        "handle": "BBX"
+    },
+    "17698": {
+        "country_code": "JP",
+        "asn": "17698",
+        "description": "COMMUNITY NETWORK CENTER INCORPORATED",
+        "handle": "CCNET-NET"
+    },
+    "17699": {
+        "country_code": "JP",
+        "asn": "17699",
+        "description": "ARTERIA Networks Corporation",
+        "handle": "MEDIA"
+    },
+    "17701": {
+        "country_code": "JP",
+        "asn": "17701",
+        "description": "Seinan Gakuin University",
+        "handle": "SEINAN"
+    },
+    "17707": {
+        "country_code": "JP",
+        "asn": "17707",
+        "description": "NHN Techorus Corp.",
+        "handle": "DATAHOTEL-JP"
+    },
+    "17795": {
+        "country_code": "JP",
+        "asn": "17795",
+        "description": "CTC Technology Corporation",
+        "handle": "NVJ-AP"
+    },
+    "17905": {
+        "country_code": "JP",
+        "asn": "17905",
+        "description": "Dresdner Kleinwort Wasserstein Ltd",
+        "handle": "COMMERZBANK-AP-DRT"
+    },
+    "17931": {
+        "country_code": "JP",
+        "asn": "17931",
+        "description": "Netforest Inc.",
+        "handle": "NETFOREST"
+    },
+    "17932": {
+        "country_code": "JP",
+        "asn": "17932",
+        "description": "Japan Advanced Institute of Science and Technology",
+        "handle": "JAIST"
+    },
+    "17933": {
+        "country_code": "JP",
+        "asn": "17933",
+        "description": "Nippon Telegraph and Telephone East Corporation",
+        "handle": "NTT-EAST"
+    },
+    "17934": {
+        "country_code": "JP",
+        "asn": "17934",
+        "description": "National Institute of Information and Communications Technology",
+        "handle": "JGNV6"
+    },
+    "17936": {
+        "country_code": "JP",
+        "asn": "17936",
+        "description": "Cable Television Kani Co. Inc.",
+        "handle": "CTK"
+    },
+    "17937": {
+        "country_code": "JP",
+        "asn": "17937",
+        "description": "NIKKEI ADVANCED SYSTEMS INC.",
+        "handle": "NDMC"
+    },
+    "17938": {
+        "country_code": "JP",
+        "asn": "17938",
+        "description": "SoftBank Corp.",
+        "handle": "CLOUDHUB"
+    },
+    "17939": {
+        "country_code": "JP",
+        "asn": "17939",
+        "description": "miyazaki cabletelevision network Co. LTD",
+        "handle": "MCN-NET01"
+    },
+    "17940": {
+        "country_code": "JP",
+        "asn": "17940",
+        "description": "CYBER LINKS Co. Ltd.",
+        "handle": "CYBERLINKS"
+    },
+    "17941": {
+        "country_code": "JP",
+        "asn": "17941",
+        "description": "Equinix Japan Enterprise K.K.",
+        "handle": "BIT-ISLE"
+    },
+    "17943": {
+        "country_code": "JP",
+        "asn": "17943",
+        "description": "Tokyo Denki University",
+        "handle": "TDU"
+    },
+    "17944": {
+        "country_code": "JP",
+        "asn": "17944",
+        "description": "Japan Weather Association",
+        "handle": "JWA"
+    },
+    "17945": {
+        "country_code": "JP",
+        "asn": "17945",
+        "description": "iTV Co Ltd",
+        "handle": "ITV"
+    },
+    "17946": {
+        "country_code": "JP",
+        "asn": "17946",
+        "description": "Gifu University",
+        "handle": "GUCC"
+    },
+    "17947": {
+        "country_code": "JP",
+        "asn": "17947",
+        "description": "SAKURA KCS Corporation",
+        "handle": "S-UTOPIA"
+    },
+    "17948": {
+        "country_code": "JP",
+        "asn": "17948",
+        "description": "EditNet Incorporated",
+        "handle": "EDITNET"
+    },
+    "17949": {
+        "country_code": "JP",
+        "asn": "17949",
+        "description": "Tokyo University of Technorogy",
+        "handle": "TEU"
+    },
+    "17950": {
+        "country_code": "JP",
+        "asn": "17950",
+        "description": "SaiNet",
+        "handle": "SAINET-AS"
+    },
+    "17953": {
+        "country_code": "JP",
+        "asn": "17953",
+        "description": "BroadBand Security Inc.",
+        "handle": "ICO"
+    },
+    "17955": {
+        "country_code": "JP",
+        "asn": "17955",
+        "description": "Densan Co. Ltd.",
+        "handle": "AVISNET"
+    },
+    "17956": {
+        "country_code": "JP",
+        "asn": "17956",
+        "description": "WASEDA University",
+        "handle": "WASEDA"
+    },
+    "17957": {
+        "country_code": "JP",
+        "asn": "17957",
+        "description": "SOUTH TOKYO CABLETELEVISION",
+        "handle": "CTS"
+    },
+    "17958": {
+        "country_code": "JP",
+        "asn": "17958",
+        "description": "Kasaoka Cable Vision Co LTD.",
+        "handle": "KCV"
+    },
+    "17960": {
+        "country_code": "JP",
+        "asn": "17960",
+        "description": "University of the Ryukyus",
+        "handle": "RAINS-AS"
+    },
+    "17961": {
+        "country_code": "JP",
+        "asn": "17961",
+        "description": "mitene internet co. ltd.",
+        "handle": "MITENE"
+    },
+    "17977": {
+        "country_code": "JP",
+        "asn": "17977",
+        "description": "Singapore Telecom Japan Ltd",
+        "handle": "SINGTEL-JP"
+    },
+    "18067": {
+        "country_code": "JP",
+        "asn": "18067",
+        "description": "Humeia Corporation",
+        "handle": "HUMEIA"
+    },
+    "18068": {
+        "country_code": "JP",
+        "asn": "18068",
+        "description": "Dream Wave Shizuoka Co. Ltd.",
+        "handle": "ACROSS"
+    },
+    "18069": {
+        "country_code": "JP",
+        "asn": "18069",
+        "description": "SB Technology Corp.",
+        "handle": "SOFTBANK"
+    },
+    "18070": {
+        "country_code": "JP",
+        "asn": "18070",
+        "description": "Global Network Core Co. Ltd.",
+        "handle": "NDAC"
+    },
+    "18071": {
+        "country_code": "JP",
+        "asn": "18071",
+        "description": "Panasonic Information Systems Co. Ltd",
+        "handle": "MEI1"
+    },
+    "18072": {
+        "country_code": "JP",
+        "asn": "18072",
+        "description": "NTT DOCOMO BUSINESS Inc.",
+        "handle": "STREAMWING"
+    },
+    "18074": {
+        "country_code": "JP",
+        "asn": "18074",
+        "description": "FRT Inc.",
+        "handle": "FRT"
+    },
+    "18075": {
+        "country_code": "JP",
+        "asn": "18075",
+        "description": "Chupicom Inc.",
+        "handle": "HICAT"
+    },
+    "18076": {
+        "country_code": "JP",
+        "asn": "18076",
+        "description": "Institute of Advanced Media Arts and Sciences",
+        "handle": "WCE-IAMAS"
+    },
+    "18077": {
+        "country_code": "JP",
+        "asn": "18077",
+        "description": "Yamaguchi Cable Vision Co. Ltd",
+        "handle": "C-ABLE"
+    },
+    "18080": {
+        "country_code": "JP",
+        "asn": "18080",
+        "description": "Sopiafons Co. Ltd",
+        "handle": "SOPIA"
+    },
+    "18081": {
+        "country_code": "JP",
+        "asn": "18081",
+        "description": "Kintetsu Cable Network Co. Ltd.",
+        "handle": "KCN"
+    },
+    "18082": {
+        "country_code": "JP",
+        "asn": "18082",
+        "description": "Japan Agency for Local Authority Information Systems",
+        "handle": "LASDEC"
+    },
+    "18085": {
+        "country_code": "JP",
+        "asn": "18085",
+        "description": "Fujitsu Systems Applications & Support Limited",
+        "handle": "INFOVALLEY"
+    },
+    "18086": {
+        "country_code": "JP",
+        "asn": "18086",
+        "description": "PFU LIMITED",
+        "handle": "PFU-IDC"
+    },
+    "18087": {
+        "country_code": "JP",
+        "asn": "18087",
+        "description": "Toyo University",
+        "handle": "TOYO"
+    },
+    "18088": {
+        "country_code": "JP",
+        "asn": "18088",
+        "description": "Kyuden Infocom Company Inc",
+        "handle": "QIC"
+    },
+    "18089": {
+        "country_code": "JP",
+        "asn": "18089",
+        "description": "KDDI Corporation",
+        "handle": "HIKARI-NWC"
+    },
+    "18090": {
+        "country_code": "JP",
+        "asn": "18090",
+        "description": "IMS Corporation",
+        "handle": "MAGMA"
+    },
+    "18091": {
+        "country_code": "JP",
+        "asn": "18091",
+        "description": "Teikyo University",
+        "handle": "TEIKYO-U"
+    },
+    "18092": {
+        "country_code": "JP",
+        "asn": "18092",
+        "description": "Kyushu Tele Communications Company",
+        "handle": "CSF"
+    },
+    "18094": {
+        "country_code": "JP",
+        "asn": "18094",
+        "description": "Tokyo Cable Network. INC",
+        "handle": "TCN-AS"
+    },
+    "18095": {
+        "country_code": "JP",
+        "asn": "18095",
+        "description": "Reitaku University",
+        "handle": "REITAKU"
+    },
+    "18097": {
+        "country_code": "JP",
+        "asn": "18097",
+        "description": "D.C.N. Corporation",
+        "handle": "DCN"
+    },
+    "18121": {
+        "country_code": "JP",
+        "asn": "18121",
+        "description": "Ishikawa Computer Center Co. LTD.",
+        "handle": "INCL"
+    },
+    "18122": {
+        "country_code": "JP",
+        "asn": "18122",
+        "description": "Advanced Software Technology & Management Research Institute of KYOTO",
+        "handle": "KYOTO-IX"
+    },
+    "18123": {
+        "country_code": "JP",
+        "asn": "18123",
+        "description": "INAOKI EDUCATIONAL INSTITUTION",
+        "handle": "SEIRYO"
+    },
+    "18124": {
+        "country_code": "JP",
+        "asn": "18124",
+        "description": "Okayama University of Science",
+        "handle": "OUS-NET"
+    },
+    "18125": {
+        "country_code": "JP",
+        "asn": "18125",
+        "description": "Tsukuba Business-Academia Cooperation Support Center Agriculture Forestry and Fisheries Research Council Secretariat Ministry of Agriculture Forestry and Fisheries",
+        "handle": "MAFFIN"
+    },
+    "18126": {
+        "country_code": "JP",
+        "asn": "18126",
+        "description": "Chubu Telecommunications Company Inc.",
+        "handle": "CTCX"
+    },
+    "18127": {
+        "country_code": "JP",
+        "asn": "18127",
+        "description": "Ibaraki Prefectural Government",
+        "handle": "IBARAKI"
+    },
+    "18128": {
+        "country_code": "JP",
+        "asn": "18128",
+        "description": "RIKEN",
+        "handle": "RIKEN"
+    },
+    "18129": {
+        "country_code": "JP",
+        "asn": "18129",
+        "description": "OKAYAMA NETWORK INC.",
+        "handle": "ONI"
+    },
+    "18131": {
+        "country_code": "JP",
+        "asn": "18131",
+        "description": "NTT DOCOMO BUSINESS Inc.",
+        "handle": "DXNW"
+    },
+    "18134": {
+        "country_code": "JP",
+        "asn": "18134",
+        "description": "JCOM Co. Ltd.",
+        "handle": "KITANET"
+    },
+    "18135": {
+        "country_code": "JP",
+        "asn": "18135",
+        "description": "BTV CO. LTD.",
+        "handle": "BTV"
+    },
+    "18136": {
+        "country_code": "JP",
+        "asn": "18136",
+        "description": "JCOM Co. Ltd.",
+        "handle": "CTA"
+    },
+    "18138": {
+        "country_code": "JP",
+        "asn": "18138",
+        "description": "SAKURA Internet Inc.",
+        "handle": "SAKURA-G"
+    },
+    "18139": {
+        "country_code": "JP",
+        "asn": "18139",
+        "description": "Hitachi Solutions Ltd.",
+        "handle": "HISOL-CSV"
+    },
+    "18140": {
+        "country_code": "JP",
+        "asn": "18140",
+        "description": "LY Corporation",
+        "handle": "YAHOO-18140"
+    },
+    "18141": {
+        "country_code": "JP",
+        "asn": "18141",
+        "description": "HBA",
+        "handle": "HBA-IDC"
+    },
+    "18142": {
+        "country_code": "JP",
+        "asn": "18142",
+        "description": "KISTEM Co. Ltd.",
+        "handle": "BIWALOBE"
+    },
+    "18143": {
+        "country_code": "JP",
+        "asn": "18143",
+        "description": "Mitsubishi Research Institute DCS Co. Ltd.",
+        "handle": "DCSNET"
+    },
+    "18144": {
+        "country_code": "JP",
+        "asn": "18144",
+        "description": "Enecom Inc.",
+        "handle": "AS-ENECOM"
+    },
+    "18146": {
+        "country_code": "JP",
+        "asn": "18146",
+        "description": "Intec NetCore Inc.",
+        "handle": "INETCORE"
+    },
+    "18148": {
+        "country_code": "JP",
+        "asn": "18148",
+        "description": "Fukuoka University",
+        "handle": "FUKUOKA-U"
+    },
+    "18149": {
+        "country_code": "JP",
+        "asn": "18149",
+        "description": "Japan Registry Service Co. Ltd.",
+        "handle": "JPRS"
+    },
+    "18150": {
+        "country_code": "JP",
+        "asn": "18150",
+        "description": "NetComBB Co. Ltd.",
+        "handle": "SNI-JP"
+    },
+    "18151": {
+        "country_code": "JP",
+        "asn": "18151",
+        "description": "COMPUTER ENGINEERING & CONSULTING LTD.",
+        "handle": "CEC"
+    },
+    "18258": {
+        "country_code": "JP",
+        "asn": "18258",
+        "description": "Morgan Stanley Japan Group Co. Ltd.",
+        "handle": "MS-JP-AS-AP"
+    },
+    "18259": {
+        "country_code": "JP",
+        "asn": "18259",
+        "description": "NTT DOCOMO BUSINESS Inc",
+        "handle": "HIGE"
+    },
+    "18260": {
+        "country_code": "JP",
+        "asn": "18260",
+        "description": "EHIME CATV CO. LTD.",
+        "handle": "E-CATV"
+    },
+    "18263": {
+        "country_code": "JP",
+        "asn": "18263",
+        "description": "MEITETSUCOM Co. Ltd.",
+        "handle": "MEINET"
+    },
+    "18264": {
+        "country_code": "JP",
+        "asn": "18264",
+        "description": "Seikei Eizo Network Inc.",
+        "handle": "SEN"
+    },
+    "18266": {
+        "country_code": "JP",
+        "asn": "18266",
+        "description": "Cable Networks Akita Co. ltd.",
+        "handle": "ATNAP"
+    },
+    "18267": {
+        "country_code": "JP",
+        "asn": "18267",
+        "description": "Doshisha University",
+        "handle": "DOSHISHA"
+    },
+    "18268": {
+        "country_code": "JP",
+        "asn": "18268",
+        "description": "Naganoken Kyodou Densan Co.Ltd.",
+        "handle": "JANIS"
+    },
+    "18269": {
+        "country_code": "JP",
+        "asn": "18269",
+        "description": "Kai Creates Inc.",
+        "handle": "KAI"
+    },
+    "18270": {
+        "country_code": "JP",
+        "asn": "18270",
+        "description": "Toin University of Yokohama",
+        "handle": "TOIN"
+    },
+    "18271": {
+        "country_code": "JP",
+        "asn": "18271",
+        "description": "Sojitz Tech Innovation Co. Ltd.",
+        "handle": "EVONET"
+    },
+    "18272": {
+        "country_code": "JP",
+        "asn": "18272",
+        "description": "Benesse Corporation",
+        "handle": "BC-NET"
+    },
+    "18274": {
+        "country_code": "JP",
+        "asn": "18274",
+        "description": "Utsunomiya Cable TV Corporation",
+        "handle": "UCATV"
+    },
+    "18276": {
+        "country_code": "JP",
+        "asn": "18276",
+        "description": "Kansai University",
+        "handle": "KAISER"
+    },
+    "18277": {
+        "country_code": "JP",
+        "asn": "18277",
+        "description": "Kurashiki University of Science and the Arts",
+        "handle": "KUSA"
+    },
+    "18278": {
+        "country_code": "JP",
+        "asn": "18278",
+        "description": "Cable TV Corporation",
+        "handle": "CC9N"
+    },
+    "18279": {
+        "country_code": "JP",
+        "asn": "18279",
+        "description": "Bukkyo University",
+        "handle": "BUKKYO-U"
+    },
+    "18281": {
+        "country_code": "JP",
+        "asn": "18281",
+        "description": "Tokoname New-TV Corporation",
+        "handle": "TAC-NET"
+    },
+    "18282": {
+        "country_code": "JP",
+        "asn": "18282",
+        "description": "Tonami System Solutions Co. Ltd.",
+        "handle": "CORALNET"
+    },
+    "18283": {
+        "country_code": "JP",
+        "asn": "18283",
+        "description": "Chupicom Inc.",
+        "handle": "CCV"
+    },
+    "18289": {
+        "country_code": "JP",
+        "asn": "18289",
+        "description": "AT&T Japan K.K.",
+        "handle": "TAO-TORONTO"
+    },
+    "18383": {
+        "country_code": "JP",
+        "asn": "18383",
+        "description": "CAHI Corporation",
+        "handle": "CAHI-AS-JP"
+    },
+    "18526": {
+        "country_code": "JP",
+        "asn": "18526",
+        "description": "DDPS Networks LLC",
+        "handle": "DDPS"
+    },
+    "23297": {
+        "country_code": "JP",
+        "asn": "23297",
+        "description": "Tuean LLC",
+        "handle": "TUEAN"
+    },
+    "23613": {
+        "country_code": "JP",
+        "asn": "23613",
+        "description": "New Media Tokushima Co. ltd.",
+        "handle": "NMTNET"
+    },
+    "23614": {
+        "country_code": "JP",
+        "asn": "23614",
+        "description": "Kochi Systems Co. Ltd.",
+        "handle": "I-KOCHI"
+    },
+    "23615": {
+        "country_code": "JP",
+        "asn": "23615",
+        "description": "University of Shizuoka",
+        "handle": "KUSANAGI"
+    },
+    "23616": {
+        "country_code": "JP",
+        "asn": "23616",
+        "description": "Hitachi Systems Ltd.",
+        "handle": "HNB"
+    },
+    "23618": {
+        "country_code": "JP",
+        "asn": "23618",
+        "description": "Ibara Broadcasting Company",
+        "handle": "ICV-NET"
+    },
+    "23619": {
+        "country_code": "JP",
+        "asn": "23619",
+        "description": "SMARTVALUE Co. Ltd.",
+        "handle": "E-OSAKA"
+    },
+    "23620": {
+        "country_code": "JP",
+        "asn": "23620",
+        "description": "DMM.com LLC",
+        "handle": "DMM"
+    },
+    "23622": {
+        "country_code": "JP",
+        "asn": "23622",
+        "description": "Tsuru Gakuen",
+        "handle": "TSURU-GAKUEN"
+    },
+    "23623": {
+        "country_code": "JP",
+        "asn": "23623",
+        "description": "Chuo University",
+        "handle": "CHUO-U"
+    },
+    "23624": {
+        "country_code": "JP",
+        "asn": "23624",
+        "description": "Chukai Television Co .Ltd.",
+        "handle": "CHUKAI"
+    },
+    "23625": {
+        "country_code": "JP",
+        "asn": "23625",
+        "description": "TOKAI Communications Corporation",
+        "handle": "TOKAI-WBS"
+    },
+    "23627": {
+        "country_code": "JP",
+        "asn": "23627",
+        "description": "UEDA CABLE VISION CO. LTD.",
+        "handle": "UCVNET"
+    },
+    "23628": {
+        "country_code": "JP",
+        "asn": "23628",
+        "description": "Academic newtown Community Cable Service",
+        "handle": "ACCSNET"
+    },
+    "23629": {
+        "country_code": "JP",
+        "asn": "23629",
+        "description": "Obihiro City Cable Co. Ltd.",
+        "handle": "OCTV"
+    },
+    "23630": {
+        "country_code": "JP",
+        "asn": "23630",
+        "description": "CAC Inc.",
+        "handle": "CAC-NET"
+    },
+    "23631": {
+        "country_code": "JP",
+        "asn": "23631",
+        "description": "Sofu System Inc",
+        "handle": "KISNET"
+    },
+    "23632": {
+        "country_code": "JP",
+        "asn": "23632",
+        "description": "TVT Tsuyama Co. Ltd.",
+        "handle": "TVT-NET"
+    },
+    "23633": {
+        "country_code": "JP",
+        "asn": "23633",
+        "description": "Niigata Communication Service",
+        "handle": "LOCAL-IX"
+    },
+    "23634": {
+        "country_code": "JP",
+        "asn": "23634",
+        "description": "WIDE Project",
+        "handle": "E-DNS-JP"
+    },
+    "23635": {
+        "country_code": "JP",
+        "asn": "23635",
+        "description": "CRCCMedia Co. ltd",
+        "handle": "CRCC"
+    },
+    "23637": {
+        "country_code": "JP",
+        "asn": "23637",
+        "description": "Equinix Japan Enterprise K.K.",
+        "handle": "BI-CDN-IX"
+    },
+    "23638": {
+        "country_code": "JP",
+        "asn": "23638",
+        "description": "AMIXCOM Inc.",
+        "handle": "AMIXCOM"
+    },
+    "23639": {
+        "country_code": "JP",
+        "asn": "23639",
+        "description": "NTT Bizlink Inc.",
+        "handle": "NTT-BIZLINK"
+    },
+    "23640": {
+        "country_code": "JP",
+        "asn": "23640",
+        "description": "BBIX Inc.",
+        "handle": "BBIX"
+    },
+    "23641": {
+        "country_code": "JP",
+        "asn": "23641",
+        "description": "NS Computer Service Corporation",
+        "handle": "NSCS-NET"
+    },
+    "23642": {
+        "country_code": "JP",
+        "asn": "23642",
+        "description": "OBIS",
+        "handle": "OBIS"
+    },
+    "23661": {
+        "country_code": "JP",
+        "asn": "23661",
+        "description": "CLARA Inc.",
+        "handle": "CLARA-AS-AP"
+    },
+    "23720": {
+        "country_code": "JP",
+        "asn": "23720",
+        "description": "Fusion Network Services Corp",
+        "handle": "FUSIONGOL-AS-AP"
+    },
+    "23748": {
+        "country_code": "JP",
+        "asn": "23748",
+        "description": "Cat Networks K.K.",
+        "handle": "CAT-AS-AP"
+    },
+    "23760": {
+        "country_code": "JP",
+        "asn": "23760",
+        "description": "Xpedite Systems",
+        "handle": "XPEDITE-AS-AU"
+    },
+    "23761": {
+        "country_code": "JP",
+        "asn": "23761",
+        "description": "Xpedite Systems",
+        "handle": "XPEDITE-AS-JP"
+    },
+    "23773": {
+        "country_code": "JP",
+        "asn": "23773",
+        "description": "EKZM co. ltd.",
+        "handle": "EKZM"
+    },
+    "23774": {
+        "country_code": "JP",
+        "asn": "23774",
+        "description": "Japan Registry Service Co. Ltd.",
+        "handle": "A-DNS-JP"
+    },
+    "23775": {
+        "country_code": "JP",
+        "asn": "23775",
+        "description": "Tamashima TV Inc.",
+        "handle": "TAMATELE-NET"
+    },
+    "23776": {
+        "country_code": "JP",
+        "asn": "23776",
+        "description": "NEC Corporation",
+        "handle": "NEC"
+    },
+    "23777": {
+        "country_code": "JP",
+        "asn": "23777",
+        "description": "NTT BUSINESS SOLUTIONS CORPORATION",
+        "handle": "VIPALETTE"
+    },
+    "23778": {
+        "country_code": "JP",
+        "asn": "23778",
+        "description": "IMIZU CABLE NETWORK CO. LTD.",
+        "handle": "CANET"
+    },
+    "23779": {
+        "country_code": "JP",
+        "asn": "23779",
+        "description": "NTT DOCOMO BUSINESS Inc.",
+        "handle": "N-BONE"
+    },
+    "23780": {
+        "country_code": "JP",
+        "asn": "23780",
+        "description": "CTB Media Inc.",
+        "handle": "CTB"
+    },
+    "23781": {
+        "country_code": "JP",
+        "asn": "23781",
+        "description": "Toyama University",
+        "handle": "TOYAMA-AN-AS"
+    },
+    "23783": {
+        "country_code": "JP",
+        "asn": "23783",
+        "description": "Cable Networks Akita Co. ltd.",
+        "handle": "CNA"
+    },
+    "23784": {
+        "country_code": "JP",
+        "asn": "23784",
+        "description": "SQUARE ENIX CO. LTD.",
+        "handle": "POLEXCHENGE"
+    },
+    "23785": {
+        "country_code": "JP",
+        "asn": "23785",
+        "description": "SUN FIELD INTERNET LIMITED",
+        "handle": "SUNFIELD"
+    },
+    "23786": {
+        "country_code": "JP",
+        "asn": "23786",
+        "description": "San-in Cable Vision CO. LTD",
+        "handle": "MABLE"
+    },
+    "23788": {
+        "country_code": "JP",
+        "asn": "23788",
+        "description": "JCOM Co. Ltd.",
+        "handle": "HICT"
+    },
+    "23790": {
+        "country_code": "JP",
+        "asn": "23790",
+        "description": "JCOM Co. Ltd.",
+        "handle": "KCN-TV"
+    },
+    "23791": {
+        "country_code": "JP",
+        "asn": "23791",
+        "description": "LCV Corporation",
+        "handle": "LCV"
+    },
+    "23793": {
+        "country_code": "JP",
+        "asn": "23793",
+        "description": "National Institute of Advanced Industrial Science and Technology",
+        "handle": "AIST"
+    },
+    "23794": {
+        "country_code": "JP",
+        "asn": "23794",
+        "description": "Broadmedia Corporation",
+        "handle": "BMCDN"
+    },
+    "23795": {
+        "country_code": "JP",
+        "asn": "23795",
+        "description": "Fitec Corp.",
+        "handle": "FURUKAWA"
+    },
+    "23798": {
+        "country_code": "JP",
+        "asn": "23798",
+        "description": "VR Techno Center inc",
+        "handle": "VRTC-NET"
+    },
+    "23799": {
+        "country_code": "JP",
+        "asn": "23799",
+        "description": "National Defense Academy",
+        "handle": "NDA"
+    },
+    "23803": {
+        "country_code": "JP",
+        "asn": "23803",
+        "description": "The University of Tokyo",
+        "handle": "HGC"
+    },
+    "23804": {
+        "country_code": "JP",
+        "asn": "23804",
+        "description": "Nonprofit Organization Kitaura Hana Net",
+        "handle": "AIN-NET"
+    },
+    "23805": {
+        "country_code": "JP",
+        "asn": "23805",
+        "description": "Watarase Television Co. Ltd",
+        "handle": "WATVNET"
+    },
+    "23806": {
+        "country_code": "JP",
+        "asn": "23806",
+        "description": "Chupicom Inc.",
+        "handle": "HBS"
+    },
+    "23807": {
+        "country_code": "JP",
+        "asn": "23807",
+        "description": "Ritsumeikan University",
+        "handle": "RITSUMEI"
+    },
+    "23808": {
+        "country_code": "JP",
+        "asn": "23808",
+        "description": "TOSHIMA CABLE NETWORK CO. LTD",
+        "handle": "TOSHIMA-NET"
+    },
+    "23809": {
+        "country_code": "JP",
+        "asn": "23809",
+        "description": "Televi Naruto .CO. LTD",
+        "handle": "TV-NARUTO"
+    },
+    "23810": {
+        "country_code": "JP",
+        "asn": "23810",
+        "description": "IC-NET Corporation",
+        "handle": "IC-NET"
+    },
+    "23813": {
+        "country_code": "JP",
+        "asn": "23813",
+        "description": "SORUN Corporation",
+        "handle": "SORUN"
+    },
+    "23814": {
+        "country_code": "JP",
+        "asn": "23814",
+        "description": "WIDE Project",
+        "handle": "T-LEX"
+    },
+    "23815": {
+        "country_code": "JP",
+        "asn": "23815",
+        "description": "Japan Internet Xing Co. Ltd.",
+        "handle": "JPIX-RS"
+    },
+    "23816": {
+        "country_code": "JP",
+        "asn": "23816",
+        "description": "LY Corporation",
+        "handle": "YAHOO"
+    },
+    "23817": {
+        "country_code": "JP",
+        "asn": "23817",
+        "description": "Fujitsu Limited",
+        "handle": "KOCHI-IDC"
+    },
+    "23818": {
+        "country_code": "JP",
+        "asn": "23818",
+        "description": "JETINTERNET Corporation",
+        "handle": "JETINTERNET"
+    },
+    "23820": {
+        "country_code": "JP",
+        "asn": "23820",
+        "description": "Rakuten Group Inc.",
+        "handle": "RAKUTEN"
+    },
+    "23822": {
+        "country_code": "JP",
+        "asn": "23822",
+        "description": "HAGI Television Co. Ltd.",
+        "handle": "HAGINET"
+    },
+    "23824": {
+        "country_code": "JP",
+        "asn": "23824",
+        "description": "Future Spirits Co. Ltd.",
+        "handle": "FUTURE"
+    },
+    "23826": {
+        "country_code": "JP",
+        "asn": "23826",
+        "description": "Daido University",
+        "handle": "DAIDO-IT"
+    },
+    "23827": {
+        "country_code": "JP",
+        "asn": "23827",
+        "description": "Azumino Network Community TV",
+        "handle": "ANC-NET"
+    },
+    "23828": {
+        "country_code": "JP",
+        "asn": "23828",
+        "description": "Misaki Town",
+        "handle": "CHERRY-NET"
+    },
+    "23829": {
+        "country_code": "JP",
+        "asn": "23829",
+        "description": "NTT BUSINESS SOLUTIONS CORPORATION",
+        "handle": "MEON-YAMA"
+    },
+    "23830": {
+        "country_code": "JP",
+        "asn": "23830",
+        "description": "Gaitame.com Co. Ltd.",
+        "handle": "GAITAME"
+    },
+    "23831": {
+        "country_code": "JP",
+        "asn": "23831",
+        "description": "NISIOWARI CATV CORPORATION",
+        "handle": "CLOVERNET"
+    },
+    "23833": {
+        "country_code": "JP",
+        "asn": "23833",
+        "description": "Marusan Securities Co. LTD.",
+        "handle": "MARUSAN-NET"
+    },
+    "23836": {
+        "country_code": "JP",
+        "asn": "23836",
+        "description": "RELATION Co. Ltd.",
+        "handle": "RELNET"
+    },
+    "23929": {
+        "country_code": "JP",
+        "asn": "23929",
+        "description": "Foresightwave INC.",
+        "handle": "UBIQUITOUS-AS"
+    },
+    "23967": {
+        "country_code": "JP",
+        "asn": "23967",
+        "description": "Produce On Demand Inc.",
+        "handle": "POD"
+    },
+    "24229": {
+        "country_code": "JP",
+        "asn": "24229",
+        "description": "IX-layers Inc.",
+        "handle": "KOCHI-IX"
+    },
+    "24248": {
+        "country_code": "JP",
+        "asn": "24248",
+        "description": "Wakayama University",
+        "handle": "ASN-WADAI-U"
+    },
+    "24249": {
+        "country_code": "JP",
+        "asn": "24249",
+        "description": "JWAY co. Ltd.",
+        "handle": "JWAY"
+    },
+    "24250": {
+        "country_code": "JP",
+        "asn": "24250",
+        "description": "Miyagin Digital Solutions Co. Ltd.",
+        "handle": "MC-IDC"
+    },
+    "24251": {
+        "country_code": "JP",
+        "asn": "24251",
+        "description": "Iwakuni Cable Network Corporation",
+        "handle": "ICNTV-NET"
+    },
+    "24252": {
+        "country_code": "JP",
+        "asn": "24252",
+        "description": "Japan Registry Service Co. Ltd.",
+        "handle": "JPRS-NAYUTA"
+    },
+    "24253": {
+        "country_code": "JP",
+        "asn": "24253",
+        "description": "J-Stream Inc.",
+        "handle": "J-STREAM"
+    },
+    "24254": {
+        "country_code": "JP",
+        "asn": "24254",
+        "description": "Kyoto Sangyo University",
+        "handle": "KYOTO-SU"
+    },
+    "24255": {
+        "country_code": "JP",
+        "asn": "24255",
+        "description": "Koshinomiyako Network Inc.",
+        "handle": "T-CATV"
+    },
+    "24256": {
+        "country_code": "JP",
+        "asn": "24256",
+        "description": "SOFTBANK Corp.",
+        "handle": "SOFTBANKBB"
+    },
+    "24257": {
+        "country_code": "JP",
+        "asn": "24257",
+        "description": "Japan Internet Xing Co. Ltd.",
+        "handle": "JPIX-64ES"
+    },
+    "24259": {
+        "country_code": "JP",
+        "asn": "24259",
+        "description": "kanuma cable television Corporation",
+        "handle": "BC9"
+    },
+    "24260": {
+        "country_code": "JP",
+        "asn": "24260",
+        "description": "Board of trusty: Kinjo-Gakuen",
+        "handle": "KINJO-AS"
+    },
+    "24261": {
+        "country_code": "JP",
+        "asn": "24261",
+        "description": "Mie University",
+        "handle": "MIE-U"
+    },
+    "24262": {
+        "country_code": "JP",
+        "asn": "24262",
+        "description": "HAMANASU INFORMATION Co. Ltd.",
+        "handle": "HICOM"
+    },
+    "24263": {
+        "country_code": "JP",
+        "asn": "24263",
+        "description": "HONDA MOTOR Co. Ltd.",
+        "handle": "HONDA-NET"
+    },
+    "24264": {
+        "country_code": "JP",
+        "asn": "24264",
+        "description": "Kanazawa Institute of Technology",
+        "handle": "KANAZAWA-IT"
+    },
+    "24265": {
+        "country_code": "JP",
+        "asn": "24265",
+        "description": "NTT DOCOMO BUSINESS Inc.",
+        "handle": "AGILIT"
+    },
+    "24268": {
+        "country_code": "JP",
+        "asn": "24268",
+        "description": "National University Corporation Shizuoka University",
+        "handle": "SAINS"
+    },
+    "24270": {
+        "country_code": "JP",
+        "asn": "24270",
+        "description": "CRC Solutions Corp.",
+        "handle": "CRC-KCC"
+    },
+    "24271": {
+        "country_code": "JP",
+        "asn": "24271",
+        "description": "Iruma CATV co.",
+        "handle": "ICTV"
+    },
+    "24273": {
+        "country_code": "JP",
+        "asn": "24273",
+        "description": "CANON INC.",
+        "handle": "CANON"
+    },
+    "24275": {
+        "country_code": "JP",
+        "asn": "24275",
+        "description": "TOTO LTD.",
+        "handle": "TOTO"
+    },
+    "24276": {
+        "country_code": "JP",
+        "asn": "24276",
+        "description": "JCOM Co. Ltd.",
+        "handle": "ICNET"
+    },
+    "24277": {
+        "country_code": "JP",
+        "asn": "24277",
+        "description": "Okinawa Cable Network Inc.",
+        "handle": "NIRAI"
+    },
+    "24278": {
+        "country_code": "JP",
+        "asn": "24278",
+        "description": "USEN CORPORATION",
+        "handle": "USEN-NET"
+    },
+    "24279": {
+        "country_code": "JP",
+        "asn": "24279",
+        "description": "SENDAI CATV CO. LTD.",
+        "handle": "CAT-V"
+    },
+    "24280": {
+        "country_code": "JP",
+        "asn": "24280",
+        "description": "Hitachi Systems Ltd.",
+        "handle": "HIS-TKIDC"
+    },
+    "24282": {
+        "country_code": "JP",
+        "asn": "24282",
+        "description": "KAGOYA JAPAN Inc.",
+        "handle": "KIR"
+    },
+    "24283": {
+        "country_code": "JP",
+        "asn": "24283",
+        "description": "Mieden Co. Ltd.",
+        "handle": "MIEDEN-NET"
+    },
+    "24284": {
+        "country_code": "JP",
+        "asn": "24284",
+        "description": "CyberAgent Inc.",
+        "handle": "CYBERAGENT"
+    },
+    "24286": {
+        "country_code": "JP",
+        "asn": "24286",
+        "description": "Weathernews Inc.",
+        "handle": "WNI-AS"
+    },
+    "24287": {
+        "country_code": "JP",
+        "asn": "24287",
+        "description": "National Institute of Informatics",
+        "handle": "TEIN2-JP"
+    },
+    "24288": {
+        "country_code": "JP",
+        "asn": "24288",
+        "description": "Accutechs Co. Ltd.",
+        "handle": "ACCUTECHS"
+    },
+    "24289": {
+        "country_code": "JP",
+        "asn": "24289",
+        "description": "Kagawa T.V Broadcast Network Co .Ltd",
+        "handle": "KBN"
+    },
+    "24290": {
+        "country_code": "JP",
+        "asn": "24290",
+        "description": "Heart Network Co. LTD",
+        "handle": "HEARTNET"
+    },
+    "24291": {
+        "country_code": "JP",
+        "asn": "24291",
+        "description": "MITSUI & CO. LTD.",
+        "handle": "MITSUI-NW"
+    },
+    "24295": {
+        "country_code": "JP",
+        "asn": "24295",
+        "description": "PacketFabric (Japan) Co. Ltd.",
+        "handle": "AS-PNAPOSK"
+    },
+    "24296": {
+        "country_code": "JP",
+        "asn": "24296",
+        "description": "LY Corporation",
+        "handle": "YAHOO-2"
+    },
+    "24297": {
+        "country_code": "JP",
+        "asn": "24297",
+        "description": "University Public Corporation Osaka",
+        "handle": "FCN"
+    },
+    "24336": {
+        "country_code": "JP",
+        "asn": "24336",
+        "description": "Digitalbank Corporation",
+        "handle": "DIGITALBANK-JP"
+    },
+    "24509": {
+        "country_code": "JP",
+        "asn": "24509",
+        "description": "Xpedite Systems",
+        "handle": "XPEDITE-AS"
+    },
+    "24512": {
+        "country_code": "JP",
+        "asn": "24512",
+        "description": "Will Ltd.",
+        "handle": "HAL-INTERNET"
+    },
+    "24567": {
+        "country_code": "JP",
+        "asn": "24567",
+        "description": "QT Inc.",
+        "handle": "QTINC-AS-AP"
+    },
+    "24572": {
+        "country_code": "JP",
+        "asn": "24572",
+        "description": "Yahoo Japan",
+        "handle": "YAHOO-JP-AS-AP"
+    },
+    "26132": {
+        "country_code": "JP",
+        "asn": "26132",
+        "description": "DDPS Networks LLC",
+        "handle": "DDPS"
+    },
+    "37888": {
+        "country_code": "JP",
+        "asn": "37888",
+        "description": "HORIBA Ltd.",
+        "handle": "HORIBA-NET"
+    },
+    "37889": {
+        "country_code": "JP",
+        "asn": "37889",
+        "description": "J-PARC Center",
+        "handle": "JPARC-NET"
+    },
+    "37891": {
+        "country_code": "JP",
+        "asn": "37891",
+        "description": "JR TOKAI Information Systems Company",
+        "handle": "JTIS"
+    },
+    "37892": {
+        "country_code": "JP",
+        "asn": "37892",
+        "description": "Cable Media WAIWAI Co. Ltd.",
+        "handle": "WAI-NET"
+    },
+    "37893": {
+        "country_code": "JP",
+        "asn": "37893",
+        "description": "Tradeweb Japan",
+        "handle": "TRADEWEB-TKO"
+    },
+    "37895": {
+        "country_code": "JP",
+        "asn": "37895",
+        "description": "Ryukoku University",
+        "handle": "RYUKOKU"
+    },
+    "37897": {
+        "country_code": "JP",
+        "asn": "37897",
+        "description": "AXEL ENTERMEDIA INC.",
+        "handle": "ANW-NET-AS"
+    },
+    "37898": {
+        "country_code": "JP",
+        "asn": "37898",
+        "description": "digitiminimi inc.",
+        "handle": "BARTOK-NET"
+    },
+    "37899": {
+        "country_code": "JP",
+        "asn": "37899",
+        "description": "NIPPON TELEGRAPH AND TELEPHONE WEST CORPORATION",
+        "handle": "NTTW-NGN-AS"
+    },
+    "37900": {
+        "country_code": "JP",
+        "asn": "37900",
+        "description": "NTT DOCOMO BUSINESS Inc.",
+        "handle": "MATSURI"
+    },
+    "37901": {
+        "country_code": "JP",
+        "asn": "37901",
+        "description": "NIPPON TELEGRAPH AND TELEPHONE EAST CORPORATION",
+        "handle": "NTTE-NGN-AS"
+    },
+    "37902": {
+        "country_code": "JP",
+        "asn": "37902",
+        "description": "Nomura Research Institute Ltd.",
+        "handle": "NOMURA-TRADE"
+    },
+    "37904": {
+        "country_code": "JP",
+        "asn": "37904",
+        "description": "BBIX Inc.",
+        "handle": "BBIX-NETWORK"
+    },
+    "37905": {
+        "country_code": "JP",
+        "asn": "37905",
+        "description": "Brastel Co. Ltd",
+        "handle": "BRASTEL-NET"
+    },
+    "37906": {
+        "country_code": "JP",
+        "asn": "37906",
+        "description": "GMO NetIRD Inc.",
+        "handle": "NETIRD-2"
+    },
+    "37907": {
+        "country_code": "JP",
+        "asn": "37907",
+        "description": "DigiRock Inc.",
+        "handle": "DIGIROCK"
+    },
+    "37908": {
+        "country_code": "JP",
+        "asn": "37908",
+        "description": "KIBI Cable Television Co. Ltd.",
+        "handle": "KBC"
+    },
+    "37909": {
+        "country_code": "JP",
+        "asn": "37909",
+        "description": "Ikueikan University",
+        "handle": "IKUEIKAN-NET"
+    },
+    "37910": {
+        "country_code": "JP",
+        "asn": "37910",
+        "description": "Chubu University",
+        "handle": "CUNET"
+    },
+    "37912": {
+        "country_code": "JP",
+        "asn": "37912",
+        "description": "IPRIO Corporation",
+        "handle": "IPRIO-JP"
+    },
+    "37914": {
+        "country_code": "JP",
+        "asn": "37914",
+        "description": "Advanced Software Technology and Management Research Institute of KYOTO",
+        "handle": "UNIVNET"
+    },
+    "37915": {
+        "country_code": "JP",
+        "asn": "37915",
+        "description": "Wakayama Prefectural Government",
+        "handle": "KE-NET"
+    },
+    "37916": {
+        "country_code": "JP",
+        "asn": "37916",
+        "description": "A.T.WORKS Inc.",
+        "handle": "ATWORKS"
+    },
+    "37917": {
+        "country_code": "JP",
+        "asn": "37917",
+        "description": "University of Tsukuba",
+        "handle": "UTINS"
+    },
+    "37918": {
+        "country_code": "JP",
+        "asn": "37918",
+        "description": "NTT Inc.",
+        "handle": "ECL-INET"
+    },
+    "37919": {
+        "country_code": "JP",
+        "asn": "37919",
+        "description": "SEGA SAMMY HOLDINGS INC.",
+        "handle": "SEGASAMMY"
+    },
+    "37922": {
+        "country_code": "JP",
+        "asn": "37922",
+        "description": "Diversitymedia Co. Ltd.",
+        "handle": "CATVY"
+    },
+    "37923": {
+        "country_code": "JP",
+        "asn": "37923",
+        "description": "NTT DOCOMO BUSINESS Inc.",
+        "handle": "FIC"
+    },
+    "37924": {
+        "country_code": "JP",
+        "asn": "37924",
+        "description": "Ministry of Land Infrastructure and Transport Kinki Regional Development Bureau",
+        "handle": "KKR-MLIT-AS"
+    },
+    "37925": {
+        "country_code": "JP",
+        "asn": "37925",
+        "description": "USEN CORPORATION",
+        "handle": "USEN-WEST"
+    },
+    "37927": {
+        "country_code": "JP",
+        "asn": "37927",
+        "description": "Nomura Researth Institute Ltd.",
+        "handle": "NOMURATRADE"
+    },
+    "37981": {
+        "country_code": "JP",
+        "asn": "37981",
+        "description": "TOYO Internet Service Co. Ltd.",
+        "handle": "TYIS-AS-AP"
+    },
+    "37982": {
+        "country_code": "JP",
+        "asn": "37982",
+        "description": "Kirin K.K.",
+        "handle": "KIRINKK-AS-AP"
+    },
+    "37984": {
+        "country_code": "JP",
+        "asn": "37984",
+        "description": "Chikushi Jogakuen University",
+        "handle": "CKADMIN-AS-JP"
+    },
+    "38023": {
+        "country_code": "JP",
+        "asn": "38023",
+        "description": "Standard Nekomimi",
+        "handle": "NEKOMIMI-AS"
+    },
+    "38043": {
+        "country_code": "JP",
+        "asn": "38043",
+        "description": "Sophia Reserch Institute Ltd.",
+        "handle": "SRI-AS-AP"
+    },
+    "38074": {
+        "country_code": "JP",
+        "asn": "38074",
+        "description": "Ayao Takata",
+        "handle": "SDCC-AS-AP"
+    },
+    "38080": {
+        "country_code": "JP",
+        "asn": "38080",
+        "description": "Foresightwave INC.",
+        "handle": "FSW-TOHOKU-POP"
+    },
+    "38215": {
+        "country_code": "JP",
+        "asn": "38215",
+        "description": "Syuhei Uda",
+        "handle": "SYUHEIUDA-AS-AP"
+    },
+    "38222": {
+        "country_code": "JP",
+        "asn": "38222",
+        "description": "Ayao Takata",
+        "handle": "SDCCIX-EAST"
+    },
+    "38462": {
+        "country_code": "JP",
+        "asn": "38462",
+        "description": "Osaki Computer Engineering Co.Ltd",
+        "handle": "OCE-AS-AP"
+    },
+    "38627": {
+        "country_code": "JP",
+        "asn": "38627",
+        "description": "Baidu Inc.",
+        "handle": "BAIDUJP"
+    },
+    "38628": {
+        "country_code": "JP",
+        "asn": "38628",
+        "description": "HIMEJI CABLE TELEVISION CORPORATION",
+        "handle": "WINK-NET"
+    },
+    "38629": {
+        "country_code": "JP",
+        "asn": "38629",
+        "description": "NTT DOCOMO BUSINESS Inc",
+        "handle": "OKN"
+    },
+    "38631": {
+        "country_code": "JP",
+        "asn": "38631",
+        "description": "LY Corporation",
+        "handle": "LINE"
+    },
+    "38632": {
+        "country_code": "JP",
+        "asn": "38632",
+        "description": "cross-connect niigata co. ltd.",
+        "handle": "XCON"
+    },
+    "38633": {
+        "country_code": "JP",
+        "asn": "38633",
+        "description": "Value Core Inc.",
+        "handle": "VCIU-NET-AS"
+    },
+    "38634": {
+        "country_code": "JP",
+        "asn": "38634",
+        "description": "DWANGO Co. Ltd.",
+        "handle": "DWANGO"
+    },
+    "38635": {
+        "country_code": "JP",
+        "asn": "38635",
+        "description": "Keio University",
+        "handle": "KEIO-NET"
+    },
+    "38636": {
+        "country_code": "JP",
+        "asn": "38636",
+        "description": "DeNA Co. Ltd.",
+        "handle": "DENA-NET"
+    },
+    "38638": {
+        "country_code": "JP",
+        "asn": "38638",
+        "description": "Ip Core Corporation",
+        "handle": "IP-CORE"
+    },
+    "38639": {
+        "country_code": "JP",
+        "asn": "38639",
+        "description": "NTT DOCOMO BUSINESS Inc.",
+        "handle": "HANABI"
+    },
+    "38640": {
+        "country_code": "JP",
+        "asn": "38640",
+        "description": "SAKURA Internet Inc.",
+        "handle": "SAKURA-E"
+    },
+    "38641": {
+        "country_code": "JP",
+        "asn": "38641",
+        "description": "Osaka Sangyo University",
+        "handle": "LEONET-AS"
+    },
+    "38642": {
+        "country_code": "JP",
+        "asn": "38642",
+        "description": "Yoshizou XYZ Solutions",
+        "handle": "YOSHIZOU"
+    },
+    "38643": {
+        "country_code": "JP",
+        "asn": "38643",
+        "description": "UNIADEX LTD.",
+        "handle": "U-CLOUD"
+    },
+    "38644": {
+        "country_code": "JP",
+        "asn": "38644",
+        "description": "INTERNET MULTIFEED CO.",
+        "handle": "KANDANET"
+    },
+    "38645": {
+        "country_code": "JP",
+        "asn": "38645",
+        "description": "NTT DOCOMO BUSINESS Inc.",
+        "handle": "NTTCOM-GRX"
+    },
+    "38646": {
+        "country_code": "JP",
+        "asn": "38646",
+        "description": "Neodyland",
+        "handle": "BENKYO-NET"
+    },
+    "38647": {
+        "country_code": "JP",
+        "asn": "38647",
+        "description": "NEI's NetLab",
+        "handle": "GEEKN-NETLAB"
+    },
+    "38648": {
+        "country_code": "JP",
+        "asn": "38648",
+        "description": "F-REGI Co. Ltd.",
+        "handle": "F-REGI"
+    },
+    "38649": {
+        "country_code": "JP",
+        "asn": "38649",
+        "description": "The University of Electro-Communications",
+        "handle": "UEC-EXP"
+    },
+    "38650": {
+        "country_code": "JP",
+        "asn": "38650",
+        "description": "JMS-United Co. Ltd.",
+        "handle": "JMSU-NET"
+    },
+    "38651": {
+        "country_code": "JP",
+        "asn": "38651",
+        "description": "MIXI Inc.",
+        "handle": "MIXI"
+    },
+    "38652": {
+        "country_code": "JP",
+        "asn": "38652",
+        "description": "Ginzado Co. Ltd.",
+        "handle": "GINZADO-NET"
+    },
+    "38653": {
+        "country_code": "JP",
+        "asn": "38653",
+        "description": "JAPAN POST HOLDINGS Co. Ltd.",
+        "handle": "JAPANPOST"
+    },
+    "38654": {
+        "country_code": "JP",
+        "asn": "38654",
+        "description": "INES Corporation",
+        "handle": "INES-NETWORK"
+    },
+    "38655": {
+        "country_code": "JP",
+        "asn": "38655",
+        "description": "SaiNet Corporation",
+        "handle": "SAINET-AS2"
+    },
+    "38656": {
+        "country_code": "JP",
+        "asn": "38656",
+        "description": "Loutres",
+        "handle": "LOUTRES"
+    },
+    "38715": {
+        "country_code": "JP",
+        "asn": "38715",
+        "description": "Foresightwave INC.",
+        "handle": "TOTTORI-REGIONAL-IX-AS"
+    },
+    "45436": {
+        "country_code": "JP",
+        "asn": "45436",
+        "description": "Green Net co ltd",
+        "handle": "GRNT-JP-AS-AP"
+    },
+    "45672": {
+        "country_code": "JP",
+        "asn": "45672",
+        "description": "Koga Cable TV Co. Ltd.",
+        "handle": "KGC-NET"
+    },
+    "45673": {
+        "country_code": "JP",
+        "asn": "45673",
+        "description": "Osaka Electro-Communication University",
+        "handle": "OECU-NET"
+    },
+    "45674": {
+        "country_code": "JP",
+        "asn": "45674",
+        "description": "BIGLOBE Inc.",
+        "handle": "MIDORI"
+    },
+    "45675": {
+        "country_code": "JP",
+        "asn": "45675",
+        "description": "JCOM Co. Ltd.",
+        "handle": "KMN-TOKYO"
+    },
+    "45677": {
+        "country_code": "JP",
+        "asn": "45677",
+        "description": "Isahaya Cable Media Co. Ltd",
+        "handle": "ICV"
+    },
+    "45678": {
+        "country_code": "JP",
+        "asn": "45678",
+        "description": "ABN AMRO Clearing Tokyo Co. Ltd.",
+        "handle": "AAC-JP-AS"
+    },
+    "45679": {
+        "country_code": "JP",
+        "asn": "45679",
+        "description": "Tatsumi Tomo",
+        "handle": "TOMOCHA-NET"
+    },
+    "45680": {
+        "country_code": "JP",
+        "asn": "45680",
+        "description": "DOVA Corporation",
+        "handle": "DOVA-NET"
+    },
+    "45681": {
+        "country_code": "JP",
+        "asn": "45681",
+        "description": "Show Corporation",
+        "handle": "SHOW"
+    },
+    "45682": {
+        "country_code": "JP",
+        "asn": "45682",
+        "description": "Excite Japan Co. Ltd.",
+        "handle": "ASN-EXCITE"
+    },
+    "45683": {
+        "country_code": "JP",
+        "asn": "45683",
+        "description": "NTT-ME Corporation",
+        "handle": "JPDC"
+    },
+    "45684": {
+        "country_code": "JP",
+        "asn": "45684",
+        "description": "Kyocera Communication Systems Co. Ltd.",
+        "handle": "MIRAINET"
+    },
+    "45685": {
+        "country_code": "JP",
+        "asn": "45685",
+        "description": "Rikkyo Gakuin Rikkyo University",
+        "handle": "RIKKYO-U"
+    },
+    "45686": {
+        "country_code": "JP",
+        "asn": "45686",
+        "description": "INTERNET MULTIFEED CO.",
+        "handle": "RFEED"
+    },
+    "45687": {
+        "country_code": "JP",
+        "asn": "45687",
+        "description": "Minamikyusyu CableTV Net Inc.",
+        "handle": "MCT-INTERNET"
+    },
+    "45688": {
+        "country_code": "JP",
+        "asn": "45688",
+        "description": "The University of Tokyo Interfaculty Initiative in Information Studies",
+        "handle": "UT-NSRG"
+    },
+    "45689": {
+        "country_code": "JP",
+        "asn": "45689",
+        "description": "Convivial Net",
+        "handle": "CONVIVIALNET"
+    },
+    "45690": {
+        "country_code": "JP",
+        "asn": "45690",
+        "description": "Nihon Central TV Co. Inc.",
+        "handle": "JCTV-NET"
+    },
+    "45691": {
+        "country_code": "JP",
+        "asn": "45691",
+        "description": "DODO K.K.",
+        "handle": "DODO-CORE"
+    },
+    "45846": {
+        "country_code": "JP",
+        "asn": "45846",
+        "description": "Foresightwave INC.",
+        "handle": "FSW-SHIGA-POP"
+    },
+    "46953": {
+        "country_code": "JP",
+        "asn": "46953",
+        "description": "FENGYE INC",
+        "handle": "INCLEAF"
+    },
+    "49671": {
+        "country_code": "JP",
+        "asn": "49671",
+        "description": "DODO K.K.",
+        "handle": "DODO-NET"
+    },
+    "49867": {
+        "country_code": "JP",
+        "asn": "49867",
+        "description": "Shuji Ito",
+        "handle": "SUISEI-AS-AP"
+    },
+    "51044": {
+        "country_code": "JP",
+        "asn": "51044",
+        "description": "Kazuki Yamaguchi",
+        "handle": "RHE"
+    },
+    "54415": {
+        "country_code": "JP",
+        "asn": "54415",
+        "description": "WIZ K.K.",
+        "handle": "WIZ-JP-AS-AP"
+    },
+    "55372": {
+        "country_code": "JP",
+        "asn": "55372",
+        "description": "University of the Ryukyus",
+        "handle": "OIX"
+    },
+    "55373": {
+        "country_code": "JP",
+        "asn": "55373",
+        "description": "Foundation for Biomedical Research and Innovation at Kobe",
+        "handle": "TRI-KOBE-NET"
+    },
+    "55374": {
+        "country_code": "JP",
+        "asn": "55374",
+        "description": "FUJITSU LIMITED",
+        "handle": "FJCLOUD-EAST"
+    },
+    "55375": {
+        "country_code": "JP",
+        "asn": "55375",
+        "description": "SmartInsight Inc.",
+        "handle": "SI-NET"
+    },
+    "55376": {
+        "country_code": "JP",
+        "asn": "55376",
+        "description": "KCV Communications Co. Ltd.",
+        "handle": "KCV-HITANET"
+    },
+    "55377": {
+        "country_code": "JP",
+        "asn": "55377",
+        "description": "Sadiatec Co. Ltd",
+        "handle": "SADAITEC"
+    },
+    "55378": {
+        "country_code": "JP",
+        "asn": "55378",
+        "description": "QUICK Corp.",
+        "handle": "QUICK-YCCNET"
+    },
+    "55379": {
+        "country_code": "JP",
+        "asn": "55379",
+        "description": "Hosei University",
+        "handle": "HOSEI-NET"
+    },
+    "55380": {
+        "country_code": "JP",
+        "asn": "55380",
+        "description": "Kanazawa University",
+        "handle": "KAINS"
+    },
+    "55381": {
+        "country_code": "JP",
+        "asn": "55381",
+        "description": "CITY-CABLE SHUNAN Corporation",
+        "handle": "CCSNET"
+    },
+    "55382": {
+        "country_code": "JP",
+        "asn": "55382",
+        "description": "Nagato city office",
+        "handle": "HOT-CHA"
+    },
+    "55383": {
+        "country_code": "JP",
+        "asn": "55383",
+        "description": "YYY Group Inc.",
+        "handle": "IDC-JP"
+    },
+    "55384": {
+        "country_code": "JP",
+        "asn": "55384",
+        "description": "Japan Advanced Institute of Science and Technology",
+        "handle": "JAIST-EXP"
+    },
+    "55385": {
+        "country_code": "JP",
+        "asn": "55385",
+        "description": "Digital Alliance Co. Ltd.",
+        "handle": "DA"
+    },
+    "55386": {
+        "country_code": "JP",
+        "asn": "55386",
+        "description": "FUJITSU LIMITED",
+        "handle": "FJCLOUD-WEST"
+    },
+    "55387": {
+        "country_code": "JP",
+        "asn": "55387",
+        "description": "Japan Communication Inc.",
+        "handle": "RMGR-MIX"
+    },
+    "55388": {
+        "country_code": "JP",
+        "asn": "55388",
+        "description": "ASJ INC.",
+        "handle": "ASJ"
+    },
+    "55389": {
+        "country_code": "JP",
+        "asn": "55389",
+        "description": "Japan Internet Xing Co. Ltd.",
+        "handle": "JPNE"
+    },
+    "55390": {
+        "country_code": "JP",
+        "asn": "55390",
+        "description": "Tokyo University of Science",
+        "handle": "TUSNET"
+    },
+    "55391": {
+        "country_code": "JP",
+        "asn": "55391",
+        "description": "INTERNET MULTIFEED CO.",
+        "handle": "MF-NATIVE6-E"
+    },
+    "55392": {
+        "country_code": "JP",
+        "asn": "55392",
+        "description": "INTERNET MULTIFEED CO.",
+        "handle": "MF-NATIVE6-W"
+    },
+    "55393": {
+        "country_code": "JP",
+        "asn": "55393",
+        "description": "Midokura Japan K.K.",
+        "handle": "MIDOKURA"
+    },
+    "55394": {
+        "country_code": "JP",
+        "asn": "55394",
+        "description": "GREE Inc.",
+        "handle": "GREE-NET"
+    },
+    "55395": {
+        "country_code": "JP",
+        "asn": "55395",
+        "description": "DDPS LLC",
+        "handle": "DDPS"
+    },
+    "55396": {
+        "country_code": "JP",
+        "asn": "55396",
+        "description": "NRI SecureTechnologies Ltd",
+        "handle": "FNCLAB"
+    },
+    "55748": {
+        "country_code": "JP",
+        "asn": "55748",
+        "description": "MORSE",
+        "handle": "MORSE-JP"
+    },
+    "55817": {
+        "country_code": "JP",
+        "asn": "55817",
+        "description": "Nippon Telegraph and Telephone Corporation",
+        "handle": "NTTECL-AS-AP"
+    },
+    "55873": {
+        "country_code": "JP",
+        "asn": "55873",
+        "description": "St. Jude Medical",
+        "handle": "SJMAPNIC-JP"
+    },
+    "55888": {
+        "country_code": "JP",
+        "asn": "55888",
+        "description": "Nintatsu Global Telecommunications Corporation",
+        "handle": "NINTATSU"
+    },
+    "55889": {
+        "country_code": "JP",
+        "asn": "55889",
+        "description": "Equinix Japan Enterprise K.K.",
+        "handle": "BITISLE-WEST"
+    },
+    "55890": {
+        "country_code": "JP",
+        "asn": "55890",
+        "description": "Suntory Business Systems Ltd.",
+        "handle": "SUNTORY"
+    },
+    "55891": {
+        "country_code": "JP",
+        "asn": "55891",
+        "description": "WATCH TOWER BIBLE AND TRACT SOCIETY",
+        "handle": "WBTSJP-AS"
+    },
+    "55892": {
+        "country_code": "JP",
+        "asn": "55892",
+        "description": "Nippon Telegraph and Telephone East Corporation",
+        "handle": "NTTE-RIW"
+    },
+    "55893": {
+        "country_code": "JP",
+        "asn": "55893",
+        "description": "NTT DATA CORPORATION",
+        "handle": "HOKEN-NET"
+    },
+    "55894": {
+        "country_code": "JP",
+        "asn": "55894",
+        "description": "Who's Next",
+        "handle": "WHOSNEXT"
+    },
+    "55895": {
+        "country_code": "JP",
+        "asn": "55895",
+        "description": "N.S.Computer Service Co. Ltd.",
+        "handle": "ECHIGO-IX"
+    },
+    "55896": {
+        "country_code": "JP",
+        "asn": "55896",
+        "description": "Videx Inc.",
+        "handle": "VIDEX"
+    },
+    "55897": {
+        "country_code": "JP",
+        "asn": "55897",
+        "description": "SAKURA Internet Inc.",
+        "handle": "SAKURA-F"
+    },
+    "55898": {
+        "country_code": "JP",
+        "asn": "55898",
+        "description": "LY Corporation",
+        "handle": "YAHOO-CORP"
+    },
+    "55899": {
+        "country_code": "JP",
+        "asn": "55899",
+        "description": "irob Ltd.",
+        "handle": "IROB"
+    },
+    "55900": {
+        "country_code": "JP",
+        "asn": "55900",
+        "description": "GLBB Japan KK",
+        "handle": "GLBB-JP"
+    },
+    "55901": {
+        "country_code": "JP",
+        "asn": "55901",
+        "description": "Sony Computer Entertainment Inc",
+        "handle": "SCEI-NET"
+    },
+    "55902": {
+        "country_code": "JP",
+        "asn": "55902",
+        "description": "TS-NET of TOSET Inc. in Japan",
+        "handle": "TS-NET"
+    },
+    "55903": {
+        "country_code": "JP",
+        "asn": "55903",
+        "description": "Tokyo Stock Exchange Inc.",
+        "handle": "ARROWNET"
+    },
+    "55904": {
+        "country_code": "JP",
+        "asn": "55904",
+        "description": "KOGAKUIN University",
+        "handle": "KOGAKUIN-AS"
+    },
+    "55905": {
+        "country_code": "JP",
+        "asn": "55905",
+        "description": "TOP CLOUD Inc.",
+        "handle": "COMZNET2"
+    },
+    "55907": {
+        "country_code": "JP",
+        "asn": "55907",
+        "description": "GMO Internet Group Inc.",
+        "handle": "GMO-DNS"
+    },
+    "55908": {
+        "country_code": "JP",
+        "asn": "55908",
+        "description": "Nomura Research Institute Ltd.",
+        "handle": "NOMURA-NET"
+    },
+    "55909": {
+        "country_code": "JP",
+        "asn": "55909",
+        "description": "National Institute of Technology Kochi College",
+        "handle": "KOCHI-CT"
+    },
+    "55910": {
+        "country_code": "JP",
+        "asn": "55910",
+        "description": "Shibaura Institute of Technology",
+        "handle": "SITNET-AS"
+    },
+    "55911": {
+        "country_code": "JP",
+        "asn": "55911",
+        "description": "kazukichi",
+        "handle": "KAZUKICHI"
+    },
+    "55912": {
+        "country_code": "JP",
+        "asn": "55912",
+        "description": "University of Kochi",
+        "handle": "U-KOCHI"
+    },
+    "55949": {
+        "country_code": "JP",
+        "asn": "55949",
+        "description": "Technopro Holdings",
+        "handle": "TECHNOPROHOLDINGS-JP"
+    },
+    "56023": {
+        "country_code": "JP",
+        "asn": "56023",
+        "description": "SmartRams Co. Ltd.",
+        "handle": "SMARTNET-AS-AP"
+    },
+    "56024": {
+        "country_code": "JP",
+        "asn": "56024",
+        "description": "Kars co.ltd.",
+        "handle": "KARSCOLTD-AS-AP"
+    },
+    "56025": {
+        "country_code": "JP",
+        "asn": "56025",
+        "description": "Kars co.ltd.",
+        "handle": "KARSCOLTD-AS-AP"
+    },
+    "56033": {
+        "country_code": "JP",
+        "asn": "56033",
+        "description": "Rakushasu Inc",
+        "handle": "RAKUIP-AS-AP"
+    },
+    "56218": {
+        "country_code": "JP",
+        "asn": "56218",
+        "description": "QGPOP",
+        "handle": "QGPOP-AS-AP"
+    },
+    "56291": {
+        "country_code": "JP",
+        "asn": "56291",
+        "description": "Ace Inc.",
+        "handle": "ACE-AS-AP"
+    },
+    "58645": {
+        "country_code": "JP",
+        "asn": "58645",
+        "description": "Miyagi Cable TV Co. Ltd",
+        "handle": "MARINET"
+    },
+    "58646": {
+        "country_code": "JP",
+        "asn": "58646",
+        "description": "FreeBit Co. Ltd.",
+        "handle": "FBDC-B"
+    },
+    "58647": {
+        "country_code": "JP",
+        "asn": "58647",
+        "description": "Kagawa University",
+        "handle": "KAGAWAU-AS"
+    },
+    "58648": {
+        "country_code": "JP",
+        "asn": "58648",
+        "description": "AT-I Inc.",
+        "handle": "AT-I-NET"
+    },
+    "58649": {
+        "country_code": "JP",
+        "asn": "58649",
+        "description": "GMO Internet Group Inc.",
+        "handle": "GMO-REG-NET"
+    },
+    "58650": {
+        "country_code": "JP",
+        "asn": "58650",
+        "description": "Warabi Cable Vision Co. Ltd.",
+        "handle": "CATVWINK"
+    },
+    "58651": {
+        "country_code": "JP",
+        "asn": "58651",
+        "description": "GMO Internet Group Inc.",
+        "handle": "GMO-REGSEC"
+    },
+    "58652": {
+        "country_code": "JP",
+        "asn": "58652",
+        "description": "Kochi University",
+        "handle": "KOCHI-U-NET"
+    },
+    "58653": {
+        "country_code": "JP",
+        "asn": "58653",
+        "description": "UD Trucks Corporation Volvo Information Technology Japan",
+        "handle": "VOLVOITJAPAN"
+    },
+    "58654": {
+        "country_code": "JP",
+        "asn": "58654",
+        "description": "BLESS Co. Ltd.",
+        "handle": "BLESS"
+    },
+    "58784": {
+        "country_code": "JP",
+        "asn": "58784",
+        "description": "Rissho University",
+        "handle": "RIS"
+    },
+    "58785": {
+        "country_code": "JP",
+        "asn": "58785",
+        "description": "Tohoku Gakuin University",
+        "handle": "TGU-NET"
+    },
+    "58786": {
+        "country_code": "JP",
+        "asn": "58786",
+        "description": "GMO Internet Group Inc.",
+        "handle": "GMOKOR-NET"
+    },
+    "58787": {
+        "country_code": "JP",
+        "asn": "58787",
+        "description": "Cyber Terakoya",
+        "handle": "TERAKOYA-NET"
+    },
+    "58788": {
+        "country_code": "JP",
+        "asn": "58788",
+        "description": "Chiroro-Net Co. Ltd.",
+        "handle": "CHIRORO"
+    },
+    "58789": {
+        "country_code": "JP",
+        "asn": "58789",
+        "description": "DUNAMIS Co. Ltd",
+        "handle": "DUNAMIS"
+    },
+    "58790": {
+        "country_code": "JP",
+        "asn": "58790",
+        "description": "SERVER-G Group",
+        "handle": "TEAMFELNULL"
+    },
+    "58791": {
+        "country_code": "JP",
+        "asn": "58791",
+        "description": "GMO Internet Group Inc.",
+        "handle": "GMOOSK-NET"
+    },
+    "58792": {
+        "country_code": "JP",
+        "asn": "58792",
+        "description": "closip Inc.",
+        "handle": "CLOSIP-1"
+    },
+    "58793": {
+        "country_code": "JP",
+        "asn": "58793",
+        "description": "FUJITSU LIMITED",
+        "handle": "NIFCLOUD-NET"
+    },
+    "59091": {
+        "country_code": "JP",
+        "asn": "59091",
+        "description": "Kanagawa Institute of Technology",
+        "handle": "KAIT-NWLAB"
+    },
+    "59092": {
+        "country_code": "JP",
+        "asn": "59092",
+        "description": "kronos.Co. Ltd.",
+        "handle": "KRONOS"
+    },
+    "59093": {
+        "country_code": "JP",
+        "asn": "59093",
+        "description": "IMABARI CATV CORPORATION",
+        "handle": "ICKNET"
+    },
+    "59094": {
+        "country_code": "JP",
+        "asn": "59094",
+        "description": "esu2 Corporation",
+        "handle": "S2-NET"
+    },
+    "59095": {
+        "country_code": "JP",
+        "asn": "59095",
+        "description": "ACCELIA",
+        "handle": "ACCELIA-W"
+    },
+    "59096": {
+        "country_code": "JP",
+        "asn": "59096",
+        "description": "Meiji Gakuin University",
+        "handle": "MAIN"
+    },
+    "59097": {
+        "country_code": "JP",
+        "asn": "59097",
+        "description": "Okinawa Cross Head Co. Ltd.",
+        "handle": "OCH-NET"
+    },
+    "59098": {
+        "country_code": "JP",
+        "asn": "59098",
+        "description": "Mamireimu Net Work's",
+        "handle": "HINATURU-NET"
+    },
+    "59099": {
+        "country_code": "JP",
+        "asn": "59099",
+        "description": "BroadBand Tower Inc.",
+        "handle": "CLOUD-SDN-AS"
+    },
+    "59100": {
+        "country_code": "JP",
+        "asn": "59100",
+        "description": "Kochi Gakuen College",
+        "handle": "KOCHI-GC"
+    },
+    "59102": {
+        "country_code": "JP",
+        "asn": "59102",
+        "description": "GENES Co. Ltd.",
+        "handle": "GENES"
+    },
+    "59103": {
+        "country_code": "JP",
+        "asn": "59103",
+        "description": "SoftEther Corporation",
+        "handle": "SOFTETHER"
+    },
+    "59104": {
+        "country_code": "JP",
+        "asn": "59104",
+        "description": "Soka University",
+        "handle": "SOKAU-AS"
+    },
+    "59105": {
+        "country_code": "JP",
+        "asn": "59105",
+        "description": "Home NOC Operators Group",
+        "handle": "HOMENOC"
+    },
+    "59106": {
+        "country_code": "JP",
+        "asn": "59106",
+        "description": "Cyber and Internet Association",
+        "handle": "INET6"
+    },
+    "59107": {
+        "country_code": "JP",
+        "asn": "59107",
+        "description": "Hachinohe Cable Television Co.",
+        "handle": "HTV-NET"
+    },
+    "59108": {
+        "country_code": "JP",
+        "asn": "59108",
+        "description": "KATCH NETWORK INC.",
+        "handle": "KATCH-NET"
+    },
+    "59109": {
+        "country_code": "JP",
+        "asn": "59109",
+        "description": "Hitachi Ltd. Managed & Platform Services Business Division",
+        "handle": "HITCLOUD"
+    },
+    "59110": {
+        "country_code": "JP",
+        "asn": "59110",
+        "description": "BPS Inc.",
+        "handle": "BPS"
+    },
+    "59111": {
+        "country_code": "JP",
+        "asn": "59111",
+        "description": "Akita International University",
+        "handle": "AIU-NET"
+    },
+    "59112": {
+        "country_code": "JP",
+        "asn": "59112",
+        "description": "Plus One marketing Ltd.",
+        "handle": "PLUSONE"
+    },
+    "59113": {
+        "country_code": "JP",
+        "asn": "59113",
+        "description": "RICOH JAPAN Corporation",
+        "handle": "RJV6-NET"
+    },
+    "59114": {
+        "country_code": "JP",
+        "asn": "59114",
+        "description": "Recruit Co. Ltd.",
+        "handle": "RECRUIT"
+    },
+    "59115": {
+        "country_code": "JP",
+        "asn": "59115",
+        "description": "CYBERDYNE Inc.",
+        "handle": "CYBERDYNE"
+    },
+    "59116": {
+        "country_code": "JP",
+        "asn": "59116",
+        "description": "AIG Technologies KK",
+        "handle": "AIGTKK"
+    },
+    "59118": {
+        "country_code": "JP",
+        "asn": "59118",
+        "description": "NRI SecureTechnologies Ltd.",
+        "handle": "FNC-O2"
+    },
+    "59119": {
+        "country_code": "JP",
+        "asn": "59119",
+        "description": "HIDATAKAYAMA CABLE NETWORK INC.",
+        "handle": "HIT-NET"
+    },
+    "59120": {
+        "country_code": "JP",
+        "asn": "59120",
+        "description": "Tsukuba Internet Service Corporation",
+        "handle": "TINS-NET"
+    },
+    "59121": {
+        "country_code": "JP",
+        "asn": "59121",
+        "description": "Asahi Kasei Networks Corporation",
+        "handle": "AKNWS-NET"
+    },
+    "59122": {
+        "country_code": "JP",
+        "asn": "59122",
+        "description": "Ranger-Systems Co. Ltd.",
+        "handle": "R-SYS"
+    },
+    "59123": {
+        "country_code": "JP",
+        "asn": "59123",
+        "description": "Kakaku.com Inc.",
+        "handle": "KAKAKUCOM"
+    },
+    "59124": {
+        "country_code": "JP",
+        "asn": "59124",
+        "description": "KYOTO Prefectural Government",
+        "handle": "KYOTO-PREF"
+    },
+    "59125": {
+        "country_code": "JP",
+        "asn": "59125",
+        "description": "FAMILY NET JAPAN INCORPORATED",
+        "handle": "CYBERHOME1"
+    },
+    "59126": {
+        "country_code": "JP",
+        "asn": "59126",
+        "description": "NCT CO. LTD.",
+        "handle": "NCT"
+    },
+    "59127": {
+        "country_code": "JP",
+        "asn": "59127",
+        "description": "Newmedia Corporation",
+        "handle": "NCV"
+    },
+    "59128": {
+        "country_code": "JP",
+        "asn": "59128",
+        "description": "Kyoto University Microcomputer Club",
+        "handle": "KMC"
+    },
+    "59129": {
+        "country_code": "JP",
+        "asn": "59129",
+        "description": "LogicLinks Inc.",
+        "handle": "LOGICLINKS"
+    },
+    "59130": {
+        "country_code": "JP",
+        "asn": "59130",
+        "description": "NTT Communications Corporation",
+        "handle": "MHDD-NET"
+    },
+    "59248": {
+        "country_code": "JP",
+        "asn": "59248",
+        "description": "ROCKWELL AUTOMATION BV",
+        "handle": "ROCKWELL-AS-AP"
+    },
+    "60445": {
+        "country_code": "JP",
+        "asn": "60445",
+        "description": "DODO K.K.",
+        "handle": "DODO-NET"
+    },
+    "62184": {
+        "country_code": "JP",
+        "asn": "62184",
+        "description": "Michal Nowak",
+        "handle": "MNO-AS"
+    },
+    "63000": {
+        "country_code": "JP",
+        "asn": "63000",
+        "description": "Auk LLC",
+        "handle": "US-CORE"
+    },
+    "63770": {
+        "country_code": "JP",
+        "asn": "63770",
+        "description": "Industrial Cyber Security Center of Excellence",
+        "handle": "ICSCOE-AS"
+    },
+    "63771": {
+        "country_code": "JP",
+        "asn": "63771",
+        "description": "Border Gateway Protocol Network Analysis Project",
+        "handle": "BGPNAP"
+    },
+    "63772": {
+        "country_code": "JP",
+        "asn": "63772",
+        "description": "extride inc.",
+        "handle": "EXTRIDE-NET"
+    },
+    "63773": {
+        "country_code": "JP",
+        "asn": "63773",
+        "description": "dual&Co. Inc.",
+        "handle": "DUAL-NET"
+    },
+    "63774": {
+        "country_code": "JP",
+        "asn": "63774",
+        "description": "Kamoike.net LLP",
+        "handle": "KAMOIKE-NET"
+    },
+    "63775": {
+        "country_code": "JP",
+        "asn": "63775",
+        "description": "YAKAGE CABLE TELEVISION",
+        "handle": "YCTNET"
+    },
+    "63776": {
+        "country_code": "JP",
+        "asn": "63776",
+        "description": "Mercari Inc.",
+        "handle": "MERCARI-JP"
+    },
+    "63777": {
+        "country_code": "JP",
+        "asn": "63777",
+        "description": "National Institutes of Natural Sciences National Astronomical Observatory of JAPAN",
+        "handle": "STARCLUSTER"
+    },
+    "63778": {
+        "country_code": "JP",
+        "asn": "63778",
+        "description": "Border Gateway Protocol Network Analysis Project",
+        "handle": "BGPNAP2"
+    },
+    "63779": {
+        "country_code": "JP",
+        "asn": "63779",
+        "description": "InfiniCloud Co. Ltd.",
+        "handle": "JUSTPLAYER"
+    },
+    "63780": {
+        "country_code": "JP",
+        "asn": "63780",
+        "description": "dual&Co. Inc.",
+        "handle": "BIRDIE-NET"
+    },
+    "63781": {
+        "country_code": "JP",
+        "asn": "63781",
+        "description": "Kobayashi Family Net LLP",
+        "handle": "KFNET-AS"
+    },
+    "63782": {
+        "country_code": "JP",
+        "asn": "63782",
+        "description": "Omaezaki Cable Television Co.Ltd",
+        "handle": "MAOTV"
+    },
+    "63783": {
+        "country_code": "JP",
+        "asn": "63783",
+        "description": "Chiba University of Commerce",
+        "handle": "CUC"
+    },
+    "63784": {
+        "country_code": "JP",
+        "asn": "63784",
+        "description": "Digital Agency",
+        "handle": "GSS-NET"
+    },
+    "63785": {
+        "country_code": "JP",
+        "asn": "63785",
+        "description": "Fukuoka University",
+        "handle": "FU-NTP"
+    },
+    "63786": {
+        "country_code": "JP",
+        "asn": "63786",
+        "description": "Mercari Inc.",
+        "handle": "MARCHE"
+    },
+    "63788": {
+        "country_code": "JP",
+        "asn": "63788",
+        "description": "MOCHIYA Inc.",
+        "handle": "MOCHIYA-NET"
+    },
+    "63789": {
+        "country_code": "JP",
+        "asn": "63789",
+        "description": "NeXtWEB Corporation",
+        "handle": "NEXT-WEB"
+    },
+    "63790": {
+        "country_code": "JP",
+        "asn": "63790",
+        "description": "CyberAgent Inc.",
+        "handle": "CA-LAB"
+    },
+    "63791": {
+        "country_code": "JP",
+        "asn": "63791",
+        "description": "doornoc",
+        "handle": "DOORNOC-NET"
+    },
+    "63792": {
+        "country_code": "JP",
+        "asn": "63792",
+        "description": "Hyperspace Communications",
+        "handle": "HYPERSPACE"
+    },
+    "63793": {
+        "country_code": "JP",
+        "asn": "63793",
+        "description": "Japan OPS Better Co. Ltd.",
+        "handle": "OPSBETTER"
+    },
+    "63794": {
+        "country_code": "JP",
+        "asn": "63794",
+        "description": "ILKS Inc.",
+        "handle": "ILKS-NET"
+    },
+    "63795": {
+        "country_code": "JP",
+        "asn": "63795",
+        "description": "RoutelNet",
+        "handle": "ROUTEL"
+    },
+    "63796": {
+        "country_code": "JP",
+        "asn": "63796",
+        "description": "Network Research Laboratory Graduate School of Science and Engineering Hosei University",
+        "handle": "NEXTNETNOC"
+    },
+    "63797": {
+        "country_code": "JP",
+        "asn": "63797",
+        "description": "CuteIP",
+        "handle": "CUTEIP"
+    },
+    "63798": {
+        "country_code": "JP",
+        "asn": "63798",
+        "description": "Industrial Cyber Security Center of Excellence",
+        "handle": "IPA-ENTERNET"
+    },
+    "63799": {
+        "country_code": "JP",
+        "asn": "63799",
+        "description": "Ghost Network",
+        "handle": "GHOST"
+    },
+    "63800": {
+        "country_code": "JP",
+        "asn": "63800",
+        "description": "SERVER-G Group",
+        "handle": "SERVER-G"
+    },
+    "63801": {
+        "country_code": "JP",
+        "asn": "63801",
+        "description": "DODO K.K.",
+        "handle": "DODO-NET"
+    },
+    "63802": {
+        "country_code": "JP",
+        "asn": "63802",
+        "description": "Nippon Telegraph and Telephone East Corporation",
+        "handle": "MIKAKA-EAST"
+    },
+    "63804": {
+        "country_code": "JP",
+        "asn": "63804",
+        "description": "DOVA Corporation",
+        "handle": "DOVA-YFM-NET"
+    },
+    "63805": {
+        "country_code": "JP",
+        "asn": "63805",
+        "description": "Ryobi Systems Co. Ltd.",
+        "handle": "RIDC-NET"
+    },
+    "63806": {
+        "country_code": "JP",
+        "asn": "63806",
+        "description": "Human-life Information Platforms Institute",
+        "handle": "MENHERA"
+    },
+    "63917": {
+        "country_code": "JP",
+        "asn": "63917",
+        "description": "Amway Japan G.K",
+        "handle": "AMWAYJAPANGK-JP"
+    },
+    "63978": {
+        "country_code": "JP",
+        "asn": "63978",
+        "description": "Cboe Japan limited",
+        "handle": "CJL-JP"
+    },
+    "63997": {
+        "country_code": "JP",
+        "asn": "63997",
+        "description": "JMF Investment & Technology PTY LTD",
+        "handle": "TSUKAERUNET"
+    },
+    "64016": {
+        "country_code": "JP",
+        "asn": "64016",
+        "description": "AT&T Japan K.K.",
+        "handle": "ATT-AS-AP"
+    },
+    "131077": {
+        "country_code": "JP",
+        "asn": "131077",
+        "description": "Deloitte Tohmatsu Group LLC",
+        "handle": "TOHMATSU-NET"
+    },
+    "131078": {
+        "country_code": "JP",
+        "asn": "131078",
+        "description": "KDDI Research Inc.",
+        "handle": "KDDLAB-4OCT"
+    },
+    "131079": {
+        "country_code": "JP",
+        "asn": "131079",
+        "description": "INTERNET MULTIFEED CO.",
+        "handle": "KANDANET4"
+    },
+    "131080": {
+        "country_code": "JP",
+        "asn": "131080",
+        "description": "SAKURA Internet Inc.",
+        "handle": "SAKURA-D"
+    },
+    "131081": {
+        "country_code": "JP",
+        "asn": "131081",
+        "description": "Intec NetCore Inc.",
+        "handle": "INETCORE4"
+    },
+    "131082": {
+        "country_code": "JP",
+        "asn": "131082",
+        "description": "Japan Internet Xing Co. Ltd.",
+        "handle": "JPIX-4"
+    },
+    "131083": {
+        "country_code": "JP",
+        "asn": "131083",
+        "description": "Mercari Inc.",
+        "handle": "MARCHE-LAB"
+    },
+    "131084": {
+        "country_code": "JP",
+        "asn": "131084",
+        "description": "MKI Network Solutions Ltd.",
+        "handle": "MKINET-JP"
+    },
+    "131085": {
+        "country_code": "JP",
+        "asn": "131085",
+        "description": "Niigata Communication Service",
+        "handle": "NCOM-IPV6NET"
+    },
+    "131086": {
+        "country_code": "JP",
+        "asn": "131086",
+        "description": "Densan Co. Ltd.",
+        "handle": "AVISNET-4"
+    },
+    "131106": {
+        "country_code": "JP",
+        "asn": "131106",
+        "description": "NHN Techorus Corp.",
+        "handle": "DATAHOTEL-JP"
+    },
+    "131152": {
+        "country_code": "JP",
+        "asn": "131152",
+        "description": "BBIX Inc.",
+        "handle": "BBIX-L3RPX"
+    },
+    "131153": {
+        "country_code": "JP",
+        "asn": "131153",
+        "description": "KVH Co. Ltd.",
+        "handle": "KVH-ISP"
+    },
+    "131154": {
+        "country_code": "JP",
+        "asn": "131154",
+        "description": "NANO OPT Media Inc.",
+        "handle": "SHOWNET-4AS"
+    },
+    "131155": {
+        "country_code": "JP",
+        "asn": "131155",
+        "description": "NTT DOCOMO BUSINESS Inc.",
+        "handle": "HANABI4"
+    },
+    "131156": {
+        "country_code": "JP",
+        "asn": "131156",
+        "description": "LAC Co. Ltd.",
+        "handle": "LAC-AS"
+    },
+    "131157": {
+        "country_code": "JP",
+        "asn": "131157",
+        "description": "IMS Corporation",
+        "handle": "MAGMA-IPV6"
+    },
+    "131158": {
+        "country_code": "JP",
+        "asn": "131158",
+        "description": "Nara Institute of Science and Technology National University Corporation",
+        "handle": "NAIST-AS"
+    },
+    "131159": {
+        "country_code": "JP",
+        "asn": "131159",
+        "description": "Yamagata University",
+        "handle": "AS-YAMAGATAU"
+    },
+    "131160": {
+        "country_code": "JP",
+        "asn": "131160",
+        "description": "Wire and Wireless Co. Ltd.",
+        "handle": "WI2"
+    },
+    "131161": {
+        "country_code": "JP",
+        "asn": "131161",
+        "description": "NEC Corporation",
+        "handle": "NECCN"
+    },
+    "131893": {
+        "country_code": "JP",
+        "asn": "131893",
+        "description": "RICOH Company Ltd.",
+        "handle": "RICOH-NET"
+    },
+    "131894": {
+        "country_code": "JP",
+        "asn": "131894",
+        "description": "UNIADEX LTD.",
+        "handle": "U-CLOUD-2"
+    },
+    "131895": {
+        "country_code": "JP",
+        "asn": "131895",
+        "description": "Okinawa Institute of science and technology",
+        "handle": "OIST-NET"
+    },
+    "131896": {
+        "country_code": "JP",
+        "asn": "131896",
+        "description": "SSI Lab Inc.",
+        "handle": "SSI-LAB"
+    },
+    "131897": {
+        "country_code": "JP",
+        "asn": "131897",
+        "description": "National University Corporation Ehime University",
+        "handle": "EHIME-U"
+    },
+    "131898": {
+        "country_code": "JP",
+        "asn": "131898",
+        "description": "LY Corporation",
+        "handle": "YAHOO-3"
+    },
+    "131899": {
+        "country_code": "JP",
+        "asn": "131899",
+        "description": "DIG Inc.",
+        "handle": "DIG-NET"
+    },
+    "131900": {
+        "country_code": "JP",
+        "asn": "131900",
+        "description": "Directorz Co. Ltd.",
+        "handle": "DIRECTORZ"
+    },
+    "131901": {
+        "country_code": "JP",
+        "asn": "131901",
+        "description": "FIDESSA KK",
+        "handle": "FIDESSA-KK"
+    },
+    "131902": {
+        "country_code": "JP",
+        "asn": "131902",
+        "description": "LogicLinks Inc.",
+        "handle": "LOGICLINKS2"
+    },
+    "131903": {
+        "country_code": "JP",
+        "asn": "131903",
+        "description": "Nomura Research Institute Ltd.",
+        "handle": "NRI-IVPN"
+    },
+    "131904": {
+        "country_code": "JP",
+        "asn": "131904",
+        "description": "Cyber Feel Inc",
+        "handle": "CYBERFEELINC-JP"
+    },
+    "131905": {
+        "country_code": "JP",
+        "asn": "131905",
+        "description": "Japan Registry Services Co. Ltd.",
+        "handle": "JPRS-GTLD"
+    },
+    "131906": {
+        "country_code": "JP",
+        "asn": "131906",
+        "description": "Gap Japan K.K.",
+        "handle": "GAPINC-NET"
+    },
+    "131907": {
+        "country_code": "JP",
+        "asn": "131907",
+        "description": "Iwami Cablevision Co. Ltd.",
+        "handle": "IWAMI-NET"
+    },
+    "131908": {
+        "country_code": "JP",
+        "asn": "131908",
+        "description": "INTEC Inc.",
+        "handle": "INTEC-DCAN"
+    },
+    "131909": {
+        "country_code": "JP",
+        "asn": "131909",
+        "description": "OCC Co. Ltd.",
+        "handle": "OKINAWA-DC"
+    },
+    "131910": {
+        "country_code": "JP",
+        "asn": "131910",
+        "description": "SORACOM. INC.",
+        "handle": "SORACOM"
+    },
+    "131911": {
+        "country_code": "JP",
+        "asn": "131911",
+        "description": "HONJYO CABLE VISION CO. LTD.",
+        "handle": "HCTV-NET"
+    },
+    "131912": {
+        "country_code": "JP",
+        "asn": "131912",
+        "description": "Cybozu Inc.",
+        "handle": "CYBOZU"
+    },
+    "131914": {
+        "country_code": "JP",
+        "asn": "131914",
+        "description": "Rakuten Group Inc.",
+        "handle": "DD-NET"
+    },
+    "131915": {
+        "country_code": "JP",
+        "asn": "131915",
+        "description": "Hamamatsu Cable Television .Inc",
+        "handle": "WINDE"
+    },
+    "131916": {
+        "country_code": "JP",
+        "asn": "131916",
+        "description": "Tokyo Bay Network Co. Ltd.",
+        "handle": "BAYNET"
+    },
+    "131917": {
+        "country_code": "JP",
+        "asn": "131917",
+        "description": "Toshiba I.S. corp",
+        "handle": "TOSHIBA-IS"
+    },
+    "131918": {
+        "country_code": "JP",
+        "asn": "131918",
+        "description": "SHONAN CABLE NETWORK",
+        "handle": "SCN-NET"
+    },
+    "131919": {
+        "country_code": "JP",
+        "asn": "131919",
+        "description": "Meiji University",
+        "handle": "MEIJI-NET"
+    },
+    "131920": {
+        "country_code": "JP",
+        "asn": "131920",
+        "description": "closip Inc.",
+        "handle": "CLOSIP-2"
+    },
+    "131921": {
+        "country_code": "JP",
+        "asn": "131921",
+        "description": "GMO GlobalSign Holdings K.K.",
+        "handle": "GMOCL"
+    },
+    "131922": {
+        "country_code": "JP",
+        "asn": "131922",
+        "description": "leafnet Co. Ltd.",
+        "handle": "LN-NET"
+    },
+    "131923": {
+        "country_code": "JP",
+        "asn": "131923",
+        "description": "MCAT Ltd.",
+        "handle": "MCAT"
+    },
+    "131924": {
+        "country_code": "JP",
+        "asn": "131924",
+        "description": "Kansai Airports",
+        "handle": "KAP-NET"
+    },
+    "131925": {
+        "country_code": "JP",
+        "asn": "131925",
+        "description": "FAMILY NET JAPAN INCORPORATED",
+        "handle": "CYBERHOME2"
+    },
+    "131926": {
+        "country_code": "JP",
+        "asn": "131926",
+        "description": "Cable Television Saiki Co. Ltd.",
+        "handle": "CTS-NET"
+    },
+    "131927": {
+        "country_code": "JP",
+        "asn": "131927",
+        "description": "TV Matsumoto Cablevision",
+        "handle": "TVM"
+    },
+    "131928": {
+        "country_code": "JP",
+        "asn": "131928",
+        "description": "Tottori Teletopia Co. Ltd.",
+        "handle": "IPP-NET"
+    },
+    "131929": {
+        "country_code": "JP",
+        "asn": "131929",
+        "description": "Yamanashi CATV Co . ltd",
+        "handle": "FRUITSNET"
+    },
+    "131930": {
+        "country_code": "JP",
+        "asn": "131930",
+        "description": "Tokyo Broadcasting System Television Inc.",
+        "handle": "TBS-NET"
+    },
+    "131931": {
+        "country_code": "JP",
+        "asn": "131931",
+        "description": "Aomori Cable TV Co. Ltd.",
+        "handle": "ACTV-NET"
+    },
+    "131932": {
+        "country_code": "JP",
+        "asn": "131932",
+        "description": "JR East Information Systems Company",
+        "handle": "JEIS-NET"
+    },
+    "131933": {
+        "country_code": "JP",
+        "asn": "131933",
+        "description": "TAMA Television Co. Ltd",
+        "handle": "TTV-NET"
+    },
+    "131934": {
+        "country_code": "JP",
+        "asn": "131934",
+        "description": "ICC Corporation",
+        "handle": "ICC-NET"
+    },
+    "131935": {
+        "country_code": "JP",
+        "asn": "131935",
+        "description": "Kamoike.net LLP",
+        "handle": "KAMOIKE-ORG"
+    },
+    "131936": {
+        "country_code": "JP",
+        "asn": "131936",
+        "description": "UNIVERSAL MUSIC LLC",
+        "handle": "UMGJP-NET"
+    },
+    "131937": {
+        "country_code": "JP",
+        "asn": "131937",
+        "description": "Joetsu Cable Vision",
+        "handle": "JCV"
+    },
+    "131938": {
+        "country_code": "JP",
+        "asn": "131938",
+        "description": "NISSAN MOTOR CO. LTD.",
+        "handle": "NISSAN-NET"
+    },
+    "131939": {
+        "country_code": "JP",
+        "asn": "131939",
+        "description": "IPS INC",
+        "handle": "IPSISM-NET"
+    },
+    "131940": {
+        "country_code": "JP",
+        "asn": "131940",
+        "description": "Nissho Electronics Corp.",
+        "handle": "BETANET"
+    },
+    "131941": {
+        "country_code": "JP",
+        "asn": "131941",
+        "description": "Entsu Co. Ltd.",
+        "handle": "ENTSU-NET"
+    },
+    "131942": {
+        "country_code": "JP",
+        "asn": "131942",
+        "description": "Gurunavi Inc.",
+        "handle": "GURUNAVI-NET"
+    },
+    "131943": {
+        "country_code": "JP",
+        "asn": "131943",
+        "description": "Goto tv",
+        "handle": "GOTO-TV"
+    },
+    "131944": {
+        "country_code": "JP",
+        "asn": "131944",
+        "description": "KADOKAWA DWANGO CORPORATION",
+        "handle": "KADOKAWA-NET"
+    },
+    "131945": {
+        "country_code": "JP",
+        "asn": "131945",
+        "description": "Sanntuu Corporation",
+        "handle": "SNTU-NET"
+    },
+    "131946": {
+        "country_code": "JP",
+        "asn": "131946",
+        "description": "MUSASHINO UNIVERSITY E.F.",
+        "handle": "MU-NET"
+    },
+    "131947": {
+        "country_code": "JP",
+        "asn": "131947",
+        "description": "Net One Systems Co. Ltd.",
+        "handle": "NOS-SERVICE"
+    },
+    "131948": {
+        "country_code": "JP",
+        "asn": "131948",
+        "description": "FORNEXT Inc.",
+        "handle": "FORNEXT"
+    },
+    "131949": {
+        "country_code": "JP",
+        "asn": "131949",
+        "description": "General Incorporated Foundation Aso Telework Center",
+        "handle": "ASO-NET"
+    },
+    "131950": {
+        "country_code": "JP",
+        "asn": "131950",
+        "description": "EnjoyVC Japan Corporation",
+        "handle": "ENJOYVC"
+    },
+    "131951": {
+        "country_code": "JP",
+        "asn": "131951",
+        "description": "Suzuyo Shinwart Corporation",
+        "handle": "SSC"
+    },
+    "131952": {
+        "country_code": "JP",
+        "asn": "131952",
+        "description": "Asahikawa Cable Television Co. Ltd.",
+        "handle": "POTATO-NET"
+    },
+    "131953": {
+        "country_code": "JP",
+        "asn": "131953",
+        "description": "NPO Yutopianet",
+        "handle": "YUTOPIA-NET"
+    },
+    "131954": {
+        "country_code": "JP",
+        "asn": "131954",
+        "description": "Kawaguchiko cable television Inc",
+        "handle": "LCNET"
+    },
+    "131955": {
+        "country_code": "JP",
+        "asn": "131955",
+        "description": "Kyoutou Cable Net Co Ltd",
+        "handle": "KCNET"
+    },
+    "131956": {
+        "country_code": "JP",
+        "asn": "131956",
+        "description": "NTT DOCOMO BUSINESS Inc.",
+        "handle": "SNOW-VPN"
+    },
+    "131957": {
+        "country_code": "JP",
+        "asn": "131957",
+        "description": "MicroAd Inc.",
+        "handle": "MICROAD"
+    },
+    "131958": {
+        "country_code": "JP",
+        "asn": "131958",
+        "description": "Tama Cable Network Co. Ltd.",
+        "handle": "T-NET"
+    },
+    "131959": {
+        "country_code": "JP",
+        "asn": "131959",
+        "description": "YOU Communications Corporation",
+        "handle": "YOUTV"
+    },
+    "131960": {
+        "country_code": "JP",
+        "asn": "131960",
+        "description": "MBO holdings Inc.",
+        "handle": "MBO-NET"
+    },
+    "131961": {
+        "country_code": "JP",
+        "asn": "131961",
+        "description": "Dokkyo University",
+        "handle": "DOKKYO-AS"
+    },
+    "131962": {
+        "country_code": "JP",
+        "asn": "131962",
+        "description": "KADOKAWA DWANGO CORPORATION",
+        "handle": "PHOENIX"
+    },
+    "131963": {
+        "country_code": "JP",
+        "asn": "131963",
+        "description": "MC Digital Realty Inc.",
+        "handle": "MCDR-KIX"
+    },
+    "131964": {
+        "country_code": "JP",
+        "asn": "131964",
+        "description": "FAMILYNET JAPAN CORPORATION",
+        "handle": "CYBERHOME3"
+    },
+    "131965": {
+        "country_code": "JP",
+        "asn": "131965",
+        "description": "Xserver Inc.",
+        "handle": "XSERVER"
+    },
+    "131966": {
+        "country_code": "JP",
+        "asn": "131966",
+        "description": "I-NET CORP.",
+        "handle": "INET-NET"
+    },
+    "131967": {
+        "country_code": "JP",
+        "asn": "131967",
+        "description": "Mizuho Bank Ltd",
+        "handle": "MHBK-CLH-TY"
+    },
+    "131968": {
+        "country_code": "JP",
+        "asn": "131968",
+        "description": "Mizuho Bank Ltd",
+        "handle": "MHBK-CLH-OS"
+    },
+    "131969": {
+        "country_code": "JP",
+        "asn": "131969",
+        "description": "Suzuyo Shinwart Corporation",
+        "handle": "SSC-2"
+    },
+    "131970": {
+        "country_code": "JP",
+        "asn": "131970",
+        "description": "Hikarinet Inc.",
+        "handle": "HIKARINET"
+    },
+    "131971": {
+        "country_code": "JP",
+        "asn": "131971",
+        "description": "Japan Network Information Center",
+        "handle": "JPNIC-LAB"
+    },
+    "131972": {
+        "country_code": "JP",
+        "asn": "131972",
+        "description": "J-Stream Inc.",
+        "handle": "JST-SENDAI"
+    },
+    "131973": {
+        "country_code": "JP",
+        "asn": "131973",
+        "description": "J-Stream Inc.",
+        "handle": "JST-FUKUOKA"
+    },
+    "131974": {
+        "country_code": "JP",
+        "asn": "131974",
+        "description": "Cable TV Corporation",
+        "handle": "TOCHIGIX"
+    },
+    "131975": {
+        "country_code": "JP",
+        "asn": "131975",
+        "description": "Oedo Telecom Inc",
+        "handle": "OEDOTELECOM"
+    },
+    "131976": {
+        "country_code": "JP",
+        "asn": "131976",
+        "description": "INTERNET MULTIFEED CO.",
+        "handle": "JPNAP-WEST"
+    },
+    "131977": {
+        "country_code": "JP",
+        "asn": "131977",
+        "description": "Japan Photo Finish Corporation",
+        "handle": "JPF-WEB"
+    },
+    "131978": {
+        "country_code": "JP",
+        "asn": "131978",
+        "description": "NTT COMMUNICATIONS CORPORATION",
+        "handle": "NTTCOM-VOIP"
+    },
+    "131979": {
+        "country_code": "JP",
+        "asn": "131979",
+        "description": "ZIP Telecom",
+        "handle": "ZIPNET"
+    },
+    "131980": {
+        "country_code": "JP",
+        "asn": "131980",
+        "description": "KADOKAWA CORPORATION",
+        "handle": "KINIKUNET"
+    },
+    "131981": {
+        "country_code": "JP",
+        "asn": "131981",
+        "description": "Takushoku University",
+        "handle": "TAKUSHOKUNET"
+    },
+    "131982": {
+        "country_code": "JP",
+        "asn": "131982",
+        "description": "Uenohara Broadband Communications Inc.",
+        "handle": "UBC"
+    },
+    "131983": {
+        "country_code": "JP",
+        "asn": "131983",
+        "description": "suo cablenet corporation",
+        "handle": "SCNTV-NET"
+    },
+    "131984": {
+        "country_code": "JP",
+        "asn": "131984",
+        "description": "JOCDN Inc.",
+        "handle": "JOCDN"
+    },
+    "131985": {
+        "country_code": "JP",
+        "asn": "131985",
+        "description": "Maple Audio Technology Corp",
+        "handle": "MAT-NET"
+    },
+    "131986": {
+        "country_code": "JP",
+        "asn": "131986",
+        "description": "ITOCHU Cable Systems Corp.",
+        "handle": "BB4U-NET"
+    },
+    "131987": {
+        "country_code": "JP",
+        "asn": "131987",
+        "description": "MC Digital Realty Inc.",
+        "handle": "MCDR-NRT"
+    },
+    "131988": {
+        "country_code": "JP",
+        "asn": "131988",
+        "description": "Takehara Cable Network Co Ltd",
+        "handle": "TANET"
+    },
+    "131989": {
+        "country_code": "JP",
+        "asn": "131989",
+        "description": "PFU LIMITED",
+        "handle": "PFU-UMC-MS01"
+    },
+    "131990": {
+        "country_code": "JP",
+        "asn": "131990",
+        "description": "Fukuoka SoftBank Hawks",
+        "handle": "HAWKS-GAMING"
+    },
+    "131991": {
+        "country_code": "JP",
+        "asn": "131991",
+        "description": "JAPAN MAYDAY SERVICE CO. LTD.",
+        "handle": "HELP-NET"
+    },
+    "131992": {
+        "country_code": "JP",
+        "asn": "131992",
+        "description": "histandard.co.ltd",
+        "handle": "HS-NET"
+    },
+    "132024": {
+        "country_code": "JP",
+        "asn": "132024",
+        "description": "Rebyc Inc.",
+        "handle": "REBYC-JP"
+    },
+    "132119": {
+        "country_code": "JP",
+        "asn": "132119",
+        "description": "TECPRESSO Inc.",
+        "handle": "TECPRESSO-NET-AP"
+    },
+    "132373": {
+        "country_code": "JP",
+        "asn": "132373",
+        "description": "Asian Web Company Inc.",
+        "handle": "ASIAN-WEB-JP"
+    },
+    "132496": {
+        "country_code": "JP",
+        "asn": "132496",
+        "description": "SBI BITS Co. Ltd.",
+        "handle": "SBIBITS-AS-AP"
+    },
+    "132504": {
+        "country_code": "JP",
+        "asn": "132504",
+        "description": "QUALITIA Co. LTD",
+        "handle": "QUALITIA-AS-AP"
+    },
+    "132592": {
+        "country_code": "JP",
+        "asn": "132592",
+        "description": "Star Co .Ltd.",
+        "handle": "STARCOLTD-AS-AP"
+    },
+    "132726": {
+        "country_code": "JP",
+        "asn": "132726",
+        "description": "5-3 Miyuki-cho",
+        "handle": "SANYUNETCORP-JP"
+    },
+    "132827": {
+        "country_code": "JP",
+        "asn": "132827",
+        "description": "GATEWAY INC",
+        "handle": "GATEWAY-AS-AP"
+    },
+    "132888": {
+        "country_code": "JP",
+        "asn": "132888",
+        "description": "Freak",
+        "handle": "FREAK-AS-AP"
+    },
+    "133180": {
+        "country_code": "JP",
+        "asn": "133180",
+        "description": "Starbow Ltd.",
+        "handle": "STARBOWLTD-AS-AP"
+    },
+    "133203": {
+        "country_code": "JP",
+        "asn": "133203",
+        "description": "SBI BITS Co. Ltd.",
+        "handle": "SBIBITS-JP"
+    },
+    "133229": {
+        "country_code": "JP",
+        "asn": "133229",
+        "description": "SKIP LLC",
+        "handle": "SKIPLLC-AS-AP"
+    },
+    "133458": {
+        "country_code": "JP",
+        "asn": "133458",
+        "description": "FPT Smart Cloud Japan Co. Ltd",
+        "handle": "FSCJCL-AS-AP"
+    },
+    "133476": {
+        "country_code": "JP",
+        "asn": "133476",
+        "description": "First Innovation K.K.",
+        "handle": "FIRST-AS-AP"
+    },
+    "133780": {
+        "country_code": "JP",
+        "asn": "133780",
+        "description": "Quantum Mesh Co. Ltd.",
+        "handle": "QMC-AS-AP"
+    },
+    "134351": {
+        "country_code": "JP",
+        "asn": "134351",
+        "description": "Leaseweb Japan K.K.",
+        "handle": "LEASEWEB-AS-AP"
+    },
+    "134358": {
+        "country_code": "JP",
+        "asn": "134358",
+        "description": "AT&T Japan K.K.",
+        "handle": "TAO-ASHBURN"
+    },
+    "134473": {
+        "country_code": "JP",
+        "asn": "134473",
+        "description": "AT&T Japan K.K.",
+        "handle": "TAO-CHICAGO"
+    },
+    "134530": {
+        "country_code": "JP",
+        "asn": "134530",
+        "description": "AT&T Japan K.K.",
+        "handle": "ATT-NBE-AU"
+    },
+    "134531": {
+        "country_code": "JP",
+        "asn": "134531",
+        "description": "AT&T Japan K.K.",
+        "handle": "ATT-NBE-AU"
+    },
+    "134532": {
+        "country_code": "JP",
+        "asn": "134532",
+        "description": "AT&T Japan K.K.",
+        "handle": "ATT-NBE-JP"
+    },
+    "134533": {
+        "country_code": "JP",
+        "asn": "134533",
+        "description": "AT&T Japan K.K.",
+        "handle": "ATT-NBE-HK"
+    },
+    "134534": {
+        "country_code": "JP",
+        "asn": "134534",
+        "description": "AT&T Japan K.K.",
+        "handle": "ATT-NBE-SG"
+    },
+    "134535": {
+        "country_code": "JP",
+        "asn": "134535",
+        "description": "AT&T Japan K.K.",
+        "handle": "ATT-NBE-NL"
+    },
+    "134536": {
+        "country_code": "JP",
+        "asn": "134536",
+        "description": "AT&T Japan K.K.",
+        "handle": "ATT-NBE-GB"
+    },
+    "134537": {
+        "country_code": "JP",
+        "asn": "134537",
+        "description": "AT&T Japan K.K.",
+        "handle": "ATT-NBE-US"
+    },
+    "134666": {
+        "country_code": "JP",
+        "asn": "134666",
+        "description": "Cat Networks K.K.",
+        "handle": "HOSHINETWORK"
+    },
+    "134827": {
+        "country_code": "JP",
+        "asn": "134827",
+        "description": "EY Japan Co. Ltd.",
+        "handle": "EYJAPAN-AS-AP"
+    },
+    "135304": {
+        "country_code": "JP",
+        "asn": "135304",
+        "description": "VMWare Incorporation",
+        "handle": "VMWARE-AS-AP"
+    },
+    "135372": {
+        "country_code": "JP",
+        "asn": "135372",
+        "description": "Columbia Sportswear Japan Inc",
+        "handle": "CSJI-AS-AP"
+    },
+    "135573": {
+        "country_code": "JP",
+        "asn": "135573",
+        "description": "mediatti broadband communications",
+        "handle": "MBC-AS-AP"
+    },
+    "135674": {
+        "country_code": "JP",
+        "asn": "135674",
+        "description": "Kano Network",
+        "handle": "KANONETWORK-AS-JP"
+    },
+    "136506": {
+        "country_code": "JP",
+        "asn": "136506",
+        "description": "LEON CO.LTD",
+        "handle": "LEONCOLTD-AS-AP"
+    },
+    "136586": {
+        "country_code": "JP",
+        "asn": "136586",
+        "description": "InComm Japan K.K.",
+        "handle": "INCOMMJAPANKK-AS-AP"
+    },
+    "136796": {
+        "country_code": "JP",
+        "asn": "136796",
+        "description": "CORELINK JAPAN",
+        "handle": "CL-JP-AS"
+    },
+    "137072": {
+        "country_code": "JP",
+        "asn": "137072",
+        "description": "LEON CO.LTD",
+        "handle": "LEONCOLTD-AS-AP"
+    },
+    "137407": {
+        "country_code": "JP",
+        "asn": "137407",
+        "description": "EIC INC",
+        "handle": "EICINC-AS-AP"
+    },
+    "137445": {
+        "country_code": "JP",
+        "asn": "137445",
+        "description": "PF LINK SYSTEMS",
+        "handle": "AS-PFLINK-JP"
+    },
+    "137508": {
+        "country_code": "JP",
+        "asn": "137508",
+        "description": "rainbow network limited",
+        "handle": "RAINBOWIDC-AS-AP"
+    },
+    "137819": {
+        "country_code": "JP",
+        "asn": "137819",
+        "description": "Beeks Financial Cloud (Japan)",
+        "handle": "BEEKS-AS-AP"
+    },
+    "138033": {
+        "country_code": "JP",
+        "asn": "138033",
+        "description": "BBIX Inc",
+        "handle": "BBIX-AS-AP"
+    },
+    "138038": {
+        "country_code": "JP",
+        "asn": "138038",
+        "description": "Wolf Network Lab",
+        "handle": "WOLFLAB-AS-AP"
+    },
+    "138181": {
+        "country_code": "JP",
+        "asn": "138181",
+        "description": "Cat Networks K.K.",
+        "handle": "HEXHU"
+    },
+    "138330": {
+        "country_code": "JP",
+        "asn": "138330",
+        "description": "Cat Networks K.K.",
+        "handle": "SMMS"
+    },
+    "138384": {
+        "country_code": "JP",
+        "asn": "138384",
+        "description": "Rakuten Mobile Inc",
+        "handle": "RMI"
+    },
+    "138515": {
+        "country_code": "JP",
+        "asn": "138515",
+        "description": "AT&T Japan K.K.",
+        "handle": "TAO-TORONTO"
+    },
+    "138652": {
+        "country_code": "JP",
+        "asn": "138652",
+        "description": "Super Godzilla Communications GK",
+        "handle": "SGCOM-AS-AP"
+    },
+    "138695": {
+        "country_code": "JP",
+        "asn": "138695",
+        "description": "TOYO Internet Service Co. Ltd.",
+        "handle": "TYIS-AS-AP"
+    },
+    "138936": {
+        "country_code": "JP",
+        "asn": "138936",
+        "description": "Infoblox KK",
+        "handle": "INFOBLOX-AS-AP"
+    },
+    "138968": {
+        "country_code": "JP",
+        "asn": "138968",
+        "description": "rainbow network limited",
+        "handle": "RAINBOWIDC-AS-AP"
+    },
+    "139076": {
+        "country_code": "JP",
+        "asn": "139076",
+        "description": "EnjoyVC Japan Corporation",
+        "handle": "ENJOYVC-AS-AP"
+    },
+    "139249": {
+        "country_code": "JP",
+        "asn": "139249",
+        "description": "ENMOE",
+        "handle": "ENMOE-AS-CN"
+    },
+    "139255": {
+        "country_code": "JP",
+        "asn": "139255",
+        "description": "U-NEXT Co. Ltd.",
+        "handle": "U-NEXT-AS-AP"
+    },
+    "139358": {
+        "country_code": "JP",
+        "asn": "139358",
+        "description": "Kansuiun Co. Ltd",
+        "handle": "KANSUIUN-AS-AP"
+    },
+    "139468": {
+        "country_code": "JP",
+        "asn": "139468",
+        "description": "DC Communications Inc.",
+        "handle": "DCI-AS-AP"
+    },
+    "139472": {
+        "country_code": "JP",
+        "asn": "139472",
+        "description": "Catalina Marketing Japan K.K.",
+        "handle": "CMJK-AS-AP"
+    },
+    "140232": {
+        "country_code": "JP",
+        "asn": "140232",
+        "description": "AT&T Japan K.K.",
+        "handle": "ATT-NBE-CN"
+    },
+    "140233": {
+        "country_code": "JP",
+        "asn": "140233",
+        "description": "AT&T Japan K.K.",
+        "handle": "ATT-NBE-IN"
+    },
+    "140234": {
+        "country_code": "JP",
+        "asn": "140234",
+        "description": "AT&T Japan K.K.",
+        "handle": "ATT-NBE-MX"
+    },
+    "140235": {
+        "country_code": "JP",
+        "asn": "140235",
+        "description": "AT&T Japan K.K.",
+        "handle": "ATT-NBE-CA"
+    },
+    "140236": {
+        "country_code": "JP",
+        "asn": "140236",
+        "description": "AT&T Japan K.K.",
+        "handle": "ATT-NBE-BR"
+    },
+    "140237": {
+        "country_code": "JP",
+        "asn": "140237",
+        "description": "AT&T Japan K.K.",
+        "handle": "TAO-PHOENIX-DRT"
+    },
+    "140306": {
+        "country_code": "JP",
+        "asn": "140306",
+        "description": "NTT Ltd Japan Corporation",
+        "handle": "NTTGIN-AS-AP"
+    },
+    "140501": {
+        "country_code": "JP",
+        "asn": "140501",
+        "description": "Itiviti Japan K.K.",
+        "handle": "ITIVITI-AS-AP"
+    },
+    "140683": {
+        "country_code": "JP",
+        "asn": "140683",
+        "description": "Starbow Ltd.",
+        "handle": "STARBOWLTD-AS-AP"
+    },
+    "140701": {
+        "country_code": "JP",
+        "asn": "140701",
+        "description": "IDC Legend Corp.",
+        "handle": "IDCLEGEND-AS-AP"
+    },
+    "140868": {
+        "country_code": "JP",
+        "asn": "140868",
+        "description": "Ayao Takata",
+        "handle": "TAKATASDCC-AS-AP"
+    },
+    "141348": {
+        "country_code": "JP",
+        "asn": "141348",
+        "description": "Bayer Holding Ltd.",
+        "handle": "BAYERHOLDINGLTD-AS-AP"
+    },
+    "141694": {
+        "country_code": "JP",
+        "asn": "141694",
+        "description": "Ermis Ltd.",
+        "handle": "ERMISLTD-AS-AP"
+    },
+    "141757": {
+        "country_code": "JP",
+        "asn": "141757",
+        "description": "Zoho Japan Corporation",
+        "handle": "ZJC-AS-AP"
+    },
+    "142052": {
+        "country_code": "JP",
+        "asn": "142052",
+        "description": "Mempool Space K.K.",
+        "handle": "MEMPOOLSPACEKK-AS-AP"
+    },
+    "142165": {
+        "country_code": "JP",
+        "asn": "142165",
+        "description": "Bosch Corporation",
+        "handle": "BOSCHCORPORATION-AS-AP"
+    },
+    "142438": {
+        "country_code": "JP",
+        "asn": "142438",
+        "description": "Kasumi Networks Inc",
+        "handle": "KSMNW-AS-AP"
+    },
+    "142622": {
+        "country_code": "JP",
+        "asn": "142622",
+        "description": "Dream Information Laboratory",
+        "handle": "DIL-AS-AP"
+    },
+    "146959": {
+        "country_code": "JP",
+        "asn": "146959",
+        "description": "Guohua Tian",
+        "handle": "METEOR-AS-AP"
+    },
+    "146968": {
+        "country_code": "JP",
+        "asn": "146968",
+        "description": "COMSQUARE Co. Ltd.",
+        "handle": "COMSQUARE"
+    },
+    "146969": {
+        "country_code": "JP",
+        "asn": "146969",
+        "description": "SB Technology Corp.",
+        "handle": "SBT-SC"
+    },
+    "146970": {
+        "country_code": "JP",
+        "asn": "146970",
+        "description": "BBSakura Networks Inc.",
+        "handle": "BBS"
+    },
+    "146971": {
+        "country_code": "JP",
+        "asn": "146971",
+        "description": "Media Adventure Inc",
+        "handle": "M-ADVENTURE"
+    },
+    "146972": {
+        "country_code": "JP",
+        "asn": "146972",
+        "description": "TOYO Engineering Corporation",
+        "handle": "TEC-JP-NET"
+    },
+    "146973": {
+        "country_code": "JP",
+        "asn": "146973",
+        "description": "Enecom Inc.",
+        "handle": "VOIP-ENECOM"
+    },
+    "146974": {
+        "country_code": "JP",
+        "asn": "146974",
+        "description": "Woven by Toyota Inc.",
+        "handle": "WP-NET"
+    },
+    "146975": {
+        "country_code": "JP",
+        "asn": "146975",
+        "description": "NIPPON TELEGRAPH AND TELEPHONE EAST CORPORATION",
+        "handle": "NTT-EAST-CCS"
+    },
+    "146976": {
+        "country_code": "JP",
+        "asn": "146976",
+        "description": "Kvision Co. Ltd.",
+        "handle": "KNET"
+    },
+    "146978": {
+        "country_code": "JP",
+        "asn": "146978",
+        "description": "BBIX Inc.",
+        "handle": "BBIX-FUKUOKA"
+    },
+    "146979": {
+        "country_code": "JP",
+        "asn": "146979",
+        "description": "University of Nagasaki",
+        "handle": "SUNDAICHI"
+    },
+    "146980": {
+        "country_code": "JP",
+        "asn": "146980",
+        "description": "Tokyo Metropolitan College of Industrial Technology Infomation System Engineering Course",
+        "handle": "IOC"
+    },
+    "146981": {
+        "country_code": "JP",
+        "asn": "146981",
+        "description": "Nekojarashi Inc.",
+        "handle": "NEKOJARASHI"
+    },
+    "146982": {
+        "country_code": "JP",
+        "asn": "146982",
+        "description": "Shinnyo-en",
+        "handle": "SHINNYO-LIVE"
+    },
+    "146983": {
+        "country_code": "JP",
+        "asn": "146983",
+        "description": "Osaka University",
+        "handle": "OUXNET"
+    },
+    "146984": {
+        "country_code": "JP",
+        "asn": "146984",
+        "description": "INTERNET MULTIFEED CO.",
+        "handle": "JPNAP-EAST"
+    },
+    "146985": {
+        "country_code": "JP",
+        "asn": "146985",
+        "description": "KISSEI COMTEC Co. Ltd",
+        "handle": "KC-MSP-NET"
+    },
+    "146986": {
+        "country_code": "JP",
+        "asn": "146986",
+        "description": "SUZUYO SHINWART CORPORATION",
+        "handle": "SSC-3"
+    },
+    "146987": {
+        "country_code": "JP",
+        "asn": "146987",
+        "description": "GMO GlobalSign Holdings K.K.",
+        "handle": "GMOCL-NET"
+    },
+    "147035": {
+        "country_code": "JP",
+        "asn": "147035",
+        "description": "Ching Kuo",
+        "handle": "CHINGKUO-AS-AP"
+    },
+    "147058": {
+        "country_code": "JP",
+        "asn": "147058",
+        "description": "UN G.K.",
+        "handle": "UNGK-AS-AP"
+    },
+    "147295": {
+        "country_code": "JP",
+        "asn": "147295",
+        "description": "Metro Engines Inc",
+        "handle": "METROENGINESINC-AS-AP"
+    },
+    "147311": {
+        "country_code": "JP",
+        "asn": "147311",
+        "description": "Nevigate Global Network Japan Corporation",
+        "handle": "NGNJC-AS-AP"
+    },
+    "148985": {
+        "country_code": "JP",
+        "asn": "148985",
+        "description": "ANSYS Japan K.K.",
+        "handle": "ANSYSJAPANKK-AS-AP"
+    },
+    "150143": {
+        "country_code": "JP",
+        "asn": "150143",
+        "description": "IotMedia Lab",
+        "handle": "IOTMEDIALAB-AS-AP"
+    },
+    "150298": {
+        "country_code": "JP",
+        "asn": "150298",
+        "description": "More Waifu Backbone",
+        "handle": "MORE-WAIFU-BACKBONE"
+    },
+    "150314": {
+        "country_code": "JP",
+        "asn": "150314",
+        "description": "Rivulet Networks",
+        "handle": "RIVULETNETWORKS-AS-AP"
+    },
+    "150318": {
+        "country_code": "JP",
+        "asn": "150318",
+        "description": "Tokyo Online Co. Ltd.",
+        "handle": "TOKYOONLINE-AS-AP"
+    },
+    "150325": {
+        "country_code": "JP",
+        "asn": "150325",
+        "description": "TSUKUDANI NETWORK",
+        "handle": "TSUKUDANI-NETWORK"
+    },
+    "150355": {
+        "country_code": "JP",
+        "asn": "150355",
+        "description": "BBIX Inc.",
+        "handle": "BBIX-MAPSRS"
+    },
+    "150356": {
+        "country_code": "JP",
+        "asn": "150356",
+        "description": "GMO BRAND SECURITY Inc.",
+        "handle": "GMO-BRS"
+    },
+    "150357": {
+        "country_code": "JP",
+        "asn": "150357",
+        "description": "University of Nagasaki",
+        "handle": "SUN-SECBASE"
+    },
+    "150358": {
+        "country_code": "JP",
+        "asn": "150358",
+        "description": "Tokyo Woman's Christian University",
+        "handle": "TWCU-NET"
+    },
+    "150359": {
+        "country_code": "JP",
+        "asn": "150359",
+        "description": "Cable Television TOYAMA Inc.",
+        "handle": "CTTNET"
+    },
+    "150360": {
+        "country_code": "JP",
+        "asn": "150360",
+        "description": "NIPPON TELEGRAPH AND TELEPHONE EAST CORPORATION",
+        "handle": "NTTE-WFL-AS"
+    },
+    "150361": {
+        "country_code": "JP",
+        "asn": "150361",
+        "description": "NIPPON TELEGRAPH AND TELEPHONE WEST CORPORATION",
+        "handle": "NTTW-WFL-AS"
+    },
+    "150362": {
+        "country_code": "JP",
+        "asn": "150362",
+        "description": "Mamireimu Net Work's",
+        "handle": "KURIYAMA-NET"
+    },
+    "150363": {
+        "country_code": "JP",
+        "asn": "150363",
+        "description": "SoftEther Corporation",
+        "handle": "THIN-NET"
+    },
+    "150365": {
+        "country_code": "JP",
+        "asn": "150365",
+        "description": "LifeLink Co. Ltd",
+        "handle": "LL-NET"
+    },
+    "150366": {
+        "country_code": "JP",
+        "asn": "150366",
+        "description": "demae-can co. ltd",
+        "handle": "DEMAE-CAN-NW"
+    },
+    "150367": {
+        "country_code": "JP",
+        "asn": "150367",
+        "description": "Future Corp.",
+        "handle": "CLOUD-NET"
+    },
+    "150368": {
+        "country_code": "JP",
+        "asn": "150368",
+        "description": "SERVER-G Group",
+        "handle": "TESTBED-KLN"
+    },
+    "150369": {
+        "country_code": "JP",
+        "asn": "150369",
+        "description": "TelHi Corporation",
+        "handle": "INFAL"
+    },
+    "150685": {
+        "country_code": "JP",
+        "asn": "150685",
+        "description": "Ching Kuo",
+        "handle": "CHINGKUO-AS-AP"
+    },
+    "150810": {
+        "country_code": "JP",
+        "asn": "150810",
+        "description": "AT&T Japan K.K.",
+        "handle": "TAO-MONTREAL"
+    },
+    "151013": {
+        "country_code": "JP",
+        "asn": "151013",
+        "description": "AT&T Japan K.K.",
+        "handle": "TAO-LONDON"
+    },
+    "151014": {
+        "country_code": "JP",
+        "asn": "151014",
+        "description": "AT&T Japan K.K.",
+        "handle": "TAO-AMSTERDAM"
+    },
+    "151015": {
+        "country_code": "JP",
+        "asn": "151015",
+        "description": "AT&T Japan K.K.",
+        "handle": "TAO-FRANKFURT"
+    },
+    "151016": {
+        "country_code": "JP",
+        "asn": "151016",
+        "description": "AT&T Japan K.K.",
+        "handle": "TAO-DALLAS"
+    },
+    "151017": {
+        "country_code": "JP",
+        "asn": "151017",
+        "description": "AT&T Japan K.K.",
+        "handle": "TAO-SAN-JOSE"
+    },
+    "151018": {
+        "country_code": "JP",
+        "asn": "151018",
+        "description": "AT&T Japan K.K.",
+        "handle": "TAO-SINGAPORE2"
+    },
+    "151019": {
+        "country_code": "JP",
+        "asn": "151019",
+        "description": "AT&T Japan K.K.",
+        "handle": "TAO-SINGAPORE3"
+    },
+    "151020": {
+        "country_code": "JP",
+        "asn": "151020",
+        "description": "AT&T Japan K.K.",
+        "handle": "TAO-HONG-KONG2"
+    },
+    "151021": {
+        "country_code": "JP",
+        "asn": "151021",
+        "description": "AT&T Japan K.K.",
+        "handle": "TAO-HONG-KONG4"
+    },
+    "151022": {
+        "country_code": "JP",
+        "asn": "151022",
+        "description": "AT&T Japan K.K.",
+        "handle": "TAO-SYDNEY3"
+    },
+    "151023": {
+        "country_code": "JP",
+        "asn": "151023",
+        "description": "AT&T Japan K.K.",
+        "handle": "TAO-SYDNEY5"
+    },
+    "151024": {
+        "country_code": "JP",
+        "asn": "151024",
+        "description": "AT&T Japan K.K.",
+        "handle": "TAO-TOKYO"
+    },
+    "151025": {
+        "country_code": "JP",
+        "asn": "151025",
+        "description": "AT&T Japan K.K.",
+        "handle": "TAO-OSAKA"
+    },
+    "151026": {
+        "country_code": "JP",
+        "asn": "151026",
+        "description": "AT&T Japan K.K.",
+        "handle": "TAO-SAO-PAULO2"
+    },
+    "151027": {
+        "country_code": "JP",
+        "asn": "151027",
+        "description": "AT&T Japan K.K.",
+        "handle": "TAO-SAO-PAULO3"
+    },
+    "151028": {
+        "country_code": "JP",
+        "asn": "151028",
+        "description": "AT&T Japan K.K.",
+        "handle": "TAO-SYDNEY-LAB"
+    },
+    "151029": {
+        "country_code": "JP",
+        "asn": "151029",
+        "description": "AT&T Japan K.K.",
+        "handle": "TAO-MIAMI1"
+    },
+    "151030": {
+        "country_code": "JP",
+        "asn": "151030",
+        "description": "AT&T Japan K.K.",
+        "handle": "TAO-LOS-ANGLELES1"
+    },
+    "151031": {
+        "country_code": "JP",
+        "asn": "151031",
+        "description": "AT&T Japan K.K.",
+        "handle": "TAO-AUCKLAND"
+    },
+    "151032": {
+        "country_code": "JP",
+        "asn": "151032",
+        "description": "AT&T Japan K.K.",
+        "handle": "TAO-SEATTLE"
+    },
+    "151033": {
+        "country_code": "JP",
+        "asn": "151033",
+        "description": "AT&T Japan K.K.",
+        "handle": "TAO-MUMBAI2"
+    },
+    "151034": {
+        "country_code": "JP",
+        "asn": "151034",
+        "description": "AT&T Japan K.K.",
+        "handle": "TAO-MUMBAI3"
+    },
+    "151035": {
+        "country_code": "JP",
+        "asn": "151035",
+        "description": "AT&T Japan K.K.",
+        "handle": "TAO-LONDON"
+    },
+    "151036": {
+        "country_code": "JP",
+        "asn": "151036",
+        "description": "AT&T Japan K.K.",
+        "handle": "TAO-SHANGHAI"
+    },
+    "151037": {
+        "country_code": "JP",
+        "asn": "151037",
+        "description": "AT&T Japan K.K.",
+        "handle": "TAO-BEIJING"
+    },
+    "151038": {
+        "country_code": "JP",
+        "asn": "151038",
+        "description": "AT&T Japan K.K.",
+        "handle": "TAO-MEXICO-CITY"
+    },
+    "151039": {
+        "country_code": "JP",
+        "asn": "151039",
+        "description": "AT&T Japan K.K.",
+        "handle": "TAO-MONTERREY"
+    },
+    "151065": {
+        "country_code": "JP",
+        "asn": "151065",
+        "description": "VMWare Incorporation",
+        "handle": "AS-VMW-BKK"
+    },
+    "151067": {
+        "country_code": "JP",
+        "asn": "151067",
+        "description": "VMWare Incorporation",
+        "handle": "AS-VMW-HKG"
+    },
+    "151068": {
+        "country_code": "JP",
+        "asn": "151068",
+        "description": "VMWare Incorporation",
+        "handle": "AS-VMW-KUL"
+    },
+    "151069": {
+        "country_code": "JP",
+        "asn": "151069",
+        "description": "VMWare Incorporation",
+        "handle": "AS-VMW-MEL"
+    },
+    "151070": {
+        "country_code": "JP",
+        "asn": "151070",
+        "description": "VMWare Incorporation",
+        "handle": "AS-VMW-KIX"
+    },
+    "151071": {
+        "country_code": "JP",
+        "asn": "151071",
+        "description": "VMWare Incorporation",
+        "handle": "AS-VMW-ICN"
+    },
+    "151072": {
+        "country_code": "JP",
+        "asn": "151072",
+        "description": "VMWare Incorporation",
+        "handle": "AS-VMW-SIN"
+    },
+    "151073": {
+        "country_code": "JP",
+        "asn": "151073",
+        "description": "VMWare Incorporation",
+        "handle": "AS-VMW-SYD"
+    },
+    "151074": {
+        "country_code": "JP",
+        "asn": "151074",
+        "description": "VMWare Incorporation",
+        "handle": "AS-VMW-TPE"
+    },
+    "151075": {
+        "country_code": "JP",
+        "asn": "151075",
+        "description": "VMWare Incorporation",
+        "handle": "AS-VMW-NRT"
+    },
+    "151195": {
+        "country_code": "JP",
+        "asn": "151195",
+        "description": "Nova Global ICT Kabushiki Kaisha",
+        "handle": "NGIKK-AS-AP"
+    },
+    "151331": {
+        "country_code": "JP",
+        "asn": "151331",
+        "description": "Sora You",
+        "handle": "SORAYOU-AS-JP"
+    },
+    "151350": {
+        "country_code": "JP",
+        "asn": "151350",
+        "description": "NIPPON COMMUNICATIONS INC.",
+        "handle": "NIPPONCOMMSINC-AS-AP"
+    },
+    "151371": {
+        "country_code": "JP",
+        "asn": "151371",
+        "description": "PAINA Information Development",
+        "handle": "PAINA"
+    },
+    "151373": {
+        "country_code": "JP",
+        "asn": "151373",
+        "description": "JAPAN 3D PRINTER",
+        "handle": "JP3DP-NET"
+    },
+    "151374": {
+        "country_code": "JP",
+        "asn": "151374",
+        "description": "IX-layers Inc.",
+        "handle": "IWK-WORKS"
+    },
+    "151375": {
+        "country_code": "JP",
+        "asn": "151375",
+        "description": "HimawariTV.Corporation",
+        "handle": "HIMAWARI-NET"
+    },
+    "151376": {
+        "country_code": "JP",
+        "asn": "151376",
+        "description": "Solare Hotels and Resorts Co. Ltd.",
+        "handle": "SHR-TYO-NET"
+    },
+    "151377": {
+        "country_code": "JP",
+        "asn": "151377",
+        "description": "Solare Hotels and Resorts Co. Ltd.",
+        "handle": "SHR-OSA-NET"
+    },
+    "151378": {
+        "country_code": "JP",
+        "asn": "151378",
+        "description": "Credit SAISON Co. Ltd.",
+        "handle": "CSAISON-NET"
+    },
+    "151379": {
+        "country_code": "JP",
+        "asn": "151379",
+        "description": "OPTAGE Inc.",
+        "handle": "NCJ"
+    },
+    "151380": {
+        "country_code": "JP",
+        "asn": "151380",
+        "description": "Transform Co. Ltd.",
+        "handle": "TRANSFORMEDU"
+    },
+    "151381": {
+        "country_code": "JP",
+        "asn": "151381",
+        "description": "CIRCLE",
+        "handle": "CIRCLE"
+    },
+    "151382": {
+        "country_code": "JP",
+        "asn": "151382",
+        "description": "CIRCLE",
+        "handle": "CIRCLE"
+    },
+    "151383": {
+        "country_code": "JP",
+        "asn": "151383",
+        "description": "EZSVS Japan Co. Ltd.",
+        "handle": "EZSVS-NET"
+    },
+    "151384": {
+        "country_code": "JP",
+        "asn": "151384",
+        "description": "BBIX Inc.",
+        "handle": "BBIX-CACHE"
+    },
+    "151385": {
+        "country_code": "JP",
+        "asn": "151385",
+        "description": "Japanet Holdings Co. Ltd.",
+        "handle": "JAPANET-H"
+    },
+    "151386": {
+        "country_code": "JP",
+        "asn": "151386",
+        "description": "NHN Cloud Japan Corporation",
+        "handle": "NCJ-NET"
+    },
+    "151387": {
+        "country_code": "JP",
+        "asn": "151387",
+        "description": "OMURA CABLE TELEVISION K.K.",
+        "handle": "OCTP-NET"
+    },
+    "151388": {
+        "country_code": "JP",
+        "asn": "151388",
+        "description": "SoftEther Corporation (SE-JIKKEN-AS)",
+        "handle": "SE-JIKKEN-AS"
+    },
+    "151389": {
+        "country_code": "JP",
+        "asn": "151389",
+        "description": "Synergy Cross Corporation",
+        "handle": "SYNERGY-NET"
+    },
+    "151390": {
+        "country_code": "JP",
+        "asn": "151390",
+        "description": "RUTILEA Inc.",
+        "handle": "RUTILEA-A"
+    },
+    "151401": {
+        "country_code": "JP",
+        "asn": "151401",
+        "description": "Cybervision Hosting Co Ltd",
+        "handle": "CYBERVISIONHOSTING-AS-AP"
+    },
+    "151602": {
+        "country_code": "JP",
+        "asn": "151602",
+        "description": "UD Trucks Corporation",
+        "handle": "UTC-AS-AP"
+    },
+    "152150": {
+        "country_code": "JP",
+        "asn": "152150",
+        "description": "Menlo Security Japan K.K.",
+        "handle": "MENLO-SEC-JP"
+    },
+    "152184": {
+        "country_code": "JP",
+        "asn": "152184",
+        "description": "Tamukai Network",
+        "handle": "TAMUKAINET-AS-AP"
+    },
+    "152645": {
+        "country_code": "JP",
+        "asn": "152645",
+        "description": "Flextech Inc.",
+        "handle": "FLEXTECHINC-AS-AP"
+    },
+    "152728": {
+        "country_code": "JP",
+        "asn": "152728",
+        "description": "NIPPON COMMUNICATIONS INC.",
+        "handle": "NIPPONCOMMSINC-AS-AP"
+    },
+    "152858": {
+        "country_code": "JP",
+        "asn": "152858",
+        "description": "Woven by Toyota Inc.",
+        "handle": "TWC-NET"
+    },
+    "152859": {
+        "country_code": "JP",
+        "asn": "152859",
+        "description": "UNIADEX LTD.",
+        "handle": "U-CLOUD-3"
+    },
+    "152860": {
+        "country_code": "JP",
+        "asn": "152860",
+        "description": "GANJINGWORLD K.K.",
+        "handle": "GJW-KK"
+    },
+    "152861": {
+        "country_code": "JP",
+        "asn": "152861",
+        "description": "Chiba Institute of Technology",
+        "handle": "CIT-NET"
+    },
+    "152862": {
+        "country_code": "JP",
+        "asn": "152862",
+        "description": "Shiojiri City",
+        "handle": "SOLTIEND"
+    },
+    "152863": {
+        "country_code": "JP",
+        "asn": "152863",
+        "description": "OKIT Corporation",
+        "handle": "OKIT-X"
+    },
+    "152864": {
+        "country_code": "JP",
+        "asn": "152864",
+        "description": "NIPPON TELEGRAPH AND TELEPHONE WEST CORPORATION",
+        "handle": "NTT-WEST-CCS"
+    },
+    "152865": {
+        "country_code": "JP",
+        "asn": "152865",
+        "description": "Tokyo University of Technology Linux Club",
+        "handle": "LC-NET"
+    },
+    "152866": {
+        "country_code": "JP",
+        "asn": "152866",
+        "description": "General Incorporated Foundation GovTechTokyo",
+        "handle": "GTT-NET"
+    },
+    "152867": {
+        "country_code": "JP",
+        "asn": "152867",
+        "description": "Takaoka cable network",
+        "handle": "TCNET"
+    },
+    "152868": {
+        "country_code": "JP",
+        "asn": "152868",
+        "description": "THX Corp.",
+        "handle": "THX-NET"
+    },
+    "152869": {
+        "country_code": "JP",
+        "asn": "152869",
+        "description": "ICJ Inc.",
+        "handle": "ICJ-NET"
+    },
+    "152870": {
+        "country_code": "JP",
+        "asn": "152870",
+        "description": "Incorporated Educational Institution Kaichigakuen",
+        "handle": "KAICHI-NET"
+    },
+    "152871": {
+        "country_code": "JP",
+        "asn": "152871",
+        "description": "TAIYO NIPPON SANSO CORPORATION",
+        "handle": "SANSO-NET"
+    },
+    "152872": {
+        "country_code": "JP",
+        "asn": "152872",
+        "description": "VirtualLink Networks",
+        "handle": "VL-NET"
+    },
+    "152873": {
+        "country_code": "JP",
+        "asn": "152873",
+        "description": "Neodyland",
+        "handle": "NEODY-NET"
+    },
+    "152874": {
+        "country_code": "JP",
+        "asn": "152874",
+        "description": "JONET",
+        "handle": "JONET"
+    },
+    "152875": {
+        "country_code": "JP",
+        "asn": "152875",
+        "description": "MEEQ Inc.",
+        "handle": "MEEQ"
+    },
+    "152876": {
+        "country_code": "JP",
+        "asn": "152876",
+        "description": "Comota Co. Ltd.",
+        "handle": "COMOTA"
+    },
+    "152877": {
+        "country_code": "JP",
+        "asn": "152877",
+        "description": "Nintendo Co. Ltd",
+        "handle": "NIN"
+    },
+    "152925": {
+        "country_code": "JP",
+        "asn": "152925",
+        "description": "Nariyasu Sangyo Co. Ltd.",
+        "handle": "NARIYASUSANGYOKK-AS-AP"
+    },
+    "153360": {
+        "country_code": "JP",
+        "asn": "153360",
+        "description": "Net Reliability Association",
+        "handle": "NRAYN-AS-AP"
+    },
+    "153832": {
+        "country_code": "JP",
+        "asn": "153832",
+        "description": "Valse LLC",
+        "handle": "VALSELLC-AS-AP"
+    },
+    "153929": {
+        "country_code": "JP",
+        "asn": "153929",
+        "description": "Allied Business Inc.",
+        "handle": "ABI-AS-AP"
+    },
+    "154090": {
+        "country_code": "JP",
+        "asn": "154090",
+        "description": "FinStadiumX Co. Ltd.",
+        "handle": "FINSTADIUMX-AS-AP"
+    },
+    "154486": {
+        "country_code": "JP",
+        "asn": "154486",
+        "description": "REI MIMURA",
+        "handle": "LESSISMORE-AS-AP"
+    },
+    "199108": {
+        "country_code": "JP",
+        "asn": "199108",
+        "description": "Kaito Tamura",
+        "handle": "TAMUKAI-NETWORK-R"
+    },
+    "199266": {
+        "country_code": "JP",
+        "asn": "199266",
+        "description": "REI MIMURA",
+        "handle": "CONTAINER-DEV"
+    },
+    "199436": {
+        "country_code": "JP",
+        "asn": "199436",
+        "description": "BangLong Yang",
+        "handle": "A-NET"
+    },
+    "201197": {
+        "country_code": "JP",
+        "asn": "201197",
+        "description": "Shingo HATTORI",
+        "handle": "CELIANETWORKS"
+    },
+    "201345": {
+        "country_code": "JP",
+        "asn": "201345",
+        "description": "Shuma Watanabe",
+        "handle": "SHUMA-WATANABE"
+    },
+    "203577": {
+        "country_code": "JP",
+        "asn": "203577",
+        "description": "Fumon Shimadate",
+        "handle": "FS"
+    },
+    "210542": {
+        "country_code": "JP",
+        "asn": "210542",
+        "description": "NPO G-net",
+        "handle": "G-NET"
+    },
+    "210717": {
+        "country_code": "JP",
+        "asn": "210717",
+        "description": "Masanori Sunagawa",
+        "handle": "RIVE3-NET"
+    },
+    "211252": {
+        "country_code": "JP",
+        "asn": "211252",
+        "description": "Akari Networks K.K.",
+        "handle": "AKARI-AS-JP"
+    },
+    "212259": {
+        "country_code": "JP",
+        "asn": "212259",
+        "description": "Astrix Co. Ltd.",
+        "handle": "ASTRIX-EU"
+    },
+    "213471": {
+        "country_code": "JP",
+        "asn": "213471",
+        "description": "YAMAMOTO Hiroshi",
+        "handle": "IPPNOC"
+    },
+    "213604": {
+        "country_code": "JP",
+        "asn": "213604",
+        "description": "Masato Kikuchi",
+        "handle": "MK"
+    },
+    "214430": {
+        "country_code": "JP",
+        "asn": "214430",
+        "description": "Takahiro Fukushima",
+        "handle": "XRONOS"
+    },
+    "214675": {
+        "country_code": "JP",
+        "asn": "214675",
+        "description": "Hidenori Matsuo",
+        "handle": "STARLAMP"
+    },
+    "214699": {
+        "country_code": "JP",
+        "asn": "214699",
+        "description": "LIU JIARONG",
+        "handle": "ROSETTA-MNT"
+    },
+    "214772": {
+        "country_code": "JP",
+        "asn": "214772",
+        "description": "CHEN LUOAN",
+        "handle": "NAZUKI-AS"
+    },
+    "214968": {
+        "country_code": "JP",
+        "asn": "214968",
+        "description": "JIANG Zhirui",
+        "handle": "KNEE-NET-AS"
+    },
+    "215239": {
+        "country_code": "JP",
+        "asn": "215239",
+        "description": "Show Corporation",
+        "handle": "SHOW"
+    },
+    "215871": {
+        "country_code": "JP",
+        "asn": "215871",
+        "description": "xTom Japan Corporation",
+        "handle": "XTOM-JP"
+    },
+    "216447": {
+        "country_code": "JP",
+        "asn": "216447",
+        "description": "Azusa Takemae",
+        "handle": "BINARY-0"
+    },
+    "400593": {
+        "country_code": "JP",
+        "asn": "400593",
+        "description": "tricloud",
+        "handle": "TRIDATA"
+    },
+    "401474": {
+        "country_code": "JP",
+        "asn": "401474",
+        "description": "ENXO LLC",
+        "handle": "ENXO-NET-AS"
+    },
+    "401655": {
+        "country_code": "JP",
+        "asn": "401655",
+        "description": "TransVision LLC",
+        "handle": "TRANSVISIONNET"
+    }
+}

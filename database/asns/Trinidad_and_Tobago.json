@@ -1,0 +1,104 @@
+{
+    "5639": {
+        "country_code": "TT",
+        "asn": "5639",
+        "description": "Telecommunication Services of Trinidad and Tobago",
+        "handle": "TELECOMMUNICATION-SERVICES-OF"
+    },
+    "11947": {
+        "country_code": "TT",
+        "asn": "11947",
+        "description": "Cablenett Limited",
+        "handle": "CABLENETT-LIMITED"
+    },
+    "26317": {
+        "country_code": "TT",
+        "asn": "26317",
+        "description": "Lisa Communications Ltd",
+        "handle": "LISA-COMMUNICATIONS"
+    },
+    "27665": {
+        "country_code": "TT",
+        "asn": "27665",
+        "description": "Columbus Communications Trinidad Limited",
+        "handle": "COLUMBUS-COMMUNICATIONS-TRINIDAD"
+    },
+    "27789": {
+        "country_code": "TT",
+        "asn": "27789",
+        "description": "GREENDOT",
+        "handle": "GREENDOT"
+    },
+    "27800": {
+        "country_code": "TT",
+        "asn": "27800",
+        "description": "Digicel Trinidad and Tobago Ltd.",
+        "handle": "DIGICEL-TRINIDAD"
+    },
+    "27924": {
+        "country_code": "TT",
+        "asn": "27924",
+        "description": "AMPLIA COMMUNICATIONS LTD.",
+        "handle": "AMPLIA-COMMUNICATIONS"
+    },
+    "28067": {
+        "country_code": "TT",
+        "asn": "28067",
+        "description": "The University of the West IndiesSt Augustine Camp",
+        "handle": "THE-UNIVERSITY-OF"
+    },
+    "61478": {
+        "country_code": "TT",
+        "asn": "61478",
+        "description": "AIR LINK COMMUNICATIONS",
+        "handle": "AIR-LINK-COMMUNICATIONS"
+    },
+    "263176": {
+        "country_code": "TT",
+        "asn": "263176",
+        "description": "University of Trinidad & Tobago (UTT)",
+        "handle": "UNIVERSITY-OF-TRINIDAD-TOBAGO"
+    },
+    "263222": {
+        "country_code": "TT",
+        "asn": "263222",
+        "description": "RVR INTERNATIONAL LIMITED",
+        "handle": "RVR-INTERNATIONAL-LIMITED"
+    },
+    "264793": {
+        "country_code": "TT",
+        "asn": "264793",
+        "description": "Columbus Communications Trinidad Limited",
+        "handle": "COLUMBUS-COMMUNICATIONS-TRINIDAD"
+    },
+    "264811": {
+        "country_code": "TT",
+        "asn": "264811",
+        "description": "AIR LINK COMMUNICATIONS",
+        "handle": "AIR-LINK-COMMUNICATIONS"
+    },
+    "266792": {
+        "country_code": "TT",
+        "asn": "266792",
+        "description": "NOVO COMMUNICATIONS LIMITED",
+        "handle": "NOVO-COMMUNICATIONS-LIMITED"
+    },
+    "270040": {
+        "country_code": "TT",
+        "asn": "270040",
+        "description": "TRICO INDUSTRIES LIMITED",
+        "handle": "TRICO-INDUSTRIES-LIMITED"
+    },
+    "274008": {
+        "country_code": "TT",
+        "asn": "274008",
+        "description": "INDEPENDENT CABLE NETWORK OF TRINIDAD & TOBAGO LIMITED",
+        "handle": "INDEPENDENT-CABLE-NETWORK"
+    },
+    "274045": {
+        "country_code": "TT",
+        "asn": "274045",
+        "description": "CARIBBEAN LATIN AMERICA TECHNOLOGY LIMITED",
+        "handle": "CARIBBEAN-LATIN-AMERICA"
+    }
+}

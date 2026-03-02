@@ -1,0 +1,122 @@
+{
+    "17480": {
+        "country_code": "NC",
+        "asn": "17480",
+        "description": "CAN'L",
+        "handle": "CANL"
+    },
+    "18200": {
+        "country_code": "NC",
+        "asn": "18200",
+        "description": "Office des Postes et des Telecomm. de Nouvelle Caledonie",
+        "handle": "OPT-NC-AS-AP"
+    },
+    "24053": {
+        "country_code": "NC",
+        "asn": "24053",
+        "description": "Data Services Pacific",
+        "handle": "DATASERVICESPACIFIC-AS-AP"
+    },
+    "45345": {
+        "country_code": "NC",
+        "asn": "45345",
+        "description": "Nautile SARL",
+        "handle": "NAUTILE-NC-AS-AP"
+    },
+    "45461": {
+        "country_code": "NC",
+        "asn": "45461",
+        "description": "TeleNet",
+        "handle": "TELENET-AS-AP"
+    },
+    "56055": {
+        "country_code": "NC",
+        "asn": "56055",
+        "description": "Micro Logic Systems",
+        "handle": "MLS-NC"
+    },
+    "56089": {
+        "country_code": "NC",
+        "asn": "56089",
+        "description": "OFFRATEL",
+        "handle": "OFFRATEL-AS-AP"
+    },
+    "131248": {
+        "country_code": "NC",
+        "asn": "131248",
+        "description": "CAN'L",
+        "handle": "CANL-PRO"
+    },
+    "131995": {
+        "country_code": "NC",
+        "asn": "131995",
+        "description": "XL PROGRAMMATION MICRO SARL",
+        "handle": "XLPROG-AS-AP"
+    },
+    "132079": {
+        "country_code": "NC",
+        "asn": "132079",
+        "description": "Office des Postes et des Telecomm. de Nouvelle Caledonie",
+        "handle": "OPT-NC-AS-AP"
+    },
+    "134405": {
+        "country_code": "NC",
+        "asn": "134405",
+        "description": "Data Services Pacific",
+        "handle": "DATASERVICESPACIFIC-AS-AP"
+    },
+    "136402": {
+        "country_code": "NC",
+        "asn": "136402",
+        "description": "Nautile SARL",
+        "handle": "NTL-NC-AS-AP"
+    },
+    "136417": {
+        "country_code": "NC",
+        "asn": "136417",
+        "description": "Canal+ Caledonie",
+        "handle": "CANALPLUSCALEDONIE-AS-AP"
+    },
+    "137243": {
+        "country_code": "NC",
+        "asn": "137243",
+        "description": "ISI.nc",
+        "handle": "ISI-AS-AP"
+    },
+    "140718": {
+        "country_code": "NC",
+        "asn": "140718",
+        "description": "ENGIE PACIFIQUE INFORMATIQUE",
+        "handle": "EPI-AS-AP"
+    },
+    "141197": {
+        "country_code": "NC",
+        "asn": "141197",
+        "description": "Pacific Community",
+        "handle": "PACIFICCOMMUNITY-AS-AP"
+    },
+    "141695": {
+        "country_code": "NC",
+        "asn": "141695",
+        "description": "Pacific Community",
+        "handle": "PACIFICCOMMUNITY-AS-AP"
+    },
+    "147030": {
+        "country_code": "NC",
+        "asn": "147030",
+        "description": "Mynet",
+        "handle": "MYNET-AS-AP"
+    },
+    "149003": {
+        "country_code": "NC",
+        "asn": "149003",
+        "description": "CAN'L",
+        "handle": "CANL-AS-AP"
+    },
+    "149520": {
+        "country_code": "NC",
+        "asn": "149520",
+        "description": "THEMIS",
+        "handle": "THEMIS-AS-AP"
+    }
+}

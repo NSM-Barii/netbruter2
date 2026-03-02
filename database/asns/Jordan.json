@@ -1,0 +1,338 @@
+{
+    "8376": {
+        "country_code": "JO",
+        "asn": "8376",
+        "description": "Jordan Data Communications Company LLC",
+        "handle": "JORDAN-DATA-COMMUNICATIONS"
+    },
+    "8697": {
+        "country_code": "JO",
+        "asn": "8697",
+        "description": "Jordan Telecommunications PSC",
+        "handle": "JTC-AS8697"
+    },
+    "8934": {
+        "country_code": "JO",
+        "asn": "8934",
+        "description": "National Information Technology Center",
+        "handle": "NITC"
+    },
+    "9038": {
+        "country_code": "JO",
+        "asn": "9038",
+        "description": "Al Bahrainia al Urdunia Liltaknia Wa Alitisalat Plc. Co",
+        "handle": "BAT-AS9038"
+    },
+    "9079": {
+        "country_code": "JO",
+        "asn": "9079",
+        "description": "Bahraini Jordanian for Technology and Communications",
+        "handle": "UMNIAH"
+    },
+    "21088": {
+        "country_code": "JO",
+        "asn": "21088",
+        "description": "Network Exchange Technology Co. Ltd.",
+        "handle": "FARAH-AS"
+    },
+    "28730": {
+        "country_code": "JO",
+        "asn": "28730",
+        "description": "Broadband Communications LPS",
+        "handle": "BLINKAS"
+    },
+    "33831": {
+        "country_code": "JO",
+        "asn": "33831",
+        "description": "Royal Hashemite Court",
+        "handle": "RHC-AS"
+    },
+    "35282": {
+        "country_code": "JO",
+        "asn": "35282",
+        "description": "ARAMEX International Ltd. GSO",
+        "handle": "ARAMEX-AS"
+    },
+    "35656": {
+        "country_code": "JO",
+        "asn": "35656",
+        "description": "Jordanian Universities Network L.L.C.",
+        "handle": "JUNET"
+    },
+    "38968": {
+        "country_code": "JO",
+        "asn": "38968",
+        "description": "Abu-Ghazaleh Intellectual Property Ltd.",
+        "handle": "TAGORG"
+    },
+    "39526": {
+        "country_code": "JO",
+        "asn": "39526",
+        "description": "Mohammad Ali Obeidat",
+        "handle": "MAO"
+    },
+    "42912": {
+        "country_code": "JO",
+        "asn": "42912",
+        "description": "Al mouakhah lil khadamat al logesteih wa al itisalat",
+        "handle": "XOLJO"
+    },
+    "44290": {
+        "country_code": "JO",
+        "asn": "44290",
+        "description": "Umniah Mobile Company PLC",
+        "handle": "UMNIAH-JO-AS"
+    },
+    "44702": {
+        "country_code": "JO",
+        "asn": "44702",
+        "description": "JORDANIAN EUROPEAN INTERNET SERVICES CO LLC",
+        "handle": "JCS-AS"
+    },
+    "47887": {
+        "country_code": "JO",
+        "asn": "47887",
+        "description": "AL-HADATHEH LIL-ITISALAT WA AL-TECHNOLOGIA CO.",
+        "handle": "NEU-AS"
+    },
+    "48701": {
+        "country_code": "JO",
+        "asn": "48701",
+        "description": "Cairo Amman Bank PLC",
+        "handle": "CABAS"
+    },
+    "48832": {
+        "country_code": "JO",
+        "asn": "48832",
+        "description": "Jordanian mobile phone services Ltd",
+        "handle": "ZAIN-JO"
+    },
+    "50670": {
+        "country_code": "JO",
+        "asn": "50670",
+        "description": "VTEL HOLDINGS LIMITED/JORDAN CO.",
+        "handle": "VTELJO"
+    },
+    "51958": {
+        "country_code": "JO",
+        "asn": "51958",
+        "description": "The Royal Jordanian Airlines PLC",
+        "handle": "RJNETWORK"
+    },
+    "59451": {
+        "country_code": "JO",
+        "asn": "59451",
+        "description": "Al-Bank Al-Arabi PLC. CO.",
+        "handle": "ARABBANK-AS"
+    },
+    "60302": {
+        "country_code": "JO",
+        "asn": "60302",
+        "description": "AL-BANK AL-AHLI AL-URDONI PLC",
+        "handle": "JORDANAHLIBANK"
+    },
+    "60838": {
+        "country_code": "JO",
+        "asn": "60838",
+        "description": "Jordan Islamic Bank Plc. Co.",
+        "handle": "JISB"
+    },
+    "197921": {
+        "country_code": "JO",
+        "asn": "197921",
+        "description": "Housing Bank for Trade and Finance PLC.",
+        "handle": "HBTF"
+    },
+    "198799": {
+        "country_code": "JO",
+        "asn": "198799",
+        "description": "Umniah Lil-Hawatef Al-Mutanaqelah Co.",
+        "handle": "UMNIAH"
+    },
+    "200666": {
+        "country_code": "JO",
+        "asn": "200666",
+        "description": "Palestine National Fund",
+        "handle": "PNF-JO"
+    },
+    "201982": {
+        "country_code": "JO",
+        "asn": "201982",
+        "description": "Middle East Payment Services Ltd.",
+        "handle": "ASMEPSJO"
+    },
+    "203357": {
+        "country_code": "JO",
+        "asn": "203357",
+        "description": "Emkanat Co for Software Development",
+        "handle": "EMKANAT"
+    },
+    "203931": {
+        "country_code": "JO",
+        "asn": "203931",
+        "description": "Applied Science University (ASU)",
+        "handle": "ASPUAS"
+    },
+    "204327": {
+        "country_code": "JO",
+        "asn": "204327",
+        "description": "Network International Services Limited Jordan Company LLC",
+        "handle": "NETWORK-1"
+    },
+    "204719": {
+        "country_code": "JO",
+        "asn": "204719",
+        "description": "Capital Bank of Jordan (Limited public shareholding)",
+        "handle": "CAPITALBANK"
+    },
+    "205579": {
+        "country_code": "JO",
+        "asn": "205579",
+        "description": "Al Warka Bank for Investment J.S.C.",
+        "handle": "WARKA"
+    },
+    "206060": {
+        "country_code": "JO",
+        "asn": "206060",
+        "description": "Bank al Etihad Ltd",
+        "handle": "UNIONBANK"
+    },
+    "206553": {
+        "country_code": "JO",
+        "asn": "206553",
+        "description": "Hikma Pharmaceuticals LLC",
+        "handle": "HIKMA"
+    },
+    "206608": {
+        "country_code": "JO",
+        "asn": "206608",
+        "description": "Islamic International Arab Bank PLC",
+        "handle": "IIAB"
+    },
+    "207332": {
+        "country_code": "JO",
+        "asn": "207332",
+        "description": "Airport International Group",
+        "handle": "AIG"
+    },
+    "207515": {
+        "country_code": "JO",
+        "asn": "207515",
+        "description": "Arab Commission for Satellite Broadcasting",
+        "handle": "AQABAIX-AS"
+    },
+    "208148": {
+        "country_code": "JO",
+        "asn": "208148",
+        "description": "Jordanian Experts for Information Security LLC",
+        "handle": "JORIST"
+    },
+    "208212": {
+        "country_code": "JO",
+        "asn": "208212",
+        "description": "Smart Platform for Programming and Education LLC trading as 'Virtual Data IT'",
+        "handle": "VIRTUAL-DATA-IT"
+    },
+    "208336": {
+        "country_code": "JO",
+        "asn": "208336",
+        "description": "BANK OF JORDAN CO. LTD.",
+        "handle": "BOJ"
+    },
+    "209029": {
+        "country_code": "JO",
+        "asn": "209029",
+        "description": "Specialized Technical Services (STS) Co.Ltd",
+        "handle": "STS-CLOUD"
+    },
+    "209560": {
+        "country_code": "JO",
+        "asn": "209560",
+        "description": "Capital Bank of Jordan (Limited public shareholding)",
+        "handle": "CAPITALBANK"
+    },
+    "210084": {
+        "country_code": "JO",
+        "asn": "210084",
+        "description": "Jordan Commercial Bank",
+        "handle": "JCB"
+    },
+    "210432": {
+        "country_code": "JO",
+        "asn": "210432",
+        "description": "Al Mousanada Lckhadamat Al Isnad Wa Marakez Al Itisal Co LPS",
+        "handle": "EXTENSYA-AS"
+    },
+    "210813": {
+        "country_code": "JO",
+        "asn": "210813",
+        "description": "Islamic International Arab Bank PLC",
+        "handle": "IIABJO-1"
+    },
+    "210844": {
+        "country_code": "JO",
+        "asn": "210844",
+        "description": "Credit Card Service Company LPS",
+        "handle": "CSC-JO"
+    },
+    "211260": {
+        "country_code": "JO",
+        "asn": "211260",
+        "description": "Petra for education Limited Public Shareholding",
+        "handle": "PTERAUNI"
+    },
+    "211826": {
+        "country_code": "JO",
+        "asn": "211826",
+        "description": "Istqrar for Servers Services Ltd",
+        "handle": "ISTQSERVERS-AS"
+    },
+    "211842": {
+        "country_code": "JO",
+        "asn": "211842",
+        "description": "Cairo Amman Bank PLC",
+        "handle": "CAB-JO"
+    },
+    "211917": {
+        "country_code": "JO",
+        "asn": "211917",
+        "description": "AL Nayi for Information and Communication Consulting Company LLC",
+        "handle": "NAITEL"
+    },
+    "212042": {
+        "country_code": "JO",
+        "asn": "212042",
+        "description": "Istqrar for Servers Services Ltd",
+        "handle": "AS-ISTQSERVERS"
+    },
+    "212507": {
+        "country_code": "JO",
+        "asn": "212507",
+        "description": "Royal Hashemite Court",
+        "handle": "RHCJO"
+    },
+    "214137": {
+        "country_code": "JO",
+        "asn": "214137",
+        "description": "Invest Bank LPS",
+        "handle": "INVESTBANK"
+    },
+    "214244": {
+        "country_code": "JO",
+        "asn": "214244",
+        "description": "Arab Jordan investment bank PLC",
+        "handle": "AJIB"
+    },
+    "215270": {
+        "country_code": "JO",
+        "asn": "215270",
+        "description": "Madfoo3atkom for electronic payment co PJSL",
+        "handle": "MADFOATCOM"
+    },
+    "396076": {
+        "country_code": "JO",
+        "asn": "396076",
+        "description": "Jordan Petroleum Refinery PLC",
+        "handle": "JPRCJO"
+    }
+}

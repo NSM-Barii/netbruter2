@@ -1,0 +1,86 @@
+{
+    "3208": {
+        "country_code": "DZ",
+        "asn": "3208",
+        "description": "Algerian Academic Research Network",
+        "handle": "ARN"
+    },
+    "16214": {
+        "country_code": "DZ",
+        "asn": "16214",
+        "description": "C.E.R.I.S.T.",
+        "handle": "CERIST"
+    },
+    "21391": {
+        "country_code": "DZ",
+        "asn": "21391",
+        "description": "Algerian Broadcasting (Tele Diffusion d'Algerie TDA)",
+        "handle": "TDA-AS"
+    },
+    "33774": {
+        "country_code": "DZ",
+        "asn": "33774",
+        "description": "Telecom Algeria",
+        "handle": "DJAWEB"
+    },
+    "33779": {
+        "country_code": "DZ",
+        "asn": "33779",
+        "description": "Wataniya Telecom Algerie",
+        "handle": "WATANIYA-TELECOM-AS"
+    },
+    "36891": {
+        "country_code": "DZ",
+        "asn": "36891",
+        "description": "Icosnet SPA",
+        "handle": "ICOSNET-AS"
+    },
+    "36947": {
+        "country_code": "DZ",
+        "asn": "36947",
+        "description": "Telecom Algeria",
+        "handle": "ALGTEL-AS"
+    },
+    "327712": {
+        "country_code": "DZ",
+        "asn": "327712",
+        "description": "Telecom Algeria",
+        "handle": "ATM"
+    },
+    "327877": {
+        "country_code": "DZ",
+        "asn": "327877",
+        "description": "Electronic Business Services eBS",
+        "handle": "EBS"
+    },
+    "327931": {
+        "country_code": "DZ",
+        "asn": "327931",
+        "description": "Optimum Telecom Algeria",
+        "handle": "OPTIMUM-TELECOM-ALGERIA"
+    },
+    "328393": {
+        "country_code": "DZ",
+        "asn": "328393",
+        "description": "Algerie Telecom Satellite JSC",
+        "handle": "ALGERIE-TELECOM"
+    },
+    "328921": {
+        "country_code": "DZ",
+        "asn": "328921",
+        "description": "JSC HASNAOUI TELECOM ALGERIE",
+        "handle": "JHTA-AS"
+    },
+    "329494": {
+        "country_code": "DZ",
+        "asn": "329494",
+        "description": "AYRADE",
+        "handle": "AYRADE"
+    },
+    "329667": {
+        "country_code": "DZ",
+        "asn": "329667",
+        "description": "EURL HOST ARTS",
+        "handle": "EURL-HOST-ARTS"
+    }
+}

@@ -1,0 +1,1250 @@
+{
+    "4007": {
+        "country_code": "NP",
+        "asn": "4007",
+        "description": "Subisu Cablenet",
+        "handle": "SUBISU-CABLENET-AS-AP"
+    },
+    "4613": {
+        "country_code": "NP",
+        "asn": "4613",
+        "description": "Mercantile Office Systems",
+        "handle": "MOS-NP"
+    },
+    "17412": {
+        "country_code": "NP",
+        "asn": "17412",
+        "description": "Internet Exchange Nepal",
+        "handle": "NPIX-AS-AP"
+    },
+    "17501": {
+        "country_code": "NP",
+        "asn": "17501",
+        "description": "WorldLink Communications",
+        "handle": "WLINK-NEPAL-AS-AP"
+    },
+    "18222": {
+        "country_code": "NP",
+        "asn": "18222",
+        "description": "Data Hub Pvt. Ltd.",
+        "handle": "DATAHUB-AS-AP"
+    },
+    "18395": {
+        "country_code": "NP",
+        "asn": "18395",
+        "description": "Airwave Pvt. Ltd.",
+        "handle": "IBSSNET-NP"
+    },
+    "23647": {
+        "country_code": "NP",
+        "asn": "23647",
+        "description": "Communications & Communicate Nepal Pvt Ltd",
+        "handle": "CCNEP-AS-NP"
+    },
+    "23672": {
+        "country_code": "NP",
+        "asn": "23672",
+        "description": "Airwave Pvt. Ltd.",
+        "handle": "IBSSNET-NP"
+    },
+    "23752": {
+        "country_code": "NP",
+        "asn": "23752",
+        "description": "Nepal Telecommunications Corporation",
+        "handle": "NPTELECOM-NP-AS"
+    },
+    "23866": {
+        "country_code": "NP",
+        "asn": "23866",
+        "description": "Airwave Pvt. Ltd.",
+        "handle": "IBSSNET-NP"
+    },
+    "23928": {
+        "country_code": "NP",
+        "asn": "23928",
+        "description": "Airwave Pvt. Ltd.",
+        "handle": "IBSSNET-NP"
+    },
+    "24123": {
+        "country_code": "NP",
+        "asn": "24123",
+        "description": "Vianet Communications Pvt Ltd",
+        "handle": "VIANET-AS-NP"
+    },
+    "24474": {
+        "country_code": "NP",
+        "asn": "24474",
+        "description": "Nepal R&E Network",
+        "handle": "ASNPANYCAST"
+    },
+    "24503": {
+        "country_code": "NP",
+        "asn": "24503",
+        "description": "Communications & Communicate Nepal Pvt Ltd",
+        "handle": "HIMALTECH-AS-AP"
+    },
+    "24504": {
+        "country_code": "NP",
+        "asn": "24504",
+        "description": "ComputerLand Communication System Ltd.",
+        "handle": "COMPLAND-AS-NP"
+    },
+    "24550": {
+        "country_code": "NP",
+        "asn": "24550",
+        "description": "Websurfer Nepal Communication System Pvt. Ltd",
+        "handle": "WEBSURFERNP-AS-NP"
+    },
+    "38217": {
+        "country_code": "NP",
+        "asn": "38217",
+        "description": "Dataspace Pvt. Ltd.",
+        "handle": "DS-AS-NP"
+    },
+    "38533": {
+        "country_code": "NP",
+        "asn": "38533",
+        "description": "Mitra Network Private Limited",
+        "handle": "MITRANP-AS"
+    },
+    "38565": {
+        "country_code": "NP",
+        "asn": "38565",
+        "description": "Ncell Pty. Ltd.",
+        "handle": "NCELL-AS-NP"
+    },
+    "45157": {
+        "country_code": "NP",
+        "asn": "45157",
+        "description": "Mercantile Communications Pvt Ltd",
+        "handle": "MERCANTILE-INTERNATIONAL-TRANSIT-AS-AP"
+    },
+    "45170": {
+        "country_code": "NP",
+        "asn": "45170",
+        "description": "Nepal R&E Network",
+        "handle": "NREN-AS-NP"
+    },
+    "45274": {
+        "country_code": "NP",
+        "asn": "45274",
+        "description": "WorldLink Communications",
+        "handle": "WORLDLINK-INTERNATIONAL-TRANSIT-AS-AP"
+    },
+    "45353": {
+        "country_code": "NP",
+        "asn": "45353",
+        "description": "National Information Technology Center",
+        "handle": "NITC-AS-AP"
+    },
+    "45424": {
+        "country_code": "NP",
+        "asn": "45424",
+        "description": "Himalayan Online Services",
+        "handle": "HONS-AS-NP"
+    },
+    "45494": {
+        "country_code": "NP",
+        "asn": "45494",
+        "description": "Nepal R&E Network",
+        "handle": "LAHAI-SG"
+    },
+    "45650": {
+        "country_code": "NP",
+        "asn": "45650",
+        "description": "VIA NET COMMUNICATION PUBLIC LIMITED",
+        "handle": "VIANET-NP"
+    },
+    "45811": {
+        "country_code": "NP",
+        "asn": "45811",
+        "description": "SATELINK NEPAL PVT. LTD.",
+        "handle": "SATELINK-AS-AP"
+    },
+    "45845": {
+        "country_code": "NP",
+        "asn": "45845",
+        "description": "Communications & Communicate Nepal Pvt Ltd",
+        "handle": "NEPAL-IIG-AS"
+    },
+    "55427": {
+        "country_code": "NP",
+        "asn": "55427",
+        "description": "BroadLink Networks and Communications",
+        "handle": "BROADLINK-AS-AP"
+    },
+    "55726": {
+        "country_code": "NP",
+        "asn": "55726",
+        "description": "Nepal Doorsanchar Company Limited",
+        "handle": "NDCL-AS-AP"
+    },
+    "55915": {
+        "country_code": "NP",
+        "asn": "55915",
+        "description": "Classic Tech Pvt. Ltd.",
+        "handle": "CLASSIC-NP"
+    },
+    "56196": {
+        "country_code": "NP",
+        "asn": "56196",
+        "description": "Airwave Pvt. Ltd.",
+        "handle": "IBSSNET-NP"
+    },
+    "58413": {
+        "country_code": "NP",
+        "asn": "58413",
+        "description": "Nepal Doorsanchar Company Limited",
+        "handle": "NTCPTN-AS-AP"
+    },
+    "58433": {
+        "country_code": "NP",
+        "asn": "58433",
+        "description": "Himalayan Bank Ltd",
+        "handle": "HIMALAYANBANK01-NP"
+    },
+    "58456": {
+        "country_code": "NP",
+        "asn": "58456",
+        "description": "Institute of Engineering Pulchowk Campus",
+        "handle": "IOE-NET-NP-AS"
+    },
+    "58459": {
+        "country_code": "NP",
+        "asn": "58459",
+        "description": "Websurfer International Transit",
+        "handle": "WEBSURFER-INTERNATIONAL-TRANSIT"
+    },
+    "58504": {
+        "country_code": "NP",
+        "asn": "58504",
+        "description": "Techminds Network Pvt. Ltd.",
+        "handle": "TECHMINDS-NP"
+    },
+    "59370": {
+        "country_code": "NP",
+        "asn": "59370",
+        "description": "Access World Tech Pvt. Ltd.",
+        "handle": "ACCESS-NP"
+    },
+    "63968": {
+        "country_code": "NP",
+        "asn": "63968",
+        "description": "Fiberworld Communication Pvt.ltd",
+        "handle": "FWCPL-AS-AP"
+    },
+    "63991": {
+        "country_code": "NP",
+        "asn": "63991",
+        "description": "Arrownet Pvt.Ltd",
+        "handle": "ARROWNETPVTLTD-NP"
+    },
+    "131266": {
+        "country_code": "NP",
+        "asn": "131266",
+        "description": "Udaya Cable Network Pvt. Ltd.",
+        "handle": "UCNPL-AS-AP"
+    },
+    "131341": {
+        "country_code": "NP",
+        "asn": "131341",
+        "description": "Department of Information Technology Government of Nepal",
+        "handle": "DOITGON-AS-AP"
+    },
+    "132017": {
+        "country_code": "NP",
+        "asn": "132017",
+        "description": "N. Net Pvt. Ltd.",
+        "handle": "N-AS-AP"
+    },
+    "132210": {
+        "country_code": "NP",
+        "asn": "132210",
+        "description": "Ashwins Medical College and Hospitals Pvt. Ltd.",
+        "handle": "AMCAHPL-AS-AP"
+    },
+    "132270": {
+        "country_code": "NP",
+        "asn": "132270",
+        "description": "Nabil Bank Limited",
+        "handle": "NABILBANKLIMITED-AS-AP"
+    },
+    "132407": {
+        "country_code": "NP",
+        "asn": "132407",
+        "description": "Verisk Nepal Pvt. Ltd.",
+        "handle": "VERISK-AS-AP"
+    },
+    "132710": {
+        "country_code": "NP",
+        "asn": "132710",
+        "description": "Hash Cnet Private Limited",
+        "handle": "HASHCETPVTLTD-AS-AP"
+    },
+    "132799": {
+        "country_code": "NP",
+        "asn": "132799",
+        "description": "DISH MEDIA NETWORK PUBLIC LIMITED",
+        "handle": "DMNPL-AS-AP"
+    },
+    "132856": {
+        "country_code": "NP",
+        "asn": "132856",
+        "description": "Kathmandu University",
+        "handle": "KU-AS-NP"
+    },
+    "132877": {
+        "country_code": "NP",
+        "asn": "132877",
+        "description": "Kalash Services Pvt Ltd",
+        "handle": "KSPL-AS-AP"
+    },
+    "133092": {
+        "country_code": "NP",
+        "asn": "133092",
+        "description": "F-1 Soft International Pvt. Ltd.",
+        "handle": "F1SOFT-NP"
+    },
+    "133128": {
+        "country_code": "NP",
+        "asn": "133128",
+        "description": "Machhapuchchhre Bank Limited",
+        "handle": "MBL-AS-AP"
+    },
+    "133149": {
+        "country_code": "NP",
+        "asn": "133149",
+        "description": "Konnect Nepal Networks Pvt Ltd",
+        "handle": "KONNECTNEPAL-AS-AP"
+    },
+    "133179": {
+        "country_code": "NP",
+        "asn": "133179",
+        "description": "Syntegrate",
+        "handle": "SYNTEGRATE-AS-AP"
+    },
+    "133185": {
+        "country_code": "NP",
+        "asn": "133185",
+        "description": "WorldLink Communications",
+        "handle": "WLINK-AS-AP"
+    },
+    "133190": {
+        "country_code": "NP",
+        "asn": "133190",
+        "description": "eSewa Private Limited",
+        "handle": "ESEWALIMITED-AS-AP"
+    },
+    "133923": {
+        "country_code": "NP",
+        "asn": "133923",
+        "description": "Kantipur Publications Limited",
+        "handle": "KANTIPUR-AS-AP"
+    },
+    "133925": {
+        "country_code": "NP",
+        "asn": "133925",
+        "description": "Global IME Bank Limited",
+        "handle": "GLOBALBANKLIMITED-AS-AP"
+    },
+    "134467": {
+        "country_code": "NP",
+        "asn": "134467",
+        "description": "Syangja Media",
+        "handle": "SMPL-AS-AP"
+    },
+    "134504": {
+        "country_code": "NP",
+        "asn": "134504",
+        "description": "Everest Link Pvt. Ltd",
+        "handle": "EVEREST-AS-AP"
+    },
+    "134951": {
+        "country_code": "NP",
+        "asn": "134951",
+        "description": "Ministry of Finance Government of Nepal",
+        "handle": "MOFGON-AS-AP"
+    },
+    "134995": {
+        "country_code": "NP",
+        "asn": "134995",
+        "description": "I. ZONE PVT. LTD.",
+        "handle": "IZONE-AS-AP"
+    },
+    "135043": {
+        "country_code": "NP",
+        "asn": "135043",
+        "description": "Chitrawan Unique Net Private Limited",
+        "handle": "CUNPL-AS-AP"
+    },
+    "135044": {
+        "country_code": "NP",
+        "asn": "135044",
+        "description": "Bihunkot Internet Private limited",
+        "handle": "BIPL-AS-AP"
+    },
+    "135303": {
+        "country_code": "NP",
+        "asn": "135303",
+        "description": "N.I.T.V Streamz Pvt. Ltd",
+        "handle": "NSPL-AS-AP"
+    },
+    "135327": {
+        "country_code": "NP",
+        "asn": "135327",
+        "description": "Asianet",
+        "handle": "ANACPL-AS-AP"
+    },
+    "135334": {
+        "country_code": "NP",
+        "asn": "135334",
+        "description": "Umrao Datacenter Pvt Ltd",
+        "handle": "UDPL-AS-AP"
+    },
+    "135335": {
+        "country_code": "NP",
+        "asn": "135335",
+        "description": "Max Net Solutions Pvt Ltd",
+        "handle": "MAXNET-AS-AP"
+    },
+    "135337": {
+        "country_code": "NP",
+        "asn": "135337",
+        "description": "Cloud Himalaya Pvt. Ltd",
+        "handle": "CHPL-AS-AP"
+    },
+    "135640": {
+        "country_code": "NP",
+        "asn": "135640",
+        "description": "Nepal International Trade Center Private Limited",
+        "handle": "NITCPL-AS-AP"
+    },
+    "136047": {
+        "country_code": "NP",
+        "asn": "136047",
+        "description": "Info Developers Pvt. Ltd.",
+        "handle": "INFODEV-AS-AP"
+    },
+    "136219": {
+        "country_code": "NP",
+        "asn": "136219",
+        "description": "PRABHU BANK LIMITED",
+        "handle": "PRABHUBANKLIMITED-AS-AP"
+    },
+    "136380": {
+        "country_code": "NP",
+        "asn": "136380",
+        "description": "Web Networks Pvt. Ltd.",
+        "handle": "WEB-NETWORKS-AS-AP"
+    },
+    "136461": {
+        "country_code": "NP",
+        "asn": "136461",
+        "description": "Virtual Network Pvt.Ltd",
+        "handle": "VNP-AS-AP"
+    },
+    "136477": {
+        "country_code": "NP",
+        "asn": "136477",
+        "description": "P.D.S. Server Network Pvt. Ltd.",
+        "handle": "PSNPL-AS-AP"
+    },
+    "136530": {
+        "country_code": "NP",
+        "asn": "136530",
+        "description": "Ultranet Communications",
+        "handle": "ULTRANET-AS-AP"
+    },
+    "136740": {
+        "country_code": "NP",
+        "asn": "136740",
+        "description": "Sky Cable T.V. Pvt. Ltd",
+        "handle": "SCTPL-AS-AP"
+    },
+    "136762": {
+        "country_code": "NP",
+        "asn": "136762",
+        "description": "Subisu Cablenet",
+        "handle": "SUBISUCABLENET-AS-AP"
+    },
+    "136763": {
+        "country_code": "NP",
+        "asn": "136763",
+        "description": "Fiberworld Communication Pvt.ltd",
+        "handle": "FWCPL-AS-AP"
+    },
+    "136776": {
+        "country_code": "NP",
+        "asn": "136776",
+        "description": "Classic Tech Pvt. Ltd.",
+        "handle": "CLASSIC-AS-AP"
+    },
+    "136794": {
+        "country_code": "NP",
+        "asn": "136794",
+        "description": "Agricultural Development Bank Ltd",
+        "handle": "ADBL-AS-AP"
+    },
+    "136895": {
+        "country_code": "NP",
+        "asn": "136895",
+        "description": "VIA NET COMMUNICATION PUBLIC LIMITED",
+        "handle": "VIANET-AS-AP"
+    },
+    "136905": {
+        "country_code": "NP",
+        "asn": "136905",
+        "description": "Eastlink Technology Pvt Ltd",
+        "handle": "ETPL-AS-AP"
+    },
+    "136908": {
+        "country_code": "NP",
+        "asn": "136908",
+        "description": "Sky Broadband Pvt. Ltd",
+        "handle": "SBPL-AS-AP"
+    },
+    "136979": {
+        "country_code": "NP",
+        "asn": "136979",
+        "description": "SANIMA BANK LIMITED",
+        "handle": "SANIMABANKLIMITED-AS-AP"
+    },
+    "137011": {
+        "country_code": "NP",
+        "asn": "137011",
+        "description": "Highland International Pvt Ltd",
+        "handle": "HIPL-AS-AP"
+    },
+    "137080": {
+        "country_code": "NP",
+        "asn": "137080",
+        "description": "Firstlink Communications Pvt. Ltd.",
+        "handle": "FCPL-AS-AP"
+    },
+    "137187": {
+        "country_code": "NP",
+        "asn": "137187",
+        "description": "WorldLink Communications",
+        "handle": "WLINK-CDN-AS-AP"
+    },
+    "137201": {
+        "country_code": "NP",
+        "asn": "137201",
+        "description": "Nepal College of Information Technology",
+        "handle": "NCOIT-AS-AP"
+    },
+    "137209": {
+        "country_code": "NP",
+        "asn": "137209",
+        "description": "Oasis Broadband Internet Pvt. Ltd.",
+        "handle": "OBIPL-AS-AP"
+    },
+    "137275": {
+        "country_code": "NP",
+        "asn": "137275",
+        "description": "Firstlink Communications Pvt. Ltd.",
+        "handle": "FCPL-AS-AP"
+    },
+    "137521": {
+        "country_code": "NP",
+        "asn": "137521",
+        "description": "Kath Codex Pvt. Ltd.",
+        "handle": "AS-KATHCODEX"
+    },
+    "137580": {
+        "country_code": "NP",
+        "asn": "137580",
+        "description": "Everest Wireless Network pvt. ltd",
+        "handle": "EWNET-AS-AP"
+    },
+    "137854": {
+        "country_code": "NP",
+        "asn": "137854",
+        "description": "Websurfer Nepal Communication System Pvt. Ltd",
+        "handle": "WEBSURFERNP-AS-NP"
+    },
+    "137880": {
+        "country_code": "NP",
+        "asn": "137880",
+        "description": "Prime Network Pvt.ltd",
+        "handle": "PRIME-AS-AP"
+    },
+    "137978": {
+        "country_code": "NP",
+        "asn": "137978",
+        "description": "CDS and Clearing Ltd",
+        "handle": "CDS-CLEARING-AS-AP"
+    },
+    "138350": {
+        "country_code": "NP",
+        "asn": "138350",
+        "description": "PRABHU DIGITAL PUBLIC LIMITED",
+        "handle": "PRABHUTV-AS-AP"
+    },
+    "138388": {
+        "country_code": "NP",
+        "asn": "138388",
+        "description": "Pokhara Internet Pvt. Ltd.",
+        "handle": "POKHARA-AS-AP"
+    },
+    "138478": {
+        "country_code": "NP",
+        "asn": "138478",
+        "description": "Smart Net Communication Pvt Ltd",
+        "handle": "SNCPL-AS-AP"
+    },
+    "138495": {
+        "country_code": "NP",
+        "asn": "138495",
+        "description": "Alisha Communication Link Pvt.Ltd",
+        "handle": "ALISHA-AS-AP"
+    },
+    "138500": {
+        "country_code": "NP",
+        "asn": "138500",
+        "description": "FIBERTEL FIBERNET PVT. LTD",
+        "handle": "FIBERTEL2-AS-AP"
+    },
+    "138546": {
+        "country_code": "NP",
+        "asn": "138546",
+        "description": "Ncell Pty. Ltd.",
+        "handle": "NCELL-AS-AP"
+    },
+    "138605": {
+        "country_code": "NP",
+        "asn": "138605",
+        "description": "NIC ASIA Bank",
+        "handle": "NICASIABANK-AS-AP"
+    },
+    "138620": {
+        "country_code": "NP",
+        "asn": "138620",
+        "description": "Sajilo Net Pvt Ltd",
+        "handle": "SJN-AS-AP"
+    },
+    "138933": {
+        "country_code": "NP",
+        "asn": "138933",
+        "description": "Fiber Net Communication Pvt. Ltd.",
+        "handle": "FNCPL-AS-AP"
+    },
+    "138964": {
+        "country_code": "NP",
+        "asn": "138964",
+        "description": "Barahi Internet Technologies Pvt. Ltd.",
+        "handle": "BARAHI-AS-AP"
+    },
+    "139022": {
+        "country_code": "NP",
+        "asn": "139022",
+        "description": "NEPAL RASTRA BANK",
+        "handle": "NEPALRASTRABANK-AS-AP"
+    },
+    "139196": {
+        "country_code": "NP",
+        "asn": "139196",
+        "description": "IME Group Pvt. Ltd",
+        "handle": "IMEGROUPPVTLTD-AS-AP"
+    },
+    "139224": {
+        "country_code": "NP",
+        "asn": "139224",
+        "description": "Limpid ICT Solution Pvt. Ltd",
+        "handle": "LISPL-AS-AP"
+    },
+    "139237": {
+        "country_code": "NP",
+        "asn": "139237",
+        "description": "Nepal Police",
+        "handle": "NEPALPOLICE-AS-AP"
+    },
+    "139256": {
+        "country_code": "NP",
+        "asn": "139256",
+        "description": "National Information Technology Center",
+        "handle": "NITC-AS-AP"
+    },
+    "139261": {
+        "country_code": "NP",
+        "asn": "139261",
+        "description": "Metrolink Business Group Pvt Ltd",
+        "handle": "METROLINK-AS-AP"
+    },
+    "139701": {
+        "country_code": "NP",
+        "asn": "139701",
+        "description": "Plasma Technologist Pvt Ltd",
+        "handle": "PTPL-AS-AP"
+    },
+    "139741": {
+        "country_code": "NP",
+        "asn": "139741",
+        "description": "World Fiber Net Pvt. Ltd.",
+        "handle": "WFNPL-AS-AP"
+    },
+    "139810": {
+        "country_code": "NP",
+        "asn": "139810",
+        "description": "Sky Broadband Pvt. Ltd",
+        "handle": "SBPL-AS-AP"
+    },
+    "139902": {
+        "country_code": "NP",
+        "asn": "139902",
+        "description": "SURKHET CABLE NET T.V. PVT. LTD.",
+        "handle": "SCNPL-AS-AP"
+    },
+    "139907": {
+        "country_code": "NP",
+        "asn": "139907",
+        "description": "PARSA TELECOMMUNICATION PVT. LTD.",
+        "handle": "SAJIO-AS-AP"
+    },
+    "139922": {
+        "country_code": "NP",
+        "asn": "139922",
+        "description": "DISH MEDIA NETWORK PUBLIC LIMITED",
+        "handle": "DMNPL-AS-AP"
+    },
+    "140050": {
+        "country_code": "NP",
+        "asn": "140050",
+        "description": "Next Geekers Pvt. Ltd.",
+        "handle": "NG-AS-AP"
+    },
+    "140072": {
+        "country_code": "NP",
+        "asn": "140072",
+        "description": "Fiberworld Communication Pvt.ltd",
+        "handle": "FWCPL-AS-AP"
+    },
+    "140324": {
+        "country_code": "NP",
+        "asn": "140324",
+        "description": "Airlink Communication Service Provider Pvt. Ltd.",
+        "handle": "ACSPPL-AS-AP"
+    },
+    "140604": {
+        "country_code": "NP",
+        "asn": "140604",
+        "description": "BroadLink Networks and Communications",
+        "handle": "BROADLINK-AS-AP"
+    },
+    "140948": {
+        "country_code": "NP",
+        "asn": "140948",
+        "description": "Neo Link Pvt. Ltd.",
+        "handle": "NEOLINKPVTLTD-AS-AP"
+    },
+    "140973": {
+        "country_code": "NP",
+        "asn": "140973",
+        "description": "Life Net Pvt. Ltd.",
+        "handle": "LNPL-AS-AP"
+    },
+    "140989": {
+        "country_code": "NP",
+        "asn": "140989",
+        "description": "Broad Band Nepal Pvt. Ltd.",
+        "handle": "BBNPL-AS-AP"
+    },
+    "141024": {
+        "country_code": "NP",
+        "asn": "141024",
+        "description": "Big Marshyangdi Net Pvt. Ltd.",
+        "handle": "BMNPL-AS-AP"
+    },
+    "141032": {
+        "country_code": "NP",
+        "asn": "141032",
+        "description": "Nepalink Communication Pvt. Ltd.",
+        "handle": "NEPALINK-AS-AP"
+    },
+    "141047": {
+        "country_code": "NP",
+        "asn": "141047",
+        "description": "Nepal Digital Service Pvt. Ltd.",
+        "handle": "NDSPL-AS-AP"
+    },
+    "141175": {
+        "country_code": "NP",
+        "asn": "141175",
+        "description": "Lightstream Nepal",
+        "handle": "LNPL-AS-AP"
+    },
+    "141177": {
+        "country_code": "NP",
+        "asn": "141177",
+        "description": "VIA NET COMMUNICATION PUBLIC LIMITED",
+        "handle": "VIANET-AS-AP"
+    },
+    "141189": {
+        "country_code": "NP",
+        "asn": "141189",
+        "description": "Meta Link Private Limited",
+        "handle": "MLPL-AS-AP"
+    },
+    "141240": {
+        "country_code": "NP",
+        "asn": "141240",
+        "description": "Nepal Investment Bank Limited",
+        "handle": "NIBL-AS-AP"
+    },
+    "141349": {
+        "country_code": "NP",
+        "asn": "141349",
+        "description": "Prime Tech Solution Pvt Ltd",
+        "handle": "PTSPL-AS-AP"
+    },
+    "141410": {
+        "country_code": "NP",
+        "asn": "141410",
+        "description": "Airson Internet Pvt Ltd",
+        "handle": "AIPL-AS-AP"
+    },
+    "141459": {
+        "country_code": "NP",
+        "asn": "141459",
+        "description": "Clean Network Pvt. Ltd",
+        "handle": "CLEAN-AS-AP"
+    },
+    "141689": {
+        "country_code": "NP",
+        "asn": "141689",
+        "description": "LNT Infotech Pvt Ltd",
+        "handle": "LIPL-AS-AP"
+    },
+    "141691": {
+        "country_code": "NP",
+        "asn": "141691",
+        "description": "Waling Internet Pvt. Ltd.",
+        "handle": "WIPL-AS-AP"
+    },
+    "141703": {
+        "country_code": "NP",
+        "asn": "141703",
+        "description": "Hamro IXP",
+        "handle": "HAMRO-AS-AP"
+    },
+    "141732": {
+        "country_code": "NP",
+        "asn": "141732",
+        "description": "Aone Network Pvt. Ltd",
+        "handle": "ANPL-AS-AP"
+    },
+    "141755": {
+        "country_code": "NP",
+        "asn": "141755",
+        "description": "Nepali Army",
+        "handle": "NEPALIARMY-AS-AP"
+    },
+    "141767": {
+        "country_code": "NP",
+        "asn": "141767",
+        "description": "C G Communications Pvt. Ltd",
+        "handle": "CG-COMMUNICATION-AS-AP"
+    },
+    "142008": {
+        "country_code": "NP",
+        "asn": "142008",
+        "description": "Nepal Digital Payments Company Limited",
+        "handle": "NDPCL-AS-AP"
+    },
+    "142053": {
+        "country_code": "NP",
+        "asn": "142053",
+        "description": "Infonet Communication Private Limited",
+        "handle": "INFONET2-AS-AP"
+    },
+    "142065": {
+        "country_code": "NP",
+        "asn": "142065",
+        "description": "Wifi Nepal Private Limited",
+        "handle": "WIFINEPAL-AS-AP"
+    },
+    "142133": {
+        "country_code": "NP",
+        "asn": "142133",
+        "description": "Kiran Cable Network Pvt Ltd",
+        "handle": "KIRANCABLENETWORKPVTLTD-AS-AP"
+    },
+    "142246": {
+        "country_code": "NP",
+        "asn": "142246",
+        "description": "F-1 Soft International Pvt. Ltd.",
+        "handle": "F1SOFT-AS-AP"
+    },
+    "142261": {
+        "country_code": "NP",
+        "asn": "142261",
+        "description": "Next Geekers Pvt. Ltd.",
+        "handle": "NG-AS-AP"
+    },
+    "142272": {
+        "country_code": "NP",
+        "asn": "142272",
+        "description": "Mega Cable",
+        "handle": "MEGA-AS-AP"
+    },
+    "142297": {
+        "country_code": "NP",
+        "asn": "142297",
+        "description": "Smart Link Network Pvt Ltd",
+        "handle": "SMARTLINK-AS-AP"
+    },
+    "142408": {
+        "country_code": "NP",
+        "asn": "142408",
+        "description": "K.R.B Net Pvt Ltd",
+        "handle": "KRBNETPVTLTD-AS-AP"
+    },
+    "142556": {
+        "country_code": "NP",
+        "asn": "142556",
+        "description": "Life Net Pvt. Ltd.",
+        "handle": "LNPL-AS-AP"
+    },
+    "142606": {
+        "country_code": "NP",
+        "asn": "142606",
+        "description": "Shangrila Informatics Private Limited",
+        "handle": "SHANGRILA-AS-AP"
+    },
+    "142621": {
+        "country_code": "NP",
+        "asn": "142621",
+        "description": "NPS",
+        "handle": "NPSPL-AS-AP"
+    },
+    "142626": {
+        "country_code": "NP",
+        "asn": "142626",
+        "description": "Cloud Himalaya Inc. Nepal Pvt. Ltd.",
+        "handle": "CLOUD-AS-AP"
+    },
+    "146947": {
+        "country_code": "NP",
+        "asn": "146947",
+        "description": "Nimble Network Pvt Ltd",
+        "handle": "NNPL-AS-AP"
+    },
+    "147184": {
+        "country_code": "NP",
+        "asn": "147184",
+        "description": "Lumbini Max",
+        "handle": "LMDCN-AS-AP"
+    },
+    "148979": {
+        "country_code": "NP",
+        "asn": "148979",
+        "description": "Fiberworld Communication Pvt.ltd",
+        "handle": "FWCPL-AS-AP"
+    },
+    "149034": {
+        "country_code": "NP",
+        "asn": "149034",
+        "description": "Unite Networks",
+        "handle": "UNITENETWORKS-AS-AP"
+    },
+    "149037": {
+        "country_code": "NP",
+        "asn": "149037",
+        "description": "Mavorion Systems",
+        "handle": "MAVORION-AS-AP"
+    },
+    "149417": {
+        "country_code": "NP",
+        "asn": "149417",
+        "description": "EastLink Cloud Private Limited",
+        "handle": "ECPL-AS-AP"
+    },
+    "149631": {
+        "country_code": "NP",
+        "asn": "149631",
+        "description": "IOE Pashchimanchal Campus",
+        "handle": "IPC-AS-AP"
+    },
+    "149652": {
+        "country_code": "NP",
+        "asn": "149652",
+        "description": "Nepal Bank Limited",
+        "handle": "NBL-AS-AP"
+    },
+    "149801": {
+        "country_code": "NP",
+        "asn": "149801",
+        "description": "C.G. Education Pvt. Ltd",
+        "handle": "CEPL-AS-AP"
+    },
+    "149812": {
+        "country_code": "NP",
+        "asn": "149812",
+        "description": "WorldLink Communications",
+        "handle": "WLINK-AS-AP"
+    },
+    "149817": {
+        "country_code": "NP",
+        "asn": "149817",
+        "description": "Cloud Eight International Pvt. Ltd.",
+        "handle": "CEIPL-AS-AP"
+    },
+    "149866": {
+        "country_code": "NP",
+        "asn": "149866",
+        "description": "Super Sitapaila Cable Net Pvt. Ltd",
+        "handle": "SSCNPL-AS-AP"
+    },
+    "150131": {
+        "country_code": "NP",
+        "asn": "150131",
+        "description": "D.G. Link Network Pvt Ltd",
+        "handle": "DLNPL-AS-AP"
+    },
+    "150133": {
+        "country_code": "NP",
+        "asn": "150133",
+        "description": "Made Infotech Pvt Ltd",
+        "handle": "MIPL-AS-AP"
+    },
+    "150138": {
+        "country_code": "NP",
+        "asn": "150138",
+        "description": "Nepal Electricity Authority",
+        "handle": "NEA-AS-AP"
+    },
+    "150331": {
+        "country_code": "NP",
+        "asn": "150331",
+        "description": "Beni Communication Private Limited",
+        "handle": "BCPL-AS-AP"
+    },
+    "150418": {
+        "country_code": "NP",
+        "asn": "150418",
+        "description": "Ningsuan Technology Nepal Private Limited",
+        "handle": "NTNPL-AS-AP"
+    },
+    "150424": {
+        "country_code": "NP",
+        "asn": "150424",
+        "description": "Janaki Net Link",
+        "handle": "JNLPL-AS-AP"
+    },
+    "150691": {
+        "country_code": "NP",
+        "asn": "150691",
+        "description": "Prime Commercial Bank Ltd",
+        "handle": "PCBL-AS-AP"
+    },
+    "150780": {
+        "country_code": "NP",
+        "asn": "150780",
+        "description": "Kumari Bank Limited",
+        "handle": "KUMARIBANKLIMITED-AS-AP"
+    },
+    "150789": {
+        "country_code": "NP",
+        "asn": "150789",
+        "description": "Internet Exchange Nepal",
+        "handle": "NPIX2-AS-AP"
+    },
+    "151207": {
+        "country_code": "NP",
+        "asn": "151207",
+        "description": "Khalti Private Limited",
+        "handle": "KPL-AS-AP"
+    },
+    "151328": {
+        "country_code": "NP",
+        "asn": "151328",
+        "description": "Asianet",
+        "handle": "ANACPL-AS-AP"
+    },
+    "151393": {
+        "country_code": "NP",
+        "asn": "151393",
+        "description": "Nepal Network Information Center Pvt. Ltd.",
+        "handle": "NNICPL-AS-AP"
+    },
+    "151396": {
+        "country_code": "NP",
+        "asn": "151396",
+        "description": "Sajilo Net Pvt Ltd",
+        "handle": "SJN-AS-AP"
+    },
+    "151480": {
+        "country_code": "NP",
+        "asn": "151480",
+        "description": "Dataspace Pvt. Ltd.",
+        "handle": "DATASPACEPVTLTD-AS-AP"
+    },
+    "151643": {
+        "country_code": "NP",
+        "asn": "151643",
+        "description": "Code Bright Private Limited",
+        "handle": "CBPL-AS-AP"
+    },
+    "151663": {
+        "country_code": "NP",
+        "asn": "151663",
+        "description": "Islington College Pvt. Ltd.",
+        "handle": "ICPL-AS-AP"
+    },
+    "151798": {
+        "country_code": "NP",
+        "asn": "151798",
+        "description": "SmartLink Telecommunications Private Limited",
+        "handle": "SMARTLINK1-AS-AP"
+    },
+    "152178": {
+        "country_code": "NP",
+        "asn": "152178",
+        "description": "Sahaj Network Pvt. Ltd.",
+        "handle": "SAHAJ-AS-AP"
+    },
+    "152307": {
+        "country_code": "NP",
+        "asn": "152307",
+        "description": "DataWorld",
+        "handle": "DWPL-AS-AP"
+    },
+    "152340": {
+        "country_code": "NP",
+        "asn": "152340",
+        "description": "Shine Technologies Pvt Ltd",
+        "handle": "SHINE-AS-AP"
+    },
+    "152448": {
+        "country_code": "NP",
+        "asn": "152448",
+        "description": "Global Trading And IT Solution Pvt. Ltd.",
+        "handle": "GTAISPL-AS-AP"
+    },
+    "152649": {
+        "country_code": "NP",
+        "asn": "152649",
+        "description": "Internet Harbor Private Limited",
+        "handle": "IHPL-AS-AP"
+    },
+    "152677": {
+        "country_code": "NP",
+        "asn": "152677",
+        "description": "GRS Link",
+        "handle": "GRS1-AS-AP"
+    },
+    "152691": {
+        "country_code": "NP",
+        "asn": "152691",
+        "description": "Civil Aviation Authority of Nepal",
+        "handle": "CAAON-AS-AP"
+    },
+    "152736": {
+        "country_code": "NP",
+        "asn": "152736",
+        "description": "Sinko IT Engineering Pvt. LTD",
+        "handle": "SINKO-AS-AP"
+    },
+    "153159": {
+        "country_code": "NP",
+        "asn": "153159",
+        "description": "Oasis Broadband Internet Pvt. Ltd.",
+        "handle": "OBIPL-AS-AP"
+    },
+    "153566": {
+        "country_code": "NP",
+        "asn": "153566",
+        "description": "Rem Work Technologies Private Limited",
+        "handle": "RWTPL-AS-AP"
+    },
+    "153694": {
+        "country_code": "NP",
+        "asn": "153694",
+        "description": "Silverlining Private Limited",
+        "handle": "SPL-AS-AP"
+    },
+    "153765": {
+        "country_code": "NP",
+        "asn": "153765",
+        "description": "Nepal Net Private Limited",
+        "handle": "NEPAL-AS-AP"
+    },
+    "153778": {
+        "country_code": "NP",
+        "asn": "153778",
+        "description": "Nepal Net Private Limited",
+        "handle": "NEPAL-AS-AP"
+    },
+    "153827": {
+        "country_code": "NP",
+        "asn": "153827",
+        "description": "Beyondtech Nepal Pvt. Ltd.",
+        "handle": "BNPL-AS-AP"
+    },
+    "153861": {
+        "country_code": "NP",
+        "asn": "153861",
+        "description": "NMB Bank Ltd.",
+        "handle": "NMBBANKLTD-AS-AP"
+    },
+    "153885": {
+        "country_code": "NP",
+        "asn": "153885",
+        "description": "Interweb Network Pvt.Ltd.",
+        "handle": "INTERWEB-AS-AP"
+    },
+    "154038": {
+        "country_code": "NP",
+        "asn": "154038",
+        "description": "Shikhar Net Pvt. Ltd.",
+        "handle": "SHIKHAR2-AS-AP"
+    },
+    "154096": {
+        "country_code": "NP",
+        "asn": "154096",
+        "description": "eSewa Private Limited",
+        "handle": "ESEWALIMITED-AS-AP"
+    },
+    "154235": {
+        "country_code": "NP",
+        "asn": "154235",
+        "description": "Itel network pvt.ltd.",
+        "handle": "ITEL-AS-AP"
+    },
+    "154237": {
+        "country_code": "NP",
+        "asn": "154237",
+        "description": "Swift Technology Pvt. Ltd.",
+        "handle": "SWIFT1-AS-AP"
+    },
+    "154259": {
+        "country_code": "NP",
+        "asn": "154259",
+        "description": "Workalaya R. And D. Private Limited",
+        "handle": "WRADPL-AS-AP"
+    },
+    "154272": {
+        "country_code": "NP",
+        "asn": "154272",
+        "description": "CG Digital",
+        "handle": "CDPL-AS-AP"
+    },
+    "154274": {
+        "country_code": "NP",
+        "asn": "154274",
+        "description": "Digital Network Solution Pvt. Ltd.",
+        "handle": "DIGITALNETWORK-AS-AP"
+    },
+    "154342": {
+        "country_code": "NP",
+        "asn": "154342",
+        "description": "Nagarik Cable Link pvt. ltd",
+        "handle": "NCLPL-AS-AP"
+    },
+    "212268": {
+        "country_code": "NP",
+        "asn": "212268",
+        "description": "Nobins Pvt Ltd",
+        "handle": "NP-NOBINS-AS"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "4617": {
+        "country_code": "BN",
+        "asn": "4617",
+        "description": "Unified National Networks",
+        "handle": "UNN-BN"
+    },
+    "10094": {
+        "country_code": "BN",
+        "asn": "10094",
+        "description": "Unified National Networks",
+        "handle": "UNN-BN"
+    },
+    "10101": {
+        "country_code": "BN",
+        "asn": "10101",
+        "description": "Unified National Networks",
+        "handle": "SIMPUR-BN"
+    },
+    "45259": {
+        "country_code": "BN",
+        "asn": "45259",
+        "description": "BRUHAAS",
+        "handle": "BRUHAAS-BN"
+    },
+    "55724": {
+        "country_code": "BN",
+        "asn": "55724",
+        "description": "BRUHAAS",
+        "handle": "BRUHAAS-MY-AS-AP"
+    },
+    "58663": {
+        "country_code": "BN",
+        "asn": "58663",
+        "description": "Zus Co. Ltd.",
+        "handle": "ZUSNET-BN"
+    },
+    "58810": {
+        "country_code": "BN",
+        "asn": "58810",
+        "description": "iZus Co. Ltd",
+        "handle": "IZUSCOLTD-BN"
+    },
+    "131467": {
+        "country_code": "BN",
+        "asn": "131467",
+        "description": "Unified National Networks",
+        "handle": "EGNC-AS"
+    },
+    "132395": {
+        "country_code": "BN",
+        "asn": "132395",
+        "description": "Unified National Networks",
+        "handle": "DST-AS"
+    },
+    "133788": {
+        "country_code": "BN",
+        "asn": "133788",
+        "description": "Unified National Networks",
+        "handle": "UNN-BN"
+    },
+    "133875": {
+        "country_code": "BN",
+        "asn": "133875",
+        "description": "Brunei Shell Petroleum Company Sdn Bhd",
+        "handle": "BSPC-NON-AS-AP"
+    }
+}

@@ -1,0 +1,1178 @@
+{
+    "6700": {
+        "country_code": "RS",
+        "asn": "6700",
+        "description": "TELEKOM SRBIJA a.d.",
+        "handle": "BEOTEL-AS"
+    },
+    "8270": {
+        "country_code": "RS",
+        "asn": "8270",
+        "description": "Raiffeisen banka ad Beograd",
+        "handle": "RBA-AS"
+    },
+    "8400": {
+        "country_code": "RS",
+        "asn": "8400",
+        "description": "TELEKOM SRBIJA a.d.",
+        "handle": "TELEKOM-AS"
+    },
+    "8534": {
+        "country_code": "RS",
+        "asn": "8534",
+        "description": "Informatika a.d.",
+        "handle": "INFOSKY-AS"
+    },
+    "8771": {
+        "country_code": "RS",
+        "asn": "8771",
+        "description": "YUnet International d.o.o.",
+        "handle": "YUNET-AS"
+    },
+    "9081": {
+        "country_code": "RS",
+        "asn": "9081",
+        "description": "B92 DOO BEOGRAD",
+        "handle": "AS9081"
+    },
+    "9125": {
+        "country_code": "RS",
+        "asn": "9125",
+        "description": "Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun",
+        "handle": "ORIONTELEKOM-AS"
+    },
+    "12823": {
+        "country_code": "RS",
+        "asn": "12823",
+        "description": "UMKA d.o.o",
+        "handle": "KAPPATECH-AS"
+    },
+    "13004": {
+        "country_code": "RS",
+        "asn": "13004",
+        "description": "Serbian Open Exchange DOO",
+        "handle": "SOX"
+    },
+    "13091": {
+        "country_code": "RS",
+        "asn": "13091",
+        "description": "Posta Srbije Drustvo S Ogranicenom Odgovornoscu Beograd",
+        "handle": "PTT-SRBIJA-NET"
+    },
+    "13092": {
+        "country_code": "RS",
+        "asn": "13092",
+        "description": "Akademska mreza Republike Srbije - AMRES",
+        "handle": "UB-AS"
+    },
+    "13303": {
+        "country_code": "RS",
+        "asn": "13303",
+        "description": "University of Nis",
+        "handle": "UNNI-AS"
+    },
+    "15832": {
+        "country_code": "RS",
+        "asn": "15832",
+        "description": "TRIGLAV OSIGURANJE ADO BEOGRAD",
+        "handle": "TRIGLAV-OSIGURANJE"
+    },
+    "15926": {
+        "country_code": "RS",
+        "asn": "15926",
+        "description": "UNITED GROUP NETWORK INFRASTRUCTURE d.o.o. Beograd",
+        "handle": "UGNI-AS"
+    },
+    "15958": {
+        "country_code": "RS",
+        "asn": "15958",
+        "description": "CETIN Ltd. Belgrade",
+        "handle": "CETIN-DOO-AS"
+    },
+    "21215": {
+        "country_code": "RS",
+        "asn": "21215",
+        "description": "UNITED GROUP NETWORK INFRASTRUCTURE d.o.o. Beograd",
+        "handle": "UGNI"
+    },
+    "25337": {
+        "country_code": "RS",
+        "asn": "25337",
+        "description": "ALL IP DOO",
+        "handle": "ALLIP"
+    },
+    "25431": {
+        "country_code": "RS",
+        "asn": "25431",
+        "description": "Gama Electronics d.o.o.",
+        "handle": "GAMAELEKTRONIK"
+    },
+    "28964": {
+        "country_code": "RS",
+        "asn": "28964",
+        "description": "Orion Telekom Tim d.o.o.Beograd",
+        "handle": "ORIONTELEKOMTIM-AS"
+    },
+    "29163": {
+        "country_code": "RS",
+        "asn": "29163",
+        "description": "Banca Intesa AD Beograd",
+        "handle": "BANCAINTESA-BEOGRAD-AS"
+    },
+    "29604": {
+        "country_code": "RS",
+        "asn": "29604",
+        "description": "Orion Telekom Tim d.o.o.Beograd",
+        "handle": "ORION-TELEKOM-AS-DPI"
+    },
+    "31042": {
+        "country_code": "RS",
+        "asn": "31042",
+        "description": "Serbia BroadBand-Srpske Kablovske mreze d.o.o.",
+        "handle": "SERBIA-BROADBAND-AS"
+    },
+    "31161": {
+        "country_code": "RS",
+        "asn": "31161",
+        "description": "ASEE Solutions d.o.o. Beograd",
+        "handle": "ASSECO-SEE-RS"
+    },
+    "34131": {
+        "country_code": "RS",
+        "asn": "34131",
+        "description": "Banka Postanska Stedionica A.D.",
+        "handle": "POSTANSKA-AS"
+    },
+    "34258": {
+        "country_code": "RS",
+        "asn": "34258",
+        "description": "AikBank ad Beograd",
+        "handle": "EUROBANK-EFG"
+    },
+    "34299": {
+        "country_code": "RS",
+        "asn": "34299",
+        "description": "Uprava za trezor Ministarstvo finansija",
+        "handle": "TREZOR-AS"
+    },
+    "34404": {
+        "country_code": "RS",
+        "asn": "34404",
+        "description": "Delta Holding d.o.o.",
+        "handle": "DELTA-M"
+    },
+    "34724": {
+        "country_code": "RS",
+        "asn": "34724",
+        "description": "BAU NETWORKS DOO TORNJOS",
+        "handle": "BAULINK-AS"
+    },
+    "35779": {
+        "country_code": "RS",
+        "asn": "35779",
+        "description": "mCloud doo",
+        "handle": "MCLOUD-AS"
+    },
+    "35796": {
+        "country_code": "RS",
+        "asn": "35796",
+        "description": "Narodna Banka Srbije",
+        "handle": "NBS"
+    },
+    "39311": {
+        "country_code": "RS",
+        "asn": "39311",
+        "description": "Mainstream doo Beograd",
+        "handle": "CS-CRI"
+    },
+    "39377": {
+        "country_code": "RS",
+        "asn": "39377",
+        "description": "Samostalna Zanatska i Trgovinska Radnja Intercom Computers Goran Stojkovic Preduzetnik Krusar",
+        "handle": "INTERCOM"
+    },
+    "39724": {
+        "country_code": "RS",
+        "asn": "39724",
+        "description": "Omonia d.o.o.",
+        "handle": "OMONIA-RS"
+    },
+    "39796": {
+        "country_code": "RS",
+        "asn": "39796",
+        "description": "UNITED GROUP NETWORK INFRASTRUCTURE d.o.o. Beograd",
+        "handle": "ABSOLUTOK-2"
+    },
+    "41404": {
+        "country_code": "RS",
+        "asn": "41404",
+        "description": "Euronet services d.o.o.",
+        "handle": "EURONET-CSBG-AS"
+    },
+    "41507": {
+        "country_code": "RS",
+        "asn": "41507",
+        "description": "IGT D&B d.o.o. Beograd",
+        "handle": "IGT-SPORTSBETTING-SERBIA-AS"
+    },
+    "41897": {
+        "country_code": "RS",
+        "asn": "41897",
+        "description": "Sat-Trakt D.O.O.",
+        "handle": "SAT-TRAKT-AS"
+    },
+    "41937": {
+        "country_code": "RS",
+        "asn": "41937",
+        "description": "TELEKOM SRBIJA a.d.",
+        "handle": "MOJASUPERNOVA"
+    },
+    "42186": {
+        "country_code": "RS",
+        "asn": "42186",
+        "description": "Kancelarija za informacione tehnologije i elektronsku upravu",
+        "handle": "AS-ITE-NET"
+    },
+    "42603": {
+        "country_code": "RS",
+        "asn": "42603",
+        "description": "JKP Parking servis Beograd",
+        "handle": "PARKING-SERVIS-AS"
+    },
+    "43084": {
+        "country_code": "RS",
+        "asn": "43084",
+        "description": "Knjaz Milos AD",
+        "handle": "KNJAZMILOS"
+    },
+    "43125": {
+        "country_code": "RS",
+        "asn": "43125",
+        "description": "NAFTNA INDUSTRIJA SRBIJE A.D.",
+        "handle": "NISNAFTAGASNS-AS"
+    },
+    "43191": {
+        "country_code": "RS",
+        "asn": "43191",
+        "description": "Providus d.o.o.",
+        "handle": "PROVIDUS-AS"
+    },
+    "43277": {
+        "country_code": "RS",
+        "asn": "43277",
+        "description": "Victory media d.o.o",
+        "handle": "VICTORY-MEDIA"
+    },
+    "43281": {
+        "country_code": "RS",
+        "asn": "43281",
+        "description": "Privredno Drustvo Za Trgovinu I Usluge Stepanovic & Sipka Doo Beograd",
+        "handle": "STEPANOVIC"
+    },
+    "43335": {
+        "country_code": "RS",
+        "asn": "43335",
+        "description": "Air SERBIA a.d. Beograd",
+        "handle": "JAT-AS"
+    },
+    "43547": {
+        "country_code": "RS",
+        "asn": "43547",
+        "description": "Enterprise Services d.o.o.",
+        "handle": "HP-AS"
+    },
+    "43608": {
+        "country_code": "RS",
+        "asn": "43608",
+        "description": "IT011 d.o.o",
+        "handle": "IT011-AS"
+    },
+    "43784": {
+        "country_code": "RS",
+        "asn": "43784",
+        "description": "Mercator-S d.o.o.",
+        "handle": "MRODIC-AS"
+    },
+    "44143": {
+        "country_code": "RS",
+        "asn": "44143",
+        "description": "A1 Srbija d.o.o",
+        "handle": "A1SERBIA-AS"
+    },
+    "44287": {
+        "country_code": "RS",
+        "asn": "44287",
+        "description": "JP Elektromreza Srbije Beograd",
+        "handle": "EMS-AS"
+    },
+    "44301": {
+        "country_code": "RS",
+        "asn": "44301",
+        "description": "IVANEL.NET DOO",
+        "handle": "IVANELNET"
+    },
+    "44958": {
+        "country_code": "RS",
+        "asn": "44958",
+        "description": "AikBank ad Beograd",
+        "handle": "AIK-AS"
+    },
+    "47222": {
+        "country_code": "RS",
+        "asn": "47222",
+        "description": "Atlantic Grand doo Simanovci",
+        "handle": "GRANDPROM-AS"
+    },
+    "47267": {
+        "country_code": "RS",
+        "asn": "47267",
+        "description": "Serbian National Internet Domain Registry Foundation",
+        "handle": "RNIDS-AS"
+    },
+    "47479": {
+        "country_code": "RS",
+        "asn": "47479",
+        "description": "Orion Telekom Tim d.o.o.Beograd",
+        "handle": "ORION-TELEKOM-AS"
+    },
+    "47663": {
+        "country_code": "RS",
+        "asn": "47663",
+        "description": "Dunav osiguranje a.d.o",
+        "handle": "DUNAV"
+    },
+    "47666": {
+        "country_code": "RS",
+        "asn": "47666",
+        "description": "mStart Business Solutions doo",
+        "handle": "MSTARTBS-AS"
+    },
+    "48015": {
+        "country_code": "RS",
+        "asn": "48015",
+        "description": "NAFTNA INDUSTRIJA SRBIJE A.D.",
+        "handle": "NISPETROL-AS"
+    },
+    "48164": {
+        "country_code": "RS",
+        "asn": "48164",
+        "description": "Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun",
+        "handle": "KGBHOSTING"
+    },
+    "48177": {
+        "country_code": "RS",
+        "asn": "48177",
+        "description": "IGT D&B d.o.o. Beograd",
+        "handle": "IGT-SPORTSBETTING"
+    },
+    "48234": {
+        "country_code": "RS",
+        "asn": "48234",
+        "description": "DOO Realnet",
+        "handle": "REALNET-AS"
+    },
+    "48414": {
+        "country_code": "RS",
+        "asn": "48414",
+        "description": "Serbia BroadBand-Srpske Kablovske mreze d.o.o.",
+        "handle": "AS-KDS"
+    },
+    "48580": {
+        "country_code": "RS",
+        "asn": "48580",
+        "description": "JKP INFORMATIKA NOVI SAD",
+        "handle": "JKP-INFORMATIKA"
+    },
+    "48708": {
+        "country_code": "RS",
+        "asn": "48708",
+        "description": "Omax Network d.o.o.",
+        "handle": "OMAX-NETWORK-AS"
+    },
+    "49122": {
+        "country_code": "RS",
+        "asn": "49122",
+        "description": "Internet BlueNET doo Cacak",
+        "handle": "BLUEISP"
+    },
+    "49167": {
+        "country_code": "RS",
+        "asn": "49167",
+        "description": "COMUTEL d.o.o.",
+        "handle": "COMUTEL-AS"
+    },
+    "49198": {
+        "country_code": "RS",
+        "asn": "49198",
+        "description": "MAKSNET d.o.o. Beograd",
+        "handle": "MAKSNET-AS"
+    },
+    "49412": {
+        "country_code": "RS",
+        "asn": "49412",
+        "description": "Raiffeisen banka ad Beograd",
+        "handle": "CA-SRB"
+    },
+    "49486": {
+        "country_code": "RS",
+        "asn": "49486",
+        "description": "ALTA BANKA AD BEOGRAD",
+        "handle": "JUBMES-AS"
+    },
+    "49714": {
+        "country_code": "RS",
+        "asn": "49714",
+        "description": "Edge Technology Plus d.o.o. Beograd",
+        "handle": "TELETECH-OFFICE"
+    },
+    "49717": {
+        "country_code": "RS",
+        "asn": "49717",
+        "description": "ASTRA TELEKOM DOO BEOGRAD",
+        "handle": "BEOTELNETZR"
+    },
+    "50653": {
+        "country_code": "RS",
+        "asn": "50653",
+        "description": "Delhaize Serbia d.o.o",
+        "handle": "DELTA-MAXI"
+    },
+    "50781": {
+        "country_code": "RS",
+        "asn": "50781",
+        "description": "Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun",
+        "handle": "ORION-TELEKOM"
+    },
+    "50872": {
+        "country_code": "RS",
+        "asn": "50872",
+        "description": "LOCALHOST d.o.o.",
+        "handle": "LOCALHOST"
+    },
+    "51002": {
+        "country_code": "RS",
+        "asn": "51002",
+        "description": "ASTRA TELEKOM DOO BEOGRAD",
+        "handle": "G-NET"
+    },
+    "51404": {
+        "country_code": "RS",
+        "asn": "51404",
+        "description": "EULEX Kosovo",
+        "handle": "EULEX-AS"
+    },
+    "51602": {
+        "country_code": "RS",
+        "asn": "51602",
+        "description": "AD Aerodrom 'Nikola Tesla' Beograd",
+        "handle": "BEGAERO-AS"
+    },
+    "51629": {
+        "country_code": "RS",
+        "asn": "51629",
+        "description": "UNITED GROUP NETWORK INFRASTRUCTURE d.o.o. Beograd",
+        "handle": "UGNI-AS"
+    },
+    "51859": {
+        "country_code": "RS",
+        "asn": "51859",
+        "description": "Mainstream doo Beograd",
+        "handle": "MNSHA-AS"
+    },
+    "51908": {
+        "country_code": "RS",
+        "asn": "51908",
+        "description": "Webglobe d.o.o.",
+        "handle": "PANET-ASN"
+    },
+    "51927": {
+        "country_code": "RS",
+        "asn": "51927",
+        "description": "Netpro ISP d.o.o",
+        "handle": "NETPRO-NET"
+    },
+    "52021": {
+        "country_code": "RS",
+        "asn": "52021",
+        "description": "Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun",
+        "handle": "ORION-TELEKOM-AS"
+    },
+    "52026": {
+        "country_code": "RS",
+        "asn": "52026",
+        "description": "TRUF d.o.o.",
+        "handle": "TRUF-AS"
+    },
+    "52068": {
+        "country_code": "RS",
+        "asn": "52068",
+        "description": "RAZVOJNA BANKA VOJVODINE AKCIONARSKO DRUSTVO NOVI SAD - U STECAJU",
+        "handle": "RBV-AS"
+    },
+    "52072": {
+        "country_code": "RS",
+        "asn": "52072",
+        "description": "DD Net Telecommunication d.o.o.",
+        "handle": "DDNET-AS"
+    },
+    "52105": {
+        "country_code": "RS",
+        "asn": "52105",
+        "description": "Bus Computers d.o.o. Kikinda",
+        "handle": "BUSCOMP"
+    },
+    "52116": {
+        "country_code": "RS",
+        "asn": "52116",
+        "description": "Orion Telekom Tim d.o.o.Beograd",
+        "handle": "ORIONTELEKOM-DPI-AS"
+    },
+    "56569": {
+        "country_code": "RS",
+        "asn": "56569",
+        "description": "NLB Komercijalna banka AD Beograd",
+        "handle": "KOMBANK-AS"
+    },
+    "56576": {
+        "country_code": "RS",
+        "asn": "56576",
+        "description": "FONLIDER DOO BEOGRAD",
+        "handle": "FONLIDER"
+    },
+    "56681": {
+        "country_code": "RS",
+        "asn": "56681",
+        "description": "Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun",
+        "handle": "OTELEKOMUNIKACIJE"
+    },
+    "56816": {
+        "country_code": "RS",
+        "asn": "56816",
+        "description": "CDFnet d.o.o.",
+        "handle": "CDFNET"
+    },
+    "56843": {
+        "country_code": "RS",
+        "asn": "56843",
+        "description": "Centar Novih Tehnologija DOO",
+        "handle": "CNT-ISP-AS"
+    },
+    "57207": {
+        "country_code": "RS",
+        "asn": "57207",
+        "description": "Orion Telekom Tim d.o.o.Beograd",
+        "handle": "ORIONTELEKOMTIM-AS"
+    },
+    "57262": {
+        "country_code": "RS",
+        "asn": "57262",
+        "description": "Les Folies d.o.o. Cacak",
+        "handle": "BRAZIL"
+    },
+    "57486": {
+        "country_code": "RS",
+        "asn": "57486",
+        "description": "Optel Telekom Tim d.o.o.",
+        "handle": "OPTEL-TELEKOM-AS"
+    },
+    "57550": {
+        "country_code": "RS",
+        "asn": "57550",
+        "description": "OTP Banka Srbija",
+        "handle": "OTP-BANKA-SRBIJA"
+    },
+    "57595": {
+        "country_code": "RS",
+        "asn": "57595",
+        "description": "Netlogic doo",
+        "handle": "NETLOGIC-AS"
+    },
+    "57722": {
+        "country_code": "RS",
+        "asn": "57722",
+        "description": "N.SH.T ATI-KOS sh.p.k",
+        "handle": "ATI-KOS-AS"
+    },
+    "58179": {
+        "country_code": "RS",
+        "asn": "58179",
+        "description": "Payten d.o.o.",
+        "handle": "PAYTEN"
+    },
+    "58266": {
+        "country_code": "RS",
+        "asn": "58266",
+        "description": "Srpska banka A.D.",
+        "handle": "SRB-AS"
+    },
+    "59544": {
+        "country_code": "RS",
+        "asn": "59544",
+        "description": "Stampa Sistem d.o.o.",
+        "handle": "STAMPA"
+    },
+    "59609": {
+        "country_code": "RS",
+        "asn": "59609",
+        "description": "DOO Sluzbeni Glasnik",
+        "handle": "JP-SLUZBENI-GLASNIK"
+    },
+    "59737": {
+        "country_code": "RS",
+        "asn": "59737",
+        "description": "Halcom a.d. Beograd",
+        "handle": "HALCOM-AS"
+    },
+    "59864": {
+        "country_code": "RS",
+        "asn": "59864",
+        "description": "JKP Beogradske elektrane",
+        "handle": "SAVA-NET"
+    },
+    "59992": {
+        "country_code": "RS",
+        "asn": "59992",
+        "description": "Internet BlueNET doo Cacak",
+        "handle": "BLUEISP3"
+    },
+    "60137": {
+        "country_code": "RS",
+        "asn": "60137",
+        "description": "Internet BlueNET doo Cacak",
+        "handle": "BLUEISP2"
+    },
+    "60733": {
+        "country_code": "RS",
+        "asn": "60733",
+        "description": "ZORAN PEROVIC trading as Agencija Perke.NET",
+        "handle": "PERKE-NET"
+    },
+    "60871": {
+        "country_code": "RS",
+        "asn": "60871",
+        "description": "COMNET Sh.p.k",
+        "handle": "COMNET-AS"
+    },
+    "61065": {
+        "country_code": "RS",
+        "asn": "61065",
+        "description": "Serbia BroadBand-Srpske Kablovske mreze d.o.o.",
+        "handle": "SERBIA-BROADBAND-AS"
+    },
+    "61332": {
+        "country_code": "RS",
+        "asn": "61332",
+        "description": "ASEE Solutions d.o.o. Beograd",
+        "handle": "ASSECO-SEE-MK"
+    },
+    "62012": {
+        "country_code": "RS",
+        "asn": "62012",
+        "description": "Generali Osiguranje Srbija",
+        "handle": "GENERALISRBIJA"
+    },
+    "62420": {
+        "country_code": "RS",
+        "asn": "62420",
+        "description": "Saga d.o.o. Beograd",
+        "handle": "SAGA-AS"
+    },
+    "196886": {
+        "country_code": "RS",
+        "asn": "196886",
+        "description": "Orion Telekom Tim d.o.o.Beograd",
+        "handle": "ORION-TELEKOM-KORISNICI-AS"
+    },
+    "197423": {
+        "country_code": "RS",
+        "asn": "197423",
+        "description": "Jotel d.o.o.",
+        "handle": "JOTEL-AS"
+    },
+    "198237": {
+        "country_code": "RS",
+        "asn": "198237",
+        "description": "MOZZART d.o.o. Beograd",
+        "handle": "MOZZART-AS"
+    },
+    "198273": {
+        "country_code": "RS",
+        "asn": "198273",
+        "description": "Schneider Electric DMS NS LLC Novi Sad",
+        "handle": "TELVENT-DMS-AS"
+    },
+    "198360": {
+        "country_code": "RS",
+        "asn": "198360",
+        "description": "CYBERMEDIA d.o.o. Beograd",
+        "handle": "CYBERMEDIA"
+    },
+    "198370": {
+        "country_code": "RS",
+        "asn": "198370",
+        "description": "Meridian Tech d.o.o.",
+        "handle": "JG-ASN"
+    },
+    "198371": {
+        "country_code": "RS",
+        "asn": "198371",
+        "description": "NINET Company Nis d.o.o.",
+        "handle": "NINET"
+    },
+    "198421": {
+        "country_code": "RS",
+        "asn": "198421",
+        "description": "PRIVREDNO DRUSTVO ZA PROIZVODNJU PROMET I USLUGE KBC ON LINE DOO",
+        "handle": "KBCONLINEAS"
+    },
+    "198649": {
+        "country_code": "RS",
+        "asn": "198649",
+        "description": "AikBank ad Beograd",
+        "handle": "DIREKTNA-RS-AS"
+    },
+    "198691": {
+        "country_code": "RS",
+        "asn": "198691",
+        "description": "SPACE Admins d.o.o.",
+        "handle": "SPACEADMINS"
+    },
+    "198961": {
+        "country_code": "RS",
+        "asn": "198961",
+        "description": "Orion Telekom Tim d.o.o.Beograd",
+        "handle": "ORION-TELEKOM-MONTENEGRO"
+    },
+    "199315": {
+        "country_code": "RS",
+        "asn": "199315",
+        "description": "Milsped d.o.o Beograd",
+        "handle": "MILSPEED-AS"
+    },
+    "199493": {
+        "country_code": "RS",
+        "asn": "199493",
+        "description": "TELEKOM SRBIJA a.d.",
+        "handle": "NETNET-AS"
+    },
+    "200287": {
+        "country_code": "RS",
+        "asn": "200287",
+        "description": "BOBAN CAKIC trading as INTERNET SERVIS IBS",
+        "handle": "IBS"
+    },
+    "200305": {
+        "country_code": "RS",
+        "asn": "200305",
+        "description": "Sasa Ristic",
+        "handle": "RICKY-V6-AS"
+    },
+    "200855": {
+        "country_code": "RS",
+        "asn": "200855",
+        "description": "AikBank ad Beograd",
+        "handle": "AIKBANKAASN"
+    },
+    "200923": {
+        "country_code": "RS",
+        "asn": "200923",
+        "description": "SAMOSTALNA RADNJA ZA TELEKOMUNIKACIJE EWIRELESS IGOR STOJKOVIC PR INDIJA",
+        "handle": "EWIRELESS"
+    },
+    "201047": {
+        "country_code": "RS",
+        "asn": "201047",
+        "description": "Meridian Tech d.o.o.",
+        "handle": "AS198370"
+    },
+    "201236": {
+        "country_code": "RS",
+        "asn": "201236",
+        "description": "NETCAST OBLAK d.o.o. Beograd",
+        "handle": "NETCAST-OBLAK-DOO"
+    },
+    "201276": {
+        "country_code": "RS",
+        "asn": "201276",
+        "description": "Stolitomson Company DOO",
+        "handle": "STOLITOMSON-RS2-AS"
+    },
+    "201278": {
+        "country_code": "RS",
+        "asn": "201278",
+        "description": "Javna Medijska Ustanova Radio Televizija Vojvodine",
+        "handle": "RTV-AS"
+    },
+    "201711": {
+        "country_code": "RS",
+        "asn": "201711",
+        "description": "Privredno Drustvo Za Trgovinu I Usluge Stepanovic & Sipka Doo Beograd",
+        "handle": "MOZZ-MALTA"
+    },
+    "202417": {
+        "country_code": "RS",
+        "asn": "202417",
+        "description": "NETCAST OBLAK d.o.o. Beograd",
+        "handle": "NETCAST-OBLAK-DOO-2"
+    },
+    "202441": {
+        "country_code": "RS",
+        "asn": "202441",
+        "description": "mts D.O.O",
+        "handle": "MTSDOO-AS"
+    },
+    "202676": {
+        "country_code": "RS",
+        "asn": "202676",
+        "description": "BIZNET DOO",
+        "handle": "BRZNET"
+    },
+    "202720": {
+        "country_code": "RS",
+        "asn": "202720",
+        "description": "Faculty of Electronic Engineering",
+        "handle": "NAISSIX-IXP"
+    },
+    "202749": {
+        "country_code": "RS",
+        "asn": "202749",
+        "description": "Telegroup d.o.o. Beograd",
+        "handle": "TELEGROUP"
+    },
+    "202890": {
+        "country_code": "RS",
+        "asn": "202890",
+        "description": "Ridetech RS LLC Belgrade",
+        "handle": "YANGORS"
+    },
+    "202977": {
+        "country_code": "RS",
+        "asn": "202977",
+        "description": "NLB Komercijalna banka AD Beograd",
+        "handle": "NLBBANKARSASN"
+    },
+    "203186": {
+        "country_code": "RS",
+        "asn": "203186",
+        "description": "Mirabank a.d.",
+        "handle": "MIRABANK"
+    },
+    "203487": {
+        "country_code": "RS",
+        "asn": "203487",
+        "description": "Omonia d.o.o.",
+        "handle": "EOFFICE"
+    },
+    "203512": {
+        "country_code": "RS",
+        "asn": "203512",
+        "description": "DEL Systems d.o.o",
+        "handle": "DS"
+    },
+    "203572": {
+        "country_code": "RS",
+        "asn": "203572",
+        "description": "Ingram Micro d.o.o. Beograd",
+        "handle": "RRC"
+    },
+    "203752": {
+        "country_code": "RS",
+        "asn": "203752",
+        "description": "E-CAPS D.O.O",
+        "handle": "E-CAPS"
+    },
+    "203877": {
+        "country_code": "RS",
+        "asn": "203877",
+        "description": "ASTRA TELEKOM DOO BEOGRAD",
+        "handle": "ASTRATELEKOM"
+    },
+    "204215": {
+        "country_code": "RS",
+        "asn": "204215",
+        "description": "Nelt Co. d.o.o. Beograd",
+        "handle": "NELT"
+    },
+    "204753": {
+        "country_code": "RS",
+        "asn": "204753",
+        "description": "Ministarstvo Finansija - Uprava Carina Republike Srbije",
+        "handle": "UPRAVACARINA-AS"
+    },
+    "204851": {
+        "country_code": "RS",
+        "asn": "204851",
+        "description": "Maxbet D.O.O.",
+        "handle": "DAN-PLUS-INTERNATIONAL-DOO"
+    },
+    "205007": {
+        "country_code": "RS",
+        "asn": "205007",
+        "description": "Maxim Azarov trading as eServer",
+        "handle": "ESERVER-RS"
+    },
+    "205065": {
+        "country_code": "RS",
+        "asn": "205065",
+        "description": "Chip Card Ltd Belgrade",
+        "handle": "CHIPCARD-AS"
+    },
+    "205201": {
+        "country_code": "RS",
+        "asn": "205201",
+        "description": "Public Service Media Radio Television of Serbia",
+        "handle": "RTS-AS"
+    },
+    "205313": {
+        "country_code": "RS",
+        "asn": "205313",
+        "description": "Infostud 3 doo Subotica",
+        "handle": "INFOSTUD"
+    },
+    "205354": {
+        "country_code": "RS",
+        "asn": "205354",
+        "description": "ENERGOPROJEKT ENTEL a.d. BEOGRAD",
+        "handle": "EP-ENTEL-AS"
+    },
+    "205503": {
+        "country_code": "RS",
+        "asn": "205503",
+        "description": "Avana doo Beograd",
+        "handle": "ORG-ADB8-RIPE"
+    },
+    "205557": {
+        "country_code": "RS",
+        "asn": "205557",
+        "description": "Privredno Drustvo Za Trgovinu I Usluge Stepanovic & Sipka Doo Beograd",
+        "handle": "NEWMOZZART"
+    },
+    "205613": {
+        "country_code": "RS",
+        "asn": "205613",
+        "description": "Exeplay d.o.o.",
+        "handle": "EXEPLAY"
+    },
+    "205620": {
+        "country_code": "RS",
+        "asn": "205620",
+        "description": "Unicom-Telecom d.o.o.",
+        "handle": "UNICOM-AS"
+    },
+    "205786": {
+        "country_code": "RS",
+        "asn": "205786",
+        "description": "Zepter International doo Beograd",
+        "handle": "ZEPTER"
+    },
+    "205949": {
+        "country_code": "RS",
+        "asn": "205949",
+        "description": "Stolitomson Company DOO",
+        "handle": "STOLITOMSON-RS-AS"
+    },
+    "206034": {
+        "country_code": "RS",
+        "asn": "206034",
+        "description": "DualSoft d.o.o.",
+        "handle": "RS-DUALSOFT"
+    },
+    "206542": {
+        "country_code": "RS",
+        "asn": "206542",
+        "description": "Signet CS doo Beograd",
+        "handle": "SIGNET-AS"
+    },
+    "206580": {
+        "country_code": "RS",
+        "asn": "206580",
+        "description": "HBIS GROUP Serbia Iron & Steel d.o.o. Beograd",
+        "handle": "HBIS-GROUP-SERBIA-IRON-AND-STEEL-BEOGRAD"
+    },
+    "207068": {
+        "country_code": "RS",
+        "asn": "207068",
+        "description": "Uprava za zajednicke poslove pokrajinskih organa",
+        "handle": "UZZPPO"
+    },
+    "207069": {
+        "country_code": "RS",
+        "asn": "207069",
+        "description": "STURKOMERC-PETROLSOFT ING DOO BEOGRAD",
+        "handle": "PSOFT"
+    },
+    "207604": {
+        "country_code": "RS",
+        "asn": "207604",
+        "description": "United Internet Ltd.",
+        "handle": "UNITED"
+    },
+    "208398": {
+        "country_code": "RS",
+        "asn": "208398",
+        "description": "Edge Technology Plus d.o.o. Beograd",
+        "handle": "TELETECH"
+    },
+    "208798": {
+        "country_code": "RS",
+        "asn": "208798",
+        "description": "Fashion Company d.o.o. Beograd",
+        "handle": "FASHIONC-AS"
+    },
+    "208898": {
+        "country_code": "RS",
+        "asn": "208898",
+        "description": "Superhosting doo",
+        "handle": "SUPERHOSTINGRS-AS"
+    },
+    "209130": {
+        "country_code": "RS",
+        "asn": "209130",
+        "description": "MSAT Inzenjering DOO",
+        "handle": "MSAT-INZENJERING"
+    },
+    "209471": {
+        "country_code": "RS",
+        "asn": "209471",
+        "description": "Wiener Stadtische Osiguranje ADO Beograd",
+        "handle": "WSO"
+    },
+    "210133": {
+        "country_code": "RS",
+        "asn": "210133",
+        "description": "Privredno Drustvo Za Trgovinu I Usluge Stepanovic & Sipka Doo Beograd",
+        "handle": "MOZZ-AS-INFRASTRUCTURE"
+    },
+    "210502": {
+        "country_code": "RS",
+        "asn": "210502",
+        "description": "NOVINET DOO",
+        "handle": "NOVINET-AS"
+    },
+    "210673": {
+        "country_code": "RS",
+        "asn": "210673",
+        "description": "Yango Technology Services d.o.o. Beograd",
+        "handle": "YANGOTECH"
+    },
+    "211285": {
+        "country_code": "RS",
+        "asn": "211285",
+        "description": "Akcionarsko drustvo Elektroprivreda Srbije Beograd",
+        "handle": "EPS-AS"
+    },
+    "211449": {
+        "country_code": "RS",
+        "asn": "211449",
+        "description": "General Logistics Systems d.o.o.",
+        "handle": "GLSRS"
+    },
+    "211988": {
+        "country_code": "RS",
+        "asn": "211988",
+        "description": "Hemofarm AD Vrsac",
+        "handle": "HEMOFARM"
+    },
+    "212492": {
+        "country_code": "RS",
+        "asn": "212492",
+        "description": "Organak SKS365 Malta Limited",
+        "handle": "SKS365"
+    },
+    "212638": {
+        "country_code": "RS",
+        "asn": "212638",
+        "description": "Privredno Drustvo Za Trgovinu I Usluge Stepanovic & Sipka Doo Beograd",
+        "handle": "AS-MERIDIAN-GAMING"
+    },
+    "212842": {
+        "country_code": "RS",
+        "asn": "212842",
+        "description": "Coming Computer Engineering DOO",
+        "handle": "COMING-AS"
+    },
+    "212897": {
+        "country_code": "RS",
+        "asn": "212897",
+        "description": "JETNET KOMUNIKACIJE DOO",
+        "handle": "JETNET-AS"
+    },
+    "213008": {
+        "country_code": "RS",
+        "asn": "213008",
+        "description": "APOTEKARSKA USTANOVA LILLY DROGERIE BEOGRAD",
+        "handle": "LILLY-RS"
+    },
+    "213142": {
+        "country_code": "RS",
+        "asn": "213142",
+        "description": "Coming Computer Engineering DOO",
+        "handle": "COMING-KG-AS"
+    },
+    "213180": {
+        "country_code": "RS",
+        "asn": "213180",
+        "description": "RINGTEL d.o.o. BELGRADE-ZEMUN",
+        "handle": "RINGTEL"
+    },
+    "213306": {
+        "country_code": "RS",
+        "asn": "213306",
+        "description": "Comtrade System Integration doo Belgrade Serbia",
+        "handle": "CTSI"
+    },
+    "213390": {
+        "country_code": "RS",
+        "asn": "213390",
+        "description": "Milan Kragujevic trading as DHILOS NETWORKS",
+        "handle": "ALFATELEKOM"
+    },
+    "214833": {
+        "country_code": "RS",
+        "asn": "214833",
+        "description": "Aleksandr Shmalko PR Obrada Podataka Hosting Novi Sad",
+        "handle": "ALEKSANDRSHMALKO-AS"
+    },
+    "215067": {
+        "country_code": "RS",
+        "asn": "215067",
+        "description": "Kit Pro d.o.o.",
+        "handle": "KITPRO"
+    },
+    "215493": {
+        "country_code": "RS",
+        "asn": "215493",
+        "description": "Constellation d.o.o.",
+        "handle": "CONSTEL-AS"
+    },
+    "215829": {
+        "country_code": "RS",
+        "asn": "215829",
+        "description": "Smart Digital Ideas DOO",
+        "handle": "SMARTDIGITAL"
+    },
+    "215930": {
+        "country_code": "RS",
+        "asn": "215930",
+        "description": "CIPHER OPERATIONS DOO BEOGRAD - NOVI BEOGRAD",
+        "handle": "COD"
+    },
+    "215949": {
+        "country_code": "RS",
+        "asn": "215949",
+        "description": "Hemofarm AD Vrsac",
+        "handle": "STADACIS"
+    },
+    "216024": {
+        "country_code": "RS",
+        "asn": "216024",
+        "description": "ALEKSEI FEDOROV PR KRUSEVAC",
+        "handle": "KVMKA-COM"
+    },
+    "216053": {
+        "country_code": "RS",
+        "asn": "216053",
+        "description": "Data Cloud Technology d.o.o Kragujevac",
+        "handle": "DCT-AS"
+    }
+}

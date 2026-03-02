@@ -1,0 +1,716 @@
+{
+    "12143": {
+        "country_code": "TZ",
+        "asn": "12143",
+        "description": "RAHA Ltd",
+        "handle": "RAHA"
+    },
+    "22354": {
+        "country_code": "TZ",
+        "asn": "22354",
+        "description": "University of Dar es Salaam",
+        "handle": "UNIV-DAR"
+    },
+    "31810": {
+        "country_code": "TZ",
+        "asn": "31810",
+        "description": "ECHOTEL TANZANIA LIMITED",
+        "handle": "ECHOTEL-T-AS"
+    },
+    "32860": {
+        "country_code": "TZ",
+        "asn": "32860",
+        "description": "Cats-Net Limited",
+        "handle": "CATS-NET-NETWORK"
+    },
+    "33765": {
+        "country_code": "TZ",
+        "asn": "33765",
+        "description": "TANZANIA TELECOMMUNICATIONS CO. LTD",
+        "handle": "TTCLDATA"
+    },
+    "33791": {
+        "country_code": "TZ",
+        "asn": "33791",
+        "description": "TISPA - Tanzania Internet Service Providers Association",
+        "handle": "TIX-ASN"
+    },
+    "36908": {
+        "country_code": "TZ",
+        "asn": "36908",
+        "description": "Vodacom Tanzania Ltd",
+        "handle": "VTL-ASN"
+    },
+    "36909": {
+        "country_code": "TZ",
+        "asn": "36909",
+        "description": "Habari Node Public Limited",
+        "handle": "HABARI-CO-TZ-AS"
+    },
+    "36930": {
+        "country_code": "TZ",
+        "asn": "36930",
+        "description": "MIC TANZANIA LTD",
+        "handle": "MIC-TANZANIA-LTD"
+    },
+    "36965": {
+        "country_code": "TZ",
+        "asn": "36965",
+        "description": "WIA Tanzania",
+        "handle": "WIA-TZ"
+    },
+    "37013": {
+        "country_code": "TZ",
+        "asn": "37013",
+        "description": "Satcom Networks Africa",
+        "handle": "SATCOM-AS"
+    },
+    "37027": {
+        "country_code": "TZ",
+        "asn": "37027",
+        "description": "Simbanet (T) Limited",
+        "handle": "SIMBANET-AS"
+    },
+    "37035": {
+        "country_code": "TZ",
+        "asn": "37035",
+        "description": "MIC TANZANIA LTD",
+        "handle": "MIC-AS"
+    },
+    "37045": {
+        "country_code": "TZ",
+        "asn": "37045",
+        "description": "Tanzania Network Information Centre (tzNIC)",
+        "handle": "TZNIC"
+    },
+    "37084": {
+        "country_code": "TZ",
+        "asn": "37084",
+        "description": "Simbanet (T) Limited",
+        "handle": "SIMBANET-TZ"
+    },
+    "37085": {
+        "country_code": "TZ",
+        "asn": "37085",
+        "description": "The Open University of Tanzania",
+        "handle": "OUT-AS"
+    },
+    "37126": {
+        "country_code": "TZ",
+        "asn": "37126",
+        "description": "Bell Communications Ltd",
+        "handle": "BELL-TZ"
+    },
+    "37133": {
+        "country_code": "TZ",
+        "asn": "37133",
+        "description": "Airtel Tanzania",
+        "handle": "AIRTEL-TZ-AS"
+    },
+    "37143": {
+        "country_code": "TZ",
+        "asn": "37143",
+        "description": "Arusha Art Limited",
+        "handle": "ARUSHA-AS"
+    },
+    "37182": {
+        "country_code": "TZ",
+        "asn": "37182",
+        "description": "Tanzania Education And Research Network",
+        "handle": "TERNET"
+    },
+    "37218": {
+        "country_code": "TZ",
+        "asn": "37218",
+        "description": "The University of Dodoma",
+        "handle": "UNIVERSITY-OF-DODOMA"
+    },
+    "37349": {
+        "country_code": "TZ",
+        "asn": "37349",
+        "description": "Aptus Solutions Ltd",
+        "handle": "APTUS"
+    },
+    "37359": {
+        "country_code": "TZ",
+        "asn": "37359",
+        "description": "MIC TANZANIA LTD",
+        "handle": "MIC-TANZANIA-LTD"
+    },
+    "37362": {
+        "country_code": "TZ",
+        "asn": "37362",
+        "description": "Tanzania Ports Authority",
+        "handle": "TANZANIA-PORTS-AUTHORITY"
+    },
+    "37364": {
+        "country_code": "TZ",
+        "asn": "37364",
+        "description": "TANZANIA COMMUNICATIONS REGULATORY AUTHORITY (TCRA)",
+        "handle": "TCRA"
+    },
+    "37419": {
+        "country_code": "TZ",
+        "asn": "37419",
+        "description": "Tanzania Revenue Authority",
+        "handle": "TRA"
+    },
+    "37454": {
+        "country_code": "TZ",
+        "asn": "37454",
+        "description": "BNH Communication Solutions",
+        "handle": "BNH"
+    },
+    "37496": {
+        "country_code": "TZ",
+        "asn": "37496",
+        "description": "Aga Khan University",
+        "handle": "AGA-KHAN-UNIVERSITY"
+    },
+    "37576": {
+        "country_code": "TZ",
+        "asn": "37576",
+        "description": "Zee Communications Ltd",
+        "handle": "ZEEASN"
+    },
+    "37607": {
+        "country_code": "TZ",
+        "asn": "37607",
+        "description": "Smile Communications Tanzania Ltd",
+        "handle": "SMILE-TZ-AS"
+    },
+    "37710": {
+        "country_code": "TZ",
+        "asn": "37710",
+        "description": "TISPA - Tanzania Internet Service Providers Association",
+        "handle": "AIXP-ROUTE-SERVER"
+    },
+    "37769": {
+        "country_code": "TZ",
+        "asn": "37769",
+        "description": "TISPA - Tanzania Internet Service Providers Association",
+        "handle": "MWANZA-IXP-PEERING"
+    },
+    "37777": {
+        "country_code": "TZ",
+        "asn": "37777",
+        "description": "TISPA - Tanzania Internet Service Providers Association",
+        "handle": "TISPA-ZIXP-PEERING-AS"
+    },
+    "37778": {
+        "country_code": "TZ",
+        "asn": "37778",
+        "description": "TISPA - Tanzania Internet Service Providers Association",
+        "handle": "TISPA-DIXP-PEERING-AS"
+    },
+    "37779": {
+        "country_code": "TZ",
+        "asn": "37779",
+        "description": "TISPA - Tanzania Internet Service Providers Association",
+        "handle": "TISPA-MBIXP-PEERING-AS"
+    },
+    "327706": {
+        "country_code": "TZ",
+        "asn": "327706",
+        "description": "Power and Network Backup Company Ltd",
+        "handle": "POWER-AND-NETWORK-BACKUP"
+    },
+    "327714": {
+        "country_code": "TZ",
+        "asn": "327714",
+        "description": "Zanzibar Connections Company Limited",
+        "handle": "COMNET-TZ"
+    },
+    "327728": {
+        "country_code": "TZ",
+        "asn": "327728",
+        "description": "Cable Television Network (CTV) Limited",
+        "handle": "CTV"
+    },
+    "327730": {
+        "country_code": "TZ",
+        "asn": "327730",
+        "description": "PPF PENSION FUND",
+        "handle": "PPF"
+    },
+    "327771": {
+        "country_code": "TZ",
+        "asn": "327771",
+        "description": "Milan Cable",
+        "handle": "MILAN-CABLE"
+    },
+    "327774": {
+        "country_code": "TZ",
+        "asn": "327774",
+        "description": "TANZANIA POSTAL BANK",
+        "handle": "TANZANIA-POSTAL-BANK"
+    },
+    "327778": {
+        "country_code": "TZ",
+        "asn": "327778",
+        "description": "Bank of Tanzania",
+        "handle": "BOT-GO-TZ"
+    },
+    "327792": {
+        "country_code": "TZ",
+        "asn": "327792",
+        "description": "Computer Sales & Services",
+        "handle": "COMPUTER-SALES-SERVICES"
+    },
+    "327795": {
+        "country_code": "TZ",
+        "asn": "327795",
+        "description": "e-Government Authority",
+        "handle": "TANZANIA-E-GOVERNMENT-AGENCY"
+    },
+    "327819": {
+        "country_code": "TZ",
+        "asn": "327819",
+        "description": "AZAM MEDIA LIMITED",
+        "handle": "AZAM-MEDIA"
+    },
+    "327844": {
+        "country_code": "TZ",
+        "asn": "327844",
+        "description": "TISPA - Tanzania Internet Service Providers Association",
+        "handle": "TISPA-TIX-MANAGEMENT"
+    },
+    "327852": {
+        "country_code": "TZ",
+        "asn": "327852",
+        "description": "TISPA - Tanzania Internet Service Providers Association",
+        "handle": "TISPA-AIXP-MNGNT"
+    },
+    "327859": {
+        "country_code": "TZ",
+        "asn": "327859",
+        "description": "Capital Technologies",
+        "handle": "CAPITAL-TECHNOLOGIES"
+    },
+    "327885": {
+        "country_code": "TZ",
+        "asn": "327885",
+        "description": "Viettel Tanzania PLC",
+        "handle": "VIETTEL-TANZANIA"
+    },
+    "327888": {
+        "country_code": "TZ",
+        "asn": "327888",
+        "description": "NMB Bank Public Limited Company",
+        "handle": "NMB-BANK-PUBLIC-LIMITED-COMPANY"
+    },
+    "327900": {
+        "country_code": "TZ",
+        "asn": "327900",
+        "description": "Simply Computers Tanzania Ltd",
+        "handle": "SIMPLYCONNECT-SIMPLY-COMPUTERS"
+    },
+    "327905": {
+        "country_code": "TZ",
+        "asn": "327905",
+        "description": "TANZANIA TELECOMMUNICATIONS CO. LTD",
+        "handle": "TTCL"
+    },
+    "327912": {
+        "country_code": "TZ",
+        "asn": "327912",
+        "description": "National Health Insurance Fund (NHIF)",
+        "handle": "NATIONAL-HEALTH-INSURANCE-FUND"
+    },
+    "328017": {
+        "country_code": "TZ",
+        "asn": "328017",
+        "description": "TANZANIA COMMUNICATIONS REGULATORY AUTHORITY (TZCERT)",
+        "handle": "TCRA-TZCERT"
+    },
+    "328018": {
+        "country_code": "TZ",
+        "asn": "328018",
+        "description": "National Housing Corporation",
+        "handle": "NATIONAL-HOUSING-CORPORATION"
+    },
+    "328022": {
+        "country_code": "TZ",
+        "asn": "328022",
+        "description": "TISPA - Tanzania Internet Service Providers Association",
+        "handle": "MWANXA-IXP-MGMNT"
+    },
+    "328075": {
+        "country_code": "TZ",
+        "asn": "328075",
+        "description": "Gadgetronix.Net Ltd",
+        "handle": "GADGETRONIX-NET"
+    },
+    "328139": {
+        "country_code": "TZ",
+        "asn": "328139",
+        "description": "Business Registrations and Licensing Agency (BRELA)",
+        "handle": "BRELA-AS"
+    },
+    "328294": {
+        "country_code": "TZ",
+        "asn": "328294",
+        "description": "TISPA - Tanzania Internet Service Providers Association",
+        "handle": "TISPA-ZIXP-MGMT-AS"
+    },
+    "328325": {
+        "country_code": "TZ",
+        "asn": "328325",
+        "description": "TISPA - Tanzania Internet Service Providers Association",
+        "handle": "TISPA-DIXP-AS"
+    },
+    "328326": {
+        "country_code": "TZ",
+        "asn": "328326",
+        "description": "TISPA - Tanzania Internet Service Providers Association",
+        "handle": "TISPA-MBIXP-AS"
+    },
+    "328436": {
+        "country_code": "TZ",
+        "asn": "328436",
+        "description": "Flashnet Technologies Limited",
+        "handle": "FLASHNET-TECHNOLOGIES-LIMITED"
+    },
+    "328478": {
+        "country_code": "TZ",
+        "asn": "328478",
+        "description": "Exim Bank (Tanzania) Ltd",
+        "handle": "EXIM-BANK-TZ-AS"
+    },
+    "328499": {
+        "country_code": "TZ",
+        "asn": "328499",
+        "description": "NEXIS GLOBAL LIMITED",
+        "handle": "NEXIS-GLOBAL-LIMITED"
+    },
+    "328504": {
+        "country_code": "TZ",
+        "asn": "328504",
+        "description": "National Identification Authority",
+        "handle": "NATIONAL-IDENTIFICATION-AUTHORITY-AS"
+    },
+    "328514": {
+        "country_code": "TZ",
+        "asn": "328514",
+        "description": "Net Solutions Limited",
+        "handle": "NET-SOLUTIONS"
+    },
+    "328545": {
+        "country_code": "TZ",
+        "asn": "328545",
+        "description": "Softnet Technologies Limited",
+        "handle": "STL-TECH"
+    },
+    "328557": {
+        "country_code": "TZ",
+        "asn": "328557",
+        "description": "DIAMOND TRUST BANK TANZANIA LIMITED",
+        "handle": "DIAMOND-TRUST-BANK-TANZANIA-AS"
+    },
+    "328607": {
+        "country_code": "TZ",
+        "asn": "328607",
+        "description": "UBX (TANZANIA) LIMITED",
+        "handle": "UBX-AS"
+    },
+    "328676": {
+        "country_code": "TZ",
+        "asn": "328676",
+        "description": "Zanzibar Information Communication Technology Infrastructure Agency (ZICTIA)",
+        "handle": "ZICTIA"
+    },
+    "328700": {
+        "country_code": "TZ",
+        "asn": "328700",
+        "description": "TISPA - Tanzania Internet Service Providers Association",
+        "handle": "TIX-CDN"
+    },
+    "328751": {
+        "country_code": "TZ",
+        "asn": "328751",
+        "description": "CRDB BANK PLC",
+        "handle": "CRDB-BANK"
+    },
+    "328775": {
+        "country_code": "TZ",
+        "asn": "328775",
+        "description": "AZAMPAY TANZANIA LIMITED",
+        "handle": "AZAMPAY-TANZANIA-AS"
+    },
+    "328783": {
+        "country_code": "TZ",
+        "asn": "328783",
+        "description": "SELCOM PAYTECH LTD",
+        "handle": "SELCOM-PAYTECH"
+    },
+    "328805": {
+        "country_code": "TZ",
+        "asn": "328805",
+        "description": "ZAPTECH LIMITED",
+        "handle": "ZAPTECH-AS"
+    },
+    "328838": {
+        "country_code": "TZ",
+        "asn": "328838",
+        "description": "AIM Firms Limited",
+        "handle": "AIM-FIRMS"
+    },
+    "328845": {
+        "country_code": "TZ",
+        "asn": "328845",
+        "description": "The Governing Body of College of Business Education",
+        "handle": "COBE-AS"
+    },
+    "328849": {
+        "country_code": "TZ",
+        "asn": "328849",
+        "description": "Nexusnet Limited",
+        "handle": "NEXUSNET-AS"
+    },
+    "328865": {
+        "country_code": "TZ",
+        "asn": "328865",
+        "description": "The Office of the Minister of State in the President's Office",
+        "handle": "TOOT1-AS"
+    },
+    "328885": {
+        "country_code": "TZ",
+        "asn": "328885",
+        "description": "Kenya Commercial Bank (Tanzania) Limited",
+        "handle": "KCBL-AS"
+    },
+    "328895": {
+        "country_code": "TZ",
+        "asn": "328895",
+        "description": "WINCABLE AND INTERNET LIMITED",
+        "handle": "WINCABLE-AND-INTERNET-LIMITED-AS"
+    },
+    "328930": {
+        "country_code": "TZ",
+        "asn": "328930",
+        "description": "The National Examinations Council of Tanzania",
+        "handle": "TNEC-AS"
+    },
+    "328950": {
+        "country_code": "TZ",
+        "asn": "328950",
+        "description": "Green Telecom Limited",
+        "handle": "GTL4-AS"
+    },
+    "328980": {
+        "country_code": "TZ",
+        "asn": "328980",
+        "description": "International School of Tanganyika",
+        "handle": "ISOT-AS"
+    },
+    "329013": {
+        "country_code": "TZ",
+        "asn": "329013",
+        "description": "World Mobile Chain Limited",
+        "handle": "WORLD-MOBILE-CHAIN-AS"
+    },
+    "329034": {
+        "country_code": "TZ",
+        "asn": "329034",
+        "description": "Hawaritha investment Limited",
+        "handle": "HAWARITHA-AS"
+    },
+    "329155": {
+        "country_code": "TZ",
+        "asn": "329155",
+        "description": "ATEB TECHNOLOGIES LIMITED",
+        "handle": "ATEB-AS"
+    },
+    "329172": {
+        "country_code": "TZ",
+        "asn": "329172",
+        "description": "Ictpack Solutions Limited",
+        "handle": "ISL3-AS"
+    },
+    "329178": {
+        "country_code": "TZ",
+        "asn": "329178",
+        "description": "NATIONAL INTERNET DATA CENTER (NIDC)",
+        "handle": "NIDC-AS"
+    },
+    "329221": {
+        "country_code": "TZ",
+        "asn": "329221",
+        "description": "TANZANIA ELECTRIC SUPPLY COMPANY LIMITED",
+        "handle": "TANZANIA-ELECTRIC-SUPPLY-COMPANY-LIMITED"
+    },
+    "329242": {
+        "country_code": "TZ",
+        "asn": "329242",
+        "description": "Equity Bank Tanzania Limited",
+        "handle": "EQUITY-BANK-TANZANIA-LIMITED"
+    },
+    "329251": {
+        "country_code": "TZ",
+        "asn": "329251",
+        "description": "NATIONAL BANK OF COMMERCE LIMITED",
+        "handle": "NATIONAL-BANK-OF-COMMERCE-LIMITED"
+    },
+    "329292": {
+        "country_code": "TZ",
+        "asn": "329292",
+        "description": "GEEZNET TECHNOLOGIES LIMITED",
+        "handle": "GEEZNET-TECHNOLOGIES"
+    },
+    "329304": {
+        "country_code": "TZ",
+        "asn": "329304",
+        "description": "THE TRUSTEES OF THE TANZANIA NATIONAL PARKS",
+        "handle": "THE-TRUSTEES-OF-THE-TANZANIA-NATIONAL-PARKS"
+    },
+    "329322": {
+        "country_code": "TZ",
+        "asn": "329322",
+        "description": "BARMEDAS.COM LTD",
+        "handle": "BARMEDAS-TANZANIA"
+    },
+    "329393": {
+        "country_code": "TZ",
+        "asn": "329393",
+        "description": "FASTHUB SOLUTIONS LIMITED",
+        "handle": "FASTHUB"
+    },
+    "329413": {
+        "country_code": "TZ",
+        "asn": "329413",
+        "description": "Kasi Networks Limited",
+        "handle": "KASI-NETWORKS"
+    },
+    "329420": {
+        "country_code": "TZ",
+        "asn": "329420",
+        "description": "Azania Bank Limited",
+        "handle": "AZANIA-BANK"
+    },
+    "329448": {
+        "country_code": "TZ",
+        "asn": "329448",
+        "description": "AZAM MEDIA LIMITED",
+        "handle": "AZAM-MEDIA"
+    },
+    "329450": {
+        "country_code": "TZ",
+        "asn": "329450",
+        "description": "Tanzania Commission for Science and Technology",
+        "handle": "TANZANIA-COMMISSION-FOR-SCIENCEAND-TECHNOLOGY"
+    },
+    "329466": {
+        "country_code": "TZ",
+        "asn": "329466",
+        "description": "Bongo Live Enterprise Ltd",
+        "handle": "BONGO-LIVE-ENTERPRISE-LTD"
+    },
+    "329488": {
+        "country_code": "TZ",
+        "asn": "329488",
+        "description": "Dodoma FiberCo Limited",
+        "handle": "DODOMA-FIBERCO"
+    },
+    "329495": {
+        "country_code": "TZ",
+        "asn": "329495",
+        "description": "Access Bank Tanzania Limited",
+        "handle": "ACCESS-BANK-TANZANIA-LIMITED"
+    },
+    "329499": {
+        "country_code": "TZ",
+        "asn": "329499",
+        "description": "AIBRA GROUP LIMITED",
+        "handle": "AIBRA-GROUP-LIMITED"
+    },
+    "329524": {
+        "country_code": "TZ",
+        "asn": "329524",
+        "description": "ZANZIBAR CABLE TELEVISION LIMITED",
+        "handle": "ZANZIBAR-CABLE-TELEVISION"
+    },
+    "329529": {
+        "country_code": "TZ",
+        "asn": "329529",
+        "description": "Kinetic Networks Limited",
+        "handle": "KINETIC"
+    },
+    "329530": {
+        "country_code": "TZ",
+        "asn": "329530",
+        "description": "Savanna Fibre (Tanzania) Ltd",
+        "handle": "SAVANNA-FIBRE-TANZANIA-LTD"
+    },
+    "329537": {
+        "country_code": "TZ",
+        "asn": "329537",
+        "description": "Raddy Digital Solution Limited",
+        "handle": "RADDY-DIGITAL-SOLUTION-LIMITED"
+    },
+    "329545": {
+        "country_code": "TZ",
+        "asn": "329545",
+        "description": "DCB COMMERCIAL BANK PLC",
+        "handle": "DCB-COMMERCIAL-BANK"
+    },
+    "329548": {
+        "country_code": "TZ",
+        "asn": "329548",
+        "description": "DATA LAB (T) LIMITED",
+        "handle": "DATA-LAB"
+    },
+    "329595": {
+        "country_code": "TZ",
+        "asn": "329595",
+        "description": "Tanzania Railways Corporation",
+        "handle": "TANZANIA-RAILWAYS-CORPORATION"
+    },
+    "329603": {
+        "country_code": "TZ",
+        "asn": "329603",
+        "description": "SKT TANZANIA LIMITED",
+        "handle": "SKT-TANZANIA-LIMITED"
+    },
+    "329627": {
+        "country_code": "TZ",
+        "asn": "329627",
+        "description": "Wingu Tanzania Limited",
+        "handle": "WINGU-TANZANIA"
+    },
+    "329640": {
+        "country_code": "TZ",
+        "asn": "329640",
+        "description": "CHITA TELECOM LIMITED",
+        "handle": "CHITA-TELECOM"
+    },
+    "329647": {
+        "country_code": "TZ",
+        "asn": "329647",
+        "description": "SPRINT TANZANIA LIMITED",
+        "handle": "SPRINT-TANZANIA"
+    },
+    "329657": {
+        "country_code": "TZ",
+        "asn": "329657",
+        "description": "Binary Institute Tanzania Limited",
+        "handle": "BINARY-INSTITUTE-TANZANIA"
+    },
+    "329662": {
+        "country_code": "TZ",
+        "asn": "329662",
+        "description": "Stellar-IX Tanzania Limited",
+        "handle": "STELLAR-IX-TANZANIA"
+    },
+    "329677": {
+        "country_code": "TZ",
+        "asn": "329677",
+        "description": "Telxer Enterprise Limited",
+        "handle": "TELXER-ENTERPRISE"
+    },
+    "329701": {
+        "country_code": "TZ",
+        "asn": "329701",
+        "description": "THE PEOPLE'S BANK OF ZANZIBAR LIMITED",
+        "handle": "THE-PEOPLE-BANK-OF-ZANZIBAR"
+    }
+}

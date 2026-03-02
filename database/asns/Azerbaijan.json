@@ -1,0 +1,668 @@
+{
+    "8814": {
+        "country_code": "AZ",
+        "asn": "8814",
+        "description": "Aztelekom LLC",
+        "handle": "AS-AZTELEKOM"
+    },
+    "13099": {
+        "country_code": "AZ",
+        "asn": "13099",
+        "description": "AZ-EVRO TEL LLC",
+        "handle": "AET-AS"
+    },
+    "15723": {
+        "country_code": "AZ",
+        "asn": "15723",
+        "description": "AZERONLINE LTD JOINT ENTERPRISE",
+        "handle": "AZERONLINE"
+    },
+    "15815": {
+        "country_code": "AZ",
+        "asn": "15815",
+        "description": "INTRA Network Systems Ltd",
+        "handle": "INTRANS-AS"
+    },
+    "28787": {
+        "country_code": "AZ",
+        "asn": "28787",
+        "description": "Aztelekom LLC",
+        "handle": "AS-AZTELEKOM"
+    },
+    "29049": {
+        "country_code": "AZ",
+        "asn": "29049",
+        "description": "Delta Telecom Ltd",
+        "handle": "DELTA-TELECOM-AS"
+    },
+    "29584": {
+        "country_code": "AZ",
+        "asn": "29584",
+        "description": "AZEDUNET LLC",
+        "handle": "AZEDUNET-AS"
+    },
+    "31721": {
+        "country_code": "AZ",
+        "asn": "31721",
+        "description": "Azercell Telecom Ltd",
+        "handle": "AZERCELL-AS"
+    },
+    "34170": {
+        "country_code": "AZ",
+        "asn": "34170",
+        "description": "Aztelekom LLC",
+        "handle": "AS-AZTELEKOM"
+    },
+    "34876": {
+        "country_code": "AZ",
+        "asn": "34876",
+        "description": "SMART SISTEMZ TECHNOLOJI MMM",
+        "handle": "SMART-SYSTEMS"
+    },
+    "39232": {
+        "country_code": "AZ",
+        "asn": "39232",
+        "description": "Uninet LLC",
+        "handle": "UNINET"
+    },
+    "39280": {
+        "country_code": "AZ",
+        "asn": "39280",
+        "description": "Ultel LLC",
+        "handle": "ULTELNET-AS"
+    },
+    "39397": {
+        "country_code": "AZ",
+        "asn": "39397",
+        "description": "Metronet LLC",
+        "handle": "AZ-METRONET-AS"
+    },
+    "41997": {
+        "country_code": "AZ",
+        "asn": "41997",
+        "description": "Connect CJSC",
+        "handle": "CONNECT-AS-1"
+    },
+    "42779": {
+        "country_code": "AZ",
+        "asn": "42779",
+        "description": "Azerfon LLC",
+        "handle": "AZERFON"
+    },
+    "44725": {
+        "country_code": "AZ",
+        "asn": "44725",
+        "description": "Sinam LLC",
+        "handle": "AZQTEL-AS"
+    },
+    "48542": {
+        "country_code": "AZ",
+        "asn": "48542",
+        "description": "START TELECOM Mahdud Masuliyyatli Camiyyati",
+        "handle": "STARTTELECOM"
+    },
+    "48830": {
+        "country_code": "AZ",
+        "asn": "48830",
+        "description": "TransEuroCom LLC",
+        "handle": "TEC-AS"
+    },
+    "49345": {
+        "country_code": "AZ",
+        "asn": "49345",
+        "description": "BEEONLINE OJSC",
+        "handle": "AZLINK-AS"
+    },
+    "50274": {
+        "country_code": "AZ",
+        "asn": "50274",
+        "description": "Alfanet LLC",
+        "handle": "ALFANET-AS"
+    },
+    "50371": {
+        "country_code": "AZ",
+        "asn": "50371",
+        "description": "Seabak LLC",
+        "handle": "SEANET-IX05"
+    },
+    "50959": {
+        "country_code": "AZ",
+        "asn": "50959",
+        "description": "BEEONLINE OJSC",
+        "handle": "BEEONLINE-AS"
+    },
+    "57293": {
+        "country_code": "AZ",
+        "asn": "57293",
+        "description": "AG Telekom MMC.",
+        "handle": "AG-TELECOM-KATV1"
+    },
+    "57675": {
+        "country_code": "AZ",
+        "asn": "57675",
+        "description": "Seabak LLC",
+        "handle": "SEANET"
+    },
+    "57786": {
+        "country_code": "AZ",
+        "asn": "57786",
+        "description": "Bravo Online Systems LLC",
+        "handle": "SEANET"
+    },
+    "59704": {
+        "country_code": "AZ",
+        "asn": "59704",
+        "description": "SHAKH Telecom LLC",
+        "handle": "SHAKH-TV"
+    },
+    "60258": {
+        "country_code": "AZ",
+        "asn": "60258",
+        "description": "ENGINET LLC",
+        "handle": "ENGINET-AS"
+    },
+    "61304": {
+        "country_code": "AZ",
+        "asn": "61304",
+        "description": "Connect CJSC",
+        "handle": "CONNECTAZ-AS"
+    },
+    "196821": {
+        "country_code": "AZ",
+        "asn": "196821",
+        "description": "AzInTelecom LLC",
+        "handle": "MHM-AS"
+    },
+    "196925": {
+        "country_code": "AZ",
+        "asn": "196925",
+        "description": "AZERTELECOM LLC",
+        "handle": "AZRT-AS"
+    },
+    "196961": {
+        "country_code": "AZ",
+        "asn": "196961",
+        "description": "Teleport LLC",
+        "handle": "TELEPORT-NET"
+    },
+    "197830": {
+        "country_code": "AZ",
+        "asn": "197830",
+        "description": "BAKCELL LLC",
+        "handle": "BAKCELL-AS"
+    },
+    "198267": {
+        "country_code": "AZ",
+        "asn": "198267",
+        "description": "Gamma-Sky Net LLC",
+        "handle": "GAMMASKYNET"
+    },
+    "198552": {
+        "country_code": "AZ",
+        "asn": "198552",
+        "description": "Gammanet LLC",
+        "handle": "GAMMANET"
+    },
+    "198876": {
+        "country_code": "AZ",
+        "asn": "198876",
+        "description": "STATE OIL COMPANY OF THE REPUBLIC OF AZERBAIJAN",
+        "handle": "SOCAR"
+    },
+    "199311": {
+        "country_code": "AZ",
+        "asn": "199311",
+        "description": "AZERTELECOM LLC",
+        "handle": "AZRT-LX"
+    },
+    "199444": {
+        "country_code": "AZ",
+        "asn": "199444",
+        "description": "HMC Company LLC",
+        "handle": "HMC-DC-PL"
+    },
+    "199489": {
+        "country_code": "AZ",
+        "asn": "199489",
+        "description": "Easy Netvvork LLC",
+        "handle": "AEN"
+    },
+    "199731": {
+        "country_code": "AZ",
+        "asn": "199731",
+        "description": "The Educational Center for Internet and New Technologies of the Nakhchivan Autonomous Republic",
+        "handle": "NAKHINTERNET-ISP"
+    },
+    "199985": {
+        "country_code": "AZ",
+        "asn": "199985",
+        "description": "Metronet LLC",
+        "handle": "AZ-METRONET-AS"
+    },
+    "199987": {
+        "country_code": "AZ",
+        "asn": "199987",
+        "description": "Flexnet LLC",
+        "handle": "FLEXNET-AS"
+    },
+    "200012": {
+        "country_code": "AZ",
+        "asn": "200012",
+        "description": "NAXTEL Limited Liability Company",
+        "handle": "NAXTEL"
+    },
+    "200154": {
+        "country_code": "AZ",
+        "asn": "200154",
+        "description": "IZONE LLC",
+        "handle": "IZONE-AS"
+    },
+    "200228": {
+        "country_code": "AZ",
+        "asn": "200228",
+        "description": "Saffcell LLC",
+        "handle": "ASC"
+    },
+    "200446": {
+        "country_code": "AZ",
+        "asn": "200446",
+        "description": "SELNET LLC",
+        "handle": "AZ-SELNET"
+    },
+    "200650": {
+        "country_code": "AZ",
+        "asn": "200650",
+        "description": "Megalink LLC",
+        "handle": "MEGALINK"
+    },
+    "200729": {
+        "country_code": "AZ",
+        "asn": "200729",
+        "description": "AzInTelecom LLC",
+        "handle": "MCIT"
+    },
+    "201167": {
+        "country_code": "AZ",
+        "asn": "201167",
+        "description": "Caspian Telecom LLC",
+        "handle": "CASTEL-AS"
+    },
+    "201300": {
+        "country_code": "AZ",
+        "asn": "201300",
+        "description": "Mirkamal Emiraslanov",
+        "handle": "AZV6"
+    },
+    "201373": {
+        "country_code": "AZ",
+        "asn": "201373",
+        "description": "NET.SERVICES LLC",
+        "handle": "NETSERVICES"
+    },
+    "201390": {
+        "country_code": "AZ",
+        "asn": "201390",
+        "description": "Azericard LLC",
+        "handle": "ASN-AZERICARD"
+    },
+    "202993": {
+        "country_code": "AZ",
+        "asn": "202993",
+        "description": "Institute of Information Technologies of National Academy of Science Azerbaijan",
+        "handle": "IIT"
+    },
+    "203622": {
+        "country_code": "AZ",
+        "asn": "203622",
+        "description": "GSP LLC",
+        "handle": "GSP"
+    },
+    "203680": {
+        "country_code": "AZ",
+        "asn": "203680",
+        "description": "Araz Tech LLC",
+        "handle": "ARAZTECH"
+    },
+    "203971": {
+        "country_code": "AZ",
+        "asn": "203971",
+        "description": "AzFiberNet LLC",
+        "handle": "AZFIBERNET-ASN"
+    },
+    "204016": {
+        "country_code": "AZ",
+        "asn": "204016",
+        "description": "International Bank of Azerbaijan OJSC",
+        "handle": "ABBBANK"
+    },
+    "204840": {
+        "country_code": "AZ",
+        "asn": "204840",
+        "description": "Xalq Sigorta OJSC",
+        "handle": "XALQ-SIGORTA-AS"
+    },
+    "204986": {
+        "country_code": "AZ",
+        "asn": "204986",
+        "description": "Sparktel LLC",
+        "handle": "SPARKTEL"
+    },
+    "205258": {
+        "country_code": "AZ",
+        "asn": "205258",
+        "description": "QoldenPey OJSC",
+        "handle": "ASGOLDENPAY"
+    },
+    "205317": {
+        "country_code": "AZ",
+        "asn": "205317",
+        "description": "AzFiberNet LLC",
+        "handle": "AFN-ASN"
+    },
+    "205367": {
+        "country_code": "AZ",
+        "asn": "205367",
+        "description": "NetPoint LLC",
+        "handle": "AS-NP"
+    },
+    "205547": {
+        "country_code": "AZ",
+        "asn": "205547",
+        "description": "Flexnet LLC",
+        "handle": "FLEXNET"
+    },
+    "206977": {
+        "country_code": "AZ",
+        "asn": "206977",
+        "description": "STATE SERVICE OF SPECIAL COMMUNICATION AND INFORMATION SECURITY OF THE REPUBLIC OF AZERBAIJAN",
+        "handle": "AZSTATENET"
+    },
+    "207251": {
+        "country_code": "AZ",
+        "asn": "207251",
+        "description": "CASPEL LLC",
+        "handle": "CASPEL"
+    },
+    "207619": {
+        "country_code": "AZ",
+        "asn": "207619",
+        "description": "HOSTART LLC",
+        "handle": "HOSTART"
+    },
+    "207922": {
+        "country_code": "AZ",
+        "asn": "207922",
+        "description": "AZETEL LLC",
+        "handle": "AZETEL"
+    },
+    "208279": {
+        "country_code": "AZ",
+        "asn": "208279",
+        "description": "AzerTurkBank OJSC",
+        "handle": "AS-ATB"
+    },
+    "208410": {
+        "country_code": "AZ",
+        "asn": "208410",
+        "description": "ARTKOM.NET LLC",
+        "handle": "ARTKOM"
+    },
+    "208439": {
+        "country_code": "AZ",
+        "asn": "208439",
+        "description": "Fiberon LLC",
+        "handle": "FIBERON-ISP-AS"
+    },
+    "209089": {
+        "country_code": "AZ",
+        "asn": "209089",
+        "description": "Azerbaijan Airlines Closed Joint Stock Company",
+        "handle": "AZAL"
+    },
+    "209360": {
+        "country_code": "AZ",
+        "asn": "209360",
+        "description": "Bulud Telecom LLC",
+        "handle": "BULUD"
+    },
+    "209374": {
+        "country_code": "AZ",
+        "asn": "209374",
+        "description": "The Central Bank of the Republic of Azerbaijan",
+        "handle": "CBAR-AZ"
+    },
+    "209489": {
+        "country_code": "AZ",
+        "asn": "209489",
+        "description": "Azintex.com LLC",
+        "handle": "AZINTEX-AS"
+    },
+    "209700": {
+        "country_code": "AZ",
+        "asn": "209700",
+        "description": "PASHA TECHNOLOGY LLC",
+        "handle": "PASHATECH"
+    },
+    "210260": {
+        "country_code": "AZ",
+        "asn": "210260",
+        "description": "EuroNet Telecom LLC",
+        "handle": "EURONETTELECOM"
+    },
+    "210293": {
+        "country_code": "AZ",
+        "asn": "210293",
+        "description": "Kapital bank OJSC",
+        "handle": "KAPITALBANK"
+    },
+    "210419": {
+        "country_code": "AZ",
+        "asn": "210419",
+        "description": "Fibernet LLC",
+        "handle": "BUTATELECOM-AS"
+    },
+    "210665": {
+        "country_code": "AZ",
+        "asn": "210665",
+        "description": "Electronic Government Development Center Public Legal Entity",
+        "handle": "EHIM"
+    },
+    "211143": {
+        "country_code": "AZ",
+        "asn": "211143",
+        "description": "Azerlotereya Open Joint Stock Company",
+        "handle": "AZL"
+    },
+    "211780": {
+        "country_code": "AZ",
+        "asn": "211780",
+        "description": "Cavansir Ramazanov",
+        "handle": "BROLVE"
+    },
+    "211790": {
+        "country_code": "AZ",
+        "asn": "211790",
+        "description": "INNET.AZ LTD",
+        "handle": "AZINKOM-AS"
+    },
+    "211937": {
+        "country_code": "AZ",
+        "asn": "211937",
+        "description": "Azersun Holding LLC",
+        "handle": "AZERSUN-HOLDING"
+    },
+    "211960": {
+        "country_code": "AZ",
+        "asn": "211960",
+        "description": "Bank Respublika OJSC",
+        "handle": "BANKRESPUBLIKA"
+    },
+    "211995": {
+        "country_code": "AZ",
+        "asn": "211995",
+        "description": "A2Z Technologies CJSC",
+        "handle": "A2Z"
+    },
+    "212517": {
+        "country_code": "AZ",
+        "asn": "212517",
+        "description": "Rustam Jafarov trading as TVNET Solution",
+        "handle": "TVNET"
+    },
+    "213139": {
+        "country_code": "AZ",
+        "asn": "213139",
+        "description": "Faraon-1 LLC",
+        "handle": "DIGINET-LLC"
+    },
+    "213328": {
+        "country_code": "AZ",
+        "asn": "213328",
+        "description": "AZETEL LLC",
+        "handle": "RSL"
+    },
+    "213379": {
+        "country_code": "AZ",
+        "asn": "213379",
+        "description": "Xalq Bank OJSC",
+        "handle": "AS-XB"
+    },
+    "213398": {
+        "country_code": "AZ",
+        "asn": "213398",
+        "description": "Fibernet LLC",
+        "handle": "FIBERNET"
+    },
+    "213402": {
+        "country_code": "AZ",
+        "asn": "213402",
+        "description": "Rahat Telecom LLC",
+        "handle": "RAHATTELECOM-AS"
+    },
+    "213670": {
+        "country_code": "AZ",
+        "asn": "213670",
+        "description": "TTNET LLC",
+        "handle": "TTNET-AZ"
+    },
+    "213881": {
+        "country_code": "AZ",
+        "asn": "213881",
+        "description": "OUR Technology LLC",
+        "handle": "OUR"
+    },
+    "214468": {
+        "country_code": "AZ",
+        "asn": "214468",
+        "description": "Araznet Technologies LLC",
+        "handle": "ARAZ-NET"
+    },
+    "214489": {
+        "country_code": "AZ",
+        "asn": "214489",
+        "description": "AZNET TECHNOLOGIES LLC",
+        "handle": "AZNET"
+    },
+    "214682": {
+        "country_code": "AZ",
+        "asn": "214682",
+        "description": "Epro.io LLC",
+        "handle": "EPRO-IO"
+    },
+    "214889": {
+        "country_code": "AZ",
+        "asn": "214889",
+        "description": "Seabak LLC",
+        "handle": "SEABAK-EU"
+    },
+    "214946": {
+        "country_code": "AZ",
+        "asn": "214946",
+        "description": "EMIRASLAN EMIRASLANOV",
+        "handle": "KIRESHKI"
+    },
+    "214990": {
+        "country_code": "AZ",
+        "asn": "214990",
+        "description": "GO LINE LLC",
+        "handle": "AZ-GOLINE"
+    },
+    "215017": {
+        "country_code": "AZ",
+        "asn": "215017",
+        "description": "EMIRASLAN EMIRASLANOV",
+        "handle": "V6ONLYNET"
+    },
+    "215056": {
+        "country_code": "AZ",
+        "asn": "215056",
+        "description": "Nardaran Invest LLC",
+        "handle": "NARDARANINVEST"
+    },
+    "215076": {
+        "country_code": "AZ",
+        "asn": "215076",
+        "description": "Volt Internet LLC",
+        "handle": "VOLTNET"
+    },
+    "215148": {
+        "country_code": "AZ",
+        "asn": "215148",
+        "description": "Delta Telecom Ltd",
+        "handle": "DT-SMB"
+    },
+    "215284": {
+        "country_code": "AZ",
+        "asn": "215284",
+        "description": "Nest LLC",
+        "handle": "NEST-LLC"
+    },
+    "215328": {
+        "country_code": "AZ",
+        "asn": "215328",
+        "description": "Fast Net Technology LLC",
+        "handle": "FASTNET"
+    },
+    "215374": {
+        "country_code": "AZ",
+        "asn": "215374",
+        "description": "Azeuronet LLC",
+        "handle": "AS208410"
+    },
+    "215800": {
+        "country_code": "AZ",
+        "asn": "215800",
+        "description": "UNIBANK Commercial Bank Open Joint-Stock Company",
+        "handle": "UNIBANK"
+    },
+    "215858": {
+        "country_code": "AZ",
+        "asn": "215858",
+        "description": "Delta Telecom Ltd",
+        "handle": "DELTA-TELECOM-DC"
+    },
+    "216189": {
+        "country_code": "AZ",
+        "asn": "216189",
+        "description": "Tele5 LLC",
+        "handle": "TELE5"
+    },
+    "216231": {
+        "country_code": "AZ",
+        "asn": "216231",
+        "description": "Alnet LLC",
+        "handle": "AZ-HYPERNET"
+    },
+    "216232": {
+        "country_code": "AZ",
+        "asn": "216232",
+        "description": "NEOTELECOM SERVICES LLC",
+        "handle": "AZ-NEOTELECOM"
+    },
+    "216259": {
+        "country_code": "AZ",
+        "asn": "216259",
+        "description": "BLINE LLC",
+        "handle": "BLINE-AS"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "8681": {
+        "country_code": "JE",
+        "asn": "8681",
+        "description": "JT (Jersey) Limited",
+        "handle": "JT"
+    },
+    "13208": {
+        "country_code": "JE",
+        "asn": "13208",
+        "description": "Newtel Limited",
+        "handle": "NEWTELSOLUTIONS-AS"
+    },
+    "25040": {
+        "country_code": "JE",
+        "asn": "25040",
+        "description": "I.T. Consultancy Limited",
+        "handle": "ITCONSULT-AS"
+    },
+    "39498": {
+        "country_code": "JE",
+        "asn": "39498",
+        "description": "LMAX Digital Group Limited",
+        "handle": "LMAX-DIGITAL"
+    },
+    "41713": {
+        "country_code": "JE",
+        "asn": "41713",
+        "description": "Newtel Limited",
+        "handle": "NEWTEL-AS"
+    },
+    "47675": {
+        "country_code": "JE",
+        "asn": "47675",
+        "description": "LMAX Digital Group Limited",
+        "handle": "LMAX-DIGITAL-PROXIMITY"
+    },
+    "61143": {
+        "country_code": "JE",
+        "asn": "61143",
+        "description": "Jersey Airtel Limited",
+        "handle": "JERSEY-AIRTEL"
+    },
+    "197094": {
+        "country_code": "JE",
+        "asn": "197094",
+        "description": "Lloyds International Management Services (Jersey) Limited",
+        "handle": "LLOYDSTSB"
+    },
+    "204648": {
+        "country_code": "JE",
+        "asn": "204648",
+        "description": "Calligo Limited",
+        "handle": "CALLIGO"
+    },
+    "206084": {
+        "country_code": "JE",
+        "asn": "206084",
+        "description": "VELOS IOT JERSEY LIMITED",
+        "handle": "VELOSIOT"
+    },
+    "208736": {
+        "country_code": "JE",
+        "asn": "208736",
+        "description": "Homenet Limited",
+        "handle": "HOMENET-JERSEY"
+    },
+    "211875": {
+        "country_code": "JE",
+        "asn": "211875",
+        "description": "Government of Jersey",
+        "handle": "GOJ"
+    }
+}

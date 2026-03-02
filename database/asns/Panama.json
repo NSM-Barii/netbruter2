@@ -1,0 +1,920 @@
+{
+    "3551": {
+        "country_code": "PA",
+        "asn": "3551",
+        "description": "Universidad Tecnologica de Panama",
+        "handle": "UNIVERSIDAD-TECNOLOGICA-PANAMA"
+    },
+    "6193": {
+        "country_code": "PA",
+        "asn": "6193",
+        "description": "Corporacion La Prensa S.A.",
+        "handle": "CORPORACION-LA-PRENSA"
+    },
+    "10391": {
+        "country_code": "PA",
+        "asn": "10391",
+        "description": "InteRED Panama",
+        "handle": "INTERED-PANAMA"
+    },
+    "10476": {
+        "country_code": "PA",
+        "asn": "10476",
+        "description": "Cable Onda",
+        "handle": "CABLE-ONDA"
+    },
+    "11556": {
+        "country_code": "PA",
+        "asn": "11556",
+        "description": "Cable & Wireless Panama",
+        "handle": "CABLE-WIRELESS-PANAMA"
+    },
+    "11673": {
+        "country_code": "PA",
+        "asn": "11673",
+        "description": "Internet Panama",
+        "handle": "INTERNET-PANAMA"
+    },
+    "14377": {
+        "country_code": "PA",
+        "asn": "14377",
+        "description": "PSINet Panama",
+        "handle": "PSINET-PANAMA"
+    },
+    "14709": {
+        "country_code": "PA",
+        "asn": "14709",
+        "description": "Cable Onda",
+        "handle": "CABLE-ONDA"
+    },
+    "15075": {
+        "country_code": "PA",
+        "asn": "15075",
+        "description": "Wireless Communications Panama",
+        "handle": "WIRELESS-COMMUNICATIONS-PANAMA"
+    },
+    "15241": {
+        "country_code": "PA",
+        "asn": "15241",
+        "description": "Unete de Panama",
+        "handle": "UNETE-PANAMA"
+    },
+    "18809": {
+        "country_code": "PA",
+        "asn": "18809",
+        "description": "Cable Onda",
+        "handle": "CABLE-ONDA"
+    },
+    "21599": {
+        "country_code": "PA",
+        "asn": "21599",
+        "description": "Cable Onda",
+        "handle": "CABLE-ONDA"
+    },
+    "21883": {
+        "country_code": "PA",
+        "asn": "21883",
+        "description": "CHARTER COMMUNICATIONS INTERNATIONAL PANAMA",
+        "handle": "CHARTER-COMMUNICATIONS-INTERNATIONAL"
+    },
+    "22010": {
+        "country_code": "PA",
+        "asn": "22010",
+        "description": "Primer Banco del Istmo",
+        "handle": "PRIMER-BANCO-ISTMO"
+    },
+    "22227": {
+        "country_code": "PA",
+        "asn": "22227",
+        "description": "BAC International Bank",
+        "handle": "BAC-INTERNATIONAL-BANK"
+    },
+    "22382": {
+        "country_code": "PA",
+        "asn": "22382",
+        "description": "Mossack & Fonseca",
+        "handle": "MOSSACK-FONSECA"
+    },
+    "22628": {
+        "country_code": "PA",
+        "asn": "22628",
+        "description": "Alta Tecnologia (ALTEC) S.A.",
+        "handle": "ALTA-TECNOLOGIA"
+    },
+    "23360": {
+        "country_code": "PA",
+        "asn": "23360",
+        "description": "Morgan & Morgan",
+        "handle": "MORGAN-MORGAN"
+    },
+    "26105": {
+        "country_code": "PA",
+        "asn": "26105",
+        "description": "Cable Onda",
+        "handle": "CABLE-ONDA"
+    },
+    "26426": {
+        "country_code": "PA",
+        "asn": "26426",
+        "description": "Columbus Networks Panama",
+        "handle": "COLUMBUS-NETWORKS-PANAMA"
+    },
+    "27649": {
+        "country_code": "PA",
+        "asn": "27649",
+        "description": "Banco Aliado",
+        "handle": "BANCO-ALIADO"
+    },
+    "27679": {
+        "country_code": "PA",
+        "asn": "27679",
+        "description": "Copa Airlines",
+        "handle": "COPA-AIRLINES"
+    },
+    "27687": {
+        "country_code": "PA",
+        "asn": "27687",
+        "description": "Banco General S.A.",
+        "handle": "BANCO-GENERAL"
+    },
+    "27716": {
+        "country_code": "PA",
+        "asn": "27716",
+        "description": "Cable Onda",
+        "handle": "CABLE-ONDA"
+    },
+    "27723": {
+        "country_code": "PA",
+        "asn": "27723",
+        "description": "Rich International",
+        "handle": "RICH-INTERNATIONAL"
+    },
+    "27726": {
+        "country_code": "PA",
+        "asn": "27726",
+        "description": "GLOBAL BANK",
+        "handle": "GLOBAL-BANK"
+    },
+    "27749": {
+        "country_code": "PA",
+        "asn": "27749",
+        "description": "BCG Business Computer Group",
+        "handle": "BCG-BUSINESS-COMPUTER-GROUP"
+    },
+    "27755": {
+        "country_code": "PA",
+        "asn": "27755",
+        "description": "Cable Onda",
+        "handle": "CABLE-ONDA"
+    },
+    "27760": {
+        "country_code": "PA",
+        "asn": "27760",
+        "description": "Asociaci\u00f3n Paname\u00f1a de Cr\u00e9dito (APC)",
+        "handle": "ASOCIACION-PANAMENA-CREDITO"
+    },
+    "27764": {
+        "country_code": "PA",
+        "asn": "27764",
+        "description": "BANCO CONTINENTAL",
+        "handle": "BANCO-CONTINENTAL"
+    },
+    "27778": {
+        "country_code": "PA",
+        "asn": "27778",
+        "description": "HNA Panama S.A.",
+        "handle": "HNA-PANAMA"
+    },
+    "27783": {
+        "country_code": "PA",
+        "asn": "27783",
+        "description": "ITOCHU PANAMA S.A.",
+        "handle": "ITOCHU-PANAMA"
+    },
+    "27786": {
+        "country_code": "PA",
+        "asn": "27786",
+        "description": "SSA SISTEMAS S.A.",
+        "handle": "SSA-SISTEMAS"
+    },
+    "27788": {
+        "country_code": "PA",
+        "asn": "27788",
+        "description": "Atlantic Security Bank",
+        "handle": "ATLANTIC-SECURITY-BANK"
+    },
+    "27796": {
+        "country_code": "PA",
+        "asn": "27796",
+        "description": "Galaxy Communications",
+        "handle": "GALAXY-COMMUNICATIONS"
+    },
+    "27802": {
+        "country_code": "PA",
+        "asn": "27802",
+        "description": "Popular Bank LTD",
+        "handle": "POPULAR-BANK"
+    },
+    "27812": {
+        "country_code": "PA",
+        "asn": "27812",
+        "description": "Banco de Credito HFS Panama S.A.",
+        "handle": "BANCO-CREDITO-HFS-PANAMA"
+    },
+    "27819": {
+        "country_code": "PA",
+        "asn": "27819",
+        "description": "Ministerio de Econ\u00f3mica y Finanzas - MEF",
+        "handle": "MINISTERIO-ECONOMICA-FINANZAS"
+    },
+    "27832": {
+        "country_code": "PA",
+        "asn": "27832",
+        "description": "Golden Palace",
+        "handle": "GOLDEN-PALACE"
+    },
+    "27842": {
+        "country_code": "PA",
+        "asn": "27842",
+        "description": "Grupo FASA",
+        "handle": "GRUPO-FASA"
+    },
+    "27850": {
+        "country_code": "PA",
+        "asn": "27850",
+        "description": "Data Support Services",
+        "handle": "DATA-SUPPORT-SERVICES"
+    },
+    "27854": {
+        "country_code": "PA",
+        "asn": "27854",
+        "description": "Transactional Services",
+        "handle": "TRANSACTIONAL-SERVICES"
+    },
+    "27860": {
+        "country_code": "PA",
+        "asn": "27860",
+        "description": "TECNOLOGIA APLICADA S.A (TECNASA)",
+        "handle": "TECNOLOGIA-APLICADA"
+    },
+    "27867": {
+        "country_code": "PA",
+        "asn": "27867",
+        "description": "Grupo FASA",
+        "handle": "GRUPO-FASA"
+    },
+    "27873": {
+        "country_code": "PA",
+        "asn": "27873",
+        "description": "Compa\u00f1ia Goly S.A.",
+        "handle": "COMPANIA-GOLY"
+    },
+    "27914": {
+        "country_code": "PA",
+        "asn": "27914",
+        "description": "International Call Center Services",
+        "handle": "INTERNATIONAL-CALL-CENTER"
+    },
+    "27915": {
+        "country_code": "PA",
+        "asn": "27915",
+        "description": "Processing Center S.A.",
+        "handle": "PROCESSING-CENTER"
+    },
+    "27922": {
+        "country_code": "PA",
+        "asn": "27922",
+        "description": "Smithsonian Tropical Research Institute",
+        "handle": "SMITHSONIAN-TROPICAL-RESEARCH"
+    },
+    "27928": {
+        "country_code": "PA",
+        "asn": "27928",
+        "description": "Liberty Technologies Corp.",
+        "handle": "LIBERTY-TECHNOLOGIES-CORP"
+    },
+    "27930": {
+        "country_code": "PA",
+        "asn": "27930",
+        "description": "Shadwell International Inc",
+        "handle": "SHADWELL-INTERNATIONAL"
+    },
+    "27936": {
+        "country_code": "PA",
+        "asn": "27936",
+        "description": "CREDICORP BANK S.A",
+        "handle": "CREDICORP-BANK"
+    },
+    "27938": {
+        "country_code": "PA",
+        "asn": "27938",
+        "description": "Ministerio de Obras P\u00fablicas",
+        "handle": "MINISTERIO-OBRAS-PUBLICAS"
+    },
+    "27939": {
+        "country_code": "PA",
+        "asn": "27939",
+        "description": "ASN2P S.A",
+        "handle": "ASN2P"
+    },
+    "27944": {
+        "country_code": "PA",
+        "asn": "27944",
+        "description": "Panama Ports Company",
+        "handle": "PANAMA-PORTS-COMPANY"
+    },
+    "27945": {
+        "country_code": "PA",
+        "asn": "27945",
+        "description": "NEW OPPORTUNITIES S. DE R.L.",
+        "handle": "NEW-OPPORTUNITIES"
+    },
+    "27956": {
+        "country_code": "PA",
+        "asn": "27956",
+        "description": "Cyber Cast International S.A.",
+        "handle": "CYBER-CAST-INTERNATIONAL"
+    },
+    "27959": {
+        "country_code": "PA",
+        "asn": "27959",
+        "description": "SERVICIOS CENTENARIOS DE PANAMA S.A.",
+        "handle": "SERVICIOS-CENTENARIOS-PANAMA"
+    },
+    "27972": {
+        "country_code": "PA",
+        "asn": "27972",
+        "description": "Balboa Bank Trust",
+        "handle": "BALBOA-BANK-TRUST"
+    },
+    "28018": {
+        "country_code": "PA",
+        "asn": "28018",
+        "description": "BANESCO INTERNATIONAL BANK",
+        "handle": "BANESCO-INTERNATIONAL-BANK"
+    },
+    "28030": {
+        "country_code": "PA",
+        "asn": "28030",
+        "description": "PANAMA STAR S.A.",
+        "handle": "PANAMA-STAR"
+    },
+    "28031": {
+        "country_code": "PA",
+        "asn": "28031",
+        "description": "Copa Airlines",
+        "handle": "COPA-AIRLINES"
+    },
+    "28043": {
+        "country_code": "PA",
+        "asn": "28043",
+        "description": "Importadora Ricamar S.A.",
+        "handle": "IMPORTADORA-RICAMAR"
+    },
+    "28061": {
+        "country_code": "PA",
+        "asn": "28061",
+        "description": "Ministerio de la Presidencia",
+        "handle": "MINISTERIO-LA-PRESIDENCIA"
+    },
+    "28062": {
+        "country_code": "PA",
+        "asn": "28062",
+        "description": "Ministerio de Educacion - MEDUCA",
+        "handle": "MINISTERIO-EDUCACION-MEDUCA"
+    },
+    "28063": {
+        "country_code": "PA",
+        "asn": "28063",
+        "description": "Cable Onda",
+        "handle": "CABLE-ONDA"
+    },
+    "28064": {
+        "country_code": "PA",
+        "asn": "28064",
+        "description": "Smart Data Center S.A.",
+        "handle": "SMART-DATA-CENTER"
+    },
+    "28071": {
+        "country_code": "PA",
+        "asn": "28071",
+        "description": "Tech International S.A.",
+        "handle": "TECH-INTERNATIONAL"
+    },
+    "28079": {
+        "country_code": "PA",
+        "asn": "28079",
+        "description": "Cooperativa Profesionales",
+        "handle": "COOPERATIVA-PROFESIONALES"
+    },
+    "28112": {
+        "country_code": "PA",
+        "asn": "28112",
+        "description": "Banco Prival",
+        "handle": "BANCO-PRIVAL"
+    },
+    "28113": {
+        "country_code": "PA",
+        "asn": "28113",
+        "description": "Intratex",
+        "handle": "INTRATEX"
+    },
+    "28316": {
+        "country_code": "PA",
+        "asn": "28316",
+        "description": "Metrobank S.A.",
+        "handle": "METROBANK"
+    },
+    "36331": {
+        "country_code": "PA",
+        "asn": "36331",
+        "description": "PLURIHOLDINGS S.A.",
+        "handle": "HIPERFI"
+    },
+    "48721": {
+        "country_code": "PA",
+        "asn": "48721",
+        "description": "Flyservers S.A.",
+        "handle": "FLYSERVERS-ENDCLIENTS"
+    },
+    "51852": {
+        "country_code": "PA",
+        "asn": "51852",
+        "description": "Private Layer INC",
+        "handle": "PLI-AS"
+    },
+    "52245": {
+        "country_code": "PA",
+        "asn": "52245",
+        "description": "UFINET PANAMA S.A.",
+        "handle": "UFINET-PANAMA"
+    },
+    "52264": {
+        "country_code": "PA",
+        "asn": "52264",
+        "description": "Cable Onda",
+        "handle": "CABLE-ONDA"
+    },
+    "52284": {
+        "country_code": "PA",
+        "asn": "52284",
+        "description": "Panamaserver.com",
+        "handle": "PANAMASERVERCOM"
+    },
+    "52288": {
+        "country_code": "PA",
+        "asn": "52288",
+        "description": "PRIVATE LAYER INC",
+        "handle": "PRIVATE-LAYER"
+    },
+    "52336": {
+        "country_code": "PA",
+        "asn": "52336",
+        "description": "Autoridad Nacional para la Innovaci\u00f3n Gubernamental",
+        "handle": "AUTORIDAD-NACIONAL-PARA"
+    },
+    "52337": {
+        "country_code": "PA",
+        "asn": "52337",
+        "description": "COMUNICACIONES TASION",
+        "handle": "COMUNICACIONES-TASION"
+    },
+    "52437": {
+        "country_code": "PA",
+        "asn": "52437",
+        "description": "Nuevos Hoteles de Panama S.A.",
+        "handle": "NUEVOS-HOTELES-PANAMA"
+    },
+    "52446": {
+        "country_code": "PA",
+        "asn": "52446",
+        "description": "BANCO NACIONAL DE PANAMA",
+        "handle": "BANCO-NACIONAL-PANAMA"
+    },
+    "52468": {
+        "country_code": "PA",
+        "asn": "52468",
+        "description": "UFINET PANAMA S.A.",
+        "handle": "UFINET-PANAMA"
+    },
+    "52469": {
+        "country_code": "PA",
+        "asn": "52469",
+        "description": "Offshore Racks S.A",
+        "handle": "OFFSHORE-RACKS"
+    },
+    "60010": {
+        "country_code": "PA",
+        "asn": "60010",
+        "description": "Five Neins Inc",
+        "handle": "FIVENEINS"
+    },
+    "61491": {
+        "country_code": "PA",
+        "asn": "61491",
+        "description": "INNOVA TELECOM",
+        "handle": "INNOVA-TELECOM"
+    },
+    "61497": {
+        "country_code": "PA",
+        "asn": "61497",
+        "description": "VOZELIA SA",
+        "handle": "VOZELIA"
+    },
+    "61511": {
+        "country_code": "PA",
+        "asn": "61511",
+        "description": "URL SOLUTIONS INC",
+        "handle": "URL-SOLUTIONS"
+    },
+    "64101": {
+        "country_code": "PA",
+        "asn": "64101",
+        "description": "INSTITUTO DE ACUEDUCTOS Y ALCANTARILLADOS NACIONALES",
+        "handle": "INSTITUTO-ACUEDUCTOS-ALCANTARILLADOS"
+    },
+    "64107": {
+        "country_code": "PA",
+        "asn": "64107",
+        "description": "RACK SPHERE HOSTING S.A.",
+        "handle": "RACK-SPHERE-HOSTING"
+    },
+    "136787": {
+        "country_code": "PA",
+        "asn": "136787",
+        "description": "PacketHub S.A.",
+        "handle": "PACKETHUBSA-AS-AP"
+    },
+    "141039": {
+        "country_code": "PA",
+        "asn": "141039",
+        "description": "PacketHub S.A.",
+        "handle": "PACKETHUBSA-AS-AP"
+    },
+    "147049": {
+        "country_code": "PA",
+        "asn": "147049",
+        "description": "PacketHub S.A.",
+        "handle": "PACKETHUBSA-AS-AP"
+    },
+    "200096": {
+        "country_code": "PA",
+        "asn": "200096",
+        "description": "Punto Pago Panama S.A.",
+        "handle": "PUNTO-PAGO-AS"
+    },
+    "203202": {
+        "country_code": "PA",
+        "asn": "203202",
+        "description": "Jose Phillips",
+        "handle": "PIRANHANETWORKS"
+    },
+    "204718": {
+        "country_code": "PA",
+        "asn": "204718",
+        "description": "Tribeka Web Advisors S.A.",
+        "handle": "TRIBEKA-AS"
+    },
+    "207137": {
+        "country_code": "PA",
+        "asn": "207137",
+        "description": "PacketHub S.A.",
+        "handle": "PACKETHUBSA"
+    },
+    "209588": {
+        "country_code": "PA",
+        "asn": "209588",
+        "description": "Flyservers S.A.",
+        "handle": "FLYSERVERS-ASN"
+    },
+    "209854": {
+        "country_code": "PA",
+        "asn": "209854",
+        "description": "Cyberzone S.A.",
+        "handle": "CYBERZONEHUB"
+    },
+    "211059": {
+        "country_code": "PA",
+        "asn": "211059",
+        "description": "Tribeka Web Advisors S.A.",
+        "handle": "TRIBEKA-AS"
+    },
+    "211794": {
+        "country_code": "PA",
+        "asn": "211794",
+        "description": "Flyservers S.A.",
+        "handle": "FLYSERVERSV6-AS"
+    },
+    "212105": {
+        "country_code": "PA",
+        "asn": "212105",
+        "description": "WildSage Labs Inc.",
+        "handle": "WILDSAGE"
+    },
+    "262144": {
+        "country_code": "PA",
+        "asn": "262144",
+        "description": "Rayservers GmbH",
+        "handle": "RAYSERVERS-GMBH"
+    },
+    "262198": {
+        "country_code": "PA",
+        "asn": "262198",
+        "description": "ANTENAS Y SISTEMAS S.A.",
+        "handle": "ANTENAS-SISTEMAS"
+    },
+    "262211": {
+        "country_code": "PA",
+        "asn": "262211",
+        "description": "Galaxy Communications",
+        "handle": "GALAXY-COMMUNICATIONS"
+    },
+    "262218": {
+        "country_code": "PA",
+        "asn": "262218",
+        "description": "Servicios de Tecnolog\u00edas de Informaci\u00f3n de Misi\u00f3n Cr\u00edtica S.A.",
+        "handle": "SERVICIOS-TECNOLOGIAS-INFORMACION"
+    },
+    "262225": {
+        "country_code": "PA",
+        "asn": "262225",
+        "description": "Inmobiliaria Don Antonio",
+        "handle": "INMOBILIARIA-DON-ANTONIO"
+    },
+    "262227": {
+        "country_code": "PA",
+        "asn": "262227",
+        "description": "Claro Panam\u00e1 S.A.",
+        "handle": "CLARO-PANAMA"
+    },
+    "262248": {
+        "country_code": "PA",
+        "asn": "262248",
+        "description": "Metro MPLS",
+        "handle": "METRO-MPLS"
+    },
+    "262255": {
+        "country_code": "PA",
+        "asn": "262255",
+        "description": "GBM de Panam\u00e1 S.A.",
+        "handle": "GBM-PANAMA"
+    },
+    "262933": {
+        "country_code": "PA",
+        "asn": "262933",
+        "description": "TRUSTCOR SYSTEMS S. DE R.L.",
+        "handle": "TRUSTCOR-SYSTEMS"
+    },
+    "263215": {
+        "country_code": "PA",
+        "asn": "263215",
+        "description": "WNET S. A.",
+        "handle": "WNET-S-A"
+    },
+    "263759": {
+        "country_code": "PA",
+        "asn": "263759",
+        "description": "CELERO NETWORKS CORP",
+        "handle": "CELERO-NETWORKS-CORP"
+    },
+    "263772": {
+        "country_code": "PA",
+        "asn": "263772",
+        "description": "TELCO Services S.A.",
+        "handle": "TELCO-SERVICES"
+    },
+    "263795": {
+        "country_code": "PA",
+        "asn": "263795",
+        "description": "PaNETma S.A.",
+        "handle": "PANETMA"
+    },
+    "264617": {
+        "country_code": "PA",
+        "asn": "264617",
+        "description": "GRUPO PANAGLOBAL 15 S.A",
+        "handle": "GRUPO-PANAGLOBAL-15"
+    },
+    "264676": {
+        "country_code": "PA",
+        "asn": "264676",
+        "description": "Sistemas Inalambricos S.A",
+        "handle": "SISTEMAS-INALAMBRICOS"
+    },
+    "264734": {
+        "country_code": "PA",
+        "asn": "264734",
+        "description": "TURBO TECHNOLOGIES S.A",
+        "handle": "TURBO-TECHNOLOGIES"
+    },
+    "264843": {
+        "country_code": "PA",
+        "asn": "264843",
+        "description": "AUTORIDAD NACIONAL DE LOS SERVICIOS PUBLICOS",
+        "handle": "AUTORIDAD-NACIONAL-LOS"
+    },
+    "265654": {
+        "country_code": "PA",
+        "asn": "265654",
+        "description": "ENX FUND INC",
+        "handle": "ENX-FUND"
+    },
+    "265698": {
+        "country_code": "PA",
+        "asn": "265698",
+        "description": "Internet Activo S.A.",
+        "handle": "INTERNET-ACTIVO"
+    },
+    "265761": {
+        "country_code": "PA",
+        "asn": "265761",
+        "description": "IT EXPERTS S.A",
+        "handle": "IT-EXPERTS"
+    },
+    "265803": {
+        "country_code": "PA",
+        "asn": "265803",
+        "description": "MULTISERVICES ROBLES S.A.",
+        "handle": "MULTISERVICES-ROBLES"
+    },
+    "265812": {
+        "country_code": "PA",
+        "asn": "265812",
+        "description": "ENCRYPT FORTRESS CORP.",
+        "handle": "ENCRYPT-FORTRESS-CORP"
+    },
+    "265867": {
+        "country_code": "PA",
+        "asn": "265867",
+        "description": "Trans Ocean Network",
+        "handle": "TRANS-OCEAN-NETWORK"
+    },
+    "266692": {
+        "country_code": "PA",
+        "asn": "266692",
+        "description": "GEEK NETWORKS S.A",
+        "handle": "GEEK-NETWORKS"
+    },
+    "266695": {
+        "country_code": "PA",
+        "asn": "266695",
+        "description": "Interfast Panam\u00e1 S.A.",
+        "handle": "INTERFAST-PANAMA"
+    },
+    "266797": {
+        "country_code": "PA",
+        "asn": "266797",
+        "description": "BANCO AZTECA (PANAMA) S.A.",
+        "handle": "BANCO-AZTECA"
+    },
+    "266811": {
+        "country_code": "PA",
+        "asn": "266811",
+        "description": "NYXCOMM S.A. (PANAM\u00c1)",
+        "handle": "NYXCOMM"
+    },
+    "266828": {
+        "country_code": "PA",
+        "asn": "266828",
+        "description": "DBS NETWORK S.A.",
+        "handle": "DBS-NETWORK"
+    },
+    "267784": {
+        "country_code": "PA",
+        "asn": "267784",
+        "description": "Flyservers S.A.",
+        "handle": "FLYSERVERS"
+    },
+    "269736": {
+        "country_code": "PA",
+        "asn": "269736",
+        "description": "PACIFIC NETWORK COMMUNICATION S.A.",
+        "handle": "PACIFIC-NETWORK-COMMUNICATION"
+    },
+    "269758": {
+        "country_code": "PA",
+        "asn": "269758",
+        "description": "EDUALIANZA",
+        "handle": "EDUALIANZA"
+    },
+    "269864": {
+        "country_code": "PA",
+        "asn": "269864",
+        "description": "COMUNICACIONES METROPOLITANAS INC",
+        "handle": "COMUNICACIONES-METROPOLITANAS"
+    },
+    "269985": {
+        "country_code": "PA",
+        "asn": "269985",
+        "description": "Liberty Iberoamerica S.L.U.",
+        "handle": "LIBERTY-IBEROAMERICA-SLU"
+    },
+    "270078": {
+        "country_code": "PA",
+        "asn": "270078",
+        "description": "TOPMANAGE DE PANAMA S.A.",
+        "handle": "TOPMANAGE-PANAMA"
+    },
+    "272037": {
+        "country_code": "PA",
+        "asn": "272037",
+        "description": "InteRED Panama",
+        "handle": "INTERED-PANAMA"
+    },
+    "272096": {
+        "country_code": "PA",
+        "asn": "272096",
+        "description": "PACKETHUB S.A.",
+        "handle": "PACKETHUB"
+    },
+    "272109": {
+        "country_code": "PA",
+        "asn": "272109",
+        "description": "FIBERLINK COMMUNICATIONS S.A.",
+        "handle": "FIBERLINK-COMMUNICATIONS"
+    },
+    "272151": {
+        "country_code": "PA",
+        "asn": "272151",
+        "description": "CHINA MOBILE INTERNATIONAL (PANAMA) S.A.",
+        "handle": "CHINA-MOBILE-INTERNATIONAL"
+    },
+    "272850": {
+        "country_code": "PA",
+        "asn": "272850",
+        "description": "Nicoin Telecom S.A.",
+        "handle": "NICOIN-TELECOM"
+    },
+    "272912": {
+        "country_code": "PA",
+        "asn": "272912",
+        "description": "MILLICOM CAM SEM S.A.",
+        "handle": "MILLICOM-CAM-SEM"
+    },
+    "272967": {
+        "country_code": "PA",
+        "asn": "272967",
+        "description": "TELECOMMUNICATIONS INTERNATIONAL SOLUTIONS NETWORK (TELISNET) S.A.",
+        "handle": "TELECOMMUNICATIONS-INTERNATIONAL-SOLUTIONS"
+    },
+    "272974": {
+        "country_code": "PA",
+        "asn": "272974",
+        "description": "IP COMMUNICATION S A IPCOM",
+        "handle": "IP-COMMUNICATION-S-IPCOM"
+    },
+    "273045": {
+        "country_code": "PA",
+        "asn": "273045",
+        "description": "DATAHOME S.A.",
+        "handle": "DATAHOME"
+    },
+    "273135": {
+        "country_code": "PA",
+        "asn": "273135",
+        "description": "BUSINESS SOFTWARE & CONSULTANTS INC",
+        "handle": "BUSINESS-SOFTWARE-CONSULTANTS"
+    },
+    "273856": {
+        "country_code": "PA",
+        "asn": "273856",
+        "description": "INTERCONEXIONES MB S.A. (WISPCOM)",
+        "handle": "INTERCONEXIONES-MB"
+    },
+    "273875": {
+        "country_code": "PA",
+        "asn": "273875",
+        "description": "NETSOS PANAMA S.A.",
+        "handle": "NETSOS-PANAMA"
+    },
+    "273888": {
+        "country_code": "PA",
+        "asn": "273888",
+        "description": "PEGASUS TRAMITES Y GESTIONES ADMINISTRATIVOS S.A.",
+        "handle": "PEGASUS-TRAMITES-GESTIONES"
+    },
+    "273907": {
+        "country_code": "PA",
+        "asn": "273907",
+        "description": "EBUNTI PANAMA S.A.",
+        "handle": "EBUNTI-PANAMA"
+    },
+    "274135": {
+        "country_code": "PA",
+        "asn": "274135",
+        "description": "MOCATEL TECNOLOGY INC.",
+        "handle": "MOCATEL-TECNOLOGY"
+    },
+    "274147": {
+        "country_code": "PA",
+        "asn": "274147",
+        "description": "CL ADVANCED TECHNOLOGIES S A",
+        "handle": "CL-ADVANCED-TECHNOLOGIES-S-A"
+    },
+    "401616": {
+        "country_code": "PA",
+        "asn": "401616",
+        "description": "PRV8 Network LLC",
+        "handle": "PNL"
+    }
+}

@@ -1,0 +1,200 @@
+{
+    "25139": {
+        "country_code": "MZ",
+        "asn": "25139",
+        "description": "TVCABO - Comunicacoes Multimedia Lda",
+        "handle": "TVCABO-AS"
+    },
+    "30619": {
+        "country_code": "MZ",
+        "asn": "30619",
+        "description": "TMCEL - Mo\u00e7ambique Telecom SA",
+        "handle": "TMCEL-MOCAMBIQUE"
+    },
+    "31960": {
+        "country_code": "MZ",
+        "asn": "31960",
+        "description": "Eduardo Mondlane University",
+        "handle": "EMUNET"
+    },
+    "32017": {
+        "country_code": "MZ",
+        "asn": "32017",
+        "description": "SATCOM - Comunicacoes Satelite Limitada",
+        "handle": "SATCOM-MOZ"
+    },
+    "36865": {
+        "country_code": "MZ",
+        "asn": "36865",
+        "description": "Teledata Mozambique",
+        "handle": "MZ-TELEDATA"
+    },
+    "36945": {
+        "country_code": "MZ",
+        "asn": "36945",
+        "description": "Mocambique Celular SARL",
+        "handle": "MCELISP"
+    },
+    "37042": {
+        "country_code": "MZ",
+        "asn": "37042",
+        "description": "Mocambique Celular SARL",
+        "handle": "MCS-AS"
+    },
+    "37110": {
+        "country_code": "MZ",
+        "asn": "37110",
+        "description": "Moztel LDA",
+        "handle": "MOZTEL-AS"
+    },
+    "37139": {
+        "country_code": "MZ",
+        "asn": "37139",
+        "description": "Gateway Communications Mozambique Limidata",
+        "handle": "GATEWAY-MZ-AS"
+    },
+    "37223": {
+        "country_code": "MZ",
+        "asn": "37223",
+        "description": "Vodacom Mocambique S.A",
+        "handle": "VODACOM-MZ"
+    },
+    "37342": {
+        "country_code": "MZ",
+        "asn": "37342",
+        "description": "Movitel SA",
+        "handle": "MOVITEL"
+    },
+    "37436": {
+        "country_code": "MZ",
+        "asn": "37436",
+        "description": "INTIC (National Institute of ICT)",
+        "handle": "INTIC"
+    },
+    "37477": {
+        "country_code": "MZ",
+        "asn": "37477",
+        "description": "Mozabanco",
+        "handle": "MOZABANCO"
+    },
+    "37489": {
+        "country_code": "MZ",
+        "asn": "37489",
+        "description": "ABARI COMMUNICATIONS MOZAMBIQUE LDA",
+        "handle": "ABARICOMMOZ"
+    },
+    "37556": {
+        "country_code": "MZ",
+        "asn": "37556",
+        "description": "Cilix Software",
+        "handle": "CILIXSOFT-ASN"
+    },
+    "37635": {
+        "country_code": "MZ",
+        "asn": "37635",
+        "description": "Eduardo Mondlane University",
+        "handle": "MOZIX-PEERING"
+    },
+    "37697": {
+        "country_code": "MZ",
+        "asn": "37697",
+        "description": "WEBMASTERS LDA.",
+        "handle": "WEBMASTERS"
+    },
+    "42235": {
+        "country_code": "MZ",
+        "asn": "42235",
+        "description": "INTRA DATA COMMUNICATION",
+        "handle": "IDC-AS"
+    },
+    "327700": {
+        "country_code": "MZ",
+        "asn": "327700",
+        "description": "Mozambique Research & Education Network - MoRENet",
+        "handle": "MORENET"
+    },
+    "327759": {
+        "country_code": "MZ",
+        "asn": "327759",
+        "description": "SGS MCNet Mocambique Ltd",
+        "handle": "SGS-MCNET"
+    },
+    "327951": {
+        "country_code": "MZ",
+        "asn": "327951",
+        "description": "Instituto Nacional das Comunicacoes de Mozambique",
+        "handle": "AS-INCM"
+    },
+    "328187": {
+        "country_code": "MZ",
+        "asn": "328187",
+        "description": "EDM - Electricidade de Mo\u00e7ambique E.P.",
+        "handle": "EDM-AS"
+    },
+    "328223": {
+        "country_code": "MZ",
+        "asn": "328223",
+        "description": "VOIPTECH LIMITADA",
+        "handle": "VOIPTECH-LIMITADA-AS"
+    },
+    "328274": {
+        "country_code": "MZ",
+        "asn": "328274",
+        "description": "BIM - Banco Internacional de Mocambique SA",
+        "handle": "BBID1-AS"
+    },
+    "328460": {
+        "country_code": "MZ",
+        "asn": "328460",
+        "description": "EYAZS-IMPERIUM LDA",
+        "handle": "EYAZS-IMPERIUM-AS"
+    },
+    "328591": {
+        "country_code": "MZ",
+        "asn": "328591",
+        "description": "American International School of Mozambique",
+        "handle": "AMERICAN-INTERNATIONAL-MOZAMBIQUE"
+    },
+    "329310": {
+        "country_code": "MZ",
+        "asn": "329310",
+        "description": "Netmoz Sociedade Unipessoal Lda",
+        "handle": "NETMOZ-SOCIEDADE-UNIPESSOAL-LDA"
+    },
+    "329394": {
+        "country_code": "MZ",
+        "asn": "329394",
+        "description": "OneCloud LDA",
+        "handle": "ONECLOUD"
+    },
+    "329491": {
+        "country_code": "MZ",
+        "asn": "329491",
+        "description": "Bubble Cloud Mozambique SA",
+        "handle": "BUBBLE-CLOUD-MOZAMBIQUE-SA"
+    },
+    "329498": {
+        "country_code": "MZ",
+        "asn": "329498",
+        "description": "BRAVANTIC EVOLVING TECHNOLOGY S.A",
+        "handle": "BRAVANTIC-EVOLVING-TECHNOLOGY-SA"
+    },
+    "329516": {
+        "country_code": "MZ",
+        "asn": "329516",
+        "description": "Business Connexion Mozambique LIMITADA",
+        "handle": "BUSINESS-CONNEXION-MOZAMBIQUE"
+    },
+    "329533": {
+        "country_code": "MZ",
+        "asn": "329533",
+        "description": "WANDERPORT NETWORKS MOZAMBIQUE SU LDA",
+        "handle": "WNMS1"
+    },
+    "329689": {
+        "country_code": "MZ",
+        "asn": "329689",
+        "description": "Iz Telecom Su Lda",
+        "handle": "IZ-TELECOM-SU-LDA"
+    }
+}

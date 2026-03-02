@@ -1,0 +1,3650 @@
+{
+    "3836": {
+        "country_code": "TH",
+        "asn": "3836",
+        "description": "National Electronics and Computer Technology Center",
+        "handle": "THAISARN-TH-AS-AP"
+    },
+    "3839": {
+        "country_code": "TH",
+        "asn": "3839",
+        "description": "Chulalongkorn University",
+        "handle": "ERX-CHULANET"
+    },
+    "4274": {
+        "country_code": "TH",
+        "asn": "4274",
+        "description": "Assumption University",
+        "handle": "ERX-AU-NET"
+    },
+    "4618": {
+        "country_code": "TH",
+        "asn": "4618",
+        "description": "Internet Thailand Company Ltd.",
+        "handle": "INET-TH-AS"
+    },
+    "4621": {
+        "country_code": "TH",
+        "asn": "4621",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "UNINET-AS-AP"
+    },
+    "4651": {
+        "country_code": "TH",
+        "asn": "4651",
+        "description": "National Telecom Public Company Limited",
+        "handle": "NTPCL-AS-AP"
+    },
+    "4652": {
+        "country_code": "TH",
+        "asn": "4652",
+        "description": "National Telecom Public Company Limited",
+        "handle": "NTPCL-AS-AP"
+    },
+    "4741": {
+        "country_code": "TH",
+        "asn": "4741",
+        "description": "Samart Infonet Co. Ltd.",
+        "handle": "SAMART-INFONET-AS"
+    },
+    "4750": {
+        "country_code": "TH",
+        "asn": "4750",
+        "description": "CS Loxinfo Public Company Limited",
+        "handle": "CSLOXINFO-AS-AP"
+    },
+    "4762": {
+        "country_code": "TH",
+        "asn": "4762",
+        "description": "Mahidol University Thailand",
+        "handle": "MAHIDOL-BORDER-AS"
+    },
+    "4767": {
+        "country_code": "TH",
+        "asn": "4767",
+        "description": "Asian Institute of Technology",
+        "handle": "AIT-CS-ASN"
+    },
+    "4776": {
+        "country_code": "TH",
+        "asn": "4776",
+        "description": "ANET Co. Ltd.",
+        "handle": "ANET-TH-AP"
+    },
+    "4823": {
+        "country_code": "TH",
+        "asn": "4823",
+        "description": "JasTel Network Company Limited",
+        "handle": "JASTEL-NETWORK-IDC"
+    },
+    "4827": {
+        "country_code": "TH",
+        "asn": "4827",
+        "description": "CS Loxinfo Public Company Limited",
+        "handle": "RESERVED-CSLOXINFO-TH"
+    },
+    "7470": {
+        "country_code": "TH",
+        "asn": "7470",
+        "description": "TRUE INTERNET CORPORATION CO. LTD.",
+        "handle": "TRUEINTERNET-AS-AP"
+    },
+    "7485": {
+        "country_code": "TH",
+        "asn": "7485",
+        "description": "Samart Infonet Co. Ltd.",
+        "handle": "SAMART-AMI-AS"
+    },
+    "7568": {
+        "country_code": "TH",
+        "asn": "7568",
+        "description": "CS Loxinfo Public Company Limited",
+        "handle": "CSLOX-IIG-AS-AP"
+    },
+    "7588": {
+        "country_code": "TH",
+        "asn": "7588",
+        "description": "Internet Thailand Company Ltd.",
+        "handle": "PUBNET-TH-AS"
+    },
+    "7596": {
+        "country_code": "TH",
+        "asn": "7596",
+        "description": "Internet Thailand Company Ltd.",
+        "handle": "IIR-TH-AS-AP"
+    },
+    "7613": {
+        "country_code": "TH",
+        "asn": "7613",
+        "description": "CS Loxinfo Public Company Limited",
+        "handle": "CSLOXINFO-THAI-IX-1"
+    },
+    "7616": {
+        "country_code": "TH",
+        "asn": "7616",
+        "description": "JasTel Network Company Limited",
+        "handle": "JASTEL-NETWORK-IDC"
+    },
+    "7630": {
+        "country_code": "TH",
+        "asn": "7630",
+        "description": "KASIKORNBANK PUBLIC COMPANY LIMITED",
+        "handle": "KASIKORNBANK-AS-AP"
+    },
+    "7636": {
+        "country_code": "TH",
+        "asn": "7636",
+        "description": "Milcom Systems Co. Ltd.",
+        "handle": "FAREAST-AS-AP"
+    },
+    "7654": {
+        "country_code": "TH",
+        "asn": "7654",
+        "description": "Internet Solution & Service Provider Co. Ltd.",
+        "handle": "ISSP-AS-AP"
+    },
+    "7693": {
+        "country_code": "TH",
+        "asn": "7693",
+        "description": "KSC Commercial Internet Co.Ltd.",
+        "handle": "COMNET-TH"
+    },
+    "7715": {
+        "country_code": "TH",
+        "asn": "7715",
+        "description": "Internet Thailand Company Ltd.",
+        "handle": "INET-GSB-TH"
+    },
+    "9287": {
+        "country_code": "TH",
+        "asn": "9287",
+        "description": "True Internet Data Center Company Limited",
+        "handle": "TIDCC-AS-AP"
+    },
+    "9335": {
+        "country_code": "TH",
+        "asn": "9335",
+        "description": "National Telecom Public Company Limited",
+        "handle": "NTPCL-AS-AP"
+    },
+    "9339": {
+        "country_code": "TH",
+        "asn": "9339",
+        "description": "CS Loxinfo Public Company Limited",
+        "handle": "DATAPRO-CSLOXINFO-AS"
+    },
+    "9397": {
+        "country_code": "TH",
+        "asn": "9397",
+        "description": "Internet Thailand Company Ltd.",
+        "handle": "INET-TH-AP"
+    },
+    "9411": {
+        "country_code": "TH",
+        "asn": "9411",
+        "description": "Kasetsart University",
+        "handle": "NONTRINET-AS-AP"
+    },
+    "9464": {
+        "country_code": "TH",
+        "asn": "9464",
+        "description": "Prince of Songkla University",
+        "handle": "PSU-TH-AS-AP"
+    },
+    "9475": {
+        "country_code": "TH",
+        "asn": "9475",
+        "description": "ANET Co. Ltd.",
+        "handle": "WU-TH-AP"
+    },
+    "9486": {
+        "country_code": "TH",
+        "asn": "9486",
+        "description": "King Mongkut's Institute of Technology Ladkrabang",
+        "handle": "KMITL-AP"
+    },
+    "9533": {
+        "country_code": "TH",
+        "asn": "9533",
+        "description": "Internet Thailand Company Ltd.",
+        "handle": "KMITNB-AS-AP"
+    },
+    "9546": {
+        "country_code": "TH",
+        "asn": "9546",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "SNAKER-AS-AP"
+    },
+    "9551": {
+        "country_code": "TH",
+        "asn": "9551",
+        "description": "King Mongkut's University of Technology Thonburi",
+        "handle": "KMUTT-AP"
+    },
+    "9562": {
+        "country_code": "TH",
+        "asn": "9562",
+        "description": "ANET Co. Ltd.",
+        "handle": "MSU-TH-AP"
+    },
+    "9587": {
+        "country_code": "TH",
+        "asn": "9587",
+        "description": "DTAC TriNet Co. Ltd.",
+        "handle": "DTACNETWORK-TH-AP"
+    },
+    "9715": {
+        "country_code": "TH",
+        "asn": "9715",
+        "description": "Samart Infonet Co. Ltd.",
+        "handle": "SAMART-CDC-AS-AP"
+    },
+    "9737": {
+        "country_code": "TH",
+        "asn": "9737",
+        "description": "TOT Public Company Limited",
+        "handle": "TOTNET-TH-AS-AP"
+    },
+    "9741": {
+        "country_code": "TH",
+        "asn": "9741",
+        "description": "CS Loxinfo Public Company Limited",
+        "handle": "CSLOXINFO-THAI-IX-2"
+    },
+    "9835": {
+        "country_code": "TH",
+        "asn": "9835",
+        "description": "National Electronics and Computer Technology Center",
+        "handle": "GITS-TH-AS-AP"
+    },
+    "9891": {
+        "country_code": "TH",
+        "asn": "9891",
+        "description": "CS Loxinfo Public Company Limited",
+        "handle": "CSLOX-IDC-AS-AP"
+    },
+    "9903": {
+        "country_code": "TH",
+        "asn": "9903",
+        "description": "Internet Thailand Company Ltd.",
+        "handle": "RIT-AS-AP"
+    },
+    "9931": {
+        "country_code": "TH",
+        "asn": "9931",
+        "description": "National Telecom Public Company Limited",
+        "handle": "NTPCL-AS-AP"
+    },
+    "10028": {
+        "country_code": "TH",
+        "asn": "10028",
+        "description": "Internet Thailand Company Ltd.",
+        "handle": "PTT-GITS-AP"
+    },
+    "10089": {
+        "country_code": "TH",
+        "asn": "10089",
+        "description": "Total Access Communication PLC.",
+        "handle": "DTNCORP-TH-AP"
+    },
+    "10227": {
+        "country_code": "TH",
+        "asn": "10227",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "SUANDUSIT"
+    },
+    "17425": {
+        "country_code": "TH",
+        "asn": "17425",
+        "description": "Provincial Electricity Authority (PEA)",
+        "handle": "PEATHAILAND-AS-AP"
+    },
+    "17460": {
+        "country_code": "TH",
+        "asn": "17460",
+        "description": "Ayudhya Capital Auto Lease Public Company Limited",
+        "handle": "AYD-AS-AP"
+    },
+    "17468": {
+        "country_code": "TH",
+        "asn": "17468",
+        "description": "TRUE INTERNET CORPORATION CO. LTD.",
+        "handle": "TRUE-SERVICE1-AS-AP"
+    },
+    "17475": {
+        "country_code": "TH",
+        "asn": "17475",
+        "description": "CS Loxinfo Public Company Limited",
+        "handle": "PENINSULA-CSLOX-AS-TH"
+    },
+    "17478": {
+        "country_code": "TH",
+        "asn": "17478",
+        "description": "Bangkok Metropolitan Administration",
+        "handle": "BMA-AS-AP"
+    },
+    "17479": {
+        "country_code": "TH",
+        "asn": "17479",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "CMU-TH-AP"
+    },
+    "17552": {
+        "country_code": "TH",
+        "asn": "17552",
+        "description": "TRUE INTERNET CORPORATION CO. LTD.",
+        "handle": "TRUEONLINE-AS-AP"
+    },
+    "17556": {
+        "country_code": "TH",
+        "asn": "17556",
+        "description": "TRUE INTERNET CORPORATION CO. LTD.",
+        "handle": "TRUE-SUB1-AS-AP"
+    },
+    "17565": {
+        "country_code": "TH",
+        "asn": "17565",
+        "description": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
+        "handle": "ADC-BUDDYB-AS"
+    },
+    "17724": {
+        "country_code": "TH",
+        "asn": "17724",
+        "description": "Total Access Communication PLC.",
+        "handle": "DTAC-AS-TH-AP"
+    },
+    "17823": {
+        "country_code": "TH",
+        "asn": "17823",
+        "description": "T.H.NIC Co. Ltd.",
+        "handle": "THNIC-ASN-AP"
+    },
+    "17827": {
+        "country_code": "TH",
+        "asn": "17827",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "STOU-AS-TH"
+    },
+    "17887": {
+        "country_code": "TH",
+        "asn": "17887",
+        "description": "TCC Technology Co. Ltd.",
+        "handle": "TCCT-AS-TH-AP"
+    },
+    "17901": {
+        "country_code": "TH",
+        "asn": "17901",
+        "description": "Samart Infonet Co. Ltd.",
+        "handle": "OTO-AS"
+    },
+    "17980": {
+        "country_code": "TH",
+        "asn": "17980",
+        "description": "CS Loxinfo Public Company Limited",
+        "handle": "UNITED-SECURITIES-CSLOXINFO-TH"
+    },
+    "18197": {
+        "country_code": "TH",
+        "asn": "18197",
+        "description": "TRUE INTERNET CORPORATION CO. LTD.",
+        "handle": "TOYOTAASIA-TH-AS-AP"
+    },
+    "18252": {
+        "country_code": "TH",
+        "asn": "18252",
+        "description": "National Telecom Public Company Limited",
+        "handle": "NTPCL-AS-AP"
+    },
+    "18256": {
+        "country_code": "TH",
+        "asn": "18256",
+        "description": "Bank of Ayudhya Public Company Limited",
+        "handle": "BAY-AS-AP"
+    },
+    "18356": {
+        "country_code": "TH",
+        "asn": "18356",
+        "description": "Aware Corporation Limited",
+        "handle": "AWARE-AS-AP"
+    },
+    "18362": {
+        "country_code": "TH",
+        "asn": "18362",
+        "description": "Netway Communication Co. Ltd",
+        "handle": "NETWAY-AS-AP"
+    },
+    "18386": {
+        "country_code": "TH",
+        "asn": "18386",
+        "description": "KSC Commercial Internet Co.Ltd.",
+        "handle": "SEAGATE-KSC-AS-AP"
+    },
+    "18408": {
+        "country_code": "TH",
+        "asn": "18408",
+        "description": "CSLOXINFO",
+        "handle": "MITSUBISHIFA-CSLOXINFO-TH"
+    },
+    "18409": {
+        "country_code": "TH",
+        "asn": "18409",
+        "description": "Bank of Thailand",
+        "handle": "BOT-TH-AS"
+    },
+    "23602": {
+        "country_code": "TH",
+        "asn": "23602",
+        "description": "DTAC (CRIE Project)",
+        "handle": "DTAC-CRIE-AS-AP"
+    },
+    "23644": {
+        "country_code": "TH",
+        "asn": "23644",
+        "description": "Government Savings Bank",
+        "handle": "INET-GSBEX-TH"
+    },
+    "23656": {
+        "country_code": "TH",
+        "asn": "23656",
+        "description": "New Bangkok International Airport CO. LTD.",
+        "handle": "AOT-TH-AS"
+    },
+    "23683": {
+        "country_code": "TH",
+        "asn": "23683",
+        "description": "BoonRawd Brewery Co. LT",
+        "handle": "BOONRAWD-AS-TH"
+    },
+    "23687": {
+        "country_code": "TH",
+        "asn": "23687",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "IPST-AS-AP"
+    },
+    "23717": {
+        "country_code": "TH",
+        "asn": "23717",
+        "description": "TRUE INTERNET Co. Ltd.",
+        "handle": "TRUE-SUB2-AS-AP"
+    },
+    "23883": {
+        "country_code": "TH",
+        "asn": "23883",
+        "description": "Movaci Co. Ltd.",
+        "handle": "MOVACI-CDC-AS-AP"
+    },
+    "23884": {
+        "country_code": "TH",
+        "asn": "23884",
+        "description": "Proen Corp Public Company Limited",
+        "handle": "PROENNET-AS"
+    },
+    "23891": {
+        "country_code": "TH",
+        "asn": "23891",
+        "description": "Phatra Securities",
+        "handle": "PATARASEC-AS-AP"
+    },
+    "23892": {
+        "country_code": "TH",
+        "asn": "23892",
+        "description": "United Information Highway Co. Ltd.",
+        "handle": "UCOM-AS-TH"
+    },
+    "23919": {
+        "country_code": "TH",
+        "asn": "23919",
+        "description": "Ramkhamhaeng University",
+        "handle": "RAMKHAMHAENG-AS-AP"
+    },
+    "23925": {
+        "country_code": "TH",
+        "asn": "23925",
+        "description": "Samart Infonet Co. Ltd.",
+        "handle": "SS-AS"
+    },
+    "23927": {
+        "country_code": "TH",
+        "asn": "23927",
+        "description": "Telecommunication Inc.",
+        "handle": "MILCOM-AS-AP"
+    },
+    "23932": {
+        "country_code": "TH",
+        "asn": "23932",
+        "description": "World Internetwork Corporation Co. Ltd",
+        "handle": "WINTH-AS-AP"
+    },
+    "23969": {
+        "country_code": "TH",
+        "asn": "23969",
+        "description": "TOT Public Company Limited",
+        "handle": "TOT-NET"
+    },
+    "23974": {
+        "country_code": "TH",
+        "asn": "23974",
+        "description": "Ministry of Education - EMISC",
+        "handle": "MOE-AS-AP"
+    },
+    "24040": {
+        "country_code": "TH",
+        "asn": "24040",
+        "description": "DataOne Asia (Thailand) Co. Ltd.",
+        "handle": "D1-AS-TH"
+    },
+    "24042": {
+        "country_code": "TH",
+        "asn": "24042",
+        "description": "Bangkok Airways Co. Ltd.",
+        "handle": "BKKAIR-AS-TH-AP"
+    },
+    "24060": {
+        "country_code": "TH",
+        "asn": "24060",
+        "description": "KTB COMPUTER SERVICES COMPANY LIMITED",
+        "handle": "KTB-KTBCS-TH"
+    },
+    "24067": {
+        "country_code": "TH",
+        "asn": "24067",
+        "description": "TRUE INTERNET Co. Ltd.",
+        "handle": "TRUE-SUB3-AS-AP"
+    },
+    "24083": {
+        "country_code": "TH",
+        "asn": "24083",
+        "description": "Siam City Cement Public Company Limited",
+        "handle": "SCCC-TH"
+    },
+    "24097": {
+        "country_code": "TH",
+        "asn": "24097",
+        "description": "CS Loxinfo Public Company Limited",
+        "handle": "MAGNECOMP-CSLOXINFO-AS-TH-AP"
+    },
+    "24128": {
+        "country_code": "TH",
+        "asn": "24128",
+        "description": "Phuket Internet Co.. Ltd",
+        "handle": "PHUKETINTERNET-AS"
+    },
+    "24187": {
+        "country_code": "TH",
+        "asn": "24187",
+        "description": "KIRZ Company Limited",
+        "handle": "KIRZ-AS-TH"
+    },
+    "24190": {
+        "country_code": "TH",
+        "asn": "24190",
+        "description": "The Stock Exchange of Thailand",
+        "handle": "SET-AS-TH"
+    },
+    "24214": {
+        "country_code": "TH",
+        "asn": "24214",
+        "description": "CSLOXINFO",
+        "handle": "RESERVED-CSLOXINFO-TH"
+    },
+    "24237": {
+        "country_code": "TH",
+        "asn": "24237",
+        "description": "Siam City Cement Public Company Limited (SCCC)",
+        "handle": "SIAM-CITY-CEMENT-PUBLIC-COMPANY-LIMITED"
+    },
+    "24299": {
+        "country_code": "TH",
+        "asn": "24299",
+        "description": "Internet Solution & Service Provider Co. Ltd.",
+        "handle": "ISSP-AS"
+    },
+    "24326": {
+        "country_code": "TH",
+        "asn": "24326",
+        "description": "TT&T Co. Ltd.",
+        "handle": "TTT-AS-AP"
+    },
+    "24328": {
+        "country_code": "TH",
+        "asn": "24328",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "YRU-AS-AP"
+    },
+    "24344": {
+        "country_code": "TH",
+        "asn": "24344",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "CMRU-AS-AP"
+    },
+    "24378": {
+        "country_code": "TH",
+        "asn": "24378",
+        "description": "Total Access Communication PLC.",
+        "handle": "ENGTAC-AS-TH-AP"
+    },
+    "24379": {
+        "country_code": "TH",
+        "asn": "24379",
+        "description": "JasTel Network Company Limited",
+        "handle": "JASTEL-NETWORK-IDC"
+    },
+    "24393": {
+        "country_code": "TH",
+        "asn": "24393",
+        "description": "THE SECRETARIAT OF THE HOUSE OF THE REPRESENTIVES(THAI PARLI",
+        "handle": "SHR-AS-AP"
+    },
+    "24453": {
+        "country_code": "TH",
+        "asn": "24453",
+        "description": "Chandrakasem Rajabahat University",
+        "handle": "CRU-AS-AP"
+    },
+    "24455": {
+        "country_code": "TH",
+        "asn": "24455",
+        "description": "ITONE (The Siam Cement Group)",
+        "handle": "SIAMCEMENT-AS-TH"
+    },
+    "24465": {
+        "country_code": "TH",
+        "asn": "24465",
+        "description": "Kasikorn Securities PCL",
+        "handle": "KSEC-AP"
+    },
+    "24475": {
+        "country_code": "TH",
+        "asn": "24475",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "THAIREN-TRANSIT-AS-AP"
+    },
+    "24491": {
+        "country_code": "TH",
+        "asn": "24491",
+        "description": "My Telecom Group Company Limited",
+        "handle": "MTGCL-AS-AP"
+    },
+    "24540": {
+        "country_code": "TH",
+        "asn": "24540",
+        "description": "Thai Airways International",
+        "handle": "TG-AS-AP"
+    },
+    "24573": {
+        "country_code": "TH",
+        "asn": "24573",
+        "description": "Proen Corp Public Company Limited",
+        "handle": "PROENKS-TH-AS"
+    },
+    "37930": {
+        "country_code": "TH",
+        "asn": "37930",
+        "description": "TOT Public Company Limited",
+        "handle": "LOCAL-PEERING-TOT-AP"
+    },
+    "37932": {
+        "country_code": "TH",
+        "asn": "37932",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "RMUTI-AS-AP"
+    },
+    "37977": {
+        "country_code": "TH",
+        "asn": "37977",
+        "description": "The first introduced and developed several services",
+        "handle": "TC-AS-AP"
+    },
+    "37983": {
+        "country_code": "TH",
+        "asn": "37983",
+        "description": "CSLOXINFO",
+        "handle": "BUMRUNGRAD-CSLOXINFO-TH"
+    },
+    "37992": {
+        "country_code": "TH",
+        "asn": "37992",
+        "description": "Thammasat University",
+        "handle": "THAMMASAT-BORDER-AS"
+    },
+    "38002": {
+        "country_code": "TH",
+        "asn": "38002",
+        "description": "Security and Exchange Commission (SEC)",
+        "handle": "SEC-AS-AP"
+    },
+    "38024": {
+        "country_code": "TH",
+        "asn": "38024",
+        "description": "MCTS Inc. Transit AS Content Service Provider Thailand",
+        "handle": "MCTS-AS-AP"
+    },
+    "38034": {
+        "country_code": "TH",
+        "asn": "38034",
+        "description": "CSLOXINFO",
+        "handle": "RESERVE-CSLOXINFO-TH"
+    },
+    "38040": {
+        "country_code": "TH",
+        "asn": "38040",
+        "description": "TOT Public Company Limited",
+        "handle": "GLOBAL-TRANSIT-TOT-IIG-TH"
+    },
+    "38081": {
+        "country_code": "TH",
+        "asn": "38081",
+        "description": "True International Gateway Co. Ltd.",
+        "handle": "DIX-TIG-AS-AP"
+    },
+    "38082": {
+        "country_code": "TH",
+        "asn": "38082",
+        "description": "True International Gateway Co. Ltd.",
+        "handle": "IIT-TIG-AS-AP"
+    },
+    "38184": {
+        "country_code": "TH",
+        "asn": "38184",
+        "description": "Internet Thailand Company Ltd.",
+        "handle": "INET-TVI-TH"
+    },
+    "38223": {
+        "country_code": "TH",
+        "asn": "38223",
+        "description": "The Revenue Department of Thailand",
+        "handle": "RD-AS-AP"
+    },
+    "38228": {
+        "country_code": "TH",
+        "asn": "38228",
+        "description": "Samart Infonet Co. Ltd.",
+        "handle": "MOD-NON-AP"
+    },
+    "38231": {
+        "country_code": "TH",
+        "asn": "38231",
+        "description": "CIMB Securities Co. Ltd.",
+        "handle": "CIMB-CSLOXINFO-AS-TH-AP"
+    },
+    "38265": {
+        "country_code": "TH",
+        "asn": "38265",
+        "description": "Sisaket Rajabhat University",
+        "handle": "SSKRU-AS-AP"
+    },
+    "38293": {
+        "country_code": "TH",
+        "asn": "38293",
+        "description": "Ministry of Foreign Affairs",
+        "handle": "MFA-AS-TH-AP"
+    },
+    "38296": {
+        "country_code": "TH",
+        "asn": "38296",
+        "description": "National Electronics and Computer Technology Center",
+        "handle": "NSTDA-TH-AS-AP"
+    },
+    "38297": {
+        "country_code": "TH",
+        "asn": "38297",
+        "description": "ICT - Global Symposium Of Regulator (GSR)",
+        "handle": "ICT-GSR-AP"
+    },
+    "38326": {
+        "country_code": "TH",
+        "asn": "38326",
+        "description": "Chiva-Som international",
+        "handle": "CHIVA-SOM-INTERNATIONAL-CSLOXINFO-TH"
+    },
+    "38328": {
+        "country_code": "TH",
+        "asn": "38328",
+        "description": "Ministry of Finance",
+        "handle": "MOF-TH-AS-AP"
+    },
+    "38443": {
+        "country_code": "TH",
+        "asn": "38443",
+        "description": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
+        "handle": "AWN-AS-AP-TH"
+    },
+    "38444": {
+        "country_code": "TH",
+        "asn": "38444",
+        "description": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
+        "handle": "SUPERBROADBANDNETWORK-AS-AP"
+    },
+    "38448": {
+        "country_code": "TH",
+        "asn": "38448",
+        "description": "ASIA PLUS SECURITIES PUBLIC COMPANY LIMITED",
+        "handle": "ASIAPLUS-CSLOXINFO-AS-TH-AP"
+    },
+    "38450": {
+        "country_code": "TH",
+        "asn": "38450",
+        "description": "Ministry of Information Communication Technology",
+        "handle": "EGOV-AS-TH"
+    },
+    "38460": {
+        "country_code": "TH",
+        "asn": "38460",
+        "description": "Asiasoft Corporation Public Company Limited",
+        "handle": "ASIASOFTNET-TH"
+    },
+    "38543": {
+        "country_code": "TH",
+        "asn": "38543",
+        "description": "IBM THAILAND NETWORK",
+        "handle": "IBM-TH-AS-AP"
+    },
+    "38554": {
+        "country_code": "TH",
+        "asn": "38554",
+        "description": "ICL (THAILAND)",
+        "handle": "ICL-TH-AS-AP"
+    },
+    "38566": {
+        "country_code": "TH",
+        "asn": "38566",
+        "description": "NTT (Thailand) Limited",
+        "handle": "NTTCT-AS-TH-AP"
+    },
+    "38589": {
+        "country_code": "TH",
+        "asn": "38589",
+        "description": "Education Network",
+        "handle": "NIDA-AS-AP"
+    },
+    "38599": {
+        "country_code": "TH",
+        "asn": "38599",
+        "description": "TRUE INTERNET CORPORATION CO. LTD.",
+        "handle": "RPS-AS-AP"
+    },
+    "38601": {
+        "country_code": "TH",
+        "asn": "38601",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "NOC-AS-AP"
+    },
+    "38618": {
+        "country_code": "TH",
+        "asn": "38618",
+        "description": "Internet Thailand Company Ltd.",
+        "handle": "NATIONGROUP-TH-AS"
+    },
+    "38718": {
+        "country_code": "TH",
+        "asn": "38718",
+        "description": "CSLOXINFO",
+        "handle": "RESERVED-CSLOXINFO-TH"
+    },
+    "38794": {
+        "country_code": "TH",
+        "asn": "38794",
+        "description": "United Information Highway Co. Ltd.",
+        "handle": "UIH-BBB-AS-AP"
+    },
+    "38815": {
+        "country_code": "TH",
+        "asn": "38815",
+        "description": "Classic Gold Futers Co. Ltd.",
+        "handle": "CLASSIC-GOLD-FUTERS-CSLOXINFO-AS-TH"
+    },
+    "38820": {
+        "country_code": "TH",
+        "asn": "38820",
+        "description": "CSLOXINFO",
+        "handle": "TPI-POLENE-CSLOXINFO-AS"
+    },
+    "38886": {
+        "country_code": "TH",
+        "asn": "38886",
+        "description": "Goverment Lottery Office",
+        "handle": "GLO-AS-TH-AP"
+    },
+    "38888": {
+        "country_code": "TH",
+        "asn": "38888",
+        "description": "Milcom Systems Co. Ltd.",
+        "handle": "MILCOM-AS-AP"
+    },
+    "38889": {
+        "country_code": "TH",
+        "asn": "38889",
+        "description": "Internet Solution & Service Provider Co. Ltd.",
+        "handle": "ISSP-AS-AP"
+    },
+    "45134": {
+        "country_code": "TH",
+        "asn": "45134",
+        "description": "Nakhonpathom Rajabhat University",
+        "handle": "NPRU-AS-AP"
+    },
+    "45142": {
+        "country_code": "TH",
+        "asn": "45142",
+        "description": "Loxley Wireless Public Company Limited",
+        "handle": "LOXLEYBB-TH-AS-AP"
+    },
+    "45173": {
+        "country_code": "TH",
+        "asn": "45173",
+        "description": "Seamico Securities Public Company Limited",
+        "handle": "SEAMICO-SECURITIES-PUBLIC"
+    },
+    "45197": {
+        "country_code": "TH",
+        "asn": "45197",
+        "description": "Boonthavorn Co. Ltd.",
+        "handle": "BOONTHAVORN-TH-AS-AP"
+    },
+    "45200": {
+        "country_code": "TH",
+        "asn": "45200",
+        "description": "Spansion Thailand limited",
+        "handle": "SPANSION-TH-AS-AP"
+    },
+    "45223": {
+        "country_code": "TH",
+        "asn": "45223",
+        "description": "World Internetwork Corporation Co. Ltd",
+        "handle": "WIN-AS-TH-AP"
+    },
+    "45229": {
+        "country_code": "TH",
+        "asn": "45229",
+        "description": "United Nation-ESCAP",
+        "handle": "UN-ESCAP-AS-AP"
+    },
+    "45248": {
+        "country_code": "TH",
+        "asn": "45248",
+        "description": "United Information Highway Co. Ltd",
+        "handle": "UIH-TH-AP"
+    },
+    "45254": {
+        "country_code": "TH",
+        "asn": "45254",
+        "description": "Internet Solution & Service Provider Co. Ltd.",
+        "handle": "ISSP-AS-AP"
+    },
+    "45255": {
+        "country_code": "TH",
+        "asn": "45255",
+        "description": "Hi-tech Nittsu (Thailand) Co. Ltd.",
+        "handle": "HITECHNITTSU-CSOXINFO-AS-TH-AP"
+    },
+    "45265": {
+        "country_code": "TH",
+        "asn": "45265",
+        "description": "CS Loxinfo Public Company Limited",
+        "handle": "CSLOX-DOM-AS-AP"
+    },
+    "45328": {
+        "country_code": "TH",
+        "asn": "45328",
+        "description": "NIPA Technology Co. Ltd",
+        "handle": "NIPA-AS-TH"
+    },
+    "45413": {
+        "country_code": "TH",
+        "asn": "45413",
+        "description": "ServeNet Solution Limited Partnership",
+        "handle": "SERVENET-AS-TH-AP"
+    },
+    "45430": {
+        "country_code": "TH",
+        "asn": "45430",
+        "description": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
+        "handle": "SBN-AWN-IIG-AS-AP"
+    },
+    "45441": {
+        "country_code": "TH",
+        "asn": "45441",
+        "description": "SheepLink Co. Ltd.",
+        "handle": "SHEEPLINK-TH"
+    },
+    "45455": {
+        "country_code": "TH",
+        "asn": "45455",
+        "description": "Two S One N Co Ltd",
+        "handle": "TH-2S1N-AP"
+    },
+    "45456": {
+        "country_code": "TH",
+        "asn": "45456",
+        "description": "Proen Corp Public Company Limited",
+        "handle": "PROENKS-AS-AP"
+    },
+    "45458": {
+        "country_code": "TH",
+        "asn": "45458",
+        "description": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
+        "handle": "SBN-AWN-AS-02-AP"
+    },
+    "45471": {
+        "country_code": "TH",
+        "asn": "45471",
+        "description": "TRSC International Lasik Center Laser Eye Clinic Thailand",
+        "handle": "TRSC-AS-AP"
+    },
+    "45503": {
+        "country_code": "TH",
+        "asn": "45503",
+        "description": "Legal Execution Department",
+        "handle": "LED-TH-AS-AP"
+    },
+    "45533": {
+        "country_code": "TH",
+        "asn": "45533",
+        "description": "The Comptroller General's Department",
+        "handle": "CGD-AS-TH-AP"
+    },
+    "45537": {
+        "country_code": "TH",
+        "asn": "45537",
+        "description": "Office of the Narcotics Control Board",
+        "handle": "ONCBNET-TH"
+    },
+    "45575": {
+        "country_code": "TH",
+        "asn": "45575",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "RMUTSV-AS-AP"
+    },
+    "45581": {
+        "country_code": "TH",
+        "asn": "45581",
+        "description": "Infonet (Thailand) Limited",
+        "handle": "INFONET-THAI-TH-AP"
+    },
+    "45629": {
+        "country_code": "TH",
+        "asn": "45629",
+        "description": "JasTel Network Company Limited",
+        "handle": "JASTEL-NETWORK-TH-AP"
+    },
+    "45642": {
+        "country_code": "TH",
+        "asn": "45642",
+        "description": "JasTel Network Company Limited",
+        "handle": "JASTEL-NETWORK-TH-NIX-AP"
+    },
+    "45662": {
+        "country_code": "TH",
+        "asn": "45662",
+        "description": "Proen Corp Public Company Limited",
+        "handle": "NOBLEHOUSE-AS"
+    },
+    "45667": {
+        "country_code": "TH",
+        "asn": "45667",
+        "description": "TCC Technology Co. Ltd.",
+        "handle": "TCCT-DOMESTIC-AS-AP"
+    },
+    "45752": {
+        "country_code": "TH",
+        "asn": "45752",
+        "description": "Provincial Waterworks Authority",
+        "handle": "PWA-AS-TH"
+    },
+    "45758": {
+        "country_code": "TH",
+        "asn": "45758",
+        "description": "Triple T Broadband Public Company Limited",
+        "handle": "TTBP-AS-AP"
+    },
+    "45764": {
+        "country_code": "TH",
+        "asn": "45764",
+        "description": "Krung Thai Computer Services Co. Ltd.",
+        "handle": "KRUNGTHAICOMPUTERSERVICES-TH-AS-AP"
+    },
+    "45781": {
+        "country_code": "TH",
+        "asn": "45781",
+        "description": "NB-IoT",
+        "handle": "TOI-BN"
+    },
+    "45788": {
+        "country_code": "TH",
+        "asn": "45788",
+        "description": "BB Connect Co. Ltd.",
+        "handle": "BCN-IX-TH-AP"
+    },
+    "45796": {
+        "country_code": "TH",
+        "asn": "45796",
+        "description": "UIH / BB Connect",
+        "handle": "UIH-BBCONNECT-AS-AP"
+    },
+    "45800": {
+        "country_code": "TH",
+        "asn": "45800",
+        "description": "Suan sunandha Rajabhat University",
+        "handle": "SSRU-AS-AP"
+    },
+    "45805": {
+        "country_code": "TH",
+        "asn": "45805",
+        "description": "True International Gateway Co. Ltd.",
+        "handle": "TIC-AS"
+    },
+    "45806": {
+        "country_code": "TH",
+        "asn": "45806",
+        "description": "Siam Commercial Bank",
+        "handle": "SCB-TH-AS-AP"
+    },
+    "45807": {
+        "country_code": "TH",
+        "asn": "45807",
+        "description": "Emergency Medical institute Of Thailand",
+        "handle": "EMIT-TH-AS-AP"
+    },
+    "45847": {
+        "country_code": "TH",
+        "asn": "45847",
+        "description": "university network Nakornsitammarat Thailand",
+        "handle": "NSTRU-AS-AP"
+    },
+    "45878": {
+        "country_code": "TH",
+        "asn": "45878",
+        "description": "Internet Thailand Company Ltd.",
+        "handle": "AST-AS-AP"
+    },
+    "45958": {
+        "country_code": "TH",
+        "asn": "45958",
+        "description": "DN Broadcast Co. Ltd",
+        "handle": "DN-BROADCAST-CSLOXINFO-TRUE-AS-TH"
+    },
+    "45959": {
+        "country_code": "TH",
+        "asn": "45959",
+        "description": "Thai Reinsurance Public Co. Ltd.",
+        "handle": "THAI-REINSURANCE"
+    },
+    "46079": {
+        "country_code": "TH",
+        "asn": "46079",
+        "description": "Sripatum Univeristy",
+        "handle": "SPU-AS-AP"
+    },
+    "55325": {
+        "country_code": "TH",
+        "asn": "55325",
+        "description": "Eastern Water Resources Development and Management Company",
+        "handle": "EASTWATER-TH-AS-AP"
+    },
+    "55403": {
+        "country_code": "TH",
+        "asn": "55403",
+        "description": "PTT Digital Solutions Company Limited",
+        "handle": "PTTDIGITAL-AS-AP"
+    },
+    "55407": {
+        "country_code": "TH",
+        "asn": "55407",
+        "description": "Dhurakij Pundit University",
+        "handle": "DPU-AS-AP"
+    },
+    "55423": {
+        "country_code": "TH",
+        "asn": "55423",
+        "description": "JasTel Network Company Limited",
+        "handle": "JASTEL-NETWORK-TH-IDC-AP"
+    },
+    "55451": {
+        "country_code": "TH",
+        "asn": "55451",
+        "description": "Office of the National Broadcasting and Telecommunication Commission",
+        "handle": "NBTC-THAI-AS-TH"
+    },
+    "55465": {
+        "country_code": "TH",
+        "asn": "55465",
+        "description": "TT&T Co. Ltd.",
+        "handle": "TTT-AS-AP"
+    },
+    "55476": {
+        "country_code": "TH",
+        "asn": "55476",
+        "description": "CP All Public Co. Ltd.",
+        "handle": "CPALL-AS-AP"
+    },
+    "55488": {
+        "country_code": "TH",
+        "asn": "55488",
+        "description": "Nakorn Ratchasima Rajabhat University",
+        "handle": "NRRU-AS-AP"
+    },
+    "55490": {
+        "country_code": "TH",
+        "asn": "55490",
+        "description": "True Move Company Limited",
+        "handle": "TRUEMOVE-AS-AP"
+    },
+    "55498": {
+        "country_code": "TH",
+        "asn": "55498",
+        "description": "Greenline Synergy Co. Ltd.",
+        "handle": "GREENLINE-AS-AP"
+    },
+    "55514": {
+        "country_code": "TH",
+        "asn": "55514",
+        "description": "Electricity Generating Authority of Thailand",
+        "handle": "EGAT-CO-TH"
+    },
+    "55538": {
+        "country_code": "TH",
+        "asn": "55538",
+        "description": "CIMB Securities (Thailand) Co. Ltd.",
+        "handle": "CIMB-AS-AP"
+    },
+    "55545": {
+        "country_code": "TH",
+        "asn": "55545",
+        "description": "Suranaree University of Technology",
+        "handle": "SUT-AS-AP"
+    },
+    "55549": {
+        "country_code": "TH",
+        "asn": "55549",
+        "description": "True International Gateway Co. Ltd.",
+        "handle": "KDDI-TH-AS-AP"
+    },
+    "55554": {
+        "country_code": "TH",
+        "asn": "55554",
+        "description": "True International Gateway Co. Ltd.",
+        "handle": "INTER-IIT-TIG-AS-AP"
+    },
+    "55634": {
+        "country_code": "TH",
+        "asn": "55634",
+        "description": "CS Loxinfo Public Company Limited",
+        "handle": "KASIKORN-ASSET-MANAGEMENT"
+    },
+    "55635": {
+        "country_code": "TH",
+        "asn": "55635",
+        "description": "ServeNet Solution Limited Partnership",
+        "handle": "BANGKOKVPS"
+    },
+    "55642": {
+        "country_code": "TH",
+        "asn": "55642",
+        "description": "Control Data (Thailand) Ltd",
+        "handle": "CONTROL-DATA-CSLOXINFO-AS-TH"
+    },
+    "55646": {
+        "country_code": "TH",
+        "asn": "55646",
+        "description": "TRUE INTERNET CORPORATION CO. LTD.",
+        "handle": "NEXGEN-AS-AP"
+    },
+    "55760": {
+        "country_code": "TH",
+        "asn": "55760",
+        "description": "Mahanakorn University Of Technology",
+        "handle": "MUT-AS-AP"
+    },
+    "55790": {
+        "country_code": "TH",
+        "asn": "55790",
+        "description": "TRUE INTERNET CORPORATION CO. LTD.",
+        "handle": "NETONE-AS-AP"
+    },
+    "55802": {
+        "country_code": "TH",
+        "asn": "55802",
+        "description": "Internet Solution & Service Provider Co. Ltd.",
+        "handle": "ISSP-AS-AP"
+    },
+    "55808": {
+        "country_code": "TH",
+        "asn": "55808",
+        "description": "Triple T Broadband Public Company Limited",
+        "handle": "TTBP-AS-AP"
+    },
+    "55844": {
+        "country_code": "TH",
+        "asn": "55844",
+        "description": "TRUE INTERNET CORPORATION CO. LTD.",
+        "handle": "PROCESSINGCENTER-AS-AP"
+    },
+    "55867": {
+        "country_code": "TH",
+        "asn": "55867",
+        "description": "Chiangmai Internet",
+        "handle": "CHIANGMAI-INTERNET-AS-AP"
+    },
+    "55868": {
+        "country_code": "TH",
+        "asn": "55868",
+        "description": "TRUE INTERNET CORPORATION CO. LTD.",
+        "handle": "SAFETY-INSURANCE-AS-AP"
+    },
+    "55925": {
+        "country_code": "TH",
+        "asn": "55925",
+        "description": "Bank for Agriculture and Agricultural Co-operative",
+        "handle": "BAAC-NET-TH"
+    },
+    "55927": {
+        "country_code": "TH",
+        "asn": "55927",
+        "description": "UOB Kay Hian Securities (Thailand) Co. Ltd.",
+        "handle": "UOB-KAY-HIAN-TH"
+    },
+    "55932": {
+        "country_code": "TH",
+        "asn": "55932",
+        "description": "The Thai Bond Market Association",
+        "handle": "THAIBMA-AS-AP"
+    },
+    "55938": {
+        "country_code": "TH",
+        "asn": "55938",
+        "description": "Expressway Authority of Thailand",
+        "handle": "EXAT-NET-TH"
+    },
+    "56018": {
+        "country_code": "TH",
+        "asn": "56018",
+        "description": "Proen Corp Public Company Limited",
+        "handle": "PROENKS-AS-AP"
+    },
+    "56067": {
+        "country_code": "TH",
+        "asn": "56067",
+        "description": "Metrabyte Co. Ltd",
+        "handle": "METRABYTE-TH"
+    },
+    "56085": {
+        "country_code": "TH",
+        "asn": "56085",
+        "description": "United Information Highway Co. Ltd.",
+        "handle": "ISLAND-BGP-TH"
+    },
+    "56112": {
+        "country_code": "TH",
+        "asn": "56112",
+        "description": "Muang Thai Life Assurance Co. Ltd.",
+        "handle": "MUANGTHAI-LIFE-ASSURANCE"
+    },
+    "56117": {
+        "country_code": "TH",
+        "asn": "56117",
+        "description": "Kiatnakin Bank Public Company Limited",
+        "handle": "KIATNAKIN-TH"
+    },
+    "56118": {
+        "country_code": "TH",
+        "asn": "56118",
+        "description": "Office of the Civil Service Commission (OCSC)",
+        "handle": "OCSC-TH"
+    },
+    "56120": {
+        "country_code": "TH",
+        "asn": "56120",
+        "description": "TOT Mobile Co LTD",
+        "handle": "TOT-MOBILE-AS-AP"
+    },
+    "56134": {
+        "country_code": "TH",
+        "asn": "56134",
+        "description": "Horizon Cable Communication Co. Ltd.",
+        "handle": "HORIZON-TH"
+    },
+    "56223": {
+        "country_code": "TH",
+        "asn": "56223",
+        "description": "Thai Summit Autopart Industry Co. Ltd",
+        "handle": "CSLOXINFO-INET-THAISUMMIT-AS"
+    },
+    "56277": {
+        "country_code": "TH",
+        "asn": "56277",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "UNINET-AS-AP"
+    },
+    "56309": {
+        "country_code": "TH",
+        "asn": "56309",
+        "description": "Siamdata Communication Co. ltd.",
+        "handle": "SIAMDATA-TH"
+    },
+    "58370": {
+        "country_code": "TH",
+        "asn": "58370",
+        "description": "JasTel Network Company Limited",
+        "handle": "JASTEL-NETWORK-IDC"
+    },
+    "58430": {
+        "country_code": "TH",
+        "asn": "58430",
+        "description": "TCC Technology Co. Ltd.",
+        "handle": "NDM-AS-AP"
+    },
+    "58544": {
+        "country_code": "TH",
+        "asn": "58544",
+        "description": "TRUE INTERNET CORPORATION CO. LTD.",
+        "handle": "TVD-AS-AP"
+    },
+    "58547": {
+        "country_code": "TH",
+        "asn": "58547",
+        "description": "DIVINE HERITAGE COMPANY LIMITED",
+        "handle": "DHCL-TH"
+    },
+    "58586": {
+        "country_code": "TH",
+        "asn": "58586",
+        "description": "Happy Home Cable T.V. Company Limited",
+        "handle": "HAPPY-HOME-CABLE-TH"
+    },
+    "58690": {
+        "country_code": "TH",
+        "asn": "58690",
+        "description": "Internet East Co. Ltd.",
+        "handle": "INTERNETEAST-TH"
+    },
+    "58692": {
+        "country_code": "TH",
+        "asn": "58692",
+        "description": "DOTS Solutions Co. Ltd.",
+        "handle": "DOTS-SOL-AS-AP"
+    },
+    "58806": {
+        "country_code": "TH",
+        "asn": "58806",
+        "description": "The University of Thai Chamber of Commerce",
+        "handle": "UTCC-TH"
+    },
+    "58930": {
+        "country_code": "TH",
+        "asn": "58930",
+        "description": "My Telecom Group Company Limited",
+        "handle": "MTGCL-AS-AP"
+    },
+    "58955": {
+        "country_code": "TH",
+        "asn": "58955",
+        "description": "Bangmod Enterprise Co. Ltd.",
+        "handle": "BANGMODENTERPRISE-TH"
+    },
+    "59238": {
+        "country_code": "TH",
+        "asn": "59238",
+        "description": "Innovative Extremist Co. Ltd.",
+        "handle": "INOX-TH"
+    },
+    "59374": {
+        "country_code": "TH",
+        "asn": "59374",
+        "description": "Bangmod Enterprise Co. Ltd.",
+        "handle": "BANGMODENTERPRISE-AS-AP"
+    },
+    "63528": {
+        "country_code": "TH",
+        "asn": "63528",
+        "description": "BKNIX Co. Ltd.",
+        "handle": "BKNIX-AS-AP"
+    },
+    "63529": {
+        "country_code": "TH",
+        "asn": "63529",
+        "description": "BKNIX Co. Ltd.",
+        "handle": "BKNIX-RS-AP"
+    },
+    "63940": {
+        "country_code": "TH",
+        "asn": "63940",
+        "description": "dragonhispeed",
+        "handle": "DRAGONHISPEED-AS-AP"
+    },
+    "63951": {
+        "country_code": "TH",
+        "asn": "63951",
+        "description": "THAICOM Public Company Limited",
+        "handle": "THAICOM-PUBLIC-AS-AP"
+    },
+    "63972": {
+        "country_code": "TH",
+        "asn": "63972",
+        "description": "Social Security Office",
+        "handle": "SOCIAL-TH"
+    },
+    "63989": {
+        "country_code": "TH",
+        "asn": "63989",
+        "description": "Dot Enterprise Co. Ltd.",
+        "handle": "DE-CORP"
+    },
+    "64045": {
+        "country_code": "TH",
+        "asn": "64045",
+        "description": "Berli Jucker Public Company Limited",
+        "handle": "BJC-AS-TH-AP"
+    },
+    "66666": {
+        "country_code": "TH",
+        "asn": "66666",
+        "description": "National Electronics and Computer Technology Center",
+        "handle": "NATIONAL-ELECTRONICS"
+    },
+    "131087": {
+        "country_code": "TH",
+        "asn": "131087",
+        "description": "KSC Commercial Internet Co.Ltd.",
+        "handle": "KSC-4BYTE-AS-AP"
+    },
+    "131089": {
+        "country_code": "TH",
+        "asn": "131089",
+        "description": "National Telecom Public Company Limited",
+        "handle": "NTPCL-AS-AP"
+    },
+    "131090": {
+        "country_code": "TH",
+        "asn": "131090",
+        "description": "National Telecom Public Company Limited",
+        "handle": "NTPCL-AS-AP"
+    },
+    "131162": {
+        "country_code": "TH",
+        "asn": "131162",
+        "description": "TRUE INTERNET CORPORATION CO. LTD.",
+        "handle": "TRUEINTERNET-AS-AP"
+    },
+    "131163": {
+        "country_code": "TH",
+        "asn": "131163",
+        "description": "Internet Thailand Company Ltd.",
+        "handle": "INET-TH-LHF"
+    },
+    "131191": {
+        "country_code": "TH",
+        "asn": "131191",
+        "description": "Electronic Transactions Development Agency",
+        "handle": "ETDA-INET"
+    },
+    "131221": {
+        "country_code": "TH",
+        "asn": "131221",
+        "description": "Petchaburi Rajabhat University",
+        "handle": "PBRU-AS-AP"
+    },
+    "131246": {
+        "country_code": "TH",
+        "asn": "131246",
+        "description": "LOEI university network LOEI Thailand",
+        "handle": "LRU-AS-AP"
+    },
+    "131257": {
+        "country_code": "TH",
+        "asn": "131257",
+        "description": "Suratthani ratjabhat university Thailand",
+        "handle": "SRU-AS-AP"
+    },
+    "131293": {
+        "country_code": "TH",
+        "asn": "131293",
+        "description": "TOT Public Company Limited",
+        "handle": "TOT-LLI-AS-AP"
+    },
+    "131445": {
+        "country_code": "TH",
+        "asn": "131445",
+        "description": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
+        "handle": "AIS3G-2100-AS-AP"
+    },
+    "131447": {
+        "country_code": "TH",
+        "asn": "131447",
+        "description": "World Datanetwork Corporation Co. Ltd.",
+        "handle": "POP-IDC-TH"
+    },
+    "131460": {
+        "country_code": "TH",
+        "asn": "131460",
+        "description": "Asiasoft Corporation Public Company Limited",
+        "handle": "ASIASOFTNET-TH"
+    },
+    "131472": {
+        "country_code": "TH",
+        "asn": "131472",
+        "description": "dragonhispeed",
+        "handle": "DRAGONHISPEED-TH"
+    },
+    "131789": {
+        "country_code": "TH",
+        "asn": "131789",
+        "description": "Asahi Kasei International IT Asia Pacific Co. LTD",
+        "handle": "AKIIAPCL-AS-AP"
+    },
+    "132009": {
+        "country_code": "TH",
+        "asn": "132009",
+        "description": "True Internet Co. Ltd.",
+        "handle": "EASYBUY-AS-AP"
+    },
+    "132013": {
+        "country_code": "TH",
+        "asn": "132013",
+        "description": "ICS",
+        "handle": "ICS-AS-AP"
+    },
+    "132032": {
+        "country_code": "TH",
+        "asn": "132032",
+        "description": "Total Access Communication PLC.",
+        "handle": "DTAC-AS-AP"
+    },
+    "132061": {
+        "country_code": "TH",
+        "asn": "132061",
+        "description": "Realmove Company Limited",
+        "handle": "REALMOVE-AS-AP"
+    },
+    "132062": {
+        "country_code": "TH",
+        "asn": "132062",
+        "description": "United Information Highway Co. Ltd.",
+        "handle": "REVENUE-DEPARTMENT-TH-AS-AP"
+    },
+    "132063": {
+        "country_code": "TH",
+        "asn": "132063",
+        "description": "KITTI BOONMEE",
+        "handle": "KITTI-AS-AP"
+    },
+    "132086": {
+        "country_code": "TH",
+        "asn": "132086",
+        "description": "United Information Highway Co. Ltd.",
+        "handle": "UIH-BCN-AS-AP"
+    },
+    "132107": {
+        "country_code": "TH",
+        "asn": "132107",
+        "description": "Cloud Power CO. LTD.",
+        "handle": "CLOUDPOWER-AS"
+    },
+    "132117": {
+        "country_code": "TH",
+        "asn": "132117",
+        "description": "Ministry of Interior",
+        "handle": "MOINET-AS-AP"
+    },
+    "132133": {
+        "country_code": "TH",
+        "asn": "132133",
+        "description": "SB.Furniture House Co. Ltd",
+        "handle": "SB-FURNITURE-AS-AP"
+    },
+    "132172": {
+        "country_code": "TH",
+        "asn": "132172",
+        "description": "Fiscal Policy Office",
+        "handle": "FPO-AS-AP"
+    },
+    "132201": {
+        "country_code": "TH",
+        "asn": "132201",
+        "description": "Land and Houses Bank Public Company Limited",
+        "handle": "LHBANK-AS-AP"
+    },
+    "132202": {
+        "country_code": "TH",
+        "asn": "132202",
+        "description": "Movaci Co. Ltd.",
+        "handle": "MOVACI-NDC-AS-AP"
+    },
+    "132207": {
+        "country_code": "TH",
+        "asn": "132207",
+        "description": "POPIDC",
+        "handle": "POPIDC1-TH"
+    },
+    "132250": {
+        "country_code": "TH",
+        "asn": "132250",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "PNU-AS"
+    },
+    "132280": {
+        "country_code": "TH",
+        "asn": "132280",
+        "description": "Symphony Communication Public Company Limited",
+        "handle": "SYMPHONY-AP-TH"
+    },
+    "132300": {
+        "country_code": "TH",
+        "asn": "132300",
+        "description": "NIPA Technology Co. Ltd",
+        "handle": "NIPA-AS-TH"
+    },
+    "132455": {
+        "country_code": "TH",
+        "asn": "132455",
+        "description": "PlayVillage Co. Ltd.",
+        "handle": "PLAYVILLAGE-AS-AP"
+    },
+    "132482": {
+        "country_code": "TH",
+        "asn": "132482",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "RMUTR-AS-AP"
+    },
+    "132493": {
+        "country_code": "TH",
+        "asn": "132493",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "LPRU-AS-AP"
+    },
+    "132514": {
+        "country_code": "TH",
+        "asn": "132514",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "UBU-AS-AP"
+    },
+    "132545": {
+        "country_code": "TH",
+        "asn": "132545",
+        "description": "Sapanan General Food",
+        "handle": "SAPANAN-AS-AP"
+    },
+    "132605": {
+        "country_code": "TH",
+        "asn": "132605",
+        "description": "TRUE INTERNET CORPORATION CO. LTD.",
+        "handle": "KTBTH-AS-AP"
+    },
+    "132618": {
+        "country_code": "TH",
+        "asn": "132618",
+        "description": "True Move Company Limited",
+        "handle": "REALFUTURE-AS-AP"
+    },
+    "132681": {
+        "country_code": "TH",
+        "asn": "132681",
+        "description": "AIN Globalcomm Limited. Company",
+        "handle": "AIN-GLC-AS"
+    },
+    "132701": {
+        "country_code": "TH",
+        "asn": "132701",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "URU-AS"
+    },
+    "132821": {
+        "country_code": "TH",
+        "asn": "132821",
+        "description": "Trinity Securities Co. Ltd.",
+        "handle": "TRINITY-SECURITIES-AS-AP"
+    },
+    "132838": {
+        "country_code": "TH",
+        "asn": "132838",
+        "description": "United Information Highway Co. Ltd.",
+        "handle": "UIH-RBL-AS-AP"
+    },
+    "132842": {
+        "country_code": "TH",
+        "asn": "132842",
+        "description": "TCC Technology Co. Ltd.",
+        "handle": "NDM-AS-AP"
+    },
+    "132866": {
+        "country_code": "TH",
+        "asn": "132866",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "RMUTSB-AS"
+    },
+    "132876": {
+        "country_code": "TH",
+        "asn": "132876",
+        "description": "Symphony Communication Public Company Limited",
+        "handle": "SYMPHONY-AP-TH"
+    },
+    "132879": {
+        "country_code": "TH",
+        "asn": "132879",
+        "description": "Rajabhat Mahasarakham University",
+        "handle": "RMU-AS-AP"
+    },
+    "132880": {
+        "country_code": "TH",
+        "asn": "132880",
+        "description": "Symphony Communication Public Company Limited",
+        "handle": "SYMPHONY-AP-TH"
+    },
+    "132920": {
+        "country_code": "TH",
+        "asn": "132920",
+        "description": "Magnecomp Precision Technology",
+        "handle": "MPT-AS-AP"
+    },
+    "133042": {
+        "country_code": "TH",
+        "asn": "133042",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "OBEC-AS-AP"
+    },
+    "133063": {
+        "country_code": "TH",
+        "asn": "133063",
+        "description": "KGI Securities (Thailand) PLC.",
+        "handle": "KGITH-AS-AP"
+    },
+    "133065": {
+        "country_code": "TH",
+        "asn": "133065",
+        "description": "Well-Act Partnership Limited",
+        "handle": "WELLACT-AS-AP"
+    },
+    "133152": {
+        "country_code": "TH",
+        "asn": "133152",
+        "description": "TAN SPIRIT CO. LTD.",
+        "handle": "TANSPIRIT-AS-AP"
+    },
+    "133163": {
+        "country_code": "TH",
+        "asn": "133163",
+        "description": "PP Ontime Company Limited",
+        "handle": "PPOT-AS-AP"
+    },
+    "133167": {
+        "country_code": "TH",
+        "asn": "133167",
+        "description": "TMB Bank Phahonyothin branch",
+        "handle": "TMBPYT-AS-AP"
+    },
+    "133193": {
+        "country_code": "TH",
+        "asn": "133193",
+        "description": "Provincial Electricity Authority (PEA)",
+        "handle": "PEATHAILAND-AS-AP"
+    },
+    "133328": {
+        "country_code": "TH",
+        "asn": "133328",
+        "description": "Bangkok Patana School",
+        "handle": "AWN-BANGKOK-PATANA-SCHOOL-AS-AP"
+    },
+    "133376": {
+        "country_code": "TH",
+        "asn": "133376",
+        "description": "LAZADA Co. Ltd.",
+        "handle": "LAZADA-AS-AP"
+    },
+    "133481": {
+        "country_code": "TH",
+        "asn": "133481",
+        "description": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
+        "handle": "AIS-FIBRE-AS-AP"
+    },
+    "133504": {
+        "country_code": "TH",
+        "asn": "133504",
+        "description": "PAOCLOUD CO. LTD.",
+        "handle": "PCLONET-AS-AP"
+    },
+    "133529": {
+        "country_code": "TH",
+        "asn": "133529",
+        "description": "Land and Houses Bank Public Company Limited",
+        "handle": "LHBANK-AS-AP"
+    },
+    "133540": {
+        "country_code": "TH",
+        "asn": "133540",
+        "description": "KIRZ Company Limited",
+        "handle": "KIRZ-AS-AP"
+    },
+    "133543": {
+        "country_code": "TH",
+        "asn": "133543",
+        "description": "DTAC TriNet Co. Ltd.",
+        "handle": "DTACTRINET-AS-AP"
+    },
+    "133581": {
+        "country_code": "TH",
+        "asn": "133581",
+        "description": "Thailand Post Co .Ltd.",
+        "handle": "THAILANDPOSTCOMPANY-AS-AP"
+    },
+    "133751": {
+        "country_code": "TH",
+        "asn": "133751",
+        "description": "Pacific Net Venture Co. Ltd.",
+        "handle": "HOSTPACIFIC-AS-AP"
+    },
+    "133760": {
+        "country_code": "TH",
+        "asn": "133760",
+        "description": "Electronics Extreme Co. Ltd",
+        "handle": "EXTREME-AS-AP"
+    },
+    "133761": {
+        "country_code": "TH",
+        "asn": "133761",
+        "description": "Mr. Naphat",
+        "handle": "FORESTTH-AS-AP"
+    },
+    "133763": {
+        "country_code": "TH",
+        "asn": "133763",
+        "description": "International School Bangkok",
+        "handle": "ISB-AS-AP"
+    },
+    "133791": {
+        "country_code": "TH",
+        "asn": "133791",
+        "description": "Teledirect Telecommerce",
+        "handle": "TELEDIRECT-AS-AP"
+    },
+    "133848": {
+        "country_code": "TH",
+        "asn": "133848",
+        "description": "Internet Datacenter Network",
+        "handle": "AWN-IDC-AS"
+    },
+    "133880": {
+        "country_code": "TH",
+        "asn": "133880",
+        "description": "Thai Red Cross Society",
+        "handle": "REDCROSS-AS-AP"
+    },
+    "133888": {
+        "country_code": "TH",
+        "asn": "133888",
+        "description": "Geo-Informatics and Space Technology Development",
+        "handle": "GIS-TH"
+    },
+    "133907": {
+        "country_code": "TH",
+        "asn": "133907",
+        "description": "TRUE INTERNET CORPORATION CO. LTD.",
+        "handle": "KTCCARD-AS-AP"
+    },
+    "133909": {
+        "country_code": "TH",
+        "asn": "133909",
+        "description": "Siam E Business Limited Partnership",
+        "handle": "SIAMEBU-AS-AP"
+    },
+    "133910": {
+        "country_code": "TH",
+        "asn": "133910",
+        "description": "SBN-IIG/AWN-IIG transit provider",
+        "handle": "AWN-IX-AS-AP"
+    },
+    "133919": {
+        "country_code": "TH",
+        "asn": "133919",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "RMUTP-AS-AP"
+    },
+    "133947": {
+        "country_code": "TH",
+        "asn": "133947",
+        "description": "Metropolitan Electricity Authority",
+        "handle": "MEA-AS-AP"
+    },
+    "133956": {
+        "country_code": "TH",
+        "asn": "133956",
+        "description": "Toptrader Co. Ltd",
+        "handle": "TOPTRADER-AS-AP"
+    },
+    "134064": {
+        "country_code": "TH",
+        "asn": "134064",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "CGI-AS-AP"
+    },
+    "134073": {
+        "country_code": "TH",
+        "asn": "134073",
+        "description": "The Revenue Department",
+        "handle": "RD-TH-AS-AP"
+    },
+    "134086": {
+        "country_code": "TH",
+        "asn": "134086",
+        "description": "Electronic Transactions Development Agency",
+        "handle": "ETDA-AS"
+    },
+    "134089": {
+        "country_code": "TH",
+        "asn": "134089",
+        "description": "JasTel Network Company Limited",
+        "handle": "JASTEL-NETWORK-IDC"
+    },
+    "134095": {
+        "country_code": "TH",
+        "asn": "134095",
+        "description": "National ITMX Company Limited",
+        "handle": "ITMX-AS"
+    },
+    "134097": {
+        "country_code": "TH",
+        "asn": "134097",
+        "description": "MCOT Public Company Limited",
+        "handle": "MCOTPLC-AS-AP"
+    },
+    "134100": {
+        "country_code": "TH",
+        "asn": "134100",
+        "description": "Express Data Co. Ltd",
+        "handle": "EXPRESSDATA-AS"
+    },
+    "134137": {
+        "country_code": "TH",
+        "asn": "134137",
+        "description": "True Internet Data Center Company Limited",
+        "handle": "TIDCC-AS-AP"
+    },
+    "134162": {
+        "country_code": "TH",
+        "asn": "134162",
+        "description": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
+        "handle": "AWN-ISP-AS-AP"
+    },
+    "134166": {
+        "country_code": "TH",
+        "asn": "134166",
+        "description": "Internet Data Center Service",
+        "handle": "TOT-IDC-AS-AP"
+    },
+    "134240": {
+        "country_code": "TH",
+        "asn": "134240",
+        "description": "Super Broadband Network Company Limited",
+        "handle": "SBN-ISP-AS-AP"
+    },
+    "134402": {
+        "country_code": "TH",
+        "asn": "134402",
+        "description": "United Information Highway Co. Ltd.",
+        "handle": "BB-BROADBAND-AS-AP"
+    },
+    "134438": {
+        "country_code": "TH",
+        "asn": "134438",
+        "description": "Aira & Aiful Public Company Limited",
+        "handle": "AIRAAIFUL-AS-AP"
+    },
+    "134461": {
+        "country_code": "TH",
+        "asn": "134461",
+        "description": "National Health Security Office (NHSO)",
+        "handle": "NHSO-AS-AP"
+    },
+    "134509": {
+        "country_code": "TH",
+        "asn": "134509",
+        "description": "1-TO-ALL COMPANY LIMITED",
+        "handle": "ONETOALL-AS-AP"
+    },
+    "134538": {
+        "country_code": "TH",
+        "asn": "134538",
+        "description": "Coop Nix Company Limited",
+        "handle": "COOPNIXCOLTD-AS-AP"
+    },
+    "134565": {
+        "country_code": "TH",
+        "asn": "134565",
+        "description": "National Telecom Public Company Limited",
+        "handle": "NTPCL-AS-AP"
+    },
+    "134592": {
+        "country_code": "TH",
+        "asn": "134592",
+        "description": "Shopee (Thailand) Co. Ltd.",
+        "handle": "SHOPEETHAILANDCOLTD-AS-AP"
+    },
+    "134600": {
+        "country_code": "TH",
+        "asn": "134600",
+        "description": "Le Siam Internetwork Company Limited",
+        "handle": "LSICL-AS-AP"
+    },
+    "134682": {
+        "country_code": "TH",
+        "asn": "134682",
+        "description": "KGI Securities (Thailand) Public Company Limited",
+        "handle": "KGIS-AS-AP"
+    },
+    "134686": {
+        "country_code": "TH",
+        "asn": "134686",
+        "description": "Krungsri Securities Public Company Limited",
+        "handle": "KSS-AS-AP"
+    },
+    "134690": {
+        "country_code": "TH",
+        "asn": "134690",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "CRMA-AS-AP"
+    },
+    "134695": {
+        "country_code": "TH",
+        "asn": "134695",
+        "description": "Mass Rapid Transit Authority of Thailand",
+        "handle": "MRTA-AS-AP"
+    },
+    "134718": {
+        "country_code": "TH",
+        "asn": "134718",
+        "description": "OSD Internet Company Limited",
+        "handle": "OSDCOMPANYLIMITED-AS-AP"
+    },
+    "134811": {
+        "country_code": "TH",
+        "asn": "134811",
+        "description": "Treasury Department",
+        "handle": "TDMOF-AS-AP"
+    },
+    "134817": {
+        "country_code": "TH",
+        "asn": "134817",
+        "description": "Dusit Thani Public Company Limited",
+        "handle": "NTT-AS-DS"
+    },
+    "134826": {
+        "country_code": "TH",
+        "asn": "134826",
+        "description": "Softde'but Co. LTD.",
+        "handle": "SOFTDEBUTCOLTD-AS-AP"
+    },
+    "135012": {
+        "country_code": "TH",
+        "asn": "135012",
+        "description": "Suan Dusit University",
+        "handle": "SDU-AS-AP"
+    },
+    "135034": {
+        "country_code": "TH",
+        "asn": "135034",
+        "description": "Planet Communications Asia Public Company Limited",
+        "handle": "PLANETFIBER-AS-AP"
+    },
+    "135063": {
+        "country_code": "TH",
+        "asn": "135063",
+        "description": "POP NIX COMPANY LIMITED",
+        "handle": "POPNIXCO-AS-AP"
+    },
+    "135070": {
+        "country_code": "TH",
+        "asn": "135070",
+        "description": "SS&C FinTech Services (Thailand) Limited",
+        "handle": "SSCF-AS-AP"
+    },
+    "135129": {
+        "country_code": "TH",
+        "asn": "135129",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "UNINET-AS-RMUTTO-BP"
+    },
+    "135141": {
+        "country_code": "TH",
+        "asn": "135141",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "RMUTL-AS-AP"
+    },
+    "135279": {
+        "country_code": "TH",
+        "asn": "135279",
+        "description": "Limobus Co. Ltd.",
+        "handle": "LIMOBUS-AS-AP"
+    },
+    "135290": {
+        "country_code": "TH",
+        "asn": "135290",
+        "description": "Server & Networking Co. Ltd.",
+        "handle": "SAN-AS-AP"
+    },
+    "135329": {
+        "country_code": "TH",
+        "asn": "135329",
+        "description": "Small And Medium Enterprise Development Bank Of Thailand",
+        "handle": "SYMPHONY-AS-AP"
+    },
+    "135381": {
+        "country_code": "TH",
+        "asn": "135381",
+        "description": "SiS Distribution (Thailand) Public Company Limited",
+        "handle": "SIS-AS-AP"
+    },
+    "135419": {
+        "country_code": "TH",
+        "asn": "135419",
+        "description": "Cableconnect Co. Ltd",
+        "handle": "CABLECONNECT1-AS-AP"
+    },
+    "135511": {
+        "country_code": "TH",
+        "asn": "135511",
+        "description": "CS Loxinfo Public Company Limited",
+        "handle": "CSLOX-EDS-AS-AP"
+    },
+    "135528": {
+        "country_code": "TH",
+        "asn": "135528",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "MCRU-AS-AP"
+    },
+    "135529": {
+        "country_code": "TH",
+        "asn": "135529",
+        "description": "Interlink Telecom Public Company Limited",
+        "handle": "ITPCL-AS-AP"
+    },
+    "135566": {
+        "country_code": "TH",
+        "asn": "135566",
+        "description": "National Telecom Public Company Limited",
+        "handle": "NTPCL-AS-AP"
+    },
+    "135586": {
+        "country_code": "TH",
+        "asn": "135586",
+        "description": "INTERLINK COMMUNICATION PCL.",
+        "handle": "INTERLINK-CSLOXINFO-AS-AP"
+    },
+    "135588": {
+        "country_code": "TH",
+        "asn": "135588",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "UNINET-AS-RMUTTO-CPC"
+    },
+    "135616": {
+        "country_code": "TH",
+        "asn": "135616",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "TSU-AS-AP"
+    },
+    "135617": {
+        "country_code": "TH",
+        "asn": "135617",
+        "description": "Phuket Marriott Resort & Spa Merlin Beach",
+        "handle": "MARRIOTT-TH-AS-AP"
+    },
+    "135620": {
+        "country_code": "TH",
+        "asn": "135620",
+        "description": "CS Loxinfo Public Company Limited",
+        "handle": "MINTECH-CSLOXINFO-AS-TH"
+    },
+    "135635": {
+        "country_code": "TH",
+        "asn": "135635",
+        "description": "Tourism authority of Thailand",
+        "handle": "TAT-AS-AP"
+    },
+    "135670": {
+        "country_code": "TH",
+        "asn": "135670",
+        "description": "Thai Insurers Datanet Co. Ltd.",
+        "handle": "TID-TH-AS-AP"
+    },
+    "135676": {
+        "country_code": "TH",
+        "asn": "135676",
+        "description": "National Institute for Emergency Medicine",
+        "handle": "NIEMS-AS-TH"
+    },
+    "136023": {
+        "country_code": "TH",
+        "asn": "136023",
+        "description": "PTE Group Co. Ltd",
+        "handle": "PTE-AS-AP"
+    },
+    "136035": {
+        "country_code": "TH",
+        "asn": "136035",
+        "description": "Department of Tourism",
+        "handle": "DOT-AS-AP"
+    },
+    "136040": {
+        "country_code": "TH",
+        "asn": "136040",
+        "description": "Mitr Phol Sugar Corp. Ltd.",
+        "handle": "MPSCL-AS-AP"
+    },
+    "136048": {
+        "country_code": "TH",
+        "asn": "136048",
+        "description": "Secured Network Operator Center Co.Ltd.",
+        "handle": "SNOC-AS-AP"
+    },
+    "136051": {
+        "country_code": "TH",
+        "asn": "136051",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "PCRU-AS-AP"
+    },
+    "136147": {
+        "country_code": "TH",
+        "asn": "136147",
+        "description": "Bank for Agriculture and Agricultural Co-operative",
+        "handle": "BAAC-NET-AS-AP"
+    },
+    "136158": {
+        "country_code": "TH",
+        "asn": "136158",
+        "description": "CS Loxinfo Public Company Limited",
+        "handle": "UOB-AS-AP"
+    },
+    "136182": {
+        "country_code": "TH",
+        "asn": "136182",
+        "description": "TRUE INTERNET CORPORATION CO. LTD.",
+        "handle": "BBLV-AS-AP"
+    },
+    "136208": {
+        "country_code": "TH",
+        "asn": "136208",
+        "description": "HI INTERNET COMPANY LIMITED",
+        "handle": "HICL-AS-AP"
+    },
+    "136393": {
+        "country_code": "TH",
+        "asn": "136393",
+        "description": "Symphony Communication Public Company Limited",
+        "handle": "SYMPHONY-AS-AP"
+    },
+    "136457": {
+        "country_code": "TH",
+        "asn": "136457",
+        "description": "CS Loxinfo Public Company Limited",
+        "handle": "THAIAIRASIA-CSL-TH"
+    },
+    "136458": {
+        "country_code": "TH",
+        "asn": "136458",
+        "description": "BKNIX Co. Ltd.",
+        "handle": "BKNIX-AS-AP"
+    },
+    "136484": {
+        "country_code": "TH",
+        "asn": "136484",
+        "description": "King Chulalongkorn Memorial Hospital",
+        "handle": "KCMH-AS-AP"
+    },
+    "136485": {
+        "country_code": "TH",
+        "asn": "136485",
+        "description": "Chunghwa Telecom (Thailand) Co. Ltd.",
+        "handle": "CHT-AS-AP"
+    },
+    "136496": {
+        "country_code": "TH",
+        "asn": "136496",
+        "description": "Dhurakij Pundit University",
+        "handle": "DPU-AS-AP"
+    },
+    "136507": {
+        "country_code": "TH",
+        "asn": "136507",
+        "description": "Collaborative Corporate Services Management (2Cs)",
+        "handle": "ITEL-2CS-TH"
+    },
+    "136523": {
+        "country_code": "TH",
+        "asn": "136523",
+        "description": "COLODEE DIGITAL NETWORK COMPANY LIMITED",
+        "handle": "COLODEE-AS-AP"
+    },
+    "136527": {
+        "country_code": "TH",
+        "asn": "136527",
+        "description": "NetPlay Co. Ltd",
+        "handle": "NANTAWAT-AS-AP"
+    },
+    "136538": {
+        "country_code": "TH",
+        "asn": "136538",
+        "description": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
+        "handle": "AIS-SUPER-WIFI-AS-AP"
+    },
+    "136565": {
+        "country_code": "TH",
+        "asn": "136565",
+        "description": "CyberWorld Data Center Co. Ltd.",
+        "handle": "CYBERWORLD"
+    },
+    "136566": {
+        "country_code": "TH",
+        "asn": "136566",
+        "description": "CyberWorld Data Center Co. Ltd.",
+        "handle": "CYBERWORLD-BKK2"
+    },
+    "136567": {
+        "country_code": "TH",
+        "asn": "136567",
+        "description": "CyberWorld Data Center Co. Ltd.",
+        "handle": "CYBERWORLD-AMS1"
+    },
+    "136569": {
+        "country_code": "TH",
+        "asn": "136569",
+        "description": "CyberWorld Data Center Co. Ltd.",
+        "handle": "CYBERWORLD-SG1"
+    },
+    "136579": {
+        "country_code": "TH",
+        "asn": "136579",
+        "description": "Fuji Xerox (Thailand) Co. Ltd.",
+        "handle": "FUJIXEROXTH-AS-AP"
+    },
+    "136581": {
+        "country_code": "TH",
+        "asn": "136581",
+        "description": "Apple Wealth Securities",
+        "handle": "APPLEWEA-CSLOX-AS-AP"
+    },
+    "136624": {
+        "country_code": "TH",
+        "asn": "136624",
+        "description": "Sakon Nakhon Rajabhat University",
+        "handle": "SNRU-AS-AP"
+    },
+    "136737": {
+        "country_code": "TH",
+        "asn": "136737",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "RMUTK-AS-AP"
+    },
+    "136781": {
+        "country_code": "TH",
+        "asn": "136781",
+        "description": "Department of Alternative Energy Development and Efficiency",
+        "handle": "DEDE-AS-AP"
+    },
+    "136906": {
+        "country_code": "TH",
+        "asn": "136906",
+        "description": "Corecasys Kaopode",
+        "handle": "NNCK-AS-AP"
+    },
+    "136942": {
+        "country_code": "TH",
+        "asn": "136942",
+        "description": "Brothers Pictures Company Limited",
+        "handle": "BROTHERSPICTURES-AS-AP"
+    },
+    "136947": {
+        "country_code": "TH",
+        "asn": "136947",
+        "description": "DEPARTMENT OF FISHERIES Kaset-Klang Ministry of Agriculture and Cooperatives",
+        "handle": "ISSP-DOF-AS-AP"
+    },
+    "136995": {
+        "country_code": "TH",
+        "asn": "136995",
+        "description": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
+        "handle": "AWN-CO-LTD-AS-AP"
+    },
+    "137058": {
+        "country_code": "TH",
+        "asn": "137058",
+        "description": "Aeronautical Radio of Thailand Ltd.",
+        "handle": "AEROTHAI-AS-AP"
+    },
+    "137198": {
+        "country_code": "TH",
+        "asn": "137198",
+        "description": "Phranakorn Rajabhat University",
+        "handle": "PNRU-AS-AP"
+    },
+    "137215": {
+        "country_code": "TH",
+        "asn": "137215",
+        "description": "G-Able Public Company Limited",
+        "handle": "GABLE-AS-AP"
+    },
+    "137241": {
+        "country_code": "TH",
+        "asn": "137241",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "PSRU-AS-AP"
+    },
+    "137261": {
+        "country_code": "TH",
+        "asn": "137261",
+        "description": "Education Network",
+        "handle": "SWU-AS-UNINET"
+    },
+    "137277": {
+        "country_code": "TH",
+        "asn": "137277",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "PNRU-AS-AP"
+    },
+    "137392": {
+        "country_code": "TH",
+        "asn": "137392",
+        "description": "KTB Securities (Thailand) Company Limited",
+        "handle": "KTB-CSLOXINFO-TH"
+    },
+    "137394": {
+        "country_code": "TH",
+        "asn": "137394",
+        "description": "Dhonburi Rajabhat University",
+        "handle": "DRU-AS-AP"
+    },
+    "137422": {
+        "country_code": "TH",
+        "asn": "137422",
+        "description": "Bupa Health Insurance (Thailand) Public Company Limited",
+        "handle": "BHIP-AS-AP"
+    },
+    "137423": {
+        "country_code": "TH",
+        "asn": "137423",
+        "description": "i-secure",
+        "handle": "I-SECURE-DDOS-AS-AP"
+    },
+    "137489": {
+        "country_code": "TH",
+        "asn": "137489",
+        "description": "Pi Securities Public Company Limited",
+        "handle": "PI-SEC-AS-AP"
+    },
+    "137545": {
+        "country_code": "TH",
+        "asn": "137545",
+        "description": "KPN AWARD",
+        "handle": "KPN-AWARD-AS-AP"
+    },
+    "137546": {
+        "country_code": "TH",
+        "asn": "137546",
+        "description": "Faculty of Engineering Rajamangala University of Technology Thanyaburi",
+        "handle": "RMUTT-EN-AS-AP"
+    },
+    "137557": {
+        "country_code": "TH",
+        "asn": "137557",
+        "description": "International gateway co. Ltd",
+        "handle": "IGCL-AS-AP"
+    },
+    "137566": {
+        "country_code": "TH",
+        "asn": "137566",
+        "description": "Supernap Thailand Company Limited",
+        "handle": "SUPERNAPTHAILAND-AS-AP"
+    },
+    "137850": {
+        "country_code": "TH",
+        "asn": "137850",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "UNINET-AS-MFU"
+    },
+    "137856": {
+        "country_code": "TH",
+        "asn": "137856",
+        "description": "Thai Network Information Center Foundation",
+        "handle": "TNICF-AS-AP"
+    },
+    "137875": {
+        "country_code": "TH",
+        "asn": "137875",
+        "description": "Kondotthai Co. Ltd.",
+        "handle": "KONDOTTHAICOLTD-AS-TH"
+    },
+    "137876": {
+        "country_code": "TH",
+        "asn": "137876",
+        "description": "Tencent (Thailand) Company Limited",
+        "handle": "TENCENT-AS-AP"
+    },
+    "137885": {
+        "country_code": "TH",
+        "asn": "137885",
+        "description": "Capital Nomura Securities PLC",
+        "handle": "CP-NOMURA-TH"
+    },
+    "137919": {
+        "country_code": "TH",
+        "asn": "137919",
+        "description": "CS Loxinfo Public Company Limited",
+        "handle": "BTS-AS-AP"
+    },
+    "137977": {
+        "country_code": "TH",
+        "asn": "137977",
+        "description": "ONE TO ONE CONTACTS PUBLIC COMPANY LIMITED",
+        "handle": "CSONETOONE-AS-AP"
+    },
+    "138003": {
+        "country_code": "TH",
+        "asn": "138003",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "RPCA-AS-AP"
+    },
+    "138156": {
+        "country_code": "TH",
+        "asn": "138156",
+        "description": "CSNE Co. Ltd.",
+        "handle": "CSNE-NETPLAY-AS"
+    },
+    "138204": {
+        "country_code": "TH",
+        "asn": "138204",
+        "description": "Sophon Broadband Networks co. ltd",
+        "handle": "SURF-AS-AP"
+    },
+    "138215": {
+        "country_code": "TH",
+        "asn": "138215",
+        "description": "Royal Thai Police",
+        "handle": "ROYALTHAIPOLICE-AS-AP"
+    },
+    "138344": {
+        "country_code": "TH",
+        "asn": "138344",
+        "description": "MSIG Insurance (Thailand) Co. Ltd.",
+        "handle": "MSIG-AS-AP"
+    },
+    "138353": {
+        "country_code": "TH",
+        "asn": "138353",
+        "description": "NIST INTERNATIONAL SCHOOL",
+        "handle": "NISTINTERNATIONALSCHOOL-AS-AP"
+    },
+    "138366": {
+        "country_code": "TH",
+        "asn": "138366",
+        "description": "TM Solution Provider limited Partnership",
+        "handle": "TMS-AS-AP"
+    },
+    "138422": {
+        "country_code": "TH",
+        "asn": "138422",
+        "description": "CS Loxinfo Public Company Limited",
+        "handle": "ITC-AS-AP"
+    },
+    "138427": {
+        "country_code": "TH",
+        "asn": "138427",
+        "description": "Thailand Institute of Nuclear Technology (Public Organization)",
+        "handle": "TINT-AS-AP"
+    },
+    "138434": {
+        "country_code": "TH",
+        "asn": "138434",
+        "description": "INEXT Broadband Co. Ltd",
+        "handle": "INEXTBROADBAND-AS-AP"
+    },
+    "138466": {
+        "country_code": "TH",
+        "asn": "138466",
+        "description": "DataMossa Co. Ltd.",
+        "handle": "DATAMOSSA-AS-AP"
+    },
+    "138494": {
+        "country_code": "TH",
+        "asn": "138494",
+        "description": "Campana TARO Co. Ltd.",
+        "handle": "TARO-AS-AP"
+    },
+    "138507": {
+        "country_code": "TH",
+        "asn": "138507",
+        "description": "BBIX (Thailand) Company Limited",
+        "handle": "BBIXTH-AS-AP"
+    },
+    "138524": {
+        "country_code": "TH",
+        "asn": "138524",
+        "description": "Triple T Broadband Public Company Limited",
+        "handle": "TTBP-AS-AP"
+    },
+    "138547": {
+        "country_code": "TH",
+        "asn": "138547",
+        "description": "Ubon Ratchathani Rajabhat University",
+        "handle": "UBRU-AS-UNINET"
+    },
+    "138616": {
+        "country_code": "TH",
+        "asn": "138616",
+        "description": "Sanuk Systems (Thailand) Co. Ltd",
+        "handle": "SANUK-AS-AP"
+    },
+    "138618": {
+        "country_code": "TH",
+        "asn": "138618",
+        "description": "Thanachart Securities Public Company Limited",
+        "handle": "THANACHARTSEC-TH-AS"
+    },
+    "138670": {
+        "country_code": "TH",
+        "asn": "138670",
+        "description": "Ngern Tid Lor Company Limited",
+        "handle": "NTL-AS-AP"
+    },
+    "138685": {
+        "country_code": "TH",
+        "asn": "138685",
+        "description": "Mahidol Wittayanusorn School",
+        "handle": "MWSO-AS-AP"
+    },
+    "138691": {
+        "country_code": "TH",
+        "asn": "138691",
+        "description": "Bangkok Airways Public Company Limited",
+        "handle": "BKA-AS-AP"
+    },
+    "138906": {
+        "country_code": "TH",
+        "asn": "138906",
+        "description": "Ministry of Culture",
+        "handle": "MINISTRYOFCULTURE-AS-AP"
+    },
+    "138911": {
+        "country_code": "TH",
+        "asn": "138911",
+        "description": "Renaissance Phuket Resort & Spa",
+        "handle": "RNS-AS-AP"
+    },
+    "138962": {
+        "country_code": "TH",
+        "asn": "138962",
+        "description": "Bangkok Insurance Public Company Limited",
+        "handle": "BKI-AS-AP"
+    },
+    "138967": {
+        "country_code": "TH",
+        "asn": "138967",
+        "description": "SineManage Network Service co. Ltd",
+        "handle": "SINEMANAGE-AS-AP"
+    },
+    "139010": {
+        "country_code": "TH",
+        "asn": "139010",
+        "description": "Amarin Television",
+        "handle": "AMR-AS-TH-AP"
+    },
+    "139014": {
+        "country_code": "TH",
+        "asn": "139014",
+        "description": "Next Route Company Limited",
+        "handle": "NEXTROUTE-AS-AP"
+    },
+    "139031": {
+        "country_code": "TH",
+        "asn": "139031",
+        "description": "OpenLandscape Company Limited",
+        "handle": "OLS-AS-AP"
+    },
+    "139082": {
+        "country_code": "TH",
+        "asn": "139082",
+        "description": "Singha Estate Public Company Limited",
+        "handle": "SEPCL-AS-AP"
+    },
+    "139191": {
+        "country_code": "TH",
+        "asn": "139191",
+        "description": "CLOUDHM @SUPERNAP Thailand",
+        "handle": "CLOUDHM-AS-AP"
+    },
+    "139198": {
+        "country_code": "TH",
+        "asn": "139198",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "UNINET-AS-NIEST"
+    },
+    "139295": {
+        "country_code": "TH",
+        "asn": "139295",
+        "description": "True Universal Convergence co. ltd",
+        "handle": "TUC-AS-AP"
+    },
+    "139313": {
+        "country_code": "TH",
+        "asn": "139313",
+        "description": "AYUDHYA CAPITAL SERVICES COMPANY LIMITED",
+        "handle": "AYCAP-AS-AP"
+    },
+    "139329": {
+        "country_code": "TH",
+        "asn": "139329",
+        "description": "Siam Piwat Company Limited",
+        "handle": "SPCL-AS-AP"
+    },
+    "139339": {
+        "country_code": "TH",
+        "asn": "139339",
+        "description": "PT CONNECTION IT CO. LTD",
+        "handle": "PTCONNECT-AS-AP"
+    },
+    "139474": {
+        "country_code": "TH",
+        "asn": "139474",
+        "description": "National Telecom Public Company Limited",
+        "handle": "NTPCL-AS-AP"
+    },
+    "139591": {
+        "country_code": "TH",
+        "asn": "139591",
+        "description": "National Telecom Public Company Limited",
+        "handle": "NTPCL-AS-AP"
+    },
+    "139657": {
+        "country_code": "TH",
+        "asn": "139657",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "UNINET-AS-UTCC"
+    },
+    "139677": {
+        "country_code": "TH",
+        "asn": "139677",
+        "description": "Tim Dettmar",
+        "handle": "TIM-DETTMAR-AS-AP"
+    },
+    "139702": {
+        "country_code": "TH",
+        "asn": "139702",
+        "description": "Central Investigation Bureau",
+        "handle": "CIBTH1-AS-AP"
+    },
+    "139724": {
+        "country_code": "TH",
+        "asn": "139724",
+        "description": "Tobacco Authority of Thailand",
+        "handle": "THAITOBACCO-AS-AP"
+    },
+    "139753": {
+        "country_code": "TH",
+        "asn": "139753",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "UNINET-AS-VRU-AP"
+    },
+    "139889": {
+        "country_code": "TH",
+        "asn": "139889",
+        "description": "Department of Fisheries",
+        "handle": "FISHERIES-AS-AP"
+    },
+    "139892": {
+        "country_code": "TH",
+        "asn": "139892",
+        "description": "Metropolitan Waterworks Authority",
+        "handle": "MWA-AS-AP"
+    },
+    "140032": {
+        "country_code": "TH",
+        "asn": "140032",
+        "description": "United Overseas Bank (Thai) Public Company Limited",
+        "handle": "UOB-AS-AP"
+    },
+    "140075": {
+        "country_code": "TH",
+        "asn": "140075",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "UNINET-AS-RRU"
+    },
+    "140305": {
+        "country_code": "TH",
+        "asn": "140305",
+        "description": "Apex Circuit (Thailand) Company Limited",
+        "handle": "APEXCIRCUIT-AS-AP"
+    },
+    "140326": {
+        "country_code": "TH",
+        "asn": "140326",
+        "description": "Symphony Communication Public Company Limited for TC",
+        "handle": "TC-AS-AP"
+    },
+    "140379": {
+        "country_code": "TH",
+        "asn": "140379",
+        "description": "Bangkok Airways Public Company Limited",
+        "handle": "PG-AS-AP"
+    },
+    "140575": {
+        "country_code": "TH",
+        "asn": "140575",
+        "description": "National Statistical Office",
+        "handle": "NATIONAL-AS-AP"
+    },
+    "140618": {
+        "country_code": "TH",
+        "asn": "140618",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "UNINET-AS-SU-AP"
+    },
+    "140660": {
+        "country_code": "TH",
+        "asn": "140660",
+        "description": "Satit Pattana School",
+        "handle": "SATITPATTANA-AS-AP"
+    },
+    "140662": {
+        "country_code": "TH",
+        "asn": "140662",
+        "description": "AEON Thana Sinsap (Thailand) Public Company Limited",
+        "handle": "AEON-AS-AP"
+    },
+    "140689": {
+        "country_code": "TH",
+        "asn": "140689",
+        "description": "AIOI BANGKOK INSURANCE PCL.",
+        "handle": "AIOI-AS-AP"
+    },
+    "140699": {
+        "country_code": "TH",
+        "asn": "140699",
+        "description": "Royal Thai Army",
+        "handle": "ROYALTHAIARMY-AS-AP"
+    },
+    "140706": {
+        "country_code": "TH",
+        "asn": "140706",
+        "description": "MAYBANK KIM ENG SECURITIES PTE. LTD",
+        "handle": "MAYBANK-AWN-AS-AP"
+    },
+    "140725": {
+        "country_code": "TH",
+        "asn": "140725",
+        "description": "Thai Customs Department",
+        "handle": "THAICUSTOMS-AS-AP"
+    },
+    "140867": {
+        "country_code": "TH",
+        "asn": "140867",
+        "description": "International gateway co. Ltd",
+        "handle": "IGCL-AS-AP"
+    },
+    "140918": {
+        "country_code": "TH",
+        "asn": "140918",
+        "description": "CMKL University",
+        "handle": "CMKL-AS-AP"
+    },
+    "140983": {
+        "country_code": "TH",
+        "asn": "140983",
+        "description": "Dhipaya Insurance Public Co. Ltd.",
+        "handle": "DIPCL-AS-AP"
+    },
+    "140985": {
+        "country_code": "TH",
+        "asn": "140985",
+        "description": "Global Innovative Solution Co. LTD",
+        "handle": "GISCL-AS-AP"
+    },
+    "141162": {
+        "country_code": "TH",
+        "asn": "141162",
+        "description": "CIMB Thai Bank Public Company Limited",
+        "handle": "CTBPCL-AS-AP"
+    },
+    "141188": {
+        "country_code": "TH",
+        "asn": "141188",
+        "description": "Supernap Thailand Company Limited",
+        "handle": "SUPERNAPTHAILAND-AS-AP"
+    },
+    "141207": {
+        "country_code": "TH",
+        "asn": "141207",
+        "description": "Thai Life Insurance PCL.",
+        "handle": "TLIP-AS-AP"
+    },
+    "141214": {
+        "country_code": "TH",
+        "asn": "141214",
+        "description": "Geo-Informatics and Space Technology Development Agency",
+        "handle": "G1STDA-AS-AP"
+    },
+    "141362": {
+        "country_code": "TH",
+        "asn": "141362",
+        "description": "Thai Name Server Co. ltd.",
+        "handle": "TNSCL-AS-AP"
+    },
+    "141390": {
+        "country_code": "TH",
+        "asn": "141390",
+        "description": "Dritestudio Co. Ltd.",
+        "handle": "DSCL-AS-AP"
+    },
+    "141419": {
+        "country_code": "TH",
+        "asn": "141419",
+        "description": "CHINA MOBILE INTERNATIONAL (THAILAND) LTD.",
+        "handle": "CMI-THA-AS-AP"
+    },
+    "141428": {
+        "country_code": "TH",
+        "asn": "141428",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "UNINET-RSU-AS-AP"
+    },
+    "141685": {
+        "country_code": "TH",
+        "asn": "141685",
+        "description": "KTBCS VAYUPAK",
+        "handle": "KTBCS-VAYU-AS-AP"
+    },
+    "141692": {
+        "country_code": "TH",
+        "asn": "141692",
+        "description": "PTT Global Chemical Public Company Limited",
+        "handle": "PTT-GCPCL-AS"
+    },
+    "141713": {
+        "country_code": "TH",
+        "asn": "141713",
+        "description": "Cigna Insurance Public Company Limited",
+        "handle": "AWN-CIGNA-INSURANCE-AS-AP"
+    },
+    "141714": {
+        "country_code": "TH",
+        "asn": "141714",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "UNINET-AS-NPRU-AP"
+    },
+    "141715": {
+        "country_code": "TH",
+        "asn": "141715",
+        "description": "Apex Circuit (Thailand) Co. Ltd.",
+        "handle": "APEX-AS-AP"
+    },
+    "141736": {
+        "country_code": "TH",
+        "asn": "141736",
+        "description": "Wisepaq Business Solutions Provider Co. Ltd.",
+        "handle": "WISEPAQ-AS-AP"
+    },
+    "141780": {
+        "country_code": "TH",
+        "asn": "141780",
+        "description": "CHANNEL G COMPANY LIMITED",
+        "handle": "CGCL-AS-AP"
+    },
+    "142029": {
+        "country_code": "TH",
+        "asn": "142029",
+        "description": "Ascend Money",
+        "handle": "AMCL-AS-AP"
+    },
+    "142131": {
+        "country_code": "TH",
+        "asn": "142131",
+        "description": "AEON Thana Sinsap (Thailand) Public Company Limited",
+        "handle": "AEONTHANASINSAPTHAILANDPUBLICCOMPANYLIMITED-AS-AP"
+    },
+    "142299": {
+        "country_code": "TH",
+        "asn": "142299",
+        "description": "CLOUDFOREST CO. LTD",
+        "handle": "CLOUDFORESTCOLTD-AS-AP"
+    },
+    "142435": {
+        "country_code": "TH",
+        "asn": "142435",
+        "description": "HGC Global Communications (Thailand) Limited",
+        "handle": "HGCL-AS-AP"
+    },
+    "142437": {
+        "country_code": "TH",
+        "asn": "142437",
+        "description": "Thai Name Server Co. Ltd.",
+        "handle": "TNSCL-AS-AP"
+    },
+    "142554": {
+        "country_code": "TH",
+        "asn": "142554",
+        "description": "Vivi 23 Co. Ltd",
+        "handle": "VIVI23COLTD-AS-AP"
+    },
+    "142599": {
+        "country_code": "TH",
+        "asn": "142599",
+        "description": "Major Cineplex Group Ltd.",
+        "handle": "MAJORGROUP-AS-AP"
+    },
+    "142609": {
+        "country_code": "TH",
+        "asn": "142609",
+        "description": "Symphony Communication Public Company Limited",
+        "handle": "SYMPHONY-AS-AP"
+    },
+    "146996": {
+        "country_code": "TH",
+        "asn": "146996",
+        "description": "DEXSERVER",
+        "handle": "DEX-AS-AP"
+    },
+    "147027": {
+        "country_code": "TH",
+        "asn": "147027",
+        "description": "Royal Thai Armed Force Headquarters",
+        "handle": "RTARF-MI"
+    },
+    "147176": {
+        "country_code": "TH",
+        "asn": "147176",
+        "description": "NZ Network Enterprise Co. Ltd.",
+        "handle": "NNECL-AS-AP"
+    },
+    "147187": {
+        "country_code": "TH",
+        "asn": "147187",
+        "description": "JasTel Network Company Limited",
+        "handle": "BUALUANG-SECURITIES"
+    },
+    "147300": {
+        "country_code": "TH",
+        "asn": "147300",
+        "description": "T.H.NIC Co. Ltd.",
+        "handle": "THNICCOLTD-AS-AP"
+    },
+    "147312": {
+        "country_code": "TH",
+        "asn": "147312",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "UNINET-AS-SKRU"
+    },
+    "148984": {
+        "country_code": "TH",
+        "asn": "148984",
+        "description": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
+        "handle": "AWN-CO-LTD-AS-AP"
+    },
+    "148997": {
+        "country_code": "TH",
+        "asn": "148997",
+        "description": "KTB COMPUTER SERVICES COMPANY LIMITED",
+        "handle": "KTB-KTBCS-AS-AP"
+    },
+    "149036": {
+        "country_code": "TH",
+        "asn": "149036",
+        "description": "Waterfront Hotel",
+        "handle": "WTH-AS-AP"
+    },
+    "149503": {
+        "country_code": "TH",
+        "asn": "149503",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "MBU-AS-UNINET-AP"
+    },
+    "149640": {
+        "country_code": "TH",
+        "asn": "149640",
+        "description": "CS Loxinfo Public Company Limited",
+        "handle": "HUAWEICDN-CSLTHAIX-AS-AP"
+    },
+    "149762": {
+        "country_code": "TH",
+        "asn": "149762",
+        "description": "Hakuhodo (Bangkok) Co. Ltd.",
+        "handle": "HAKUHODO-AS-AP"
+    },
+    "149766": {
+        "country_code": "TH",
+        "asn": "149766",
+        "description": "Y.U.T Corporate Company Limited",
+        "handle": "YUT-AS-AP"
+    },
+    "149796": {
+        "country_code": "TH",
+        "asn": "149796",
+        "description": "SANGFOR TECHNOLOGIES (THAILAND) COMPANY LIMITED",
+        "handle": "SANGFOR-TH"
+    },
+    "149800": {
+        "country_code": "TH",
+        "asn": "149800",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "PMK-AS-AP"
+    },
+    "149803": {
+        "country_code": "TH",
+        "asn": "149803",
+        "description": "Excise THAILAND",
+        "handle": "TED-AS-AP"
+    },
+    "149853": {
+        "country_code": "TH",
+        "asn": "149853",
+        "description": "HGC Global Communications (Thailand) Limited",
+        "handle": "HGC-AMS-IX-TH"
+    },
+    "149996": {
+        "country_code": "TH",
+        "asn": "149996",
+        "description": "Cigna Insurance PCL-The Nation",
+        "handle": "AWN-CIGNA-DCSITE-AS-AP"
+    },
+    "150107": {
+        "country_code": "TH",
+        "asn": "150107",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "SRRU-AS-UNINET-AP"
+    },
+    "150119": {
+        "country_code": "TH",
+        "asn": "150119",
+        "description": "G-ABLE CO. LTD",
+        "handle": "G-ABLE-AS-AP"
+    },
+    "150124": {
+        "country_code": "TH",
+        "asn": "150124",
+        "description": "MAYBANK Data Center (Co-Location)",
+        "handle": "MAYBANK-DC-AWN-AS-AP"
+    },
+    "150148": {
+        "country_code": "TH",
+        "asn": "150148",
+        "description": "Rangsit University",
+        "handle": "AWN-RSU-AS-AP"
+    },
+    "150181": {
+        "country_code": "TH",
+        "asn": "150181",
+        "description": "FiberTech",
+        "handle": "FIC-AS-AP"
+    },
+    "150300": {
+        "country_code": "TH",
+        "asn": "150300",
+        "description": "The Permanent Secretary Ministry of Transport of Thailand",
+        "handle": "TPSMOTOT-AS-AP"
+    },
+    "150332": {
+        "country_code": "TH",
+        "asn": "150332",
+        "description": "JasTel Network Company Limited",
+        "handle": "OTCS-NET"
+    },
+    "150388": {
+        "country_code": "TH",
+        "asn": "150388",
+        "description": "International gateway co. Ltd",
+        "handle": "IGCL-AMS-IX"
+    },
+    "150410": {
+        "country_code": "TH",
+        "asn": "150410",
+        "description": "Office of Info.Tech. Admin. for Educational Development",
+        "handle": "ICCS-AS-AP"
+    },
+    "150674": {
+        "country_code": "TH",
+        "asn": "150674",
+        "description": "MITSUBISHI MOTORS (THAILAND) COMPANY LIMITED",
+        "handle": "MMCL-AS-AP"
+    },
+    "150675": {
+        "country_code": "TH",
+        "asn": "150675",
+        "description": "RUK-COM COMPANY LIMITED",
+        "handle": "RUKCOMCOLTD-AS-AP"
+    },
+    "150686": {
+        "country_code": "TH",
+        "asn": "150686",
+        "description": "State Railway of Thailand",
+        "handle": "AWN-RAILWAY-AS-AP"
+    },
+    "150703": {
+        "country_code": "TH",
+        "asn": "150703",
+        "description": "Ministry of Commerce",
+        "handle": "MOC-AS-AP"
+    },
+    "150787": {
+        "country_code": "TH",
+        "asn": "150787",
+        "description": "CHANNEL G COMPANY LIMITED",
+        "handle": "CGCL-AS"
+    },
+    "151040": {
+        "country_code": "TH",
+        "asn": "151040",
+        "description": "Urban Resort Hotel Co. Ltd.",
+        "handle": "URBANRESORT-AS-AP"
+    },
+    "151337": {
+        "country_code": "TH",
+        "asn": "151337",
+        "description": "Bank of UOB",
+        "handle": "UOB-AS-AP"
+    },
+    "151400": {
+        "country_code": "TH",
+        "asn": "151400",
+        "description": "Nevigate Global Network (Thailand) Co. Ltd.",
+        "handle": "NGNTCL-AS-AP"
+    },
+    "151668": {
+        "country_code": "TH",
+        "asn": "151668",
+        "description": "RDCW Company Limited",
+        "handle": "RCL-AS-AP"
+    },
+    "151672": {
+        "country_code": "TH",
+        "asn": "151672",
+        "description": "Thai Health Promotion Foundation",
+        "handle": "THPF-AS-AP"
+    },
+    "151780": {
+        "country_code": "TH",
+        "asn": "151780",
+        "description": "Metro Systems Corporation Public Company Limited",
+        "handle": "METROSYSTEMS-AS-AP"
+    },
+    "151808": {
+        "country_code": "TH",
+        "asn": "151808",
+        "description": "TRUE INTERNET CORPORATION CO. LTD.",
+        "handle": "HU-AS-AP"
+    },
+    "151825": {
+        "country_code": "TH",
+        "asn": "151825",
+        "description": "TRUE INTERNET CORPORATION CO. LTD.",
+        "handle": "RSU-AS-AP"
+    },
+    "151827": {
+        "country_code": "TH",
+        "asn": "151827",
+        "description": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
+        "handle": "AWN-CO-LTD-AS-AP"
+    },
+    "151985": {
+        "country_code": "TH",
+        "asn": "151985",
+        "description": "King Power Corporation Co. Ltd.",
+        "handle": "KPC-AS-AP"
+    },
+    "152102": {
+        "country_code": "TH",
+        "asn": "152102",
+        "description": "AMPOL FOOD PROCESSING LTD. Nakornpathom",
+        "handle": "AMPOLFOOD-AS-TH"
+    },
+    "152127": {
+        "country_code": "TH",
+        "asn": "152127",
+        "description": "OneAsia Data Center (BKK1) Company Limited",
+        "handle": "ONEASIA-AS-AP"
+    },
+    "152130": {
+        "country_code": "TH",
+        "asn": "152130",
+        "description": "SOMAPA IT",
+        "handle": "SOMAPAIT-AS-TH"
+    },
+    "152190": {
+        "country_code": "TH",
+        "asn": "152190",
+        "description": "Thai Oil Public Company Limited",
+        "handle": "THAIOILPUBLICCOMPANYLIMITED-AS-TH"
+    },
+    "152445": {
+        "country_code": "TH",
+        "asn": "152445",
+        "description": "The Government Savings Bank",
+        "handle": "GSB-AS-TH"
+    },
+    "152461": {
+        "country_code": "TH",
+        "asn": "152461",
+        "description": "Department of Lands",
+        "handle": "DOL-AS-TH"
+    },
+    "152463": {
+        "country_code": "TH",
+        "asn": "152463",
+        "description": "National Telecom Public Company Limited",
+        "handle": "NTPCL-AS-AP"
+    },
+    "152465": {
+        "country_code": "TH",
+        "asn": "152465",
+        "description": "United Overseas Bank (Thai) Public Company Limited",
+        "handle": "UOB-AS-AP"
+    },
+    "152599": {
+        "country_code": "TH",
+        "asn": "152599",
+        "description": "Y.U.T Corporate Company Limited",
+        "handle": "YUT-AS-AP"
+    },
+    "152664": {
+        "country_code": "TH",
+        "asn": "152664",
+        "description": "CIMB Thai Bank Public Company Limited",
+        "handle": "CTBPCL-DR-AS-AP"
+    },
+    "152694": {
+        "country_code": "TH",
+        "asn": "152694",
+        "description": "TISCO Financial Group Public Company Limited",
+        "handle": "TISCOFINANCIAL-AS-TH"
+    },
+    "152727": {
+        "country_code": "TH",
+        "asn": "152727",
+        "description": "Villa Market JP Co. Ltd",
+        "handle": "VMJP-AS-TH"
+    },
+    "152734": {
+        "country_code": "TH",
+        "asn": "152734",
+        "description": "Maxnito Company Limited",
+        "handle": "MCL-AS-AP"
+    },
+    "152845": {
+        "country_code": "TH",
+        "asn": "152845",
+        "description": "Signal Royal Thai Army",
+        "handle": "SRTA-AS-AP"
+    },
+    "152915": {
+        "country_code": "TH",
+        "asn": "152915",
+        "description": "The Office of the Securities and Exchange Commission",
+        "handle": "TOOTSAEC-AS-AP"
+    },
+    "153163": {
+        "country_code": "TH",
+        "asn": "153163",
+        "description": "Beyond Securities Public Company Limited",
+        "handle": "BSPCL-AS-AP"
+    },
+    "153182": {
+        "country_code": "TH",
+        "asn": "153182",
+        "description": "Sripatum University",
+        "handle": "SPU-AS-TH"
+    },
+    "153357": {
+        "country_code": "TH",
+        "asn": "153357",
+        "description": "CBSOFT CO. LTD.",
+        "handle": "CCL-AS-AP"
+    },
+    "153363": {
+        "country_code": "TH",
+        "asn": "153363",
+        "description": "Cloud HM Company Limited",
+        "handle": "CHCL-AS-AP"
+    },
+    "153459": {
+        "country_code": "TH",
+        "asn": "153459",
+        "description": "Thai Suzuki Motor Co. Ltd.",
+        "handle": "THAISUZUKIMOTORCOLTD-AS-TH"
+    },
+    "153464": {
+        "country_code": "TH",
+        "asn": "153464",
+        "description": "Pandora Production CO. LTD.",
+        "handle": "PANDORAPRODUCTION-AS-AP"
+    },
+    "153537": {
+        "country_code": "TH",
+        "asn": "153537",
+        "description": "Active Worldscope Co. Ltd.",
+        "handle": "AWCL-AS-AP"
+    },
+    "153645": {
+        "country_code": "TH",
+        "asn": "153645",
+        "description": "Kasikorn Securities",
+        "handle": "KS-AS-TH"
+    },
+    "153657": {
+        "country_code": "TH",
+        "asn": "153657",
+        "description": "METASMART CO. LTD.",
+        "handle": "METASMART-AS-AP"
+    },
+    "153659": {
+        "country_code": "TH",
+        "asn": "153659",
+        "description": "TRUE INTERNET CORPORATION CO. LTD.",
+        "handle": "TRUEINTERNET-AS-AP"
+    },
+    "153730": {
+        "country_code": "TH",
+        "asn": "153730",
+        "description": "TRUE INTERNET CORPORATION CO. LTD.",
+        "handle": "TRUEINTERNET-AS-AP"
+    },
+    "153746": {
+        "country_code": "TH",
+        "asn": "153746",
+        "description": "T Net Network Company Limited",
+        "handle": "TNNCL-AS-AP"
+    },
+    "153787": {
+        "country_code": "TH",
+        "asn": "153787",
+        "description": "S2N IT AND SERVICE COMPANY LIMITED",
+        "handle": "S2NITANDSERVICECOMPANYLIMITED-AS-TH"
+    },
+    "153974": {
+        "country_code": "TH",
+        "asn": "153974",
+        "description": "EDGE CLOUD (THAILAND) COMPANY LIMITED",
+        "handle": "ECG-AS-AP"
+    },
+    "153996": {
+        "country_code": "TH",
+        "asn": "153996",
+        "description": "VP InfoTech Co. Ltd.",
+        "handle": "VICL-AS-AP"
+    },
+    "154088": {
+        "country_code": "TH",
+        "asn": "154088",
+        "description": "MI Squared Company Limited (Branch 00003)/JW Marriott Phuket Resort & Spa",
+        "handle": "MISQUAREDCOMPANYLIMITEDBRANCH00003JWMARRIOTT-AS-TH"
+    },
+    "154117": {
+        "country_code": "TH",
+        "asn": "154117",
+        "description": "Mekha Cloud Company Limited",
+        "handle": "MEKHA-AS-AP"
+    },
+    "154179": {
+        "country_code": "TH",
+        "asn": "154179",
+        "description": "Kiatnakin Phatra Securities Public Company Limited",
+        "handle": "KPSPCL-AS-AP"
+    },
+    "154212": {
+        "country_code": "TH",
+        "asn": "154212",
+        "description": "G-Able Public Company Limited",
+        "handle": "GPCL-AS-AP"
+    },
+    "154255": {
+        "country_code": "TH",
+        "asn": "154255",
+        "description": "Internal Security Operations Command",
+        "handle": "ISOC-AS-AP"
+    },
+    "154313": {
+        "country_code": "TH",
+        "asn": "154313",
+        "description": "EVERYTHINK DEV CO. LTD.",
+        "handle": "EDCL-AS-AP"
+    },
+    "154381": {
+        "country_code": "TH",
+        "asn": "154381",
+        "description": "CLOUDFOREST CO. LTD",
+        "handle": "CLOUDFORESTCOLTD-AS-AP"
+    },
+    "154502": {
+        "country_code": "TH",
+        "asn": "154502",
+        "description": "Land and Houses Bank Public Company Limited",
+        "handle": "LANDANDHOUSESBANKPUBLICCOMPANYLIMITED-AS-TH"
+    },
+    "201288": {
+        "country_code": "TH",
+        "asn": "201288",
+        "description": "TimeCost Network Systems Co. Ltd.",
+        "handle": "TIMECOST-NETWORK"
+    },
+    "202828": {
+        "country_code": "TH",
+        "asn": "202828",
+        "description": "Patcharakorn Communication Limited Partnership",
+        "handle": "ASPATCHA"
+    },
+    "205977": {
+        "country_code": "TH",
+        "asn": "205977",
+        "description": "Pich Tantichukiatikul",
+        "handle": "PCOMPUTE"
+    },
+    "215748": {
+        "country_code": "TH",
+        "asn": "215748",
+        "description": "Westeros Communications (THAILAND) CO. LTD.",
+        "handle": "WESTEROS"
+    },
+    "216049": {
+        "country_code": "TH",
+        "asn": "216049",
+        "description": "Kullawat Chaowanawatee",
+        "handle": "E29QWGTECH"
+    },
+    "401819": {
+        "country_code": "TH",
+        "asn": "401819",
+        "description": "Esker Broadband LLC",
+        "handle": "ESKER-BROAD"
+    }
+}

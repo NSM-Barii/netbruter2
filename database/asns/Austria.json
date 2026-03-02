@@ -1,0 +1,4520 @@
+{
+    "679": {
+        "country_code": "AT",
+        "asn": "679",
+        "description": "Technische Universitat Wien",
+        "handle": "TUNET-AS"
+    },
+    "760": {
+        "country_code": "AT",
+        "asn": "760",
+        "description": "Vienna University Computer Center",
+        "handle": "UNIVIE"
+    },
+    "1111": {
+        "country_code": "AT",
+        "asn": "1111",
+        "description": "Universitaet Klagenfurt",
+        "handle": "UNIVERSITAET-KLAGENFURT"
+    },
+    "1113": {
+        "country_code": "AT",
+        "asn": "1113",
+        "description": "Technische Universitaet Graz",
+        "handle": "TUGNET"
+    },
+    "1117": {
+        "country_code": "AT",
+        "asn": "1117",
+        "description": "Universitaet fur Bodenkultur Wien",
+        "handle": "BOKU"
+    },
+    "1120": {
+        "country_code": "AT",
+        "asn": "1120",
+        "description": "ACONET",
+        "handle": "ACONET-SERVICES"
+    },
+    "1205": {
+        "country_code": "AT",
+        "asn": "1205",
+        "description": "University Linz",
+        "handle": "JKU-LINZ-AS"
+    },
+    "1764": {
+        "country_code": "AT",
+        "asn": "1764",
+        "description": "Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH",
+        "handle": "NEXTLAYER-AS"
+    },
+    "1776": {
+        "country_code": "AT",
+        "asn": "1776",
+        "description": "WU (Wirtschaftsuniversitaet Wien) - Vienna University of Economics and Business",
+        "handle": "WU-VIENNA-UNIVERSITY"
+    },
+    "1853": {
+        "country_code": "AT",
+        "asn": "1853",
+        "description": "ACONET",
+        "handle": "ACONET"
+    },
+    "1901": {
+        "country_code": "AT",
+        "asn": "1901",
+        "description": "A1 Telekom Austria AG",
+        "handle": "A1TAAT-AS"
+    },
+    "1921": {
+        "country_code": "AT",
+        "asn": "1921",
+        "description": "ipcom GmbH",
+        "handle": "RCODEZERO-ANYCAST-SEC1-TLD"
+    },
+    "2488": {
+        "country_code": "AT",
+        "asn": "2488",
+        "description": "International Institute for Applied Systems Analysis",
+        "handle": "IIASA-NET"
+    },
+    "2604": {
+        "country_code": "AT",
+        "asn": "2604",
+        "description": "Graz University of Music and Performing Arts",
+        "handle": "MHS-GRAZ"
+    },
+    "2871": {
+        "country_code": "AT",
+        "asn": "2871",
+        "description": "Tobias Dostal",
+        "handle": "AS2871-CONSULTING"
+    },
+    "3190": {
+        "country_code": "AT",
+        "asn": "3190",
+        "description": "3-S-IT Dienstleistungen GmbH",
+        "handle": "DREI-S-AS"
+    },
+    "3201": {
+        "country_code": "AT",
+        "asn": "3201",
+        "description": "Umdasch Group AG",
+        "handle": "UMDASCH-AS"
+    },
+    "3330": {
+        "country_code": "AT",
+        "asn": "3330",
+        "description": "eww ag",
+        "handle": "PROFINET-AT"
+    },
+    "5385": {
+        "country_code": "AT",
+        "asn": "5385",
+        "description": "Russmedia IT GmbH",
+        "handle": "RUSSMEDIA-IT"
+    },
+    "5403": {
+        "country_code": "AT",
+        "asn": "5403",
+        "description": "APA-IT Informations Technologie G.m.b.H",
+        "handle": "AS5403"
+    },
+    "5404": {
+        "country_code": "AT",
+        "asn": "5404",
+        "description": "conova communications GmbH",
+        "handle": "CONOVA-AS"
+    },
+    "5423": {
+        "country_code": "AT",
+        "asn": "5423",
+        "description": "A1 Telekom Austria AG",
+        "handle": "A1TELEKOM-AT"
+    },
+    "5424": {
+        "country_code": "AT",
+        "asn": "5424",
+        "description": "A1 Telekom Austria AG",
+        "handle": "ATNET-AT"
+    },
+    "6720": {
+        "country_code": "AT",
+        "asn": "6720",
+        "description": "Magistrat der Stadt Wien Magistratsabteilung 01",
+        "handle": "MAGWIEN"
+    },
+    "6753": {
+        "country_code": "AT",
+        "asn": "6753",
+        "description": "Hani Hussein trading as KernelHost",
+        "handle": "KERNELHOST"
+    },
+    "6798": {
+        "country_code": "AT",
+        "asn": "6798",
+        "description": "Net4You Internet GmbH",
+        "handle": "NET4YOU-AS"
+    },
+    "6883": {
+        "country_code": "AT",
+        "asn": "6883",
+        "description": "Parlamentsdirektion",
+        "handle": "PARLAMENTSDIREKTION"
+    },
+    "8245": {
+        "country_code": "AT",
+        "asn": "8245",
+        "description": "Video-Broadcast GmbH",
+        "handle": "VIDEOBROADCAST-AS"
+    },
+    "8333": {
+        "country_code": "AT",
+        "asn": "8333",
+        "description": "A1 Telekom Austria AG",
+        "handle": "NEXTRA-AT"
+    },
+    "8339": {
+        "country_code": "AT",
+        "asn": "8339",
+        "description": "kabelplus GmbH",
+        "handle": "KABSI-AS"
+    },
+    "8387": {
+        "country_code": "AT",
+        "asn": "8387",
+        "description": "Deutsche Telekom Global Business Solutions GmbH",
+        "handle": "T-SYSTEMS-AT"
+    },
+    "8412": {
+        "country_code": "AT",
+        "asn": "8412",
+        "description": "T-Mobile Austria GmbH",
+        "handle": "TMA"
+    },
+    "8437": {
+        "country_code": "AT",
+        "asn": "8437",
+        "description": "Hutchison Drei Austria GmbH",
+        "handle": "UTA-AS"
+    },
+    "8445": {
+        "country_code": "AT",
+        "asn": "8445",
+        "description": "SALZBURG AG fur Energie Verkehr und Telekommunikation",
+        "handle": "SALZBURG-AG-AS"
+    },
+    "8447": {
+        "country_code": "AT",
+        "asn": "8447",
+        "description": "A1 Telekom Austria AG",
+        "handle": "A1TELEKOM-AT"
+    },
+    "8540": {
+        "country_code": "AT",
+        "asn": "8540",
+        "description": "AMA netwoRX GmbH",
+        "handle": "AMANET-AS"
+    },
+    "8547": {
+        "country_code": "AT",
+        "asn": "8547",
+        "description": "Styria IT Solutions GmbH & Co KG",
+        "handle": "AS8547"
+    },
+    "8559": {
+        "country_code": "AT",
+        "asn": "8559",
+        "description": "kabelplus GmbH",
+        "handle": "WELLCOM"
+    },
+    "8562": {
+        "country_code": "AT",
+        "asn": "8562",
+        "description": "A1 Telekom Austria AG",
+        "handle": "LICPLUS-AS"
+    },
+    "8596": {
+        "country_code": "AT",
+        "asn": "8596",
+        "description": "hotze.com GmbH",
+        "handle": "HOTZE-AS"
+    },
+    "8666": {
+        "country_code": "AT",
+        "asn": "8666",
+        "description": "FiberLink GmbH",
+        "handle": "FIBERLINK-AS"
+    },
+    "8692": {
+        "country_code": "AT",
+        "asn": "8692",
+        "description": "Bundesrechenzentrum GmbH",
+        "handle": "BRZ"
+    },
+    "8787": {
+        "country_code": "AT",
+        "asn": "8787",
+        "description": "Amaris Technologies GmbH",
+        "handle": "AMARISTECH"
+    },
+    "8832": {
+        "country_code": "AT",
+        "asn": "8832",
+        "description": "Vintaro GmbH",
+        "handle": "NETVOICE"
+    },
+    "8971": {
+        "country_code": "AT",
+        "asn": "8971",
+        "description": "Eviden Austria GmbH",
+        "handle": "EVIDEN-AUSTRIA-GMBH"
+    },
+    "9023": {
+        "country_code": "AT",
+        "asn": "9023",
+        "description": "Oesterreichische Lotterien GmbH",
+        "handle": "LOTTERIEN-AS"
+    },
+    "12311": {
+        "country_code": "AT",
+        "asn": "12311",
+        "description": "International Atomic Energy Agency",
+        "handle": "IAEA"
+    },
+    "12382": {
+        "country_code": "AT",
+        "asn": "12382",
+        "description": "A1 Telekom Austria AG",
+        "handle": "TISCALI-AT-OOE"
+    },
+    "12401": {
+        "country_code": "AT",
+        "asn": "12401",
+        "description": "internic Datenkommunikations GmbH",
+        "handle": "INTERNIC-AS12401"
+    },
+    "12447": {
+        "country_code": "AT",
+        "asn": "12447",
+        "description": "Ernst Klingler Kabelfernsehen Gmbh",
+        "handle": "KABELINE-AS"
+    },
+    "12453": {
+        "country_code": "AT",
+        "asn": "12453",
+        "description": "KraftCom Service GmbH",
+        "handle": "KRAFTCOM-AS"
+    },
+    "12547": {
+        "country_code": "AT",
+        "asn": "12547",
+        "description": "A1 Telekom Austria AG",
+        "handle": "YCN"
+    },
+    "12577": {
+        "country_code": "AT",
+        "asn": "12577",
+        "description": "MMC GmbH",
+        "handle": "MMC-AT-AS"
+    },
+    "12605": {
+        "country_code": "AT",
+        "asn": "12605",
+        "description": "LIWEST Kabelmedien GmbH",
+        "handle": "LIWEST-AT"
+    },
+    "12635": {
+        "country_code": "AT",
+        "asn": "12635",
+        "description": "Hutchison Drei Austria GmbH",
+        "handle": "AS12635"
+    },
+    "12656": {
+        "country_code": "AT",
+        "asn": "12656",
+        "description": "A1 Telekom Austria AG",
+        "handle": "TA-GRX-I-AT"
+    },
+    "12762": {
+        "country_code": "AT",
+        "asn": "12762",
+        "description": "Vorarlberger Informatik- und Telekommunikationsdienstleistungsgesellschaft mbH",
+        "handle": "VTG-AT"
+    },
+    "12766": {
+        "country_code": "AT",
+        "asn": "12766",
+        "description": "MAGNA STEYR Fahrzeugtechnik AG und Co KG",
+        "handle": "MAGNA-STEYR-FAHRZEUGTECHNIK"
+    },
+    "12793": {
+        "country_code": "AT",
+        "asn": "12793",
+        "description": "A1 Telekom Austria AG",
+        "handle": "A1-TELEKOM-AT"
+    },
+    "12895": {
+        "country_code": "AT",
+        "asn": "12895",
+        "description": "Erste Digital GmbH",
+        "handle": "IT-AUSTRIA"
+    },
+    "12930": {
+        "country_code": "AT",
+        "asn": "12930",
+        "description": "card complete Service Bank AG",
+        "handle": "CARDCOMPLETE-AS"
+    },
+    "12971": {
+        "country_code": "AT",
+        "asn": "12971",
+        "description": "Internet Viennaweb Service GmbH",
+        "handle": "BIOS-AT"
+    },
+    "12991": {
+        "country_code": "AT",
+        "asn": "12991",
+        "description": "Amt der Ooe. Landesregierung",
+        "handle": "LAND-OOE"
+    },
+    "13008": {
+        "country_code": "AT",
+        "asn": "13008",
+        "description": "Entain Services Austria GmbH",
+        "handle": "BETANDWIN-AS"
+    },
+    "13022": {
+        "country_code": "AT",
+        "asn": "13022",
+        "description": "Streams Telecommunicationsservices GmbH",
+        "handle": "STREAMS-GMBH"
+    },
+    "13026": {
+        "country_code": "AT",
+        "asn": "13026",
+        "description": "Manuel Kahr",
+        "handle": "K-WLAN-AS"
+    },
+    "13042": {
+        "country_code": "AT",
+        "asn": "13042",
+        "description": "Oesterreichische Nationalbank",
+        "handle": "ASN-OENB-AT"
+    },
+    "13068": {
+        "country_code": "AT",
+        "asn": "13068",
+        "description": "Wiener Borse AG",
+        "handle": "WBAG-AT"
+    },
+    "13292": {
+        "country_code": "AT",
+        "asn": "13292",
+        "description": "Willibald Hambammer trading as BK-DAT Electronics e.U.",
+        "handle": "WILLIBALD-HAMBAMMER-TRADING"
+    },
+    "13298": {
+        "country_code": "AT",
+        "asn": "13298",
+        "description": "SOS-Kinderdorf International",
+        "handle": "SOS-KINDERDORF-AS"
+    },
+    "15498": {
+        "country_code": "AT",
+        "asn": "15498",
+        "description": "RTCnow Streaming Services GmbH",
+        "handle": "RTCNOW"
+    },
+    "15554": {
+        "country_code": "AT",
+        "asn": "15554",
+        "description": "Hutchison Drei Austria GmbH",
+        "handle": "AS15554"
+    },
+    "15733": {
+        "country_code": "AT",
+        "asn": "15733",
+        "description": "Zumtobel Group AG",
+        "handle": "ZUMTOBEL-AS"
+    },
+    "15824": {
+        "country_code": "AT",
+        "asn": "15824",
+        "description": "A1 Telekom Austria AG",
+        "handle": "A1-TA-AG"
+    },
+    "15910": {
+        "country_code": "AT",
+        "asn": "15910",
+        "description": "Fabasoft AG",
+        "handle": "FABASOFT-AT-AS"
+    },
+    "15939": {
+        "country_code": "AT",
+        "asn": "15939",
+        "description": "Deloitte Services Wirtschaftsprufungs GmbH",
+        "handle": "DELOITTEAT-AS"
+    },
+    "16049": {
+        "country_code": "AT",
+        "asn": "16049",
+        "description": "CPB-Software (Austria) GmbH",
+        "handle": "CPB-SOFTWARE-GMBH"
+    },
+    "16051": {
+        "country_code": "AT",
+        "asn": "16051",
+        "description": "Net Professionals GmbH",
+        "handle": "NET-PRO-AS"
+    },
+    "16055": {
+        "country_code": "AT",
+        "asn": "16055",
+        "description": "AADD GmbH",
+        "handle": "AADD-AT"
+    },
+    "16099": {
+        "country_code": "AT",
+        "asn": "16099",
+        "description": "Hauptverband der oesterreichischen Sozialversicherungstraeger",
+        "handle": "SOZVERS-NET"
+    },
+    "16105": {
+        "country_code": "AT",
+        "asn": "16105",
+        "description": "EMAKINA Central and Eastern Europe GmbH",
+        "handle": "AS-DIAMOND-DOGS"
+    },
+    "16305": {
+        "country_code": "AT",
+        "asn": "16305",
+        "description": "A1 Telekom Austria AG",
+        "handle": "A1TELEKOM-AT"
+    },
+    "16311": {
+        "country_code": "AT",
+        "asn": "16311",
+        "description": "Herold Business Data GmbH",
+        "handle": "HEROLD-AS"
+    },
+    "16314": {
+        "country_code": "AT",
+        "asn": "16314",
+        "description": "Magistrat der Stadt Wien Magistratsabteilung 01",
+        "handle": "WIENKAV"
+    },
+    "16364": {
+        "country_code": "AT",
+        "asn": "16364",
+        "description": "Sony DADC Europe GmbH",
+        "handle": "SONY-DADC"
+    },
+    "16381": {
+        "country_code": "AT",
+        "asn": "16381",
+        "description": "Osterreichischer Automobil Motorrad und Touringclub (OAMTC) Verband",
+        "handle": "OSTERREICHISCHER-AUTOMOBIL-MOTORRAD"
+    },
+    "20537": {
+        "country_code": "AT",
+        "asn": "20537",
+        "description": "Amt der NOe Landesregierung",
+        "handle": "AMT-DER-NOE-LANDESREGIERUNG"
+    },
+    "20684": {
+        "country_code": "AT",
+        "asn": "20684",
+        "description": "TUEV AUSTRIA HOLDING AG",
+        "handle": "TUEV-AS"
+    },
+    "20704": {
+        "country_code": "AT",
+        "asn": "20704",
+        "description": "Jumper GmbH",
+        "handle": "FUNKNETZ-AS"
+    },
+    "20751": {
+        "country_code": "AT",
+        "asn": "20751",
+        "description": "AZISTA GmbH",
+        "handle": "ASN-AZISTA"
+    },
+    "20863": {
+        "country_code": "AT",
+        "asn": "20863",
+        "description": "Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH",
+        "handle": "VDC1-AS"
+    },
+    "20882": {
+        "country_code": "AT",
+        "asn": "20882",
+        "description": "Russmedia IT GmbH",
+        "handle": "RM-IT-DATACENTER-AS"
+    },
+    "20935": {
+        "country_code": "AT",
+        "asn": "20935",
+        "description": "Oesterreichische Beamtenversicherung",
+        "handle": "OEBV-AS"
+    },
+    "21013": {
+        "country_code": "AT",
+        "asn": "21013",
+        "description": "eww ag",
+        "handle": "ITANDTEL-AS"
+    },
+    "21039": {
+        "country_code": "AT",
+        "asn": "21039",
+        "description": "Energie Steiermark AG",
+        "handle": "E-STEIERMARK-ASN"
+    },
+    "21079": {
+        "country_code": "AT",
+        "asn": "21079",
+        "description": "Oesterreichische Kontrollbank Aktiengesellschaft",
+        "handle": "OEKB-AS"
+    },
+    "21285": {
+        "country_code": "AT",
+        "asn": "21285",
+        "description": "A1 Telekom Austria AG",
+        "handle": "TELEKOM2-AT"
+    },
+    "21360": {
+        "country_code": "AT",
+        "asn": "21360",
+        "description": "Empirion Telekommunikations Services GmbH",
+        "handle": "EMPIRION"
+    },
+    "21362": {
+        "country_code": "AT",
+        "asn": "21362",
+        "description": "CANCOM Austria AG",
+        "handle": "CANCOM-AUSTRIA-EDS"
+    },
+    "21406": {
+        "country_code": "AT",
+        "asn": "21406",
+        "description": "D. Swarovski KG",
+        "handle": "SWAROVSKI-AS"
+    },
+    "24647": {
+        "country_code": "AT",
+        "asn": "24647",
+        "description": "Erste Digital GmbH",
+        "handle": "ECETRA-AS"
+    },
+    "24656": {
+        "country_code": "AT",
+        "asn": "24656",
+        "description": "Accenture TiGital GmbH",
+        "handle": "ARZ"
+    },
+    "24708": {
+        "country_code": "AT",
+        "asn": "24708",
+        "description": "RAITEC GmbH",
+        "handle": "GRZ-AT"
+    },
+    "24777": {
+        "country_code": "AT",
+        "asn": "24777",
+        "description": "Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organization",
+        "handle": "CTBTO-AS"
+    },
+    "24792": {
+        "country_code": "AT",
+        "asn": "24792",
+        "description": "Stadtwerke Kitzbuehel e.U.",
+        "handle": "KITZNET-AS"
+    },
+    "24824": {
+        "country_code": "AT",
+        "asn": "24824",
+        "description": "Gebrueder-Weiss GmbH",
+        "handle": "WEISS-ASN"
+    },
+    "24864": {
+        "country_code": "AT",
+        "asn": "24864",
+        "description": "Raiffeisen Informatik GmbH & Co KG",
+        "handle": "R-IT-AS"
+    },
+    "24953": {
+        "country_code": "AT",
+        "asn": "24953",
+        "description": "NETPLANET GmbH",
+        "handle": "ASN-NETPLANET"
+    },
+    "24992": {
+        "country_code": "AT",
+        "asn": "24992",
+        "description": "DIC Online Wolf Ltd & Co. KG",
+        "handle": "DIC-AS"
+    },
+    "25011": {
+        "country_code": "AT",
+        "asn": "25011",
+        "description": "OeBB Infrastruktur AG",
+        "handle": "AUSTRIAN-RAILWAYS-AS"
+    },
+    "25012": {
+        "country_code": "AT",
+        "asn": "25012",
+        "description": "WienIT GmbH",
+        "handle": "ASN-EUI"
+    },
+    "25053": {
+        "country_code": "AT",
+        "asn": "25053",
+        "description": "Generali Versicherung AG",
+        "handle": "EA-AS"
+    },
+    "25056": {
+        "country_code": "AT",
+        "asn": "25056",
+        "description": "SSI Schaefer IT Solutions GmbH",
+        "handle": "SALOMON-AT-AS"
+    },
+    "25069": {
+        "country_code": "AT",
+        "asn": "25069",
+        "description": "OMV Aktiengesellschaft",
+        "handle": "OMV-AS"
+    },
+    "25089": {
+        "country_code": "AT",
+        "asn": "25089",
+        "description": "Greiner AG",
+        "handle": "GREINER-AS"
+    },
+    "25101": {
+        "country_code": "AT",
+        "asn": "25101",
+        "description": "AZISTA GmbH",
+        "handle": "ASN-EUINTERNET"
+    },
+    "25126": {
+        "country_code": "AT",
+        "asn": "25126",
+        "description": "TIWAG-Tiroler Wasserkraft AG",
+        "handle": "TIWAG-GROUP-NET-AS"
+    },
+    "25255": {
+        "country_code": "AT",
+        "asn": "25255",
+        "description": "Hutchison Drei Austria GmbH",
+        "handle": "H3G-AUSTRIA-AS"
+    },
+    "25268": {
+        "country_code": "AT",
+        "asn": "25268",
+        "description": "cargo-partner GmbH",
+        "handle": "CARGOPARTNER-AS"
+    },
+    "25382": {
+        "country_code": "AT",
+        "asn": "25382",
+        "description": "A1 Telekom Austria AG",
+        "handle": "A1TA-RMPLS-AT"
+    },
+    "25445": {
+        "country_code": "AT",
+        "asn": "25445",
+        "description": "Austria Card-Plastikkarten und Ausweissysteme Gesellschaft m.b.H.",
+        "handle": "AUSTRIACARD-AS"
+    },
+    "25447": {
+        "country_code": "AT",
+        "asn": "25447",
+        "description": "JM-DATA GmbH",
+        "handle": "JM-DATA"
+    },
+    "25522": {
+        "country_code": "AT",
+        "asn": "25522",
+        "description": "Travelport Austria GmbH",
+        "handle": "TRAVELPORT-AUSTRIA-AS"
+    },
+    "25575": {
+        "country_code": "AT",
+        "asn": "25575",
+        "description": "Ledl.net GmbH & Co. KG",
+        "handle": "DOMAINTECHNIK"
+    },
+    "25761": {
+        "country_code": "AT",
+        "asn": "25761",
+        "description": "55 IT Services GmbH",
+        "handle": "FIFTYFIVE-AS"
+    },
+    "28760": {
+        "country_code": "AT",
+        "asn": "28760",
+        "description": "Infotech EDV-Systeme GmbH",
+        "handle": "INFOTECH-AT-AS"
+    },
+    "28771": {
+        "country_code": "AT",
+        "asn": "28771",
+        "description": "Flughafen Wien Aktiengesellschaft",
+        "handle": "VIE-AS"
+    },
+    "28834": {
+        "country_code": "AT",
+        "asn": "28834",
+        "description": "A1 Telekom Austria AG",
+        "handle": "A1TA-GRX-AT"
+    },
+    "28838": {
+        "country_code": "AT",
+        "asn": "28838",
+        "description": "conova communications GmbH",
+        "handle": "SAIX-RS"
+    },
+    "28839": {
+        "country_code": "AT",
+        "asn": "28839",
+        "description": "United Nations Office at Vienna",
+        "handle": "ASN-UNOV"
+    },
+    "28848": {
+        "country_code": "AT",
+        "asn": "28848",
+        "description": "United Nations Industrial Development Organization",
+        "handle": "UNIDO-AS"
+    },
+    "28857": {
+        "country_code": "AT",
+        "asn": "28857",
+        "description": "DXC Technology Austria GmbH",
+        "handle": "CSC-AS"
+    },
+    "28880": {
+        "country_code": "AT",
+        "asn": "28880",
+        "description": "Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH",
+        "handle": "NEXTLAYER-AS1"
+    },
+    "28889": {
+        "country_code": "AT",
+        "asn": "28889",
+        "description": "LinzNet Internet Service Provider GmbH",
+        "handle": "LINZNET-AS"
+    },
+    "28919": {
+        "country_code": "AT",
+        "asn": "28919",
+        "description": "Stadtwerke Kufstein GmbH",
+        "handle": "STWKUFSTEIN-AS"
+    },
+    "28960": {
+        "country_code": "AT",
+        "asn": "28960",
+        "description": "3 Banken IT GmbH",
+        "handle": "DREI-BANKEN-AS"
+    },
+    "28981": {
+        "country_code": "AT",
+        "asn": "28981",
+        "description": "Styria Media Group AG",
+        "handle": "DIEPRESSE-AS"
+    },
+    "29052": {
+        "country_code": "AT",
+        "asn": "29052",
+        "description": "AUSTRIACARD HOLDINGS AG",
+        "handle": "LYCOS-AS"
+    },
+    "29056": {
+        "country_code": "AT",
+        "asn": "29056",
+        "description": "Citycom Telekommunikation GmbH",
+        "handle": "CITYCOM-AS"
+    },
+    "29081": {
+        "country_code": "AT",
+        "asn": "29081",
+        "description": "WVNET Information und Kommunikation GmbH",
+        "handle": "WVNET-AT-AS"
+    },
+    "29085": {
+        "country_code": "AT",
+        "asn": "29085",
+        "description": "Porsche Informatik Gesellschaft m.b.H",
+        "handle": "PORSCHE-AS"
+    },
+    "29143": {
+        "country_code": "AT",
+        "asn": "29143",
+        "description": "Magistrat Graz",
+        "handle": "MAGAZ-AS"
+    },
+    "29161": {
+        "country_code": "AT",
+        "asn": "29161",
+        "description": "VERBUND Services GmbH",
+        "handle": "VERBUNDAT-AS"
+    },
+    "29287": {
+        "country_code": "AT",
+        "asn": "29287",
+        "description": "Wien Energie GmbH",
+        "handle": "AT-WZN-AS"
+    },
+    "29330": {
+        "country_code": "AT",
+        "asn": "29330",
+        "description": "Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH",
+        "handle": "ISP-NETWORK"
+    },
+    "29395": {
+        "country_code": "AT",
+        "asn": "29395",
+        "description": "webquake Computing Solutions GmbH",
+        "handle": "WEBQUAKE-AS"
+    },
+    "29429": {
+        "country_code": "AT",
+        "asn": "29429",
+        "description": "Allianz Elementar Versicherungs AG",
+        "handle": "ALLIANZAT-AS"
+    },
+    "29545": {
+        "country_code": "AT",
+        "asn": "29545",
+        "description": "iPlace Internet & Network Services GmbH",
+        "handle": "IPLACE"
+    },
+    "29560": {
+        "country_code": "AT",
+        "asn": "29560",
+        "description": "Industrie-Logistik-Linz GmbH",
+        "handle": "ILL-AS"
+    },
+    "29633": {
+        "country_code": "AT",
+        "asn": "29633",
+        "description": "KELAG-Karntner Elektrizitats - Aktiengesellschaft",
+        "handle": "KELAG-AT-AS"
+    },
+    "29643": {
+        "country_code": "AT",
+        "asn": "29643",
+        "description": "DPI holding Gmbh",
+        "handle": "KBENDLOS-AS"
+    },
+    "30739": {
+        "country_code": "AT",
+        "asn": "30739",
+        "description": "Lenzing AG",
+        "handle": "LENZING-AS"
+    },
+    "30971": {
+        "country_code": "AT",
+        "asn": "30971",
+        "description": "nic.at GmbH",
+        "handle": "NICAT-CORE-AS"
+    },
+    "31095": {
+        "country_code": "AT",
+        "asn": "31095",
+        "description": "Spar Business Services GmbH",
+        "handle": "SPARIGT-AS"
+    },
+    "31125": {
+        "country_code": "AT",
+        "asn": "31125",
+        "description": "Mavra VerwaltungsgmbH",
+        "handle": "MAVRA-AS"
+    },
+    "31146": {
+        "country_code": "AT",
+        "asn": "31146",
+        "description": "Ebner Industrieofenbau Ges.m.b.H.",
+        "handle": "EBNER-AS"
+    },
+    "31152": {
+        "country_code": "AT",
+        "asn": "31152",
+        "description": "Engel Austria GmbH",
+        "handle": "ENGEL-AS"
+    },
+    "31239": {
+        "country_code": "AT",
+        "asn": "31239",
+        "description": "Johann Baldermann",
+        "handle": "VIENNAWEB-AS"
+    },
+    "31361": {
+        "country_code": "AT",
+        "asn": "31361",
+        "description": "unit-IT Dienstleistungs GmbH & Co KG",
+        "handle": "UNIT-IT-AS"
+    },
+    "31374": {
+        "country_code": "AT",
+        "asn": "31374",
+        "description": "EBE-EDV-Beratungs- und Entwicklungs-Gesm.b.H.",
+        "handle": "EBE-EDV-AS"
+    },
+    "31382": {
+        "country_code": "AT",
+        "asn": "31382",
+        "description": "CANCOM Austria AG",
+        "handle": "CANCOM-AUSTRIA-IT"
+    },
+    "31394": {
+        "country_code": "AT",
+        "asn": "31394",
+        "description": "nemox.net Informationstechnologie OG",
+        "handle": "NEMOX-NET-AS"
+    },
+    "31439": {
+        "country_code": "AT",
+        "asn": "31439",
+        "description": "TTG Tourismus Technologie GmbH",
+        "handle": "TTG-AS"
+    },
+    "31446": {
+        "country_code": "AT",
+        "asn": "31446",
+        "description": "Entain Services Austria GmbH",
+        "handle": "BETANDWIN2-AS"
+    },
+    "31457": {
+        "country_code": "AT",
+        "asn": "31457",
+        "description": "Eos Data Systems GmbH",
+        "handle": "EOS-AS"
+    },
+    "31473": {
+        "country_code": "AT",
+        "asn": "31473",
+        "description": "BearingPoint GmbH",
+        "handle": "BEARINGPOINT-MANAGED-AS"
+    },
+    "31510": {
+        "country_code": "AT",
+        "asn": "31510",
+        "description": "Innsbrucker Kommunalbetriebe AG",
+        "handle": "IKB-AS"
+    },
+    "31543": {
+        "country_code": "AT",
+        "asn": "31543",
+        "description": "myNet GmbH",
+        "handle": "MYNET-AS"
+    },
+    "31601": {
+        "country_code": "AT",
+        "asn": "31601",
+        "description": "Styria Media Group AG",
+        "handle": "SMG-AS"
+    },
+    "31702": {
+        "country_code": "AT",
+        "asn": "31702",
+        "description": "GrECo International Holding AG",
+        "handle": "GRECO-INTERNATIONAL-AS"
+    },
+    "33872": {
+        "country_code": "AT",
+        "asn": "33872",
+        "description": "Alpha Medien Service GmbH",
+        "handle": "AMS-AS"
+    },
+    "33890": {
+        "country_code": "AT",
+        "asn": "33890",
+        "description": "FiberLink GmbH",
+        "handle": "PXPAT-AS"
+    },
+    "33917": {
+        "country_code": "AT",
+        "asn": "33917",
+        "description": "Sozialdemokratische Partei Oesterreichs",
+        "handle": "SPOE-AS"
+    },
+    "33992": {
+        "country_code": "AT",
+        "asn": "33992",
+        "description": "Mass Response Service GmbH",
+        "handle": "MASSRESPONSE-AS2"
+    },
+    "34090": {
+        "country_code": "AT",
+        "asn": "34090",
+        "description": "paysafecard.com Wertkarten AG",
+        "handle": "PAYSAFE-AT-AS"
+    },
+    "34183": {
+        "country_code": "AT",
+        "asn": "34183",
+        "description": "Bundesministerium f. Gesundheit",
+        "handle": "BMG"
+    },
+    "34318": {
+        "country_code": "AT",
+        "asn": "34318",
+        "description": "ASAK Glasfaser GmbH",
+        "handle": "MINNIBERGER-AS"
+    },
+    "34347": {
+        "country_code": "AT",
+        "asn": "34347",
+        "description": "HALLAG Kommunal GmbH",
+        "handle": "CITYNET-AT-AS"
+    },
+    "34474": {
+        "country_code": "AT",
+        "asn": "34474",
+        "description": "KEBA Group AG",
+        "handle": "KEBA-AG"
+    },
+    "34502": {
+        "country_code": "AT",
+        "asn": "34502",
+        "description": "Multikom Austria Telekom GmbH",
+        "handle": "XLINK-AS"
+    },
+    "34694": {
+        "country_code": "AT",
+        "asn": "34694",
+        "description": "Stadtwerke Woergl GmbH",
+        "handle": "STWW-AS"
+    },
+    "34735": {
+        "country_code": "AT",
+        "asn": "34735",
+        "description": "LKW Walter Internationale Transportorganisation AG",
+        "handle": "LKW-WALTER-AG"
+    },
+    "34767": {
+        "country_code": "AT",
+        "asn": "34767",
+        "description": "Otto M. Steinmann e.U.",
+        "handle": "STONERICH-AS"
+    },
+    "34785": {
+        "country_code": "AT",
+        "asn": "34785",
+        "description": "Stadtwerke Klagenfurt AG",
+        "handle": "STW"
+    },
+    "34798": {
+        "country_code": "AT",
+        "asn": "34798",
+        "description": "willhaben internet service GmbH & Co KG",
+        "handle": "WILLHABEN"
+    },
+    "34812": {
+        "country_code": "AT",
+        "asn": "34812",
+        "description": "euphoria GmbH",
+        "handle": "EUPHORIA"
+    },
+    "34883": {
+        "country_code": "AT",
+        "asn": "34883",
+        "description": "FH JOANNEUM Gesellschaft mbH",
+        "handle": "FH-JOANNEUM"
+    },
+    "34885": {
+        "country_code": "AT",
+        "asn": "34885",
+        "description": "Erzdioezese Salzburg",
+        "handle": "EDSBG-AS"
+    },
+    "34905": {
+        "country_code": "AT",
+        "asn": "34905",
+        "description": "BWT Holding GmbH",
+        "handle": "BWT-AS"
+    },
+    "34964": {
+        "country_code": "AT",
+        "asn": "34964",
+        "description": "Ripe-NetWorks e.U.",
+        "handle": "RIPE-AT-AS"
+    },
+    "35052": {
+        "country_code": "AT",
+        "asn": "35052",
+        "description": "ACONET",
+        "handle": "AS-AT-TLD-SERVICES"
+    },
+    "35150": {
+        "country_code": "AT",
+        "asn": "35150",
+        "description": "voestalpine Tubulars GmbH & Co KG",
+        "handle": "VAK-AT-AS"
+    },
+    "35317": {
+        "country_code": "AT",
+        "asn": "35317",
+        "description": "Constantia Teich GmbH",
+        "handle": "TEICH-AS"
+    },
+    "35339": {
+        "country_code": "AT",
+        "asn": "35339",
+        "description": "AtNOC GmbH",
+        "handle": "CZ-AS"
+    },
+    "35369": {
+        "country_code": "AT",
+        "asn": "35369",
+        "description": "LINZ STROM GAS WAERME GmbH fuer Energiedienstleistungen und Telekommunikation",
+        "handle": "LINZAG-TELEKOM-AS"
+    },
+    "35370": {
+        "country_code": "AT",
+        "asn": "35370",
+        "description": "Ainet Telekommunikations-Netzwerk Betriebs GmbH",
+        "handle": "AINET-AS"
+    },
+    "35458": {
+        "country_code": "AT",
+        "asn": "35458",
+        "description": "Avenum Technologie GmbH",
+        "handle": "AVENUM-AS"
+    },
+    "35492": {
+        "country_code": "AT",
+        "asn": "35492",
+        "description": "FunkFeuer Wien - Verein zur Foerderung freier Netze",
+        "handle": "FUNKFEUER"
+    },
+    "35552": {
+        "country_code": "AT",
+        "asn": "35552",
+        "description": "Kommunalkredit Austria AG",
+        "handle": "KOMMUNALKREDIT-AT-AS"
+    },
+    "35579": {
+        "country_code": "AT",
+        "asn": "35579",
+        "description": "KELAG-Karntner Elektrizitats - Aktiengesellschaft",
+        "handle": "KELAG1"
+    },
+    "35609": {
+        "country_code": "AT",
+        "asn": "35609",
+        "description": "Gerhard Marek trading as Smart Force e.U.",
+        "handle": "ITP-AT"
+    },
+    "35646": {
+        "country_code": "AT",
+        "asn": "35646",
+        "description": "Grazer Wechselseitige Versicherung AG",
+        "handle": "GRAWE-AS"
+    },
+    "35698": {
+        "country_code": "AT",
+        "asn": "35698",
+        "description": "Salinen Austria AG",
+        "handle": "SALINEN-AS"
+    },
+    "35765": {
+        "country_code": "AT",
+        "asn": "35765",
+        "description": "Gemeindewerke Telfs GmbH",
+        "handle": "GDETELFS"
+    },
+    "37703": {
+        "country_code": "AT",
+        "asn": "37703",
+        "description": "Erste Digital GmbH",
+        "handle": "ERSTE-DIGITAL-GMBH"
+    },
+    "38955": {
+        "country_code": "AT",
+        "asn": "38955",
+        "description": "World4You Internet Services GmbH",
+        "handle": "WORLD4YOU"
+    },
+    "38967": {
+        "country_code": "AT",
+        "asn": "38967",
+        "description": "Wirtschaftskammer Oesterreich",
+        "handle": "WKS-AS"
+    },
+    "38977": {
+        "country_code": "AT",
+        "asn": "38977",
+        "description": "Silhouette International Schmied AG",
+        "handle": "SILHOUETTE-AS"
+    },
+    "39008": {
+        "country_code": "AT",
+        "asn": "39008",
+        "description": "Raiffeisen Bank International AG",
+        "handle": "EFG-AS"
+    },
+    "39057": {
+        "country_code": "AT",
+        "asn": "39057",
+        "description": "DVT-Daten-Verarbeitung-Tirol GmbH",
+        "handle": "TIROLERLANDESREGIERUNG-AS"
+    },
+    "39210": {
+        "country_code": "AT",
+        "asn": "39210",
+        "description": "T-Mobile Austria GmbH",
+        "handle": "CATV-AT"
+    },
+    "39285": {
+        "country_code": "AT",
+        "asn": "39285",
+        "description": "Gartner KG",
+        "handle": "GARTNER-AS"
+    },
+    "39372": {
+        "country_code": "AT",
+        "asn": "39372",
+        "description": "Josef Edtbauer e.u.",
+        "handle": "PPTV-AS"
+    },
+    "39394": {
+        "country_code": "AT",
+        "asn": "39394",
+        "description": "NeoTel Telefonservice GmbH & Co KG",
+        "handle": "NEOTELAT-AS"
+    },
+    "39409": {
+        "country_code": "AT",
+        "asn": "39409",
+        "description": "Sebastian-Wilhelm Graf",
+        "handle": "SWG-MYROOTPW"
+    },
+    "39460": {
+        "country_code": "AT",
+        "asn": "39460",
+        "description": "Wien Kanal (WKN)",
+        "handle": "WIENKANAL-AS"
+    },
+    "39478": {
+        "country_code": "AT",
+        "asn": "39478",
+        "description": "ASFINAG",
+        "handle": "ASFINAG"
+    },
+    "39508": {
+        "country_code": "AT",
+        "asn": "39508",
+        "description": "AXIANS ICT Austria GmbH",
+        "handle": "C07-AS"
+    },
+    "39555": {
+        "country_code": "AT",
+        "asn": "39555",
+        "description": "Stadtwerke Schwaz GmbH",
+        "handle": "STW-SCHWAZ-AS"
+    },
+    "39560": {
+        "country_code": "AT",
+        "asn": "39560",
+        "description": "KT-NET Communications GmbH",
+        "handle": "KT-NET"
+    },
+    "39564": {
+        "country_code": "AT",
+        "asn": "39564",
+        "description": "Kernnetz Invent GmbH",
+        "handle": "KERNNETZ-ANYCAST"
+    },
+    "39837": {
+        "country_code": "AT",
+        "asn": "39837",
+        "description": "mur.at - Verein zur Foerderung von Netzwerkkunst",
+        "handle": "MUR"
+    },
+    "39878": {
+        "country_code": "AT",
+        "asn": "39878",
+        "description": "Peter Rauter GmbH",
+        "handle": "RAUTER-AS"
+    },
+    "39879": {
+        "country_code": "AT",
+        "asn": "39879",
+        "description": "Sozialversicherungs-Chipkarten Betriebs- und Errichtungsgesellschaft m.b.H - SVC",
+        "handle": "SVC-AS"
+    },
+    "39885": {
+        "country_code": "AT",
+        "asn": "39885",
+        "description": "PSA Payment Services Austria GmbH",
+        "handle": "PAYLIFE-AS"
+    },
+    "39912": {
+        "country_code": "AT",
+        "asn": "39912",
+        "description": "oja.at GmbH",
+        "handle": "I3B-AS"
+    },
+    "40979": {
+        "country_code": "AT",
+        "asn": "40979",
+        "description": "Anexia Cloud Solutions GmbH",
+        "handle": "ANEXIA-FIREWALL-AS"
+    },
+    "40980": {
+        "country_code": "AT",
+        "asn": "40980",
+        "description": "Anexia Cloud Solutions GmbH",
+        "handle": "TELEMATICA"
+    },
+    "40982": {
+        "country_code": "AT",
+        "asn": "40982",
+        "description": "Mediengruppe Oesterreich GmbH",
+        "handle": "ZEITUNGSPROJEKT-AT-AS"
+    },
+    "40994": {
+        "country_code": "AT",
+        "asn": "40994",
+        "description": "Hohl IT e.U.",
+        "handle": "ALWYZON"
+    },
+    "41198": {
+        "country_code": "AT",
+        "asn": "41198",
+        "description": "IGT Austria GmbH",
+        "handle": "IGT-AUSTRIA"
+    },
+    "41249": {
+        "country_code": "AT",
+        "asn": "41249",
+        "description": "Amt der Kaerntner Landesregierung",
+        "handle": "ADKL-AS"
+    },
+    "41351": {
+        "country_code": "AT",
+        "asn": "41351",
+        "description": "A1 Telekom Austria AG",
+        "handle": "MAGBB"
+    },
+    "41363": {
+        "country_code": "AT",
+        "asn": "41363",
+        "description": "DI Gabriele Maria Plutzar",
+        "handle": "ALPHANETWORK-AS"
+    },
+    "41384": {
+        "country_code": "AT",
+        "asn": "41384",
+        "description": "x-tention Informationstechnologie GmbH",
+        "handle": "XT-AS"
+    },
+    "41437": {
+        "country_code": "AT",
+        "asn": "41437",
+        "description": "KNAPP AG",
+        "handle": "KNAPP-AS"
+    },
+    "41491": {
+        "country_code": "AT",
+        "asn": "41491",
+        "description": "Stadtwerke Kapfenberg GmbH",
+        "handle": "STAKA-AS"
+    },
+    "41817": {
+        "country_code": "AT",
+        "asn": "41817",
+        "description": "Rocket NG GmbH",
+        "handle": "VFNK"
+    },
+    "41905": {
+        "country_code": "AT",
+        "asn": "41905",
+        "description": "oja.at GmbH",
+        "handle": "PHORUS-AS"
+    },
+    "41915": {
+        "country_code": "AT",
+        "asn": "41915",
+        "description": "Land- forst- und wasserwirtschaftliches Rechenzentrum GmbH",
+        "handle": "LFRZ"
+    },
+    "41921": {
+        "country_code": "AT",
+        "asn": "41921",
+        "description": "B&R Industrial Automation GmbH",
+        "handle": "BR-AUTOMATION-AS"
+    },
+    "42060": {
+        "country_code": "AT",
+        "asn": "42060",
+        "description": "feratel media technologies AG",
+        "handle": "FERATEL-AS"
+    },
+    "42061": {
+        "country_code": "AT",
+        "asn": "42061",
+        "description": "LINZ STROM GAS WAERME GmbH fuer Energiedienstleistungen und Telekommunikation",
+        "handle": "LINZAG-AS"
+    },
+    "42114": {
+        "country_code": "AT",
+        "asn": "42114",
+        "description": "PG Austria GmbH",
+        "handle": "VNWT-AS"
+    },
+    "42196": {
+        "country_code": "AT",
+        "asn": "42196",
+        "description": "BRP-Rotax GmbH & Co KG",
+        "handle": "ROTAX-AS"
+    },
+    "42257": {
+        "country_code": "AT",
+        "asn": "42257",
+        "description": "MANZ'sche Verlags- und Universitaetsbuchhandlung GmbH",
+        "handle": "MANZ-AS"
+    },
+    "42354": {
+        "country_code": "AT",
+        "asn": "42354",
+        "description": "Anexia Cloud Solutions GmbH",
+        "handle": "ANX-CUSTOMER"
+    },
+    "42360": {
+        "country_code": "AT",
+        "asn": "42360",
+        "description": "Anexia Cloud Solutions GmbH",
+        "handle": "SSP-EUROPE"
+    },
+    "42378": {
+        "country_code": "AT",
+        "asn": "42378",
+        "description": "Rundfunk und Telekom Regulierungs-GmbH",
+        "handle": "RTR-AS"
+    },
+    "42388": {
+        "country_code": "AT",
+        "asn": "42388",
+        "description": "Anexia Cloud Solutions GmbH",
+        "handle": "ANX-CLOUDDNS"
+    },
+    "42473": {
+        "country_code": "AT",
+        "asn": "42473",
+        "description": "Anexia Cloud Solutions GmbH",
+        "handle": "AS-ANEXIA"
+    },
+    "42539": {
+        "country_code": "AT",
+        "asn": "42539",
+        "description": "styrion Internet und eBusiness Services GmbH",
+        "handle": "STYRION"
+    },
+    "42557": {
+        "country_code": "AT",
+        "asn": "42557",
+        "description": "Xidras GmbH",
+        "handle": "XIDRAS"
+    },
+    "42572": {
+        "country_code": "AT",
+        "asn": "42572",
+        "description": "abaton EDV-Dienstleistungs GmbH",
+        "handle": "ABATON-AS"
+    },
+    "42587": {
+        "country_code": "AT",
+        "asn": "42587",
+        "description": "Magna Automotive Holding GmbH",
+        "handle": "MAGNAEU"
+    },
+    "42685": {
+        "country_code": "AT",
+        "asn": "42685",
+        "description": "Bundeskanzleramt",
+        "handle": "BKA"
+    },
+    "42694": {
+        "country_code": "AT",
+        "asn": "42694",
+        "description": "Elektrizitaetswerk Goesting V. Franz GmbH",
+        "handle": "CONTRUST"
+    },
+    "42715": {
+        "country_code": "AT",
+        "asn": "42715",
+        "description": "Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH",
+        "handle": "VDC2-AS"
+    },
+    "42729": {
+        "country_code": "AT",
+        "asn": "42729",
+        "description": "FunkFeuer Graz - Verein zur Foerderung freier Netze",
+        "handle": "FFGRAZ-NET"
+    },
+    "42783": {
+        "country_code": "AT",
+        "asn": "42783",
+        "description": "ACP IT Solutions GmbH",
+        "handle": "ACP-AT-AS"
+    },
+    "42858": {
+        "country_code": "AT",
+        "asn": "42858",
+        "description": "Limberger Handelsgesellschaft m.b.H.",
+        "handle": "WETI-AS"
+    },
+    "42871": {
+        "country_code": "AT",
+        "asn": "42871",
+        "description": "Michael Gamsjaeger",
+        "handle": "MIKE-AS"
+    },
+    "42882": {
+        "country_code": "AT",
+        "asn": "42882",
+        "description": "SysUP IT GmbH & Co KG",
+        "handle": "SYSUP-AT"
+    },
+    "43002": {
+        "country_code": "AT",
+        "asn": "43002",
+        "description": "Klipso GmbH",
+        "handle": "KTV-GARS-KLIPSO-GMBH-AS43002"
+    },
+    "43003": {
+        "country_code": "AT",
+        "asn": "43003",
+        "description": "Kaufmann Gesellschaft m.b.H.",
+        "handle": "KAUFMANN"
+    },
+    "43365": {
+        "country_code": "AT",
+        "asn": "43365",
+        "description": "Raiffeisen Digital Bank AG",
+        "handle": "RCB-AT-AS"
+    },
+    "43511": {
+        "country_code": "AT",
+        "asn": "43511",
+        "description": "EMARSYS eMarketing Systems GmbH",
+        "handle": "EMARSYS-AS"
+    },
+    "43522": {
+        "country_code": "AT",
+        "asn": "43522",
+        "description": "Austria Wirtschaftsservice GmbH",
+        "handle": "AWSG-AT-AS"
+    },
+    "43556": {
+        "country_code": "AT",
+        "asn": "43556",
+        "description": "NETPLANET GmbH",
+        "handle": "ASN-NETPLANET-BACKUP"
+    },
+    "43579": {
+        "country_code": "AT",
+        "asn": "43579",
+        "description": "Ordensklinikum Linz GmbH",
+        "handle": "ORDENSKLINIKUM-LINZ-AS"
+    },
+    "43771": {
+        "country_code": "AT",
+        "asn": "43771",
+        "description": "MuKi Versicherungsverein auf Gegenseitigkeit VVaG",
+        "handle": "MUKI-AS"
+    },
+    "43848": {
+        "country_code": "AT",
+        "asn": "43848",
+        "description": "Gamsjaeger Kabel-TV & ISP Betriebs GmbH",
+        "handle": "GAMSJAEGER"
+    },
+    "43855": {
+        "country_code": "AT",
+        "asn": "43855",
+        "description": "Werner Berghammer",
+        "handle": "ASN-RSD"
+    },
+    "43913": {
+        "country_code": "AT",
+        "asn": "43913",
+        "description": "Oesterreichische Agentur fuer Gesundheit und Ernaehrungssicherheit GmbH",
+        "handle": "AT-AGES-AS"
+    },
+    "43957": {
+        "country_code": "AT",
+        "asn": "43957",
+        "description": "WNT Telecommunication GmbH",
+        "handle": "ASN-WNTNEWMEDIA"
+    },
+    "44133": {
+        "country_code": "AT",
+        "asn": "44133",
+        "description": "IPAX GmbH",
+        "handle": "IPAX-AS"
+    },
+    "44191": {
+        "country_code": "AT",
+        "asn": "44191",
+        "description": "Raiffeisen Kapitalanlage GmbH",
+        "handle": "RBI-GROUP-IT"
+    },
+    "44250": {
+        "country_code": "AT",
+        "asn": "44250",
+        "description": "Atos Technologies Austria GmbH",
+        "handle": "AOAT-AS"
+    },
+    "44329": {
+        "country_code": "AT",
+        "asn": "44329",
+        "description": "NTS Netzwerk Telekom Service AG",
+        "handle": "NTS-AS"
+    },
+    "44353": {
+        "country_code": "AT",
+        "asn": "44353",
+        "description": "pressetext Nachrichtenagentur GmbH",
+        "handle": "PRESSETEXT"
+    },
+    "44363": {
+        "country_code": "AT",
+        "asn": "44363",
+        "description": "Energie Steiermark Breitband GmbH",
+        "handle": "ASESN01"
+    },
+    "44385": {
+        "country_code": "AT",
+        "asn": "44385",
+        "description": "NA-NET Communications GmbH",
+        "handle": "NA-NET-AS"
+    },
+    "44392": {
+        "country_code": "AT",
+        "asn": "44392",
+        "description": "Salzburger Flughafen GmbH",
+        "handle": "AIRPORT-SBG-AS"
+    },
+    "44399": {
+        "country_code": "AT",
+        "asn": "44399",
+        "description": "FH OOe Studienbetriebs GmbH",
+        "handle": "FHOOE-AS"
+    },
+    "44453": {
+        "country_code": "AT",
+        "asn": "44453",
+        "description": "interneX GmbH",
+        "handle": "INTERNEX-AS"
+    },
+    "44462": {
+        "country_code": "AT",
+        "asn": "44462",
+        "description": "Stadtwerke Muerzzuschlag GmbH",
+        "handle": "MUERZNET-AS"
+    },
+    "44472": {
+        "country_code": "AT",
+        "asn": "44472",
+        "description": "Hofstaetter IT GmbH",
+        "handle": "HOFSTAETTER-AS"
+    },
+    "44594": {
+        "country_code": "AT",
+        "asn": "44594",
+        "description": "Austrian Airlines AG",
+        "handle": "AUA-AS"
+    },
+    "44638": {
+        "country_code": "AT",
+        "asn": "44638",
+        "description": "Elektrohaus Gabriel GmbH & Co. KG",
+        "handle": "UTVNET-AS"
+    },
+    "44752": {
+        "country_code": "AT",
+        "asn": "44752",
+        "description": "oja.at GmbH",
+        "handle": "PRKD"
+    },
+    "44753": {
+        "country_code": "AT",
+        "asn": "44753",
+        "description": "Bacher Systems EDV GmbH",
+        "handle": "BACHER-AS"
+    },
+    "44760": {
+        "country_code": "AT",
+        "asn": "44760",
+        "description": "Skidata GmbH",
+        "handle": "SKI-AS"
+    },
+    "44765": {
+        "country_code": "AT",
+        "asn": "44765",
+        "description": "MakeNewMedia Communications GmbH",
+        "handle": "MAKENEWMEDIA-AS"
+    },
+    "44825": {
+        "country_code": "AT",
+        "asn": "44825",
+        "description": "Oesterreichisches Rotes Kreuz Landesverband Oberoesterreich",
+        "handle": "RKOOE-AS"
+    },
+    "44832": {
+        "country_code": "AT",
+        "asn": "44832",
+        "description": "AlphaPhone Telekommunikations GmbH",
+        "handle": "ALPHA-AT-AS"
+    },
+    "44865": {
+        "country_code": "AT",
+        "asn": "44865",
+        "description": "STANDARD Verlagsgesellschaft m.b.H.",
+        "handle": "DERSTANDARD-AS"
+    },
+    "47106": {
+        "country_code": "AT",
+        "asn": "47106",
+        "description": "Anton Paar GmbH",
+        "handle": "PAAR-AS"
+    },
+    "47120": {
+        "country_code": "AT",
+        "asn": "47120",
+        "description": "Diamond Informatics GmbH",
+        "handle": "DIAMOND-AS"
+    },
+    "47130": {
+        "country_code": "AT",
+        "asn": "47130",
+        "description": "VGN Medien Holding GmbH",
+        "handle": "VGN-AS"
+    },
+    "47132": {
+        "country_code": "AT",
+        "asn": "47132",
+        "description": "Innonet ICT-Services GmbH",
+        "handle": "INNONET-AS"
+    },
+    "47147": {
+        "country_code": "AT",
+        "asn": "47147",
+        "description": "Anexia Cloud Solutions GmbH",
+        "handle": "AS-ANX"
+    },
+    "47161": {
+        "country_code": "AT",
+        "asn": "47161",
+        "description": "Stadtwerke Feldkirch",
+        "handle": "TKSWF-LABS"
+    },
+    "47186": {
+        "country_code": "AT",
+        "asn": "47186",
+        "description": "Porr AG",
+        "handle": "PORR"
+    },
+    "47364": {
+        "country_code": "AT",
+        "asn": "47364",
+        "description": "Plansee Group Functions Austria GmbH",
+        "handle": "PLANSEE-AS"
+    },
+    "47373": {
+        "country_code": "AT",
+        "asn": "47373",
+        "description": "Getzner Werkstoffe GmbH",
+        "handle": "GETZNER-AS"
+    },
+    "47411": {
+        "country_code": "AT",
+        "asn": "47411",
+        "description": "Kremsmueller Anlagenbau GmbH",
+        "handle": "KREMSMUELLER-AS"
+    },
+    "47477": {
+        "country_code": "AT",
+        "asn": "47477",
+        "description": "REWE International Dienstleistungs GmbH",
+        "handle": "REWEA-AS"
+    },
+    "47515": {
+        "country_code": "AT",
+        "asn": "47515",
+        "description": "Bundesministerium fuer Inneres Sektion IV",
+        "handle": "BMI-GOVIX"
+    },
+    "47559": {
+        "country_code": "AT",
+        "asn": "47559",
+        "description": "Sebastian-Wilhelm Graf",
+        "handle": "VOIXP-ROUTE-SERVERS"
+    },
+    "47576": {
+        "country_code": "AT",
+        "asn": "47576",
+        "description": "Netzware Handels- und IT-Dienstleistungs GmbH",
+        "handle": "NETZWARE-AS"
+    },
+    "47592": {
+        "country_code": "AT",
+        "asn": "47592",
+        "description": "AZISTA GmbH",
+        "handle": "ACNETWORKS-AS"
+    },
+    "47593": {
+        "country_code": "AT",
+        "asn": "47593",
+        "description": "TTTech Computertechnik AG",
+        "handle": "TTTECH-AS"
+    },
+    "47650": {
+        "country_code": "AT",
+        "asn": "47650",
+        "description": "techbold secure IT GmbH",
+        "handle": "ISITON-AS"
+    },
+    "47692": {
+        "country_code": "AT",
+        "asn": "47692",
+        "description": "Nessus GmbH",
+        "handle": "NESSUS"
+    },
+    "48055": {
+        "country_code": "AT",
+        "asn": "48055",
+        "description": "Business Data Solutions GmbH",
+        "handle": "BDS-DC1"
+    },
+    "48151": {
+        "country_code": "AT",
+        "asn": "48151",
+        "description": "Red Bull GmbH",
+        "handle": "REDBULL-AS"
+    },
+    "48339": {
+        "country_code": "AT",
+        "asn": "48339",
+        "description": "Raiffeisen Rechenzentrum GmbH",
+        "handle": "RRZ-SUED-AS"
+    },
+    "48362": {
+        "country_code": "AT",
+        "asn": "48362",
+        "description": "Stadtwerke Feldkirch",
+        "handle": "TKSWF-AS"
+    },
+    "48367": {
+        "country_code": "AT",
+        "asn": "48367",
+        "description": "Franz Dax GmbH",
+        "handle": "FRANZ-DAX-GMBH"
+    },
+    "48384": {
+        "country_code": "AT",
+        "asn": "48384",
+        "description": "SML Maschinengesellschaft mbH",
+        "handle": "SML"
+    },
+    "48439": {
+        "country_code": "AT",
+        "asn": "48439",
+        "description": "its-TPA GmbH",
+        "handle": "CITEX-AS"
+    },
+    "48486": {
+        "country_code": "AT",
+        "asn": "48486",
+        "description": "Leder und Schuh AG",
+        "handle": "LEDERUNDSCHUH-AS"
+    },
+    "48735": {
+        "country_code": "AT",
+        "asn": "48735",
+        "description": "DELTA DIGITAL Friesenbichler & Co GmbH",
+        "handle": "DELTAAT-AT-AS"
+    },
+    "48856": {
+        "country_code": "AT",
+        "asn": "48856",
+        "description": "Silhouette International Schmied AG",
+        "handle": "SILHOUETTE-AS2"
+    },
+    "48906": {
+        "country_code": "AT",
+        "asn": "48906",
+        "description": "ERGO Versicherung Aktiengesellschaft",
+        "handle": "ERGO-AT-AS"
+    },
+    "48943": {
+        "country_code": "AT",
+        "asn": "48943",
+        "description": "KAPPER NETWORK-COMMUNICATIONS GmbH",
+        "handle": "KAPPERNET"
+    },
+    "48984": {
+        "country_code": "AT",
+        "asn": "48984",
+        "description": "Amt der Steiermaerkischen Landesregierung",
+        "handle": "STLRG"
+    },
+    "49014": {
+        "country_code": "AT",
+        "asn": "49014",
+        "description": "Wirtschaftskammer Oesterreich",
+        "handle": "WKO-AS"
+    },
+    "49135": {
+        "country_code": "AT",
+        "asn": "49135",
+        "description": "Wirtschaftskammer Oberoesterreich",
+        "handle": "WKOOE-AS"
+    },
+    "49163": {
+        "country_code": "AT",
+        "asn": "49163",
+        "description": "Kabel-TV Amstetten GMBH",
+        "handle": "KTVAM-AS"
+    },
+    "49322": {
+        "country_code": "AT",
+        "asn": "49322",
+        "description": "ViM Internetdienstleistungen GmbH",
+        "handle": "VIM-AS"
+    },
+    "49335": {
+        "country_code": "AT",
+        "asn": "49335",
+        "description": "Josef Nopp GmbH",
+        "handle": "KABELSPEED"
+    },
+    "49432": {
+        "country_code": "AT",
+        "asn": "49432",
+        "description": "Dominic Schallert trading as schallert.com e.U.",
+        "handle": "SCHALLERT-AS"
+    },
+    "49488": {
+        "country_code": "AT",
+        "asn": "49488",
+        "description": "nic.at GmbH",
+        "handle": "AS-AT-TLD-SERVICES"
+    },
+    "49660": {
+        "country_code": "AT",
+        "asn": "49660",
+        "description": "FH Campus Wien",
+        "handle": "FHCAMPUS-AS"
+    },
+    "49705": {
+        "country_code": "AT",
+        "asn": "49705",
+        "description": "Michael Maresch",
+        "handle": "MMM-SOFTWARE"
+    },
+    "49808": {
+        "country_code": "AT",
+        "asn": "49808",
+        "description": "Energie AG Oberoesterreich Services und Digital Solutions GmbH",
+        "handle": "POWERSPEED-AS"
+    },
+    "49810": {
+        "country_code": "AT",
+        "asn": "49810",
+        "description": "ip-it consult GmbH",
+        "handle": "IP-IT-LAB"
+    },
+    "49864": {
+        "country_code": "AT",
+        "asn": "49864",
+        "description": "ECS Rockenschaub GmbH",
+        "handle": "ECSNET-AS"
+    },
+    "49899": {
+        "country_code": "AT",
+        "asn": "49899",
+        "description": "Petro Welt Technologies AG",
+        "handle": "PWT-AS"
+    },
+    "50047": {
+        "country_code": "AT",
+        "asn": "50047",
+        "description": "Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH",
+        "handle": "NXL-DDTT-AS"
+    },
+    "50099": {
+        "country_code": "AT",
+        "asn": "50099",
+        "description": "Volkskreditbank AG",
+        "handle": "VKB-AS"
+    },
+    "50143": {
+        "country_code": "AT",
+        "asn": "50143",
+        "description": "Finanzmarktaufsicht",
+        "handle": "FMA-AT-AS"
+    },
+    "50180": {
+        "country_code": "AT",
+        "asn": "50180",
+        "description": "Med-El Elektromedizinische Geraete GmbH.",
+        "handle": "MED-EL-AS"
+    },
+    "50226": {
+        "country_code": "AT",
+        "asn": "50226",
+        "description": "NETcompany Internet Provider - NC GmbH",
+        "handle": "NETCOMPANY1-AS"
+    },
+    "50351": {
+        "country_code": "AT",
+        "asn": "50351",
+        "description": "card complete Service Bank AG",
+        "handle": "CARDCOMPLETE-AS"
+    },
+    "50657": {
+        "country_code": "AT",
+        "asn": "50657",
+        "description": "WestNet Telekommunikations- und Informationsdienstleistungs GesmbH",
+        "handle": "WESTNET-AS"
+    },
+    "50700": {
+        "country_code": "AT",
+        "asn": "50700",
+        "description": "Elektrizitaetswerk Goesting V. Franz GmbH",
+        "handle": "EWG-AS"
+    },
+    "50718": {
+        "country_code": "AT",
+        "asn": "50718",
+        "description": "Herrmann Fabian",
+        "handle": "HOCHSTRADEN-AS"
+    },
+    "50719": {
+        "country_code": "AT",
+        "asn": "50719",
+        "description": "XINON GmbH",
+        "handle": "MYSYS-AS"
+    },
+    "50720": {
+        "country_code": "AT",
+        "asn": "50720",
+        "description": "Ing. Martin Jantscher",
+        "handle": "MAJASOL-AS"
+    },
+    "50721": {
+        "country_code": "AT",
+        "asn": "50721",
+        "description": "Koller Sebastian Karl",
+        "handle": "SKNETWORX-AS"
+    },
+    "50782": {
+        "country_code": "AT",
+        "asn": "50782",
+        "description": "COSYS DATA GmbH",
+        "handle": "COSYS"
+    },
+    "50876": {
+        "country_code": "AT",
+        "asn": "50876",
+        "description": "Kopernikus IT Systems GmbH",
+        "handle": "KOPERNIKUS-AS"
+    },
+    "50920": {
+        "country_code": "AT",
+        "asn": "50920",
+        "description": "Kabel Braunau GmbH",
+        "handle": "KABEL-BRAUNAU"
+    },
+    "50931": {
+        "country_code": "AT",
+        "asn": "50931",
+        "description": "Stadtgemeinde WEIZ",
+        "handle": "HAMET-AS"
+    },
+    "51066": {
+        "country_code": "AT",
+        "asn": "51066",
+        "description": "Austro Control Oesterreichische Gesellschaft fuer Zivilluftfahrt mit beschraenkter Haftung",
+        "handle": "AUSTROCONTROL-AS"
+    },
+    "51184": {
+        "country_code": "AT",
+        "asn": "51184",
+        "description": "Fonira Telekom GmbH",
+        "handle": "FONIRA"
+    },
+    "51187": {
+        "country_code": "AT",
+        "asn": "51187",
+        "description": "HABAU Hoch- und Tiefbau GmbH",
+        "handle": "HABAU-AS"
+    },
+    "51265": {
+        "country_code": "AT",
+        "asn": "51265",
+        "description": "Mass Response Service GmbH",
+        "handle": "MASSRESPONSE-AS"
+    },
+    "51266": {
+        "country_code": "AT",
+        "asn": "51266",
+        "description": "BRVZ Bau- Rechen- u. Verwaltungszentrum Gesellschaft m.b.H.",
+        "handle": "BRVZ-AS"
+    },
+    "51350": {
+        "country_code": "AT",
+        "asn": "51350",
+        "description": "Fachhochschule Technikum Wien",
+        "handle": "TECHNIKUM-WIEN-AS"
+    },
+    "51413": {
+        "country_code": "AT",
+        "asn": "51413",
+        "description": "Wirtschaftskammer Kaernten",
+        "handle": "WK-KAERNTEN"
+    },
+    "51453": {
+        "country_code": "AT",
+        "asn": "51453",
+        "description": "Anexia Cloud Solutions GmbH",
+        "handle": "EMERION-AS"
+    },
+    "51454": {
+        "country_code": "AT",
+        "asn": "51454",
+        "description": "CRIF GmbH",
+        "handle": "CRIF-AS"
+    },
+    "51560": {
+        "country_code": "AT",
+        "asn": "51560",
+        "description": "Greschitz Management GmbH",
+        "handle": "GRESCHITZ"
+    },
+    "51658": {
+        "country_code": "AT",
+        "asn": "51658",
+        "description": "lucesem technology GmbH",
+        "handle": "LUCESEM-AS"
+    },
+    "51767": {
+        "country_code": "AT",
+        "asn": "51767",
+        "description": "Johanniter-Unfall-Hilfe in Oesterreich",
+        "handle": "JOHANNITER-UNFALL-HILFE"
+    },
+    "51890": {
+        "country_code": "AT",
+        "asn": "51890",
+        "description": "MM Service GmbH",
+        "handle": "MAYR-MELNHOF"
+    },
+    "52111": {
+        "country_code": "AT",
+        "asn": "52111",
+        "description": "WPP Media Services GmbH",
+        "handle": "EPROJECTS-AS"
+    },
+    "52220": {
+        "country_code": "AT",
+        "asn": "52220",
+        "description": "BAWAG P.S.K. Bank fuer Arbeit und Wirtschaft und Oesterreichische Postsparkasse Aktiengesellschaft",
+        "handle": "BAWAG-AT-AS"
+    },
+    "56332": {
+        "country_code": "AT",
+        "asn": "56332",
+        "description": "NETPLANET GmbH",
+        "handle": "RMC"
+    },
+    "56424": {
+        "country_code": "AT",
+        "asn": "56424",
+        "description": "Tyrolit - Schleifmittelwerke Swarovski K.G.",
+        "handle": "TYROLIT-AT-AS"
+    },
+    "56471": {
+        "country_code": "AT",
+        "asn": "56471",
+        "description": "Fonira Telekom GmbH",
+        "handle": "ACW-AT"
+    },
+    "56612": {
+        "country_code": "AT",
+        "asn": "56612",
+        "description": "Hel-Wacht Holding GmbH",
+        "handle": "HELWACHT-AS"
+    },
+    "56672": {
+        "country_code": "AT",
+        "asn": "56672",
+        "description": "Energie AG Oberoesterreich Services und Digital Solutions GmbH",
+        "handle": "ENERGIEAG-AT-AS"
+    },
+    "56833": {
+        "country_code": "AT",
+        "asn": "56833",
+        "description": "mieX GmbH",
+        "handle": "MIEX-AS"
+    },
+    "56963": {
+        "country_code": "AT",
+        "asn": "56963",
+        "description": "Skidata GmbH",
+        "handle": "SKIDATA-AG-AS"
+    },
+    "57057": {
+        "country_code": "AT",
+        "asn": "57057",
+        "description": "AVALON Computersystem Ges.m.b.H.",
+        "handle": "AVALON-AS"
+    },
+    "57106": {
+        "country_code": "AT",
+        "asn": "57106",
+        "description": "ip-it consult GmbH",
+        "handle": "AAIX-AS"
+    },
+    "57159": {
+        "country_code": "AT",
+        "asn": "57159",
+        "description": "EVER Neuro Pharma GmbH",
+        "handle": "EVERNEURO-AS"
+    },
+    "57169": {
+        "country_code": "AT",
+        "asn": "57169",
+        "description": "EDIS GmbH",
+        "handle": "EDIS-AS-EU"
+    },
+    "57216": {
+        "country_code": "AT",
+        "asn": "57216",
+        "description": "Oesterreichisches Rotes Kreuz Landesverband Steiermark",
+        "handle": "ARC-STYRIA-AS"
+    },
+    "57470": {
+        "country_code": "AT",
+        "asn": "57470",
+        "description": "Erik Herburger",
+        "handle": "DRAGON"
+    },
+    "57738": {
+        "country_code": "AT",
+        "asn": "57738",
+        "description": "Fonira Telekom GmbH",
+        "handle": "FONIRA2-AS"
+    },
+    "57763": {
+        "country_code": "AT",
+        "asn": "57763",
+        "description": "SelfNet Internet Ges.m.b.H.",
+        "handle": "SELFNET-AS"
+    },
+    "57878": {
+        "country_code": "AT",
+        "asn": "57878",
+        "description": "Prager Connect GmbH",
+        "handle": "PRAGER-IT"
+    },
+    "58131": {
+        "country_code": "AT",
+        "asn": "58131",
+        "description": "Organization for Security and Co-operation in Europe",
+        "handle": "OSCE-AS"
+    },
+    "58160": {
+        "country_code": "AT",
+        "asn": "58160",
+        "description": "CSO.net Internet Services GmbH",
+        "handle": "CSONET"
+    },
+    "59456": {
+        "country_code": "AT",
+        "asn": "59456",
+        "description": "HMB Holding GmbH",
+        "handle": "CLOUDBROKERS-AS"
+    },
+    "59669": {
+        "country_code": "AT",
+        "asn": "59669",
+        "description": "TSG Tourismus Salzburg GmbH",
+        "handle": "TSG-AS"
+    },
+    "59774": {
+        "country_code": "AT",
+        "asn": "59774",
+        "description": "conova communications GmbH",
+        "handle": "CONOVA-AS2"
+    },
+    "59779": {
+        "country_code": "AT",
+        "asn": "59779",
+        "description": "IXOPAY GmbH",
+        "handle": "IXOLIT-AS"
+    },
+    "59789": {
+        "country_code": "AT",
+        "asn": "59789",
+        "description": "CISMO Clearing Integrated Services and Market Operations Gmb",
+        "handle": "ATCISMOGMBH"
+    },
+    "59858": {
+        "country_code": "AT",
+        "asn": "59858",
+        "description": "JM-DATA GmbH",
+        "handle": "JM-DATA-SB"
+    },
+    "59890": {
+        "country_code": "AT",
+        "asn": "59890",
+        "description": "Kabel-TV Lampert GmbH & Co KG",
+        "handle": "KABEL-TV-LAMPERT"
+    },
+    "59909": {
+        "country_code": "AT",
+        "asn": "59909",
+        "description": "Tele-Tec GmbH",
+        "handle": "TELE-TEC-AS"
+    },
+    "59972": {
+        "country_code": "AT",
+        "asn": "59972",
+        "description": "Red Bull Media House GmbH",
+        "handle": "REDBULLMEDIAHOUSE-AS"
+    },
+    "60274": {
+        "country_code": "AT",
+        "asn": "60274",
+        "description": "EDV Consulting Zoichter GmbH",
+        "handle": "ZCS"
+    },
+    "60368": {
+        "country_code": "AT",
+        "asn": "60368",
+        "description": "Greentube GmbH",
+        "handle": "GREENTUBE-AT"
+    },
+    "60416": {
+        "country_code": "AT",
+        "asn": "60416",
+        "description": "Bluefin Payment Systems Austria GmbH",
+        "handle": "TECSSK-AS"
+    },
+    "60517": {
+        "country_code": "AT",
+        "asn": "60517",
+        "description": "Noehmer Cablevision GmbH",
+        "handle": "AS-CABLEVISION"
+    },
+    "60520": {
+        "country_code": "AT",
+        "asn": "60520",
+        "description": "Allgemeine Unfallversicherungsanstalt",
+        "handle": "AUVA-AS"
+    },
+    "60521": {
+        "country_code": "AT",
+        "asn": "60521",
+        "description": "Superfund Asset Management GmbH",
+        "handle": "SUPERFUND-ASSET-MANAGEMENT-GMBH"
+    },
+    "60587": {
+        "country_code": "AT",
+        "asn": "60587",
+        "description": "XINON GmbH",
+        "handle": "XINON-CARRIER-AS"
+    },
+    "60742": {
+        "country_code": "AT",
+        "asn": "60742",
+        "description": "dawox GmbH",
+        "handle": "DAWOX"
+    },
+    "60823": {
+        "country_code": "AT",
+        "asn": "60823",
+        "description": "IForce IT GmbH",
+        "handle": "IFORCE"
+    },
+    "60951": {
+        "country_code": "AT",
+        "asn": "60951",
+        "description": "LINK Mobility Austria GmbH",
+        "handle": "SMS-AT"
+    },
+    "61022": {
+        "country_code": "AT",
+        "asn": "61022",
+        "description": "COSMO CONSULT SI GmbH",
+        "handle": "COSMO-CONSULT-AS"
+    },
+    "61051": {
+        "country_code": "AT",
+        "asn": "61051",
+        "description": "Ereele GmbH",
+        "handle": "EREELE"
+    },
+    "61075": {
+        "country_code": "AT",
+        "asn": "61075",
+        "description": "Rocket NG GmbH",
+        "handle": "ROCKETNG"
+    },
+    "61108": {
+        "country_code": "AT",
+        "asn": "61108",
+        "description": "eww ag",
+        "handle": "ITANDTEL-CLOUD-AS"
+    },
+    "61109": {
+        "country_code": "AT",
+        "asn": "61109",
+        "description": "Stadtgemeinde/Stadtwerke Imst",
+        "handle": "STWIMST"
+    },
+    "61155": {
+        "country_code": "AT",
+        "asn": "61155",
+        "description": "CUBiT IT Solutions GmbH",
+        "handle": "CUBIT-AS"
+    },
+    "61201": {
+        "country_code": "AT",
+        "asn": "61201",
+        "description": "Hohere technische Bundeslehranstalt Klagenfurt",
+        "handle": "HTBLA-KLU-AS"
+    },
+    "61260": {
+        "country_code": "AT",
+        "asn": "61260",
+        "description": "Costa Gesellschaft m.b.H. & Co. KG",
+        "handle": "COSTA-AS"
+    },
+    "61438": {
+        "country_code": "AT",
+        "asn": "61438",
+        "description": "ip-it consult GmbH",
+        "handle": "IP-IT-AS"
+    },
+    "61993": {
+        "country_code": "AT",
+        "asn": "61993",
+        "description": "Bluefin Payment Systems Austria GmbH",
+        "handle": "TECSAT-AS"
+    },
+    "62149": {
+        "country_code": "AT",
+        "asn": "62149",
+        "description": "Verein Kabel-TV Gerlos",
+        "handle": "KTVGERLOS-AS"
+    },
+    "62155": {
+        "country_code": "AT",
+        "asn": "62155",
+        "description": "oja.at GmbH",
+        "handle": "OJA-AS"
+    },
+    "62156": {
+        "country_code": "AT",
+        "asn": "62156",
+        "description": "HXS GmbH",
+        "handle": "HXS"
+    },
+    "62239": {
+        "country_code": "AT",
+        "asn": "62239",
+        "description": "Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH",
+        "handle": "PLAN-B"
+    },
+    "62276": {
+        "country_code": "AT",
+        "asn": "62276",
+        "description": "Michael Gottsberger",
+        "handle": "GOTTSBERGER-ITT-AS"
+    },
+    "62363": {
+        "country_code": "AT",
+        "asn": "62363",
+        "description": "Ertl & Gross GmbH & Co OG",
+        "handle": "EGW-AS"
+    },
+    "62373": {
+        "country_code": "AT",
+        "asn": "62373",
+        "description": "futurenet.gmbH",
+        "handle": "SINGERL-AS"
+    },
+    "62385": {
+        "country_code": "AT",
+        "asn": "62385",
+        "description": "Bertsch Holding GmbH",
+        "handle": "BERTSCH-AS"
+    },
+    "62391": {
+        "country_code": "AT",
+        "asn": "62391",
+        "description": "Comm-IT EDV DienstleistungsgmbH",
+        "handle": "COMM-IT"
+    },
+    "62451": {
+        "country_code": "AT",
+        "asn": "62451",
+        "description": "T-Mobile Austria GmbH",
+        "handle": "KABELSEEFELD-AS"
+    },
+    "64457": {
+        "country_code": "AT",
+        "asn": "64457",
+        "description": "Matteo Fruhwald trading as PipeHost e.U.",
+        "handle": "PIPEHOST-AS"
+    },
+    "148971": {
+        "country_code": "AT",
+        "asn": "148971",
+        "description": "Keibiin's Holdings Limited",
+        "handle": "KEIBIIN-AS-AP"
+    },
+    "196668": {
+        "country_code": "AT",
+        "asn": "196668",
+        "description": "LISEC Holding GmbH",
+        "handle": "CONDIG-LISEC"
+    },
+    "196817": {
+        "country_code": "AT",
+        "asn": "196817",
+        "description": "doppler E. Doppler & Co GmbH",
+        "handle": "DOPPLER"
+    },
+    "196897": {
+        "country_code": "AT",
+        "asn": "196897",
+        "description": "Horst Grottenthaler",
+        "handle": "ELGRGOING"
+    },
+    "196913": {
+        "country_code": "AT",
+        "asn": "196913",
+        "description": "AXIANS ICT Austria GmbH",
+        "handle": "AXIANS-ICT-AUSTRIA-AS"
+    },
+    "197047": {
+        "country_code": "AT",
+        "asn": "197047",
+        "description": "Hubert Maier trading as e-complete IT-Dienstleistungen",
+        "handle": "E-COMPLETE"
+    },
+    "197082": {
+        "country_code": "AT",
+        "asn": "197082",
+        "description": "Zuers.net Betriebs GmbH",
+        "handle": "ZUERS-AT-AS"
+    },
+    "197198": {
+        "country_code": "AT",
+        "asn": "197198",
+        "description": "VBG Immo GmbH",
+        "handle": "OFFSET-AT-AS"
+    },
+    "197458": {
+        "country_code": "AT",
+        "asn": "197458",
+        "description": "Organization of the Petroleum Exporting Countries",
+        "handle": "OPEC-AS"
+    },
+    "197471": {
+        "country_code": "AT",
+        "asn": "197471",
+        "description": "Mass Response Service GmbH",
+        "handle": "MASSRESPONSE-AS3"
+    },
+    "197634": {
+        "country_code": "AT",
+        "asn": "197634",
+        "description": "Alec Hoefler",
+        "handle": "ALECH"
+    },
+    "197636": {
+        "country_code": "AT",
+        "asn": "197636",
+        "description": "UniCredit Services GmbH",
+        "handle": "BAGIS-AS"
+    },
+    "197705": {
+        "country_code": "AT",
+        "asn": "197705",
+        "description": "Philipp Maringer",
+        "handle": "MARINGER-AS"
+    },
+    "197770": {
+        "country_code": "AT",
+        "asn": "197770",
+        "description": "comp.nets.go Gmbh",
+        "handle": "AKTIVONLINE-AS"
+    },
+    "197794": {
+        "country_code": "AT",
+        "asn": "197794",
+        "description": "peaknetworks Hosting GmbH",
+        "handle": "PEAKNETWORKS"
+    },
+    "197836": {
+        "country_code": "AT",
+        "asn": "197836",
+        "description": "Gas Connect Austria GmbH",
+        "handle": "OMV-GAS-AS"
+    },
+    "197917": {
+        "country_code": "AT",
+        "asn": "197917",
+        "description": "Elektrizitaetswerke Frastanz GmbH",
+        "handle": "EWF"
+    },
+    "197964": {
+        "country_code": "AT",
+        "asn": "197964",
+        "description": "Julius Blum GmbH",
+        "handle": "BLUMNET"
+    },
+    "197999": {
+        "country_code": "AT",
+        "asn": "197999",
+        "description": "Michael Gamsjaeger",
+        "handle": "KLARINET-AS"
+    },
+    "198211": {
+        "country_code": "AT",
+        "asn": "198211",
+        "description": "Martin Reinberger trading as FRITZ EGGER GmbH & Co. OG",
+        "handle": "EGGER-AS"
+    },
+    "198244": {
+        "country_code": "AT",
+        "asn": "198244",
+        "description": "Austrian Power Grid AG",
+        "handle": "APG-AS"
+    },
+    "198400": {
+        "country_code": "AT",
+        "asn": "198400",
+        "description": "IP Austria Communication GmbH",
+        "handle": "IP-AUSTRIA-COMMUNICATION-GMBH-AS"
+    },
+    "198439": {
+        "country_code": "AT",
+        "asn": "198439",
+        "description": "teampool personal service gmbh",
+        "handle": "TEAMPOOL-AS"
+    },
+    "198603": {
+        "country_code": "AT",
+        "asn": "198603",
+        "description": "Herbert Kaiser",
+        "handle": "SINOVATEC"
+    },
+    "198606": {
+        "country_code": "AT",
+        "asn": "198606",
+        "description": "AMST-Systemtechnik GmbH",
+        "handle": "AMST"
+    },
+    "198638": {
+        "country_code": "AT",
+        "asn": "198638",
+        "description": "Juergen Bachinger",
+        "handle": "FLEXBIT-AT-AS"
+    },
+    "198650": {
+        "country_code": "AT",
+        "asn": "198650",
+        "description": "APPLIED CHEMICALS Handels-GmbH",
+        "handle": "ACAT-AS"
+    },
+    "198656": {
+        "country_code": "AT",
+        "asn": "198656",
+        "description": "MUEHLBOECK Holztrocknungsanlagen GmbH",
+        "handle": "MUEHLBOECK-AT-AS"
+    },
+    "198694": {
+        "country_code": "AT",
+        "asn": "198694",
+        "description": "Datenstrom IT Dienstleistungen GmbH",
+        "handle": "DATENSTROM-AS"
+    },
+    "198917": {
+        "country_code": "AT",
+        "asn": "198917",
+        "description": "Flughafen Linz GesmbH",
+        "handle": "FLUGHAFEN-LINZ-GESMBH-AS"
+    },
+    "198950": {
+        "country_code": "AT",
+        "asn": "198950",
+        "description": "Telenet Systems GmbH",
+        "handle": "OAB-AF"
+    },
+    "199015": {
+        "country_code": "AT",
+        "asn": "199015",
+        "description": "Frequentis AG",
+        "handle": "FREQUENTIS-AS"
+    },
+    "199083": {
+        "country_code": "AT",
+        "asn": "199083",
+        "description": "Mediaprint Zeitungs- und Zeitschrifftenverlag Ges.m.b.H. & Co KG",
+        "handle": "MP-AS"
+    },
+    "199159": {
+        "country_code": "AT",
+        "asn": "199159",
+        "description": "Anexia Cloud Solutions GmbH",
+        "handle": "DATASIX"
+    },
+    "199205": {
+        "country_code": "AT",
+        "asn": "199205",
+        "description": "Huemer Data Center GmbH",
+        "handle": "HUEMER-AT"
+    },
+    "199216": {
+        "country_code": "AT",
+        "asn": "199216",
+        "description": "Compass-Verlag GmbH",
+        "handle": "COMPASS-AS"
+    },
+    "199217": {
+        "country_code": "AT",
+        "asn": "199217",
+        "description": "IKARUS Security Software GmbH",
+        "handle": "IKARUS-AS"
+    },
+    "199236": {
+        "country_code": "AT",
+        "asn": "199236",
+        "description": "EMARSYS eMarketing Systems GmbH",
+        "handle": "EMARSYS-AS"
+    },
+    "199372": {
+        "country_code": "AT",
+        "asn": "199372",
+        "description": "Hirschmann Automotive GmbH",
+        "handle": "HMA-AS"
+    },
+    "199437": {
+        "country_code": "AT",
+        "asn": "199437",
+        "description": "Verband der Versicherungsunternehmen Oesterreichs",
+        "handle": "VVO-AT"
+    },
+    "199560": {
+        "country_code": "AT",
+        "asn": "199560",
+        "description": "Niederoesterreichischer Landesfeuerwehrverband",
+        "handle": "NOE-LFWV-AS2"
+    },
+    "199570": {
+        "country_code": "AT",
+        "asn": "199570",
+        "description": "fluctus GmbH",
+        "handle": "FLUCTUS"
+    },
+    "199609": {
+        "country_code": "AT",
+        "asn": "199609",
+        "description": "Best Gaming Technology GmbH",
+        "handle": "BGT"
+    },
+    "199637": {
+        "country_code": "AT",
+        "asn": "199637",
+        "description": "spatially Computing Ecosystem GmbH",
+        "handle": "SPATIALLY"
+    },
+    "199824": {
+        "country_code": "AT",
+        "asn": "199824",
+        "description": "DaoPay GmbH",
+        "handle": "DAOPAY"
+    },
+    "199878": {
+        "country_code": "AT",
+        "asn": "199878",
+        "description": "LUKOIL Technology Services GmbH",
+        "handle": "CH01"
+    },
+    "199893": {
+        "country_code": "AT",
+        "asn": "199893",
+        "description": "Pensionsversicherungsanstalt",
+        "handle": "PVA-AS"
+    },
+    "199931": {
+        "country_code": "AT",
+        "asn": "199931",
+        "description": "Kommunalbetriebe Hopfgarten GmbH",
+        "handle": "ATKTVHOPFGARTEN"
+    },
+    "199994": {
+        "country_code": "AT",
+        "asn": "199994",
+        "description": "RUBICON IT GmbH",
+        "handle": "RUBICON-AS"
+    },
+    "200026": {
+        "country_code": "AT",
+        "asn": "200026",
+        "description": "Ortswaerme St. Johann in Tirol GmbH",
+        "handle": "SJON-AS"
+    },
+    "200098": {
+        "country_code": "AT",
+        "asn": "200098",
+        "description": "Harald Heinzel",
+        "handle": "NETRONICS-AS"
+    },
+    "200112": {
+        "country_code": "AT",
+        "asn": "200112",
+        "description": "DABIS GmbH",
+        "handle": "DABIS-AT-AS"
+    },
+    "200146": {
+        "country_code": "AT",
+        "asn": "200146",
+        "description": "IMA Schelling Austria GmbH",
+        "handle": "IMAGROUP"
+    },
+    "200247": {
+        "country_code": "AT",
+        "asn": "200247",
+        "description": "Laakirchen Papier AG",
+        "handle": "LAAKIRCHEN-PAPIER-AG"
+    },
+    "200273": {
+        "country_code": "AT",
+        "asn": "200273",
+        "description": "Lisa Lucia Kowalsky",
+        "handle": "KNET"
+    },
+    "200330": {
+        "country_code": "AT",
+        "asn": "200330",
+        "description": "Daniel Hofer",
+        "handle": "DHOFER"
+    },
+    "200383": {
+        "country_code": "AT",
+        "asn": "200383",
+        "description": "EPB IT Services GmbH",
+        "handle": "EPB"
+    },
+    "200384": {
+        "country_code": "AT",
+        "asn": "200384",
+        "description": "KELAG-Karntner Elektrizitats - Aktiengesellschaft",
+        "handle": "GSZ"
+    },
+    "200388": {
+        "country_code": "AT",
+        "asn": "200388",
+        "description": "Fonira Telekom GmbH",
+        "handle": "IWAF-AS"
+    },
+    "200501": {
+        "country_code": "AT",
+        "asn": "200501",
+        "description": "SIPit Kommunikationsmanagement GmbH",
+        "handle": "FOURTELECOM-AS"
+    },
+    "200580": {
+        "country_code": "AT",
+        "asn": "200580",
+        "description": "Netzweck GmbH",
+        "handle": "NETZWECK-AS"
+    },
+    "200683": {
+        "country_code": "AT",
+        "asn": "200683",
+        "description": "Elektro Puehringer GmbH",
+        "handle": "EP-PUEHRINGER"
+    },
+    "200724": {
+        "country_code": "AT",
+        "asn": "200724",
+        "description": "MTEL Austrija GmbH",
+        "handle": "MTEL-AT"
+    },
+    "200727": {
+        "country_code": "AT",
+        "asn": "200727",
+        "description": "Kommunalbetriebe Rinn GmbH",
+        "handle": "KBRINN"
+    },
+    "200798": {
+        "country_code": "AT",
+        "asn": "200798",
+        "description": "Niederoesterreichischer Landesfeuerwehrverband",
+        "handle": "NOE-LFWV-AS"
+    },
+    "200849": {
+        "country_code": "AT",
+        "asn": "200849",
+        "description": "Martin Fassl trading as fassma.net e.U.",
+        "handle": "FASSMA-NET-AS"
+    },
+    "200866": {
+        "country_code": "AT",
+        "asn": "200866",
+        "description": "DATAplexx IT- und Telekommunikationsloesungen GmbH",
+        "handle": "DATAPLEXX"
+    },
+    "200872": {
+        "country_code": "AT",
+        "asn": "200872",
+        "description": "SFS Group Austria GmbH",
+        "handle": "SFS-AT"
+    },
+    "200939": {
+        "country_code": "AT",
+        "asn": "200939",
+        "description": "LUKOIL Technology Services GmbH",
+        "handle": "LME-IRAQ"
+    },
+    "200970": {
+        "country_code": "AT",
+        "asn": "200970",
+        "description": "Riepert Informationstechnologie GmbH",
+        "handle": "RIEPERT"
+    },
+    "200986": {
+        "country_code": "AT",
+        "asn": "200986",
+        "description": "D Swarovski Tourism Service GmbH",
+        "handle": "SWAROVSKITOURISM-AS"
+    },
+    "201108": {
+        "country_code": "AT",
+        "asn": "201108",
+        "description": "OMICRON electronics GmbH",
+        "handle": "OMICRON-ATKLA"
+    },
+    "201110": {
+        "country_code": "AT",
+        "asn": "201110",
+        "description": "Andritz AG",
+        "handle": "AAG-TESTLABV2"
+    },
+    "201185": {
+        "country_code": "AT",
+        "asn": "201185",
+        "description": "CANCOM Austria AG",
+        "handle": "KBC-MESSEWIEN"
+    },
+    "201229": {
+        "country_code": "AT",
+        "asn": "201229",
+        "description": "Netcon IT Solutions GmbH",
+        "handle": "NETCON"
+    },
+    "201239": {
+        "country_code": "AT",
+        "asn": "201239",
+        "description": "Logifuture Austria GmbH",
+        "handle": "LOGISPIN-AS"
+    },
+    "201240": {
+        "country_code": "AT",
+        "asn": "201240",
+        "description": "Rocket NG GmbH",
+        "handle": "OPENIOT"
+    },
+    "201248": {
+        "country_code": "AT",
+        "asn": "201248",
+        "description": "SCC EDV-Beratung AG",
+        "handle": "SCC-AS"
+    },
+    "201347": {
+        "country_code": "AT",
+        "asn": "201347",
+        "description": "Wolford AG",
+        "handle": "WOLFORD-AG"
+    },
+    "201421": {
+        "country_code": "AT",
+        "asn": "201421",
+        "description": "Daniel Muehlbachler-Pietrzykowski",
+        "handle": "MA2010"
+    },
+    "201459": {
+        "country_code": "AT",
+        "asn": "201459",
+        "description": "Andrea Illsinger",
+        "handle": "CCC-AS"
+    },
+    "201461": {
+        "country_code": "AT",
+        "asn": "201461",
+        "description": "Entain Services Austria GmbH",
+        "handle": "BETANDWIN3-AS"
+    },
+    "201470": {
+        "country_code": "AT",
+        "asn": "201470",
+        "description": "HALLAG Kommunal GmbH",
+        "handle": "CITYNET-AT-2-AS"
+    },
+    "201535": {
+        "country_code": "AT",
+        "asn": "201535",
+        "description": "andom-tec GmbH",
+        "handle": "ANDOM-TEC"
+    },
+    "201585": {
+        "country_code": "AT",
+        "asn": "201585",
+        "description": "Tim Liebetrau",
+        "handle": "TL-SYSTEMS"
+    },
+    "201612": {
+        "country_code": "AT",
+        "asn": "201612",
+        "description": "nic.at GmbH",
+        "handle": "NICAT-MINICAST-AS"
+    },
+    "201686": {
+        "country_code": "AT",
+        "asn": "201686",
+        "description": "reithnet GmbH",
+        "handle": "REITHNET"
+    },
+    "201728": {
+        "country_code": "AT",
+        "asn": "201728",
+        "description": "druck.at Druck und Handelsgesellschaft mbH",
+        "handle": "DRUCK-AT-AS"
+    },
+    "201736": {
+        "country_code": "AT",
+        "asn": "201736",
+        "description": "Bachmann electronic GmbH",
+        "handle": "BACHMANN"
+    },
+    "201759": {
+        "country_code": "AT",
+        "asn": "201759",
+        "description": "Oesterreichisches Rotes Kreuz Landesverband Tirol",
+        "handle": "OERK-TIROL-AS"
+    },
+    "201951": {
+        "country_code": "AT",
+        "asn": "201951",
+        "description": "DIMOCO Europe GmbH",
+        "handle": "DIMOCO-AS"
+    },
+    "201981": {
+        "country_code": "AT",
+        "asn": "201981",
+        "description": "Meusburger Georg GmbH & Co KG",
+        "handle": "MEUSBURGERGEORGGMBH"
+    },
+    "202101": {
+        "country_code": "AT",
+        "asn": "202101",
+        "description": "MTH Retail Services (Austria) GmbH",
+        "handle": "MTH-AS"
+    },
+    "202259": {
+        "country_code": "AT",
+        "asn": "202259",
+        "description": "ISP4U GmbH",
+        "handle": "ISP4U"
+    },
+    "202286": {
+        "country_code": "AT",
+        "asn": "202286",
+        "description": "MM Service GmbH",
+        "handle": "MAYR-MELNHOF2"
+    },
+    "202453": {
+        "country_code": "AT",
+        "asn": "202453",
+        "description": "EREMA Group GmbH",
+        "handle": "EREMA"
+    },
+    "202516": {
+        "country_code": "AT",
+        "asn": "202516",
+        "description": "web-crossing GmbH",
+        "handle": "WEB-CROSSING"
+    },
+    "202549": {
+        "country_code": "AT",
+        "asn": "202549",
+        "description": "Sattler AG",
+        "handle": "SATTLER-8077-AT"
+    },
+    "202616": {
+        "country_code": "AT",
+        "asn": "202616",
+        "description": "Wien Energie GmbH",
+        "handle": "WE-FTTH-AS"
+    },
+    "202624": {
+        "country_code": "AT",
+        "asn": "202624",
+        "description": "Spar Business Services GmbH",
+        "handle": "ICS-WAN-AS"
+    },
+    "202664": {
+        "country_code": "AT",
+        "asn": "202664",
+        "description": "Jumper GmbH",
+        "handle": "JUMPER"
+    },
+    "202703": {
+        "country_code": "AT",
+        "asn": "202703",
+        "description": "net-sol GmbH",
+        "handle": "NET-SOL-AS"
+    },
+    "202718": {
+        "country_code": "AT",
+        "asn": "202718",
+        "description": "sigmavista it consulting gmbh",
+        "handle": "SIGMACLOUD"
+    },
+    "202742": {
+        "country_code": "AT",
+        "asn": "202742",
+        "description": "Tobias Gremmel",
+        "handle": "NETRAFFIC"
+    },
+    "202745": {
+        "country_code": "AT",
+        "asn": "202745",
+        "description": "LinkedIn Austria GmbH",
+        "handle": "LINKEDIN"
+    },
+    "202809": {
+        "country_code": "AT",
+        "asn": "202809",
+        "description": "John Issa Erivona trading as Intigrad Technologies",
+        "handle": "INTIGRAD-TECHNOLOGIES"
+    },
+    "202846": {
+        "country_code": "AT",
+        "asn": "202846",
+        "description": "RKG Installationssysteme GmbH",
+        "handle": "RKGIS-MNT"
+    },
+    "202856": {
+        "country_code": "AT",
+        "asn": "202856",
+        "description": "BENE GmbH",
+        "handle": "BENE-AT"
+    },
+    "202887": {
+        "country_code": "AT",
+        "asn": "202887",
+        "description": "Bajaj Mobility AG",
+        "handle": "KTM-AS"
+    },
+    "202928": {
+        "country_code": "AT",
+        "asn": "202928",
+        "description": "Armin Fisslthaler",
+        "handle": "Z-IX-AS"
+    },
+    "203358": {
+        "country_code": "AT",
+        "asn": "203358",
+        "description": "Guenther Stueckler",
+        "handle": "INCOS-STUECKLER"
+    },
+    "203467": {
+        "country_code": "AT",
+        "asn": "203467",
+        "description": "Best in Parking AG",
+        "handle": "BIP-AG"
+    },
+    "203518": {
+        "country_code": "AT",
+        "asn": "203518",
+        "description": "Kabel-TV Ternberg BetriebsGmbH",
+        "handle": "KTV-TERNBERG-1"
+    },
+    "203541": {
+        "country_code": "AT",
+        "asn": "203541",
+        "description": "Kabelfernsehen Pillersee GmbH",
+        "handle": "ATKTVPILLERSEE"
+    },
+    "203717": {
+        "country_code": "AT",
+        "asn": "203717",
+        "description": "dvo Software Entwicklungs- und Vertriebs- GmbH",
+        "handle": "DVO"
+    },
+    "203768": {
+        "country_code": "AT",
+        "asn": "203768",
+        "description": "Energie-Control Austria fuer die Regulierung der Elektrizitaets- Gas-und Wasserstoffwirtschaft (E-Control)",
+        "handle": "E-CONTROL"
+    },
+    "203813": {
+        "country_code": "AT",
+        "asn": "203813",
+        "description": "Spar Business Services GmbH",
+        "handle": "ICS-AS"
+    },
+    "204081": {
+        "country_code": "AT",
+        "asn": "204081",
+        "description": "IMENDO GmbH",
+        "handle": "IMENDO"
+    },
+    "204099": {
+        "country_code": "AT",
+        "asn": "204099",
+        "description": "i4a GmbH",
+        "handle": "I4A"
+    },
+    "204136": {
+        "country_code": "AT",
+        "asn": "204136",
+        "description": "Kevin Holly",
+        "handle": "SILENT-GHOST-AS"
+    },
+    "204162": {
+        "country_code": "AT",
+        "asn": "204162",
+        "description": "CTS GMBH",
+        "handle": "CTS-AS"
+    },
+    "204359": {
+        "country_code": "AT",
+        "asn": "204359",
+        "description": "Meinl Internet Commerce GmbH",
+        "handle": "ASMEINL"
+    },
+    "204410": {
+        "country_code": "AT",
+        "asn": "204410",
+        "description": "Feistritzwerke-STEWEAG GmbH",
+        "handle": "FEISTRITZWERKE-STEWEAG"
+    },
+    "204419": {
+        "country_code": "AT",
+        "asn": "204419",
+        "description": "ITNS GmbH",
+        "handle": "ITNS"
+    },
+    "204441": {
+        "country_code": "AT",
+        "asn": "204441",
+        "description": "Getzner Textil Aktiengesellschaft",
+        "handle": "GETZNER-AS"
+    },
+    "204560": {
+        "country_code": "AT",
+        "asn": "204560",
+        "description": "Lenzeder Gesellschaft m.b.H & Co KG",
+        "handle": "LENZEDER-AS"
+    },
+    "204577": {
+        "country_code": "AT",
+        "asn": "204577",
+        "description": "LinzNet Internet Service Provider GmbH",
+        "handle": "LINZNET-GER-AS"
+    },
+    "204659": {
+        "country_code": "AT",
+        "asn": "204659",
+        "description": "Antares-NetlogiX Netzwerkberatung GmbH",
+        "handle": "ANLX-AS"
+    },
+    "204852": {
+        "country_code": "AT",
+        "asn": "204852",
+        "description": "Niederoesterreichische Versicherung AG",
+        "handle": "NV-AT"
+    },
+    "204862": {
+        "country_code": "AT",
+        "asn": "204862",
+        "description": "Sekretariat der Oesterreichischen Bischofskonferenz",
+        "handle": "ATBIKO-AS"
+    },
+    "204944": {
+        "country_code": "AT",
+        "asn": "204944",
+        "description": "Lukas Winter",
+        "handle": "LUKNET"
+    },
+    "205003": {
+        "country_code": "AT",
+        "asn": "205003",
+        "description": "Holter Verwaltungs GmbH",
+        "handle": "HOLTER-AS"
+    },
+    "205108": {
+        "country_code": "AT",
+        "asn": "205108",
+        "description": "Matthias Dirlinger",
+        "handle": "DIRLINGER-AS"
+    },
+    "205163": {
+        "country_code": "AT",
+        "asn": "205163",
+        "description": "Sergey Proshutinskiy",
+        "handle": "OCTIGNITE"
+    },
+    "205202": {
+        "country_code": "AT",
+        "asn": "205202",
+        "description": "Cloudflight Austria GmbH",
+        "handle": "CLOUDFLIGHT"
+    },
+    "205243": {
+        "country_code": "AT",
+        "asn": "205243",
+        "description": "CloudNow GmbH",
+        "handle": "CLOUDNOW-AS"
+    },
+    "205269": {
+        "country_code": "AT",
+        "asn": "205269",
+        "description": "Hermann Pfanner Getraenke GmbH",
+        "handle": "PFANNER"
+    },
+    "205302": {
+        "country_code": "AT",
+        "asn": "205302",
+        "description": "Plasser und Theurer Export von Bahnbaumaschinen Gesellschaft m.b.H.",
+        "handle": "PLASSER-NET"
+    },
+    "205314": {
+        "country_code": "AT",
+        "asn": "205314",
+        "description": "TGW Holding GmbH",
+        "handle": "TGW-AS"
+    },
+    "205478": {
+        "country_code": "AT",
+        "asn": "205478",
+        "description": "Best Gaming Technology GmbH",
+        "handle": "BGTAT-AS"
+    },
+    "205584": {
+        "country_code": "AT",
+        "asn": "205584",
+        "description": "CASHPOINT Solutions GmbH",
+        "handle": "CASHPOINT-AS"
+    },
+    "205600": {
+        "country_code": "AT",
+        "asn": "205600",
+        "description": "ArgoNET GmbH",
+        "handle": "ARGONET-AS"
+    },
+    "205629": {
+        "country_code": "AT",
+        "asn": "205629",
+        "description": "AMA netwoRX GmbH",
+        "handle": "AMANETWORX"
+    },
+    "205687": {
+        "country_code": "AT",
+        "asn": "205687",
+        "description": "HiERO GmbH",
+        "handle": "HIERO-AS"
+    },
+    "205728": {
+        "country_code": "AT",
+        "asn": "205728",
+        "description": "AVAFIN IT GmbH",
+        "handle": "AT-CF-IT"
+    },
+    "205752": {
+        "country_code": "AT",
+        "asn": "205752",
+        "description": "Kontron AG",
+        "handle": "SNTAG"
+    },
+    "205777": {
+        "country_code": "AT",
+        "asn": "205777",
+        "description": "Moritz Fuessel",
+        "handle": "MORITZ-FUESSEL"
+    },
+    "205803": {
+        "country_code": "AT",
+        "asn": "205803",
+        "description": "Eurofunk Kappacher GmbH",
+        "handle": "EUROFUNK"
+    },
+    "205902": {
+        "country_code": "AT",
+        "asn": "205902",
+        "description": "Alu Koenig Stahl GmbH",
+        "handle": "ALUKOENIG"
+    },
+    "205903": {
+        "country_code": "AT",
+        "asn": "205903",
+        "description": "Bank Gutmann Aktiengesellschaft",
+        "handle": "BANK-GUTMANN-AT"
+    },
+    "205989": {
+        "country_code": "AT",
+        "asn": "205989",
+        "description": "relaxt Webdienstleistungsagentur GmbH",
+        "handle": "RELAXT"
+    },
+    "206021": {
+        "country_code": "AT",
+        "asn": "206021",
+        "description": "Wirtschaftskammer Steiermark",
+        "handle": "WKSTMK"
+    },
+    "206031": {
+        "country_code": "AT",
+        "asn": "206031",
+        "description": "KNAPP Systemintegration GmbH",
+        "handle": "KSI-AS"
+    },
+    "206055": {
+        "country_code": "AT",
+        "asn": "206055",
+        "description": "Specure GmbH",
+        "handle": "SPECURE"
+    },
+    "206091": {
+        "country_code": "AT",
+        "asn": "206091",
+        "description": "Planet Digital Lichtwellenleiternetz Errichtungs- und Betrieb GmbH & Co KG",
+        "handle": "PLANET-DIGITAL"
+    },
+    "206113": {
+        "country_code": "AT",
+        "asn": "206113",
+        "description": "HALLAG Kommunal GmbH",
+        "handle": "TIROL-IX-RS"
+    },
+    "206128": {
+        "country_code": "AT",
+        "asn": "206128",
+        "description": "Dioezese Linz - Katholische Kirche in Oberoesterreich",
+        "handle": "DIOEZESANE-IT"
+    },
+    "206148": {
+        "country_code": "AT",
+        "asn": "206148",
+        "description": "Neuhofer Holz GmbH",
+        "handle": "FNPROFILE-AS"
+    },
+    "206228": {
+        "country_code": "AT",
+        "asn": "206228",
+        "description": "Andritz AG",
+        "handle": "ANDRITZ01"
+    },
+    "206298": {
+        "country_code": "AT",
+        "asn": "206298",
+        "description": "RKM Regional Kabel TV Moelltal und Telekommunikation GmbH",
+        "handle": "RKM-AS"
+    },
+    "206322": {
+        "country_code": "AT",
+        "asn": "206322",
+        "description": "Oesterreichische Post AG",
+        "handle": "AT-POST"
+    },
+    "206353": {
+        "country_code": "AT",
+        "asn": "206353",
+        "description": "Bundesamt fur Eich und Vermessungswesen",
+        "handle": "BEV-AS"
+    },
+    "206571": {
+        "country_code": "AT",
+        "asn": "206571",
+        "description": "Land Burgenland",
+        "handle": "LSZB"
+    },
+    "206672": {
+        "country_code": "AT",
+        "asn": "206672",
+        "description": "Logifuture Austria GmbH",
+        "handle": "LOGISPIN-AS"
+    },
+    "206734": {
+        "country_code": "AT",
+        "asn": "206734",
+        "description": "Sebastian Buchmann",
+        "handle": "CLOUDPROVIDE"
+    },
+    "206765": {
+        "country_code": "AT",
+        "asn": "206765",
+        "description": "ByteSource Technology Consulting GmbH",
+        "handle": "BYTESOURCE-AS"
+    },
+    "206876": {
+        "country_code": "AT",
+        "asn": "206876",
+        "description": "MeinSystem GmbH",
+        "handle": "MEINSYSTEM-AS"
+    },
+    "207011": {
+        "country_code": "AT",
+        "asn": "207011",
+        "description": "ICS Information Systems GesmbH",
+        "handle": "ICS-NET"
+    },
+    "207021": {
+        "country_code": "AT",
+        "asn": "207021",
+        "description": "ipcom GmbH",
+        "handle": "RCODEZERO-ANYCAST-SEC2"
+    },
+    "207131": {
+        "country_code": "AT",
+        "asn": "207131",
+        "description": "Stadtgemeinde Leoben",
+        "handle": "LEOBEN-AS"
+    },
+    "207171": {
+        "country_code": "AT",
+        "asn": "207171",
+        "description": "Acredia Versicherung AG",
+        "handle": "ACREDIA-AS"
+    },
+    "207201": {
+        "country_code": "AT",
+        "asn": "207201",
+        "description": "Normann Engineering GmbH",
+        "handle": "NORMANN"
+    },
+    "207203": {
+        "country_code": "AT",
+        "asn": "207203",
+        "description": "TIMEWARP IT Consulting GmbH",
+        "handle": "TIMEWARP-AS"
+    },
+    "207212": {
+        "country_code": "AT",
+        "asn": "207212",
+        "description": "KSW Elektro und Industrieanlagenbau GmbH",
+        "handle": "KSWELKTRO"
+    },
+    "207219": {
+        "country_code": "AT",
+        "asn": "207219",
+        "description": "Staedtische Betriebe Rottenmann GmbH",
+        "handle": "ROTTENMANN"
+    },
+    "207274": {
+        "country_code": "AT",
+        "asn": "207274",
+        "description": "Epsilon Commodity Trading GmbH",
+        "handle": "ECTRADING-AS"
+    },
+    "207426": {
+        "country_code": "AT",
+        "asn": "207426",
+        "description": "GSS Media Services GmbH",
+        "handle": "GSS"
+    },
+    "207458": {
+        "country_code": "AT",
+        "asn": "207458",
+        "description": "yuutel GmbH",
+        "handle": "YUUTEL"
+    },
+    "207528": {
+        "country_code": "AT",
+        "asn": "207528",
+        "description": "FAS Vermietungs- und Beteiligungs-GmbH",
+        "handle": "ASFASNET"
+    },
+    "207637": {
+        "country_code": "AT",
+        "asn": "207637",
+        "description": "Palmers Textil Aktiengesellschaft",
+        "handle": "PALMERS"
+    },
+    "207653": {
+        "country_code": "AT",
+        "asn": "207653",
+        "description": "Rechnungshof Oesterreich",
+        "handle": "RHOE-GOVIX"
+    },
+    "207760": {
+        "country_code": "AT",
+        "asn": "207760",
+        "description": "Mag. phil. Lorenz Intichar",
+        "handle": "AS-INTICHAR"
+    },
+    "207773": {
+        "country_code": "AT",
+        "asn": "207773",
+        "description": "Heptabit GmbH",
+        "handle": "HEPTABIT-AS"
+    },
+    "207791": {
+        "country_code": "AT",
+        "asn": "207791",
+        "description": "NTB SOLUTIONS GmbH",
+        "handle": "NTBS-AS"
+    },
+    "207828": {
+        "country_code": "AT",
+        "asn": "207828",
+        "description": "Datenzuhause GmbH",
+        "handle": "DATENZUHAUSE"
+    },
+    "207868": {
+        "country_code": "AT",
+        "asn": "207868",
+        "description": "Hennlich GmbH & Co KG",
+        "handle": "HENNLICH"
+    },
+    "207869": {
+        "country_code": "AT",
+        "asn": "207869",
+        "description": "GANZRUND Informatik GmbH",
+        "handle": "GANZRUND-AT-AS"
+    },
+    "207929": {
+        "country_code": "AT",
+        "asn": "207929",
+        "description": "IP Austria Communication GmbH",
+        "handle": "IPA-AT-AS"
+    },
+    "207962": {
+        "country_code": "AT",
+        "asn": "207962",
+        "description": "Kroell Bernhard",
+        "handle": "AS5586"
+    },
+    "208024": {
+        "country_code": "AT",
+        "asn": "208024",
+        "description": "Ronald Agorsah trading as Alpenhost e.U.",
+        "handle": "ALPENHOST"
+    },
+    "208082": {
+        "country_code": "AT",
+        "asn": "208082",
+        "description": "Gantner Electronic GmbH",
+        "handle": "GANTNER"
+    },
+    "208094": {
+        "country_code": "AT",
+        "asn": "208094",
+        "description": "Christoph Scherer trading as EDV-SCHERER",
+        "handle": "EDV-SCHERER"
+    },
+    "208245": {
+        "country_code": "AT",
+        "asn": "208245",
+        "description": "Bechtle Austria GmbH",
+        "handle": "BECHTLE-AT"
+    },
+    "208255": {
+        "country_code": "AT",
+        "asn": "208255",
+        "description": "Streams Telecommunicationsservices GmbH",
+        "handle": "STREAMS-GMBH"
+    },
+    "208315": {
+        "country_code": "AT",
+        "asn": "208315",
+        "description": "Frauscher Sensor Technology Group GmbH",
+        "handle": "FRAUSCHER"
+    },
+    "208323": {
+        "country_code": "AT",
+        "asn": "208323",
+        "description": "Foundation for Applied Privacy",
+        "handle": "APPLIEDPRIVACY-AS"
+    },
+    "208350": {
+        "country_code": "AT",
+        "asn": "208350",
+        "description": "Gamsjaeger Kabel-TV & ISP Betriebs GmbH",
+        "handle": "GAMSJAEGER-WIEN"
+    },
+    "208375": {
+        "country_code": "AT",
+        "asn": "208375",
+        "description": "Landeshauptstadt Klagenfurt am Woerthersee",
+        "handle": "LANDESHAUPTSTADT-KLAGENFURT"
+    },
+    "208419": {
+        "country_code": "AT",
+        "asn": "208419",
+        "description": "E+H Rechtsanwaelte GmbH",
+        "handle": "EISENBERGER"
+    },
+    "208441": {
+        "country_code": "AT",
+        "asn": "208441",
+        "description": "Amt der Salzburger Landesregierung",
+        "handle": "LAND-SALZBURG-AS"
+    },
+    "208645": {
+        "country_code": "AT",
+        "asn": "208645",
+        "description": "LOOP21 Mobile Net GmbH",
+        "handle": "LOOP21"
+    },
+    "208689": {
+        "country_code": "AT",
+        "asn": "208689",
+        "description": "helloly GmbH",
+        "handle": "HELLOLY"
+    },
+    "208718": {
+        "country_code": "AT",
+        "asn": "208718",
+        "description": "Harald Leithner",
+        "handle": "ITRONIC"
+    },
+    "208740": {
+        "country_code": "AT",
+        "asn": "208740",
+        "description": "Bundesministerium fuer europaeische und internationale Angelegenheiten",
+        "handle": "AT-BMEIA"
+    },
+    "208778": {
+        "country_code": "AT",
+        "asn": "208778",
+        "description": "ELIN GmbH",
+        "handle": "ASELIN"
+    },
+    "208794": {
+        "country_code": "AT",
+        "asn": "208794",
+        "description": "Wolfgang Michael Brandstaetter",
+        "handle": "BRANDST-AS"
+    },
+    "208857": {
+        "country_code": "AT",
+        "asn": "208857",
+        "description": "LUWY TV-IT GmbH & Co KG",
+        "handle": "LUWY-TVIT"
+    },
+    "209021": {
+        "country_code": "AT",
+        "asn": "209021",
+        "description": "PBS-Logitek Dienstleistungen GmbH",
+        "handle": "PBS-AS"
+    },
+    "209050": {
+        "country_code": "AT",
+        "asn": "209050",
+        "description": "Digimagical GmbH",
+        "handle": "DIGIMAGICAL"
+    },
+    "209126": {
+        "country_code": "AT",
+        "asn": "209126",
+        "description": "COM-sulting Dienstleistungs - und Handels GmbH",
+        "handle": "COMS-AT-AS"
+    },
+    "209129": {
+        "country_code": "AT",
+        "asn": "209129",
+        "description": "transist.or Verein zur Foerderung der Schnittflaechen von Kunst Kultur und freier Software",
+        "handle": "TRANSIST-OR"
+    },
+    "209144": {
+        "country_code": "AT",
+        "asn": "209144",
+        "description": "Zellstoff Poels AG",
+        "handle": "POELS-NET"
+    },
+    "209463": {
+        "country_code": "AT",
+        "asn": "209463",
+        "description": "Spar Business Services GmbH",
+        "handle": "SPARCRO-AS"
+    },
+    "209488": {
+        "country_code": "AT",
+        "asn": "209488",
+        "description": "Netz Niederoesterreich GmbH",
+        "handle": "EVN-AS"
+    },
+    "209571": {
+        "country_code": "AT",
+        "asn": "209571",
+        "description": "UBIMET GmbH",
+        "handle": "UBIMET"
+    },
+    "209575": {
+        "country_code": "AT",
+        "asn": "209575",
+        "description": "Immofinanz AG",
+        "handle": "IMMOFINANZAG-AS"
+    },
+    "209637": {
+        "country_code": "AT",
+        "asn": "209637",
+        "description": "vnet-services GmbH",
+        "handle": "VNET-AS"
+    },
+    "209812": {
+        "country_code": "AT",
+        "asn": "209812",
+        "description": "Spar Business Services GmbH",
+        "handle": "DESPAR-AS"
+    },
+    "209934": {
+        "country_code": "AT",
+        "asn": "209934",
+        "description": "WIERER GmbH & Co KG",
+        "handle": "ZLINE"
+    },
+    "210077": {
+        "country_code": "AT",
+        "asn": "210077",
+        "description": "Treibacher Industrie AG",
+        "handle": "TREIBACHER-AT"
+    },
+    "210184": {
+        "country_code": "AT",
+        "asn": "210184",
+        "description": "Stadlmann GmbH",
+        "handle": "STADLMANN-IT"
+    },
+    "210237": {
+        "country_code": "AT",
+        "asn": "210237",
+        "description": "WIENER LINIEN GmbH & Co KG",
+        "handle": "WIENERLINIEN"
+    },
+    "210243": {
+        "country_code": "AT",
+        "asn": "210243",
+        "description": "PXP Accept GmbH",
+        "handle": "PXP-PD-AS"
+    },
+    "210295": {
+        "country_code": "AT",
+        "asn": "210295",
+        "description": "Helmut Matlschweiger",
+        "handle": "ATMATLSCHWEIGER"
+    },
+    "210341": {
+        "country_code": "AT",
+        "asn": "210341",
+        "description": "Alpla Werke Alwin Lehner GmbH & Co KG",
+        "handle": "ALPLA-WERKE"
+    },
+    "210393": {
+        "country_code": "AT",
+        "asn": "210393",
+        "description": "EV Group GmbH",
+        "handle": "EVGROUP-AS"
+    },
+    "210543": {
+        "country_code": "AT",
+        "asn": "210543",
+        "description": "Steiermaerkische Krankenanstaltengesellschaft mbH",
+        "handle": "KAGES"
+    },
+    "210590": {
+        "country_code": "AT",
+        "asn": "210590",
+        "description": "Smolka GmbH",
+        "handle": "SMOLKA"
+    },
+    "210623": {
+        "country_code": "AT",
+        "asn": "210623",
+        "description": "Nikolaus Hammler",
+        "handle": "NOBAQ"
+    },
+    "210626": {
+        "country_code": "AT",
+        "asn": "210626",
+        "description": "Lipicer KG",
+        "handle": "LIPICER-AS"
+    },
+    "210635": {
+        "country_code": "AT",
+        "asn": "210635",
+        "description": "GRASS GmbH",
+        "handle": "GRASSIT"
+    },
+    "210639": {
+        "country_code": "AT",
+        "asn": "210639",
+        "description": "Christoph Christ",
+        "handle": "CHCNETAT"
+    },
+    "210750": {
+        "country_code": "AT",
+        "asn": "210750",
+        "description": "KWB Energiesysteme GmbH",
+        "handle": "KWB"
+    },
+    "210758": {
+        "country_code": "AT",
+        "asn": "210758",
+        "description": "Florian Stroeger",
+        "handle": "PREISSCHILDHOMELAB"
+    },
+    "210775": {
+        "country_code": "AT",
+        "asn": "210775",
+        "description": "Niceshops GmbH",
+        "handle": "NICESHOPS"
+    },
+    "210777": {
+        "country_code": "AT",
+        "asn": "210777",
+        "description": "go-e GmbH",
+        "handle": "GOE-AS"
+    },
+    "210782": {
+        "country_code": "AT",
+        "asn": "210782",
+        "description": "Evolus IT Solutions GmbH",
+        "handle": "EVOLUS-FIBRE"
+    },
+    "210783": {
+        "country_code": "AT",
+        "asn": "210783",
+        "description": "Wiener Borse AG",
+        "handle": "WBAG"
+    },
+    "210825": {
+        "country_code": "AT",
+        "asn": "210825",
+        "description": "Sebastian Pfeifer",
+        "handle": "TEIGTASCHERLFABRIK"
+    },
+    "210863": {
+        "country_code": "AT",
+        "asn": "210863",
+        "description": "Velartis GmbH",
+        "handle": "VELARTIS"
+    },
+    "210918": {
+        "country_code": "AT",
+        "asn": "210918",
+        "description": "Patrik Kernstock",
+        "handle": "KERNSTOCK"
+    },
+    "210947": {
+        "country_code": "AT",
+        "asn": "210947",
+        "description": "ZugspitzNet GmbH",
+        "handle": "ZUGSPITZNET-AS"
+    },
+    "210973": {
+        "country_code": "AT",
+        "asn": "210973",
+        "description": "DATAMATIX Datensysteme GmbH",
+        "handle": "DATAMATIX-AS"
+    },
+    "210982": {
+        "country_code": "AT",
+        "asn": "210982",
+        "description": "aRanger GmbH",
+        "handle": "ARANGER"
+    },
+    "211060": {
+        "country_code": "AT",
+        "asn": "211060",
+        "description": "Verkehrsverbund Ost-Region (VOR) Gesellschaft m.b.H.",
+        "handle": "VERKEHRSVERBUND-OST-REGION"
+    },
+    "211066": {
+        "country_code": "AT",
+        "asn": "211066",
+        "description": "Simon Mariacher",
+        "handle": "RYZEHOSTING-TRADING"
+    },
+    "211071": {
+        "country_code": "AT",
+        "asn": "211071",
+        "description": "baha GmbH",
+        "handle": "BAHA-AS"
+    },
+    "211099": {
+        "country_code": "AT",
+        "asn": "211099",
+        "description": "Raiffeisen Informatik GmbH & Co KG",
+        "handle": "MDRI-AS"
+    },
+    "211151": {
+        "country_code": "AT",
+        "asn": "211151",
+        "description": "Markus Strauss",
+        "handle": "STRAUSS-AS"
+    },
+    "211196": {
+        "country_code": "AT",
+        "asn": "211196",
+        "description": "Mtel Austria GmbH",
+        "handle": "MTEL-AS"
+    },
+    "211283": {
+        "country_code": "AT",
+        "asn": "211283",
+        "description": "Genius IT GmbH",
+        "handle": "GENIUSIT"
+    },
+    "211351": {
+        "country_code": "AT",
+        "asn": "211351",
+        "description": "Deutsche Telekom Global Business Solutions GmbH",
+        "handle": "DTGBS2-AT"
+    },
+    "211410": {
+        "country_code": "AT",
+        "asn": "211410",
+        "description": "Brandstetter Kabelmedien GmbH",
+        "handle": "WEBSPEED"
+    },
+    "211461": {
+        "country_code": "AT",
+        "asn": "211461",
+        "description": "RTM Business IT GmbH",
+        "handle": "RTMBUSINESSIT"
+    },
+    "211478": {
+        "country_code": "AT",
+        "asn": "211478",
+        "description": "Schneeberger GmbH",
+        "handle": "SCHNEEBERGER"
+    },
+    "211510": {
+        "country_code": "AT",
+        "asn": "211510",
+        "description": "Roman Franz Dissauer trading as RDI Solutions e.U.",
+        "handle": "RDI-AT"
+    },
+    "211582": {
+        "country_code": "AT",
+        "asn": "211582",
+        "description": "ecomDATA GmbH",
+        "handle": "ECOMDATA-AS"
+    },
+    "211629": {
+        "country_code": "AT",
+        "asn": "211629",
+        "description": "WOB Beteiligungs Gmbh",
+        "handle": "WOB-AS"
+    },
+    "211666": {
+        "country_code": "AT",
+        "asn": "211666",
+        "description": "ebswien klaeranlage & tierservice Ges.m.b.H",
+        "handle": "EBSWIEN-AS"
+    },
+    "211763": {
+        "country_code": "AT",
+        "asn": "211763",
+        "description": "CPS - IT GmbH",
+        "handle": "CPS-IT"
+    },
+    "211817": {
+        "country_code": "AT",
+        "asn": "211817",
+        "description": "Wirtschafts- und Sozialwissenschaftliches Rechenzentrum",
+        "handle": "WSR"
+    },
+    "211864": {
+        "country_code": "AT",
+        "asn": "211864",
+        "description": "Nessus GmbH",
+        "handle": "NESSUS-RESIDENTIAL"
+    },
+    "211870": {
+        "country_code": "AT",
+        "asn": "211870",
+        "description": "Nikolaus Walther",
+        "handle": "WALTHER-IT"
+    },
+    "211984": {
+        "country_code": "AT",
+        "asn": "211984",
+        "description": "Steinbach international GmbH",
+        "handle": "STEINBACH-AS"
+    },
+    "212000": {
+        "country_code": "AT",
+        "asn": "212000",
+        "description": "Zeljko Rosic trading as 1337 Hosting Solutions e.U.",
+        "handle": "AS-1337HS"
+    },
+    "212111": {
+        "country_code": "AT",
+        "asn": "212111",
+        "description": "Ing. Siegfried Gernot Mayr",
+        "handle": "ALMNET-AS"
+    },
+    "212131": {
+        "country_code": "AT",
+        "asn": "212131",
+        "description": "PSMEDIA LTD&CoKG",
+        "handle": "ASPSMEDIA"
+    },
+    "212379": {
+        "country_code": "AT",
+        "asn": "212379",
+        "description": "Crefo Technology GmbH",
+        "handle": "CREFONET"
+    },
+    "212640": {
+        "country_code": "AT",
+        "asn": "212640",
+        "description": "neo-it GmbH",
+        "handle": "NEO-IT-AS"
+    },
+    "212682": {
+        "country_code": "AT",
+        "asn": "212682",
+        "description": "Pankl Racing Systems AG",
+        "handle": "PANKL-AS"
+    },
+    "212702": {
+        "country_code": "AT",
+        "asn": "212702",
+        "description": "Austria Metall GmbH",
+        "handle": "AMAG-AS"
+    },
+    "212704": {
+        "country_code": "AT",
+        "asn": "212704",
+        "description": "Daniel Groeber",
+        "handle": "AS-DXLD"
+    },
+    "212774": {
+        "country_code": "AT",
+        "asn": "212774",
+        "description": "Meinl Internet Commerce GmbH",
+        "handle": "ASMEINL"
+    },
+    "212796": {
+        "country_code": "AT",
+        "asn": "212796",
+        "description": "SmartFiber GmbH",
+        "handle": "SMARTFIBER-AS"
+    },
+    "212813": {
+        "country_code": "AT",
+        "asn": "212813",
+        "description": "Lindner-Recyclingtech GmbH",
+        "handle": "LINDNER"
+    },
+    "212828": {
+        "country_code": "AT",
+        "asn": "212828",
+        "description": "Tom Hatzer trading as twopeaks digital e.U.",
+        "handle": "TWOPEAKS"
+    },
+    "212874": {
+        "country_code": "AT",
+        "asn": "212874",
+        "description": "Streamdiver FlexCo",
+        "handle": "STREAMDIVER-AS"
+    },
+    "212901": {
+        "country_code": "AT",
+        "asn": "212901",
+        "description": "KELAG-Karntner Elektrizitats - Aktiengesellschaft",
+        "handle": "KELAG-KNG"
+    },
+    "212950": {
+        "country_code": "AT",
+        "asn": "212950",
+        "description": "digitalnova GmbH",
+        "handle": "DIGITALNOVA"
+    },
+    "213053": {
+        "country_code": "AT",
+        "asn": "213053",
+        "description": "EasySolutions GmbH",
+        "handle": "EASYSOLUTIONS"
+    },
+    "213080": {
+        "country_code": "AT",
+        "asn": "213080",
+        "description": "Oberoesterreichische Gesundheitsholding GmbH",
+        "handle": "GESPAG"
+    },
+    "213084": {
+        "country_code": "AT",
+        "asn": "213084",
+        "description": "Four Telecom Services GmbH & Co KG",
+        "handle": "FOURTELECOM-S-AS"
+    },
+    "213102": {
+        "country_code": "AT",
+        "asn": "213102",
+        "description": "Mario Schmelzer",
+        "handle": "SCHMELZER"
+    },
+    "213121": {
+        "country_code": "AT",
+        "asn": "213121",
+        "description": "Digital Burgenland GmbH",
+        "handle": "EBRZ-AS"
+    },
+    "213181": {
+        "country_code": "AT",
+        "asn": "213181",
+        "description": "CEU GmbH",
+        "handle": "CEU"
+    },
+    "213259": {
+        "country_code": "AT",
+        "asn": "213259",
+        "description": "Hutchison Drei Austria GmbH",
+        "handle": "H3G-AUSTRIA-S"
+    },
+    "213266": {
+        "country_code": "AT",
+        "asn": "213266",
+        "description": "NTS Netzwerk Telekom Service AG",
+        "handle": "SIGNA-AT-AS"
+    },
+    "213360": {
+        "country_code": "AT",
+        "asn": "213360",
+        "description": "Kevin Dautermann",
+        "handle": "PANDA-AS"
+    },
+    "213635": {
+        "country_code": "AT",
+        "asn": "213635",
+        "description": "D. Swarovski KG",
+        "handle": "SWAROVSKI-CLOUD-AS"
+    },
+    "213765": {
+        "country_code": "AT",
+        "asn": "213765",
+        "description": "Wuerth Handelsgesellschaft mbH",
+        "handle": "WUERTH-AS"
+    },
+    "213882": {
+        "country_code": "AT",
+        "asn": "213882",
+        "description": "Kabel TV Soelden Obergurgl GmbH",
+        "handle": "KABELTV-SOELDEN"
+    },
+    "214017": {
+        "country_code": "AT",
+        "asn": "214017",
+        "description": "Stefan Funke",
+        "handle": "GENERICISP-AS"
+    },
+    "214074": {
+        "country_code": "AT",
+        "asn": "214074",
+        "description": "Spar Business Services GmbH",
+        "handle": "ICS-SZG"
+    },
+    "214075": {
+        "country_code": "AT",
+        "asn": "214075",
+        "description": "Spar Business Services GmbH",
+        "handle": "ICS-VIE"
+    },
+    "214076": {
+        "country_code": "AT",
+        "asn": "214076",
+        "description": "Michael Ecker",
+        "handle": "ECKER"
+    },
+    "214118": {
+        "country_code": "AT",
+        "asn": "214118",
+        "description": "Lagermax Lagerhaus und Speditions AG",
+        "handle": "LAGERMAX-AS"
+    },
+    "214121": {
+        "country_code": "AT",
+        "asn": "214121",
+        "description": "XPAX GmbH",
+        "handle": "XPAX"
+    },
+    "214139": {
+        "country_code": "AT",
+        "asn": "214139",
+        "description": "Private.coffee- Verein zur Forderung von Privatsphare und digitaler Souveranitat",
+        "handle": "PRIVATECOFFEE"
+    },
+    "214262": {
+        "country_code": "AT",
+        "asn": "214262",
+        "description": "Tobias Graeven trading as Dyris IT Services e.U.",
+        "handle": "DYRIS"
+    },
+    "214335": {
+        "country_code": "AT",
+        "asn": "214335",
+        "description": "Heron Innovations Factory GmbH",
+        "handle": "HIF"
+    },
+    "214502": {
+        "country_code": "AT",
+        "asn": "214502",
+        "description": "55 IT Services GmbH",
+        "handle": "FIFTYFIVE-2-AS"
+    },
+    "214649": {
+        "country_code": "AT",
+        "asn": "214649",
+        "description": "NetCaT GmbH",
+        "handle": "NETCAT"
+    },
+    "214929": {
+        "country_code": "AT",
+        "asn": "214929",
+        "description": "Lukas Wenzl trading as LastResponse",
+        "handle": "LASTRESPONSE"
+    },
+    "215006": {
+        "country_code": "AT",
+        "asn": "215006",
+        "description": "Michael Zenker",
+        "handle": "MICHAELZENKER-AS"
+    },
+    "215048": {
+        "country_code": "AT",
+        "asn": "215048",
+        "description": "International Atomic Energy Agency",
+        "handle": "IAEA-AS2"
+    },
+    "215120": {
+        "country_code": "AT",
+        "asn": "215120",
+        "description": "Evolus IT Solutions GmbH",
+        "handle": "EVOLUS-IX"
+    },
+    "215136": {
+        "country_code": "AT",
+        "asn": "215136",
+        "description": "Finn Hess trading as Ryzehosting",
+        "handle": "RYZEHOSTING"
+    },
+    "215219": {
+        "country_code": "AT",
+        "asn": "215219",
+        "description": "Florian Berthold trading as Sub-Net e.U.",
+        "handle": "SUB-NET"
+    },
+    "215422": {
+        "country_code": "AT",
+        "asn": "215422",
+        "description": "Stadt Dornbirn",
+        "handle": "ADSD"
+    },
+    "215461": {
+        "country_code": "AT",
+        "asn": "215461",
+        "description": "via donau Oesterreichische Wasserstrassen Gesellschaft mbH",
+        "handle": "VIADONAU-AS"
+    },
+    "215510": {
+        "country_code": "AT",
+        "asn": "215510",
+        "description": "ufdroht.net - Internet Service GmbH",
+        "handle": "UFDROHT"
+    },
+    "215628": {
+        "country_code": "AT",
+        "asn": "215628",
+        "description": "Xenox IT & Kommunikations GmbH",
+        "handle": "AS-XENOX-AT"
+    },
+    "215689": {
+        "country_code": "AT",
+        "asn": "215689",
+        "description": "GW St. Poelten Integrative Betriebe GmbH",
+        "handle": "GWSTP-AS"
+    },
+    "215697": {
+        "country_code": "AT",
+        "asn": "215697",
+        "description": "Bernard Stubbings",
+        "handle": "BSAS"
+    },
+    "215788": {
+        "country_code": "AT",
+        "asn": "215788",
+        "description": "Dohnal Markus",
+        "handle": "MADH"
+    },
+    "215815": {
+        "country_code": "AT",
+        "asn": "215815",
+        "description": "Video-Broadcast GmbH",
+        "handle": "VBNETWORKS"
+    },
+    "216037": {
+        "country_code": "AT",
+        "asn": "216037",
+        "description": "Fink Zeitsysteme GmbH",
+        "handle": "FINKZEIT-AS"
+    },
+    "216038": {
+        "country_code": "AT",
+        "asn": "216038",
+        "description": "Jenny Danzmayr",
+        "handle": "SCIENTRESS"
+    },
+    "216105": {
+        "country_code": "AT",
+        "asn": "216105",
+        "description": "Foerderung von Wissenschaft und Technik an Schulen",
+        "handle": "F-WUTS"
+    },
+    "216208": {
+        "country_code": "AT",
+        "asn": "216208",
+        "description": "Balmung Medical Handel GmbH",
+        "handle": "BALMUNG"
+    },
+    "216258": {
+        "country_code": "AT",
+        "asn": "216258",
+        "description": "EOX IT Services GmbH",
+        "handle": "EOX-FASTER"
+    },
+    "216369": {
+        "country_code": "AT",
+        "asn": "216369",
+        "description": "Jakob Kampichler",
+        "handle": "JKDEV"
+    },
+    "216416": {
+        "country_code": "AT",
+        "asn": "216416",
+        "description": "Evolus IT Solutions GmbH",
+        "handle": "EVOLUS-FIBRE"
+    },
+    "216441": {
+        "country_code": "AT",
+        "asn": "216441",
+        "description": "Jakob Riepler",
+        "handle": "PLABS"
+    }
+}

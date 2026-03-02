@@ -1,0 +1,1214 @@
+{
+    "1547": {
+        "country_code": "MD",
+        "asn": "1547",
+        "description": "INTERDNESTRKOM Sovmestnoe Zakrytoe Aktsionernoe Obshchestvo",
+        "handle": "IDK-NETWORK"
+    },
+    "8474": {
+        "country_code": "MD",
+        "asn": "8474",
+        "description": "Riscom S.A.",
+        "handle": "AS8474"
+    },
+    "8917": {
+        "country_code": "MD",
+        "asn": "8917",
+        "description": "General Media Group SRL",
+        "handle": "GENERALMEDIA-AS"
+    },
+    "8923": {
+        "country_code": "MD",
+        "asn": "8923",
+        "description": "ORANGE MOLDOVA S.A.",
+        "handle": "ORANGE-MOLDOVA-SA"
+    },
+    "8926": {
+        "country_code": "MD",
+        "asn": "8926",
+        "description": "Moldtelecom SA",
+        "handle": "MOLDTELECOM-AS"
+    },
+    "9152": {
+        "country_code": "MD",
+        "asn": "9152",
+        "description": "ORANGE MOLDOVA S.A.",
+        "handle": "ORANGE-MOLDOVA-SA"
+    },
+    "9199": {
+        "country_code": "MD",
+        "asn": "9199",
+        "description": "RENAM Public Association",
+        "handle": "RENAM"
+    },
+    "12450": {
+        "country_code": "MD",
+        "asn": "12450",
+        "description": "Agentia Transcor SRL",
+        "handle": "TRANSCOR-AS"
+    },
+    "15836": {
+        "country_code": "MD",
+        "asn": "15836",
+        "description": "Arax-Impex s.r.l.",
+        "handle": "AXAUTSYS"
+    },
+    "25129": {
+        "country_code": "MD",
+        "asn": "25129",
+        "description": "Scientific-Production Center Monitoring Ltd",
+        "handle": "MONITORING-AS"
+    },
+    "25319": {
+        "country_code": "MD",
+        "asn": "25319",
+        "description": "Information Technology and Cyber Security Service",
+        "handle": "ASN-CTS"
+    },
+    "25454": {
+        "country_code": "MD",
+        "asn": "25454",
+        "description": "ORANGE MOLDOVA S.A.",
+        "handle": "ASN-OMD-FNO"
+    },
+    "25455": {
+        "country_code": "MD",
+        "asn": "25455",
+        "description": "Guardfox SRL",
+        "handle": "GUARDFOX-AS"
+    },
+    "25527": {
+        "country_code": "MD",
+        "asn": "25527",
+        "description": "Cartel-Sistem SRL",
+        "handle": "CARTELSISTEM-AS"
+    },
+    "28990": {
+        "country_code": "MD",
+        "asn": "28990",
+        "description": "Information Technology and Cyber Security Service",
+        "handle": "MOLDDATA-AS"
+    },
+    "29616": {
+        "country_code": "MD",
+        "asn": "29616",
+        "description": "Trabia SRL",
+        "handle": "KIVIX"
+    },
+    "29654": {
+        "country_code": "MD",
+        "asn": "29654",
+        "description": "7 REASONS S.R.L.",
+        "handle": "BACKBONE-AS"
+    },
+    "31204": {
+        "country_code": "MD",
+        "asn": "31204",
+        "description": "ORANGE MOLDOVA S.A.",
+        "handle": "SUNCOMMUNICATIONS-AS"
+    },
+    "31252": {
+        "country_code": "MD",
+        "asn": "31252",
+        "description": "StarNet Solutii SRL",
+        "handle": "STARNET-AS"
+    },
+    "31557": {
+        "country_code": "MD",
+        "asn": "31557",
+        "description": "IGT Communications S.R.L",
+        "handle": "IGT-MOLD-NET-AS"
+    },
+    "31580": {
+        "country_code": "MD",
+        "asn": "31580",
+        "description": "Moldtelecom SA",
+        "handle": "MD-IX-AS"
+    },
+    "34529": {
+        "country_code": "MD",
+        "asn": "34529",
+        "description": "GLOBAL NETWORK TECHNOLOGY SRL",
+        "handle": "GNT-MD-AS"
+    },
+    "34645": {
+        "country_code": "MD",
+        "asn": "34645",
+        "description": "I.C.S BOOM-INFO S.R.L.",
+        "handle": "BABILON-AS"
+    },
+    "35210": {
+        "country_code": "MD",
+        "asn": "35210",
+        "description": "ORANGE MOLDOVA S.A.",
+        "handle": "ASN-ORANGE-MOLDOVA"
+    },
+    "35346": {
+        "country_code": "MD",
+        "asn": "35346",
+        "description": "SC ITNS.NET SRL",
+        "handle": "EUROTELECOM"
+    },
+    "35525": {
+        "country_code": "MD",
+        "asn": "35525",
+        "description": "DIANA-NET SRL",
+        "handle": "DIANA-NET-AS"
+    },
+    "35534": {
+        "country_code": "MD",
+        "asn": "35534",
+        "description": "Art-Club SRL",
+        "handle": "ARTCLUB-AS"
+    },
+    "39279": {
+        "country_code": "MD",
+        "asn": "39279",
+        "description": "Information Technology and Cyber Security Service",
+        "handle": "CTS-MD"
+    },
+    "39690": {
+        "country_code": "MD",
+        "asn": "39690",
+        "description": "SC ITNS.NET SRL",
+        "handle": "HOSTING"
+    },
+    "39798": {
+        "country_code": "MD",
+        "asn": "39798",
+        "description": "MivoCloud SRL",
+        "handle": "MIVOCLOUD"
+    },
+    "41171": {
+        "country_code": "MD",
+        "asn": "41171",
+        "description": "SC ITNS.NET SRL",
+        "handle": "NETWORKS-RENT"
+    },
+    "41221": {
+        "country_code": "MD",
+        "asn": "41221",
+        "description": "Moldtelecom SA",
+        "handle": "MD-AS"
+    },
+    "41712": {
+        "country_code": "MD",
+        "asn": "41712",
+        "description": "Satelit Vizual s.r.l.",
+        "handle": "SATELITTV-AS"
+    },
+    "41879": {
+        "country_code": "MD",
+        "asn": "41879",
+        "description": "Banca Comerciala Comertbank SA",
+        "handle": "COMERTBANK-ASN"
+    },
+    "42424": {
+        "country_code": "MD",
+        "asn": "42424",
+        "description": "ICS Endava SRL",
+        "handle": "ENDAVA-AS"
+    },
+    "42881": {
+        "country_code": "MD",
+        "asn": "42881",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "KONTRAST"
+    },
+    "43094": {
+        "country_code": "MD",
+        "asn": "43094",
+        "description": "SC ITNS.NET SRL",
+        "handle": "GIGANET"
+    },
+    "43285": {
+        "country_code": "MD",
+        "asn": "43285",
+        "description": "DFM SRL",
+        "handle": "DFM-AS"
+    },
+    "43289": {
+        "country_code": "MD",
+        "asn": "43289",
+        "description": "Trabia SRL",
+        "handle": "TRABIA"
+    },
+    "43456": {
+        "country_code": "MD",
+        "asn": "43456",
+        "description": "Star Linc SRL",
+        "handle": "STAR-LINK"
+    },
+    "43588": {
+        "country_code": "MD",
+        "asn": "43588",
+        "description": "IM Level 7 SRL",
+        "handle": "LEVEL7-AS"
+    },
+    "43768": {
+        "country_code": "MD",
+        "asn": "43768",
+        "description": "OGUZSATLINK SRL",
+        "handle": "OGUZSAT-AS"
+    },
+    "43783": {
+        "country_code": "MD",
+        "asn": "43783",
+        "description": "CAGHET-PLUS SRL",
+        "handle": "CAGHETPLUS-AS"
+    },
+    "43818": {
+        "country_code": "MD",
+        "asn": "43818",
+        "description": "S.C.LOGIGRUP SRL",
+        "handle": "ASFASTMD"
+    },
+    "43870": {
+        "country_code": "MD",
+        "asn": "43870",
+        "description": "DANIS SRL",
+        "handle": "ASDANIS"
+    },
+    "43925": {
+        "country_code": "MD",
+        "asn": "43925",
+        "description": "MOLDCELL S.A.",
+        "handle": "MOLDCELL-AS"
+    },
+    "44388": {
+        "country_code": "MD",
+        "asn": "44388",
+        "description": "IT CONCEPT SRL",
+        "handle": "TOPHOST-MD-AS"
+    },
+    "44589": {
+        "country_code": "MD",
+        "asn": "44589",
+        "description": "SC ITNS.NET SRL",
+        "handle": "HOSTING"
+    },
+    "47500": {
+        "country_code": "MD",
+        "asn": "47500",
+        "description": "SC ITNS.NET SRL",
+        "handle": "CONTRUST"
+    },
+    "48232": {
+        "country_code": "MD",
+        "asn": "48232",
+        "description": "S.R.L. Cloudsoft",
+        "handle": "RSERVERS-AS"
+    },
+    "48296": {
+        "country_code": "MD",
+        "asn": "48296",
+        "description": "SKYNET HOSTING SRL",
+        "handle": "SKYNET-AS"
+    },
+    "48331": {
+        "country_code": "MD",
+        "asn": "48331",
+        "description": "ORANGE MOLDOVA S.A.",
+        "handle": "GLOBNET-AS"
+    },
+    "48480": {
+        "country_code": "MD",
+        "asn": "48480",
+        "description": "S.C. AltNet C.C. S.R.L.",
+        "handle": "ALTNET-AS"
+    },
+    "48506": {
+        "country_code": "MD",
+        "asn": "48506",
+        "description": "Metical SRL",
+        "handle": "METICAL-AS"
+    },
+    "48644": {
+        "country_code": "MD",
+        "asn": "48644",
+        "description": "IT FRUIT S.R.L.",
+        "handle": "VAMARK-AS"
+    },
+    "48691": {
+        "country_code": "MD",
+        "asn": "48691",
+        "description": "Specialist Ltd",
+        "handle": "SPECIALIST-AS"
+    },
+    "48753": {
+        "country_code": "MD",
+        "asn": "48753",
+        "description": "AVA HOST SRL",
+        "handle": "AVAHOHST"
+    },
+    "48974": {
+        "country_code": "MD",
+        "asn": "48974",
+        "description": "SC ITNS.NET SRL",
+        "handle": "COLOCATION"
+    },
+    "49006": {
+        "country_code": "MD",
+        "asn": "49006",
+        "description": "SC ITNS.NET SRL",
+        "handle": "SYSTEMS"
+    },
+    "49443": {
+        "country_code": "MD",
+        "asn": "49443",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "CONTRUST-SOLUTIONS"
+    },
+    "49527": {
+        "country_code": "MD",
+        "asn": "49527",
+        "description": "SRL ROXNET-COM",
+        "handle": "ROXNET-COM-AS"
+    },
+    "49691": {
+        "country_code": "MD",
+        "asn": "49691",
+        "description": "Netinfo SRL",
+        "handle": "NETINFO-AS"
+    },
+    "49947": {
+        "country_code": "MD",
+        "asn": "49947",
+        "description": "NetSistem Ltd.",
+        "handle": "NETSISTEM"
+    },
+    "50084": {
+        "country_code": "MD",
+        "asn": "50084",
+        "description": "S.A.Rapid Link S.R.L.",
+        "handle": "RAPID-LINK-AS"
+    },
+    "50138": {
+        "country_code": "MD",
+        "asn": "50138",
+        "description": "Centrul Tehnic Comercial Alfa SA",
+        "handle": "CTC-ALFA-AS"
+    },
+    "50704": {
+        "country_code": "MD",
+        "asn": "50704",
+        "description": "STAR TV SRL",
+        "handle": "STAR-TV-AS"
+    },
+    "50950": {
+        "country_code": "MD",
+        "asn": "50950",
+        "description": "IM Level 7 SRL",
+        "handle": "ITSC-AS"
+    },
+    "50968": {
+        "country_code": "MD",
+        "asn": "50968",
+        "description": "Hostmaster Ltd.",
+        "handle": "HOSTMASTER-AS"
+    },
+    "50976": {
+        "country_code": "MD",
+        "asn": "50976",
+        "description": "JSC Moldova Steel Works",
+        "handle": "MSW-MD-AS"
+    },
+    "51056": {
+        "country_code": "MD",
+        "asn": "51056",
+        "description": "Inet Tehno SRL",
+        "handle": "AS-INETEHNO"
+    },
+    "51141": {
+        "country_code": "MD",
+        "asn": "51141",
+        "description": "BC EuroCreditBank SA",
+        "handle": "EUROCREDITBANK-ASN"
+    },
+    "51246": {
+        "country_code": "MD",
+        "asn": "51246",
+        "description": "RASV-TV SRL",
+        "handle": "RASVTV"
+    },
+    "51267": {
+        "country_code": "MD",
+        "asn": "51267",
+        "description": "Interlink Comunicatii SRL",
+        "handle": "INTERLINK-AS"
+    },
+    "51954": {
+        "country_code": "MD",
+        "asn": "51954",
+        "description": "Simpals SRL",
+        "handle": "SIMPALS-AS"
+    },
+    "52097": {
+        "country_code": "MD",
+        "asn": "52097",
+        "description": "OTP Bank S.A.",
+        "handle": "MOBIAS-AUTSYS"
+    },
+    "56380": {
+        "country_code": "MD",
+        "asn": "56380",
+        "description": "IT FRUIT S.R.L.",
+        "handle": "AS-ITFRUIT"
+    },
+    "56491": {
+        "country_code": "MD",
+        "asn": "56491",
+        "description": "Andridan-Impex SRL",
+        "handle": "ANDRIDAN-AS"
+    },
+    "56772": {
+        "country_code": "MD",
+        "asn": "56772",
+        "description": "I.C.S. PREMIER ENERGY DISTRIBUTION S.A.",
+        "handle": "UFMOLDOVA-AS"
+    },
+    "56792": {
+        "country_code": "MD",
+        "asn": "56792",
+        "description": "Banca Comerciala Moldindconbank SA",
+        "handle": "MOLDINDCONBANK-ASN"
+    },
+    "57428": {
+        "country_code": "MD",
+        "asn": "57428",
+        "description": "SD Intelect SRL",
+        "handle": "INTELECT-AS"
+    },
+    "57713": {
+        "country_code": "MD",
+        "asn": "57713",
+        "description": "Societatea Comerciala ACER-COM S.R.L.",
+        "handle": "NEXT-AS"
+    },
+    "57776": {
+        "country_code": "MD",
+        "asn": "57776",
+        "description": "Urscom-TV S.R.L.",
+        "handle": "URSCOM-TV"
+    },
+    "57916": {
+        "country_code": "MD",
+        "asn": "57916",
+        "description": "Larom TV SRL",
+        "handle": "LAROM-AS"
+    },
+    "58118": {
+        "country_code": "MD",
+        "asn": "58118",
+        "description": "SC ADINET-Com SRL",
+        "handle": "ADINET-AS"
+    },
+    "58311": {
+        "country_code": "MD",
+        "asn": "58311",
+        "description": "INTREPRINDEREA DE STAT COMPANIA AERIANA AIR MOLDOVA",
+        "handle": "AIR-MOLDOVA-AS"
+    },
+    "59733": {
+        "country_code": "MD",
+        "asn": "59733",
+        "description": "IM Level 7 SRL",
+        "handle": "MDATA-PEERINGS"
+    },
+    "59841": {
+        "country_code": "MD",
+        "asn": "59841",
+        "description": "SC ITNS.NET SRL",
+        "handle": "PUBLIC-DNS-ASN"
+    },
+    "60127": {
+        "country_code": "MD",
+        "asn": "60127",
+        "description": "Banca Comerciala ENERGBANK SA",
+        "handle": "ENERGBANK-AS"
+    },
+    "60405": {
+        "country_code": "MD",
+        "asn": "60405",
+        "description": "Radeon Service S.R.L.",
+        "handle": "RADEON-AS"
+    },
+    "60514": {
+        "country_code": "MD",
+        "asn": "60514",
+        "description": "NextGenNetwork SRL",
+        "handle": "NGN"
+    },
+    "60581": {
+        "country_code": "MD",
+        "asn": "60581",
+        "description": "SC ITNS.NET SRL",
+        "handle": "REBDACONS-AS"
+    },
+    "60602": {
+        "country_code": "MD",
+        "asn": "60602",
+        "description": "Inovare-Prim SRL",
+        "handle": "INOVARE-AS"
+    },
+    "61077": {
+        "country_code": "MD",
+        "asn": "61077",
+        "description": "NP Base SRL",
+        "handle": "NP-BASE-AS"
+    },
+    "61208": {
+        "country_code": "MD",
+        "asn": "61208",
+        "description": "SCORTEL SRL",
+        "handle": "SCORTEL-AS"
+    },
+    "61334": {
+        "country_code": "MD",
+        "asn": "61334",
+        "description": "Paynet Services SRL",
+        "handle": "PAYPOINT-AS"
+    },
+    "62013": {
+        "country_code": "MD",
+        "asn": "62013",
+        "description": "Societatea Comerciala Click-COM SRL",
+        "handle": "CLICK-COM-AS"
+    },
+    "62071": {
+        "country_code": "MD",
+        "asn": "62071",
+        "description": "Datahost SRL",
+        "handle": "DATAHOST-AS"
+    },
+    "62154": {
+        "country_code": "MD",
+        "asn": "62154",
+        "description": "NOCTION S.R.L.",
+        "handle": "NOCTION-AS"
+    },
+    "62232": {
+        "country_code": "MD",
+        "asn": "62232",
+        "description": "Banca Comerciala MOLDOVA-AGROINDBANK SA",
+        "handle": "MAIB-AS"
+    },
+    "62281": {
+        "country_code": "MD",
+        "asn": "62281",
+        "description": "VIDEOMAG SRL",
+        "handle": "VIDEOMAG-AS"
+    },
+    "62337": {
+        "country_code": "MD",
+        "asn": "62337",
+        "description": "S.C. TELE-LUCI S.R.L.",
+        "handle": "TELE-LUCI-AS"
+    },
+    "64453": {
+        "country_code": "MD",
+        "asn": "64453",
+        "description": "SC LARITEX-TV SRL",
+        "handle": "LARITEX-TV"
+    },
+    "199308": {
+        "country_code": "MD",
+        "asn": "199308",
+        "description": "RAPID NET SRL",
+        "handle": "RAPIDNET-MD-AS"
+    },
+    "200019": {
+        "country_code": "MD",
+        "asn": "200019",
+        "description": "ALEXHOST SRL",
+        "handle": "ALEXHOST"
+    },
+    "200189": {
+        "country_code": "MD",
+        "asn": "200189",
+        "description": "Banca Nationala a Moldovei",
+        "handle": "BNM"
+    },
+    "200640": {
+        "country_code": "MD",
+        "asn": "200640",
+        "description": "SC Raznet SRL",
+        "handle": "RAZNET-AS"
+    },
+    "200775": {
+        "country_code": "MD",
+        "asn": "200775",
+        "description": "Iurie Romanov",
+        "handle": "ROMANOV-AS"
+    },
+    "201148": {
+        "country_code": "MD",
+        "asn": "201148",
+        "description": "Lookin-link SRL",
+        "handle": "LOOKIN-LINK"
+    },
+    "201670": {
+        "country_code": "MD",
+        "asn": "201670",
+        "description": "S.C. INFOTECH-GRUP S.R.L.",
+        "handle": "INFOTECH-GRUP"
+    },
+    "201813": {
+        "country_code": "MD",
+        "asn": "201813",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "CONTRUST-SOLUTIONS"
+    },
+    "202469": {
+        "country_code": "MD",
+        "asn": "202469",
+        "description": "SC ITNS.NET SRL",
+        "handle": "CLOUD"
+    },
+    "202470": {
+        "country_code": "MD",
+        "asn": "202470",
+        "description": "Eurotelecom SRL",
+        "handle": "CLOUD"
+    },
+    "202475": {
+        "country_code": "MD",
+        "asn": "202475",
+        "description": "ELECHSERVICE-GRUP S.R.L",
+        "handle": "ELECHSERVICE-GRUP-SRL"
+    },
+    "202511": {
+        "country_code": "MD",
+        "asn": "202511",
+        "description": "SC ITNS.NET SRL",
+        "handle": "HOSTING"
+    },
+    "202722": {
+        "country_code": "MD",
+        "asn": "202722",
+        "description": "Telenet Group SRL",
+        "handle": "TELENET"
+    },
+    "202723": {
+        "country_code": "MD",
+        "asn": "202723",
+        "description": "VAD SRL",
+        "handle": "VAD-SRL-AS1"
+    },
+    "202822": {
+        "country_code": "MD",
+        "asn": "202822",
+        "description": "Upnet IT SRL",
+        "handle": "UPNET-IT-SRL"
+    },
+    "202931": {
+        "country_code": "MD",
+        "asn": "202931",
+        "description": "Vic Grup SRL",
+        "handle": "VIC-GRUP-SRL"
+    },
+    "202943": {
+        "country_code": "MD",
+        "asn": "202943",
+        "description": "S&L Panifcom SRL",
+        "handle": "SC-SNL-PANIFCOM-SRL"
+    },
+    "202960": {
+        "country_code": "MD",
+        "asn": "202960",
+        "description": "Dontu-Prim SRL",
+        "handle": "DONTU-PRIM-AS"
+    },
+    "202965": {
+        "country_code": "MD",
+        "asn": "202965",
+        "description": "Dontv-Prim SRL",
+        "handle": "DONTV-PRIM-AS"
+    },
+    "202966": {
+        "country_code": "MD",
+        "asn": "202966",
+        "description": "Societatea cu Raspundere Limitata ITGROUP & SERVICES",
+        "handle": "ITGROUP-N-SERVICES-SRL"
+    },
+    "203025": {
+        "country_code": "MD",
+        "asn": "203025",
+        "description": "SC ITNS.NET SRL",
+        "handle": "ASN-COLOCATION"
+    },
+    "203129": {
+        "country_code": "MD",
+        "asn": "203129",
+        "description": "Information Technology and Cyber Security Service",
+        "handle": "GOVMD-IX"
+    },
+    "203624": {
+        "country_code": "MD",
+        "asn": "203624",
+        "description": "SC ITNS.NET SRL",
+        "handle": "COLOCATION-CORPO"
+    },
+    "203693": {
+        "country_code": "MD",
+        "asn": "203693",
+        "description": "EBS INTEGRATOR SRL",
+        "handle": "EBS-INTEGRATOR"
+    },
+    "203950": {
+        "country_code": "MD",
+        "asn": "203950",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "CONTRUST-SOLUTIONS"
+    },
+    "204421": {
+        "country_code": "MD",
+        "asn": "204421",
+        "description": "Bpay SRL",
+        "handle": "BPAY"
+    },
+    "204467": {
+        "country_code": "MD",
+        "asn": "204467",
+        "description": "AIRSTREAM SRL",
+        "handle": "AIRSTREAM-AS"
+    },
+    "204794": {
+        "country_code": "MD",
+        "asn": "204794",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "CONTRUST-SOLUTIONS"
+    },
+    "204838": {
+        "country_code": "MD",
+        "asn": "204838",
+        "description": "Serviciul National Unic Pentru Apelurile de Urgenta 112",
+        "handle": "MD112"
+    },
+    "204868": {
+        "country_code": "MD",
+        "asn": "204868",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "CONTRUST-SOLUTIONS"
+    },
+    "204872": {
+        "country_code": "MD",
+        "asn": "204872",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "CONTRUST-SOLUTIONS"
+    },
+    "205124": {
+        "country_code": "MD",
+        "asn": "205124",
+        "description": "SC ITNS.NET SRL",
+        "handle": "COLOCATION"
+    },
+    "205301": {
+        "country_code": "MD",
+        "asn": "205301",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "CONTRUST-SOLUTIONS"
+    },
+    "205606": {
+        "country_code": "MD",
+        "asn": "205606",
+        "description": "CB VICTORIABANK JSC",
+        "handle": "VICTORIABANK-AS"
+    },
+    "205745": {
+        "country_code": "MD",
+        "asn": "205745",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "CONTRUST-SOLUTIONS"
+    },
+    "205770": {
+        "country_code": "MD",
+        "asn": "205770",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "LEXISTARALLIANCELTD"
+    },
+    "205835": {
+        "country_code": "MD",
+        "asn": "205835",
+        "description": "SC ITNS.NET SRL",
+        "handle": "COLOCATION"
+    },
+    "205884": {
+        "country_code": "MD",
+        "asn": "205884",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "CONTRUST-SOLUTIONS"
+    },
+    "205911": {
+        "country_code": "MD",
+        "asn": "205911",
+        "description": "SC ITNS.NET SRL",
+        "handle": "HOSTING"
+    },
+    "205997": {
+        "country_code": "MD",
+        "asn": "205997",
+        "description": "Vlad Cojuhari",
+        "handle": "VLAD-COJUHARI"
+    },
+    "206005": {
+        "country_code": "MD",
+        "asn": "206005",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "ZYNOO"
+    },
+    "206017": {
+        "country_code": "MD",
+        "asn": "206017",
+        "description": "SC ITNS.NET SRL",
+        "handle": "HOSTING"
+    },
+    "206068": {
+        "country_code": "MD",
+        "asn": "206068",
+        "description": "SC ITNS.NET SRL",
+        "handle": "HOSTING"
+    },
+    "206085": {
+        "country_code": "MD",
+        "asn": "206085",
+        "description": "SC ITNS.NET SRL",
+        "handle": "HOSTING"
+    },
+    "206127": {
+        "country_code": "MD",
+        "asn": "206127",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "CONTRUST-SOLUTIONS"
+    },
+    "206305": {
+        "country_code": "MD",
+        "asn": "206305",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "CONTRUST-SOLUTIONS"
+    },
+    "206340": {
+        "country_code": "MD",
+        "asn": "206340",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "CONTRUST-SOLUTIONS"
+    },
+    "206413": {
+        "country_code": "MD",
+        "asn": "206413",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "CONTRUST-SOLUTIONS"
+    },
+    "206535": {
+        "country_code": "MD",
+        "asn": "206535",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "CONTRUST-SOLUTIONS"
+    },
+    "206552": {
+        "country_code": "MD",
+        "asn": "206552",
+        "description": "SC ITNS.NET SRL",
+        "handle": "ITNS-COLOCATION"
+    },
+    "206560": {
+        "country_code": "MD",
+        "asn": "206560",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "CONTRUST-SOLUTIONS"
+    },
+    "206582": {
+        "country_code": "MD",
+        "asn": "206582",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "CONTRUST-SOLUTIONS"
+    },
+    "206590": {
+        "country_code": "MD",
+        "asn": "206590",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "CONTRUST-SOLUTIONS"
+    },
+    "206622": {
+        "country_code": "MD",
+        "asn": "206622",
+        "description": "SC ITNS.NET SRL",
+        "handle": "ITNS-TECHNOLOGIES"
+    },
+    "206623": {
+        "country_code": "MD",
+        "asn": "206623",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "CONTRUST-SOLUTIONS"
+    },
+    "206644": {
+        "country_code": "MD",
+        "asn": "206644",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "CONTRUST-SOLUTIONS"
+    },
+    "206698": {
+        "country_code": "MD",
+        "asn": "206698",
+        "description": "Inovare-Prim SRL",
+        "handle": "AMPLICA"
+    },
+    "206744": {
+        "country_code": "MD",
+        "asn": "206744",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "CONTRUST-SOLUTIONS"
+    },
+    "206750": {
+        "country_code": "MD",
+        "asn": "206750",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "CONTRUST-SOLUTIONS"
+    },
+    "206847": {
+        "country_code": "MD",
+        "asn": "206847",
+        "description": "SC ITNS.NET SRL",
+        "handle": "TRANZIT"
+    },
+    "207159": {
+        "country_code": "MD",
+        "asn": "207159",
+        "description": "HARTUM TV SRL",
+        "handle": "HARTUM-TV-SRL"
+    },
+    "207164": {
+        "country_code": "MD",
+        "asn": "207164",
+        "description": "PRIMANET SRL",
+        "handle": "PRIMANET"
+    },
+    "207246": {
+        "country_code": "MD",
+        "asn": "207246",
+        "description": "NETSAT DV SRL",
+        "handle": "NETSAT-DV"
+    },
+    "207636": {
+        "country_code": "MD",
+        "asn": "207636",
+        "description": "ALEXHOST S.R.L.",
+        "handle": "ALEXHOST-SRL"
+    },
+    "208062": {
+        "country_code": "MD",
+        "asn": "208062",
+        "description": "PROFI-CONSTRUCT PRIM SRL",
+        "handle": "PROFI-CONSTRUCT-MD"
+    },
+    "208299": {
+        "country_code": "MD",
+        "asn": "208299",
+        "description": "TV RADIOSISTEM SRL",
+        "handle": "TVRADIOSISTEM-MD"
+    },
+    "208317": {
+        "country_code": "MD",
+        "asn": "208317",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "CONTRUST-SOLUTIONS"
+    },
+    "208343": {
+        "country_code": "MD",
+        "asn": "208343",
+        "description": "INTERDNESTRKOM Sovmestnoe Zakrytoe Aktsionernoe Obshchestvo",
+        "handle": "ASIDK2019"
+    },
+    "208671": {
+        "country_code": "MD",
+        "asn": "208671",
+        "description": "Universitatea de Stat de Medicina si Farmacie Nicolae Testemitanu din Republica Moldova",
+        "handle": "USMF"
+    },
+    "209331": {
+        "country_code": "MD",
+        "asn": "209331",
+        "description": "Banca Comerciala EXIMBANK SA",
+        "handle": "EXIMBANK-AS"
+    },
+    "209375": {
+        "country_code": "MD",
+        "asn": "209375",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "CONTRUST-SOLUTIONS"
+    },
+    "209396": {
+        "country_code": "MD",
+        "asn": "209396",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "CONTRUST-SOLUTIONS"
+    },
+    "209482": {
+        "country_code": "MD",
+        "asn": "209482",
+        "description": "FOXCLOUD COMMUNICATIONS SRL",
+        "handle": "FOXCLOUDMD"
+    },
+    "209640": {
+        "country_code": "MD",
+        "asn": "209640",
+        "description": "ZEON-TEHNO SRL",
+        "handle": "ZEONTEHNOMD"
+    },
+    "209868": {
+        "country_code": "MD",
+        "asn": "209868",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "CONTRUST-SOLUTIONS"
+    },
+    "209883": {
+        "country_code": "MD",
+        "asn": "209883",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "CONTRUST-SOLUTIONS"
+    },
+    "209889": {
+        "country_code": "MD",
+        "asn": "209889",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "CONTRUST-SOLUTIONS"
+    },
+    "209896": {
+        "country_code": "MD",
+        "asn": "209896",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "LEXISTARALLIANCELTD"
+    },
+    "209908": {
+        "country_code": "MD",
+        "asn": "209908",
+        "description": "AVISTUDIO SRL",
+        "handle": "AVISTUDIO-MD-AS"
+    },
+    "209944": {
+        "country_code": "MD",
+        "asn": "209944",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "EJX"
+    },
+    "209945": {
+        "country_code": "MD",
+        "asn": "209945",
+        "description": "SC ITNS.NET SRL",
+        "handle": "MDIX"
+    },
+    "209961": {
+        "country_code": "MD",
+        "asn": "209961",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "CONTRUST-SOLUTIONS"
+    },
+    "209963": {
+        "country_code": "MD",
+        "asn": "209963",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "CONTRUST-SOLUTIONS"
+    },
+    "209982": {
+        "country_code": "MD",
+        "asn": "209982",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "CONTRUST-SOLUTIONS"
+    },
+    "210027": {
+        "country_code": "MD",
+        "asn": "210027",
+        "description": "SC ITNS.NET SRL",
+        "handle": "HOSTING"
+    },
+    "210448": {
+        "country_code": "MD",
+        "asn": "210448",
+        "description": "ITSISTEM P&V SRL",
+        "handle": "ITSISTEM-MD"
+    },
+    "211180": {
+        "country_code": "MD",
+        "asn": "211180",
+        "description": "OKLAKO SRL",
+        "handle": "OKLAKO"
+    },
+    "211279": {
+        "country_code": "MD",
+        "asn": "211279",
+        "description": "Alianta-TV S.R.L.",
+        "handle": "ALIANTA-TV"
+    },
+    "211504": {
+        "country_code": "MD",
+        "asn": "211504",
+        "description": "STUDIO AN-TV SRL",
+        "handle": "AN-TV"
+    },
+    "211531": {
+        "country_code": "MD",
+        "asn": "211531",
+        "description": "ULTRA-NORDNET SRL",
+        "handle": "ASULTRANORDNET"
+    },
+    "211807": {
+        "country_code": "MD",
+        "asn": "211807",
+        "description": "BANCA DE FINANTE SI COMERT S.A.",
+        "handle": "FINCOMBANK-AS"
+    },
+    "212786": {
+        "country_code": "MD",
+        "asn": "212786",
+        "description": "DIGITAL NETWORK S.R.L.",
+        "handle": "MD-DIGITALNET"
+    },
+    "213137": {
+        "country_code": "MD",
+        "asn": "213137",
+        "description": "Contrust Solutions S.R.L.",
+        "handle": "CONTRUST"
+    },
+    "213400": {
+        "country_code": "MD",
+        "asn": "213400",
+        "description": "xData Cloud SRL",
+        "handle": "MD-XDATA-CLOUD"
+    },
+    "213705": {
+        "country_code": "MD",
+        "asn": "213705",
+        "description": "DIGITAL NETWORK S.R.L.",
+        "handle": "DIGITAL-NETWORK-SRL"
+    },
+    "214788": {
+        "country_code": "MD",
+        "asn": "214788",
+        "description": "Universitatea de Stat din Moldova",
+        "handle": "USM-MD"
+    },
+    "215059": {
+        "country_code": "MD",
+        "asn": "215059",
+        "description": "DIGITAL NETWORK S.R.L.",
+        "handle": "DIGITAL-MTC"
+    },
+    "215305": {
+        "country_code": "MD",
+        "asn": "215305",
+        "description": "Mastersoft S.R.L.",
+        "handle": "RETZOR-AS"
+    },
+    "216137": {
+        "country_code": "MD",
+        "asn": "216137",
+        "description": "Institutia Publica Universitatea Tehnica a Moldovei - IP UTM",
+        "handle": "IP-UTM"
+    },
+    "216303": {
+        "country_code": "MD",
+        "asn": "216303",
+        "description": "Pride System SRL",
+        "handle": "PRIDE-SYSTEM"
+    }
+}

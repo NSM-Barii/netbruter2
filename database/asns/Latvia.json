@@ -1,0 +1,1904 @@
+{
+    "2588": {
+        "country_code": "LV",
+        "asn": "2588",
+        "description": "SIA BITE Latvija",
+        "handle": "LATNET-AS"
+    },
+    "2877": {
+        "country_code": "LV",
+        "asn": "2877",
+        "description": "LSC SIA",
+        "handle": "LSC-AS"
+    },
+    "3241": {
+        "country_code": "LV",
+        "asn": "3241",
+        "description": "Elektronikas un Datorzinatnu Instituts",
+        "handle": "EDI"
+    },
+    "3281": {
+        "country_code": "LV",
+        "asn": "3281",
+        "description": "2CLOUD SIA",
+        "handle": "SIA-2CLOUD"
+    },
+    "5518": {
+        "country_code": "LV",
+        "asn": "5518",
+        "description": "SIA Tet",
+        "handle": "TET-LV"
+    },
+    "5528": {
+        "country_code": "LV",
+        "asn": "5528",
+        "description": "JSC BALTICOM",
+        "handle": "JSC-BALTICOM3"
+    },
+    "5538": {
+        "country_code": "LV",
+        "asn": "5538",
+        "description": "Institute of Mathematics and Computer Science of University of Latvia",
+        "handle": "SIGMANET-NIC"
+    },
+    "6747": {
+        "country_code": "LV",
+        "asn": "6747",
+        "description": "SIA Tet",
+        "handle": "LATTELEKOM"
+    },
+    "6832": {
+        "country_code": "LV",
+        "asn": "6832",
+        "description": "Daugavpils university",
+        "handle": "DPU-AS"
+    },
+    "6851": {
+        "country_code": "LV",
+        "asn": "6851",
+        "description": "C3 SIA",
+        "handle": "BKCNET"
+    },
+    "6906": {
+        "country_code": "LV",
+        "asn": "6906",
+        "description": "SIA Tet",
+        "handle": "GEANT-APOLLO"
+    },
+    "8194": {
+        "country_code": "LV",
+        "asn": "8194",
+        "description": "VAS Latvijas Valsts radio un televizijas centrs",
+        "handle": "VITA"
+    },
+    "8285": {
+        "country_code": "LV",
+        "asn": "8285",
+        "description": "Versija SIA",
+        "handle": "VERSIJA-SIA"
+    },
+    "8538": {
+        "country_code": "LV",
+        "asn": "8538",
+        "description": "iLink ltd",
+        "handle": "ILINK-AS"
+    },
+    "8605": {
+        "country_code": "LV",
+        "asn": "8605",
+        "description": "University of Latvia",
+        "handle": "LANET"
+    },
+    "9029": {
+        "country_code": "LV",
+        "asn": "9029",
+        "description": "SIA HomeTV Pro",
+        "handle": "HOMETVPRO-AS"
+    },
+    "9091": {
+        "country_code": "LV",
+        "asn": "9091",
+        "description": "Swedbank AS",
+        "handle": "SWEDBANK-AS"
+    },
+    "12443": {
+        "country_code": "LV",
+        "asn": "12443",
+        "description": "Finance Department of Riga State City Municipality",
+        "handle": "FINANCE-DEPARTMENT-OF"
+    },
+    "12509": {
+        "country_code": "LV",
+        "asn": "12509",
+        "description": "LATVIJAS BANKA",
+        "handle": "LB-AS"
+    },
+    "12525": {
+        "country_code": "LV",
+        "asn": "12525",
+        "description": "INTERNET Ltd.",
+        "handle": "INTERNETLTD"
+    },
+    "12578": {
+        "country_code": "LV",
+        "asn": "12578",
+        "description": "SIA Tet",
+        "handle": "APOLLO-AS"
+    },
+    "12847": {
+        "country_code": "LV",
+        "asn": "12847",
+        "description": "Latvijas Mobilais Telefons SIA",
+        "handle": "LMT-NET"
+    },
+    "12965": {
+        "country_code": "LV",
+        "asn": "12965",
+        "description": "AS SEB banka",
+        "handle": "SEBBANKA"
+    },
+    "12993": {
+        "country_code": "LV",
+        "asn": "12993",
+        "description": "Sabiedriba ar ierobezotu atbildibu DELSKA Latvia",
+        "handle": "DEAC-AS"
+    },
+    "13070": {
+        "country_code": "LV",
+        "asn": "13070",
+        "description": "SIA Electronic Solutions",
+        "handle": "LVSILALE-AS"
+    },
+    "13242": {
+        "country_code": "LV",
+        "asn": "13242",
+        "description": "Latvijas Biozinatnu un tehnologiju universitaete",
+        "handle": "LLU"
+    },
+    "13244": {
+        "country_code": "LV",
+        "asn": "13244",
+        "description": "Rietumu banka AS",
+        "handle": "RIETUMU-AS"
+    },
+    "15392": {
+        "country_code": "LV",
+        "asn": "15392",
+        "description": "Elvim SIA",
+        "handle": "ELVIM-AS"
+    },
+    "15483": {
+        "country_code": "LV",
+        "asn": "15483",
+        "description": "SIA NESS",
+        "handle": "SALESLV-AS"
+    },
+    "15615": {
+        "country_code": "LV",
+        "asn": "15615",
+        "description": "SIA IT Services",
+        "handle": "IT-SERVICES"
+    },
+    "15684": {
+        "country_code": "LV",
+        "asn": "15684",
+        "description": "OPTICOM SIA",
+        "handle": "OPTICOM-SIA"
+    },
+    "15721": {
+        "country_code": "LV",
+        "asn": "15721",
+        "description": "C.T.CO. Ltd.",
+        "handle": "CTCO"
+    },
+    "15818": {
+        "country_code": "LV",
+        "asn": "15818",
+        "description": "GASO AS",
+        "handle": "GASO-AS"
+    },
+    "15827": {
+        "country_code": "LV",
+        "asn": "15827",
+        "description": "SIA Biznesa augstskola Turiba",
+        "handle": "TURIBA-AS"
+    },
+    "15899": {
+        "country_code": "LV",
+        "asn": "15899",
+        "description": "ERNIS SIA",
+        "handle": "ERNIS-AS"
+    },
+    "16062": {
+        "country_code": "LV",
+        "asn": "16062",
+        "description": "Latvijas tikli SIA",
+        "handle": "LATVIJAS-TIKLI-SIA"
+    },
+    "16279": {
+        "country_code": "LV",
+        "asn": "16279",
+        "description": "AS Citadele banka",
+        "handle": "AS16279-CITADELE"
+    },
+    "20509": {
+        "country_code": "LV",
+        "asn": "20509",
+        "description": "Elko Grupa as",
+        "handle": "ELKO-GRUPA-AS"
+    },
+    "20548": {
+        "country_code": "LV",
+        "asn": "20548",
+        "description": "Latvijas Republikas Saeima",
+        "handle": "LATVIJAS-REPUBLIKAS-SAEIMA"
+    },
+    "20662": {
+        "country_code": "LV",
+        "asn": "20662",
+        "description": "Sia Nano IT",
+        "handle": "MP-ELEKTRONIKA-AS"
+    },
+    "20777": {
+        "country_code": "LV",
+        "asn": "20777",
+        "description": "Infoserv-Riga Ltd",
+        "handle": "INFOSERV-RIGA-LTD"
+    },
+    "20910": {
+        "country_code": "LV",
+        "asn": "20910",
+        "description": "SIA BITE Latvija",
+        "handle": "BALTKOM-AS"
+    },
+    "21016": {
+        "country_code": "LV",
+        "asn": "21016",
+        "description": "SIA BITE Latvija",
+        "handle": "LDC-AS"
+    },
+    "21061": {
+        "country_code": "LV",
+        "asn": "21061",
+        "description": "Telegrupa Baltija SIA",
+        "handle": "TELEKOMUNIKACIJU-GRUPA"
+    },
+    "21178": {
+        "country_code": "LV",
+        "asn": "21178",
+        "description": "LF Dati SIA",
+        "handle": "LFDATIAS"
+    },
+    "21325": {
+        "country_code": "LV",
+        "asn": "21325",
+        "description": "Tiesu Namu Agentura SIA",
+        "handle": "TNA"
+    },
+    "24589": {
+        "country_code": "LV",
+        "asn": "24589",
+        "description": "Telenet SIA",
+        "handle": "TELENETSIA-AS"
+    },
+    "24620": {
+        "country_code": "LV",
+        "asn": "24620",
+        "description": "Rigas Tehniska Universitate",
+        "handle": "RTU"
+    },
+    "24651": {
+        "country_code": "LV",
+        "asn": "24651",
+        "description": "JSC BALTICOM",
+        "handle": "LVBALTICOM-AS"
+    },
+    "24921": {
+        "country_code": "LV",
+        "asn": "24921",
+        "description": "Latvijas Mobilais Telefons SIA",
+        "handle": "LMT-3G"
+    },
+    "24972": {
+        "country_code": "LV",
+        "asn": "24972",
+        "description": "SIA LURSOFT IT",
+        "handle": "LURSOFT-AS"
+    },
+    "25107": {
+        "country_code": "LV",
+        "asn": "25107",
+        "description": "AS Industra Bank",
+        "handle": "MTBANK-AS"
+    },
+    "25241": {
+        "country_code": "LV",
+        "asn": "25241",
+        "description": "Information Centre of the Ministry of the Interior",
+        "handle": "IEM-AS"
+    },
+    "25444": {
+        "country_code": "LV",
+        "asn": "25444",
+        "description": "Headquarters of National Armed Forces Republic of Latvia",
+        "handle": "NAFHQLV-AS"
+    },
+    "28699": {
+        "country_code": "LV",
+        "asn": "28699",
+        "description": "SIA BITE Latvija",
+        "handle": "UNISTAR-AS"
+    },
+    "28803": {
+        "country_code": "LV",
+        "asn": "28803",
+        "description": "Optrix Ltd.",
+        "handle": "AS-OPTRIXLV"
+    },
+    "28843": {
+        "country_code": "LV",
+        "asn": "28843",
+        "description": "SIA BITE Latvija",
+        "handle": "DAUTKOM-AS"
+    },
+    "29345": {
+        "country_code": "LV",
+        "asn": "29345",
+        "description": "Institute of Mathematics and Computer Science of University of Latvia",
+        "handle": "LUMII"
+    },
+    "29466": {
+        "country_code": "LV",
+        "asn": "29466",
+        "description": "Valsts Ienemumu Dienests",
+        "handle": "VID-AS"
+    },
+    "29569": {
+        "country_code": "LV",
+        "asn": "29569",
+        "description": "ERGO Insurance SE trading as ERGO Insurance SE Latvijas filiale",
+        "handle": "ERGO-AS"
+    },
+    "29600": {
+        "country_code": "LV",
+        "asn": "29600",
+        "description": "AS Latvenergo",
+        "handle": "LATVENERGO-AS"
+    },
+    "31059": {
+        "country_code": "LV",
+        "asn": "31059",
+        "description": "SIA AVELACOM",
+        "handle": "AVELACOM-AS"
+    },
+    "31519": {
+        "country_code": "LV",
+        "asn": "31519",
+        "description": "SERTEX SIA",
+        "handle": "SERTEX2-AS"
+    },
+    "33867": {
+        "country_code": "LV",
+        "asn": "33867",
+        "description": "AIR BALTIC CORPORATION AS",
+        "handle": "AIRBALTIC"
+    },
+    "34001": {
+        "country_code": "LV",
+        "asn": "34001",
+        "description": "SIA LIVAS NET",
+        "handle": "LIVAS-NET-AS"
+    },
+    "34018": {
+        "country_code": "LV",
+        "asn": "34018",
+        "description": "JSC BALTICOM",
+        "handle": "LVBALTICOM-AS2"
+    },
+    "34073": {
+        "country_code": "LV",
+        "asn": "34073",
+        "description": "LR Izglitibas un zinatnes ministrija",
+        "handle": "ACAD-NET"
+    },
+    "34326": {
+        "country_code": "LV",
+        "asn": "34326",
+        "description": "CSC Telecom SIA",
+        "handle": "CSC-AS"
+    },
+    "34354": {
+        "country_code": "LV",
+        "asn": "34354",
+        "description": "JSC BALTICOM",
+        "handle": "BALTICOM-AS34354"
+    },
+    "34417": {
+        "country_code": "LV",
+        "asn": "34417",
+        "description": "BluOr Bank AS",
+        "handle": "BLUEORANGE-BANK-AS"
+    },
+    "34535": {
+        "country_code": "LV",
+        "asn": "34535",
+        "description": "Standart AG LLC",
+        "handle": "RIGA"
+    },
+    "34620": {
+        "country_code": "LV",
+        "asn": "34620",
+        "description": "Mikronet SIA",
+        "handle": "MIKRONET-LTD-AS"
+    },
+    "35036": {
+        "country_code": "LV",
+        "asn": "35036",
+        "description": "Akciju sabiedriba RD ALFA",
+        "handle": "RD-AS"
+    },
+    "35108": {
+        "country_code": "LV",
+        "asn": "35108",
+        "description": "EMERGN AS",
+        "handle": "EMERGN-LV"
+    },
+    "35182": {
+        "country_code": "LV",
+        "asn": "35182",
+        "description": "Emilia SIA",
+        "handle": "EMILIA"
+    },
+    "35254": {
+        "country_code": "LV",
+        "asn": "35254",
+        "description": "Sia Nano IT",
+        "handle": "BALTCOM-FIBER-AS"
+    },
+    "35302": {
+        "country_code": "LV",
+        "asn": "35302",
+        "description": "AS Latvenergo",
+        "handle": "LATVENERGO-AS-2"
+    },
+    "35333": {
+        "country_code": "LV",
+        "asn": "35333",
+        "description": "SIA NETVISION",
+        "handle": "VIA-SMS"
+    },
+    "35373": {
+        "country_code": "LV",
+        "asn": "35373",
+        "description": "Valsts akciju sabiedriba Latvijas Pasts",
+        "handle": "POST-LV-AS"
+    },
+    "35407": {
+        "country_code": "LV",
+        "asn": "35407",
+        "description": "Santa Monica Networks SIA",
+        "handle": "SMN-AS"
+    },
+    "35484": {
+        "country_code": "LV",
+        "asn": "35484",
+        "description": "SIA ALSO Latvia",
+        "handle": "ALSO-LATVIA-AS"
+    },
+    "35636": {
+        "country_code": "LV",
+        "asn": "35636",
+        "description": "SIA Worldline Latvia",
+        "handle": "FDL-AS"
+    },
+    "35734": {
+        "country_code": "LV",
+        "asn": "35734",
+        "description": "SIA PNB Print",
+        "handle": "PNB-AS"
+    },
+    "35809": {
+        "country_code": "LV",
+        "asn": "35809",
+        "description": "SIA DIVI Grupa",
+        "handle": "ASDIVI"
+    },
+    "38964": {
+        "country_code": "LV",
+        "asn": "38964",
+        "description": "NBI SIA",
+        "handle": "BALTNETAS"
+    },
+    "39352": {
+        "country_code": "LV",
+        "asn": "39352",
+        "description": "Signet Bank AS",
+        "handle": "LTB-AS"
+    },
+    "39365": {
+        "country_code": "LV",
+        "asn": "39365",
+        "description": "SIA BITE Latvija",
+        "handle": "MICROLINES-AS"
+    },
+    "39607": {
+        "country_code": "LV",
+        "asn": "39607",
+        "description": "SIA Piter-IX",
+        "handle": "PITER-IX-HELSINKI-ROUTE-SERVERS"
+    },
+    "39626": {
+        "country_code": "LV",
+        "asn": "39626",
+        "description": "C3 SIA",
+        "handle": "SMILE-LV"
+    },
+    "39675": {
+        "country_code": "LV",
+        "asn": "39675",
+        "description": "State Joint Stock Company Latvian Development Finance Institution Altum",
+        "handle": "LHIPO-AS"
+    },
+    "39814": {
+        "country_code": "LV",
+        "asn": "39814",
+        "description": "SIA IT Services",
+        "handle": "ITSERV"
+    },
+    "39845": {
+        "country_code": "LV",
+        "asn": "39845",
+        "description": "2 Cloud Ltd.",
+        "handle": "LV-2CLOUD-ASN16"
+    },
+    "39900": {
+        "country_code": "LV",
+        "asn": "39900",
+        "description": "SIA GOOD",
+        "handle": "GOODTEC"
+    },
+    "41333": {
+        "country_code": "LV",
+        "asn": "41333",
+        "description": "Boldhost SIA",
+        "handle": "BOLDHOST-AS"
+    },
+    "41376": {
+        "country_code": "LV",
+        "asn": "41376",
+        "description": "Jurmalas pilsetas dome",
+        "handle": "JURMALAS-DOME"
+    },
+    "41390": {
+        "country_code": "LV",
+        "asn": "41390",
+        "description": "Telenet SIA",
+        "handle": "RN-DATA-LV"
+    },
+    "41424": {
+        "country_code": "LV",
+        "asn": "41424",
+        "description": "Valsts akciju sabiedriba Latvijas dzelzcels",
+        "handle": "LDZNET"
+    },
+    "41563": {
+        "country_code": "LV",
+        "asn": "41563",
+        "description": "OSTKOM SIA",
+        "handle": "OST-AS"
+    },
+    "41609": {
+        "country_code": "LV",
+        "asn": "41609",
+        "description": "Standart AG LLC",
+        "handle": "AID-AS-REMOVING"
+    },
+    "41679": {
+        "country_code": "LV",
+        "asn": "41679",
+        "description": "Cadence SIA",
+        "handle": "CADENCE"
+    },
+    "41726": {
+        "country_code": "LV",
+        "asn": "41726",
+        "description": "SIA B2 Impact",
+        "handle": "CREDITREFORM-ASN"
+    },
+    "41898": {
+        "country_code": "LV",
+        "asn": "41898",
+        "description": "SIA Datu Tehnologiju Grupa",
+        "handle": "DTG-AS"
+    },
+    "42078": {
+        "country_code": "LV",
+        "asn": "42078",
+        "description": "XOTEL SIA",
+        "handle": "XOTEL"
+    },
+    "42099": {
+        "country_code": "LV",
+        "asn": "42099",
+        "description": "SIA NETVISION",
+        "handle": "NETVISION"
+    },
+    "42179": {
+        "country_code": "LV",
+        "asn": "42179",
+        "description": "Sia Nano IT",
+        "handle": "YOURSERVER"
+    },
+    "42480": {
+        "country_code": "LV",
+        "asn": "42480",
+        "description": "SIA BITE Latvija",
+        "handle": "LIX-AS"
+    },
+    "42532": {
+        "country_code": "LV",
+        "asn": "42532",
+        "description": "SIA VEESP",
+        "handle": "VEESP-LV-AS"
+    },
+    "42663": {
+        "country_code": "LV",
+        "asn": "42663",
+        "description": "SIA LATVIJAS TALRUNIS",
+        "handle": "LATVIJASTALRUNIS"
+    },
+    "42849": {
+        "country_code": "LV",
+        "asn": "42849",
+        "description": "SIA BITE Latvija",
+        "handle": "DATALAT-AS"
+    },
+    "42936": {
+        "country_code": "LV",
+        "asn": "42936",
+        "description": "SPX SIA",
+        "handle": "SPX"
+    },
+    "43028": {
+        "country_code": "LV",
+        "asn": "43028",
+        "description": "Ventspils city municipality institution Ventspils Digital Center",
+        "handle": "VD-AS"
+    },
+    "43104": {
+        "country_code": "LV",
+        "asn": "43104",
+        "description": "SJSC RIGA International Airport",
+        "handle": "RIA-AS"
+    },
+    "43123": {
+        "country_code": "LV",
+        "asn": "43123",
+        "description": "SIA Lexico Telecom LTD",
+        "handle": "LEXXICO"
+    },
+    "43162": {
+        "country_code": "LV",
+        "asn": "43162",
+        "description": "SkyGroup SIA",
+        "handle": "OLIMP-AS"
+    },
+    "43188": {
+        "country_code": "LV",
+        "asn": "43188",
+        "description": "Lauku atbalsta dienests",
+        "handle": "LDC-AS"
+    },
+    "43317": {
+        "country_code": "LV",
+        "asn": "43317",
+        "description": "SIA VEESP",
+        "handle": "VEESP-AS"
+    },
+    "43513": {
+        "country_code": "LV",
+        "asn": "43513",
+        "description": "Sia Nano IT",
+        "handle": "NANO-AS"
+    },
+    "43615": {
+        "country_code": "LV",
+        "asn": "43615",
+        "description": "Corporate Solutions SIA",
+        "handle": "CORPORATE-SOLUTIONS-SIA"
+    },
+    "43813": {
+        "country_code": "LV",
+        "asn": "43813",
+        "description": "Kulturas informacijas sistemu centrs",
+        "handle": "KIS-AS"
+    },
+    "43877": {
+        "country_code": "LV",
+        "asn": "43877",
+        "description": "Teleglobal SIA",
+        "handle": "TELEGLOBAL-AS"
+    },
+    "43956": {
+        "country_code": "LV",
+        "asn": "43956",
+        "description": "Latvijas Finieris A/S",
+        "handle": "FINIERIS-AS"
+    },
+    "44105": {
+        "country_code": "LV",
+        "asn": "44105",
+        "description": "LF Dati SIA",
+        "handle": "DROSIBA-AS"
+    },
+    "44441": {
+        "country_code": "LV",
+        "asn": "44441",
+        "description": "SIA PostMet",
+        "handle": "POSTMT-AS"
+    },
+    "44483": {
+        "country_code": "LV",
+        "asn": "44483",
+        "description": "Elektrons K SIA",
+        "handle": "ELEKTRONS-AS"
+    },
+    "44575": {
+        "country_code": "LV",
+        "asn": "44575",
+        "description": "SIA MWTV",
+        "handle": "MWTV-AS1"
+    },
+    "44624": {
+        "country_code": "LV",
+        "asn": "44624",
+        "description": "SIA RD Consult",
+        "handle": "SZ2999"
+    },
+    "44698": {
+        "country_code": "LV",
+        "asn": "44698",
+        "description": "Chancery of the President of Latvia",
+        "handle": "VPK-AS"
+    },
+    "47284": {
+        "country_code": "LV",
+        "asn": "47284",
+        "description": "Biedriba Latvijas Transportlidzeklu apdrosinataju birojs",
+        "handle": "LTAB-AS"
+    },
+    "47352": {
+        "country_code": "LV",
+        "asn": "47352",
+        "description": "VAS Latvijas Valsts radio un televizijas centrs",
+        "handle": "GLV-IX"
+    },
+    "47371": {
+        "country_code": "LV",
+        "asn": "47371",
+        "description": "XOmobile Ltd.",
+        "handle": "XOMOBILE"
+    },
+    "47485": {
+        "country_code": "LV",
+        "asn": "47485",
+        "description": "Starnet LTD",
+        "handle": "STARNET-AS"
+    },
+    "47499": {
+        "country_code": "LV",
+        "asn": "47499",
+        "description": "SIA ILVA Ltd.",
+        "handle": "ILVA-LV"
+    },
+    "47570": {
+        "country_code": "LV",
+        "asn": "47570",
+        "description": "SIA Tet",
+        "handle": "V2O-SIA-AS"
+    },
+    "47814": {
+        "country_code": "LV",
+        "asn": "47814",
+        "description": "SIA BITE Latvija",
+        "handle": "SNLV-AS"
+    },
+    "47920": {
+        "country_code": "LV",
+        "asn": "47920",
+        "description": "Andrejs Guba",
+        "handle": "PRIVATE-AS"
+    },
+    "47922": {
+        "country_code": "LV",
+        "asn": "47922",
+        "description": "Latvian Geospatial Information Agency",
+        "handle": "LGIA-AS"
+    },
+    "48113": {
+        "country_code": "LV",
+        "asn": "48113",
+        "description": "SIA PRIME TECHNOLOGY",
+        "handle": "PR-TECH"
+    },
+    "48193": {
+        "country_code": "LV",
+        "asn": "48193",
+        "description": "SIA Piter-IX",
+        "handle": "PITER-IX-FRANKFURT"
+    },
+    "48496": {
+        "country_code": "LV",
+        "asn": "48496",
+        "description": "Sia Nano IT",
+        "handle": "EWAY"
+    },
+    "48546": {
+        "country_code": "LV",
+        "asn": "48546",
+        "description": "SIA LETA",
+        "handle": "LETA-LV"
+    },
+    "48798": {
+        "country_code": "LV",
+        "asn": "48798",
+        "description": "SIA BITE Latvija",
+        "handle": "SNLT-AS"
+    },
+    "48867": {
+        "country_code": "LV",
+        "asn": "48867",
+        "description": "Akciju sabiedriba Regionala Investiciju Banka",
+        "handle": "RIB"
+    },
+    "48870": {
+        "country_code": "LV",
+        "asn": "48870",
+        "description": "Telenet SIA",
+        "handle": "KDC-AS"
+    },
+    "49036": {
+        "country_code": "LV",
+        "asn": "49036",
+        "description": "SIA Euro Live Technologies",
+        "handle": "EUROLIVETECH"
+    },
+    "49549": {
+        "country_code": "LV",
+        "asn": "49549",
+        "description": "Standart AG LLC",
+        "handle": "JEKABPILS"
+    },
+    "49634": {
+        "country_code": "LV",
+        "asn": "49634",
+        "description": "SIA Piter-IX",
+        "handle": "RIGA-PITERIX-AS"
+    },
+    "49654": {
+        "country_code": "LV",
+        "asn": "49654",
+        "description": "SIA HOSTBOX",
+        "handle": "FAQ-AS"
+    },
+    "49667": {
+        "country_code": "LV",
+        "asn": "49667",
+        "description": "Create & Develop BDR",
+        "handle": "IKFRIGA-AS"
+    },
+    "49700": {
+        "country_code": "LV",
+        "asn": "49700",
+        "description": "Creative PC service SIA",
+        "handle": "SPEED"
+    },
+    "50485": {
+        "country_code": "LV",
+        "asn": "50485",
+        "description": "Belam - Riga SIA",
+        "handle": "BELAM-RIGA"
+    },
+    "50731": {
+        "country_code": "LV",
+        "asn": "50731",
+        "description": "PRO-9 SIA",
+        "handle": "PRO9-AS"
+    },
+    "50755": {
+        "country_code": "LV",
+        "asn": "50755",
+        "description": "Svens Jansons",
+        "handle": "SVENS-JANSONS"
+    },
+    "50893": {
+        "country_code": "LV",
+        "asn": "50893",
+        "description": "LR Labklajibas Ministrija",
+        "handle": "LMLV-AS"
+    },
+    "51109": {
+        "country_code": "LV",
+        "asn": "51109",
+        "description": "Sia Nano IT",
+        "handle": "CAMELHOST-AS"
+    },
+    "51249": {
+        "country_code": "LV",
+        "asn": "51249",
+        "description": "SIA SILKO serviss",
+        "handle": "SILKO-AS"
+    },
+    "51268": {
+        "country_code": "LV",
+        "asn": "51268",
+        "description": "Joint Stock Company LPB Bank",
+        "handle": "LATPASTABANKA"
+    },
+    "51338": {
+        "country_code": "LV",
+        "asn": "51338",
+        "description": "SIA Latvijas Propana gaze",
+        "handle": "ASLPG"
+    },
+    "51347": {
+        "country_code": "LV",
+        "asn": "51347",
+        "description": "SMS solutions SIA",
+        "handle": "CDR-AS51347"
+    },
+    "51548": {
+        "country_code": "LV",
+        "asn": "51548",
+        "description": "SIA DOLPHNET",
+        "handle": "DOLPHNET"
+    },
+    "51610": {
+        "country_code": "LV",
+        "asn": "51610",
+        "description": "Signet Bank AS",
+        "handle": "BM2ME"
+    },
+    "51763": {
+        "country_code": "LV",
+        "asn": "51763",
+        "description": "IntechSystems SIA",
+        "handle": "INTECHSYSTEMS-AS"
+    },
+    "51894": {
+        "country_code": "LV",
+        "asn": "51894",
+        "description": "Mikrotikls SIA",
+        "handle": "AS-MIKROTIKLS"
+    },
+    "51955": {
+        "country_code": "LV",
+        "asn": "51955",
+        "description": "Institute of Mathematics and Computer Science of University of Latvia",
+        "handle": "NIC-LV-ANYCAST-AS"
+    },
+    "51961": {
+        "country_code": "LV",
+        "asn": "51961",
+        "description": "Standart AG LLC",
+        "handle": "SVXPVT"
+    },
+    "52048": {
+        "country_code": "LV",
+        "asn": "52048",
+        "description": "SIA RixHost",
+        "handle": "RIXHOST"
+    },
+    "52173": {
+        "country_code": "LV",
+        "asn": "52173",
+        "description": "Sia Nano IT",
+        "handle": "MAKONIX"
+    },
+    "56323": {
+        "country_code": "LV",
+        "asn": "56323",
+        "description": "Eco Baltia AS",
+        "handle": "ECOBALTIA"
+    },
+    "56454": {
+        "country_code": "LV",
+        "asn": "56454",
+        "description": "Tilde SIA",
+        "handle": "TILDE"
+    },
+    "56925": {
+        "country_code": "LV",
+        "asn": "56925",
+        "description": "SIA L.A.T",
+        "handle": "SIA-LAT-AS"
+    },
+    "56938": {
+        "country_code": "LV",
+        "asn": "56938",
+        "description": "MAGNUM MEDICAL SIA",
+        "handle": "MAGNUM"
+    },
+    "57058": {
+        "country_code": "LV",
+        "asn": "57058",
+        "description": "Valsts akciju sabiedriba Celu satiksmes drosibas direkcija",
+        "handle": "CSDD"
+    },
+    "57223": {
+        "country_code": "LV",
+        "asn": "57223",
+        "description": "SIA NETVISION",
+        "handle": "NOVA-ASN"
+    },
+    "57379": {
+        "country_code": "LV",
+        "asn": "57379",
+        "description": "RP SIA Rigas Satiksme",
+        "handle": "RK-AS"
+    },
+    "57431": {
+        "country_code": "LV",
+        "asn": "57431",
+        "description": "Neatliekamas Medicinas Palidzibas dienests",
+        "handle": "NMPD"
+    },
+    "57516": {
+        "country_code": "LV",
+        "asn": "57516",
+        "description": "SIA BITE Latvija",
+        "handle": "MITSLV-AS"
+    },
+    "57841": {
+        "country_code": "LV",
+        "asn": "57841",
+        "description": "Telenet SIA",
+        "handle": "KATI-AS"
+    },
+    "57936": {
+        "country_code": "LV",
+        "asn": "57936",
+        "description": "SIA Piter-IX",
+        "handle": "AS-TLL-PITER-IX"
+    },
+    "57946": {
+        "country_code": "LV",
+        "asn": "57946",
+        "description": "RPH Business Support AS",
+        "handle": "EDVAISERS-NET"
+    },
+    "57956": {
+        "country_code": "LV",
+        "asn": "57956",
+        "description": "RP SIA Rigas Satiksme",
+        "handle": "RPSIARS-AS"
+    },
+    "58061": {
+        "country_code": "LV",
+        "asn": "58061",
+        "description": "Scalaxy B.V.",
+        "handle": "SCALAXY-AS"
+    },
+    "58269": {
+        "country_code": "LV",
+        "asn": "58269",
+        "description": "CloudHosting SIA",
+        "handle": "AS-CLOUDHOSTING"
+    },
+    "59615": {
+        "country_code": "LV",
+        "asn": "59615",
+        "description": "SIA Serverum",
+        "handle": "SERVERUM-AS"
+    },
+    "59658": {
+        "country_code": "LV",
+        "asn": "59658",
+        "description": "SIA Defendix",
+        "handle": "DEFENDIX-AS"
+    },
+    "59732": {
+        "country_code": "LV",
+        "asn": "59732",
+        "description": "NBI SIA",
+        "handle": "VERUS"
+    },
+    "59967": {
+        "country_code": "LV",
+        "asn": "59967",
+        "description": "SIA EVOLUTION LATVIA",
+        "handle": "EVOLV-LV"
+    },
+    "60057": {
+        "country_code": "LV",
+        "asn": "60057",
+        "description": "Standart AG LLC",
+        "handle": "KUBERNETES"
+    },
+    "60066": {
+        "country_code": "LV",
+        "asn": "60066",
+        "description": "Tele2 SIA",
+        "handle": "TELE2LV-AS"
+    },
+    "60206": {
+        "country_code": "LV",
+        "asn": "60206",
+        "description": "SIA Maklaut",
+        "handle": "MAKLAUT-AS"
+    },
+    "60324": {
+        "country_code": "LV",
+        "asn": "60324",
+        "description": "Latvijas Sabiedriskais medijs VSIA",
+        "handle": "LTV-AS"
+    },
+    "60537": {
+        "country_code": "LV",
+        "asn": "60537",
+        "description": "Rezeknes pilsetas dome",
+        "handle": "REZEKNESDOME-LV"
+    },
+    "60567": {
+        "country_code": "LV",
+        "asn": "60567",
+        "description": "SIA RixHost",
+        "handle": "RIXHOST"
+    },
+    "61127": {
+        "country_code": "LV",
+        "asn": "61127",
+        "description": "SIA RD Consult",
+        "handle": "RDC"
+    },
+    "61277": {
+        "country_code": "LV",
+        "asn": "61277",
+        "description": "ScienceSoft SIA",
+        "handle": "SCIENCESOFT-AS"
+    },
+    "61376": {
+        "country_code": "LV",
+        "asn": "61376",
+        "description": "SIA Piter-IX",
+        "handle": "PITER-IX-URAL"
+    },
+    "62220": {
+        "country_code": "LV",
+        "asn": "62220",
+        "description": "State Regional Development Agency",
+        "handle": "LVRTC-VARAM-AS"
+    },
+    "62436": {
+        "country_code": "LV",
+        "asn": "62436",
+        "description": "RIGAS AUSTRUMU KLINISKA UNIVERSITATES SLIMNICA",
+        "handle": "RAKUS"
+    },
+    "62453": {
+        "country_code": "LV",
+        "asn": "62453",
+        "description": "Telenet SIA",
+        "handle": "BAGEMLV-AS"
+    },
+    "64421": {
+        "country_code": "LV",
+        "asn": "64421",
+        "description": "SERTEX SIA",
+        "handle": "SERTEX-AS"
+    },
+    "196948": {
+        "country_code": "LV",
+        "asn": "196948",
+        "description": "Ventspils Augstskola",
+        "handle": "VEA-AS"
+    },
+    "197271": {
+        "country_code": "LV",
+        "asn": "197271",
+        "description": "AS 4finance",
+        "handle": "OFG"
+    },
+    "197325": {
+        "country_code": "LV",
+        "asn": "197325",
+        "description": "SIA Immobilarium",
+        "handle": "CONNECTUM-AS"
+    },
+    "197446": {
+        "country_code": "LV",
+        "asn": "197446",
+        "description": "SIA Vitol Terminal Latvia",
+        "handle": "VENTSPILS-NAFTA-TERMINALS"
+    },
+    "197466": {
+        "country_code": "LV",
+        "asn": "197466",
+        "description": "SIA 3ENITH",
+        "handle": "TECHNOBRIDGE-AS"
+    },
+    "197616": {
+        "country_code": "LV",
+        "asn": "197616",
+        "description": "Optrix SIA",
+        "handle": "OPTRIX-LV"
+    },
+    "197870": {
+        "country_code": "LV",
+        "asn": "197870",
+        "description": "S.I.A.IBANPAY",
+        "handle": "IBANPAY"
+    },
+    "198285": {
+        "country_code": "LV",
+        "asn": "198285",
+        "description": "SIA Datakom",
+        "handle": "DATAKOM"
+    },
+    "198343": {
+        "country_code": "LV",
+        "asn": "198343",
+        "description": "Telenet SIA",
+        "handle": "TELENET-SIA-AS"
+    },
+    "198620": {
+        "country_code": "LV",
+        "asn": "198620",
+        "description": "Bralu Jurjanu biedriba",
+        "handle": "BRALU-JURJANU-BIEDRIBA-AS"
+    },
+    "199029": {
+        "country_code": "LV",
+        "asn": "199029",
+        "description": "World Registry of Internet Domains LTD",
+        "handle": "WORLD-REGISTRY-OF-INTERNET-DOMAINS-AS"
+    },
+    "199031": {
+        "country_code": "LV",
+        "asn": "199031",
+        "description": "SIA Amberbit",
+        "handle": "AMBERBIT"
+    },
+    "199034": {
+        "country_code": "LV",
+        "asn": "199034",
+        "description": "SIA Baltic project group",
+        "handle": "BPG"
+    },
+    "199103": {
+        "country_code": "LV",
+        "asn": "199103",
+        "description": "SIA Maklaut",
+        "handle": "MAKLAUT-AS"
+    },
+    "199168": {
+        "country_code": "LV",
+        "asn": "199168",
+        "description": "SIA Maklaut",
+        "handle": "CASTLAKE-AS"
+    },
+    "199300": {
+        "country_code": "LV",
+        "asn": "199300",
+        "description": "The State Agency of Medicines of Latvia",
+        "handle": "ZVA-AS"
+    },
+    "199558": {
+        "country_code": "LV",
+        "asn": "199558",
+        "description": "MEDIA PARTNERS SIA",
+        "handle": "MEDPA-AS"
+    },
+    "199577": {
+        "country_code": "LV",
+        "asn": "199577",
+        "description": "Digimoney-SIA",
+        "handle": "DIGIRET-LV"
+    },
+    "199663": {
+        "country_code": "LV",
+        "asn": "199663",
+        "description": "Valsts Kase",
+        "handle": "KASE"
+    },
+    "200676": {
+        "country_code": "LV",
+        "asn": "200676",
+        "description": "Svens Jansons",
+        "handle": "SVENS-JANSONS"
+    },
+    "201269": {
+        "country_code": "LV",
+        "asn": "201269",
+        "description": "Ivans Lavrentjevs",
+        "handle": "VELONEX"
+    },
+    "201315": {
+        "country_code": "LV",
+        "asn": "201315",
+        "description": "SIA BFA",
+        "handle": "BFA-ASN"
+    },
+    "201504": {
+        "country_code": "LV",
+        "asn": "201504",
+        "description": "Alberts Saulitis",
+        "handle": "SAULITIS-AS"
+    },
+    "201547": {
+        "country_code": "LV",
+        "asn": "201547",
+        "description": "National Library of Latvia",
+        "handle": "LNB"
+    },
+    "201574": {
+        "country_code": "LV",
+        "asn": "201574",
+        "description": "LATVIJAS LOTO VAS",
+        "handle": "LATLOTO"
+    },
+    "201611": {
+        "country_code": "LV",
+        "asn": "201611",
+        "description": "SmartLynx Airlines",
+        "handle": "SMARTLYNX-AS"
+    },
+    "201673": {
+        "country_code": "LV",
+        "asn": "201673",
+        "description": "Verifone Baltic SIA",
+        "handle": "PTSLV-AS"
+    },
+    "201716": {
+        "country_code": "LV",
+        "asn": "201716",
+        "description": "AAS Baltijas Apdrosinasanas Nams",
+        "handle": "BAN"
+    },
+    "201897": {
+        "country_code": "LV",
+        "asn": "201897",
+        "description": "Freeport of Riga Authority",
+        "handle": "RBPASN"
+    },
+    "202071": {
+        "country_code": "LV",
+        "asn": "202071",
+        "description": "xDaemon SIA",
+        "handle": "XDAEMONLV"
+    },
+    "202221": {
+        "country_code": "LV",
+        "asn": "202221",
+        "description": "Lailio Solutions SIA",
+        "handle": "LAILIO"
+    },
+    "202263": {
+        "country_code": "LV",
+        "asn": "202263",
+        "description": "NBI SIA",
+        "handle": "ETERNAL"
+    },
+    "202280": {
+        "country_code": "LV",
+        "asn": "202280",
+        "description": "NBI SIA",
+        "handle": "SKANDINETWORKS"
+    },
+    "202428": {
+        "country_code": "LV",
+        "asn": "202428",
+        "description": "Advailo SIA",
+        "handle": "ADVAILO"
+    },
+    "202555": {
+        "country_code": "LV",
+        "asn": "202555",
+        "description": "SIA Tamro",
+        "handle": "TAMRO"
+    },
+    "202589": {
+        "country_code": "LV",
+        "asn": "202589",
+        "description": "TestDevLab-SIA",
+        "handle": "TESTDEVLAB"
+    },
+    "202863": {
+        "country_code": "LV",
+        "asn": "202863",
+        "description": "OPTIBET LTD",
+        "handle": "OPTIBET-AS"
+    },
+    "202920": {
+        "country_code": "LV",
+        "asn": "202920",
+        "description": "SIA RixHost",
+        "handle": "DATACLUBV2"
+    },
+    "202998": {
+        "country_code": "LV",
+        "asn": "202998",
+        "description": "NBI SIA",
+        "handle": "GONET"
+    },
+    "203142": {
+        "country_code": "LV",
+        "asn": "203142",
+        "description": "SIA GOOD",
+        "handle": "GOODTEC-RU"
+    },
+    "203199": {
+        "country_code": "LV",
+        "asn": "203199",
+        "description": "UNUM SIA",
+        "handle": "UNUM"
+    },
+    "203339": {
+        "country_code": "LV",
+        "asn": "203339",
+        "description": "SIA Network Operations Center",
+        "handle": "NOC"
+    },
+    "203355": {
+        "country_code": "LV",
+        "asn": "203355",
+        "description": "Balcia Insurance SE",
+        "handle": "BALCIA-ASN"
+    },
+    "203557": {
+        "country_code": "LV",
+        "asn": "203557",
+        "description": "SIA RixHost",
+        "handle": "DATACLUB-NL"
+    },
+    "203856": {
+        "country_code": "LV",
+        "asn": "203856",
+        "description": "SIA GEEDO",
+        "handle": "GEEDO-AS"
+    },
+    "203866": {
+        "country_code": "LV",
+        "asn": "203866",
+        "description": "Versija SIA",
+        "handle": "DC-P2"
+    },
+    "204130": {
+        "country_code": "LV",
+        "asn": "204130",
+        "description": "DLV sia",
+        "handle": "DLVSIA"
+    },
+    "204380": {
+        "country_code": "LV",
+        "asn": "204380",
+        "description": "SIA Starbridge",
+        "handle": "STARBRIDGE-LV"
+    },
+    "204391": {
+        "country_code": "LV",
+        "asn": "204391",
+        "description": "NBI SIA",
+        "handle": "NBESTIHOSTING"
+    },
+    "204780": {
+        "country_code": "LV",
+        "asn": "204780",
+        "description": "NBI SIA",
+        "handle": "SHOPON"
+    },
+    "205045": {
+        "country_code": "LV",
+        "asn": "205045",
+        "description": "NBI SIA",
+        "handle": "NBI"
+    },
+    "205370": {
+        "country_code": "LV",
+        "asn": "205370",
+        "description": "Telenet SIA",
+        "handle": "LJA-AS"
+    },
+    "205445": {
+        "country_code": "LV",
+        "asn": "205445",
+        "description": "NBI SIA",
+        "handle": "BALTICHOSTING"
+    },
+    "205568": {
+        "country_code": "LV",
+        "asn": "205568",
+        "description": "NBI SIA",
+        "handle": "DIGITALBRIDGE"
+    },
+    "205625": {
+        "country_code": "LV",
+        "asn": "205625",
+        "description": "WSoft SIA",
+        "handle": "WSOFTSIA"
+    },
+    "205680": {
+        "country_code": "LV",
+        "asn": "205680",
+        "description": "Travel Communication SIA",
+        "handle": "TRAVELCOM-AS"
+    },
+    "205821": {
+        "country_code": "LV",
+        "asn": "205821",
+        "description": "SIA Arena Riga",
+        "handle": "ARENARIGA"
+    },
+    "206111": {
+        "country_code": "LV",
+        "asn": "206111",
+        "description": "LinkIT SIA",
+        "handle": "LINKITLV"
+    },
+    "206297": {
+        "country_code": "LV",
+        "asn": "206297",
+        "description": "SIA Global Cloud",
+        "handle": "GSO"
+    },
+    "206362": {
+        "country_code": "LV",
+        "asn": "206362",
+        "description": "SIA OSS Networks",
+        "handle": "LV-OSSNET-AS"
+    },
+    "206541": {
+        "country_code": "LV",
+        "asn": "206541",
+        "description": "Kreiss sia",
+        "handle": "KREISS-AS"
+    },
+    "206600": {
+        "country_code": "LV",
+        "asn": "206600",
+        "description": "Ministry of foreign affairs of the Republic of Latvia",
+        "handle": "MFALV"
+    },
+    "206902": {
+        "country_code": "LV",
+        "asn": "206902",
+        "description": "NOLAN sia",
+        "handle": "NOLAN-AS"
+    },
+    "206923": {
+        "country_code": "LV",
+        "asn": "206923",
+        "description": "NBI SIA",
+        "handle": "SPOTRIX"
+    },
+    "207066": {
+        "country_code": "LV",
+        "asn": "207066",
+        "description": "SOK SIA",
+        "handle": "SOK-AS"
+    },
+    "207377": {
+        "country_code": "LV",
+        "asn": "207377",
+        "description": "Evolution Latvia SIA",
+        "handle": "EG-AS"
+    },
+    "207476": {
+        "country_code": "LV",
+        "asn": "207476",
+        "description": "SIA Izglitibas sitemas",
+        "handle": "LV-IZS"
+    },
+    "207485": {
+        "country_code": "LV",
+        "asn": "207485",
+        "description": "Baltic Travel group SIA",
+        "handle": "BTG"
+    },
+    "207689": {
+        "country_code": "LV",
+        "asn": "207689",
+        "description": "Teikums JT SIA",
+        "handle": "TEIKUMS"
+    },
+    "208030": {
+        "country_code": "LV",
+        "asn": "208030",
+        "description": "SIA BITE Latvija",
+        "handle": "LATNET-KZO"
+    },
+    "208284": {
+        "country_code": "LV",
+        "asn": "208284",
+        "description": "Valsts sabiedriba ar ierobezotu atbildibu Latvijas Vides geologijas un meteorologijas centrs",
+        "handle": "LVGMC"
+    },
+    "208783": {
+        "country_code": "LV",
+        "asn": "208783",
+        "description": "SIA AVELACOM",
+        "handle": "SIA-AVELACOM"
+    },
+    "208938": {
+        "country_code": "LV",
+        "asn": "208938",
+        "description": "RIGAS PIENA KOMBINATS AS",
+        "handle": "RPK"
+    },
+    "208995": {
+        "country_code": "LV",
+        "asn": "208995",
+        "description": "Sabiedrisko pakalpojumu regulesanas komisija",
+        "handle": "SPRK"
+    },
+    "208996": {
+        "country_code": "LV",
+        "asn": "208996",
+        "description": "NBI SIA",
+        "handle": "NETNAMS"
+    },
+    "209603": {
+        "country_code": "LV",
+        "asn": "209603",
+        "description": "AS Conexus Baltic Grid",
+        "handle": "CONEXUS-BALTIC-GRID"
+    },
+    "209804": {
+        "country_code": "LV",
+        "asn": "209804",
+        "description": "SIA IT Services",
+        "handle": "MDITSERV"
+    },
+    "209895": {
+        "country_code": "LV",
+        "asn": "209895",
+        "description": "NBI SIA",
+        "handle": "KVANTANETAS"
+    },
+    "210130": {
+        "country_code": "LV",
+        "asn": "210130",
+        "description": "NBI SIA",
+        "handle": "OPTILANAS"
+    },
+    "210155": {
+        "country_code": "LV",
+        "asn": "210155",
+        "description": "SIA BITE Latvija",
+        "handle": "CLOUDS4HOST"
+    },
+    "210213": {
+        "country_code": "LV",
+        "asn": "210213",
+        "description": "VAS Latvijas Valsts radio un televizijas centrs",
+        "handle": "STATE-ICT-AS"
+    },
+    "210556": {
+        "country_code": "LV",
+        "asn": "210556",
+        "description": "NBI SIA",
+        "handle": "SMTPSERVER"
+    },
+    "210591": {
+        "country_code": "LV",
+        "asn": "210591",
+        "description": "VAS Latvijas Valsts radio un televizijas centrs",
+        "handle": "STATE-LVRTC-AS"
+    },
+    "210599": {
+        "country_code": "LV",
+        "asn": "210599",
+        "description": "Ubiquiti (Latvia) SIA",
+        "handle": "UBIQUITI-LV"
+    },
+    "210668": {
+        "country_code": "LV",
+        "asn": "210668",
+        "description": "SIA Spotrix",
+        "handle": "SPOTRIXLVL"
+    },
+    "210817": {
+        "country_code": "LV",
+        "asn": "210817",
+        "description": "Carmine Red IT SIA",
+        "handle": "CARMINERED-AS"
+    },
+    "210830": {
+        "country_code": "LV",
+        "asn": "210830",
+        "description": "NBI SIA",
+        "handle": "MYFATDIGITAL"
+    },
+    "210886": {
+        "country_code": "LV",
+        "asn": "210886",
+        "description": "AS Magnetiq Bank",
+        "handle": "LPB-AS"
+    },
+    "210895": {
+        "country_code": "LV",
+        "asn": "210895",
+        "description": "Podaon SIA",
+        "handle": "PODAON-PL-1"
+    },
+    "211008": {
+        "country_code": "LV",
+        "asn": "211008",
+        "description": "Arturs Lihners",
+        "handle": "LIKHNER-AS"
+    },
+    "211381": {
+        "country_code": "LV",
+        "asn": "211381",
+        "description": "Podaon SIA",
+        "handle": "PODAON"
+    },
+    "211424": {
+        "country_code": "LV",
+        "asn": "211424",
+        "description": "SIA LSK Studios",
+        "handle": "LSK-STUDIOS"
+    },
+    "211527": {
+        "country_code": "LV",
+        "asn": "211527",
+        "description": "SIA Orkla Latvija",
+        "handle": "ORKLA-LATVIJA"
+    },
+    "211838": {
+        "country_code": "LV",
+        "asn": "211838",
+        "description": "SIA Aizdevums.lv",
+        "handle": "AIZDEVUMS-LV"
+    },
+    "211885": {
+        "country_code": "LV",
+        "asn": "211885",
+        "description": "Prodimpekss Logistikas Grupa SIA",
+        "handle": "PLG-AS"
+    },
+    "212132": {
+        "country_code": "LV",
+        "asn": "212132",
+        "description": "Evolution Latvia SIA",
+        "handle": "EG-AS"
+    },
+    "212197": {
+        "country_code": "LV",
+        "asn": "212197",
+        "description": "SIA Infrastrukturas Attistibas Uznemums",
+        "handle": "SIA-IAU"
+    },
+    "212451": {
+        "country_code": "LV",
+        "asn": "212451",
+        "description": "SIA RMDK",
+        "handle": "RMDK-AS"
+    },
+    "212496": {
+        "country_code": "LV",
+        "asn": "212496",
+        "description": "SIA GOOD",
+        "handle": "GOODTEC"
+    },
+    "212676": {
+        "country_code": "LV",
+        "asn": "212676",
+        "description": "SIA Decta",
+        "handle": "DECTA"
+    },
+    "212717": {
+        "country_code": "LV",
+        "asn": "212717",
+        "description": "Tietoevry Latvia SIA",
+        "handle": "TIETO-LATVIA"
+    },
+    "212911": {
+        "country_code": "LV",
+        "asn": "212911",
+        "description": "SIA Network Operations Center",
+        "handle": "TABDIGITAL"
+    },
+    "213022": {
+        "country_code": "LV",
+        "asn": "213022",
+        "description": "SIA DPD Latvija",
+        "handle": "DPD-LV"
+    },
+    "213166": {
+        "country_code": "LV",
+        "asn": "213166",
+        "description": "UA-Hosting SIA",
+        "handle": "UA-HOSTING"
+    },
+    "213601": {
+        "country_code": "LV",
+        "asn": "213601",
+        "description": "SIA SOFTTECH",
+        "handle": "SOFTTECH"
+    },
+    "213649": {
+        "country_code": "LV",
+        "asn": "213649",
+        "description": "Latvijas Sabiedriskais medijs VSIA",
+        "handle": "LATVIJASRADIOVSIA"
+    },
+    "213814": {
+        "country_code": "LV",
+        "asn": "213814",
+        "description": "Versija SIA",
+        "handle": "VERNET-TB"
+    },
+    "213934": {
+        "country_code": "LV",
+        "asn": "213934",
+        "description": "IPV1 SIA",
+        "handle": "IPV1-SIA-AS"
+    },
+    "214129": {
+        "country_code": "LV",
+        "asn": "214129",
+        "description": "Cilveks. Vide. Darbs. Association",
+        "handle": "ASN"
+    },
+    "214360": {
+        "country_code": "LV",
+        "asn": "214360",
+        "description": "SIA Network Operations Center",
+        "handle": "TABDIGITAL"
+    },
+    "214507": {
+        "country_code": "LV",
+        "asn": "214507",
+        "description": "SIA Puces datorsistemas",
+        "handle": "PLDS"
+    },
+    "215329": {
+        "country_code": "LV",
+        "asn": "215329",
+        "description": "SIA RXTX Baltija",
+        "handle": "RXTX"
+    },
+    "215373": {
+        "country_code": "LV",
+        "asn": "215373",
+        "description": "Sabiedriba ar ierobezotu atbildibu DELSKA Latvia",
+        "handle": "DELSKA-C4"
+    },
+    "215537": {
+        "country_code": "LV",
+        "asn": "215537",
+        "description": "E-karte SIA",
+        "handle": "E-KARTE-AS"
+    },
+    "215626": {
+        "country_code": "LV",
+        "asn": "215626",
+        "description": "SIA RixHost",
+        "handle": "SIADC"
+    },
+    "215702": {
+        "country_code": "LV",
+        "asn": "215702",
+        "description": "REDAM SIA",
+        "handle": "REDAM-ASN"
+    },
+    "215712": {
+        "country_code": "LV",
+        "asn": "215712",
+        "description": "Printful Latvia AS",
+        "handle": "PRINTFUL"
+    },
+    "216268": {
+        "country_code": "LV",
+        "asn": "216268",
+        "description": "gubavlosiit SIA",
+        "handle": "GUBAVLOSIITSIA"
+    },
+    "216464": {
+        "country_code": "LV",
+        "asn": "216464",
+        "description": "SIA Callgear",
+        "handle": "CALLGEAR"
+    }
+}

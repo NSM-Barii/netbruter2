@@ -1,0 +1,254 @@
+{
+    "9873": {
+        "country_code": "LA",
+        "asn": "9873",
+        "description": "Lao Telecommunication Public Company",
+        "handle": "TELECOM-LA-AS-AP"
+    },
+    "10104": {
+        "country_code": "LA",
+        "asn": "10104",
+        "description": "BV K Computer",
+        "handle": "BVKCOMPUTER-AS-AP"
+    },
+    "10226": {
+        "country_code": "LA",
+        "asn": "10226",
+        "description": "ETL Company Limited",
+        "handle": "ETL-IX-AS-AP"
+    },
+    "17804": {
+        "country_code": "LA",
+        "asn": "17804",
+        "description": "LAO DC IT SOLE COMPANY LIMITED",
+        "handle": "LAODC-AS-AP"
+    },
+    "18385": {
+        "country_code": "LA",
+        "asn": "18385",
+        "description": "Laos Mobile Communications Sole Co. Ltd",
+        "handle": "LMCSCL-AS-AP"
+    },
+    "23900": {
+        "country_code": "LA",
+        "asn": "23900",
+        "description": "Planet Online Laos",
+        "handle": "PLANET-ONLINE-AS-LA"
+    },
+    "24337": {
+        "country_code": "LA",
+        "asn": "24337",
+        "description": "Sky Telecom State Company",
+        "handle": "SKYTELECOM-AS-AP"
+    },
+    "24566": {
+        "country_code": "LA",
+        "asn": "24566",
+        "description": "ETL Company Limited",
+        "handle": "ETL-GPRS-AS-AP"
+    },
+    "38528": {
+        "country_code": "LA",
+        "asn": "38528",
+        "description": "Lao National Internet Center",
+        "handle": "LANIC-AS-AP"
+    },
+    "45906": {
+        "country_code": "LA",
+        "asn": "45906",
+        "description": "National University of Laos (NUOL)",
+        "handle": "NUOL-LA"
+    },
+    "55508": {
+        "country_code": "LA",
+        "asn": "55508",
+        "description": "National Internet Center (NIC)",
+        "handle": "INTERNET-LA"
+    },
+    "58808": {
+        "country_code": "LA",
+        "asn": "58808",
+        "description": "Siamdata (Lao) Co. Ltd",
+        "handle": "SIAMDATACOLTD-AS"
+    },
+    "131267": {
+        "country_code": "LA",
+        "asn": "131267",
+        "description": "Star Telecom",
+        "handle": "UNITEL-LA"
+    },
+    "131297": {
+        "country_code": "LA",
+        "asn": "131297",
+        "description": "Lao-Viet Bank CO. LTD",
+        "handle": "LAOTELECOMSKYTELECOM-AS-AP"
+    },
+    "132513": {
+        "country_code": "LA",
+        "asn": "132513",
+        "description": "Sky Telecom State Company",
+        "handle": "SKYTELLAO-AS-AP"
+    },
+    "132861": {
+        "country_code": "LA",
+        "asn": "132861",
+        "description": "LAO DC IT SOLE COMPANY LIMITED",
+        "handle": "LAODC-AS-AP"
+    },
+    "133500": {
+        "country_code": "LA",
+        "asn": "133500",
+        "description": "Lao Gateway Co. Ltd",
+        "handle": "LGW-AS-AP"
+    },
+    "133630": {
+        "country_code": "LA",
+        "asn": "133630",
+        "description": "Lao Telecommunication Public Company",
+        "handle": "LATELECOM-AS-AP"
+    },
+    "134989": {
+        "country_code": "LA",
+        "asn": "134989",
+        "description": "LAO NET COMMUNICATION SOLE CO. LTD",
+        "handle": "LNCSC-AS-AP"
+    },
+    "135059": {
+        "country_code": "LA",
+        "asn": "135059",
+        "description": "Lao Asia Pacific Satellite Co. Ltd.",
+        "handle": "LAPSCL-AS-AP"
+    },
+    "135068": {
+        "country_code": "LA",
+        "asn": "135068",
+        "description": "HOD Media Co. Ltd",
+        "handle": "HODMC-AS-AP"
+    },
+    "135274": {
+        "country_code": "LA",
+        "asn": "135274",
+        "description": "National Academic and Research Network for Laos",
+        "handle": "LERNET-AS-AP"
+    },
+    "136486": {
+        "country_code": "LA",
+        "asn": "136486",
+        "description": "Datacom Sole Co. Ltd",
+        "handle": "DATACOM-AS-AP"
+    },
+    "136748": {
+        "country_code": "LA",
+        "asn": "136748",
+        "description": "Etern Laos Communication Technology Sole Co . Ltd",
+        "handle": "ETERNLAOSCOMMUNICATIONTECHNOLOGYSOLECOLTD-AS-AP"
+    },
+    "137838": {
+        "country_code": "LA",
+        "asn": "137838",
+        "description": "CHALERNSUB PROFESSIONAL NETWORK CO. LTD.",
+        "handle": "CPNSC-AS-AP"
+    },
+    "137905": {
+        "country_code": "LA",
+        "asn": "137905",
+        "description": "Mangkone Technology Co. Ltd.",
+        "handle": "REVO-AS-AP"
+    },
+    "138327": {
+        "country_code": "LA",
+        "asn": "138327",
+        "description": "MJ TRADE AND SERVICES INDIVIDUAL ENTERPRISE",
+        "handle": "MTASIE-AS-AP"
+    },
+    "138668": {
+        "country_code": "LA",
+        "asn": "138668",
+        "description": "Department of Digital Technology",
+        "handle": "MOTACOL-AS-AP"
+    },
+    "138934": {
+        "country_code": "LA",
+        "asn": "138934",
+        "description": "SLT Network Co. LTD",
+        "handle": "SLTNETWORKCOLTD-AS-AP"
+    },
+    "139011": {
+        "country_code": "LA",
+        "asn": "139011",
+        "description": "Banque pour le Commerce Exterieur Lao Public",
+        "handle": "BCELLAOS-AS-AP"
+    },
+    "139297": {
+        "country_code": "LA",
+        "asn": "139297",
+        "description": "Lao International Technology Service Sole Co. Ltd",
+        "handle": "LITSSCL-AS-AP"
+    },
+    "139348": {
+        "country_code": "LA",
+        "asn": "139348",
+        "description": "Lao International Technology Service Sole Co. Ltd",
+        "handle": "LITSSCL-AS-AP"
+    },
+    "140631": {
+        "country_code": "LA",
+        "asn": "140631",
+        "description": "Global Digital Management Solutions Co Ltd",
+        "handle": "GDMSCL-AS-AP"
+    },
+    "140635": {
+        "country_code": "LA",
+        "asn": "140635",
+        "description": "3C Link Technology Sole Co. Ltd.",
+        "handle": "THREEC-LINKTECNOLOGYSOLECOLTD-AS-AP"
+    },
+    "147065": {
+        "country_code": "LA",
+        "asn": "147065",
+        "description": "Lao telecom construction Co. Ltd",
+        "handle": "LTCC-AS-AP"
+    },
+    "150716": {
+        "country_code": "LA",
+        "asn": "150716",
+        "description": "AP Network Communication & Technology Sole CO. LTD",
+        "handle": "ANCTSC-AS-AP"
+    },
+    "151953": {
+        "country_code": "LA",
+        "asn": "151953",
+        "description": "Electricite Du Laos",
+        "handle": "ELECTRICITEDULAOS-AS-AP"
+    },
+    "152145": {
+        "country_code": "LA",
+        "asn": "152145",
+        "description": "National University of Laos (NUOL)",
+        "handle": "NUOL-AS-AP"
+    },
+    "153347": {
+        "country_code": "LA",
+        "asn": "153347",
+        "description": "Lao Communication Technology Sole Co. Ltd",
+        "handle": "LCTLAOS-AS-AP"
+    },
+    "153526": {
+        "country_code": "LA",
+        "asn": "153526",
+        "description": "Laos Mobile Communications Sole Co. Ltd",
+        "handle": "LMCSCL-AS-AP"
+    },
+    "153966": {
+        "country_code": "LA",
+        "asn": "153966",
+        "description": "Joint Development Bank",
+        "handle": "JDB-AS-AP"
+    },
+    "153977": {
+        "country_code": "LA",
+        "asn": "153977",
+        "description": "Laos Mobile Communications Sole Co. Ltd",
+        "handle": "LMCSCL-AS-AP"
+    }
+}

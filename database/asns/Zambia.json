@@ -1,0 +1,146 @@
+{
+    "7420": {
+        "country_code": "ZM",
+        "asn": "7420",
+        "description": "Zamnet",
+        "handle": "ZAMNET-AS"
+    },
+    "36959": {
+        "country_code": "ZM",
+        "asn": "36959",
+        "description": "AfriConnect Zambia Ltd",
+        "handle": "AFCZAS"
+    },
+    "36962": {
+        "country_code": "ZM",
+        "asn": "36962",
+        "description": "MTN Zambia",
+        "handle": "MTNZ-AS"
+    },
+    "37146": {
+        "country_code": "ZM",
+        "asn": "37146",
+        "description": "Hai Telecommunications Limited",
+        "handle": "REALTIME-AS"
+    },
+    "37154": {
+        "country_code": "ZM",
+        "asn": "37154",
+        "description": "Zambia Telecommunications Company Ltd aka ZAMTEL",
+        "handle": "ZAMTEL"
+    },
+    "37185": {
+        "country_code": "ZM",
+        "asn": "37185",
+        "description": "iSAT Africa Zambia Ltd",
+        "handle": "ISAT-AFRICA"
+    },
+    "37221": {
+        "country_code": "ZM",
+        "asn": "37221",
+        "description": "Zambia Internet Exchange Point",
+        "handle": "LUSAKA-IXP"
+    },
+    "37287": {
+        "country_code": "ZM",
+        "asn": "37287",
+        "description": "Zain Zambia PLC",
+        "handle": "ZAIN-ZAMBIA"
+    },
+    "37374": {
+        "country_code": "ZM",
+        "asn": "37374",
+        "description": "CEC LIQUID TELECOM",
+        "handle": "LIQUID-ZAMBIA"
+    },
+    "37532": {
+        "country_code": "ZM",
+        "asn": "37532",
+        "description": "Zambia Research and Education Network (ZAMREN)",
+        "handle": "ZAMREN"
+    },
+    "37569": {
+        "country_code": "ZM",
+        "asn": "37569",
+        "description": "Roke Telkom Zambia",
+        "handle": "ROKE-ZAMBIA-ASN"
+    },
+    "37792": {
+        "country_code": "ZM",
+        "asn": "37792",
+        "description": "Lusaka Internet Exchange point",
+        "handle": "LUSAKA-IXP-PEERING"
+    },
+    "327904": {
+        "country_code": "ZM",
+        "asn": "327904",
+        "description": "Zambia Information and communication Technology Authority",
+        "handle": "ZICTA"
+    },
+    "328194": {
+        "country_code": "ZM",
+        "asn": "328194",
+        "description": "Copperbelt Energy Corporation Plc",
+        "handle": "COPPERBELT-ENERGY-CORPORATION"
+    },
+    "328420": {
+        "country_code": "ZM",
+        "asn": "328420",
+        "description": "Bank of Zambia",
+        "handle": "BANK-OF-ZAMBIA-VAS"
+    },
+    "328427": {
+        "country_code": "ZM",
+        "asn": "328427",
+        "description": "AirLink Broadband Limited",
+        "handle": "AIRLINK-BROADBAND-AS"
+    },
+    "328570": {
+        "country_code": "ZM",
+        "asn": "328570",
+        "description": "Fibrecom Limited",
+        "handle": "FIBRECOM-LIMITED"
+    },
+    "328646": {
+        "country_code": "ZM",
+        "asn": "328646",
+        "description": "INFRATEL CORPORATION LIMITED",
+        "handle": "INFRATEL-CORPORATION"
+    },
+    "328665": {
+        "country_code": "ZM",
+        "asn": "328665",
+        "description": "Zambia Revenue Authority",
+        "handle": "ZRA-AS"
+    },
+    "328817": {
+        "country_code": "ZM",
+        "asn": "328817",
+        "description": "CITY CHANNELS CABLE NETWORK ZAMBIA LIMITED",
+        "handle": "CITYCHANNEL-AS"
+    },
+    "329025": {
+        "country_code": "ZM",
+        "asn": "329025",
+        "description": "ZSIC LIFE PLC",
+        "handle": "ZSIC-LIFE-AS"
+    },
+    "329105": {
+        "country_code": "ZM",
+        "asn": "329105",
+        "description": "Lusaka Internet Exchange point",
+        "handle": "LUSAKA-IXP-MGT"
+    },
+    "329383": {
+        "country_code": "ZM",
+        "asn": "329383",
+        "description": "NetOne Data Ltd",
+        "handle": "NETONE-DATA"
+    },
+    "329444": {
+        "country_code": "ZM",
+        "asn": "329444",
+        "description": "BEELINE TELECOMS LIMITED",
+        "handle": "BEELINE-TELECOMS-LIMITED"
+    }
+}

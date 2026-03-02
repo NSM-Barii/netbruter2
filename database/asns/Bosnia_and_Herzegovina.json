@@ -1,0 +1,350 @@
+{
+    "8670": {
+        "country_code": "BA",
+        "asn": "8670",
+        "description": "University of Sarajevo",
+        "handle": "UTIC-AUTONOMUS-SYSTEM"
+    },
+    "9146": {
+        "country_code": "BA",
+        "asn": "9146",
+        "description": "BH Telecom d.d. Sarajevo",
+        "handle": "BIHNET"
+    },
+    "16145": {
+        "country_code": "BA",
+        "asn": "16145",
+        "description": "Lanaco d.o.o. za Informacione Tehnologije Banja Luka",
+        "handle": "LANACO-AS"
+    },
+    "16178": {
+        "country_code": "BA",
+        "asn": "16178",
+        "description": "Logosoft information engineering and Internet providing",
+        "handle": "LOGOSOFT-AS"
+    },
+    "20875": {
+        "country_code": "BA",
+        "asn": "20875",
+        "description": "JP HT d.d. Mostar",
+        "handle": "HPTNET-AS"
+    },
+    "21107": {
+        "country_code": "BA",
+        "asn": "21107",
+        "description": "Blicnet d.o.o. Banja Luka",
+        "handle": "BLICNET-AS"
+    },
+    "25144": {
+        "country_code": "BA",
+        "asn": "25144",
+        "description": "Telekomunikacije Republike Srpske akcionarsko drustvo Banja Luka",
+        "handle": "TELEKOM-SRPSKE-AS"
+    },
+    "34943": {
+        "country_code": "BA",
+        "asn": "34943",
+        "description": "Poste Srpske a.d.",
+        "handle": "SPINTERNET-AS"
+    },
+    "35107": {
+        "country_code": "BA",
+        "asn": "35107",
+        "description": "MEDIA SKY d.o.o. za proizvodnju promet i usluge",
+        "handle": "MEDIASKY-ZIVINICE"
+    },
+    "35567": {
+        "country_code": "BA",
+        "asn": "35567",
+        "description": "DASTO semtel d.o.o.",
+        "handle": "DASTO-BOSNIA-AS"
+    },
+    "39689": {
+        "country_code": "BA",
+        "asn": "39689",
+        "description": "Konzum d.o.o. Sarajevo",
+        "handle": "KONZUM-AS"
+    },
+    "39826": {
+        "country_code": "BA",
+        "asn": "39826",
+        "description": "Terc Trade Company d.o.o.",
+        "handle": "TERC"
+    },
+    "42432": {
+        "country_code": "BA",
+        "asn": "42432",
+        "description": "Telemach BH d.o.o. Sarajevo",
+        "handle": "HS-HKB"
+    },
+    "42450": {
+        "country_code": "BA",
+        "asn": "42450",
+        "description": "Telemach BH d.o.o. Sarajevo",
+        "handle": "TELEMACH"
+    },
+    "42560": {
+        "country_code": "BA",
+        "asn": "42560",
+        "description": "Telemach BH d.o.o. Sarajevo",
+        "handle": "BA-TELEMACH-AS"
+    },
+    "42571": {
+        "country_code": "BA",
+        "asn": "42571",
+        "description": "Blicnet d.o.o. Banja Luka",
+        "handle": "TLR-AS"
+    },
+    "42983": {
+        "country_code": "BA",
+        "asn": "42983",
+        "description": "Telemach BH d.o.o. Sarajevo",
+        "handle": "BA-GLOBALNET"
+    },
+    "43179": {
+        "country_code": "BA",
+        "asn": "43179",
+        "description": "Team Consulting d.o.o.",
+        "handle": "TEAMC-AS"
+    },
+    "43604": {
+        "country_code": "BA",
+        "asn": "43604",
+        "description": "Telemach BH d.o.o. Sarajevo",
+        "handle": "AS-MONET-CIP"
+    },
+    "43752": {
+        "country_code": "BA",
+        "asn": "43752",
+        "description": "Ministry of Science and Technology Development and Higher Education",
+        "handle": "SARNET"
+    },
+    "43947": {
+        "country_code": "BA",
+        "asn": "43947",
+        "description": "Raiffeisen Bank D.D. Bosnia and Herzegovina",
+        "handle": "RFSN-BA-AS"
+    },
+    "47840": {
+        "country_code": "BA",
+        "asn": "47840",
+        "description": "DSL-Elektronika d.o.o.",
+        "handle": "DSL-ELEKTRONIKA-AS"
+    },
+    "47959": {
+        "country_code": "BA",
+        "asn": "47959",
+        "description": "Telinea d.o.o.",
+        "handle": "TELINEA"
+    },
+    "48059": {
+        "country_code": "BA",
+        "asn": "48059",
+        "description": "Konzum d.o.o. Sarajevo",
+        "handle": "MERCATOR-BA-AS"
+    },
+    "48443": {
+        "country_code": "BA",
+        "asn": "48443",
+        "description": "University of Sarajevo",
+        "handle": "BHNIX"
+    },
+    "50249": {
+        "country_code": "BA",
+        "asn": "50249",
+        "description": "ASA Banka Sarajevo d.d.",
+        "handle": "ASABANK-BA"
+    },
+    "50537": {
+        "country_code": "BA",
+        "asn": "50537",
+        "description": "QSS D.O.O. Sarajevo",
+        "handle": "QSS-AS"
+    },
+    "50938": {
+        "country_code": "BA",
+        "asn": "50938",
+        "description": "Telemach BH d.o.o. Sarajevo",
+        "handle": "BA-TELEMACH-GLOBAL-AS"
+    },
+    "51386": {
+        "country_code": "BA",
+        "asn": "51386",
+        "description": "Telemach BH d.o.o. Sarajevo",
+        "handle": "BA-TELEMACH"
+    },
+    "57869": {
+        "country_code": "BA",
+        "asn": "57869",
+        "description": "MISS.NET d.o.o.",
+        "handle": "MISSNET"
+    },
+    "59847": {
+        "country_code": "BA",
+        "asn": "59847",
+        "description": "WIRAC.NET d.o.o.",
+        "handle": "WIRAC"
+    },
+    "60588": {
+        "country_code": "BA",
+        "asn": "60588",
+        "description": "Team Consulting d.o.o.",
+        "handle": "XENTO-AS"
+    },
+    "197687": {
+        "country_code": "BA",
+        "asn": "197687",
+        "description": "Telemach BH d.o.o. Sarajevo",
+        "handle": "VMO-AS"
+    },
+    "198252": {
+        "country_code": "BA",
+        "asn": "198252",
+        "description": "Blicnet d.o.o. Banja Luka",
+        "handle": "ELTAKABEL-AS"
+    },
+    "198562": {
+        "country_code": "BA",
+        "asn": "198562",
+        "description": "University of Mostar",
+        "handle": "SUM-AS"
+    },
+    "198994": {
+        "country_code": "BA",
+        "asn": "198994",
+        "description": "Nova banka AD Banjaluka",
+        "handle": "NOVABANKA-AS"
+    },
+    "199051": {
+        "country_code": "BA",
+        "asn": "199051",
+        "description": "D.O.O. Elit M Biljeljina",
+        "handle": "SCWLAN"
+    },
+    "199525": {
+        "country_code": "BA",
+        "asn": "199525",
+        "description": "Net-Flet d.o.o.",
+        "handle": "NETFLET"
+    },
+    "200698": {
+        "country_code": "BA",
+        "asn": "200698",
+        "description": "Globalhost d.o.o.",
+        "handle": "GLOBALHOST-BOSNIA-AS"
+    },
+    "200914": {
+        "country_code": "BA",
+        "asn": "200914",
+        "description": "Agencija za bankarstvo FBiH",
+        "handle": "FBAFBIH"
+    },
+    "201719": {
+        "country_code": "BA",
+        "asn": "201719",
+        "description": "Teleklik d.o.o.",
+        "handle": "TK-AS"
+    },
+    "202632": {
+        "country_code": "BA",
+        "asn": "202632",
+        "description": "TXTV d.o.o. Tuzla",
+        "handle": "TXTV"
+    },
+    "203744": {
+        "country_code": "BA",
+        "asn": "203744",
+        "description": "Telekomunikacije Republike Srpske akcionarsko drustvo Banja Luka",
+        "handle": "TRION-TEL-AS"
+    },
+    "204433": {
+        "country_code": "BA",
+        "asn": "204433",
+        "description": "LEFTOR d.o.o. Tuzla",
+        "handle": "LEFTOR"
+    },
+    "205913": {
+        "country_code": "BA",
+        "asn": "205913",
+        "description": "Diplomat Tech d.o.o.",
+        "handle": "DIPLOMAT-AS"
+    },
+    "206474": {
+        "country_code": "BA",
+        "asn": "206474",
+        "description": "Agency for medicinal products and medical devices of Bosnia and Herzegovina",
+        "handle": "ALMBIH-AS"
+    },
+    "207471": {
+        "country_code": "BA",
+        "asn": "207471",
+        "description": "Sokol Media d.o.o",
+        "handle": "SOKOLHOSTING"
+    },
+    "208881": {
+        "country_code": "BA",
+        "asn": "208881",
+        "description": "Formea drustvo za trgovinu informaticki inzenjering i konsalting d.o.o. Visoko",
+        "handle": "FORMEA-BA"
+    },
+    "209098": {
+        "country_code": "BA",
+        "asn": "209098",
+        "description": "University of Sarajevo",
+        "handle": "BHNIX-PUBLIC"
+    },
+    "209271": {
+        "country_code": "BA",
+        "asn": "209271",
+        "description": "Integra Inzenjering d.o.o.",
+        "handle": "INTEGRA"
+    },
+    "209491": {
+        "country_code": "BA",
+        "asn": "209491",
+        "description": "ZipZap doo Zenica",
+        "handle": "ZIPZAP"
+    },
+    "211154": {
+        "country_code": "BA",
+        "asn": "211154",
+        "description": "MF banka akcionarsko drustvo Banja Luka",
+        "handle": "MFBANKA-AS"
+    },
+    "211191": {
+        "country_code": "BA",
+        "asn": "211191",
+        "description": "Gigabit d.o.o.",
+        "handle": "GIGABIT"
+    },
+    "212572": {
+        "country_code": "BA",
+        "asn": "212572",
+        "description": "NEON Solucije d.o.o. Kalesija",
+        "handle": "NEONSOLUCIJE-AS"
+    },
+    "214241": {
+        "country_code": "BA",
+        "asn": "214241",
+        "description": "Davud Durmo",
+        "handle": "BALKANTAL"
+    },
+    "216160": {
+        "country_code": "BA",
+        "asn": "216160",
+        "description": "UniCredit Bank d.d.",
+        "handle": "UNICREDITGROUP-BA"
+    },
+    "216200": {
+        "country_code": "BA",
+        "asn": "216200",
+        "description": "Dinnet d.o.o. Gracanica",
+        "handle": "DINNET"
+    },
+    "216468": {
+        "country_code": "BA",
+        "asn": "216468",
+        "description": "Lemon IP group d.o.o.",
+        "handle": "LEMON-AS"
+    }
+}

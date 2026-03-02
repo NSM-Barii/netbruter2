@@ -1,0 +1,38 @@
+{
+    "10130": {
+        "country_code": "FM",
+        "asn": "10130",
+        "description": "Federated States of Micronesia Telecomm. Corporation",
+        "handle": "AS10130"
+    },
+    "38875": {
+        "country_code": "FM",
+        "asn": "38875",
+        "description": "Federated States of Micronesia Telecomm. Corporation",
+        "handle": "AS38875"
+    },
+    "45193": {
+        "country_code": "FM",
+        "asn": "45193",
+        "description": "Federated States of Micronesia Telecomm. Corporation",
+        "handle": "AS45193"
+    },
+    "58524": {
+        "country_code": "FM",
+        "asn": "58524",
+        "description": "Federated States of Micronesia Telecomm. Corporation",
+        "handle": "AS58524"
+    },
+    "139759": {
+        "country_code": "FM",
+        "asn": "139759",
+        "description": "Federated States of Micronesia Telecomm. Corporation",
+        "handle": "FMTELECOM-AS-AP"
+    },
+    "142139": {
+        "country_code": "FM",
+        "asn": "142139",
+        "description": "Boom! Inc.",
+        "handle": "BOOMINC-AS-AP"
+    }
+}

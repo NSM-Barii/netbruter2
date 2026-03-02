@@ -1,0 +1,164 @@
+{
+    "8781": {
+        "country_code": "QA",
+        "asn": "8781",
+        "description": "Ooredoo Q.S.C.",
+        "handle": "QA-ISP"
+    },
+    "28821": {
+        "country_code": "QA",
+        "asn": "28821",
+        "description": "University of Doha for Science and Technology",
+        "handle": "UDST-QATAR"
+    },
+    "29384": {
+        "country_code": "QA",
+        "asn": "29384",
+        "description": "Qatar Foundation for Education Science and Community Development",
+        "handle": "QATAR-FOUNDATION"
+    },
+    "34796": {
+        "country_code": "QA",
+        "asn": "34796",
+        "description": "Ooredoo Q.S.C.",
+        "handle": "QTEL-IXP-AS1"
+    },
+    "34945": {
+        "country_code": "QA",
+        "asn": "34945",
+        "description": "Qatar Foundation for Education Science and Community Development",
+        "handle": "QF-HBKU-ASN"
+    },
+    "42298": {
+        "country_code": "QA",
+        "asn": "42298",
+        "description": "Ooredoo Q.S.C.",
+        "handle": "GCC-MPLS-PEERING"
+    },
+    "42415": {
+        "country_code": "QA",
+        "asn": "42415",
+        "description": "Aljazeera Media Network Corporation",
+        "handle": "AL-JAZEERA"
+    },
+    "47901": {
+        "country_code": "QA",
+        "asn": "47901",
+        "description": "MEEZA QSTP-LLC",
+        "handle": "MEEZA"
+    },
+    "48728": {
+        "country_code": "QA",
+        "asn": "48728",
+        "description": "Vodafone Qatar P.Q.S.C",
+        "handle": "VODAFONEQATAR"
+    },
+    "59966": {
+        "country_code": "QA",
+        "asn": "59966",
+        "description": "Ooredoo Q.S.C.",
+        "handle": "ASLTROAMINGIPX"
+    },
+    "60185": {
+        "country_code": "QA",
+        "asn": "60185",
+        "description": "QatarEnergy",
+        "handle": "QP-ICT"
+    },
+    "198464": {
+        "country_code": "QA",
+        "asn": "198464",
+        "description": "Ministry of Education and Higher Education",
+        "handle": "QA-MOEHE-QA"
+    },
+    "198499": {
+        "country_code": "QA",
+        "asn": "198499",
+        "description": "Qatar University",
+        "handle": "QUNIV"
+    },
+    "201680": {
+        "country_code": "QA",
+        "asn": "201680",
+        "description": "Ministry of Communication and Information Technology - Qatar",
+        "handle": "QA-MCIT-AS"
+    },
+    "204806": {
+        "country_code": "QA",
+        "asn": "204806",
+        "description": "Telecommunications Department",
+        "handle": "MOI-TELECOMMUNICATIONS"
+    },
+    "206212": {
+        "country_code": "QA",
+        "asn": "206212",
+        "description": "Communications Regulatory Authority",
+        "handle": "QIX-RR"
+    },
+    "207337": {
+        "country_code": "QA",
+        "asn": "207337",
+        "description": "Communications Regulatory Authority",
+        "handle": "CRA-QA"
+    },
+    "208506": {
+        "country_code": "QA",
+        "asn": "208506",
+        "description": "Sidra Medicine",
+        "handle": "SIDRA-MEDICINE"
+    },
+    "208542": {
+        "country_code": "QA",
+        "asn": "208542",
+        "description": "Mannai Trading Company LLC",
+        "handle": "MANNAI-TRADING-CO-25730"
+    },
+    "208944": {
+        "country_code": "QA",
+        "asn": "208944",
+        "description": "Qatar General Electricty and Water Corporation",
+        "handle": "KM"
+    },
+    "211559": {
+        "country_code": "QA",
+        "asn": "211559",
+        "description": "Vodafone Qatar P.Q.S.C",
+        "handle": "VODAFONEQA-ISP"
+    },
+    "211942": {
+        "country_code": "QA",
+        "asn": "211942",
+        "description": "Ooredoo Q.S.C.",
+        "handle": "DOHA-IX"
+    },
+    "213680": {
+        "country_code": "QA",
+        "asn": "213680",
+        "description": "Ministry of Foreign Affairs",
+        "handle": "MOFA-QA"
+    },
+    "214178": {
+        "country_code": "QA",
+        "asn": "214178",
+        "description": "Qatar Airways Group (Q.C.S.C) PJSC",
+        "handle": "QATARAIRWAYS"
+    },
+    "215624": {
+        "country_code": "QA",
+        "asn": "215624",
+        "description": "QatarEnergy LNG PQSC",
+        "handle": "QATARENERGYLNG"
+    },
+    "215791": {
+        "country_code": "QA",
+        "asn": "215791",
+        "description": "Ooredoo Q.S.C.",
+        "handle": "DOHA-IX-MAPS"
+    },
+    "215954": {
+        "country_code": "QA",
+        "asn": "215954",
+        "description": "Qatar Central Bank",
+        "handle": "QCB"
+    }
+}

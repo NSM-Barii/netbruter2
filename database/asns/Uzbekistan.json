@@ -1,0 +1,734 @@
+{
+    "8193": {
+        "country_code": "UZ",
+        "asn": "8193",
+        "description": "Uzbektelekom Joint Stock Company",
+        "handle": "BRM-AS"
+    },
+    "12365": {
+        "country_code": "UZ",
+        "asn": "12365",
+        "description": "JC LLC Sarkor-Telecom",
+        "handle": "SARKOR-AS"
+    },
+    "21001": {
+        "country_code": "UZ",
+        "asn": "21001",
+        "description": "NETKA TELEKOM LLC",
+        "handle": "NETKA-AS"
+    },
+    "25389": {
+        "country_code": "UZ",
+        "asn": "25389",
+        "description": "Amaliy Aloqalar Biznesi Ltd.",
+        "handle": "UZ-BCC-AS"
+    },
+    "28910": {
+        "country_code": "UZ",
+        "asn": "28910",
+        "description": "Uzbektelekom Joint Stock Company",
+        "handle": "INTAL-ASN"
+    },
+    "29385": {
+        "country_code": "UZ",
+        "asn": "29385",
+        "description": "BUZTON LLC",
+        "handle": "BUZTON-JV-AS"
+    },
+    "30865": {
+        "country_code": "UZ",
+        "asn": "30865",
+        "description": "TAS-IX NGO Center for interoperability data",
+        "handle": "TAS-IX-AS"
+    },
+    "31203": {
+        "country_code": "UZ",
+        "asn": "31203",
+        "description": "Sharq Telekom CJSC",
+        "handle": "SHARQ-TELECOM"
+    },
+    "31492": {
+        "country_code": "UZ",
+        "asn": "31492",
+        "description": "UZSCINET",
+        "handle": "UZSCI-AS"
+    },
+    "34250": {
+        "country_code": "UZ",
+        "asn": "34250",
+        "description": "Uzbektelekom Joint Stock Company",
+        "handle": "UZTELECOM-AS"
+    },
+    "34718": {
+        "country_code": "UZ",
+        "asn": "34718",
+        "description": "IST TELEKOM JV LLC",
+        "handle": "TPSUZ-AS"
+    },
+    "35326": {
+        "country_code": "UZ",
+        "asn": "35326",
+        "description": "SUVAN NET LLC",
+        "handle": "SUVAN-NET"
+    },
+    "35576": {
+        "country_code": "UZ",
+        "asn": "35576",
+        "description": "Sharq Telekom CJSC",
+        "handle": "SIMUS"
+    },
+    "35682": {
+        "country_code": "UZ",
+        "asn": "35682",
+        "description": "BEST INTERNET SOLUTION XK",
+        "handle": "BESTINTERNETSOLUTION-AS"
+    },
+    "39032": {
+        "country_code": "UZ",
+        "asn": "39032",
+        "description": "IST TELEKOM JV LLC",
+        "handle": "ISPETC"
+    },
+    "39231": {
+        "country_code": "UZ",
+        "asn": "39231",
+        "description": "Digital-Tel Net Ltd",
+        "handle": "DTL-AS"
+    },
+    "39568": {
+        "country_code": "UZ",
+        "asn": "39568",
+        "description": "ASIA WIRELESS GROUP MChJ QK",
+        "handle": "ASIA-WIRELESS"
+    },
+    "41177": {
+        "country_code": "UZ",
+        "asn": "41177",
+        "description": "PE Viktor Tele-Video Servis",
+        "handle": "VTVS-AS"
+    },
+    "41202": {
+        "country_code": "UZ",
+        "asn": "41202",
+        "description": "UNITEL LLC",
+        "handle": "UNITEL"
+    },
+    "42017": {
+        "country_code": "UZ",
+        "asn": "42017",
+        "description": "ARS-INFORM LLC",
+        "handle": "ARSINFORM-AS"
+    },
+    "43060": {
+        "country_code": "UZ",
+        "asn": "43060",
+        "description": "IPLUS LLC",
+        "handle": "IPLUS-AS"
+    },
+    "43268": {
+        "country_code": "UZ",
+        "asn": "43268",
+        "description": "Science Network Solution LLC",
+        "handle": "SNS-AS"
+    },
+    "43533": {
+        "country_code": "UZ",
+        "asn": "43533",
+        "description": "OOO Gals Telecom",
+        "handle": "ASGALSTELECOM"
+    },
+    "43647": {
+        "country_code": "UZ",
+        "asn": "43647",
+        "description": "SERVERCORE CIS LLC",
+        "handle": "AS-SERVERCORE-UZ"
+    },
+    "47141": {
+        "country_code": "UZ",
+        "asn": "47141",
+        "description": "Lit-Tel LLC",
+        "handle": "LITTEL-AS"
+    },
+    "47452": {
+        "country_code": "UZ",
+        "asn": "47452",
+        "description": "IST TELEKOM JV LLC",
+        "handle": "IMAX-AS"
+    },
+    "47726": {
+        "country_code": "UZ",
+        "asn": "47726",
+        "description": "INFOBOX MCHJ",
+        "handle": "INFOBOX-AS"
+    },
+    "47752": {
+        "country_code": "UZ",
+        "asn": "47752",
+        "description": "LLC SERVIS-KOMMUNIKATSIYA SISTEMALARI",
+        "handle": "SKS-UZ-AS"
+    },
+    "47966": {
+        "country_code": "UZ",
+        "asn": "47966",
+        "description": "Koinot-Tv MChJ",
+        "handle": "KOINOT-AS"
+    },
+    "48525": {
+        "country_code": "UZ",
+        "asn": "48525",
+        "description": "JSC Uzum Bank",
+        "handle": "UZUMBANK-AS"
+    },
+    "48965": {
+        "country_code": "UZ",
+        "asn": "48965",
+        "description": "JC LLC Sarkor-Telecom",
+        "handle": "SKUZ-AS"
+    },
+    "48979": {
+        "country_code": "UZ",
+        "asn": "48979",
+        "description": "DAVLAT AXBOROT TIZIMLARINI YARATISH VA QO`LLAB QUVATLASH BO`YICHA YAGONA INTEGRATOR-UZINFOCOM LLC",
+        "handle": "UZINFOCOM"
+    },
+    "49146": {
+        "country_code": "UZ",
+        "asn": "49146",
+        "description": "DosTLink Ltd",
+        "handle": "DOSTLINK-AS"
+    },
+    "49273": {
+        "country_code": "UZ",
+        "asn": "49273",
+        "description": "COSCOM Liability Limited Company",
+        "handle": "COSCOM-AS"
+    },
+    "49424": {
+        "country_code": "UZ",
+        "asn": "49424",
+        "description": "New Line Solutions LLC",
+        "handle": "NEWLINESOLUTIONS-AS"
+    },
+    "49442": {
+        "country_code": "UZ",
+        "asn": "49442",
+        "description": "Solar Network Ltd.",
+        "handle": "SONET-AS"
+    },
+    "49508": {
+        "country_code": "UZ",
+        "asn": "49508",
+        "description": "Samtelecom LLC",
+        "handle": "OLIMJONTELECOM-AS"
+    },
+    "49529": {
+        "country_code": "UZ",
+        "asn": "49529",
+        "description": "Duplex tel LLC",
+        "handle": "DUPLEX-AS"
+    },
+    "50025": {
+        "country_code": "UZ",
+        "asn": "50025",
+        "description": "Net Television Ltd",
+        "handle": "NET-TELEVISION-AS"
+    },
+    "50729": {
+        "country_code": "UZ",
+        "asn": "50729",
+        "description": "Kron Telecom Network Ltd",
+        "handle": "KRON-TELECOM-NETWORKS-LTD-AS"
+    },
+    "50792": {
+        "country_code": "UZ",
+        "asn": "50792",
+        "description": "FC LLC Yangi-Group",
+        "handle": "YANGIGROUP-AS"
+    },
+    "51503": {
+        "country_code": "UZ",
+        "asn": "51503",
+        "description": "DANIEL GROUP TELECOM LLC",
+        "handle": "DGT-UZ-AS"
+    },
+    "51508": {
+        "country_code": "UZ",
+        "asn": "51508",
+        "description": "Uzum Technologies FE LLC",
+        "handle": "UZUMTECHNOLOGIES-AS"
+    },
+    "56419": {
+        "country_code": "UZ",
+        "asn": "56419",
+        "description": "ASIA NETWORK MCHJ",
+        "handle": "ASIANETWORK-AS"
+    },
+    "56759": {
+        "country_code": "UZ",
+        "asn": "56759",
+        "description": "Hamkor TV ltd",
+        "handle": "HAMKORTV-AS"
+    },
+    "57016": {
+        "country_code": "UZ",
+        "asn": "57016",
+        "description": "Inform-Service TV Ltd.",
+        "handle": "ISTV-AS"
+    },
+    "57764": {
+        "country_code": "UZ",
+        "asn": "57764",
+        "description": "Flink Ltd.",
+        "handle": "FLINK-AS"
+    },
+    "57975": {
+        "country_code": "UZ",
+        "asn": "57975",
+        "description": "ARTV Union Ltd.",
+        "handle": "ARTV-AS"
+    },
+    "58254": {
+        "country_code": "UZ",
+        "asn": "58254",
+        "description": "Nano Telecom LLC",
+        "handle": "NANOTELECOM-AS"
+    },
+    "58330": {
+        "country_code": "UZ",
+        "asn": "58330",
+        "description": "DP AlNet",
+        "handle": "ALNET-AS"
+    },
+    "59668": {
+        "country_code": "UZ",
+        "asn": "59668",
+        "description": "Turon Media XK",
+        "handle": "ATURON"
+    },
+    "59706": {
+        "country_code": "UZ",
+        "asn": "59706",
+        "description": "RUBICON WIRELESS COMMUNICATION LLC",
+        "handle": "RWC"
+    },
+    "61019": {
+        "country_code": "UZ",
+        "asn": "61019",
+        "description": "Mediabay Asia LLC",
+        "handle": "MEDIABAY-ASIA-AS"
+    },
+    "61106": {
+        "country_code": "UZ",
+        "asn": "61106",
+        "description": "PS Cloud Services LLC",
+        "handle": "PSCLOUD-UZ"
+    },
+    "61263": {
+        "country_code": "UZ",
+        "asn": "61263",
+        "description": "Modern store group LLC",
+        "handle": "ISP"
+    },
+    "62447": {
+        "country_code": "UZ",
+        "asn": "62447",
+        "description": "Miran Net 4155 MCHJ",
+        "handle": "MIRANNET4155-AS"
+    },
+    "64466": {
+        "country_code": "UZ",
+        "asn": "64466",
+        "description": "UNIVERSAL MOBILE SYSTEMS LCC",
+        "handle": "UMS-AS"
+    },
+    "197486": {
+        "country_code": "UZ",
+        "asn": "197486",
+        "description": "Uzbektelekom Joint Stock Company",
+        "handle": "UZIX-AS"
+    },
+    "197504": {
+        "country_code": "UZ",
+        "asn": "197504",
+        "description": "G-TELL Ltd",
+        "handle": "GTELLUZ"
+    },
+    "197661": {
+        "country_code": "UZ",
+        "asn": "197661",
+        "description": "LLC ONE-NET",
+        "handle": "ONENET"
+    },
+    "197984": {
+        "country_code": "UZ",
+        "asn": "197984",
+        "description": "State Unitary Enterprise Scientific Engineering and Marketing Researches Center UNICON.UZ",
+        "handle": "UNICON-UZ"
+    },
+    "198601": {
+        "country_code": "UZ",
+        "asn": "198601",
+        "description": "Inspired LLC",
+        "handle": "INSPIRED-UZ"
+    },
+    "199528": {
+        "country_code": "UZ",
+        "asn": "199528",
+        "description": "PE AVUBIS-INTERTAINMENT",
+        "handle": "ORG-PA1509-RIPE"
+    },
+    "199755": {
+        "country_code": "UZ",
+        "asn": "199755",
+        "description": "ACDN LLC",
+        "handle": "ALLMEDIA-AS"
+    },
+    "200204": {
+        "country_code": "UZ",
+        "asn": "200204",
+        "description": "A-ZZ-A Service Ltd.",
+        "handle": "A-ZZ-A-AS"
+    },
+    "200788": {
+        "country_code": "UZ",
+        "asn": "200788",
+        "description": "LLC MAXEMEX",
+        "handle": "UZ-SALOM"
+    },
+    "201264": {
+        "country_code": "UZ",
+        "asn": "201264",
+        "description": "SERVERPLUS LLC",
+        "handle": "SERVERPLUS"
+    },
+    "201767": {
+        "country_code": "UZ",
+        "asn": "201767",
+        "description": "Uzbektelekom Joint Stock Company",
+        "handle": "UZMOBILE-AS"
+    },
+    "201772": {
+        "country_code": "UZ",
+        "asn": "201772",
+        "description": "New Line Group Ltd",
+        "handle": "GARNET"
+    },
+    "202175": {
+        "country_code": "UZ",
+        "asn": "202175",
+        "description": "Uzbektelekom Joint Stock Company",
+        "handle": "BKM-AS"
+    },
+    "202436": {
+        "country_code": "UZ",
+        "asn": "202436",
+        "description": "Century Dynamics LLC",
+        "handle": "MACLOUD"
+    },
+    "202660": {
+        "country_code": "UZ",
+        "asn": "202660",
+        "description": "Uzbektelekom Joint Stock Company",
+        "handle": "BRM-DATACENTER"
+    },
+    "202763": {
+        "country_code": "UZ",
+        "asn": "202763",
+        "description": "INFORMATION TECHNOLOGY CENTER LLC JV",
+        "handle": "IT-CENTER-AS"
+    },
+    "203553": {
+        "country_code": "UZ",
+        "asn": "203553",
+        "description": "Optel Plus Ltd.",
+        "handle": "OPTEL-PLUS-AS"
+    },
+    "203912": {
+        "country_code": "UZ",
+        "asn": "203912",
+        "description": "Orient Finance Bank PJSC",
+        "handle": "OFB"
+    },
+    "204336": {
+        "country_code": "UZ",
+        "asn": "204336",
+        "description": "Any Mobile Ltd.",
+        "handle": "ANY-MOBILE-AS"
+    },
+    "204839": {
+        "country_code": "UZ",
+        "asn": "204839",
+        "description": "LLC Business Network Solutions",
+        "handle": "BNSOLUTINS"
+    },
+    "205273": {
+        "country_code": "UZ",
+        "asn": "205273",
+        "description": "Teleport DC LLC FE",
+        "handle": "TELEPORT-DC-AS"
+    },
+    "205455": {
+        "country_code": "UZ",
+        "asn": "205455",
+        "description": "ALPHAZET TECHNOLOGIES LLC",
+        "handle": "ITV-UZ"
+    },
+    "205635": {
+        "country_code": "UZ",
+        "asn": "205635",
+        "description": "JSC Octobank",
+        "handle": "OCTOBANK"
+    },
+    "205640": {
+        "country_code": "UZ",
+        "asn": "205640",
+        "description": "NOVA GROUP LLC",
+        "handle": "AS-TNET"
+    },
+    "206336": {
+        "country_code": "UZ",
+        "asn": "206336",
+        "description": "DATAVICE MCHJ",
+        "handle": "DATAVICE"
+    },
+    "207154": {
+        "country_code": "UZ",
+        "asn": "207154",
+        "description": "PE Luseya Plyus",
+        "handle": "LUSEYA-PLYUS-AS"
+    },
+    "207898": {
+        "country_code": "UZ",
+        "asn": "207898",
+        "description": "Meganet Tel LLC",
+        "handle": "MEGANETTEL-AS"
+    },
+    "208192": {
+        "country_code": "UZ",
+        "asn": "208192",
+        "description": "JSICB 'Ipak Yuli'",
+        "handle": "IPAKYULIBANK-UZ"
+    },
+    "208870": {
+        "country_code": "UZ",
+        "asn": "208870",
+        "description": "Orient Group Management MChJ",
+        "handle": "ORIENT-AS"
+    },
+    "209033": {
+        "country_code": "UZ",
+        "asn": "209033",
+        "description": "CityNet LTD",
+        "handle": "CITYNET"
+    },
+    "209078": {
+        "country_code": "UZ",
+        "asn": "209078",
+        "description": "AMUDARYO TONER LLC",
+        "handle": "AT-AS"
+    },
+    "209239": {
+        "country_code": "UZ",
+        "asn": "209239",
+        "description": "UNIVERSAL MOBILE SYSTEMS LCC",
+        "handle": "UMS32-AS"
+    },
+    "209648": {
+        "country_code": "UZ",
+        "asn": "209648",
+        "description": "NOVA GROUP LLC",
+        "handle": "BELLCOM-TELECOM"
+    },
+    "210390": {
+        "country_code": "UZ",
+        "asn": "210390",
+        "description": "Arsenal D Ltd.",
+        "handle": "ARSENAL-D-AS"
+    },
+    "210519": {
+        "country_code": "UZ",
+        "asn": "210519",
+        "description": "ToshTeleQabul MChJ",
+        "handle": "TOSHTELEQABUL-AS"
+    },
+    "210774": {
+        "country_code": "UZ",
+        "asn": "210774",
+        "description": "Inha University in Tashkent",
+        "handle": "IUT"
+    },
+    "211139": {
+        "country_code": "UZ",
+        "asn": "211139",
+        "description": "JSCB HAMKORBANK",
+        "handle": "HAMKORBANK-JSCB"
+    },
+    "211403": {
+        "country_code": "UZ",
+        "asn": "211403",
+        "description": "NET ORION COMMUNICATIONS ltd",
+        "handle": "AS-ORIONNET-UZ"
+    },
+    "211433": {
+        "country_code": "UZ",
+        "asn": "211433",
+        "description": "Silver Telecom Ltd.",
+        "handle": "SILVER-TELECOM-AS"
+    },
+    "211914": {
+        "country_code": "UZ",
+        "asn": "211914",
+        "description": "AER-CA LLC",
+        "handle": "AERCA-NET"
+    },
+    "212082": {
+        "country_code": "UZ",
+        "asn": "212082",
+        "description": "JSCB TBC Bank",
+        "handle": "TBC-UZ"
+    },
+    "212089": {
+        "country_code": "UZ",
+        "asn": "212089",
+        "description": "COMMON REPUBLICAN PROCESSING CENTER LLC",
+        "handle": "UZCARDASN"
+    },
+    "212444": {
+        "country_code": "UZ",
+        "asn": "212444",
+        "description": "LLC BROSS-TELECOM",
+        "handle": "BROSS-TELECOM"
+    },
+    "212860": {
+        "country_code": "UZ",
+        "asn": "212860",
+        "description": "AIRNET llc",
+        "handle": "AIRNET-AS"
+    },
+    "213029": {
+        "country_code": "UZ",
+        "asn": "213029",
+        "description": "PRO DATA-TECH MCHJ",
+        "handle": "PRO-DATA-TECH-AS"
+    },
+    "213165": {
+        "country_code": "UZ",
+        "asn": "213165",
+        "description": "MYCLOUD LLC",
+        "handle": "MYCLOUD"
+    },
+    "213479": {
+        "country_code": "UZ",
+        "asn": "213479",
+        "description": "Cloupard LLC",
+        "handle": "CLOUPARD-AS"
+    },
+    "213528": {
+        "country_code": "UZ",
+        "asn": "213528",
+        "description": "Milliy Banklararo Protsessing Markazi AJ",
+        "handle": "MILLIY-BANKLARARO-PROTSESSING-MARKAZI-AJ"
+    },
+    "213870": {
+        "country_code": "UZ",
+        "asn": "213870",
+        "description": "UZUM MARKET FE LLC",
+        "handle": "UZUMMARKET-AS"
+    },
+    "213951": {
+        "country_code": "UZ",
+        "asn": "213951",
+        "description": "Globe Cloud LLC",
+        "handle": "HYPERAPP"
+    },
+    "213963": {
+        "country_code": "UZ",
+        "asn": "213963",
+        "description": "RAH-SHAH MCHJ",
+        "handle": "RAH-SHAH-AS"
+    },
+    "214414": {
+        "country_code": "UZ",
+        "asn": "214414",
+        "description": "IPLUS LLC",
+        "handle": "IPLUS-AS-2"
+    },
+    "214444": {
+        "country_code": "UZ",
+        "asn": "214444",
+        "description": "Agrobank ATB",
+        "handle": "AGROBANK"
+    },
+    "214644": {
+        "country_code": "UZ",
+        "asn": "214644",
+        "description": "YAXSHI XIZMAT TELECOM ISP MChJ",
+        "handle": "YAXSHI"
+    },
+    "214694": {
+        "country_code": "UZ",
+        "asn": "214694",
+        "description": "TVPLUS LLC",
+        "handle": "TVPLUS"
+    },
+    "214845": {
+        "country_code": "UZ",
+        "asn": "214845",
+        "description": "RETN NETWORKS limited liability company",
+        "handle": "RETN-UZ-AS"
+    },
+    "215028": {
+        "country_code": "UZ",
+        "asn": "215028",
+        "description": "ITGLOBALCOM U LLC",
+        "handle": "ITGLOBAL-UZ"
+    },
+    "215139": {
+        "country_code": "UZ",
+        "asn": "215139",
+        "description": "MINGALIYEV TIMER FATIXOVICH",
+        "handle": "UZNETXIZMAT"
+    },
+    "215222": {
+        "country_code": "UZ",
+        "asn": "215222",
+        "description": "Cable and mobile best service MCHJ",
+        "handle": "CITY-LINE-AS"
+    },
+    "215237": {
+        "country_code": "UZ",
+        "asn": "215237",
+        "description": "Namangan Kelazhak Kabel Servis MCHJ",
+        "handle": "NEMOCATV-AS"
+    },
+    "215677": {
+        "country_code": "UZ",
+        "asn": "215677",
+        "description": "VISOFT LLC",
+        "handle": "VISOFT"
+    },
+    "215940": {
+        "country_code": "UZ",
+        "asn": "215940",
+        "description": "TEZBULUT LLC",
+        "handle": "TEZBULUT-AS"
+    },
+    "216023": {
+        "country_code": "UZ",
+        "asn": "216023",
+        "description": "EAST STARK-TV LLC",
+        "handle": "EAST-STARK-TV"
+    },
+    "216087": {
+        "country_code": "UZ",
+        "asn": "216087",
+        "description": "JSCB Uzpromstroybank",
+        "handle": "SQB-AS"
+    },
+    "216261": {
+        "country_code": "UZ",
+        "asn": "216261",
+        "description": "IPAK YOL MChJ",
+        "handle": "IPAK-YOL-AS"
+    }
+}

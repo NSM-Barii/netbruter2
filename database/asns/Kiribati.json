@@ -1,0 +1,32 @@
+{
+    "4865": {
+        "country_code": "KI",
+        "asn": "4865",
+        "description": "Amalgamated Telecom Holdings Kiribati Ltd",
+        "handle": "ATHKL-AS-AP"
+    },
+    "132486": {
+        "country_code": "KI",
+        "asn": "132486",
+        "description": "OCEAN LINK LTD",
+        "handle": "OCEANLINKLTD-AS-AP"
+    },
+    "134783": {
+        "country_code": "KI",
+        "asn": "134783",
+        "description": "Amalgamated Telecom Holdings Kiribati Ltd",
+        "handle": "ATHKL-AS-AP"
+    },
+    "154100": {
+        "country_code": "KI",
+        "asn": "154100",
+        "description": "BNL",
+        "handle": "BNL-KIR1-AS-AP"
+    },
+    "154102": {
+        "country_code": "KI",
+        "asn": "154102",
+        "description": "BNL",
+        "handle": "BNL-KIR2-AS-AP"
+    }
+}

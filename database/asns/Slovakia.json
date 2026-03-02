@@ -1,0 +1,1370 @@
+{
+    "1902": {
+        "country_code": "SK",
+        "asn": "1902",
+        "description": "Deutsche Telekom Cloud Services s.r.o.",
+        "handle": "PAN-NET"
+    },
+    "2607": {
+        "country_code": "SK",
+        "asn": "2607",
+        "description": "Zdruzenie pouzivatelov Slovenskej akademickej datovej siete SANET",
+        "handle": "SANET"
+    },
+    "5578": {
+        "country_code": "SK",
+        "asn": "5578",
+        "description": "SWAN a.s.",
+        "handle": "AS-BENESTRA"
+    },
+    "5628": {
+        "country_code": "SK",
+        "asn": "5628",
+        "description": "Slovak Telekom a.s.",
+        "handle": "EUROTEL-SK"
+    },
+    "6658": {
+        "country_code": "SK",
+        "asn": "6658",
+        "description": "NAPRI s.r.o.",
+        "handle": "NAPRI-SRO"
+    },
+    "6726": {
+        "country_code": "SK",
+        "asn": "6726",
+        "description": "SWAN a.s.",
+        "handle": "AS-BENESTRA-BACKUP"
+    },
+    "6803": {
+        "country_code": "SK",
+        "asn": "6803",
+        "description": "SWAN a.s.",
+        "handle": "SWAN"
+    },
+    "6855": {
+        "country_code": "SK",
+        "asn": "6855",
+        "description": "Slovak Telekom a.s.",
+        "handle": "SK-TELEKOM"
+    },
+    "6862": {
+        "country_code": "SK",
+        "asn": "6862",
+        "description": "GraTex International a.s.",
+        "handle": "GRATEX"
+    },
+    "8257": {
+        "country_code": "SK",
+        "asn": "8257",
+        "description": "Slovanet a.s.",
+        "handle": "SLOVANET-BROADBAND"
+    },
+    "8288": {
+        "country_code": "SK",
+        "asn": "8288",
+        "description": "SWAN a.s.",
+        "handle": "AS-BENESTRA-NEXTRA"
+    },
+    "8290": {
+        "country_code": "SK",
+        "asn": "8290",
+        "description": "Slovanet a.s.",
+        "handle": "SLOVANET-WS"
+    },
+    "8620": {
+        "country_code": "SK",
+        "asn": "8620",
+        "description": "Alanata a. s.",
+        "handle": "ALANATA"
+    },
+    "8778": {
+        "country_code": "SK",
+        "asn": "8778",
+        "description": "Slovanet a.s.",
+        "handle": "SLOVANET"
+    },
+    "8887": {
+        "country_code": "SK",
+        "asn": "8887",
+        "description": "TESATEL s.r.o.",
+        "handle": "TESATEL-AS"
+    },
+    "12426": {
+        "country_code": "SK",
+        "asn": "12426",
+        "description": "Slovanet a.s.",
+        "handle": "SLOVANET-MADNET"
+    },
+    "12508": {
+        "country_code": "SK",
+        "asn": "12508",
+        "description": "Rainside s.r.o.",
+        "handle": "AS12508"
+    },
+    "12905": {
+        "country_code": "SK",
+        "asn": "12905",
+        "description": "ACS spol. s r. o.",
+        "handle": "ACS-SK-AS"
+    },
+    "12917": {
+        "country_code": "SK",
+        "asn": "12917",
+        "description": "GlobalLogic Slovakia s.r.o.",
+        "handle": "GLOBALLOGICSK"
+    },
+    "15497": {
+        "country_code": "SK",
+        "asn": "15497",
+        "description": "1 Cloud Lab s.r.o.",
+        "handle": "COLOCALL"
+    },
+    "15962": {
+        "country_code": "SK",
+        "asn": "15962",
+        "description": "Orange Slovensko a.s.",
+        "handle": "OSK-DNI"
+    },
+    "16006": {
+        "country_code": "SK",
+        "asn": "16006",
+        "description": "RUPKKI s.r.o.",
+        "handle": "RUPKKI-SK-AS"
+    },
+    "16142": {
+        "country_code": "SK",
+        "asn": "16142",
+        "description": "ING Bank N.V. pobocka zahranicnej banky",
+        "handle": "ING-BANK-SK"
+    },
+    "16160": {
+        "country_code": "SK",
+        "asn": "16160",
+        "description": "SWAN a.s.",
+        "handle": "SWAN"
+    },
+    "16295": {
+        "country_code": "SK",
+        "asn": "16295",
+        "description": "SWAN a.s.",
+        "handle": "ETEL-SK"
+    },
+    "16354": {
+        "country_code": "SK",
+        "asn": "16354",
+        "description": "TIMES NETWORKS s.r.o.",
+        "handle": "TIMES-NETWORKS-NET"
+    },
+    "16367": {
+        "country_code": "SK",
+        "asn": "16367",
+        "description": "SALAMON INTERNET s.r.o.",
+        "handle": "SALAMON"
+    },
+    "20579": {
+        "country_code": "SK",
+        "asn": "20579",
+        "description": "SWAN a.s.",
+        "handle": "SWAN"
+    },
+    "20581": {
+        "country_code": "SK",
+        "asn": "20581",
+        "description": "Ing. Jan Mindzak - Maximal Net",
+        "handle": "MAXIMALNET-AS1"
+    },
+    "20949": {
+        "country_code": "SK",
+        "asn": "20949",
+        "description": "1 Cloud Lab s.r.o.",
+        "handle": "INCOSOFT"
+    },
+    "21019": {
+        "country_code": "SK",
+        "asn": "21019",
+        "description": "S.A. spol. s r.o.",
+        "handle": "SASRO-SK-AS"
+    },
+    "21460": {
+        "country_code": "SK",
+        "asn": "21460",
+        "description": "MOVYS a.s.",
+        "handle": "MOVYS-AS"
+    },
+    "24727": {
+        "country_code": "SK",
+        "asn": "24727",
+        "description": "Slovensky plynarensky priemysel a.s.",
+        "handle": "SPP-AS"
+    },
+    "24744": {
+        "country_code": "SK",
+        "asn": "24744",
+        "description": "SiNET Telecom s.r.o.",
+        "handle": "SINET-SK-AS"
+    },
+    "24791": {
+        "country_code": "SK",
+        "asn": "24791",
+        "description": "Direct Development s.r.o.",
+        "handle": "DIABLO"
+    },
+    "25373": {
+        "country_code": "SK",
+        "asn": "25373",
+        "description": "National Agency for Network and Electronic Services",
+        "handle": "GOVSK-AS"
+    },
+    "25496": {
+        "country_code": "SK",
+        "asn": "25496",
+        "description": "ZSR - ZT Bratislava",
+        "handle": "ZT-AS"
+    },
+    "28952": {
+        "country_code": "SK",
+        "asn": "28952",
+        "description": "O2 Business Services a.s",
+        "handle": "O2BSSK"
+    },
+    "29148": {
+        "country_code": "SK",
+        "asn": "29148",
+        "description": "SURANY.NET s.r.o.",
+        "handle": "ASSURANY"
+    },
+    "29405": {
+        "country_code": "SK",
+        "asn": "29405",
+        "description": "VNET a.s.",
+        "handle": "VNET-AS"
+    },
+    "29531": {
+        "country_code": "SK",
+        "asn": "29531",
+        "description": "VM Telecom s.r.o.",
+        "handle": "VM-AS"
+    },
+    "30898": {
+        "country_code": "SK",
+        "asn": "30898",
+        "description": "DataCentrum",
+        "handle": "CRSR-AS"
+    },
+    "30929": {
+        "country_code": "SK",
+        "asn": "30929",
+        "description": "GOLEM TECH s.r.o.",
+        "handle": "GOLEMTECH-AS"
+    },
+    "31117": {
+        "country_code": "SK",
+        "asn": "31117",
+        "description": "ENERGOTEL a.s.",
+        "handle": "ENERGOTEL-AS"
+    },
+    "31127": {
+        "country_code": "SK",
+        "asn": "31127",
+        "description": "SATRO s.r.o.",
+        "handle": "SATRO"
+    },
+    "31193": {
+        "country_code": "SK",
+        "asn": "31193",
+        "description": "1 Cloud Lab s.r.o.",
+        "handle": "VIATELE-AS"
+    },
+    "31230": {
+        "country_code": "SK",
+        "asn": "31230",
+        "description": "Slovak University of Technology in Bratislava",
+        "handle": "SIX-ROUTE-SERVERS"
+    },
+    "31679": {
+        "country_code": "SK",
+        "asn": "31679",
+        "description": "Slovanet a.s.",
+        "handle": "SLOVANET-MICRONET"
+    },
+    "34443": {
+        "country_code": "SK",
+        "asn": "34443",
+        "description": "365.bank a. s.",
+        "handle": "PABK-AS"
+    },
+    "34462": {
+        "country_code": "SK",
+        "asn": "34462",
+        "description": "DITEC a.s.",
+        "handle": "DITEC-AS"
+    },
+    "34521": {
+        "country_code": "SK",
+        "asn": "34521",
+        "description": "Atos IT Solutions and Services s.r.o.",
+        "handle": "ATOS-SK-AS"
+    },
+    "34633": {
+        "country_code": "SK",
+        "asn": "34633",
+        "description": "Tiramix s.r.o.",
+        "handle": "TRMX-AS"
+    },
+    "34791": {
+        "country_code": "SK",
+        "asn": "34791",
+        "description": "Slovenska televizia a rozhlas",
+        "handle": "STV-AS"
+    },
+    "34820": {
+        "country_code": "SK",
+        "asn": "34820",
+        "description": "DELTA ONLINE spol. s r.o.",
+        "handle": "DANNAX-SK-AS"
+    },
+    "35328": {
+        "country_code": "SK",
+        "asn": "35328",
+        "description": "DSI DATA a. s.",
+        "handle": "DSIDATA"
+    },
+    "35476": {
+        "country_code": "SK",
+        "asn": "35476",
+        "description": "Porsche Inter Auto Slovakia spol. s r.o.",
+        "handle": "PORSCHEINTERAUTO-AS"
+    },
+    "35493": {
+        "country_code": "SK",
+        "asn": "35493",
+        "description": "Belnet Snina s.r.o.",
+        "handle": "BELNET"
+    },
+    "38949": {
+        "country_code": "SK",
+        "asn": "38949",
+        "description": "Trestel SK a.s.",
+        "handle": "TRESTEL-SK"
+    },
+    "39456": {
+        "country_code": "SK",
+        "asn": "39456",
+        "description": "Llarik s.r.o.",
+        "handle": "LLARIK-AS"
+    },
+    "39574": {
+        "country_code": "SK",
+        "asn": "39574",
+        "description": "Minet Slovakia s.r.o.",
+        "handle": "MINET-AS"
+    },
+    "39774": {
+        "country_code": "SK",
+        "asn": "39774",
+        "description": "PIXEL FEDERATION s.r.o.",
+        "handle": "PIXEL-FEDERATION"
+    },
+    "39854": {
+        "country_code": "SK",
+        "asn": "39854",
+        "description": "6COM s.r.o.",
+        "handle": "ASN-6COM"
+    },
+    "41318": {
+        "country_code": "SK",
+        "asn": "41318",
+        "description": "First Data Slovakia s.r.o.",
+        "handle": "FIRST-DATA-SLOVAKIA-AS"
+    },
+    "41591": {
+        "country_code": "SK",
+        "asn": "41591",
+        "description": "EuroServer.sk s.r.o.",
+        "handle": "ASWEBDOM"
+    },
+    "41899": {
+        "country_code": "SK",
+        "asn": "41899",
+        "description": "Slovenske elektrarne a.s.",
+        "handle": "SEAS-SK-AS"
+    },
+    "42005": {
+        "country_code": "SK",
+        "asn": "42005",
+        "description": "LightStorm Services s.r.o.",
+        "handle": "LIGHTSTORM-COMMUNICATIONS-SRO-SK-AS"
+    },
+    "42244": {
+        "country_code": "SK",
+        "asn": "42244",
+        "description": "eServer s.r.o.",
+        "handle": "ESERVER"
+    },
+    "42826": {
+        "country_code": "SK",
+        "asn": "42826",
+        "description": "Axians Slovakia s.r.o.",
+        "handle": "SK-AXIANS-AS"
+    },
+    "42841": {
+        "country_code": "SK",
+        "asn": "42841",
+        "description": "ANTIK Telecom s.r.o",
+        "handle": "ANTIK"
+    },
+    "43248": {
+        "country_code": "SK",
+        "asn": "43248",
+        "description": "ISPER s.r.o.",
+        "handle": "ISPER-ASN"
+    },
+    "43451": {
+        "country_code": "SK",
+        "asn": "43451",
+        "description": "Slovanet a.s.",
+        "handle": "SLOVANET-RADIOLAN"
+    },
+    "43653": {
+        "country_code": "SK",
+        "asn": "43653",
+        "description": "PEGO Slovakia s.r.o.",
+        "handle": "PEGONET-AS"
+    },
+    "44001": {
+        "country_code": "SK",
+        "asn": "44001",
+        "description": "Antaree Solutions plus s.r.o",
+        "handle": "ASANTAREE"
+    },
+    "44185": {
+        "country_code": "SK",
+        "asn": "44185",
+        "description": "bonet.systems s. r. o.",
+        "handle": "BONET"
+    },
+    "44234": {
+        "country_code": "SK",
+        "asn": "44234",
+        "description": "Gaya s.r.o.",
+        "handle": "GAYA-AS"
+    },
+    "44452": {
+        "country_code": "SK",
+        "asn": "44452",
+        "description": "netIQ s.r.o.",
+        "handle": "NETIQ"
+    },
+    "44631": {
+        "country_code": "SK",
+        "asn": "44631",
+        "description": "Condornet s.r.o.",
+        "handle": "CONDORNET"
+    },
+    "47483": {
+        "country_code": "SK",
+        "asn": "47483",
+        "description": "GIRO s.r.o.",
+        "handle": "GIRO-AS"
+    },
+    "47867": {
+        "country_code": "SK",
+        "asn": "47867",
+        "description": "Stredoslovenska energetika Holding a. s.",
+        "handle": "SSE"
+    },
+    "48133": {
+        "country_code": "SK",
+        "asn": "48133",
+        "description": "SWAN a.s.",
+        "handle": "E-NET-SK-AS"
+    },
+    "48211": {
+        "country_code": "SK",
+        "asn": "48211",
+        "description": "Infinity Telecom SK s.r.o.",
+        "handle": "INFSK"
+    },
+    "48304": {
+        "country_code": "SK",
+        "asn": "48304",
+        "description": "Digmia s.r.o.",
+        "handle": "DIGMIA-AS1JBDI-RIPE"
+    },
+    "48326": {
+        "country_code": "SK",
+        "asn": "48326",
+        "description": "DataNetworks s.r.o.",
+        "handle": "DATANETWORKS"
+    },
+    "48473": {
+        "country_code": "SK",
+        "asn": "48473",
+        "description": "Towercom a.s.",
+        "handle": "TOWERCOM-SK-AS"
+    },
+    "48689": {
+        "country_code": "SK",
+        "asn": "48689",
+        "description": "Webglobe a.s.",
+        "handle": "WEBGLOBE-SK-AS"
+    },
+    "48907": {
+        "country_code": "SK",
+        "asn": "48907",
+        "description": "Norttel s.r.o.",
+        "handle": "ASNORTTEL"
+    },
+    "49044": {
+        "country_code": "SK",
+        "asn": "49044",
+        "description": "DIGI SLOVAKIA s.r.o.",
+        "handle": "DIGISK"
+    },
+    "49115": {
+        "country_code": "SK",
+        "asn": "49115",
+        "description": "E-MAX INTERNET & IT s.r.o.",
+        "handle": "EMAX-AS1"
+    },
+    "49117": {
+        "country_code": "SK",
+        "asn": "49117",
+        "description": "DTnet Detva s.r.o.",
+        "handle": "DTNETSK-AS"
+    },
+    "49460": {
+        "country_code": "SK",
+        "asn": "49460",
+        "description": "Filleck s.r.o.",
+        "handle": "FILLECK"
+    },
+    "49659": {
+        "country_code": "SK",
+        "asn": "49659",
+        "description": "SkyToll a. s.",
+        "handle": "GTS-SKYTOLL-AS"
+    },
+    "49798": {
+        "country_code": "SK",
+        "asn": "49798",
+        "description": "BBX s.r.o.",
+        "handle": "SNAILNET"
+    },
+    "50128": {
+        "country_code": "SK",
+        "asn": "50128",
+        "description": "CNC a.s.",
+        "handle": "CNC"
+    },
+    "50242": {
+        "country_code": "SK",
+        "asn": "50242",
+        "description": "LEVONET s.r.o.",
+        "handle": "LEVONET"
+    },
+    "50881": {
+        "country_code": "SK",
+        "asn": "50881",
+        "description": "ESET spol. s r.o.",
+        "handle": "ESET-AS"
+    },
+    "50925": {
+        "country_code": "SK",
+        "asn": "50925",
+        "description": "Gemernet s.r.o.",
+        "handle": "GEMERNET"
+    },
+    "50953": {
+        "country_code": "SK",
+        "asn": "50953",
+        "description": "David Kondicz trading as KONFER networks",
+        "handle": "KONFER"
+    },
+    "51013": {
+        "country_code": "SK",
+        "asn": "51013",
+        "description": "WebSupport s.r.o.",
+        "handle": "WEBSUPPORT-SRO-SK-AS"
+    },
+    "51558": {
+        "country_code": "SK",
+        "asn": "51558",
+        "description": "StormWall s.r.o.",
+        "handle": "SMTLB-AS"
+    },
+    "51653": {
+        "country_code": "SK",
+        "asn": "51653",
+        "description": "PRESNET s.r.o.",
+        "handle": "PRESNET-AS"
+    },
+    "51876": {
+        "country_code": "SK",
+        "asn": "51876",
+        "description": "COMCRAFT s. r. o.",
+        "handle": "MAXIIT-AS"
+    },
+    "51947": {
+        "country_code": "SK",
+        "asn": "51947",
+        "description": "GeCom s.r.o.",
+        "handle": "GECOM-AS"
+    },
+    "52139": {
+        "country_code": "SK",
+        "asn": "52139",
+        "description": "Slovanet a.s.",
+        "handle": "SLOVANET-CARISMA"
+    },
+    "56349": {
+        "country_code": "SK",
+        "asn": "56349",
+        "description": "IP-Net s.r.o.",
+        "handle": "IP-NET"
+    },
+    "56356": {
+        "country_code": "SK",
+        "asn": "56356",
+        "description": "Andrex s.r.o.",
+        "handle": "ANDREX-AS"
+    },
+    "56572": {
+        "country_code": "SK",
+        "asn": "56572",
+        "description": "JUPO spol. s r.o.",
+        "handle": "JUPO"
+    },
+    "56656": {
+        "country_code": "SK",
+        "asn": "56656",
+        "description": "Detronics s.r.o.",
+        "handle": "DETRONICS"
+    },
+    "56747": {
+        "country_code": "SK",
+        "asn": "56747",
+        "description": "Nelson Services s.r.o.",
+        "handle": "ASNELSON"
+    },
+    "56800": {
+        "country_code": "SK",
+        "asn": "56800",
+        "description": "LAST MILE spol. s r.o.",
+        "handle": "LASTMILE"
+    },
+    "56817": {
+        "country_code": "SK",
+        "asn": "56817",
+        "description": "Automation & Business s.r.o.",
+        "handle": "AS-COOLNET2-SK"
+    },
+    "56926": {
+        "country_code": "SK",
+        "asn": "56926",
+        "description": "KOMNET s.r.o.",
+        "handle": "ASKOMNET"
+    },
+    "56933": {
+        "country_code": "SK",
+        "asn": "56933",
+        "description": "Datagram s.r.o.",
+        "handle": "ASDATAGRAM"
+    },
+    "56937": {
+        "country_code": "SK",
+        "asn": "56937",
+        "description": "ISDD plus s.r.o.",
+        "handle": "ISDD-AS"
+    },
+    "56955": {
+        "country_code": "SK",
+        "asn": "56955",
+        "description": "Jan Galbac",
+        "handle": "JANGALBAC-NET"
+    },
+    "57051": {
+        "country_code": "SK",
+        "asn": "57051",
+        "description": "IT Pro s.r.o.",
+        "handle": "ASITPRO"
+    },
+    "57248": {
+        "country_code": "SK",
+        "asn": "57248",
+        "description": "Wisper s.r.o.",
+        "handle": "WISPER-AS"
+    },
+    "57414": {
+        "country_code": "SK",
+        "asn": "57414",
+        "description": "eustream as",
+        "handle": "EUSTREAM-AS"
+    },
+    "57475": {
+        "country_code": "SK",
+        "asn": "57475",
+        "description": "LightStorm Services s.r.o.",
+        "handle": "LIGHTSTORM-SERVICES-SK-AS"
+    },
+    "57539": {
+        "country_code": "SK",
+        "asn": "57539",
+        "description": "eServer s.r.o.",
+        "handle": "MEGASERVER-AS"
+    },
+    "57547": {
+        "country_code": "SK",
+        "asn": "57547",
+        "description": "WIRIX s.r.o.",
+        "handle": "ASALTERNET"
+    },
+    "57566": {
+        "country_code": "SK",
+        "asn": "57566",
+        "description": "Wircom s.r.o.",
+        "handle": "ASWIRCOM"
+    },
+    "57606": {
+        "country_code": "SK",
+        "asn": "57606",
+        "description": "Proxis spol. s r.o.",
+        "handle": "ASPROXIS"
+    },
+    "57710": {
+        "country_code": "SK",
+        "asn": "57710",
+        "description": "KOREX networks s.r.o.",
+        "handle": "KOREX-AS"
+    },
+    "57716": {
+        "country_code": "SK",
+        "asn": "57716",
+        "description": "Skynet Telecom s.r.o.",
+        "handle": "ASSKYNET"
+    },
+    "57760": {
+        "country_code": "SK",
+        "asn": "57760",
+        "description": "Kinet s.r.o.",
+        "handle": "ASKINET"
+    },
+    "57788": {
+        "country_code": "SK",
+        "asn": "57788",
+        "description": "Ringier Slovakia Media s.r.o.",
+        "handle": "RINGIERSK-AS"
+    },
+    "57801": {
+        "country_code": "SK",
+        "asn": "57801",
+        "description": "SK-NIC a.s.",
+        "handle": "SK-NIC-AS"
+    },
+    "58014": {
+        "country_code": "SK",
+        "asn": "58014",
+        "description": "ZUTOM s.r.o.",
+        "handle": "ZUTOM"
+    },
+    "58044": {
+        "country_code": "SK",
+        "asn": "58044",
+        "description": "free-zona s.r.o.",
+        "handle": "ASFREEZONA"
+    },
+    "58130": {
+        "country_code": "SK",
+        "asn": "58130",
+        "description": "rsnet s.r.o.",
+        "handle": "AS-RSNET"
+    },
+    "58245": {
+        "country_code": "SK",
+        "asn": "58245",
+        "description": "Insignia Lifestyle Services s. r. o.",
+        "handle": "AMENET-AS"
+    },
+    "58275": {
+        "country_code": "SK",
+        "asn": "58275",
+        "description": "COMP-SHOP s.r.o.",
+        "handle": "ASCOMPSHOP"
+    },
+    "58328": {
+        "country_code": "SK",
+        "asn": "58328",
+        "description": "IMAFEX s.r.o.",
+        "handle": "IMAFEX-AS"
+    },
+    "59477": {
+        "country_code": "SK",
+        "asn": "59477",
+        "description": "LIFEPC s.r.o.",
+        "handle": "ASLIFEPC"
+    },
+    "59548": {
+        "country_code": "SK",
+        "asn": "59548",
+        "description": "AXASOFT a.s.",
+        "handle": "AXASOFT"
+    },
+    "59796": {
+        "country_code": "SK",
+        "asn": "59796",
+        "description": "StormWall s.r.o.",
+        "handle": "STORMWALL-AS"
+    },
+    "60296": {
+        "country_code": "SK",
+        "asn": "60296",
+        "description": "Spoje s.r.o.",
+        "handle": "METRONET-AS"
+    },
+    "60533": {
+        "country_code": "SK",
+        "asn": "60533",
+        "description": "SateliX s.r.o.",
+        "handle": "SATELIX"
+    },
+    "60585": {
+        "country_code": "SK",
+        "asn": "60585",
+        "description": "SITEL-VSAT sro",
+        "handle": "SITEL-VSAT-ASN"
+    },
+    "60715": {
+        "country_code": "SK",
+        "asn": "60715",
+        "description": "Lombard s.r.o.",
+        "handle": "LOMBARD"
+    },
+    "60791": {
+        "country_code": "SK",
+        "asn": "60791",
+        "description": "HGdata s.r.o.",
+        "handle": "HGDATA"
+    },
+    "60829": {
+        "country_code": "SK",
+        "asn": "60829",
+        "description": "NEVERNET s.r.o.",
+        "handle": "ASNEVERNET"
+    },
+    "60895": {
+        "country_code": "SK",
+        "asn": "60895",
+        "description": "LEKOS s.r.o.",
+        "handle": "LEKOS"
+    },
+    "61241": {
+        "country_code": "SK",
+        "asn": "61241",
+        "description": "DONAU INFORMATIK s.r.o.",
+        "handle": "DIT-AS1"
+    },
+    "61335": {
+        "country_code": "SK",
+        "asn": "61335",
+        "description": "PE Denis Podolskii",
+        "handle": "OOO-SYSMEDIA-AS"
+    },
+    "61424": {
+        "country_code": "SK",
+        "asn": "61424",
+        "description": "eServer s.r.o.",
+        "handle": "ESERVER-SK-AS"
+    },
+    "64488": {
+        "country_code": "SK",
+        "asn": "64488",
+        "description": "IOPS s.r.o.",
+        "handle": "IOPS"
+    },
+    "142113": {
+        "country_code": "SK",
+        "asn": "142113",
+        "description": "eServer",
+        "handle": "ESERVER-AS-AP"
+    },
+    "196682": {
+        "country_code": "SK",
+        "asn": "196682",
+        "description": "Inverta s.r.o.",
+        "handle": "INVERTA-AS"
+    },
+    "196900": {
+        "country_code": "SK",
+        "asn": "196900",
+        "description": "Axalnet s.r.o.",
+        "handle": "AXALNET-AS"
+    },
+    "196944": {
+        "country_code": "SK",
+        "asn": "196944",
+        "description": "bonet.systems s. r. o.",
+        "handle": "NIC-SK-ASN"
+    },
+    "197398": {
+        "country_code": "SK",
+        "asn": "197398",
+        "description": "TES Media s.r.o.",
+        "handle": "ASTESMEDIA"
+    },
+    "197642": {
+        "country_code": "SK",
+        "asn": "197642",
+        "description": "Slovak Telekom a.s.",
+        "handle": "ST-IDC2-AS"
+    },
+    "198113": {
+        "country_code": "SK",
+        "asn": "198113",
+        "description": "VODOTIKA a.s.",
+        "handle": "SK-VODOTIKA-1-AS"
+    },
+    "198543": {
+        "country_code": "SK",
+        "asn": "198543",
+        "description": "MAC TV s.r.o.",
+        "handle": "SK-JOJ-ASN"
+    },
+    "199784": {
+        "country_code": "SK",
+        "asn": "199784",
+        "description": "Global Network Systems s.r.o.",
+        "handle": "GNS"
+    },
+    "200222": {
+        "country_code": "SK",
+        "asn": "200222",
+        "description": "Sama Tech s.r.o.",
+        "handle": "SAMANET"
+    },
+    "200355": {
+        "country_code": "SK",
+        "asn": "200355",
+        "description": "CadcaNet plus s. r. o.",
+        "handle": "CADCANET"
+    },
+    "200399": {
+        "country_code": "SK",
+        "asn": "200399",
+        "description": "VAN GROUP sro",
+        "handle": "SWEETTV"
+    },
+    "200771": {
+        "country_code": "SK",
+        "asn": "200771",
+        "description": "Elfa s.r.o",
+        "handle": "ELFA-SK-AS"
+    },
+    "200860": {
+        "country_code": "SK",
+        "asn": "200860",
+        "description": "Narodne Centrum Zdravotnickych Informacii (National Health Information Centre)",
+        "handle": "NCZI1"
+    },
+    "201090": {
+        "country_code": "SK",
+        "asn": "201090",
+        "description": "Condornet s.r.o.",
+        "handle": "POIX-AS"
+    },
+    "201603": {
+        "country_code": "SK",
+        "asn": "201603",
+        "description": "AIRNET s.r.o.",
+        "handle": "AIRNET-SK"
+    },
+    "201702": {
+        "country_code": "SK",
+        "asn": "201702",
+        "description": "skHosting.eu s.r.o.",
+        "handle": "SKHOSTING-EU"
+    },
+    "201841": {
+        "country_code": "SK",
+        "asn": "201841",
+        "description": "Petit Press a.s.",
+        "handle": "SK-PETITPRESS-ASN"
+    },
+    "201890": {
+        "country_code": "SK",
+        "asn": "201890",
+        "description": "EHS s.r.o.",
+        "handle": "EHS"
+    },
+    "201924": {
+        "country_code": "SK",
+        "asn": "201924",
+        "description": "ENAHOST s.r.o.",
+        "handle": "LERTAS-AS"
+    },
+    "201997": {
+        "country_code": "SK",
+        "asn": "201997",
+        "description": "MCOM-NET s.r.o.",
+        "handle": "SK-MCOM-AS"
+    },
+    "202564": {
+        "country_code": "SK",
+        "asn": "202564",
+        "description": "ITcity s.r.o.",
+        "handle": "ITCITY"
+    },
+    "202819": {
+        "country_code": "SK",
+        "asn": "202819",
+        "description": "DATASYS - edoma.net s.r.o.",
+        "handle": "DATASYS"
+    },
+    "202876": {
+        "country_code": "SK",
+        "asn": "202876",
+        "description": "BBNW s.r.o.",
+        "handle": "AS-BBNW"
+    },
+    "203122": {
+        "country_code": "SK",
+        "asn": "203122",
+        "description": "YellowNET s.r.o",
+        "handle": "YELLOWNET"
+    },
+    "203480": {
+        "country_code": "SK",
+        "asn": "203480",
+        "description": "Quality Unit s.r.o.",
+        "handle": "QUALITYUNIT"
+    },
+    "203933": {
+        "country_code": "SK",
+        "asn": "203933",
+        "description": "DataCentrum",
+        "handle": "SK-DC-AS"
+    },
+    "204017": {
+        "country_code": "SK",
+        "asn": "204017",
+        "description": "Laura Fuchs",
+        "handle": "FUCHSNET"
+    },
+    "204058": {
+        "country_code": "SK",
+        "asn": "204058",
+        "description": "Fibris s.r.o.",
+        "handle": "SK-FIBRIS"
+    },
+    "204070": {
+        "country_code": "SK",
+        "asn": "204070",
+        "description": "Zapadoslovenska distribucna a.s.",
+        "handle": "ZSDIS"
+    },
+    "204365": {
+        "country_code": "SK",
+        "asn": "204365",
+        "description": "ARTOS a.s.",
+        "handle": "ARTOS-AS"
+    },
+    "204690": {
+        "country_code": "SK",
+        "asn": "204690",
+        "description": "PLAYMAX s.r.o.",
+        "handle": "OLIMSK"
+    },
+    "204691": {
+        "country_code": "SK",
+        "asn": "204691",
+        "description": "PLAYMAX s.r.o.",
+        "handle": "TIPNET"
+    },
+    "204716": {
+        "country_code": "SK",
+        "asn": "204716",
+        "description": "PLAYMAX s.r.o.",
+        "handle": "PLAYMAX"
+    },
+    "204749": {
+        "country_code": "SK",
+        "asn": "204749",
+        "description": "MARTICO s.r.o.",
+        "handle": "MARTICO-AS"
+    },
+    "205055": {
+        "country_code": "SK",
+        "asn": "205055",
+        "description": "Geetoo Technology SK s. r. o.",
+        "handle": "GEETOO-SK"
+    },
+    "205164": {
+        "country_code": "SK",
+        "asn": "205164",
+        "description": "AIR-Optic Solutions s.r.o.",
+        "handle": "SZARIAS"
+    },
+    "205168": {
+        "country_code": "SK",
+        "asn": "205168",
+        "description": "MAXNETWORK s.r.o.",
+        "handle": "MAXNETWORK"
+    },
+    "205428": {
+        "country_code": "SK",
+        "asn": "205428",
+        "description": "DALNet s.r.o.",
+        "handle": "DALNET"
+    },
+    "205523": {
+        "country_code": "SK",
+        "asn": "205523",
+        "description": "DONAU INFORMATIK s.r.o.",
+        "handle": "DIT-AS2"
+    },
+    "206110": {
+        "country_code": "SK",
+        "asn": "206110",
+        "description": "1 Cloud Lab s.r.o.",
+        "handle": "AS-1CL"
+    },
+    "206194": {
+        "country_code": "SK",
+        "asn": "206194",
+        "description": "Dobry internet s. r. o.",
+        "handle": "DOBRYINTERNET-AS"
+    },
+    "206198": {
+        "country_code": "SK",
+        "asn": "206198",
+        "description": "ELVISDK s.r.o.",
+        "handle": "ELVISDK-AS"
+    },
+    "206759": {
+        "country_code": "SK",
+        "asn": "206759",
+        "description": "Sytra s.r.o.",
+        "handle": "SYTRA"
+    },
+    "206909": {
+        "country_code": "SK",
+        "asn": "206909",
+        "description": "News and Media Holding a.s.",
+        "handle": "NMH-AS"
+    },
+    "207084": {
+        "country_code": "SK",
+        "asn": "207084",
+        "description": "Slavconet s.r.o.",
+        "handle": "SLAVCONET"
+    },
+    "207437": {
+        "country_code": "SK",
+        "asn": "207437",
+        "description": "CHOICE s.r.o.",
+        "handle": "CHOICE"
+    },
+    "207981": {
+        "country_code": "SK",
+        "asn": "207981",
+        "description": "ENERGOTEL a.s.",
+        "handle": "ENERGOTEL-AS"
+    },
+    "208429": {
+        "country_code": "SK",
+        "asn": "208429",
+        "description": "Platon Technologies s.r.o.",
+        "handle": "PLATON-AS"
+    },
+    "208667": {
+        "country_code": "SK",
+        "asn": "208667",
+        "description": "pc3100Plus s.r.o.",
+        "handle": "NETPRO-AS"
+    },
+    "208668": {
+        "country_code": "SK",
+        "asn": "208668",
+        "description": "NetSpace s.r.o.",
+        "handle": "NETSPACE-AS"
+    },
+    "208670": {
+        "country_code": "SK",
+        "asn": "208670",
+        "description": "BitComp s.r.o.",
+        "handle": "BITCOMP-AS"
+    },
+    "208882": {
+        "country_code": "SK",
+        "asn": "208882",
+        "description": "Automation & Business s.r.o.",
+        "handle": "AS-COOLNET1-SK"
+    },
+    "209070": {
+        "country_code": "SK",
+        "asn": "209070",
+        "description": "securCom s.r.o.",
+        "handle": "SECURCOM"
+    },
+    "209212": {
+        "country_code": "SK",
+        "asn": "209212",
+        "description": "Tatry mountain resorts a.s.",
+        "handle": "AS-TMR"
+    },
+    "209250": {
+        "country_code": "SK",
+        "asn": "209250",
+        "description": "GlobalLogic Slovakia s.r.o.",
+        "handle": "AS2-GLOBALLOGIC"
+    },
+    "209251": {
+        "country_code": "SK",
+        "asn": "209251",
+        "description": "GlobalLogic Slovakia s.r.o.",
+        "handle": "AS1-GLOBALLOGIC"
+    },
+    "209429": {
+        "country_code": "SK",
+        "asn": "209429",
+        "description": "Max Telekom s.r.o.",
+        "handle": "MAX-TELEKOM"
+    },
+    "209531": {
+        "country_code": "SK",
+        "asn": "209531",
+        "description": "OSTV s.r.o.",
+        "handle": "OSTV"
+    },
+    "209816": {
+        "country_code": "SK",
+        "asn": "209816",
+        "description": "M.S.Profi s.r.o.",
+        "handle": "MSPROFI-AS"
+    },
+    "209998": {
+        "country_code": "SK",
+        "asn": "209998",
+        "description": "ActiveNet s.r.o.",
+        "handle": "ACTIVENET"
+    },
+    "210117": {
+        "country_code": "SK",
+        "asn": "210117",
+        "description": "OravaSK s.r.o.",
+        "handle": "ASORAVASK"
+    },
+    "210263": {
+        "country_code": "SK",
+        "asn": "210263",
+        "description": "SEAL IT Services s.r.o.",
+        "handle": "SEALIT"
+    },
+    "211689": {
+        "country_code": "SK",
+        "asn": "211689",
+        "description": "HMZ RADIOKOMUNIKACIE spol. s r.o.",
+        "handle": "BLUENET"
+    },
+    "212473": {
+        "country_code": "SK",
+        "asn": "212473",
+        "description": "Gaya s.r.o.",
+        "handle": "AS-NEOGRAFIA"
+    },
+    "212537": {
+        "country_code": "SK",
+        "asn": "212537",
+        "description": "Kia Slovakia s. r. o.",
+        "handle": "KIASK-AS"
+    },
+    "212974": {
+        "country_code": "SK",
+        "asn": "212974",
+        "description": "TomaNet s.r.o.",
+        "handle": "TOMANET"
+    },
+    "213247": {
+        "country_code": "SK",
+        "asn": "213247",
+        "description": "JUKO s.r.o. Presov",
+        "handle": "JUKO"
+    },
+    "213609": {
+        "country_code": "SK",
+        "asn": "213609",
+        "description": "Upc Broadband Slovakia s.r.o.",
+        "handle": "UPCBROADBANDSLOVAKIA"
+    },
+    "213906": {
+        "country_code": "SK",
+        "asn": "213906",
+        "description": "Samuel Trnka",
+        "handle": "TRACESHIFT"
+    },
+    "214072": {
+        "country_code": "SK",
+        "asn": "214072",
+        "description": "Hlavne mesto Slovenskej republiky Bratislava",
+        "handle": "HMBA"
+    },
+    "214087": {
+        "country_code": "SK",
+        "asn": "214087",
+        "description": "EXO TECHNOLOGIES spol. s r.o.",
+        "handle": "EXOHOSTING-AS"
+    },
+    "214396": {
+        "country_code": "SK",
+        "asn": "214396",
+        "description": "Sudolio a.s.",
+        "handle": "SUDOLIO-AS"
+    },
+    "214400": {
+        "country_code": "SK",
+        "asn": "214400",
+        "description": "Martin Petrak",
+        "handle": "MARTIN-PETRAK"
+    },
+    "214446": {
+        "country_code": "SK",
+        "asn": "214446",
+        "description": "LiveNET services s. r. o.",
+        "handle": "LIVENET"
+    },
+    "214851": {
+        "country_code": "SK",
+        "asn": "214851",
+        "description": "All2U services s.r.o.",
+        "handle": "ALL2U"
+    },
+    "215111": {
+        "country_code": "SK",
+        "asn": "215111",
+        "description": "Lenovo (Slovakia) s.r.o.",
+        "handle": "LENOVO-GERMANY-AS"
+    },
+    "215695": {
+        "country_code": "SK",
+        "asn": "215695",
+        "description": "PrimaTEL s.r.o.",
+        "handle": "PRIMATEL-SK"
+    },
+    "215798": {
+        "country_code": "SK",
+        "asn": "215798",
+        "description": "OSTV s.r.o.",
+        "handle": "OSTV-SK"
+    },
+    "216051": {
+        "country_code": "SK",
+        "asn": "216051",
+        "description": "G&G Global Tech S.r.o.",
+        "handle": "GNGGSRO"
+    },
+    "216083": {
+        "country_code": "SK",
+        "asn": "216083",
+        "description": "Prva internetova s.r.o",
+        "handle": "PRVAINTERNETOVA"
+    }
+}

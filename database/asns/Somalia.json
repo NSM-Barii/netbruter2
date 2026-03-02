@@ -1,0 +1,146 @@
+{
+    "37326": {
+        "country_code": "SO",
+        "asn": "37326",
+        "description": "Global Internet Company",
+        "handle": "GICO"
+    },
+    "37371": {
+        "country_code": "SO",
+        "asn": "37371",
+        "description": "Hormuud Telecom Somalia INC",
+        "handle": "HORMUUD"
+    },
+    "37425": {
+        "country_code": "SO",
+        "asn": "37425",
+        "description": "SomCable",
+        "handle": "SOMCABLE"
+    },
+    "37473": {
+        "country_code": "SO",
+        "asn": "37473",
+        "description": "Telesom",
+        "handle": "TELESOM"
+    },
+    "37563": {
+        "country_code": "SO",
+        "asn": "37563",
+        "description": "SOMTEL INTERNATIONAL Ltd",
+        "handle": "SOMTEL"
+    },
+    "37644": {
+        "country_code": "SO",
+        "asn": "37644",
+        "description": "Ministry of Posts Telecommunications and Technology",
+        "handle": "MIPT-AS"
+    },
+    "37781": {
+        "country_code": "SO",
+        "asn": "37781",
+        "description": "Somali Research & Education Network(SomaliREN)",
+        "handle": "SOIXP-PEERING-AS"
+    },
+    "327732": {
+        "country_code": "SO",
+        "asn": "327732",
+        "description": "Dalkom Somalia",
+        "handle": "DALKOM-SOMALIA"
+    },
+    "327742": {
+        "country_code": "SO",
+        "asn": "327742",
+        "description": "Somali Wireless Network",
+        "handle": "SOMALI-WIRELESS"
+    },
+    "327747": {
+        "country_code": "SO",
+        "asn": "327747",
+        "description": "Sahal Telecom Somalia",
+        "handle": "SAHAL-TELECOM"
+    },
+    "327764": {
+        "country_code": "SO",
+        "asn": "327764",
+        "description": "Somali Research & Education Network(SomaliREN)",
+        "handle": "SOMALIREN"
+    },
+    "327768": {
+        "country_code": "SO",
+        "asn": "327768",
+        "description": "Somcast Networks LLC",
+        "handle": "SOMCAST-NETWORKS"
+    },
+    "327828": {
+        "country_code": "SO",
+        "asn": "327828",
+        "description": "Somali Optical Networks",
+        "handle": "SOMALI-OPTICAL-NETWORKS"
+    },
+    "328250": {
+        "country_code": "SO",
+        "asn": "328250",
+        "description": "Golis Telecom Somalia",
+        "handle": "GOLIS-TELECOM-AS"
+    },
+    "328319": {
+        "country_code": "SO",
+        "asn": "328319",
+        "description": "AMTEL LTD",
+        "handle": "AMTEL-AS"
+    },
+    "328363": {
+        "country_code": "SO",
+        "asn": "328363",
+        "description": "Somali Research & Education Network(SomaliREN)",
+        "handle": "SOIXP-MANAGEMENT-AS"
+    },
+    "328435": {
+        "country_code": "SO",
+        "asn": "328435",
+        "description": "Economic & Strategic Research Center",
+        "handle": "ECONOMIC-STRATEGIC-RESEARCH-CENTER-AS"
+    },
+    "328469": {
+        "country_code": "SO",
+        "asn": "328469",
+        "description": "Somtel Somalia LTD",
+        "handle": "SOMTEL-SOMALIA-AS"
+    },
+    "328590": {
+        "country_code": "SO",
+        "asn": "328590",
+        "description": "Somlink Wireless Network",
+        "handle": "SOMLINK-WIRELESS-AS"
+    },
+    "328953": {
+        "country_code": "SO",
+        "asn": "328953",
+        "description": "TAYOCOM",
+        "handle": "TAYOCOM"
+    },
+    "328954": {
+        "country_code": "SO",
+        "asn": "328954",
+        "description": "Bluecom Ltd",
+        "handle": "BL27-AS"
+    },
+    "328959": {
+        "country_code": "SO",
+        "asn": "328959",
+        "description": "SO! Limited",
+        "handle": "SO-GASHO"
+    },
+    "329163": {
+        "country_code": "SO",
+        "asn": "329163",
+        "description": "Dalkom Somalia",
+        "handle": "DALKOM-F-ROOT"
+    },
+    "329343": {
+        "country_code": "SO",
+        "asn": "329343",
+        "description": "SOMOTT",
+        "handle": "SOMOTT"
+    }
+}

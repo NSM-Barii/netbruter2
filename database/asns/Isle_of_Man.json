@@ -1,0 +1,164 @@
+{
+    "926": {
+        "country_code": "IM",
+        "asn": "926",
+        "description": "AS926 Limited",
+        "handle": "AS926"
+    },
+    "13122": {
+        "country_code": "IM",
+        "asn": "13122",
+        "description": "Manx Telecom Trading Ltd",
+        "handle": "MANX-AS"
+    },
+    "15766": {
+        "country_code": "IM",
+        "asn": "15766",
+        "description": "Domicilium (IOM) Limited",
+        "handle": "DOMICILIUM-AS"
+    },
+    "24851": {
+        "country_code": "IM",
+        "asn": "24851",
+        "description": "Netcetera Ltd.",
+        "handle": "UK-NETCETERA"
+    },
+    "35691": {
+        "country_code": "IM",
+        "asn": "35691",
+        "description": "Plan Communications Ltd",
+        "handle": "PLAN-COM"
+    },
+    "42455": {
+        "country_code": "IM",
+        "asn": "42455",
+        "description": "ELITE GROUP.IM LIMITED",
+        "handle": "WI-MANX-AS"
+    },
+    "43338": {
+        "country_code": "IM",
+        "asn": "43338",
+        "description": "TSG Interactive Services Limited",
+        "handle": "RATIONAL-AS"
+    },
+    "43745": {
+        "country_code": "IM",
+        "asn": "43745",
+        "description": "Forena Limited",
+        "handle": "FORENAINC-AS-EU"
+    },
+    "44168": {
+        "country_code": "IM",
+        "asn": "44168",
+        "description": "CONTINENT 8 TECHNOLOGIES PLC",
+        "handle": "CONTINENT8-AS"
+    },
+    "44481": {
+        "country_code": "IM",
+        "asn": "44481",
+        "description": "Professional Data Management Services Limited",
+        "handle": "PDMS-AS"
+    },
+    "47856": {
+        "country_code": "IM",
+        "asn": "47856",
+        "description": "Delta Productions Ltd",
+        "handle": "DELTAPROD-AS"
+    },
+    "48536": {
+        "country_code": "IM",
+        "asn": "48536",
+        "description": "TSG Interactive Services Limited",
+        "handle": "FILCO-AS"
+    },
+    "50328": {
+        "country_code": "IM",
+        "asn": "50328",
+        "description": "ManxIX Limited",
+        "handle": "ORG-BCL24-RIPE"
+    },
+    "50763": {
+        "country_code": "IM",
+        "asn": "50763",
+        "description": "Robert McKay",
+        "handle": "MCKAYCOM"
+    },
+    "57198": {
+        "country_code": "IM",
+        "asn": "57198",
+        "description": "OV Limited",
+        "handle": "PARTITIONWARE-AS"
+    },
+    "64480": {
+        "country_code": "IM",
+        "asn": "64480",
+        "description": "SC IP Limited",
+        "handle": "SDHOLDING"
+    },
+    "132006": {
+        "country_code": "IM",
+        "asn": "132006",
+        "description": "Domicilium (IOM) Ltd",
+        "handle": "DIOM-AS-AP"
+    },
+    "132227": {
+        "country_code": "IM",
+        "asn": "132227",
+        "description": "A2D Entertainment Limited",
+        "handle": "A2D-AS-AP"
+    },
+    "197385": {
+        "country_code": "IM",
+        "asn": "197385",
+        "description": "Stacuity Limited",
+        "handle": "STACUITY-INET"
+    },
+    "200348": {
+        "country_code": "IM",
+        "asn": "200348",
+        "description": "SC IP Limited",
+        "handle": "SC-LIMITED"
+    },
+    "201898": {
+        "country_code": "IM",
+        "asn": "201898",
+        "description": "BlueWave Communications Limited",
+        "handle": "AS-BLUEWAVE"
+    },
+    "207092": {
+        "country_code": "IM",
+        "asn": "207092",
+        "description": "SC IP Limited",
+        "handle": "SC-LIMITED"
+    },
+    "208400": {
+        "country_code": "IM",
+        "asn": "208400",
+        "description": "Stacuity Limited",
+        "handle": "STACUITY"
+    },
+    "208770": {
+        "country_code": "IM",
+        "asn": "208770",
+        "description": "Greacon Limited",
+        "handle": "IM-GREACON"
+    },
+    "210607": {
+        "country_code": "IM",
+        "asn": "210607",
+        "description": "ManxIX Limited",
+        "handle": "ORG-BCL24-RIPE"
+    },
+    "211911": {
+        "country_code": "IM",
+        "asn": "211911",
+        "description": "Devexperts LLC",
+        "handle": "DEVEXPERTS-SOLUTIONS"
+    },
+    "212873": {
+        "country_code": "IM",
+        "asn": "212873",
+        "description": "Hobarton Limited",
+        "handle": "HOBARTON"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "6572": {
+        "country_code": "VI",
+        "asn": "6572",
+        "description": "Octagon Consultants Int'l Inc.",
+        "handle": "USVI-ASN"
+    },
+    "13687": {
+        "country_code": "VI",
+        "asn": "13687",
+        "description": "Love City Community Network",
+        "handle": "LCCN"
+    },
+    "14434": {
+        "country_code": "VI",
+        "asn": "14434",
+        "description": "VI POWERNET LLC",
+        "handle": "VIPNAS1"
+    },
+    "20243": {
+        "country_code": "VI",
+        "asn": "20243",
+        "description": "University of the Virgin Islands",
+        "handle": "UVI"
+    },
+    "22581": {
+        "country_code": "VI",
+        "asn": "22581",
+        "description": "Broadband VI LLC",
+        "handle": "ACE-STX"
+    },
+    "32085": {
+        "country_code": "VI",
+        "asn": "32085",
+        "description": "Broadband VI LLC",
+        "handle": "ACE-AS"
+    },
+    "53248": {
+        "country_code": "VI",
+        "asn": "53248",
+        "description": "Limetree Bay Holdings LLC",
+        "handle": "LIMETREE-ASN"
+    },
+    "393275": {
+        "country_code": "VI",
+        "asn": "393275",
+        "description": "Virgin Islands Next Generation Network",
+        "handle": "VINGN-VIRGIN-ISLANDS-NEXT-GENERATION-NETWORK"
+    },
+    "393785": {
+        "country_code": "VI",
+        "asn": "393785",
+        "description": "VI Technical Services",
+        "handle": "VTS-1"
+    },
+    "399963": {
+        "country_code": "VI",
+        "asn": "399963",
+        "description": "Virgin Islands Department of Education",
+        "handle": "VIDE-ASN"
+    },
+    "400099": {
+        "country_code": "VI",
+        "asn": "400099",
+        "description": "Alliance Data Services LLC",
+        "handle": "SMART-NET-01"
+    },
+    "400741": {
+        "country_code": "VI",
+        "asn": "400741",
+        "description": "ADM Technologies Inc.",
+        "handle": "ADM-TECH-01"
+    },
+    "400992": {
+        "country_code": "VI",
+        "asn": "400992",
+        "description": "ZhouyiSat Communications",
+        "handle": "ZHOUYISAT-COMMUNICATIONS"
+    }
+}

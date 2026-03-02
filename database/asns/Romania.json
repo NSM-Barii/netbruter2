@@ -1,0 +1,6614 @@
+{
+    "2541": {
+        "country_code": "RO",
+        "asn": "2541",
+        "description": "SPECIAL INTERNET OPERATIONS SRL",
+        "handle": "OPERATIUNI-SPECIALE"
+    },
+    "2614": {
+        "country_code": "RO",
+        "asn": "2614",
+        "description": "Agentia de Administrare a Retelei Nationale de Informatica pentru Educatie si Cercetare",
+        "handle": "ROEDUNET"
+    },
+    "3164": {
+        "country_code": "RO",
+        "asn": "3164",
+        "description": "Astimp IT Solution SRL",
+        "handle": "ASTIMP-IT"
+    },
+    "3210": {
+        "country_code": "RO",
+        "asn": "3210",
+        "description": "Secure Data Systems SRL",
+        "handle": "SECURE-DATA-AS"
+    },
+    "3233": {
+        "country_code": "RO",
+        "asn": "3233",
+        "description": "Institutul National de Cercetare-Dezvoltare in informatica - ICI Bucuresti",
+        "handle": "ICI-ROTLD"
+    },
+    "3280": {
+        "country_code": "RO",
+        "asn": "3280",
+        "description": "ENGINYRING EUROPE SRL",
+        "handle": "ENGINYRING-AS"
+    },
+    "3289": {
+        "country_code": "RO",
+        "asn": "3289",
+        "description": "MIDOCAR SRL",
+        "handle": "MIDOCAR-AS"
+    },
+    "5541": {
+        "country_code": "RO",
+        "asn": "5541",
+        "description": "INVITE Systems SRL",
+        "handle": "ADNET-TELECOM"
+    },
+    "5606": {
+        "country_code": "RO",
+        "asn": "5606",
+        "description": "GTS Telecom SRL",
+        "handle": "GTS-BACKBONE"
+    },
+    "6204": {
+        "country_code": "RO",
+        "asn": "6204",
+        "description": "INTERKVM HOST SRL",
+        "handle": "ZET-NET"
+    },
+    "6663": {
+        "country_code": "RO",
+        "asn": "6663",
+        "description": "Euroweb Romania S.R.L.",
+        "handle": "TTI-NET"
+    },
+    "6693": {
+        "country_code": "RO",
+        "asn": "6693",
+        "description": "Universitatea Bucuresti",
+        "handle": "UNIBUC"
+    },
+    "6718": {
+        "country_code": "RO",
+        "asn": "6718",
+        "description": "NAV COMMUNICATIONS SRL",
+        "handle": "NAV"
+    },
+    "6796": {
+        "country_code": "RO",
+        "asn": "6796",
+        "description": "SERVIER PHARMA SRL",
+        "handle": "SERVIER-AS"
+    },
+    "6890": {
+        "country_code": "RO",
+        "asn": "6890",
+        "description": "Internet Resources Management SRL",
+        "handle": "IRM-AS"
+    },
+    "6910": {
+        "country_code": "RO",
+        "asn": "6910",
+        "description": "DIGI ROMANIA S.A.",
+        "handle": "DIGIBORDER"
+    },
+    "8317": {
+        "country_code": "RO",
+        "asn": "8317",
+        "description": "Netaccess SRL",
+        "handle": "NETACCESS-AS"
+    },
+    "8423": {
+        "country_code": "RO",
+        "asn": "8423",
+        "description": "NetcoRR Synergies SRL",
+        "handle": "NETCORR-AS"
+    },
+    "8614": {
+        "country_code": "RO",
+        "asn": "8614",
+        "description": "ITC Institutul Pentru Tehnica De Calcul SA",
+        "handle": "ITC-AS"
+    },
+    "8708": {
+        "country_code": "RO",
+        "asn": "8708",
+        "description": "DIGI ROMANIA S.A.",
+        "handle": "DIGI-ROMANIA"
+    },
+    "8751": {
+        "country_code": "RO",
+        "asn": "8751",
+        "description": "MEDIA SAT SRL",
+        "handle": "MEDIASAT"
+    },
+    "8919": {
+        "country_code": "RO",
+        "asn": "8919",
+        "description": "Vodafone Romania S.A.",
+        "handle": "CANAD"
+    },
+    "8930": {
+        "country_code": "RO",
+        "asn": "8930",
+        "description": "EX MEDIA SA",
+        "handle": "ASN-MEDIAFAX"
+    },
+    "8953": {
+        "country_code": "RO",
+        "asn": "8953",
+        "description": "Orange Romania S.A.",
+        "handle": "ASN-ORANGE-ROMANIA"
+    },
+    "8976": {
+        "country_code": "RO",
+        "asn": "8976",
+        "description": "Streamwide Romania SRL",
+        "handle": "STREAMWIDE-AS"
+    },
+    "9009": {
+        "country_code": "RO",
+        "asn": "9009",
+        "description": "M247 Europe SRL",
+        "handle": "M247"
+    },
+    "9015": {
+        "country_code": "RO",
+        "asn": "9015",
+        "description": "Vodafone Romania S.A.",
+        "handle": "VODAFONE-ROMANIA-SA"
+    },
+    "9050": {
+        "country_code": "RO",
+        "asn": "9050",
+        "description": "Orange Romania S.A.",
+        "handle": "RTD"
+    },
+    "9064": {
+        "country_code": "RO",
+        "asn": "9064",
+        "description": "Internet City Doi SA",
+        "handle": "IIRUC-DIGICOM-SA"
+    },
+    "9176": {
+        "country_code": "RO",
+        "asn": "9176",
+        "description": "TOP EDGE ENGINEERING S.R.L.",
+        "handle": "TOPEDGE"
+    },
+    "12302": {
+        "country_code": "RO",
+        "asn": "12302",
+        "description": "Vodafone Romania S.A.",
+        "handle": "VODAFONE-RO"
+    },
+    "12310": {
+        "country_code": "RO",
+        "asn": "12310",
+        "description": "iNES GROUP SRL",
+        "handle": "INES"
+    },
+    "12325": {
+        "country_code": "RO",
+        "asn": "12325",
+        "description": "Internet Resources Management SRL",
+        "handle": "IRM-AS"
+    },
+    "12356": {
+        "country_code": "RO",
+        "asn": "12356",
+        "description": "UNIVERSITATEA ROMANO-AMERICANA",
+        "handle": "RAU-AS"
+    },
+    "12439": {
+        "country_code": "RO",
+        "asn": "12439",
+        "description": "Impromex S.R.L.",
+        "handle": "IMPROMEX"
+    },
+    "12442": {
+        "country_code": "RO",
+        "asn": "12442",
+        "description": "PRO TV S.A.",
+        "handle": "PRO-TV-AS"
+    },
+    "12446": {
+        "country_code": "RO",
+        "asn": "12446",
+        "description": "SES SERVICES ROMANIA S.R.L.",
+        "handle": "ESS-NET-AS"
+    },
+    "12592": {
+        "country_code": "RO",
+        "asn": "12592",
+        "description": "Trans Tel Services SRL",
+        "handle": "TTS"
+    },
+    "12632": {
+        "country_code": "RO",
+        "asn": "12632",
+        "description": "DIGI ROMANIA S.A.",
+        "handle": "DIGINETMOBIL"
+    },
+    "12672": {
+        "country_code": "RO",
+        "asn": "12672",
+        "description": "Ringier Romania SRL",
+        "handle": "ASN-RINGIER"
+    },
+    "12675": {
+        "country_code": "RO",
+        "asn": "12675",
+        "description": "Alexandru Ioan Cuza University",
+        "handle": "UAIC-NETWORK"
+    },
+    "12804": {
+        "country_code": "RO",
+        "asn": "12804",
+        "description": "Adisam Telecom S.A.",
+        "handle": "ADISAM"
+    },
+    "12842": {
+        "country_code": "RO",
+        "asn": "12842",
+        "description": "Internet Oltenia SRL",
+        "handle": "INTERNET-OLTENIA"
+    },
+    "13011": {
+        "country_code": "RO",
+        "asn": "13011",
+        "description": "RA Monitorul Oficial",
+        "handle": "RA-MONITORUL-OFICIAL-AS"
+    },
+    "13059": {
+        "country_code": "RO",
+        "asn": "13059",
+        "description": "Extreme Solutions SRL",
+        "handle": "EXTREME-SOLUTIONS"
+    },
+    "13067": {
+        "country_code": "RO",
+        "asn": "13067",
+        "description": "CHS Datalink SRL",
+        "handle": "TTX-AS"
+    },
+    "13085": {
+        "country_code": "RO",
+        "asn": "13085",
+        "description": "PATRIA BANK SA",
+        "handle": "PATRIA-BANK-AS"
+    },
+    "13209": {
+        "country_code": "RO",
+        "asn": "13209",
+        "description": "Atom Hosting SRL",
+        "handle": "ATOM-HOSTING"
+    },
+    "13210": {
+        "country_code": "RO",
+        "asn": "13210",
+        "description": "ACADEMIA DE STUDII ECONOMICE",
+        "handle": "ASE"
+    },
+    "15471": {
+        "country_code": "RO",
+        "asn": "15471",
+        "description": "S.N. Radiocomunicatii S.A.",
+        "handle": "SNR-RO"
+    },
+    "15520": {
+        "country_code": "RO",
+        "asn": "15520",
+        "description": "TeleEst SRL",
+        "handle": "ASN-TELEEST"
+    },
+    "15730": {
+        "country_code": "RO",
+        "asn": "15730",
+        "description": "I-Services Provider SRL",
+        "handle": "I-SERVICES-PROVIDER"
+    },
+    "15856": {
+        "country_code": "RO",
+        "asn": "15856",
+        "description": "Lasting System SRL",
+        "handle": "LASTING-INTERNET"
+    },
+    "15873": {
+        "country_code": "RO",
+        "asn": "15873",
+        "description": "Ogilvy & Mather Advertising S.R.L.",
+        "handle": "OGILVY-AS"
+    },
+    "15882": {
+        "country_code": "RO",
+        "asn": "15882",
+        "description": "M&M Computers SRL",
+        "handle": "ASMMC"
+    },
+    "16026": {
+        "country_code": "RO",
+        "asn": "16026",
+        "description": "OMV PETROM SA",
+        "handle": "PETROM-NET"
+    },
+    "16100": {
+        "country_code": "RO",
+        "asn": "16100",
+        "description": "Blocul National Sindical BNS",
+        "handle": "BNS-AS"
+    },
+    "16120": {
+        "country_code": "RO",
+        "asn": "16120",
+        "description": "Universitatea de Medicina si Farmacie Victor Babes Timisoara",
+        "handle": "ASUMFT"
+    },
+    "16157": {
+        "country_code": "RO",
+        "asn": "16157",
+        "description": "STARNETIS S.R.L.",
+        "handle": "STARNETIS-SRL"
+    },
+    "16192": {
+        "country_code": "RO",
+        "asn": "16192",
+        "description": "Rom Electronic Company SRL",
+        "handle": "ROM-ELECTRONIC-AS"
+    },
+    "16199": {
+        "country_code": "RO",
+        "asn": "16199",
+        "description": "SC Megadata SRL",
+        "handle": "MEGADATA-AS"
+    },
+    "16220": {
+        "country_code": "RO",
+        "asn": "16220",
+        "description": "Civil Engineering University of Bucharest",
+        "handle": "UTCBNET"
+    },
+    "17818": {
+        "country_code": "RO",
+        "asn": "17818",
+        "description": "LNK SYSTEMS MUNTENIA SRL",
+        "handle": "LNK-SENTINEL"
+    },
+    "20497": {
+        "country_code": "RO",
+        "asn": "20497",
+        "description": "INTERNIO SYSTEMS SRL",
+        "handle": "INTERNIO-AS"
+    },
+    "20524": {
+        "country_code": "RO",
+        "asn": "20524",
+        "description": "SC Inexess Team Agency SRL",
+        "handle": "INEXESS-ASN"
+    },
+    "20530": {
+        "country_code": "RO",
+        "asn": "20530",
+        "description": "Asociatia Nationala a Internet Service Providerilor din Romania ANISP",
+        "handle": "ANISP-ROMANIA"
+    },
+    "20606": {
+        "country_code": "RO",
+        "asn": "20606",
+        "description": "GTS Telecom SRL",
+        "handle": "GTS-VDC1"
+    },
+    "20616": {
+        "country_code": "RO",
+        "asn": "20616",
+        "description": "Cyber Folks SRL",
+        "handle": "CYBER-FOLKS-RO-DC-PIE"
+    },
+    "20668": {
+        "country_code": "RO",
+        "asn": "20668",
+        "description": "Teen Telecom SRL",
+        "handle": "IRM-AS"
+    },
+    "20703": {
+        "country_code": "RO",
+        "asn": "20703",
+        "description": "Carbochim S.A.",
+        "handle": "CARBOCHIM-AS"
+    },
+    "20722": {
+        "country_code": "RO",
+        "asn": "20722",
+        "description": "Allnet Cloud Srl",
+        "handle": "ALLNET-AS"
+    },
+    "20820": {
+        "country_code": "RO",
+        "asn": "20820",
+        "description": "JUDETUL DAMBOVITA",
+        "handle": "ASN-CJD-NET"
+    },
+    "20877": {
+        "country_code": "RO",
+        "asn": "20877",
+        "description": "GTS Telecom SRL",
+        "handle": "GTS-VDC2"
+    },
+    "20879": {
+        "country_code": "RO",
+        "asn": "20879",
+        "description": "DIGI ROMANIA S.A.",
+        "handle": "DIGI-PT"
+    },
+    "20929": {
+        "country_code": "RO",
+        "asn": "20929",
+        "description": "Ministry of Public Finance - The Information Technology Division",
+        "handle": "MF-CTIF"
+    },
+    "20930": {
+        "country_code": "RO",
+        "asn": "20930",
+        "description": "Softwin SRL",
+        "handle": "SOFTWIN"
+    },
+    "21007": {
+        "country_code": "RO",
+        "asn": "21007",
+        "description": "iNES GROUP SRL",
+        "handle": "DIGICOM"
+    },
+    "21022": {
+        "country_code": "RO",
+        "asn": "21022",
+        "description": "Banca de Investitii si Dezvoltare SA",
+        "handle": "BID-AS"
+    },
+    "21157": {
+        "country_code": "RO",
+        "asn": "21157",
+        "description": "SYSCO SRL",
+        "handle": "SYSCO"
+    },
+    "21294": {
+        "country_code": "RO",
+        "asn": "21294",
+        "description": "CLOUDSYS TELECOM SRL",
+        "handle": "IDILIS"
+    },
+    "21300": {
+        "country_code": "RO",
+        "asn": "21300",
+        "description": "AccessNet International SRL",
+        "handle": "NET"
+    },
+    "21317": {
+        "country_code": "RO",
+        "asn": "21317",
+        "description": "Everymatrix SRL",
+        "handle": "EVERYMATRIX-AS"
+    },
+    "21368": {
+        "country_code": "RO",
+        "asn": "21368",
+        "description": "Phoenix IT SRL",
+        "handle": "PHOENIX-IT"
+    },
+    "24660": {
+        "country_code": "RO",
+        "asn": "24660",
+        "description": "EVOZON SYSTEMS SRL",
+        "handle": "EVOZON-AS"
+    },
+    "24695": {
+        "country_code": "RO",
+        "asn": "24695",
+        "description": "T.M.A Serv SRL",
+        "handle": "TMA-AS"
+    },
+    "24704": {
+        "country_code": "RO",
+        "asn": "24704",
+        "description": "DataGroup-Int SRL",
+        "handle": "DGI"
+    },
+    "24712": {
+        "country_code": "RO",
+        "asn": "24712",
+        "description": "AXIGEN MESSAGING SRL",
+        "handle": "AXIGEN"
+    },
+    "24745": {
+        "country_code": "RO",
+        "asn": "24745",
+        "description": "Orange Romania S.A.",
+        "handle": "BALCAN-IX"
+    },
+    "24790": {
+        "country_code": "RO",
+        "asn": "24790",
+        "description": "Romcare SRL",
+        "handle": "ROMCARE"
+    },
+    "24839": {
+        "country_code": "RO",
+        "asn": "24839",
+        "description": "Universitatea Babes-Bolyai",
+        "handle": "UBB"
+    },
+    "24858": {
+        "country_code": "RO",
+        "asn": "24858",
+        "description": "Comtec Net SRL",
+        "handle": "COMTEC"
+    },
+    "24914": {
+        "country_code": "RO",
+        "asn": "24914",
+        "description": "Telus Net SRL",
+        "handle": "TELUSNET-AS"
+    },
+    "24966": {
+        "country_code": "RO",
+        "asn": "24966",
+        "description": "DIGI ROMANIA S.A.",
+        "handle": "NETPOINT"
+    },
+    "25097": {
+        "country_code": "RO",
+        "asn": "25097",
+        "description": "Romanian Franchise Systems SRL",
+        "handle": "JERRYSPIZZA-AS"
+    },
+    "25103": {
+        "country_code": "RO",
+        "asn": "25103",
+        "description": "TFM Group Software SRL",
+        "handle": "TFM-AS"
+    },
+    "25116": {
+        "country_code": "RO",
+        "asn": "25116",
+        "description": "Cyber Folks SRL",
+        "handle": "CYBER-FOLKS-RO-GAZDUIRE"
+    },
+    "25198": {
+        "country_code": "RO",
+        "asn": "25198",
+        "description": "INTERKVM HOST SRL",
+        "handle": "ZETSERVERS"
+    },
+    "25278": {
+        "country_code": "RO",
+        "asn": "25278",
+        "description": "Autoritatea pentru Digitalizarea Romaniei",
+        "handle": "AADR-AS"
+    },
+    "25304": {
+        "country_code": "RO",
+        "asn": "25304",
+        "description": "Universitatea TRANSILVANIA Brasov",
+        "handle": "UNITBV"
+    },
+    "25311": {
+        "country_code": "RO",
+        "asn": "25311",
+        "description": "DIGI ROMANIA S.A.",
+        "handle": "DIGI-BE"
+    },
+    "25318": {
+        "country_code": "RO",
+        "asn": "25318",
+        "description": "SC Provision Software Division SRL",
+        "handle": "PROVISION"
+    },
+    "25326": {
+        "country_code": "RO",
+        "asn": "25326",
+        "description": "Constantin Brancoveanu University",
+        "handle": "UNIVCB-AS"
+    },
+    "25378": {
+        "country_code": "RO",
+        "asn": "25378",
+        "description": "BCR Asigurari SA",
+        "handle": "BCR-ASIG-AS"
+    },
+    "25409": {
+        "country_code": "RO",
+        "asn": "25409",
+        "description": "Alsys Net SRL",
+        "handle": "ALSYSDATA"
+    },
+    "25461": {
+        "country_code": "RO",
+        "asn": "25461",
+        "description": "Serviciul de Informatii Externe",
+        "handle": "RO-DCI"
+    },
+    "25536": {
+        "country_code": "RO",
+        "asn": "25536",
+        "description": "Alltrom Group SRL",
+        "handle": "ASN-METAV"
+    },
+    "28684": {
+        "country_code": "RO",
+        "asn": "28684",
+        "description": "Conect Intercom SRL",
+        "handle": "CONECTX-AS"
+    },
+    "28721": {
+        "country_code": "RO",
+        "asn": "28721",
+        "description": "Allnet Cloud Srl",
+        "handle": "ALLNET-CLOUD-AS"
+    },
+    "28727": {
+        "country_code": "RO",
+        "asn": "28727",
+        "description": "Autoritatea Nationala pentru Administrare si Reglementare in Comunicatii",
+        "handle": "ASN-NRACTI"
+    },
+    "28743": {
+        "country_code": "RO",
+        "asn": "28743",
+        "description": "Voxline Communication SRL",
+        "handle": "VOXLINE"
+    },
+    "28853": {
+        "country_code": "RO",
+        "asn": "28853",
+        "description": "Raiffeisen Bank SA",
+        "handle": "RAIFFEISEN-AS"
+    },
+    "28925": {
+        "country_code": "RO",
+        "asn": "28925",
+        "description": "SIGMA SOFT SRL",
+        "handle": "SIGMASOFT"
+    },
+    "29267": {
+        "country_code": "RO",
+        "asn": "29267",
+        "description": "Quest Communication SRL",
+        "handle": "RO-QUEST"
+    },
+    "29306": {
+        "country_code": "RO",
+        "asn": "29306",
+        "description": "BANCA COMERCIALA INTESA SANPAOLO ROMANIA S.A.",
+        "handle": "INTESA-SANPAOLO-AS"
+    },
+    "29324": {
+        "country_code": "RO",
+        "asn": "29324",
+        "description": "WOLTERS KLUWER ROMANIA SRL",
+        "handle": "ASN-ROEON"
+    },
+    "29628": {
+        "country_code": "RO",
+        "asn": "29628",
+        "description": "OILFIELD EXPLORATION BUSINESS SOLUTIONS S.A.",
+        "handle": "ROMPETROL-AS"
+    },
+    "30863": {
+        "country_code": "RO",
+        "asn": "30863",
+        "description": "DIGI ROMANIA S.A.",
+        "handle": "FX-NET-AS"
+    },
+    "30885": {
+        "country_code": "RO",
+        "asn": "30885",
+        "description": "Banca Nationala a Romaniei",
+        "handle": "BNR"
+    },
+    "30890": {
+        "country_code": "RO",
+        "asn": "30890",
+        "description": "Tennet Telecom SRL",
+        "handle": "TENNET"
+    },
+    "30948": {
+        "country_code": "RO",
+        "asn": "30948",
+        "description": "S.C UNIMAT S.R.L",
+        "handle": "RO-UNI"
+    },
+    "31017": {
+        "country_code": "RO",
+        "asn": "31017",
+        "description": "GMB Computers SRL",
+        "handle": "GMBNET"
+    },
+    "31038": {
+        "country_code": "RO",
+        "asn": "31038",
+        "description": "Data Tech SRL",
+        "handle": "DTECH"
+    },
+    "31074": {
+        "country_code": "RO",
+        "asn": "31074",
+        "description": "Unicredit Bank SA",
+        "handle": "ALPHABANK-AS"
+    },
+    "31102": {
+        "country_code": "RO",
+        "asn": "31102",
+        "description": "TV Adler-Trading SRL",
+        "handle": "AT-AS"
+    },
+    "31244": {
+        "country_code": "RO",
+        "asn": "31244",
+        "description": "MY SERVER MEDIA SRL",
+        "handle": "MYSERVER-MEDIA-AS"
+    },
+    "31278": {
+        "country_code": "RO",
+        "asn": "31278",
+        "description": "Administratia Nationala de Meteorologie RA",
+        "handle": "INMH"
+    },
+    "31313": {
+        "country_code": "RO",
+        "asn": "31313",
+        "description": "Serviciul de Telecomunicatii Speciale",
+        "handle": "STS"
+    },
+    "31354": {
+        "country_code": "RO",
+        "asn": "31354",
+        "description": "IWAVE SOLUTIONS SRL",
+        "handle": "IWAVE-AS"
+    },
+    "31362": {
+        "country_code": "RO",
+        "asn": "31362",
+        "description": "NETPROTECT SRL",
+        "handle": "PROTECTNET"
+    },
+    "31454": {
+        "country_code": "RO",
+        "asn": "31454",
+        "description": "FLANCO RETAIL SA",
+        "handle": "FLANCO-AS"
+    },
+    "31554": {
+        "country_code": "RO",
+        "asn": "31554",
+        "description": "LANSOFT DATA SRL",
+        "handle": "LANSOFT"
+    },
+    "31606": {
+        "country_code": "RO",
+        "asn": "31606",
+        "description": "TELEDATANET SRL",
+        "handle": "ARTRADE-AS"
+    },
+    "31609": {
+        "country_code": "RO",
+        "asn": "31609",
+        "description": "SC Teleson SRL",
+        "handle": "TELESON-AS"
+    },
+    "31734": {
+        "country_code": "RO",
+        "asn": "31734",
+        "description": "WEB EXPERT SOLUTION SRL",
+        "handle": "STAGE-AS"
+    },
+    "33821": {
+        "country_code": "RO",
+        "asn": "33821",
+        "description": "Bursa de Valori Bucuresti SA",
+        "handle": "BVB-ASN"
+    },
+    "33823": {
+        "country_code": "RO",
+        "asn": "33823",
+        "description": "PHOENIX TELECOM & MEDIA SERVICES SRL",
+        "handle": "GEMENII-NETWORK"
+    },
+    "33829": {
+        "country_code": "RO",
+        "asn": "33829",
+        "description": "Radcom S.A.",
+        "handle": "RADCOM"
+    },
+    "33839": {
+        "country_code": "RO",
+        "asn": "33839",
+        "description": "ALTAIR NET SRL",
+        "handle": "ALTAIR-NET-AS"
+    },
+    "33875": {
+        "country_code": "RO",
+        "asn": "33875",
+        "description": "DIGI ROMANIA S.A.",
+        "handle": "RDS-AS"
+    },
+    "33906": {
+        "country_code": "RO",
+        "asn": "33906",
+        "description": "SC EuroAnswer SRL",
+        "handle": "EUROANSWER-RO-AS"
+    },
+    "33911": {
+        "country_code": "RO",
+        "asn": "33911",
+        "description": "Tennet Telecom SRL",
+        "handle": "TENNET"
+    },
+    "33925": {
+        "country_code": "RO",
+        "asn": "33925",
+        "description": "Global Internet Solutions SRL",
+        "handle": "GLOBALIS-AS"
+    },
+    "33946": {
+        "country_code": "RO",
+        "asn": "33946",
+        "description": "OTP BANK ROMANIA SA",
+        "handle": "OTPBANK-AS"
+    },
+    "33961": {
+        "country_code": "RO",
+        "asn": "33961",
+        "description": "Telcor Communications SRL",
+        "handle": "TELCOR-AS"
+    },
+    "33971": {
+        "country_code": "RO",
+        "asn": "33971",
+        "description": "BANCA TRANSILVANIA SA",
+        "handle": "BANCPOST"
+    },
+    "33977": {
+        "country_code": "RO",
+        "asn": "33977",
+        "description": "Banat Telecom Satelit S.R.L.",
+        "handle": "BANAT-TELECOM-AS"
+    },
+    "34022": {
+        "country_code": "RO",
+        "asn": "34022",
+        "description": "ING BANK NV AMSTERDAM BUCHAREST BRANCH",
+        "handle": "INGRO-AS"
+    },
+    "34060": {
+        "country_code": "RO",
+        "asn": "34060",
+        "description": "SC TELECOMUNICATII CFR SA",
+        "handle": "TCCFR-AS"
+    },
+    "34130": {
+        "country_code": "RO",
+        "asn": "34130",
+        "description": "BANCA TRANSILVANIA SA",
+        "handle": "ERB-AS"
+    },
+    "34176": {
+        "country_code": "RO",
+        "asn": "34176",
+        "description": "ITH Management Office SRL",
+        "handle": "AUTOROM-AS"
+    },
+    "34184": {
+        "country_code": "RO",
+        "asn": "34184",
+        "description": "BANCA TRANSILVANIA SA",
+        "handle": "BT"
+    },
+    "34198": {
+        "country_code": "RO",
+        "asn": "34198",
+        "description": "iNES GROUP SRL",
+        "handle": "ROL"
+    },
+    "34279": {
+        "country_code": "RO",
+        "asn": "34279",
+        "description": "S.C. Teletrans S.A.",
+        "handle": "TELETRANS"
+    },
+    "34283": {
+        "country_code": "RO",
+        "asn": "34283",
+        "description": "Alten SI - Techno Romania SRL",
+        "handle": "ALTEN-ROMANIA"
+    },
+    "34301": {
+        "country_code": "RO",
+        "asn": "34301",
+        "description": "KFNET COM SRL",
+        "handle": "KFNETRO"
+    },
+    "34304": {
+        "country_code": "RO",
+        "asn": "34304",
+        "description": "Teen Telecom SRL",
+        "handle": "TEENTELECOM"
+    },
+    "34353": {
+        "country_code": "RO",
+        "asn": "34353",
+        "description": "Netex Consulting SRL",
+        "handle": "NETEX"
+    },
+    "34358": {
+        "country_code": "RO",
+        "asn": "34358",
+        "description": "Cyber Folks SRL",
+        "handle": "CYBER-FOLKS-RO-DC-FLO"
+    },
+    "34415": {
+        "country_code": "RO",
+        "asn": "34415",
+        "description": "CORNI EOLIAN SA",
+        "handle": "CORNI-EOLIAN-AS"
+    },
+    "34416": {
+        "country_code": "RO",
+        "asn": "34416",
+        "description": "Full Duplex SRL",
+        "handle": "FDX-AS"
+    },
+    "34450": {
+        "country_code": "RO",
+        "asn": "34450",
+        "description": "NET GATE COMUNICATII SRL",
+        "handle": "WDC-AS"
+    },
+    "34451": {
+        "country_code": "RO",
+        "asn": "34451",
+        "description": "EXIM BANCA ROMANEASCA S.A.",
+        "handle": "BROM-AS"
+    },
+    "34469": {
+        "country_code": "RO",
+        "asn": "34469",
+        "description": "CONNET - RO SRL",
+        "handle": "CONNETRO-AS"
+    },
+    "34501": {
+        "country_code": "RO",
+        "asn": "34501",
+        "description": "Viva Telecom SRL",
+        "handle": "ABSI-AS"
+    },
+    "34517": {
+        "country_code": "RO",
+        "asn": "34517",
+        "description": "Maxnet Telecomunicatii SRL",
+        "handle": "MAXNET-AS"
+    },
+    "34538": {
+        "country_code": "RO",
+        "asn": "34538",
+        "description": "QUICK NET SRL",
+        "handle": "QUICK-NET-AS"
+    },
+    "34543": {
+        "country_code": "RO",
+        "asn": "34543",
+        "description": "Banca Comerciala Romana S.A",
+        "handle": "BCR"
+    },
+    "34551": {
+        "country_code": "RO",
+        "asn": "34551",
+        "description": "SC Informatica Feroviara SA",
+        "handle": "IF-CFR-AS"
+    },
+    "34560": {
+        "country_code": "RO",
+        "asn": "34560",
+        "description": "Softex SRL",
+        "handle": "SOFTEX-AS"
+    },
+    "34601": {
+        "country_code": "RO",
+        "asn": "34601",
+        "description": "Viewpoint Photo SRL",
+        "handle": "VIEWPOINT"
+    },
+    "34648": {
+        "country_code": "RO",
+        "asn": "34648",
+        "description": "Unicredit Bank SA",
+        "handle": "BCIT-AS"
+    },
+    "34679": {
+        "country_code": "RO",
+        "asn": "34679",
+        "description": "X-HOST-COMMUNICATION-SRL",
+        "handle": "X20HOST"
+    },
+    "34689": {
+        "country_code": "RO",
+        "asn": "34689",
+        "description": "Castlegem SRL",
+        "handle": "HOSTEROID"
+    },
+    "34711": {
+        "country_code": "RO",
+        "asn": "34711",
+        "description": "ICE Computers SRL",
+        "handle": "ICE-COMPUTERS-AS"
+    },
+    "34714": {
+        "country_code": "RO",
+        "asn": "34714",
+        "description": "OPTICNET-SERV S.R.L.",
+        "handle": "OPTICNET"
+    },
+    "34723": {
+        "country_code": "RO",
+        "asn": "34723",
+        "description": "Real Network and Tel SRL",
+        "handle": "RNT-AS"
+    },
+    "34740": {
+        "country_code": "RO",
+        "asn": "34740",
+        "description": "PC Hardware SRL",
+        "handle": "PCHARDWAREWEB"
+    },
+    "34744": {
+        "country_code": "RO",
+        "asn": "34744",
+        "description": "GVM Sistem 2003 SRL",
+        "handle": "GVM"
+    },
+    "34794": {
+        "country_code": "RO",
+        "asn": "34794",
+        "description": "Libra Internet Bank S.A.",
+        "handle": "LIBRABANK-AS"
+    },
+    "34795": {
+        "country_code": "RO",
+        "asn": "34795",
+        "description": "Ipsos Interactive Services SRL",
+        "handle": "INMR-AS"
+    },
+    "34808": {
+        "country_code": "RO",
+        "asn": "34808",
+        "description": "Societatea Romana de Radiodifuziune",
+        "handle": "SRR"
+    },
+    "34847": {
+        "country_code": "RO",
+        "asn": "34847",
+        "description": "LAROIAS COMPUTERS SRL",
+        "handle": "LAROIAS-AS"
+    },
+    "34915": {
+        "country_code": "RO",
+        "asn": "34915",
+        "description": "METROPOLITAN SERVICES SRL",
+        "handle": "METROSERV-AS"
+    },
+    "34916": {
+        "country_code": "RO",
+        "asn": "34916",
+        "description": "DIGITAL CONSTRUCTION NETWORK SRL",
+        "handle": "DNET-AS"
+    },
+    "34951": {
+        "country_code": "RO",
+        "asn": "34951",
+        "description": "POLICOLOR SA",
+        "handle": "POLICOLOR-AS"
+    },
+    "35010": {
+        "country_code": "RO",
+        "asn": "35010",
+        "description": "Arobs Development&Engineering S.R.L.",
+        "handle": "ATS2-AS"
+    },
+    "35020": {
+        "country_code": "RO",
+        "asn": "35020",
+        "description": "EMSol Group SRL",
+        "handle": "EMSOL-AS"
+    },
+    "35093": {
+        "country_code": "RO",
+        "asn": "35093",
+        "description": "High Tech Passport LTD SUA California San Jose SUCURSALA BUCURESTI ROMANIA",
+        "handle": "RO-HTPASSPORT"
+    },
+    "35149": {
+        "country_code": "RO",
+        "asn": "35149",
+        "description": "QUICK NET SRL",
+        "handle": "QUICK-NET-AS"
+    },
+    "35161": {
+        "country_code": "RO",
+        "asn": "35161",
+        "description": "TCV NET CONSULTING SRL",
+        "handle": "TCVNET-AS"
+    },
+    "35261": {
+        "country_code": "RO",
+        "asn": "35261",
+        "description": "Core Telecom S.R.L.",
+        "handle": "DYNAMIC-AS"
+    },
+    "35267": {
+        "country_code": "RO",
+        "asn": "35267",
+        "description": "Massive Telecom SRL",
+        "handle": "MASSIVE-TELECOM"
+    },
+    "35268": {
+        "country_code": "RO",
+        "asn": "35268",
+        "description": "UNITED INTERNET SRL",
+        "handle": "UNITED-INTERNET-AS"
+    },
+    "35270": {
+        "country_code": "RO",
+        "asn": "35270",
+        "description": "ECOPROTECH ENGINEERING SRL",
+        "handle": "ECOPROTECH-AS"
+    },
+    "35277": {
+        "country_code": "RO",
+        "asn": "35277",
+        "description": "LLHOST INC. SRL",
+        "handle": "LLHOST-INC-SRL"
+    },
+    "35291": {
+        "country_code": "RO",
+        "asn": "35291",
+        "description": "Internet Communication Systems SRL",
+        "handle": "ICOMM-AS"
+    },
+    "35307": {
+        "country_code": "RO",
+        "asn": "35307",
+        "description": "Kryon Management S.R.L.",
+        "handle": "KRYON-AS"
+    },
+    "35322": {
+        "country_code": "RO",
+        "asn": "35322",
+        "description": "CARO NETWORK SRL",
+        "handle": "CARO-AS"
+    },
+    "35348": {
+        "country_code": "RO",
+        "asn": "35348",
+        "description": "Computer Wired SRL",
+        "handle": "COMPUTER4U-AS"
+    },
+    "35351": {
+        "country_code": "RO",
+        "asn": "35351",
+        "description": "Viva Credit IFN SA",
+        "handle": "VIVACREDIT"
+    },
+    "35371": {
+        "country_code": "RO",
+        "asn": "35371",
+        "description": "Softkit SRL",
+        "handle": "SOFTKIT-AS"
+    },
+    "35386": {
+        "country_code": "RO",
+        "asn": "35386",
+        "description": "Smith & Smith SRL",
+        "handle": "SMITH-AS"
+    },
+    "35397": {
+        "country_code": "RO",
+        "asn": "35397",
+        "description": "CLASS IT OUTSOURCING S.R.L.",
+        "handle": "ROA-AS"
+    },
+    "35413": {
+        "country_code": "RO",
+        "asn": "35413",
+        "description": "SL Networks SRL",
+        "handle": "SL-NETWORKS"
+    },
+    "35436": {
+        "country_code": "RO",
+        "asn": "35436",
+        "description": "Tradeville SA",
+        "handle": "VANGUARD"
+    },
+    "35449": {
+        "country_code": "RO",
+        "asn": "35449",
+        "description": "EASYHOST SRL",
+        "handle": "HWRO-AS"
+    },
+    "35450": {
+        "country_code": "RO",
+        "asn": "35450",
+        "description": "Dainet Solutions SRL",
+        "handle": "DAINET"
+    },
+    "35468": {
+        "country_code": "RO",
+        "asn": "35468",
+        "description": "ProCredit Bank SA",
+        "handle": "PROCREDIT-AS"
+    },
+    "35478": {
+        "country_code": "RO",
+        "asn": "35478",
+        "description": "Bunea TELECOM SRL",
+        "handle": "DATACENTER"
+    },
+    "35490": {
+        "country_code": "RO",
+        "asn": "35490",
+        "description": "Spitalul Clinic Judetean de Urgenta Cluj",
+        "handle": "SCJU-CLUJ-AS"
+    },
+    "35505": {
+        "country_code": "RO",
+        "asn": "35505",
+        "description": "Pronet Solutii IT SRL",
+        "handle": "PRONETIT-AS"
+    },
+    "35577": {
+        "country_code": "RO",
+        "asn": "35577",
+        "description": "SPECIAL INTERNET OPERATIONS SRL",
+        "handle": "OPERATIUNI-SPECIALE"
+    },
+    "35584": {
+        "country_code": "RO",
+        "asn": "35584",
+        "description": "BMS IT GROUP SRL",
+        "handle": "RO-BMSITGROUP-AS"
+    },
+    "35597": {
+        "country_code": "RO",
+        "asn": "35597",
+        "description": "Nagarro SRL",
+        "handle": "NAGARRO-AS"
+    },
+    "35604": {
+        "country_code": "RO",
+        "asn": "35604",
+        "description": "M2M TECHNOLOGY EQUIPMENT SRL",
+        "handle": "RO-M2M-AS"
+    },
+    "35626": {
+        "country_code": "RO",
+        "asn": "35626",
+        "description": "S.I.E.P.C.O.F.A.R. S.A.",
+        "handle": "SIEPCOFAR-AS"
+    },
+    "35725": {
+        "country_code": "RO",
+        "asn": "35725",
+        "description": "TELEKOM ROMANIA MOBILE COMMUNICATIONS S.A.",
+        "handle": "TELEKOMRO"
+    },
+    "35726": {
+        "country_code": "RO",
+        "asn": "35726",
+        "description": "Generali Romania Asigurare Reasigurare S.A.",
+        "handle": "GENERALI"
+    },
+    "35772": {
+        "country_code": "RO",
+        "asn": "35772",
+        "description": "Swap Technologies SRL",
+        "handle": "SWAP-AS"
+    },
+    "35775": {
+        "country_code": "RO",
+        "asn": "35775",
+        "description": "ACTIVE SOFT SRL",
+        "handle": "ACTIVESOFT-AS"
+    },
+    "35797": {
+        "country_code": "RO",
+        "asn": "35797",
+        "description": "SIL-MIRO COM SRL",
+        "handle": "BRUNO-AS"
+    },
+    "35818": {
+        "country_code": "RO",
+        "asn": "35818",
+        "description": "Webfactor SRL",
+        "handle": "WEBFACTOR-AS"
+    },
+    "38935": {
+        "country_code": "RO",
+        "asn": "38935",
+        "description": "SC Fastweb SRL",
+        "handle": "FASTWEB-RO-AS"
+    },
+    "38947": {
+        "country_code": "RO",
+        "asn": "38947",
+        "description": "K Network Media SRL",
+        "handle": "KNETWORKMEDIA"
+    },
+    "38981": {
+        "country_code": "RO",
+        "asn": "38981",
+        "description": "Raiffeisen Bank S.A.",
+        "handle": "RAIFFEISENRO"
+    },
+    "39002": {
+        "country_code": "RO",
+        "asn": "39002",
+        "description": "XINDI Networks SRL",
+        "handle": "XINDI-AS"
+    },
+    "39011": {
+        "country_code": "RO",
+        "asn": "39011",
+        "description": "SC Birotec SRL",
+        "handle": "BIROTEC-AS"
+    },
+    "39081": {
+        "country_code": "RO",
+        "asn": "39081",
+        "description": "RAL INFO SERV SRL",
+        "handle": "RAL-AS"
+    },
+    "39082": {
+        "country_code": "RO",
+        "asn": "39082",
+        "description": "SC 3D Media Creation SRL",
+        "handle": "SC-3D-MEDIA-CREATION-SRL"
+    },
+    "39105": {
+        "country_code": "RO",
+        "asn": "39105",
+        "description": "CLASS IT OUTSOURCING S.R.L.",
+        "handle": "CLASS-AS"
+    },
+    "39107": {
+        "country_code": "RO",
+        "asn": "39107",
+        "description": "Interlan Internet Exchange SRL",
+        "handle": "INTERLAN-AS"
+    },
+    "39124": {
+        "country_code": "RO",
+        "asn": "39124",
+        "description": "VoIPIT SRL",
+        "handle": "VOIPIT-AS"
+    },
+    "39126": {
+        "country_code": "RO",
+        "asn": "39126",
+        "description": "LNK SYSTEMS MUNTENIA SRL",
+        "handle": "LNKSYSTEMS"
+    },
+    "39203": {
+        "country_code": "RO",
+        "asn": "39203",
+        "description": "Inform Lykos SA",
+        "handle": "LYKOS-AS"
+    },
+    "39205": {
+        "country_code": "RO",
+        "asn": "39205",
+        "description": "XANDRANET SRL",
+        "handle": "XANDRANET-AS"
+    },
+    "39211": {
+        "country_code": "RO",
+        "asn": "39211",
+        "description": "TERMENE JUST SRL",
+        "handle": "TERMENE"
+    },
+    "39224": {
+        "country_code": "RO",
+        "asn": "39224",
+        "description": "DataNode DC SRL",
+        "handle": "FASTBIT"
+    },
+    "39226": {
+        "country_code": "RO",
+        "asn": "39226",
+        "description": "NETXPERT CONNECT SRL",
+        "handle": "NXPT-EFX-AS"
+    },
+    "39260": {
+        "country_code": "RO",
+        "asn": "39260",
+        "description": "Visma Software SRL",
+        "handle": "MCR-AS"
+    },
+    "39276": {
+        "country_code": "RO",
+        "asn": "39276",
+        "description": "Blue Screen SRL",
+        "handle": "BLUESCREEN-AS"
+    },
+    "39277": {
+        "country_code": "RO",
+        "asn": "39277",
+        "description": "Mondo-Byte SRL",
+        "handle": "MONDO-BYTE-AS"
+    },
+    "39287": {
+        "country_code": "RO",
+        "asn": "39287",
+        "description": "Materialism s.r.l.",
+        "handle": "MATERIALISM"
+    },
+    "39306": {
+        "country_code": "RO",
+        "asn": "39306",
+        "description": "SC.M.G.A. CONSTRUCT SRL",
+        "handle": "MGA-RO-AS"
+    },
+    "39312": {
+        "country_code": "RO",
+        "asn": "39312",
+        "description": "Luxoft Professional Romania S.R.L.",
+        "handle": "LUXOFT-PROFESSIONAL-ROMANIA-AS"
+    },
+    "39327": {
+        "country_code": "RO",
+        "asn": "39327",
+        "description": "Caro Comp S.R.L.",
+        "handle": "CAROCOMP-AS"
+    },
+    "39342": {
+        "country_code": "RO",
+        "asn": "39342",
+        "description": "PLUXEE ROMANIA S.R.L.",
+        "handle": "PLUXEE-AS"
+    },
+    "39345": {
+        "country_code": "RO",
+        "asn": "39345",
+        "description": "BTS TELECOM SRL",
+        "handle": "BTS-AS"
+    },
+    "39346": {
+        "country_code": "RO",
+        "asn": "39346",
+        "description": "SIL-MIRO COM SRL",
+        "handle": "OPALID-AS"
+    },
+    "39347": {
+        "country_code": "RO",
+        "asn": "39347",
+        "description": "STYLISH BY A&L SRL",
+        "handle": "SELL-AS"
+    },
+    "39383": {
+        "country_code": "RO",
+        "asn": "39383",
+        "description": "Annarsy SRL",
+        "handle": "TELESYSTEM-AS"
+    },
+    "39385": {
+        "country_code": "RO",
+        "asn": "39385",
+        "description": "UNIVERSITATEA DIN ORADEA",
+        "handle": "UORADEA-AS"
+    },
+    "39391": {
+        "country_code": "RO",
+        "asn": "39391",
+        "description": "SANOS CONSULTING INTERNATIONAL SRL",
+        "handle": "SANOS-AS"
+    },
+    "39411": {
+        "country_code": "RO",
+        "asn": "39411",
+        "description": "XNS MEDIA SRL",
+        "handle": "XNS-AS"
+    },
+    "39420": {
+        "country_code": "RO",
+        "asn": "39420",
+        "description": "Arsenie Ciprian",
+        "handle": "RO-ARSENIE-CIPRIAN"
+    },
+    "39425": {
+        "country_code": "RO",
+        "asn": "39425",
+        "description": "NAV COMMUNICATIONS SRL",
+        "handle": "ELECTROSIM-AS"
+    },
+    "39464": {
+        "country_code": "RO",
+        "asn": "39464",
+        "description": "Star Design Connection SRL",
+        "handle": "RO-STARDESIGN-ASN"
+    },
+    "39474": {
+        "country_code": "RO",
+        "asn": "39474",
+        "description": "Neogen SA",
+        "handle": "NEOGEN-AS"
+    },
+    "39492": {
+        "country_code": "RO",
+        "asn": "39492",
+        "description": "Auchan Romania SA",
+        "handle": "AUCHAN-AS"
+    },
+    "39502": {
+        "country_code": "RO",
+        "asn": "39502",
+        "description": "OPERATORUL PIETEI DE ENERGIE ELECTRICA SI DE GAZE NATURALE - OPCOM SA",
+        "handle": "OPCOM"
+    },
+    "39511": {
+        "country_code": "RO",
+        "asn": "39511",
+        "description": "VIP NET CONSULTING SRL",
+        "handle": "VIPNET-AS"
+    },
+    "39516": {
+        "country_code": "RO",
+        "asn": "39516",
+        "description": "Registrul Auto Roman RA",
+        "handle": "RAROM-AS"
+    },
+    "39531": {
+        "country_code": "RO",
+        "asn": "39531",
+        "description": "Alter-NET SRL",
+        "handle": "ALTER-NET-AS"
+    },
+    "39543": {
+        "country_code": "RO",
+        "asn": "39543",
+        "description": "Tennet Telecom SRL",
+        "handle": "TENNET-AS"
+    },
+    "39581": {
+        "country_code": "RO",
+        "asn": "39581",
+        "description": "Printec Group Romania SRL",
+        "handle": "PRINTEC-AS"
+    },
+    "39622": {
+        "country_code": "RO",
+        "asn": "39622",
+        "description": "ZERGRUSH SRL",
+        "handle": "ZERGRUSH"
+    },
+    "39629": {
+        "country_code": "RO",
+        "asn": "39629",
+        "description": "LANSOFT DATA SRL",
+        "handle": "IWSC"
+    },
+    "39646": {
+        "country_code": "RO",
+        "asn": "39646",
+        "description": "Activ Consulting One S.R.L.",
+        "handle": "IACCESS-ASN"
+    },
+    "39668": {
+        "country_code": "RO",
+        "asn": "39668",
+        "description": "Intersat SRL",
+        "handle": "AS-INTERSAT-CT"
+    },
+    "39669": {
+        "country_code": "RO",
+        "asn": "39669",
+        "description": "AVOLO TELECOM SRL",
+        "handle": "AVOLO-AS"
+    },
+    "39732": {
+        "country_code": "RO",
+        "asn": "39732",
+        "description": "Euro BIT S.A.",
+        "handle": "EUROBIT-AS"
+    },
+    "39734": {
+        "country_code": "RO",
+        "asn": "39734",
+        "description": "A1 TELECOM NETWORK ISP SRL",
+        "handle": "A1TELECOM-AS"
+    },
+    "39737": {
+        "country_code": "RO",
+        "asn": "39737",
+        "description": "Prime Telecom srl",
+        "handle": "PRIME-TELECOM-AS"
+    },
+    "39743": {
+        "country_code": "RO",
+        "asn": "39743",
+        "description": "Voxility S.R.L.",
+        "handle": "VOXILITY-AS"
+    },
+    "39745": {
+        "country_code": "RO",
+        "asn": "39745",
+        "description": "Indaco Systems SRL",
+        "handle": "INDACO-AS"
+    },
+    "39756": {
+        "country_code": "RO",
+        "asn": "39756",
+        "description": "EASYHOST SRL",
+        "handle": "ROHOSTWAY-AS"
+    },
+    "39758": {
+        "country_code": "RO",
+        "asn": "39758",
+        "description": "SimpliQ Tech SRL",
+        "handle": "SIMPLIQ-AS"
+    },
+    "39777": {
+        "country_code": "RO",
+        "asn": "39777",
+        "description": "Dynamic Distribution SRL",
+        "handle": "RODYNAMIC-AS"
+    },
+    "39797": {
+        "country_code": "RO",
+        "asn": "39797",
+        "description": "Conectys Serv Telecom SRL",
+        "handle": "CONECTYS"
+    },
+    "39803": {
+        "country_code": "RO",
+        "asn": "39803",
+        "description": "Compania Nationala Administratia Porturilor Maritime SA Constanta",
+        "handle": "APMC-AS"
+    },
+    "39809": {
+        "country_code": "RO",
+        "asn": "39809",
+        "description": "PATRIA BANK S.A.",
+        "handle": "PATRIABANK"
+    },
+    "39815": {
+        "country_code": "RO",
+        "asn": "39815",
+        "description": "Lucian Blaga University of Sibiu",
+        "handle": "ULBS-AS"
+    },
+    "39829": {
+        "country_code": "RO",
+        "asn": "39829",
+        "description": "Iristel Romania SRL",
+        "handle": "IRISTEL-AS"
+    },
+    "39861": {
+        "country_code": "RO",
+        "asn": "39861",
+        "description": "Comunicatii Starnet Media SRL",
+        "handle": "CSM-AS"
+    },
+    "39877": {
+        "country_code": "RO",
+        "asn": "39877",
+        "description": "Smart IT Networks SRL",
+        "handle": "IRM-AS"
+    },
+    "39888": {
+        "country_code": "RO",
+        "asn": "39888",
+        "description": "TRUST MOTORS SRL",
+        "handle": "TRUST-AS"
+    },
+    "39903": {
+        "country_code": "RO",
+        "asn": "39903",
+        "description": "ROSIA MONTANA GOLD CORPORATION SA",
+        "handle": "RMGC-SA"
+    },
+    "39930": {
+        "country_code": "RO",
+        "asn": "39930",
+        "description": "EPS Distribution Grup SRL",
+        "handle": "EPS-DG-AS"
+    },
+    "40975": {
+        "country_code": "RO",
+        "asn": "40975",
+        "description": "CHML Web Services SRL",
+        "handle": "CHML-AS"
+    },
+    "40984": {
+        "country_code": "RO",
+        "asn": "40984",
+        "description": "Bensoft Telecom SRL",
+        "handle": "BENSOFT-TELECOM"
+    },
+    "40998": {
+        "country_code": "RO",
+        "asn": "40998",
+        "description": "CERTSIGN S.A.",
+        "handle": "CERTSIGN"
+    },
+    "41028": {
+        "country_code": "RO",
+        "asn": "41028",
+        "description": "CobraTELECOM SRL",
+        "handle": "COBRATELECOM-AS"
+    },
+    "41043": {
+        "country_code": "RO",
+        "asn": "41043",
+        "description": "Gaming 4 Fun SRL",
+        "handle": "LOOLISH"
+    },
+    "41055": {
+        "country_code": "RO",
+        "asn": "41055",
+        "description": "DELTA IMPACT S.R.L.",
+        "handle": "NOVA-SAT-AS"
+    },
+    "41087": {
+        "country_code": "RO",
+        "asn": "41087",
+        "description": "Romprix Exim s.r.l",
+        "handle": "ROMPRIX-AS"
+    },
+    "41111": {
+        "country_code": "RO",
+        "asn": "41111",
+        "description": "FAST GEO HOSTING S.R.L.",
+        "handle": "AS-GEOHOSTING"
+    },
+    "41131": {
+        "country_code": "RO",
+        "asn": "41131",
+        "description": "Luxten Lighting Company SA",
+        "handle": "LUXTEN-AS"
+    },
+    "41141": {
+        "country_code": "RO",
+        "asn": "41141",
+        "description": "LIR NETSERV S.R.L.",
+        "handle": "ASLOCAL"
+    },
+    "41151": {
+        "country_code": "RO",
+        "asn": "41151",
+        "description": "Digital IT Consulting SRL",
+        "handle": "DIGITALIT-AS"
+    },
+    "41192": {
+        "country_code": "RO",
+        "asn": "41192",
+        "description": "ALLEGRA SRL",
+        "handle": "INEDIT-AS"
+    },
+    "41195": {
+        "country_code": "RO",
+        "asn": "41195",
+        "description": "Netfinity Grup SRL",
+        "handle": "NETFINITY-AS"
+    },
+    "41210": {
+        "country_code": "RO",
+        "asn": "41210",
+        "description": "SC Industrial Computer Group SRL",
+        "handle": "ICGRO-AS"
+    },
+    "41270": {
+        "country_code": "RO",
+        "asn": "41270",
+        "description": "ARTROM STEEL TUBES S.A.",
+        "handle": "TMK-AS"
+    },
+    "41295": {
+        "country_code": "RO",
+        "asn": "41295",
+        "description": "Compania de consultanta pentru investitii si dezvoltare s.r.l",
+        "handle": "CCID-AS"
+    },
+    "41353": {
+        "country_code": "RO",
+        "asn": "41353",
+        "description": "Bursa de Valori Bucuresti SA",
+        "handle": "BVB-ASN"
+    },
+    "41432": {
+        "country_code": "RO",
+        "asn": "41432",
+        "description": "Strauss Romania SRL",
+        "handle": "STRAUSS-ROMANIA-AS"
+    },
+    "41461": {
+        "country_code": "RO",
+        "asn": "41461",
+        "description": "FIRST BANK S.A.",
+        "handle": "FIRST-BANK-AS"
+    },
+    "41486": {
+        "country_code": "RO",
+        "asn": "41486",
+        "description": "Depozitarul Central SA",
+        "handle": "REGISCO-AS"
+    },
+    "41492": {
+        "country_code": "RO",
+        "asn": "41492",
+        "description": "BANCA DE EXPORT IMPORT A ROMANIEI (EXIMBANK) S.A.",
+        "handle": "EXIMBANK-AS"
+    },
+    "41494": {
+        "country_code": "RO",
+        "asn": "41494",
+        "description": "Asociatia Interlan",
+        "handle": "ASOCIATIA-INTERLAN"
+    },
+    "41496": {
+        "country_code": "RO",
+        "asn": "41496",
+        "description": "TV SAT 2002 SRL",
+        "handle": "RO-TVSAT-AS"
+    },
+    "41530": {
+        "country_code": "RO",
+        "asn": "41530",
+        "description": "Agentia Nationala de Cadastru si Publicitate Imobiliara",
+        "handle": "ANCPI-AS"
+    },
+    "41534": {
+        "country_code": "RO",
+        "asn": "41534",
+        "description": "Smithfield Romania SRL",
+        "handle": "SMITHFIELD-AS"
+    },
+    "41536": {
+        "country_code": "RO",
+        "asn": "41536",
+        "description": "01NODE FUNDING SRL",
+        "handle": "AS-01NODE"
+    },
+    "41537": {
+        "country_code": "RO",
+        "asn": "41537",
+        "description": "SC C Solution SRL",
+        "handle": "C-SOLUTION-AS"
+    },
+    "41573": {
+        "country_code": "RO",
+        "asn": "41573",
+        "description": "PLASTOR S.A.",
+        "handle": "PLASTOR"
+    },
+    "41635": {
+        "country_code": "RO",
+        "asn": "41635",
+        "description": "LIVEHOSTING DATACENTER SRL",
+        "handle": "LIVEHOSTING-AS"
+    },
+    "41638": {
+        "country_code": "RO",
+        "asn": "41638",
+        "description": "GARANTI BANK S.A.",
+        "handle": "GB-ROMANIA"
+    },
+    "41749": {
+        "country_code": "RO",
+        "asn": "41749",
+        "description": "GENERAL SYSTEM SRL",
+        "handle": "NETCOMPUTERS-AS"
+    },
+    "41752": {
+        "country_code": "RO",
+        "asn": "41752",
+        "description": "TERON SYSTEMS SRL",
+        "handle": "TERON-AS"
+    },
+    "41763": {
+        "country_code": "RO",
+        "asn": "41763",
+        "description": "CRISTEA TELECOM SYSTEM SRL",
+        "handle": "CRISTEA-TELECOM-SYSTEM-SRL"
+    },
+    "41806": {
+        "country_code": "RO",
+        "asn": "41806",
+        "description": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE TRANSELECTRICA S.A.",
+        "handle": "TRANSELECTRICA-AS"
+    },
+    "41807": {
+        "country_code": "RO",
+        "asn": "41807",
+        "description": "SC SKYTELECOM SRL",
+        "handle": "SKYTELECOM-AS"
+    },
+    "41818": {
+        "country_code": "RO",
+        "asn": "41818",
+        "description": "SMART InterComp SRL",
+        "handle": "RO-SMART-AS"
+    },
+    "41832": {
+        "country_code": "RO",
+        "asn": "41832",
+        "description": "SC OSF Global Services S.R.L.",
+        "handle": "OUTSOURCING-AS"
+    },
+    "41850": {
+        "country_code": "RO",
+        "asn": "41850",
+        "description": "SC ADEVARUL HOLDING SRL",
+        "handle": "ADEVARUL-AS"
+    },
+    "41852": {
+        "country_code": "RO",
+        "asn": "41852",
+        "description": "DIGI ROMANIA S.A.",
+        "handle": "FIBERONE-AS"
+    },
+    "41858": {
+        "country_code": "RO",
+        "asn": "41858",
+        "description": "MARILUC COM SRL",
+        "handle": "MARILUC-AS"
+    },
+    "41859": {
+        "country_code": "RO",
+        "asn": "41859",
+        "description": "Smithfield Romania SRL",
+        "handle": "SF-AS"
+    },
+    "41953": {
+        "country_code": "RO",
+        "asn": "41953",
+        "description": "TELEPLUS SRL",
+        "handle": "TELECOMPLUS-AS"
+    },
+    "41954": {
+        "country_code": "RO",
+        "asn": "41954",
+        "description": "Anverino Software SRL",
+        "handle": "ANVERINO-AS"
+    },
+    "41971": {
+        "country_code": "RO",
+        "asn": "41971",
+        "description": "RALFI IFN SA",
+        "handle": "RALFI-AS"
+    },
+    "41978": {
+        "country_code": "RO",
+        "asn": "41978",
+        "description": "Kronsoft Development SRL",
+        "handle": "KRONSOFT-AS"
+    },
+    "41984": {
+        "country_code": "RO",
+        "asn": "41984",
+        "description": "Confort L&CC SRL",
+        "handle": "MCC-AS"
+    },
+    "42026": {
+        "country_code": "RO",
+        "asn": "42026",
+        "description": "S.C. Avitech CO S.R.L.",
+        "handle": "AVITECH"
+    },
+    "42073": {
+        "country_code": "RO",
+        "asn": "42073",
+        "description": "DIGISIGN SA",
+        "handle": "DIGISIGN-RO"
+    },
+    "42089": {
+        "country_code": "RO",
+        "asn": "42089",
+        "description": "Miss Me Consult Communication SRL",
+        "handle": "MISSME-AS"
+    },
+    "42094": {
+        "country_code": "RO",
+        "asn": "42094",
+        "description": "Prestige Media PHG SRL",
+        "handle": "PRESTIGE-MEDIA-AS"
+    },
+    "42123": {
+        "country_code": "RO",
+        "asn": "42123",
+        "description": "IQ Management SRL",
+        "handle": "IQM-AS"
+    },
+    "42142": {
+        "country_code": "RO",
+        "asn": "42142",
+        "description": "Agentia Nationala pentru Protectia Mediului",
+        "handle": "ANPM"
+    },
+    "42200": {
+        "country_code": "RO",
+        "asn": "42200",
+        "description": "Austral Trade SRL",
+        "handle": "AUSTRAL-AS"
+    },
+    "42225": {
+        "country_code": "RO",
+        "asn": "42225",
+        "description": "ANKATEL SOFT SRL",
+        "handle": "ANKATEL-AS"
+    },
+    "42234": {
+        "country_code": "RO",
+        "asn": "42234",
+        "description": "Constanta South Container Terminal SRL",
+        "handle": "CSCT-AS"
+    },
+    "42264": {
+        "country_code": "RO",
+        "asn": "42264",
+        "description": "ITFUSION SRL",
+        "handle": "ITFUSION-AS"
+    },
+    "42280": {
+        "country_code": "RO",
+        "asn": "42280",
+        "description": "WebNet Solutions SRL",
+        "handle": "WNS-RO-AS"
+    },
+    "42294": {
+        "country_code": "RO",
+        "asn": "42294",
+        "description": "PORSCHE LEASING ROMANIA IFN S.A.",
+        "handle": "PORSCHEBANK-AS"
+    },
+    "42296": {
+        "country_code": "RO",
+        "asn": "42296",
+        "description": "AMC WEBSOFT SRL",
+        "handle": "AMC-AS"
+    },
+    "42324": {
+        "country_code": "RO",
+        "asn": "42324",
+        "description": "Unicredit Leasing Corporation IFN SA",
+        "handle": "UNICREDIT-AS"
+    },
+    "42397": {
+        "country_code": "RO",
+        "asn": "42397",
+        "description": "Bunea TELECOM SRL",
+        "handle": "BUNEA-HIGH-VOLUME-NETWORK"
+    },
+    "42405": {
+        "country_code": "RO",
+        "asn": "42405",
+        "description": "PAN-NET SRL",
+        "handle": "PAN-NET-AS"
+    },
+    "42417": {
+        "country_code": "RO",
+        "asn": "42417",
+        "description": "NTT DATA ROMANIA S.A.",
+        "handle": "NTTDATARO-AS"
+    },
+    "42423": {
+        "country_code": "RO",
+        "asn": "42423",
+        "description": "Bitway Telecom SRL",
+        "handle": "BITWAY-AS"
+    },
+    "42426": {
+        "country_code": "RO",
+        "asn": "42426",
+        "description": "EURIAL INVEST SRL",
+        "handle": "EURIAL-AS"
+    },
+    "42452": {
+        "country_code": "RO",
+        "asn": "42452",
+        "description": "J&R Power Concept SRL",
+        "handle": "NIGHTFLIGHT"
+    },
+    "42508": {
+        "country_code": "RO",
+        "asn": "42508",
+        "description": "DIGITAL HOSTING SRL",
+        "handle": "DIGITAL-HOSTING-AS"
+    },
+    "42568": {
+        "country_code": "RO",
+        "asn": "42568",
+        "description": "DIGITAL PROJECT SRL",
+        "handle": "DPNET"
+    },
+    "42599": {
+        "country_code": "RO",
+        "asn": "42599",
+        "description": "FAIST Mekatronic SRL",
+        "handle": "FAIST-AS"
+    },
+    "42614": {
+        "country_code": "RO",
+        "asn": "42614",
+        "description": "RadioNet SRL",
+        "handle": "RADIO-NET-AS"
+    },
+    "42616": {
+        "country_code": "RO",
+        "asn": "42616",
+        "description": "ARBORE VERDE SRL",
+        "handle": "ASAV-RO-AS"
+    },
+    "42637": {
+        "country_code": "RO",
+        "asn": "42637",
+        "description": "LAN CONNECT SERVICES SRL",
+        "handle": "LANCONECT-AS"
+    },
+    "42640": {
+        "country_code": "RO",
+        "asn": "42640",
+        "description": "Vendio SRL",
+        "handle": "VENDIO-AS"
+    },
+    "42660": {
+        "country_code": "RO",
+        "asn": "42660",
+        "description": "Transfer Rapid Limited - Sediu Permanent",
+        "handle": "TRL-AS"
+    },
+    "42712": {
+        "country_code": "RO",
+        "asn": "42712",
+        "description": "Regie Radio Music SRL",
+        "handle": "RADIO21-AS"
+    },
+    "42731": {
+        "country_code": "RO",
+        "asn": "42731",
+        "description": "CXC BIZ LX SRL",
+        "handle": "CXC-AS"
+    },
+    "42756": {
+        "country_code": "RO",
+        "asn": "42756",
+        "description": "QUARTZ MATRIX SRL",
+        "handle": "QUARTZ-MATRIX-AS"
+    },
+    "42786": {
+        "country_code": "RO",
+        "asn": "42786",
+        "description": "SC Dynamic Telecom SRL",
+        "handle": "DYNAMICTELECOM"
+    },
+    "42790": {
+        "country_code": "RO",
+        "asn": "42790",
+        "description": "BRD-Groupe Societe Generale SA",
+        "handle": "BRD-AS"
+    },
+    "42800": {
+        "country_code": "RO",
+        "asn": "42800",
+        "description": "Chroot Network SRL",
+        "handle": "CHROOT-ANYCAST"
+    },
+    "42890": {
+        "country_code": "RO",
+        "asn": "42890",
+        "description": "Mediplus Exim SRL",
+        "handle": "HTSS-AS"
+    },
+    "42934": {
+        "country_code": "RO",
+        "asn": "42934",
+        "description": "DIRECTIA DE IMPOZITE SI TAXE LOCALE A SECTORULUI 5",
+        "handle": "DITL-S5-AS"
+    },
+    "42939": {
+        "country_code": "RO",
+        "asn": "42939",
+        "description": "Agentia Nationala pentru Locuinte",
+        "handle": "ANL-AS"
+    },
+    "43007": {
+        "country_code": "RO",
+        "asn": "43007",
+        "description": "Anuntul Telefonic SRL",
+        "handle": "ANUNTUL-AS"
+    },
+    "43008": {
+        "country_code": "RO",
+        "asn": "43008",
+        "description": "Trend IMPORT - EXPORT SRL",
+        "handle": "TREND-AS"
+    },
+    "43040": {
+        "country_code": "RO",
+        "asn": "43040",
+        "description": "INTRAROM SA",
+        "handle": "INTRAROM-AS"
+    },
+    "43046": {
+        "country_code": "RO",
+        "asn": "43046",
+        "description": "Device Systems SRL",
+        "handle": "DEVICE-SYSTEMS"
+    },
+    "43224": {
+        "country_code": "RO",
+        "asn": "43224",
+        "description": "Internet Resources Management SRL",
+        "handle": "IRM-AS"
+    },
+    "43230": {
+        "country_code": "RO",
+        "asn": "43230",
+        "description": "OMNIPORT SRL",
+        "handle": "OMNIPORT-AS"
+    },
+    "43283": {
+        "country_code": "RO",
+        "asn": "43283",
+        "description": "IBM Romania S.R.L.",
+        "handle": "IBM-RO-AS"
+    },
+    "43376": {
+        "country_code": "RO",
+        "asn": "43376",
+        "description": "DOTRO TELECOM SRL",
+        "handle": "DOTRO"
+    },
+    "43431": {
+        "country_code": "RO",
+        "asn": "43431",
+        "description": "INTERNET EXCHANGE SRL",
+        "handle": "IX-AS"
+    },
+    "43459": {
+        "country_code": "RO",
+        "asn": "43459",
+        "description": "SC MAGUAY IMPEX SRL",
+        "handle": "MAGUAY-AS"
+    },
+    "43461": {
+        "country_code": "RO",
+        "asn": "43461",
+        "description": "Holcim Romania SA",
+        "handle": "HOLCIM-AS"
+    },
+    "43464": {
+        "country_code": "RO",
+        "asn": "43464",
+        "description": "AEGON PENSII SOCIETATE de ADMINISTRARE a FONDURILOR de PENSII PRIVATE SA",
+        "handle": "BT-AEGON-AS"
+    },
+    "43466": {
+        "country_code": "RO",
+        "asn": "43466",
+        "description": "HotNews.ro SRL",
+        "handle": "HOTNEWS-AS"
+    },
+    "43473": {
+        "country_code": "RO",
+        "asn": "43473",
+        "description": "BANCA ROMANA DE CREDITE SI INVESTITII S.A.",
+        "handle": "BRCI-AS"
+    },
+    "43474": {
+        "country_code": "RO",
+        "asn": "43474",
+        "description": "EASYNET CONSULTING SRL",
+        "handle": "EASYNET"
+    },
+    "43483": {
+        "country_code": "RO",
+        "asn": "43483",
+        "description": "Ioan-Dan Rusanu",
+        "handle": "AS-HIVE"
+    },
+    "43587": {
+        "country_code": "RO",
+        "asn": "43587",
+        "description": "GDD SERVICES IT&C SRL",
+        "handle": "GDD-AS"
+    },
+    "43609": {
+        "country_code": "RO",
+        "asn": "43609",
+        "description": "INTRABIT COMPANY SRL",
+        "handle": "INTRABIT-AS"
+    },
+    "43626": {
+        "country_code": "RO",
+        "asn": "43626",
+        "description": "GEONET SOFT SRL",
+        "handle": "GEONETSOFT-AS"
+    },
+    "43631": {
+        "country_code": "RO",
+        "asn": "43631",
+        "description": "Gothaer Asigurari Reasigurari S.A.",
+        "handle": "GOTHAER-ASIG-AS"
+    },
+    "43703": {
+        "country_code": "RO",
+        "asn": "43703",
+        "description": "Scoala Nationala de Studii Politice si Administrative",
+        "handle": "SNSPA-AS"
+    },
+    "43704": {
+        "country_code": "RO",
+        "asn": "43704",
+        "description": "TEILOR SRL",
+        "handle": "TEILOR"
+    },
+    "43736": {
+        "country_code": "RO",
+        "asn": "43736",
+        "description": "DATANET SYSTEMS SRL",
+        "handle": "DATANETS-AS"
+    },
+    "43780": {
+        "country_code": "RO",
+        "asn": "43780",
+        "description": "SAS GRUP SRL",
+        "handle": "SAS-AS"
+    },
+    "43807": {
+        "country_code": "RO",
+        "asn": "43807",
+        "description": "CEC BANK S.A.",
+        "handle": "CEC-BANK-AS"
+    },
+    "43839": {
+        "country_code": "RO",
+        "asn": "43839",
+        "description": "Bitdefender SRL",
+        "handle": "BITDEFENDER-AS"
+    },
+    "43840": {
+        "country_code": "RO",
+        "asn": "43840",
+        "description": "Best Internet Security SRL",
+        "handle": "BISS-AS"
+    },
+    "43890": {
+        "country_code": "RO",
+        "asn": "43890",
+        "description": "LIR NETSERV S.R.L.",
+        "handle": "NETSERV-AS"
+    },
+    "43891": {
+        "country_code": "RO",
+        "asn": "43891",
+        "description": "Primaria Municipiului Sibiu",
+        "handle": "SIBIU-AS"
+    },
+    "43899": {
+        "country_code": "RO",
+        "asn": "43899",
+        "description": "Societatea Romana de Televiziune",
+        "handle": "TVR-AS"
+    },
+    "43904": {
+        "country_code": "RO",
+        "asn": "43904",
+        "description": "VINCI COMMUNICATIONS S.R.L.",
+        "handle": "ROSITE-SOLUTIONS-SRL"
+    },
+    "43927": {
+        "country_code": "RO",
+        "asn": "43927",
+        "description": "HOSTERION SRL",
+        "handle": "HOSTERION"
+    },
+    "43938": {
+        "country_code": "RO",
+        "asn": "43938",
+        "description": "SC Gateway Telecom SRL",
+        "handle": "SC-GATEWAY-TELECOM-SRL-AS"
+    },
+    "44024": {
+        "country_code": "RO",
+        "asn": "44024",
+        "description": "Radu Draghici",
+        "handle": "RO-RADUDRAGHICI"
+    },
+    "44043": {
+        "country_code": "RO",
+        "asn": "44043",
+        "description": "Cyber Folks SRL",
+        "handle": "CYBER-FOLKS-RO-DC-CLJ"
+    },
+    "44081": {
+        "country_code": "RO",
+        "asn": "44081",
+        "description": "YUL PRO SRL",
+        "handle": "YUL-PRO-INTERNET-RASNOV-AS"
+    },
+    "44106": {
+        "country_code": "RO",
+        "asn": "44106",
+        "description": "VIO-NET SRL",
+        "handle": "VIO-NET-INTERNET-PROVIDER-AS"
+    },
+    "44120": {
+        "country_code": "RO",
+        "asn": "44120",
+        "description": "SC PEDERSEN & PARTNERS CONSULTING SRL",
+        "handle": "SC-PEDERSEN-AND-PARTNERS-CONSULTING-SRL"
+    },
+    "44148": {
+        "country_code": "RO",
+        "asn": "44148",
+        "description": "Interactive Systems and Business Consulting SRL",
+        "handle": "SC-INTERACTIVE-SYSTEMS-AND-BUSINESS-CONSULTING-SRL-AS"
+    },
+    "44154": {
+        "country_code": "RO",
+        "asn": "44154",
+        "description": "SC Softeh Plus SRL",
+        "handle": "SOFTEH-AS"
+    },
+    "44157": {
+        "country_code": "RO",
+        "asn": "44157",
+        "description": "GENERAL MAGIC TECHNOLOGY SRL",
+        "handle": "GMT-AS"
+    },
+    "44184": {
+        "country_code": "RO",
+        "asn": "44184",
+        "description": "BCR ASIGURARI DE VIATA VIENNA INSURANCE GROUP SA",
+        "handle": "BCR-LIFE-AS"
+    },
+    "44211": {
+        "country_code": "RO",
+        "asn": "44211",
+        "description": "Nagarro SRL",
+        "handle": "NAGARRO-AS"
+    },
+    "44271": {
+        "country_code": "RO",
+        "asn": "44271",
+        "description": "S.C. Pluriva S.R.L.",
+        "handle": "MONTERO-SOFT-AS"
+    },
+    "44277": {
+        "country_code": "RO",
+        "asn": "44277",
+        "description": "DIGI COMMUNICATION SRL",
+        "handle": "DIGI-AS"
+    },
+    "44418": {
+        "country_code": "RO",
+        "asn": "44418",
+        "description": "Bitdefender SRL",
+        "handle": "BITDEFENDER-AS"
+    },
+    "44544": {
+        "country_code": "RO",
+        "asn": "44544",
+        "description": "Easy Media SRL",
+        "handle": "EASY-MEDIA-AS"
+    },
+    "44580": {
+        "country_code": "RO",
+        "asn": "44580",
+        "description": "ARECA BUSINESS CENTER SRL",
+        "handle": "ARECA-BUSINESS-CENTER-AS"
+    },
+    "44605": {
+        "country_code": "RO",
+        "asn": "44605",
+        "description": "DIGI ROMANIA S.A.",
+        "handle": "INSKYBE-ASN"
+    },
+    "44675": {
+        "country_code": "RO",
+        "asn": "44675",
+        "description": "LEIER ROM SRL",
+        "handle": "LEIER-AS"
+    },
+    "44679": {
+        "country_code": "RO",
+        "asn": "44679",
+        "description": "INVITE Systems SRL",
+        "handle": "BINBOX-GLOBAL-SERVICES"
+    },
+    "44682": {
+        "country_code": "RO",
+        "asn": "44682",
+        "description": "SIL-MIRO COM SRL",
+        "handle": "TFIBER"
+    },
+    "44719": {
+        "country_code": "RO",
+        "asn": "44719",
+        "description": "APS Consumer Finance IFN S.A.",
+        "handle": "KBC-AS"
+    },
+    "44738": {
+        "country_code": "RO",
+        "asn": "44738",
+        "description": "Avia Motors SRL",
+        "handle": "AVIA-MOTORS-AS"
+    },
+    "44739": {
+        "country_code": "RO",
+        "asn": "44739",
+        "description": "IZO DATA NETWORK SRL",
+        "handle": "IZO-AS"
+    },
+    "44740": {
+        "country_code": "RO",
+        "asn": "44740",
+        "description": "ROMFRACHT SRL",
+        "handle": "ROMFRACHT-AS"
+    },
+    "44761": {
+        "country_code": "RO",
+        "asn": "44761",
+        "description": "SC Gealan Romania SRL",
+        "handle": "GEALAN-AS"
+    },
+    "44807": {
+        "country_code": "RO",
+        "asn": "44807",
+        "description": "Lider 4 IT Junior SRL",
+        "handle": "LIDER-IT-AS"
+    },
+    "44826": {
+        "country_code": "RO",
+        "asn": "44826",
+        "description": "P.C. NET-C.A.T.V. SRL",
+        "handle": "PCNET-CATV-AS"
+    },
+    "44830": {
+        "country_code": "RO",
+        "asn": "44830",
+        "description": "Porsche Romania SRL",
+        "handle": "PORSCHE-RO-AS"
+    },
+    "44861": {
+        "country_code": "RO",
+        "asn": "44861",
+        "description": "SOFTWARE IMAGINATION & VISION SRL",
+        "handle": "SIVECO-AS"
+    },
+    "44867": {
+        "country_code": "RO",
+        "asn": "44867",
+        "description": "AGENTIA NATIONALA DE PRESA AGERPRES",
+        "handle": "AGENTIA-NATIONALA-DE-PRESA-ROMPRES-AS"
+    },
+    "44875": {
+        "country_code": "RO",
+        "asn": "44875",
+        "description": "FRONTAL INTEGRATEG SOLUTIONS SRL",
+        "handle": "FIS-AS"
+    },
+    "44906": {
+        "country_code": "RO",
+        "asn": "44906",
+        "description": "Spitalul Clinic Coltea",
+        "handle": "COLTEA-AS"
+    },
+    "44909": {
+        "country_code": "RO",
+        "asn": "44909",
+        "description": "LANDS SERVICES INTERNATIONAL SRL",
+        "handle": "LANDS-SERVICES-INTERNATIONAL-SRL-AS"
+    },
+    "44960": {
+        "country_code": "RO",
+        "asn": "44960",
+        "description": "Crystal System SRL",
+        "handle": "CRYSTAL-SYSTEM-AS"
+    },
+    "45035": {
+        "country_code": "RO",
+        "asn": "45035",
+        "description": "SC 3D Media Creation SRL",
+        "handle": "RO3D-AS"
+    },
+    "45047": {
+        "country_code": "RO",
+        "asn": "45047",
+        "description": "Conacom Consulting & Communication SRL",
+        "handle": "CONACOM"
+    },
+    "47142": {
+        "country_code": "RO",
+        "asn": "47142",
+        "description": "RedBlue Networks SRL",
+        "handle": "REDBLUE-AS"
+    },
+    "47220": {
+        "country_code": "RO",
+        "asn": "47220",
+        "description": "ANTENA3 S.A.",
+        "handle": "ANTENA3-AS"
+    },
+    "47225": {
+        "country_code": "RO",
+        "asn": "47225",
+        "description": "Crucial Systems & Services SRL",
+        "handle": "CRUCIAL-AS"
+    },
+    "47230": {
+        "country_code": "RO",
+        "asn": "47230",
+        "description": "Autoritatea Nationala pentru Administrare si Reglementare in Comunicatii",
+        "handle": "NSNP-AS"
+    },
+    "47291": {
+        "country_code": "RO",
+        "asn": "47291",
+        "description": "Refrig Co Industrial SRL",
+        "handle": "AVN-AS"
+    },
+    "47319": {
+        "country_code": "RO",
+        "asn": "47319",
+        "description": "ROVNER & MOORE S.R.L",
+        "handle": "ROVNER-MOORE-AS"
+    },
+    "47345": {
+        "country_code": "RO",
+        "asn": "47345",
+        "description": "PRO EDGE NET SRL",
+        "handle": "PROEDGE-AS"
+    },
+    "47366": {
+        "country_code": "RO",
+        "asn": "47366",
+        "description": "Neopro Altdc SRL",
+        "handle": "ALTDC"
+    },
+    "47388": {
+        "country_code": "RO",
+        "asn": "47388",
+        "description": "Dante International SA",
+        "handle": "EMAG-AS"
+    },
+    "47390": {
+        "country_code": "RO",
+        "asn": "47390",
+        "description": "PayPoint Services SRL",
+        "handle": "PAYZONE-AS"
+    },
+    "47412": {
+        "country_code": "RO",
+        "asn": "47412",
+        "description": "MONDO PLAST S.R.L.",
+        "handle": "MONDOPLAST-ASN"
+    },
+    "47414": {
+        "country_code": "RO",
+        "asn": "47414",
+        "description": "BCM SOLUTION SRL",
+        "handle": "BCM-AS"
+    },
+    "47424": {
+        "country_code": "RO",
+        "asn": "47424",
+        "description": "ROPECO BUCURESTI SRL",
+        "handle": "ROPECO-AS"
+    },
+    "47427": {
+        "country_code": "RO",
+        "asn": "47427",
+        "description": "DREAMTEAM NETWORK SRL",
+        "handle": "DTNETWORK"
+    },
+    "47458": {
+        "country_code": "RO",
+        "asn": "47458",
+        "description": "ADSWIZZ RO SRL",
+        "handle": "ADSWIZZ-AS"
+    },
+    "47505": {
+        "country_code": "RO",
+        "asn": "47505",
+        "description": "Gabriel Vargolici",
+        "handle": "QNS-AS"
+    },
+    "47511": {
+        "country_code": "RO",
+        "asn": "47511",
+        "description": "QUEST GLOBAL ENGINEERING SERVICES SRL",
+        "handle": "IT-SIX-AS"
+    },
+    "47574": {
+        "country_code": "RO",
+        "asn": "47574",
+        "description": "CAR CONTROL SRL",
+        "handle": "CARCONTROL"
+    },
+    "47602": {
+        "country_code": "RO",
+        "asn": "47602",
+        "description": "Profisol Telecom S.R.L.",
+        "handle": "PROFISOL-AS"
+    },
+    "47619": {
+        "country_code": "RO",
+        "asn": "47619",
+        "description": "MB Telecom-Ltd. SRL",
+        "handle": "MBTELECOM-AS"
+    },
+    "47662": {
+        "country_code": "RO",
+        "asn": "47662",
+        "description": "Inspectia Muncii",
+        "handle": "IMRO-AS"
+    },
+    "47667": {
+        "country_code": "RO",
+        "asn": "47667",
+        "description": "SC COSMETICS ORIFLAME ROMANIA SRL",
+        "handle": "COR-MNT"
+    },
+    "47687": {
+        "country_code": "RO",
+        "asn": "47687",
+        "description": "Radu Draghici",
+        "handle": "RO-RADUDRAGHICI-TRANSIT"
+    },
+    "47703": {
+        "country_code": "RO",
+        "asn": "47703",
+        "description": "Prospectiuni SA",
+        "handle": "PROSPECTIUNI-AS"
+    },
+    "47731": {
+        "country_code": "RO",
+        "asn": "47731",
+        "description": "ENDAVA ROMANIA SRL",
+        "handle": "ENDAVA-AS"
+    },
+    "47734": {
+        "country_code": "RO",
+        "asn": "47734",
+        "description": "Telecom IT Solutions SRL",
+        "handle": "TELECOM-IT-SOLUTIONS-AS"
+    },
+    "47742": {
+        "country_code": "RO",
+        "asn": "47742",
+        "description": "SIL-MIRO COM SRL",
+        "handle": "SIL-MIRO-NET-AS"
+    },
+    "47774": {
+        "country_code": "RO",
+        "asn": "47774",
+        "description": "IT SERVICE CENTER SRL",
+        "handle": "SISTEC-SBSOL-AS"
+    },
+    "47792": {
+        "country_code": "RO",
+        "asn": "47792",
+        "description": "ABO NET SRL",
+        "handle": "ABONET-AS"
+    },
+    "47836": {
+        "country_code": "RO",
+        "asn": "47836",
+        "description": "SC Web Software Development SRL",
+        "handle": "WEBSOFT-AS"
+    },
+    "47915": {
+        "country_code": "RO",
+        "asn": "47915",
+        "description": "NIXWAY SRL",
+        "handle": "NIXWAY-SRL"
+    },
+    "47950": {
+        "country_code": "RO",
+        "asn": "47950",
+        "description": "LNK SYSTEMS MUNTENIA SRL",
+        "handle": "LNK"
+    },
+    "47958": {
+        "country_code": "RO",
+        "asn": "47958",
+        "description": "KONTRON SERVICES ROMANIA SRL",
+        "handle": "RO-KONTRON-AS"
+    },
+    "47991": {
+        "country_code": "RO",
+        "asn": "47991",
+        "description": "Banca Centrala Cooperatista Creditcoop",
+        "handle": "CREDITCOOP-AS"
+    },
+    "48012": {
+        "country_code": "RO",
+        "asn": "48012",
+        "description": "Allianz-Tiriac Asigurari S.A.",
+        "handle": "ALLIANZ-TIRIAC-ASIGURARI-SA-AS"
+    },
+    "48067": {
+        "country_code": "RO",
+        "asn": "48067",
+        "description": "Distinct New Media SRL",
+        "handle": "DNM-AS"
+    },
+    "48074": {
+        "country_code": "RO",
+        "asn": "48074",
+        "description": "EVERHOST SRL",
+        "handle": "EVERHOST-AS-NETWORK"
+    },
+    "48112": {
+        "country_code": "RO",
+        "asn": "48112",
+        "description": "XINDI Networks SRL",
+        "handle": "XINDI-AS"
+    },
+    "48114": {
+        "country_code": "RO",
+        "asn": "48114",
+        "description": "SOCIETATEA CIVILA DE AVOCATI NESTOR NESTOR DICULESCU KINGSTON PETERSEN",
+        "handle": "NNDKP-AS"
+    },
+    "48141": {
+        "country_code": "RO",
+        "asn": "48141",
+        "description": "Create Online S.R.L.",
+        "handle": "CREATE-ONLINE-AS"
+    },
+    "48161": {
+        "country_code": "RO",
+        "asn": "48161",
+        "description": "NEXTGEN COMMUNICATIONS SRL",
+        "handle": "NG-AS"
+    },
+    "48167": {
+        "country_code": "RO",
+        "asn": "48167",
+        "description": "Cognizant Technology Solution Romania S.R.L.",
+        "handle": "COGNIZANT-AS"
+    },
+    "48242": {
+        "country_code": "RO",
+        "asn": "48242",
+        "description": "Macromex SRL",
+        "handle": "MACROMEX-AS"
+    },
+    "48332": {
+        "country_code": "RO",
+        "asn": "48332",
+        "description": "CLARFON S.A.",
+        "handle": "GENERALCOM-AS"
+    },
+    "48336": {
+        "country_code": "RO",
+        "asn": "48336",
+        "description": "Dazoot Software SRL",
+        "handle": "DAZOOT-AS"
+    },
+    "48338": {
+        "country_code": "RO",
+        "asn": "48338",
+        "description": "Compania Nationala Loteria Romana SA",
+        "handle": "LOTO-AS"
+    },
+    "48351": {
+        "country_code": "RO",
+        "asn": "48351",
+        "description": "Earthlink SRL",
+        "handle": "EARTHLINK"
+    },
+    "48373": {
+        "country_code": "RO",
+        "asn": "48373",
+        "description": "Spearhead Systems SRL",
+        "handle": "SPEARHEAD-AS"
+    },
+    "48453": {
+        "country_code": "RO",
+        "asn": "48453",
+        "description": "CNETWORK SRL",
+        "handle": "CNETWORK-AS"
+    },
+    "48459": {
+        "country_code": "RO",
+        "asn": "48459",
+        "description": "COMPANIA DE INFORMATICA APLICATA SA",
+        "handle": "CIANET-AS"
+    },
+    "48537": {
+        "country_code": "RO",
+        "asn": "48537",
+        "description": "Nova Communication SRL",
+        "handle": "NOVACOMM-AS"
+    },
+    "48556": {
+        "country_code": "RO",
+        "asn": "48556",
+        "description": "ROMANIAN SOFTWARE SRL",
+        "handle": "RS-AS"
+    },
+    "48563": {
+        "country_code": "RO",
+        "asn": "48563",
+        "description": "AVA TELECOM INTERNATIONAL SRL",
+        "handle": "AVA-AS"
+    },
+    "48571": {
+        "country_code": "RO",
+        "asn": "48571",
+        "description": "efectRO SRL",
+        "handle": "EFECTRO-AS"
+    },
+    "48593": {
+        "country_code": "RO",
+        "asn": "48593",
+        "description": "IT EXPERTS S.R.L",
+        "handle": "IT-EXPERTS"
+    },
+    "48616": {
+        "country_code": "RO",
+        "asn": "48616",
+        "description": "Datasoft S.R.L.",
+        "handle": "DATASOFT-NET-AS"
+    },
+    "48669": {
+        "country_code": "RO",
+        "asn": "48669",
+        "description": "ADMIN-DEP SYSTEMS SRL-D",
+        "handle": "DEPSYSTEMS-AS"
+    },
+    "48671": {
+        "country_code": "RO",
+        "asn": "48671",
+        "description": "FIRE CREDIT SRL",
+        "handle": "FIRE-CREDIT-AS"
+    },
+    "48705": {
+        "country_code": "RO",
+        "asn": "48705",
+        "description": "AEGON TOWARZYSTWO UBEZPIECZEN NA ZYCIE SA Sucursala FLORESTI",
+        "handle": "AEGON-AS"
+    },
+    "48736": {
+        "country_code": "RO",
+        "asn": "48736",
+        "description": "TRIDENT SERVICII SI MENTENANTA SA",
+        "handle": "UTI-SYSTEMS-AS"
+    },
+    "48749": {
+        "country_code": "RO",
+        "asn": "48749",
+        "description": "Smart Solutions & Soft SRL",
+        "handle": "IRM-AS"
+    },
+    "48754": {
+        "country_code": "RO",
+        "asn": "48754",
+        "description": "SOBIS SOLUTIONS SRL",
+        "handle": "SOBIS-AS"
+    },
+    "48786": {
+        "country_code": "RO",
+        "asn": "48786",
+        "description": "BIOFARM SA",
+        "handle": "BIOFARM-AS"
+    },
+    "48808": {
+        "country_code": "RO",
+        "asn": "48808",
+        "description": "BULBOACA & ASOCIATII-S.P.A.R.L",
+        "handle": "BULBOACA-AS"
+    },
+    "48810": {
+        "country_code": "RO",
+        "asn": "48810",
+        "description": "Internet Resources Management SRL",
+        "handle": "IRM-AS"
+    },
+    "48831": {
+        "country_code": "RO",
+        "asn": "48831",
+        "description": "Axel Soft IT Group SRL",
+        "handle": "AXELSOFT-AS"
+    },
+    "48836": {
+        "country_code": "RO",
+        "asn": "48836",
+        "description": "Ana Hotels SA",
+        "handle": "ANAHOTELS-AS"
+    },
+    "48837": {
+        "country_code": "RO",
+        "asn": "48837",
+        "description": "SC ALFA WEB SRL",
+        "handle": "ALFA-WEB-AS"
+    },
+    "48843": {
+        "country_code": "RO",
+        "asn": "48843",
+        "description": "MUNICIPIUL BUCURESTI",
+        "handle": "CGMB-AS"
+    },
+    "48852": {
+        "country_code": "RO",
+        "asn": "48852",
+        "description": "Bunt Studio SRL",
+        "handle": "BUNT-AS"
+    },
+    "48865": {
+        "country_code": "RO",
+        "asn": "48865",
+        "description": "Computer Generated Solutions Romania S.R.L.",
+        "handle": "CGS-AS"
+    },
+    "48874": {
+        "country_code": "RO",
+        "asn": "48874",
+        "description": "HOSTMAZE INC SRL-D",
+        "handle": "HOSTMAZE"
+    },
+    "48878": {
+        "country_code": "RO",
+        "asn": "48878",
+        "description": "GREATHOST WEB SRL",
+        "handle": "GREATHOST-WEB-SRL"
+    },
+    "48881": {
+        "country_code": "RO",
+        "asn": "48881",
+        "description": "DataNode DC SRL",
+        "handle": "DATANODE"
+    },
+    "48928": {
+        "country_code": "RO",
+        "asn": "48928",
+        "description": "U.M. 0296 BUCURESTI",
+        "handle": "DCTI-AS"
+    },
+    "48929": {
+        "country_code": "RO",
+        "asn": "48929",
+        "description": "Real Network and Tel SRL",
+        "handle": "TOMIX-AS"
+    },
+    "48930": {
+        "country_code": "RO",
+        "asn": "48930",
+        "description": "Betty Ice SRL",
+        "handle": "BETTY-AS"
+    },
+    "48948": {
+        "country_code": "RO",
+        "asn": "48948",
+        "description": "ENERGY DOT SRL",
+        "handle": "ENERGY-DOT-AS"
+    },
+    "48955": {
+        "country_code": "RO",
+        "asn": "48955",
+        "description": "Internet Resources Management SRL",
+        "handle": "IRM-AS"
+    },
+    "48999": {
+        "country_code": "RO",
+        "asn": "48999",
+        "description": "SC AVIDAL NET SRL",
+        "handle": "AVIDAL-AS"
+    },
+    "49021": {
+        "country_code": "RO",
+        "asn": "49021",
+        "description": "SOCIETATEA NATIONALA DE TRANSPORT GAZE NATURALE TRANSGAZ SA",
+        "handle": "TRANSGAZ-AS"
+    },
+    "49023": {
+        "country_code": "RO",
+        "asn": "49023",
+        "description": "INOVO SOLUTIONS SRL",
+        "handle": "INOVO-AS"
+    },
+    "49052": {
+        "country_code": "RO",
+        "asn": "49052",
+        "description": "DATA ZYX SRL",
+        "handle": "DATAZYX"
+    },
+    "49062": {
+        "country_code": "RO",
+        "asn": "49062",
+        "description": "DOMO MEDIA SRL",
+        "handle": "DOMO-MEDIA-AS"
+    },
+    "49074": {
+        "country_code": "RO",
+        "asn": "49074",
+        "description": "SC TECHNOLOGICAL SRL",
+        "handle": "TECHNOLOGICAL"
+    },
+    "49077": {
+        "country_code": "RO",
+        "asn": "49077",
+        "description": "UM 02499 BUCURESTI",
+        "handle": "UM02499-AS"
+    },
+    "49078": {
+        "country_code": "RO",
+        "asn": "49078",
+        "description": "SC UBISOFT SRL",
+        "handle": "RO-UBISOFT-AS"
+    },
+    "49123": {
+        "country_code": "RO",
+        "asn": "49123",
+        "description": "S.C. Retele de Comunicatii Avansate S.R.L.",
+        "handle": "RCAGRUP-AS"
+    },
+    "49150": {
+        "country_code": "RO",
+        "asn": "49150",
+        "description": "S.C. Ind Web S.R.L.",
+        "handle": "IND-WEB"
+    },
+    "49164": {
+        "country_code": "RO",
+        "asn": "49164",
+        "description": "Aramis Invest SRL",
+        "handle": "ARAMIS-AS"
+    },
+    "49169": {
+        "country_code": "RO",
+        "asn": "49169",
+        "description": "SC ETA2U SRL",
+        "handle": "ETA2U-AS"
+    },
+    "49171": {
+        "country_code": "RO",
+        "asn": "49171",
+        "description": "Hypermedia SRL",
+        "handle": "HYPERMEDIA-AS"
+    },
+    "49203": {
+        "country_code": "RO",
+        "asn": "49203",
+        "description": "Internet Resources Management SRL",
+        "handle": "IRM-AS"
+    },
+    "49252": {
+        "country_code": "RO",
+        "asn": "49252",
+        "description": "SC Prolink System SRL",
+        "handle": "PROLINK-AS"
+    },
+    "49256": {
+        "country_code": "RO",
+        "asn": "49256",
+        "description": "INDUSTRIA MUNDUM S.R.L.",
+        "handle": "UPETROM-AS"
+    },
+    "49259": {
+        "country_code": "RO",
+        "asn": "49259",
+        "description": "RoDelta Business Solutions SRL",
+        "handle": "RDBS-AS"
+    },
+    "49266": {
+        "country_code": "RO",
+        "asn": "49266",
+        "description": "FLASHNET SA",
+        "handle": "FLASHNET-AS"
+    },
+    "49270": {
+        "country_code": "RO",
+        "asn": "49270",
+        "description": "SYNAPTIC SYSTEMS SRL",
+        "handle": "SYNAPTIC-AS"
+    },
+    "49295": {
+        "country_code": "RO",
+        "asn": "49295",
+        "description": "S.C. Asigurarea Romaneasca - ASIROM Viena Insurance Group S.A.",
+        "handle": "ASIROM-VIG"
+    },
+    "49298": {
+        "country_code": "RO",
+        "asn": "49298",
+        "description": "SC Soft-Tech SRL",
+        "handle": "SOFT-TECH-AS"
+    },
+    "49302": {
+        "country_code": "RO",
+        "asn": "49302",
+        "description": "ACTIV NET SRL",
+        "handle": "ACTIVENET-AS"
+    },
+    "49348": {
+        "country_code": "RO",
+        "asn": "49348",
+        "description": "ENGINYRING EUROPE SRL",
+        "handle": "ENGINYRING-AS"
+    },
+    "49365": {
+        "country_code": "RO",
+        "asn": "49365",
+        "description": "Universitatea Politehnica din Timisoara",
+        "handle": "UP-TM-AS"
+    },
+    "49379": {
+        "country_code": "RO",
+        "asn": "49379",
+        "description": "SC Verida Credit IFN SA",
+        "handle": "VERIDA-AS"
+    },
+    "49383": {
+        "country_code": "RO",
+        "asn": "49383",
+        "description": "Hostmania Cloud SRL",
+        "handle": "HOSTMANIA-AS"
+    },
+    "49384": {
+        "country_code": "RO",
+        "asn": "49384",
+        "description": "ADMINISTRATIA ROMANA A SERVICIILOR DE TRAFIC AERIAN ROMATSA RA.",
+        "handle": "ROMATSA-AS"
+    },
+    "49410": {
+        "country_code": "RO",
+        "asn": "49410",
+        "description": "BILOUD SRL",
+        "handle": "BIZTELECOM"
+    },
+    "49423": {
+        "country_code": "RO",
+        "asn": "49423",
+        "description": "NetcoRR Synergies SRL",
+        "handle": "CADBURYRO"
+    },
+    "49437": {
+        "country_code": "RO",
+        "asn": "49437",
+        "description": "Institutul National de Cercetare Dezvoltare pentru Fizica Pamantului - INCDFP RA",
+        "handle": "INCDFP-AS"
+    },
+    "49468": {
+        "country_code": "RO",
+        "asn": "49468",
+        "description": "MAGIT'ST SRL",
+        "handle": "MAGHOST-RO"
+    },
+    "49496": {
+        "country_code": "RO",
+        "asn": "49496",
+        "description": "MDM Solutions SRL",
+        "handle": "MDM-AS"
+    },
+    "49507": {
+        "country_code": "RO",
+        "asn": "49507",
+        "description": "Institutul National de Cercetare-Dezvoltare pentru Fizica Materialelor Bucuresti RA",
+        "handle": "INCDFM"
+    },
+    "49591": {
+        "country_code": "RO",
+        "asn": "49591",
+        "description": "Gral Medical SRL",
+        "handle": "B-GRAL-MEDICAL"
+    },
+    "49595": {
+        "country_code": "RO",
+        "asn": "49595",
+        "description": "ILSA LAND SRL",
+        "handle": "AGORAITC-AS"
+    },
+    "49645": {
+        "country_code": "RO",
+        "asn": "49645",
+        "description": "Soft Expert SRL",
+        "handle": "SOFT-EXPERT-AS"
+    },
+    "49646": {
+        "country_code": "RO",
+        "asn": "49646",
+        "description": "Agentia Nationala a Medicamentului",
+        "handle": "ANM-RO-AS"
+    },
+    "49674": {
+        "country_code": "RO",
+        "asn": "49674",
+        "description": "S.C. Djemba IT&C S.R.L.",
+        "handle": "DJEMBA-AS"
+    },
+    "49678": {
+        "country_code": "RO",
+        "asn": "49678",
+        "description": "INTERKVM HOST SRL",
+        "handle": "ZET-CUSTOMERS"
+    },
+    "49687": {
+        "country_code": "RO",
+        "asn": "49687",
+        "description": "RoSite Equipment SRL",
+        "handle": "REQ"
+    },
+    "49719": {
+        "country_code": "RO",
+        "asn": "49719",
+        "description": "High Tech United S.R.L.",
+        "handle": "HIGH-TECH-UNITED"
+    },
+    "49734": {
+        "country_code": "RO",
+        "asn": "49734",
+        "description": "Nooh Media SRL",
+        "handle": "NOOH-MEDIA-AS"
+    },
+    "49746": {
+        "country_code": "RO",
+        "asn": "49746",
+        "description": "DIGITAL EURONETWORK SRL",
+        "handle": "DIGI"
+    },
+    "49774": {
+        "country_code": "RO",
+        "asn": "49774",
+        "description": "S.C. Interlink Banat S.R.L.",
+        "handle": "INTERLINK-BANAT-AS"
+    },
+    "49852": {
+        "country_code": "RO",
+        "asn": "49852",
+        "description": "AP NETWORK SRL",
+        "handle": "APN"
+    },
+    "49894": {
+        "country_code": "RO",
+        "asn": "49894",
+        "description": "EZLO INNOVATION SRL",
+        "handle": "COMODO-AS"
+    },
+    "49907": {
+        "country_code": "RO",
+        "asn": "49907",
+        "description": "INDECO",
+        "handle": "INDECO-AS"
+    },
+    "49909": {
+        "country_code": "RO",
+        "asn": "49909",
+        "description": "Direct One SA",
+        "handle": "DIRECT-ONE-AS"
+    },
+    "49918": {
+        "country_code": "RO",
+        "asn": "49918",
+        "description": "Institutul pentru Tehnologii Avansate",
+        "handle": "ITA-AS"
+    },
+    "49948": {
+        "country_code": "RO",
+        "asn": "49948",
+        "description": "Raycap Corporation SRL",
+        "handle": "RAYCAP-ASN"
+    },
+    "49990": {
+        "country_code": "RO",
+        "asn": "49990",
+        "description": "AEM SA",
+        "handle": "AEM-AS"
+    },
+    "50008": {
+        "country_code": "RO",
+        "asn": "50008",
+        "description": "Mionet IT SRL",
+        "handle": "MIONET-IT-SRL"
+    },
+    "50080": {
+        "country_code": "RO",
+        "asn": "50080",
+        "description": "SIBS ROMANIA S.A.",
+        "handle": "SIBSRO-AS"
+    },
+    "50102": {
+        "country_code": "RO",
+        "asn": "50102",
+        "description": "C&A Connect SRL",
+        "handle": "CA-CONNECT-AS"
+    },
+    "50137": {
+        "country_code": "RO",
+        "asn": "50137",
+        "description": "Nagarro SRL",
+        "handle": "NAGARRO-AS"
+    },
+    "50150": {
+        "country_code": "RO",
+        "asn": "50150",
+        "description": "Colt Technology Services RO SRL",
+        "handle": "COLT-AS"
+    },
+    "50190": {
+        "country_code": "RO",
+        "asn": "50190",
+        "description": "HOSTINGBIT SRL",
+        "handle": "HOSTING"
+    },
+    "50192": {
+        "country_code": "RO",
+        "asn": "50192",
+        "description": "Autoritatea Electorala Permanenta",
+        "handle": "RO-AEP-NET"
+    },
+    "50200": {
+        "country_code": "RO",
+        "asn": "50200",
+        "description": "INTERKVM HOST SRL",
+        "handle": "NETLINK"
+    },
+    "50209": {
+        "country_code": "RO",
+        "asn": "50209",
+        "description": "GROUPAMA ASIGURARI S.A.",
+        "handle": "GROUPAMA-AS"
+    },
+    "50220": {
+        "country_code": "RO",
+        "asn": "50220",
+        "description": "ROPARDO SRL",
+        "handle": "ROPARDO-AS"
+    },
+    "50252": {
+        "country_code": "RO",
+        "asn": "50252",
+        "description": "Camera Deputatilor",
+        "handle": "CAMERA-DEPUTATILOR"
+    },
+    "50275": {
+        "country_code": "RO",
+        "asn": "50275",
+        "description": "EVOX SOLUTIONS SRL",
+        "handle": "EVOX-AS"
+    },
+    "50322": {
+        "country_code": "RO",
+        "asn": "50322",
+        "description": "Softelligence SRL",
+        "handle": "SOFTELLIGENCE-AS"
+    },
+    "50347": {
+        "country_code": "RO",
+        "asn": "50347",
+        "description": "Zonterra Corp SRL",
+        "handle": "ZONTERRA-AS"
+    },
+    "50357": {
+        "country_code": "RO",
+        "asn": "50357",
+        "description": "SPEEDNET INTER SOLUTIONS SRL",
+        "handle": "BOSNET-AS"
+    },
+    "50369": {
+        "country_code": "RO",
+        "asn": "50369",
+        "description": "Safegrid Network SRL",
+        "handle": "SAFEGRID"
+    },
+    "50402": {
+        "country_code": "RO",
+        "asn": "50402",
+        "description": "SC Autonet Import SRL",
+        "handle": "AUTONET"
+    },
+    "50413": {
+        "country_code": "RO",
+        "asn": "50413",
+        "description": "MSIS IT & C SRL",
+        "handle": "MSIS-ITC-AS"
+    },
+    "50424": {
+        "country_code": "RO",
+        "asn": "50424",
+        "description": "Widecom Systems SRL",
+        "handle": "WIDECOM-AS"
+    },
+    "50437": {
+        "country_code": "RO",
+        "asn": "50437",
+        "description": "SC TECHNOLOGICAL SRL",
+        "handle": "TECHNOLOGICAL"
+    },
+    "50447": {
+        "country_code": "RO",
+        "asn": "50447",
+        "description": "ELECTROGRUP SA",
+        "handle": "ELECTROGRUP-AS"
+    },
+    "50515": {
+        "country_code": "RO",
+        "asn": "50515",
+        "description": "Tier SRL",
+        "handle": "TIER-DATA-CENTER"
+    },
+    "50578": {
+        "country_code": "RO",
+        "asn": "50578",
+        "description": "SteamVPS SRL",
+        "handle": "STEAMVPS"
+    },
+    "50604": {
+        "country_code": "RO",
+        "asn": "50604",
+        "description": "SC MEDIA SUD SRL",
+        "handle": "MEDIASUD-AS"
+    },
+    "50614": {
+        "country_code": "RO",
+        "asn": "50614",
+        "description": "SOFTWARE SI ECHIPAMENTE ELECTRONICE PENTRU DEZVOLTARE (SEED) SRL",
+        "handle": "SEED-AS"
+    },
+    "50637": {
+        "country_code": "RO",
+        "asn": "50637",
+        "description": "Expressoft Technology SRL",
+        "handle": "TOP-HORECA-AS"
+    },
+    "50659": {
+        "country_code": "RO",
+        "asn": "50659",
+        "description": "Honeywell Romania S.R.L.",
+        "handle": "HONEYWELL-AS"
+    },
+    "50660": {
+        "country_code": "RO",
+        "asn": "50660",
+        "description": "SSIF BRK FINANCIAL GROUP SA",
+        "handle": "SSIF-CJ-AS"
+    },
+    "50667": {
+        "country_code": "RO",
+        "asn": "50667",
+        "description": "NETPROTECT SRL",
+        "handle": "MSP-ROMANIA-AS"
+    },
+    "50680": {
+        "country_code": "RO",
+        "asn": "50680",
+        "description": "Fortech SRL",
+        "handle": "GLOBALLOGIC-ROMANIA-AS"
+    },
+    "50723": {
+        "country_code": "RO",
+        "asn": "50723",
+        "description": "IP Resources Trading SRL",
+        "handle": "IPTRADE"
+    },
+    "50819": {
+        "country_code": "RO",
+        "asn": "50819",
+        "description": "Cloud Vault SRL",
+        "handle": "STAR-STORAGE-AS"
+    },
+    "50884": {
+        "country_code": "RO",
+        "asn": "50884",
+        "description": "Level Network SRL",
+        "handle": "XCHANGENET"
+    },
+    "50886": {
+        "country_code": "RO",
+        "asn": "50886",
+        "description": "NETFIL SRL",
+        "handle": "NETFIL-AS"
+    },
+    "50887": {
+        "country_code": "RO",
+        "asn": "50887",
+        "description": "DC FIBER HOME SRL",
+        "handle": "DCFH-AS"
+    },
+    "50912": {
+        "country_code": "RO",
+        "asn": "50912",
+        "description": "SYSCOM DIGITAL SRL",
+        "handle": "SYSCOM-AS"
+    },
+    "50921": {
+        "country_code": "RO",
+        "asn": "50921",
+        "description": "Hosting Solutions SRL",
+        "handle": "HOSTINGROMANIA-AS"
+    },
+    "50939": {
+        "country_code": "RO",
+        "asn": "50939",
+        "description": "Space Ro SRL",
+        "handle": "SPACE-AS"
+    },
+    "50940": {
+        "country_code": "RO",
+        "asn": "50940",
+        "description": "INSTITUTUL NATIONAL DE CERCETARE-DEZVOLTARE TURBOMOTOARE - COMOTI",
+        "handle": "COMOTI-AS"
+    },
+    "50944": {
+        "country_code": "RO",
+        "asn": "50944",
+        "description": "Institutul National al Patrimoniului",
+        "handle": "CIMEC-AS"
+    },
+    "50945": {
+        "country_code": "RO",
+        "asn": "50945",
+        "description": "ICEPRONAV ENGINEERING SRL",
+        "handle": "ICEPRONAV-AS"
+    },
+    "50970": {
+        "country_code": "RO",
+        "asn": "50970",
+        "description": "Smanet Systems Ltd",
+        "handle": "SMANET-AS"
+    },
+    "50983": {
+        "country_code": "RO",
+        "asn": "50983",
+        "description": "APT Resources & Services SRL",
+        "handle": "APT-AS"
+    },
+    "50984": {
+        "country_code": "RO",
+        "asn": "50984",
+        "description": "Business Plus SRL",
+        "handle": "BUSINESS-PLUS-AS"
+    },
+    "50990": {
+        "country_code": "RO",
+        "asn": "50990",
+        "description": "Universitatea Spiru Haret",
+        "handle": "SPIRU-HARET-AS"
+    },
+    "50991": {
+        "country_code": "RO",
+        "asn": "50991",
+        "description": "CARGUS SRL",
+        "handle": "CARGUS-AS"
+    },
+    "51024": {
+        "country_code": "RO",
+        "asn": "51024",
+        "description": "INTERNATIONAL OLISAT SRL",
+        "handle": "OLISAT-AS"
+    },
+    "51029": {
+        "country_code": "RO",
+        "asn": "51029",
+        "description": "Antibiotice SA",
+        "handle": "ANTIBIOTICE-AS"
+    },
+    "51072": {
+        "country_code": "RO",
+        "asn": "51072",
+        "description": "Avertue International SRL",
+        "handle": "AVERTUE-AS"
+    },
+    "51094": {
+        "country_code": "RO",
+        "asn": "51094",
+        "description": "Societatea Comerciala de Producere a Energiei Electrice in Hidrocentrale Hidroelectrica S.A.",
+        "handle": "HIDROELECTRICA"
+    },
+    "51098": {
+        "country_code": "RO",
+        "asn": "51098",
+        "description": "Agentia Spatiala Romana",
+        "handle": "ROSA-AS"
+    },
+    "51099": {
+        "country_code": "RO",
+        "asn": "51099",
+        "description": "BLUEPINK HOSTING SRL",
+        "handle": "BLUEPINK-AS"
+    },
+    "51102": {
+        "country_code": "RO",
+        "asn": "51102",
+        "description": "IMPATT SRL",
+        "handle": "IMPATT-AS"
+    },
+    "51108": {
+        "country_code": "RO",
+        "asn": "51108",
+        "description": "Network One Distribution SRL",
+        "handle": "NETWORK-ONE-DISTRIBUTION-AS"
+    },
+    "51177": {
+        "country_code": "RO",
+        "asn": "51177",
+        "description": "TIPZOR MEDIA SRL",
+        "handle": "THCPROJECTS"
+    },
+    "51179": {
+        "country_code": "RO",
+        "asn": "51179",
+        "description": "VIOTOP SRL",
+        "handle": "VIOTOP-AS"
+    },
+    "51195": {
+        "country_code": "RO",
+        "asn": "51195",
+        "description": "Bittnet Systems SA",
+        "handle": "BITTNET-AS"
+    },
+    "51204": {
+        "country_code": "RO",
+        "asn": "51204",
+        "description": "UNIREA SHOPPING CENTER SA",
+        "handle": "UNIREA-SHOPPING-CENTER"
+    },
+    "51240": {
+        "country_code": "RO",
+        "asn": "51240",
+        "description": "DEDEMAN SRL",
+        "handle": "DEDEMAN-AS"
+    },
+    "51244": {
+        "country_code": "RO",
+        "asn": "51244",
+        "description": "CAT Autologistics Romania SRL",
+        "handle": "BENGA-AS"
+    },
+    "51284": {
+        "country_code": "RO",
+        "asn": "51284",
+        "description": "DISTRIBUTIE ENERGIE OLTENIA S.A.",
+        "handle": "DISTRIBUTIE-ENERGIE-OLTENIA"
+    },
+    "51295": {
+        "country_code": "RO",
+        "asn": "51295",
+        "description": "Tes Euro Media SRL",
+        "handle": "GNET-AS"
+    },
+    "51322": {
+        "country_code": "RO",
+        "asn": "51322",
+        "description": "Astory Technology S.A.",
+        "handle": "ASF-AS"
+    },
+    "51325": {
+        "country_code": "RO",
+        "asn": "51325",
+        "description": "Romastru Trading SRL",
+        "handle": "ROMASTRU-AS"
+    },
+    "51332": {
+        "country_code": "RO",
+        "asn": "51332",
+        "description": "M247 Europe SRL",
+        "handle": "M247-ENTERPRISE"
+    },
+    "51398": {
+        "country_code": "RO",
+        "asn": "51398",
+        "description": "CONCEPT ELECTRONICS SRL",
+        "handle": "CONCEPT-ELECTRONICS-AS"
+    },
+    "51441": {
+        "country_code": "RO",
+        "asn": "51441",
+        "description": "Agricover Distribution SA",
+        "handle": "AGRICOVER-AS"
+    },
+    "51461": {
+        "country_code": "RO",
+        "asn": "51461",
+        "description": "ARKA UNIVERSAL IMPEX SRL",
+        "handle": "ARKA-UNIVERSAL-IMPEX"
+    },
+    "51474": {
+        "country_code": "RO",
+        "asn": "51474",
+        "description": "SC TECHNOLOGICAL SRL",
+        "handle": "TECHNOLOGICAL"
+    },
+    "51480": {
+        "country_code": "RO",
+        "asn": "51480",
+        "description": "Direct Sport Bet SRL",
+        "handle": "ASN-SKY-BETS-SPORT"
+    },
+    "51541": {
+        "country_code": "RO",
+        "asn": "51541",
+        "description": "Bitfactor SRL",
+        "handle": "BITFACTOR-AS"
+    },
+    "51568": {
+        "country_code": "RO",
+        "asn": "51568",
+        "description": "CHARGEADS SRL",
+        "handle": "MEDIACAFE"
+    },
+    "51626": {
+        "country_code": "RO",
+        "asn": "51626",
+        "description": "UTI GRUP SRL",
+        "handle": "UTI-GRUP-AS"
+    },
+    "51627": {
+        "country_code": "RO",
+        "asn": "51627",
+        "description": "Trans Sped SRL",
+        "handle": "TRANS-SPED-AS"
+    },
+    "51643": {
+        "country_code": "RO",
+        "asn": "51643",
+        "description": "ROMAV COMUNICATII SRL",
+        "handle": "ROMAV-AS"
+    },
+    "51654": {
+        "country_code": "RO",
+        "asn": "51654",
+        "description": "MEDIAPOST HIT MAIL SA",
+        "handle": "MEDIAPOST-AS"
+    },
+    "51689": {
+        "country_code": "RO",
+        "asn": "51689",
+        "description": "Omniasig Vienna Insurance Group S.A.",
+        "handle": "OMNIASIG-AS"
+    },
+    "51709": {
+        "country_code": "RO",
+        "asn": "51709",
+        "description": "R Systems Computaris Europe SRL",
+        "handle": "COMPUTARIS-AS"
+    },
+    "51712": {
+        "country_code": "RO",
+        "asn": "51712",
+        "description": "AKZO NOBEL COATINGS S.R.L.",
+        "handle": "FABRYO-AS"
+    },
+    "51746": {
+        "country_code": "RO",
+        "asn": "51746",
+        "description": "Scandia Romana S.A.",
+        "handle": "SCANDIA-AS"
+    },
+    "51755": {
+        "country_code": "RO",
+        "asn": "51755",
+        "description": "Nova Prompt SRL",
+        "handle": "NOVA-PROMPT-AS"
+    },
+    "51793": {
+        "country_code": "RO",
+        "asn": "51793",
+        "description": "Adrana International SRL",
+        "handle": "ADRANA"
+    },
+    "51799": {
+        "country_code": "RO",
+        "asn": "51799",
+        "description": "FIDELNET SRL",
+        "handle": "FIDELNET-AS"
+    },
+    "51808": {
+        "country_code": "RO",
+        "asn": "51808",
+        "description": "Avangate SRL",
+        "handle": "AVANGATE-AS"
+    },
+    "51835": {
+        "country_code": "RO",
+        "asn": "51835",
+        "description": "IT NET EQUIPEMENT SRL",
+        "handle": "NST-AS"
+    },
+    "51854": {
+        "country_code": "RO",
+        "asn": "51854",
+        "description": "IT Business Solutions SRL",
+        "handle": "ITBS-AS"
+    },
+    "51881": {
+        "country_code": "RO",
+        "asn": "51881",
+        "description": "PAYU ROMANIA SERVICES S.A.",
+        "handle": "EPAYMENT-AS"
+    },
+    "51885": {
+        "country_code": "RO",
+        "asn": "51885",
+        "description": "ALRO S.A.",
+        "handle": "ALRO-AS"
+    },
+    "51909": {
+        "country_code": "RO",
+        "asn": "51909",
+        "description": "CONFORT BUSINESS SOLUTIONS SRL",
+        "handle": "RIN-AS"
+    },
+    "51911": {
+        "country_code": "RO",
+        "asn": "51911",
+        "description": "AAYLEX ONE SA",
+        "handle": "AAYLEX-AS"
+    },
+    "51949": {
+        "country_code": "RO",
+        "asn": "51949",
+        "description": "LAGARDERE TRAVEL RETAIL SRL",
+        "handle": "LAGARDERE-AS"
+    },
+    "51970": {
+        "country_code": "RO",
+        "asn": "51970",
+        "description": "Unitatea Executiva pentru Finantarea Invatamantului Superior a Cercetarii Dezvoltarii si Inovarii",
+        "handle": "UEFISCDI"
+    },
+    "52023": {
+        "country_code": "RO",
+        "asn": "52023",
+        "description": "OPTICNET-SERV S.R.L.",
+        "handle": "OPTICNET-DUCADU"
+    },
+    "52044": {
+        "country_code": "RO",
+        "asn": "52044",
+        "description": "ACTIVEMALL SRL",
+        "handle": "ACTIVEMALL-AS"
+    },
+    "52057": {
+        "country_code": "RO",
+        "asn": "52057",
+        "description": "Global Security System S.A",
+        "handle": "GSS-AS"
+    },
+    "52149": {
+        "country_code": "RO",
+        "asn": "52149",
+        "description": "ArtSoft Consult SRL",
+        "handle": "ARTSOFT-AS"
+    },
+    "52159": {
+        "country_code": "RO",
+        "asn": "52159",
+        "description": "BAUM SRL",
+        "handle": "BAUM-AS"
+    },
+    "52189": {
+        "country_code": "RO",
+        "asn": "52189",
+        "description": "OMEGA NET SRL",
+        "handle": "OMEGA-NET-AS"
+    },
+    "52202": {
+        "country_code": "RO",
+        "asn": "52202",
+        "description": "Alewijnse Marine Galati SA",
+        "handle": "ALEWIJNSE-AS"
+    },
+    "52204": {
+        "country_code": "RO",
+        "asn": "52204",
+        "description": "NetcoRR Synergies SRL",
+        "handle": "ANCHORGRUP-AS"
+    },
+    "52211": {
+        "country_code": "RO",
+        "asn": "52211",
+        "description": "SSI Schaefer SRL",
+        "handle": "SSI-AS"
+    },
+    "52223": {
+        "country_code": "RO",
+        "asn": "52223",
+        "description": "Syswin Solutions SRL",
+        "handle": "SYSWIN-AS"
+    },
+    "56397": {
+        "country_code": "RO",
+        "asn": "56397",
+        "description": "Manpower Romania SRL",
+        "handle": "MANPOWER-AS"
+    },
+    "56417": {
+        "country_code": "RO",
+        "asn": "56417",
+        "description": "Help Net Farma SA",
+        "handle": "HELPNET"
+    },
+    "56430": {
+        "country_code": "RO",
+        "asn": "56430",
+        "description": "Chroot Network SRL",
+        "handle": "CHROOT"
+    },
+    "56432": {
+        "country_code": "RO",
+        "asn": "56432",
+        "description": "Zipper Services SRL",
+        "handle": "TIPO-AS"
+    },
+    "56458": {
+        "country_code": "RO",
+        "asn": "56458",
+        "description": "INNOBYTE SOLUTIONS SRL",
+        "handle": "INNOBYTE-SOLUTIONS"
+    },
+    "56499": {
+        "country_code": "RO",
+        "asn": "56499",
+        "description": "BNP PARIBAS PERSONAL FINANCE S.A. trading as BNP PARIBAS PERSONAL FINANCE S.A. PARIS SUCURSALA BUCURESTI",
+        "handle": "CETELEM"
+    },
+    "56502": {
+        "country_code": "RO",
+        "asn": "56502",
+        "description": "INTERSNACK ROMANIA SRL",
+        "handle": "INTERSNACK-AS"
+    },
+    "56512": {
+        "country_code": "RO",
+        "asn": "56512",
+        "description": "Asociatia Interlan",
+        "handle": "INTERLAN-IEX"
+    },
+    "56514": {
+        "country_code": "RO",
+        "asn": "56514",
+        "description": "Sprint Telecom SRL",
+        "handle": "SPRINT-TELECOM"
+    },
+    "56519": {
+        "country_code": "RO",
+        "asn": "56519",
+        "description": "Ministerul Apararii Nationale",
+        "handle": "MIDRO-AS"
+    },
+    "56553": {
+        "country_code": "RO",
+        "asn": "56553",
+        "description": "REVEL BUSINESS GROUP SRL",
+        "handle": "REVEL-AS"
+    },
+    "56555": {
+        "country_code": "RO",
+        "asn": "56555",
+        "description": "ENGINYRING EUROPE SRL",
+        "handle": "ENGINYRING-AS"
+    },
+    "56570": {
+        "country_code": "RO",
+        "asn": "56570",
+        "description": "DAVA R&R SRL",
+        "handle": "DAVA-AS"
+    },
+    "56585": {
+        "country_code": "RO",
+        "asn": "56585",
+        "description": "NEW KOPEL ROMANIA S.R.L.",
+        "handle": "KOPEL-AS"
+    },
+    "56629": {
+        "country_code": "RO",
+        "asn": "56629",
+        "description": "TECHNOLOGY SYSTEMS AND SERVICES INTERNATIONAL SRL",
+        "handle": "TEAMNET-AS"
+    },
+    "56654": {
+        "country_code": "RO",
+        "asn": "56654",
+        "description": "Infinity Telecom SRL",
+        "handle": "AS56654"
+    },
+    "56684": {
+        "country_code": "RO",
+        "asn": "56684",
+        "description": "Oscar Downstream SRL",
+        "handle": "OSCARS-AS"
+    },
+    "56729": {
+        "country_code": "RO",
+        "asn": "56729",
+        "description": "AT NET SRL",
+        "handle": "AT-NET"
+    },
+    "56744": {
+        "country_code": "RO",
+        "asn": "56744",
+        "description": "EXIMTUR SRL",
+        "handle": "EXIMTUR-AS"
+    },
+    "56746": {
+        "country_code": "RO",
+        "asn": "56746",
+        "description": "SIMULTANEOUS NETWORK PROTOCOL S.R.L.",
+        "handle": "SNP-NETWORK"
+    },
+    "56750": {
+        "country_code": "RO",
+        "asn": "56750",
+        "description": "CLINICA POLISANO SRL",
+        "handle": "POLISANO-AS"
+    },
+    "56770": {
+        "country_code": "RO",
+        "asn": "56770",
+        "description": "Autoritatea de Supraveghere Financiara",
+        "handle": "ASF-AS"
+    },
+    "56771": {
+        "country_code": "RO",
+        "asn": "56771",
+        "description": "Dante International SA",
+        "handle": "EMAG-AS"
+    },
+    "56795": {
+        "country_code": "RO",
+        "asn": "56795",
+        "description": "B1 TV CHANNEL S.R.L.",
+        "handle": "B1-TV-CHANNEL"
+    },
+    "56871": {
+        "country_code": "RO",
+        "asn": "56871",
+        "description": "Evowise SRL",
+        "handle": "EVOWISE"
+    },
+    "56885": {
+        "country_code": "RO",
+        "asn": "56885",
+        "description": "SUMIDA Romania SRL",
+        "handle": "SUMIDA-AS"
+    },
+    "56887": {
+        "country_code": "RO",
+        "asn": "56887",
+        "description": "SC TECHNOLOGICAL SRL",
+        "handle": "TECHNOLOGICAL"
+    },
+    "56940": {
+        "country_code": "RO",
+        "asn": "56940",
+        "description": "SC TECHNOLOGICAL SRL",
+        "handle": "TECHNOLOGICAL"
+    },
+    "56951": {
+        "country_code": "RO",
+        "asn": "56951",
+        "description": "We are code SRL",
+        "handle": "WECODE-AS"
+    },
+    "56967": {
+        "country_code": "RO",
+        "asn": "56967",
+        "description": "EUROPEAN DRINKS INTERNATIONAL S.R.L.",
+        "handle": "EDI-AS"
+    },
+    "56970": {
+        "country_code": "RO",
+        "asn": "56970",
+        "description": "Magnetic IT Services S.R.L.",
+        "handle": "MAGNETIC-IT-SERVICES"
+    },
+    "57009": {
+        "country_code": "RO",
+        "asn": "57009",
+        "description": "Satoga SRL",
+        "handle": "SATOGA-AS"
+    },
+    "57028": {
+        "country_code": "RO",
+        "asn": "57028",
+        "description": "NEPI INVESTMENT MANAGEMENT SRL",
+        "handle": "NEPI-AS"
+    },
+    "57034": {
+        "country_code": "RO",
+        "asn": "57034",
+        "description": "Fiber Space Solutions SRL",
+        "handle": "FIBER-SPACE"
+    },
+    "57050": {
+        "country_code": "RO",
+        "asn": "57050",
+        "description": "DreamServer S.R.L.",
+        "handle": "DREAMSERVER-SRL"
+    },
+    "57060": {
+        "country_code": "RO",
+        "asn": "57060",
+        "description": "RDH SRL",
+        "handle": "RDH-AS"
+    },
+    "57071": {
+        "country_code": "RO",
+        "asn": "57071",
+        "description": "AGRII ROMANIA SRL",
+        "handle": "AGRII-AS"
+    },
+    "57082": {
+        "country_code": "RO",
+        "asn": "57082",
+        "description": "SELGROS CASH&CARRY SRL",
+        "handle": "SELGROS-AS"
+    },
+    "57098": {
+        "country_code": "RO",
+        "asn": "57098",
+        "description": "Imedia Plus Group SA",
+        "handle": "IMEDIA-AS"
+    },
+    "57105": {
+        "country_code": "RO",
+        "asn": "57105",
+        "description": "SUNIMPROF ROTTAPRINT SRL",
+        "handle": "SUNIMPROF-AS"
+    },
+    "57126": {
+        "country_code": "RO",
+        "asn": "57126",
+        "description": "ADRIA SRL",
+        "handle": "ADRIA-AS"
+    },
+    "57130": {
+        "country_code": "RO",
+        "asn": "57130",
+        "description": "Secpral COM SRL",
+        "handle": "SECPRAL-AS"
+    },
+    "57132": {
+        "country_code": "RO",
+        "asn": "57132",
+        "description": "Biblioteca Judeteana Panait Istrati Braila",
+        "handle": "BJBRAILA-AS"
+    },
+    "57136": {
+        "country_code": "RO",
+        "asn": "57136",
+        "description": "Viva Telecom SRL",
+        "handle": "VIVATELECOM-AS"
+    },
+    "57176": {
+        "country_code": "RO",
+        "asn": "57176",
+        "description": "ACCESA IT SYSTEMS SRL",
+        "handle": "ACCESA-AS"
+    },
+    "57177": {
+        "country_code": "RO",
+        "asn": "57177",
+        "description": "United Romanian Breweries Bereprod S.R.L.",
+        "handle": "URBB-AS"
+    },
+    "57180": {
+        "country_code": "RO",
+        "asn": "57180",
+        "description": "Star Net Alba SRL",
+        "handle": "STAR-NET-ALBA-AS"
+    },
+    "57185": {
+        "country_code": "RO",
+        "asn": "57185",
+        "description": "LA LORRAINE SRL",
+        "handle": "LA-LORRAINE-AS"
+    },
+    "57217": {
+        "country_code": "RO",
+        "asn": "57217",
+        "description": "GVM Sistem 2003 SRL",
+        "handle": "GVM"
+    },
+    "57275": {
+        "country_code": "RO",
+        "asn": "57275",
+        "description": "DIRECTORATUL NATIONAL DE SECURITATE CIBERNETICA",
+        "handle": "CERTRO-AS"
+    },
+    "57299": {
+        "country_code": "RO",
+        "asn": "57299",
+        "description": "MILICRON RESEARCH SRL",
+        "handle": "MILICRON-AS"
+    },
+    "57316": {
+        "country_code": "RO",
+        "asn": "57316",
+        "description": "MED.CO (MEDICAL COMPANY) SRL",
+        "handle": "MEDCO-ASNUMBER"
+    },
+    "57326": {
+        "country_code": "RO",
+        "asn": "57326",
+        "description": "Infotreat SRL",
+        "handle": "ASN-INFOTREAT"
+    },
+    "57392": {
+        "country_code": "RO",
+        "asn": "57392",
+        "description": "ONLINESHOP SRL",
+        "handle": "ONLINESHOP-AS"
+    },
+    "57403": {
+        "country_code": "RO",
+        "asn": "57403",
+        "description": "HFM S.R.L",
+        "handle": "HAZI"
+    },
+    "57444": {
+        "country_code": "RO",
+        "asn": "57444",
+        "description": "INSTITUTUL NATIONAL DE CERCETARI AEROSPATIALE ELIE CARAFOLI - I.N.C.A.S SA",
+        "handle": "INCAS-AS"
+    },
+    "57446": {
+        "country_code": "RO",
+        "asn": "57446",
+        "description": "Telemont Service S.R.L.",
+        "handle": "TELEMONT-AS"
+    },
+    "57464": {
+        "country_code": "RO",
+        "asn": "57464",
+        "description": "ADI COM SOFT SRL",
+        "handle": "ADI-COM-SOFT-AS"
+    },
+    "57495": {
+        "country_code": "RO",
+        "asn": "57495",
+        "description": "CONNET - RO SRL",
+        "handle": "BSS-ONE"
+    },
+    "57500": {
+        "country_code": "RO",
+        "asn": "57500",
+        "description": "DOCENTRIS SRL",
+        "handle": "DOCENTRIS-AS"
+    },
+    "57514": {
+        "country_code": "RO",
+        "asn": "57514",
+        "description": "Cloudbase Solutions Srl",
+        "handle": "CLOUDBASE-AS"
+    },
+    "57535": {
+        "country_code": "RO",
+        "asn": "57535",
+        "description": "RTV Satellite Net SRL",
+        "handle": "RTV-AS"
+    },
+    "57611": {
+        "country_code": "RO",
+        "asn": "57611",
+        "description": "SOCIETATEA NATIONALA DE GAZE NATURALE ROMGAZ SA",
+        "handle": "ROMGAZ-AS"
+    },
+    "57635": {
+        "country_code": "RO",
+        "asn": "57635",
+        "description": "BLUE LOGIC SRL",
+        "handle": "BLUE-LOGIC-AS"
+    },
+    "57640": {
+        "country_code": "RO",
+        "asn": "57640",
+        "description": "Chroot Network SRL",
+        "handle": "CHROOT-NETWORK"
+    },
+    "57646": {
+        "country_code": "RO",
+        "asn": "57646",
+        "description": "Alef Distribution RO SA",
+        "handle": "ALEF-AS"
+    },
+    "57647": {
+        "country_code": "RO",
+        "asn": "57647",
+        "description": "Baupartner S.R.L.",
+        "handle": "BAUPARTNER-AS"
+    },
+    "57668": {
+        "country_code": "RO",
+        "asn": "57668",
+        "description": "EUROLIFE FFH ASIGURARI DE VIATA S.A.",
+        "handle": "EUROLIFE-AS"
+    },
+    "57746": {
+        "country_code": "RO",
+        "asn": "57746",
+        "description": "Macosoft SRL",
+        "handle": "MACOSOFT-AS"
+    },
+    "57772": {
+        "country_code": "RO",
+        "asn": "57772",
+        "description": "Peaknet SRL",
+        "handle": "PEAKNET-AS"
+    },
+    "57790": {
+        "country_code": "RO",
+        "asn": "57790",
+        "description": "ADMIN SERV LOGISTIC SRL",
+        "handle": "ADMIN-SERV-AS"
+    },
+    "57815": {
+        "country_code": "RO",
+        "asn": "57815",
+        "description": "Netergy Expert Sistems SRL",
+        "handle": "NETERGY-AS"
+    },
+    "57879": {
+        "country_code": "RO",
+        "asn": "57879",
+        "description": "EXIMPROD SERVICII SUPORT SRL",
+        "handle": "EXIMPROD-AS"
+    },
+    "57938": {
+        "country_code": "RO",
+        "asn": "57938",
+        "description": "NETOP TECH SRL",
+        "handle": "NETOP-TECH-AS"
+    },
+    "57964": {
+        "country_code": "RO",
+        "asn": "57964",
+        "description": "ILR LOGISTICA ROMANIA S.R.L.",
+        "handle": "ILR-AS"
+    },
+    "57984": {
+        "country_code": "RO",
+        "asn": "57984",
+        "description": "XINDI Networks SRL",
+        "handle": "XINDI-AS"
+    },
+    "57992": {
+        "country_code": "RO",
+        "asn": "57992",
+        "description": "SCRIBA CRISTIAN INTREPRINDERE INDIVIDUALA",
+        "handle": "SCRIBA-AS"
+    },
+    "58022": {
+        "country_code": "RO",
+        "asn": "58022",
+        "description": "Smart Agency S.R.L.",
+        "handle": "AGE-AS"
+    },
+    "58023": {
+        "country_code": "RO",
+        "asn": "58023",
+        "description": "IT Assist Services SRL",
+        "handle": "IT-ASSIST-AS"
+    },
+    "58028": {
+        "country_code": "RO",
+        "asn": "58028",
+        "description": "Valoris Center Srl",
+        "handle": "VLR-AS"
+    },
+    "58034": {
+        "country_code": "RO",
+        "asn": "58034",
+        "description": "AEROPORTUL INTERNATIONAL AVRAM IANCU CLUJ RA",
+        "handle": "AEROPORTUL-CLUJ-NAPOCA"
+    },
+    "58038": {
+        "country_code": "RO",
+        "asn": "58038",
+        "description": "VERBUND WIND POWER ROMANIA SRL",
+        "handle": "VERBUND-AS"
+    },
+    "58043": {
+        "country_code": "RO",
+        "asn": "58043",
+        "description": "MEDICAROM GROUP SRL",
+        "handle": "MEDICAROM"
+    },
+    "58074": {
+        "country_code": "RO",
+        "asn": "58074",
+        "description": "Internet Resources Management SRL",
+        "handle": "IRM-AS"
+    },
+    "58078": {
+        "country_code": "RO",
+        "asn": "58078",
+        "description": "Mairon Galati SA",
+        "handle": "MAIRON-AS"
+    },
+    "58114": {
+        "country_code": "RO",
+        "asn": "58114",
+        "description": "Vincon Vrancea SA",
+        "handle": "VINCON-AS"
+    },
+    "58126": {
+        "country_code": "RO",
+        "asn": "58126",
+        "description": "VINCI COMMUNICATIONS S.R.L.",
+        "handle": "YERYO"
+    },
+    "58153": {
+        "country_code": "RO",
+        "asn": "58153",
+        "description": "GTS Telecom SRL",
+        "handle": "GTS-TELECOM"
+    },
+    "58170": {
+        "country_code": "RO",
+        "asn": "58170",
+        "description": "PROMPT SERVICE COMPUTER SRL",
+        "handle": "PROMPT-AS"
+    },
+    "58174": {
+        "country_code": "RO",
+        "asn": "58174",
+        "description": "POWER ELECTRIC SRL",
+        "handle": "POWER-ELECTRIC-SRL"
+    },
+    "58175": {
+        "country_code": "RO",
+        "asn": "58175",
+        "description": "AD Auto Total SRL",
+        "handle": "AUTO-TOTAL-AS"
+    },
+    "58195": {
+        "country_code": "RO",
+        "asn": "58195",
+        "description": "MATEROM SRL",
+        "handle": "MATEROM-AS"
+    },
+    "58197": {
+        "country_code": "RO",
+        "asn": "58197",
+        "description": "VARTOS SRL",
+        "handle": "VARTOS"
+    },
+    "58204": {
+        "country_code": "RO",
+        "asn": "58204",
+        "description": "ALPIS PRODUCT SRL",
+        "handle": "ALPIS-AS"
+    },
+    "58218": {
+        "country_code": "RO",
+        "asn": "58218",
+        "description": "DreamServer S.R.L.",
+        "handle": "DREAMSERVER-IX"
+    },
+    "58247": {
+        "country_code": "RO",
+        "asn": "58247",
+        "description": "SC NETVEILLANCE SRL",
+        "handle": "NETVEILLANCE"
+    },
+    "58337": {
+        "country_code": "RO",
+        "asn": "58337",
+        "description": "PRUTUL SA",
+        "handle": "PRUTUL-AS"
+    },
+    "58612": {
+        "country_code": "RO",
+        "asn": "58612",
+        "description": "INTERKVM HOST SRL",
+        "handle": "INTERKVM"
+    },
+    "59398": {
+        "country_code": "RO",
+        "asn": "59398",
+        "description": "InterData Systems SRL",
+        "handle": "IDSYS-AS"
+    },
+    "59400": {
+        "country_code": "RO",
+        "asn": "59400",
+        "description": "INFONOT SYSTEMS S.R.L.",
+        "handle": "INFONOT-AS"
+    },
+    "59401": {
+        "country_code": "RO",
+        "asn": "59401",
+        "description": "Fondul de Garantare a Depozitelor in Sistemul Bancar",
+        "handle": "FGDB-AS"
+    },
+    "59421": {
+        "country_code": "RO",
+        "asn": "59421",
+        "description": "LUC-NET SRL",
+        "handle": "LUC-NET-AS"
+    },
+    "59462": {
+        "country_code": "RO",
+        "asn": "59462",
+        "description": "Comway Telecommunication SRL",
+        "handle": "COMWAY-AS"
+    },
+    "59488": {
+        "country_code": "RO",
+        "asn": "59488",
+        "description": "Intertoy Zone S.R.L.",
+        "handle": "NORIEL"
+    },
+    "59511": {
+        "country_code": "RO",
+        "asn": "59511",
+        "description": "SNGN ROMGAZ SA FILIALA DE INMAGAZINARE GAZE NATURALE DEPOGAZ PLOIESTI SRL",
+        "handle": "SNGNDEPOGAZ"
+    },
+    "59532": {
+        "country_code": "RO",
+        "asn": "59532",
+        "description": "COMETEINET TELECOM SRL",
+        "handle": "COMETEINET-AS"
+    },
+    "59563": {
+        "country_code": "RO",
+        "asn": "59563",
+        "description": "VINCI COMMUNICATIONS S.R.L.",
+        "handle": "YERYO"
+    },
+    "59590": {
+        "country_code": "RO",
+        "asn": "59590",
+        "description": "LINKZONE MEDIA S.R.L.",
+        "handle": "LZM-AS"
+    },
+    "59629": {
+        "country_code": "RO",
+        "asn": "59629",
+        "description": "Cyber Folks SRL",
+        "handle": "CYBER-FOLKS-RO-MULTI-DC"
+    },
+    "59632": {
+        "country_code": "RO",
+        "asn": "59632",
+        "description": "SC PIDGIN HOST SRL",
+        "handle": "PIDGINHOST-AS"
+    },
+    "59677": {
+        "country_code": "RO",
+        "asn": "59677",
+        "description": "SMART TELECOM MEDIA SRL",
+        "handle": "SMART-AS"
+    },
+    "59735": {
+        "country_code": "RO",
+        "asn": "59735",
+        "description": "STAER International SA",
+        "handle": "STAER-AS"
+    },
+    "59765": {
+        "country_code": "RO",
+        "asn": "59765",
+        "description": "MI-PAY Limited Bagshot Sucursala Sibiu",
+        "handle": "MIPAY-AS"
+    },
+    "59784": {
+        "country_code": "RO",
+        "asn": "59784",
+        "description": "NETWORKING CONSULTING SRL",
+        "handle": "NETWORKING-CONSULTIN-AS"
+    },
+    "59854": {
+        "country_code": "RO",
+        "asn": "59854",
+        "description": "Cyber Folks SRL",
+        "handle": "CYBER-FOLKS-RO-SHARED-HOSTING"
+    },
+    "59892": {
+        "country_code": "RO",
+        "asn": "59892",
+        "description": "IT EcoServ SRL",
+        "handle": "IT-ECOSERV-AS"
+    },
+    "59910": {
+        "country_code": "RO",
+        "asn": "59910",
+        "description": "IT&C Experts Network SRL",
+        "handle": "ITCEXPERTS-AS"
+    },
+    "59922": {
+        "country_code": "RO",
+        "asn": "59922",
+        "description": "Marius Florian Dumitrascu",
+        "handle": "RO-FLORIAN"
+    },
+    "59923": {
+        "country_code": "RO",
+        "asn": "59923",
+        "description": "Terrasigna SRL",
+        "handle": "ASRC-AS"
+    },
+    "59934": {
+        "country_code": "RO",
+        "asn": "59934",
+        "description": "Conversion Marketing SRL",
+        "handle": "CONVERSION-AS"
+    },
+    "59938": {
+        "country_code": "RO",
+        "asn": "59938",
+        "description": "Schenker Logistics Romania SA",
+        "handle": "SCHENKER-AS"
+    },
+    "59940": {
+        "country_code": "RO",
+        "asn": "59940",
+        "description": "INTERKVM HOST SRL",
+        "handle": "PMNET"
+    },
+    "59947": {
+        "country_code": "RO",
+        "asn": "59947",
+        "description": "LLHOST INC. SRL",
+        "handle": "LL-IX-ROUTESERVERS"
+    },
+    "59995": {
+        "country_code": "RO",
+        "asn": "59995",
+        "description": "MINIPRIX SRL",
+        "handle": "M-FASHION-AS"
+    },
+    "59999": {
+        "country_code": "RO",
+        "asn": "59999",
+        "description": "WideBits S.R.L.",
+        "handle": "HOSTHUB-AS"
+    },
+    "60026": {
+        "country_code": "RO",
+        "asn": "60026",
+        "description": "EUROEST CAR SRL",
+        "handle": "EUROEST-AS"
+    },
+    "60033": {
+        "country_code": "RO",
+        "asn": "60033",
+        "description": "Softech SRL",
+        "handle": "SOFTECH-AS"
+    },
+    "60078": {
+        "country_code": "RO",
+        "asn": "60078",
+        "description": "NEXTLAN SRL",
+        "handle": "NEXTLAN-AS"
+    },
+    "60088": {
+        "country_code": "RO",
+        "asn": "60088",
+        "description": "Infinity Telecom SRL",
+        "handle": "INFINITY-NETWORK"
+    },
+    "60089": {
+        "country_code": "RO",
+        "asn": "60089",
+        "description": "Conex Distribution SA",
+        "handle": "CONEX-AS"
+    },
+    "60090": {
+        "country_code": "RO",
+        "asn": "60090",
+        "description": "FAN Courier Express SRL",
+        "handle": "FAN-COURIER-AS"
+    },
+    "60100": {
+        "country_code": "RO",
+        "asn": "60100",
+        "description": "VISTA BANK (ROMANIA) S.A.",
+        "handle": "MARFINBANK-ASN"
+    },
+    "60104": {
+        "country_code": "RO",
+        "asn": "60104",
+        "description": "SC Biroul de Credit S.A.",
+        "handle": "RCB-AS"
+    },
+    "60118": {
+        "country_code": "RO",
+        "asn": "60118",
+        "description": "INVITE Systems SRL",
+        "handle": "CYBERSMARTSOLUTIONS-AS"
+    },
+    "60125": {
+        "country_code": "RO",
+        "asn": "60125",
+        "description": "Euroins Romania Asigurare Reasigurare SA",
+        "handle": "EUROINS-AS"
+    },
+    "60149": {
+        "country_code": "RO",
+        "asn": "60149",
+        "description": "NESS ROMANIA SRL",
+        "handle": "NESS-AS"
+    },
+    "60201": {
+        "country_code": "RO",
+        "asn": "60201",
+        "description": "DISTRIBUTIE ENERGIE ELECTRICA ROMANIA S.A.",
+        "handle": "SDEE-AS"
+    },
+    "60303": {
+        "country_code": "RO",
+        "asn": "60303",
+        "description": "LABORMED PHARMA TRADING SRL",
+        "handle": "LABORMED-AS"
+    },
+    "60403": {
+        "country_code": "RO",
+        "asn": "60403",
+        "description": "ENCIU-MOLDOVAN N CONSTANTIN - INTREPRINDERE INDIVIDUALA",
+        "handle": "ENCIU-AS"
+    },
+    "60450": {
+        "country_code": "RO",
+        "asn": "60450",
+        "description": "VEZUVIAN SRL",
+        "handle": "VEZUVIAN-AS"
+    },
+    "60453": {
+        "country_code": "RO",
+        "asn": "60453",
+        "description": "IMPULS CONSTRUCT SRL",
+        "handle": "IMPULS-CONSTRUCT-AS"
+    },
+    "60509": {
+        "country_code": "RO",
+        "asn": "60509",
+        "description": "S 800 Customer Service Provider SRL",
+        "handle": "TELEPERFORMANCE-AS"
+    },
+    "60531": {
+        "country_code": "RO",
+        "asn": "60531",
+        "description": "NACA PROJECT S.R.L.",
+        "handle": "NU-AM-CHEF-AZI-AS"
+    },
+    "60574": {
+        "country_code": "RO",
+        "asn": "60574",
+        "description": "Christian clos",
+        "handle": "CC-NETZ-AS01"
+    },
+    "60583": {
+        "country_code": "RO",
+        "asn": "60583",
+        "description": "SOCIETATEA NATIONALA NUCLEARELECTRICA SA BUCURESTI SUCURSALA CNE CERNAVODA",
+        "handle": "CNE-AS"
+    },
+    "60604": {
+        "country_code": "RO",
+        "asn": "60604",
+        "description": "Primaria Municipiului Calarasi",
+        "handle": "PRIMARIA-CALARASI-AS"
+    },
+    "60615": {
+        "country_code": "RO",
+        "asn": "60615",
+        "description": "COMPANIA NATIONALA POSTA ROMANA S.A.",
+        "handle": "POSTA-ROMANA-AS"
+    },
+    "60644": {
+        "country_code": "RO",
+        "asn": "60644",
+        "description": "Alliance Healthcare Romania S.R.L.",
+        "handle": "FARMEXPERT-AS"
+    },
+    "60657": {
+        "country_code": "RO",
+        "asn": "60657",
+        "description": "Capital Financial Services SA",
+        "handle": "CAPITAL-FINANCIAL-AS"
+    },
+    "60676": {
+        "country_code": "RO",
+        "asn": "60676",
+        "description": "HORIA GREEN SRL",
+        "handle": "HORIA-GREEN-AS"
+    },
+    "60694": {
+        "country_code": "RO",
+        "asn": "60694",
+        "description": "PARTENER SRL",
+        "handle": "PARTENER-AS"
+    },
+    "60696": {
+        "country_code": "RO",
+        "asn": "60696",
+        "description": "AROELENA SRL",
+        "handle": "AROELENA-AS"
+    },
+    "60709": {
+        "country_code": "RO",
+        "asn": "60709",
+        "description": "Transilvania General Import Export S.R.L.",
+        "handle": "TGIE-AS"
+    },
+    "60761": {
+        "country_code": "RO",
+        "asn": "60761",
+        "description": "Daha Software SRL",
+        "handle": "DAHAS-AS"
+    },
+    "60766": {
+        "country_code": "RO",
+        "asn": "60766",
+        "description": "Tata Technologies SRL",
+        "handle": "TATA-TECH-AS"
+    },
+    "60905": {
+        "country_code": "RO",
+        "asn": "60905",
+        "description": "EUDC Cloud SRL",
+        "handle": "EUDC-CLOUD-AS"
+    },
+    "60907": {
+        "country_code": "RO",
+        "asn": "60907",
+        "description": "MIRDARA SRL",
+        "handle": "MIRDARA-AS"
+    },
+    "60909": {
+        "country_code": "RO",
+        "asn": "60909",
+        "description": "NETXPERT CONNECT SRL",
+        "handle": "NXPT-HM-AS"
+    },
+    "60982": {
+        "country_code": "RO",
+        "asn": "60982",
+        "description": "X-ZONE IT SRL",
+        "handle": "XZONE"
+    },
+    "60984": {
+        "country_code": "RO",
+        "asn": "60984",
+        "description": "SPICE TELECOM SRL",
+        "handle": "SPICERO"
+    },
+    "60985": {
+        "country_code": "RO",
+        "asn": "60985",
+        "description": "AMBER STUDIO S.R.L.",
+        "handle": "AMBERSTUDIO-AS"
+    },
+    "60995": {
+        "country_code": "RO",
+        "asn": "60995",
+        "description": "TURBOMECANICA S.A.",
+        "handle": "TURBOMECANICA-AS"
+    },
+    "60996": {
+        "country_code": "RO",
+        "asn": "60996",
+        "description": "VISION TECHNOLOGY DEVELOPMENT SRL",
+        "handle": "VISION-AS"
+    },
+    "60998": {
+        "country_code": "RO",
+        "asn": "60998",
+        "description": "LEX MEDIA CONCEPTS SRL",
+        "handle": "DIRECTHOST-AS"
+    },
+    "61002": {
+        "country_code": "RO",
+        "asn": "61002",
+        "description": "Smart Solutions & Soft SRL",
+        "handle": "SMART-SOLUTIONS-AS"
+    },
+    "61033": {
+        "country_code": "RO",
+        "asn": "61033",
+        "description": "TOYOTA ROMANIA SRL",
+        "handle": "TOYOTA-AS"
+    },
+    "61050": {
+        "country_code": "RO",
+        "asn": "61050",
+        "description": "Innova Engineering SRL",
+        "handle": "INNOVA-AS"
+    },
+    "61096": {
+        "country_code": "RO",
+        "asn": "61096",
+        "description": "Realmedia Network S.A.",
+        "handle": "REALMEDIA-AS"
+    },
+    "61115": {
+        "country_code": "RO",
+        "asn": "61115",
+        "description": "LA FANTANA SRL",
+        "handle": "LA-FANTANA-AS"
+    },
+    "61120": {
+        "country_code": "RO",
+        "asn": "61120",
+        "description": "Hostbit SRL",
+        "handle": "HOSTBIT"
+    },
+    "61139": {
+        "country_code": "RO",
+        "asn": "61139",
+        "description": "TV TEOMAR SRL",
+        "handle": "TV-TEOMAR-AS"
+    },
+    "61179": {
+        "country_code": "RO",
+        "asn": "61179",
+        "description": "IBM Romania SRL",
+        "handle": "IBM-ROMANIA"
+    },
+    "61210": {
+        "country_code": "RO",
+        "asn": "61210",
+        "description": "Materialism s.r.l.",
+        "handle": "PRIVACTUALLY-AS"
+    },
+    "61225": {
+        "country_code": "RO",
+        "asn": "61225",
+        "description": "Building Support Services SRL",
+        "handle": "BSS-AS"
+    },
+    "61243": {
+        "country_code": "RO",
+        "asn": "61243",
+        "description": "ABC Plus Media S.A.",
+        "handle": "NAT-TV"
+    },
+    "61278": {
+        "country_code": "RO",
+        "asn": "61278",
+        "description": "Alttab Profit SRL",
+        "handle": "FIRSTIT-AS"
+    },
+    "61279": {
+        "country_code": "RO",
+        "asn": "61279",
+        "description": "CHIMCOMPLEX SA BORZESTI",
+        "handle": "CHIMCOMPLEX-AS"
+    },
+    "61353": {
+        "country_code": "RO",
+        "asn": "61353",
+        "description": "INSTITUTUL NATIONAL DE CERCETARE DEZVOLTARE PENTRU FIZICA LASERILOR PLASMEI SI RADIATEI - INFLPR RA",
+        "handle": "INFLPR-AS"
+    },
+    "61389": {
+        "country_code": "RO",
+        "asn": "61389",
+        "description": "RARTEL SA",
+        "handle": "RARTEL-AS"
+    },
+    "61412": {
+        "country_code": "RO",
+        "asn": "61412",
+        "description": "Alta Lingua SRL",
+        "handle": "ALTA-LINGUA-AS"
+    },
+    "61958": {
+        "country_code": "RO",
+        "asn": "61958",
+        "description": "ASIST TELECOMMUNICATIONS SRL",
+        "handle": "ASIST-TELECOM-AS"
+    },
+    "62030": {
+        "country_code": "RO",
+        "asn": "62030",
+        "description": "FRESENIUS MEDICAL CARE ROMANIA SRL",
+        "handle": "FMC-AS"
+    },
+    "62032": {
+        "country_code": "RO",
+        "asn": "62032",
+        "description": "MILLENIUM PRO DESIGN SRL",
+        "handle": "BESTVALUE-AS"
+    },
+    "62034": {
+        "country_code": "RO",
+        "asn": "62034",
+        "description": "BGS DIVIZIA DE SECURITATE SRL",
+        "handle": "BGS-AS"
+    },
+    "62042": {
+        "country_code": "RO",
+        "asn": "62042",
+        "description": "IFB FINWEST SA",
+        "handle": "IFB-FINWEST-AS"
+    },
+    "62053": {
+        "country_code": "RO",
+        "asn": "62053",
+        "description": "Dynamic Parcel Distribution SA",
+        "handle": "DPD-RO"
+    },
+    "62074": {
+        "country_code": "RO",
+        "asn": "62074",
+        "description": "SOLUTIONS CENTER SRL",
+        "handle": "SOL-CENTER-AS"
+    },
+    "62101": {
+        "country_code": "RO",
+        "asn": "62101",
+        "description": "COMPANIA NATIONALA AEROPORTURI BUCURESTI SA",
+        "handle": "CNAB-AS"
+    },
+    "62114": {
+        "country_code": "RO",
+        "asn": "62114",
+        "description": "GARMIN Cluj SRL",
+        "handle": "GARMIN-AS"
+    },
+    "62124": {
+        "country_code": "RO",
+        "asn": "62124",
+        "description": "Universal Card Systems SA",
+        "handle": "UCS-AS"
+    },
+    "62127": {
+        "country_code": "RO",
+        "asn": "62127",
+        "description": "Elgeka-Ferfelis Romania SA",
+        "handle": "ELGEKA-FERFELIS-AS"
+    },
+    "62151": {
+        "country_code": "RO",
+        "asn": "62151",
+        "description": "CROMTEL MEDIA GROUP SRL",
+        "handle": "CROMTEL-AS"
+    },
+    "62162": {
+        "country_code": "RO",
+        "asn": "62162",
+        "description": "GES Services SRL",
+        "handle": "GES-AS"
+    },
+    "62185": {
+        "country_code": "RO",
+        "asn": "62185",
+        "description": "Ricci SDC SRL",
+        "handle": "RICCI-AS"
+    },
+    "62226": {
+        "country_code": "RO",
+        "asn": "62226",
+        "description": "Anais Software Services SRL",
+        "handle": "ANAIS-AS"
+    },
+    "62279": {
+        "country_code": "RO",
+        "asn": "62279",
+        "description": "Autoritatea Navala Romana",
+        "handle": "ANR-AS"
+    },
+    "62302": {
+        "country_code": "RO",
+        "asn": "62302",
+        "description": "Soft Dreams SRL",
+        "handle": "SOFT-DREAMS-AS"
+    },
+    "62306": {
+        "country_code": "RO",
+        "asn": "62306",
+        "description": "8x8 Research and Innovations SRL",
+        "handle": "RO-8X8-AS"
+    },
+    "62307": {
+        "country_code": "RO",
+        "asn": "62307",
+        "description": "LAND POWER SRL",
+        "handle": "LAND-POWER-AS"
+    },
+    "62311": {
+        "country_code": "RO",
+        "asn": "62311",
+        "description": "Intersensor SRL",
+        "handle": "INTERSENSOR-AS"
+    },
+    "62315": {
+        "country_code": "RO",
+        "asn": "62315",
+        "description": "NN Lease SRL",
+        "handle": "NN-LEASE-AS"
+    },
+    "62322": {
+        "country_code": "RO",
+        "asn": "62322",
+        "description": "YONDER SRL",
+        "handle": "YONDER-AS"
+    },
+    "62329": {
+        "country_code": "RO",
+        "asn": "62329",
+        "description": "TEAM FIRST SOFTWARE & CONSULTING S.R.L.",
+        "handle": "TEAMSOFTWARE-AS"
+    },
+    "62335": {
+        "country_code": "RO",
+        "asn": "62335",
+        "description": "Global Remote Services S.R.L.",
+        "handle": "GLOBAL-REMOTE-SERVICES-AS"
+    },
+    "62342": {
+        "country_code": "RO",
+        "asn": "62342",
+        "description": "AROBS TRANSILVANIA SOFTWARE S.A.",
+        "handle": "ATS1-AS"
+    },
+    "62350": {
+        "country_code": "RO",
+        "asn": "62350",
+        "description": "INFRAWEB MANAGE SERVICES PROVIDER S.R.L.",
+        "handle": "INFRAWEB-AS"
+    },
+    "62380": {
+        "country_code": "RO",
+        "asn": "62380",
+        "description": "Bunea TELECOM SRL",
+        "handle": "BUNEA-HIGH-PEER-NETWORK"
+    },
+    "62388": {
+        "country_code": "RO",
+        "asn": "62388",
+        "description": "GENERAL RETAIL & CONSTRUCT S.R.L",
+        "handle": "INTER-LINKS-AS"
+    },
+    "62390": {
+        "country_code": "RO",
+        "asn": "62390",
+        "description": "NexonHost Srl",
+        "handle": "NEXONHOST"
+    },
+    "62445": {
+        "country_code": "RO",
+        "asn": "62445",
+        "description": "ADA TEL SERVICES SRL",
+        "handle": "AS62445"
+    },
+    "62448": {
+        "country_code": "RO",
+        "asn": "62448",
+        "description": "WAVEZONE SRL",
+        "handle": "WAVEZONE-AS"
+    },
+    "64398": {
+        "country_code": "RO",
+        "asn": "64398",
+        "description": "NXTSERVERS SRL",
+        "handle": "NXTHOST-64398"
+    },
+    "64417": {
+        "country_code": "RO",
+        "asn": "64417",
+        "description": "BROWNIAN LABS SRL",
+        "handle": "BROWNIAN-AS"
+    },
+    "64441": {
+        "country_code": "RO",
+        "asn": "64441",
+        "description": "Conectix Internet SRL",
+        "handle": "CONECTIX-AS"
+    },
+    "64471": {
+        "country_code": "RO",
+        "asn": "64471",
+        "description": "ABC ASIGURARI REASIGURARI SA",
+        "handle": "ABC-ASIGURARI-AS"
+    },
+    "197065": {
+        "country_code": "RO",
+        "asn": "197065",
+        "description": "SC Smartree Romania SRL",
+        "handle": "STRO"
+    },
+    "197134": {
+        "country_code": "RO",
+        "asn": "197134",
+        "description": "Societatea de Transfer de Fonduri si Decontari TRANSFOND SA",
+        "handle": "TRANSFOND-AS"
+    },
+    "197357": {
+        "country_code": "RO",
+        "asn": "197357",
+        "description": "Chrominance SRL",
+        "handle": "CHROMINANCE-AS"
+    },
+    "197432": {
+        "country_code": "RO",
+        "asn": "197432",
+        "description": "HOSTEAZA S.R.L.",
+        "handle": "HOSTEAZA-SRL"
+    },
+    "197476": {
+        "country_code": "RO",
+        "asn": "197476",
+        "description": "RoSite Equipment SRL",
+        "handle": "REQ"
+    },
+    "198099": {
+        "country_code": "RO",
+        "asn": "198099",
+        "description": "S.C. Asseco See SRL",
+        "handle": "ASSECO-NET"
+    },
+    "198173": {
+        "country_code": "RO",
+        "asn": "198173",
+        "description": "Paragon Customer Communications Romania S.R.L.",
+        "handle": "PARAGON-MNT"
+    },
+    "198373": {
+        "country_code": "RO",
+        "asn": "198373",
+        "description": "AIRBYTES COMMUNICATIONS SRL",
+        "handle": "AIRBYTES-ROMANIA"
+    },
+    "198447": {
+        "country_code": "RO",
+        "asn": "198447",
+        "description": "Mercury Lighting SRL",
+        "handle": "TB-NET"
+    },
+    "198458": {
+        "country_code": "RO",
+        "asn": "198458",
+        "description": "Electro Orizont SRL",
+        "handle": "ELECTRO-ORIZONT"
+    },
+    "198574": {
+        "country_code": "RO",
+        "asn": "198574",
+        "description": "AVIROMS RENT-A-CAR S.R.L.",
+        "handle": "AVIROMS-RENT-A-CAR-SRL-AS"
+    },
+    "198879": {
+        "country_code": "RO",
+        "asn": "198879",
+        "description": "Stan Alexandra",
+        "handle": "ALEXANDRA"
+    },
+    "198914": {
+        "country_code": "RO",
+        "asn": "198914",
+        "description": "WIND POWER ENERGY SRL",
+        "handle": "WPE-AS"
+    },
+    "199071": {
+        "country_code": "RO",
+        "asn": "199071",
+        "description": "3PILLAR GLOBAL SRL",
+        "handle": "NET-3PILLAR"
+    },
+    "199189": {
+        "country_code": "RO",
+        "asn": "199189",
+        "description": "CHAMBER OF COMMERCE AND INDUSTRY OF ROMANIA",
+        "handle": "CCIR-AS"
+    },
+    "199429": {
+        "country_code": "RO",
+        "asn": "199429",
+        "description": "PFA Dinu Laurentiu Viorel",
+        "handle": "DYON-AS"
+    },
+    "199498": {
+        "country_code": "RO",
+        "asn": "199498",
+        "description": "Adrem Invest SRL",
+        "handle": "ADREM-AS"
+    },
+    "199513": {
+        "country_code": "RO",
+        "asn": "199513",
+        "description": "Universitatea de Vest din Timisoara",
+        "handle": "UVT-AS"
+    },
+    "200298": {
+        "country_code": "RO",
+        "asn": "200298",
+        "description": "Bipnet Computer SRL",
+        "handle": "BIPNET-COMPUTER"
+    },
+    "200492": {
+        "country_code": "RO",
+        "asn": "200492",
+        "description": "Danube Shipping & Trading S.R.L.",
+        "handle": "TRADINGLINE-AS"
+    },
+    "200566": {
+        "country_code": "RO",
+        "asn": "200566",
+        "description": "ANARCHY LAB S.R.L.",
+        "handle": "ANARCHY-LAB"
+    },
+    "200578": {
+        "country_code": "RO",
+        "asn": "200578",
+        "description": "MIHAI CEZAR OPTIM S.R.L",
+        "handle": "MIHAICEZAROPTIM"
+    },
+    "200749": {
+        "country_code": "RO",
+        "asn": "200749",
+        "description": "ITDATA TELECOM SRL",
+        "handle": "ITDATA-TELECOM"
+    },
+    "200826": {
+        "country_code": "RO",
+        "asn": "200826",
+        "description": "S.C DAILY SOLUTIONS S.R.L",
+        "handle": "DAILY-SOL"
+    },
+    "201048": {
+        "country_code": "RO",
+        "asn": "201048",
+        "description": "Denis Terehov",
+        "handle": "TEREHOV-AS"
+    },
+    "201190": {
+        "country_code": "RO",
+        "asn": "201190",
+        "description": "Voxbee Services SRL",
+        "handle": "VOXBEE-SERVICES"
+    },
+    "201308": {
+        "country_code": "RO",
+        "asn": "201308",
+        "description": "Castlegem SRL",
+        "handle": "CASTLEGEM"
+    },
+    "201334": {
+        "country_code": "RO",
+        "asn": "201334",
+        "description": "Luxoft Professional Romania S.R.L.",
+        "handle": "LUX-CH"
+    },
+    "201381": {
+        "country_code": "RO",
+        "asn": "201381",
+        "description": "Luxoft Professional Romania S.R.L.",
+        "handle": "LUX-RS-BG"
+    },
+    "201382": {
+        "country_code": "RO",
+        "asn": "201382",
+        "description": "Luxoft Professional Romania S.R.L.",
+        "handle": "LUX-RS-BLG-ACB"
+    },
+    "201383": {
+        "country_code": "RO",
+        "asn": "201383",
+        "description": "Luxoft Professional Romania S.R.L.",
+        "handle": "LUX-DE-FD"
+    },
+    "201384": {
+        "country_code": "RO",
+        "asn": "201384",
+        "description": "Luxoft Professional Romania S.R.L.",
+        "handle": "LUX-BG-SOFIA"
+    },
+    "201385": {
+        "country_code": "RO",
+        "asn": "201385",
+        "description": "Luxoft Professional Romania S.R.L.",
+        "handle": "LUX-DE-FIELD"
+    },
+    "201387": {
+        "country_code": "RO",
+        "asn": "201387",
+        "description": "Luxoft Professional Romania S.R.L.",
+        "handle": "LUX-ROMANIA-DC"
+    },
+    "201388": {
+        "country_code": "RO",
+        "asn": "201388",
+        "description": "Luxoft Professional Romania S.R.L.",
+        "handle": "LUX-PL-KRAKOV"
+    },
+    "201482": {
+        "country_code": "RO",
+        "asn": "201482",
+        "description": "Luxoft Professional Romania S.R.L.",
+        "handle": "UA-LUX"
+    },
+    "201485": {
+        "country_code": "RO",
+        "asn": "201485",
+        "description": "Luxoft Professional Romania S.R.L.",
+        "handle": "LUX-RS-BG"
+    },
+    "201486": {
+        "country_code": "RO",
+        "asn": "201486",
+        "description": "Luxoft Professional Romania S.R.L.",
+        "handle": "LUX-EG-C"
+    },
+    "201490": {
+        "country_code": "RO",
+        "asn": "201490",
+        "description": "Luxoft Professional Romania S.R.L.",
+        "handle": "LUX-RS-BG"
+    },
+    "201805": {
+        "country_code": "RO",
+        "asn": "201805",
+        "description": "SYKES ENTERPRISES EASTERN EUROPE SRL",
+        "handle": "SYKES-ASN"
+    },
+    "201909": {
+        "country_code": "RO",
+        "asn": "201909",
+        "description": "INTELI TECH DEVELOPMENT SRL",
+        "handle": "INTELI-TECH-DEVELOPMENT-SRL"
+    },
+    "202003": {
+        "country_code": "RO",
+        "asn": "202003",
+        "description": "Avast Software Romania S.R.L.",
+        "handle": "RO-AVIRASOFT"
+    },
+    "202143": {
+        "country_code": "RO",
+        "asn": "202143",
+        "description": "Digital Cable Systems S.A.",
+        "handle": "AKTA26"
+    },
+    "202151": {
+        "country_code": "RO",
+        "asn": "202151",
+        "description": "Andrei-Alexandru Bleortu",
+        "handle": "IRIX-SYSTEMS"
+    },
+    "202183": {
+        "country_code": "RO",
+        "asn": "202183",
+        "description": "SIGNAL IDUNA ASIGURARE REASIGURARE S.A.",
+        "handle": "SIGNAL-IDUNA-AS"
+    },
+    "202203": {
+        "country_code": "RO",
+        "asn": "202203",
+        "description": "D-NET Communication Services SRL",
+        "handle": "D-NET-COM-AS"
+    },
+    "202260": {
+        "country_code": "RO",
+        "asn": "202260",
+        "description": "GAMESHIELD HOSTING SOLUTIONS S.R.L",
+        "handle": "GABRIEL-AS"
+    },
+    "202332": {
+        "country_code": "RO",
+        "asn": "202332",
+        "description": "SWAT FORCE SRL",
+        "handle": "SWAT-FORCE"
+    },
+    "202637": {
+        "country_code": "RO",
+        "asn": "202637",
+        "description": "TAZ IT SERVICES SRL",
+        "handle": "TAZ-AS"
+    },
+    "202779": {
+        "country_code": "RO",
+        "asn": "202779",
+        "description": "EVOBITS Information Technology SRL",
+        "handle": "EVOBITS"
+    },
+    "202842": {
+        "country_code": "RO",
+        "asn": "202842",
+        "description": "SC HIGH-TECH SYSTEM&SOFTWARE SRL",
+        "handle": "ASNHTSS"
+    },
+    "202934": {
+        "country_code": "RO",
+        "asn": "202934",
+        "description": "Munteanu Cornel Ilarie trading as sincityhosting llc",
+        "handle": "MUNTEANU-AS"
+    },
+    "203053": {
+        "country_code": "RO",
+        "asn": "203053",
+        "description": "CLAUS WEB srl",
+        "handle": "CLAUSWEB"
+    },
+    "203305": {
+        "country_code": "RO",
+        "asn": "203305",
+        "description": "NCI Genomics SRL",
+        "handle": "NCI-GENOMICS"
+    },
+    "203574": {
+        "country_code": "RO",
+        "asn": "203574",
+        "description": "Conect Intercom SRL",
+        "handle": "CONECTX-AS"
+    },
+    "203721": {
+        "country_code": "RO",
+        "asn": "203721",
+        "description": "GS1 DATA SYSTEMS SRL",
+        "handle": "GS1-DATA-SYSTEMS"
+    },
+    "203775": {
+        "country_code": "RO",
+        "asn": "203775",
+        "description": "NEXT LEVEL BUSINESS SRL",
+        "handle": "THERME-NORD-BUCURESTI-SRL"
+    },
+    "203809": {
+        "country_code": "RO",
+        "asn": "203809",
+        "description": "DataNode DC SRL",
+        "handle": "WEBPAL"
+    },
+    "203929": {
+        "country_code": "RO",
+        "asn": "203929",
+        "description": "NEXT LEVEL BUSINESS SRL",
+        "handle": "NEXT-LEVEL-BUSINESS-SRL"
+    },
+    "203942": {
+        "country_code": "RO",
+        "asn": "203942",
+        "description": "CLOUDWEB LAYER S.R.L.",
+        "handle": "CLOUDWEB-LAYER"
+    },
+    "203960": {
+        "country_code": "RO",
+        "asn": "203960",
+        "description": "Rack-Soft SRL",
+        "handle": "HUBGETS-ASN"
+    },
+    "203992": {
+        "country_code": "RO",
+        "asn": "203992",
+        "description": "NOVANEX SRL",
+        "handle": "NOVANEX-AS"
+    },
+    "204111": {
+        "country_code": "RO",
+        "asn": "204111",
+        "description": "TechVentures Bank S.A.",
+        "handle": "TVB"
+    },
+    "204156": {
+        "country_code": "RO",
+        "asn": "204156",
+        "description": "AdalysNET SRL",
+        "handle": "ASADALYSNET"
+    },
+    "204157": {
+        "country_code": "RO",
+        "asn": "204157",
+        "description": "RENTROP & STRATON SRL",
+        "handle": "ASRENTROP"
+    },
+    "204184": {
+        "country_code": "RO",
+        "asn": "204184",
+        "description": "PTR LIVE TECHNOLOGIES SRL",
+        "handle": "PTROMANIA"
+    },
+    "204214": {
+        "country_code": "RO",
+        "asn": "204214",
+        "description": "ARPANET CONSULTING S.R.L.",
+        "handle": "ARPANET-AS"
+    },
+    "204221": {
+        "country_code": "RO",
+        "asn": "204221",
+        "description": "ATP-EXODUS SRL",
+        "handle": "ATP"
+    },
+    "204603": {
+        "country_code": "RO",
+        "asn": "204603",
+        "description": "LOWPINGS DIGITAL SERVICES S.R.L",
+        "handle": "LOWPINGS-DIGITAL-SERVICES"
+    },
+    "204616": {
+        "country_code": "RO",
+        "asn": "204616",
+        "description": "PTR LIVE TECHNOLOGIES SRL",
+        "handle": "PTSPAIN"
+    },
+    "204632": {
+        "country_code": "RO",
+        "asn": "204632",
+        "description": "TAIASOFT SRL",
+        "handle": "TAIASOFT-AS"
+    },
+    "204641": {
+        "country_code": "RO",
+        "asn": "204641",
+        "description": "HOSTGW SRL",
+        "handle": "ECOMPUTE"
+    },
+    "204859": {
+        "country_code": "RO",
+        "asn": "204859",
+        "description": "Ciprian Ionescu",
+        "handle": "CIP"
+    },
+    "204972": {
+        "country_code": "RO",
+        "asn": "204972",
+        "description": "Next One World SRL",
+        "handle": "NEXT-ONE-STORE"
+    },
+    "204992": {
+        "country_code": "RO",
+        "asn": "204992",
+        "description": "Asiimov Technologies SRL",
+        "handle": "ASIIMOV-TECH"
+    },
+    "205001": {
+        "country_code": "RO",
+        "asn": "205001",
+        "description": "XTEK Invest SRL",
+        "handle": "XTEK-INVEST"
+    },
+    "205031": {
+        "country_code": "RO",
+        "asn": "205031",
+        "description": "UPC DIGITAL INFRASTRUCTURE ROMANIA S.R.L.",
+        "handle": "DIGITAL-INFRA-RO-AS"
+    },
+    "205038": {
+        "country_code": "RO",
+        "asn": "205038",
+        "description": "FORCE 1 DIVIZIA DE SECURITATE SRL",
+        "handle": "FORCE1"
+    },
+    "205071": {
+        "country_code": "RO",
+        "asn": "205071",
+        "description": "Christian clos",
+        "handle": "CC-NETZ-AS03"
+    },
+    "205087": {
+        "country_code": "RO",
+        "asn": "205087",
+        "description": "ONE SOFTWARE SRL",
+        "handle": "ONESOFTWARE"
+    },
+    "205095": {
+        "country_code": "RO",
+        "asn": "205095",
+        "description": "Meridian Business Grup SRL",
+        "handle": "MERIDIAN-BUSINESS-GRUP"
+    },
+    "205275": {
+        "country_code": "RO",
+        "asn": "205275",
+        "description": "ROMARG SRL",
+        "handle": "ROMARG"
+    },
+    "205414": {
+        "country_code": "RO",
+        "asn": "205414",
+        "description": "Gabriel Leonte",
+        "handle": "NERDLAB"
+    },
+    "205539": {
+        "country_code": "RO",
+        "asn": "205539",
+        "description": "URZICA CRISTIAN",
+        "handle": "AS-UZC"
+    },
+    "205859": {
+        "country_code": "RO",
+        "asn": "205859",
+        "description": "Newmark Technology S.R.L.",
+        "handle": "COLOMBE-SDC-AS"
+    },
+    "205861": {
+        "country_code": "RO",
+        "asn": "205861",
+        "description": "Unitatea Militara 02630",
+        "handle": "AGAT-AS"
+    },
+    "205941": {
+        "country_code": "RO",
+        "asn": "205941",
+        "description": "Lungu Stefan Gabriel",
+        "handle": "LSG"
+    },
+    "206001": {
+        "country_code": "RO",
+        "asn": "206001",
+        "description": "LNK SYSTEMS MUNTENIA SRL",
+        "handle": "LNK-SYS"
+    },
+    "206275": {
+        "country_code": "RO",
+        "asn": "206275",
+        "description": "FLAMINGHOST SRL",
+        "handle": "FLAMINGHOST-AS"
+    },
+    "206382": {
+        "country_code": "RO",
+        "asn": "206382",
+        "description": "NEXT START SRL",
+        "handle": "NEXTSTART"
+    },
+    "206431": {
+        "country_code": "RO",
+        "asn": "206431",
+        "description": "AC&CA Consulting Services SRL",
+        "handle": "ACCA-AS"
+    },
+    "206447": {
+        "country_code": "RO",
+        "asn": "206447",
+        "description": "LLHOST INC. SRL",
+        "handle": "LLHOST-IX"
+    },
+    "206486": {
+        "country_code": "RO",
+        "asn": "206486",
+        "description": "AXIONET IOT SA",
+        "handle": "AXIONET"
+    },
+    "206491": {
+        "country_code": "RO",
+        "asn": "206491",
+        "description": "BANATSYNC SRL",
+        "handle": "BANATSYNC"
+    },
+    "206510": {
+        "country_code": "RO",
+        "asn": "206510",
+        "description": "Romav Comunicatii SRL",
+        "handle": "ROMAV-COMUNICATII"
+    },
+    "206763": {
+        "country_code": "RO",
+        "asn": "206763",
+        "description": "XINDI Networks SRL",
+        "handle": "XINDI-DINKY-AS"
+    },
+    "206788": {
+        "country_code": "RO",
+        "asn": "206788",
+        "description": "Razvan Zeces",
+        "handle": "RAZVAN-ZECES"
+    },
+    "207115": {
+        "country_code": "RO",
+        "asn": "207115",
+        "description": "AMC SRL",
+        "handle": "UNITED-AS"
+    },
+    "207129": {
+        "country_code": "RO",
+        "asn": "207129",
+        "description": "Universitatea de Stiinte Agronomice si Medicina Veterinara Bucuresti",
+        "handle": "USAMV"
+    },
+    "207148": {
+        "country_code": "RO",
+        "asn": "207148",
+        "description": "I.O.S. Software Solutions SRL",
+        "handle": "IOSS-AS"
+    },
+    "207675": {
+        "country_code": "RO",
+        "asn": "207675",
+        "description": "LBP MERCADO EXPRESS S.R.L.",
+        "handle": "LBPMERCADOEXPRESS"
+    },
+    "207679": {
+        "country_code": "RO",
+        "asn": "207679",
+        "description": "Smart 2 Host INC SRL",
+        "handle": "SMART2HOST-AS"
+    },
+    "207703": {
+        "country_code": "RO",
+        "asn": "207703",
+        "description": "Right Angle SRL",
+        "handle": "RIGHT-ANGLE"
+    },
+    "207737": {
+        "country_code": "RO",
+        "asn": "207737",
+        "description": "NOVA SYSTEM GRUP SRL",
+        "handle": "ASNOVA"
+    },
+    "207743": {
+        "country_code": "RO",
+        "asn": "207743",
+        "description": "SC Aside MCD SRL",
+        "handle": "ASIDE-AS"
+    },
+    "207752": {
+        "country_code": "RO",
+        "asn": "207752",
+        "description": "BRANDL RO S.R.L.",
+        "handle": "BRANDL-AS"
+    },
+    "207783": {
+        "country_code": "RO",
+        "asn": "207783",
+        "description": "Exolon Planet S.R.L.",
+        "handle": "MANOLO"
+    },
+    "207913": {
+        "country_code": "RO",
+        "asn": "207913",
+        "description": "NEXT LEVEL BUSINESS SRL",
+        "handle": "CLAR-TELEVISON-SRL"
+    },
+    "207958": {
+        "country_code": "RO",
+        "asn": "207958",
+        "description": "GLS General Logistics Systems Romania SRL",
+        "handle": "GLSROMANIA"
+    },
+    "208096": {
+        "country_code": "RO",
+        "asn": "208096",
+        "description": "Serviciul de Telecomunicatii Speciale",
+        "handle": "SNUAU"
+    },
+    "208137": {
+        "country_code": "RO",
+        "asn": "208137",
+        "description": "Feo Prest SRL",
+        "handle": "FPS12"
+    },
+    "208179": {
+        "country_code": "RO",
+        "asn": "208179",
+        "description": "Pro Active Computers SRL",
+        "handle": "ACTIVECLOUD"
+    },
+    "208185": {
+        "country_code": "RO",
+        "asn": "208185",
+        "description": "Net Gate Telecom S.R.L.",
+        "handle": "NETGATE-SOLUTION-AS"
+    },
+    "208445": {
+        "country_code": "RO",
+        "asn": "208445",
+        "description": "Infinity Capital Investments SA",
+        "handle": "INFINITY-CAP-INV"
+    },
+    "208475": {
+        "country_code": "RO",
+        "asn": "208475",
+        "description": "NRG Evolution srl",
+        "handle": "NRG"
+    },
+    "208776": {
+        "country_code": "RO",
+        "asn": "208776",
+        "description": "Advanced Business Software S.R.L.",
+        "handle": "ABS"
+    },
+    "209157": {
+        "country_code": "RO",
+        "asn": "209157",
+        "description": "GENERIX SOFT GROUP ROMANIA SRL",
+        "handle": "GENERIX-SOFT-GROUP-ROMANIA"
+    },
+    "209252": {
+        "country_code": "RO",
+        "asn": "209252",
+        "description": "PGL ESPORTS SRL",
+        "handle": "PGLESPORTS-MAIN"
+    },
+    "209433": {
+        "country_code": "RO",
+        "asn": "209433",
+        "description": "COMTEL TOTAL-NETWORKS SRL",
+        "handle": "ASNCMTL"
+    },
+    "209644": {
+        "country_code": "RO",
+        "asn": "209644",
+        "description": "SCIT TEHNOLOGY SRL",
+        "handle": "SCIT-TEHNOLOGY"
+    },
+    "209652": {
+        "country_code": "RO",
+        "asn": "209652",
+        "description": "LUNGU Cristian",
+        "handle": "TZEPESH"
+    },
+    "209767": {
+        "country_code": "RO",
+        "asn": "209767",
+        "description": "SAMTECO SERV SRL",
+        "handle": "SAMTECO"
+    },
+    "209820": {
+        "country_code": "RO",
+        "asn": "209820",
+        "description": "Bitwise Ops SRL",
+        "handle": "BITWISEOPS"
+    },
+    "209856": {
+        "country_code": "RO",
+        "asn": "209856",
+        "description": "Soft Technica SRL",
+        "handle": "SOFT-TEHNICA"
+    },
+    "209882": {
+        "country_code": "RO",
+        "asn": "209882",
+        "description": "CNET SRL",
+        "handle": "CNET"
+    },
+    "209951": {
+        "country_code": "RO",
+        "asn": "209951",
+        "description": "ByteShield Hosting S.R.L.",
+        "handle": "STEFAN"
+    },
+    "210060": {
+        "country_code": "RO",
+        "asn": "210060",
+        "description": "NetcoRR Synergies SRL",
+        "handle": "NETCORR-SMSS-AS"
+    },
+    "210141": {
+        "country_code": "RO",
+        "asn": "210141",
+        "description": "CIVITAS PSG SA",
+        "handle": "CIVITAS-AS"
+    },
+    "210343": {
+        "country_code": "RO",
+        "asn": "210343",
+        "description": "IRUM SA",
+        "handle": "IRUM2-AS"
+    },
+    "210622": {
+        "country_code": "RO",
+        "asn": "210622",
+        "description": "Kicked SRL",
+        "handle": "KICKED-SRL"
+    },
+    "210709": {
+        "country_code": "RO",
+        "asn": "210709",
+        "description": "OPTICAL DATACOM SRL",
+        "handle": "RO-ODC-AS"
+    },
+    "210713": {
+        "country_code": "RO",
+        "asn": "210713",
+        "description": "Coresi Netlink SRL",
+        "handle": "CORESI-NETLINK"
+    },
+    "210718": {
+        "country_code": "RO",
+        "asn": "210718",
+        "description": "FIVE CYBER HOST SECURITY S.R.L.",
+        "handle": "FIVE-CYBER-HOST-SECURITY-AS"
+    },
+    "210822": {
+        "country_code": "RO",
+        "asn": "210822",
+        "description": "OFICIUL DE STAT PENTRU INVENTII SI MARCI",
+        "handle": "OSIM-AS"
+    },
+    "210840": {
+        "country_code": "RO",
+        "asn": "210840",
+        "description": "PG Software Technologies SRL",
+        "handle": "PG-SOFTWARE-TECHNOLOGIES"
+    },
+    "210864": {
+        "country_code": "RO",
+        "asn": "210864",
+        "description": "VoltzzNode Enterprise SRL",
+        "handle": "VOLTZZNODE"
+    },
+    "210878": {
+        "country_code": "RO",
+        "asn": "210878",
+        "description": "Treadstone Business Development S.R.L.",
+        "handle": "TREADSTONE-AS"
+    },
+    "210927": {
+        "country_code": "RO",
+        "asn": "210927",
+        "description": "Axello Communications SRL",
+        "handle": "RO-AXELLO"
+    },
+    "211281": {
+        "country_code": "RO",
+        "asn": "211281",
+        "description": "NEOHOST SRL",
+        "handle": "NEOHOST-AS"
+    },
+    "211294": {
+        "country_code": "RO",
+        "asn": "211294",
+        "description": "Industrial Software SRL",
+        "handle": "INDSOFT"
+    },
+    "211306": {
+        "country_code": "RO",
+        "asn": "211306",
+        "description": "Treadstone Business Development S.R.L.",
+        "handle": "TREADSTONE-AS"
+    },
+    "211313": {
+        "country_code": "RO",
+        "asn": "211313",
+        "description": "Safetech Innovations SA",
+        "handle": "SAFETECH"
+    },
+    "211327": {
+        "country_code": "RO",
+        "asn": "211327",
+        "description": "CODEVAULT SRL",
+        "handle": "CODEVAULT"
+    },
+    "211412": {
+        "country_code": "RO",
+        "asn": "211412",
+        "description": "Restart Energy One SA",
+        "handle": "RESTART"
+    },
+    "211462": {
+        "country_code": "RO",
+        "asn": "211462",
+        "description": "Andrei Tiberiu Holt",
+        "handle": "GHT-NET"
+    },
+    "211611": {
+        "country_code": "RO",
+        "asn": "211611",
+        "description": "Exim Host SRL",
+        "handle": "EXIMHOST"
+    },
+    "211701": {
+        "country_code": "RO",
+        "asn": "211701",
+        "description": "BUSINESS SOFTWARE DEVELOPMENT SRL",
+        "handle": "BUSINESS-SOFTWARE-DEVELOPMENT"
+    },
+    "211836": {
+        "country_code": "RO",
+        "asn": "211836",
+        "description": "DOLJNET GRUP SRL",
+        "handle": "DOLJNET-GRUP"
+    },
+    "211857": {
+        "country_code": "RO",
+        "asn": "211857",
+        "description": "NSHOST SRL",
+        "handle": "NSHOST"
+    },
+    "211916": {
+        "country_code": "RO",
+        "asn": "211916",
+        "description": "Verssa Versatile Consultants SRL",
+        "handle": "ASVERSSA"
+    },
+    "211983": {
+        "country_code": "RO",
+        "asn": "211983",
+        "description": "COMSEC Networking SRL",
+        "handle": "COMSEC-NETWORKING"
+    },
+    "212192": {
+        "country_code": "RO",
+        "asn": "212192",
+        "description": "INTELI TECH DEVELOPMENT SRL",
+        "handle": "INTELI-TECH-DEVELOPMENT-SRL"
+    },
+    "212212": {
+        "country_code": "RO",
+        "asn": "212212",
+        "description": "Power NMS VPP SRL",
+        "handle": "AS-POWERVPP"
+    },
+    "212221": {
+        "country_code": "RO",
+        "asn": "212221",
+        "description": "INTERNET BROKER SRL",
+        "handle": "RO-EFX-AS"
+    },
+    "212258": {
+        "country_code": "RO",
+        "asn": "212258",
+        "description": "Volocall SRL",
+        "handle": "VOLOCALL-AS"
+    },
+    "212499": {
+        "country_code": "RO",
+        "asn": "212499",
+        "description": "ORGANIZATIA RELIGIOASA MARTORII LUI IEHOVA",
+        "handle": "JWROU-AS"
+    },
+    "212577": {
+        "country_code": "RO",
+        "asn": "212577",
+        "description": "Corozanu Catalin",
+        "handle": "CATALIN-AS"
+    },
+    "212593": {
+        "country_code": "RO",
+        "asn": "212593",
+        "description": "EXPERTWARE SRL",
+        "handle": "EXPERTWARE"
+    },
+    "212810": {
+        "country_code": "RO",
+        "asn": "212810",
+        "description": "GODLIKE DIGITAL SOLUTIONS S.R.L.",
+        "handle": "GODLIKE-MNT"
+    },
+    "212816": {
+        "country_code": "RO",
+        "asn": "212816",
+        "description": "Cluster Power SRL",
+        "handle": "CLSPOW"
+    },
+    "212845": {
+        "country_code": "RO",
+        "asn": "212845",
+        "description": "Pogonariu Radu-Alexandru",
+        "handle": "RADU-POGONARIU"
+    },
+    "212854": {
+        "country_code": "RO",
+        "asn": "212854",
+        "description": "CraftLands Hosting S.R.L.",
+        "handle": "CRAFTLANDS-HOSTING"
+    },
+    "212929": {
+        "country_code": "RO",
+        "asn": "212929",
+        "description": "ATTIFIBER SRL",
+        "handle": "ATTIFIBER-AS"
+    },
+    "212938": {
+        "country_code": "RO",
+        "asn": "212938",
+        "description": "Print Net SRL",
+        "handle": "PRINT-NET"
+    },
+    "212997": {
+        "country_code": "RO",
+        "asn": "212997",
+        "description": "Cosmin Gorgovan",
+        "handle": "COSMIN-GORGOVAN"
+    },
+    "213240": {
+        "country_code": "RO",
+        "asn": "213240",
+        "description": "GREENTECH SA",
+        "handle": "GREENTECH-AS"
+    },
+    "213264": {
+        "country_code": "RO",
+        "asn": "213264",
+        "description": "PROSOFT++ SRL",
+        "handle": "PROSOFT"
+    },
+    "213323": {
+        "country_code": "RO",
+        "asn": "213323",
+        "description": "ZMC MAR GRAPHIC DESIGN SRL-D",
+        "handle": "ZMC"
+    },
+    "213445": {
+        "country_code": "RO",
+        "asn": "213445",
+        "description": "LI ZIQI srl",
+        "handle": "LIZIQI-RO"
+    },
+    "213538": {
+        "country_code": "RO",
+        "asn": "213538",
+        "description": "Toria Consult S.R.L.",
+        "handle": "TORIA-ASN"
+    },
+    "213590": {
+        "country_code": "RO",
+        "asn": "213590",
+        "description": "DIGITALRUS SRL",
+        "handle": "DIGITALRUS-SRL"
+    },
+    "213634": {
+        "country_code": "RO",
+        "asn": "213634",
+        "description": "Universitatea din Craiova",
+        "handle": "UCV"
+    },
+    "213679": {
+        "country_code": "RO",
+        "asn": "213679",
+        "description": "One Core Spark SRL",
+        "handle": "ONE-CORE-SPARK"
+    },
+    "213871": {
+        "country_code": "RO",
+        "asn": "213871",
+        "description": "NexonHost SRL",
+        "handle": "NEXONHOST"
+    },
+    "213910": {
+        "country_code": "RO",
+        "asn": "213910",
+        "description": "Credex Bank SA",
+        "handle": "CREDEXBANK"
+    },
+    "214062": {
+        "country_code": "RO",
+        "asn": "214062",
+        "description": "ITITAN HOSTING SOLUTIONS SRL",
+        "handle": "ITITANHOSTING"
+    },
+    "214133": {
+        "country_code": "RO",
+        "asn": "214133",
+        "description": "Ace Web Services S.R.L.",
+        "handle": "ACE-WEB-SERVICES"
+    },
+    "214205": {
+        "country_code": "RO",
+        "asn": "214205",
+        "description": "Cristian Tudor Marcus",
+        "handle": "CRISTIAN-TUDOR-MARCUS"
+    },
+    "214265": {
+        "country_code": "RO",
+        "asn": "214265",
+        "description": "Yako Telecom SRL",
+        "handle": "YAKO-AS"
+    },
+    "214330": {
+        "country_code": "RO",
+        "asn": "214330",
+        "description": "Affidea Romania SRL",
+        "handle": "AFFIDEA-AS"
+    },
+    "214341": {
+        "country_code": "RO",
+        "asn": "214341",
+        "description": "Stefan Mincu",
+        "handle": "SYNOTICUS"
+    },
+    "214391": {
+        "country_code": "RO",
+        "asn": "214391",
+        "description": "GARANTI BANK S.A.",
+        "handle": "GARANTI-BANK-RO"
+    },
+    "214529": {
+        "country_code": "RO",
+        "asn": "214529",
+        "description": "DAM TELECOM SERVICES SRL",
+        "handle": "DSNET"
+    },
+    "214530": {
+        "country_code": "RO",
+        "asn": "214530",
+        "description": "GLIGA COMIMPEX SRL",
+        "handle": "GLIGA"
+    },
+    "214641": {
+        "country_code": "RO",
+        "asn": "214641",
+        "description": "FOCUS AESTHETIC DYNAMICS SRL",
+        "handle": "FOCUS-AESTHETIC-DYNAMICS"
+    },
+    "214709": {
+        "country_code": "RO",
+        "asn": "214709",
+        "description": "Macarne SRL",
+        "handle": "MACARNE-AS"
+    },
+    "214725": {
+        "country_code": "RO",
+        "asn": "214725",
+        "description": "Urgent IT Services SRL",
+        "handle": "URGENT-IT-SERVICES"
+    },
+    "214890": {
+        "country_code": "RO",
+        "asn": "214890",
+        "description": "InterData Systems SRL",
+        "handle": "IDSYS2-ASN"
+    },
+    "214918": {
+        "country_code": "RO",
+        "asn": "214918",
+        "description": "ESAGAMES HOSTING SHIELD S.R.L.",
+        "handle": "ESAGAMES"
+    },
+    "215014": {
+        "country_code": "RO",
+        "asn": "215014",
+        "description": "DENIRO MEDIA SRL",
+        "handle": "DENIRO"
+    },
+    "215016": {
+        "country_code": "RO",
+        "asn": "215016",
+        "description": "TPC Management s.r.l.",
+        "handle": "TPCMANAGEMEN"
+    },
+    "215075": {
+        "country_code": "RO",
+        "asn": "215075",
+        "description": "Honest General Trading SRL",
+        "handle": "HGTRO-HQ-AS"
+    },
+    "215082": {
+        "country_code": "RO",
+        "asn": "215082",
+        "description": "INFINITY CLOUD TECHNOLOGIES S.R.L.",
+        "handle": "INFC"
+    },
+    "215126": {
+        "country_code": "RO",
+        "asn": "215126",
+        "description": "Pedpec GRUP S.R.L.",
+        "handle": "ITDATATELECOM"
+    },
+    "215166": {
+        "country_code": "RO",
+        "asn": "215166",
+        "description": "DELTA INTERNET CAFE SRL",
+        "handle": "DELTAINTERNET"
+    },
+    "215201": {
+        "country_code": "RO",
+        "asn": "215201",
+        "description": "TV SAT SRL",
+        "handle": "TVSAT-AS"
+    },
+    "215220": {
+        "country_code": "RO",
+        "asn": "215220",
+        "description": "TPC Management s.r.l.",
+        "handle": "TMS25"
+    },
+    "215230": {
+        "country_code": "RO",
+        "asn": "215230",
+        "description": "DEVGEEKS S.R.L.",
+        "handle": "FIBERX"
+    },
+    "215339": {
+        "country_code": "RO",
+        "asn": "215339",
+        "description": "CLOUD FOREST INFRASTRUCTURE S.R.L.",
+        "handle": "CLOUDFOREST-AS"
+    },
+    "215362": {
+        "country_code": "RO",
+        "asn": "215362",
+        "description": "Promo Plus SRL",
+        "handle": "ZEROMS"
+    },
+    "215404": {
+        "country_code": "RO",
+        "asn": "215404",
+        "description": "Inaccurate Technologies S.R.L.",
+        "handle": "INACCURATE"
+    },
+    "215417": {
+        "country_code": "RO",
+        "asn": "215417",
+        "description": "TIA CONECT SRL",
+        "handle": "TIACONECT-AS"
+    },
+    "215545": {
+        "country_code": "RO",
+        "asn": "215545",
+        "description": "Beia Consult International SRL",
+        "handle": "BEIA-CONSULT-INTERNATIONAL"
+    },
+    "215552": {
+        "country_code": "RO",
+        "asn": "215552",
+        "description": "Alexandru Cristian Dirman",
+        "handle": "ACD4"
+    },
+    "215578": {
+        "country_code": "RO",
+        "asn": "215578",
+        "description": "ECCODENT PROIECT SRL",
+        "handle": "ECCODENT-PROIECT"
+    },
+    "215659": {
+        "country_code": "RO",
+        "asn": "215659",
+        "description": "Aokigahara SRL",
+        "handle": "MOEMOEKYUN"
+    },
+    "215692": {
+        "country_code": "RO",
+        "asn": "215692",
+        "description": "ARMAND MIKROTIX SRL",
+        "handle": "ARMAND-MTX"
+    },
+    "215729": {
+        "country_code": "RO",
+        "asn": "215729",
+        "description": "4Pay Systems SRL",
+        "handle": "SYS4PAY"
+    },
+    "215945": {
+        "country_code": "RO",
+        "asn": "215945",
+        "description": "ELECTRO-SAT SRL",
+        "handle": "ELECTRO-SAT"
+    },
+    "215973": {
+        "country_code": "RO",
+        "asn": "215973",
+        "description": "Ericsson Antenna Technology Romania SRL",
+        "handle": "ROERICSSON"
+    },
+    "216088": {
+        "country_code": "RO",
+        "asn": "216088",
+        "description": "TIGER SECURITY SERVICES SA",
+        "handle": "TIGER-SECURITY-SERVICES"
+    },
+    "216112": {
+        "country_code": "RO",
+        "asn": "216112",
+        "description": "MODEL-KGVC SRL",
+        "handle": "AS-RSR-NOX"
+    },
+    "216120": {
+        "country_code": "RO",
+        "asn": "216120",
+        "description": "ITCONSTRUCTION SRL",
+        "handle": "PRIMARIA-EU"
+    },
+    "216223": {
+        "country_code": "RO",
+        "asn": "216223",
+        "description": "Visionare Records SRL",
+        "handle": "VISIONAREHOST"
+    },
+    "216249": {
+        "country_code": "RO",
+        "asn": "216249",
+        "description": "PHOTON SPARK SRL",
+        "handle": "PHOTONSPARK"
+    },
+    "216378": {
+        "country_code": "RO",
+        "asn": "216378",
+        "description": "Net Gate Telecom S.R.L.",
+        "handle": "NETGATE-COMUNICATIONS-AS"
+    },
+    "216462": {
+        "country_code": "RO",
+        "asn": "216462",
+        "description": "GLOBALTRUST SRL",
+        "handle": "GLOBALTRUST"
+    }
+}

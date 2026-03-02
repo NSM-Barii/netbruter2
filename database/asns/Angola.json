@@ -1,0 +1,458 @@
+{
+    "11259": {
+        "country_code": "AO",
+        "asn": "11259",
+        "description": "Angola Telecom",
+        "handle": "ANGOLATELECOM"
+    },
+    "17400": {
+        "country_code": "AO",
+        "asn": "17400",
+        "description": "MSTelcom-Mercury Servicos de Telecomunicacoes S.A.R.L",
+        "handle": "MSTELCOM"
+    },
+    "32717": {
+        "country_code": "AO",
+        "asn": "32717",
+        "description": "SNET ANGOLA",
+        "handle": "ASN-SNETANGOLA"
+    },
+    "36881": {
+        "country_code": "AO",
+        "asn": "36881",
+        "description": "Multitel Servicos de Telecomunicacoes",
+        "handle": "MULTITEL"
+    },
+    "36907": {
+        "country_code": "AO",
+        "asn": "36907",
+        "description": "TV CABO ANGOLA LDA",
+        "handle": "TVCABOANGOLA"
+    },
+    "36917": {
+        "country_code": "AO",
+        "asn": "36917",
+        "description": "Angola Comunicacoes & Systems LDA",
+        "handle": "ACS"
+    },
+    "36936": {
+        "country_code": "AO",
+        "asn": "36936",
+        "description": "Banco Angolano de Investimentos",
+        "handle": "BANCOBAI"
+    },
+    "36976": {
+        "country_code": "AO",
+        "asn": "36976",
+        "description": "Sonangol",
+        "handle": "SONANGOL"
+    },
+    "37011": {
+        "country_code": "AO",
+        "asn": "37011",
+        "description": "Mundo Startel SA",
+        "handle": "MSTARTEL-AS"
+    },
+    "37036": {
+        "country_code": "AO",
+        "asn": "37036",
+        "description": "Banco de Fomento Angola S.A",
+        "handle": "BFA"
+    },
+    "37059": {
+        "country_code": "AO",
+        "asn": "37059",
+        "description": "Angola Telecom",
+        "handle": "SUPERNET-AO"
+    },
+    "37062": {
+        "country_code": "AO",
+        "asn": "37062",
+        "description": "BNI Banco de Negocios Internacional SA",
+        "handle": "ASN-BNI"
+    },
+    "37081": {
+        "country_code": "AO",
+        "asn": "37081",
+        "description": "Movicel Telecomunicacoes S.A.",
+        "handle": "MOVICEL-AS"
+    },
+    "37119": {
+        "country_code": "AO",
+        "asn": "37119",
+        "description": "UNITEL SA",
+        "handle": "UNITEL-AS"
+    },
+    "37147": {
+        "country_code": "AO",
+        "asn": "37147",
+        "description": "BancoBic",
+        "handle": "BANCOBIC-AS"
+    },
+    "37264": {
+        "country_code": "AO",
+        "asn": "37264",
+        "description": "DNS Angola",
+        "handle": "DNSANGOLA"
+    },
+    "37267": {
+        "country_code": "AO",
+        "asn": "37267",
+        "description": "Banco Caixa Geral Totta de Angola",
+        "handle": "CAIXA"
+    },
+    "37272": {
+        "country_code": "AO",
+        "asn": "37272",
+        "description": "C. M. Corporation LDA",
+        "handle": "CMCANGOLA"
+    },
+    "37318": {
+        "country_code": "AO",
+        "asn": "37318",
+        "description": "Banco Economico S.A",
+        "handle": "BESA"
+    },
+    "37366": {
+        "country_code": "AO",
+        "asn": "37366",
+        "description": "Banco National Angola (BNA)",
+        "handle": "BNA"
+    },
+    "37383": {
+        "country_code": "AO",
+        "asn": "37383",
+        "description": "Ponto de Intercambio Internet Angola (Angola IXP)",
+        "handle": "ANG-IXP"
+    },
+    "37384": {
+        "country_code": "AO",
+        "asn": "37384",
+        "description": "Banco Keve",
+        "handle": "BANKO-KEVE"
+    },
+    "37432": {
+        "country_code": "AO",
+        "asn": "37432",
+        "description": "ITELNET",
+        "handle": "ITELNET"
+    },
+    "37468": {
+        "country_code": "AO",
+        "asn": "37468",
+        "description": "Angola Cables",
+        "handle": "ANGOLA-CABLES"
+    },
+    "37590": {
+        "country_code": "AO",
+        "asn": "37590",
+        "description": "Banco Comercial Angolano",
+        "handle": "BCA-ASN"
+    },
+    "37593": {
+        "country_code": "AO",
+        "asn": "37593",
+        "description": "Infrasat",
+        "handle": "INFRASAT"
+    },
+    "37603": {
+        "country_code": "AO",
+        "asn": "37603",
+        "description": "GameZone Angola",
+        "handle": "GAMEZONE-AS"
+    },
+    "37645": {
+        "country_code": "AO",
+        "asn": "37645",
+        "description": "Finstar - Sociedade de Investimento e Participacoes S.A",
+        "handle": "ZAP-ANGOLA"
+    },
+    "327691": {
+        "country_code": "AO",
+        "asn": "327691",
+        "description": "Banco Millennium Atlantico S.A.",
+        "handle": "BMAS-AS"
+    },
+    "327775": {
+        "country_code": "AO",
+        "asn": "327775",
+        "description": "Ponto de Intercambio Internet Angola (Angola IXP)",
+        "handle": "AO-IXPMGMNT"
+    },
+    "327788": {
+        "country_code": "AO",
+        "asn": "327788",
+        "description": "Angola Cables",
+        "handle": "ANGOLA-IX"
+    },
+    "327801": {
+        "country_code": "AO",
+        "asn": "327801",
+        "description": "Banco Sol",
+        "handle": "BANCO-SOL"
+    },
+    "327806": {
+        "country_code": "AO",
+        "asn": "327806",
+        "description": "CENTRO NACIONAL DAS TECNOLOGIAS DE INFORMACAO",
+        "handle": "CNTI-AS"
+    },
+    "327833": {
+        "country_code": "AO",
+        "asn": "327833",
+        "description": "Central 8 Limitada",
+        "handle": "CENTRAL-8"
+    },
+    "327918": {
+        "country_code": "AO",
+        "asn": "327918",
+        "description": "Associacao Escola Internacional de Luanda",
+        "handle": "AEID"
+    },
+    "327932": {
+        "country_code": "AO",
+        "asn": "327932",
+        "description": "CONNECTIS-DATA ANGOLA LDA",
+        "handle": "CONNECTIS-DATA-ANGOLA"
+    },
+    "328111": {
+        "country_code": "AO",
+        "asn": "328111",
+        "description": "IP WORLD - Sociedade de servicos e telecomunicacoes Limitada",
+        "handle": "IPWORLD-AS"
+    },
+    "328154": {
+        "country_code": "AO",
+        "asn": "328154",
+        "description": "NETSPACE -SERVICOS DE TELECOMUNICACOES LDA",
+        "handle": "NETSPACE"
+    },
+    "328165": {
+        "country_code": "AO",
+        "asn": "328165",
+        "description": "Banco de Investimento Rural S.A",
+        "handle": "BANCO-DE-INVESTIMENTO-RURAL"
+    },
+    "328211": {
+        "country_code": "AO",
+        "asn": "328211",
+        "description": "SETIC-FP",
+        "handle": "SETIC-FP-AS"
+    },
+    "328273": {
+        "country_code": "AO",
+        "asn": "328273",
+        "description": "BCS- Banco de Credito do Sul S.A.",
+        "handle": "BCS-BANCO-DE-CREDITO-DO-SUL-SA"
+    },
+    "328283": {
+        "country_code": "AO",
+        "asn": "328283",
+        "description": "Banco de Poupan\u00e7a e Cr\u00e9dito S.A",
+        "handle": "BBDP1-AS"
+    },
+    "328509": {
+        "country_code": "AO",
+        "asn": "328509",
+        "description": "Speed Net Servi\u00e7os Lda",
+        "handle": "SPEEDNET-SERVICOS"
+    },
+    "328669": {
+        "country_code": "AO",
+        "asn": "328669",
+        "description": "BOLSA DE D\u00cdVIDA E VALORES DE ANGOLA SGMR S.A",
+        "handle": "BOLSA-DE-DIVIDA"
+    },
+    "328718": {
+        "country_code": "AO",
+        "asn": "328718",
+        "description": "ANYCONNECT- Tecnologias e Telecomunica\u00e7\u00f5es S.A",
+        "handle": "ANYCONNECT"
+    },
+    "328725": {
+        "country_code": "AO",
+        "asn": "328725",
+        "description": "Advanlink Lda",
+        "handle": "ADVANLINK-AS"
+    },
+    "328792": {
+        "country_code": "AO",
+        "asn": "328792",
+        "description": "EMIS - Empresa Interbancaria de Servi\u00e7os S.A",
+        "handle": "EEID-AS"
+    },
+    "328877": {
+        "country_code": "AO",
+        "asn": "328877",
+        "description": "Banco Valor S.A (BV)",
+        "handle": "BANCO-VALOR-AS"
+    },
+    "328886": {
+        "country_code": "AO",
+        "asn": "328886",
+        "description": "Lamanfam Group Lda",
+        "handle": "LGL-AS"
+    },
+    "328893": {
+        "country_code": "AO",
+        "asn": "328893",
+        "description": "KWATTEL - SERVICOS DE PAGAMENTO S.A",
+        "handle": "KWATTEL-AS"
+    },
+    "328907": {
+        "country_code": "AO",
+        "asn": "328907",
+        "description": "OPCO - Sociedade Operacional Angola LNG S.A.",
+        "handle": "AS33793"
+    },
+    "328943": {
+        "country_code": "AO",
+        "asn": "328943",
+        "description": "Africell Angola S.A",
+        "handle": "AAS1-AS"
+    },
+    "328979": {
+        "country_code": "AO",
+        "asn": "328979",
+        "description": "NEONET PRESTA\u00c7\u00c3O DE SERVI\u00c7OS E TELECOMUNICA\u00c7\u00d5ES LDA",
+        "handle": "NPDS-AS"
+    },
+    "329007": {
+        "country_code": "AO",
+        "asn": "329007",
+        "description": "ELENDE - TECNOLOGIAS DE INFORMACAO - COMERCIO E SERVICOS LDA",
+        "handle": "ELENDE"
+    },
+    "329011": {
+        "country_code": "AO",
+        "asn": "329011",
+        "description": "M\u00faltipla - Sociedade M\u00faltipla de Angola Limitada",
+        "handle": "MULTIPLA-AS"
+    },
+    "329065": {
+        "country_code": "AO",
+        "asn": "329065",
+        "description": "SOTENG- Tecnologia & Sistemas LDA",
+        "handle": "STSL2-AS"
+    },
+    "329108": {
+        "country_code": "AO",
+        "asn": "329108",
+        "description": "Lello & Companhia Limitada",
+        "handle": "LCL3-AS"
+    },
+    "329194": {
+        "country_code": "AO",
+        "asn": "329194",
+        "description": "Banco De Comercio e Industria S.A.",
+        "handle": "BANCO-DE-COMERCIO-E-INDUSTRIA-SA"
+    },
+    "329209": {
+        "country_code": "AO",
+        "asn": "329209",
+        "description": "Banco YETU S.A.",
+        "handle": "BANCO-YETU"
+    },
+    "329210": {
+        "country_code": "AO",
+        "asn": "329210",
+        "description": "HSAMS - Solu\u00e7\u00f5es Tecnol\u00f3gicas LDA",
+        "handle": "HSTL1-AS"
+    },
+    "329270": {
+        "country_code": "AO",
+        "asn": "329270",
+        "description": "EGATE CLOUD SERVICES LDA",
+        "handle": "EGATE-CLOUD"
+    },
+    "329286": {
+        "country_code": "AO",
+        "asn": "329286",
+        "description": "Kwendanet Tecnologias e Servi\u00e7os Lda",
+        "handle": "KWENDANET-TECNOLOGIAS-E-SERVICOS"
+    },
+    "329330": {
+        "country_code": "AO",
+        "asn": "329330",
+        "description": "Sociedade Mineira de Catoca Lda",
+        "handle": "SOCIEDADE-MINEIRA-DE-CATOCA-LDA"
+    },
+    "329356": {
+        "country_code": "AO",
+        "asn": "329356",
+        "description": "Angola Cables",
+        "handle": "TEL-CABLES-PTY-LTD"
+    },
+    "329357": {
+        "country_code": "AO",
+        "asn": "329357",
+        "description": "Angola Cables",
+        "handle": "TEL-CABLES-NIGERIA"
+    },
+    "329370": {
+        "country_code": "AO",
+        "asn": "329370",
+        "description": "ESPA\u00c7ONET - TELECOMUNICA\u00c7OES (SU) LDA",
+        "handle": "ESPACONET"
+    },
+    "329412": {
+        "country_code": "AO",
+        "asn": "329412",
+        "description": "TAAG Linhas Aereas de Angola S.A",
+        "handle": "TAAG-LINHAS-AEREAS-DE-ANGOLA"
+    },
+    "329506": {
+        "country_code": "AO",
+        "asn": "329506",
+        "description": "MSBYTE-SOLUTION LIMITADA",
+        "handle": "MSBYTE-SOLUTION"
+    },
+    "329536": {
+        "country_code": "AO",
+        "asn": "329536",
+        "description": "ACEL DIGITAL - TECNOLOGIA E SERVI\u00c7OS LIMITADA",
+        "handle": "ADTE1"
+    },
+    "329564": {
+        "country_code": "AO",
+        "asn": "329564",
+        "description": "Agencia Nacional de Pertoleo Gas e Biocombustiveis",
+        "handle": "AGENCIA-NACIONAL-DE-PERTOLEO-GAS-BIOCOMBUSTIVEIS"
+    },
+    "329589": {
+        "country_code": "AO",
+        "asn": "329589",
+        "description": "SELENIUM - DIGITAL SOLUTIONS S.A.",
+        "handle": "SELENIUM-DIGITAL-SOLUTIONS-SA"
+    },
+    "329616": {
+        "country_code": "AO",
+        "asn": "329616",
+        "description": "Internet Technologies Angola S.A.",
+        "handle": "INTERNET-TECHNOLOGIES-ANGOL"
+    },
+    "329631": {
+        "country_code": "AO",
+        "asn": "329631",
+        "description": "YETOCOM-COM\u00c9RCIO E PRESTA\u00c7\u00c3O DE SERVI\u00c7OS (SU) LDA",
+        "handle": "YETOCOM"
+    },
+    "329686": {
+        "country_code": "AO",
+        "asn": "329686",
+        "description": "Ramos Network Presta\u00e7\u00e3o de Servi\u00e7os Lda",
+        "handle": "RAMOS-NETWORK"
+    },
+    "329695": {
+        "country_code": "AO",
+        "asn": "329695",
+        "description": "ZON-DATA ANGOLA - COMERCIO E PRESTACAO DE SERVI\u00c7OS LDA",
+        "handle": "ZON-DATA-ANGOLA"
+    },
+    "329697": {
+        "country_code": "AO",
+        "asn": "329697",
+        "description": "Envictus Networks Comercio e Servicos Limitada",
+        "handle": "ENVICTUS-NETWORKS-COMERCIO-E-SERVICOS-LI"
+    }
+}

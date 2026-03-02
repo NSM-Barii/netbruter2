@@ -1,0 +1,14 @@
+{
+    "22933": {
+        "country_code": "TC",
+        "asn": "22933",
+        "description": "Cable and Wireless Turks and Caicos",
+        "handle": "TCIGATEWAY"
+    },
+    "394311": {
+        "country_code": "TC",
+        "asn": "394311",
+        "description": "Digicel Turks and Caicos Ltd",
+        "handle": "DIGTCI"
+    }
+}

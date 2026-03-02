@@ -1,0 +1,4460 @@
+{
+    "2111": {
+        "country_code": "BG",
+        "asn": "2111",
+        "description": "SkyNet Group Ltd.",
+        "handle": "SKYNET-AS"
+    },
+    "3187": {
+        "country_code": "BG",
+        "asn": "3187",
+        "description": "Eurobank Bulgaria AD",
+        "handle": "PBPF-AS"
+    },
+    "3245": {
+        "country_code": "BG",
+        "asn": "3245",
+        "description": "Digital Systems Ltd",
+        "handle": "DIGSYS-AS"
+    },
+    "3264": {
+        "country_code": "BG",
+        "asn": "3264",
+        "description": "American University in Bulgaria",
+        "handle": "AUBG-AS"
+    },
+    "4849": {
+        "country_code": "BG",
+        "asn": "4849",
+        "description": "S3 Company Ltd",
+        "handle": "S3COMPANY"
+    },
+    "5421": {
+        "country_code": "BG",
+        "asn": "5421",
+        "description": "Sofia University St. Kliment Ohridski",
+        "handle": "SU-NET-AS"
+    },
+    "5472": {
+        "country_code": "BG",
+        "asn": "5472",
+        "description": "ALOHA EXPERT EOOD",
+        "handle": "BG-NEWIX-AS"
+    },
+    "6802": {
+        "country_code": "BG",
+        "asn": "6802",
+        "description": "Bulgarian Research and Education Network Association (BREN)",
+        "handle": "UNICOM-B-AS"
+    },
+    "8262": {
+        "country_code": "BG",
+        "asn": "8262",
+        "description": "Evolink EAD",
+        "handle": "EVOLINK-AS"
+    },
+    "8431": {
+        "country_code": "BG",
+        "asn": "8431",
+        "description": "TEA Ltd.",
+        "handle": "AS8431"
+    },
+    "8628": {
+        "country_code": "BG",
+        "asn": "8628",
+        "description": "KREMAK EOOD",
+        "handle": "KRM-AS"
+    },
+    "8672": {
+        "country_code": "BG",
+        "asn": "8672",
+        "description": "A1 Bulgaria EAD",
+        "handle": "A1BG"
+    },
+    "8717": {
+        "country_code": "BG",
+        "asn": "8717",
+        "description": "A1 Bulgaria EAD",
+        "handle": "A1BG"
+    },
+    "8734": {
+        "country_code": "BG",
+        "asn": "8734",
+        "description": "DZI Obshto Zastrahovane EAD",
+        "handle": "DZI-BG"
+    },
+    "8739": {
+        "country_code": "BG",
+        "asn": "8739",
+        "description": "ICDSoft Ltd.",
+        "handle": "ICDSOFT"
+    },
+    "8745": {
+        "country_code": "BG",
+        "asn": "8745",
+        "description": "Bulgarian Academy of Sciences",
+        "handle": "AS-BG-BAS"
+    },
+    "8795": {
+        "country_code": "BG",
+        "asn": "8795",
+        "description": "Vivacom Bulgaria EAD",
+        "handle": "MOBIKOM"
+    },
+    "8808": {
+        "country_code": "BG",
+        "asn": "8808",
+        "description": "NOVATEL EOOD",
+        "handle": "MSTEL-NET"
+    },
+    "8860": {
+        "country_code": "BG",
+        "asn": "8860",
+        "description": "Delta HighTech Ltd.",
+        "handle": "DELTA-BG-AS"
+    },
+    "8866": {
+        "country_code": "BG",
+        "asn": "8866",
+        "description": "Vivacom Bulgaria EAD",
+        "handle": "VIVACOM-AS"
+    },
+    "8877": {
+        "country_code": "BG",
+        "asn": "8877",
+        "description": "Lir.bg EOOD",
+        "handle": "LIRBG-AS"
+    },
+    "8880": {
+        "country_code": "BG",
+        "asn": "8880",
+        "description": "Economedia AD",
+        "handle": "AII-AS0"
+    },
+    "8967": {
+        "country_code": "BG",
+        "asn": "8967",
+        "description": "Internet Service Ltd.",
+        "handle": "ISERVICE-BG-AS"
+    },
+    "9028": {
+        "country_code": "BG",
+        "asn": "9028",
+        "description": "OHOST LLC",
+        "handle": "OHOST"
+    },
+    "9070": {
+        "country_code": "BG",
+        "asn": "9070",
+        "description": "Cooolbox AD",
+        "handle": "COOOLBOX"
+    },
+    "9127": {
+        "country_code": "BG",
+        "asn": "9127",
+        "description": "Vivacom Bulgaria EAD",
+        "handle": "NETISSAT-AS"
+    },
+    "12436": {
+        "country_code": "BG",
+        "asn": "12436",
+        "description": "Bergon Internet Ltd.",
+        "handle": "BERGON-AS"
+    },
+    "12564": {
+        "country_code": "BG",
+        "asn": "12564",
+        "description": "Council of Ministers",
+        "handle": "CMBG-AS"
+    },
+    "12591": {
+        "country_code": "BG",
+        "asn": "12591",
+        "description": "Smartcom Bulgaria AD",
+        "handle": "SMARTCOMBG"
+    },
+    "12615": {
+        "country_code": "BG",
+        "asn": "12615",
+        "description": "Global Communication Net Plc",
+        "handle": "GCN-AS"
+    },
+    "12716": {
+        "country_code": "BG",
+        "asn": "12716",
+        "description": "A1 Bulgaria EAD",
+        "handle": "A1BG-MB"
+    },
+    "12756": {
+        "country_code": "BG",
+        "asn": "12756",
+        "description": "INFOCOM Plc.",
+        "handle": "INFOCOM-AS"
+    },
+    "12792": {
+        "country_code": "BG",
+        "asn": "12792",
+        "description": "Netassist International EOOD",
+        "handle": "CINET-AS"
+    },
+    "12795": {
+        "country_code": "BG",
+        "asn": "12795",
+        "description": "Central Cooperative Bank JSC",
+        "handle": "CCBANK-AS"
+    },
+    "12796": {
+        "country_code": "BG",
+        "asn": "12796",
+        "description": "Cifrova Kabelna Korporacia EOOD",
+        "handle": "TCV-AS"
+    },
+    "12815": {
+        "country_code": "BG",
+        "asn": "12815",
+        "description": "Musala Soft EAD",
+        "handle": "MUSALASOFT"
+    },
+    "12829": {
+        "country_code": "BG",
+        "asn": "12829",
+        "description": "Angel Soft OOD",
+        "handle": "ANGELSOFT"
+    },
+    "12962": {
+        "country_code": "BG",
+        "asn": "12962",
+        "description": "First Investment Bank AD",
+        "handle": "FIBANK"
+    },
+    "12982": {
+        "country_code": "BG",
+        "asn": "12982",
+        "description": "BULINFO EOOD",
+        "handle": "BULINFO-AS12982"
+    },
+    "13124": {
+        "country_code": "BG",
+        "asn": "13124",
+        "description": "A1 Bulgaria EAD",
+        "handle": "A1BG-RSD"
+    },
+    "13147": {
+        "country_code": "BG",
+        "asn": "13147",
+        "description": "Net Info JSCo",
+        "handle": "NETINFO"
+    },
+    "13172": {
+        "country_code": "BG",
+        "asn": "13172",
+        "description": "Electroenergien Sistemen Operator EAD",
+        "handle": "ESO"
+    },
+    "13236": {
+        "country_code": "BG",
+        "asn": "13236",
+        "description": "DATACOM LTD",
+        "handle": "DATACOM-BG-AS"
+    },
+    "13306": {
+        "country_code": "BG",
+        "asn": "13306",
+        "description": "Unics EOOD",
+        "handle": "UNICS-AS"
+    },
+    "15362": {
+        "country_code": "BG",
+        "asn": "15362",
+        "description": "Risk Engineering Ltd.",
+        "handle": "RISKENGINEERING"
+    },
+    "15504": {
+        "country_code": "BG",
+        "asn": "15504",
+        "description": "Naxex Technological Development Ltd",
+        "handle": "TRADENETWORKS"
+    },
+    "15534": {
+        "country_code": "BG",
+        "asn": "15534",
+        "description": "Datamax AD",
+        "handle": "DATAMAXBG"
+    },
+    "15669": {
+        "country_code": "BG",
+        "asn": "15669",
+        "description": "BIX.BG Ltd.",
+        "handle": "BIX-BG"
+    },
+    "15941": {
+        "country_code": "BG",
+        "asn": "15941",
+        "description": "NETGUARD LLC",
+        "handle": "BURDENIS-AS"
+    },
+    "16045": {
+        "country_code": "BG",
+        "asn": "16045",
+        "description": "Spektar AD",
+        "handle": "BULINFO-HOSTING"
+    },
+    "16154": {
+        "country_code": "BG",
+        "asn": "16154",
+        "description": "Telecoms-Net Ltd.",
+        "handle": "TELECOMS-AS"
+    },
+    "16193": {
+        "country_code": "BG",
+        "asn": "16193",
+        "description": "BORICA AD",
+        "handle": "BORICA-AD"
+    },
+    "16226": {
+        "country_code": "BG",
+        "asn": "16226",
+        "description": "Internet & Telecom Solutions Ltd.",
+        "handle": "NEWGEN"
+    },
+    "16328": {
+        "country_code": "BG",
+        "asn": "16328",
+        "description": "University of Architecture Civil Engineering and Geodesy",
+        "handle": "UACEG-AS"
+    },
+    "16344": {
+        "country_code": "BG",
+        "asn": "16344",
+        "description": "Information Services PLC",
+        "handle": "IS-BG-AS"
+    },
+    "20657": {
+        "country_code": "BG",
+        "asn": "20657",
+        "description": "ATLANTIS BG Ltd.",
+        "handle": "ATLANTIS"
+    },
+    "20665": {
+        "country_code": "BG",
+        "asn": "20665",
+        "description": "Varna Net Ltd.",
+        "handle": "VARNANET-AS"
+    },
+    "20682": {
+        "country_code": "BG",
+        "asn": "20682",
+        "description": "BG ONE Ltd",
+        "handle": "BGONE-AS"
+    },
+    "20750": {
+        "country_code": "BG",
+        "asn": "20750",
+        "description": "NetLan Ltd.",
+        "handle": "NETLAN"
+    },
+    "20818": {
+        "country_code": "BG",
+        "asn": "20818",
+        "description": "NETGUARD LLC",
+        "handle": "NSS"
+    },
+    "20911": {
+        "country_code": "BG",
+        "asn": "20911",
+        "description": "Net-Surf.net Ltd.",
+        "handle": "NETSURF-AS-BG"
+    },
+    "20956": {
+        "country_code": "BG",
+        "asn": "20956",
+        "description": "SYSTEM SECURITY AND INTEGRATION EOOD",
+        "handle": "SSI-AS"
+    },
+    "21230": {
+        "country_code": "BG",
+        "asn": "21230",
+        "description": "M SAT Cable EAD",
+        "handle": "MNET-BG"
+    },
+    "21249": {
+        "country_code": "BG",
+        "asn": "21249",
+        "description": "Rutil Ltd.",
+        "handle": "RUTIL-BG-AS"
+    },
+    "21337": {
+        "country_code": "BG",
+        "asn": "21337",
+        "description": "United Bulgarian Bank AD",
+        "handle": "UBBNET"
+    },
+    "21415": {
+        "country_code": "BG",
+        "asn": "21415",
+        "description": "Vivacom Bulgaria EAD",
+        "handle": "INTERNETGROUP-AS-BG"
+    },
+    "24693": {
+        "country_code": "BG",
+        "asn": "24693",
+        "description": "CNSYS PLC",
+        "handle": "CNSYS-AS"
+    },
+    "24750": {
+        "country_code": "BG",
+        "asn": "24750",
+        "description": "MyAcct LTD",
+        "handle": "CISBG"
+    },
+    "24770": {
+        "country_code": "BG",
+        "asn": "24770",
+        "description": "Unix Solutions Ltd",
+        "handle": "UX-AS"
+    },
+    "24964": {
+        "country_code": "BG",
+        "asn": "24964",
+        "description": "A1 Bulgaria EAD",
+        "handle": "A1BG"
+    },
+    "25076": {
+        "country_code": "BG",
+        "asn": "25076",
+        "description": "KTV Istar Ltd.",
+        "handle": "ISTARLINK-AS"
+    },
+    "25147": {
+        "country_code": "BG",
+        "asn": "25147",
+        "description": "Ecoplast EOOD",
+        "handle": "SOFIANET"
+    },
+    "25166": {
+        "country_code": "BG",
+        "asn": "25166",
+        "description": "MAIL.BG Ssc",
+        "handle": "MAIL-BG"
+    },
+    "25206": {
+        "country_code": "BG",
+        "asn": "25206",
+        "description": "Unacs - Yuri Jordanov Ltd.",
+        "handle": "UNACS-AS-BG"
+    },
+    "25211": {
+        "country_code": "BG",
+        "asn": "25211",
+        "description": "Euro Crypt EOOD",
+        "handle": "EUROCRYPT-AS"
+    },
+    "25224": {
+        "country_code": "BG",
+        "asn": "25224",
+        "description": "STS Invest Holding AD",
+        "handle": "STS-HOLDING-AS"
+    },
+    "25332": {
+        "country_code": "BG",
+        "asn": "25332",
+        "description": "Linkos Ltd.",
+        "handle": "LINKOS-AS"
+    },
+    "25374": {
+        "country_code": "BG",
+        "asn": "25374",
+        "description": "ESCOM Ltd. - Haskovo",
+        "handle": "ESCOMBG-AS"
+    },
+    "25407": {
+        "country_code": "BG",
+        "asn": "25407",
+        "description": "TAXBACK LTD",
+        "handle": "TAXBACK-AS"
+    },
+    "25554": {
+        "country_code": "BG",
+        "asn": "25554",
+        "description": "Ministry of Finance of Bulgarian Government",
+        "handle": "MINFIN-AS"
+    },
+    "28819": {
+        "country_code": "BG",
+        "asn": "28819",
+        "description": "Merkle EOOD",
+        "handle": "ECM-SOFIA"
+    },
+    "28820": {
+        "country_code": "BG",
+        "asn": "28820",
+        "description": "Eastern Telecommunication Company EAD",
+        "handle": "INTERTEL-AS"
+    },
+    "28909": {
+        "country_code": "BG",
+        "asn": "28909",
+        "description": "TV SAT NET LTD",
+        "handle": "BG-TVSAT-AS"
+    },
+    "28949": {
+        "country_code": "BG",
+        "asn": "28949",
+        "description": "Technical University of Sofia",
+        "handle": "TUSNET-AS"
+    },
+    "29030": {
+        "country_code": "BG",
+        "asn": "29030",
+        "description": "TELECABEL PLC",
+        "handle": "TELEKABEL"
+    },
+    "29080": {
+        "country_code": "BG",
+        "asn": "29080",
+        "description": "Unicredit-Bulbank-AD",
+        "handle": "BULBANK-AS"
+    },
+    "29084": {
+        "country_code": "BG",
+        "asn": "29084",
+        "description": "Comnet Bulgaria Holding Ltd.",
+        "handle": "COMNET-AS"
+    },
+    "29122": {
+        "country_code": "BG",
+        "asn": "29122",
+        "description": "i-Wet Ltd.",
+        "handle": "IWET-AS"
+    },
+    "29210": {
+        "country_code": "BG",
+        "asn": "29210",
+        "description": "Internews 98 OOD",
+        "handle": "INTERNEWS-BG"
+    },
+    "29244": {
+        "country_code": "BG",
+        "asn": "29244",
+        "description": "CETIN Bulgaria EAD",
+        "handle": "TELENORBG-AS"
+    },
+    "29343": {
+        "country_code": "BG",
+        "asn": "29343",
+        "description": "Akvanet Ltd.",
+        "handle": "AS-AKVANET"
+    },
+    "29366": {
+        "country_code": "BG",
+        "asn": "29366",
+        "description": "A Data Pro Ltd",
+        "handle": "AIIDATAPRO-AS"
+    },
+    "29390": {
+        "country_code": "BG",
+        "asn": "29390",
+        "description": "Netassist International EOOD",
+        "handle": "CTU-AS"
+    },
+    "29580": {
+        "country_code": "BG",
+        "asn": "29580",
+        "description": "A1 Bulgaria EAD",
+        "handle": "A1BG-RSG"
+    },
+    "29582": {
+        "country_code": "BG",
+        "asn": "29582",
+        "description": "Optisprint OOD",
+        "handle": "SATCOM-AS"
+    },
+    "29622": {
+        "country_code": "BG",
+        "asn": "29622",
+        "description": "ICON Ltd",
+        "handle": "ICONBG-AS"
+    },
+    "29632": {
+        "country_code": "BG",
+        "asn": "29632",
+        "description": "Netassist International EOOD",
+        "handle": "NASSIST-AS"
+    },
+    "29667": {
+        "country_code": "BG",
+        "asn": "29667",
+        "description": "Atlantis Net Ltd.",
+        "handle": "ATLANTISNET-AS"
+    },
+    "29687": {
+        "country_code": "BG",
+        "asn": "29687",
+        "description": "Geodim Ltd.",
+        "handle": "BGWAN-AS"
+    },
+    "29694": {
+        "country_code": "BG",
+        "asn": "29694",
+        "description": "VILLAGENET Ltd.",
+        "handle": "VILLAGENET"
+    },
+    "31011": {
+        "country_code": "BG",
+        "asn": "31011",
+        "description": "University of Chemical Technology And Metallurgy",
+        "handle": "UCTM-AS"
+    },
+    "31014": {
+        "country_code": "BG",
+        "asn": "31014",
+        "description": "DeltaStock AD",
+        "handle": "DELTASTOCK-AS"
+    },
+    "31029": {
+        "country_code": "BG",
+        "asn": "31029",
+        "description": "M-REAL NET Ltd.",
+        "handle": "M-REAL"
+    },
+    "31083": {
+        "country_code": "BG",
+        "asn": "31083",
+        "description": "Telepoint Ltd",
+        "handle": "TELEPOINT"
+    },
+    "31140": {
+        "country_code": "BG",
+        "asn": "31140",
+        "description": "Bulgarian Stock Exchange AD",
+        "handle": "BSE-AS"
+    },
+    "31250": {
+        "country_code": "BG",
+        "asn": "31250",
+        "description": "Vivacom Bulgaria EAD",
+        "handle": "ONLINEDIRECT-AS"
+    },
+    "31287": {
+        "country_code": "BG",
+        "asn": "31287",
+        "description": "IPACCT CABLE Ltd",
+        "handle": "IPACCT-AS"
+    },
+    "31293": {
+        "country_code": "BG",
+        "asn": "31293",
+        "description": "ITNS GLOBAL EOOD",
+        "handle": "ITNSGLOBAL-AS"
+    },
+    "31298": {
+        "country_code": "BG",
+        "asn": "31298",
+        "description": "Zulu Ltd.",
+        "handle": "AS-ZULU-BG"
+    },
+    "31308": {
+        "country_code": "BG",
+        "asn": "31308",
+        "description": "FIXITY LLC",
+        "handle": "FIXITY"
+    },
+    "31369": {
+        "country_code": "BG",
+        "asn": "31369",
+        "description": "National Social Security Institute",
+        "handle": "NSSI-AS"
+    },
+    "31420": {
+        "country_code": "BG",
+        "asn": "31420",
+        "description": "Terasyst Ltd",
+        "handle": "TERASYST-AS"
+    },
+    "31435": {
+        "country_code": "BG",
+        "asn": "31435",
+        "description": "MEDICOM BULGARIA Ltd.",
+        "handle": "MEDICOM-BG"
+    },
+    "31440": {
+        "country_code": "BG",
+        "asn": "31440",
+        "description": "DSK Bank EAD",
+        "handle": "DSK-AS"
+    },
+    "31460": {
+        "country_code": "BG",
+        "asn": "31460",
+        "description": "Unikal - N.Nikolov Ltd",
+        "handle": "UNIKAL"
+    },
+    "31490": {
+        "country_code": "BG",
+        "asn": "31490",
+        "description": "NetIX Communications JSC",
+        "handle": "NETIX-MGMT-AS"
+    },
+    "31522": {
+        "country_code": "BG",
+        "asn": "31522",
+        "description": "BTV MEDIA GROUP EAD",
+        "handle": "BTV-BG"
+    },
+    "31527": {
+        "country_code": "BG",
+        "asn": "31527",
+        "description": "TELEPOL Ltd.",
+        "handle": "TELEPOL-AS"
+    },
+    "31534": {
+        "country_code": "BG",
+        "asn": "31534",
+        "description": "ING Bank N.V. - Sofia Branch",
+        "handle": "ING-BANK-AS"
+    },
+    "33825": {
+        "country_code": "BG",
+        "asn": "33825",
+        "description": "Interimpex Ltd.",
+        "handle": "BOR-AS"
+    },
+    "33853": {
+        "country_code": "BG",
+        "asn": "33853",
+        "description": "Procredit Bank Ltd",
+        "handle": "PROCREDITBANK-BG"
+    },
+    "34074": {
+        "country_code": "BG",
+        "asn": "34074",
+        "description": "IBS Bulgaria EOOD",
+        "handle": "IBS-BG-AS"
+    },
+    "34224": {
+        "country_code": "BG",
+        "asn": "34224",
+        "description": "Neterra Ltd.",
+        "handle": "NETERRA-AS"
+    },
+    "34272": {
+        "country_code": "BG",
+        "asn": "34272",
+        "description": "Teva Pharma EAD",
+        "handle": "ACTAVIS-AS"
+    },
+    "34295": {
+        "country_code": "BG",
+        "asn": "34295",
+        "description": "Geo BG Net SPLtd",
+        "handle": "ETA-BG-ASN"
+    },
+    "34314": {
+        "country_code": "BG",
+        "asn": "34314",
+        "description": "ES NET Ltd.",
+        "handle": "ESNET-AS"
+    },
+    "34340": {
+        "country_code": "BG",
+        "asn": "34340",
+        "description": "Bulgarian National TV",
+        "handle": "BNT-AS"
+    },
+    "34368": {
+        "country_code": "BG",
+        "asn": "34368",
+        "description": "ZONATA - INVEST sLLC",
+        "handle": "THEZONE"
+    },
+    "34376": {
+        "country_code": "BG",
+        "asn": "34376",
+        "description": "Telecom Group Ltd",
+        "handle": "TELECOM-GROUP-AS"
+    },
+    "34395": {
+        "country_code": "BG",
+        "asn": "34395",
+        "description": "Elcomp 68 Ltd",
+        "handle": "CYBCOM-NET-AS-BG"
+    },
+    "34491": {
+        "country_code": "BG",
+        "asn": "34491",
+        "description": "BULSTRAD VIENNA INSURANCE GROUP EAD",
+        "handle": "BULSTRAD-AS"
+    },
+    "34524": {
+        "country_code": "BG",
+        "asn": "34524",
+        "description": "Digital Communications Ltd.",
+        "handle": "DIGICOM-AS"
+    },
+    "34565": {
+        "country_code": "BG",
+        "asn": "34565",
+        "description": "TurkIX Communications Ltd.",
+        "handle": "TURKIX"
+    },
+    "34569": {
+        "country_code": "BG",
+        "asn": "34569",
+        "description": "Vivacom Bulgaria EAD",
+        "handle": "NETWORX-BG"
+    },
+    "34577": {
+        "country_code": "BG",
+        "asn": "34577",
+        "description": "SKAT TV Ltd.",
+        "handle": "SKATTV-AS"
+    },
+    "34589": {
+        "country_code": "BG",
+        "asn": "34589",
+        "description": "i:FAO Bulgaria EOOD",
+        "handle": "IFAO-BG-AS"
+    },
+    "34653": {
+        "country_code": "BG",
+        "asn": "34653",
+        "description": "Focus Nunti Ltd.",
+        "handle": "FOCUS-NUNTI"
+    },
+    "34674": {
+        "country_code": "BG",
+        "asn": "34674",
+        "description": "NetWave Ltd.",
+        "handle": "NETWAVE-AS"
+    },
+    "34754": {
+        "country_code": "BG",
+        "asn": "34754",
+        "description": "Vivacom Bulgaria EAD",
+        "handle": "TELNET-AS"
+    },
+    "34841": {
+        "country_code": "BG",
+        "asn": "34841",
+        "description": "Lafy OOD",
+        "handle": "BALCHIKNET"
+    },
+    "34909": {
+        "country_code": "BG",
+        "asn": "34909",
+        "description": "MAXCOM Ltd",
+        "handle": "MAXCOM-AS"
+    },
+    "34917": {
+        "country_code": "BG",
+        "asn": "34917",
+        "description": "Orlandonet ltd.",
+        "handle": "ORLANDONET-AS"
+    },
+    "35011": {
+        "country_code": "BG",
+        "asn": "35011",
+        "description": "Prosveta Sofia PLC",
+        "handle": "PROSVETA"
+    },
+    "35014": {
+        "country_code": "BG",
+        "asn": "35014",
+        "description": "COBUILDER INTERNATIONAL Ltd.",
+        "handle": "COBUILDER-AS"
+    },
+    "35122": {
+        "country_code": "BG",
+        "asn": "35122",
+        "description": "Satnet LTD",
+        "handle": "SATNET-AS"
+    },
+    "35141": {
+        "country_code": "BG",
+        "asn": "35141",
+        "description": "A1 Bulgaria EAD",
+        "handle": "A1BG-RSS"
+    },
+    "35176": {
+        "country_code": "BG",
+        "asn": "35176",
+        "description": "Dynamo Software Bulgaria Ltd",
+        "handle": "DYNAMO-SOFTWARE-BULGARIA-AS"
+    },
+    "35183": {
+        "country_code": "BG",
+        "asn": "35183",
+        "description": "Bulgarian Telegraf Agency",
+        "handle": "BTA-AS"
+    },
+    "35293": {
+        "country_code": "BG",
+        "asn": "35293",
+        "description": "E-CARD LTD.",
+        "handle": "ECARD-AS"
+    },
+    "35448": {
+        "country_code": "BG",
+        "asn": "35448",
+        "description": "Multilink Ltd.",
+        "handle": "MULTILINK"
+    },
+    "35464": {
+        "country_code": "BG",
+        "asn": "35464",
+        "description": "Datamax JSC",
+        "handle": "DATAMAXBG"
+    },
+    "35466": {
+        "country_code": "BG",
+        "asn": "35466",
+        "description": "METRO Cash & Carry Bulgaria EOOD",
+        "handle": "METRO-BG-AS"
+    },
+    "35480": {
+        "country_code": "BG",
+        "asn": "35480",
+        "description": "ASP Ltd",
+        "handle": "ASP-AS"
+    },
+    "35489": {
+        "country_code": "BG",
+        "asn": "35489",
+        "description": "Global One Ltd.",
+        "handle": "GLOBALONE"
+    },
+    "35503": {
+        "country_code": "BG",
+        "asn": "35503",
+        "description": "Ministry of Education Youth and Science",
+        "handle": "BG-SCHOOL-AS"
+    },
+    "35654": {
+        "country_code": "BG",
+        "asn": "35654",
+        "description": "Cores Networks EOOD",
+        "handle": "CORESNET"
+    },
+    "35761": {
+        "country_code": "BG",
+        "asn": "35761",
+        "description": "Mitko.Com Ltd.",
+        "handle": "TIVI-BG"
+    },
+    "35773": {
+        "country_code": "BG",
+        "asn": "35773",
+        "description": "iConnect Ltd.",
+        "handle": "ICONNECT-AS"
+    },
+    "38924": {
+        "country_code": "BG",
+        "asn": "38924",
+        "description": "Trakia Kabel OOD",
+        "handle": "AS-TRAKIACABLE"
+    },
+    "38932": {
+        "country_code": "BG",
+        "asn": "38932",
+        "description": "Rimex Ltd.",
+        "handle": "RIMEX"
+    },
+    "39024": {
+        "country_code": "BG",
+        "asn": "39024",
+        "description": "Nastech OOD",
+        "handle": "NASTECH"
+    },
+    "39135": {
+        "country_code": "BG",
+        "asn": "39135",
+        "description": "Fiber 1 Ltd.",
+        "handle": "FIBER1BG"
+    },
+    "39163": {
+        "country_code": "BG",
+        "asn": "39163",
+        "description": "Econt Express OOD.",
+        "handle": "ECONT-EXPRESS-AS"
+    },
+    "39183": {
+        "country_code": "BG",
+        "asn": "39183",
+        "description": "Micro Optics Europe EOOD",
+        "handle": "MICRO-OPTICS-EUROPE"
+    },
+    "39184": {
+        "country_code": "BG",
+        "asn": "39184",
+        "description": "UltraNET Ltd",
+        "handle": "ULTRANET-AS"
+    },
+    "39246": {
+        "country_code": "BG",
+        "asn": "39246",
+        "description": "Optical Structural Network Ltd.",
+        "handle": "LIULINNET"
+    },
+    "39249": {
+        "country_code": "BG",
+        "asn": "39249",
+        "description": "Netassist International EOOD",
+        "handle": "KICUA-AS"
+    },
+    "39251": {
+        "country_code": "BG",
+        "asn": "39251",
+        "description": "NETGUARD LLC",
+        "handle": "NETGUARD"
+    },
+    "39357": {
+        "country_code": "BG",
+        "asn": "39357",
+        "description": "Datecs Ltd.",
+        "handle": "DATECS-AS"
+    },
+    "39396": {
+        "country_code": "BG",
+        "asn": "39396",
+        "description": "NBI Systems Ltd.",
+        "handle": "NBIS-AS"
+    },
+    "39401": {
+        "country_code": "BG",
+        "asn": "39401",
+        "description": "Link+ Ltd",
+        "handle": "LINKPLUSBG"
+    },
+    "39483": {
+        "country_code": "BG",
+        "asn": "39483",
+        "description": "OSCEOLA EOOD",
+        "handle": "OSCEOLA-AS"
+    },
+    "39505": {
+        "country_code": "BG",
+        "asn": "39505",
+        "description": "VESTITEL BG",
+        "handle": "VESTITEL-AS"
+    },
+    "39635": {
+        "country_code": "BG",
+        "asn": "39635",
+        "description": "Mini Maritsa Iztok EAD",
+        "handle": "MMI-AS"
+    },
+    "39683": {
+        "country_code": "BG",
+        "asn": "39683",
+        "description": "Netpoint Services Ltd.",
+        "handle": "NETPOINT-SERVICES-AS"
+    },
+    "40968": {
+        "country_code": "BG",
+        "asn": "40968",
+        "description": "Professional Protection Electronic Ltd.",
+        "handle": "DSC"
+    },
+    "41017": {
+        "country_code": "BG",
+        "asn": "41017",
+        "description": "Business Network Ltd.",
+        "handle": "GOBULNET"
+    },
+    "41019": {
+        "country_code": "BG",
+        "asn": "41019",
+        "description": "Burgasnet LTD",
+        "handle": "BURGASNET"
+    },
+    "41059": {
+        "country_code": "BG",
+        "asn": "41059",
+        "description": "NOVATEL EOOD",
+        "handle": "T-CIX"
+    },
+    "41234": {
+        "country_code": "BG",
+        "asn": "41234",
+        "description": "Axway Bulgaria Ltd.",
+        "handle": "AXWAY-AS"
+    },
+    "41280": {
+        "country_code": "BG",
+        "asn": "41280",
+        "description": "SKYNET BULGARIA Ltd.",
+        "handle": "BG-SKYNET"
+    },
+    "41292": {
+        "country_code": "BG",
+        "asn": "41292",
+        "description": "Speditor NET Ltd.",
+        "handle": "SPEDITOR-NET-AS"
+    },
+    "41313": {
+        "country_code": "BG",
+        "asn": "41313",
+        "description": "NOVATEL EOOD",
+        "handle": "NOVATEL-AS"
+    },
+    "41339": {
+        "country_code": "BG",
+        "asn": "41339",
+        "description": "CitoConsult Ltd.",
+        "handle": "CC-AS"
+    },
+    "41352": {
+        "country_code": "BG",
+        "asn": "41352",
+        "description": "D. A. Tsenov Svishtov Academy of Economics",
+        "handle": "UNI-SVISHTOV"
+    },
+    "41366": {
+        "country_code": "BG",
+        "asn": "41366",
+        "description": "KOMAX OOD",
+        "handle": "KOMAX"
+    },
+    "41610": {
+        "country_code": "BG",
+        "asn": "41610",
+        "description": "Finite Software Systems Ltd.",
+        "handle": "FINITE"
+    },
+    "41624": {
+        "country_code": "BG",
+        "asn": "41624",
+        "description": "Elektronika NS Ltd.",
+        "handle": "ELEKTRONIKANS"
+    },
+    "41663": {
+        "country_code": "BG",
+        "asn": "41663",
+        "description": "Municipal Bank AD",
+        "handle": "MUNICIPALBANK"
+    },
+    "41703": {
+        "country_code": "BG",
+        "asn": "41703",
+        "description": "Koel1 OOD",
+        "handle": "KOEL1"
+    },
+    "41730": {
+        "country_code": "BG",
+        "asn": "41730",
+        "description": "Dazzlework Ltd.",
+        "handle": "DAZZLEWORK-AS"
+    },
+    "41764": {
+        "country_code": "BG",
+        "asn": "41764",
+        "description": "Ratola Information Technologies EOOD",
+        "handle": "RATOLAIT-AS"
+    },
+    "41782": {
+        "country_code": "BG",
+        "asn": "41782",
+        "description": "BGLAN LTD",
+        "handle": "BGLAN-AS"
+    },
+    "41799": {
+        "country_code": "BG",
+        "asn": "41799",
+        "description": "Eurobank Bulgaria AD",
+        "handle": "POSTBANK-AS"
+    },
+    "41803": {
+        "country_code": "BG",
+        "asn": "41803",
+        "description": "KPMG Audit OOD",
+        "handle": "KPMG-AS"
+    },
+    "41844": {
+        "country_code": "BG",
+        "asn": "41844",
+        "description": "Urban Mobility Center EAD",
+        "handle": "UMC-AS"
+    },
+    "41870": {
+        "country_code": "BG",
+        "asn": "41870",
+        "description": "S3 Company Ltd",
+        "handle": "S3COMPANY"
+    },
+    "41889": {
+        "country_code": "BG",
+        "asn": "41889",
+        "description": "BORICA AD",
+        "handle": "BORICA-AS"
+    },
+    "41901": {
+        "country_code": "BG",
+        "asn": "41901",
+        "description": "TELELINK BUSINESS SERVICES EAD",
+        "handle": "TELELINK-AS"
+    },
+    "41922": {
+        "country_code": "BG",
+        "asn": "41922",
+        "description": "MIS70 LTD",
+        "handle": "MIS70"
+    },
+    "41946": {
+        "country_code": "BG",
+        "asn": "41946",
+        "description": "Petros Ltd.",
+        "handle": "LAGERAONLINE-AS"
+    },
+    "41989": {
+        "country_code": "BG",
+        "asn": "41989",
+        "description": "Dobrinka Bacanova",
+        "handle": "KTBAC-AS"
+    },
+    "41990": {
+        "country_code": "BG",
+        "asn": "41990",
+        "description": "NETFINITY JSC",
+        "handle": "NETFINITY-AS"
+    },
+    "42049": {
+        "country_code": "BG",
+        "asn": "42049",
+        "description": "Nadejda.Net Ltd",
+        "handle": "NADEJDANET"
+    },
+    "42086": {
+        "country_code": "BG",
+        "asn": "42086",
+        "description": "RO&NI EOOD",
+        "handle": "RO-NI"
+    },
+    "42100": {
+        "country_code": "BG",
+        "asn": "42100",
+        "description": "Witmind Ltd",
+        "handle": "WITMIND-AS"
+    },
+    "42157": {
+        "country_code": "BG",
+        "asn": "42157",
+        "description": "A1 Bulgaria EAD",
+        "handle": "A1BG"
+    },
+    "42191": {
+        "country_code": "BG",
+        "asn": "42191",
+        "description": "State Fund Agriculture",
+        "handle": "DFZ-AS"
+    },
+    "42248": {
+        "country_code": "BG",
+        "asn": "42248",
+        "description": "Vida optics TVV Ltd.",
+        "handle": "VIDA-OPTICS"
+    },
+    "42267": {
+        "country_code": "BG",
+        "asn": "42267",
+        "description": "Vision Media Plus EOOD",
+        "handle": "VMPLUS"
+    },
+    "42293": {
+        "country_code": "BG",
+        "asn": "42293",
+        "description": "ET PAVLIN ILIEV - AVALA",
+        "handle": "AVALA-AS"
+    },
+    "42295": {
+        "country_code": "BG",
+        "asn": "42295",
+        "description": "TBISS Ltd",
+        "handle": "TBISS-AS"
+    },
+    "42347": {
+        "country_code": "BG",
+        "asn": "42347",
+        "description": "Hosting-27 LTD",
+        "handle": "HOSTING-27"
+    },
+    "42351": {
+        "country_code": "BG",
+        "asn": "42351",
+        "description": "StreamNet EOOD",
+        "handle": "STREAM-NET"
+    },
+    "42372": {
+        "country_code": "BG",
+        "asn": "42372",
+        "description": "Netassist International EOOD",
+        "handle": "DNETUA-AS"
+    },
+    "42398": {
+        "country_code": "BG",
+        "asn": "42398",
+        "description": "Comtech Bulgaria LTD",
+        "handle": "COMTECH"
+    },
+    "42410": {
+        "country_code": "BG",
+        "asn": "42410",
+        "description": "Point To Point Ltd.",
+        "handle": "PTP-AS"
+    },
+    "42431": {
+        "country_code": "BG",
+        "asn": "42431",
+        "description": "BiConsult Eood",
+        "handle": "B-NET"
+    },
+    "42446": {
+        "country_code": "BG",
+        "asn": "42446",
+        "description": "Viscomp Ltd",
+        "handle": "VISCOMP-AS"
+    },
+    "42459": {
+        "country_code": "BG",
+        "asn": "42459",
+        "description": "Fiber Optics Bulgaria OOD",
+        "handle": "FOBUL"
+    },
+    "42555": {
+        "country_code": "BG",
+        "asn": "42555",
+        "description": "OPTICCOM- BULGARIA Ltd.",
+        "handle": "OPTIC-COM-EU"
+    },
+    "42625": {
+        "country_code": "BG",
+        "asn": "42625",
+        "description": "NOVA BROADCASTING GROUP EOOD",
+        "handle": "NOVA-TELEVISION"
+    },
+    "42721": {
+        "country_code": "BG",
+        "asn": "42721",
+        "description": "VideoMaxAVS Ltd.",
+        "handle": "VIDEOMAXAVS"
+    },
+    "42794": {
+        "country_code": "BG",
+        "asn": "42794",
+        "description": "Ultracom Ltd.",
+        "handle": "ULTRACOM-AS"
+    },
+    "42805": {
+        "country_code": "BG",
+        "asn": "42805",
+        "description": "eMerchantPay Ltd",
+        "handle": "EMERCHANTPAY"
+    },
+    "42815": {
+        "country_code": "BG",
+        "asn": "42815",
+        "description": "ComMetric Ltd.",
+        "handle": "COMMETRIC"
+    },
+    "42844": {
+        "country_code": "BG",
+        "asn": "42844",
+        "description": "Kbrod.net Ltd.",
+        "handle": "KBRD-AS"
+    },
+    "42855": {
+        "country_code": "BG",
+        "asn": "42855",
+        "description": "OMEGA-NET Ltd",
+        "handle": "OMEGANET"
+    },
+    "42878": {
+        "country_code": "BG",
+        "asn": "42878",
+        "description": "General Partnership Compas - Karadjov & Co.",
+        "handle": "COMPASBG-AS"
+    },
+    "42942": {
+        "country_code": "BG",
+        "asn": "42942",
+        "description": "Telecomp Ltd.",
+        "handle": "TELECOMP-AS"
+    },
+    "42956": {
+        "country_code": "BG",
+        "asn": "42956",
+        "description": "NAS - DI EOOD",
+        "handle": "FENIKS-AS"
+    },
+    "43063": {
+        "country_code": "BG",
+        "asn": "43063",
+        "description": "SOPHARMA JSCo",
+        "handle": "SPH-AS01"
+    },
+    "43068": {
+        "country_code": "BG",
+        "asn": "43068",
+        "description": "Pladi Computers Ltd.",
+        "handle": "PLADI-AS"
+    },
+    "43112": {
+        "country_code": "BG",
+        "asn": "43112",
+        "description": "TSBG Hosting Ltd.",
+        "handle": "TSBG-HOSTING"
+    },
+    "43134": {
+        "country_code": "BG",
+        "asn": "43134",
+        "description": "Delta HighTech Ltd.",
+        "handle": "ADNEXT"
+    },
+    "43202": {
+        "country_code": "BG",
+        "asn": "43202",
+        "description": "Elektrorazpredelenie Yug EAD",
+        "handle": "EVN"
+    },
+    "43205": {
+        "country_code": "BG",
+        "asn": "43205",
+        "description": "Vivacom Bulgaria EAD",
+        "handle": "BULSATCOM-BG-AS"
+    },
+    "43426": {
+        "country_code": "BG",
+        "asn": "43426",
+        "description": "Netassist International EOOD",
+        "handle": "NLINE-LVIV"
+    },
+    "43548": {
+        "country_code": "BG",
+        "asn": "43548",
+        "description": "NETBOX LTD",
+        "handle": "DELTANET-AS"
+    },
+    "43561": {
+        "country_code": "BG",
+        "asn": "43561",
+        "description": "Vivacom Bulgaria EAD",
+        "handle": "NET1-AS"
+    },
+    "43651": {
+        "country_code": "BG",
+        "asn": "43651",
+        "description": "Generali Insurance AD",
+        "handle": "GNENERALIBG"
+    },
+    "43659": {
+        "country_code": "BG",
+        "asn": "43659",
+        "description": "Neterra Ltd.",
+        "handle": "CLOUDCOMPUTING"
+    },
+    "43713": {
+        "country_code": "BG",
+        "asn": "43713",
+        "description": "MOST Computers Ltd.",
+        "handle": "MOSTBG-AS"
+    },
+    "43718": {
+        "country_code": "BG",
+        "asn": "43718",
+        "description": "Veriosoft EOOD",
+        "handle": "STBG-AS"
+    },
+    "43723": {
+        "country_code": "BG",
+        "asn": "43723",
+        "description": "Computernet Services Ltd.",
+        "handle": "CNS"
+    },
+    "43732": {
+        "country_code": "BG",
+        "asn": "43732",
+        "description": "TBI BANK EAD",
+        "handle": "TBI-AS"
+    },
+    "43943": {
+        "country_code": "BG",
+        "asn": "43943",
+        "description": "KCM SA",
+        "handle": "KCM"
+    },
+    "43944": {
+        "country_code": "BG",
+        "asn": "43944",
+        "description": "Velox Ltd.",
+        "handle": "VELOXAS"
+    },
+    "44077": {
+        "country_code": "BG",
+        "asn": "44077",
+        "description": "AM NET Ltd.",
+        "handle": "AM-NET-AS"
+    },
+    "44100": {
+        "country_code": "BG",
+        "asn": "44100",
+        "description": "Ariel TV EAD",
+        "handle": "ARIELTV-AS"
+    },
+    "44129": {
+        "country_code": "BG",
+        "asn": "44129",
+        "description": "Entain Services (Bulgaria) EOOD",
+        "handle": "GBSERVICES-AS"
+    },
+    "44179": {
+        "country_code": "BG",
+        "asn": "44179",
+        "description": "Progress Software EAD",
+        "handle": "TELERIK-AS"
+    },
+    "44201": {
+        "country_code": "BG",
+        "asn": "44201",
+        "description": "Bulgarian National Bank",
+        "handle": "BNB"
+    },
+    "44247": {
+        "country_code": "BG",
+        "asn": "44247",
+        "description": "Videosat 21 Vek OOD",
+        "handle": "VIDEOSAT"
+    },
+    "44309": {
+        "country_code": "BG",
+        "asn": "44309",
+        "description": "ET Satelit TM - Anton Simeonov",
+        "handle": "SATELITTM-AS"
+    },
+    "44313": {
+        "country_code": "BG",
+        "asn": "44313",
+        "description": "Set Service Ltd.",
+        "handle": "SETSERVICE"
+    },
+    "44396": {
+        "country_code": "BG",
+        "asn": "44396",
+        "description": "United Bulgarian Bank AD",
+        "handle": "RBB-BG"
+    },
+    "44476": {
+        "country_code": "BG",
+        "asn": "44476",
+        "description": "ZETTA HOSTING SOLUTIONS LLC.",
+        "handle": "ZETTA-AS"
+    },
+    "44525": {
+        "country_code": "BG",
+        "asn": "44525",
+        "description": "Niko Net Com Ltd.",
+        "handle": "NIKONETCOM-AS"
+    },
+    "44564": {
+        "country_code": "BG",
+        "asn": "44564",
+        "description": "Technical Solution Ltd",
+        "handle": "EUROSPED-AS"
+    },
+    "44586": {
+        "country_code": "BG",
+        "asn": "44586",
+        "description": "Executive Agency Electronic Communication Networks and Information Systems",
+        "handle": "ESMIS-BG"
+    },
+    "44598": {
+        "country_code": "BG",
+        "asn": "44598",
+        "description": "GIGA FIBERNET ltd.",
+        "handle": "MAXMEDIA-AS"
+    },
+    "44718": {
+        "country_code": "BG",
+        "asn": "44718",
+        "description": "Fraport Twin Star Airport Management AD",
+        "handle": "FRAPORT-BG-AS"
+    },
+    "44781": {
+        "country_code": "BG",
+        "asn": "44781",
+        "description": "Micro Credit AD",
+        "handle": "CREDIBUL-AS"
+    },
+    "44796": {
+        "country_code": "BG",
+        "asn": "44796",
+        "description": "Viscomp Ltd",
+        "handle": "EUROWEB-AS"
+    },
+    "44805": {
+        "country_code": "BG",
+        "asn": "44805",
+        "description": "New Bulgarian University",
+        "handle": "NBU-AS"
+    },
+    "44814": {
+        "country_code": "BG",
+        "asn": "44814",
+        "description": "Bulgartel AD",
+        "handle": "BTEL-BG-AS"
+    },
+    "44828": {
+        "country_code": "BG",
+        "asn": "44828",
+        "description": "Neterra Ltd.",
+        "handle": "NETERRA-ENTERPRISE-INTERNET-ACCESS"
+    },
+    "44851": {
+        "country_code": "BG",
+        "asn": "44851",
+        "description": "Retel JSC",
+        "handle": "BG-RETEL-AS"
+    },
+    "44872": {
+        "country_code": "BG",
+        "asn": "44872",
+        "description": "PREZIDENTSTVO NA REPUBLIKA BULGARIA",
+        "handle": "APBG-AS"
+    },
+    "44886": {
+        "country_code": "BG",
+        "asn": "44886",
+        "description": "Elana Financial Holding AD",
+        "handle": "ELANA-AS"
+    },
+    "44901": {
+        "country_code": "BG",
+        "asn": "44901",
+        "description": "Belcloud LTD",
+        "handle": "BELCLOUD"
+    },
+    "44967": {
+        "country_code": "BG",
+        "asn": "44967",
+        "description": "Tasio LTD.",
+        "handle": "TASIO"
+    },
+    "45007": {
+        "country_code": "BG",
+        "asn": "45007",
+        "description": "VIPNET PRIM Ltd",
+        "handle": "VIPNET"
+    },
+    "47174": {
+        "country_code": "BG",
+        "asn": "47174",
+        "description": "Technical University of Varna",
+        "handle": "TUVARNA-AS"
+    },
+    "47226": {
+        "country_code": "BG",
+        "asn": "47226",
+        "description": "AKAT TECHNOLOGIES LTD",
+        "handle": "AKAT-TECHNOLOGIES"
+    },
+    "47374": {
+        "country_code": "BG",
+        "asn": "47374",
+        "description": "Ultra-Todor Slavov Ltd.",
+        "handle": "LANULTRA"
+    },
+    "47402": {
+        "country_code": "BG",
+        "asn": "47402",
+        "description": "Multimedia BG EOOD",
+        "handle": "MULTIMEDIA-AS"
+    },
+    "47453": {
+        "country_code": "BG",
+        "asn": "47453",
+        "description": "ITservice 2009 LTD",
+        "handle": "ITSERVICE"
+    },
+    "47557": {
+        "country_code": "BG",
+        "asn": "47557",
+        "description": "Icard Services PLC",
+        "handle": "ICARD-AS"
+    },
+    "47624": {
+        "country_code": "BG",
+        "asn": "47624",
+        "description": "NETGUARD LLC",
+        "handle": "LINKPLUS-NET"
+    },
+    "47647": {
+        "country_code": "BG",
+        "asn": "47647",
+        "description": "eFellows Ltd.",
+        "handle": "E-FELLOWS"
+    },
+    "47697": {
+        "country_code": "BG",
+        "asn": "47697",
+        "description": "BIX.BG Ltd.",
+        "handle": "BIX-BG-E"
+    },
+    "47745": {
+        "country_code": "BG",
+        "asn": "47745",
+        "description": "INTERLAN BG Ltd.",
+        "handle": "INTERLAN"
+    },
+    "47748": {
+        "country_code": "BG",
+        "asn": "47748",
+        "description": "Daticum AD",
+        "handle": "DATICUM"
+    },
+    "47771": {
+        "country_code": "BG",
+        "asn": "47771",
+        "description": "Vivacom Bulgaria EAD",
+        "handle": "ENTRY-BG-AS"
+    },
+    "47802": {
+        "country_code": "BG",
+        "asn": "47802",
+        "description": "SOD Albena Ltd",
+        "handle": "SOD-ALBENA"
+    },
+    "47849": {
+        "country_code": "BG",
+        "asn": "47849",
+        "description": "Global Communication Net Plc",
+        "handle": "NETCOMLAN-AS"
+    },
+    "47872": {
+        "country_code": "BG",
+        "asn": "47872",
+        "description": "Sofia Connect EAD",
+        "handle": "SOFIA-CONNECT-AS"
+    },
+    "47874": {
+        "country_code": "BG",
+        "asn": "47874",
+        "description": "InterConsult Bulgaria OOD",
+        "handle": "ICB-AS"
+    },
+    "47928": {
+        "country_code": "BG",
+        "asn": "47928",
+        "description": "Akhnaton CO Ltd.",
+        "handle": "AKHNATON"
+    },
+    "47964": {
+        "country_code": "BG",
+        "asn": "47964",
+        "description": "Data Center Ltd.",
+        "handle": "DATA-CENTER"
+    },
+    "48064": {
+        "country_code": "BG",
+        "asn": "48064",
+        "description": "Comet Electronics OOD",
+        "handle": "COMET-AS"
+    },
+    "48115": {
+        "country_code": "BG",
+        "asn": "48115",
+        "description": "DGM EOOD",
+        "handle": "DGM-AS"
+    },
+    "48155": {
+        "country_code": "BG",
+        "asn": "48155",
+        "description": "University of Ruse Angel Kanchev",
+        "handle": "RU-NET-AS"
+    },
+    "48181": {
+        "country_code": "BG",
+        "asn": "48181",
+        "description": "Prolan Ltd.",
+        "handle": "PROLAN-AS"
+    },
+    "48233": {
+        "country_code": "BG",
+        "asn": "48233",
+        "description": "Netroniks EOOD",
+        "handle": "NETRONIX"
+    },
+    "48264": {
+        "country_code": "BG",
+        "asn": "48264",
+        "description": "Mitko.Com Ltd.",
+        "handle": "TIVI-BG-ISP"
+    },
+    "48355": {
+        "country_code": "BG",
+        "asn": "48355",
+        "description": "Varteh LTD",
+        "handle": "VARNA-IX"
+    },
+    "48440": {
+        "country_code": "BG",
+        "asn": "48440",
+        "description": "Ekvia Ltd",
+        "handle": "AS-EKVIA"
+    },
+    "48452": {
+        "country_code": "BG",
+        "asn": "48452",
+        "description": "Telco power Ltd",
+        "handle": "TRAFFIC-NET"
+    },
+    "48458": {
+        "country_code": "BG",
+        "asn": "48458",
+        "description": "Uniqa Insurance JSC",
+        "handle": "UNIQA"
+    },
+    "48584": {
+        "country_code": "BG",
+        "asn": "48584",
+        "description": "Sarnica-Net LTD",
+        "handle": "SARNICA-AS"
+    },
+    "48698": {
+        "country_code": "BG",
+        "asn": "48698",
+        "description": "Net IP Ltd.",
+        "handle": "NETIP"
+    },
+    "48745": {
+        "country_code": "BG",
+        "asn": "48745",
+        "description": "ICOM Ltd.",
+        "handle": "ICOM-AS"
+    },
+    "48746": {
+        "country_code": "BG",
+        "asn": "48746",
+        "description": "Air Traffic Services Authority",
+        "handle": "ATSA-BG"
+    },
+    "48747": {
+        "country_code": "BG",
+        "asn": "48747",
+        "description": "Lukovitnet Ltd.",
+        "handle": "LUKOVITNET"
+    },
+    "48900": {
+        "country_code": "BG",
+        "asn": "48900",
+        "description": "Info Data Center Ltd.",
+        "handle": "INFODATACENTER"
+    },
+    "48917": {
+        "country_code": "BG",
+        "asn": "48917",
+        "description": "Optinet Ltd",
+        "handle": "OPTINETYAMBOL"
+    },
+    "49040": {
+        "country_code": "BG",
+        "asn": "49040",
+        "description": "K and D UNISAT -TV LLC",
+        "handle": "KIG-UNISAT-TV"
+    },
+    "49041": {
+        "country_code": "BG",
+        "asn": "49041",
+        "description": "Globalkom 2 Ltd",
+        "handle": "GLOBALCOM-AS"
+    },
+    "49072": {
+        "country_code": "BG",
+        "asn": "49072",
+        "description": "Novatech EOOD",
+        "handle": "NOVATECH-BG"
+    },
+    "49147": {
+        "country_code": "BG",
+        "asn": "49147",
+        "description": "ET ASNET - Altan Halim",
+        "handle": "ASNET-AS"
+    },
+    "49176": {
+        "country_code": "BG",
+        "asn": "49176",
+        "description": "Elemental.tv OOD",
+        "handle": "ELEMENTAL"
+    },
+    "49188": {
+        "country_code": "BG",
+        "asn": "49188",
+        "description": "Three A Hub EOOD",
+        "handle": "THREE-A-HUB"
+    },
+    "49330": {
+        "country_code": "BG",
+        "asn": "49330",
+        "description": "ET Nikolay Petrov - Niko",
+        "handle": "NIKO-AS"
+    },
+    "49387": {
+        "country_code": "BG",
+        "asn": "49387",
+        "description": "Springs-Net EOOD",
+        "handle": "SPRINGS-NET"
+    },
+    "49421": {
+        "country_code": "BG",
+        "asn": "49421",
+        "description": "Linux Ltd.",
+        "handle": "LINUXLTD"
+    },
+    "49518": {
+        "country_code": "BG",
+        "asn": "49518",
+        "description": "TRIPLE NET EOOD",
+        "handle": "TRIPLEPLAY"
+    },
+    "49658": {
+        "country_code": "BG",
+        "asn": "49658",
+        "description": "PON.BG Ltd.",
+        "handle": "PONBG"
+    },
+    "49681": {
+        "country_code": "BG",
+        "asn": "49681",
+        "description": "StorPool Storage AD",
+        "handle": "STORPOOL-AS"
+    },
+    "49699": {
+        "country_code": "BG",
+        "asn": "49699",
+        "description": "SuperHosting.BG Ltd.",
+        "handle": "ICN-BG"
+    },
+    "49704": {
+        "country_code": "BG",
+        "asn": "49704",
+        "description": "PETASCALE SUPERCOMPUTER CONSORTIUM - BULGARIA - DZZD",
+        "handle": "PETASC-BULGARIA"
+    },
+    "49737": {
+        "country_code": "BG",
+        "asn": "49737",
+        "description": "Jobs.bg Ltd",
+        "handle": "JOBS-BG"
+    },
+    "49740": {
+        "country_code": "BG",
+        "asn": "49740",
+        "description": "ET Georg-Georgi Georgiev",
+        "handle": "GGN"
+    },
+    "49773": {
+        "country_code": "BG",
+        "asn": "49773",
+        "description": "Deimos Ltd.",
+        "handle": "DEIMOS-AS"
+    },
+    "49815": {
+        "country_code": "BG",
+        "asn": "49815",
+        "description": "Host2 LTD",
+        "handle": "HOST2-AS"
+    },
+    "49849": {
+        "country_code": "BG",
+        "asn": "49849",
+        "description": "MG 2002 LTD.",
+        "handle": "MG2002-AS"
+    },
+    "49850": {
+        "country_code": "BG",
+        "asn": "49850",
+        "description": "International Fair Plovdiv AD",
+        "handle": "FAIR-BG"
+    },
+    "49950": {
+        "country_code": "BG",
+        "asn": "49950",
+        "description": "Ministry of Interior of Republic of Bulgaria",
+        "handle": "MVR-BG"
+    },
+    "50013": {
+        "country_code": "BG",
+        "asn": "50013",
+        "description": "Multicomp Ltd.",
+        "handle": "ISOLUTE"
+    },
+    "50020": {
+        "country_code": "BG",
+        "asn": "50020",
+        "description": "CETIN Bulgaria EAD",
+        "handle": "RACCOM-AS"
+    },
+    "50186": {
+        "country_code": "BG",
+        "asn": "50186",
+        "description": "Pronet Telekom Ltd",
+        "handle": "PRONET-AS"
+    },
+    "50194": {
+        "country_code": "BG",
+        "asn": "50194",
+        "description": "CORPORATE COMMERCIAL BANK AD",
+        "handle": "CORPBANK-BG-AS"
+    },
+    "50302": {
+        "country_code": "BG",
+        "asn": "50302",
+        "description": "Radomir.Net Ltd",
+        "handle": "RADOMIR-AS"
+    },
+    "50359": {
+        "country_code": "BG",
+        "asn": "50359",
+        "description": "PLAYTECH BULGARIA EOOD",
+        "handle": "PTBG-AS"
+    },
+    "50360": {
+        "country_code": "BG",
+        "asn": "50360",
+        "description": "Tamatiya EOOD",
+        "handle": "TAMATIYA-AS"
+    },
+    "50368": {
+        "country_code": "BG",
+        "asn": "50368",
+        "description": "Bulsat Ltd.",
+        "handle": "BULSATTV-AS"
+    },
+    "50379": {
+        "country_code": "BG",
+        "asn": "50379",
+        "description": "Internet Services and Communications AD",
+        "handle": "ISCNET-AS"
+    },
+    "50431": {
+        "country_code": "BG",
+        "asn": "50431",
+        "description": "SOT Security and Observation Technologies EOOD",
+        "handle": "SOT-LTD"
+    },
+    "50506": {
+        "country_code": "BG",
+        "asn": "50506",
+        "description": "Bulgarian-American Credit Bank JSC",
+        "handle": "BACB-AS"
+    },
+    "50726": {
+        "country_code": "BG",
+        "asn": "50726",
+        "description": "TOP NET 2003 Ltd.",
+        "handle": "TOPNET2003"
+    },
+    "51189": {
+        "country_code": "BG",
+        "asn": "51189",
+        "description": "Sharcom Ltd.",
+        "handle": "SHARCOM-AS"
+    },
+    "51196": {
+        "country_code": "BG",
+        "asn": "51196",
+        "description": "GOLD TELECOM BULGARIA PLC",
+        "handle": "GOLDTELECOM"
+    },
+    "51304": {
+        "country_code": "BG",
+        "asn": "51304",
+        "description": "DA International Group Ltd.",
+        "handle": "DAINTERNATIONALGROUP"
+    },
+    "51358": {
+        "country_code": "BG",
+        "asn": "51358",
+        "description": "Radioactive EOOD",
+        "handle": "RADIOACTIVE-AS"
+    },
+    "51374": {
+        "country_code": "BG",
+        "asn": "51374",
+        "description": "Unicorn Systems ltd.",
+        "handle": "UNICORN-SYSTEMS-AS"
+    },
+    "51383": {
+        "country_code": "BG",
+        "asn": "51383",
+        "description": "S Group International JSC",
+        "handle": "SGROUP"
+    },
+    "51581": {
+        "country_code": "BG",
+        "asn": "51581",
+        "description": "Profonika EOOD",
+        "handle": "PROFONIKA-BG"
+    },
+    "51582": {
+        "country_code": "BG",
+        "asn": "51582",
+        "description": "Cifrova Kabelna Korporacia EOOD",
+        "handle": "DCC-BG"
+    },
+    "51605": {
+        "country_code": "BG",
+        "asn": "51605",
+        "description": "XS Software JSC",
+        "handle": "XS-SOFTWARE"
+    },
+    "51614": {
+        "country_code": "BG",
+        "asn": "51614",
+        "description": "Electris Ltd.",
+        "handle": "ALTERA-SYSTEMS"
+    },
+    "51660": {
+        "country_code": "BG",
+        "asn": "51660",
+        "description": "Suvorovo NET Ltd",
+        "handle": "SUVOROVO"
+    },
+    "51830": {
+        "country_code": "BG",
+        "asn": "51830",
+        "description": "C3i Europe EOOD",
+        "handle": "C3I-AS"
+    },
+    "51855": {
+        "country_code": "BG",
+        "asn": "51855",
+        "description": "NET COMP Ltd.",
+        "handle": "NETCOMP"
+    },
+    "51925": {
+        "country_code": "BG",
+        "asn": "51925",
+        "description": "NUVEI BULGARIA EOOD",
+        "handle": "SAFECHARGE-AS"
+    },
+    "51987": {
+        "country_code": "BG",
+        "asn": "51987",
+        "description": "Euro Games Technology LTD",
+        "handle": "EGT"
+    },
+    "52055": {
+        "country_code": "BG",
+        "asn": "52055",
+        "description": "NetIX Communications JSC",
+        "handle": "NETIX-GREECE"
+    },
+    "56371": {
+        "country_code": "BG",
+        "asn": "56371",
+        "description": "Creditreform Bulgaria EOOD",
+        "handle": "CRBG-AS"
+    },
+    "56539": {
+        "country_code": "BG",
+        "asn": "56539",
+        "description": "Management Business Machine Ltd.",
+        "handle": "MBM-AS"
+    },
+    "56546": {
+        "country_code": "BG",
+        "asn": "56546",
+        "description": "ET KT-Astra - Genko Doichinov",
+        "handle": "KTASTRA-AS"
+    },
+    "56593": {
+        "country_code": "BG",
+        "asn": "56593",
+        "description": "Opencode Systems Ltd.",
+        "handle": "OPENCODE"
+    },
+    "56606": {
+        "country_code": "BG",
+        "asn": "56606",
+        "description": "NERACOM Ltd.",
+        "handle": "NERACOM-AS"
+    },
+    "56642": {
+        "country_code": "BG",
+        "asn": "56642",
+        "description": "TVNET2 Ltd",
+        "handle": "BG-TVNET2"
+    },
+    "56693": {
+        "country_code": "BG",
+        "asn": "56693",
+        "description": "LANET EOOD",
+        "handle": "TWOTOWN"
+    },
+    "56856": {
+        "country_code": "BG",
+        "asn": "56856",
+        "description": "Insurance JSC Armeec",
+        "handle": "ARMEEC"
+    },
+    "56906": {
+        "country_code": "BG",
+        "asn": "56906",
+        "description": "Osceola Ltd.",
+        "handle": "OSCEOLA"
+    },
+    "57122": {
+        "country_code": "BG",
+        "asn": "57122",
+        "description": "PSP Bulgaria Ltd.",
+        "handle": "PSP-COMPUTERS"
+    },
+    "57237": {
+        "country_code": "BG",
+        "asn": "57237",
+        "description": "Heros Communication Holding Ltd.",
+        "handle": "HEROS-AS"
+    },
+    "57344": {
+        "country_code": "BG",
+        "asn": "57344",
+        "description": "Telehouse EAD",
+        "handle": "TELEHOUSE-AS"
+    },
+    "57463": {
+        "country_code": "BG",
+        "asn": "57463",
+        "description": "NetIX Communications JSC",
+        "handle": "NETIX"
+    },
+    "57509": {
+        "country_code": "BG",
+        "asn": "57509",
+        "description": "L&L Investment Ltd.",
+        "handle": "LL-INVESTMENT-LTD"
+    },
+    "57538": {
+        "country_code": "BG",
+        "asn": "57538",
+        "description": "Prokuratura-Republika-Bulgaria",
+        "handle": "PRB-AS"
+    },
+    "57546": {
+        "country_code": "BG",
+        "asn": "57546",
+        "description": "Bul Ins AD",
+        "handle": "BULINS-AS"
+    },
+    "57551": {
+        "country_code": "BG",
+        "asn": "57551",
+        "description": "Merkle EOOD",
+        "handle": "ECM-LND1"
+    },
+    "57619": {
+        "country_code": "BG",
+        "asn": "57619",
+        "description": "Varna Data Center EOOD",
+        "handle": "VDC-AS"
+    },
+    "57622": {
+        "country_code": "BG",
+        "asn": "57622",
+        "description": "AUTO PLUS BULGARIA JSC",
+        "handle": "AUTOPLUS-AS"
+    },
+    "57634": {
+        "country_code": "BG",
+        "asn": "57634",
+        "description": "SKAT POPOVO Ltd.",
+        "handle": "SKAT-POPOVO-AS"
+    },
+    "57674": {
+        "country_code": "BG",
+        "asn": "57674",
+        "description": "Neterra Ltd.",
+        "handle": "NETERRAIP-ASN"
+    },
+    "57705": {
+        "country_code": "BG",
+        "asn": "57705",
+        "description": "MAXNET-2016 EOOD",
+        "handle": "LIFOET-AS"
+    },
+    "57765": {
+        "country_code": "BG",
+        "asn": "57765",
+        "description": "Optix JSC",
+        "handle": "OPTIX-JSC-AS"
+    },
+    "57813": {
+        "country_code": "BG",
+        "asn": "57813",
+        "description": "Cash Services Company",
+        "handle": "CASHBG-AS"
+    },
+    "57840": {
+        "country_code": "BG",
+        "asn": "57840",
+        "description": "Comnet Bulgaria Holding Ltd.",
+        "handle": "KONTRAX"
+    },
+    "57895": {
+        "country_code": "BG",
+        "asn": "57895",
+        "description": "Dianel LTD",
+        "handle": "DIANEL"
+    },
+    "57912": {
+        "country_code": "BG",
+        "asn": "57912",
+        "description": "Asyst EOOD",
+        "handle": "ASYST-AS"
+    },
+    "58079": {
+        "country_code": "BG",
+        "asn": "58079",
+        "description": "Skynet Ltd",
+        "handle": "SATCOM-TROYAN-NET"
+    },
+    "58105": {
+        "country_code": "BG",
+        "asn": "58105",
+        "description": "Net Service BG Ltd",
+        "handle": "NETSERVICEBG"
+    },
+    "58294": {
+        "country_code": "BG",
+        "asn": "58294",
+        "description": "Cloud Wall Ltd.",
+        "handle": "CLOUDWALL"
+    },
+    "59405": {
+        "country_code": "BG",
+        "asn": "59405",
+        "description": "SuperHosting.BG Ltd.",
+        "handle": "BG-SUPERHOSTING-AS"
+    },
+    "59463": {
+        "country_code": "BG",
+        "asn": "59463",
+        "description": "VISION 2008 Ltd.",
+        "handle": "NESEBAR-LAN-AS"
+    },
+    "59466": {
+        "country_code": "BG",
+        "asn": "59466",
+        "description": "EuroExpress Ltd.",
+        "handle": "EUROXP"
+    },
+    "59484": {
+        "country_code": "BG",
+        "asn": "59484",
+        "description": "SiS Net 05 EOOD",
+        "handle": "SIS-NET"
+    },
+    "59546": {
+        "country_code": "BG",
+        "asn": "59546",
+        "description": "Energo-Pro Varna EAD",
+        "handle": "EON-BULGARIA-AS"
+    },
+    "59550": {
+        "country_code": "BG",
+        "asn": "59550",
+        "description": "Neutrality.One EOOD",
+        "handle": "NEUTRALITY-AS"
+    },
+    "59582": {
+        "country_code": "BG",
+        "asn": "59582",
+        "description": "Avus Capital OOD",
+        "handle": "AC-AS"
+    },
+    "59620": {
+        "country_code": "BG",
+        "asn": "59620",
+        "description": "Global Electronic Solutions LTD.",
+        "handle": "GESBG"
+    },
+    "59709": {
+        "country_code": "BG",
+        "asn": "59709",
+        "description": "Teknowledge OPS Bulgaria EOOD",
+        "handle": "TEKEXPERTS-AS"
+    },
+    "59711": {
+        "country_code": "BG",
+        "asn": "59711",
+        "description": "HZ Hosting Ltd",
+        "handle": "HZ-EU-AS"
+    },
+    "59742": {
+        "country_code": "BG",
+        "asn": "59742",
+        "description": "MEGABYTE INTERNET Ltd.",
+        "handle": "CABLENETSERVICES-AS"
+    },
+    "59746": {
+        "country_code": "BG",
+        "asn": "59746",
+        "description": "ABRITES LTD.",
+        "handle": "ABRITES-AS"
+    },
+    "59763": {
+        "country_code": "BG",
+        "asn": "59763",
+        "description": "GOCE-NET Ltd",
+        "handle": "GOTSENET-AS"
+    },
+    "59851": {
+        "country_code": "BG",
+        "asn": "59851",
+        "description": "SiteGround Hosting EOOD",
+        "handle": "KYUP"
+    },
+    "59872": {
+        "country_code": "BG",
+        "asn": "59872",
+        "description": "Icard Services PLC",
+        "handle": "IPAY"
+    },
+    "59899": {
+        "country_code": "BG",
+        "asn": "59899",
+        "description": "Megaport (Bulgaria) EAD",
+        "handle": "OMNIX-AS"
+    },
+    "59900": {
+        "country_code": "BG",
+        "asn": "59900",
+        "description": "Balkan Internet Exchange Ltd",
+        "handle": "BALKAN-INTERNET-EXCHANGE"
+    },
+    "60092": {
+        "country_code": "BG",
+        "asn": "60092",
+        "description": "FIXITY LLC",
+        "handle": "FIXITY"
+    },
+    "60168": {
+        "country_code": "BG",
+        "asn": "60168",
+        "description": "Net Service BG Ltd",
+        "handle": "NETSERVICEBG"
+    },
+    "60182": {
+        "country_code": "BG",
+        "asn": "60182",
+        "description": "Omega Trans Ltd.",
+        "handle": "OMEGATRANS"
+    },
+    "60202": {
+        "country_code": "BG",
+        "asn": "60202",
+        "description": "Kivi TV Ltd.",
+        "handle": "KIVITV-AS"
+    },
+    "60230": {
+        "country_code": "BG",
+        "asn": "60230",
+        "description": "Neterra Ltd.",
+        "handle": "NETERRA"
+    },
+    "60349": {
+        "country_code": "BG",
+        "asn": "60349",
+        "description": "Varteh LTD",
+        "handle": "VARTEH-AS"
+    },
+    "60356": {
+        "country_code": "BG",
+        "asn": "60356",
+        "description": "Lagom Solutions LLC",
+        "handle": "LAGOM"
+    },
+    "60441": {
+        "country_code": "BG",
+        "asn": "60441",
+        "description": "ELITKOM Ltd.",
+        "handle": "ELITCOM"
+    },
+    "60447": {
+        "country_code": "BG",
+        "asn": "60447",
+        "description": "I NET BULGARIA EOOD",
+        "handle": "I-NET-BULGARIA"
+    },
+    "60457": {
+        "country_code": "BG",
+        "asn": "60457",
+        "description": "Directorate General Civil Aviation Administration",
+        "handle": "MTITC-BG"
+    },
+    "60560": {
+        "country_code": "BG",
+        "asn": "60560",
+        "description": "MEDICAL UNIVERSITY - VARNA Prof. Dr. Paraskev Stoyanov",
+        "handle": "MU-VARNA"
+    },
+    "60578": {
+        "country_code": "BG",
+        "asn": "60578",
+        "description": "Nemetschek OOD",
+        "handle": "NEMETSCHEK"
+    },
+    "60590": {
+        "country_code": "BG",
+        "asn": "60590",
+        "description": "Naxex Technological Development Ltd",
+        "handle": "AS-NAXEX-TECH"
+    },
+    "60656": {
+        "country_code": "BG",
+        "asn": "60656",
+        "description": "BOL BG IZTOK LTD",
+        "handle": "BOLBGIZTOK"
+    },
+    "60701": {
+        "country_code": "BG",
+        "asn": "60701",
+        "description": "MariaDB Bulgaria EOOD",
+        "handle": "MARIADB-AS"
+    },
+    "60784": {
+        "country_code": "BG",
+        "asn": "60784",
+        "description": "Iradeum Trading Ltd.",
+        "handle": "IRADEUM-AS"
+    },
+    "60859": {
+        "country_code": "BG",
+        "asn": "60859",
+        "description": "TERA COMMUNICATIONS AD",
+        "handle": "TERACOM-AS"
+    },
+    "60916": {
+        "country_code": "BG",
+        "asn": "60916",
+        "description": "GEYTIT OOD",
+        "handle": "GATEIT-AS"
+    },
+    "60966": {
+        "country_code": "BG",
+        "asn": "60966",
+        "description": "Nikem Net Ltd.",
+        "handle": "NIKEM-NET"
+    },
+    "60974": {
+        "country_code": "BG",
+        "asn": "60974",
+        "description": "Naicoms EOOD",
+        "handle": "NAICOMS"
+    },
+    "61046": {
+        "country_code": "BG",
+        "asn": "61046",
+        "description": "HZ Hosting Ltd",
+        "handle": "HZ-UK-AS"
+    },
+    "61071": {
+        "country_code": "BG",
+        "asn": "61071",
+        "description": "NETBOX LTD",
+        "handle": "NETBOX-AS"
+    },
+    "61082": {
+        "country_code": "BG",
+        "asn": "61082",
+        "description": "Ministerstvo na Truda i Socialnata Politika",
+        "handle": "MTSP-AS"
+    },
+    "61301": {
+        "country_code": "BG",
+        "asn": "61301",
+        "description": "Parahodstvo Balgarski Morski Flot AD",
+        "handle": "BMF-AS"
+    },
+    "61321": {
+        "country_code": "BG",
+        "asn": "61321",
+        "description": "AIKO MULTY CONCEPT Ltd.",
+        "handle": "AIKO-AS"
+    },
+    "61370": {
+        "country_code": "BG",
+        "asn": "61370",
+        "description": "'Inter Expo Center EOOD'",
+        "handle": "IEC-AS"
+    },
+    "61437": {
+        "country_code": "BG",
+        "asn": "61437",
+        "description": "Alex Escape LLC",
+        "handle": "ALEXESCAPE"
+    },
+    "61975": {
+        "country_code": "BG",
+        "asn": "61975",
+        "description": "Global Net Technology AD",
+        "handle": "GLOBALNET-AS"
+    },
+    "61996": {
+        "country_code": "BG",
+        "asn": "61996",
+        "description": "ILLUSION NET EOOD",
+        "handle": "ILLUSION-NET"
+    },
+    "62015": {
+        "country_code": "BG",
+        "asn": "62015",
+        "description": "BIN BG Ltd.",
+        "handle": "BINBG-AS"
+    },
+    "62037": {
+        "country_code": "BG",
+        "asn": "62037",
+        "description": "Transcard Financial Services EAD",
+        "handle": "TFS-BG"
+    },
+    "62106": {
+        "country_code": "BG",
+        "asn": "62106",
+        "description": "Cable Internet Systems Ltd.",
+        "handle": "CISBG-AS"
+    },
+    "62110": {
+        "country_code": "BG",
+        "asn": "62110",
+        "description": "Leader PI CI Ltd.",
+        "handle": "LEADERPICI-AS"
+    },
+    "62174": {
+        "country_code": "BG",
+        "asn": "62174",
+        "description": "INTERPAN LTD.",
+        "handle": "INTERPAN-AS"
+    },
+    "62323": {
+        "country_code": "BG",
+        "asn": "62323",
+        "description": "DragoNET - Lyuba Pesheva",
+        "handle": "DRAGONET"
+    },
+    "62386": {
+        "country_code": "BG",
+        "asn": "62386",
+        "description": "Bulgarian Telecommunication Group EOOD",
+        "handle": "BTG-AS"
+    },
+    "62411": {
+        "country_code": "BG",
+        "asn": "62411",
+        "description": "ALSO Bulgaria EOOD",
+        "handle": "SOLYTRON"
+    },
+    "62418": {
+        "country_code": "BG",
+        "asn": "62418",
+        "description": "Data Syst Ltd.",
+        "handle": "DATASYST"
+    },
+    "64464": {
+        "country_code": "BG",
+        "asn": "64464",
+        "description": "Euro Games Technology LTD",
+        "handle": "BG-EGT"
+    },
+    "196738": {
+        "country_code": "BG",
+        "asn": "196738",
+        "description": "Sixty K Ltd.",
+        "handle": "AS60K"
+    },
+    "196801": {
+        "country_code": "BG",
+        "asn": "196801",
+        "description": "Chimimport Plc",
+        "handle": "ASCHIMBG"
+    },
+    "196807": {
+        "country_code": "BG",
+        "asn": "196807",
+        "description": "Petrol AD",
+        "handle": "ASPETROLBG"
+    },
+    "196876": {
+        "country_code": "BG",
+        "asn": "196876",
+        "description": "Vestnikarska Grupa Bulgaria Ltd.",
+        "handle": "VGB-BG"
+    },
+    "197050": {
+        "country_code": "BG",
+        "asn": "197050",
+        "description": "BORIANA-EOOD",
+        "handle": "BORIANA-EOOD"
+    },
+    "197055": {
+        "country_code": "BG",
+        "asn": "197055",
+        "description": "ZAD Allianz Bulgaria AD",
+        "handle": "ALLIANZ-BG"
+    },
+    "197069": {
+        "country_code": "BG",
+        "asn": "197069",
+        "description": "Easy Asset Management AD",
+        "handle": "EASY-CREDIT"
+    },
+    "197086": {
+        "country_code": "BG",
+        "asn": "197086",
+        "description": "Speedy AD",
+        "handle": "SPEEDY"
+    },
+    "197168": {
+        "country_code": "BG",
+        "asn": "197168",
+        "description": "ASPhostBG Ltd",
+        "handle": "ASPHOSTBG-NET"
+    },
+    "197184": {
+        "country_code": "BG",
+        "asn": "197184",
+        "description": "Orbital Ltd",
+        "handle": "ORBITAL-AS"
+    },
+    "197214": {
+        "country_code": "BG",
+        "asn": "197214",
+        "description": "Electrostroy Ltd.",
+        "handle": "ELECTROSTROI"
+    },
+    "197216": {
+        "country_code": "BG",
+        "asn": "197216",
+        "description": "Delta HighTech Ltd.",
+        "handle": "DELTA-BG-AS"
+    },
+    "197232": {
+        "country_code": "BG",
+        "asn": "197232",
+        "description": "Cargo Planet Ltd.",
+        "handle": "CARGOPLANET"
+    },
+    "197236": {
+        "country_code": "BG",
+        "asn": "197236",
+        "description": "Biovet JSC",
+        "handle": "BIOVET"
+    },
+    "197304": {
+        "country_code": "BG",
+        "asn": "197304",
+        "description": "Dilis Grup EOOD",
+        "handle": "DILISGRUP"
+    },
+    "197604": {
+        "country_code": "BG",
+        "asn": "197604",
+        "description": "Softhouse Ltd.",
+        "handle": "SOFTHOUSE"
+    },
+    "197625": {
+        "country_code": "BG",
+        "asn": "197625",
+        "description": "BMF PORT BURGAS AD",
+        "handle": "BMF-AS"
+    },
+    "197647": {
+        "country_code": "BG",
+        "asn": "197647",
+        "description": "INERPS EOOD",
+        "handle": "BG-INERPS"
+    },
+    "197741": {
+        "country_code": "BG",
+        "asn": "197741",
+        "description": "Icard Services PLC",
+        "handle": "ICARDFIN-AS"
+    },
+    "197897": {
+        "country_code": "BG",
+        "asn": "197897",
+        "description": "5KOM OOD",
+        "handle": "PETKOM"
+    },
+    "197929": {
+        "country_code": "BG",
+        "asn": "197929",
+        "description": "PRONET-COM LTD",
+        "handle": "PRONET-COM"
+    },
+    "197931": {
+        "country_code": "BG",
+        "asn": "197931",
+        "description": "CT Interactive EOOD",
+        "handle": "CT-INTERACTIVE-AS"
+    },
+    "197997": {
+        "country_code": "BG",
+        "asn": "197997",
+        "description": "RegisterBG Ltd",
+        "handle": "REGISTERBG"
+    },
+    "198003": {
+        "country_code": "BG",
+        "asn": "198003",
+        "description": "Proxiad Bulgaria EAD",
+        "handle": "PROXIAD-AS"
+    },
+    "198127": {
+        "country_code": "BG",
+        "asn": "198127",
+        "description": "Hristo Bogdanov",
+        "handle": "HRISTOBOGDANOV-AS"
+    },
+    "198202": {
+        "country_code": "BG",
+        "asn": "198202",
+        "description": "PEB Texim JSC",
+        "handle": "TEXIM-AS"
+    },
+    "198228": {
+        "country_code": "BG",
+        "asn": "198228",
+        "description": "Silistra Telecom Solutions Ltd.",
+        "handle": "STS-AS"
+    },
+    "198259": {
+        "country_code": "BG",
+        "asn": "198259",
+        "description": "ECOM SERVICE AD",
+        "handle": "ECOM-SERVICE-AS"
+    },
+    "198280": {
+        "country_code": "BG",
+        "asn": "198280",
+        "description": "Varna Free University Chernorizets Hrabar",
+        "handle": "VFU-AS"
+    },
+    "198283": {
+        "country_code": "BG",
+        "asn": "198283",
+        "description": "Apis Europe JSC",
+        "handle": "APIS-BULGARIA-AS"
+    },
+    "198388": {
+        "country_code": "BG",
+        "asn": "198388",
+        "description": "Zastrahovatelna Kompania Lev Ins AD",
+        "handle": "LEVINS-AS"
+    },
+    "198482": {
+        "country_code": "BG",
+        "asn": "198482",
+        "description": "Pernik Lan Ltd.",
+        "handle": "PERNIKLAN"
+    },
+    "198576": {
+        "country_code": "BG",
+        "asn": "198576",
+        "description": "Bulgarin National Radio",
+        "handle": "BNR-AS"
+    },
+    "198744": {
+        "country_code": "BG",
+        "asn": "198744",
+        "description": "BULGARIAN PORTS INFRASTRUCTURE",
+        "handle": "BGPORTS"
+    },
+    "198765": {
+        "country_code": "BG",
+        "asn": "198765",
+        "description": "Euroccor JSC",
+        "handle": "EUROCCOR"
+    },
+    "198771": {
+        "country_code": "BG",
+        "asn": "198771",
+        "description": "Extreme Labs AD",
+        "handle": "EXTREMELABS-AS"
+    },
+    "198868": {
+        "country_code": "BG",
+        "asn": "198868",
+        "description": "BGTEL OOD",
+        "handle": "BGTEL-AS"
+    },
+    "198938": {
+        "country_code": "BG",
+        "asn": "198938",
+        "description": "Stone Computers AD",
+        "handle": "STONE-AS"
+    },
+    "198940": {
+        "country_code": "BG",
+        "asn": "198940",
+        "description": "FADATA EOOD",
+        "handle": "FADATABG-AS"
+    },
+    "198941": {
+        "country_code": "BG",
+        "asn": "198941",
+        "description": "Bianor Services EOOD",
+        "handle": "BIANOR-AS"
+    },
+    "199001": {
+        "country_code": "BG",
+        "asn": "199001",
+        "description": "M SAT Cable EAD",
+        "handle": "MNET-NZ-BG"
+    },
+    "199048": {
+        "country_code": "BG",
+        "asn": "199048",
+        "description": "KRAKRA AD",
+        "handle": "KRAKRA-AS"
+    },
+    "199123": {
+        "country_code": "BG",
+        "asn": "199123",
+        "description": "Radibase EOOD",
+        "handle": "RDBS"
+    },
+    "199132": {
+        "country_code": "BG",
+        "asn": "199132",
+        "description": "CALDERRA Ltd.",
+        "handle": "BG-CALDERRA"
+    },
+    "199173": {
+        "country_code": "BG",
+        "asn": "199173",
+        "description": "TechnoLux Ltd.",
+        "handle": "TECHNOLUX-AS"
+    },
+    "199191": {
+        "country_code": "BG",
+        "asn": "199191",
+        "description": "Dimitar Vasilev-9 EOOD",
+        "handle": "DIMITAR-VASILEV-9-AS"
+    },
+    "199209": {
+        "country_code": "BG",
+        "asn": "199209",
+        "description": "Internet Securities Bulgaria Ltd.",
+        "handle": "INTERNETSECURITIES-BULGARIA-AS"
+    },
+    "199221": {
+        "country_code": "BG",
+        "asn": "199221",
+        "description": "TBG OOD",
+        "handle": "TBG-NET-AS"
+    },
+    "199230": {
+        "country_code": "BG",
+        "asn": "199230",
+        "description": "Mitko.com EOOD",
+        "handle": "MITKO"
+    },
+    "199282": {
+        "country_code": "BG",
+        "asn": "199282",
+        "description": "Sofia Lan EOOD",
+        "handle": "SOFLAN-AS"
+    },
+    "199364": {
+        "country_code": "BG",
+        "asn": "199364",
+        "description": "RAX.BG EOOD",
+        "handle": "RAX-AS"
+    },
+    "199512": {
+        "country_code": "BG",
+        "asn": "199512",
+        "description": "Demax JSC",
+        "handle": "DEMAX-LTD"
+    },
+    "199702": {
+        "country_code": "BG",
+        "asn": "199702",
+        "description": "VIM TV LTD",
+        "handle": "VIMTV"
+    },
+    "199759": {
+        "country_code": "BG",
+        "asn": "199759",
+        "description": "Honeywell EOOD",
+        "handle": "AVIASO-AS"
+    },
+    "199790": {
+        "country_code": "BG",
+        "asn": "199790",
+        "description": "IP Telecom Bulgaria",
+        "handle": "IPTELECOMBULGARIA-AS"
+    },
+    "199818": {
+        "country_code": "BG",
+        "asn": "199818",
+        "description": "Pension Insurance Company UBB EAD",
+        "handle": "NNINSURANCE-AS"
+    },
+    "199871": {
+        "country_code": "BG",
+        "asn": "199871",
+        "description": "TechnoLogica EAD",
+        "handle": "TL-AS"
+    },
+    "199898": {
+        "country_code": "BG",
+        "asn": "199898",
+        "description": "Haemimont AD",
+        "handle": "BG-HAEMIMONT1"
+    },
+    "199996": {
+        "country_code": "BG",
+        "asn": "199996",
+        "description": "AY TI VI NET LTD",
+        "handle": "ITVNET"
+    },
+    "200024": {
+        "country_code": "BG",
+        "asn": "200024",
+        "description": "Kentavar M LTD.",
+        "handle": "KENTAVAR-AS"
+    },
+    "200033": {
+        "country_code": "BG",
+        "asn": "200033",
+        "description": "Megalan EOOD",
+        "handle": "MEGALAN-AS"
+    },
+    "200301": {
+        "country_code": "BG",
+        "asn": "200301",
+        "description": "Miroslav Ivanov",
+        "handle": "BG-IVANOV-AS"
+    },
+    "200306": {
+        "country_code": "BG",
+        "asn": "200306",
+        "description": "Ivan Stamov",
+        "handle": "BG-STAMOV-AS"
+    },
+    "200361": {
+        "country_code": "BG",
+        "asn": "200361",
+        "description": "CONCENTRIX SERVICES BULGARIA EOOD",
+        "handle": "CONCENTRIX"
+    },
+    "200391": {
+        "country_code": "BG",
+        "asn": "200391",
+        "description": "KREZ 999 EOOD",
+        "handle": "KREZ999AS"
+    },
+    "200400": {
+        "country_code": "BG",
+        "asn": "200400",
+        "description": "Sofia Municipality",
+        "handle": "SOFIA-MUNICIPALITY"
+    },
+    "200422": {
+        "country_code": "BG",
+        "asn": "200422",
+        "description": "Concentrix Services Bulgaria EOOD",
+        "handle": "CONCENTRIX-SERVICES"
+    },
+    "200450": {
+        "country_code": "BG",
+        "asn": "200450",
+        "description": "SiteGround Hosting EOOD",
+        "handle": "HACKMAN"
+    },
+    "200458": {
+        "country_code": "BG",
+        "asn": "200458",
+        "description": "Vmobile AD",
+        "handle": "VMOBILE"
+    },
+    "200459": {
+        "country_code": "BG",
+        "asn": "200459",
+        "description": "Net Host Solutions Ltd.",
+        "handle": "NET-HOST-SOLUTION"
+    },
+    "200475": {
+        "country_code": "BG",
+        "asn": "200475",
+        "description": "ET VESELIN JELQZKOV",
+        "handle": "BG-KARNOBATNET"
+    },
+    "200523": {
+        "country_code": "BG",
+        "asn": "200523",
+        "description": "RDB EOOD",
+        "handle": "RDB"
+    },
+    "200533": {
+        "country_code": "BG",
+        "asn": "200533",
+        "description": "Civil association Init Lab",
+        "handle": "INITLAB"
+    },
+    "200628": {
+        "country_code": "BG",
+        "asn": "200628",
+        "description": "BGO Cloud OOD",
+        "handle": "BGO-CLOUD"
+    },
+    "200631": {
+        "country_code": "BG",
+        "asn": "200631",
+        "description": "VASILEVO SAPORT SERVISEZ Ltd.",
+        "handle": "VASILEVO-SAPORT-SERVISEZ"
+    },
+    "200723": {
+        "country_code": "BG",
+        "asn": "200723",
+        "description": "South-West University Neofit Rilski",
+        "handle": "SWU-BG-AS"
+    },
+    "201003": {
+        "country_code": "BG",
+        "asn": "201003",
+        "description": "KAVARNA SAT Ltd.",
+        "handle": "BG-KAVARNASAT"
+    },
+    "201005": {
+        "country_code": "BG",
+        "asn": "201005",
+        "description": "IT Mania Ltd.",
+        "handle": "BG-ITMANIA"
+    },
+    "201114": {
+        "country_code": "BG",
+        "asn": "201114",
+        "description": "AMK Drives and controls Ltd.",
+        "handle": "AMK-DRIVES-BG"
+    },
+    "201200": {
+        "country_code": "BG",
+        "asn": "201200",
+        "description": "SuperHosting.BG Ltd.",
+        "handle": "SUPERHOSTING-AS"
+    },
+    "201210": {
+        "country_code": "BG",
+        "asn": "201210",
+        "description": "TRIGONON DATA SERVICES LTD",
+        "handle": "TRIGONON-AS"
+    },
+    "201215": {
+        "country_code": "BG",
+        "asn": "201215",
+        "description": "Professional Information Management - PRIMA AD",
+        "handle": "PIMPRIMA-AS"
+    },
+    "201225": {
+        "country_code": "BG",
+        "asn": "201225",
+        "description": "MANGA CORP LTD",
+        "handle": "MANGA-AS"
+    },
+    "201326": {
+        "country_code": "BG",
+        "asn": "201326",
+        "description": "BG BUSINESS SOLUTIONS EOOD",
+        "handle": "BGBS-AS"
+    },
+    "201360": {
+        "country_code": "BG",
+        "asn": "201360",
+        "description": "Neterra Ltd.",
+        "handle": "MYASSETS-AS"
+    },
+    "201406": {
+        "country_code": "BG",
+        "asn": "201406",
+        "description": "Mobinet Bulgaria Ltd.",
+        "handle": "MOBINET-AS"
+    },
+    "201525": {
+        "country_code": "BG",
+        "asn": "201525",
+        "description": "HZ Hosting Ltd",
+        "handle": "HZ-CA-AS"
+    },
+    "201583": {
+        "country_code": "BG",
+        "asn": "201583",
+        "description": "Benchmark Group AD",
+        "handle": "BENCHMARK-AS"
+    },
+    "201630": {
+        "country_code": "BG",
+        "asn": "201630",
+        "description": "QHOSTER LTD.",
+        "handle": "QHOSTER"
+    },
+    "201642": {
+        "country_code": "BG",
+        "asn": "201642",
+        "description": "NetCom Service Ltd.",
+        "handle": "NCS-BG-AS"
+    },
+    "201645": {
+        "country_code": "BG",
+        "asn": "201645",
+        "description": "AES Europe Services EOOD",
+        "handle": "AES"
+    },
+    "201899": {
+        "country_code": "BG",
+        "asn": "201899",
+        "description": "Ikt Solutions Ltd",
+        "handle": "IKT-AS"
+    },
+    "201996": {
+        "country_code": "BG",
+        "asn": "201996",
+        "description": "Sofia Connect EAD",
+        "handle": "SOFIA-CONNECT-AS2"
+    },
+    "202015": {
+        "country_code": "BG",
+        "asn": "202015",
+        "description": "HZ Hosting Ltd",
+        "handle": "HZ-US-AS"
+    },
+    "202043": {
+        "country_code": "BG",
+        "asn": "202043",
+        "description": "Bulgarian Industrial Association Union of Bulgarian business",
+        "handle": "BIA-BG"
+    },
+    "202129": {
+        "country_code": "BG",
+        "asn": "202129",
+        "description": "NET 365 JSC",
+        "handle": "NET365-AS"
+    },
+    "202160": {
+        "country_code": "BG",
+        "asn": "202160",
+        "description": "MBS Vision Ltd.",
+        "handle": "MBSVISION"
+    },
+    "202209": {
+        "country_code": "BG",
+        "asn": "202209",
+        "description": "Erma Consulting Ltd.",
+        "handle": "TVTRYAVNA-AS"
+    },
+    "202265": {
+        "country_code": "BG",
+        "asn": "202265",
+        "description": "InterWebs Ltd.",
+        "handle": "INTERWEBS"
+    },
+    "202309": {
+        "country_code": "BG",
+        "asn": "202309",
+        "description": "Radibase EOOD",
+        "handle": "RADIBASE"
+    },
+    "202325": {
+        "country_code": "BG",
+        "asn": "202325",
+        "description": "4Media Ltd.",
+        "handle": "AS-4MEDIA"
+    },
+    "202357": {
+        "country_code": "BG",
+        "asn": "202357",
+        "description": "Sopharma Trading Jsc",
+        "handle": "SOPHARMA"
+    },
+    "202439": {
+        "country_code": "BG",
+        "asn": "202439",
+        "description": "NETCOM Ltd.",
+        "handle": "BG-NETCOM"
+    },
+    "202457": {
+        "country_code": "BG",
+        "asn": "202457",
+        "description": "ITRB Ltd",
+        "handle": "ITRB"
+    },
+    "202463": {
+        "country_code": "BG",
+        "asn": "202463",
+        "description": "Gigabyte Bulgaria LTD",
+        "handle": "GIGABYTE-LTD"
+    },
+    "202543": {
+        "country_code": "BG",
+        "asn": "202543",
+        "description": "Mrejitor Ltd",
+        "handle": "ABILIXSOFT-SF2016"
+    },
+    "202593": {
+        "country_code": "BG",
+        "asn": "202593",
+        "description": "iGaming.com Limited",
+        "handle": "AS-IGAMING-LTD"
+    },
+    "202634": {
+        "country_code": "BG",
+        "asn": "202634",
+        "description": "Petar Petrov",
+        "handle": "DEMABG"
+    },
+    "202690": {
+        "country_code": "BG",
+        "asn": "202690",
+        "description": "Investbank AD",
+        "handle": "INVESTBANK-AD"
+    },
+    "202737": {
+        "country_code": "BG",
+        "asn": "202737",
+        "description": "RYVYL (EU) EAD",
+        "handle": "TRANSACTEU"
+    },
+    "202843": {
+        "country_code": "BG",
+        "asn": "202843",
+        "description": "Playbox Technology ME Ltd.",
+        "handle": "PLAYBOXTECHML"
+    },
+    "202864": {
+        "country_code": "BG",
+        "asn": "202864",
+        "description": "COMAC MEDICAL",
+        "handle": "COMAC-MEDICAL-AS"
+    },
+    "202911": {
+        "country_code": "BG",
+        "asn": "202911",
+        "description": "New Age Networks Ltd.",
+        "handle": "NEWAGENET"
+    },
+    "202968": {
+        "country_code": "BG",
+        "asn": "202968",
+        "description": "Credissimo JSCo",
+        "handle": "CREDISSIMO"
+    },
+    "203095": {
+        "country_code": "BG",
+        "asn": "203095",
+        "description": "ERP Bulgaria Ltd",
+        "handle": "ERP"
+    },
+    "203182": {
+        "country_code": "BG",
+        "asn": "203182",
+        "description": "DIGITURK LTD.",
+        "handle": "DIGITURK-BG"
+    },
+    "203312": {
+        "country_code": "BG",
+        "asn": "203312",
+        "description": "Commercial League - Global Pharma Centre JSC",
+        "handle": "CL-AS"
+    },
+    "203380": {
+        "country_code": "BG",
+        "asn": "203380",
+        "description": "DA International Group Ltd.",
+        "handle": "DAINTERNATIONALGROUP"
+    },
+    "203390": {
+        "country_code": "BG",
+        "asn": "203390",
+        "description": "Tokudabank Bulgaria AD",
+        "handle": "TOKUDABANK"
+    },
+    "203391": {
+        "country_code": "BG",
+        "asn": "203391",
+        "description": "Cloud DNS Ltd",
+        "handle": "CLOUDNSNET"
+    },
+    "203484": {
+        "country_code": "BG",
+        "asn": "203484",
+        "description": "ROAD INFRASTRUCTURE AGENCY",
+        "handle": "ROAD-INFRASTRUCTURE-AGENCY-AS"
+    },
+    "203535": {
+        "country_code": "BG",
+        "asn": "203535",
+        "description": "Work Better LTD",
+        "handle": "WORKBETTER-AS"
+    },
+    "203578": {
+        "country_code": "BG",
+        "asn": "203578",
+        "description": "Euromaster Import Export Ltd",
+        "handle": "EUROMASTER-IMPORT-EXPORT-LTD"
+    },
+    "203633": {
+        "country_code": "BG",
+        "asn": "203633",
+        "description": "EL-DI 81 Ltd.",
+        "handle": "ELDI81-AS"
+    },
+    "203723": {
+        "country_code": "BG",
+        "asn": "203723",
+        "description": "RESIDENCE CONTROL EOOD",
+        "handle": "RESIDENCE-CONTROL"
+    },
+    "203864": {
+        "country_code": "BG",
+        "asn": "203864",
+        "description": "GPS BULGARIA AD",
+        "handle": "BG-GPSBUL"
+    },
+    "203917": {
+        "country_code": "BG",
+        "asn": "203917",
+        "description": "Hashlink EOOD",
+        "handle": "HASHLINK"
+    },
+    "203918": {
+        "country_code": "BG",
+        "asn": "203918",
+        "description": "Securax Ltd.",
+        "handle": "SECURAX"
+    },
+    "203954": {
+        "country_code": "BG",
+        "asn": "203954",
+        "description": "ITNS GLOBAL EOOD",
+        "handle": "ITNSGLOBAL-AS"
+    },
+    "204232": {
+        "country_code": "BG",
+        "asn": "204232",
+        "description": "ALOHA EXPERT EOOD",
+        "handle": "BG-DIGITALSOL-AS"
+    },
+    "204266": {
+        "country_code": "BG",
+        "asn": "204266",
+        "description": "CENTRAL PARK BURGAS -EOOD",
+        "handle": "CENTRALPARK-BURGAS"
+    },
+    "204281": {
+        "country_code": "BG",
+        "asn": "204281",
+        "description": "NETX - NG LTD",
+        "handle": "NETX-BG"
+    },
+    "204428": {
+        "country_code": "BG",
+        "asn": "204428",
+        "description": "SS-Net",
+        "handle": "SS-NET"
+    },
+    "204448": {
+        "country_code": "BG",
+        "asn": "204448",
+        "description": "Shopmetrics Europe ltd.",
+        "handle": "SHOPMETRICS"
+    },
+    "204469": {
+        "country_code": "BG",
+        "asn": "204469",
+        "description": "Sanevian",
+        "handle": "SANEVIAN"
+    },
+    "204554": {
+        "country_code": "BG",
+        "asn": "204554",
+        "description": "PRESTIGE-AB Ltd",
+        "handle": "BG-PRESTIGE-AB"
+    },
+    "204639": {
+        "country_code": "BG",
+        "asn": "204639",
+        "description": "H-Tech EOOD",
+        "handle": "H-TECH"
+    },
+    "204722": {
+        "country_code": "BG",
+        "asn": "204722",
+        "description": "w-ix ltd",
+        "handle": "WIX-LIKE"
+    },
+    "204784": {
+        "country_code": "BG",
+        "asn": "204784",
+        "description": "SIS TECHNOLOGY AD",
+        "handle": "SISTECH"
+    },
+    "204842": {
+        "country_code": "BG",
+        "asn": "204842",
+        "description": "Ministry of Justice Bulgaria",
+        "handle": "MJBG-AS"
+    },
+    "204950": {
+        "country_code": "BG",
+        "asn": "204950",
+        "description": "BEYONDIX EOOD",
+        "handle": "BEYONDIX"
+    },
+    "205085": {
+        "country_code": "BG",
+        "asn": "205085",
+        "description": "NET PLUS ONE Ltd.",
+        "handle": "BG-NETPLUSONE"
+    },
+    "205128": {
+        "country_code": "BG",
+        "asn": "205128",
+        "description": "Phoenix Media Ltd.",
+        "handle": "TRIXIR-AS"
+    },
+    "205129": {
+        "country_code": "BG",
+        "asn": "205129",
+        "description": "I B Company Ltd.",
+        "handle": "BG-IBCOMPANY"
+    },
+    "205132": {
+        "country_code": "BG",
+        "asn": "205132",
+        "description": "Vivacom Bulgaria EAD",
+        "handle": "BTC-SEC-AS"
+    },
+    "205138": {
+        "country_code": "BG",
+        "asn": "205138",
+        "description": "Open Solutions Ltd.",
+        "handle": "OPENSOLUTIONS"
+    },
+    "205175": {
+        "country_code": "BG",
+        "asn": "205175",
+        "description": "DarkNet Ltd",
+        "handle": "DARKNET-AS"
+    },
+    "205331": {
+        "country_code": "BG",
+        "asn": "205331",
+        "description": "Wi-Max Network Ltd.",
+        "handle": "BG-WIMAXNET"
+    },
+    "205343": {
+        "country_code": "BG",
+        "asn": "205343",
+        "description": "GP-NET Ltd.",
+        "handle": "GPNET-AS"
+    },
+    "205352": {
+        "country_code": "BG",
+        "asn": "205352",
+        "description": "KABELNET LTD",
+        "handle": "KBLNET"
+    },
+    "205454": {
+        "country_code": "BG",
+        "asn": "205454",
+        "description": "GLOBAL SERVICES M EOOD",
+        "handle": "GLOBAL-SERVICES-M"
+    },
+    "205465": {
+        "country_code": "BG",
+        "asn": "205465",
+        "description": "FOTON-K EOOD",
+        "handle": "PHOTON-K"
+    },
+    "205513": {
+        "country_code": "BG",
+        "asn": "205513",
+        "description": "VODOSNABDYAVANE I KANALIZACYA EOOD",
+        "handle": "VIK-AS"
+    },
+    "205526": {
+        "country_code": "BG",
+        "asn": "205526",
+        "description": "ITR Services Ltd",
+        "handle": "AS-ITR-SERVICES"
+    },
+    "205540": {
+        "country_code": "BG",
+        "asn": "205540",
+        "description": "Meldo International Routing Services EOOD",
+        "handle": "RU-TELECOM"
+    },
+    "205546": {
+        "country_code": "BG",
+        "asn": "205546",
+        "description": "GIGA FIBERNET ltd.",
+        "handle": "GIGANETNETWORKS"
+    },
+    "205665": {
+        "country_code": "BG",
+        "asn": "205665",
+        "description": "TERACOM EOOD",
+        "handle": "BG-TERACOM"
+    },
+    "205787": {
+        "country_code": "BG",
+        "asn": "205787",
+        "description": "Public Cloud Ltd.",
+        "handle": "PUBLICLOUD"
+    },
+    "205808": {
+        "country_code": "BG",
+        "asn": "205808",
+        "description": "Turbo-Net EOOD",
+        "handle": "BG-TURBONET"
+    },
+    "205872": {
+        "country_code": "BG",
+        "asn": "205872",
+        "description": "EXTRANET 2010",
+        "handle": "EXTRANET-AS"
+    },
+    "205874": {
+        "country_code": "BG",
+        "asn": "205874",
+        "description": "Zero Byte EOOD",
+        "handle": "AS-ZEROBYTE"
+    },
+    "205937": {
+        "country_code": "BG",
+        "asn": "205937",
+        "description": "Bulgartransgaz EAD",
+        "handle": "BGTRANSGAS"
+    },
+    "205974": {
+        "country_code": "BG",
+        "asn": "205974",
+        "description": "Supreme Administrative Court",
+        "handle": "SAC"
+    },
+    "206045": {
+        "country_code": "BG",
+        "asn": "206045",
+        "description": "MM2-Network Ltd",
+        "handle": "BG-MM2NETWORK"
+    },
+    "206105": {
+        "country_code": "BG",
+        "asn": "206105",
+        "description": "floLIVE Bulgaria Ltd.",
+        "handle": "FLOLIVE-AS"
+    },
+    "206180": {
+        "country_code": "BG",
+        "asn": "206180",
+        "description": "GPS-Services Ltd",
+        "handle": "GPS-SERVICES"
+    },
+    "206346": {
+        "country_code": "BG",
+        "asn": "206346",
+        "description": "Pan Telecom EOOD",
+        "handle": "PAN-TELECOM-AS"
+    },
+    "206370": {
+        "country_code": "BG",
+        "asn": "206370",
+        "description": "Next Generation Technologies Ltd",
+        "handle": "NGTECHNOLOGIES"
+    },
+    "206383": {
+        "country_code": "BG",
+        "asn": "206383",
+        "description": "VOXLAN LTD.",
+        "handle": "VOXLAN-AS"
+    },
+    "206410": {
+        "country_code": "BG",
+        "asn": "206410",
+        "description": "Intellegent Systems Bulgaria Ltd.",
+        "handle": "INTELLEGENT-SYS-BULGARIA"
+    },
+    "206511": {
+        "country_code": "BG",
+        "asn": "206511",
+        "description": "Scorpion Shipping OOD",
+        "handle": "SCORPION-SHIPPING"
+    },
+    "206546": {
+        "country_code": "BG",
+        "asn": "206546",
+        "description": "ICYGEN Ltd",
+        "handle": "ICYGEN"
+    },
+    "206645": {
+        "country_code": "BG",
+        "asn": "206645",
+        "description": "Ministry of Regional Development and Public Works",
+        "handle": "MRRB-AS"
+    },
+    "206755": {
+        "country_code": "BG",
+        "asn": "206755",
+        "description": "Netcube Ltd.",
+        "handle": "NETCUBE"
+    },
+    "206796": {
+        "country_code": "BG",
+        "asn": "206796",
+        "description": "EVROTRUST TECHNOLOGIES AD",
+        "handle": "EVROTRUST-AS"
+    },
+    "206935": {
+        "country_code": "BG",
+        "asn": "206935",
+        "description": "YANAK SOFT EOOD",
+        "handle": "YANAK-AS"
+    },
+    "207094": {
+        "country_code": "BG",
+        "asn": "207094",
+        "description": "Inter Carrier Ltd",
+        "handle": "INTER-CARRIER-AS"
+    },
+    "207144": {
+        "country_code": "BG",
+        "asn": "207144",
+        "description": "SOFCOMPANY Ltd",
+        "handle": "BG-SOFCOMPANY-AS"
+    },
+    "207172": {
+        "country_code": "BG",
+        "asn": "207172",
+        "description": "PRO STO",
+        "handle": "PROSTO-INETRA"
+    },
+    "207182": {
+        "country_code": "BG",
+        "asn": "207182",
+        "description": "Simeonov Corporation LTD",
+        "handle": "S-CORPORATION"
+    },
+    "207249": {
+        "country_code": "BG",
+        "asn": "207249",
+        "description": "Icard Services PLC",
+        "handle": "ICS"
+    },
+    "207371": {
+        "country_code": "BG",
+        "asn": "207371",
+        "description": "GEC BG Ltd.",
+        "handle": "GEC-BG"
+    },
+    "207621": {
+        "country_code": "BG",
+        "asn": "207621",
+        "description": "AS Solutions Ltd.",
+        "handle": "AS-SOLUTIONS"
+    },
+    "207671": {
+        "country_code": "BG",
+        "asn": "207671",
+        "description": "DENSHI AD",
+        "handle": "DENSHI-AD"
+    },
+    "207691": {
+        "country_code": "BG",
+        "asn": "207691",
+        "description": "EGT DIGITAL EOOD",
+        "handle": "BG-EGT-DIGITAL"
+    },
+    "207728": {
+        "country_code": "BG",
+        "asn": "207728",
+        "description": "EUROHOSTER Ltd.",
+        "handle": "EUROHOSTER"
+    },
+    "207772": {
+        "country_code": "BG",
+        "asn": "207772",
+        "description": "Top Net BG LTD",
+        "handle": "TOPNET-AS"
+    },
+    "207812": {
+        "country_code": "BG",
+        "asn": "207812",
+        "description": "DM AUTO EOOD",
+        "handle": "DM-AUTO"
+    },
+    "207826": {
+        "country_code": "BG",
+        "asn": "207826",
+        "description": "INTERNATIONAL ASSET BANK AD",
+        "handle": "IABANK"
+    },
+    "208032": {
+        "country_code": "BG",
+        "asn": "208032",
+        "description": "Burgasnet LTD",
+        "handle": "BURGASNET"
+    },
+    "208052": {
+        "country_code": "BG",
+        "asn": "208052",
+        "description": "Varteh LTD",
+        "handle": "G00NET"
+    },
+    "208318": {
+        "country_code": "BG",
+        "asn": "208318",
+        "description": "Adastra Bulgaria EOOD",
+        "handle": "ADASTRA"
+    },
+    "208319": {
+        "country_code": "BG",
+        "asn": "208319",
+        "description": "Resonance.Bg Ltd.",
+        "handle": "RESONANCEBG-1"
+    },
+    "208322": {
+        "country_code": "BG",
+        "asn": "208322",
+        "description": "ITP-NET OOD",
+        "handle": "BG-ITP-NET"
+    },
+    "208370": {
+        "country_code": "BG",
+        "asn": "208370",
+        "description": "DigiSys Ltd.",
+        "handle": "DIGISYSNET"
+    },
+    "208389": {
+        "country_code": "BG",
+        "asn": "208389",
+        "description": "Focus IT Solutions",
+        "handle": "FOCUSIT"
+    },
+    "208392": {
+        "country_code": "BG",
+        "asn": "208392",
+        "description": "It Saport Ltd.",
+        "handle": "ITSAP-AS"
+    },
+    "208579": {
+        "country_code": "BG",
+        "asn": "208579",
+        "description": "Akkodis Bulgaria EOOD",
+        "handle": "MODIS"
+    },
+    "208637": {
+        "country_code": "BG",
+        "asn": "208637",
+        "description": "4 Vendeta Ltd",
+        "handle": "VENDETA4-LTD"
+    },
+    "208641": {
+        "country_code": "BG",
+        "asn": "208641",
+        "description": "ET GEORGI SHISHKOV",
+        "handle": "GEORGI-SHISHKOV"
+    },
+    "208860": {
+        "country_code": "BG",
+        "asn": "208860",
+        "description": "North West Union Ltd.",
+        "handle": "NORTHWESTUNION"
+    },
+    "209017": {
+        "country_code": "BG",
+        "asn": "209017",
+        "description": "Meldo International Routing Services EOOD",
+        "handle": "MIR-NETWORKS-AS"
+    },
+    "209142": {
+        "country_code": "BG",
+        "asn": "209142",
+        "description": "Vodosnabdiawane I Kanalizacia EOOD",
+        "handle": "VODOSNABDIAWANE-I-KANALIZACIA-AS"
+    },
+    "209156": {
+        "country_code": "BG",
+        "asn": "209156",
+        "description": "IT 360 Ltd",
+        "handle": "BG-IT360"
+    },
+    "209160": {
+        "country_code": "BG",
+        "asn": "209160",
+        "description": "Miti 2000 EOOD",
+        "handle": "MITI2000"
+    },
+    "209337": {
+        "country_code": "BG",
+        "asn": "209337",
+        "description": "NATSIONALNA ELEKTRICHESKA KOMPANIA EAD",
+        "handle": "NEK-EAD"
+    },
+    "209362": {
+        "country_code": "BG",
+        "asn": "209362",
+        "description": "AELIA 88 Ltd",
+        "handle": "BG-AELIA88"
+    },
+    "209403": {
+        "country_code": "BG",
+        "asn": "209403",
+        "description": "Net Stack Ltd",
+        "handle": "PUSHR-CDN"
+    },
+    "209518": {
+        "country_code": "BG",
+        "asn": "209518",
+        "description": "IVIKO Ltd.",
+        "handle": "BG-IVIKO"
+    },
+    "209524": {
+        "country_code": "BG",
+        "asn": "209524",
+        "description": "Ballistic Cell LTD.",
+        "handle": "BALLISTIC-CELL-LTD"
+    },
+    "209577": {
+        "country_code": "BG",
+        "asn": "209577",
+        "description": "NIMH",
+        "handle": "NIMH-AS"
+    },
+    "209628": {
+        "country_code": "BG",
+        "asn": "209628",
+        "description": "MAZEN LLC",
+        "handle": "MAZEN"
+    },
+    "209681": {
+        "country_code": "BG",
+        "asn": "209681",
+        "description": "Deltacom Electronics Ltd.",
+        "handle": "DELTACOM-BG-AS"
+    },
+    "209696": {
+        "country_code": "BG",
+        "asn": "209696",
+        "description": "NILSAT Ltd.",
+        "handle": "NILSAT"
+    },
+    "209736": {
+        "country_code": "BG",
+        "asn": "209736",
+        "description": "WALLTOPIA AD",
+        "handle": "WALLTOPIA"
+    },
+    "209841": {
+        "country_code": "BG",
+        "asn": "209841",
+        "description": "MANAGEMENT SERVICES CORPORATION EAD",
+        "handle": "MCS-AS"
+    },
+    "209850": {
+        "country_code": "BG",
+        "asn": "209850",
+        "description": "BURDENIS-COM EOOD",
+        "handle": "BG-BURDENIS-COM"
+    },
+    "209922": {
+        "country_code": "BG",
+        "asn": "209922",
+        "description": "BULINFO EOOD",
+        "handle": "BULINFO-HOSTING"
+    },
+    "209967": {
+        "country_code": "BG",
+        "asn": "209967",
+        "description": "BGO Cloud OOD",
+        "handle": "BGO-CLOUD"
+    },
+    "210024": {
+        "country_code": "BG",
+        "asn": "210024",
+        "description": "ITA Engineering OOD",
+        "handle": "RIA-TOLL-SYSTEM"
+    },
+    "210039": {
+        "country_code": "BG",
+        "asn": "210039",
+        "description": "GAMMA CONSULT - KALINKIN PROKOPOV & SIE",
+        "handle": "GAMMACONSULT-AS"
+    },
+    "210058": {
+        "country_code": "BG",
+        "asn": "210058",
+        "description": "Amusnet Interactive Ltd",
+        "handle": "AMUSNET-AS"
+    },
+    "210082": {
+        "country_code": "BG",
+        "asn": "210082",
+        "description": "YOVIL Ltd.",
+        "handle": "YOVIL-AS"
+    },
+    "210154": {
+        "country_code": "BG",
+        "asn": "210154",
+        "description": "GIGALAN EM Ltd.",
+        "handle": "BG-GIGALAN-EM"
+    },
+    "210166": {
+        "country_code": "BG",
+        "asn": "210166",
+        "description": "YouTel Communications Ltd.",
+        "handle": "YOUTEL-AS"
+    },
+    "210211": {
+        "country_code": "BG",
+        "asn": "210211",
+        "description": "Sumup Limited",
+        "handle": "SUMUP-AS"
+    },
+    "210212": {
+        "country_code": "BG",
+        "asn": "210212",
+        "description": "DILAN BG Ltd.",
+        "handle": "BG-DILANBG"
+    },
+    "210229": {
+        "country_code": "BG",
+        "asn": "210229",
+        "description": "Ministry of Environment and Water",
+        "handle": "MOEW"
+    },
+    "210250": {
+        "country_code": "BG",
+        "asn": "210250",
+        "description": "K Media Tech Ltd.",
+        "handle": "WPX"
+    },
+    "210299": {
+        "country_code": "BG",
+        "asn": "210299",
+        "description": "ART-BUILD-UP",
+        "handle": "ART-BUILD-UP-AS"
+    },
+    "210567": {
+        "country_code": "BG",
+        "asn": "210567",
+        "description": "OBVT",
+        "handle": "OB-VELIKO-TARNOVO"
+    },
+    "210624": {
+        "country_code": "BG",
+        "asn": "210624",
+        "description": "VG Global JSC",
+        "handle": "VG-GLOBAL-JSC"
+    },
+    "210646": {
+        "country_code": "BG",
+        "asn": "210646",
+        "description": "ATLANTIS SAT LTD",
+        "handle": "ATLANTIS-SAT-AS"
+    },
+    "210672": {
+        "country_code": "BG",
+        "asn": "210672",
+        "description": "European Software Design LTD",
+        "handle": "EUSOFTDESIGN"
+    },
+    "210746": {
+        "country_code": "BG",
+        "asn": "210746",
+        "description": "ByteOpt SLLC",
+        "handle": "BG-BYTEOPT"
+    },
+    "210754": {
+        "country_code": "BG",
+        "asn": "210754",
+        "description": "Kozloduy NPP Plc",
+        "handle": "NPP-KOZLODUY"
+    },
+    "210769": {
+        "country_code": "BG",
+        "asn": "210769",
+        "description": "ApoloNET LTD",
+        "handle": "APOLONET"
+    },
+    "210992": {
+        "country_code": "BG",
+        "asn": "210992",
+        "description": "D Commerce Bank AD",
+        "handle": "DBANK"
+    },
+    "211128": {
+        "country_code": "BG",
+        "asn": "211128",
+        "description": "Sky Fiber AD",
+        "handle": "SKYFIBER-AS"
+    },
+    "211159": {
+        "country_code": "BG",
+        "asn": "211159",
+        "description": "FIBER X Ltd.",
+        "handle": "BG-FIBERX"
+    },
+    "211243": {
+        "country_code": "BG",
+        "asn": "211243",
+        "description": "PITOPY Ltd.",
+        "handle": "BG-PITOPY"
+    },
+    "211288": {
+        "country_code": "BG",
+        "asn": "211288",
+        "description": "Netassist International EOOD",
+        "handle": "NETASSISTBG"
+    },
+    "211330": {
+        "country_code": "BG",
+        "asn": "211330",
+        "description": "ISGBG EOOD",
+        "handle": "ISGBG"
+    },
+    "211456": {
+        "country_code": "BG",
+        "asn": "211456",
+        "description": "NetSarBG LTD",
+        "handle": "NETSARBG-LTD"
+    },
+    "211526": {
+        "country_code": "BG",
+        "asn": "211526",
+        "description": "Darjavna Agencia za Elektronno Upravlenie",
+        "handle": "DAEU-AS"
+    },
+    "211545": {
+        "country_code": "BG",
+        "asn": "211545",
+        "description": "Prodigy LTD",
+        "handle": "PRODIGY-AS"
+    },
+    "211674": {
+        "country_code": "BG",
+        "asn": "211674",
+        "description": "PrimeVOIP Bulgaria LTD",
+        "handle": "PRIMEVOIP-AS"
+    },
+    "211772": {
+        "country_code": "BG",
+        "asn": "211772",
+        "description": "ITRB Ltd",
+        "handle": "ITRB"
+    },
+    "211877": {
+        "country_code": "BG",
+        "asn": "211877",
+        "description": "TurkIX Communications Ltd.",
+        "handle": "TURKIX"
+    },
+    "212023": {
+        "country_code": "BG",
+        "asn": "212023",
+        "description": "University of Plovdiv Paisiy Hilendarski",
+        "handle": "UNI-PLOVDIV-AS"
+    },
+    "212115": {
+        "country_code": "BG",
+        "asn": "212115",
+        "description": "IN TRADE 87 LTD",
+        "handle": "IN-TRADE"
+    },
+    "212283": {
+        "country_code": "BG",
+        "asn": "212283",
+        "description": "ROZA HOLIDAYS EOOD",
+        "handle": "ROZA-AS"
+    },
+    "212363": {
+        "country_code": "BG",
+        "asn": "212363",
+        "description": "ZETTA HOSTING SOLUTIONS LLC.",
+        "handle": "ZETTA"
+    },
+    "212370": {
+        "country_code": "BG",
+        "asn": "212370",
+        "description": "Adrian Pekunov",
+        "handle": "APAS"
+    },
+    "212416": {
+        "country_code": "BG",
+        "asn": "212416",
+        "description": "Proximity EOOD",
+        "handle": "PROXIMITY"
+    },
+    "212533": {
+        "country_code": "BG",
+        "asn": "212533",
+        "description": "DP BULGARIAN SPORTS TOTALIZATOR",
+        "handle": "AS-BST"
+    },
+    "212561": {
+        "country_code": "BG",
+        "asn": "212561",
+        "description": "Money Plus Management AD",
+        "handle": "MONEY-PLUS"
+    },
+    "212588": {
+        "country_code": "BG",
+        "asn": "212588",
+        "description": "Dreamradio.org EOOD",
+        "handle": "DREAMRADIO"
+    },
+    "212605": {
+        "country_code": "BG",
+        "asn": "212605",
+        "description": "Dim commerce Ltd.",
+        "handle": "DIMCOM"
+    },
+    "212652": {
+        "country_code": "BG",
+        "asn": "212652",
+        "description": "Boramax ltd",
+        "handle": "BORAMAX"
+    },
+    "212677": {
+        "country_code": "BG",
+        "asn": "212677",
+        "description": "Terinet EOOD",
+        "handle": "TERINET"
+    },
+    "212798": {
+        "country_code": "BG",
+        "asn": "212798",
+        "description": "TOOL DOMAINS EOOD",
+        "handle": "LEODNS"
+    },
+    "213037": {
+        "country_code": "BG",
+        "asn": "213037",
+        "description": "CoreTech Bulgaria EOOD",
+        "handle": "CORETECHBG-AS"
+    },
+    "213039": {
+        "country_code": "BG",
+        "asn": "213039",
+        "description": "MIKRAMIX LTD.",
+        "handle": "MIKRAMIX-BG"
+    },
+    "213090": {
+        "country_code": "BG",
+        "asn": "213090",
+        "description": "Panda Cooperation",
+        "handle": "PANDACOOP"
+    },
+    "213093": {
+        "country_code": "BG",
+        "asn": "213093",
+        "description": "PS BG EOOD",
+        "handle": "PSBG"
+    },
+    "213271": {
+        "country_code": "BG",
+        "asn": "213271",
+        "description": "TODAKOM ASB EOOD",
+        "handle": "TODAKOM"
+    },
+    "213357": {
+        "country_code": "BG",
+        "asn": "213357",
+        "description": "KAOLIN AD",
+        "handle": "KAOLIN"
+    },
+    "213446": {
+        "country_code": "BG",
+        "asn": "213446",
+        "description": "EOS Matrix EOOD",
+        "handle": "EOS-MATRIX-AS"
+    },
+    "213514": {
+        "country_code": "BG",
+        "asn": "213514",
+        "description": "EuroVDC EOOD",
+        "handle": "EUROVDC-AS"
+    },
+    "213610": {
+        "country_code": "BG",
+        "asn": "213610",
+        "description": "Burgas Data Center OOD",
+        "handle": "BDC"
+    },
+    "213640": {
+        "country_code": "BG",
+        "asn": "213640",
+        "description": "Talido LTD",
+        "handle": "TALIDO"
+    },
+    "213833": {
+        "country_code": "BG",
+        "asn": "213833",
+        "description": "Ministry of Interior of Bulgaria",
+        "handle": "DKIS-AS"
+    },
+    "213984": {
+        "country_code": "BG",
+        "asn": "213984",
+        "description": "KRISTO PETROV",
+        "handle": "SONICBOOMNETWORK"
+    },
+    "214170": {
+        "country_code": "BG",
+        "asn": "214170",
+        "description": "EVOLONIA LTD.",
+        "handle": "EVOLONIA"
+    },
+    "214234": {
+        "country_code": "BG",
+        "asn": "214234",
+        "description": "TIHOMIR IVANOV",
+        "handle": "ROOMVPN"
+    },
+    "214296": {
+        "country_code": "BG",
+        "asn": "214296",
+        "description": "BETATEL LTD",
+        "handle": "BETATEL"
+    },
+    "214342": {
+        "country_code": "BG",
+        "asn": "214342",
+        "description": "DIMINUENDO Ltd",
+        "handle": "DIMINUENDO"
+    },
+    "214364": {
+        "country_code": "BG",
+        "asn": "214364",
+        "description": "StreamTech Solutions EOOD",
+        "handle": "STREAMTECH-AS"
+    },
+    "214378": {
+        "country_code": "BG",
+        "asn": "214378",
+        "description": "MS Optic NET EOOD",
+        "handle": "MS-OPTIC-NET"
+    },
+    "214433": {
+        "country_code": "BG",
+        "asn": "214433",
+        "description": "Intercity Network EOOD",
+        "handle": "BG-INTERCITYNET"
+    },
+    "214795": {
+        "country_code": "BG",
+        "asn": "214795",
+        "description": "LACHEZAR CHOLAKOV",
+        "handle": "LACHEZARCHOL"
+    },
+    "214812": {
+        "country_code": "BG",
+        "asn": "214812",
+        "description": "KM TREYDING 2012 OOD",
+        "handle": "KM-TREYDING"
+    },
+    "214879": {
+        "country_code": "BG",
+        "asn": "214879",
+        "description": "STANISLAV SAVOV",
+        "handle": "SKYVPN"
+    },
+    "214903": {
+        "country_code": "BG",
+        "asn": "214903",
+        "description": "The Three Ltd.",
+        "handle": "THE3"
+    },
+    "215122": {
+        "country_code": "BG",
+        "asn": "215122",
+        "description": "Krasimir Velkov",
+        "handle": "KRASI-ASN"
+    },
+    "215342": {
+        "country_code": "BG",
+        "asn": "215342",
+        "description": "Teranet OOD",
+        "handle": "BG-TERANET"
+    },
+    "215361": {
+        "country_code": "BG",
+        "asn": "215361",
+        "description": "SOFTGROUP AD",
+        "handle": "SOFTGROUP-AD"
+    },
+    "215508": {
+        "country_code": "BG",
+        "asn": "215508",
+        "description": "Dot Net Ltd",
+        "handle": "HOST-DOT-NET"
+    },
+    "215762": {
+        "country_code": "BG",
+        "asn": "215762",
+        "description": "Bullet Group LTD",
+        "handle": "BULLETGROUP"
+    },
+    "215853": {
+        "country_code": "BG",
+        "asn": "215853",
+        "description": "Bonfortuna Ltd",
+        "handle": "BONFORTUNA"
+    },
+    "215888": {
+        "country_code": "BG",
+        "asn": "215888",
+        "description": "LUKOIL Neftohim Burgas AD",
+        "handle": "LUKOIL-NEHTOHIM-BURGAS"
+    },
+    "215941": {
+        "country_code": "BG",
+        "asn": "215941",
+        "description": "EGT DIGITAL EOOD",
+        "handle": "EGTONG"
+    },
+    "216145": {
+        "country_code": "BG",
+        "asn": "216145",
+        "description": "7DC INTERNET LTD.",
+        "handle": "SEVENDC"
+    },
+    "216148": {
+        "country_code": "BG",
+        "asn": "216148",
+        "description": "SEPA Cyber Technologies EAD",
+        "handle": "SEPA-CYBER"
+    },
+    "216181": {
+        "country_code": "BG",
+        "asn": "216181",
+        "description": "DarkNet Ltd",
+        "handle": "DARKNET-NL"
+    },
+    "216272": {
+        "country_code": "BG",
+        "asn": "216272",
+        "description": "DEVHEX LTD.",
+        "handle": "DEVHEX"
+    },
+    "216286": {
+        "country_code": "BG",
+        "asn": "216286",
+        "description": "HashPal LTD",
+        "handle": "HASHPAL"
+    },
+    "216370": {
+        "country_code": "BG",
+        "asn": "216370",
+        "description": "VLAN Network EOOD",
+        "handle": "VLANBG"
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "37462": {
+        "country_code": "TD",
+        "asn": "37462",
+        "description": "PRESTABIST",
+        "handle": "PRESTABIST"
+    },
+    "37794": {
+        "country_code": "TD",
+        "asn": "37794",
+        "description": "N'Djamena IX",
+        "handle": "N-DJAMENA-IX-PEERING"
+    },
+    "327756": {
+        "country_code": "TD",
+        "asn": "327756",
+        "description": "AIRTEL TCHAD",
+        "handle": "AIRTEL-TD"
+    },
+    "327802": {
+        "country_code": "TD",
+        "asn": "327802",
+        "description": "MILLICOM CHAD SA",
+        "handle": "MILLICOM-CHAD"
+    },
+    "327836": {
+        "country_code": "TD",
+        "asn": "327836",
+        "description": "Office Tchadien de regulatoin des telecommunications(OTRT-IXP-TCHAD)",
+        "handle": "OTRT-IXP-CHAD"
+    },
+    "327864": {
+        "country_code": "TD",
+        "asn": "327864",
+        "description": "AlbideyNet",
+        "handle": "ALBIDEYNET"
+    },
+    "327975": {
+        "country_code": "TD",
+        "asn": "327975",
+        "description": "ILNET TELECOM GROUP SARL",
+        "handle": "ILNET-TELECOM"
+    },
+    "328104": {
+        "country_code": "TD",
+        "asn": "328104",
+        "description": "Agence de Developpement de Technologies de l'Information et de la Communication",
+        "handle": "ADETIC-AS"
+    },
+    "328310": {
+        "country_code": "TD",
+        "asn": "328310",
+        "description": "Global Tel Sarl",
+        "handle": "GLOBALTEL-NETWORKS"
+    },
+    "328594": {
+        "country_code": "TD",
+        "asn": "328594",
+        "description": "Sahel Fiber Telecommunication Chad (SAFITEL TCHAD SA/CA)",
+        "handle": "SAFITELCHAD-AS"
+    },
+    "328599": {
+        "country_code": "TD",
+        "asn": "328599",
+        "description": "Soci\u00e9t\u00e9 Amanet SARL",
+        "handle": "AMANET-SARL"
+    },
+    "328604": {
+        "country_code": "TD",
+        "asn": "328604",
+        "description": "Societe 'Sahel Tele Internet' SA/AG",
+        "handle": "SAHEL-TELE-INTERNET-AS"
+    },
+    "328679": {
+        "country_code": "TD",
+        "asn": "328679",
+        "description": "SOCIETE DIGITAL COM SA/AG",
+        "handle": "SOCIETE-DIGITAL"
+    },
+    "328908": {
+        "country_code": "TD",
+        "asn": "328908",
+        "description": "Societ\u00e9 FOCON-NET TELECOMS Sarl",
+        "handle": "FOCON-NET-TELECOMS"
+    },
+    "328956": {
+        "country_code": "TD",
+        "asn": "328956",
+        "description": "MINISTERE DES FINANCES ET DU BUDGET",
+        "handle": "MDFE1-AS"
+    },
+    "329158": {
+        "country_code": "TD",
+        "asn": "329158",
+        "description": "N'Djamena IX",
+        "handle": "N-DJAMENA-IX-MGT"
+    },
+    "329207": {
+        "country_code": "TD",
+        "asn": "329207",
+        "description": "NADIF BUSINESS SERVICE SARL",
+        "handle": "NBSS1-AS"
+    },
+    "329312": {
+        "country_code": "TD",
+        "asn": "329312",
+        "description": "Manano Telecommunication SARL",
+        "handle": "MANANO-TELECOMMUNICATION-SARL"
+    }
+}

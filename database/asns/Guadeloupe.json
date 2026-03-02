@@ -1,0 +1,62 @@
+{
+    "7444": {
+        "country_code": "GP",
+        "asn": "7444",
+        "description": "Systel S.A.R.L.",
+        "handle": "SYSTEL-AS"
+    },
+    "17149": {
+        "country_code": "GP",
+        "asn": "17149",
+        "description": "Global Caribbean Network",
+        "handle": "GCN-AS"
+    },
+    "21351": {
+        "country_code": "GP",
+        "asn": "21351",
+        "description": "Canal + Telecom SAS",
+        "handle": "CANALPLUSTELECOM"
+    },
+    "29837": {
+        "country_code": "GP",
+        "asn": "29837",
+        "description": "ST BARTH TELECOM",
+        "handle": "SAINT-BARTH-TELECOM"
+    },
+    "63351": {
+        "country_code": "GP",
+        "asn": "63351",
+        "description": "Southern Caribbean Fiber",
+        "handle": "ASN-SCF-45"
+    },
+    "212775": {
+        "country_code": "GP",
+        "asn": "212775",
+        "description": "Guadeloupe Digital SAS",
+        "handle": "DSP-GUADELOUPE"
+    },
+    "394648": {
+        "country_code": "GP",
+        "asn": "394648",
+        "description": "Weelax",
+        "handle": "WEELAX-TELECOM"
+    },
+    "397385": {
+        "country_code": "GP",
+        "asn": "397385",
+        "description": "Auto Guadeloupe Investissement",
+        "handle": "AS-AGI-01"
+    },
+    "401198": {
+        "country_code": "GP",
+        "asn": "401198",
+        "description": "Global Caribbean Network",
+        "handle": "GWADIX"
+    },
+    "401966": {
+        "country_code": "GP",
+        "asn": "401966",
+        "description": "LorTel",
+        "handle": "AS-LORTEL-01"
+    }
+}

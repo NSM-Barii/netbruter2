@@ -1,0 +1,116 @@
+{
+    "3402": {
+        "country_code": "KY",
+        "asn": "3402",
+        "description": "Butterfly Research",
+        "handle": "BR"
+    },
+    "3962": {
+        "country_code": "KY",
+        "asn": "3962",
+        "description": "DirectNIC Ltd.",
+        "handle": "DOT-HOLDING"
+    },
+    "4935": {
+        "country_code": "KY",
+        "asn": "4935",
+        "description": "DirectNIC Ltd.",
+        "handle": "DIRECTNIC-ANYCAST1-EASTCOAST"
+    },
+    "6639": {
+        "country_code": "KY",
+        "asn": "6639",
+        "description": "Cable & Wireless (Cayman Islands) Ltd.",
+        "handle": "CWCAYMAN"
+    },
+    "13771": {
+        "country_code": "KY",
+        "asn": "13771",
+        "description": "Digicel Cayman Limited",
+        "handle": "DIGICEL-CAYMAN"
+    },
+    "16437": {
+        "country_code": "KY",
+        "asn": "16437",
+        "description": "Infinity Broadband Ltd",
+        "handle": "INFINITY-BROADBAND-LTD"
+    },
+    "16705": {
+        "country_code": "KY",
+        "asn": "16705",
+        "description": "WestTel Ltd.",
+        "handle": "LOGIC-CAYMAN-TELECAYMAN"
+    },
+    "21682": {
+        "country_code": "KY",
+        "asn": "21682",
+        "description": "Malbec Labs",
+        "handle": "MALBEC-LABS-01"
+    },
+    "21744": {
+        "country_code": "KY",
+        "asn": "21744",
+        "description": "WestTel Ltd.",
+        "handle": "WESTTEL-LTD-DBA-LOGIC"
+    },
+    "36549": {
+        "country_code": "KY",
+        "asn": "36549",
+        "description": "WestTel Ltd.",
+        "handle": "LOGIC-36549"
+    },
+    "45217": {
+        "country_code": "KY",
+        "asn": "45217",
+        "description": "Tora Trading Services Ltd",
+        "handle": "TORA-TRADING-SERVICES"
+    },
+    "53891": {
+        "country_code": "KY",
+        "asn": "53891",
+        "description": "Zero Position",
+        "handle": "0POS"
+    },
+    "209321": {
+        "country_code": "KY",
+        "asn": "209321",
+        "description": "DoubleZero Foundation",
+        "handle": "DOUBLEZERO-ASN"
+    },
+    "214434": {
+        "country_code": "KY",
+        "asn": "214434",
+        "description": "Twinstake Limited",
+        "handle": "TWINSTAKE"
+    },
+    "397343": {
+        "country_code": "KY",
+        "asn": "397343",
+        "description": "SALT",
+        "handle": "SALT-TECH"
+    },
+    "398132": {
+        "country_code": "KY",
+        "asn": "398132",
+        "description": "SALT",
+        "handle": "SALT-BDA"
+    },
+    "398831": {
+        "country_code": "KY",
+        "asn": "398831",
+        "description": "SALT",
+        "handle": "SALT-JAM"
+    },
+    "399548": {
+        "country_code": "KY",
+        "asn": "399548",
+        "description": "SALT",
+        "handle": "SALT-IXP"
+    },
+    "402175": {
+        "country_code": "KY",
+        "asn": "402175",
+        "description": "Allnodes Ltd",
+        "handle": "ALLNODES"
+    }
+}

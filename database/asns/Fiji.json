@@ -1,0 +1,122 @@
+{
+    "4638": {
+        "country_code": "FJ",
+        "asn": "4638",
+        "description": "Connect Internet Services",
+        "handle": "IS-FJ-AS"
+    },
+    "9241": {
+        "country_code": "FJ",
+        "asn": "9241",
+        "description": "Fiji International Telecommunications Ltd",
+        "handle": "FINTEL-FJ"
+    },
+    "24390": {
+        "country_code": "FJ",
+        "asn": "24390",
+        "description": "The University of the South Pacific",
+        "handle": "USP-AS-AP"
+    },
+    "37976": {
+        "country_code": "FJ",
+        "asn": "37976",
+        "description": "Telecommunications Authority of Fiji",
+        "handle": "TAOF-AS-AP"
+    },
+    "38442": {
+        "country_code": "FJ",
+        "asn": "38442",
+        "description": "Vodafone Fiji Limited",
+        "handle": "VODAFONEFIJI-AS-FJ"
+    },
+    "45349": {
+        "country_code": "FJ",
+        "asn": "45349",
+        "description": "InterNet Services Telecom Fiji Ltd.",
+        "handle": "TFL-AS-AP"
+    },
+    "132248": {
+        "country_code": "FJ",
+        "asn": "132248",
+        "description": "Reserve Bank of Fiji",
+        "handle": "RBOF-AS-AP"
+    },
+    "133067": {
+        "country_code": "FJ",
+        "asn": "133067",
+        "description": "Newcom Live (Fiji) Limited",
+        "handle": "NEWCOM-AS-AP"
+    },
+    "133625": {
+        "country_code": "FJ",
+        "asn": "133625",
+        "description": "HFC Bank",
+        "handle": "HFC1-AS-AP"
+    },
+    "134208": {
+        "country_code": "FJ",
+        "asn": "134208",
+        "description": "Bank of South Pacifc (Fiji)",
+        "handle": "BSP-AS-AP"
+    },
+    "135647": {
+        "country_code": "FJ",
+        "asn": "135647",
+        "description": "Airports Fiji Limited",
+        "handle": "AFL-AS-AP"
+    },
+    "136415": {
+        "country_code": "FJ",
+        "asn": "136415",
+        "description": "KIDANET Internet Service Provider",
+        "handle": "KIDANET1-AS-AP"
+    },
+    "136921": {
+        "country_code": "FJ",
+        "asn": "136921",
+        "description": "Fiji National University",
+        "handle": "FNU-AS-AP"
+    },
+    "137890": {
+        "country_code": "FJ",
+        "asn": "137890",
+        "description": "Walesi Ltd",
+        "handle": "WALESILTD-AS-AP"
+    },
+    "140046": {
+        "country_code": "FJ",
+        "asn": "140046",
+        "description": "Telecommunications Authority of Fiji",
+        "handle": "TAOF-AS-AP"
+    },
+    "141470": {
+        "country_code": "FJ",
+        "asn": "141470",
+        "description": "ITC Services",
+        "handle": "GOVNET-AS-AP"
+    },
+    "142245": {
+        "country_code": "FJ",
+        "asn": "142245",
+        "description": "Kastle (Fiji) Pte Ltd",
+        "handle": "KASTLEFIJIPTELTD-AS-AP"
+    },
+    "149429": {
+        "country_code": "FJ",
+        "asn": "149429",
+        "description": "Reserve Bank of Fiji",
+        "handle": "RBOF-AS-BRS"
+    },
+    "153509": {
+        "country_code": "FJ",
+        "asn": "153509",
+        "description": "Land Transport Authority of Fiji",
+        "handle": "LTAOF-AS-AP"
+    },
+    "154229": {
+        "country_code": "FJ",
+        "asn": "154229",
+        "description": "Fiji National Provident Fund",
+        "handle": "FNPF-AS-AP"
+    }
+}

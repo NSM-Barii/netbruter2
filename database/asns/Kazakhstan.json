@@ -1,0 +1,1460 @@
+{
+    "8200": {
+        "country_code": "KZ",
+        "asn": "8200",
+        "description": "Uplink LLC",
+        "handle": "UPLINK-AS"
+    },
+    "8393": {
+        "country_code": "KZ",
+        "asn": "8393",
+        "description": "ASTEL JSC",
+        "handle": "ASTEL-AS"
+    },
+    "8430": {
+        "country_code": "KZ",
+        "asn": "8430",
+        "description": "Irina Gaida",
+        "handle": "ALMA-MEDIA-ALMATY-AS"
+    },
+    "8720": {
+        "country_code": "KZ",
+        "asn": "8720",
+        "description": "Aspan telecom",
+        "handle": "ASPAN-AS"
+    },
+    "9198": {
+        "country_code": "KZ",
+        "asn": "9198",
+        "description": "JSC Kazakhtelecom",
+        "handle": "KAZTELECOM-AS"
+    },
+    "13082": {
+        "country_code": "KZ",
+        "asn": "13082",
+        "description": "Kar-Tel LLC",
+        "handle": "KAR-TEL-LLC"
+    },
+    "15549": {
+        "country_code": "KZ",
+        "asn": "15549",
+        "description": "National Information Technologies Joint-Stock Company",
+        "handle": "NATIONAL-INFORMATION-TECHNOLOGIES"
+    },
+    "15736": {
+        "country_code": "KZ",
+        "asn": "15736",
+        "description": "Mobile Business Solutions MBS LLP",
+        "handle": "MBS-AS"
+    },
+    "20578": {
+        "country_code": "KZ",
+        "asn": "20578",
+        "description": "JSC Kazteleradio",
+        "handle": "KATELCO-AS"
+    },
+    "21282": {
+        "country_code": "KZ",
+        "asn": "21282",
+        "description": "KazNIC Organization",
+        "handle": "KAZNIC-AS"
+    },
+    "21299": {
+        "country_code": "KZ",
+        "asn": "21299",
+        "description": "Kar-Tel LLC",
+        "handle": "KAR-TEL-AS"
+    },
+    "25349": {
+        "country_code": "KZ",
+        "asn": "25349",
+        "description": "Academset Ltd",
+        "handle": "ASN-ACADEMSET"
+    },
+    "25534": {
+        "country_code": "KZ",
+        "asn": "25534",
+        "description": "10G.KZ LLC",
+        "handle": "INTELSOFT-AS"
+    },
+    "25548": {
+        "country_code": "KZ",
+        "asn": "25548",
+        "description": "SCS - Telecom LLP",
+        "handle": "SCS-TELECOM-AS"
+    },
+    "25559": {
+        "country_code": "KZ",
+        "asn": "25559",
+        "description": "Betting company PARIMATCH.KZ LLP",
+        "handle": "PM-KZ"
+    },
+    "29046": {
+        "country_code": "KZ",
+        "asn": "29046",
+        "description": "Radiobaylanys LLP",
+        "handle": "RBK-AS"
+    },
+    "29355": {
+        "country_code": "KZ",
+        "asn": "29355",
+        "description": "Kcell JSC",
+        "handle": "KCELL-AS"
+    },
+    "29555": {
+        "country_code": "KZ",
+        "asn": "29555",
+        "description": "Mobile Telecom-Service LLP",
+        "handle": "ALTEL-AS"
+    },
+    "31253": {
+        "country_code": "KZ",
+        "asn": "31253",
+        "description": "Jusan Mobile JSC",
+        "handle": "KTC-AS"
+    },
+    "31465": {
+        "country_code": "KZ",
+        "asn": "31465",
+        "description": "PS Internet Company LLP",
+        "handle": "PSKZ-ESHDI"
+    },
+    "31525": {
+        "country_code": "KZ",
+        "asn": "31525",
+        "description": "Satti Telecom LLC",
+        "handle": "SATTI-ZHULDYZ-AS"
+    },
+    "33878": {
+        "country_code": "KZ",
+        "asn": "33878",
+        "description": "JSC First Heartland Jysan Bank",
+        "handle": "ATFBANK-AS"
+    },
+    "35104": {
+        "country_code": "KZ",
+        "asn": "35104",
+        "description": "Jusan Mobile JSC",
+        "handle": "KTC-AS"
+    },
+    "35168": {
+        "country_code": "KZ",
+        "asn": "35168",
+        "description": "TNS-Plus LLP",
+        "handle": "TNS-PLUS-CORE"
+    },
+    "35566": {
+        "country_code": "KZ",
+        "asn": "35566",
+        "description": "Kar-Tel LLC",
+        "handle": "KARTEL-AS"
+    },
+    "35673": {
+        "country_code": "KZ",
+        "asn": "35673",
+        "description": "JSC Kaspi Bank",
+        "handle": "KASPI-BANK-AS"
+    },
+    "35794": {
+        "country_code": "KZ",
+        "asn": "35794",
+        "description": "Optinet LLP",
+        "handle": "KAZ-IX"
+    },
+    "39188": {
+        "country_code": "KZ",
+        "asn": "39188",
+        "description": "ICON LTD",
+        "handle": "ICONLTD-AS"
+    },
+    "39221": {
+        "country_code": "KZ",
+        "asn": "39221",
+        "description": "Cloud PBX Solutions TOO",
+        "handle": "ITOOLABS"
+    },
+    "39318": {
+        "country_code": "KZ",
+        "asn": "39318",
+        "description": "PS Internet Company LLP",
+        "handle": "PSKZ-AST"
+    },
+    "39433": {
+        "country_code": "KZ",
+        "asn": "39433",
+        "description": "Kazakhstan Halyk Bank JSC",
+        "handle": "KAZCOMBANK-AS"
+    },
+    "39510": {
+        "country_code": "KZ",
+        "asn": "39510",
+        "description": "Bank RBK JSC",
+        "handle": "BANKRBK-AS"
+    },
+    "39725": {
+        "country_code": "KZ",
+        "asn": "39725",
+        "description": "JSC Kazakhtelecom",
+        "handle": "DTVKZ-AS"
+    },
+    "39786": {
+        "country_code": "KZ",
+        "asn": "39786",
+        "description": "National Innovation Center LLC",
+        "handle": "SPACEKZ-AS"
+    },
+    "39824": {
+        "country_code": "KZ",
+        "asn": "39824",
+        "description": "JSC Alma Telecommunications",
+        "handle": "ALMANET-AS"
+    },
+    "41007": {
+        "country_code": "KZ",
+        "asn": "41007",
+        "description": "CTC ASTANA LTD",
+        "handle": "CTCASTANA"
+    },
+    "41124": {
+        "country_code": "KZ",
+        "asn": "41124",
+        "description": "BTcom Infocommunications Ltd.",
+        "handle": "BTCOM"
+    },
+    "41284": {
+        "country_code": "KZ",
+        "asn": "41284",
+        "description": "Limited Liability Company Vostok On-Line",
+        "handle": "VOL-AS"
+    },
+    "41371": {
+        "country_code": "KZ",
+        "asn": "41371",
+        "description": "BiKaDa TOO",
+        "handle": "BIKADA"
+    },
+    "41413": {
+        "country_code": "KZ",
+        "asn": "41413",
+        "description": "Nurbank JSC",
+        "handle": "NURBANK-AS"
+    },
+    "41419": {
+        "country_code": "KZ",
+        "asn": "41419",
+        "description": "KazRENA",
+        "handle": "KAZRENA-AS"
+    },
+    "41520": {
+        "country_code": "KZ",
+        "asn": "41520",
+        "description": "Network Kazakhstan LLC",
+        "handle": "STARTEL-AS"
+    },
+    "41798": {
+        "country_code": "KZ",
+        "asn": "41798",
+        "description": "JSC Transtelecom",
+        "handle": "TTC-AS"
+    },
+    "41800": {
+        "country_code": "KZ",
+        "asn": "41800",
+        "description": "Tropynin Oleg",
+        "handle": "TROPYNIN-AS"
+    },
+    "42447": {
+        "country_code": "KZ",
+        "asn": "42447",
+        "description": "EQU Technologies LLP",
+        "handle": "EQUTECHNOLOGIES-AS"
+    },
+    "42588": {
+        "country_code": "KZ",
+        "asn": "42588",
+        "description": "QAZ-IX LLC",
+        "handle": "QAZ-IX"
+    },
+    "42770": {
+        "country_code": "KZ",
+        "asn": "42770",
+        "description": "Kar-Tel LLC",
+        "handle": "KRT-AS"
+    },
+    "43215": {
+        "country_code": "KZ",
+        "asn": "43215",
+        "description": "Business & Technology Services LLP",
+        "handle": "JSCBUSINESSANDTECHNOLOGYSERVICESAS"
+    },
+    "43370": {
+        "country_code": "KZ",
+        "asn": "43370",
+        "description": "OBIT-telecommunications LLC",
+        "handle": "OBIT-KZ-AS"
+    },
+    "43601": {
+        "country_code": "KZ",
+        "asn": "43601",
+        "description": "JSC BankCenterCredit",
+        "handle": "BCC-AS"
+    },
+    "43606": {
+        "country_code": "KZ",
+        "asn": "43606",
+        "description": "Freedom Data Centers LLP",
+        "handle": "FREEDOMCLOUD-AS"
+    },
+    "43873": {
+        "country_code": "KZ",
+        "asn": "43873",
+        "description": "Bazovaya Set LLP",
+        "handle": "AB-AS"
+    },
+    "43934": {
+        "country_code": "KZ",
+        "asn": "43934",
+        "description": "Republic Governmental Enterprise Kazakhstan Interbank Settlement Centre of National Bank of Kazakhstan Republic",
+        "handle": "KISC-AS"
+    },
+    "43994": {
+        "country_code": "KZ",
+        "asn": "43994",
+        "description": "SMARTNET TOO",
+        "handle": "SMARTNET-AS"
+    },
+    "43999": {
+        "country_code": "KZ",
+        "asn": "43999",
+        "description": "Association Internet Traffic Exchange Centre",
+        "handle": "ALA-IX-AS"
+    },
+    "44025": {
+        "country_code": "KZ",
+        "asn": "44025",
+        "description": "KazNIC Organization",
+        "handle": "KAZNIX-AS"
+    },
+    "44173": {
+        "country_code": "KZ",
+        "asn": "44173",
+        "description": "National Innovation Center LLC",
+        "handle": "NOCKZ-AS"
+    },
+    "44256": {
+        "country_code": "KZ",
+        "asn": "44256",
+        "description": "PS Internet Company LLP",
+        "handle": "PSKZ-ANYCAST"
+    },
+    "44653": {
+        "country_code": "KZ",
+        "asn": "44653",
+        "description": "JSC People's Savings Bank Kazakhstan",
+        "handle": "HALYKBANK-AS"
+    },
+    "44877": {
+        "country_code": "KZ",
+        "asn": "44877",
+        "description": "RETN KZ Ltd",
+        "handle": "RETN-KZ-AS"
+    },
+    "48007": {
+        "country_code": "KZ",
+        "asn": "48007",
+        "description": "National Information Technologies Joint-Stock Company",
+        "handle": "BANKNET-AS"
+    },
+    "48334": {
+        "country_code": "KZ",
+        "asn": "48334",
+        "description": "Koldau24 LLC",
+        "handle": "KOLDAU24-AS"
+    },
+    "48450": {
+        "country_code": "KZ",
+        "asn": "48450",
+        "description": "Buzachi Operating Ltd.",
+        "handle": "BOLTD-AS"
+    },
+    "48502": {
+        "country_code": "KZ",
+        "asn": "48502",
+        "description": "ForteBank JSC.",
+        "handle": "METROCOMBANK-AS"
+    },
+    "48503": {
+        "country_code": "KZ",
+        "asn": "48503",
+        "description": "Mobile Telecom-Service LLP",
+        "handle": "TELE2-KZ"
+    },
+    "48716": {
+        "country_code": "KZ",
+        "asn": "48716",
+        "description": "PS Internet Company LLP",
+        "handle": "PSKZ-ALA"
+    },
+    "48988": {
+        "country_code": "KZ",
+        "asn": "48988",
+        "description": "Modern Server Solutions LLP",
+        "handle": "KZ-MSS"
+    },
+    "49089": {
+        "country_code": "KZ",
+        "asn": "49089",
+        "description": "Otbasy Bank JSC",
+        "handle": "HCSBK-AS"
+    },
+    "49108": {
+        "country_code": "KZ",
+        "asn": "49108",
+        "description": "Mir-Bet LLP",
+        "handle": "MIR-BET-AS"
+    },
+    "49393": {
+        "country_code": "KZ",
+        "asn": "49393",
+        "description": "Solutions Factory Ltd.",
+        "handle": "SOLUTIONS-FACTORY-AS"
+    },
+    "50107": {
+        "country_code": "KZ",
+        "asn": "50107",
+        "description": "Vista Technology LLP",
+        "handle": "VISTA-TECHNOLOGY"
+    },
+    "50386": {
+        "country_code": "KZ",
+        "asn": "50386",
+        "description": "KOMBINAT SVYAZI TOO",
+        "handle": "CIC-NETWORK-AS"
+    },
+    "50482": {
+        "country_code": "KZ",
+        "asn": "50482",
+        "description": "JSC Kazakhtelecom",
+        "handle": "KAZAKHTELECOM-AS"
+    },
+    "50756": {
+        "country_code": "KZ",
+        "asn": "50756",
+        "description": "Mikrofinansovaya organizaciya Robocash.kz LLP",
+        "handle": "ROBOCASHKZ-AS"
+    },
+    "51162": {
+        "country_code": "KZ",
+        "asn": "51162",
+        "description": "JSC Kazteleport - subsidiary of Halyk Bank of Kazakhstan",
+        "handle": "PFNB-AS"
+    },
+    "51192": {
+        "country_code": "KZ",
+        "asn": "51192",
+        "description": "TOO Platinum Telecom",
+        "handle": "PLATINUMTELCO-AS"
+    },
+    "51340": {
+        "country_code": "KZ",
+        "asn": "51340",
+        "description": "Transport Holding of Almaty City LLP",
+        "handle": "THA-AS"
+    },
+    "51833": {
+        "country_code": "KZ",
+        "asn": "51833",
+        "description": "Association of IT Companies of Kazakhstan",
+        "handle": "NICKZ-AS"
+    },
+    "51878": {
+        "country_code": "KZ",
+        "asn": "51878",
+        "description": "TOO IK-Broker",
+        "handle": "BAINET-AS"
+    },
+    "51979": {
+        "country_code": "KZ",
+        "asn": "51979",
+        "description": "AKSYCOM LTD",
+        "handle": "AKSYCOM-NET"
+    },
+    "51997": {
+        "country_code": "KZ",
+        "asn": "51997",
+        "description": "LLP Asket",
+        "handle": "ASKET-AS"
+    },
+    "56549": {
+        "country_code": "KZ",
+        "asn": "56549",
+        "description": "AO State Technical Service",
+        "handle": "KAZGOV-IX"
+    },
+    "56568": {
+        "country_code": "KZ",
+        "asn": "56568",
+        "description": "X-COMMUNICATION LLP",
+        "handle": "XCOMMUNICATION-AS"
+    },
+    "57008": {
+        "country_code": "KZ",
+        "asn": "57008",
+        "description": "ITGLOBAL.COM KZ LLP",
+        "handle": "ITGLOBAL-AS"
+    },
+    "57013": {
+        "country_code": "KZ",
+        "asn": "57013",
+        "description": "Eurasia-Star LLP",
+        "handle": "EURASIA-STAR-AS"
+    },
+    "57466": {
+        "country_code": "KZ",
+        "asn": "57466",
+        "description": "Eurasian Trade System Commodity Exchange OJSC",
+        "handle": "ETS-AS"
+    },
+    "57784": {
+        "country_code": "KZ",
+        "asn": "57784",
+        "description": "TelService LTD LLP",
+        "handle": "TELSERVICELTD-AS"
+    },
+    "57826": {
+        "country_code": "KZ",
+        "asn": "57826",
+        "description": "Svyaz-INKOM-Servis i telekommunikatsii Ltd.",
+        "handle": "ASSVYAZINKOMSERVIS"
+    },
+    "57950": {
+        "country_code": "KZ",
+        "asn": "57950",
+        "description": "Kaznet Media Ltd",
+        "handle": "AKSORANLLP-AS"
+    },
+    "58033": {
+        "country_code": "KZ",
+        "asn": "58033",
+        "description": "TOO Internet Resheniya",
+        "handle": "INTERNETSOLUTIONS-AS"
+    },
+    "58172": {
+        "country_code": "KZ",
+        "asn": "58172",
+        "description": "Freedom Data Centers LLP",
+        "handle": "FREEDOMTELECOM-AS"
+    },
+    "58289": {
+        "country_code": "KZ",
+        "asn": "58289",
+        "description": "Kazakhstan Network Communication LLP",
+        "handle": "KAZNETCOM"
+    },
+    "59443": {
+        "country_code": "KZ",
+        "asn": "59443",
+        "description": "Baynur and P Ltd.",
+        "handle": "BAYNUR-AS"
+    },
+    "59583": {
+        "country_code": "KZ",
+        "asn": "59583",
+        "description": "Network Kazakhstan LLC",
+        "handle": "ASNETKAZAHSTAN"
+    },
+    "59937": {
+        "country_code": "KZ",
+        "asn": "59937",
+        "description": "Bonami LLP",
+        "handle": "PIN-UP-AS"
+    },
+    "60186": {
+        "country_code": "KZ",
+        "asn": "60186",
+        "description": "Eurasian Development Bank",
+        "handle": "EDB-AS"
+    },
+    "60286": {
+        "country_code": "KZ",
+        "asn": "60286",
+        "description": "Agency-KA Ltd.",
+        "handle": "STEPNET-KZ-AS"
+    },
+    "60411": {
+        "country_code": "KZ",
+        "asn": "60411",
+        "description": "Network Kazakhstan LLC",
+        "handle": "KAZINTERCOM-AS"
+    },
+    "60708": {
+        "country_code": "KZ",
+        "asn": "60708",
+        "description": "KazNIC Organization",
+        "handle": "KAZNIC-AS"
+    },
+    "60757": {
+        "country_code": "KZ",
+        "asn": "60757",
+        "description": "Optinet LLP",
+        "handle": "OPTINET-AS"
+    },
+    "60930": {
+        "country_code": "KZ",
+        "asn": "60930",
+        "description": "Signal Telecom LLP",
+        "handle": "SIGNALTELECOM-TEL"
+    },
+    "61185": {
+        "country_code": "KZ",
+        "asn": "61185",
+        "description": "10G.KZ LLC",
+        "handle": "INTELSOFT-WIFI-AS"
+    },
+    "61367": {
+        "country_code": "KZ",
+        "asn": "61367",
+        "description": "TOO B-TEL",
+        "handle": "ASBALKHASH"
+    },
+    "61392": {
+        "country_code": "KZ",
+        "asn": "61392",
+        "description": "TOO K-net",
+        "handle": "ASKNET"
+    },
+    "62062": {
+        "country_code": "KZ",
+        "asn": "62062",
+        "description": "Open Media Group LLC",
+        "handle": "AS-OPENMEDIA"
+    },
+    "62394": {
+        "country_code": "KZ",
+        "asn": "62394",
+        "description": "Technodom Operator JSC",
+        "handle": "TECHNODOM-AS"
+    },
+    "197079": {
+        "country_code": "KZ",
+        "asn": "197079",
+        "description": "Digital System Servis",
+        "handle": "DSS-AS"
+    },
+    "197487": {
+        "country_code": "KZ",
+        "asn": "197487",
+        "description": "JSC Microfinance Organization KMF",
+        "handle": "AS-KMF-KZ"
+    },
+    "197556": {
+        "country_code": "KZ",
+        "asn": "197556",
+        "description": "Kar-Tel LLC",
+        "handle": "KAR-TEL"
+    },
+    "197686": {
+        "country_code": "KZ",
+        "asn": "197686",
+        "description": "JSC Kazteleport - subsidiary of Halyk Bank of Kazakhstan",
+        "handle": "KAZTELEPORT"
+    },
+    "197968": {
+        "country_code": "KZ",
+        "asn": "197968",
+        "description": "Comfortel Ltd.",
+        "handle": "COMFORTEL"
+    },
+    "198084": {
+        "country_code": "KZ",
+        "asn": "198084",
+        "description": "Orbicom LLP",
+        "handle": "ORBICOM"
+    },
+    "198200": {
+        "country_code": "KZ",
+        "asn": "198200",
+        "description": "JSC BankCenterCredit",
+        "handle": "ALFABANKKZ-AS"
+    },
+    "198229": {
+        "country_code": "KZ",
+        "asn": "198229",
+        "description": "Colvir Kazakhstan LLP",
+        "handle": "AS-COLVIR-KZ"
+    },
+    "198483": {
+        "country_code": "KZ",
+        "asn": "198483",
+        "description": "CloudTek TOO",
+        "handle": "CLOUDTEK-KZ-AS"
+    },
+    "198803": {
+        "country_code": "KZ",
+        "asn": "198803",
+        "description": "Allonstelefonstroy LLP",
+        "handle": "ALLONS-AS"
+    },
+    "200067": {
+        "country_code": "KZ",
+        "asn": "200067",
+        "description": "JSC Freedom Finance",
+        "handle": "FFIN"
+    },
+    "200218": {
+        "country_code": "KZ",
+        "asn": "200218",
+        "description": "Tvoy Novy Telecom LLP",
+        "handle": "TNTEL-AS"
+    },
+    "200349": {
+        "country_code": "KZ",
+        "asn": "200349",
+        "description": "Bereke Bank JSC",
+        "handle": "SBSBERBANKJSC"
+    },
+    "200532": {
+        "country_code": "KZ",
+        "asn": "200532",
+        "description": "LLP Kompaniya Hoster.KZ",
+        "handle": "WOOPPAY-AST"
+    },
+    "200590": {
+        "country_code": "KZ",
+        "asn": "200590",
+        "description": "NLS Kazakhstan LLC",
+        "handle": "ASNLS"
+    },
+    "200688": {
+        "country_code": "KZ",
+        "asn": "200688",
+        "description": "Gologramma LLP",
+        "handle": "GGA"
+    },
+    "200721": {
+        "country_code": "KZ",
+        "asn": "200721",
+        "description": "Datanet LLP",
+        "handle": "DATANET-AS"
+    },
+    "200730": {
+        "country_code": "KZ",
+        "asn": "200730",
+        "description": "ISAEV Igor",
+        "handle": "ISAEV"
+    },
+    "200962": {
+        "country_code": "KZ",
+        "asn": "200962",
+        "description": "LLC Citicom Systems",
+        "handle": "CITICOM"
+    },
+    "201153": {
+        "country_code": "KZ",
+        "asn": "201153",
+        "description": "KONNEKTEAM LLP",
+        "handle": "KONNEKTEAM-AS"
+    },
+    "201179": {
+        "country_code": "KZ",
+        "asn": "201179",
+        "description": "Teraline Telecom LLP",
+        "handle": "TERALINETELECOM-AS"
+    },
+    "201242": {
+        "country_code": "KZ",
+        "asn": "201242",
+        "description": "Zagorodnikov Aleksei",
+        "handle": "GL-TELECOM"
+    },
+    "201817": {
+        "country_code": "KZ",
+        "asn": "201817",
+        "description": "VK Tech Kazakhstan LLP",
+        "handle": "KZVKTECH"
+    },
+    "201993": {
+        "country_code": "KZ",
+        "asn": "201993",
+        "description": "Tilda Publishing Kaz LLC",
+        "handle": "KZ-TILDAPUBLISHING-1"
+    },
+    "202293": {
+        "country_code": "KZ",
+        "asn": "202293",
+        "description": "D-Cloud LLC",
+        "handle": "D-CLOUD-AS"
+    },
+    "202299": {
+        "country_code": "KZ",
+        "asn": "202299",
+        "description": "TOO Freedom Mobile",
+        "handle": "MOBMIR"
+    },
+    "202461": {
+        "country_code": "KZ",
+        "asn": "202461",
+        "description": "NAT Kazakhstan JSC",
+        "handle": "KZ-NAT-KAZAKHSTAN"
+    },
+    "202527": {
+        "country_code": "KZ",
+        "asn": "202527",
+        "description": "Aktau Spec Montazh TOO",
+        "handle": "AS-SMON"
+    },
+    "202831": {
+        "country_code": "KZ",
+        "asn": "202831",
+        "description": "Ablaykhan Akylbekovich Sharimov",
+        "handle": "ABLAYKHANSHAN"
+    },
+    "202927": {
+        "country_code": "KZ",
+        "asn": "202927",
+        "description": "Cloud PBX Solutions TOO",
+        "handle": "RZ"
+    },
+    "202958": {
+        "country_code": "KZ",
+        "asn": "202958",
+        "description": "LLP Kompaniya Hoster.KZ",
+        "handle": "HOSTER-ALM"
+    },
+    "202995": {
+        "country_code": "KZ",
+        "asn": "202995",
+        "description": "Zhetisu-M-Telecom LLP",
+        "handle": "ZHETISU-M-TELECOM-AS"
+    },
+    "203044": {
+        "country_code": "KZ",
+        "asn": "203044",
+        "description": "Telepatiya Ltd",
+        "handle": "TELEPATIYA"
+    },
+    "203087": {
+        "country_code": "KZ",
+        "asn": "203087",
+        "description": "PE Fedinyak Sergey Vyacheslavovich",
+        "handle": "GOHOST-KZ"
+    },
+    "203167": {
+        "country_code": "KZ",
+        "asn": "203167",
+        "description": "FOODMASTER-TRADE COMPANY LLP",
+        "handle": "FOODMASTER"
+    },
+    "203481": {
+        "country_code": "KZ",
+        "asn": "203481",
+        "description": "AstanaMegatel Ltd.",
+        "handle": "MEGATEL-AS"
+    },
+    "203530": {
+        "country_code": "KZ",
+        "asn": "203530",
+        "description": "7sat LLP",
+        "handle": "KZ-7SAT-AS"
+    },
+    "203534": {
+        "country_code": "KZ",
+        "asn": "203534",
+        "description": "Erik Omarov",
+        "handle": "ERIKOMAROV"
+    },
+    "203886": {
+        "country_code": "KZ",
+        "asn": "203886",
+        "description": "TOO Davion",
+        "handle": "DAVION-AS"
+    },
+    "203911": {
+        "country_code": "KZ",
+        "asn": "203911",
+        "description": "Kazakh Home Networks LLP",
+        "handle": "ALL-LINE-KZ"
+    },
+    "204514": {
+        "country_code": "KZ",
+        "asn": "204514",
+        "description": "Eurasia Insurance JSC",
+        "handle": "EURASIA-INSURANCE-AS"
+    },
+    "204706": {
+        "country_code": "KZ",
+        "asn": "204706",
+        "description": "JSC Kolesa",
+        "handle": "KOLESA-AS"
+    },
+    "204804": {
+        "country_code": "KZ",
+        "asn": "204804",
+        "description": "Meganet LLP",
+        "handle": "ASMEGANET"
+    },
+    "205231": {
+        "country_code": "KZ",
+        "asn": "205231",
+        "description": "LLP Kompaniya Hoster.KZ",
+        "handle": "OFFICE"
+    },
+    "205431": {
+        "country_code": "KZ",
+        "asn": "205431",
+        "description": "HostLab LLC",
+        "handle": "HOSTLAB"
+    },
+    "205516": {
+        "country_code": "KZ",
+        "asn": "205516",
+        "description": "NLS ASTANA LLP",
+        "handle": "NLS-ASTANA"
+    },
+    "205559": {
+        "country_code": "KZ",
+        "asn": "205559",
+        "description": "Cloud Master LLP",
+        "handle": "NIMBUS"
+    },
+    "205667": {
+        "country_code": "KZ",
+        "asn": "205667",
+        "description": "JSC Narxoz University",
+        "handle": "NARXOZ-AS"
+    },
+    "206026": {
+        "country_code": "KZ",
+        "asn": "206026",
+        "description": "Kar-Tel LLC",
+        "handle": "IPNET-KAR-TEL"
+    },
+    "206329": {
+        "country_code": "KZ",
+        "asn": "206329",
+        "description": "Pro Data Tech (Pro Data Tech) LLP",
+        "handle": "PRO-DATA-TECH-KZ-AS"
+    },
+    "206528": {
+        "country_code": "KZ",
+        "asn": "206528",
+        "description": "LLP Kaztehnosvyaz",
+        "handle": "KAZTEHNOSVYAZ"
+    },
+    "206768": {
+        "country_code": "KZ",
+        "asn": "206768",
+        "description": "Association of IT Companies of Kazakhstan",
+        "handle": "DNS2KZ-AS"
+    },
+    "207304": {
+        "country_code": "KZ",
+        "asn": "207304",
+        "description": "Y. Izdeu men Jarnama LLP",
+        "handle": "YANDEX-KZ"
+    },
+    "207333": {
+        "country_code": "KZ",
+        "asn": "207333",
+        "description": "LLP Kompaniya Hoster.KZ",
+        "handle": "HOSTER-AST"
+    },
+    "207383": {
+        "country_code": "KZ",
+        "asn": "207383",
+        "description": "AbziCom LLP",
+        "handle": "GENERALSTELECOM"
+    },
+    "207446": {
+        "country_code": "KZ",
+        "asn": "207446",
+        "description": "JSC Kazteleport - subsidiary of Halyk Bank of Kazakhstan",
+        "handle": "KAZTELEPORT-AS"
+    },
+    "207507": {
+        "country_code": "KZ",
+        "asn": "207507",
+        "description": "Non-profit joint-stock company Karaganda technical University",
+        "handle": "KSTU-AS"
+    },
+    "207966": {
+        "country_code": "KZ",
+        "asn": "207966",
+        "description": "AO State Technical Service",
+        "handle": "STSKZ"
+    },
+    "208077": {
+        "country_code": "KZ",
+        "asn": "208077",
+        "description": "COMPASTELECOM LLP",
+        "handle": "AS"
+    },
+    "208167": {
+        "country_code": "KZ",
+        "asn": "208167",
+        "description": "PRK Fermata",
+        "handle": "FERMATA"
+    },
+    "208295": {
+        "country_code": "KZ",
+        "asn": "208295",
+        "description": "LLP Aitu - Payment solutions",
+        "handle": "AITUPAY-AS"
+    },
+    "208356": {
+        "country_code": "KZ",
+        "asn": "208356",
+        "description": "Smart Cities Limited Liability Partnership",
+        "handle": "SMARTCITIES-AS"
+    },
+    "208448": {
+        "country_code": "KZ",
+        "asn": "208448",
+        "description": "TTK LLP",
+        "handle": "TTK-TEMIRTAU"
+    },
+    "208450": {
+        "country_code": "KZ",
+        "asn": "208450",
+        "description": "Megahost Kazakhstan TOO",
+        "handle": "MEGAHOST-KZ"
+    },
+    "208602": {
+        "country_code": "KZ",
+        "asn": "208602",
+        "description": "Solidcore Eurasia LLP",
+        "handle": "SOLIDROCE-RESOURCES"
+    },
+    "208664": {
+        "country_code": "KZ",
+        "asn": "208664",
+        "description": "JSC Eurasian Bank",
+        "handle": "EUB-AS"
+    },
+    "208795": {
+        "country_code": "KZ",
+        "asn": "208795",
+        "description": "Cloud Services Kazakhstan LLP",
+        "handle": "YANDEXCLOUDKZ"
+    },
+    "208946": {
+        "country_code": "KZ",
+        "asn": "208946",
+        "description": "Sirius-2014 LLC",
+        "handle": "ASSIRIUS2014"
+    },
+    "209120": {
+        "country_code": "KZ",
+        "asn": "209120",
+        "description": "Bank Freedom Finance Kazakhstan JSC",
+        "handle": "BANKKASSANOVA-AS"
+    },
+    "209416": {
+        "country_code": "KZ",
+        "asn": "209416",
+        "description": "Kazzinc LLP",
+        "handle": "KAZZINC-AS"
+    },
+    "209614": {
+        "country_code": "KZ",
+        "asn": "209614",
+        "description": "IKS-COM LLP",
+        "handle": "IKSCOM-AS"
+    },
+    "209665": {
+        "country_code": "KZ",
+        "asn": "209665",
+        "description": "OBIT-telecommunications LLC",
+        "handle": "OBIT-KZ-ASTANA-AS"
+    },
+    "209702": {
+        "country_code": "KZ",
+        "asn": "209702",
+        "description": "SOLDATOV ALEXEY VALEREVICH",
+        "handle": "SOLDATOV-AS"
+    },
+    "209851": {
+        "country_code": "KZ",
+        "asn": "209851",
+        "description": "Hyper Cloud Solutions LLP",
+        "handle": "HYPERCLOUD"
+    },
+    "209939": {
+        "country_code": "KZ",
+        "asn": "209939",
+        "description": "National Innovation Center LLC",
+        "handle": "PC4U-AS"
+    },
+    "210006": {
+        "country_code": "KZ",
+        "asn": "210006",
+        "description": "Shereverov Marat Ahmedovich",
+        "handle": "ASKZ"
+    },
+    "210195": {
+        "country_code": "KZ",
+        "asn": "210195",
+        "description": "AST Group Capital TOO",
+        "handle": "AST-GROUP-CAP-AS"
+    },
+    "210273": {
+        "country_code": "KZ",
+        "asn": "210273",
+        "description": "Montazh Stroj Servis TOO",
+        "handle": "MONTH-SS"
+    },
+    "210399": {
+        "country_code": "KZ",
+        "asn": "210399",
+        "description": "KAZOPTICLINK LLP",
+        "handle": "KAZOPTICLINK"
+    },
+    "210435": {
+        "country_code": "KZ",
+        "asn": "210435",
+        "description": "STELS Networks LLP",
+        "handle": "KZ-STELS-NETWORKS"
+    },
+    "210459": {
+        "country_code": "KZ",
+        "asn": "210459",
+        "description": "First Credit Bureau LLP",
+        "handle": "FCBK"
+    },
+    "210512": {
+        "country_code": "KZ",
+        "asn": "210512",
+        "description": "IT-Comm LLP",
+        "handle": "IT-COMM"
+    },
+    "210531": {
+        "country_code": "KZ",
+        "asn": "210531",
+        "description": "Freedom Telecom Operations LLP",
+        "handle": "FTEL-AS"
+    },
+    "210581": {
+        "country_code": "KZ",
+        "asn": "210581",
+        "description": "JSC Kazteleport - subsidiary of Halyk Bank of Kazakhstan",
+        "handle": "KTP-DGUARD-AS"
+    },
+    "210663": {
+        "country_code": "KZ",
+        "asn": "210663",
+        "description": "Nomapay LLP",
+        "handle": "KZ-NOMAPAY"
+    },
+    "210686": {
+        "country_code": "KZ",
+        "asn": "210686",
+        "description": "JanaNet LLP",
+        "handle": "KZ-JANANET"
+    },
+    "210976": {
+        "country_code": "KZ",
+        "asn": "210976",
+        "description": "Timeweb LLP",
+        "handle": "TWC-EU"
+    },
+    "211004": {
+        "country_code": "KZ",
+        "asn": "211004",
+        "description": "Ibsotech LLP",
+        "handle": "IBSOTECH-AS"
+    },
+    "211028": {
+        "country_code": "KZ",
+        "asn": "211028",
+        "description": "Spetsavtomatikaservice LLP",
+        "handle": "SAS-TELECOM"
+    },
+    "211160": {
+        "country_code": "KZ",
+        "asn": "211160",
+        "description": "Dalsvyaz Ltd.",
+        "handle": "DALSVYAZ-AS"
+    },
+    "211390": {
+        "country_code": "KZ",
+        "asn": "211390",
+        "description": "LLP Central Asian IX",
+        "handle": "CAIX"
+    },
+    "211553": {
+        "country_code": "KZ",
+        "asn": "211553",
+        "description": "BI Innovations LLC",
+        "handle": "AS-BI-INNOVATIONS"
+    },
+    "211644": {
+        "country_code": "KZ",
+        "asn": "211644",
+        "description": "QazCloud LLP",
+        "handle": "QAZCLOUD"
+    },
+    "211792": {
+        "country_code": "KZ",
+        "asn": "211792",
+        "description": "Betting company PM Bet LLC",
+        "handle": "PMBET-KZ-AS"
+    },
+    "211806": {
+        "country_code": "KZ",
+        "asn": "211806",
+        "description": "JSC Altyn Bank (SB of China Citic Bank Corporation Ltd)",
+        "handle": "ALTYNBANK-AS"
+    },
+    "211849": {
+        "country_code": "KZ",
+        "asn": "211849",
+        "description": "Kakharov Orinbassar Maratuly",
+        "handle": "KAKHAROV-AS"
+    },
+    "211971": {
+        "country_code": "KZ",
+        "asn": "211971",
+        "description": "Goodhost.KZ LLP",
+        "handle": "GOODHOSTKZ"
+    },
+    "212013": {
+        "country_code": "KZ",
+        "asn": "212013",
+        "description": "TOO Telco Construction",
+        "handle": "ASTELCO"
+    },
+    "212086": {
+        "country_code": "KZ",
+        "asn": "212086",
+        "description": "Bazovaya Set LLP",
+        "handle": "ASB-AS"
+    },
+    "212189": {
+        "country_code": "KZ",
+        "asn": "212189",
+        "description": "IT-GRAD TOO",
+        "handle": "IT-GRAD"
+    },
+    "212314": {
+        "country_code": "KZ",
+        "asn": "212314",
+        "description": "toCloud LLP",
+        "handle": "TOCLOUD-AS"
+    },
+    "212735": {
+        "country_code": "KZ",
+        "asn": "212735",
+        "description": "Islamic Bank Zaman-Bank JSC",
+        "handle": "ZAMANBANK-AS"
+    },
+    "212835": {
+        "country_code": "KZ",
+        "asn": "212835",
+        "description": "Shesternin Vladimir Anatolievich",
+        "handle": "SHESTERNIN-AS"
+    },
+    "212940": {
+        "country_code": "KZ",
+        "asn": "212940",
+        "description": "TOO Connect-S",
+        "handle": "CONNECT"
+    },
+    "212999": {
+        "country_code": "KZ",
+        "asn": "212999",
+        "description": "TOO Kainar-Media",
+        "handle": "KAINAR-AS"
+    },
+    "213048": {
+        "country_code": "KZ",
+        "asn": "213048",
+        "description": "Air Astana JSC",
+        "handle": "AIRASTANAAS"
+    },
+    "213114": {
+        "country_code": "KZ",
+        "asn": "213114",
+        "description": "Zamolotskikh Kirill Alexandrovich",
+        "handle": "ZAMOLOTSKIKH-AS"
+    },
+    "213127": {
+        "country_code": "KZ",
+        "asn": "213127",
+        "description": "STATE CREDIT BUREAU JSC",
+        "handle": "KZ-STATE-CREDIT-BUREAU"
+    },
+    "213146": {
+        "country_code": "KZ",
+        "asn": "213146",
+        "description": "JSC First Heartland Jysan Bank",
+        "handle": "JYSANBANK"
+    },
+    "213217": {
+        "country_code": "KZ",
+        "asn": "213217",
+        "description": "DC P10 LLP",
+        "handle": "DATALINE24"
+    },
+    "213662": {
+        "country_code": "KZ",
+        "asn": "213662",
+        "description": "TOO Oblachnye Resheniya",
+        "handle": "KZ-CLOUD-SOLUTIONS-AS"
+    },
+    "213841": {
+        "country_code": "KZ",
+        "asn": "213841",
+        "description": "Network Telecom Systems LLP",
+        "handle": "NTSYSTEMS-AS"
+    },
+    "214052": {
+        "country_code": "KZ",
+        "asn": "214052",
+        "description": "TNCA LLC",
+        "handle": "TNCA"
+    },
+    "214193": {
+        "country_code": "KZ",
+        "asn": "214193",
+        "description": "Fishnet.kz LLC",
+        "handle": "FISH-AS-1"
+    },
+    "214200": {
+        "country_code": "KZ",
+        "asn": "214200",
+        "description": "FastLine LLP",
+        "handle": "FASTLINE-AS"
+    },
+    "214461": {
+        "country_code": "KZ",
+        "asn": "214461",
+        "description": "Cloudpard LLC",
+        "handle": "CLOUDPARD-AS"
+    },
+    "214500": {
+        "country_code": "KZ",
+        "asn": "214500",
+        "description": "CLOUD PLATFORM LLP",
+        "handle": "MULTICL-KZ-AS"
+    },
+    "214706": {
+        "country_code": "KZ",
+        "asn": "214706",
+        "description": "KazTransNet LLP",
+        "handle": "KTN-AS"
+    },
+    "214748": {
+        "country_code": "KZ",
+        "asn": "214748",
+        "description": "LanCloud TOO",
+        "handle": "KZ-LANCLOUD-AS01"
+    },
+    "214750": {
+        "country_code": "KZ",
+        "asn": "214750",
+        "description": "JSC Home Credit Bank",
+        "handle": "HCB"
+    },
+    "214789": {
+        "country_code": "KZ",
+        "asn": "214789",
+        "description": "Nova Cloud LLP",
+        "handle": "NOVA-CLOUD-KZ"
+    },
+    "214830": {
+        "country_code": "KZ",
+        "asn": "214830",
+        "description": "TOO Zebra Telecom",
+        "handle": "ZEBRA-TELECOM-AS"
+    },
+    "215040": {
+        "country_code": "KZ",
+        "asn": "215040",
+        "description": "National Bank of the Republic of Kazakhstan",
+        "handle": "NBRK-AS"
+    },
+    "215094": {
+        "country_code": "KZ",
+        "asn": "215094",
+        "description": "Kazakhstan Stock Exchange JSC",
+        "handle": "KASE"
+    },
+    "215183": {
+        "country_code": "KZ",
+        "asn": "215183",
+        "description": "ZHAIKOV AITOLKYN BEKBOLATKYZY",
+        "handle": "ZHAIKOV-AS"
+    },
+    "215360": {
+        "country_code": "KZ",
+        "asn": "215360",
+        "description": "Lifestream Kazakhstan LLP",
+        "handle": "LIFESTREAM-KZ-AS"
+    },
+    "215670": {
+        "country_code": "KZ",
+        "asn": "215670",
+        "description": "LLP Internet company First Page",
+        "handle": "FIRSTPAGE-AS"
+    },
+    "215735": {
+        "country_code": "KZ",
+        "asn": "215735",
+        "description": "Content Service Company TOO",
+        "handle": "CONTENT"
+    },
+    "215802": {
+        "country_code": "KZ",
+        "asn": "215802",
+        "description": "i-LinkNet LLP",
+        "handle": "ASILINK"
+    },
+    "215947": {
+        "country_code": "KZ",
+        "asn": "215947",
+        "description": "Qosyl.kz LLP",
+        "handle": "GRAZHDANIN-AS"
+    },
+    "215953": {
+        "country_code": "KZ",
+        "asn": "215953",
+        "description": "BERIK ASHIMOV",
+        "handle": "ASHIMOV-AS"
+    },
+    "216136": {
+        "country_code": "KZ",
+        "asn": "216136",
+        "description": "Sportmaster Kazakhstan LLP",
+        "handle": "AS-SPORTMASTER-KZ"
+    },
+    "216175": {
+        "country_code": "KZ",
+        "asn": "216175",
+        "description": "LLP Triest",
+        "handle": "GOODHOST"
+    },
+    "216202": {
+        "country_code": "KZ",
+        "asn": "216202",
+        "description": "Subsidiary VTB Bank JSC Kazakhstan",
+        "handle": "VTBANK-KAZ"
+    },
+    "216384": {
+        "country_code": "KZ",
+        "asn": "216384",
+        "description": "K-TELCO LLP",
+        "handle": "K-TELCO-AS"
+    },
+    "216473": {
+        "country_code": "KZ",
+        "asn": "216473",
+        "description": "Bashinskii Vadim Ruslanovich",
+        "handle": "NET-HOST"
+    },
+    "420042": {
+        "country_code": "KZ",
+        "asn": "420042",
+        "description": "inlifeuser",
+        "handle": "INLIFEUSER"
+    }
+}

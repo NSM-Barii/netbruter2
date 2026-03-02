@@ -1,0 +1,14 @@
+{
+    "10131": {
+        "country_code": "CK",
+        "asn": "10131",
+        "description": "Telecom Cook Islands Ltd",
+        "handle": "CKTELECOM-CK-AP"
+    },
+    "152093": {
+        "country_code": "CK",
+        "asn": "152093",
+        "description": "VakaNet Limited",
+        "handle": "VAKANETLIMITED-AS-AP"
+    }
+}

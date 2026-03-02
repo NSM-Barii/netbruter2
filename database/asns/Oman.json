@@ -1,0 +1,152 @@
+{
+    "15679": {
+        "country_code": "OM",
+        "asn": "15679",
+        "description": "Ministry of Transport Communication and Information Technology",
+        "handle": "CIS"
+    },
+    "28885": {
+        "country_code": "OM",
+        "asn": "28885",
+        "description": "Oman Telecommunications Company (S.A.O.G)",
+        "handle": "OMANTEL-NAP-AS"
+    },
+    "50010": {
+        "country_code": "OM",
+        "asn": "50010",
+        "description": "Omani Qatari Telecommunication Company SAOC",
+        "handle": "NAWRAS-AS"
+    },
+    "60680": {
+        "country_code": "OM",
+        "asn": "60680",
+        "description": "Telecommunications Regulatory Authority (TRA)",
+        "handle": "OMANTRA-AS"
+    },
+    "197508": {
+        "country_code": "OM",
+        "asn": "197508",
+        "description": "INTEGRATED TELECOMMUNICATIONS OMAN CJSC",
+        "handle": "SAMATEL-AS"
+    },
+    "201413": {
+        "country_code": "OM",
+        "asn": "201413",
+        "description": "Omani Qatari Telecommunication Company SAOC",
+        "handle": "AS50010"
+    },
+    "201684": {
+        "country_code": "OM",
+        "asn": "201684",
+        "description": "Oman Data Park SAOC",
+        "handle": "ODPASN"
+    },
+    "202163": {
+        "country_code": "OM",
+        "asn": "202163",
+        "description": "AL TAREK ENERGY SPC",
+        "handle": "ALTAREK"
+    },
+    "202655": {
+        "country_code": "OM",
+        "asn": "202655",
+        "description": "Ministry of Education (MOE)",
+        "handle": "MOE"
+    },
+    "204170": {
+        "country_code": "OM",
+        "asn": "204170",
+        "description": "Awaser Oman LLC",
+        "handle": "AWASR"
+    },
+    "204974": {
+        "country_code": "OM",
+        "asn": "204974",
+        "description": "Petroleum Development Oman LLC",
+        "handle": "OM-PETROLUEM"
+    },
+    "205171": {
+        "country_code": "OM",
+        "asn": "205171",
+        "description": "The Cloud Data Center LLC",
+        "handle": "CLOUDACROPOLIS"
+    },
+    "206350": {
+        "country_code": "OM",
+        "asn": "206350",
+        "description": "Oman Research and education Network (OMREN)",
+        "handle": "OMREN"
+    },
+    "207865": {
+        "country_code": "OM",
+        "asn": "207865",
+        "description": "Social Protection Fund",
+        "handle": "PASI"
+    },
+    "209576": {
+        "country_code": "OM",
+        "asn": "209576",
+        "description": "Duqm Data Centre SAOC",
+        "handle": "DATA2CLOUD"
+    },
+    "209726": {
+        "country_code": "OM",
+        "asn": "209726",
+        "description": "Oman Data Park SAOC",
+        "handle": "OMANIA-AS"
+    },
+    "210962": {
+        "country_code": "OM",
+        "asn": "210962",
+        "description": "Business Integrated Operating Systems SPC",
+        "handle": "BIOSME-OMAN"
+    },
+    "211302": {
+        "country_code": "OM",
+        "asn": "211302",
+        "description": "Frontier Technology LLC",
+        "handle": "BSS"
+    },
+    "211521": {
+        "country_code": "OM",
+        "asn": "211521",
+        "description": "Awaser Oman LLC",
+        "handle": "AWASR"
+    },
+    "211889": {
+        "country_code": "OM",
+        "asn": "211889",
+        "description": "Alizz Islamic Bank SAOC",
+        "handle": "AIB"
+    },
+    "212661": {
+        "country_code": "OM",
+        "asn": "212661",
+        "description": "Oman Future Telecommunications Company SAOC",
+        "handle": "VODAFONE-OMAN"
+    },
+    "214375": {
+        "country_code": "OM",
+        "asn": "214375",
+        "description": "YAHYA SAID RASHID ABDULA AL ABRI trading as Infinity Information Technology",
+        "handle": "INFINITY-INFORMATION-TECHNOLOGY"
+    },
+    "214982": {
+        "country_code": "OM",
+        "asn": "214982",
+        "description": "Awaser Oman LLC",
+        "handle": "AWASR"
+    },
+    "215807": {
+        "country_code": "OM",
+        "asn": "215807",
+        "description": "Jebel Akhdar Datacenter SAOC (JSC)",
+        "handle": "DATAMOUNT"
+    },
+    "216397": {
+        "country_code": "OM",
+        "asn": "216397",
+        "description": "Golden Dragon LLC",
+        "handle": "GOLDENDRAGON"
+    }
+}

@@ -1,0 +1,2324 @@
+{
+    "4634": {
+        "country_code": "MY",
+        "asn": "4634",
+        "description": "IRIX SDN. BHD.",
+        "handle": "IRIX-AS-AP"
+    },
+    "4769": {
+        "country_code": "MY",
+        "asn": "4769",
+        "description": "Exa Bytes Network Sdn.Bhd.",
+        "handle": "EXABYTES-AS-AP"
+    },
+    "4788": {
+        "country_code": "MY",
+        "asn": "4788",
+        "description": "TM TECHNOLOGY SERVICES SDN BHD",
+        "handle": "TTSSB-MY"
+    },
+    "4818": {
+        "country_code": "MY",
+        "asn": "4818",
+        "description": "DiGi Telecommunications Sdn Bhd. Digi Internet Exchange",
+        "handle": "DIGIIX-AP"
+    },
+    "9534": {
+        "country_code": "MY",
+        "asn": "9534",
+        "description": "Maxis Broadband Sdn Bhd",
+        "handle": "MAXIS-AS1-AP"
+    },
+    "9655": {
+        "country_code": "MY",
+        "asn": "9655",
+        "description": "Technology Park Malaysia Corporation Sdn. Bhd",
+        "handle": "TPMNETWORK-AS-AP"
+    },
+    "9728": {
+        "country_code": "MY",
+        "asn": "9728",
+        "description": "YTL Communications Sdn Bhd",
+        "handle": "YTLCOMMS-AS-AP"
+    },
+    "9739": {
+        "country_code": "MY",
+        "asn": "9739",
+        "description": "ACASIA Communications Sdn Bhd",
+        "handle": "ACASIA-AS-AP"
+    },
+    "9930": {
+        "country_code": "MY",
+        "asn": "9930",
+        "description": "TT DOTCOM SDN BHD",
+        "handle": "TTNET-MY"
+    },
+    "9986": {
+        "country_code": "MY",
+        "asn": "9986",
+        "description": "TM TECHNOLOGY SERVICES SDN BHD",
+        "handle": "TTSSB-MY"
+    },
+    "10030": {
+        "country_code": "MY",
+        "asn": "10030",
+        "description": "Celcom Axiata Berhad",
+        "handle": "CELCOMNET-AP"
+    },
+    "10081": {
+        "country_code": "MY",
+        "asn": "10081",
+        "description": "DiGi Telecommunications Sdn Bhd",
+        "handle": "DIGI-MY"
+    },
+    "10204": {
+        "country_code": "MY",
+        "asn": "10204",
+        "description": "NTT MSC Sdn Bhd",
+        "handle": "ARCNET-NTTMSC-MY"
+    },
+    "17464": {
+        "country_code": "MY",
+        "asn": "17464",
+        "description": "TM TECHNOLOGY SERVICES SDN BHD",
+        "handle": "TTSSB-MY"
+    },
+    "17564": {
+        "country_code": "MY",
+        "asn": "17564",
+        "description": "GITN Sdn. Bhd.",
+        "handle": "GITN-PCN-AS-AP"
+    },
+    "17666": {
+        "country_code": "MY",
+        "asn": "17666",
+        "description": "Hitachi Sunway Data Centre Services Sdn. Bhd.",
+        "handle": "HITACHISUNWAY"
+    },
+    "17736": {
+        "country_code": "MY",
+        "asn": "17736",
+        "description": "Solsis (M) Sdn Bhd",
+        "handle": "SOLSIS-MY-AP"
+    },
+    "17784": {
+        "country_code": "MY",
+        "asn": "17784",
+        "description": "Maxis Broadband Sdn Bhd",
+        "handle": "MAXIS-AS2-AP"
+    },
+    "17971": {
+        "country_code": "MY",
+        "asn": "17971",
+        "description": "TM TECHNOLOGY SERVICES SDN BHD",
+        "handle": "TTSSB-MY"
+    },
+    "17979": {
+        "country_code": "MY",
+        "asn": "17979",
+        "description": "IP GARDENS",
+        "handle": "IPG-MY"
+    },
+    "17992": {
+        "country_code": "MY",
+        "asn": "17992",
+        "description": "Global Transit Communications",
+        "handle": "GTC-MY-SIP-AS"
+    },
+    "18206": {
+        "country_code": "MY",
+        "asn": "18206",
+        "description": "TM TECHNOLOGY SERVICES SDN BHD",
+        "handle": "TTSSB-MY"
+    },
+    "18227": {
+        "country_code": "MY",
+        "asn": "18227",
+        "description": "Clear-Comm Sdn Bhd",
+        "handle": "CCSBNET-AS-MY-AP"
+    },
+    "23659": {
+        "country_code": "MY",
+        "asn": "23659",
+        "description": "HeiTech Padu Bhd.",
+        "handle": "HEITECH-AS-AP"
+    },
+    "23678": {
+        "country_code": "MY",
+        "asn": "23678",
+        "description": "Enterprise Managed Services Sdn. Bhd.",
+        "handle": "MYKRIS-AS-MY"
+    },
+    "23736": {
+        "country_code": "MY",
+        "asn": "23736",
+        "description": "TM TECHNOLOGY SERVICES SDN BHD",
+        "handle": "TTSSB-MY"
+    },
+    "24020": {
+        "country_code": "MY",
+        "asn": "24020",
+        "description": "Universiti Teknologi MARA",
+        "handle": "UITM-AS-AP"
+    },
+    "24028": {
+        "country_code": "MY",
+        "asn": "24028",
+        "description": "Redtone Engineering & Network Services Sdn Bhd",
+        "handle": "CNXNET-AS-MY"
+    },
+    "24068": {
+        "country_code": "MY",
+        "asn": "24068",
+        "description": "REDtone Telecommunication Sdn Bhd",
+        "handle": "REDTONE-MY-AS"
+    },
+    "24090": {
+        "country_code": "MY",
+        "asn": "24090",
+        "description": "Universiti Sains Malaysia",
+        "handle": "UNISAINS-AS-AP"
+    },
+    "24218": {
+        "country_code": "MY",
+        "asn": "24218",
+        "description": "Global Transit Communications",
+        "handle": "GTC-MY-PIP-AS"
+    },
+    "24314": {
+        "country_code": "MY",
+        "asn": "24314",
+        "description": "UPSI",
+        "handle": "UPSI-AS-AP"
+    },
+    "24321": {
+        "country_code": "MY",
+        "asn": "24321",
+        "description": "Optical Communication Engineering Sdn Bhd",
+        "handle": "OCENET-AS-AP"
+    },
+    "24442": {
+        "country_code": "MY",
+        "asn": "24442",
+        "description": "BMW Asia Technology Center Sdn Bhd",
+        "handle": "BMW-AS-AP"
+    },
+    "24461": {
+        "country_code": "MY",
+        "asn": "24461",
+        "description": "P&O Global Technologies Sdn Bhd",
+        "handle": "POGT-TRANSIT-AS"
+    },
+    "24514": {
+        "country_code": "MY",
+        "asn": "24514",
+        "description": "MINISTRY OF HIGHER EDUCATION MALAYSIA",
+        "handle": "MYREN-MY"
+    },
+    "37997": {
+        "country_code": "MY",
+        "asn": "37997",
+        "description": "YTL Communications Sdn Bhd",
+        "handle": "YTLCOMMS-MY"
+    },
+    "38005": {
+        "country_code": "MY",
+        "asn": "38005",
+        "description": "MIMOS Berhad",
+        "handle": "MIMOS-REN-AS-AP"
+    },
+    "38006": {
+        "country_code": "MY",
+        "asn": "38006",
+        "description": "DNEX Technology Sdn. Bhd.",
+        "handle": "TQT-AS-AP"
+    },
+    "38044": {
+        "country_code": "MY",
+        "asn": "38044",
+        "description": "GITN-SCHOOLNET",
+        "handle": "GITN-NETWORK"
+    },
+    "38175": {
+        "country_code": "MY",
+        "asn": "38175",
+        "description": "DE CIX MALAYSIA SDN. BHD.",
+        "handle": "DCMSB-AS-AP"
+    },
+    "38182": {
+        "country_code": "MY",
+        "asn": "38182",
+        "description": "Extreme Broadband",
+        "handle": "EXTREMEBB-AS-MY"
+    },
+    "38194": {
+        "country_code": "MY",
+        "asn": "38194",
+        "description": "DE CIX MALAYSIA SDN. BHD.",
+        "handle": "DECIX-KUL-AS"
+    },
+    "38199": {
+        "country_code": "MY",
+        "asn": "38199",
+        "description": "ViewQwest Sdn. Bhd.",
+        "handle": "VIEWQWEST-AS-AP"
+    },
+    "38206": {
+        "country_code": "MY",
+        "asn": "38206",
+        "description": "DE CIX MALAYSIA SDN. BHD.",
+        "handle": "DECIX-JHB-AS"
+    },
+    "38208": {
+        "country_code": "MY",
+        "asn": "38208",
+        "description": "DE CIX MALAYSIA SDN. BHD.",
+        "handle": "DECIX-MAY-AS"
+    },
+    "38278": {
+        "country_code": "MY",
+        "asn": "38278",
+        "description": "Orient Telecoms Sdn. Bhd",
+        "handle": "OTSB-AS-AP"
+    },
+    "38322": {
+        "country_code": "MY",
+        "asn": "38322",
+        "description": "TM TECHNOLOGY SERVICES SDN BHD",
+        "handle": "TTSSB-MY"
+    },
+    "38466": {
+        "country_code": "MY",
+        "asn": "38466",
+        "description": "U Mobile Sdn Bhd",
+        "handle": "UMOBILE-AS-AP"
+    },
+    "38868": {
+        "country_code": "MY",
+        "asn": "38868",
+        "description": "UNIVERSITI PUTRA MALAYSIA",
+        "handle": "UPM-AS-AP"
+    },
+    "38891": {
+        "country_code": "MY",
+        "asn": "38891",
+        "description": "Measat Satellite Systems Sdn Bhd",
+        "handle": "MEASAT-AS-MY"
+    },
+    "45121": {
+        "country_code": "MY",
+        "asn": "45121",
+        "description": "Enterprise Managed Services Sdn. Bhd.",
+        "handle": "EMS-AS-AP"
+    },
+    "45144": {
+        "country_code": "MY",
+        "asn": "45144",
+        "description": "Net Onboard Sdn Bhd",
+        "handle": "NETONBOARD-MY"
+    },
+    "45182": {
+        "country_code": "MY",
+        "asn": "45182",
+        "description": "YTL Communications Sdn Bhd",
+        "handle": "YTLCOMMS-MY"
+    },
+    "45331": {
+        "country_code": "MY",
+        "asn": "45331",
+        "description": "I-Office2 Sdn Bhd",
+        "handle": "I-CITY-AS-AP"
+    },
+    "45344": {
+        "country_code": "MY",
+        "asn": "45344",
+        "description": "International Islamic University Of Malaysia",
+        "handle": "IIUM-MY"
+    },
+    "45352": {
+        "country_code": "MY",
+        "asn": "45352",
+        "description": "IP ServerOne Solutions Sdn Bhd",
+        "handle": "IPSERVERONE-AS-AP"
+    },
+    "45410": {
+        "country_code": "MY",
+        "asn": "45410",
+        "description": "ALLO TECHNOLOGY SDN. BHD.",
+        "handle": "ALLOTECH-AS-MY"
+    },
+    "45419": {
+        "country_code": "MY",
+        "asn": "45419",
+        "description": "IPTEL Sdn Bhd",
+        "handle": "IPTELMY-AS-MY-AP"
+    },
+    "45420": {
+        "country_code": "MY",
+        "asn": "45420",
+        "description": "Shinjiru Technology Sdn Bhd",
+        "handle": "SHINJIRU-MY-AS-AP"
+    },
+    "45512": {
+        "country_code": "MY",
+        "asn": "45512",
+        "description": "YTL Communications Sdn Bhd",
+        "handle": "YTLCOMMS-MY"
+    },
+    "45630": {
+        "country_code": "MY",
+        "asn": "45630",
+        "description": "Fibrecomm Network (M) Sdn Bhd",
+        "handle": "FIBRECOMM-MY"
+    },
+    "45668": {
+        "country_code": "MY",
+        "asn": "45668",
+        "description": "AIMS Data Centre Sdn. Bhd.",
+        "handle": "AIMS-MY-NET"
+    },
+    "45785": {
+        "country_code": "MY",
+        "asn": "45785",
+        "description": "TechAvenue Sdn Bhd",
+        "handle": "TECHAVENUE-AP"
+    },
+    "45808": {
+        "country_code": "MY",
+        "asn": "45808",
+        "description": "Universiti Teknologi Petronas",
+        "handle": "UTP-MY"
+    },
+    "45810": {
+        "country_code": "MY",
+        "asn": "45810",
+        "description": "University of Nottingham Malaysia Campus",
+        "handle": "UNMC-MY"
+    },
+    "45839": {
+        "country_code": "MY",
+        "asn": "45839",
+        "description": "Shinjiru Technology Sdn Bhd",
+        "handle": "SHINJIRU-MY-AS-AP"
+    },
+    "45842": {
+        "country_code": "MY",
+        "asn": "45842",
+        "description": "GITN Sdn Bhd",
+        "handle": "GITN-V6-MY"
+    },
+    "45909": {
+        "country_code": "MY",
+        "asn": "45909",
+        "description": "Ericsson Expertise Center",
+        "handle": "ERICSSON-APAC-MY-AS"
+    },
+    "45945": {
+        "country_code": "MY",
+        "asn": "45945",
+        "description": "Acme Commerce Sdn Bhd",
+        "handle": "WEBSERVER-MY"
+    },
+    "45960": {
+        "country_code": "MY",
+        "asn": "45960",
+        "description": "YTL Communications Sdn Bhd",
+        "handle": "YTLCOMMS-AS-AP"
+    },
+    "46015": {
+        "country_code": "MY",
+        "asn": "46015",
+        "description": "Exa Bytes Network Sdn.Bhd.",
+        "handle": "EXABYTES-AS-AP"
+    },
+    "55405": {
+        "country_code": "MY",
+        "asn": "55405",
+        "description": "Exa Bytes Network Sdn.Bhd.",
+        "handle": "EXABYTES-AS-AP"
+    },
+    "55420": {
+        "country_code": "MY",
+        "asn": "55420",
+        "description": "Sabah Net Sdn. Bhd.",
+        "handle": "SABAHNET-AS-AP"
+    },
+    "55482": {
+        "country_code": "MY",
+        "asn": "55482",
+        "description": "Sunway Digital Wave Sdn Bhd",
+        "handle": "DIGITAL-WAVE-MY"
+    },
+    "55520": {
+        "country_code": "MY",
+        "asn": "55520",
+        "description": "Genting Malaysia Berhad",
+        "handle": "GENTINGMALAYSIA-AS-AP"
+    },
+    "55571": {
+        "country_code": "MY",
+        "asn": "55571",
+        "description": "Amway It Services Sdn Bhd",
+        "handle": "AMWAYIT-ADMIN-MY"
+    },
+    "55706": {
+        "country_code": "MY",
+        "asn": "55706",
+        "description": "AIG Global Services Malaysia Sdn Bhd",
+        "handle": "AIGGS-MY"
+    },
+    "55710": {
+        "country_code": "MY",
+        "asn": "55710",
+        "description": "Permodalan Nasional Berhad",
+        "handle": "PNB-NET-MY"
+    },
+    "55720": {
+        "country_code": "MY",
+        "asn": "55720",
+        "description": "Gigabit Hosting Sdn Bhd",
+        "handle": "GIGABIT-MY"
+    },
+    "55799": {
+        "country_code": "MY",
+        "asn": "55799",
+        "description": "TechAvenue Sdn Bhd",
+        "handle": "IPTELECOM-AP"
+    },
+    "55822": {
+        "country_code": "MY",
+        "asn": "55822",
+        "description": "Persatuan Pengendali Internet Malaysia (MyIX)",
+        "handle": "MYIX-MY"
+    },
+    "55840": {
+        "country_code": "MY",
+        "asn": "55840",
+        "description": "CIMB Group",
+        "handle": "CIMB-MY"
+    },
+    "55856": {
+        "country_code": "MY",
+        "asn": "55856",
+        "description": "UNIMAS",
+        "handle": "UNIMAS-MY"
+    },
+    "55951": {
+        "country_code": "MY",
+        "asn": "55951",
+        "description": "Lembaga Hasil Dalam Negeri Malaysia",
+        "handle": "LHDNM-MY"
+    },
+    "56092": {
+        "country_code": "MY",
+        "asn": "56092",
+        "description": "Mudah.my Sdn Bhd",
+        "handle": "MUDAH-MY"
+    },
+    "56109": {
+        "country_code": "MY",
+        "asn": "56109",
+        "description": "Everworks Solutions (M) Sdn Bhd",
+        "handle": "EVERWORKS-MY"
+    },
+    "56111": {
+        "country_code": "MY",
+        "asn": "56111",
+        "description": "Agarto Sdn Bhd",
+        "handle": "AGARTO-MY"
+    },
+    "56140": {
+        "country_code": "MY",
+        "asn": "56140",
+        "description": "Nocser Technology",
+        "handle": "NOCSER-MY"
+    },
+    "56221": {
+        "country_code": "MY",
+        "asn": "56221",
+        "description": "Enterprise Managed Services Sdn. Bhd.",
+        "handle": "EMS-AS-AP"
+    },
+    "56229": {
+        "country_code": "MY",
+        "asn": "56229",
+        "description": "LightsUp Network Solution Sdn. Bhd.",
+        "handle": "LNS8-MY"
+    },
+    "56231": {
+        "country_code": "MY",
+        "asn": "56231",
+        "description": "MEASAT Broadcast Network Systems Sdn. Bhd.",
+        "handle": "ASTRO-MY-AS-AP"
+    },
+    "56286": {
+        "country_code": "MY",
+        "asn": "56286",
+        "description": "IX Telecom",
+        "handle": "IXTELECOM-MY"
+    },
+    "58622": {
+        "country_code": "MY",
+        "asn": "58622",
+        "description": "AirAsia Berhad",
+        "handle": "AIRASIA-MY"
+    },
+    "58812": {
+        "country_code": "MY",
+        "asn": "58812",
+        "description": "Universiti Sultan Zainal Abidin",
+        "handle": "USZA-AS"
+    },
+    "58910": {
+        "country_code": "MY",
+        "asn": "58910",
+        "description": "Acoda Solutions (M) Sdn. Bhd.",
+        "handle": "ASSB-AS-MY"
+    },
+    "58983": {
+        "country_code": "MY",
+        "asn": "58983",
+        "description": "Acoda Networks Sdn Bhd",
+        "handle": "ANSB-MY"
+    },
+    "59263": {
+        "country_code": "MY",
+        "asn": "59263",
+        "description": "Universiti Malaysia Terengganu",
+        "handle": "UMT-AS"
+    },
+    "131103": {
+        "country_code": "MY",
+        "asn": "131103",
+        "description": "Global Transit Communications",
+        "handle": "GTC-MY-SIP-ASV32"
+    },
+    "131104": {
+        "country_code": "MY",
+        "asn": "131104",
+        "description": "Global Transit Communications",
+        "handle": "GTC-MY-PIP-ASV32"
+    },
+    "131204": {
+        "country_code": "MY",
+        "asn": "131204",
+        "description": "Universiti Islam Selangor (UIS)",
+        "handle": "UIS-AS-AP"
+    },
+    "131310": {
+        "country_code": "MY",
+        "asn": "131310",
+        "description": "PLTPRO Data Centre Sdn. Bhd.",
+        "handle": "PLT-NET-MY"
+    },
+    "131313": {
+        "country_code": "MY",
+        "asn": "131313",
+        "description": "I-Office2 Sdn Bhd",
+        "handle": "I-CITY-MY"
+    },
+    "131330": {
+        "country_code": "MY",
+        "asn": "131330",
+        "description": "IRIX SDN. BHD.",
+        "handle": "IRIX-MY"
+    },
+    "131332": {
+        "country_code": "MY",
+        "asn": "131332",
+        "description": "MY Evolution Sdn Bhd.",
+        "handle": "MYEVOLUTION-MY"
+    },
+    "131684": {
+        "country_code": "MY",
+        "asn": "131684",
+        "description": "Universal Connections Technologies (M) Sdn. Bhd.",
+        "handle": "UNIVERSALCONNECTIONSTECHNOLOGIES-AS-AP"
+    },
+    "131996": {
+        "country_code": "MY",
+        "asn": "131996",
+        "description": "NEVIGATE GLOBAL NETWORK SDN. BHD.",
+        "handle": "NGNSB-AS-AP"
+    },
+    "132022": {
+        "country_code": "MY",
+        "asn": "132022",
+        "description": "IP World Technologies Sdn. Bhd.",
+        "handle": "IPWTECH-AS-AP"
+    },
+    "132033": {
+        "country_code": "MY",
+        "asn": "132033",
+        "description": "VSTECS BERHAD",
+        "handle": "ECSNET-MY"
+    },
+    "132035": {
+        "country_code": "MY",
+        "asn": "132035",
+        "description": "Universiti Utara Malaysia",
+        "handle": "UUM-MY-AS-AP"
+    },
+    "132037": {
+        "country_code": "MY",
+        "asn": "132037",
+        "description": "Enterprise Managed Services Sdn. Bhd.",
+        "handle": "EMS-AS-AP"
+    },
+    "132111": {
+        "country_code": "MY",
+        "asn": "132111",
+        "description": "Big Band Sdn Bhd",
+        "handle": "BIGBANDNET-MY"
+    },
+    "132170": {
+        "country_code": "MY",
+        "asn": "132170",
+        "description": "Exitra Sdn. Bhd.",
+        "handle": "EXITRANET1-AS-AP"
+    },
+    "132196": {
+        "country_code": "MY",
+        "asn": "132196",
+        "description": "Danawa Resources Sdn Bhd",
+        "handle": "DANAWA-AS-AP"
+    },
+    "132197": {
+        "country_code": "MY",
+        "asn": "132197",
+        "description": "SKALI",
+        "handle": "SKALI-MY"
+    },
+    "132198": {
+        "country_code": "MY",
+        "asn": "132198",
+        "description": "ICORE TECHNOLOGY",
+        "handle": "ICORE-MY"
+    },
+    "132241": {
+        "country_code": "MY",
+        "asn": "132241",
+        "description": "SKSA Technology Sdn Bhd",
+        "handle": "SKSATECH1-MY"
+    },
+    "132274": {
+        "country_code": "MY",
+        "asn": "132274",
+        "description": "NAXLEVEL Network Sdn. Bhd.",
+        "handle": "NAXLEVEL-MY"
+    },
+    "132318": {
+        "country_code": "MY",
+        "asn": "132318",
+        "description": "Exabytes Cloud Sdn.Bhd.",
+        "handle": "EXABYTES-CLOUD-MY"
+    },
+    "132319": {
+        "country_code": "MY",
+        "asn": "132319",
+        "description": "Innocloud Sdn Bhd",
+        "handle": "INNOCLOUD-AS-AP"
+    },
+    "132326": {
+        "country_code": "MY",
+        "asn": "132326",
+        "description": "NexGen Global Sdn Bhd",
+        "handle": "NGSB-AS-AP"
+    },
+    "132354": {
+        "country_code": "MY",
+        "asn": "132354",
+        "description": "CELCOM TIMUR (SABAH) SDN BHD",
+        "handle": "CTSABAHNET-MY"
+    },
+    "132372": {
+        "country_code": "MY",
+        "asn": "132372",
+        "description": "GB Network Solutions Sdn. Bhd.",
+        "handle": "GBNETWORK-AS-AP"
+    },
+    "132376": {
+        "country_code": "MY",
+        "asn": "132376",
+        "description": "Basketasia Sdn. Bhd.",
+        "handle": "BASKETASIA-AS-AP"
+    },
+    "132426": {
+        "country_code": "MY",
+        "asn": "132426",
+        "description": "Altel Communications Sdn Bhd",
+        "handle": "N21-MY"
+    },
+    "132432": {
+        "country_code": "MY",
+        "asn": "132432",
+        "description": "Jabatan Ketua Menteri Melaka",
+        "handle": "SUKMELAKA-MY"
+    },
+    "132434": {
+        "country_code": "MY",
+        "asn": "132434",
+        "description": "Maxis Broadband Sdn Bhd",
+        "handle": "MAXIS-AS2-AP"
+    },
+    "132435": {
+        "country_code": "MY",
+        "asn": "132435",
+        "description": "Symphonet Sdn Bhd",
+        "handle": "SYMPHONET-MY"
+    },
+    "132439": {
+        "country_code": "MY",
+        "asn": "132439",
+        "description": "GITN and Government of Malaysia (MAMPU)",
+        "handle": "GITN-MAMPU-ASN"
+    },
+    "132494": {
+        "country_code": "MY",
+        "asn": "132494",
+        "description": "Universiti Tun Hussein Onn Malaysia",
+        "handle": "UTHM-AS-AP"
+    },
+    "132512": {
+        "country_code": "MY",
+        "asn": "132512",
+        "description": "World Hub Communications (M) Sdn. Bhd.",
+        "handle": "WHCL-AS-AP"
+    },
+    "132530": {
+        "country_code": "MY",
+        "asn": "132530",
+        "description": "Infonal Sdn Bhd",
+        "handle": "INFONALSDNBHD-AS-AP"
+    },
+    "132531": {
+        "country_code": "MY",
+        "asn": "132531",
+        "description": "M EAST SDN. BHD.",
+        "handle": "MCM-AS-AP"
+    },
+    "132546": {
+        "country_code": "MY",
+        "asn": "132546",
+        "description": "CONVERSANT SDN. BHD.",
+        "handle": "CONVERSANTBERHAD-AS-AP"
+    },
+    "132625": {
+        "country_code": "MY",
+        "asn": "132625",
+        "description": "SDEC",
+        "handle": "SDECB-AS-AP"
+    },
+    "132688": {
+        "country_code": "MY",
+        "asn": "132688",
+        "description": "University of Malaya",
+        "handle": "UM-AS-AP"
+    },
+    "132689": {
+        "country_code": "MY",
+        "asn": "132689",
+        "description": "Danawa Resources Sdn Bhd",
+        "handle": "DANAWA-IX"
+    },
+    "132694": {
+        "country_code": "MY",
+        "asn": "132694",
+        "description": "Universiti Sains Islam Malaysia",
+        "handle": "USIM-AS-AP"
+    },
+    "132704": {
+        "country_code": "MY",
+        "asn": "132704",
+        "description": "Exabytes Ecommerce Sdn.Bhd.",
+        "handle": "EES-AS-AP"
+    },
+    "132720": {
+        "country_code": "MY",
+        "asn": "132720",
+        "description": "Experian Marketing Services (Malaysia) Sdn. Bhd.",
+        "handle": "EXPN-AS-AP"
+    },
+    "132837": {
+        "country_code": "MY",
+        "asn": "132837",
+        "description": "Orient Telecoms Sdn. Bhd",
+        "handle": "OTSB-AS-AP"
+    },
+    "132841": {
+        "country_code": "MY",
+        "asn": "132841",
+        "description": "Casbay Sdn. Bhd.",
+        "handle": "CASBAY-AS-AP"
+    },
+    "132850": {
+        "country_code": "MY",
+        "asn": "132850",
+        "description": "TS Global Network Sdn. Bhd.",
+        "handle": "TGNSB-AS-AP"
+    },
+    "132874": {
+        "country_code": "MY",
+        "asn": "132874",
+        "description": "Universiti Malaysia Sabah",
+        "handle": "UMS-AS-AP"
+    },
+    "132882": {
+        "country_code": "MY",
+        "asn": "132882",
+        "description": "Ohana Communications Sdn Bhd",
+        "handle": "OHANA-AS-AP"
+    },
+    "132885": {
+        "country_code": "MY",
+        "asn": "132885",
+        "description": "CET DEVELOPMENT SDN BHD",
+        "handle": "CDSB-AS-AP"
+    },
+    "132890": {
+        "country_code": "MY",
+        "asn": "132890",
+        "description": "IP Core Sdn Bhd",
+        "handle": "IPCORESDNBHD-AS-AP"
+    },
+    "132901": {
+        "country_code": "MY",
+        "asn": "132901",
+        "description": "Global Forway Sdn Bhd",
+        "handle": "GFSB-AS-AP"
+    },
+    "133014": {
+        "country_code": "MY",
+        "asn": "133014",
+        "description": "Universiti Teknologi Malaysia",
+        "handle": "UTM-AS-AP"
+    },
+    "133086": {
+        "country_code": "MY",
+        "asn": "133086",
+        "description": "DE CIX MALAYSIA SDN. BHD.",
+        "handle": "DCMSB-MY"
+    },
+    "133110": {
+        "country_code": "MY",
+        "asn": "133110",
+        "description": "IP Core Sdn Bhd",
+        "handle": "IPCORESDNBHD-AS-AP"
+    },
+    "133113": {
+        "country_code": "MY",
+        "asn": "133113",
+        "description": "SH WEBSERVER SOLUTIONS",
+        "handle": "SWS-AS-AP"
+    },
+    "133114": {
+        "country_code": "MY",
+        "asn": "133114",
+        "description": "ControlVM Sdn Bhd",
+        "handle": "CONTROLVM"
+    },
+    "133135": {
+        "country_code": "MY",
+        "asn": "133135",
+        "description": "TeamCloud Solution Sdn Bhd",
+        "handle": "TSSB-AS-AP"
+    },
+    "133164": {
+        "country_code": "MY",
+        "asn": "133164",
+        "description": "Viewqwest Digital Sdn. Bhd.",
+        "handle": "VIEWQWESTDIGITAL-AS-AP"
+    },
+    "133169": {
+        "country_code": "MY",
+        "asn": "133169",
+        "description": "University Malaysia Perlis",
+        "handle": "UNIVERISITYMALAYSIAPERLIS-AS-AP"
+    },
+    "133402": {
+        "country_code": "MY",
+        "asn": "133402",
+        "description": "Konx Solution",
+        "handle": "KONX-AS-AP"
+    },
+    "133408": {
+        "country_code": "MY",
+        "asn": "133408",
+        "description": "UNIVERSITI TENAGA NASIONAL SDN BHD",
+        "handle": "UNITEN-AS-AP"
+    },
+    "133421": {
+        "country_code": "MY",
+        "asn": "133421",
+        "description": "INNET SOLUTIONS SDN BHD",
+        "handle": "ISSB-AS-AP"
+    },
+    "133437": {
+        "country_code": "MY",
+        "asn": "133437",
+        "description": "iSoS OneSolution Sdn. Bhd",
+        "handle": "ISOS-AS"
+    },
+    "133444": {
+        "country_code": "MY",
+        "asn": "133444",
+        "description": "Altel Communications Sdn Bhd",
+        "handle": "N21-MY"
+    },
+    "133457": {
+        "country_code": "MY",
+        "asn": "133457",
+        "description": "ScopeTel Sdn Bhd",
+        "handle": "SSB-AS-AP"
+    },
+    "133489": {
+        "country_code": "MY",
+        "asn": "133489",
+        "description": "CYPE Sdn.Bhd.",
+        "handle": "CYPE-AS-AP"
+    },
+    "133490": {
+        "country_code": "MY",
+        "asn": "133490",
+        "description": "IX Telecom",
+        "handle": "EXPEDIA"
+    },
+    "133557": {
+        "country_code": "MY",
+        "asn": "133557",
+        "description": "Netforge Solution Sdn. Bhd.",
+        "handle": "NETFORGE-AS-AP"
+    },
+    "133609": {
+        "country_code": "MY",
+        "asn": "133609",
+        "description": "Infinity Supercorridor Sdn Bhd",
+        "handle": "INFINITY-AS-AP"
+    },
+    "133755": {
+        "country_code": "MY",
+        "asn": "133755",
+        "description": "AIA Bhd.",
+        "handle": "AIABHD-AS-AP"
+    },
+    "133847": {
+        "country_code": "MY",
+        "asn": "133847",
+        "description": "Anpple Tech Enterprise",
+        "handle": "ICT-AS-AP"
+    },
+    "133874": {
+        "country_code": "MY",
+        "asn": "133874",
+        "description": "MYNIC Berhad",
+        "handle": "MYNIC-AS-AP"
+    },
+    "133889": {
+        "country_code": "MY",
+        "asn": "133889",
+        "description": "Precision Computer (Malaysia) Sdn Bhd",
+        "handle": "PRECISION-AS-AP"
+    },
+    "133918": {
+        "country_code": "MY",
+        "asn": "133918",
+        "description": "Suria Data Centre Sdn. Bhd.",
+        "handle": "SDCSB-AS-AP"
+    },
+    "133936": {
+        "country_code": "MY",
+        "asn": "133936",
+        "description": "X86 Network Sdn Bhd",
+        "handle": "X86NETWORK-AS-AP"
+    },
+    "134066": {
+        "country_code": "MY",
+        "asn": "134066",
+        "description": "Lynuxtel Malaysia Sdn Bhd",
+        "handle": "LYNUXTEL-AS-AP"
+    },
+    "134069": {
+        "country_code": "MY",
+        "asn": "134069",
+        "description": "NTT MSC SDN. BHD.",
+        "handle": "NMSBM-AS-AP"
+    },
+    "134082": {
+        "country_code": "MY",
+        "asn": "134082",
+        "description": "World Hub Communications (M) Sdn. Bhd.",
+        "handle": "WHCL-AS-SG"
+    },
+    "134088": {
+        "country_code": "MY",
+        "asn": "134088",
+        "description": "NGN Connection Sdn. Bhd.",
+        "handle": "NCSB-AS-AP"
+    },
+    "134107": {
+        "country_code": "MY",
+        "asn": "134107",
+        "description": "University Malaysia Pahang",
+        "handle": "UMP-AS-AP"
+    },
+    "134117": {
+        "country_code": "MY",
+        "asn": "134117",
+        "description": "MING WAN ENTERPRISE",
+        "handle": "MINGWANENTERPRISE-AS-AP"
+    },
+    "134126": {
+        "country_code": "MY",
+        "asn": "134126",
+        "description": "Voizz Global Sdn Bhd",
+        "handle": "VOIZZGLOBAL-AS-AP"
+    },
+    "134152": {
+        "country_code": "MY",
+        "asn": "134152",
+        "description": "XMT Technologies Sdn Bhd",
+        "handle": "XTSB-AS-AP"
+    },
+    "134168": {
+        "country_code": "MY",
+        "asn": "134168",
+        "description": "Conduent Business Services Malaysia Sdn. Bhd",
+        "handle": "CBSMSB-AS-AP"
+    },
+    "134202": {
+        "country_code": "MY",
+        "asn": "134202",
+        "description": "E-WORLD COMMUNICATION SDN BHD",
+        "handle": "EWORLD-AS-AP"
+    },
+    "134232": {
+        "country_code": "MY",
+        "asn": "134232",
+        "description": "SACOFA Sdn. Bhd.",
+        "handle": "SACOFA-AS-AP"
+    },
+    "134237": {
+        "country_code": "MY",
+        "asn": "134237",
+        "description": "Ericsson Expertise Center",
+        "handle": "ERICSSON-NETWORK-APAC-AS-AP"
+    },
+    "134360": {
+        "country_code": "MY",
+        "asn": "134360",
+        "description": "YTL Broadband Sdn. Bhd.",
+        "handle": "YBSB-AS-AP"
+    },
+    "134468": {
+        "country_code": "MY",
+        "asn": "134468",
+        "description": "Tokio Marine Insurans (Malaysia) Berhad",
+        "handle": "TOKIOMARINE-AS-AP"
+    },
+    "134553": {
+        "country_code": "MY",
+        "asn": "134553",
+        "description": "i-Skill Dynamics Sdn Bhd",
+        "handle": "I-SKILL-AS-AP"
+    },
+    "134554": {
+        "country_code": "MY",
+        "asn": "134554",
+        "description": "Starnet Communications Sdn Bhd",
+        "handle": "SCSB-AS-AP"
+    },
+    "134573": {
+        "country_code": "MY",
+        "asn": "134573",
+        "description": "Shopee Mobile Sdn Bhd",
+        "handle": "SMSB-AS-AP"
+    },
+    "134698": {
+        "country_code": "MY",
+        "asn": "134698",
+        "description": "Chr. Hansen Malaysia Sdn Bhd",
+        "handle": "CHMSB-AS-AP"
+    },
+    "134704": {
+        "country_code": "MY",
+        "asn": "134704",
+        "description": "BOND VM SOLUTIONS",
+        "handle": "BONDVM-AS-AP"
+    },
+    "134722": {
+        "country_code": "MY",
+        "asn": "134722",
+        "description": "Universiti Teknikal Malaysia Melaka",
+        "handle": "UTEM-AS-AP"
+    },
+    "134797": {
+        "country_code": "MY",
+        "asn": "134797",
+        "description": "Innet Technologies Sdn Bhd",
+        "handle": "ITSB-AS-AP"
+    },
+    "134809": {
+        "country_code": "MY",
+        "asn": "134809",
+        "description": "ViewQwest Sdn. Bhd.",
+        "handle": "VIEWQWEST-AS-AP"
+    },
+    "134847": {
+        "country_code": "MY",
+        "asn": "134847",
+        "description": "REDtone Data Centre Sdn. Bhd.",
+        "handle": "RDC-AS-AP"
+    },
+    "135017": {
+        "country_code": "MY",
+        "asn": "135017",
+        "description": "Steadsys Sdn Bhd",
+        "handle": "DCNL-HK"
+    },
+    "135042": {
+        "country_code": "MY",
+        "asn": "135042",
+        "description": "Ministry of Education Malaysia",
+        "handle": "KEMENTERIANPENDIDIKANMALAYSIA-AS-AP"
+    },
+    "135109": {
+        "country_code": "MY",
+        "asn": "135109",
+        "description": "FLX CLOUD SOLUTIONS",
+        "handle": "FLXCLOUD-AS-AP"
+    },
+    "135277": {
+        "country_code": "MY",
+        "asn": "135277",
+        "description": "Freshtel Group SDN BHD",
+        "handle": "FGSB-AS-AP"
+    },
+    "135394": {
+        "country_code": "MY",
+        "asn": "135394",
+        "description": "Orient Telecoms Sdn. Bhd",
+        "handle": "OTSB-AS-AP"
+    },
+    "135496": {
+        "country_code": "MY",
+        "asn": "135496",
+        "description": "UNIVERSITI KEBANGSAAN MALAYSIA",
+        "handle": "UKM-AS-AP"
+    },
+    "135542": {
+        "country_code": "MY",
+        "asn": "135542",
+        "description": "LIGHT CLOUD TECHNOLOGY",
+        "handle": "LIGHTCLOUD-AS-AP"
+    },
+    "135551": {
+        "country_code": "MY",
+        "asn": "135551",
+        "description": "Malaysian Communication and Multimedia Commission",
+        "handle": "MCAMC-AS-AP"
+    },
+    "135553": {
+        "country_code": "MY",
+        "asn": "135553",
+        "description": "VC Telecoms Sdn. Bhd.",
+        "handle": "VC-AS-AP"
+    },
+    "135580": {
+        "country_code": "MY",
+        "asn": "135580",
+        "description": "Neutral Transmission Malaysia Sdn. Bhd.",
+        "handle": "NEUTRANS-AS-AP"
+    },
+    "135591": {
+        "country_code": "MY",
+        "asn": "135591",
+        "description": "Dbess Marketing",
+        "handle": "DBESS-AS-AP"
+    },
+    "135614": {
+        "country_code": "MY",
+        "asn": "135614",
+        "description": "RATE ONE FIBER BROADBAND (CENTRAL) SDN BHD",
+        "handle": "ROFBSB-AS-AP"
+    },
+    "135622": {
+        "country_code": "MY",
+        "asn": "135622",
+        "description": "Bafe Sdn. Bhd.",
+        "handle": "BAFESDNBHD-AS-AP"
+    },
+    "136253": {
+        "country_code": "MY",
+        "asn": "136253",
+        "description": "Nexus Horizon Sdn Bhd",
+        "handle": "NHSB-AS-AP"
+    },
+    "136412": {
+        "country_code": "MY",
+        "asn": "136412",
+        "description": "Titan System Integration Sdn Bhd",
+        "handle": "TSI-AS-AP"
+    },
+    "136443": {
+        "country_code": "MY",
+        "asn": "136443",
+        "description": "First Click Sdn Bhd",
+        "handle": "FIRSTCLICKSDNBHD-AS-AP"
+    },
+    "136492": {
+        "country_code": "MY",
+        "asn": "136492",
+        "description": "Experian Marketing Services (Malaysia) Sdn. Bhd.",
+        "handle": "EXPN-AS-AP-2"
+    },
+    "136509": {
+        "country_code": "MY",
+        "asn": "136509",
+        "description": "Furcop Technology PLT",
+        "handle": "FTP-AS-AP"
+    },
+    "136520": {
+        "country_code": "MY",
+        "asn": "136520",
+        "description": "Myklnet Solutions",
+        "handle": "MYKLNETSOLUTIONS-AS-AP"
+    },
+    "136533": {
+        "country_code": "MY",
+        "asn": "136533",
+        "description": "MYISP DOT COM SDN. BHD.",
+        "handle": "MYISP-AS-AP"
+    },
+    "136536": {
+        "country_code": "MY",
+        "asn": "136536",
+        "description": "Ernst & Young Consulting Sdn. Bhd.",
+        "handle": "EYASB-AS-AP"
+    },
+    "136552": {
+        "country_code": "MY",
+        "asn": "136552",
+        "description": "Pacific Comnet (M) Sdn. Bhd.",
+        "handle": "PACIFICCOMNET-AS-AP"
+    },
+    "136727": {
+        "country_code": "MY",
+        "asn": "136727",
+        "description": "Jimat Technology Solution",
+        "handle": "JTS-AS-AP"
+    },
+    "136749": {
+        "country_code": "MY",
+        "asn": "136749",
+        "description": "KS IT SOLUTIONS SDN BHD",
+        "handle": "KS-AS-AP"
+    },
+    "136751": {
+        "country_code": "MY",
+        "asn": "136751",
+        "description": "Teleperformance Malaysia Sdn Bhd",
+        "handle": "TMSB-AS-AP"
+    },
+    "136957": {
+        "country_code": "MY",
+        "asn": "136957",
+        "description": "IFIBER SDN. BHD.",
+        "handle": "IFIBER-AS-AP"
+    },
+    "136962": {
+        "country_code": "MY",
+        "asn": "136962",
+        "description": "MSE DOTNET SDN BHD",
+        "handle": "MSEDOTNETSDNBHD-AS-AP"
+    },
+    "136978": {
+        "country_code": "MY",
+        "asn": "136978",
+        "description": "JNI SYSTEM SDN BHD",
+        "handle": "JNI-AS-AP"
+    },
+    "136983": {
+        "country_code": "MY",
+        "asn": "136983",
+        "description": "HILTI ASIA IT SERVICES SDN. BHD.",
+        "handle": "HAITS-AS-AP"
+    },
+    "137005": {
+        "country_code": "MY",
+        "asn": "137005",
+        "description": "Universiti Malaysia Kelantan",
+        "handle": "UMK-AS-AP"
+    },
+    "137027": {
+        "country_code": "MY",
+        "asn": "137027",
+        "description": "NEXION TECHNOLOGIES (M) SDN. BHD.",
+        "handle": "NEXIONTECHNOLOGIES-AS-AP"
+    },
+    "137050": {
+        "country_code": "MY",
+        "asn": "137050",
+        "description": "strateq data centre sdn bhd",
+        "handle": "STRATEQ-AS-AP"
+    },
+    "137240": {
+        "country_code": "MY",
+        "asn": "137240",
+        "description": "Proxus Communications Sdn Bhd",
+        "handle": "PROXUS-AS-AP"
+    },
+    "137247": {
+        "country_code": "MY",
+        "asn": "137247",
+        "description": "fiberail sdn. bhd.",
+        "handle": "FIBERAIL-AS-AP"
+    },
+    "137397": {
+        "country_code": "MY",
+        "asn": "137397",
+        "description": "Universiti Selangor",
+        "handle": "UNISEL-AS-AP"
+    },
+    "137500": {
+        "country_code": "MY",
+        "asn": "137500",
+        "description": "AMTASK SDN BHD",
+        "handle": "AMTASKSDNBHD-AS-AP"
+    },
+    "137510": {
+        "country_code": "MY",
+        "asn": "137510",
+        "description": "JENEXUS HOLDING SDN BHD",
+        "handle": "JHSB-AS-AP"
+    },
+    "137552": {
+        "country_code": "MY",
+        "asn": "137552",
+        "description": "Terabix Technologies Sdn. Bhd.",
+        "handle": "TTSB-AS-AP"
+    },
+    "137839": {
+        "country_code": "MY",
+        "asn": "137839",
+        "description": "IMU Education Sdn. Bhd.",
+        "handle": "IMU-AS-AP"
+    },
+    "137845": {
+        "country_code": "MY",
+        "asn": "137845",
+        "description": "Majubina Resources Sdn Bhd",
+        "handle": "MAJUBINA-AS-AP"
+    },
+    "137877": {
+        "country_code": "MY",
+        "asn": "137877",
+        "description": "WAWAHOST TECHNOLOGY",
+        "handle": "LIGHTCLOUD-AS-AP"
+    },
+    "137923": {
+        "country_code": "MY",
+        "asn": "137923",
+        "description": "CiB Net Station Sdn Bhd",
+        "handle": "CIBNET-AS-AP"
+    },
+    "137963": {
+        "country_code": "MY",
+        "asn": "137963",
+        "description": "MT Microtel Technology Sdn Bhd",
+        "handle": "NUBITEL-AS-AP"
+    },
+    "138008": {
+        "country_code": "MY",
+        "asn": "138008",
+        "description": "Celcom Axiata Berhad",
+        "handle": "CELCOM-AS-AP"
+    },
+    "138009": {
+        "country_code": "MY",
+        "asn": "138009",
+        "description": "DE CIX MALAYSIA SDN. BHD.",
+        "handle": "DCMSB-MY"
+    },
+    "138040": {
+        "country_code": "MY",
+        "asn": "138040",
+        "description": "DNSVAULT SDN BHD",
+        "handle": "DNSVAULT-AS-AP"
+    },
+    "138148": {
+        "country_code": "MY",
+        "asn": "138148",
+        "description": "MULTI DOMAIN RESOURCES AND SERVICES",
+        "handle": "MDRAS-AS-AP"
+    },
+    "138188": {
+        "country_code": "MY",
+        "asn": "138188",
+        "description": "WAWAHOST TECHNOLOGY",
+        "handle": "WAWAHOST-AS-AP"
+    },
+    "138339": {
+        "country_code": "MY",
+        "asn": "138339",
+        "description": "SMARTSEL SDN BHD",
+        "handle": "SMARTSELSDNBHD-AS-AP"
+    },
+    "138359": {
+        "country_code": "MY",
+        "asn": "138359",
+        "description": "DataKL Solutions Sdn Bhd",
+        "handle": "DATAKL-MY"
+    },
+    "138361": {
+        "country_code": "MY",
+        "asn": "138361",
+        "description": "Alliance Bank Malaysia Berhad",
+        "handle": "ALLIANCE-BANK-AS-AP"
+    },
+    "138391": {
+        "country_code": "MY",
+        "asn": "138391",
+        "description": "Dewan Bandaraya Kuala Lumpur",
+        "handle": "DBKL-AS-AP"
+    },
+    "138504": {
+        "country_code": "MY",
+        "asn": "138504",
+        "description": "Universiti Pertahanan Nasional Malaysia",
+        "handle": "UNIVERSITIPERTAHANANNASIONALMALAYSIAUPNM-AS-AP"
+    },
+    "138663": {
+        "country_code": "MY",
+        "asn": "138663",
+        "description": "AVM Cloud Sdn. Bhd.",
+        "handle": "AVM-MY"
+    },
+    "138673": {
+        "country_code": "MY",
+        "asn": "138673",
+        "description": "ASK4KEY SDN BHD",
+        "handle": "ASK4KEY-AS-AP"
+    },
+    "138935": {
+        "country_code": "MY",
+        "asn": "138935",
+        "description": "MYI TECHNOLOGIES SDN BHD",
+        "handle": "MYI-AS-AP"
+    },
+    "138996": {
+        "country_code": "MY",
+        "asn": "138996",
+        "description": "Uni Comms International Sdn Bhd",
+        "handle": "UNICOMMS-AS-AP"
+    },
+    "139075": {
+        "country_code": "MY",
+        "asn": "139075",
+        "description": "NTT MSC Sdn Bhd",
+        "handle": "MYNAP-AS"
+    },
+    "139241": {
+        "country_code": "MY",
+        "asn": "139241",
+        "description": "Avrotech Sdn Bhd",
+        "handle": "AVROTECH-AS-AP"
+    },
+    "139250": {
+        "country_code": "MY",
+        "asn": "139250",
+        "description": "Mesiniaga Berhad",
+        "handle": "MESINIAGA1-AS-AP"
+    },
+    "139312": {
+        "country_code": "MY",
+        "asn": "139312",
+        "description": "ENTERPRISE MANAGED SERVICES SDN. BHD.",
+        "handle": "MYKRISNETSDNBHD-AS-AP"
+    },
+    "139332": {
+        "country_code": "MY",
+        "asn": "139332",
+        "description": "Swiftnet Solution Sdn Bhd",
+        "handle": "SSSB-AS-AP"
+    },
+    "139346": {
+        "country_code": "MY",
+        "asn": "139346",
+        "description": "Enterprise Managed Services Sdn. Bhd.",
+        "handle": "EMS-AS-AP"
+    },
+    "139605": {
+        "country_code": "MY",
+        "asn": "139605",
+        "description": "MCDS SOFTWARE (M) SDN BHD",
+        "handle": "MCDS-AS-AP"
+    },
+    "139725": {
+        "country_code": "MY",
+        "asn": "139725",
+        "description": "E-global Innovative Sdn Bhd",
+        "handle": "HP2U-AS-AP"
+    },
+    "139730": {
+        "country_code": "MY",
+        "asn": "139730",
+        "description": "FINEXUS INTERNATIONAL",
+        "handle": "FINEXUS-AS-AP"
+    },
+    "139733": {
+        "country_code": "MY",
+        "asn": "139733",
+        "description": "E-global Innovative Sdn Bhd",
+        "handle": "HP2U-AS"
+    },
+    "139761": {
+        "country_code": "MY",
+        "asn": "139761",
+        "description": "Gigabit Fiber Sdn Bhd",
+        "handle": "GIGABIT1-AS-AP"
+    },
+    "139765": {
+        "country_code": "MY",
+        "asn": "139765",
+        "description": "Agensi Nuklear Malaysia",
+        "handle": "AGENSI-AS-AP"
+    },
+    "139776": {
+        "country_code": "MY",
+        "asn": "139776",
+        "description": "Petroliam Nasional Berhad",
+        "handle": "PETRONAS-BHD-AS-AP"
+    },
+    "139815": {
+        "country_code": "MY",
+        "asn": "139815",
+        "description": "Taylor's University Sdn Bhd",
+        "handle": "TUSB-AS-AP"
+    },
+    "139830": {
+        "country_code": "MY",
+        "asn": "139830",
+        "description": "Payments Network Malaysia Sdn Bhd",
+        "handle": "PNMSB-AS-AP"
+    },
+    "139877": {
+        "country_code": "MY",
+        "asn": "139877",
+        "description": "Stampede Solution Sdn Bhd",
+        "handle": "STAMPEDE-AS-AP"
+    },
+    "139886": {
+        "country_code": "MY",
+        "asn": "139886",
+        "description": "Bursa Malaysia Berhad",
+        "handle": "BMB-AS-AP"
+    },
+    "139899": {
+        "country_code": "MY",
+        "asn": "139899",
+        "description": "Reach Ten Communication Sdn Bhd",
+        "handle": "REACH10-AS-AP"
+    },
+    "139923": {
+        "country_code": "MY",
+        "asn": "139923",
+        "description": "ABCCLOUD SDN.BHD.",
+        "handle": "ABCCLOUDSDNBHD-AS-AP"
+    },
+    "140092": {
+        "country_code": "MY",
+        "asn": "140092",
+        "description": "UNIVERSITI TEKNIKAL MARA SDN. BHD.",
+        "handle": "UNIVERSITI2-AS-AP"
+    },
+    "140344": {
+        "country_code": "MY",
+        "asn": "140344",
+        "description": "Takizo Solutions Sdn Bhd",
+        "handle": "TAKIZO-NET-AS-AP"
+    },
+    "140586": {
+        "country_code": "MY",
+        "asn": "140586",
+        "description": "Velo Technologies SDN BHD",
+        "handle": "VTSB-AS-AP"
+    },
+    "140588": {
+        "country_code": "MY",
+        "asn": "140588",
+        "description": "Mobile Force Software (M) SDN BHD",
+        "handle": "MFSSB-AS-AP"
+    },
+    "140615": {
+        "country_code": "MY",
+        "asn": "140615",
+        "description": "Hong Leong Bank Berhad",
+        "handle": "HONGLEONGBANK-AS-AP"
+    },
+    "140625": {
+        "country_code": "MY",
+        "asn": "140625",
+        "description": "Excel Commerce Solutions Sdn. Bhd.",
+        "handle": "EXCELCOMM-AS-AP"
+    },
+    "140710": {
+        "country_code": "MY",
+        "asn": "140710",
+        "description": "NKH SOLUTION SDN BHD",
+        "handle": "NSSB-AS-AP"
+    },
+    "140837": {
+        "country_code": "MY",
+        "asn": "140837",
+        "description": "Teleperformance Malaysia Sdn Bhd",
+        "handle": "TMSB-AS"
+    },
+    "140866": {
+        "country_code": "MY",
+        "asn": "140866",
+        "description": "TRUE PACKET SDN BHD",
+        "handle": "TRUEPACKETSDNBHD-AS-AP"
+    },
+    "140904": {
+        "country_code": "MY",
+        "asn": "140904",
+        "description": "ADECCO ASIA BUSINESS SOLUTIONS SDN BHD",
+        "handle": "AABSSB-AS-AP"
+    },
+    "140909": {
+        "country_code": "MY",
+        "asn": "140909",
+        "description": "MyNOC Asia Technology Sdn Bhd",
+        "handle": "MYNOCSDNBHD-AS-AP"
+    },
+    "140942": {
+        "country_code": "MY",
+        "asn": "140942",
+        "description": "IP Core Network",
+        "handle": "IPCORENETWORK-AS-AP"
+    },
+    "140970": {
+        "country_code": "MY",
+        "asn": "140970",
+        "description": "NASSION SYSTEMS (M) SDN BHD",
+        "handle": "NASSIONNET-AS-AP"
+    },
+    "140971": {
+        "country_code": "MY",
+        "asn": "140971",
+        "description": "Tenaga Nasional Berhad",
+        "handle": "TENAGANASIONALBERHAD-AS-AP"
+    },
+    "141011": {
+        "country_code": "MY",
+        "asn": "141011",
+        "description": "Borneo Restu Sdn. Bhd.",
+        "handle": "BRSB-AS-AP"
+    },
+    "141158": {
+        "country_code": "MY",
+        "asn": "141158",
+        "description": "HIERO7 (M) SDN. BHD.",
+        "handle": "HSB-AS-AP"
+    },
+    "141200": {
+        "country_code": "MY",
+        "asn": "141200",
+        "description": "Moor Resources (M) Sdn. Bhd.",
+        "handle": "MOORRESOURCES-AS-AP"
+    },
+    "141201": {
+        "country_code": "MY",
+        "asn": "141201",
+        "description": "Jabatan Digital Negara (JDN)",
+        "handle": "JDN-AS-MY"
+    },
+    "141206": {
+        "country_code": "MY",
+        "asn": "141206",
+        "description": "ASE ELECTRONICS (M) SDN. BHD.",
+        "handle": "ASEELECTRONICSMSDNBHD-AS-AP"
+    },
+    "141371": {
+        "country_code": "MY",
+        "asn": "141371",
+        "description": "MADISON TECHNOLOGIES MALAYSIA PLT",
+        "handle": "MADTECH-AS-AP"
+    },
+    "141407": {
+        "country_code": "MY",
+        "asn": "141407",
+        "description": "Celcom Axiata Berhad",
+        "handle": "CELCOM-AS-AP"
+    },
+    "141408": {
+        "country_code": "MY",
+        "asn": "141408",
+        "description": "Celcom Axiata Berhad",
+        "handle": "CELCOM-AS-AP"
+    },
+    "141424": {
+        "country_code": "MY",
+        "asn": "141424",
+        "description": "CARA COM MY SDN BHD",
+        "handle": "CARA-AS-AP"
+    },
+    "141441": {
+        "country_code": "MY",
+        "asn": "141441",
+        "description": "MY E.G. SERVICES BERHAD",
+        "handle": "MYEG-AS-AP"
+    },
+    "141722": {
+        "country_code": "MY",
+        "asn": "141722",
+        "description": "RHB Bank Berhad",
+        "handle": "RHBBANK-AS-AP"
+    },
+    "141774": {
+        "country_code": "MY",
+        "asn": "141774",
+        "description": "SeaMoney Capital Malaysia Sdn Bhd",
+        "handle": "SCMSB-AS-AP"
+    },
+    "141987": {
+        "country_code": "MY",
+        "asn": "141987",
+        "description": "Progenet Innovations Sdn Bhd",
+        "handle": "PROGENET-AS-AP"
+    },
+    "141999": {
+        "country_code": "MY",
+        "asn": "141999",
+        "description": "Rafatech System Sdn Bhd",
+        "handle": "RAFATECHSYSTEMSDNBHD-AS-AP"
+    },
+    "142013": {
+        "country_code": "MY",
+        "asn": "142013",
+        "description": "Bayam",
+        "handle": "BAYAMMSDNBHD-AS-AP"
+    },
+    "142030": {
+        "country_code": "MY",
+        "asn": "142030",
+        "description": "Teknopro Sdn Bhd",
+        "handle": "TEKNOPROSDNBHD-AS-AP"
+    },
+    "142109": {
+        "country_code": "MY",
+        "asn": "142109",
+        "description": "Concentric Media Sdn Bhd",
+        "handle": "CMSB-AS-AP"
+    },
+    "142148": {
+        "country_code": "MY",
+        "asn": "142148",
+        "description": "Casbay Sdn. Bhd.",
+        "handle": "CASBAY-AS-AP"
+    },
+    "142256": {
+        "country_code": "MY",
+        "asn": "142256",
+        "description": "MBDK",
+        "handle": "MBDK-AS-AP"
+    },
+    "142263": {
+        "country_code": "MY",
+        "asn": "142263",
+        "description": "NETINFINIUM SOLUTIONS SDN BHD",
+        "handle": "NETINFINIUM-AS-AP"
+    },
+    "142266": {
+        "country_code": "MY",
+        "asn": "142266",
+        "description": "Agora Communications (M) Sdn. Bhd.",
+        "handle": "ACMSB-AS-AP"
+    },
+    "142288": {
+        "country_code": "MY",
+        "asn": "142288",
+        "description": "Unit Pengurusan Teknologi Maklumat (UPTM)",
+        "handle": "SETIAUSAHAKERAJAANNEGERISEMBILAN-AS-AP"
+    },
+    "142406": {
+        "country_code": "MY",
+        "asn": "142406",
+        "description": "GOIP 365 BIZ SDN BHD",
+        "handle": "G3BSB-AS-AP"
+    },
+    "142412": {
+        "country_code": "MY",
+        "asn": "142412",
+        "description": "NEXWORKS COMMUNICATIONS SDN. BHD.",
+        "handle": "NEXWORKS-AS-AP"
+    },
+    "142607": {
+        "country_code": "MY",
+        "asn": "142607",
+        "description": "Sizaf InfoComm SDN. BHD.",
+        "handle": "SIZAF-AS-AP"
+    },
+    "142612": {
+        "country_code": "MY",
+        "asn": "142612",
+        "description": "Stratus Technologies (M) Sdn. Bhd.",
+        "handle": "STRATUS-AS-AP"
+    },
+    "142628": {
+        "country_code": "MY",
+        "asn": "142628",
+        "description": "HIIFI (M) SDN BHD",
+        "handle": "HIIFIMSDNBHD-AS-AP"
+    },
+    "142631": {
+        "country_code": "MY",
+        "asn": "142631",
+        "description": "Metro Lightspeed",
+        "handle": "METRO-AS-AP"
+    },
+    "147040": {
+        "country_code": "MY",
+        "asn": "147040",
+        "description": "NEBULA SYSTEMS SDN BHD",
+        "handle": "NEBULA-AS-AP"
+    },
+    "147296": {
+        "country_code": "MY",
+        "asn": "147296",
+        "description": "TY Software Engineering",
+        "handle": "TSE-AS-AP"
+    },
+    "147299": {
+        "country_code": "MY",
+        "asn": "147299",
+        "description": "SSDU",
+        "handle": "SSDU-AS-AP"
+    },
+    "148977": {
+        "country_code": "MY",
+        "asn": "148977",
+        "description": "Jagase Sdn Bhd",
+        "handle": "JAGASESDNBHD-AS-AP"
+    },
+    "148991": {
+        "country_code": "MY",
+        "asn": "148991",
+        "description": "MY PENANG FON SDN. BHD.",
+        "handle": "MPFSB-AS-AP"
+    },
+    "148994": {
+        "country_code": "MY",
+        "asn": "148994",
+        "description": "CNC TECH LIMIT ED",
+        "handle": "CNC-AS-AP"
+    },
+    "149031": {
+        "country_code": "MY",
+        "asn": "149031",
+        "description": "SSDU",
+        "handle": "SSDU-AS-AP"
+    },
+    "149051": {
+        "country_code": "MY",
+        "asn": "149051",
+        "description": "Digital Nasional Berhad",
+        "handle": "DNB-AS-AP"
+    },
+    "149439": {
+        "country_code": "MY",
+        "asn": "149439",
+        "description": "Globalcomm Solutions Sdn Bhd",
+        "handle": "GSSB-AS-AP"
+    },
+    "149440": {
+        "country_code": "MY",
+        "asn": "149440",
+        "description": "Evoxt Sdn. Bhd.",
+        "handle": "EVOXTSDNBHD-AS-AP"
+    },
+    "149494": {
+        "country_code": "MY",
+        "asn": "149494",
+        "description": "HELP University Sdn. Bhd.",
+        "handle": "HUSB-AS-AP"
+    },
+    "149761": {
+        "country_code": "MY",
+        "asn": "149761",
+        "description": "Infinity Consulting Technology Sdn. Bhd.",
+        "handle": "INFINITY1-AS-AP"
+    },
+    "149789": {
+        "country_code": "MY",
+        "asn": "149789",
+        "description": "GB Cloud Sdn Bhd",
+        "handle": "GBCLOUDSDNBHD-AS-AP"
+    },
+    "149849": {
+        "country_code": "MY",
+        "asn": "149849",
+        "description": "B. Braun Medical Industries Sdn. Bhd.",
+        "handle": "BBMISB-AS-AP"
+    },
+    "150144": {
+        "country_code": "MY",
+        "asn": "150144",
+        "description": "EPC Solutions and Services",
+        "handle": "ESS-AS-AP"
+    },
+    "150169": {
+        "country_code": "MY",
+        "asn": "150169",
+        "description": "Strella Consulting Sdn Bhd",
+        "handle": "STRELLA-AS-AP"
+    },
+    "150172": {
+        "country_code": "MY",
+        "asn": "150172",
+        "description": "Serverfreak Technologies Sdn Bhd",
+        "handle": "STSB-AS-AP"
+    },
+    "150425": {
+        "country_code": "MY",
+        "asn": "150425",
+        "description": "Curtin (Malaysia) Sdn Bhd",
+        "handle": "CSB-AS-AP"
+    },
+    "150455": {
+        "country_code": "MY",
+        "asn": "150455",
+        "description": "SNS NETWORK (M) SDN BHD",
+        "handle": "SNSB-AS-AP"
+    },
+    "150712": {
+        "country_code": "MY",
+        "asn": "150712",
+        "description": "Weber Meyer Sdn Bhd",
+        "handle": "WEBERMEYERSDNBHD-AS-AP"
+    },
+    "150734": {
+        "country_code": "MY",
+        "asn": "150734",
+        "description": "Myklnet Sdn Bhd",
+        "handle": "MYKLNET-AS-AP"
+    },
+    "151063": {
+        "country_code": "MY",
+        "asn": "151063",
+        "description": "Ingen Systems Sdn Bhd",
+        "handle": "INGEN-AS-AP"
+    },
+    "151345": {
+        "country_code": "MY",
+        "asn": "151345",
+        "description": "Easycloud Sdn Bhd",
+        "handle": "EASYCLOUDSDNBHD-AS-AP"
+    },
+    "151348": {
+        "country_code": "MY",
+        "asn": "151348",
+        "description": "GX BANK BERHAD",
+        "handle": "AOB-AS-AP"
+    },
+    "151406": {
+        "country_code": "MY",
+        "asn": "151406",
+        "description": "Yeahhost Sdn Bhd",
+        "handle": "YEAHHOSTSDNBHD-AS-AP"
+    },
+    "151470": {
+        "country_code": "MY",
+        "asn": "151470",
+        "description": "CSF Advisers Sdn Bhd",
+        "handle": "CASB-AS-AP"
+    },
+    "151664": {
+        "country_code": "MY",
+        "asn": "151664",
+        "description": "DCConnect Sdn. Bhd.",
+        "handle": "DCCONNECTSDNBHD-AS-AP"
+    },
+    "151811": {
+        "country_code": "MY",
+        "asn": "151811",
+        "description": "KEJURUTERAAN ESAN (M) SDN. BHD.",
+        "handle": "KEMSB-AS-AP"
+    },
+    "151813": {
+        "country_code": "MY",
+        "asn": "151813",
+        "description": "MN Permai Netcom Sdn. Bhd.",
+        "handle": "MPNSB-AS-AP"
+    },
+    "151834": {
+        "country_code": "MY",
+        "asn": "151834",
+        "description": "HGC Global Communications Malaysia Sdn. Bhd.",
+        "handle": "HGCMSB-AS-AP"
+    },
+    "152113": {
+        "country_code": "MY",
+        "asn": "152113",
+        "description": "N2N GLOBAL SOLUTIONS SDN BHD",
+        "handle": "NGSSB-AS-AP"
+    },
+    "152153": {
+        "country_code": "MY",
+        "asn": "152153",
+        "description": "NETINFINIUM SOLUTIONS SDN BHD",
+        "handle": "NETINFINIUM-AS-AP"
+    },
+    "152174": {
+        "country_code": "MY",
+        "asn": "152174",
+        "description": "EQUINIX MALAYSIA ENTERPRISES SDN. BHD.",
+        "handle": "EMESB-AS-AP"
+    },
+    "152188": {
+        "country_code": "MY",
+        "asn": "152188",
+        "description": "EQUINIX MALAYSIA ENTERPRISES SDN. BHD.",
+        "handle": "EMESB-AS-AP"
+    },
+    "152195": {
+        "country_code": "MY",
+        "asn": "152195",
+        "description": "sole traders",
+        "handle": "WOE-AS-AP"
+    },
+    "152343": {
+        "country_code": "MY",
+        "asn": "152343",
+        "description": "MET2TETHER NETWORK SDN. BHD.",
+        "handle": "MNSB-AS-AP"
+    },
+    "152453": {
+        "country_code": "MY",
+        "asn": "152453",
+        "description": "Internetwork Connections Sdn Bhd",
+        "handle": "INTERNETWORK-AS-AP"
+    },
+    "152635": {
+        "country_code": "MY",
+        "asn": "152635",
+        "description": "Monitor ERP System Sdn. Bhd.",
+        "handle": "MESSB-AS-AP"
+    },
+    "152652": {
+        "country_code": "MY",
+        "asn": "152652",
+        "description": "UNIVERSITI SULTAN AZLAN SHAH",
+        "handle": "USAS-AS-AP"
+    },
+    "152654": {
+        "country_code": "MY",
+        "asn": "152654",
+        "description": "XIAOXI TECH (MALAYSIA) SDN.BHD.",
+        "handle": "XTS-AS-AP"
+    },
+    "152673": {
+        "country_code": "MY",
+        "asn": "152673",
+        "description": "LIXANET COMMUNICATIONS",
+        "handle": "LIXANET-AS-AP"
+    },
+    "152742": {
+        "country_code": "MY",
+        "asn": "152742",
+        "description": "Mondoze Data Centre",
+        "handle": "MONDOZE-AS-AP"
+    },
+    "152847": {
+        "country_code": "MY",
+        "asn": "152847",
+        "description": "Bluebase Solutions Sdn Bhd",
+        "handle": "BSSB-AS-AP"
+    },
+    "152849": {
+        "country_code": "MY",
+        "asn": "152849",
+        "description": "AROSSCLOUD SDN. BHD.",
+        "handle": "ASB-AS-AP"
+    },
+    "152927": {
+        "country_code": "MY",
+        "asn": "152927",
+        "description": "D CORE SDN BHD",
+        "handle": "DCORESDNBHD-AS-AP"
+    },
+    "153046": {
+        "country_code": "MY",
+        "asn": "153046",
+        "description": "Infinite Technologies",
+        "handle": "INFINITE-AS-AP"
+    },
+    "153058": {
+        "country_code": "MY",
+        "asn": "153058",
+        "description": "JC TECHNOLOGIES",
+        "handle": "JCTECHNOLOGIES-AS-AP"
+    },
+    "153334": {
+        "country_code": "MY",
+        "asn": "153334",
+        "description": "Origin TechLab Sdn Bhd",
+        "handle": "ORIGIN-AS-AP"
+    },
+    "153348": {
+        "country_code": "MY",
+        "asn": "153348",
+        "description": "Mondoze Data Centre",
+        "handle": "MONDOZE-AS-AP"
+    },
+    "153398": {
+        "country_code": "MY",
+        "asn": "153398",
+        "description": "Myasia Cloud Sdn Bhd.",
+        "handle": "MYASIA1-AS-AP"
+    },
+    "153706": {
+        "country_code": "MY",
+        "asn": "153706",
+        "description": "Stack Network Sdn. Bhd.",
+        "handle": "STACKNETWORK-AS-AP"
+    },
+    "153710": {
+        "country_code": "MY",
+        "asn": "153710",
+        "description": "CITAGLOBAL TELECOMMUNICATION SDN BHD",
+        "handle": "CITAGLOBAL-AS-AP"
+    },
+    "153930": {
+        "country_code": "MY",
+        "asn": "153930",
+        "description": "Tune Talk Sdn. Bhd",
+        "handle": "TUNETALKSDNBHD-AS-AP"
+    },
+    "153933": {
+        "country_code": "MY",
+        "asn": "153933",
+        "description": "Xevera Sdn Bhd",
+        "handle": "XEVERASDNBHD-AS-AP"
+    },
+    "154119": {
+        "country_code": "MY",
+        "asn": "154119",
+        "description": "AI NEXUS SDN. BHD",
+        "handle": "AINEXUSSDNBHD-AS-AP"
+    },
+    "154166": {
+        "country_code": "MY",
+        "asn": "154166",
+        "description": "PDC Telecommunication Services Sdn. Bhd.",
+        "handle": "PTSSB-AS-AP"
+    },
+    "154170": {
+        "country_code": "MY",
+        "asn": "154170",
+        "description": "YTL AI Cloud Sdn Bhd",
+        "handle": "YACSB-AS-AP"
+    },
+    "154220": {
+        "country_code": "MY",
+        "asn": "154220",
+        "description": "O2NEXUS SDN. BHD.",
+        "handle": "O2NEXUSSDNBHD-AS-AP"
+    },
+    "154283": {
+        "country_code": "MY",
+        "asn": "154283",
+        "description": "PR1MA COMMUNICATIONS SDN. BHD.",
+        "handle": "PR1MA-AS-AP"
+    },
+    "154294": {
+        "country_code": "MY",
+        "asn": "154294",
+        "description": "Furcop Innovation Sdn Bhd",
+        "handle": "FISB-AS-AP"
+    },
+    "154321": {
+        "country_code": "MY",
+        "asn": "154321",
+        "description": "CORENET CLOUD SDN. BHD.",
+        "handle": "CCSB-AS-AP"
+    },
+    "154358": {
+        "country_code": "MY",
+        "asn": "154358",
+        "description": "Bitdeer Malaysia SDN. BHD.",
+        "handle": "BMSB-AS-AP"
+    },
+    "154376": {
+        "country_code": "MY",
+        "asn": "154376",
+        "description": "CLOUDVALLEY SDN. BHD.",
+        "handle": "CLOUDVALLEY-AS-AP"
+    },
+    "154399": {
+        "country_code": "MY",
+        "asn": "154399",
+        "description": "HELIX SOLUTION SDN BHD",
+        "handle": "HELIX-AS-AP"
+    },
+    "154451": {
+        "country_code": "MY",
+        "asn": "154451",
+        "description": "PEJABAT SETIAUSAHA KERAJAAN NEGERI TERENGGANU",
+        "handle": "PSKNT-AS-AP"
+    },
+    "154496": {
+        "country_code": "MY",
+        "asn": "154496",
+        "description": "Emperor Group Network Technology Sdn. Bhd.",
+        "handle": "EGNTSB-AS-AP"
+    },
+    "154516": {
+        "country_code": "MY",
+        "asn": "154516",
+        "description": "PERFECT NETWORK SDN. BHD.",
+        "handle": "PERFECT-AS-AP"
+    },
+    "204535": {
+        "country_code": "MY",
+        "asn": "204535",
+        "description": "Tan Kok Feng",
+        "handle": "KEVINTAN-NETWORKS"
+    },
+    "204710": {
+        "country_code": "MY",
+        "asn": "204710",
+        "description": "RENLORD YANG",
+        "handle": "ZIPPY-KANGAROO"
+    },
+    "205912": {
+        "country_code": "MY",
+        "asn": "205912",
+        "description": "Lee Vi Lip Trading As Visual Idea Network",
+        "handle": "VISUAL-IDEA-NETWORK"
+    },
+    "206018": {
+        "country_code": "MY",
+        "asn": "206018",
+        "description": "CHONG JIN YI",
+        "handle": "CHONG601-AS"
+    },
+    "207852": {
+        "country_code": "MY",
+        "asn": "207852",
+        "description": "Yonghan Ching",
+        "handle": "Y525-NETWORK"
+    },
+    "212083": {
+        "country_code": "MY",
+        "asn": "212083",
+        "description": "Jerng Yue Lee trading as Evoxt Enterprise",
+        "handle": "EVOXT"
+    },
+    "214962": {
+        "country_code": "MY",
+        "asn": "214962",
+        "description": "Goh Jing Ming",
+        "handle": "BYTESPHERE"
+    }
+}

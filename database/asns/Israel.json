@@ -1,0 +1,2216 @@
+{
+    "378": {
+        "country_code": "IL",
+        "asn": "378",
+        "description": "IUCC - Israel InterUniversity Computation Center",
+        "handle": "MACHBA-AS"
+    },
+    "1680": {
+        "country_code": "IL",
+        "asn": "1680",
+        "description": "Cellcom Fixed Line Communication L.P",
+        "handle": "NV-ASN"
+    },
+    "3288": {
+        "country_code": "IL",
+        "asn": "3288",
+        "description": "Mofet Institute",
+        "handle": "MOFET-AS"
+    },
+    "4516": {
+        "country_code": "IL",
+        "asn": "4516",
+        "description": "Trendline",
+        "handle": "TRENDLINE"
+    },
+    "5486": {
+        "country_code": "IL",
+        "asn": "5486",
+        "description": "Partner Communications Ltd.",
+        "handle": "SMILE-ASN"
+    },
+    "5540": {
+        "country_code": "IL",
+        "asn": "5540",
+        "description": "The Israel Electric Corporation Limited",
+        "handle": "IEC-AS"
+    },
+    "5585": {
+        "country_code": "IL",
+        "asn": "5585",
+        "description": "Israel Internet Association",
+        "handle": "IIX-ASN"
+    },
+    "6810": {
+        "country_code": "IL",
+        "asn": "6810",
+        "description": "Bezeq- THE ISRAEL TELECOMMUNICATION CORP. LTD.",
+        "handle": "BEZEK"
+    },
+    "8203": {
+        "country_code": "IL",
+        "asn": "8203",
+        "description": "Bezeq International Ltd.",
+        "handle": "BEZEQ-INTERNATIONAL-LTD"
+    },
+    "8551": {
+        "country_code": "IL",
+        "asn": "8551",
+        "description": "Bezeq International Ltd.",
+        "handle": "BEZEQ-INTERNATIONAL-AS"
+    },
+    "8738": {
+        "country_code": "IL",
+        "asn": "8738",
+        "description": "Israel Credit Cards Ltd",
+        "handle": "VISA-ISRAEL-AS"
+    },
+    "8867": {
+        "country_code": "IL",
+        "asn": "8867",
+        "description": "Government ICT Authority - Israel",
+        "handle": "TEHILA-AS"
+    },
+    "8894": {
+        "country_code": "IL",
+        "asn": "8894",
+        "description": "Nice LTD",
+        "handle": "NICE-AS"
+    },
+    "8948": {
+        "country_code": "IL",
+        "asn": "8948",
+        "description": "099 PRIMO COMMUNICATIONS LTD",
+        "handle": "PRIMO-099"
+    },
+    "8958": {
+        "country_code": "IL",
+        "asn": "8958",
+        "description": "SODASTREAM INDUSTRIES LTD",
+        "handle": "SODACLUB-AS"
+    },
+    "9071": {
+        "country_code": "IL",
+        "asn": "9071",
+        "description": "ORBOTECH LTD.",
+        "handle": "ORBOTECH-AS"
+    },
+    "9116": {
+        "country_code": "IL",
+        "asn": "9116",
+        "description": "Partner Communications Ltd.",
+        "handle": "GOLDENLINES-ASN"
+    },
+    "12400": {
+        "country_code": "IL",
+        "asn": "12400",
+        "description": "Partner Communications Ltd.",
+        "handle": "PARTNER-AS"
+    },
+    "12491": {
+        "country_code": "IL",
+        "asn": "12491",
+        "description": "Gilat Telecom Ltd.",
+        "handle": "GILAT-TELECOM-LTD"
+    },
+    "12517": {
+        "country_code": "IL",
+        "asn": "12517",
+        "description": "LAN-WAN I.T LTD",
+        "handle": "LAN-WAN-IL"
+    },
+    "12619": {
+        "country_code": "IL",
+        "asn": "12619",
+        "description": "Yediot Information Technologies ltd",
+        "handle": "YEDIOT-AS"
+    },
+    "12736": {
+        "country_code": "IL",
+        "asn": "12736",
+        "description": "Israel Airports Authority",
+        "handle": "IAA-AS"
+    },
+    "12753": {
+        "country_code": "IL",
+        "asn": "12753",
+        "description": "Teva Pharmaceutical Industries Limited",
+        "handle": "TEVA-AS"
+    },
+    "12802": {
+        "country_code": "IL",
+        "asn": "12802",
+        "description": "Migdal Insurance Company Ltd.",
+        "handle": "AS-MIGDAL"
+    },
+    "12849": {
+        "country_code": "IL",
+        "asn": "12849",
+        "description": "Hot-Net internet services Ltd.",
+        "handle": "HOTNET-IL"
+    },
+    "12988": {
+        "country_code": "IL",
+        "asn": "12988",
+        "description": "The Phoenix Insurance Company Ltd",
+        "handle": "ASN-PHOENIX"
+    },
+    "13035": {
+        "country_code": "IL",
+        "asn": "13035",
+        "description": "IP Telecom ltd.",
+        "handle": "IPTELECOM"
+    },
+    "13073": {
+        "country_code": "IL",
+        "asn": "13073",
+        "description": "IFAT - Media Information Center LTD",
+        "handle": "IFAT-AS"
+    },
+    "13074": {
+        "country_code": "IL",
+        "asn": "13074",
+        "description": "Walla Communication LTD",
+        "handle": "TELETEL-AS"
+    },
+    "13093": {
+        "country_code": "IL",
+        "asn": "13093",
+        "description": "Haaretz Daily Newspaper Ltd.",
+        "handle": "IBO-AS"
+    },
+    "13150": {
+        "country_code": "IL",
+        "asn": "13150",
+        "description": "CATO NETWORKS LTD",
+        "handle": "CATON"
+    },
+    "13240": {
+        "country_code": "IL",
+        "asn": "13240",
+        "description": "GUIDELINE GROUP INFORMATION TECHNOLOGIES LTD",
+        "handle": "GUIDELINE-GROUP-INFORMATION"
+    },
+    "13264": {
+        "country_code": "IL",
+        "asn": "13264",
+        "description": "Cellcom Fixed Line Communication L.P",
+        "handle": "CELLCOM-FIXED-LINE"
+    },
+    "15526": {
+        "country_code": "IL",
+        "asn": "15526",
+        "description": "INTERWISE Ltd",
+        "handle": "INTERWISE-AS"
+    },
+    "15643": {
+        "country_code": "IL",
+        "asn": "15643",
+        "description": "IT Online LTD",
+        "handle": "GETFPV"
+    },
+    "15823": {
+        "country_code": "IL",
+        "asn": "15823",
+        "description": "Radware Ltd.",
+        "handle": "RADWARE-AS"
+    },
+    "15976": {
+        "country_code": "IL",
+        "asn": "15976",
+        "description": "Ordernet Ltd",
+        "handle": "ORDERNET-AS"
+    },
+    "16061": {
+        "country_code": "IL",
+        "asn": "16061",
+        "description": "Isracard Ltd",
+        "handle": "ISRACARD-AS"
+    },
+    "16116": {
+        "country_code": "IL",
+        "asn": "16116",
+        "description": "Pelephone Communications Ltd.",
+        "handle": "PELEPHONE-COMMUNICATIONS-LTD"
+    },
+    "16158": {
+        "country_code": "IL",
+        "asn": "16158",
+        "description": "Mavenir Ltd",
+        "handle": "COMVERSE-AS"
+    },
+    "16370": {
+        "country_code": "IL",
+        "asn": "16370",
+        "description": "Random Logic Ltd.",
+        "handle": "RANDOM-LOGIC-AS"
+    },
+    "20623": {
+        "country_code": "IL",
+        "asn": "20623",
+        "description": "Safelines Ltd.",
+        "handle": "SAFELINES"
+    },
+    "20645": {
+        "country_code": "IL",
+        "asn": "20645",
+        "description": "PurePeak Ltd.",
+        "handle": "PUREPEAK-ASN"
+    },
+    "20800": {
+        "country_code": "IL",
+        "asn": "20800",
+        "description": "Globes Publisher News (1983) Ltd",
+        "handle": "GLOBES-PUBLISHER-NEWS-LTD"
+    },
+    "20841": {
+        "country_code": "IL",
+        "asn": "20841",
+        "description": "Mega Retail Ltd",
+        "handle": "COOP-BLUE-SQUARE"
+    },
+    "21145": {
+        "country_code": "IL",
+        "asn": "21145",
+        "description": "IBC Israel Broadband Company Ltd",
+        "handle": "IBC-AS"
+    },
+    "21350": {
+        "country_code": "IL",
+        "asn": "21350",
+        "description": "Interspace Ltd.",
+        "handle": "INTERSPACE-AS"
+    },
+    "21363": {
+        "country_code": "IL",
+        "asn": "21363",
+        "description": "Orbograph LTD",
+        "handle": "ORBOGRAPH-AS"
+    },
+    "21450": {
+        "country_code": "IL",
+        "asn": "21450",
+        "description": "HOT Mobile Ltd.",
+        "handle": "MIRS-AS"
+    },
+    "21486": {
+        "country_code": "IL",
+        "asn": "21486",
+        "description": "Synamedia Technologies Israel LTD",
+        "handle": "SYNAMEDIA-AS"
+    },
+    "25003": {
+        "country_code": "IL",
+        "asn": "25003",
+        "description": "Internet Binat Ltd",
+        "handle": "INTERNET-BINAT"
+    },
+    "25046": {
+        "country_code": "IL",
+        "asn": "25046",
+        "description": "Check Point Software Technologies LTD",
+        "handle": "CHECKPOINT"
+    },
+    "25052": {
+        "country_code": "IL",
+        "asn": "25052",
+        "description": "O.M.C. COMPUTERS & COMMUNICATIONS LTD",
+        "handle": "OMC-ASN"
+    },
+    "25125": {
+        "country_code": "IL",
+        "asn": "25125",
+        "description": "One City IT Ltd.",
+        "handle": "ISRAEL-LCL-NET-AS"
+    },
+    "25228": {
+        "country_code": "IL",
+        "asn": "25228",
+        "description": "DiViNetworks LTD.",
+        "handle": "SKYVISION"
+    },
+    "25235": {
+        "country_code": "IL",
+        "asn": "25235",
+        "description": "Pali Krichevsky Dasha",
+        "handle": "KRICHEVSKY-ORG"
+    },
+    "25237": {
+        "country_code": "IL",
+        "asn": "25237",
+        "description": "ISRAEL PORTS DEVELOPMENT and ASSETS COMPANY LTD",
+        "handle": "NV-PORT-AS"
+    },
+    "25565": {
+        "country_code": "IL",
+        "asn": "25565",
+        "description": "NETANYA ACADEMIC COLLEGE",
+        "handle": "NETANYA-COLLEGE-AS"
+    },
+    "28783": {
+        "country_code": "IL",
+        "asn": "28783",
+        "description": "Netafim LTD",
+        "handle": "NETAFIM-AS"
+    },
+    "29149": {
+        "country_code": "IL",
+        "asn": "29149",
+        "description": "Amsalem Tours & Travel Ltd.",
+        "handle": "AMSALEM-AS"
+    },
+    "29165": {
+        "country_code": "IL",
+        "asn": "29165",
+        "description": "Aridor Communications Ltd",
+        "handle": "ARIDOR-AS"
+    },
+    "29410": {
+        "country_code": "IL",
+        "asn": "29410",
+        "description": "Israel Today Newspaper LTD",
+        "handle": "ISRAELHAYOM-AS"
+    },
+    "29585": {
+        "country_code": "IL",
+        "asn": "29585",
+        "description": "Ministry of foreign affairs",
+        "handle": "MFA"
+    },
+    "30744": {
+        "country_code": "IL",
+        "asn": "30744",
+        "description": "Tower Semiconductor Ltd.",
+        "handle": "TOWER-AS"
+    },
+    "30866": {
+        "country_code": "IL",
+        "asn": "30866",
+        "description": "ECI Telecom Ltd",
+        "handle": "ECI-TELECOM-LTD"
+    },
+    "31162": {
+        "country_code": "IL",
+        "asn": "31162",
+        "description": "COGNYTE TECHNOLOGIES ISRAEL LTD",
+        "handle": "VERINT-LTD-AS"
+    },
+    "31391": {
+        "country_code": "IL",
+        "asn": "31391",
+        "description": "Israel Internet Association",
+        "handle": "ISOC-IL-AS"
+    },
+    "31417": {
+        "country_code": "IL",
+        "asn": "31417",
+        "description": "Mivtach Simon Insurance Agencies Ltd",
+        "handle": "MIVTACH-SIMON-AS"
+    },
+    "31578": {
+        "country_code": "IL",
+        "asn": "31578",
+        "description": "Magic-Software-Enterprises-Ltd",
+        "handle": "MAGIC-SOFTWARE-IL-AS"
+    },
+    "33802": {
+        "country_code": "IL",
+        "asn": "33802",
+        "description": "NUVEI CONSULTING SERVICES (ISRAEL) LTD",
+        "handle": "SAFECHARGE-AS"
+    },
+    "33914": {
+        "country_code": "IL",
+        "asn": "33914",
+        "description": "EXAWARE ROUTING LTD",
+        "handle": "COMPASS"
+    },
+    "34380": {
+        "country_code": "IL",
+        "asn": "34380",
+        "description": "AMDOCS (ISRAEL) LTD",
+        "handle": "AMDOCS"
+    },
+    "34825": {
+        "country_code": "IL",
+        "asn": "34825",
+        "description": "FACEBOOK ISRAEL LTD",
+        "handle": "META-AS34825"
+    },
+    "34852": {
+        "country_code": "IL",
+        "asn": "34852",
+        "description": "AYALON INSURANCE COMPANY LTD",
+        "handle": "AYALON-INSURANCE-LTD"
+    },
+    "34886": {
+        "country_code": "IL",
+        "asn": "34886",
+        "description": "REICHMAN UNIVERSITY (CC)",
+        "handle": "IDC-AS"
+    },
+    "34919": {
+        "country_code": "IL",
+        "asn": "34919",
+        "description": "SysAid Technologies Ltd",
+        "handle": "SYSAID-ASN"
+    },
+    "34935": {
+        "country_code": "IL",
+        "asn": "34935",
+        "description": "Exsitu Managed Cloud Services LTD",
+        "handle": "EXSITU"
+    },
+    "35016": {
+        "country_code": "IL",
+        "asn": "35016",
+        "description": "Teleall Contact Center LTD",
+        "handle": "TELEALL-AS"
+    },
+    "35142": {
+        "country_code": "IL",
+        "asn": "35142",
+        "description": "BETTER LINX LTD",
+        "handle": "BLX"
+    },
+    "35243": {
+        "country_code": "IL",
+        "asn": "35243",
+        "description": "Intercontinental Exchange Israel Ltd.",
+        "handle": "SUPERDERIVATIVES"
+    },
+    "35392": {
+        "country_code": "IL",
+        "asn": "35392",
+        "description": "Mellanox Technologies Tlv Ltd",
+        "handle": "VOLTAIRE"
+    },
+    "35435": {
+        "country_code": "IL",
+        "asn": "35435",
+        "description": "Eli Melamed",
+        "handle": "EMIT"
+    },
+    "35438": {
+        "country_code": "IL",
+        "asn": "35438",
+        "description": "MICROSEMI P.O.E LTD",
+        "handle": "PORWEDESIGN"
+    },
+    "35532": {
+        "country_code": "IL",
+        "asn": "35532",
+        "description": "Motorola Solutions Israel Ltd",
+        "handle": "MOTOROLASOLUTIONS-IL"
+    },
+    "35553": {
+        "country_code": "IL",
+        "asn": "35553",
+        "description": "Liveperson Ltd",
+        "handle": "LUMENIS-AS"
+    },
+    "35560": {
+        "country_code": "IL",
+        "asn": "35560",
+        "description": "Oil Refineries Limited",
+        "handle": "ORL-IL"
+    },
+    "35758": {
+        "country_code": "IL",
+        "asn": "35758",
+        "description": "Rachamim Aviel Twito",
+        "handle": "HQSERV-NETWORKS"
+    },
+    "39159": {
+        "country_code": "IL",
+        "asn": "39159",
+        "description": "R.L Internet and Networks Ltd.",
+        "handle": "NV-RL"
+    },
+    "39213": {
+        "country_code": "IL",
+        "asn": "39213",
+        "description": "Adgar Investments and Development Ltd",
+        "handle": "NV-ADGAR"
+    },
+    "39274": {
+        "country_code": "IL",
+        "asn": "39274",
+        "description": "Clal Insurance Company Ltd",
+        "handle": "CLAL-INSURANCE"
+    },
+    "39343": {
+        "country_code": "IL",
+        "asn": "39343",
+        "description": "Dead Sea Works LTD",
+        "handle": "ICLFERTILIZERS"
+    },
+    "39768": {
+        "country_code": "IL",
+        "asn": "39768",
+        "description": "Haifa Chemicals Ltd",
+        "handle": "HAIFA-CHEMICALS"
+    },
+    "41042": {
+        "country_code": "IL",
+        "asn": "41042",
+        "description": "R.L Internet & networks LTD",
+        "handle": "SKYVISION"
+    },
+    "41116": {
+        "country_code": "IL",
+        "asn": "41116",
+        "description": "Ashkelon Academic College",
+        "handle": "ASHKELON-ACADEMIC-COLLEGE"
+    },
+    "41304": {
+        "country_code": "IL",
+        "asn": "41304",
+        "description": "ALLEGRONET LTD",
+        "handle": "SECUREON-IL"
+    },
+    "41346": {
+        "country_code": "IL",
+        "asn": "41346",
+        "description": "AL-Quds University",
+        "handle": "QUDSU"
+    },
+    "41394": {
+        "country_code": "IL",
+        "asn": "41394",
+        "description": "Ministry of Health",
+        "handle": "MINISTRY-OF-HEALTH"
+    },
+    "41714": {
+        "country_code": "IL",
+        "asn": "41714",
+        "description": "SPOT-NET LTD",
+        "handle": "SPOTNET-LTD"
+    },
+    "41923": {
+        "country_code": "IL",
+        "asn": "41923",
+        "description": "HAREL INSURANCE COMPANY LTD",
+        "handle": "HAREL-INSURANCE-INVESTMENT"
+    },
+    "41924": {
+        "country_code": "IL",
+        "asn": "41924",
+        "description": "Agricultural Insurance - Central Common Association Ltd",
+        "handle": "AGRICULTURAL-INSURANCE-AGUDA-SHITUFIT"
+    },
+    "41927": {
+        "country_code": "IL",
+        "asn": "41927",
+        "description": "INWISE LTD",
+        "handle": "INWISE-AS"
+    },
+    "42243": {
+        "country_code": "IL",
+        "asn": "42243",
+        "description": "Leadcom Integrated Solutions (LIS) Ltd.",
+        "handle": "LEADCOM"
+    },
+    "42316": {
+        "country_code": "IL",
+        "asn": "42316",
+        "description": "Metisim Technologies Ltd",
+        "handle": "KOBI-ASN"
+    },
+    "42475": {
+        "country_code": "IL",
+        "asn": "42475",
+        "description": "MX1 Ltd.",
+        "handle": "RRMEDIA"
+    },
+    "42647": {
+        "country_code": "IL",
+        "asn": "42647",
+        "description": "Automatic Bank Services Limited",
+        "handle": "SHVA"
+    },
+    "42793": {
+        "country_code": "IL",
+        "asn": "42793",
+        "description": "Hadassah Medical Organisation Ltd",
+        "handle": "HADASSAH"
+    },
+    "42925": {
+        "country_code": "IL",
+        "asn": "42925",
+        "description": "Internet Rimon LTD",
+        "handle": "RIMON1"
+    },
+    "42994": {
+        "country_code": "IL",
+        "asn": "42994",
+        "description": "Rachamim Aviel Twito",
+        "handle": "HQSERV"
+    },
+    "43165": {
+        "country_code": "IL",
+        "asn": "43165",
+        "description": "Optibase ltd",
+        "handle": "OPTIBASE-LTD"
+    },
+    "43181": {
+        "country_code": "IL",
+        "asn": "43181",
+        "description": "Meta Networks Ltd",
+        "handle": "NSOFNETWORKSLTD"
+    },
+    "43194": {
+        "country_code": "IL",
+        "asn": "43194",
+        "description": "REINHOLD COHN & PARTNERS",
+        "handle": "REINHOLD-COHN"
+    },
+    "43381": {
+        "country_code": "IL",
+        "asn": "43381",
+        "description": "Israel Ministry Of Defence",
+        "handle": "MOD-AS"
+    },
+    "43423": {
+        "country_code": "IL",
+        "asn": "43423",
+        "description": "Israel Postal Company Ltd.",
+        "handle": "ISRAEL-POST-LTD"
+    },
+    "43438": {
+        "country_code": "IL",
+        "asn": "43438",
+        "description": "ICL Group Ltd",
+        "handle": "ISRAEL-CHEMICALS"
+    },
+    "43514": {
+        "country_code": "IL",
+        "asn": "43514",
+        "description": "Zim Integrated Shipping Services LTD",
+        "handle": "ZIM-INTEGRATED-SHIPING-SERVICES-COMPANY"
+    },
+    "43739": {
+        "country_code": "IL",
+        "asn": "43739",
+        "description": "Hevrat Netivey Ayalon Ltd",
+        "handle": "AYALON-HIGHWAYS"
+    },
+    "43842": {
+        "country_code": "IL",
+        "asn": "43842",
+        "description": "Malam Team Ltd.",
+        "handle": "MALAM-TEAM-LTD"
+    },
+    "43871": {
+        "country_code": "IL",
+        "asn": "43871",
+        "description": "KUPAT HOLIM MEUHEDET",
+        "handle": "MEUHEDET-AS"
+    },
+    "44060": {
+        "country_code": "IL",
+        "asn": "44060",
+        "description": "Meitav Dash Investments LTD",
+        "handle": "MIETAV-DASH-AS"
+    },
+    "44282": {
+        "country_code": "IL",
+        "asn": "44282",
+        "description": "Maccabi Health Care Services (HMO)",
+        "handle": "MACCABI-HEALTH-CARE-SERVICES"
+    },
+    "44367": {
+        "country_code": "IL",
+        "asn": "44367",
+        "description": "Beeper Communications Israel Ltd.",
+        "handle": "BEEPER-ASN"
+    },
+    "44427": {
+        "country_code": "IL",
+        "asn": "44427",
+        "description": "WIX.COM LTD",
+        "handle": "WIXPRESS-LTD"
+    },
+    "44435": {
+        "country_code": "IL",
+        "asn": "44435",
+        "description": "SAP Labs Israel Ltd.",
+        "handle": "SAP-LABS-ISRAEL-LTD"
+    },
+    "44576": {
+        "country_code": "IL",
+        "asn": "44576",
+        "description": "Leumit Health Services",
+        "handle": "LEUMIT-LTD"
+    },
+    "44669": {
+        "country_code": "IL",
+        "asn": "44669",
+        "description": "MIGDAL CAPITAL MARKETS (MANAGEMENT SERVICES) LTD",
+        "handle": "MIGDAL-SHUKEY-HON"
+    },
+    "44709": {
+        "country_code": "IL",
+        "asn": "44709",
+        "description": "O.M.C. COMPUTERS & COMMUNICATIONS LTD",
+        "handle": "CLOUDWEBMANAGE-IL"
+    },
+    "44846": {
+        "country_code": "IL",
+        "asn": "44846",
+        "description": "CEVA D.S.P. Ltd.",
+        "handle": "CEVA-DSP"
+    },
+    "47665": {
+        "country_code": "IL",
+        "asn": "47665",
+        "description": "Citybook Services Ltd",
+        "handle": "CITYBOOK-SERVICES-LTD"
+    },
+    "47766": {
+        "country_code": "IL",
+        "asn": "47766",
+        "description": "Haifa Port Company Ltd",
+        "handle": "BINAT-HAIFA-PORT"
+    },
+    "47770": {
+        "country_code": "IL",
+        "asn": "47770",
+        "description": "Varonis Systems LTD",
+        "handle": "VARONIS-SYSTEMS"
+    },
+    "47956": {
+        "country_code": "IL",
+        "asn": "47956",
+        "description": "XFone 018 Ltd",
+        "handle": "XFONE"
+    },
+    "47961": {
+        "country_code": "IL",
+        "asn": "47961",
+        "description": "MX1 Ltd.",
+        "handle": "RRMEDIA"
+    },
+    "47962": {
+        "country_code": "IL",
+        "asn": "47962",
+        "description": "SECURE ON SECURITY SYSTEMS LTD",
+        "handle": "CONNECT972"
+    },
+    "47997": {
+        "country_code": "IL",
+        "asn": "47997",
+        "description": "K.M.A ADVANCED TECHNOLOGIES LTD",
+        "handle": "KMA-AMA"
+    },
+    "48068": {
+        "country_code": "IL",
+        "asn": "48068",
+        "description": "VISONIC LIMITED",
+        "handle": "VISONIC"
+    },
+    "48851": {
+        "country_code": "IL",
+        "asn": "48851",
+        "description": "Radware Ltd",
+        "handle": "RADWARE"
+    },
+    "49069": {
+        "country_code": "IL",
+        "asn": "49069",
+        "description": "AspireGlobal Marketing Solutions Ltd",
+        "handle": "NEONET"
+    },
+    "49076": {
+        "country_code": "IL",
+        "asn": "49076",
+        "description": "EXAWARE ROUTING LTD",
+        "handle": "COMPASS-EOS"
+    },
+    "49157": {
+        "country_code": "IL",
+        "asn": "49157",
+        "description": "Star Network and Promotion LTD",
+        "handle": "STARNETWORK"
+    },
+    "49308": {
+        "country_code": "IL",
+        "asn": "49308",
+        "description": "Hyp Payment Solutions Ltd",
+        "handle": "CREDIT-GUARD"
+    },
+    "49391": {
+        "country_code": "IL",
+        "asn": "49391",
+        "description": "Gwint Israel",
+        "handle": "JOINT"
+    },
+    "49456": {
+        "country_code": "IL",
+        "asn": "49456",
+        "description": "RAFAEL ADVANCED DEFENSE SYSTEMS LTD",
+        "handle": "RAFAEL"
+    },
+    "49484": {
+        "country_code": "IL",
+        "asn": "49484",
+        "description": "Audiocodes Ltd",
+        "handle": "AUDIOCODES-ASN"
+    },
+    "49501": {
+        "country_code": "IL",
+        "asn": "49501",
+        "description": "Menorah Mivtachim insurance Ltd.",
+        "handle": "MENORA-AS"
+    },
+    "49771": {
+        "country_code": "IL",
+        "asn": "49771",
+        "description": "Bank Hapoalim Ltd.",
+        "handle": "BNHP-AS"
+    },
+    "50006": {
+        "country_code": "IL",
+        "asn": "50006",
+        "description": "TAMA GROUP",
+        "handle": "TAMA-AS"
+    },
+    "50079": {
+        "country_code": "IL",
+        "asn": "50079",
+        "description": "PAYONEER RESEARCH AND DEVELOPMENT LTD",
+        "handle": "PAYONEER"
+    },
+    "50081": {
+        "country_code": "IL",
+        "asn": "50081",
+        "description": "TERMINAL 1 HOLDINGS LTD",
+        "handle": "DIESENHAUS-UNITOURS-LTD"
+    },
+    "50237": {
+        "country_code": "IL",
+        "asn": "50237",
+        "description": "The College of Management Academic Studies Founded by the Union Officials in Tel Aviv Corporation for Public-Benefit Ltd.",
+        "handle": "COLMAN"
+    },
+    "50318": {
+        "country_code": "IL",
+        "asn": "50318",
+        "description": "NAHEF NETWORK LTD",
+        "handle": "NAHEF-NETWORKS"
+    },
+    "50365": {
+        "country_code": "IL",
+        "asn": "50365",
+        "description": "Ormat Systems Ltd",
+        "handle": "ORMAT-AS"
+    },
+    "50440": {
+        "country_code": "IL",
+        "asn": "50440",
+        "description": "ALLEGRONET LTD",
+        "handle": "ALLEGRO"
+    },
+    "50454": {
+        "country_code": "IL",
+        "asn": "50454",
+        "description": "EL AL ISRAEL AIRLINES Ltd",
+        "handle": "ELAL-AS"
+    },
+    "50463": {
+        "country_code": "IL",
+        "asn": "50463",
+        "description": "Triple C Cloud Computing Ltd.",
+        "handle": "TRIPLEC-ASN"
+    },
+    "50549": {
+        "country_code": "IL",
+        "asn": "50549",
+        "description": "Star Network and Promotion LTD",
+        "handle": "COBWEB-IPV4ASN"
+    },
+    "50744": {
+        "country_code": "IL",
+        "asn": "50744",
+        "description": "The Max Stern Academic College of Emek yezreel ltd.",
+        "handle": "EMEK-YEZREEL-COLLEGE-LTD"
+    },
+    "50865": {
+        "country_code": "IL",
+        "asn": "50865",
+        "description": "AMIAD WATER SYSTEMS LTD",
+        "handle": "AMIAD"
+    },
+    "50995": {
+        "country_code": "IL",
+        "asn": "50995",
+        "description": "IBM Israel-Science and technology Ltd.",
+        "handle": "IBM-IL-ASN"
+    },
+    "51385": {
+        "country_code": "IL",
+        "asn": "51385",
+        "description": "Leverate Technological Trading LTD",
+        "handle": "LEVERATE"
+    },
+    "51587": {
+        "country_code": "IL",
+        "asn": "51587",
+        "description": "DRW ISRAEL LTD",
+        "handle": "DRW-ISRAEL"
+    },
+    "51617": {
+        "country_code": "IL",
+        "asn": "51617",
+        "description": "TDnet LTD",
+        "handle": "TELDAN"
+    },
+    "51651": {
+        "country_code": "IL",
+        "asn": "51651",
+        "description": "Nefesh B'Nefesh Aliyah (R.A.)",
+        "handle": "NEFESH"
+    },
+    "51825": {
+        "country_code": "IL",
+        "asn": "51825",
+        "description": "Telzar 019 International Telecommunications Services LTD",
+        "handle": "TELZAR-ASN"
+    },
+    "51902": {
+        "country_code": "IL",
+        "asn": "51902",
+        "description": "Contact Production LTD",
+        "handle": "CONTACT"
+    },
+    "56596": {
+        "country_code": "IL",
+        "asn": "56596",
+        "description": "Mechashvim E.D.P. LTD",
+        "handle": "EDP"
+    },
+    "56804": {
+        "country_code": "IL",
+        "asn": "56804",
+        "description": "Gilat Satellite Networks Ltd.",
+        "handle": "MOST-GILAT"
+    },
+    "56839": {
+        "country_code": "IL",
+        "asn": "56839",
+        "description": "DABLTECH LTD",
+        "handle": "DABLTECH"
+    },
+    "56914": {
+        "country_code": "IL",
+        "asn": "56914",
+        "description": "The-Chaim-Sheba-Medical-Center",
+        "handle": "THE-CHAIM-SHEBA-MEDICAL-CENTER"
+    },
+    "57035": {
+        "country_code": "IL",
+        "asn": "57035",
+        "description": "Novolog (Pharm-Up 1966) Ltd",
+        "handle": "NOVALOG"
+    },
+    "57666": {
+        "country_code": "IL",
+        "asn": "57666",
+        "description": "Kupat-Holim-Clalit",
+        "handle": "KUPAT-HOLIM-CLALIT"
+    },
+    "57721": {
+        "country_code": "IL",
+        "asn": "57721",
+        "description": "Flash Networks Ltd.",
+        "handle": "IL-FLASH"
+    },
+    "57727": {
+        "country_code": "IL",
+        "asn": "57727",
+        "description": "Ofir Waremshtein",
+        "handle": "BENNY-MILKHIKIR"
+    },
+    "57731": {
+        "country_code": "IL",
+        "asn": "57731",
+        "description": "DiViNetworks LTD.",
+        "handle": "DIVINETWORKS"
+    },
+    "57862": {
+        "country_code": "IL",
+        "asn": "57862",
+        "description": "Connect 972 Ltd",
+        "handle": "MARS"
+    },
+    "58182": {
+        "country_code": "IL",
+        "asn": "58182",
+        "description": "Wix.com Ltd.",
+        "handle": "WIX-COM"
+    },
+    "59648": {
+        "country_code": "IL",
+        "asn": "59648",
+        "description": "Sha'arei-Mishpat-college",
+        "handle": "SHAAREI-MISHPAT-COLLEGE"
+    },
+    "59651": {
+        "country_code": "IL",
+        "asn": "59651",
+        "description": "Alex Largman",
+        "handle": "AS-QUALITYNETWORK"
+    },
+    "60636": {
+        "country_code": "IL",
+        "asn": "60636",
+        "description": "Coolnet Communications ltd",
+        "handle": "COOLNET-016-AS"
+    },
+    "60886": {
+        "country_code": "IL",
+        "asn": "60886",
+        "description": "Amit Net Telecom LTD",
+        "handle": "AMIT"
+    },
+    "60960": {
+        "country_code": "IL",
+        "asn": "60960",
+        "description": "Star Network and Promotion LTD",
+        "handle": "STARNETWORK-IPV6"
+    },
+    "61102": {
+        "country_code": "IL",
+        "asn": "61102",
+        "description": "Interhost Communication Solutions Ltd.",
+        "handle": "INTERHOST"
+    },
+    "61149": {
+        "country_code": "IL",
+        "asn": "61149",
+        "description": "Playtika LTD",
+        "handle": "PLAYTIKA"
+    },
+    "61365": {
+        "country_code": "IL",
+        "asn": "61365",
+        "description": "Global Cloud Ltd",
+        "handle": "GC-5222"
+    },
+    "133411": {
+        "country_code": "IL",
+        "asn": "133411",
+        "description": "Mediamind Technologies LTD",
+        "handle": "DGIT-AS-AP"
+    },
+    "136473": {
+        "country_code": "IL",
+        "asn": "136473",
+        "description": "Meta Networks Ltd",
+        "handle": "METANETWORKSLTD-AS-AP"
+    },
+    "197012": {
+        "country_code": "IL",
+        "asn": "197012",
+        "description": "Israel Brokerage & Investments I.B.I Ltd.",
+        "handle": "IBI-NET"
+    },
+    "197538": {
+        "country_code": "IL",
+        "asn": "197538",
+        "description": "Egged Transportation Company Ltd.",
+        "handle": "EGGED-ISRAEL"
+    },
+    "197797": {
+        "country_code": "IL",
+        "asn": "197797",
+        "description": "The Health Corporation - Rambam",
+        "handle": "RAMBAM-AS"
+    },
+    "197819": {
+        "country_code": "IL",
+        "asn": "197819",
+        "description": "Strauss Group LTD",
+        "handle": "STRAUSS-AS"
+    },
+    "197850": {
+        "country_code": "IL",
+        "asn": "197850",
+        "description": "Excellence Nessuah services LTD",
+        "handle": "XNES-AS"
+    },
+    "198114": {
+        "country_code": "IL",
+        "asn": "198114",
+        "description": "Bank Leumi le-Israel B.M.",
+        "handle": "LEUMI"
+    },
+    "198256": {
+        "country_code": "IL",
+        "asn": "198256",
+        "description": "Mishkei Shita Communication LTD",
+        "handle": "MISHKE"
+    },
+    "198425": {
+        "country_code": "IL",
+        "asn": "198425",
+        "description": "SOLAREDGE TECHNOLOGIES LTD.",
+        "handle": "SOLAREDGE-ASN"
+    },
+    "198492": {
+        "country_code": "IL",
+        "asn": "198492",
+        "description": "Israel Sport betting board",
+        "handle": "ISBB-AS"
+    },
+    "198521": {
+        "country_code": "IL",
+        "asn": "198521",
+        "description": "ZIM INTEGRATED SHIPPING SERVICES LTD",
+        "handle": "ZIM-INTEGRATED-SHIPPING-SERVICES-AS"
+    },
+    "198773": {
+        "country_code": "IL",
+        "asn": "198773",
+        "description": "Brightsource Industries (Israel) Ltd.",
+        "handle": "BRIGHTSOURCE"
+    },
+    "198949": {
+        "country_code": "IL",
+        "asn": "198949",
+        "description": "Radware Ltd",
+        "handle": "RADWARE"
+    },
+    "198986": {
+        "country_code": "IL",
+        "asn": "198986",
+        "description": "KESHET BROADCASTING LTD",
+        "handle": "KESHET-TV-AS"
+    },
+    "199115": {
+        "country_code": "IL",
+        "asn": "199115",
+        "description": "CARASSO MOTORS LTD",
+        "handle": "CRS"
+    },
+    "199270": {
+        "country_code": "IL",
+        "asn": "199270",
+        "description": "HASHIKMA NGN International Communications 015LTD",
+        "handle": "HILAT-NETWORKS"
+    },
+    "199391": {
+        "country_code": "IL",
+        "asn": "199391",
+        "description": "One System Integration LTD",
+        "handle": "XGLOBE-199391"
+    },
+    "199393": {
+        "country_code": "IL",
+        "asn": "199393",
+        "description": "MAKEAPP CLOUD Ltd",
+        "handle": "MAKEAPP"
+    },
+    "199836": {
+        "country_code": "IL",
+        "asn": "199836",
+        "description": "Bank Clearing Center LTD",
+        "handle": "MASAV-AS"
+    },
+    "199989": {
+        "country_code": "IL",
+        "asn": "199989",
+        "description": "Swiftness Ltd",
+        "handle": "SWIFTNESS"
+    },
+    "200309": {
+        "country_code": "IL",
+        "asn": "200309",
+        "description": "The Kibbutzim Seminar - College of Education Technology and Arts (AR)",
+        "handle": "SMKB"
+    },
+    "200343": {
+        "country_code": "IL",
+        "asn": "200343",
+        "description": "BMC Software Israel Ltd.",
+        "handle": "BMC-TLV"
+    },
+    "200433": {
+        "country_code": "IL",
+        "asn": "200433",
+        "description": "Pontis Ltd",
+        "handle": "PONTIS-AS"
+    },
+    "200478": {
+        "country_code": "IL",
+        "asn": "200478",
+        "description": "Taboola.com ltd",
+        "handle": "TABOOLA-AS"
+    },
+    "200495": {
+        "country_code": "IL",
+        "asn": "200495",
+        "description": "Free Telecom Communication Services LTD",
+        "handle": "FREETELECOM-AS"
+    },
+    "200742": {
+        "country_code": "IL",
+        "asn": "200742",
+        "description": "Isam Awadallah trading as 3samnet",
+        "handle": "IL-3SAMNET-AS"
+    },
+    "201025": {
+        "country_code": "IL",
+        "asn": "201025",
+        "description": "Meitar Law Office",
+        "handle": "MEITAR-AS"
+    },
+    "201073": {
+        "country_code": "IL",
+        "asn": "201073",
+        "description": "YES TV AND COMMUNICATIONS SERVICES LTD",
+        "handle": "YES-AS"
+    },
+    "201076": {
+        "country_code": "IL",
+        "asn": "201076",
+        "description": "Paycall Technologies Ltd",
+        "handle": "BITIT-AS"
+    },
+    "201088": {
+        "country_code": "IL",
+        "asn": "201088",
+        "description": "ISP NETWORK LTD",
+        "handle": "ISPNETWORK"
+    },
+    "201156": {
+        "country_code": "IL",
+        "asn": "201156",
+        "description": "offek h&o ltd",
+        "handle": "OBIZ"
+    },
+    "201397": {
+        "country_code": "IL",
+        "asn": "201397",
+        "description": "Lanir communication LTD",
+        "handle": "XFIBER-IL"
+    },
+    "201415": {
+        "country_code": "IL",
+        "asn": "201415",
+        "description": "Expim Ltd",
+        "handle": "XPM"
+    },
+    "201418": {
+        "country_code": "IL",
+        "asn": "201418",
+        "description": "Kibbutz Hatzerim Ltd",
+        "handle": "KH-SET"
+    },
+    "201796": {
+        "country_code": "IL",
+        "asn": "201796",
+        "description": "VENUS YARKA LTD",
+        "handle": "VENOS"
+    },
+    "201833": {
+        "country_code": "IL",
+        "asn": "201833",
+        "description": "Cellact Communication Ltd.",
+        "handle": "CEL-IL-ASN"
+    },
+    "201857": {
+        "country_code": "IL",
+        "asn": "201857",
+        "description": "LiveDns Ltd",
+        "handle": "LIVEDNS"
+    },
+    "202001": {
+        "country_code": "IL",
+        "asn": "202001",
+        "description": "CYBERINT TECHNOLOGIES LTD",
+        "handle": "CYBERINTTECHNOLOGIES"
+    },
+    "202102": {
+        "country_code": "IL",
+        "asn": "202102",
+        "description": "LEVERATE TECHNOLOGICAL TRADING LTD",
+        "handle": "LEVERATE-AS"
+    },
+    "202122": {
+        "country_code": "IL",
+        "asn": "202122",
+        "description": "Ceragon Networks LTD",
+        "handle": "CERAGON-NETWORK-LTD"
+    },
+    "202226": {
+        "country_code": "IL",
+        "asn": "202226",
+        "description": "Emil Vitukhnovskii trading as Great Flower",
+        "handle": "GREATFLOWER"
+    },
+    "202320": {
+        "country_code": "IL",
+        "asn": "202320",
+        "description": "HILAN LTD",
+        "handle": "HILANLTD"
+    },
+    "202356": {
+        "country_code": "IL",
+        "asn": "202356",
+        "description": "MATRIX IT CLOUDZONE LTD",
+        "handle": "MATRIXCLOUDZONE"
+    },
+    "202369": {
+        "country_code": "IL",
+        "asn": "202369",
+        "description": "Yael Software & Systems LTD.",
+        "handle": "YAELSS"
+    },
+    "202447": {
+        "country_code": "IL",
+        "asn": "202447",
+        "description": "DISCOUNT LEASING LTD",
+        "handle": "AS-DIS-IL"
+    },
+    "202530": {
+        "country_code": "IL",
+        "asn": "202530",
+        "description": "Integrade T.G. Limited",
+        "handle": "INTERCONNECT"
+    },
+    "202597": {
+        "country_code": "IL",
+        "asn": "202597",
+        "description": "NAYAX LTD",
+        "handle": "NAYAX"
+    },
+    "202905": {
+        "country_code": "IL",
+        "asn": "202905",
+        "description": "Lior Avraham Slakman",
+        "handle": "SYNETIC-SERVERS"
+    },
+    "202940": {
+        "country_code": "IL",
+        "asn": "202940",
+        "description": "ITC NG ltd",
+        "handle": "ITCNG"
+    },
+    "203009": {
+        "country_code": "IL",
+        "asn": "203009",
+        "description": "ORIAN SH.M LTD.",
+        "handle": "ORIAHSHM"
+    },
+    "203077": {
+        "country_code": "IL",
+        "asn": "203077",
+        "description": "Voicenter LTD",
+        "handle": "VOICENTER-IL02"
+    },
+    "203110": {
+        "country_code": "IL",
+        "asn": "203110",
+        "description": "Voicenter LTD",
+        "handle": "VOICENTER-IL01"
+    },
+    "203124": {
+        "country_code": "IL",
+        "asn": "203124",
+        "description": "Eagle Trading Systems (R&D) LTD",
+        "handle": "EAGLETS"
+    },
+    "203859": {
+        "country_code": "IL",
+        "asn": "203859",
+        "description": "Voye Global Connectivity Ltd",
+        "handle": "VOYE-GLOBAL"
+    },
+    "204029": {
+        "country_code": "IL",
+        "asn": "204029",
+        "description": "MAYER'S CARS & TRUCKS CO. LTD",
+        "handle": "MAYERS-CARS"
+    },
+    "204115": {
+        "country_code": "IL",
+        "asn": "204115",
+        "description": "Khaleel Abu Kaff",
+        "handle": "PRO0101"
+    },
+    "204160": {
+        "country_code": "IL",
+        "asn": "204160",
+        "description": "Mohammed Zahika trading as Bee Fiber",
+        "handle": "BEEFIBER"
+    },
+    "204257": {
+        "country_code": "IL",
+        "asn": "204257",
+        "description": "Med-1 IC-1 (1999) LTD",
+        "handle": "MED-1"
+    },
+    "204395": {
+        "country_code": "IL",
+        "asn": "204395",
+        "description": "Elcam Medical Agricultural Cooperative Association Ltd",
+        "handle": "IL"
+    },
+    "204528": {
+        "country_code": "IL",
+        "asn": "204528",
+        "description": "Space-Communication ltd.",
+        "handle": "SPACECOM"
+    },
+    "204763": {
+        "country_code": "IL",
+        "asn": "204763",
+        "description": "ZADARA TECHNOLOGIES LTD",
+        "handle": "STRATOSCALE"
+    },
+    "204814": {
+        "country_code": "IL",
+        "asn": "204814",
+        "description": "LB Annatel LTD",
+        "handle": "ANNATEL"
+    },
+    "204831": {
+        "country_code": "IL",
+        "asn": "204831",
+        "description": "FISHMAN CHAINS LTD",
+        "handle": "FISHMAN"
+    },
+    "204935": {
+        "country_code": "IL",
+        "asn": "204935",
+        "description": "Flo Live LTD.",
+        "handle": "FLOLIVE-LONDON-AS"
+    },
+    "205203": {
+        "country_code": "IL",
+        "asn": "205203",
+        "description": "netanel siboni",
+        "handle": "CYBERPOWER-LTD"
+    },
+    "205209": {
+        "country_code": "IL",
+        "asn": "205209",
+        "description": "BINAT BUSINESS LTD",
+        "handle": "BYNET-BUSINESS"
+    },
+    "205303": {
+        "country_code": "IL",
+        "asn": "205303",
+        "description": "SOLAREDGE TECHNOLOGIES LTD.",
+        "handle": "SOLAREDGE-ASN2"
+    },
+    "205564": {
+        "country_code": "IL",
+        "asn": "205564",
+        "description": "Infinidat Ltd",
+        "handle": "INFINIDAT"
+    },
+    "205577": {
+        "country_code": "IL",
+        "asn": "205577",
+        "description": "TNUVA CENTRAL CO-OPERATIVE FOR THE MARKETING OF AGRICULTURAL PRODUCE IN ISRAEL LTD",
+        "handle": "ORG-TNUVA"
+    },
+    "205650": {
+        "country_code": "IL",
+        "asn": "205650",
+        "description": "David Shield - Life Insurance Agency (2000) Ltd",
+        "handle": "ORG-DVSH"
+    },
+    "205870": {
+        "country_code": "IL",
+        "asn": "205870",
+        "description": "Elbit Systems LTD.",
+        "handle": "ELBITSYSTEMS-ASN"
+    },
+    "206020": {
+        "country_code": "IL",
+        "asn": "206020",
+        "description": "VAST Data Ltd",
+        "handle": "VSDATA-SET"
+    },
+    "206056": {
+        "country_code": "IL",
+        "asn": "206056",
+        "description": "ABRA Cloud Solutions Ltd",
+        "handle": "NEWAY-ASN"
+    },
+    "206106": {
+        "country_code": "IL",
+        "asn": "206106",
+        "description": "TADIRAN CONSUMER AND TECHNOLOGY PRODUCTS LTD",
+        "handle": "TADIRAN-SET"
+    },
+    "206400": {
+        "country_code": "IL",
+        "asn": "206400",
+        "description": "BGProtect LTD",
+        "handle": "BGPROTECT"
+    },
+    "206446": {
+        "country_code": "IL",
+        "asn": "206446",
+        "description": "CLOUD LEASE Ltd",
+        "handle": "CLOUDLEASE"
+    },
+    "206531": {
+        "country_code": "IL",
+        "asn": "206531",
+        "description": "B.D.I.-COFACE LTD",
+        "handle": "BDI"
+    },
+    "206614": {
+        "country_code": "IL",
+        "asn": "206614",
+        "description": "Taboola.com ltd",
+        "handle": "TABOOLA-O"
+    },
+    "206815": {
+        "country_code": "IL",
+        "asn": "206815",
+        "description": "United Fiber to the home LTD",
+        "handle": "UNITED-AS"
+    },
+    "206875": {
+        "country_code": "IL",
+        "asn": "206875",
+        "description": "Vinetu Technologies - ELI MELAMED LTD",
+        "handle": "CIVIQ"
+    },
+    "206950": {
+        "country_code": "IL",
+        "asn": "206950",
+        "description": "Claroty LTD",
+        "handle": "CLAROTY"
+    },
+    "207007": {
+        "country_code": "IL",
+        "asn": "207007",
+        "description": "Bynet Data Communications LTD",
+        "handle": "BYCLOUD"
+    },
+    "207052": {
+        "country_code": "IL",
+        "asn": "207052",
+        "description": "S.SHAHAR COMMUNICATION AND PROGRAMMING SYSTEMS LTD",
+        "handle": "INTERNET-D"
+    },
+    "207106": {
+        "country_code": "IL",
+        "asn": "207106",
+        "description": "MATAF - FINANCIAL IT & OPERATIONS LTD",
+        "handle": "FIBI"
+    },
+    "207260": {
+        "country_code": "IL",
+        "asn": "207260",
+        "description": "Diplomat Distributors (1968) Ltd",
+        "handle": "DIPLOMAT-SET"
+    },
+    "207285": {
+        "country_code": "IL",
+        "asn": "207285",
+        "description": "VIBER LAB LTD",
+        "handle": "VIBERLAB-AS"
+    },
+    "207331": {
+        "country_code": "IL",
+        "asn": "207331",
+        "description": "TOURTECH TOP LTD",
+        "handle": "ROUTTECHSET"
+    },
+    "207444": {
+        "country_code": "IL",
+        "asn": "207444",
+        "description": "Ituran Location and Control Ltd.",
+        "handle": "ITURAN-AS"
+    },
+    "207588": {
+        "country_code": "IL",
+        "asn": "207588",
+        "description": "MIRAS TEKSHORAT LTD",
+        "handle": "MIRASTEKSHORAT"
+    },
+    "207591": {
+        "country_code": "IL",
+        "asn": "207591",
+        "description": "SHUFERSAL LTD",
+        "handle": "SHUFERSAL-SET"
+    },
+    "207605": {
+        "country_code": "IL",
+        "asn": "207605",
+        "description": "S.P.D. Hosting LTD",
+        "handle": "SPD"
+    },
+    "207667": {
+        "country_code": "IL",
+        "asn": "207667",
+        "description": "Bank of Jerusalem Limited",
+        "handle": "JERUSALEM-BANK"
+    },
+    "208088": {
+        "country_code": "IL",
+        "asn": "208088",
+        "description": "Drivenets Ltd",
+        "handle": "DRIVENETS"
+    },
+    "208113": {
+        "country_code": "IL",
+        "asn": "208113",
+        "description": "Puzzle Communication (F.Y) Ltd",
+        "handle": "PUZZLE"
+    },
+    "208362": {
+        "country_code": "IL",
+        "asn": "208362",
+        "description": "Monogoto ltd",
+        "handle": "MONOGOTO"
+    },
+    "208465": {
+        "country_code": "IL",
+        "asn": "208465",
+        "description": "Cellebrite DI Ltd",
+        "handle": "CELLBRITE"
+    },
+    "208581": {
+        "country_code": "IL",
+        "asn": "208581",
+        "description": "TEAM 3 MANAGEMENT AND INVESTMENTS 1997 LTD",
+        "handle": "TEAM3-AS"
+    },
+    "208611": {
+        "country_code": "IL",
+        "asn": "208611",
+        "description": "Y-tech ICT Ltd.",
+        "handle": "Y-TECH-AS208611"
+    },
+    "208666": {
+        "country_code": "IL",
+        "asn": "208666",
+        "description": "Dash Eliran Electronics Ltd",
+        "handle": "QAMTECH"
+    },
+    "208893": {
+        "country_code": "IL",
+        "asn": "208893",
+        "description": "SPARKS COMMUNICATIONS LTD",
+        "handle": "SPARKS"
+    },
+    "208905": {
+        "country_code": "IL",
+        "asn": "208905",
+        "description": "Exelera Telecom Ltd",
+        "handle": "EXELERA-AS"
+    },
+    "209028": {
+        "country_code": "IL",
+        "asn": "209028",
+        "description": "Hilkaltex Sh. Y. (1988) Ltd.",
+        "handle": "OCTOPUSCS"
+    },
+    "209443": {
+        "country_code": "IL",
+        "asn": "209443",
+        "description": "Drubit Raid LTD",
+        "handle": "UPRESS-DR-IL01"
+    },
+    "209472": {
+        "country_code": "IL",
+        "asn": "209472",
+        "description": "LB Annatel LTD",
+        "handle": "ANNATEL"
+    },
+    "209514": {
+        "country_code": "IL",
+        "asn": "209514",
+        "description": "Magen David Adom",
+        "handle": "MAGEN-DAVID-ADOM"
+    },
+    "209753": {
+        "country_code": "IL",
+        "asn": "209753",
+        "description": "Smarten Ltd",
+        "handle": "SMARTEN"
+    },
+    "210008": {
+        "country_code": "IL",
+        "asn": "210008",
+        "description": "Telroaming Advanced Communication Solution Ltd.",
+        "handle": "WEBBING-LTD"
+    },
+    "210290": {
+        "country_code": "IL",
+        "asn": "210290",
+        "description": "Oasis communication technologies LTD",
+        "handle": "OASIS-AS"
+    },
+    "210371": {
+        "country_code": "IL",
+        "asn": "210371",
+        "description": "Mobileye Vision Technologies Ltd",
+        "handle": "MOBILEYE-AS"
+    },
+    "210455": {
+        "country_code": "IL",
+        "asn": "210455",
+        "description": "C.S.P. CLOUD COMMUNICATION SERVICES LTD",
+        "handle": "FLOWSEC"
+    },
+    "210499": {
+        "country_code": "IL",
+        "asn": "210499",
+        "description": "OPTI 2 YOU LTD",
+        "handle": "OPTI2YOU"
+    },
+    "210515": {
+        "country_code": "IL",
+        "asn": "210515",
+        "description": "MDCLONE LTD",
+        "handle": "ISRAEL"
+    },
+    "210550": {
+        "country_code": "IL",
+        "asn": "210550",
+        "description": "Andrey Krukover",
+        "handle": "KRUAS"
+    },
+    "210560": {
+        "country_code": "IL",
+        "asn": "210560",
+        "description": "Nebius Israel Ltd",
+        "handle": "NEBIUSISRAEL"
+    },
+    "210625": {
+        "country_code": "IL",
+        "asn": "210625",
+        "description": "Wecom Mobile Ltd.",
+        "handle": "WECOM-AS"
+    },
+    "211163": {
+        "country_code": "IL",
+        "asn": "211163",
+        "description": "Adama Makhteshim LTD",
+        "handle": "ADAMA-MAKHTESHIM"
+    },
+    "211236": {
+        "country_code": "IL",
+        "asn": "211236",
+        "description": "Rad Data Communication LTD",
+        "handle": "RAD"
+    },
+    "211329": {
+        "country_code": "IL",
+        "asn": "211329",
+        "description": "ISRAEL DISCOUNT BANK Ltd",
+        "handle": "BANKDISCOUNT-SET"
+    },
+    "211367": {
+        "country_code": "IL",
+        "asn": "211367",
+        "description": "Israel Police",
+        "handle": "ILP-ASN"
+    },
+    "211444": {
+        "country_code": "IL",
+        "asn": "211444",
+        "description": "E.L.A.D. To City of David (PBC)",
+        "handle": "ELAD-SET"
+    },
+    "211518": {
+        "country_code": "IL",
+        "asn": "211518",
+        "description": "Shaare Zedek Medical Center",
+        "handle": "SZMC-AS"
+    },
+    "211681": {
+        "country_code": "IL",
+        "asn": "211681",
+        "description": "Menahel 4 You LTD",
+        "handle": "M4U"
+    },
+    "211802": {
+        "country_code": "IL",
+        "asn": "211802",
+        "description": "Lirone Line - Le Repertoire LTD",
+        "handle": "LIRONELINE"
+    },
+    "211824": {
+        "country_code": "IL",
+        "asn": "211824",
+        "description": "ONE ZERO DIGITAL BANK LTD",
+        "handle": "IL"
+    },
+    "211880": {
+        "country_code": "IL",
+        "asn": "211880",
+        "description": "Check Point Software Technologies Ltd",
+        "handle": "CHECK-POINT"
+    },
+    "211923": {
+        "country_code": "IL",
+        "asn": "211923",
+        "description": "PLAYSTUDIOS INTERNATIONAL ISRAEL LTD",
+        "handle": "PLAYSTUDIOS"
+    },
+    "212166": {
+        "country_code": "IL",
+        "asn": "212166",
+        "description": "TOMORROW WORLD COMMUNICATION SOLUTIONS LTD",
+        "handle": "TOMORROW"
+    },
+    "212307": {
+        "country_code": "IL",
+        "asn": "212307",
+        "description": "SUPER-PHARM ISRAEL LTD",
+        "handle": "SPIL"
+    },
+    "212361": {
+        "country_code": "IL",
+        "asn": "212361",
+        "description": "Dror Katz trading as Netcure Computers/ D.P.O.",
+        "handle": "NETCURE"
+    },
+    "212383": {
+        "country_code": "IL",
+        "asn": "212383",
+        "description": "Sisense LTD",
+        "handle": "SISENSE"
+    },
+    "212466": {
+        "country_code": "IL",
+        "asn": "212466",
+        "description": "Allot LTD",
+        "handle": "ALLOT-SET"
+    },
+    "212527": {
+        "country_code": "IL",
+        "asn": "212527",
+        "description": "Adama Agan LTD",
+        "handle": "ADAMA-AGAN"
+    },
+    "212529": {
+        "country_code": "IL",
+        "asn": "212529",
+        "description": "Jonathan Rom",
+        "handle": "JONATHAN-ROM"
+    },
+    "212612": {
+        "country_code": "IL",
+        "asn": "212612",
+        "description": "NOVA LTD",
+        "handle": "NOVASET"
+    },
+    "212616": {
+        "country_code": "IL",
+        "asn": "212616",
+        "description": "K.M.A ADVANCED TECHNOLOGIES LTD",
+        "handle": "KMA-TECHNOLOGY"
+    },
+    "212644": {
+        "country_code": "IL",
+        "asn": "212644",
+        "description": "Maskyoo Telephonia LTD",
+        "handle": "MASKYOO"
+    },
+    "212698": {
+        "country_code": "IL",
+        "asn": "212698",
+        "description": "N FIBER LTD",
+        "handle": "NEPTUNE"
+    },
+    "212719": {
+        "country_code": "IL",
+        "asn": "212719",
+        "description": "Landa Corporation Ltd",
+        "handle": "LANDA"
+    },
+    "212870": {
+        "country_code": "IL",
+        "asn": "212870",
+        "description": "Ze Host Ltd",
+        "handle": "ZEHOST"
+    },
+    "212927": {
+        "country_code": "IL",
+        "asn": "212927",
+        "description": "Voicenter LTD",
+        "handle": "VOICENTER-EU01"
+    },
+    "212937": {
+        "country_code": "IL",
+        "asn": "212937",
+        "description": "Delek the Israel Fuel Corporation Ltd.",
+        "handle": "DELEK-AS"
+    },
+    "213038": {
+        "country_code": "IL",
+        "asn": "213038",
+        "description": "DREAM VPS LTD",
+        "handle": "DREAMVPS"
+    },
+    "213055": {
+        "country_code": "IL",
+        "asn": "213055",
+        "description": "MyHeritage Ltd",
+        "handle": "IL"
+    },
+    "213079": {
+        "country_code": "IL",
+        "asn": "213079",
+        "description": "COBWEBS TECHNOLOGIES LTD",
+        "handle": "COBWEB-SET"
+    },
+    "213168": {
+        "country_code": "IL",
+        "asn": "213168",
+        "description": "MERKAZIYA LTD",
+        "handle": "MERKAZIA-MERKAZIYA-LTD"
+    },
+    "213176": {
+        "country_code": "IL",
+        "asn": "213176",
+        "description": "Check Point Software Technologies Ltd",
+        "handle": "PERIMETER-81"
+    },
+    "213225": {
+        "country_code": "IL",
+        "asn": "213225",
+        "description": "LIVEU LTD",
+        "handle": "LIVEUSET"
+    },
+    "213232": {
+        "country_code": "IL",
+        "asn": "213232",
+        "description": "Radware Ltd",
+        "handle": "RADWARE"
+    },
+    "213256": {
+        "country_code": "IL",
+        "asn": "213256",
+        "description": "Amal Kabha trading as Computerisation and Bookkeeping Services",
+        "handle": "CLOUDTASN"
+    },
+    "213284": {
+        "country_code": "IL",
+        "asn": "213284",
+        "description": "David Lowes",
+        "handle": "LDONEIT"
+    },
+    "213302": {
+        "country_code": "IL",
+        "asn": "213302",
+        "description": "Tawfiq Mhamid",
+        "handle": "ZETOX"
+    },
+    "213378": {
+        "country_code": "IL",
+        "asn": "213378",
+        "description": "MONTE- CARLO FOR COMMUNICATION LTD",
+        "handle": "MONTECARLO"
+    },
+    "213391": {
+        "country_code": "IL",
+        "asn": "213391",
+        "description": "Interhost Communication Solutions Ltd.",
+        "handle": "IL-IX"
+    },
+    "213442": {
+        "country_code": "IL",
+        "asn": "213442",
+        "description": "CHALLENGE AIRLINES (IL) LTD",
+        "handle": "CHALLENGE-SET"
+    },
+    "213487": {
+        "country_code": "IL",
+        "asn": "213487",
+        "description": "GFIBER INTERNET LTD",
+        "handle": "GFIBER"
+    },
+    "213564": {
+        "country_code": "IL",
+        "asn": "213564",
+        "description": "ISRAEL RAILWAYS LTD",
+        "handle": "RAIL-SET"
+    },
+    "213783": {
+        "country_code": "IL",
+        "asn": "213783",
+        "description": "Live Mobile LTD",
+        "handle": "LIVEMOBILE"
+    },
+    "213837": {
+        "country_code": "IL",
+        "asn": "213837",
+        "description": "Gilat Telecom Ltd.",
+        "handle": "GILAT-TELECOM-SATELLITE"
+    },
+    "213932": {
+        "country_code": "IL",
+        "asn": "213932",
+        "description": "Bank Of Israel",
+        "handle": "BOI-SET"
+    },
+    "214128": {
+        "country_code": "IL",
+        "asn": "214128",
+        "description": "Ofek U. Havia",
+        "handle": "EMPIRE-IL-AS"
+    },
+    "214230": {
+        "country_code": "IL",
+        "asn": "214230",
+        "description": "Kibbutz Kabri",
+        "handle": "KABRI-SET"
+    },
+    "214497": {
+        "country_code": "IL",
+        "asn": "214497",
+        "description": "Whitelabel Solutions Ltd.",
+        "handle": "WHITELABEL"
+    },
+    "214523": {
+        "country_code": "IL",
+        "asn": "214523",
+        "description": "TOSAF COMPOUNDS LTD",
+        "handle": "TOSAF-SET"
+    },
+    "214635": {
+        "country_code": "IL",
+        "asn": "214635",
+        "description": "Med-1 IC-1 (1999) LTD",
+        "handle": "MEDONEISP"
+    },
+    "214863": {
+        "country_code": "IL",
+        "asn": "214863",
+        "description": "Assuta Medical Centers Ltd",
+        "handle": "ASSUTA-SET"
+    },
+    "214991": {
+        "country_code": "IL",
+        "asn": "214991",
+        "description": "Killean Jor LTD",
+        "handle": "ULTRANET"
+    },
+    "215050": {
+        "country_code": "IL",
+        "asn": "215050",
+        "description": "Roy Levy trading as Armor360",
+        "handle": "ARMOR360"
+    },
+    "215101": {
+        "country_code": "IL",
+        "asn": "215101",
+        "description": "HOSTLOCAL NETWORKS LTD",
+        "handle": "HOSTLOCAL"
+    },
+    "215107": {
+        "country_code": "IL",
+        "asn": "215107",
+        "description": "Proginter Ltd",
+        "handle": "PROGINTER"
+    },
+    "215141": {
+        "country_code": "IL",
+        "asn": "215141",
+        "description": "IT-GURU MANAGED CYBER & TECHNOLOGIES SERVICES LTD",
+        "handle": "IT-GURU"
+    },
+    "215156": {
+        "country_code": "IL",
+        "asn": "215156",
+        "description": "Jerusalem College of Technology",
+        "handle": "JCT-SET"
+    },
+    "215229": {
+        "country_code": "IL",
+        "asn": "215229",
+        "description": "Surecomp Development Ltd",
+        "handle": "SURECOMP-SET"
+    },
+    "215283": {
+        "country_code": "IL",
+        "asn": "215283",
+        "description": "MINA COMMUNICATION LTD",
+        "handle": "MINA"
+    },
+    "215309": {
+        "country_code": "IL",
+        "asn": "215309",
+        "description": "Badel computer and administration services LTD",
+        "handle": "BADEL-SET"
+    },
+    "215333": {
+        "country_code": "IL",
+        "asn": "215333",
+        "description": "Mansour Esaeleh trading as M.M. Communication Infrastructure",
+        "handle": "MANSOUR-SET"
+    },
+    "215423": {
+        "country_code": "IL",
+        "asn": "215423",
+        "description": "FIFTH GENERTION NEW AGE LTD",
+        "handle": "FLASHFIBER"
+    },
+    "215460": {
+        "country_code": "IL",
+        "asn": "215460",
+        "description": "Daniel Mishayev",
+        "handle": "DANIEL"
+    },
+    "215923": {
+        "country_code": "IL",
+        "asn": "215923",
+        "description": "ASSUTA ASHDOD PUBLIC HOSPITAL (R.A)",
+        "handle": "ASSUTA-ASHDOD-SET"
+    },
+    "215939": {
+        "country_code": "IL",
+        "asn": "215939",
+        "description": "Valery Smoliar",
+        "handle": "CHSCLOUD-AS"
+    },
+    "216130": {
+        "country_code": "IL",
+        "asn": "216130",
+        "description": "Yelin Lapidot Investment Portfolio Management Ltd",
+        "handle": "YALEN-SET"
+    },
+    "216156": {
+        "country_code": "IL",
+        "asn": "216156",
+        "description": "METROPOLINE - PUBLIC TRANSPORT LTD",
+        "handle": "METROPOLINE"
+    },
+    "216162": {
+        "country_code": "IL",
+        "asn": "216162",
+        "description": "National Insurance institute",
+        "handle": "NIOI-SET"
+    },
+    "216266": {
+        "country_code": "IL",
+        "asn": "216266",
+        "description": "Hachshara Insurance Company LTD",
+        "handle": "HCSRA-SET"
+    },
+    "216306": {
+        "country_code": "IL",
+        "asn": "216306",
+        "description": "Max IT Finance Ltd",
+        "handle": "MAX-SET"
+    },
+    "216429": {
+        "country_code": "IL",
+        "asn": "216429",
+        "description": "NET MAX BRO LTD",
+        "handle": "NETMAX-BRO-LTD"
+    }
+}

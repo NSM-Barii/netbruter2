@@ -1,0 +1,200 @@
+{
+    "15964": {
+        "country_code": "CM",
+        "asn": "15964",
+        "description": "CAMTEL",
+        "handle": "CAMNET-AS"
+    },
+    "30992": {
+        "country_code": "CM",
+        "asn": "30992",
+        "description": "MTN Network Solutions (Cameroon)",
+        "handle": "MTN-NS-CAMEROON"
+    },
+    "36905": {
+        "country_code": "CM",
+        "asn": "36905",
+        "description": "Creolink Communications",
+        "handle": "CREOLINK"
+    },
+    "36912": {
+        "country_code": "CM",
+        "asn": "36912",
+        "description": "Orange Cameroun SA",
+        "handle": "ORANGECM"
+    },
+    "36955": {
+        "country_code": "CM",
+        "asn": "36955",
+        "description": "Matrix Telecoms SA",
+        "handle": "MATRIX-ASN1"
+    },
+    "37089": {
+        "country_code": "CM",
+        "asn": "37089",
+        "description": "Sancfis Cameroun SA",
+        "handle": "ALINK-CM-AS"
+    },
+    "37641": {
+        "country_code": "CM",
+        "asn": "37641",
+        "description": "GROUPEMENT D'INTERET ECONOMIQUE GROUPE COMMERCIAL BANK - GIE GCB",
+        "handle": "GIE-GCB-AS"
+    },
+    "37672": {
+        "country_code": "CM",
+        "asn": "37672",
+        "description": "INQ DIGITAL CAMEROON SA",
+        "handle": "INQ-DIGITAL-CAMEROON"
+    },
+    "37718": {
+        "country_code": "CM",
+        "asn": "37718",
+        "description": "Cameroon Internet Exchange Point (CAMIX)",
+        "handle": "CAMIX-PEERING-AS"
+    },
+    "37790": {
+        "country_code": "CM",
+        "asn": "37790",
+        "description": "ST DIGITAL",
+        "handle": "DOUALAIXPEERING"
+    },
+    "327741": {
+        "country_code": "CM",
+        "asn": "327741",
+        "description": "INFOGENIE Technologies",
+        "handle": "INFOGENIE-AS"
+    },
+    "327820": {
+        "country_code": "CM",
+        "asn": "327820",
+        "description": "SWECOM PLC",
+        "handle": "SWECOM"
+    },
+    "327920": {
+        "country_code": "CM",
+        "asn": "327920",
+        "description": "AVS TELECOM SARL",
+        "handle": "AVS-TELECOM-SARL"
+    },
+    "328091": {
+        "country_code": "CM",
+        "asn": "328091",
+        "description": "Cameroon Internet Exchange Point (CAMIX)",
+        "handle": "CAMIX-MGMT-AS"
+    },
+    "328352": {
+        "country_code": "CM",
+        "asn": "328352",
+        "description": "United Nations Economic Commission for Africa",
+        "handle": "UNITEDNATIONS-AS"
+    },
+    "328481": {
+        "country_code": "CM",
+        "asn": "328481",
+        "description": "AVS TELECOM SARL",
+        "handle": "AVS-TELECOM"
+    },
+    "328666": {
+        "country_code": "CM",
+        "asn": "328666",
+        "description": "CAMPASS PLC",
+        "handle": "CAMPASS-PLC"
+    },
+    "328840": {
+        "country_code": "CM",
+        "asn": "328840",
+        "description": "ST DIGITAL",
+        "handle": "ST-DIGITAL-AS"
+    },
+    "328866": {
+        "country_code": "CM",
+        "asn": "328866",
+        "description": "NEWTELNET CAMEROUN SAS",
+        "handle": "NEWTELNET"
+    },
+    "328878": {
+        "country_code": "CM",
+        "asn": "328878",
+        "description": "BANQUE DES ETATS DE L'AFRIQUE CENTRALE",
+        "handle": "BDED-AS"
+    },
+    "328909": {
+        "country_code": "CM",
+        "asn": "328909",
+        "description": "NATIONAL AGENCY FOR INFORMATION AND COMMUNICATION TECHNOLOGIES",
+        "handle": "ANTIC"
+    },
+    "328913": {
+        "country_code": "CM",
+        "asn": "328913",
+        "description": "ST DIGITAL",
+        "handle": "DOUALAIX"
+    },
+    "328920": {
+        "country_code": "CM",
+        "asn": "328920",
+        "description": "AFRICA DATA CENTER SA",
+        "handle": "ADCS-AS"
+    },
+    "328937": {
+        "country_code": "CM",
+        "asn": "328937",
+        "description": "Universit\u00e9 de Maroua",
+        "handle": "UDM1-AS"
+    },
+    "328995": {
+        "country_code": "CM",
+        "asn": "328995",
+        "description": "ST DIGITAL",
+        "handle": "ISC-F-AS"
+    },
+    "329077": {
+        "country_code": "CM",
+        "asn": "329077",
+        "description": "Digital Business Solutions SA",
+        "handle": "DBS-AFG"
+    },
+    "329375": {
+        "country_code": "CM",
+        "asn": "329375",
+        "description": "HTT Telecom",
+        "handle": "HTT-TELECOM"
+    },
+    "329380": {
+        "country_code": "CM",
+        "asn": "329380",
+        "description": "Cameroon Postal Services (CAMPOST)",
+        "handle": "CAMPOST"
+    },
+    "329432": {
+        "country_code": "CM",
+        "asn": "329432",
+        "description": "PORT AUTONOME DE KRIBI",
+        "handle": "PORT-AUTONOME-DE-KRIBI"
+    },
+    "329457": {
+        "country_code": "CM",
+        "asn": "329457",
+        "description": "CONNECTION CAMEROON S.A",
+        "handle": "CONNECTION-CAMEROON-SA"
+    },
+    "329469": {
+        "country_code": "CM",
+        "asn": "329469",
+        "description": "Access BANK CAMEROON PLC",
+        "handle": "ACCESS-BANK-CAMEROON-PLC"
+    },
+    "329470": {
+        "country_code": "CM",
+        "asn": "329470",
+        "description": "Afriland First Bank",
+        "handle": "AFRILAND-FIRST-BANK"
+    },
+    "329607": {
+        "country_code": "CM",
+        "asn": "329607",
+        "description": "CNSRIC",
+        "handle": "CNSRIC"
+    }
+}

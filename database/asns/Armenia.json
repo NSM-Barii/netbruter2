@@ -1,0 +1,860 @@
+{
+    "6682": {
+        "country_code": "AM",
+        "asn": "6682",
+        "description": "GNC-Alfa CJSC",
+        "handle": "GNC-ALFA"
+    },
+    "8226": {
+        "country_code": "AM",
+        "asn": "8226",
+        "description": "Arpinet LLC",
+        "handle": "AM-NIC-AS"
+    },
+    "8932": {
+        "country_code": "AM",
+        "asn": "8932",
+        "description": "Ucom CJSC",
+        "handle": "UCOMINT"
+    },
+    "12297": {
+        "country_code": "AM",
+        "asn": "12297",
+        "description": "Telecom Armenia OJSC",
+        "handle": "TELECOM-ARMENIA"
+    },
+    "16190": {
+        "country_code": "AM",
+        "asn": "16190",
+        "description": "LIR LLC",
+        "handle": "AS16190"
+    },
+    "21104": {
+        "country_code": "AM",
+        "asn": "21104",
+        "description": "Netsys JV LLC",
+        "handle": "AM-NETSYS-AS"
+    },
+    "33852": {
+        "country_code": "AM",
+        "asn": "33852",
+        "description": "Viva Armenia CJSC",
+        "handle": "ORG-CCJS1-RIPE"
+    },
+    "34083": {
+        "country_code": "AM",
+        "asn": "34083",
+        "description": "Arpinet LLC",
+        "handle": "ORG-AL161-RIPE"
+    },
+    "34492": {
+        "country_code": "AM",
+        "asn": "34492",
+        "description": "MEDIA LIFE LLC",
+        "handle": "MEDIALIFE-AS"
+    },
+    "35303": {
+        "country_code": "AM",
+        "asn": "35303",
+        "description": "Telecom Armenia OJSC",
+        "handle": "ARMENTEL"
+    },
+    "39344": {
+        "country_code": "AM",
+        "asn": "39344",
+        "description": "SMAYL SISTEMS LLC",
+        "handle": "AM-SS-AS"
+    },
+    "39355": {
+        "country_code": "AM",
+        "asn": "39355",
+        "description": "LIR LLC",
+        "handle": "LIR-LLC"
+    },
+    "39863": {
+        "country_code": "AM",
+        "asn": "39863",
+        "description": "Crossnet LLC",
+        "handle": "CROSSNET"
+    },
+    "41965": {
+        "country_code": "AM",
+        "asn": "41965",
+        "description": "Viva Armenia CJSC",
+        "handle": "MTS-ARMENIA-AS"
+    },
+    "42031": {
+        "country_code": "AM",
+        "asn": "42031",
+        "description": "GLOBALTECH LLC",
+        "handle": "PLUSTELECOM-AS"
+    },
+    "42109": {
+        "country_code": "AM",
+        "asn": "42109",
+        "description": "Viva Armenia CJSC",
+        "handle": "VIVA-ARMENIA-AS"
+    },
+    "42688": {
+        "country_code": "AM",
+        "asn": "42688",
+        "description": "Armenian Card (ArCa) CJSC",
+        "handle": "ARCA"
+    },
+    "42991": {
+        "country_code": "AM",
+        "asn": "42991",
+        "description": "BioNet LLC",
+        "handle": "HNET-AS"
+    },
+    "43733": {
+        "country_code": "AM",
+        "asn": "43733",
+        "description": "Viva Armenia CJSC",
+        "handle": "VIVA-ARMENIA"
+    },
+    "44153": {
+        "country_code": "AM",
+        "asn": "44153",
+        "description": "SHTE LLC",
+        "handle": "SHTE"
+    },
+    "44395": {
+        "country_code": "AM",
+        "asn": "44395",
+        "description": "Ucom CJSC",
+        "handle": "ORG-UL31-RIPE"
+    },
+    "44778": {
+        "country_code": "AM",
+        "asn": "44778",
+        "description": "Enterprise Incubator Foundation",
+        "handle": "EIF"
+    },
+    "47623": {
+        "country_code": "AM",
+        "asn": "47623",
+        "description": "Institute for Informatics and Automation Problems of National Academy of Sciences of the Republic of Armenia",
+        "handle": "IIAP-ASNET-AS"
+    },
+    "47642": {
+        "country_code": "AM",
+        "asn": "47642",
+        "description": "Doka Co.LTD",
+        "handle": "FIRMPLACE"
+    },
+    "47975": {
+        "country_code": "AM",
+        "asn": "47975",
+        "description": "Supercom LLC",
+        "handle": "KT-AS-47975"
+    },
+    "48008": {
+        "country_code": "AM",
+        "asn": "48008",
+        "description": "Harmony Information Technologies and Education Development Fund",
+        "handle": "ASCN-HARMONY"
+    },
+    "48244": {
+        "country_code": "AM",
+        "asn": "48244",
+        "description": "HS Cloud LLC",
+        "handle": "HSCLOUD"
+    },
+    "48675": {
+        "country_code": "AM",
+        "asn": "48675",
+        "description": "Diananet LLC",
+        "handle": "DELTATELECOM"
+    },
+    "48860": {
+        "country_code": "AM",
+        "asn": "48860",
+        "description": "Arm Telecom LLC",
+        "handle": "HARHIMTEL"
+    },
+    "48861": {
+        "country_code": "AM",
+        "asn": "48861",
+        "description": "Fnet LLC",
+        "handle": "APAGA"
+    },
+    "49037": {
+        "country_code": "AM",
+        "asn": "49037",
+        "description": "Prostie Reshenia LLC",
+        "handle": "ASN49037"
+    },
+    "49363": {
+        "country_code": "AM",
+        "asn": "49363",
+        "description": "Ucom CJSC",
+        "handle": "ORANGE-ARMENIA"
+    },
+    "49482": {
+        "country_code": "AM",
+        "asn": "49482",
+        "description": "Telecom Armenia OJSC",
+        "handle": "TELECOMARMENIAASN"
+    },
+    "49800": {
+        "country_code": "AM",
+        "asn": "49800",
+        "description": "GNC-Alfa CJSC",
+        "handle": "GNC-ALFA"
+    },
+    "50250": {
+        "country_code": "AM",
+        "asn": "50250",
+        "description": "ARMECONOMBANK OJSC",
+        "handle": "ASAEB"
+    },
+    "50496": {
+        "country_code": "AM",
+        "asn": "50496",
+        "description": "ARARATBANK OJSC",
+        "handle": "ART-BNK"
+    },
+    "50623": {
+        "country_code": "AM",
+        "asn": "50623",
+        "description": "Infotech LLC",
+        "handle": "INFOTECH"
+    },
+    "50635": {
+        "country_code": "AM",
+        "asn": "50635",
+        "description": "Skynet Telecom LLC",
+        "handle": "SKYNETTELECOMLLC"
+    },
+    "51090": {
+        "country_code": "AM",
+        "asn": "51090",
+        "description": "Internet Society Public Organisation",
+        "handle": "AM-TLD-AS"
+    },
+    "51225": {
+        "country_code": "AM",
+        "asn": "51225",
+        "description": "Armenian internet traffic exchange 'Armix' foundation",
+        "handle": "ARMIX"
+    },
+    "51327": {
+        "country_code": "AM",
+        "asn": "51327",
+        "description": "RETN AM Limited Liability Company",
+        "handle": "RETN-AM"
+    },
+    "51342": {
+        "country_code": "AM",
+        "asn": "51342",
+        "description": "Hachn ISP Ltd.",
+        "handle": "HACHN-AS"
+    },
+    "51354": {
+        "country_code": "AM",
+        "asn": "51354",
+        "description": "Internet Society Public Organisation",
+        "handle": "AM-TLD-ANYCAST-AS"
+    },
+    "51493": {
+        "country_code": "AM",
+        "asn": "51493",
+        "description": "National Ehealth Operator CJSC",
+        "handle": "E-HEALTH"
+    },
+    "51693": {
+        "country_code": "AM",
+        "asn": "51693",
+        "description": "Supercom LLC",
+        "handle": "KT-AS-51693"
+    },
+    "52160": {
+        "country_code": "AM",
+        "asn": "52160",
+        "description": "VTB Armenia Bank CJSC",
+        "handle": "VTB"
+    },
+    "56561": {
+        "country_code": "AM",
+        "asn": "56561",
+        "description": "Central Bank of the Republic of Armenia",
+        "handle": "AS-CBA"
+    },
+    "56862": {
+        "country_code": "AM",
+        "asn": "56862",
+        "description": "GLOBALTECH LLC",
+        "handle": "PLT-ADMIN-AS"
+    },
+    "56956": {
+        "country_code": "AM",
+        "asn": "56956",
+        "description": "Volkof-Inform Ltd.",
+        "handle": "STOLITSA-AS"
+    },
+    "56974": {
+        "country_code": "AM",
+        "asn": "56974",
+        "description": "State Revenue Committee of the Republic of Armenia",
+        "handle": "SRC-OF-RA-AS"
+    },
+    "57162": {
+        "country_code": "AM",
+        "asn": "57162",
+        "description": "Ardshinbank OJSC",
+        "handle": "ARDSHINBANK"
+    },
+    "57203": {
+        "country_code": "AM",
+        "asn": "57203",
+        "description": "LIR LLC",
+        "handle": "AM-LIR-LLC"
+    },
+    "57206": {
+        "country_code": "AM",
+        "asn": "57206",
+        "description": "Global Credit CJSC",
+        "handle": "ASGC"
+    },
+    "57491": {
+        "country_code": "AM",
+        "asn": "57491",
+        "description": "KIM-RAY Ltd.",
+        "handle": "MASISNET"
+    },
+    "57849": {
+        "country_code": "AM",
+        "asn": "57849",
+        "description": "Flex Tech LLC",
+        "handle": "FLEXTECH"
+    },
+    "196709": {
+        "country_code": "AM",
+        "asn": "196709",
+        "description": "GNC-Alfa CJSC",
+        "handle": "GNC-ALFA"
+    },
+    "197497": {
+        "country_code": "AM",
+        "asn": "197497",
+        "description": "OFFICE OF THE PRIME-MINISTER OF THE REPUBLIC OF ARMENIA STATE BODY",
+        "handle": "RA-GOV"
+    },
+    "197805": {
+        "country_code": "AM",
+        "asn": "197805",
+        "description": "Dzoraghbyur Complex LLC",
+        "handle": "DZH-AM"
+    },
+    "197834": {
+        "country_code": "AM",
+        "asn": "197834",
+        "description": "Ucom CJSC",
+        "handle": "INTERACTIVE"
+    },
+    "198265": {
+        "country_code": "AM",
+        "asn": "198265",
+        "description": "I-NET LLC",
+        "handle": "I-NET"
+    },
+    "198441": {
+        "country_code": "AM",
+        "asn": "198441",
+        "description": "Migtelecom LLC",
+        "handle": "MIGTELECOM"
+    },
+    "199062": {
+        "country_code": "AM",
+        "asn": "199062",
+        "description": "SOFT CONSTRUCT CJSC",
+        "handle": "AS-SOFT-CONSTRUCT-CJSC"
+    },
+    "199620": {
+        "country_code": "AM",
+        "asn": "199620",
+        "description": "Regionnet LLC",
+        "handle": "ASN-A-NET-PROVIDING"
+    },
+    "199673": {
+        "country_code": "AM",
+        "asn": "199673",
+        "description": "ABC Domain LLC",
+        "handle": "AM-ABC-DOMAIN-AS"
+    },
+    "199698": {
+        "country_code": "AM",
+        "asn": "199698",
+        "description": "Maxinet LLC",
+        "handle": "MAXINET"
+    },
+    "199968": {
+        "country_code": "AM",
+        "asn": "199968",
+        "description": "IWS NETWORKS LLC",
+        "handle": "IWSNET"
+    },
+    "200205": {
+        "country_code": "AM",
+        "asn": "200205",
+        "description": "Viva Armenia CJSC",
+        "handle": "MTS-ARMENIA-AS-5"
+    },
+    "200526": {
+        "country_code": "AM",
+        "asn": "200526",
+        "description": "Bargavachokh Tsantser LLC",
+        "handle": "INTERNET"
+    },
+    "200896": {
+        "country_code": "AM",
+        "asn": "200896",
+        "description": "Arpinet LLC",
+        "handle": "ARMINCO-AS"
+    },
+    "201039": {
+        "country_code": "AM",
+        "asn": "201039",
+        "description": "Manushak Galoyan",
+        "handle": "HOSTER"
+    },
+    "201063": {
+        "country_code": "AM",
+        "asn": "201063",
+        "description": "Ameriabank CJSC",
+        "handle": "AMERIA-AS"
+    },
+    "201219": {
+        "country_code": "AM",
+        "asn": "201219",
+        "description": "Mushegh Baghdasaryan",
+        "handle": "VSD"
+    },
+    "201363": {
+        "country_code": "AM",
+        "asn": "201363",
+        "description": "YOURnet LLC",
+        "handle": "YOURNET"
+    },
+    "201589": {
+        "country_code": "AM",
+        "asn": "201589",
+        "description": "EDGEAM LLC",
+        "handle": "EDGEAMLLC"
+    },
+    "201639": {
+        "country_code": "AM",
+        "asn": "201639",
+        "description": "INECOBANK CJSC",
+        "handle": "INECOBANK-AS"
+    },
+    "201884": {
+        "country_code": "AM",
+        "asn": "201884",
+        "description": "ISP SUPPORT LLC",
+        "handle": "AM-ISPSUPPORT"
+    },
+    "201921": {
+        "country_code": "AM",
+        "asn": "201921",
+        "description": "DIGITAIN LLC",
+        "handle": "INTERLOTTO"
+    },
+    "201986": {
+        "country_code": "AM",
+        "asn": "201986",
+        "description": "Arpinet LLC",
+        "handle": "ARPINET"
+    },
+    "202269": {
+        "country_code": "AM",
+        "asn": "202269",
+        "description": "BitCommand LLC",
+        "handle": "BITCOMMAND"
+    },
+    "202515": {
+        "country_code": "AM",
+        "asn": "202515",
+        "description": "ID Bank CJSC",
+        "handle": "IDBANK"
+    },
+    "202740": {
+        "country_code": "AM",
+        "asn": "202740",
+        "description": "IM ID CJSC",
+        "handle": "IMID-AS"
+    },
+    "203739": {
+        "country_code": "AM",
+        "asn": "203739",
+        "description": "Sajad Charipour",
+        "handle": "REGIKA"
+    },
+    "204194": {
+        "country_code": "AM",
+        "asn": "204194",
+        "description": "South Caucasus Railway CJSC",
+        "handle": "SCR-AS"
+    },
+    "204241": {
+        "country_code": "AM",
+        "asn": "204241",
+        "description": "Byblos Armenian Bank CJSC",
+        "handle": "BYBLOS-AS"
+    },
+    "204267": {
+        "country_code": "AM",
+        "asn": "204267",
+        "description": "Homenet LLC",
+        "handle": "HOMENET-LLC"
+    },
+    "204620": {
+        "country_code": "AM",
+        "asn": "204620",
+        "description": "EVOCABANK CJSC",
+        "handle": "EVOCABANK"
+    },
+    "204966": {
+        "country_code": "AM",
+        "asn": "204966",
+        "description": "Erik Mosinyan",
+        "handle": "ERIKM"
+    },
+    "205261": {
+        "country_code": "AM",
+        "asn": "205261",
+        "description": "STARROKETS LLC",
+        "handle": "STARROKETS-AS"
+    },
+    "205277": {
+        "country_code": "AM",
+        "asn": "205277",
+        "description": "Interlink LLC",
+        "handle": "INTERLINK"
+    },
+    "205293": {
+        "country_code": "AM",
+        "asn": "205293",
+        "description": "RAYONLINE LLC",
+        "handle": "RAYONLINE"
+    },
+    "205368": {
+        "country_code": "AM",
+        "asn": "205368",
+        "description": "Fnet LLC",
+        "handle": "FNET"
+    },
+    "205605": {
+        "country_code": "AM",
+        "asn": "205605",
+        "description": "ID Processing LLC",
+        "handle": "ID-PROCESSING"
+    },
+    "206230": {
+        "country_code": "AM",
+        "asn": "206230",
+        "description": "Team Host LLC",
+        "handle": "TEAM-HOST-AM"
+    },
+    "206543": {
+        "country_code": "AM",
+        "asn": "206543",
+        "description": "Cabarco LLC",
+        "handle": "CAB-AS"
+    },
+    "206748": {
+        "country_code": "AM",
+        "asn": "206748",
+        "description": "Diananet LLC",
+        "handle": "DELTATELECOM"
+    },
+    "206783": {
+        "country_code": "AM",
+        "asn": "206783",
+        "description": "HAYKAZ GHANDILYAN ANDRANIKI Private Entrepreneur",
+        "handle": "HAYK-COM"
+    },
+    "207081": {
+        "country_code": "AM",
+        "asn": "207081",
+        "description": "Bargavachokh Tsantser LLC",
+        "handle": "INTERNET"
+    },
+    "207400": {
+        "country_code": "AM",
+        "asn": "207400",
+        "description": "VXSOFT LLC",
+        "handle": "VXSOFT"
+    },
+    "207810": {
+        "country_code": "AM",
+        "asn": "207810",
+        "description": "Virus Net LLC",
+        "handle": "VTELECOM"
+    },
+    "207980": {
+        "country_code": "AM",
+        "asn": "207980",
+        "description": "TINS LLC",
+        "handle": "AM-TINSLLC"
+    },
+    "207991": {
+        "country_code": "AM",
+        "asn": "207991",
+        "description": "ACHON LLC",
+        "handle": "AM-ACHON"
+    },
+    "208081": {
+        "country_code": "AM",
+        "asn": "208081",
+        "description": "Fast Bank CJSC",
+        "handle": "FASTBANK"
+    },
+    "208339": {
+        "country_code": "AM",
+        "asn": "208339",
+        "description": "UTC LLC",
+        "handle": "UTC-LLC"
+    },
+    "208526": {
+        "country_code": "AM",
+        "asn": "208526",
+        "description": "Nikita Mobile.Ltd",
+        "handle": "NIKITA"
+    },
+    "208997": {
+        "country_code": "AM",
+        "asn": "208997",
+        "description": "INTERNET KOMUNIKATSION TSANTSER LLC",
+        "handle": "ICN"
+    },
+    "209176": {
+        "country_code": "AM",
+        "asn": "209176",
+        "description": "EKENG CJSC",
+        "handle": "EKENG"
+    },
+    "209262": {
+        "country_code": "AM",
+        "asn": "209262",
+        "description": "GSLINE LLC",
+        "handle": "GSLINE"
+    },
+    "209778": {
+        "country_code": "AM",
+        "asn": "209778",
+        "description": "Armcom LLC",
+        "handle": "ARMCOM"
+    },
+    "210131": {
+        "country_code": "AM",
+        "asn": "210131",
+        "description": "Prodesign LLC",
+        "handle": "INTERNET"
+    },
+    "210147": {
+        "country_code": "AM",
+        "asn": "210147",
+        "description": "ISP SUPPORT LLC",
+        "handle": "AM-ISPSUPPORT"
+    },
+    "210315": {
+        "country_code": "AM",
+        "asn": "210315",
+        "description": "Arpinet LLC",
+        "handle": "REALTIMEAS"
+    },
+    "210381": {
+        "country_code": "AM",
+        "asn": "210381",
+        "description": "AMIOBANK CJSC",
+        "handle": "AMIOBANK"
+    },
+    "210520": {
+        "country_code": "AM",
+        "asn": "210520",
+        "description": "Armenian Branch of Synergy International Systems Joint-Stock Company Separated Subdivision",
+        "handle": "SYNERGY"
+    },
+    "210677": {
+        "country_code": "AM",
+        "asn": "210677",
+        "description": "ISP SUPPORT LLC",
+        "handle": "AM-ISPSUPPORT"
+    },
+    "211092": {
+        "country_code": "AM",
+        "asn": "211092",
+        "description": "Ucom CJSC",
+        "handle": "UCOM-Q"
+    },
+    "211704": {
+        "country_code": "AM",
+        "asn": "211704",
+        "description": "CENTRAL ELECTORAL COMMISION OF THE REPUBLIC OF ARMENIA",
+        "handle": "CEC-AM-AS"
+    },
+    "211706": {
+        "country_code": "AM",
+        "asn": "211706",
+        "description": "Joyteck LLC",
+        "handle": "JOYTECK-LLC"
+    },
+    "211793": {
+        "country_code": "AM",
+        "asn": "211793",
+        "description": "Ingo Armenia Insurance CJSC",
+        "handle": "INGO-ARMENIA"
+    },
+    "211944": {
+        "country_code": "AM",
+        "asn": "211944",
+        "description": "Narek Tadevosyan",
+        "handle": "MIKRONET"
+    },
+    "212183": {
+        "country_code": "AM",
+        "asn": "212183",
+        "description": "House Net LLC",
+        "handle": "HOUSENET"
+    },
+    "212505": {
+        "country_code": "AM",
+        "asn": "212505",
+        "description": "Volo LLC",
+        "handle": "VOLO"
+    },
+    "212552": {
+        "country_code": "AM",
+        "asn": "212552",
+        "description": "BitCommand LLC",
+        "handle": "BITCOMMAND"
+    },
+    "212749": {
+        "country_code": "AM",
+        "asn": "212749",
+        "description": "ACBA Bank OJSC",
+        "handle": "ACBA-AS"
+    },
+    "212898": {
+        "country_code": "AM",
+        "asn": "212898",
+        "description": "Meganet HD LLC",
+        "handle": "MEGANETHD"
+    },
+    "213134": {
+        "country_code": "AM",
+        "asn": "213134",
+        "description": "DIGITAIN LLC",
+        "handle": "DIGITAIN"
+    },
+    "213827": {
+        "country_code": "AM",
+        "asn": "213827",
+        "description": "GetNet LLC",
+        "handle": "GETNET-AS"
+    },
+    "214198": {
+        "country_code": "AM",
+        "asn": "214198",
+        "description": "NeoMetals LLC",
+        "handle": "NEOMETAL-ASN"
+    },
+    "214287": {
+        "country_code": "AM",
+        "asn": "214287",
+        "description": "Converse Bank CJSC",
+        "handle": "AS-CONVERSEBANK"
+    },
+    "214729": {
+        "country_code": "AM",
+        "asn": "214729",
+        "description": "Prostie Reshenia LLC",
+        "handle": "FREEDOMCOMMUNICATIONS"
+    },
+    "214869": {
+        "country_code": "AM",
+        "asn": "214869",
+        "description": "Yotta Network LLC",
+        "handle": "YOTTA-NETWORK"
+    },
+    "214977": {
+        "country_code": "AM",
+        "asn": "214977",
+        "description": "Artsakhbank CJSC",
+        "handle": "AB-AS"
+    },
+    "215102": {
+        "country_code": "AM",
+        "asn": "215102",
+        "description": "GLOBALTECH LLC",
+        "handle": "GLT-AS"
+    },
+    "215157": {
+        "country_code": "AM",
+        "asn": "215157",
+        "description": "OnlineNet LLC",
+        "handle": "ONLINENET"
+    },
+    "215416": {
+        "country_code": "AM",
+        "asn": "215416",
+        "description": "VIGEN PETROSYAN trading as SAMVELI",
+        "handle": "MAGNET"
+    },
+    "215421": {
+        "country_code": "AM",
+        "asn": "215421",
+        "description": "LikeNet LLC",
+        "handle": "LIKENET"
+    },
+    "215501": {
+        "country_code": "AM",
+        "asn": "215501",
+        "description": "Hingshabti LLC",
+        "handle": "INETMAX-AS"
+    },
+    "215644": {
+        "country_code": "AM",
+        "asn": "215644",
+        "description": "Crossnet LLC",
+        "handle": "ITG"
+    },
+    "215719": {
+        "country_code": "AM",
+        "asn": "215719",
+        "description": "Unibank OJSC",
+        "handle": "UNIBANK-AS"
+    },
+    "215972": {
+        "country_code": "AM",
+        "asn": "215972",
+        "description": "GLOBALTECH LLC",
+        "handle": "AREA-AS"
+    },
+    "216058": {
+        "country_code": "AM",
+        "asn": "216058",
+        "description": "Proitlab LLC",
+        "handle": "PROITLAB-AS"
+    },
+    "216086": {
+        "country_code": "AM",
+        "asn": "216086",
+        "description": "ART-NET LLC",
+        "handle": "ARTNET"
+    },
+    "216165": {
+        "country_code": "AM",
+        "asn": "216165",
+        "description": "HYPERNET LLC",
+        "handle": "HYPERNET"
+    },
+    "216400": {
+        "country_code": "AM",
+        "asn": "216400",
+        "description": "FOR UNITY LLC",
+        "handle": "NETX"
+    }
+}

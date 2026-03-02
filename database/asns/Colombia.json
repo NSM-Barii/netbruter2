@@ -1,0 +1,3338 @@
+{
+    "3603": {
+        "country_code": "CO",
+        "asn": "3603",
+        "description": "University de Los Andes",
+        "handle": "UNIVERSITY-LOS-ANDES"
+    },
+    "3816": {
+        "country_code": "CO",
+        "asn": "3816",
+        "description": "COLOMBIA TELECOMUNICACIONES S.A. ESP BIC",
+        "handle": "COLOMBIA-TELECOMUNICACIONES"
+    },
+    "5722": {
+        "country_code": "CO",
+        "asn": "5722",
+        "description": "Universidad Nacional de Colombia",
+        "handle": "UNIVERSIDAD-NACIONAL-COLOMBIA"
+    },
+    "7087": {
+        "country_code": "CO",
+        "asn": "7087",
+        "description": "Administraci\u00f3n de Redes Colomsat S.A.",
+        "handle": "ADMINISTRACION-REDES-COLOMSAT"
+    },
+    "7157": {
+        "country_code": "CO",
+        "asn": "7157",
+        "description": "Americatel Colombia S.A.",
+        "handle": "AMERICATEL-COLOMBIA"
+    },
+    "7195": {
+        "country_code": "CO",
+        "asn": "7195",
+        "description": "EDGEUNO S.A.S",
+        "handle": "EDGEUNO"
+    },
+    "7199": {
+        "country_code": "CO",
+        "asn": "7199",
+        "description": "Internet de Colombia S.A",
+        "handle": "INTERNET-COLOMBIA"
+    },
+    "7437": {
+        "country_code": "CO",
+        "asn": "7437",
+        "description": "Rednet",
+        "handle": "REDNET"
+    },
+    "7953": {
+        "country_code": "CO",
+        "asn": "7953",
+        "description": "Supernet S.A.",
+        "handle": "SUPERNET"
+    },
+    "7997": {
+        "country_code": "CO",
+        "asn": "7997",
+        "description": "UNE EPM TELECOMUNICACIONES S.A.",
+        "handle": "UNE-EPM-TELECOMUNICACIONES"
+    },
+    "8026": {
+        "country_code": "CO",
+        "asn": "8026",
+        "description": "EMPRESA COLOMBIANA DE PETROLEOS ECOPETROL",
+        "handle": "EMPRESA-COLOMBIANA-PETROLEOS"
+    },
+    "8054": {
+        "country_code": "CO",
+        "asn": "8054",
+        "description": "Ticsa",
+        "handle": "TICSA"
+    },
+    "8065": {
+        "country_code": "CO",
+        "asn": "8065",
+        "description": "UNE EPM TELECOMUNICACIONES S.A.",
+        "handle": "UNE-EPM-TELECOMUNICACIONES"
+    },
+    "8096": {
+        "country_code": "CO",
+        "asn": "8096",
+        "description": "R Computadores",
+        "handle": "R-COMPUTADORES"
+    },
+    "8163": {
+        "country_code": "CO",
+        "asn": "8163",
+        "description": "Metrotel SA ESP",
+        "handle": "METROTEL"
+    },
+    "10299": {
+        "country_code": "CO",
+        "asn": "10299",
+        "description": "EMPRESAS MUNICIPALES DE CALI E.I.C.E. E.S.P.",
+        "handle": "EMPRESAS-MUNICIPALES-CALI"
+    },
+    "10502": {
+        "country_code": "CO",
+        "asn": "10502",
+        "description": "IFX NETWORKS COLOMBIA",
+        "handle": "IFX-NETWORKS-COLOMBIA"
+    },
+    "10620": {
+        "country_code": "CO",
+        "asn": "10620",
+        "description": "Telmex Colombia S.A.",
+        "handle": "TELMEX-COLOMBIA"
+    },
+    "10691": {
+        "country_code": "CO",
+        "asn": "10691",
+        "description": "ColInterNet",
+        "handle": "COLINTERNET"
+    },
+    "11237": {
+        "country_code": "CO",
+        "asn": "11237",
+        "description": "UNIVERSIDAD EAFIT",
+        "handle": "UNIVERSIDAD-EAFIT"
+    },
+    "11581": {
+        "country_code": "CO",
+        "asn": "11581",
+        "description": "TRANSTEL S.A.",
+        "handle": "TRANSTEL"
+    },
+    "13489": {
+        "country_code": "CO",
+        "asn": "13489",
+        "description": "UNE EPM TELECOMUNICACIONES S.A.",
+        "handle": "UNE-EPM-TELECOMUNICACIONES"
+    },
+    "14080": {
+        "country_code": "CO",
+        "asn": "14080",
+        "description": "Telmex Colombia S.A.",
+        "handle": "TELMEX-COLOMBIA"
+    },
+    "14084": {
+        "country_code": "CO",
+        "asn": "14084",
+        "description": "Multiphone",
+        "handle": "MULTIPHONE"
+    },
+    "14187": {
+        "country_code": "CO",
+        "asn": "14187",
+        "description": "SENCINET LATAM COLOMBIA S.A.",
+        "handle": "SENCINET-LATAM-COLOMBIA"
+    },
+    "14664": {
+        "country_code": "CO",
+        "asn": "14664",
+        "description": "IFX NETWORKS COLOMBIA",
+        "handle": "IFX-NETWORKS-COLOMBIA"
+    },
+    "14759": {
+        "country_code": "CO",
+        "asn": "14759",
+        "description": "Informatica El Corte Ingles",
+        "handle": "INFORMATICA-EL-CORTE-INGLES"
+    },
+    "14867": {
+        "country_code": "CO",
+        "asn": "14867",
+        "description": "SYNAPSIS COLOMBIA SAS",
+        "handle": "SYNAPSIS-COLOMBIA"
+    },
+    "14970": {
+        "country_code": "CO",
+        "asn": "14970",
+        "description": "CAMARA COLOMBIANA DE INFORMATICA Y TELECOMUNICACIONES CCIT",
+        "handle": "CAMARA-COLOMBIANA-INFORMATICA"
+    },
+    "15066": {
+        "country_code": "CO",
+        "asn": "15066",
+        "description": "SkyNet de Colombia S.A.",
+        "handle": "SKYNET-COLOMBIA"
+    },
+    "16663": {
+        "country_code": "CO",
+        "asn": "16663",
+        "description": "Uol Colombia",
+        "handle": "UOL-COLOMBIA"
+    },
+    "18678": {
+        "country_code": "CO",
+        "asn": "18678",
+        "description": "INTERNEXA S.A. E.S.P",
+        "handle": "INTERNEXA"
+    },
+    "18869": {
+        "country_code": "CO",
+        "asn": "18869",
+        "description": "UNE EPM TELECOMUNICACIONES S.A.",
+        "handle": "UNE-EPM-TELECOMUNICACIONES"
+    },
+    "19429": {
+        "country_code": "CO",
+        "asn": "19429",
+        "description": "ETB - Colombia",
+        "handle": "ETB-COLOMBIA"
+    },
+    "19731": {
+        "country_code": "CO",
+        "asn": "19731",
+        "description": "Codensa S.A. ESP",
+        "handle": "CODENSA"
+    },
+    "20244": {
+        "country_code": "CO",
+        "asn": "20244",
+        "description": "Division de Impuestos y Aduanas de Colombia",
+        "handle": "DIVISION-IMPUESTOS-ADUANAS"
+    },
+    "21578": {
+        "country_code": "CO",
+        "asn": "21578",
+        "description": "Universidad autonoma de Bucaramanga",
+        "handle": "UNIVERSIDAD-AUTONOMA-BUCARAMANGA"
+    },
+    "22368": {
+        "country_code": "CO",
+        "asn": "22368",
+        "description": "TELEBUCARAMANGA S.A. E.S.P.",
+        "handle": "TELEBUCARAMANGA"
+    },
+    "22453": {
+        "country_code": "CO",
+        "asn": "22453",
+        "description": "Informacion y Tecnologia S.A",
+        "handle": "INFORMACION-TECNOLOGIA"
+    },
+    "23246": {
+        "country_code": "CO",
+        "asn": "23246",
+        "description": "gigaipnet.com Inc",
+        "handle": "GIGAIPNETCOM"
+    },
+    "26603": {
+        "country_code": "CO",
+        "asn": "26603",
+        "description": "Telmex Colombia S.A.",
+        "handle": "TELMEX-COLOMBIA"
+    },
+    "26605": {
+        "country_code": "CO",
+        "asn": "26605",
+        "description": "Universidad Industrial de Santander - UIS",
+        "handle": "UNIVERSIDAD-INDUSTRIAL-SANTANDER"
+    },
+    "26611": {
+        "country_code": "CO",
+        "asn": "26611",
+        "description": "COMUNICACI\u00d3N CELULAR S.A. COMCEL S.A.",
+        "handle": "COMUNICACION-CELULAR"
+    },
+    "26619": {
+        "country_code": "CO",
+        "asn": "26619",
+        "description": "GTD COLOMBIA S.A.S",
+        "handle": "GTD-COLOMBIA"
+    },
+    "27650": {
+        "country_code": "CO",
+        "asn": "27650",
+        "description": "EMTEL S.A. E.S.P.",
+        "handle": "EMTEL"
+    },
+    "27663": {
+        "country_code": "CO",
+        "asn": "27663",
+        "description": "BRINKS DE COLOMBIA S.A.",
+        "handle": "BRINKS-COLOMBIA"
+    },
+    "27670": {
+        "country_code": "CO",
+        "asn": "27670",
+        "description": "Universidad de San Buenaventura - Cali",
+        "handle": "UNIVERSIDAD-SAN-BUENAVENTURA"
+    },
+    "27695": {
+        "country_code": "CO",
+        "asn": "27695",
+        "description": "UNE EPM TELECOMUNICACIONES S.A.",
+        "handle": "UNE-EPM-TELECOMUNICACIONES"
+    },
+    "27698": {
+        "country_code": "CO",
+        "asn": "27698",
+        "description": "TELETULUA S.A. E.S.P.",
+        "handle": "TELETULUA"
+    },
+    "27721": {
+        "country_code": "CO",
+        "asn": "27721",
+        "description": "Informacion y Tecnologia",
+        "handle": "INFORMACION-TECNOLOGIA"
+    },
+    "27731": {
+        "country_code": "CO",
+        "asn": "27731",
+        "description": "ACH Colombia",
+        "handle": "ACH-COLOMBIA"
+    },
+    "27753": {
+        "country_code": "CO",
+        "asn": "27753",
+        "description": "Coomeva Cali Principal",
+        "handle": "COOMEVA-CALI-PRINCIPAL"
+    },
+    "27758": {
+        "country_code": "CO",
+        "asn": "27758",
+        "description": "Redes Integrales S.A.",
+        "handle": "REDES-INTEGRALES"
+    },
+    "27763": {
+        "country_code": "CO",
+        "asn": "27763",
+        "description": "ANDITEL S.A.S.",
+        "handle": "ANDITEL"
+    },
+    "27798": {
+        "country_code": "CO",
+        "asn": "27798",
+        "description": "UNE EPM TELECOMUNICACIONES S.A.",
+        "handle": "UNE-EPM-TELECOMUNICACIONES"
+    },
+    "27803": {
+        "country_code": "CO",
+        "asn": "27803",
+        "description": "WorldAdmin Colombia Ltda",
+        "handle": "WORLDADMIN-COLOMBIA"
+    },
+    "27805": {
+        "country_code": "CO",
+        "asn": "27805",
+        "description": "UNE EPM TELECOMUNICACIONES S.A.",
+        "handle": "UNE-EPM-TELECOMUNICACIONES"
+    },
+    "27810": {
+        "country_code": "CO",
+        "asn": "27810",
+        "description": "MERCANET LTDA",
+        "handle": "MERCANET"
+    },
+    "27817": {
+        "country_code": "CO",
+        "asn": "27817",
+        "description": "Red Nacional Acad\u00e9mica de Tecnolog\u00eda Avanzada - RENATA",
+        "handle": "RED-NACIONAL-ACADEMICA"
+    },
+    "27831": {
+        "country_code": "CO",
+        "asn": "27831",
+        "description": "Colombia M\u00f3vil",
+        "handle": "COLOMBIA-MOVIL"
+    },
+    "27837": {
+        "country_code": "CO",
+        "asn": "27837",
+        "description": "Dialnet de Colombia S.A. E.S.P.",
+        "handle": "DIALNET-COLOMBIA"
+    },
+    "27845": {
+        "country_code": "CO",
+        "asn": "27845",
+        "description": "Empresa de Recursos Tecnologicos S.A E.S.P",
+        "handle": "EMPRESA-RECURSOS-TECNOLOGICOS"
+    },
+    "27852": {
+        "country_code": "CO",
+        "asn": "27852",
+        "description": "Transcom Colombia",
+        "handle": "TRANSCOM-COLOMBIA"
+    },
+    "27855": {
+        "country_code": "CO",
+        "asn": "27855",
+        "description": "AXESAT S.A",
+        "handle": "AXESAT"
+    },
+    "27864": {
+        "country_code": "CO",
+        "asn": "27864",
+        "description": "Telmex Colombia S.A.",
+        "handle": "TELMEX-COLOMBIA"
+    },
+    "27886": {
+        "country_code": "CO",
+        "asn": "27886",
+        "description": "Efectivo Ltda",
+        "handle": "EFECTIVO"
+    },
+    "27921": {
+        "country_code": "CO",
+        "asn": "27921",
+        "description": "COLOMBIA TELECOMUNICACIONES S.A. ESP BIC",
+        "handle": "COLOMBIA-TELECOMUNICACIONES"
+    },
+    "27937": {
+        "country_code": "CO",
+        "asn": "27937",
+        "description": "INGELCOM LTDA",
+        "handle": "INGELCOM"
+    },
+    "27941": {
+        "country_code": "CO",
+        "asn": "27941",
+        "description": "CONSULNETWORK LTDA",
+        "handle": "CONSULNETWORK"
+    },
+    "27951": {
+        "country_code": "CO",
+        "asn": "27951",
+        "description": "Media Commerce Partners S.A",
+        "handle": "MEDIA-COMMERCE-PARTNERS"
+    },
+    "27975": {
+        "country_code": "CO",
+        "asn": "27975",
+        "description": "SYNAPSIS COLOMBIA SAS",
+        "handle": "SYNAPSIS-COLOMBIA"
+    },
+    "27989": {
+        "country_code": "CO",
+        "asn": "27989",
+        "description": "BANCOLOMBIA S.A",
+        "handle": "BANCOLOMBIA"
+    },
+    "27992": {
+        "country_code": "CO",
+        "asn": "27992",
+        "description": "Terremark Colombia Inc.",
+        "handle": "TERREMARK-COLOMBIA"
+    },
+    "28013": {
+        "country_code": "CO",
+        "asn": "28013",
+        "description": "MINISTERIO DE COMERCIO INDUSTRIA Y TURISMO",
+        "handle": "MINISTERIO-COMERCIO-INDUSTRIA"
+    },
+    "28039": {
+        "country_code": "CO",
+        "asn": "28039",
+        "description": "Universidad EAN",
+        "handle": "UNIVERSIDAD-EAN"
+    },
+    "28070": {
+        "country_code": "CO",
+        "asn": "28070",
+        "description": "Banco Colpatria Red Multibanca Colpatria S.A.",
+        "handle": "BANCO-COLPATRIA-RED"
+    },
+    "28083": {
+        "country_code": "CO",
+        "asn": "28083",
+        "description": "GILAT Colombia S.A. E.S.P.",
+        "handle": "GILAT-COLOMBIA"
+    },
+    "28085": {
+        "country_code": "CO",
+        "asn": "28085",
+        "description": "Sociedad Portuaria Regional de Cartagena S.A.",
+        "handle": "SOCIEDAD-PORTUARIA-REGIONAL"
+    },
+    "52247": {
+        "country_code": "CO",
+        "asn": "52247",
+        "description": "Suramericana de Seguros S.A.",
+        "handle": "SURAMERICANA-SEGUROS"
+    },
+    "52256": {
+        "country_code": "CO",
+        "asn": "52256",
+        "description": "Coop. de Ahorro y Cr\u00e9dito de Santander Ltda. Financ. Comultrasan",
+        "handle": "COOP-AHORRO-CREDITO"
+    },
+    "52258": {
+        "country_code": "CO",
+        "asn": "52258",
+        "description": "Digiware S.A.",
+        "handle": "DIGIWARE"
+    },
+    "52269": {
+        "country_code": "CO",
+        "asn": "52269",
+        "description": "CIFIN",
+        "handle": "CIFIN"
+    },
+    "52272": {
+        "country_code": "CO",
+        "asn": "52272",
+        "description": "SYSTEM NETWORKS S.A. ESP",
+        "handle": "SYSTEM-NETWORKS"
+    },
+    "52320": {
+        "country_code": "CO",
+        "asn": "52320",
+        "description": "GlobeNet Cabos Submarinos Colombia S.A.S.",
+        "handle": "GLOBENET-CABOS-SUBMARINOS"
+    },
+    "52330": {
+        "country_code": "CO",
+        "asn": "52330",
+        "description": "S3WIRELESS COLOMBIA S.A",
+        "handle": "S3WIRELESS-COLOMBIA"
+    },
+    "52334": {
+        "country_code": "CO",
+        "asn": "52334",
+        "description": "Proteccion S.A.",
+        "handle": "PROTECCION"
+    },
+    "52335": {
+        "country_code": "CO",
+        "asn": "52335",
+        "description": "Colombia Hosting",
+        "handle": "COLOMBIA-HOSTING"
+    },
+    "52434": {
+        "country_code": "CO",
+        "asn": "52434",
+        "description": "RedColsa S.A.",
+        "handle": "REDCOLSA"
+    },
+    "52456": {
+        "country_code": "CO",
+        "asn": "52456",
+        "description": "Empresas P\u00fablicas de Medell\u00edn E.S.P.",
+        "handle": "EMPRESAS-PUBLICAS-MEDELLIN"
+    },
+    "52464": {
+        "country_code": "CO",
+        "asn": "52464",
+        "description": "Super Giros",
+        "handle": "SUPER-GIROS"
+    },
+    "52467": {
+        "country_code": "CO",
+        "asn": "52467",
+        "description": "Universidad de Ibague",
+        "handle": "UNIVERSIDAD-IBAGUE"
+    },
+    "52488": {
+        "country_code": "CO",
+        "asn": "52488",
+        "description": "Universidad Pontificia Bolivariana",
+        "handle": "UNIVERSIDAD-PONTIFICIA-BOLIVARIANA"
+    },
+    "61450": {
+        "country_code": "CO",
+        "asn": "61450",
+        "description": "FUNDACION UNIVERSIDAD DEL NORTE",
+        "handle": "FUNDACION-UNIVERSIDAD-NORTE"
+    },
+    "61454": {
+        "country_code": "CO",
+        "asn": "61454",
+        "description": "ITELSEK S.A.S.",
+        "handle": "ITELSEK"
+    },
+    "61457": {
+        "country_code": "CO",
+        "asn": "61457",
+        "description": "Votre Passion S.A.S",
+        "handle": "VOTRE-PASSION"
+    },
+    "61463": {
+        "country_code": "CO",
+        "asn": "61463",
+        "description": "CORPORACION UNIVERSIDAD DE MEDELLIN",
+        "handle": "CORPORACION-UNIVERSIDAD-MEDELLIN"
+    },
+    "61467": {
+        "country_code": "CO",
+        "asn": "61467",
+        "description": "DataWare Sistemas S.A.S.",
+        "handle": "DATAWARE-SISTEMAS"
+    },
+    "61498": {
+        "country_code": "CO",
+        "asn": "61498",
+        "description": "O4IT Colombia SAS",
+        "handle": "O4IT-COLOMBIA"
+    },
+    "61499": {
+        "country_code": "CO",
+        "asn": "61499",
+        "description": "COOPERATIVA FINANCIERA COTRAFA",
+        "handle": "COOPERATIVA-FINANCIERA-COTRAFA"
+    },
+    "64122": {
+        "country_code": "CO",
+        "asn": "64122",
+        "description": "SWISS GLOBAL SERVICES S.A.S",
+        "handle": "SWISS-GLOBAL-SERVICES"
+    },
+    "64124": {
+        "country_code": "CO",
+        "asn": "64124",
+        "description": "EDGEUNO S.A.S",
+        "handle": "EDGEUNO"
+    },
+    "64140": {
+        "country_code": "CO",
+        "asn": "64140",
+        "description": "PIT COLOMBIA SAS",
+        "handle": "PIT-COLOMBIA"
+    },
+    "64141": {
+        "country_code": "CO",
+        "asn": "64141",
+        "description": "PIT COLOMBIA SAS",
+        "handle": "PIT-COLOMBIA"
+    },
+    "64142": {
+        "country_code": "CO",
+        "asn": "64142",
+        "description": "PIT COLOMBIA SAS",
+        "handle": "PIT-COLOMBIA"
+    },
+    "64148": {
+        "country_code": "CO",
+        "asn": "64148",
+        "description": "PIT COLOMBIA SAS",
+        "handle": "PIT-COLOMBIA"
+    },
+    "64149": {
+        "country_code": "CO",
+        "asn": "64149",
+        "description": "PIT COLOMBIA SAS",
+        "handle": "PIT-COLOMBIA"
+    },
+    "65650": {
+        "country_code": "CO",
+        "asn": "65650",
+        "description": "MUNICIPIO DE ENVIGADO",
+        "handle": "MUNICIPIO-DE-ENVIGADO"
+    },
+    "262158": {
+        "country_code": "CO",
+        "asn": "262158",
+        "description": "FUNDACION UNIVERSITARIA DEL \u00c1REA ANDINA",
+        "handle": "FUNDACION-UNIVERSITARIA-AREA"
+    },
+    "262160": {
+        "country_code": "CO",
+        "asn": "262160",
+        "description": "UNIVERSIDAD ANTONIO NARINO",
+        "handle": "UNIVERSIDAD-ANTONIO-NARINO"
+    },
+    "262186": {
+        "country_code": "CO",
+        "asn": "262186",
+        "description": "TV AZTECA SUCURSAL COLOMBIA",
+        "handle": "TV-AZTECA-SUCURSAL-COLOMBIA"
+    },
+    "262191": {
+        "country_code": "CO",
+        "asn": "262191",
+        "description": "LIBERTY NETWORKS DE COLOMBIA S.A.S",
+        "handle": "LIBERTY-NETWORKS-COLOMBIA"
+    },
+    "262214": {
+        "country_code": "CO",
+        "asn": "262214",
+        "description": "BANCO DE BOGOTA",
+        "handle": "BANCO-BOGOTA"
+    },
+    "262215": {
+        "country_code": "CO",
+        "asn": "262215",
+        "description": "ITELKOM",
+        "handle": "ITELKOM"
+    },
+    "262220": {
+        "country_code": "CO",
+        "asn": "262220",
+        "description": "HV TELEVISION S.A.S",
+        "handle": "HV-TELEVISION"
+    },
+    "262226": {
+        "country_code": "CO",
+        "asn": "262226",
+        "description": "Universidad Piloto de Colombia",
+        "handle": "UNIVERSIDAD-PILOTO-COLOMBIA"
+    },
+    "262236": {
+        "country_code": "CO",
+        "asn": "262236",
+        "description": "PROCESOS & CANJE S.A.",
+        "handle": "PROCESOS-CANJE"
+    },
+    "262245": {
+        "country_code": "CO",
+        "asn": "262245",
+        "description": "UNIVERSIDAD DE LA SABANA",
+        "handle": "UNIVERSIDAD-LA-SABANA"
+    },
+    "262261": {
+        "country_code": "CO",
+        "asn": "262261",
+        "description": "Banco GNB Sudameris",
+        "handle": "BANCO-GNB-SUDAMERIS"
+    },
+    "262928": {
+        "country_code": "CO",
+        "asn": "262928",
+        "description": "DIRECTV COLOMBIA LTDA.",
+        "handle": "DIRECTV-COLOMBIA"
+    },
+    "262929": {
+        "country_code": "CO",
+        "asn": "262929",
+        "description": "TELCOBRAS SAS ESP",
+        "handle": "TELCOBRAS"
+    },
+    "262930": {
+        "country_code": "CO",
+        "asn": "262930",
+        "description": "IG Services S.A.S",
+        "handle": "IG-SERVICES"
+    },
+    "263191": {
+        "country_code": "CO",
+        "asn": "263191",
+        "description": "UPTIME DATA SOLUTIONS",
+        "handle": "UPTIME-DATA-SOLUTIONS"
+    },
+    "263195": {
+        "country_code": "CO",
+        "asn": "263195",
+        "description": "REDSI TELECOMUNICACIONES",
+        "handle": "REDSI-TELECOMUNICACIONES"
+    },
+    "263199": {
+        "country_code": "CO",
+        "asn": "263199",
+        "description": "BANCO DAVIVIENDA S.A",
+        "handle": "BANCO-DAVIVIENDA"
+    },
+    "263202": {
+        "country_code": "CO",
+        "asn": "263202",
+        "description": "BANSAT SAS",
+        "handle": "BANSAT"
+    },
+    "263210": {
+        "country_code": "CO",
+        "asn": "263210",
+        "description": "HV TELEVISION S.A.S",
+        "handle": "HV-TELEVISION"
+    },
+    "263227": {
+        "country_code": "CO",
+        "asn": "263227",
+        "description": "BANSAT S.A.",
+        "handle": "BANSAT"
+    },
+    "263680": {
+        "country_code": "CO",
+        "asn": "263680",
+        "description": "THOMAS GREG & SONS LIMITED (GUERNSEY) S.A.",
+        "handle": "THOMAS-GREG-SONS-LIMITED"
+    },
+    "263691": {
+        "country_code": "CO",
+        "asn": "263691",
+        "description": "KUATRO COMUNICACIONES",
+        "handle": "KUATRO-COMUNICACIONES"
+    },
+    "263710": {
+        "country_code": "CO",
+        "asn": "263710",
+        "description": "Corporaci\u00f3n Universitaria Minuto de Dios",
+        "handle": "CORPORACION-UNIVERSITARIA-MINUTO"
+    },
+    "263719": {
+        "country_code": "CO",
+        "asn": "263719",
+        "description": "POLICIA NACIONAL DE COLOMBIA",
+        "handle": "POLICIA-NACIONAL-COLOMBIA"
+    },
+    "263731": {
+        "country_code": "CO",
+        "asn": "263731",
+        "description": "BANCO FINANDINA S.A.",
+        "handle": "BANCO-FINANDINA"
+    },
+    "263743": {
+        "country_code": "CO",
+        "asn": "263743",
+        "description": "FUNDACION UNIVERSITARIA DEL AREA ANDINA",
+        "handle": "FUNDACION-UNIVERSITARIA-AREA"
+    },
+    "263798": {
+        "country_code": "CO",
+        "asn": "263798",
+        "description": "UFINET COLOMBIA S. A.",
+        "handle": "UFINET-COLOMBIA-S-A"
+    },
+    "263802": {
+        "country_code": "CO",
+        "asn": "263802",
+        "description": "Genesis Data SAS",
+        "handle": "GENESIS-DATA"
+    },
+    "263804": {
+        "country_code": "CO",
+        "asn": "263804",
+        "description": "FUNDACI\u00d3N SOCIAL",
+        "handle": "FUNDACION-SOCIAL"
+    },
+    "263819": {
+        "country_code": "CO",
+        "asn": "263819",
+        "description": "DOBLECLICK SOFTWARE E INGENERIA",
+        "handle": "DOBLECLICK-SOFTWARE-INGENERIA"
+    },
+    "263836": {
+        "country_code": "CO",
+        "asn": "263836",
+        "description": "OIS TELECOMUNICACIONES SAS",
+        "handle": "OIS-TELECOMUNICACIONES"
+    },
+    "264646": {
+        "country_code": "CO",
+        "asn": "264646",
+        "description": "DOBLECLICK SOFTWARE E INGENERIA",
+        "handle": "DOBLECLICK-SOFTWARE-INGENERIA"
+    },
+    "264647": {
+        "country_code": "CO",
+        "asn": "264647",
+        "description": "Universidad EIA",
+        "handle": "UNIVERSIDAD-EIA"
+    },
+    "264648": {
+        "country_code": "CO",
+        "asn": "264648",
+        "description": "Fondo Rotatorio del Ministerio de Relaciones Exteriores",
+        "handle": "FONDO-ROTATORIO-MINISTERIO"
+    },
+    "264653": {
+        "country_code": "CO",
+        "asn": "264653",
+        "description": "Universidad Catolica de Oriente",
+        "handle": "UNIVERSIDAD-CATOLICA-ORIENTE"
+    },
+    "264659": {
+        "country_code": "CO",
+        "asn": "264659",
+        "description": "Sol Cablevisi\u00f3n S.A.S E.S.P",
+        "handle": "SOL-CABLEVISION"
+    },
+    "264682": {
+        "country_code": "CO",
+        "asn": "264682",
+        "description": "FUNDACION UNIVERSITARIA LUIS AMIGO",
+        "handle": "FUNDACION-UNIVERSITARIA-LUIS"
+    },
+    "264693": {
+        "country_code": "CO",
+        "asn": "264693",
+        "description": "INSTITUCION UNIVERSITARIA VISION DE LAS AMERICAS",
+        "handle": "INSTITUCION-UNIVERSITARIA-VISION"
+    },
+    "264706": {
+        "country_code": "CO",
+        "asn": "264706",
+        "description": "Banco GNB Sudameris",
+        "handle": "BANCO-GNB-SUDAMERIS"
+    },
+    "264714": {
+        "country_code": "CO",
+        "asn": "264714",
+        "description": "A TODA HORA S.A",
+        "handle": "A-TODA-HORA"
+    },
+    "264718": {
+        "country_code": "CO",
+        "asn": "264718",
+        "description": "UNIVERSIDAD SIM\u00d3N BOL\u00cdVAR",
+        "handle": "UNIVERSIDAD-SIMON-BOLIVAR"
+    },
+    "264762": {
+        "country_code": "CO",
+        "asn": "264762",
+        "description": "EXPERIAN COLOMBIA S.A.",
+        "handle": "EXPERIAN-COLOMBIA"
+    },
+    "264782": {
+        "country_code": "CO",
+        "asn": "264782",
+        "description": "Universidad Pontificia Bolivariana Seccional Bucaramanga",
+        "handle": "UNIVERSIDAD-PONTIFICIA-BOLIVARIANA"
+    },
+    "264796": {
+        "country_code": "CO",
+        "asn": "264796",
+        "description": "CABLEMAS SAS",
+        "handle": "CABLEMAS"
+    },
+    "264799": {
+        "country_code": "CO",
+        "asn": "264799",
+        "description": "ARIA TEL SAS ESP",
+        "handle": "ARIA-TEL"
+    },
+    "264803": {
+        "country_code": "CO",
+        "asn": "264803",
+        "description": "CORPORACION UNIVERSITARIA ADVENTISTA",
+        "handle": "CORPORACION-UNIVERSITARIA-ADVENTISTA"
+    },
+    "264804": {
+        "country_code": "CO",
+        "asn": "264804",
+        "description": "CODISERT S.A",
+        "handle": "CODISERT"
+    },
+    "264805": {
+        "country_code": "CO",
+        "asn": "264805",
+        "description": "CAMARA DE COMERCIO DE MEDELLIN PARA ANTIOQUIA",
+        "handle": "CAMARA-COMERCIO-MEDELLIN"
+    },
+    "264829": {
+        "country_code": "CO",
+        "asn": "264829",
+        "description": "Teleperformance Colombia",
+        "handle": "TELEPERFORMANCE-COLOMBIA"
+    },
+    "264835": {
+        "country_code": "CO",
+        "asn": "264835",
+        "description": "CORPORACION UNIVERSIDAD DE LA COSTA CUC",
+        "handle": "CORPORACION-UNIVERSIDAD"
+    },
+    "264842": {
+        "country_code": "CO",
+        "asn": "264842",
+        "description": "IP DATA LTDA",
+        "handle": "IP-DATA"
+    },
+    "265652": {
+        "country_code": "CO",
+        "asn": "265652",
+        "description": "SISTEMAS Y COMPUTADORES S.A.",
+        "handle": "SISTEMAS-COMPUTADORES"
+    },
+    "265682": {
+        "country_code": "CO",
+        "asn": "265682",
+        "description": "JAIME TORRES C Y CIA SA",
+        "handle": "JAIME-TORRES-C-CIA"
+    },
+    "265688": {
+        "country_code": "CO",
+        "asn": "265688",
+        "description": "SINERGY SOLUCIONES INTEGRALES",
+        "handle": "SINERGY-SOLUCIONES-INTEGRALES"
+    },
+    "265693": {
+        "country_code": "CO",
+        "asn": "265693",
+        "description": "Caldas Data Company LTDA",
+        "handle": "CALDAS-DATA-COMPANY"
+    },
+    "265696": {
+        "country_code": "CO",
+        "asn": "265696",
+        "description": "Asociaci\u00f3n Red Universitaria de Alta Velocidad del Valle del Cauca",
+        "handle": "ASOCIACION-RED-UNIVERSITARIA"
+    },
+    "265705": {
+        "country_code": "CO",
+        "asn": "265705",
+        "description": "HUGHES DE COLOMBIA S.A.S.",
+        "handle": "HUGHES-COLOMBIA"
+    },
+    "265833": {
+        "country_code": "CO",
+        "asn": "265833",
+        "description": "COMUNICACIONES WIFI COLOMBIA S.A.S",
+        "handle": "COMUNICACIONES-WIFI-COLOMBIA"
+    },
+    "265855": {
+        "country_code": "CO",
+        "asn": "265855",
+        "description": "LEGON TELECOMUNICACIONES SAS",
+        "handle": "LEGON-TELECOMUNICACIONES"
+    },
+    "265861": {
+        "country_code": "CO",
+        "asn": "265861",
+        "description": "SISTEMAS SATELITALES DE COLOMBIA SA ESP",
+        "handle": "SISTEMAS-SATELITALES-COLOMBIA"
+    },
+    "266669": {
+        "country_code": "CO",
+        "asn": "266669",
+        "description": "SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO",
+        "handle": "SUPERINTENDENCIA-INDUSTRIA-COMERCIO"
+    },
+    "266698": {
+        "country_code": "CO",
+        "asn": "266698",
+        "description": "INSITEL S.A.S.",
+        "handle": "INSITEL"
+    },
+    "266736": {
+        "country_code": "CO",
+        "asn": "266736",
+        "description": "Universidad Tecnologica de Pereira",
+        "handle": "UNIVERSIDAD-TECNOLOGICA-PEREIRA"
+    },
+    "266737": {
+        "country_code": "CO",
+        "asn": "266737",
+        "description": "UNIVERSIDAD DEL CAUCA",
+        "handle": "UNIVERSIDAD-CAUCA"
+    },
+    "266747": {
+        "country_code": "CO",
+        "asn": "266747",
+        "description": "ZONAMERICA USUARIO OPERADOR DE ZONA FRANCA S.A.S.",
+        "handle": "ZONAMERICA-USUARIO-OPERADOR"
+    },
+    "266770": {
+        "country_code": "CO",
+        "asn": "266770",
+        "description": "CAJA PROMOTORA DE VIVIENDA MILITAR Y DE POLICIA",
+        "handle": "CAJA-PROMOTORA-VIVIENDA"
+    },
+    "266774": {
+        "country_code": "CO",
+        "asn": "266774",
+        "description": "HIZ TELECOMUNICACIONES S.A.S",
+        "handle": "HIZ-TELECOMUNICACIONES"
+    },
+    "266816": {
+        "country_code": "CO",
+        "asn": "266816",
+        "description": "SIMECT GROUP REDES E INTERNET S.A.S",
+        "handle": "SIMECT-GROUP-REDES"
+    },
+    "266832": {
+        "country_code": "CO",
+        "asn": "266832",
+        "description": "CONEXIONES TECNOLOGICAS Y COMUNICACION S.A.S.",
+        "handle": "CONEXIONES-TECNOLOGICAS-COMUNICACION"
+    },
+    "266848": {
+        "country_code": "CO",
+        "asn": "266848",
+        "description": "UNIVERSIDAD MILITAR NUEVA GRANADA",
+        "handle": "UNIVERSIDAD-MILITAR-NUEVA"
+    },
+    "266849": {
+        "country_code": "CO",
+        "asn": "266849",
+        "description": "EQUINIX COLOMBIA INC. SUCURSAL COLOMBIA",
+        "handle": "EQUINIX-COLOMBIA"
+    },
+    "266860": {
+        "country_code": "CO",
+        "asn": "266860",
+        "description": "CONEXION DIGITAL EXPRESS S.A.S.",
+        "handle": "CONEXION-DIGITAL-EXPRESS"
+    },
+    "266862": {
+        "country_code": "CO",
+        "asn": "266862",
+        "description": "ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO",
+        "handle": "ESCUELA-COLOMBIANA-INGENIERIA"
+    },
+    "266868": {
+        "country_code": "CO",
+        "asn": "266868",
+        "description": "THOMAS PROCESSING & SYSTEMS S.A.S",
+        "handle": "THOMAS-PROCESSING-SYSTEMS"
+    },
+    "266869": {
+        "country_code": "CO",
+        "asn": "266869",
+        "description": "Universidad de Nari\u00f1o",
+        "handle": "UNIVERSIDAD-NARINO"
+    },
+    "266877": {
+        "country_code": "CO",
+        "asn": "266877",
+        "description": "COLOMBIATEL TELECOMUNICACIONES",
+        "handle": "COLOMBIATEL-TELECOMUNICACIONES"
+    },
+    "266903": {
+        "country_code": "CO",
+        "asn": "266903",
+        "description": "SUMMA - SERVICIOS CORPORATIVOS INTEGRALES S.A.S.",
+        "handle": "SUMMA-SERVICIOS-CORPORATIVOS"
+    },
+    "266906": {
+        "country_code": "CO",
+        "asn": "266906",
+        "description": "FONDO DE GARANTIAS DE INSTITUCIONES FINANCIERAS",
+        "handle": "FONDO-GARANTIAS-INSTITUCIONES"
+    },
+    "267678": {
+        "country_code": "CO",
+        "asn": "267678",
+        "description": "AYA RADIOCOMUNICACIONES SAS",
+        "handle": "AYA-RADIOCOMUNICACIONES"
+    },
+    "267682": {
+        "country_code": "CO",
+        "asn": "267682",
+        "description": "WAO INTERNET S.A.S.",
+        "handle": "WAO-INTERNET"
+    },
+    "267691": {
+        "country_code": "CO",
+        "asn": "267691",
+        "description": "ENTER TELECOMUNICACIONES BANDA ANCHA SAS",
+        "handle": "ENTER-TELECOMUNICACIONES-BANDA"
+    },
+    "267708": {
+        "country_code": "CO",
+        "asn": "267708",
+        "description": "SP SISTEMAS PALACIOS LTDA",
+        "handle": "SP-SISTEMAS-PALACIOS"
+    },
+    "267755": {
+        "country_code": "CO",
+        "asn": "267755",
+        "description": "ASESORIAS Y SERVICIOS EN TECNOLOGIAS DE LA INFORMACION Y COMUNICACIONES S.A.S",
+        "handle": "ASESORIAS-SERVICIOS-TECNOLOGIAS"
+    },
+    "267757": {
+        "country_code": "CO",
+        "asn": "267757",
+        "description": "INTERLANS S.A.S",
+        "handle": "INTERLANS"
+    },
+    "267769": {
+        "country_code": "CO",
+        "asn": "267769",
+        "description": "TV CABLE VILLANUEVA S.A.S(TVIDIGITAL)",
+        "handle": "TV-CABLE-VILLANUEVA"
+    },
+    "267777": {
+        "country_code": "CO",
+        "asn": "267777",
+        "description": "FUTURE SOLUTIONS DEVELOPMENT SAS",
+        "handle": "FUTURE-SOLUTIONS-DEVELOPMENT"
+    },
+    "267788": {
+        "country_code": "CO",
+        "asn": "267788",
+        "description": "IP TECHNOLOGIES S.A.S.",
+        "handle": "IP-TECHNOLOGIES"
+    },
+    "267790": {
+        "country_code": "CO",
+        "asn": "267790",
+        "description": "NET ISP S.A.S",
+        "handle": "NET-ISP"
+    },
+    "267796": {
+        "country_code": "CO",
+        "asn": "267796",
+        "description": "BETEL SOLUCIONES S.A.S",
+        "handle": "BETEL-SOLUCIONES"
+    },
+    "267799": {
+        "country_code": "CO",
+        "asn": "267799",
+        "description": "TV ISLA LTDA",
+        "handle": "TV-ISLA"
+    },
+    "267807": {
+        "country_code": "CO",
+        "asn": "267807",
+        "description": "PSI TELECOMUNICACIONES DE COLOMBIA LTDA",
+        "handle": "PSI-TELECOMUNICACIONES-COLOMBIA"
+    },
+    "267810": {
+        "country_code": "CO",
+        "asn": "267810",
+        "description": "INTERMEGAMUNDO PARTNERS S.A.S.",
+        "handle": "INTERMEGAMUNDO-PARTNERS"
+    },
+    "267823": {
+        "country_code": "CO",
+        "asn": "267823",
+        "description": "ATENEA TELECOMUNICACIONES S.A.S",
+        "handle": "ATENEA-TELECOMUNICACIONES"
+    },
+    "267832": {
+        "country_code": "CO",
+        "asn": "267832",
+        "description": "VELONET SAS",
+        "handle": "VELONET"
+    },
+    "267834": {
+        "country_code": "CO",
+        "asn": "267834",
+        "description": "SERVYCOM COLOMBIA S.A.S",
+        "handle": "SERVYCOM-COLOMBIA"
+    },
+    "267841": {
+        "country_code": "CO",
+        "asn": "267841",
+        "description": "GIGAS HOSTING COLOMBIA S.A.S.",
+        "handle": "GIGAS-HOSTING-COLOMBIA"
+    },
+    "267842": {
+        "country_code": "CO",
+        "asn": "267842",
+        "description": "REDCON REDES Y CONEXIONES S.A.S.",
+        "handle": "REDCON-REDES-CONEXIONES"
+    },
+    "267855": {
+        "country_code": "CO",
+        "asn": "267855",
+        "description": "C\u00c1MARA DE COMERCIO DE BOGOTA",
+        "handle": "CAMARA-COMERCIO-BOGOTA"
+    },
+    "267857": {
+        "country_code": "CO",
+        "asn": "267857",
+        "description": "INTEGRA MULTISOLUTIONS S.A.S.",
+        "handle": "INTEGRA-MULTISOLUTIONS"
+    },
+    "267869": {
+        "country_code": "CO",
+        "asn": "267869",
+        "description": "CABLE Y TELECOMUNICACIONES DE COLOMBIA S.A.S (CABLETELCO)",
+        "handle": "CABLE-TELECOMUNICACIONES-COLOMBIA"
+    },
+    "267880": {
+        "country_code": "CO",
+        "asn": "267880",
+        "description": "MEGARED TELECOMUNICACIONES S.A.S",
+        "handle": "MEGARED-TELECOMUNICACIONES"
+    },
+    "267890": {
+        "country_code": "CO",
+        "asn": "267890",
+        "description": "WALIX S.A.S.",
+        "handle": "WALIX"
+    },
+    "267893": {
+        "country_code": "CO",
+        "asn": "267893",
+        "description": "UNIVERSIDAD DEL MAGDALENA",
+        "handle": "UNIVERSIDAD-MAGDALENA"
+    },
+    "267902": {
+        "country_code": "CO",
+        "asn": "267902",
+        "description": "INSTITUTO DISTRITAL DE GESTION DE RIESGOS Y CAMBIO CLIMATICO (IDIGER)",
+        "handle": "INSTITUTO-DISTRITAL-GESTION"
+    },
+    "267919": {
+        "country_code": "CO",
+        "asn": "267919",
+        "description": "NET&COM LTDA.",
+        "handle": "NET-COM"
+    },
+    "267928": {
+        "country_code": "CO",
+        "asn": "267928",
+        "description": "CORPORACI\u00d3N AUT\u00d3NOMA REGIONAL DE CUNDINAMARCA - CAR -",
+        "handle": "CORPORACION-AUTONOMA-REGIONAL"
+    },
+    "267929": {
+        "country_code": "CO",
+        "asn": "267929",
+        "description": "GENIONET TELECOMUNICACIONES S.A.S",
+        "handle": "GENIONET-TELECOMUNICACIONES"
+    },
+    "268524": {
+        "country_code": "CO",
+        "asn": "268524",
+        "description": "SUMMA - SERVICIOS CORPORATIVOS INTEGRALES S.A.S.",
+        "handle": "SUMMA-SERVICIOS-CORPORATIVOS"
+    },
+    "269735": {
+        "country_code": "CO",
+        "asn": "269735",
+        "description": "KALU DE COLOMBIA SAS",
+        "handle": "KALU-COLOMBIA"
+    },
+    "269737": {
+        "country_code": "CO",
+        "asn": "269737",
+        "description": "QUALITY NET JM S.A.S. ZOMAC",
+        "handle": "QUALITY-NET-JM-SAS-ZOMAC"
+    },
+    "269742": {
+        "country_code": "CO",
+        "asn": "269742",
+        "description": "AVIDTEL E.U.",
+        "handle": "AVIDTEL-EU"
+    },
+    "269743": {
+        "country_code": "CO",
+        "asn": "269743",
+        "description": "UNIMOS EMPRESA MUNICIPAL DE TELECOMUNICACIONES DE IPIALES S.A. E.S.P.",
+        "handle": "UNIMOS-EMPRESA-MUNICIPAL"
+    },
+    "269746": {
+        "country_code": "CO",
+        "asn": "269746",
+        "description": "Tierranet S.A.S.",
+        "handle": "TIERRANET"
+    },
+    "269755": {
+        "country_code": "CO",
+        "asn": "269755",
+        "description": "ODATA COLOMBIA SAS",
+        "handle": "ODATA-COLOMBIA"
+    },
+    "269777": {
+        "country_code": "CO",
+        "asn": "269777",
+        "description": "GRUPO LUMA SAS",
+        "handle": "GRUPO-LUMA"
+    },
+    "269796": {
+        "country_code": "CO",
+        "asn": "269796",
+        "description": "JIREH WAN SAS",
+        "handle": "JIREH-WAN"
+    },
+    "269804": {
+        "country_code": "CO",
+        "asn": "269804",
+        "description": "SEPCOM COMUNICACIONES SAS",
+        "handle": "SEPCOM-COMUNICACIONES"
+    },
+    "269822": {
+        "country_code": "CO",
+        "asn": "269822",
+        "description": "COLOMBIA MAS TV S.A.S",
+        "handle": "COLOMBIA-MAS-TV"
+    },
+    "269836": {
+        "country_code": "CO",
+        "asn": "269836",
+        "description": "TERABYTE COMUNICACIONES S.A.S",
+        "handle": "TERABYTE-COMUNICACIONES"
+    },
+    "269845": {
+        "country_code": "CO",
+        "asn": "269845",
+        "description": "DEPARTAMENTO DE CALDAS",
+        "handle": "DEPARTAMENTO-CALDAS"
+    },
+    "269850": {
+        "country_code": "CO",
+        "asn": "269850",
+        "description": "AGENCIA NACIONAL DE HIDROCARBUROS",
+        "handle": "AGENCIA-NACIONAL-HIDROCARBUROS"
+    },
+    "269855": {
+        "country_code": "CO",
+        "asn": "269855",
+        "description": "WORLD CONNECTION",
+        "handle": "WORLD-CONNECTION"
+    },
+    "269856": {
+        "country_code": "CO",
+        "asn": "269856",
+        "description": "Ministerio de Educaci\u00f3n Nacional",
+        "handle": "MINISTERIO-EDUCACION-NACIONAL"
+    },
+    "269867": {
+        "country_code": "CO",
+        "asn": "269867",
+        "description": "DEPARTAMENTO ADMINISTRATIVO DE CIENCIA TECNOLOGIA E INNOVACION (COLCIENCIAS)",
+        "handle": "DEPARTAMENTO-ADMINISTRATIVO-CIENCIA"
+    },
+    "269883": {
+        "country_code": "CO",
+        "asn": "269883",
+        "description": "AGENCIA DE DESARROLLO RURAL - ADR",
+        "handle": "AGENCIA-DESARROLLO-RURAL-ADR"
+    },
+    "269885": {
+        "country_code": "CO",
+        "asn": "269885",
+        "description": "Universidad del Atlantico",
+        "handle": "UNIVERSIDAD-ATLANTICO"
+    },
+    "269888": {
+        "country_code": "CO",
+        "asn": "269888",
+        "description": "BANCO DE LA REPUBLICA",
+        "handle": "BANCO-LA-REPUBLICA"
+    },
+    "269893": {
+        "country_code": "CO",
+        "asn": "269893",
+        "description": "NETWORK CONNEXIONS SAS",
+        "handle": "NETWORK-CONNEXIONS"
+    },
+    "269895": {
+        "country_code": "CO",
+        "asn": "269895",
+        "description": "WIRELESS COLOMBIA S.A.S.",
+        "handle": "WIRELESS-COLOMBIA"
+    },
+    "269900": {
+        "country_code": "CO",
+        "asn": "269900",
+        "description": "SISTEMAS AVANZADOS EN TELECOMUNICACIONES S.A.S",
+        "handle": "SISTEMAS-AVANZADOS-TELECOMUNICACIONES"
+    },
+    "269902": {
+        "country_code": "CO",
+        "asn": "269902",
+        "description": "INSTITUTO COLOMBIANO DE CREDITO EDUCATIVO Y ESTUDIOS TECNICOS EN EL EXTERIOR MARIANO OSPINA PEREZ ICETEX",
+        "handle": "INSTITUTO-COLOMBIANO-CREDITO"
+    },
+    "269904": {
+        "country_code": "CO",
+        "asn": "269904",
+        "description": "DEPARTAMENTO ADMINISTRATIVO DE LA PRESIDENCIA DE LA REPUBLICA",
+        "handle": "DEPARTAMENTO-ADMINISTRATIVO"
+    },
+    "269907": {
+        "country_code": "CO",
+        "asn": "269907",
+        "description": "SISTEMAS COMPUTARIZADOS DEL HUILA S.A.S.",
+        "handle": "SISTEMAS-COMPUTARIZADOS-HUILA"
+    },
+    "269937": {
+        "country_code": "CO",
+        "asn": "269937",
+        "description": "POSITIVA COMPA\u00d1IA DE SEGUROS S.A",
+        "handle": "POSITIVA-COMPANIA-SEGUROS"
+    },
+    "269942": {
+        "country_code": "CO",
+        "asn": "269942",
+        "description": "ASOCIACION COMUNITARIA TELEBOYACA",
+        "handle": "ASOCIACION-COMUNITARIA-TELEBOYACA"
+    },
+    "269954": {
+        "country_code": "CO",
+        "asn": "269954",
+        "description": "UNIDAD ADMINISTRATIVA ESPECIAL DIRECCI\u00d3N DE IMPUESTOS Y ADUANAS NACIONALES",
+        "handle": "UNIDAD-ADMINISTRATIVA-ESPECIAL"
+    },
+    "269966": {
+        "country_code": "CO",
+        "asn": "269966",
+        "description": "COMISI\u00d3N DE REGULACI\u00d3N DE COMUNICACIONES",
+        "handle": "COMISION-REGULACION-COMUNICACIONES"
+    },
+    "269971": {
+        "country_code": "CO",
+        "asn": "269971",
+        "description": "EQUINIX COLOMBIA INC. SUCURSAL COLOMBIA",
+        "handle": "EQUINIX-COLOMBIA"
+    },
+    "269972": {
+        "country_code": "CO",
+        "asn": "269972",
+        "description": "UNIVERSIDAD DEL QUIND\u00cdO",
+        "handle": "UNIVERSIDAD-QUINDIO"
+    },
+    "269977": {
+        "country_code": "CO",
+        "asn": "269977",
+        "description": "HOSPITAL MILITAR CENTRAL",
+        "handle": "HOSPITAL-MILITAR-CENTRAL"
+    },
+    "269980": {
+        "country_code": "CO",
+        "asn": "269980",
+        "description": "K.G.B. TELECOMUNICACIONES S.A.S",
+        "handle": "KGB-TELECOMUNICACIONES"
+    },
+    "269986": {
+        "country_code": "CO",
+        "asn": "269986",
+        "description": "SERVICIOS PROFESIONALES WICOM S.A.S.",
+        "handle": "SERVICIOS-PROFESIONALES-WICOM"
+    },
+    "269990": {
+        "country_code": "CO",
+        "asn": "269990",
+        "description": "INTERYA S.A.S",
+        "handle": "INTERYA"
+    },
+    "269991": {
+        "country_code": "CO",
+        "asn": "269991",
+        "description": "STRATEGIC TECHNOLOGICAL DE COLOMBIA SAS (STRATECSA)",
+        "handle": "STRATEGIC-TECHNOLOGICAL-COLOMBIA"
+    },
+    "269999": {
+        "country_code": "CO",
+        "asn": "269999",
+        "description": "UNIVERSIDAD MARIANA",
+        "handle": "UNIVERSIDAD-MARIANA"
+    },
+    "270003": {
+        "country_code": "CO",
+        "asn": "270003",
+        "description": "CALLTOPBX S.A.S. (VIVERCOM)",
+        "handle": "CALLTOPBX"
+    },
+    "270018": {
+        "country_code": "CO",
+        "asn": "270018",
+        "description": "LA PREVISORA S.A. COMPA\u00d1IA DE SEGUROS",
+        "handle": "LA-PREVISORA"
+    },
+    "270020": {
+        "country_code": "CO",
+        "asn": "270020",
+        "description": "T.V. SANV S A S (ALPAVISION HD)",
+        "handle": "TV-SANV-S-S"
+    },
+    "270028": {
+        "country_code": "CO",
+        "asn": "270028",
+        "description": "INSTITUTO NACIONAL DE CANCEROLOG\u00cdA - EMPRESA SOCIAL DEL ESTADO",
+        "handle": "INSTITUTO-NACIONAL-CANCEROLOGIA"
+    },
+    "270030": {
+        "country_code": "CO",
+        "asn": "270030",
+        "description": "DEPARTAMENTO ADMINISTRATIVO DEL DEPORTE LA RECREACION LA ACTIVIDAD FISICA Y EL APROVECHAMIENTO DEL TIEMPO LIBRE-COLDEPORTES",
+        "handle": "DEPARTAMENTO-ADMINISTRATIVO-DEPORTE"
+    },
+    "270031": {
+        "country_code": "CO",
+        "asn": "270031",
+        "description": "TELENET DIGITAL S.A.S",
+        "handle": "TELENET-DIGITAL"
+    },
+    "270035": {
+        "country_code": "CO",
+        "asn": "270035",
+        "description": "CELSIA INTERNET S.A.S.",
+        "handle": "CELSIA-INTERNET"
+    },
+    "270039": {
+        "country_code": "CO",
+        "asn": "270039",
+        "description": "PRILZ COLOMBIA S.A.S.",
+        "handle": "PRILZ-COLOMBIA"
+    },
+    "270046": {
+        "country_code": "CO",
+        "asn": "270046",
+        "description": "FEDERACION COLOMBIANA DE MUNICIPIOS",
+        "handle": "FEDERACION-COLOMBIANA-MUNICIPIOS"
+    },
+    "270051": {
+        "country_code": "CO",
+        "asn": "270051",
+        "description": "PLANET TELECOM COLOMBIA S.A.S",
+        "handle": "PLANET-TELECOM-COLOMBIA"
+    },
+    "270057": {
+        "country_code": "CO",
+        "asn": "270057",
+        "description": "DIRECTV COLOMBIA LTDA.",
+        "handle": "DIRECTV-COLOMBIA"
+    },
+    "270062": {
+        "country_code": "CO",
+        "asn": "270062",
+        "description": "FIBERNET TV SAS",
+        "handle": "FIBERNET-TV"
+    },
+    "270075": {
+        "country_code": "CO",
+        "asn": "270075",
+        "description": "SUPER REDES S.A.S",
+        "handle": "SUPER-REDES"
+    },
+    "270088": {
+        "country_code": "CO",
+        "asn": "270088",
+        "description": "GUAJIRANET ISP S.A.S.",
+        "handle": "GUAJIRANET-ISP"
+    },
+    "271773": {
+        "country_code": "CO",
+        "asn": "271773",
+        "description": "PARTNERS TELECOM COLOMBIA SAS",
+        "handle": "PARTNERS-TELECOM-COLOMBIA"
+    },
+    "271780": {
+        "country_code": "CO",
+        "asn": "271780",
+        "description": "RADIO TELEVISI\u00d3N NACIONAL DE COLOMBIA RTVC",
+        "handle": "RADIO-TELEVISION-NACIONAL"
+    },
+    "271786": {
+        "country_code": "CO",
+        "asn": "271786",
+        "description": "SERVICIO GEOLOGICO COLOMBIANO",
+        "handle": "SERVICIO-GEOLOGICO-COLOMBIANO"
+    },
+    "271789": {
+        "country_code": "CO",
+        "asn": "271789",
+        "description": "REGIONAL DE SERVICIOS DE TELECOMUNICACIONES ZOMAC S.A.S.",
+        "handle": "REGIONAL-SERVICIOS-TELECOMUNICACIONES"
+    },
+    "271792": {
+        "country_code": "CO",
+        "asn": "271792",
+        "description": "ONRED SOLUCIONES DE CONECTIVIDAD S.A.S.",
+        "handle": "ONRED-SOLUCIONES-CONECTIVIDAD"
+    },
+    "271802": {
+        "country_code": "CO",
+        "asn": "271802",
+        "description": "ASOCIACION CANAL LOCAL DE TELEVISION DE MEDELLIN TELEMEDELLIN",
+        "handle": "ASOCIACION-CANAL-LOCAL"
+    },
+    "271809": {
+        "country_code": "CO",
+        "asn": "271809",
+        "description": "IGLESIA CRISTIANA DE LOS TESTIGOS DE JEHOVA",
+        "handle": "IGLESIA-CRISTIANA-LOS"
+    },
+    "271818": {
+        "country_code": "CO",
+        "asn": "271818",
+        "description": "INSTITUTO NACIONAL DE SALUD",
+        "handle": "INSTITUTO-NACIONAL-SALUD"
+    },
+    "271820": {
+        "country_code": "CO",
+        "asn": "271820",
+        "description": "Empresa de Acueducto y Alcantarillado de Bogot\u00e1 - ESP",
+        "handle": "EMPRESA-ACUEDUCTO-ALCANTARILLADO"
+    },
+    "271824": {
+        "country_code": "CO",
+        "asn": "271824",
+        "description": "IPV6 Technology SAS",
+        "handle": "IPV6-TECHNOLOGY"
+    },
+    "271825": {
+        "country_code": "CO",
+        "asn": "271825",
+        "description": "BANCO AGRARIO DE COLOMBIA S.A.",
+        "handle": "BANCO-AGRARIO-COLOMBIA"
+    },
+    "271826": {
+        "country_code": "CO",
+        "asn": "271826",
+        "description": "UAE CONTADURIA GENERAL DE LA NACION",
+        "handle": "UAE-CONTADURIA-GENERAL"
+    },
+    "271827": {
+        "country_code": "CO",
+        "asn": "271827",
+        "description": "EMPRESA INDUSTRIAL Y COMERCIAL DEL ESTADO ADMINISTRADORA DEL MONOPOLIO RENTISTICO DE LOS JUEGOS DE SUERTE Y AZAR",
+        "handle": "EMPRESA-INDUSTRIAL-COMERCIAL"
+    },
+    "271828": {
+        "country_code": "CO",
+        "asn": "271828",
+        "description": "MUNICIPIO DE CHIA",
+        "handle": "MUNICIPIO-CHIA"
+    },
+    "271829": {
+        "country_code": "CO",
+        "asn": "271829",
+        "description": "ZUMA COMUNICACIONES DE COLOMBIA SAS",
+        "handle": "ZUMA-COMUNICACIONES-COLOMBIA"
+    },
+    "271830": {
+        "country_code": "CO",
+        "asn": "271830",
+        "description": "DEPARTAMENTO DE ANTIOQUIA",
+        "handle": "DEPARTAMENTO-ANTIOQUIA"
+    },
+    "271833": {
+        "country_code": "CO",
+        "asn": "271833",
+        "description": "MUNICIPIO DE MEDELLIN",
+        "handle": "MUNICIPIO-MEDELLIN"
+    },
+    "271844": {
+        "country_code": "CO",
+        "asn": "271844",
+        "description": "UNIDAD ADMINISTRATIVA ESPECIAL CUERPO OFICIAL DE BOMBEROS",
+        "handle": "UNIDAD-ADMINISTRATIVA-ESPECIAL"
+    },
+    "271845": {
+        "country_code": "CO",
+        "asn": "271845",
+        "description": "DEPARTAMENTO DEL META",
+        "handle": "DEPARTAMENTO-META"
+    },
+    "271850": {
+        "country_code": "CO",
+        "asn": "271850",
+        "description": "REGISTRADURIA NACIONAL DEL ESTADO CIVIL",
+        "handle": "REGISTRADURIA-NACIONAL-CIVIL"
+    },
+    "271851": {
+        "country_code": "CO",
+        "asn": "271851",
+        "description": "INTERREDES SOLUCIONES INTEGRALES SAS",
+        "handle": "INTERREDES-SOLUCIONES-INTEGRALES"
+    },
+    "271858": {
+        "country_code": "CO",
+        "asn": "271858",
+        "description": "U.A.E. INSTITUTO NACIONAL DE METROLOGIA - INM",
+        "handle": "UAE-INSTITUTO-NACIONAL"
+    },
+    "271859": {
+        "country_code": "CO",
+        "asn": "271859",
+        "description": "FONDO NACIONAL DEL AHORRO - CARLOS LLERAS RESTREPO",
+        "handle": "FONDO-NACIONAL-AHORRO"
+    },
+    "271870": {
+        "country_code": "CO",
+        "asn": "271870",
+        "description": "VALLE TELECOMUNICACIONES SAS",
+        "handle": "VALLE-TELECOMUNICACIONES"
+    },
+    "271877": {
+        "country_code": "CO",
+        "asn": "271877",
+        "description": "INSTITUTO NACIONAL DE FORMACION TECNICA PROFESIONAL DE SAN JUAN DEL CESAR",
+        "handle": "INSTITUTO-NACIONAL-FORMACION"
+    },
+    "271890": {
+        "country_code": "CO",
+        "asn": "271890",
+        "description": "HOSPITAL FEDERICO LLERAS ACOSTA DE IBAGUE TOLIMA - EMPRESA SOCIAL DEL ESTADO",
+        "handle": "HOSPITAL-FEDERICO-LLERAS"
+    },
+    "271901": {
+        "country_code": "CO",
+        "asn": "271901",
+        "description": "Secretaria Distrital del Habitat",
+        "handle": "SECRETARIA-DISTRITAL-HABITAT"
+    },
+    "271903": {
+        "country_code": "CO",
+        "asn": "271903",
+        "description": "TELNET ISP S.A.S.",
+        "handle": "TELNET-ISP"
+    },
+    "271905": {
+        "country_code": "CO",
+        "asn": "271905",
+        "description": "MUNICIPIO DE SOGAMOSO",
+        "handle": "MUNICIPIO-SOGAMOSO"
+    },
+    "271908": {
+        "country_code": "CO",
+        "asn": "271908",
+        "description": "BIG DATA S.A.S",
+        "handle": "BIG-DATA"
+    },
+    "271918": {
+        "country_code": "CO",
+        "asn": "271918",
+        "description": "CONCEJO DE MEDELL\u00cdN",
+        "handle": "CONCEJO-MEDELLIN"
+    },
+    "271924": {
+        "country_code": "CO",
+        "asn": "271924",
+        "description": "CELSIA INTERNET S.A.S.",
+        "handle": "CELSIA-INTERNET"
+    },
+    "271925": {
+        "country_code": "CO",
+        "asn": "271925",
+        "description": "INSTITUCION UNIVERSITARIA DE ENVIGADO",
+        "handle": "INSTITUCION-UNIVERSITARIA-ENVIGADO"
+    },
+    "271927": {
+        "country_code": "CO",
+        "asn": "271927",
+        "description": "IPCOM SISTEMAS S.A.S.",
+        "handle": "IPCOM-SISTEMAS"
+    },
+    "271947": {
+        "country_code": "CO",
+        "asn": "271947",
+        "description": "EXODO 20 FIBRA OPTICA S.A.S.",
+        "handle": "EXODO-20-FIBRA-OPTICA"
+    },
+    "271952": {
+        "country_code": "CO",
+        "asn": "271952",
+        "description": "UNICABLE H.D. SAS",
+        "handle": "UNICABLE-HD"
+    },
+    "271954": {
+        "country_code": "CO",
+        "asn": "271954",
+        "description": "UNIDAD DE SALUD DE IBAGUE USI - ESE",
+        "handle": "UNIDAD-SALUD-IBAGUE-USI-ESE"
+    },
+    "271957": {
+        "country_code": "CO",
+        "asn": "271957",
+        "description": "SOMOS NETWORKS COLOMBIA S.A.S. BIC",
+        "handle": "SOMOS-NETWORKS-COLOMBIA"
+    },
+    "271958": {
+        "country_code": "CO",
+        "asn": "271958",
+        "description": "UNIVERSIDAD DE CUNDINAMARCA",
+        "handle": "UNIVERSIDAD-CUNDINAMARCA"
+    },
+    "271963": {
+        "country_code": "CO",
+        "asn": "271963",
+        "description": "INSTITUTO COLOMBIANO AGROPECUARIO",
+        "handle": "INSTITUTO-COLOMBIANO-AGROPECUARIO"
+    },
+    "271964": {
+        "country_code": "CO",
+        "asn": "271964",
+        "description": "CENTRALES ELECTRICAS DE NARI\u00d1O S.A. E.S.P.",
+        "handle": "CENTRALES-ELECTRICAS-NARINO"
+    },
+    "271986": {
+        "country_code": "CO",
+        "asn": "271986",
+        "description": "AMO COMUNICACIONES S.A.S.",
+        "handle": "AMO-COMUNICACIONES"
+    },
+    "271992": {
+        "country_code": "CO",
+        "asn": "271992",
+        "description": "ANTIOQUE\u00d1A DE TELECOMUNICACIONES S.A.S.",
+        "handle": "ANTIOQUENA-TELECOMUNICACIONES"
+    },
+    "271995": {
+        "country_code": "CO",
+        "asn": "271995",
+        "description": "DEPARTAMENTO DE CUNDINAMARCA",
+        "handle": "DEPARTAMENTO-CUNDINAMARCA"
+    },
+    "271998": {
+        "country_code": "CO",
+        "asn": "271998",
+        "description": "COLWIFI S.A.S.",
+        "handle": "COLWIFI"
+    },
+    "272003": {
+        "country_code": "CO",
+        "asn": "272003",
+        "description": "CONEXION FIBRA S.A.S",
+        "handle": "CONEXION-FIBRA"
+    },
+    "272007": {
+        "country_code": "CO",
+        "asn": "272007",
+        "description": "PONTIFICIA UNIVERSIDAD JAVERIANA",
+        "handle": "PONTIFICIA-UNIVERSIDAD-JAVERIANA"
+    },
+    "272020": {
+        "country_code": "CO",
+        "asn": "272020",
+        "description": "PEOPLE CONTACT S.A.S.",
+        "handle": "PEOPLE-CONTACT"
+    },
+    "272024": {
+        "country_code": "CO",
+        "asn": "272024",
+        "description": "EVERNET SAS",
+        "handle": "EVERNET"
+    },
+    "272043": {
+        "country_code": "CO",
+        "asn": "272043",
+        "description": "OSNET SAS",
+        "handle": "OSNET"
+    },
+    "272044": {
+        "country_code": "CO",
+        "asn": "272044",
+        "description": "COLOMBIA TELECONET SAS",
+        "handle": "COLOMBIA-TELECONET"
+    },
+    "272047": {
+        "country_code": "CO",
+        "asn": "272047",
+        "description": "INSTITUTO NACIONAL PENITENCIARIO Y CARCELARIO - INPEC",
+        "handle": "INSTITUTO-NACIONAL-PENITENCIARIO"
+    },
+    "272049": {
+        "country_code": "CO",
+        "asn": "272049",
+        "description": "INSTITUTO DE INVESTIGACIONES MARINAS Y COSTERAS JOSE BENITO VIVES DE ANDREIS. INVEMAR",
+        "handle": "INSTITUTO-INVESTIGACIONES-MARINAS"
+    },
+    "272051": {
+        "country_code": "CO",
+        "asn": "272051",
+        "description": "POLINET TELECOMUNICACIONES COLOMBIA SAS",
+        "handle": "POLINET-TELECOMUNICACIONES-COLOMBIA"
+    },
+    "272058": {
+        "country_code": "CO",
+        "asn": "272058",
+        "description": "VIVO TELECOMUNICACIONES S.A.S.",
+        "handle": "VIVO-TELECOMUNICACIONES"
+    },
+    "272060": {
+        "country_code": "CO",
+        "asn": "272060",
+        "description": "FERMAC TELECOMUNICACIONES S.A.S",
+        "handle": "FERMAC-TELECOMUNICACIONES"
+    },
+    "272071": {
+        "country_code": "CO",
+        "asn": "272071",
+        "description": "CENIT TRANSPORTE Y LOG\u00cdSTICA DE HIDROCARBUROS S.A.S.",
+        "handle": "CENIT-TRANSPORTE-LOGISTICA"
+    },
+    "272072": {
+        "country_code": "CO",
+        "asn": "272072",
+        "description": "CONECTAMOS SOLUCIONES S.A.S.",
+        "handle": "CONECTAMOS-SOLUCIONES"
+    },
+    "272076": {
+        "country_code": "CO",
+        "asn": "272076",
+        "description": "FIBRA100 S.A.S.",
+        "handle": "FIBRA100"
+    },
+    "272079": {
+        "country_code": "CO",
+        "asn": "272079",
+        "description": "INSTITUTO NACIONAL DE MEDICINA LEGAL Y CIENCIAS FORENSES",
+        "handle": "INSTITUTO-NACIONAL-MEDICINA"
+    },
+    "272084": {
+        "country_code": "CO",
+        "asn": "272084",
+        "description": "EMPRESA AGUAS DE FACATATIVA ACUEDUCTO ALCANTARILLADO ASEO Y SERVICIOS COMPLEMENTARIOS E.A.F. S.A.S. E.S.P.",
+        "handle": "EMPRESA-AGUAS-FACATATIVA"
+    },
+    "272086": {
+        "country_code": "CO",
+        "asn": "272086",
+        "description": "CENTRAL DE SERVICIOS DIGITALES S.A.S.",
+        "handle": "CENTRAL-SERVICIOS-DIGITALES"
+    },
+    "272087": {
+        "country_code": "CO",
+        "asn": "272087",
+        "description": "INSTITUTO DE FINANCIAMIENTO PROMOCION Y DESARROLLO DE MANIZALES",
+        "handle": "INSTITUTO-FINANCIAMIENTO-PROMOCION"
+    },
+    "272088": {
+        "country_code": "CO",
+        "asn": "272088",
+        "description": "AGUAS DE MANIZALES S.A. E.S.P.",
+        "handle": "AGUAS-MANIZALES"
+    },
+    "272093": {
+        "country_code": "CO",
+        "asn": "272093",
+        "description": "C & C VISION S.A.S",
+        "handle": "C-C-VISION"
+    },
+    "272098": {
+        "country_code": "CO",
+        "asn": "272098",
+        "description": "FONDO ADAPTACION",
+        "handle": "FONDO-ADAPTACION"
+    },
+    "272103": {
+        "country_code": "CO",
+        "asn": "272103",
+        "description": "DELOITTE & TOUCHE LTDA",
+        "handle": "DELOITTE-TOUCHE"
+    },
+    "272115": {
+        "country_code": "CO",
+        "asn": "272115",
+        "description": "MINISTERIO DE HACIENDA Y CREDITO PUBLICO",
+        "handle": "MINISTERIO-HACIENDA-CREDITO"
+    },
+    "272125": {
+        "country_code": "CO",
+        "asn": "272125",
+        "description": "SERVICIOS EN COMUNICACIONES Y REDES S.A.S.",
+        "handle": "SERVICIOS-COMUNICACIONES-REDES"
+    },
+    "272129": {
+        "country_code": "CO",
+        "asn": "272129",
+        "description": "INTTEL GO SAS",
+        "handle": "INTTEL-GO"
+    },
+    "272135": {
+        "country_code": "CO",
+        "asn": "272135",
+        "description": "Plintron Colombia SAS",
+        "handle": "PLINTRON-COLOMBIA"
+    },
+    "272137": {
+        "country_code": "CO",
+        "asn": "272137",
+        "description": "CONEXION COMERCIALIZACION DE SERVICIOS DE TELECOMUNICACIONES EMPALMERIA Y CONSTRUCCION DE REDES HFC DEL SUR COLOMBIA SAS",
+        "handle": "CONEXION-COMERCIALIZACION-SERVICIOS"
+    },
+    "272139": {
+        "country_code": "CO",
+        "asn": "272139",
+        "description": "@ DIGITAL GROUP S.A.S.",
+        "handle": "DIGITAL-GROUP"
+    },
+    "272146": {
+        "country_code": "CO",
+        "asn": "272146",
+        "description": "GEDCOM S.A.S",
+        "handle": "GEDCOM"
+    },
+    "272153": {
+        "country_code": "CO",
+        "asn": "272153",
+        "description": "CORPORACION DE CIENCIA Y TECNOLOGIA PARA EL DESARROLLO DE LA INDUSTRIA NAVAL MARITIMA Y FLUVIAL. COTECMAR",
+        "handle": "CORPORACION-CIENCIA-TECNOLOGIA"
+    },
+    "272156": {
+        "country_code": "CO",
+        "asn": "272156",
+        "description": "WEB MASTER COLOMBIA SAS",
+        "handle": "WEB-MASTER-COLOMBIA"
+    },
+    "272806": {
+        "country_code": "CO",
+        "asn": "272806",
+        "description": "PIT COLOMBIA SAS",
+        "handle": "PIT-COLOMBIA"
+    },
+    "272812": {
+        "country_code": "CO",
+        "asn": "272812",
+        "description": "FASTNET COMUNICACIONES ISP SAS",
+        "handle": "FASTNET-COMUNICACIONES-ISP"
+    },
+    "272828": {
+        "country_code": "CO",
+        "asn": "272828",
+        "description": "TPE COMUNICACIONES COLOMBIA S.A.S.",
+        "handle": "TPE-COMUNICACIONES-COLOMBIA"
+    },
+    "272829": {
+        "country_code": "CO",
+        "asn": "272829",
+        "description": "TASKUS COLOMBIA SAS",
+        "handle": "TASKUS-COLOMBIA"
+    },
+    "272835": {
+        "country_code": "CO",
+        "asn": "272835",
+        "description": "EMPRESA DE OBRAS SANITARIAS DE CALDAS S.A. EMPRESA DE SERVICIOS PUBLICOS PUDIENDO EMPLEAR LA EXPRESION ABREVIADA EMPOCALDAS S.A E.S.P.",
+        "handle": "EMPRESA-OBRAS-SANITARIAS"
+    },
+    "272837": {
+        "country_code": "CO",
+        "asn": "272837",
+        "description": "NOVATEL COMUNICACIONES ISP ESP S.A.S.",
+        "handle": "NOVATEL-COMUNICACIONES-ISP"
+    },
+    "272842": {
+        "country_code": "CO",
+        "asn": "272842",
+        "description": "MUNICIPIO DE BUGA",
+        "handle": "MUNICIPIO-BUGA"
+    },
+    "272847": {
+        "country_code": "CO",
+        "asn": "272847",
+        "description": "COMPUREDES PLANETA SAS",
+        "handle": "COMPUREDES-PLANETA"
+    },
+    "272849": {
+        "country_code": "CO",
+        "asn": "272849",
+        "description": "EMPRESA SOCIAL DEL ESTADO HOSPITAL UNIVERSITARIO HERNANDO MONCALEANO PERDOMO",
+        "handle": "EMPRESA-SOCIAL-HOSPITAL"
+    },
+    "272851": {
+        "country_code": "CO",
+        "asn": "272851",
+        "description": "GIGA FIBRA SAS",
+        "handle": "GIGA-FIBRA"
+    },
+    "272859": {
+        "country_code": "CO",
+        "asn": "272859",
+        "description": "WAYIRA NET S.A.S.",
+        "handle": "WAYIRA-NET"
+    },
+    "272861": {
+        "country_code": "CO",
+        "asn": "272861",
+        "description": "FINANCIERA DE DESARROLLO NACIONAL S.A.",
+        "handle": "FINANCIERA-DESARROLLO-NACIONAL"
+    },
+    "272869": {
+        "country_code": "CO",
+        "asn": "272869",
+        "description": "INTERCOMM DE NARI\u00d1O SAS",
+        "handle": "INTERCOMM-NARINO"
+    },
+    "272875": {
+        "country_code": "CO",
+        "asn": "272875",
+        "description": "COMUNICAMOS + TELECOMUNICACIONES SAS",
+        "handle": "COMUNICAMOS-+-TELECOMUNICACIONES"
+    },
+    "272881": {
+        "country_code": "CO",
+        "asn": "272881",
+        "description": "GLOBAL NET TV ZOMAC S.A.S",
+        "handle": "GLOBAL-NET-TV-ZOMAC"
+    },
+    "272884": {
+        "country_code": "CO",
+        "asn": "272884",
+        "description": "LEOWISP SAS",
+        "handle": "LEOWISP"
+    },
+    "272896": {
+        "country_code": "CO",
+        "asn": "272896",
+        "description": "COMSSET COMUNICACIONES SAS",
+        "handle": "COMSSET-COMUNICACIONES"
+    },
+    "272904": {
+        "country_code": "CO",
+        "asn": "272904",
+        "description": "ENVIASEO ESP",
+        "handle": "ENVIASEO"
+    },
+    "272909": {
+        "country_code": "CO",
+        "asn": "272909",
+        "description": "MUNICIPIO DE RIONEGRO ANTIOQUIA",
+        "handle": "MUNICIPIO-RIONEGRO-ANTIOQUIA"
+    },
+    "272917": {
+        "country_code": "CO",
+        "asn": "272917",
+        "description": "SECRETAR\u00cdA DE EDUCACI\u00d3N DEL DISTRITO",
+        "handle": "SECRETARIA-EDUCACION-DISTRITO"
+    },
+    "272918": {
+        "country_code": "CO",
+        "asn": "272918",
+        "description": "MUNICIPIO DE CAJICA",
+        "handle": "MUNICIPIO-CAJICA"
+    },
+    "272919": {
+        "country_code": "CO",
+        "asn": "272919",
+        "description": "AGENCIA DE RENOVACION DEL TERRITORIO - ART",
+        "handle": "AGENCIA-RENOVACION-TERRITORIO"
+    },
+    "272920": {
+        "country_code": "CO",
+        "asn": "272920",
+        "description": "UNIDAD ADMINISTRATIVA ESPECIAL DE AERONAUTICA CIVIL",
+        "handle": "UNIDAD-ADMINISTRATIVA-ESPECIAL"
+    },
+    "272926": {
+        "country_code": "CO",
+        "asn": "272926",
+        "description": "RYO COMUNICACIONES S.A.S",
+        "handle": "RYO-COMUNICACIONES"
+    },
+    "272929": {
+        "country_code": "CO",
+        "asn": "272929",
+        "description": "SINURED SOLUCIONES SAS",
+        "handle": "SINURED-SOLUCIONES"
+    },
+    "272930": {
+        "country_code": "CO",
+        "asn": "272930",
+        "description": "INTERCOL WISP S.A.S.",
+        "handle": "INTERCOL-WISP"
+    },
+    "272932": {
+        "country_code": "CO",
+        "asn": "272932",
+        "description": "WISP TELECOMUNICACIONES S.A.S.",
+        "handle": "WISP-TELECOMUNICACIONES"
+    },
+    "272934": {
+        "country_code": "CO",
+        "asn": "272934",
+        "description": "DISTRITO TURISTICO Y CULTURAL DE CARTAGENA DE INDIAS",
+        "handle": "DISTRITO-TURISTICO-CULTURAL"
+    },
+    "272937": {
+        "country_code": "CO",
+        "asn": "272937",
+        "description": "TUNORTETV TELECOMUNICACIONES S.A.S.",
+        "handle": "TUNORTETV-TELECOMUNICACIONES"
+    },
+    "272938": {
+        "country_code": "CO",
+        "asn": "272938",
+        "description": "AREA METROPOLITANA DEL VALLE DE ABURRA",
+        "handle": "AREA-METROPOLITANA-VALLE"
+    },
+    "272942": {
+        "country_code": "CO",
+        "asn": "272942",
+        "description": "GLOBAL RAICES S.A.S",
+        "handle": "GLOBAL-RAICES"
+    },
+    "272944": {
+        "country_code": "CO",
+        "asn": "272944",
+        "description": "DEPARTAMENTO DE RISARALDA",
+        "handle": "DEPARTAMENTO-RISARALDA"
+    },
+    "272949": {
+        "country_code": "CO",
+        "asn": "272949",
+        "description": "SOCIEDAD DE ACUEDUCTOS Y ALCANTARILLADOS DEL VALLE DEL CAUCA S.A. E.S.P. ACUAVALLE S.A. E.S.P.",
+        "handle": "SOCIEDAD-ACUEDUCTOS-ALCANTARILLADOS"
+    },
+    "272950": {
+        "country_code": "CO",
+        "asn": "272950",
+        "description": "EMPRESA PRESTADORA DE SERVICIOS DE INTERNET Y TELEVISION SUR DE BOLIVAR S.A.S. (GIGACABLE SAS)",
+        "handle": "EMPRESA-PRESTADORA-SERVICIOS"
+    },
+    "272952": {
+        "country_code": "CO",
+        "asn": "272952",
+        "description": "INSTITUTO TECNOLOGICO METROPOLITANO",
+        "handle": "INSTITUTO-TECNOLOGICO-METROPOLITANO"
+    },
+    "272953": {
+        "country_code": "CO",
+        "asn": "272953",
+        "description": "HS NETWORKS SAS",
+        "handle": "HS-NETWORKS"
+    },
+    "272956": {
+        "country_code": "CO",
+        "asn": "272956",
+        "description": "ESG COMUNICACIONES S.A.S",
+        "handle": "ESG-COMUNICACIONES"
+    },
+    "272958": {
+        "country_code": "CO",
+        "asn": "272958",
+        "description": "INVERSIONES ZULUAGA SEJIN S.A.S.",
+        "handle": "INVERSIONES-ZULUAGA-SEJIN"
+    },
+    "272963": {
+        "country_code": "CO",
+        "asn": "272963",
+        "description": "TEUTONIC HOLDINGS LLC SUCURSAL COLOMBIA",
+        "handle": "TEUTONIC-HOLDINGS-LLC"
+    },
+    "272977": {
+        "country_code": "CO",
+        "asn": "272977",
+        "description": "GLOBALTRONIK SAS",
+        "handle": "GLOBALTRONIK"
+    },
+    "272978": {
+        "country_code": "CO",
+        "asn": "272978",
+        "description": "ORINOCO VENTURES GROUP SAS",
+        "handle": "ORINOCO-VENTURES-GROUP"
+    },
+    "272983": {
+        "country_code": "CO",
+        "asn": "272983",
+        "description": "CANAL CAPITAL",
+        "handle": "CANAL-CAPITAL"
+    },
+    "272986": {
+        "country_code": "CO",
+        "asn": "272986",
+        "description": "MEGARED DE COLOMBIA S.A.S.",
+        "handle": "MEGARED-COLOMBIA"
+    },
+    "272987": {
+        "country_code": "CO",
+        "asn": "272987",
+        "description": "CABLE CAUCA COMUNICACIONES S.A.S.",
+        "handle": "CABLE-CAUCA-COMUNICACIONES"
+    },
+    "272988": {
+        "country_code": "CO",
+        "asn": "272988",
+        "description": "Hydra Soluciones Empresariales Ingenier\u00eda SAS",
+        "handle": "HYDRA-SOLUCIONES-EMPRESARIALES"
+    },
+    "272989": {
+        "country_code": "CO",
+        "asn": "272989",
+        "description": "CAMARA COLOMBIANA DE INFORMATICA Y TELECOMUNICACIONES CCIT",
+        "handle": "CAMARA-COLOMBIANA-INFORMATICA"
+    },
+    "272990": {
+        "country_code": "CO",
+        "asn": "272990",
+        "description": "AYSATEC TELECOMUNICACIONES S.A.S.",
+        "handle": "AYSATEC-TELECOMUNICACIONES"
+    },
+    "272992": {
+        "country_code": "CO",
+        "asn": "272992",
+        "description": "CABLE & TV YOPAL S.A.S (INTERNET INAL\u00c1MBRICO)",
+        "handle": "CABLE-TV-YOPAL"
+    },
+    "272995": {
+        "country_code": "CO",
+        "asn": "272995",
+        "description": "M&M INVERSIONES MORENO SAS",
+        "handle": "M-M-INVERSIONES-MORENO"
+    },
+    "273001": {
+        "country_code": "CO",
+        "asn": "273001",
+        "description": "TELECOMUNICACIONES DEL CATATUMBO S.A.S",
+        "handle": "TELECOMUNICACIONES-CATATUMBO"
+    },
+    "273006": {
+        "country_code": "CO",
+        "asn": "273006",
+        "description": "INTERNET Y TELECOMUNICACIONES DE COLOMBIA S.A.S.",
+        "handle": "INTERNET-TELECOMUNICACIONES-COLOMBIA"
+    },
+    "273008": {
+        "country_code": "CO",
+        "asn": "273008",
+        "description": "RENTIC S.A.S.",
+        "handle": "RENTIC"
+    },
+    "273013": {
+        "country_code": "CO",
+        "asn": "273013",
+        "description": "BLUE TELECOMUNICACIONES SAS",
+        "handle": "BLUE-TELECOMUNICACIONES"
+    },
+    "273015": {
+        "country_code": "CO",
+        "asn": "273015",
+        "description": "CHILCO NET S.A.S",
+        "handle": "CHILCO-NET"
+    },
+    "273020": {
+        "country_code": "CO",
+        "asn": "273020",
+        "description": "IN QUALITY TELECOMUNICATIONS S.A.S. ZOMAC BIC",
+        "handle": "IN-QUALITY-TELECOMUNICATIONS"
+    },
+    "273022": {
+        "country_code": "CO",
+        "asn": "273022",
+        "description": "BARAK TECNOLOG\u00cdA INFORMACI\u00d3N Y COMUNICACIONES SAS",
+        "handle": "BARAK-TECNOLOGIA-INFORMACION"
+    },
+    "273027": {
+        "country_code": "CO",
+        "asn": "273027",
+        "description": "UNIVERSIDAD DE ANTIOQUIA",
+        "handle": "UNIVERSIDAD-ANTIOQUIA"
+    },
+    "273030": {
+        "country_code": "CO",
+        "asn": "273030",
+        "description": "MUNICIPIO DE MOSQUERA",
+        "handle": "MUNICIPIO-MOSQUERA"
+    },
+    "273031": {
+        "country_code": "CO",
+        "asn": "273031",
+        "description": "EFECTIVO LIMITADA",
+        "handle": "EFECTIVO-LIMITADA"
+    },
+    "273038": {
+        "country_code": "CO",
+        "asn": "273038",
+        "description": "FIDUCIARIA CENTRAL S.A.",
+        "handle": "FIDUCIARIA-CENTRAL"
+    },
+    "273042": {
+        "country_code": "CO",
+        "asn": "273042",
+        "description": "HUILA INVESTMENT GROUP SAS",
+        "handle": "HUILA-INVESTMENT-GROUP"
+    },
+    "273049": {
+        "country_code": "CO",
+        "asn": "273049",
+        "description": "FIBRARED PLUS TELECOMUNICACIONES S.A.S.",
+        "handle": "FIBRARED-PLUS-TELECOMUNICACIONES"
+    },
+    "273055": {
+        "country_code": "CO",
+        "asn": "273055",
+        "description": "INSTITUTO DE FINANCIAMIENTO PROMOCION Y DESARROLLO DE CALDAS",
+        "handle": "INSTITUTO-FINANCIAMIENTO-PROMOCION"
+    },
+    "273057": {
+        "country_code": "CO",
+        "asn": "273057",
+        "description": "REDETEK SAS",
+        "handle": "REDETEK"
+    },
+    "273059": {
+        "country_code": "CO",
+        "asn": "273059",
+        "description": "MUNICIPIO DE GUACHETA",
+        "handle": "MUNICIPIO-GUACHETA"
+    },
+    "273062": {
+        "country_code": "CO",
+        "asn": "273062",
+        "description": "EMPRESA DE SERVICIOS PUBLICOS DE SABANETA E.S.P.",
+        "handle": "EMPRESA-SERVICIOS-PUBLICOS"
+    },
+    "273064": {
+        "country_code": "CO",
+        "asn": "273064",
+        "description": "CIRCULO DE SUBOFICIALES DE LAS FUERZAS MILITARES",
+        "handle": "CIRCULO-SUBOFICIALES-LAS"
+    },
+    "273071": {
+        "country_code": "CO",
+        "asn": "273071",
+        "description": "INTEGRADOS S&S.NET SAS",
+        "handle": "INTEGRADOS-S-SNET"
+    },
+    "273074": {
+        "country_code": "CO",
+        "asn": "273074",
+        "description": "BUHO NETWORK S.A.S",
+        "handle": "BUHO-NETWORK"
+    },
+    "273075": {
+        "country_code": "CO",
+        "asn": "273075",
+        "description": "BITEM COMUNICACIONES S.A.S.",
+        "handle": "BITEM-COMUNICACIONES"
+    },
+    "273078": {
+        "country_code": "CO",
+        "asn": "273078",
+        "description": "SERVINET COMUNICACIONES S.A.S.",
+        "handle": "SERVINET-COMUNICACIONES"
+    },
+    "273080": {
+        "country_code": "CO",
+        "asn": "273080",
+        "description": "AULAS DIGITALES DE COLOMBIA SAS",
+        "handle": "AULAS-DIGITALES-COLOMBIA"
+    },
+    "273082": {
+        "country_code": "CO",
+        "asn": "273082",
+        "description": "COMERCIALIZADORA ENTRETENIMIENTO Y COMUNICACIONES S.A.S.",
+        "handle": "COMERCIALIZADORA-ENTRETENIMIENTO-COMUNICACIONES"
+    },
+    "273083": {
+        "country_code": "CO",
+        "asn": "273083",
+        "description": "SECRETAR\u00cdA DISTRITAL DE CULTURA RECREACI\u00d3N Y DEPORTE",
+        "handle": "SECRETARIA-DISTRITAL-CULTURA"
+    },
+    "273085": {
+        "country_code": "CO",
+        "asn": "273085",
+        "description": "VESGA TELECOMUNICACIONES S.A.S",
+        "handle": "VESGA-TELECOMUNICACIONES"
+    },
+    "273092": {
+        "country_code": "CO",
+        "asn": "273092",
+        "description": "AROS COMUNICACIONES SAS",
+        "handle": "AROS-COMUNICACIONES"
+    },
+    "273094": {
+        "country_code": "CO",
+        "asn": "273094",
+        "description": "TICSCOM SAS",
+        "handle": "TICSCOM"
+    },
+    "273099": {
+        "country_code": "CO",
+        "asn": "273099",
+        "description": "LINAGE COMUNICACIONES SAS",
+        "handle": "LINAGE-COMUNICACIONES"
+    },
+    "273102": {
+        "country_code": "CO",
+        "asn": "273102",
+        "description": "REDNET GROUP SAS",
+        "handle": "REDNET-GROUP"
+    },
+    "273103": {
+        "country_code": "CO",
+        "asn": "273103",
+        "description": "TV&M\u00c1S S.A.S",
+        "handle": "TV-MAS"
+    },
+    "273106": {
+        "country_code": "CO",
+        "asn": "273106",
+        "description": "CORPORACION CCM TELEVISI\u00d3N",
+        "handle": "CORPORACION-CCM-TELEVISION"
+    },
+    "273109": {
+        "country_code": "CO",
+        "asn": "273109",
+        "description": "CORPORACION AUTONOMA REGIONAL DEL RIO GRANDE DE LA MAGDALENA",
+        "handle": "CORPORACION-AUTONOMA-REGIONAL"
+    },
+    "273114": {
+        "country_code": "CO",
+        "asn": "273114",
+        "description": "PROMOTORA DE TELEVISION INTERNET Y COMUNICACIONES S.A.S",
+        "handle": "PROMOTORA-TELEVISION-INTERNET"
+    },
+    "273119": {
+        "country_code": "CO",
+        "asn": "273119",
+        "description": "INSTITUTO DE VALORIZACION DE MANIZALES INVAMA",
+        "handle": "INSTITUTO-VALORIZACION-MANIZALES"
+    },
+    "273120": {
+        "country_code": "CO",
+        "asn": "273120",
+        "description": "TECNOLOG\u00cdA INFORMACI\u00d3N Y COMUNICACIONES DE COLOMBIA SAS (TICCOL)",
+        "handle": "TECNOLOGIA-INFORMACION-COMUNICACIONES"
+    },
+    "273122": {
+        "country_code": "CO",
+        "asn": "273122",
+        "description": "ISA NETWORKS I.S.P S.A.S",
+        "handle": "ISA-NETWORKS-ISP"
+    },
+    "273124": {
+        "country_code": "CO",
+        "asn": "273124",
+        "description": "UHF COMUNICACIONES SAS",
+        "handle": "UHF-COMUNICACIONES"
+    },
+    "273128": {
+        "country_code": "CO",
+        "asn": "273128",
+        "description": "CORPORACI\u00d3N CAPSOS TELECOMUNICACIONES",
+        "handle": "CORPORACION-CAPSOS-TELECOMUNICACIONES"
+    },
+    "273131": {
+        "country_code": "CO",
+        "asn": "273131",
+        "description": "NETSLINK SAS",
+        "handle": "NETSLINK"
+    },
+    "273132": {
+        "country_code": "CO",
+        "asn": "273132",
+        "description": "VALLE ISP S.A.S.",
+        "handle": "VALLE-ISP"
+    },
+    "273134": {
+        "country_code": "CO",
+        "asn": "273134",
+        "description": "HOLA TELECOMUNICACINES COLOMBIA S.A.S",
+        "handle": "HOLA-TELECOMUNICACINES-COLOMBIA"
+    },
+    "273136": {
+        "country_code": "CO",
+        "asn": "273136",
+        "description": "GLOBAL FIBER DE COLOMBIA S.A.S",
+        "handle": "GLOBAL-FIBER-COLOMBIA"
+    },
+    "273138": {
+        "country_code": "CO",
+        "asn": "273138",
+        "description": "FIBRANETPLUS S.A.S.",
+        "handle": "FIBRANETPLUS"
+    },
+    "273145": {
+        "country_code": "CO",
+        "asn": "273145",
+        "description": "GRUPO SERVINET S.A.S.",
+        "handle": "GRUPO-SERVINET"
+    },
+    "273153": {
+        "country_code": "CO",
+        "asn": "273153",
+        "description": "CONSURED S.A.S.",
+        "handle": "CONSURED"
+    },
+    "273159": {
+        "country_code": "CO",
+        "asn": "273159",
+        "description": "GROUP TELECOMUNICACIONES P&C S.A.S",
+        "handle": "GROUP-TELECOMUNICACIONES-P"
+    },
+    "273166": {
+        "country_code": "CO",
+        "asn": "273166",
+        "description": "GIGANAV CONNECTIONS SAS",
+        "handle": "GIGANAV-CONNECTIONS"
+    },
+    "273168": {
+        "country_code": "CO",
+        "asn": "273168",
+        "description": "INFRAESTRUCTURA Y REDES SAS",
+        "handle": "INFRAESTRUCTURA-REDES"
+    },
+    "273172": {
+        "country_code": "CO",
+        "asn": "273172",
+        "description": "INTERCARIBE TV S.A.S.",
+        "handle": "INTERCARIBE-TV"
+    },
+    "273174": {
+        "country_code": "CO",
+        "asn": "273174",
+        "description": "NOVACOM TIC S.A.S",
+        "handle": "NOVACOM-TIC"
+    },
+    "273176": {
+        "country_code": "CO",
+        "asn": "273176",
+        "description": "HOLA WE DIGITAL S.A.S.",
+        "handle": "HOLA-WE-DIGITAL"
+    },
+    "273183": {
+        "country_code": "CO",
+        "asn": "273183",
+        "description": "INTERPLUS TELECOMUNICACIONES SAS",
+        "handle": "INTERPLUS-TELECOMUNICACIONES"
+    },
+    "273187": {
+        "country_code": "CO",
+        "asn": "273187",
+        "description": "FIESTA TELECOMUNICACIONES SAS",
+        "handle": "FIESTA-TELECOMUNICACIONES"
+    },
+    "273188": {
+        "country_code": "CO",
+        "asn": "273188",
+        "description": "SYSTEMS AND COMMUNICATIONS S.A.S.",
+        "handle": "SYSTEMS-AND-COMMUNICATIONS"
+    },
+    "273191": {
+        "country_code": "CO",
+        "asn": "273191",
+        "description": "Geanet SAS",
+        "handle": "GEANET"
+    },
+    "273194": {
+        "country_code": "CO",
+        "asn": "273194",
+        "description": "FAOBA DC S A S",
+        "handle": "FAOBA-DC-S-S"
+    },
+    "273202": {
+        "country_code": "CO",
+        "asn": "273202",
+        "description": "ZONALIBRE INGENIERIA S.A.S.",
+        "handle": "ZONALIBRE-INGENIERIA"
+    },
+    "273204": {
+        "country_code": "CO",
+        "asn": "273204",
+        "description": "WIKI NETWORKS SAS",
+        "handle": "COLOMBIA-MAS-TV"
+    },
+    "273212": {
+        "country_code": "CO",
+        "asn": "273212",
+        "description": "SISTEMAS TELECOMUNICACIONES Y BIOMEDICOS DE COLOMBIA SAS",
+        "handle": "SISTEMAS-TELECOMUNICACIONES-BIOMEDICOS"
+    },
+    "273218": {
+        "country_code": "CO",
+        "asn": "273218",
+        "description": "INTEGRA TIC SOLUCIONES S.A.S.",
+        "handle": "INTEGRA-TIC-SOLUCIONES"
+    },
+    "273221": {
+        "country_code": "CO",
+        "asn": "273221",
+        "description": "FIBRAZO S.A.S.",
+        "handle": "FIBRAZO"
+    },
+    "273226": {
+        "country_code": "CO",
+        "asn": "273226",
+        "description": "SUPERCABLE TELECOMUNICACIONES S.A.S",
+        "handle": "SUPERCABLE-TELECOMUNICACIONES"
+    },
+    "273234": {
+        "country_code": "CO",
+        "asn": "273234",
+        "description": "ACCESS DIGITAL SAS",
+        "handle": "ACCESS-DIGITAL"
+    },
+    "273238": {
+        "country_code": "CO",
+        "asn": "273238",
+        "description": "CABLE EXITO S.A.S.",
+        "handle": "CABLE-EXITO"
+    },
+    "273244": {
+        "country_code": "CO",
+        "asn": "273244",
+        "description": "EXPERTOS EN TECNOLOGIA Y TELECOMUNICACIONES S.A.S",
+        "handle": "EXPERTOS-TECNOLOGIA-TELECOMUNICACIONES"
+    },
+    "273821": {
+        "country_code": "CO",
+        "asn": "273821",
+        "description": "TOTAL BAND COMUNICACIONES SAS",
+        "handle": "TOTAL-BAND-COMUNICACIONES"
+    },
+    "273823": {
+        "country_code": "CO",
+        "asn": "273823",
+        "description": "EMPRESA DE TRANSPORTE MASIVO DEL VALLE DE ABURRA LTDA",
+        "handle": "EMPRESA-TRANSPORTE-MASIVO"
+    },
+    "273825": {
+        "country_code": "CO",
+        "asn": "273825",
+        "description": "REDES TV SAT S.A.S",
+        "handle": "REDES-TV-SAT"
+    },
+    "273829": {
+        "country_code": "CO",
+        "asn": "273829",
+        "description": "VISION SATELITAL COMUNICACIONES S.A.S.",
+        "handle": "VISION-SATELITAL-COMUNICACIONES"
+    },
+    "273845": {
+        "country_code": "CO",
+        "asn": "273845",
+        "description": "SOLINGWEB.NET S.A.S. E.S.P.",
+        "handle": "SOLINGWEBNET"
+    },
+    "273849": {
+        "country_code": "CO",
+        "asn": "273849",
+        "description": "SIMPLE COMUNICACIONES S.A.S.",
+        "handle": "SIMPLE-COMUNICACIONES"
+    },
+    "273850": {
+        "country_code": "CO",
+        "asn": "273850",
+        "description": "SERVICIOS DE TELECOMUNICACIONES E INFORMATICA S.A.S.",
+        "handle": "SERVICIOS-TELECOMUNICACIONES-INFORMATICA"
+    },
+    "273852": {
+        "country_code": "CO",
+        "asn": "273852",
+        "description": "ADMINISTRADORA COLOMBIANA DE PENSIONES COLPENSIONES",
+        "handle": "ADMINISTRADORA-COLOMBIANA-PENSIONES"
+    },
+    "273873": {
+        "country_code": "CO",
+        "asn": "273873",
+        "description": "ASOCIACION PARA LA CONSTRUCCI\u00d3N DEL AEROPUERTO UBICADO EN PALESTINA (CALDAS)",
+        "handle": "ASOCIACION-PARA"
+    },
+    "273878": {
+        "country_code": "CO",
+        "asn": "273878",
+        "description": "M@STV PRODUCCIONES S.A.S",
+        "handle": "MSTV-PRODUCCIONES"
+    },
+    "273889": {
+        "country_code": "CO",
+        "asn": "273889",
+        "description": "WISPER INTERNET INALAMBRICO S.A.S",
+        "handle": "WISPER-INTERNET-INALAMBRICO"
+    },
+    "273894": {
+        "country_code": "CO",
+        "asn": "273894",
+        "description": "U2RED S.A.S",
+        "handle": "U2RED"
+    },
+    "273896": {
+        "country_code": "CO",
+        "asn": "273896",
+        "description": "ONE TELECOMUNICACIONES SAS",
+        "handle": "ONE-TELECOMUNICACIONES"
+    },
+    "273898": {
+        "country_code": "CO",
+        "asn": "273898",
+        "description": "JEFFERSON AFE S.A.S",
+        "handle": "JEFFERSON-AFE"
+    },
+    "273899": {
+        "country_code": "CO",
+        "asn": "273899",
+        "description": "ASOCIACI\u00d3N CABLE A\u00c9REO MANIZALES",
+        "handle": "ASOCIACION-CABLE-AEREO"
+    },
+    "273905": {
+        "country_code": "CO",
+        "asn": "273905",
+        "description": "AMERICANA DE TECNOLOGIA Y COMUNICACIONES SAS",
+        "handle": "AMERICANA-TECNOLOGIA-COMUNICACIONES"
+    },
+    "273908": {
+        "country_code": "CO",
+        "asn": "273908",
+        "description": "COMFIBRA X S.A.S",
+        "handle": "COMFIBRA-X"
+    },
+    "273910": {
+        "country_code": "CO",
+        "asn": "273910",
+        "description": "UNIVERSIDAD COLEGIO MAYOR DE CUNDINAMARCA",
+        "handle": "UNIVERSIDAD-COLEGIO-MAYOR"
+    },
+    "273911": {
+        "country_code": "CO",
+        "asn": "273911",
+        "description": "CREDIBANCO S A",
+        "handle": "CREDIBANCO-S-A"
+    },
+    "273926": {
+        "country_code": "CO",
+        "asn": "273926",
+        "description": "CARIBETECH S.A.S",
+        "handle": "CARIBETECH"
+    },
+    "273940": {
+        "country_code": "CO",
+        "asn": "273940",
+        "description": "CABLELINEA S.A.S.",
+        "handle": "CABLELINEA"
+    },
+    "273953": {
+        "country_code": "CO",
+        "asn": "273953",
+        "description": "TV COLOMBIA DIGITAL SAS",
+        "handle": "TV-COLOMBIA-DIGITAL"
+    },
+    "273956": {
+        "country_code": "CO",
+        "asn": "273956",
+        "description": "Ebunti Colombia SAS",
+        "handle": "EBUNTI-COLOMBIA"
+    },
+    "273957": {
+        "country_code": "CO",
+        "asn": "273957",
+        "description": "CHANNEL PLUS S.A.S",
+        "handle": "CHANNEL-PLUS"
+    },
+    "273986": {
+        "country_code": "CO",
+        "asn": "273986",
+        "description": "FIBERCOM COLOMBIA S.A.S",
+        "handle": "FIBERCOM-COLOMBIA"
+    },
+    "273993": {
+        "country_code": "CO",
+        "asn": "273993",
+        "description": "EDGEUNO S.A.S",
+        "handle": "EDGEUNO"
+    },
+    "273999": {
+        "country_code": "CO",
+        "asn": "273999",
+        "description": "INSTITUTO FINANCIERO PARA EL DESARROLLO DEL VALLE - INFIVALLE",
+        "handle": "INSTITUTO-FINANCIERO-PARA"
+    },
+    "274001": {
+        "country_code": "CO",
+        "asn": "274001",
+        "description": "TELECOMUNICACIONES DEL SUR SAS",
+        "handle": "TELECOMUNICACIONES-SUR"
+    },
+    "274003": {
+        "country_code": "CO",
+        "asn": "274003",
+        "description": "MUNICIPIO DE MAPIRIPAN",
+        "handle": "MUNICIPIO-MAPIRIPAN"
+    },
+    "274005": {
+        "country_code": "CO",
+        "asn": "274005",
+        "description": "TERAWI S.A.S",
+        "handle": "TERAWI"
+    },
+    "274009": {
+        "country_code": "CO",
+        "asn": "274009",
+        "description": "SUNNOVA SAS",
+        "handle": "SUNNOVA"
+    },
+    "274010": {
+        "country_code": "CO",
+        "asn": "274010",
+        "description": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A.",
+        "handle": "BANCO-BILBAO-VIZCAYA"
+    },
+    "274015": {
+        "country_code": "CO",
+        "asn": "274015",
+        "description": "INSTITUCI\u00d3N UNIVERSITARIA PASCUAL BRAVO",
+        "handle": "INSTITUCION-UNIVERSITARIA-PASCUAL"
+    },
+    "274017": {
+        "country_code": "CO",
+        "asn": "274017",
+        "description": "Floriano SAS",
+        "handle": "FLORIANO"
+    },
+    "274018": {
+        "country_code": "CO",
+        "asn": "274018",
+        "description": "CONEXI\u00d3N TOTAL A INTERNET S.A.S.",
+        "handle": "CONEXION-TOTAL-INTERNET"
+    },
+    "274021": {
+        "country_code": "CO",
+        "asn": "274021",
+        "description": "MEDIA LINK S.A.S",
+        "handle": "MEDIA-LINK"
+    },
+    "274030": {
+        "country_code": "CO",
+        "asn": "274030",
+        "description": "MINISTERIO DE TRANSPORTE",
+        "handle": "MINISTERIO-TRANSPORTE"
+    },
+    "274039": {
+        "country_code": "CO",
+        "asn": "274039",
+        "description": "CONEXION DIGITAL EXPRESS S.A.S.",
+        "handle": "CONEXION-DIGITAL-EXPRESS"
+    },
+    "274043": {
+        "country_code": "CO",
+        "asn": "274043",
+        "description": "RC COMUNICACIONES SAS",
+        "handle": "RC-COMUNICACIONES"
+    },
+    "274044": {
+        "country_code": "CO",
+        "asn": "274044",
+        "description": "MUNDO + S.A.S.",
+        "handle": "MUNDO-+"
+    },
+    "274046": {
+        "country_code": "CO",
+        "asn": "274046",
+        "description": "EMPRESA SOCIAL DEL ESTADO DEPARTAMENTAL DE PRIMER NIVEL MORENO Y CLAVIJO",
+        "handle": "EMPRESA-SOCIAL-DEPARTAMENTAL"
+    },
+    "274054": {
+        "country_code": "CO",
+        "asn": "274054",
+        "description": "@SONET COLOMBIA SAS",
+        "handle": "SONET-COLOMBIA"
+    },
+    "274057": {
+        "country_code": "CO",
+        "asn": "274057",
+        "description": "BUSINESS INTELLIGENCE SOFTWARE ASSESSOR CORPORATION S.A.S. BIC",
+        "handle": "BUSINESS-INTELLIGENCE-SOFTWARE"
+    },
+    "274059": {
+        "country_code": "CO",
+        "asn": "274059",
+        "description": "K.G.B. TELECOMUNICACIONES S.A.S",
+        "handle": "KGB-TELECOMUNICACIONES"
+    },
+    "274081": {
+        "country_code": "CO",
+        "asn": "274081",
+        "description": "AIRTEK NETWORK SAS",
+        "handle": "AIRTEK-NETWORK"
+    },
+    "274096": {
+        "country_code": "CO",
+        "asn": "274096",
+        "description": "MUNICIPIO DE AGUAZUL",
+        "handle": "MUNICIPIO-AGUAZUL"
+    },
+    "274100": {
+        "country_code": "CO",
+        "asn": "274100",
+        "description": "IMPORIENTE SOLUCIONES GLOBALES SAS",
+        "handle": "IMPORIENTE-SOLUCIONES-GLOBALES"
+    },
+    "274110": {
+        "country_code": "CO",
+        "asn": "274110",
+        "description": "RED-INALSOLUCI\u00d3NES SAS",
+        "handle": "RED-INALSOLUCIONES"
+    },
+    "274115": {
+        "country_code": "CO",
+        "asn": "274115",
+        "description": "INTERNET Y TELEVISI\u00d3N S.A.S.",
+        "handle": "INTERNET-TELEVISION"
+    },
+    "274124": {
+        "country_code": "CO",
+        "asn": "274124",
+        "description": "INFRAESTRUCTURA VIRTUAL SAS",
+        "handle": "INFRAESTRUCTURA-VIRTUAL"
+    },
+    "274128": {
+        "country_code": "CO",
+        "asn": "274128",
+        "description": "RED PLANET TELECOMUNICACIONES S.A.S.",
+        "handle": "RED-PLANET-TELECOMUNICACIONES"
+    },
+    "274141": {
+        "country_code": "CO",
+        "asn": "274141",
+        "description": "CABLE GUAJIRA LIMITADA",
+        "handle": "CABLE-GUAJIRA-LIMITADA"
+    },
+    "274152": {
+        "country_code": "CO",
+        "asn": "274152",
+        "description": "SURFLINK SAS",
+        "handle": "SURFLINK"
+    },
+    "274154": {
+        "country_code": "CO",
+        "asn": "274154",
+        "description": "OCA TICS S.A.S",
+        "handle": "OCA-TICS"
+    },
+    "274155": {
+        "country_code": "CO",
+        "asn": "274155",
+        "description": "DIGITAL DOT GROUP SAS",
+        "handle": "DIGITAL-DOT-GROUP"
+    },
+    "274163": {
+        "country_code": "CO",
+        "asn": "274163",
+        "description": "SERVICIO DE INTERNET RURAL DEL ORIENTE S.A.S",
+        "handle": "SERVICIO-INTERNET-RURAL"
+    },
+    "274164": {
+        "country_code": "CO",
+        "asn": "274164",
+        "description": "IRP - ONE S.A.S.",
+        "handle": "IRP-ONE"
+    },
+    "274172": {
+        "country_code": "CO",
+        "asn": "274172",
+        "description": "OMIX SAS",
+        "handle": "OMIX"
+    },
+    "274187": {
+        "country_code": "CO",
+        "asn": "274187",
+        "description": "EMPRESA SOCIAL DEL ESTADO E.S.E IMSALUD",
+        "handle": "EMPRESA-SOCIAL-ESE-IMSALUD"
+    },
+    "274193": {
+        "country_code": "CO",
+        "asn": "274193",
+        "description": "ELASTICSERVER.CO S.A.S.",
+        "handle": "ELASTICSERVERCO"
+    },
+    "274195": {
+        "country_code": "CO",
+        "asn": "274195",
+        "description": "FIBERTIC S.A.S.",
+        "handle": "FIBERTIC"
+    },
+    "274197": {
+        "country_code": "CO",
+        "asn": "274197",
+        "description": "WG COMUNICACIONES SAS",
+        "handle": "WG-COMUNICACIONES"
+    },
+    "274200": {
+        "country_code": "CO",
+        "asn": "274200",
+        "description": "SERVIRED LMA COMUNICACIONES S.A.S.",
+        "handle": "SERVIRED-LMA-COMUNICACIONES"
+    },
+    "274207": {
+        "country_code": "CO",
+        "asn": "274207",
+        "description": "BITEL DE COLOMBIA S.A.S",
+        "handle": "BITEL-COLOMBIA"
+    },
+    "274208": {
+        "country_code": "CO",
+        "asn": "274208",
+        "description": "VERLA S.A.S.",
+        "handle": "VERLA"
+    },
+    "274211": {
+        "country_code": "CO",
+        "asn": "274211",
+        "description": "Contralor\u00eda Departamental San Andr\u00e9s",
+        "handle": "CONTRALORIA-DEPARTAMENTAL-SAN"
+    },
+    "274218": {
+        "country_code": "CO",
+        "asn": "274218",
+        "description": "ANEXU SAS",
+        "handle": "ANEXU"
+    },
+    "274223": {
+        "country_code": "CO",
+        "asn": "274223",
+        "description": "NETWORKS TV S.A.S",
+        "handle": "NETWORKS-TV"
+    },
+    "274226": {
+        "country_code": "CO",
+        "asn": "274226",
+        "description": "ISP PROVEEDOR DE SERVICIOS DE INTERNET SAS",
+        "handle": "ISP-PROVEEDOR-SERVICIOS"
+    },
+    "274230": {
+        "country_code": "CO",
+        "asn": "274230",
+        "description": "ENIGMA I M C T S A S",
+        "handle": "ENIGMA-I-M-C-T-S-S"
+    },
+    "274237": {
+        "country_code": "CO",
+        "asn": "274237",
+        "description": "TRANSPORTE DE INTERNET Y MEDIOS TECNOLOGICOS S.A.S",
+        "handle": "TRANSPORTE-INTERNET-MEDIOS"
+    },
+    "274241": {
+        "country_code": "CO",
+        "asn": "274241",
+        "description": "ELECTROVIVA S.A.S",
+        "handle": "ELECTROVIVA"
+    },
+    "274244": {
+        "country_code": "CO",
+        "asn": "274244",
+        "description": "GLOB@L SYSTEM WI FI S.A.S.",
+        "handle": "GLOBL-SYSTEM-WI-FI"
+    },
+    "274245": {
+        "country_code": "CO",
+        "asn": "274245",
+        "description": "WIFIMAX S.A.S.",
+        "handle": "WIFIMAX"
+    },
+    "274246": {
+        "country_code": "CO",
+        "asn": "274246",
+        "description": "MUNICIPIO DE YUMBO",
+        "handle": "MUNICIPIO-YUMBO"
+    },
+    "274247": {
+        "country_code": "CO",
+        "asn": "274247",
+        "description": "SOLUNET ISP SAS",
+        "handle": "SOLUNET-ISP"
+    },
+    "274248": {
+        "country_code": "CO",
+        "asn": "274248",
+        "description": "REINTECH SAS",
+        "handle": "REINTECH"
+    },
+    "274249": {
+        "country_code": "CO",
+        "asn": "274249",
+        "description": "DEVELOPMENT OF BIG TECHNOLOGIES - DOBIT S.A.S.",
+        "handle": "DEVELOPMENT-OF-BIG"
+    },
+    "274254": {
+        "country_code": "CO",
+        "asn": "274254",
+        "description": "INTERMAX COMUNICACIONES S.A.S.",
+        "handle": "INTERMAX-COMUNICACIONES"
+    },
+    "274258": {
+        "country_code": "CO",
+        "asn": "274258",
+        "description": "SERVICIOS INTEGRALES PERSONALIZADOS S.A.S",
+        "handle": "SERVICIOS-INTEGRALES-PERSONALIZADOS"
+    },
+    "274259": {
+        "country_code": "CO",
+        "asn": "274259",
+        "description": "ILKARI COLOMBIA DC S.A.S",
+        "handle": "ILKARI-COLOMBIA-DC"
+    },
+    "274261": {
+        "country_code": "CO",
+        "asn": "274261",
+        "description": "PERSONER\u00cdA DISTRITAL DE MEDELL\u00cdN",
+        "handle": "PERSONERIA-DISTRITAL-MEDELLIN"
+    },
+    "274262": {
+        "country_code": "CO",
+        "asn": "274262",
+        "description": "IP SERVICES REDES E INTERNET S.A.S",
+        "handle": "IP-SERVICES-REDES-INTERNET"
+    },
+    "274265": {
+        "country_code": "CO",
+        "asn": "274265",
+        "description": "MINISTERIO DEL TRABAJO",
+        "handle": "MINISTERIO-TRABAJO"
+    },
+    "274268": {
+        "country_code": "CO",
+        "asn": "274268",
+        "description": "JECBsolutions SAS",
+        "handle": "JECBSOLUTIONS"
+    },
+    "274272": {
+        "country_code": "CO",
+        "asn": "274272",
+        "description": "MAS NET SAS",
+        "handle": "MAS-NET"
+    },
+    "274282": {
+        "country_code": "CO",
+        "asn": "274282",
+        "description": "DATANET TELECOMUNICACIONES S.A.S.",
+        "handle": "DATANET-TELECOMUNICACIONES"
+    },
+    "274284": {
+        "country_code": "CO",
+        "asn": "274284",
+        "description": "CONEXION TOTAL ENIGMA VALLE DE TENZA S.A.S",
+        "handle": "CONEXION-TOTAL-ENIGMA"
+    },
+    "274292": {
+        "country_code": "CO",
+        "asn": "274292",
+        "description": "ETHERCOM TELECOMUNICACIONES S.A.S ZOMAC",
+        "handle": "ETHERCOM-TELECOMUNICACIONES"
+    },
+    "274299": {
+        "country_code": "CO",
+        "asn": "274299",
+        "description": "SERVISYSTEN SAS",
+        "handle": "SERVISYSTEN"
+    },
+    "274305": {
+        "country_code": "CO",
+        "asn": "274305",
+        "description": "UNIVERSIDAD FRANCISCO DE PAULA SANTANDER",
+        "handle": "UNIVERSIDAD-FRANCISCO-PAULA"
+    },
+    "274310": {
+        "country_code": "CO",
+        "asn": "274310",
+        "description": "ULTRANET COLOMBIA S.A.S.",
+        "handle": "ULTRANET-COLOMBIA"
+    },
+    "274311": {
+        "country_code": "CO",
+        "asn": "274311",
+        "description": "INTEROS - INTERNET SERVICE SAS",
+        "handle": "INTEROS-INTERNET-SERVICE"
+    },
+    "274316": {
+        "country_code": "CO",
+        "asn": "274316",
+        "description": "CABLE NET S.A.S",
+        "handle": "CABLE-NET"
+    },
+    "274318": {
+        "country_code": "CO",
+        "asn": "274318",
+        "description": "MCA TELECOMUNICACIONES SAS",
+        "handle": "MCA-TELECOMUNICACIONES"
+    },
+    "274320": {
+        "country_code": "CO",
+        "asn": "274320",
+        "description": "GARAING S.A.S",
+        "handle": "GARAING"
+    },
+    "274323": {
+        "country_code": "CO",
+        "asn": "274323",
+        "description": "FINANZAUTO S.A. BIC",
+        "handle": "FINANZAUTO"
+    },
+    "274325": {
+        "country_code": "CO",
+        "asn": "274325",
+        "description": "SMARTTOWN SAS",
+        "handle": "SMARTTOWN"
+    },
+    "274330": {
+        "country_code": "CO",
+        "asn": "274330",
+        "description": "SYK SOLUCIONES SAS",
+        "handle": "SYK-SOLUCIONES"
+    }
+}

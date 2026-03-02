@@ -1,0 +1,68 @@
+{
+    "24814": {
+        "country_code": "SY",
+        "asn": "24814",
+        "description": "SCS-NET",
+        "handle": "SCS-AS"
+    },
+    "29256": {
+        "country_code": "SY",
+        "asn": "29256",
+        "description": "Syrian Telecommunication Private Closed Joint Stock Company",
+        "handle": "INT-PDN-STE-AS"
+    },
+    "29386": {
+        "country_code": "SY",
+        "asn": "29386",
+        "description": "Syrian Telecommunication Private Closed Joint Stock Company",
+        "handle": "EXT-PDN-STE-AS"
+    },
+    "48065": {
+        "country_code": "SY",
+        "asn": "48065",
+        "description": "Syriatel Mobile Telecom",
+        "handle": "SYRIATEL-AS"
+    },
+    "201550": {
+        "country_code": "SY",
+        "asn": "201550",
+        "description": "Syrian Telecommunication Private Closed Joint Stock Company",
+        "handle": "EXT-PDN-STE-AS"
+    },
+    "203862": {
+        "country_code": "SY",
+        "asn": "203862",
+        "description": "Fiberspeed Ltd",
+        "handle": "FIBERSPEED"
+    },
+    "204454": {
+        "country_code": "SY",
+        "asn": "204454",
+        "description": "Millennium Telecommunication Services LLC",
+        "handle": "ALALFEIH-AS"
+    },
+    "210557": {
+        "country_code": "SY",
+        "asn": "210557",
+        "description": "Houeiss and AI-Othman Internet Services LLC",
+        "handle": "FALAKNET"
+    },
+    "213812": {
+        "country_code": "SY",
+        "asn": "213812",
+        "description": "Abdul Rahman Mustafa trading as Alfateh Company for Communications",
+        "handle": "ALFATEH"
+    },
+    "214707": {
+        "country_code": "SY",
+        "asn": "214707",
+        "description": "RCell LLC",
+        "handle": "RCELL"
+    },
+    "216472": {
+        "country_code": "SY",
+        "asn": "216472",
+        "description": "High Speed For Internet Services L.L.C",
+        "handle": "HS-SYR"
+    }
+}

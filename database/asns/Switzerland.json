@@ -1,0 +1,6086 @@
+{
+    "513": {
+        "country_code": "CH",
+        "asn": "513",
+        "description": "CERN - European Organization for Nuclear Research",
+        "handle": "CERN"
+    },
+    "559": {
+        "country_code": "CH",
+        "asn": "559",
+        "description": "SWITCH",
+        "handle": "SWITCH"
+    },
+    "695": {
+        "country_code": "CH",
+        "asn": "695",
+        "description": "SWITCH",
+        "handle": "SWITCH-TEST1"
+    },
+    "696": {
+        "country_code": "CH",
+        "asn": "696",
+        "description": "SWITCH",
+        "handle": "SWITCH-TEST2"
+    },
+    "1297": {
+        "country_code": "CH",
+        "asn": "1297",
+        "description": "CERN - European Organization for Nuclear Research",
+        "handle": "CERN1297"
+    },
+    "1624": {
+        "country_code": "CH",
+        "asn": "1624",
+        "description": "SITA Switzerland Sarl",
+        "handle": "SITA-AS"
+    },
+    "1836": {
+        "country_code": "CH",
+        "asn": "1836",
+        "description": "green.ch AG",
+        "handle": "GREEN"
+    },
+    "2047": {
+        "country_code": "CH",
+        "asn": "2047",
+        "description": "Hoffmann - La Roche Ltd.",
+        "handle": "ASN-ROCHE-BASLE"
+    },
+    "2612": {
+        "country_code": "CH",
+        "asn": "2612",
+        "description": "SITASYS AG",
+        "handle": "SITASYS-AG"
+    },
+    "2613": {
+        "country_code": "CH",
+        "asn": "2613",
+        "description": "Association Romandix",
+        "handle": "VAN-GULIK"
+    },
+    "3173": {
+        "country_code": "CH",
+        "asn": "3173",
+        "description": "Stanleyworks (Europe) GmbH",
+        "handle": "STANLEYWORKS-BE-AS"
+    },
+    "3250": {
+        "country_code": "CH",
+        "asn": "3250",
+        "description": "Netskin GmbH",
+        "handle": "NETSKIN"
+    },
+    "3303": {
+        "country_code": "CH",
+        "asn": "3303",
+        "description": "Swisscom (Schweiz) AG",
+        "handle": "SWISSCOM"
+    },
+    "3334": {
+        "country_code": "CH",
+        "asn": "3334",
+        "description": "VTX Services SA",
+        "handle": "VTX-NETWORK"
+    },
+    "5426": {
+        "country_code": "CH",
+        "asn": "5426",
+        "description": "Sunrise GmbH",
+        "handle": "SUNRISE-MOBILE"
+    },
+    "5529": {
+        "country_code": "CH",
+        "asn": "5529",
+        "description": "Diag Dienstleistungen AG",
+        "handle": "DIAG-AS"
+    },
+    "6730": {
+        "country_code": "CH",
+        "asn": "6730",
+        "description": "Sunrise GmbH",
+        "handle": "SUNRISE"
+    },
+    "6732": {
+        "country_code": "CH",
+        "asn": "6732",
+        "description": "Cyberlink AG",
+        "handle": "CYBERLINK-TRANSIT"
+    },
+    "6772": {
+        "country_code": "CH",
+        "asn": "6772",
+        "description": "ImproWare AG",
+        "handle": "IMPNET-AS"
+    },
+    "6775": {
+        "country_code": "CH",
+        "asn": "6775",
+        "description": "Andreas Fink trading as Fink Telecom Services GmbH",
+        "handle": "FINK-TELECOM-SERVICES"
+    },
+    "6776": {
+        "country_code": "CH",
+        "asn": "6776",
+        "description": "TheNet - Internet Services AG",
+        "handle": "THENET"
+    },
+    "6837": {
+        "country_code": "CH",
+        "asn": "6837",
+        "description": "Swisscom (Schweiz) AG",
+        "handle": "SWISSCOM-BBCS-AS"
+    },
+    "6893": {
+        "country_code": "CH",
+        "asn": "6893",
+        "description": "Saitis Network N.Desir",
+        "handle": "SAITIS-NETWORK"
+    },
+    "6898": {
+        "country_code": "CH",
+        "asn": "6898",
+        "description": "Associazione SWISS INNOVATIVE ARTS & TECHNOLOGIES INSTITUTE (SIATI)",
+        "handle": "AS-6898"
+    },
+    "6907": {
+        "country_code": "CH",
+        "asn": "6907",
+        "description": "eBay Marketplaces GmbH",
+        "handle": "EBAY-DE-AS"
+    },
+    "8231": {
+        "country_code": "CH",
+        "asn": "8231",
+        "description": "Sunrise GmbH",
+        "handle": "SUNRISE-AS8231"
+    },
+    "8235": {
+        "country_code": "CH",
+        "asn": "8235",
+        "description": "Equinix (Switzerland) GmbH",
+        "handle": "TIX-ZH"
+    },
+    "8243": {
+        "country_code": "CH",
+        "asn": "8243",
+        "description": "Verizon Switzerland AG",
+        "handle": "VERIZON-THYSSENKRUPP-STEEL-EUROPE"
+    },
+    "8247": {
+        "country_code": "CH",
+        "asn": "8247",
+        "description": "Intellico AG",
+        "handle": "CALLTRADE-ZURICH"
+    },
+    "8271": {
+        "country_code": "CH",
+        "asn": "8271",
+        "description": "Internet Business Solutions AG",
+        "handle": "CH-IBS-AS8271"
+    },
+    "8298": {
+        "country_code": "CH",
+        "asn": "8298",
+        "description": "IPng Networks GmbH",
+        "handle": "IPNG"
+    },
+    "8300": {
+        "country_code": "CH",
+        "asn": "8300",
+        "description": "Swisscom (Schweiz) AG",
+        "handle": "TEST-AS-MAIN"
+    },
+    "8302": {
+        "country_code": "CH",
+        "asn": "8302",
+        "description": "Zattoo AG",
+        "handle": "ZATTOO"
+    },
+    "8404": {
+        "country_code": "CH",
+        "asn": "8404",
+        "description": "Sunrise GmbH",
+        "handle": "CABLECOM"
+    },
+    "8414": {
+        "country_code": "CH",
+        "asn": "8414",
+        "description": "International Telecommunication Union",
+        "handle": "INTERNATIONAL-TELECOMMUNICATION-UNION"
+    },
+    "8453": {
+        "country_code": "CH",
+        "asn": "8453",
+        "description": "Econis AG",
+        "handle": "ECONIS-AS"
+    },
+    "8556": {
+        "country_code": "CH",
+        "asn": "8556",
+        "description": "Levantis AG",
+        "handle": "LEVANTIS"
+    },
+    "8640": {
+        "country_code": "CH",
+        "asn": "8640",
+        "description": "Zurich Insurance Company AG",
+        "handle": "ZFS-GROUP"
+    },
+    "8659": {
+        "country_code": "CH",
+        "asn": "8659",
+        "description": "United Nations International Computing Centre",
+        "handle": "AS8659"
+    },
+    "8729": {
+        "country_code": "CH",
+        "asn": "8729",
+        "description": "UBS Group AG",
+        "handle": "UBS-GROUP-AG"
+    },
+    "8758": {
+        "country_code": "CH",
+        "asn": "8758",
+        "description": "Iway AG",
+        "handle": "IWAY"
+    },
+    "8803": {
+        "country_code": "CH",
+        "asn": "8803",
+        "description": "Migros-Genossenschafts-Bund",
+        "handle": "MIGROS"
+    },
+    "8821": {
+        "country_code": "CH",
+        "asn": "8821",
+        "description": "WWZ Telekom AG",
+        "handle": "TELEZUG"
+    },
+    "8833": {
+        "country_code": "CH",
+        "asn": "8833",
+        "description": "netplus.ch SA",
+        "handle": "NETPLUS-LEGACY"
+    },
+    "8843": {
+        "country_code": "CH",
+        "asn": "8843",
+        "description": "Quickline AG",
+        "handle": "FINECOM-MPLS"
+    },
+    "8883": {
+        "country_code": "CH",
+        "asn": "8883",
+        "description": "UBS AG",
+        "handle": "UBS-AG"
+    },
+    "8982": {
+        "country_code": "CH",
+        "asn": "8982",
+        "description": "Netcetera AG",
+        "handle": "NETCETERA-SKOPJE-AS"
+    },
+    "9025": {
+        "country_code": "CH",
+        "asn": "9025",
+        "description": "SIX Group Services AG",
+        "handle": "SIX-USA"
+    },
+    "9042": {
+        "country_code": "CH",
+        "asn": "9042",
+        "description": "SIX Group Services AG",
+        "handle": "SIX"
+    },
+    "9044": {
+        "country_code": "CH",
+        "asn": "9044",
+        "description": "BSE Software GmbH",
+        "handle": "SOLNET"
+    },
+    "9092": {
+        "country_code": "CH",
+        "asn": "9092",
+        "description": "Open Systems AG",
+        "handle": "OPENSYSTEMS-AS"
+    },
+    "9096": {
+        "country_code": "CH",
+        "asn": "9096",
+        "description": "IBKR Financial Services AG",
+        "handle": "IBKR-FINANCIAL-SERVICES-AG"
+    },
+    "9100": {
+        "country_code": "CH",
+        "asn": "9100",
+        "description": "CONVOTIS Swiss Cloud AG",
+        "handle": "ASPECTRA"
+    },
+    "9108": {
+        "country_code": "CH",
+        "asn": "9108",
+        "description": "Abraxas Informatik AG",
+        "handle": "ABXNET"
+    },
+    "9214": {
+        "country_code": "CH",
+        "asn": "9214",
+        "description": "Sunrise GmbH",
+        "handle": "SUNRISE-AS9214"
+    },
+    "10100": {
+        "country_code": "CH",
+        "asn": "10100",
+        "description": "UBS Group AG",
+        "handle": "UBSGROUPAG-AS-AP"
+    },
+    "11868": {
+        "country_code": "CH",
+        "asn": "11868",
+        "description": "SITA Switzerland Sarl",
+        "handle": "SITA-AS"
+    },
+    "12307": {
+        "country_code": "CH",
+        "asn": "12307",
+        "description": "Sandro Bolliger trading as Bolliger Network Solutions",
+        "handle": "RAVANA"
+    },
+    "12333": {
+        "country_code": "CH",
+        "asn": "12333",
+        "description": "Cheops Technology Switzerland SA",
+        "handle": "DFINET"
+    },
+    "12342": {
+        "country_code": "CH",
+        "asn": "12342",
+        "description": "Brack.ch AG",
+        "handle": "BRACK-AS"
+    },
+    "12347": {
+        "country_code": "CH",
+        "asn": "12347",
+        "description": "Virtualtec Solutions AG",
+        "handle": "VIRTUALTEC"
+    },
+    "12350": {
+        "country_code": "CH",
+        "asn": "12350",
+        "description": "VTX Services SA",
+        "handle": "VTX-NETWORK"
+    },
+    "12387": {
+        "country_code": "CH",
+        "asn": "12387",
+        "description": "TON Total optical Networks AG",
+        "handle": "TON"
+    },
+    "12429": {
+        "country_code": "CH",
+        "asn": "12429",
+        "description": "Swisscom (Schweiz) AG",
+        "handle": "CYBERNET-CH"
+    },
+    "12511": {
+        "country_code": "CH",
+        "asn": "12511",
+        "description": "Die Schweizerische Post AG",
+        "handle": "CH-POSTNETZ"
+    },
+    "12553": {
+        "country_code": "CH",
+        "asn": "12553",
+        "description": "Andreas Grawehr",
+        "handle": "GRAWEHR"
+    },
+    "12620": {
+        "country_code": "CH",
+        "asn": "12620",
+        "description": "Ticinocom SA",
+        "handle": "TICINOCOM"
+    },
+    "12649": {
+        "country_code": "CH",
+        "asn": "12649",
+        "description": "Banque Pictet & Cie SA",
+        "handle": "BANQUE-PICTET-CIE-SA"
+    },
+    "12651": {
+        "country_code": "CH",
+        "asn": "12651",
+        "description": "IP worldcom SA",
+        "handle": "IPWORLDCOM"
+    },
+    "12750": {
+        "country_code": "CH",
+        "asn": "12750",
+        "description": "Softec AG",
+        "handle": "SOFTEC-MNT"
+    },
+    "12776": {
+        "country_code": "CH",
+        "asn": "12776",
+        "description": "Bank Vontobel AG",
+        "handle": "BVT"
+    },
+    "12799": {
+        "country_code": "CH",
+        "asn": "12799",
+        "description": "Sunrise GmbH",
+        "handle": "AS12799"
+    },
+    "12928": {
+        "country_code": "CH",
+        "asn": "12928",
+        "description": "Banque Cantonale Vaudoise",
+        "handle": "BCV"
+    },
+    "13030": {
+        "country_code": "CH",
+        "asn": "13030",
+        "description": "Init7 (Switzerland) Ltd.",
+        "handle": "INIT7"
+    },
+    "13154": {
+        "country_code": "CH",
+        "asn": "13154",
+        "description": "Reishauer AG",
+        "handle": "REISHAUER-AG-AS"
+    },
+    "13250": {
+        "country_code": "CH",
+        "asn": "13250",
+        "description": "Backbone Solutions AG",
+        "handle": "BACKBONE-CH"
+    },
+    "13267": {
+        "country_code": "CH",
+        "asn": "13267",
+        "description": "Zuercher Kantonalbank",
+        "handle": "ZUERCHER-KANTONALBANK"
+    },
+    "13283": {
+        "country_code": "CH",
+        "asn": "13283",
+        "description": "Bank Julius Baer & Co. AG",
+        "handle": "BJB1-AS"
+    },
+    "15361": {
+        "country_code": "CH",
+        "asn": "15361",
+        "description": "UNION BANCAIRE PRIVEE UBP SA",
+        "handle": "UBP"
+    },
+    "15398": {
+        "country_code": "CH",
+        "asn": "15398",
+        "description": "Werft22 AG",
+        "handle": "CYBERCORE-AS"
+    },
+    "15432": {
+        "country_code": "CH",
+        "asn": "15432",
+        "description": "Internet Services Inc",
+        "handle": "TP-ZUERICH"
+    },
+    "15513": {
+        "country_code": "CH",
+        "asn": "15513",
+        "description": "Berner Kantonalbank AG",
+        "handle": "BEKB"
+    },
+    "15517": {
+        "country_code": "CH",
+        "asn": "15517",
+        "description": "Netstream Holding AG",
+        "handle": "NETSTREAM-CH"
+    },
+    "15532": {
+        "country_code": "CH",
+        "asn": "15532",
+        "description": "Raiffeisen Schweiz Genossenschaft",
+        "handle": "RAIFFEISEN-SCHWEIZ-GENOSSENSCHAFT"
+    },
+    "15547": {
+        "country_code": "CH",
+        "asn": "15547",
+        "description": "netplus.ch SA",
+        "handle": "NETPLUS"
+    },
+    "15575": {
+        "country_code": "CH",
+        "asn": "15575",
+        "description": "FREITAG lab.ag",
+        "handle": "FREITAG-AS"
+    },
+    "15576": {
+        "country_code": "CH",
+        "asn": "15576",
+        "description": "NTS workspace AG",
+        "handle": "NTS"
+    },
+    "15585": {
+        "country_code": "CH",
+        "asn": "15585",
+        "description": "Finanzdirektion des Kantons Bern",
+        "handle": "BEWAN-AS"
+    },
+    "15600": {
+        "country_code": "CH",
+        "asn": "15600",
+        "description": "Quickline AG",
+        "handle": "QUICKLINE"
+    },
+    "15623": {
+        "country_code": "CH",
+        "asn": "15623",
+        "description": "Cyberlink AG",
+        "handle": "CYBERLINK"
+    },
+    "15661": {
+        "country_code": "CH",
+        "asn": "15661",
+        "description": "Bank J. Safra Sarasin AG",
+        "handle": "BANK-J-SAFRA-SARASIN-AG"
+    },
+    "15675": {
+        "country_code": "CH",
+        "asn": "15675",
+        "description": "Direction des Systemes d'Information Etat de Vaud",
+        "handle": "ETAT-DE-VAUD"
+    },
+    "15701": {
+        "country_code": "CH",
+        "asn": "15701",
+        "description": "Init7 (Switzerland) Ltd.",
+        "handle": "EXCHANGE7-RS"
+    },
+    "15716": {
+        "country_code": "CH",
+        "asn": "15716",
+        "description": "Adfinis AG",
+        "handle": "SYGROUP"
+    },
+    "15796": {
+        "country_code": "CH",
+        "asn": "15796",
+        "description": "Salt Mobile SA",
+        "handle": "SALT-CH"
+    },
+    "15978": {
+        "country_code": "CH",
+        "asn": "15978",
+        "description": "Bobst MEX SA",
+        "handle": "BOBST-MEX-SA"
+    },
+    "16046": {
+        "country_code": "CH",
+        "asn": "16046",
+        "description": "Qbix GmbH",
+        "handle": "AS16046"
+    },
+    "16079": {
+        "country_code": "CH",
+        "asn": "16079",
+        "description": "Nestle Operational Services Worldwide SA",
+        "handle": "NESTEC-CLGO"
+    },
+    "16111": {
+        "country_code": "CH",
+        "asn": "16111",
+        "description": "Online Consulting AG",
+        "handle": "ONLINE-CONSULTING"
+    },
+    "16114": {
+        "country_code": "CH",
+        "asn": "16114",
+        "description": "UNION BANCAIRE PRIVEE UBP SA",
+        "handle": "UBPAM-AS"
+    },
+    "16221": {
+        "country_code": "CH",
+        "asn": "16221",
+        "description": "Init7 (Switzerland) Ltd.",
+        "handle": "EASY7"
+    },
+    "16242": {
+        "country_code": "CH",
+        "asn": "16242",
+        "description": "Gluecklich GmbH",
+        "handle": "AS-NEXTRA"
+    },
+    "16267": {
+        "country_code": "CH",
+        "asn": "16267",
+        "description": "CH Regionalmedien AG",
+        "handle": "CH-REGIONALMEDIEN-AG"
+    },
+    "20560": {
+        "country_code": "CH",
+        "asn": "20560",
+        "description": "Iway AG",
+        "handle": "ASN-TANNER"
+    },
+    "20582": {
+        "country_code": "CH",
+        "asn": "20582",
+        "description": "Beeone Communications SA",
+        "handle": "BEEONE"
+    },
+    "20612": {
+        "country_code": "CH",
+        "asn": "20612",
+        "description": "SwissIX Internet Exchange",
+        "handle": "SWISSIX"
+    },
+    "20641": {
+        "country_code": "CH",
+        "asn": "20641",
+        "description": "CERN - European Organization for Nuclear Research",
+        "handle": "LHCONE-CERN"
+    },
+    "20648": {
+        "country_code": "CH",
+        "asn": "20648",
+        "description": "TMN SA",
+        "handle": "TMN-SA"
+    },
+    "20700": {
+        "country_code": "CH",
+        "asn": "20700",
+        "description": "Rothschild & Co Bank AG",
+        "handle": "BRS-CH-AS01"
+    },
+    "20743": {
+        "country_code": "CH",
+        "asn": "20743",
+        "description": "SIX Swiss Exchange AG",
+        "handle": "SWX"
+    },
+    "20868": {
+        "country_code": "CH",
+        "asn": "20868",
+        "description": "ABB Information Systems Ltd",
+        "handle": "ABB"
+    },
+    "20890": {
+        "country_code": "CH",
+        "asn": "20890",
+        "description": "Sulzer Management AG",
+        "handle": "SULZER-MANAGEMENT-AS"
+    },
+    "20893": {
+        "country_code": "CH",
+        "asn": "20893",
+        "description": "SYSTEM-CLINCH",
+        "handle": "SYSTEM-CLINCH-AS"
+    },
+    "20914": {
+        "country_code": "CH",
+        "asn": "20914",
+        "description": "Gluecklich GmbH",
+        "handle": "CCC-RHEINTAL"
+    },
+    "20932": {
+        "country_code": "CH",
+        "asn": "20932",
+        "description": "Services Industriels de Geneve",
+        "handle": "SIG-ST"
+    },
+    "20988": {
+        "country_code": "CH",
+        "asn": "20988",
+        "description": "MTF Solutions AG",
+        "handle": "MTF-CLOUD"
+    },
+    "21040": {
+        "country_code": "CH",
+        "asn": "21040",
+        "description": "Datapark AG",
+        "handle": "DATAPARK"
+    },
+    "21047": {
+        "country_code": "CH",
+        "asn": "21047",
+        "description": "Deutsche Bank (Suisse) SA",
+        "handle": "DEUTSCHE-BANK-SUISSE-AS"
+    },
+    "21069": {
+        "country_code": "CH",
+        "asn": "21069",
+        "description": "METANET AG",
+        "handle": "ASN-METANET"
+    },
+    "21124": {
+        "country_code": "CH",
+        "asn": "21124",
+        "description": "mailXpert GmbH",
+        "handle": "RAVANA2"
+    },
+    "21190": {
+        "country_code": "CH",
+        "asn": "21190",
+        "description": "Alpiq AG",
+        "handle": "ALPIQ-AS21190"
+    },
+    "21217": {
+        "country_code": "CH",
+        "asn": "21217",
+        "description": "Infrastructure Switzerland Colo Sarl",
+        "handle": "SAFEHOSTNET"
+    },
+    "21222": {
+        "country_code": "CH",
+        "asn": "21222",
+        "description": "ROLEX SA",
+        "handle": "ASN-ROLEX"
+    },
+    "21232": {
+        "country_code": "CH",
+        "asn": "21232",
+        "description": "Genossenschaft GGA Maur",
+        "handle": "GGAMAUR"
+    },
+    "21253": {
+        "country_code": "CH",
+        "asn": "21253",
+        "description": "SwissWeb AG in Liquidation",
+        "handle": "SWISSWEB-AS"
+    },
+    "21254": {
+        "country_code": "CH",
+        "asn": "21254",
+        "description": "CITCO TECHNOLOGY MANAGEMENT (SWITZERLAND) SA",
+        "handle": "CTM-ASN"
+    },
+    "21269": {
+        "country_code": "CH",
+        "asn": "21269",
+        "description": "Christian Wittenhorst trading as Progon Network Engineering",
+        "handle": "WIWIS-AS"
+    },
+    "21273": {
+        "country_code": "CH",
+        "asn": "21273",
+        "description": "Swisscom (Schweiz) AG",
+        "handle": "TEST-AS-CUST"
+    },
+    "21405": {
+        "country_code": "CH",
+        "asn": "21405",
+        "description": "T-Systems Schweiz AG",
+        "handle": "TSS1"
+    },
+    "21423": {
+        "country_code": "CH",
+        "asn": "21423",
+        "description": "Komax AG",
+        "handle": "KOMAX-HOLDING-AS"
+    },
+    "21434": {
+        "country_code": "CH",
+        "asn": "21434",
+        "description": "Clariant International Ltd.",
+        "handle": "CLARIANT"
+    },
+    "21436": {
+        "country_code": "CH",
+        "asn": "21436",
+        "description": "almanid group GmbH",
+        "handle": "ALMANID-AS-BSL"
+    },
+    "21449": {
+        "country_code": "CH",
+        "asn": "21449",
+        "description": "ETAT DE GENEVE",
+        "handle": "ETATGE"
+    },
+    "21466": {
+        "country_code": "CH",
+        "asn": "21466",
+        "description": "Kabelfernsehen Bodeli AG",
+        "handle": "ASQUICKNET"
+    },
+    "24585": {
+        "country_code": "CH",
+        "asn": "24585",
+        "description": "Swiss Life AG",
+        "handle": "CH-SWISSLIFE"
+    },
+    "24889": {
+        "country_code": "CH",
+        "asn": "24889",
+        "description": "Monzoon Networks AG",
+        "handle": "MONZOON-AS"
+    },
+    "24925": {
+        "country_code": "CH",
+        "asn": "24925",
+        "description": "eHouse Holding AG",
+        "handle": "EHOUSE-AS"
+    },
+    "24951": {
+        "country_code": "CH",
+        "asn": "24951",
+        "description": "EveryWare AG",
+        "handle": "EVERYWARE-NET"
+    },
+    "24952": {
+        "country_code": "CH",
+        "asn": "24952",
+        "description": "Firmenich SA",
+        "handle": "FIRMENICH-AS"
+    },
+    "25021": {
+        "country_code": "CH",
+        "asn": "25021",
+        "description": "Centre Informatique Etat de Fribourg",
+        "handle": "CIEF-AS"
+    },
+    "25031": {
+        "country_code": "CH",
+        "asn": "25031",
+        "description": "Novartis AG",
+        "handle": "NOVARTIS-CH"
+    },
+    "25090": {
+        "country_code": "CH",
+        "asn": "25090",
+        "description": "Alpiq AG",
+        "handle": "ALPIQ-AS25090"
+    },
+    "25091": {
+        "country_code": "CH",
+        "asn": "25091",
+        "description": "IP-Max SA",
+        "handle": "IP-MAX"
+    },
+    "25164": {
+        "country_code": "CH",
+        "asn": "25164",
+        "description": "Flughafen Zurich AG",
+        "handle": "FLUGHAFEN-ZUERICH"
+    },
+    "25275": {
+        "country_code": "CH",
+        "asn": "25275",
+        "description": "Richemont International SA",
+        "handle": "RICHEMONT-AS"
+    },
+    "25342": {
+        "country_code": "CH",
+        "asn": "25342",
+        "description": "DERTOUR Suisse AG",
+        "handle": "KUONI-AS"
+    },
+    "25353": {
+        "country_code": "CH",
+        "asn": "25353",
+        "description": "BAR Informatik AG",
+        "handle": "BAR-AS"
+    },
+    "25375": {
+        "country_code": "CH",
+        "asn": "25375",
+        "description": "LeuPuls AG",
+        "handle": "LEU-AS"
+    },
+    "25420": {
+        "country_code": "CH",
+        "asn": "25420",
+        "description": "iSource ag",
+        "handle": "ISOURCE"
+    },
+    "25435": {
+        "country_code": "CH",
+        "asn": "25435",
+        "description": "META10 AG",
+        "handle": "META10-AS"
+    },
+    "25440": {
+        "country_code": "CH",
+        "asn": "25440",
+        "description": "Nestle Operational Services Worldwide SA",
+        "handle": "NESTLE"
+    },
+    "25563": {
+        "country_code": "CH",
+        "asn": "25563",
+        "description": "Webland AG",
+        "handle": "WEBLAND-AS"
+    },
+    "25598": {
+        "country_code": "CH",
+        "asn": "25598",
+        "description": "fenaco Genossenschaft",
+        "handle": "FENACO"
+    },
+    "28686": {
+        "country_code": "CH",
+        "asn": "28686",
+        "description": "Aveniq AG",
+        "handle": "AVENIQ-AS"
+    },
+    "28749": {
+        "country_code": "CH",
+        "asn": "28749",
+        "description": "MSC Mediterranean Shipping Company SA",
+        "handle": "MSC-AS"
+    },
+    "28810": {
+        "country_code": "CH",
+        "asn": "28810",
+        "description": "World Health Organization (WHO)",
+        "handle": "WHO-AS"
+    },
+    "28859": {
+        "country_code": "CH",
+        "asn": "28859",
+        "description": "Convotis Schweiz AG",
+        "handle": "ZUGERNET"
+    },
+    "28875": {
+        "country_code": "CH",
+        "asn": "28875",
+        "description": "Innotronic Ingenieurburo GmbH",
+        "handle": "INNO"
+    },
+    "28916": {
+        "country_code": "CH",
+        "asn": "28916",
+        "description": "International Labour Office",
+        "handle": "ILO-NET-AS"
+    },
+    "28928": {
+        "country_code": "CH",
+        "asn": "28928",
+        "description": "Schwyzer Kantonalbank",
+        "handle": "SZKB-AS"
+    },
+    "29058": {
+        "country_code": "CH",
+        "asn": "29058",
+        "description": "International Olympic Committee (IOC)",
+        "handle": "CIO-IOC"
+    },
+    "29097": {
+        "country_code": "CH",
+        "asn": "29097",
+        "description": "Hostpoint AG",
+        "handle": "HOSTPOINT-AS"
+    },
+    "29166": {
+        "country_code": "CH",
+        "asn": "29166",
+        "description": "Neue Zuercher Zeitung AG",
+        "handle": "NZZ-AS"
+    },
+    "29222": {
+        "country_code": "CH",
+        "asn": "29222",
+        "description": "Infomaniak Network SA",
+        "handle": "INFOMANIAK-AS"
+    },
+    "29260": {
+        "country_code": "CH",
+        "asn": "29260",
+        "description": "Pascal Gloor",
+        "handle": "NETLANTIS"
+    },
+    "29296": {
+        "country_code": "CH",
+        "asn": "29296",
+        "description": "Amt fuer Informatik und Organisation des Kantons Solothurn",
+        "handle": "AIOS-AS"
+    },
+    "29356": {
+        "country_code": "CH",
+        "asn": "29356",
+        "description": "Nestle Operational Services Worldwide SA",
+        "handle": "NESTLE"
+    },
+    "29430": {
+        "country_code": "CH",
+        "asn": "29430",
+        "description": "Audatex (Schweiz) GmbH",
+        "handle": "AXCASP"
+    },
+    "29500": {
+        "country_code": "CH",
+        "asn": "29500",
+        "description": "Schweizerische Rueckversicherungs-Gesellschaft AG",
+        "handle": "SWISSRE-AS"
+    },
+    "29617": {
+        "country_code": "CH",
+        "asn": "29617",
+        "description": "Energy Water Bern",
+        "handle": "EWB-NET"
+    },
+    "29641": {
+        "country_code": "CH",
+        "asn": "29641",
+        "description": "Allianz Suisse Versicherungs-Gesellschaft AG",
+        "handle": "ALLIANZ-AS"
+    },
+    "29655": {
+        "country_code": "CH",
+        "asn": "29655",
+        "description": "Trenka Informatik AG",
+        "handle": "TRENKA"
+    },
+    "29691": {
+        "country_code": "CH",
+        "asn": "29691",
+        "description": "Nine Internet Solutions AG",
+        "handle": "NINE"
+    },
+    "30727": {
+        "country_code": "CH",
+        "asn": "30727",
+        "description": "IWB Industrielle Werke Basel",
+        "handle": "SYSLINK"
+    },
+    "30786": {
+        "country_code": "CH",
+        "asn": "30786",
+        "description": "Swisscom Directories AG",
+        "handle": "LOCAL-CH"
+    },
+    "30862": {
+        "country_code": "CH",
+        "asn": "30862",
+        "description": "Eviden AG",
+        "handle": "ATOS-CH-AS"
+    },
+    "30934": {
+        "country_code": "CH",
+        "asn": "30934",
+        "description": "Aargauische Kantonalbank",
+        "handle": "AARGAUBANK-AS"
+    },
+    "30935": {
+        "country_code": "CH",
+        "asn": "30935",
+        "description": "Datatrans AG",
+        "handle": "DATATRANS-CH-AS"
+    },
+    "30973": {
+        "country_code": "CH",
+        "asn": "30973",
+        "description": "Loomis International Corporate AG",
+        "handle": "VIAMATMANAGEMENT-AS"
+    },
+    "31004": {
+        "country_code": "CH",
+        "asn": "31004",
+        "description": "Schweizerische Bundesbahnen SBB",
+        "handle": "SBB-CFF-FFS"
+    },
+    "31030": {
+        "country_code": "CH",
+        "asn": "31030",
+        "description": "Roman Hochuli",
+        "handle": "ASCORONA"
+    },
+    "31051": {
+        "country_code": "CH",
+        "asn": "31051",
+        "description": "ONLINE TRAVEL AG",
+        "handle": "ONLINE-TRAVEL"
+    },
+    "31052": {
+        "country_code": "CH",
+        "asn": "31052",
+        "description": "Exigo AG",
+        "handle": "EXIGO"
+    },
+    "31097": {
+        "country_code": "CH",
+        "asn": "31097",
+        "description": "Corner Banca SA",
+        "handle": "CORNER"
+    },
+    "31124": {
+        "country_code": "CH",
+        "asn": "31124",
+        "description": "Societe Electrique des Forces de l'Aubonne",
+        "handle": "SEFANET-AS"
+    },
+    "31141": {
+        "country_code": "CH",
+        "asn": "31141",
+        "description": "Swissquote Bank SA",
+        "handle": "SWISSQUOTE-AS"
+    },
+    "31424": {
+        "country_code": "CH",
+        "asn": "31424",
+        "description": "Netrics AG",
+        "handle": "IN4U-AS"
+    },
+    "31544": {
+        "country_code": "CH",
+        "asn": "31544",
+        "description": "Berner Kantonalbank AG",
+        "handle": "EX-RTC"
+    },
+    "31592": {
+        "country_code": "CH",
+        "asn": "31592",
+        "description": "Thomas Kernen",
+        "handle": "KERNEN"
+    },
+    "31662": {
+        "country_code": "CH",
+        "asn": "31662",
+        "description": "connecta ag",
+        "handle": "KNSURSELVA"
+    },
+    "31736": {
+        "country_code": "CH",
+        "asn": "31736",
+        "description": "senseLAN GmbH",
+        "handle": "SENSELAN-AS"
+    },
+    "33845": {
+        "country_code": "CH",
+        "asn": "33845",
+        "description": "Swiss Federation represented by FOITT",
+        "handle": "SWISSGOV"
+    },
+    "33849": {
+        "country_code": "CH",
+        "asn": "33849",
+        "description": "Comfone AG",
+        "handle": "COMFONE-AS"
+    },
+    "33958": {
+        "country_code": "CH",
+        "asn": "33958",
+        "description": "Global Supply Chain Finance AG",
+        "handle": "GSCF"
+    },
+    "33965": {
+        "country_code": "CH",
+        "asn": "33965",
+        "description": "LITECOM AG",
+        "handle": "LITECOM"
+    },
+    "33998": {
+        "country_code": "CH",
+        "asn": "33998",
+        "description": "Repower AG",
+        "handle": "REPOWER-AS"
+    },
+    "34146": {
+        "country_code": "CH",
+        "asn": "34146",
+        "description": "ISP Solutions SA",
+        "handle": "ISP-SOLUTIONS-AS"
+    },
+    "34182": {
+        "country_code": "CH",
+        "asn": "34182",
+        "description": "rack.black Verein",
+        "handle": "RACKBLACK"
+    },
+    "34261": {
+        "country_code": "CH",
+        "asn": "34261",
+        "description": "Buhler AG",
+        "handle": "BUHLERGROUP"
+    },
+    "34271": {
+        "country_code": "CH",
+        "asn": "34271",
+        "description": "Centre de donnees romand SA",
+        "handle": "CDROM"
+    },
+    "34288": {
+        "country_code": "CH",
+        "asn": "34288",
+        "description": "Kantonsschule Zug",
+        "handle": "AS34288"
+    },
+    "34290": {
+        "country_code": "CH",
+        "asn": "34290",
+        "description": "Union Europeenne de Radio-Television",
+        "handle": "EBU"
+    },
+    "34310": {
+        "country_code": "CH",
+        "asn": "34310",
+        "description": "Penta SA",
+        "handle": "PENTANET-AS"
+    },
+    "34438": {
+        "country_code": "CH",
+        "asn": "34438",
+        "description": "Erich Hohermuth",
+        "handle": "PROFZONE"
+    },
+    "34514": {
+        "country_code": "CH",
+        "asn": "34514",
+        "description": "INGO Zurich AG",
+        "handle": "FUTURECOM"
+    },
+    "34532": {
+        "country_code": "CH",
+        "asn": "34532",
+        "description": "Bruetsch/Rueegger Holding AG",
+        "handle": "BRUETSCH-RUEGGER"
+    },
+    "34554": {
+        "country_code": "CH",
+        "asn": "34554",
+        "description": "Antares Kommunikationstechnik AG",
+        "handle": "ANTANET"
+    },
+    "34578": {
+        "country_code": "CH",
+        "asn": "34578",
+        "description": "Bedag Informatik AG",
+        "handle": "BEDAG"
+    },
+    "34615": {
+        "country_code": "CH",
+        "asn": "34615",
+        "description": "Andrew Vieyra",
+        "handle": "UNIVERSAL-EXPORTS"
+    },
+    "34617": {
+        "country_code": "CH",
+        "asn": "34617",
+        "description": "SoftwareONE AG",
+        "handle": "SOFTWAREONE-AS"
+    },
+    "34781": {
+        "country_code": "CH",
+        "asn": "34781",
+        "description": "Services Industriels de Lausanne (SIL)",
+        "handle": "SIL-CITYCABLE-AS"
+    },
+    "34800": {
+        "country_code": "CH",
+        "asn": "34800",
+        "description": "Securebit AG",
+        "handle": "SBAG"
+    },
+    "34831": {
+        "country_code": "CH",
+        "asn": "34831",
+        "description": "embeDD GmbH",
+        "handle": "ASN-QL"
+    },
+    "34893": {
+        "country_code": "CH",
+        "asn": "34893",
+        "description": "Institut Straumann AG",
+        "handle": "INSTITUT-STRAUMANN"
+    },
+    "34927": {
+        "country_code": "CH",
+        "asn": "34927",
+        "description": "iFog GmbH",
+        "handle": "IFOG-GMBH"
+    },
+    "34960": {
+        "country_code": "CH",
+        "asn": "34960",
+        "description": "Netcetera AG",
+        "handle": "NETCETERA-AG-AS"
+    },
+    "35030": {
+        "country_code": "CH",
+        "asn": "35030",
+        "description": "Comfone AG",
+        "handle": "COMFONE-GRX-AS"
+    },
+    "35034": {
+        "country_code": "CH",
+        "asn": "35034",
+        "description": "Swiss IT Security AG",
+        "handle": "EXECURE-AS"
+    },
+    "35054": {
+        "country_code": "CH",
+        "asn": "35054",
+        "description": "Equinix (Switzerland) GmbH",
+        "handle": "EQUINIX-CH-ASN"
+    },
+    "35097": {
+        "country_code": "CH",
+        "asn": "35097",
+        "description": "Sunrise GmbH",
+        "handle": "CABLECOM"
+    },
+    "35202": {
+        "country_code": "CH",
+        "asn": "35202",
+        "description": "Samuel Aschwanden",
+        "handle": "ONTHEGO"
+    },
+    "35203": {
+        "country_code": "CH",
+        "asn": "35203",
+        "description": "Goldenphone GmbH",
+        "handle": "CH-GOLDENPHONE"
+    },
+    "35206": {
+        "country_code": "CH",
+        "asn": "35206",
+        "description": "NovaTrend Services GmbH",
+        "handle": "NOVATREND-AS"
+    },
+    "35234": {
+        "country_code": "CH",
+        "asn": "35234",
+        "description": "Metagrid Systems GmbH",
+        "handle": "BITWAY-TELECOM"
+    },
+    "35240": {
+        "country_code": "CH",
+        "asn": "35240",
+        "description": "HSBC PB Services (Suisse) SA",
+        "handle": "HSBCPRIVATE"
+    },
+    "35276": {
+        "country_code": "CH",
+        "asn": "35276",
+        "description": "Reichle & De-Massari AG",
+        "handle": "RDM"
+    },
+    "35336": {
+        "country_code": "CH",
+        "asn": "35336",
+        "description": "loadit AG",
+        "handle": "LOADIT"
+    },
+    "35360": {
+        "country_code": "CH",
+        "asn": "35360",
+        "description": "Frederic Gargula",
+        "handle": "GARGUNET"
+    },
+    "35396": {
+        "country_code": "CH",
+        "asn": "35396",
+        "description": "Amt fuer Informatik des Kantons Graubuenden",
+        "handle": "KTGR-AS"
+    },
+    "35507": {
+        "country_code": "CH",
+        "asn": "35507",
+        "description": "BEGASOFT AG",
+        "handle": "BEGASOFT-AS"
+    },
+    "35518": {
+        "country_code": "CH",
+        "asn": "35518",
+        "description": "sasag Kabelkommunikation AG",
+        "handle": "SASAG"
+    },
+    "35603": {
+        "country_code": "CH",
+        "asn": "35603",
+        "description": "Berner Kantonalbank AG",
+        "handle": "BEKB"
+    },
+    "35635": {
+        "country_code": "CH",
+        "asn": "35635",
+        "description": "Net Jump GmbH",
+        "handle": "NETJUMP"
+    },
+    "35663": {
+        "country_code": "CH",
+        "asn": "35663",
+        "description": "DNS-NET Services GmbH",
+        "handle": "DNS-NET-CH"
+    },
+    "35712": {
+        "country_code": "CH",
+        "asn": "35712",
+        "description": "AMAG Corporate Services AG",
+        "handle": "AMAG"
+    },
+    "35793": {
+        "country_code": "CH",
+        "asn": "35793",
+        "description": "Acronis International GmbH",
+        "handle": "ACRONIS"
+    },
+    "39037": {
+        "country_code": "CH",
+        "asn": "39037",
+        "description": "Metal Trade Overseas AG",
+        "handle": "MTO"
+    },
+    "39040": {
+        "country_code": "CH",
+        "asn": "39040",
+        "description": "NTS workspace AG",
+        "handle": "NTSWORKSPACEAG-AS39040"
+    },
+    "39132": {
+        "country_code": "CH",
+        "asn": "39132",
+        "description": "Swissgrid AG",
+        "handle": "SWISSGRID"
+    },
+    "39142": {
+        "country_code": "CH",
+        "asn": "39142",
+        "description": "Giga Mobile AG",
+        "handle": "INTERNETGROUP-CLOUD"
+    },
+    "39166": {
+        "country_code": "CH",
+        "asn": "39166",
+        "description": "SAG Management International AG",
+        "handle": "SAG-CH"
+    },
+    "39212": {
+        "country_code": "CH",
+        "asn": "39212",
+        "description": "Andeo AG",
+        "handle": "ANDEO"
+    },
+    "39265": {
+        "country_code": "CH",
+        "asn": "39265",
+        "description": "Stadtverwaltung der Stadt Bern",
+        "handle": "BERN"
+    },
+    "39296": {
+        "country_code": "CH",
+        "asn": "39296",
+        "description": "Federation Internationale de Football Association (FIFA)",
+        "handle": "FIFA"
+    },
+    "39381": {
+        "country_code": "CH",
+        "asn": "39381",
+        "description": "Services Industriels de Geneve",
+        "handle": "SIG-DSI"
+    },
+    "39419": {
+        "country_code": "CH",
+        "asn": "39419",
+        "description": "Dina IT Solutions SA",
+        "handle": "CISEL"
+    },
+    "39432": {
+        "country_code": "CH",
+        "asn": "39432",
+        "description": "Saitis Network N.Desir",
+        "handle": "SAITIS-NETWORK-EVERYWHERE"
+    },
+    "39440": {
+        "country_code": "CH",
+        "asn": "39440",
+        "description": "netplusFR SA",
+        "handle": "NETPLUSFR-AS"
+    },
+    "39457": {
+        "country_code": "CH",
+        "asn": "39457",
+        "description": "Lufthansa Systems FlightNav AG",
+        "handle": "LHSYS-CH-AS"
+    },
+    "39540": {
+        "country_code": "CH",
+        "asn": "39540",
+        "description": "CommunityRack.org Verein",
+        "handle": "COMMUNITYRACK-RMA"
+    },
+    "39544": {
+        "country_code": "CH",
+        "asn": "39544",
+        "description": "VOe multimedia SA",
+        "handle": "VOE"
+    },
+    "39624": {
+        "country_code": "CH",
+        "asn": "39624",
+        "description": "KPMG AG",
+        "handle": "KPMG-CH"
+    },
+    "39671": {
+        "country_code": "CH",
+        "asn": "39671",
+        "description": "Stonehage Fleming SA",
+        "handle": "AS-STONEHAGEFLEMING"
+    },
+    "39750": {
+        "country_code": "CH",
+        "asn": "39750",
+        "description": "Coutts & Co AG",
+        "handle": "RBS-SERVICES-LTD"
+    },
+    "39764": {
+        "country_code": "CH",
+        "asn": "39764",
+        "description": "F24 Schweiz AG",
+        "handle": "DOLPHIN"
+    },
+    "39865": {
+        "country_code": "CH",
+        "asn": "39865",
+        "description": "FotoWare Switzerland AG",
+        "handle": "VIT-CH"
+    },
+    "39932": {
+        "country_code": "CH",
+        "asn": "39932",
+        "description": "Ergon Informatik AG",
+        "handle": "ERGON"
+    },
+    "41003": {
+        "country_code": "CH",
+        "asn": "41003",
+        "description": "HoistGroup SA",
+        "handle": "HOISTGROUP-GVA"
+    },
+    "41051": {
+        "country_code": "CH",
+        "asn": "41051",
+        "description": "Openfactory GmbH",
+        "handle": "FREETRANSIT"
+    },
+    "41071": {
+        "country_code": "CH",
+        "asn": "41071",
+        "description": "OPENPOP SA",
+        "handle": "OPENPOP-AS"
+    },
+    "41133": {
+        "country_code": "CH",
+        "asn": "41133",
+        "description": "BE.iT SA",
+        "handle": "AS-BEITSA"
+    },
+    "41264": {
+        "country_code": "CH",
+        "asn": "41264",
+        "description": "Google Switzerland GmbH",
+        "handle": "GOOGLE-IT-RO-ISP"
+    },
+    "41290": {
+        "country_code": "CH",
+        "asn": "41290",
+        "description": "AlpineDC SA",
+        "handle": "ALPINEDC2"
+    },
+    "41294": {
+        "country_code": "CH",
+        "asn": "41294",
+        "description": "Zuger Kantonalbank",
+        "handle": "ZUGERKB"
+    },
+    "41386": {
+        "country_code": "CH",
+        "asn": "41386",
+        "description": "Bank for International Settlements (BIS)",
+        "handle": "BIS-AS"
+    },
+    "41408": {
+        "country_code": "CH",
+        "asn": "41408",
+        "description": "Bechtle Schweiz AG",
+        "handle": "ONCLOUD"
+    },
+    "41481": {
+        "country_code": "CH",
+        "asn": "41481",
+        "description": "Hirslanden AG",
+        "handle": "HIRSLANDEN"
+    },
+    "41482": {
+        "country_code": "CH",
+        "asn": "41482",
+        "description": "Bechtle Schweiz AG",
+        "handle": "CLUEAG-AS"
+    },
+    "41503": {
+        "country_code": "CH",
+        "asn": "41503",
+        "description": "Barclays Bank (Suisse) SA",
+        "handle": "BPB-GENEVA"
+    },
+    "41521": {
+        "country_code": "CH",
+        "asn": "41521",
+        "description": "Finastra Switzerland GmbH",
+        "handle": "BBP"
+    },
+    "41549": {
+        "country_code": "CH",
+        "asn": "41549",
+        "description": "Elektrizitaets- und Wasserwerk der Stadt Buchs SG",
+        "handle": "EWB-CABLE-NETWORK-AS"
+    },
+    "41555": {
+        "country_code": "CH",
+        "asn": "41555",
+        "description": "Novartis AG",
+        "handle": "NOVATKL-AS"
+    },
+    "41562": {
+        "country_code": "CH",
+        "asn": "41562",
+        "description": "Host4all Sarl",
+        "handle": "HOST4ALL-AS"
+    },
+    "41577": {
+        "country_code": "CH",
+        "asn": "41577",
+        "description": "Thommen Services AG",
+        "handle": "METALLUMGROUP"
+    },
+    "41590": {
+        "country_code": "CH",
+        "asn": "41590",
+        "description": "u-blox AG",
+        "handle": "U-BLOX"
+    },
+    "41622": {
+        "country_code": "CH",
+        "asn": "41622",
+        "description": "WWZ Telekom AG",
+        "handle": "DATABAAR"
+    },
+    "41632": {
+        "country_code": "CH",
+        "asn": "41632",
+        "description": "Glarner Kantonalbank",
+        "handle": "GLKB"
+    },
+    "41655": {
+        "country_code": "CH",
+        "asn": "41655",
+        "description": "Netcloud AG",
+        "handle": "NETCLOUD"
+    },
+    "41715": {
+        "country_code": "CH",
+        "asn": "41715",
+        "description": "TBS Strom AG",
+        "handle": "TB-SUHR"
+    },
+    "41766": {
+        "country_code": "CH",
+        "asn": "41766",
+        "description": "JobCloud SA",
+        "handle": "JOBUP-AS"
+    },
+    "41768": {
+        "country_code": "CH",
+        "asn": "41768",
+        "description": "WEIDMANN ELECTRICAL TECHNOLOGY AG",
+        "handle": "WEIDMANN"
+    },
+    "41838": {
+        "country_code": "CH",
+        "asn": "41838",
+        "description": "Dolansoft",
+        "handle": "DOLANSOFT"
+    },
+    "41872": {
+        "country_code": "CH",
+        "asn": "41872",
+        "description": "GIB-Solutions AG",
+        "handle": "FLASHCABLE"
+    },
+    "41882": {
+        "country_code": "CH",
+        "asn": "41882",
+        "description": "Association RomandIX",
+        "handle": "ROMANDIX"
+    },
+    "41906": {
+        "country_code": "CH",
+        "asn": "41906",
+        "description": "AIC TRAVEL GROUP SA",
+        "handle": "AICGROUP-AS"
+    },
+    "41913": {
+        "country_code": "CH",
+        "asn": "41913",
+        "description": "Computerline GmbH",
+        "handle": "COMPUTERLINE"
+    },
+    "41983": {
+        "country_code": "CH",
+        "asn": "41983",
+        "description": "Kaspersky Lab Switzerland GmbH",
+        "handle": "KL-AS"
+    },
+    "42011": {
+        "country_code": "CH",
+        "asn": "42011",
+        "description": "onway (Schweiz) AG",
+        "handle": "MYISP"
+    },
+    "42032": {
+        "country_code": "CH",
+        "asn": "42032",
+        "description": "Sandro Bolliger trading as Bolliger Network Solutions",
+        "handle": "ASCOMMUNITY"
+    },
+    "42059": {
+        "country_code": "CH",
+        "asn": "42059",
+        "description": "HuGy GmbH",
+        "handle": "HUGY"
+    },
+    "42079": {
+        "country_code": "CH",
+        "asn": "42079",
+        "description": "SkyPro AG",
+        "handle": "SKYPRO-CH"
+    },
+    "42085": {
+        "country_code": "CH",
+        "asn": "42085",
+        "description": "Telconet AG",
+        "handle": "TELCONET-AS"
+    },
+    "42128": {
+        "country_code": "CH",
+        "asn": "42128",
+        "description": "HORISEN AG",
+        "handle": "HORISEN-AS"
+    },
+    "42155": {
+        "country_code": "CH",
+        "asn": "42155",
+        "description": "Evard AG",
+        "handle": "CH-EVARD-4"
+    },
+    "42168": {
+        "country_code": "CH",
+        "asn": "42168",
+        "description": "Ecole Professionnelle Artisanale et Industrielle",
+        "handle": "EPAI-AS"
+    },
+    "42202": {
+        "country_code": "CH",
+        "asn": "42202",
+        "description": "onway (Schweiz) AG",
+        "handle": "CGAS"
+    },
+    "42336": {
+        "country_code": "CH",
+        "asn": "42336",
+        "description": "Marbell AG",
+        "handle": "BEELASTIC"
+    },
+    "42346": {
+        "country_code": "CH",
+        "asn": "42346",
+        "description": "NorthC Schweiz AG",
+        "handle": "AS-TINEO"
+    },
+    "42357": {
+        "country_code": "CH",
+        "asn": "42357",
+        "description": "ProGest SA",
+        "handle": "PROGEST"
+    },
+    "42389": {
+        "country_code": "CH",
+        "asn": "42389",
+        "description": "Zattoo AG",
+        "handle": "ZATTOO-AS"
+    },
+    "42476": {
+        "country_code": "CH",
+        "asn": "42476",
+        "description": "SwissIX Internet Exchange",
+        "handle": "SWISSIX-AS"
+    },
+    "42491": {
+        "country_code": "CH",
+        "asn": "42491",
+        "description": "Arpage AG",
+        "handle": "ARPAGE"
+    },
+    "42500": {
+        "country_code": "CH",
+        "asn": "42500",
+        "description": "foobar LLC",
+        "handle": "FOOBAR-AS"
+    },
+    "42509": {
+        "country_code": "CH",
+        "asn": "42509",
+        "description": "Ad Insertion Platform Sarl",
+        "handle": "ADINSERTPLATFORM"
+    },
+    "42570": {
+        "country_code": "CH",
+        "asn": "42570",
+        "description": "Nagravision Sarl",
+        "handle": "EU-CH-KS-PORTSCANNING"
+    },
+    "42629": {
+        "country_code": "CH",
+        "asn": "42629",
+        "description": "Equinix (Switzerland) GmbH",
+        "handle": "EQUINIX-CLOUD-EXCHANGE-ZURICH-ASN"
+    },
+    "42760": {
+        "country_code": "CH",
+        "asn": "42760",
+        "description": "Abacus Research AG",
+        "handle": "ABACUS"
+    },
+    "42810": {
+        "country_code": "CH",
+        "asn": "42810",
+        "description": "TcNet GmbH",
+        "handle": "TCNETCH"
+    },
+    "42860": {
+        "country_code": "CH",
+        "asn": "42860",
+        "description": "Energy Financing Team (Switzerland) AG",
+        "handle": "EFT"
+    },
+    "42898": {
+        "country_code": "CH",
+        "asn": "42898",
+        "description": "Marco Sandro Naef",
+        "handle": "SINAVPS"
+    },
+    "42917": {
+        "country_code": "CH",
+        "asn": "42917",
+        "description": "Staempfli AG",
+        "handle": "STAEMPFLI"
+    },
+    "42978": {
+        "country_code": "CH",
+        "asn": "42978",
+        "description": "Patrick Velder",
+        "handle": "PATRICK7-AS"
+    },
+    "43107": {
+        "country_code": "CH",
+        "asn": "43107",
+        "description": "Waser + Co. AG",
+        "handle": "WASER-CH"
+    },
+    "43122": {
+        "country_code": "CH",
+        "asn": "43122",
+        "description": "Capital Dynamics AG",
+        "handle": "CAPDYN"
+    },
+    "43127": {
+        "country_code": "CH",
+        "asn": "43127",
+        "description": "Ifolor AG",
+        "handle": "PCK-AS"
+    },
+    "43136": {
+        "country_code": "CH",
+        "asn": "43136",
+        "description": "NTT Security (Switzerland) AG",
+        "handle": "INFOTRUST-NET"
+    },
+    "43141": {
+        "country_code": "CH",
+        "asn": "43141",
+        "description": "Associazione SWISS INNOVATIVE ARTS & TECHNOLOGIES INSTITUTE (SIATI)",
+        "handle": "ANTIDDOS-CH"
+    },
+    "43183": {
+        "country_code": "CH",
+        "asn": "43183",
+        "description": "SwissSign AG",
+        "handle": "SWISSSIGN"
+    },
+    "43284": {
+        "country_code": "CH",
+        "asn": "43284",
+        "description": "IWB Industrielle Werke Basel",
+        "handle": "IWB-TELEKOM"
+    },
+    "43291": {
+        "country_code": "CH",
+        "asn": "43291",
+        "description": "Achermann ict-services AG",
+        "handle": "ACAG-AS"
+    },
+    "43393": {
+        "country_code": "CH",
+        "asn": "43393",
+        "description": "HRM Systems AG",
+        "handle": "HRMSYSTEMS"
+    },
+    "43440": {
+        "country_code": "CH",
+        "asn": "43440",
+        "description": "Digitale Suisse AG",
+        "handle": "DIGITALESUISSE"
+    },
+    "43457": {
+        "country_code": "CH",
+        "asn": "43457",
+        "description": "Equinix (Switzerland) GmbH",
+        "handle": "EQUINIX-CLOUD-EXCHANGE-MILAN-ASN"
+    },
+    "43477": {
+        "country_code": "CH",
+        "asn": "43477",
+        "description": "WIR Bank Genossenschaft",
+        "handle": "WIRBANK-AS"
+    },
+    "43549": {
+        "country_code": "CH",
+        "asn": "43549",
+        "description": "Sonova AG",
+        "handle": "ASN-SONOVA"
+    },
+    "43572": {
+        "country_code": "CH",
+        "asn": "43572",
+        "description": "Stiftung Heilsarmee Schweiz",
+        "handle": "HEILSARMEE-NET"
+    },
+    "43621": {
+        "country_code": "CH",
+        "asn": "43621",
+        "description": "Parallels International GmbH",
+        "handle": "PARALLELS-AS"
+    },
+    "43664": {
+        "country_code": "CH",
+        "asn": "43664",
+        "description": "Hans-Dieter Effner",
+        "handle": "HANS-DIETER-EFFNER-NETWORK"
+    },
+    "43735": {
+        "country_code": "CH",
+        "asn": "43735",
+        "description": "Genedata AG",
+        "handle": "GENEDATA"
+    },
+    "43800": {
+        "country_code": "CH",
+        "asn": "43800",
+        "description": "NTS workspace AG",
+        "handle": "GANESH-CONSULTING"
+    },
+    "43828": {
+        "country_code": "CH",
+        "asn": "43828",
+        "description": "Societe de la Loterie de la Suisse Romande",
+        "handle": "LORO-AS"
+    },
+    "43906": {
+        "country_code": "CH",
+        "asn": "43906",
+        "description": "NTS Colocation AG",
+        "handle": "COLOZH"
+    },
+    "44038": {
+        "country_code": "CH",
+        "asn": "44038",
+        "description": "Swisscom (Schweiz) AG",
+        "handle": "BLUEWIN-AS"
+    },
+    "44166": {
+        "country_code": "CH",
+        "asn": "44166",
+        "description": "NTD SA",
+        "handle": "NTD-AS"
+    },
+    "44238": {
+        "country_code": "CH",
+        "asn": "44238",
+        "description": "MeteoNews AG",
+        "handle": "METEONEWS-AS"
+    },
+    "44239": {
+        "country_code": "CH",
+        "asn": "44239",
+        "description": "proinity GmbH",
+        "handle": "PROINITY"
+    },
+    "44346": {
+        "country_code": "CH",
+        "asn": "44346",
+        "description": "SWISSQUOTE BANK SA",
+        "handle": "SQ-BACKBONE"
+    },
+    "44393": {
+        "country_code": "CH",
+        "asn": "44393",
+        "description": "Securebit AG",
+        "handle": "SBRC"
+    },
+    "44432": {
+        "country_code": "CH",
+        "asn": "44432",
+        "description": "Andreas Fink trading as Fink Telecom Services GmbH",
+        "handle": "RACKBONE"
+    },
+    "44468": {
+        "country_code": "CH",
+        "asn": "44468",
+        "description": "webkitchen GmbH",
+        "handle": "WEBKITCHEN-AS"
+    },
+    "44469": {
+        "country_code": "CH",
+        "asn": "44469",
+        "description": "Basilea Pharmaceutica International Ltd.",
+        "handle": "BASILEA-PHARMACEUTICA-AG"
+    },
+    "44573": {
+        "country_code": "CH",
+        "asn": "44573",
+        "description": "Init7 (Switzerland) Ltd.",
+        "handle": "LAYERONE-AS"
+    },
+    "44596": {
+        "country_code": "CH",
+        "asn": "44596",
+        "description": "CommunityRack.org Verein",
+        "handle": "COMMUNITYIX"
+    },
+    "44601": {
+        "country_code": "CH",
+        "asn": "44601",
+        "description": "Merkle Switzerland AG",
+        "handle": "NAMICS-AS"
+    },
+    "44681": {
+        "country_code": "CH",
+        "asn": "44681",
+        "description": "iFog GmbH",
+        "handle": "BARCELONA-IX-ROUTE-SERVERS"
+    },
+    "44690": {
+        "country_code": "CH",
+        "asn": "44690",
+        "description": "Kofax Schweiz AG",
+        "handle": "DICOM-AG-AS"
+    },
+    "44776": {
+        "country_code": "CH",
+        "asn": "44776",
+        "description": "Reist Telecom AG",
+        "handle": "REIST-TELECOM-AS"
+    },
+    "44829": {
+        "country_code": "CH",
+        "asn": "44829",
+        "description": "MSCI Barra (Suisse) Sarl",
+        "handle": "MSCIBARRA-AS"
+    },
+    "44879": {
+        "country_code": "CH",
+        "asn": "44879",
+        "description": "Zentrale Informatikdienste ZID Kanton Basel-Landschaft",
+        "handle": "ZIDBL"
+    },
+    "44885": {
+        "country_code": "CH",
+        "asn": "44885",
+        "description": "Ello communications S.A.",
+        "handle": "ELLO"
+    },
+    "44888": {
+        "country_code": "CH",
+        "asn": "44888",
+        "description": "Huber+Suhner AG",
+        "handle": "HUSU-AS"
+    },
+    "44911": {
+        "country_code": "CH",
+        "asn": "44911",
+        "description": "Swiss IT Security AG",
+        "handle": "KEYNET-AG"
+    },
+    "44919": {
+        "country_code": "CH",
+        "asn": "44919",
+        "description": "eqipe GmbH",
+        "handle": "EQIPE"
+    },
+    "44938": {
+        "country_code": "CH",
+        "asn": "44938",
+        "description": "Itesys AG",
+        "handle": "ITESYS-AS"
+    },
+    "44948": {
+        "country_code": "CH",
+        "asn": "44948",
+        "description": "Kevin Buehl",
+        "handle": "SHL"
+    },
+    "44990": {
+        "country_code": "CH",
+        "asn": "44990",
+        "description": "Trenka Informatik AG",
+        "handle": "CYBERSYSTEMS"
+    },
+    "47109": {
+        "country_code": "CH",
+        "asn": "47109",
+        "description": "Dormakaba Schweiz AG",
+        "handle": "KABA-AS"
+    },
+    "47176": {
+        "country_code": "CH",
+        "asn": "47176",
+        "description": "GAS&COM AG",
+        "handle": "GASCOMCH"
+    },
+    "47194": {
+        "country_code": "CH",
+        "asn": "47194",
+        "description": "Oblcom Swiss AG",
+        "handle": "OBLCOMSW-AS"
+    },
+    "47271": {
+        "country_code": "CH",
+        "asn": "47271",
+        "description": "WISEKEY SA",
+        "handle": "WISEKEY"
+    },
+    "47299": {
+        "country_code": "CH",
+        "asn": "47299",
+        "description": "Reyl & Cie SA",
+        "handle": "REYL-AS"
+    },
+    "47302": {
+        "country_code": "CH",
+        "asn": "47302",
+        "description": "cyon AG",
+        "handle": "CYON"
+    },
+    "47328": {
+        "country_code": "CH",
+        "asn": "47328",
+        "description": "DigitalOne AG",
+        "handle": "TRI-AS"
+    },
+    "47337": {
+        "country_code": "CH",
+        "asn": "47337",
+        "description": "Uplink AG",
+        "handle": "UPLINK-NETWORK"
+    },
+    "47422": {
+        "country_code": "CH",
+        "asn": "47422",
+        "description": "Securebit AG",
+        "handle": "SB"
+    },
+    "47444": {
+        "country_code": "CH",
+        "asn": "47444",
+        "description": "Novartis AG",
+        "handle": "NOVARTIS-EA"
+    },
+    "47461": {
+        "country_code": "CH",
+        "asn": "47461",
+        "description": "Starhome Mach GmbH",
+        "handle": "STARH"
+    },
+    "47469": {
+        "country_code": "CH",
+        "asn": "47469",
+        "description": "USM U. Schaerer & Soehne AG",
+        "handle": "USM"
+    },
+    "47498": {
+        "country_code": "CH",
+        "asn": "47498",
+        "description": "iFog GmbH",
+        "handle": "FOGIXP"
+    },
+    "47506": {
+        "country_code": "CH",
+        "asn": "47506",
+        "description": "Nexanet AG",
+        "handle": "NEXANET"
+    },
+    "47538": {
+        "country_code": "CH",
+        "asn": "47538",
+        "description": "Swisspro AG",
+        "handle": "ANCOMA-AS"
+    },
+    "47617": {
+        "country_code": "CH",
+        "asn": "47617",
+        "description": "Wagner AG Informatik Dienstleistungen",
+        "handle": "WAGNER"
+    },
+    "47639": {
+        "country_code": "CH",
+        "asn": "47639",
+        "description": "Yanuda AG",
+        "handle": "YANUDA"
+    },
+    "47649": {
+        "country_code": "CH",
+        "asn": "47649",
+        "description": "EGELI Informatik AG",
+        "handle": "EGELI-INFORMATIK-AS"
+    },
+    "47908": {
+        "country_code": "CH",
+        "asn": "47908",
+        "description": "Cleondris GmbH",
+        "handle": "CLEONDRIS"
+    },
+    "47936": {
+        "country_code": "CH",
+        "asn": "47936",
+        "description": "Nagravision Sarl",
+        "handle": "EU-OSL"
+    },
+    "47946": {
+        "country_code": "CH",
+        "asn": "47946",
+        "description": "Le petit-fils de L.U. Chopard & Cie SA",
+        "handle": "CHOPARD-AS"
+    },
+    "48027": {
+        "country_code": "CH",
+        "asn": "48027",
+        "description": "Sitrox AG",
+        "handle": "SITROX"
+    },
+    "48038": {
+        "country_code": "CH",
+        "asn": "48038",
+        "description": "Coop Genossenschaft",
+        "handle": "CH-COOP"
+    },
+    "48052": {
+        "country_code": "CH",
+        "asn": "48052",
+        "description": "SWISSQUOTE BANK SA",
+        "handle": "SQCORE"
+    },
+    "48138": {
+        "country_code": "CH",
+        "asn": "48138",
+        "description": "Patek Philippe SA Geneve",
+        "handle": "PATEK-PHILIPPE-AS"
+    },
+    "48158": {
+        "country_code": "CH",
+        "asn": "48158",
+        "description": "DigitalOne AG",
+        "handle": "DIGITALONE-AS"
+    },
+    "48194": {
+        "country_code": "CH",
+        "asn": "48194",
+        "description": "Navest GmbH",
+        "handle": "NAVEST"
+    },
+    "48218": {
+        "country_code": "CH",
+        "asn": "48218",
+        "description": "HiHo AG",
+        "handle": "HIHO"
+    },
+    "48258": {
+        "country_code": "CH",
+        "asn": "48258",
+        "description": "SPIE ICS AG",
+        "handle": "SPIE-ICS-AS"
+    },
+    "48263": {
+        "country_code": "CH",
+        "asn": "48263",
+        "description": "Schweizerische Bundesbahnen SBB",
+        "handle": "SBB-CDC"
+    },
+    "48307": {
+        "country_code": "CH",
+        "asn": "48307",
+        "description": "Nestle Nespresso SA",
+        "handle": "NESPRESSO-AS"
+    },
+    "48350": {
+        "country_code": "CH",
+        "asn": "48350",
+        "description": "Zenvoo Sagl",
+        "handle": "ZENVOO-AS"
+    },
+    "48390": {
+        "country_code": "CH",
+        "asn": "48390",
+        "description": "Lucas Dousse",
+        "handle": "DSNETWORK"
+    },
+    "48461": {
+        "country_code": "CH",
+        "asn": "48461",
+        "description": "stepping stone AG",
+        "handle": "STEPPING-STONE"
+    },
+    "48468": {
+        "country_code": "CH",
+        "asn": "48468",
+        "description": "Triumph Intertrade AG",
+        "handle": "TRIUMPH-AS"
+    },
+    "48482": {
+        "country_code": "CH",
+        "asn": "48482",
+        "description": "Wuerth Itensis AG",
+        "handle": "ITENSIS-AS"
+    },
+    "48540": {
+        "country_code": "CH",
+        "asn": "48540",
+        "description": "METTLER-TOLEDO INTERNATIONAL INC. Wilmington Delaware Greifensee Branch",
+        "handle": "ASMTI"
+    },
+    "48550": {
+        "country_code": "CH",
+        "asn": "48550",
+        "description": "Pascal Mathis trading as SnapServ Mathis",
+        "handle": "SNAPSERV"
+    },
+    "48575": {
+        "country_code": "CH",
+        "asn": "48575",
+        "description": "Swiss IT Security AG",
+        "handle": "KEYNET-CLOUD"
+    },
+    "48590": {
+        "country_code": "CH",
+        "asn": "48590",
+        "description": "Litasco SA",
+        "handle": "LITASCO-CH"
+    },
+    "48662": {
+        "country_code": "CH",
+        "asn": "48662",
+        "description": "BitMotion GmbH",
+        "handle": "WELL-SERVED"
+    },
+    "48681": {
+        "country_code": "CH",
+        "asn": "48681",
+        "description": "Migros-Genossenschafts-Bund",
+        "handle": "MIGROS-DATACENTER-AS"
+    },
+    "48776": {
+        "country_code": "CH",
+        "asn": "48776",
+        "description": "Ricola AG",
+        "handle": "RICOLA-AS"
+    },
+    "48795": {
+        "country_code": "CH",
+        "asn": "48795",
+        "description": "Securebit AG",
+        "handle": "IP6"
+    },
+    "48849": {
+        "country_code": "CH",
+        "asn": "48849",
+        "description": "Sika Informationssysteme AG",
+        "handle": "SIKA-AS"
+    },
+    "48857": {
+        "country_code": "CH",
+        "asn": "48857",
+        "description": "Baloise Versicherung AG",
+        "handle": "BASLER-AS"
+    },
+    "48885": {
+        "country_code": "CH",
+        "asn": "48885",
+        "description": "Neocarrier Communications Sarl",
+        "handle": "NEOCARRIER"
+    },
+    "48971": {
+        "country_code": "CH",
+        "asn": "48971",
+        "description": "DATAWIRE AG",
+        "handle": "DATAWIRE-AS"
+    },
+    "48983": {
+        "country_code": "CH",
+        "asn": "48983",
+        "description": "Artmotion AG",
+        "handle": "LETZI"
+    },
+    "49043": {
+        "country_code": "CH",
+        "asn": "49043",
+        "description": "Novartis AG",
+        "handle": "NOVARTIS-BR"
+    },
+    "49071": {
+        "country_code": "CH",
+        "asn": "49071",
+        "description": "Schweizerische Radio- und Fernsehgesellschaft",
+        "handle": "SWISSTXT"
+    },
+    "49113": {
+        "country_code": "CH",
+        "asn": "49113",
+        "description": "Petignat Jean-Charles trading as Cablotel Telereseaux",
+        "handle": "CABLOTEL"
+    },
+    "49114": {
+        "country_code": "CH",
+        "asn": "49114",
+        "description": "APPLIC8 SA",
+        "handle": "APPLIC8"
+    },
+    "49174": {
+        "country_code": "CH",
+        "asn": "49174",
+        "description": "PlanetCloud SA",
+        "handle": "PLANETCLOUD"
+    },
+    "49192": {
+        "country_code": "CH",
+        "asn": "49192",
+        "description": "Openfactory GmbH",
+        "handle": "OPENFACTORY-EUROPE"
+    },
+    "49236": {
+        "country_code": "CH",
+        "asn": "49236",
+        "description": "DATAWIRE AG",
+        "handle": "FOURSYNERGY"
+    },
+    "49237": {
+        "country_code": "CH",
+        "asn": "49237",
+        "description": "DreamLab Technologies Ltd.",
+        "handle": "DREAMLAB"
+    },
+    "49446": {
+        "country_code": "CH",
+        "asn": "49446",
+        "description": "Somedia Production AG",
+        "handle": "NEWMEDIA"
+    },
+    "49457": {
+        "country_code": "CH",
+        "asn": "49457",
+        "description": "Openbusiness S.A.",
+        "handle": "OPENBUSINESS"
+    },
+    "49462": {
+        "country_code": "CH",
+        "asn": "49462",
+        "description": "dualstack AG",
+        "handle": "DUALSTACK"
+    },
+    "49489": {
+        "country_code": "CH",
+        "asn": "49489",
+        "description": "ClearMedia AG",
+        "handle": "CLEARMEDIA-AS"
+    },
+    "49520": {
+        "country_code": "CH",
+        "asn": "49520",
+        "description": "Uster Technologies AG",
+        "handle": "USTERTECHNOLOGIES-AS"
+    },
+    "49525": {
+        "country_code": "CH",
+        "asn": "49525",
+        "description": "Solar Turbines Switzerland Sagl",
+        "handle": "TURBOMACH-AS"
+    },
+    "49625": {
+        "country_code": "CH",
+        "asn": "49625",
+        "description": "gocloud.gmbh",
+        "handle": "GOCLOUD"
+    },
+    "49642": {
+        "country_code": "CH",
+        "asn": "49642",
+        "description": "Touring Club Suisse",
+        "handle": "TCS"
+    },
+    "49865": {
+        "country_code": "CH",
+        "asn": "49865",
+        "description": "JT International SA",
+        "handle": "JTI"
+    },
+    "49938": {
+        "country_code": "CH",
+        "asn": "49938",
+        "description": "CHEMGINEERING HOLDING AG",
+        "handle": "CHEMGINEERING-AS"
+    },
+    "49942": {
+        "country_code": "CH",
+        "asn": "49942",
+        "description": "Bank Vontobel AG",
+        "handle": "BVT"
+    },
+    "49983": {
+        "country_code": "CH",
+        "asn": "49983",
+        "description": "MiroNet AG",
+        "handle": "MIRONET-AS"
+    },
+    "50110": {
+        "country_code": "CH",
+        "asn": "50110",
+        "description": "OBERGERICHT DES KANTON ZURICH",
+        "handle": "GERICHTEZH"
+    },
+    "50117": {
+        "country_code": "CH",
+        "asn": "50117",
+        "description": "Partners Group AG",
+        "handle": "PARTNERS-GROUP"
+    },
+    "50136": {
+        "country_code": "CH",
+        "asn": "50136",
+        "description": "Kurt Schreckenbauer trading as Comtrend",
+        "handle": "COMTREND"
+    },
+    "50170": {
+        "country_code": "CH",
+        "asn": "50170",
+        "description": "AEXIN SA",
+        "handle": "ALTEA"
+    },
+    "50185": {
+        "country_code": "CH",
+        "asn": "50185",
+        "description": "Vitodata AG",
+        "handle": "VITODATA-AS"
+    },
+    "50255": {
+        "country_code": "CH",
+        "asn": "50255",
+        "description": "LITECOM AG",
+        "handle": "ASN-LITECOM"
+    },
+    "50262": {
+        "country_code": "CH",
+        "asn": "50262",
+        "description": "Unic AG",
+        "handle": "UNIC"
+    },
+    "50277": {
+        "country_code": "CH",
+        "asn": "50277",
+        "description": "Transports publics genevois",
+        "handle": "TPGNET"
+    },
+    "50327": {
+        "country_code": "CH",
+        "asn": "50327",
+        "description": "IP-Max SA",
+        "handle": "IP-MAX-SWM"
+    },
+    "50350": {
+        "country_code": "CH",
+        "asn": "50350",
+        "description": "MKS Pamp SA",
+        "handle": "MKS-AS"
+    },
+    "50405": {
+        "country_code": "CH",
+        "asn": "50405",
+        "description": "Swisslog Holding AG",
+        "handle": "SLOG"
+    },
+    "50476": {
+        "country_code": "CH",
+        "asn": "50476",
+        "description": "Groupe Mutuel Association",
+        "handle": "GRPMUT"
+    },
+    "50525": {
+        "country_code": "CH",
+        "asn": "50525",
+        "description": "Privado Networks AG",
+        "handle": "PRIVADO-DE"
+    },
+    "50598": {
+        "country_code": "CH",
+        "asn": "50598",
+        "description": "SFS Group Schweiz AG",
+        "handle": "SFS-SERVICES-AG"
+    },
+    "50609": {
+        "country_code": "CH",
+        "asn": "50609",
+        "description": "MERCURIA ENERGY TRADING SA",
+        "handle": "MERCURIA-AS"
+    },
+    "50734": {
+        "country_code": "CH",
+        "asn": "50734",
+        "description": "Bell AG",
+        "handle": "BELL-AS"
+    },
+    "50785": {
+        "country_code": "CH",
+        "asn": "50785",
+        "description": "Netrics AG",
+        "handle": "AS-NETRICS"
+    },
+    "50805": {
+        "country_code": "CH",
+        "asn": "50805",
+        "description": "EBP Schweiz AG",
+        "handle": "EBP"
+    },
+    "50837": {
+        "country_code": "CH",
+        "asn": "50837",
+        "description": "CLOUDSIGMA AG",
+        "handle": "CLOUDSIGMA-AS"
+    },
+    "50849": {
+        "country_code": "CH",
+        "asn": "50849",
+        "description": "Comune di Lugano",
+        "handle": "ASN-LUGA"
+    },
+    "50869": {
+        "country_code": "CH",
+        "asn": "50869",
+        "description": "IPng Networks GmbH",
+        "handle": "FREEIX-REMOTE"
+    },
+    "50963": {
+        "country_code": "CH",
+        "asn": "50963",
+        "description": "Infraly Ltd liab. Co",
+        "handle": "INFRALY"
+    },
+    "50997": {
+        "country_code": "CH",
+        "asn": "50997",
+        "description": "netspring gmbh",
+        "handle": "NETSPRING-AS"
+    },
+    "51106": {
+        "country_code": "CH",
+        "asn": "51106",
+        "description": "ti&m AG",
+        "handle": "TI8M"
+    },
+    "51154": {
+        "country_code": "CH",
+        "asn": "51154",
+        "description": "pCloud AG",
+        "handle": "PCLOUD"
+    },
+    "51163": {
+        "country_code": "CH",
+        "asn": "51163",
+        "description": "Swisscom (Schweiz) AG",
+        "handle": "SWISSCOM-SECOND-NET"
+    },
+    "51262": {
+        "country_code": "CH",
+        "asn": "51262",
+        "description": "Giga Mobile AG",
+        "handle": "INTERNETGROUP"
+    },
+    "51395": {
+        "country_code": "CH",
+        "asn": "51395",
+        "description": "Datasource AG",
+        "handle": "AS-SOFTPLUS"
+    },
+    "51423": {
+        "country_code": "CH",
+        "asn": "51423",
+        "description": "Assolo Networks SA",
+        "handle": "ASSOLO"
+    },
+    "51450": {
+        "country_code": "CH",
+        "asn": "51450",
+        "description": "Wordline Switzerland AG",
+        "handle": "INNOCARD-AS"
+    },
+    "51529": {
+        "country_code": "CH",
+        "asn": "51529",
+        "description": "UPGREAT AG",
+        "handle": "AARERZ"
+    },
+    "51530": {
+        "country_code": "CH",
+        "asn": "51530",
+        "description": "IP-Max SA",
+        "handle": "FREE-IX"
+    },
+    "51688": {
+        "country_code": "CH",
+        "asn": "51688",
+        "description": "9 AG",
+        "handle": "AS-9AG"
+    },
+    "51760": {
+        "country_code": "CH",
+        "asn": "51760",
+        "description": "Medela AG",
+        "handle": "MEDELA-AS"
+    },
+    "51768": {
+        "country_code": "CH",
+        "asn": "51768",
+        "description": "KEYSTONE-SDA-ATS AG",
+        "handle": "KEYSTONE-SDA-ATS"
+    },
+    "51776": {
+        "country_code": "CH",
+        "asn": "51776",
+        "description": "Sportradar AG",
+        "handle": "SPORTRADAR-AS"
+    },
+    "51778": {
+        "country_code": "CH",
+        "asn": "51778",
+        "description": "Pure ICT AG",
+        "handle": "ASPUREICT"
+    },
+    "51786": {
+        "country_code": "CH",
+        "asn": "51786",
+        "description": "Patrick Velder",
+        "handle": "VELDER-AS"
+    },
+    "51798": {
+        "country_code": "CH",
+        "asn": "51798",
+        "description": "Tridexon AG",
+        "handle": "MSWSI"
+    },
+    "51817": {
+        "country_code": "CH",
+        "asn": "51817",
+        "description": "Lonza AG",
+        "handle": "LONZA-AS"
+    },
+    "51820": {
+        "country_code": "CH",
+        "asn": "51820",
+        "description": "Swisscom Broadcast Ltd",
+        "handle": "SBC-NET"
+    },
+    "51873": {
+        "country_code": "CH",
+        "asn": "51873",
+        "description": "Arcade Solutions AG",
+        "handle": "AS-ARCADE"
+    },
+    "51877": {
+        "country_code": "CH",
+        "asn": "51877",
+        "description": "MMR Invest AG",
+        "handle": "BEE-AS"
+    },
+    "51907": {
+        "country_code": "CH",
+        "asn": "51907",
+        "description": "Kanton Zug",
+        "handle": "CH-ZG"
+    },
+    "51934": {
+        "country_code": "CH",
+        "asn": "51934",
+        "description": "SIAG Secure Infostore AG",
+        "handle": "SIAG-AS"
+    },
+    "52089": {
+        "country_code": "CH",
+        "asn": "52089",
+        "description": "Vifor (International) AG",
+        "handle": "VIFOR-AS"
+    },
+    "52150": {
+        "country_code": "CH",
+        "asn": "52150",
+        "description": "Kolmar Group AG",
+        "handle": "KOLMARGROUP"
+    },
+    "52183": {
+        "country_code": "CH",
+        "asn": "52183",
+        "description": "BitHawk AG",
+        "handle": "BITHAWK"
+    },
+    "56395": {
+        "country_code": "CH",
+        "asn": "56395",
+        "description": "Orron Energy SA",
+        "handle": "ORRON-ENERGY"
+    },
+    "56554": {
+        "country_code": "CH",
+        "asn": "56554",
+        "description": "Internet Society",
+        "handle": "IETF-MEETING"
+    },
+    "56728": {
+        "country_code": "CH",
+        "asn": "56728",
+        "description": "Boost (Suisse) SA",
+        "handle": "BOOST"
+    },
+    "56743": {
+        "country_code": "CH",
+        "asn": "56743",
+        "description": "Paradox Engineering SA",
+        "handle": "NET-PARADOX-ENGINEERING-SAGL"
+    },
+    "56755": {
+        "country_code": "CH",
+        "asn": "56755",
+        "description": "Securebit AG",
+        "handle": "SBIX"
+    },
+    "56798": {
+        "country_code": "CH",
+        "asn": "56798",
+        "description": "HIDORA SA",
+        "handle": "HIDORA"
+    },
+    "56803": {
+        "country_code": "CH",
+        "asn": "56803",
+        "description": "Datasource AG",
+        "handle": "AS-DATASOURCE"
+    },
+    "56950": {
+        "country_code": "CH",
+        "asn": "56950",
+        "description": "Securebit AG",
+        "handle": "SBAG"
+    },
+    "57118": {
+        "country_code": "CH",
+        "asn": "57118",
+        "description": "CommunityRack.org Verein",
+        "handle": "COMMUNITYRACK"
+    },
+    "57166": {
+        "country_code": "CH",
+        "asn": "57166",
+        "description": "Stefan Brand-Epprecht",
+        "handle": "STE"
+    },
+    "57183": {
+        "country_code": "CH",
+        "asn": "57183",
+        "description": "iFog GmbH",
+        "handle": "IFOG-GMBH-CUSTOMER"
+    },
+    "57204": {
+        "country_code": "CH",
+        "asn": "57204",
+        "description": "Stephan Roland Wolf",
+        "handle": "WOLFSEC-AS2"
+    },
+    "57260": {
+        "country_code": "CH",
+        "asn": "57260",
+        "description": "feratel Schweiz AG",
+        "handle": "FERATEL-CH-AS"
+    },
+    "57370": {
+        "country_code": "CH",
+        "asn": "57370",
+        "description": "Swisscom (Schweiz) AG",
+        "handle": "WINGO"
+    },
+    "57465": {
+        "country_code": "CH",
+        "asn": "57465",
+        "description": "exaSys AG",
+        "handle": "HIHO-WIN"
+    },
+    "57502": {
+        "country_code": "CH",
+        "asn": "57502",
+        "description": "Dolder Hotel AG",
+        "handle": "DOLDER-AS"
+    },
+    "57521": {
+        "country_code": "CH",
+        "asn": "57521",
+        "description": "Simplysoft GmbH",
+        "handle": "SIMPLYSOFT-AS"
+    },
+    "57559": {
+        "country_code": "CH",
+        "asn": "57559",
+        "description": "Sidarion AG",
+        "handle": "SIDARION"
+    },
+    "57576": {
+        "country_code": "CH",
+        "asn": "57576",
+        "description": "Penta SA",
+        "handle": "PENTAHOSTING-AS"
+    },
+    "57651": {
+        "country_code": "CH",
+        "asn": "57651",
+        "description": "CohProg Sarl",
+        "handle": "COHPROG"
+    },
+    "57676": {
+        "country_code": "CH",
+        "asn": "57676",
+        "description": "Azienda elettrica ticinese",
+        "handle": "AET"
+    },
+    "57757": {
+        "country_code": "CH",
+        "asn": "57757",
+        "description": "Jonas Meier",
+        "handle": "ALOPEX"
+    },
+    "57777": {
+        "country_code": "CH",
+        "asn": "57777",
+        "description": "Jeroen Massar",
+        "handle": "MASSAR"
+    },
+    "57859": {
+        "country_code": "CH",
+        "asn": "57859",
+        "description": "CERN - European Organization for Nuclear Research",
+        "handle": "CIXP-RS"
+    },
+    "57965": {
+        "country_code": "CH",
+        "asn": "57965",
+        "description": "International Committe of the Red Cross (ICRC)",
+        "handle": "ICRC-LUM"
+    },
+    "57987": {
+        "country_code": "CH",
+        "asn": "57987",
+        "description": "EMS-CHEMIE AG",
+        "handle": "EMS-AS"
+    },
+    "58057": {
+        "country_code": "CH",
+        "asn": "58057",
+        "description": "Securebit AG",
+        "handle": "SECUREBIT"
+    },
+    "58115": {
+        "country_code": "CH",
+        "asn": "58115",
+        "description": "SwissIX Internet Exchange",
+        "handle": "SWISSIX-OUTREACH"
+    },
+    "58133": {
+        "country_code": "CH",
+        "asn": "58133",
+        "description": "Lukas Mergenthaler",
+        "handle": "MTNS"
+    },
+    "58193": {
+        "country_code": "CH",
+        "asn": "58193",
+        "description": "Telecom26 AG",
+        "handle": "T26"
+    },
+    "58222": {
+        "country_code": "CH",
+        "asn": "58222",
+        "description": "ServerBase AG",
+        "handle": "SERVERBASE"
+    },
+    "58259": {
+        "country_code": "CH",
+        "asn": "58259",
+        "description": "BitMotion GmbH",
+        "handle": "BITMOTION"
+    },
+    "58260": {
+        "country_code": "CH",
+        "asn": "58260",
+        "description": "Medartis AG",
+        "handle": "MEDARTIS"
+    },
+    "58280": {
+        "country_code": "CH",
+        "asn": "58280",
+        "description": "Massimiliano Andrea Stucchi",
+        "handle": "STUCCHIMAX-AS"
+    },
+    "58299": {
+        "country_code": "CH",
+        "asn": "58299",
+        "description": "Openfactory GmbH",
+        "handle": "OPENFACTORY-AS"
+    },
+    "58326": {
+        "country_code": "CH",
+        "asn": "58326",
+        "description": "IP-Max SA",
+        "handle": "FORT-IT"
+    },
+    "59414": {
+        "country_code": "CH",
+        "asn": "59414",
+        "description": "cloudscale.ch AG",
+        "handle": "CLOUDSCALE"
+    },
+    "59519": {
+        "country_code": "CH",
+        "asn": "59519",
+        "description": "Zix International AG",
+        "handle": "APPRIVER-RIPE"
+    },
+    "59622": {
+        "country_code": "CH",
+        "asn": "59622",
+        "description": "tv factory AG",
+        "handle": "TVFACTORY-AS"
+    },
+    "59647": {
+        "country_code": "CH",
+        "asn": "59647",
+        "description": "EKT AG",
+        "handle": "EKT"
+    },
+    "59741": {
+        "country_code": "CH",
+        "asn": "59741",
+        "description": "Marco Sandro Naef",
+        "handle": "SINAVPS"
+    },
+    "59808": {
+        "country_code": "CH",
+        "asn": "59808",
+        "description": "Sandro Bolliger trading as Bolliger Network Solutions",
+        "handle": "BOLLIGER"
+    },
+    "59810": {
+        "country_code": "CH",
+        "asn": "59810",
+        "description": "Helvetia Swiss Insurance Company Ltd.",
+        "handle": "HELVETIA"
+    },
+    "59812": {
+        "country_code": "CH",
+        "asn": "59812",
+        "description": "Gluecklich GmbH",
+        "handle": "AS-GLUECKLICH"
+    },
+    "59824": {
+        "country_code": "CH",
+        "asn": "59824",
+        "description": "Nashire AG",
+        "handle": "NASHIRE"
+    },
+    "59891": {
+        "country_code": "CH",
+        "asn": "59891",
+        "description": "FSIT AG",
+        "handle": "FSIT"
+    },
+    "59898": {
+        "country_code": "CH",
+        "asn": "59898",
+        "description": "AllSafe Sarl",
+        "handle": "AS-ALLSAFE"
+    },
+    "59905": {
+        "country_code": "CH",
+        "asn": "59905",
+        "description": "NTH AG",
+        "handle": "NTH"
+    },
+    "60016": {
+        "country_code": "CH",
+        "asn": "60016",
+        "description": "Fiberstream 87 AG",
+        "handle": "ASFS3"
+    },
+    "60059": {
+        "country_code": "CH",
+        "asn": "60059",
+        "description": "Aveniq AG",
+        "handle": "AVENIQ-AS"
+    },
+    "60115": {
+        "country_code": "CH",
+        "asn": "60115",
+        "description": "Stadtverwaltung St. Gallen",
+        "handle": "CH-IDS"
+    },
+    "60129": {
+        "country_code": "CH",
+        "asn": "60129",
+        "description": "CSTI SA",
+        "handle": "CSTI-NET"
+    },
+    "60190": {
+        "country_code": "CH",
+        "asn": "60190",
+        "description": "East Metals AG in Liquidation",
+        "handle": "EASTMETALSAG-AS"
+    },
+    "60199": {
+        "country_code": "CH",
+        "asn": "60199",
+        "description": "VTX Services SA",
+        "handle": "OT-NET4ALL-AS"
+    },
+    "60265": {
+        "country_code": "CH",
+        "asn": "60265",
+        "description": "Qbix GmbH",
+        "handle": "QBIX"
+    },
+    "60284": {
+        "country_code": "CH",
+        "asn": "60284",
+        "description": "Axpo Systems AG",
+        "handle": "AS-AXSY"
+    },
+    "60311": {
+        "country_code": "CH",
+        "asn": "60311",
+        "description": "1.FM AG",
+        "handle": "ONEFM"
+    },
+    "60364": {
+        "country_code": "CH",
+        "asn": "60364",
+        "description": "HolidayCheck AG",
+        "handle": "HOLIDAYCHECKAG-AS"
+    },
+    "60371": {
+        "country_code": "CH",
+        "asn": "60371",
+        "description": "Securebit AG",
+        "handle": "SECUREBIT"
+    },
+    "60384": {
+        "country_code": "CH",
+        "asn": "60384",
+        "description": "UCSP Schweiz AG",
+        "handle": "UCSP"
+    },
+    "60385": {
+        "country_code": "CH",
+        "asn": "60385",
+        "description": "Sportradar AG",
+        "handle": "ES-OPTIMA"
+    },
+    "60420": {
+        "country_code": "CH",
+        "asn": "60420",
+        "description": "Lemanik Invest SA",
+        "handle": "LEMANIK-AS"
+    },
+    "60467": {
+        "country_code": "CH",
+        "asn": "60467",
+        "description": "SWITCH",
+        "handle": "SWITCH-CERT"
+    },
+    "60474": {
+        "country_code": "CH",
+        "asn": "60474",
+        "description": "Securebit AG",
+        "handle": "ASN"
+    },
+    "60478": {
+        "country_code": "CH",
+        "asn": "60478",
+        "description": "K-sys SA",
+        "handle": "KSYS"
+    },
+    "60486": {
+        "country_code": "CH",
+        "asn": "60486",
+        "description": "Swiss Networking Solutions AG",
+        "handle": "SNS"
+    },
+    "60545": {
+        "country_code": "CH",
+        "asn": "60545",
+        "description": "Rolf Tschumi (MGW Online)",
+        "handle": "AS-MGW"
+    },
+    "60617": {
+        "country_code": "CH",
+        "asn": "60617",
+        "description": "Stadt Zug",
+        "handle": "AS-CH-ZUG-CITY"
+    },
+    "60633": {
+        "country_code": "CH",
+        "asn": "60633",
+        "description": "Swisscom (Schweiz) AG",
+        "handle": "SWISSCOM-MPLS-TRANSIT"
+    },
+    "60674": {
+        "country_code": "CH",
+        "asn": "60674",
+        "description": "cupaco GmbH",
+        "handle": "CUPACO"
+    },
+    "60728": {
+        "country_code": "CH",
+        "asn": "60728",
+        "description": "Andreas Fink trading as Fink Telecom Services GmbH",
+        "handle": "FINK"
+    },
+    "60785": {
+        "country_code": "CH",
+        "asn": "60785",
+        "description": "Alsenet SA",
+        "handle": "ALSENET"
+    },
+    "60792": {
+        "country_code": "CH",
+        "asn": "60792",
+        "description": "ViaSat Antenna Systems SA",
+        "handle": "ASN-CH-VIASAT"
+    },
+    "60804": {
+        "country_code": "CH",
+        "asn": "60804",
+        "description": "Swiss Network SA",
+        "handle": "SWISS-NETWORK"
+    },
+    "60901": {
+        "country_code": "CH",
+        "asn": "60901",
+        "description": "1SWISS1 SA",
+        "handle": "CH-1SWISS1"
+    },
+    "61076": {
+        "country_code": "CH",
+        "asn": "61076",
+        "description": "BE BRAVE AG",
+        "handle": "BEBRAVE"
+    },
+    "61098": {
+        "country_code": "CH",
+        "asn": "61098",
+        "description": "Akenes SA",
+        "handle": "EXOSCALE"
+    },
+    "61144": {
+        "country_code": "CH",
+        "asn": "61144",
+        "description": "Computerline GmbH",
+        "handle": "COMPUTERLINE-HK"
+    },
+    "61174": {
+        "country_code": "CH",
+        "asn": "61174",
+        "description": "Glattwerk AG",
+        "handle": "GLATTWERK"
+    },
+    "61190": {
+        "country_code": "CH",
+        "asn": "61190",
+        "description": "iFog GmbH",
+        "handle": "FOGIXP-REGIONAL-ROUTE-SERVERS"
+    },
+    "61232": {
+        "country_code": "CH",
+        "asn": "61232",
+        "description": "redIT Services AG",
+        "handle": "REDIT"
+    },
+    "61287": {
+        "country_code": "CH",
+        "asn": "61287",
+        "description": "onway (Schweiz) AG",
+        "handle": "WLP-AS"
+    },
+    "61309": {
+        "country_code": "CH",
+        "asn": "61309",
+        "description": "AlpineDC SA",
+        "handle": "ALPINEDC-NW2"
+    },
+    "61320": {
+        "country_code": "CH",
+        "asn": "61320",
+        "description": "Andrew Vieyra",
+        "handle": "Q-BRANCH"
+    },
+    "61322": {
+        "country_code": "CH",
+        "asn": "61322",
+        "description": "Noisypeak Sarl",
+        "handle": "NOISYPEAK-AS"
+    },
+    "61339": {
+        "country_code": "CH",
+        "asn": "61339",
+        "description": "CERN - European Organization for Nuclear Research",
+        "handle": "CERN-LHCONE-LG"
+    },
+    "61423": {
+        "country_code": "CH",
+        "asn": "61423",
+        "description": "JMP Technology Services GmbH",
+        "handle": "JMP-AS"
+    },
+    "61970": {
+        "country_code": "CH",
+        "asn": "61970",
+        "description": "Syselcom Mutuelle Informatique SA",
+        "handle": "SYSELCLOUD"
+    },
+    "62035": {
+        "country_code": "CH",
+        "asn": "62035",
+        "description": "Byteworks GmbH",
+        "handle": "BYTEWORKS"
+    },
+    "62044": {
+        "country_code": "CH",
+        "asn": "62044",
+        "description": "Zscaler Switzerland GmbH",
+        "handle": "ZSCALER-EMEA"
+    },
+    "62045": {
+        "country_code": "CH",
+        "asn": "62045",
+        "description": "Penta SA",
+        "handle": "PENTA-DXB-02"
+    },
+    "62139": {
+        "country_code": "CH",
+        "asn": "62139",
+        "description": "Gottex Brokers SA",
+        "handle": "GOTTEX"
+    },
+    "62256": {
+        "country_code": "CH",
+        "asn": "62256",
+        "description": "Samuel Betrisey",
+        "handle": "SAMUEL-BETRISEY"
+    },
+    "62317": {
+        "country_code": "CH",
+        "asn": "62317",
+        "description": "digmedia GmbH",
+        "handle": "DIGMEDIA-GMBH"
+    },
+    "62320": {
+        "country_code": "CH",
+        "asn": "62320",
+        "description": "Safe Swiss Cloud AG",
+        "handle": "SSC-AS"
+    },
+    "62371": {
+        "country_code": "CH",
+        "asn": "62371",
+        "description": "Proton AG",
+        "handle": "PROTON"
+    },
+    "64426": {
+        "country_code": "CH",
+        "asn": "64426",
+        "description": "e-novinfo leman SA",
+        "handle": "E-NOVINFO"
+    },
+    "64431": {
+        "country_code": "CH",
+        "asn": "64431",
+        "description": "Better World Security Sarl",
+        "handle": "BETTERWORLDSECURITY"
+    },
+    "64442": {
+        "country_code": "CH",
+        "asn": "64442",
+        "description": "Securitas AG Schweizerische Bewachungsgesellschaft",
+        "handle": "CH-SECURITAS-SOP-RZ01"
+    },
+    "64462": {
+        "country_code": "CH",
+        "asn": "64462",
+        "description": "Stephan Roland Wolf",
+        "handle": "WOLFSEC-AS"
+    },
+    "132399": {
+        "country_code": "CH",
+        "asn": "132399",
+        "description": "International organization of Aeronautics Telecommunications (SITA)",
+        "handle": "ATICLOUD-AP"
+    },
+    "149476": {
+        "country_code": "CH",
+        "asn": "149476",
+        "description": "iFog GmbH",
+        "handle": "IFOGGMBH-AS-AP"
+    },
+    "149977": {
+        "country_code": "CH",
+        "asn": "149977",
+        "description": "Securebit AG",
+        "handle": "SECUREBITAG-AS-AP"
+    },
+    "196618": {
+        "country_code": "CH",
+        "asn": "196618",
+        "description": "Claudio Jeker",
+        "handle": "ASJEKER"
+    },
+    "196620": {
+        "country_code": "CH",
+        "asn": "196620",
+        "description": "Init7 (Switzerland) Ltd.",
+        "handle": "EASY7"
+    },
+    "196621": {
+        "country_code": "CH",
+        "asn": "196621",
+        "description": "Matthias Cramer",
+        "handle": "FREESTONE"
+    },
+    "196651": {
+        "country_code": "CH",
+        "asn": "196651",
+        "description": "Informatik Schaffhausen (ITSH)",
+        "handle": "KSD"
+    },
+    "196722": {
+        "country_code": "CH",
+        "asn": "196722",
+        "description": "SCHWEIZERISCHE NATIONALBANK",
+        "handle": "SCHWEIZERISCHE-NATIONALBANK"
+    },
+    "196734": {
+        "country_code": "CH",
+        "asn": "196734",
+        "description": "Equinix (Switzerland) GmbH",
+        "handle": "EQUINIX-ZH"
+    },
+    "196810": {
+        "country_code": "CH",
+        "asn": "196810",
+        "description": "Moresi.Com SA",
+        "handle": "MORESICOM"
+    },
+    "197066": {
+        "country_code": "CH",
+        "asn": "197066",
+        "description": "First Frame Networkers AG",
+        "handle": "FIRSTFRAME"
+    },
+    "197202": {
+        "country_code": "CH",
+        "asn": "197202",
+        "description": "Kistler Instrumente AG",
+        "handle": "KISTLER-AS"
+    },
+    "197312": {
+        "country_code": "CH",
+        "asn": "197312",
+        "description": "Avaloq Sourcing (Switzerland & Liechtenstein) SA",
+        "handle": "BSOURCE-AS"
+    },
+    "197352": {
+        "country_code": "CH",
+        "asn": "197352",
+        "description": "Tinext Cloud SA",
+        "handle": "TINEXT"
+    },
+    "197380": {
+        "country_code": "CH",
+        "asn": "197380",
+        "description": "ITpoint Systems AG",
+        "handle": "ITPOINT-AS"
+    },
+    "197439": {
+        "country_code": "CH",
+        "asn": "197439",
+        "description": "Sylon Hosting GmbH",
+        "handle": "SYLON"
+    },
+    "197525": {
+        "country_code": "CH",
+        "asn": "197525",
+        "description": "Etablissement d'assurance contre l'incendie et les elements naturels du Canton de Vaud (ECA)",
+        "handle": "ECA-AS"
+    },
+    "197584": {
+        "country_code": "CH",
+        "asn": "197584",
+        "description": "Khoros International LLC Wilmington USA Zweigniederlassung Zurich",
+        "handle": "LITHIUM"
+    },
+    "197689": {
+        "country_code": "CH",
+        "asn": "197689",
+        "description": "OVD Kinegram AG",
+        "handle": "OVD-KINEGRAM"
+    },
+    "197742": {
+        "country_code": "CH",
+        "asn": "197742",
+        "description": "IBB Energie AG",
+        "handle": "IMMENSYS-AS"
+    },
+    "197763": {
+        "country_code": "CH",
+        "asn": "197763",
+        "description": "NetEducation GmbH",
+        "handle": "NETEDUCATION-NET"
+    },
+    "197827": {
+        "country_code": "CH",
+        "asn": "197827",
+        "description": "Viseca Payment Services AG",
+        "handle": "AS-VISECA"
+    },
+    "197988": {
+        "country_code": "CH",
+        "asn": "197988",
+        "description": "Solar Communications GmbH",
+        "handle": "SOLARCOM"
+    },
+    "198026": {
+        "country_code": "CH",
+        "asn": "198026",
+        "description": "spaixx AG",
+        "handle": "SPAIXX"
+    },
+    "198123": {
+        "country_code": "CH",
+        "asn": "198123",
+        "description": "POK Puehringer AG",
+        "handle": "POK-AG"
+    },
+    "198165": {
+        "country_code": "CH",
+        "asn": "198165",
+        "description": "MTCH AG",
+        "handle": "TRW-AS"
+    },
+    "198172": {
+        "country_code": "CH",
+        "asn": "198172",
+        "description": "Azienda Multiservizi Bellinzona",
+        "handle": "AMB-AS"
+    },
+    "198175": {
+        "country_code": "CH",
+        "asn": "198175",
+        "description": "Kanton Zug",
+        "handle": "AIOZG"
+    },
+    "198249": {
+        "country_code": "CH",
+        "asn": "198249",
+        "description": "Ops One AG",
+        "handle": "OPSONE"
+    },
+    "198326": {
+        "country_code": "CH",
+        "asn": "198326",
+        "description": "OrtCloud GmbH",
+        "handle": "ORTCLOUD-AS"
+    },
+    "198385": {
+        "country_code": "CH",
+        "asn": "198385",
+        "description": "AlpineDC SA",
+        "handle": "ALPINEDC"
+    },
+    "198433": {
+        "country_code": "CH",
+        "asn": "198433",
+        "description": "CKW Fiber Services AG",
+        "handle": "CFS"
+    },
+    "198534": {
+        "country_code": "CH",
+        "asn": "198534",
+        "description": "Banco Itau (Suisse) SA",
+        "handle": "BANCOITAU-AS"
+    },
+    "198635": {
+        "country_code": "CH",
+        "asn": "198635",
+        "description": "Ascanius AG",
+        "handle": "ASCANIUS"
+    },
+    "198784": {
+        "country_code": "CH",
+        "asn": "198784",
+        "description": "Eastern Property AG",
+        "handle": "EASTERNPROPERTY-AS"
+    },
+    "198808": {
+        "country_code": "CH",
+        "asn": "198808",
+        "description": "Spital Davos AG",
+        "handle": "SPIDA-AS"
+    },
+    "198925": {
+        "country_code": "CH",
+        "asn": "198925",
+        "description": "SITASYS AG",
+        "handle": "INSTREAM-AS"
+    },
+    "198951": {
+        "country_code": "CH",
+        "asn": "198951",
+        "description": "BLS AG",
+        "handle": "BLS-AG"
+    },
+    "198964": {
+        "country_code": "CH",
+        "asn": "198964",
+        "description": "BLUEQUANT AG",
+        "handle": "AS-BLUEQUANT"
+    },
+    "199003": {
+        "country_code": "CH",
+        "asn": "199003",
+        "description": "iNetWorx AG",
+        "handle": "INETWORX-AS"
+    },
+    "199047": {
+        "country_code": "CH",
+        "asn": "199047",
+        "description": "Swiss Data Safe AG",
+        "handle": "SDS-AS"
+    },
+    "199077": {
+        "country_code": "CH",
+        "asn": "199077",
+        "description": "SIONDEV AG",
+        "handle": "AS-SIONDEV"
+    },
+    "199092": {
+        "country_code": "CH",
+        "asn": "199092",
+        "description": "Cortex IT SA",
+        "handle": "CORTEX-IT-AS"
+    },
+    "199178": {
+        "country_code": "CH",
+        "asn": "199178",
+        "description": "Micro Systems Marc Balmer",
+        "handle": "MSYS-AS"
+    },
+    "199193": {
+        "country_code": "CH",
+        "asn": "199193",
+        "description": "METANET AG",
+        "handle": "WEBSTYLE-AS"
+    },
+    "199218": {
+        "country_code": "CH",
+        "asn": "199218",
+        "description": "Proton AG",
+        "handle": "PROTONVPN-2"
+    },
+    "199225": {
+        "country_code": "CH",
+        "asn": "199225",
+        "description": "PFG Real Estate AG",
+        "handle": "PHV-AS"
+    },
+    "199229": {
+        "country_code": "CH",
+        "asn": "199229",
+        "description": "Exonik Sarl",
+        "handle": "EXONIK-AS"
+    },
+    "199302": {
+        "country_code": "CH",
+        "asn": "199302",
+        "description": "Maklerzentrum Schweiz AG",
+        "handle": "MAKLERZENTRUM-SCHWEIZ-AS"
+    },
+    "199403": {
+        "country_code": "CH",
+        "asn": "199403",
+        "description": "DR. BAEHLER DROPA AG",
+        "handle": "DBD"
+    },
+    "199533": {
+        "country_code": "CH",
+        "asn": "199533",
+        "description": "Vadian.Net AG",
+        "handle": "AS-VADIAN"
+    },
+    "199553": {
+        "country_code": "CH",
+        "asn": "199553",
+        "description": "ungleich glarus ag",
+        "handle": "UNGLEICH-PLACE5"
+    },
+    "199554": {
+        "country_code": "CH",
+        "asn": "199554",
+        "description": "U. Bachofen trading as bachofen.net",
+        "handle": "BACHOFEN"
+    },
+    "199562": {
+        "country_code": "CH",
+        "asn": "199562",
+        "description": "Edificom SA",
+        "handle": "EDIFICOM-AS"
+    },
+    "199567": {
+        "country_code": "CH",
+        "asn": "199567",
+        "description": "Fr. Sauter AG",
+        "handle": "SBA-AS"
+    },
+    "199587": {
+        "country_code": "CH",
+        "asn": "199587",
+        "description": "solidIT AG",
+        "handle": "SOLIDIT"
+    },
+    "199591": {
+        "country_code": "CH",
+        "asn": "199591",
+        "description": "Evaldo Gardenal",
+        "handle": "EVALDO-GARDENAL"
+    },
+    "199641": {
+        "country_code": "CH",
+        "asn": "199641",
+        "description": "Cybernatus AG",
+        "handle": "CH-CYBERNATUS"
+    },
+    "199642": {
+        "country_code": "CH",
+        "asn": "199642",
+        "description": "Viseca Payment Services AG",
+        "handle": "AS-VISECA"
+    },
+    "199661": {
+        "country_code": "CH",
+        "asn": "199661",
+        "description": "KAYAK Europe GmbH",
+        "handle": "KAYAKEU"
+    },
+    "199662": {
+        "country_code": "CH",
+        "asn": "199662",
+        "description": "Exion Networks SA",
+        "handle": "EXION"
+    },
+    "199802": {
+        "country_code": "CH",
+        "asn": "199802",
+        "description": "CA Indosuez (Switzerland) SA",
+        "handle": "CAS-AS"
+    },
+    "199811": {
+        "country_code": "CH",
+        "asn": "199811",
+        "description": "Wifx SA",
+        "handle": "WIFX"
+    },
+    "199819": {
+        "country_code": "CH",
+        "asn": "199819",
+        "description": "SUISA Genossenschaft der Urheber und Verleger von Musik",
+        "handle": "SUISA"
+    },
+    "200082": {
+        "country_code": "CH",
+        "asn": "200082",
+        "description": "ZEPOCH SAGL",
+        "handle": "ZEPOCH-SAGL"
+    },
+    "200107": {
+        "country_code": "CH",
+        "asn": "200107",
+        "description": "Kaspersky Lab Switzerland GmbH",
+        "handle": "KL-EXT"
+    },
+    "200206": {
+        "country_code": "CH",
+        "asn": "200206",
+        "description": "POK AG Schweiz",
+        "handle": "ASN-POK"
+    },
+    "200233": {
+        "country_code": "CH",
+        "asn": "200233",
+        "description": "Berner Fachhochschule",
+        "handle": "BFH"
+    },
+    "200281": {
+        "country_code": "CH",
+        "asn": "200281",
+        "description": "Eurovision Services SA",
+        "handle": "EUROVISION-SERVICES-SA"
+    },
+    "200286": {
+        "country_code": "CH",
+        "asn": "200286",
+        "description": "Elektrizitaetswerk Obwalden",
+        "handle": "EWO-CH-AS"
+    },
+    "200308": {
+        "country_code": "CH",
+        "asn": "200308",
+        "description": "EMDYN AG",
+        "handle": "EMDYN"
+    },
+    "200417": {
+        "country_code": "CH",
+        "asn": "200417",
+        "description": "Andermatt Swiss Alps AG",
+        "handle": "ASA-AG"
+    },
+    "200426": {
+        "country_code": "CH",
+        "asn": "200426",
+        "description": "Jan Philipp Saner",
+        "handle": "O11-NET-AS"
+    },
+    "200447": {
+        "country_code": "CH",
+        "asn": "200447",
+        "description": "Linus Casanova",
+        "handle": "LINUS-AS"
+    },
+    "200471": {
+        "country_code": "CH",
+        "asn": "200471",
+        "description": "Novartis AG",
+        "handle": "NOVARTIS-RU"
+    },
+    "200544": {
+        "country_code": "CH",
+        "asn": "200544",
+        "description": "Swiss Armed Forces - AFCSO",
+        "handle": "SWISS-DEFENCE-AFCSO"
+    },
+    "200584": {
+        "country_code": "CH",
+        "asn": "200584",
+        "description": "Nagravision Sarl",
+        "handle": "EU-ZRH"
+    },
+    "200601": {
+        "country_code": "CH",
+        "asn": "200601",
+        "description": "SwissNeutralNet",
+        "handle": "SWISSNEUTRALNET"
+    },
+    "200647": {
+        "country_code": "CH",
+        "asn": "200647",
+        "description": "Netrics AG",
+        "handle": "PAGEUP"
+    },
+    "200713": {
+        "country_code": "CH",
+        "asn": "200713",
+        "description": "Zettaplan AG",
+        "handle": "FREY-AS"
+    },
+    "200726": {
+        "country_code": "CH",
+        "asn": "200726",
+        "description": "Elmec Suisse SA",
+        "handle": "ELMEC-CH-AS"
+    },
+    "200759": {
+        "country_code": "CH",
+        "asn": "200759",
+        "description": "Flow Swiss AG",
+        "handle": "FLOW"
+    },
+    "200815": {
+        "country_code": "CH",
+        "asn": "200815",
+        "description": "Coca-Cola HBC Schweiz AG",
+        "handle": "COCACOLA-CH"
+    },
+    "200888": {
+        "country_code": "CH",
+        "asn": "200888",
+        "description": "InfoGuard AG",
+        "handle": "INFOGUARD"
+    },
+    "200925": {
+        "country_code": "CH",
+        "asn": "200925",
+        "description": "Silicom SA",
+        "handle": "KRIOS"
+    },
+    "200951": {
+        "country_code": "CH",
+        "asn": "200951",
+        "description": "Elektrizitatswerk der Stadt Zurich",
+        "handle": "EWZ-TELECOM"
+    },
+    "200979": {
+        "country_code": "CH",
+        "asn": "200979",
+        "description": "Hosting eXperts Switzerland AG",
+        "handle": "HXS"
+    },
+    "200987": {
+        "country_code": "CH",
+        "asn": "200987",
+        "description": "Stadt Chur",
+        "handle": "STADT-CHUR"
+    },
+    "201103": {
+        "country_code": "CH",
+        "asn": "201103",
+        "description": "Mercata Sagl",
+        "handle": "GMAILIFY"
+    },
+    "201134": {
+        "country_code": "CH",
+        "asn": "201134",
+        "description": "Bucher + Suter AG",
+        "handle": "BUCHERSUTER"
+    },
+    "201155": {
+        "country_code": "CH",
+        "asn": "201155",
+        "description": "embeDD GmbH",
+        "handle": "EMBEDD-AS"
+    },
+    "201199": {
+        "country_code": "CH",
+        "asn": "201199",
+        "description": "Box Internet Services Sarl",
+        "handle": "BOXIS"
+    },
+    "201223": {
+        "country_code": "CH",
+        "asn": "201223",
+        "description": "Schweizerische Rueckversicherungs-Gesellschaft AG",
+        "handle": "SWISSRE-AS-HONGKONG"
+    },
+    "201228": {
+        "country_code": "CH",
+        "asn": "201228",
+        "description": "Anapaya Systems AG",
+        "handle": "ANAPAYA"
+    },
+    "201306": {
+        "country_code": "CH",
+        "asn": "201306",
+        "description": "Stonehage Fleming SA",
+        "handle": "STONEHAGE"
+    },
+    "201319": {
+        "country_code": "CH",
+        "asn": "201319",
+        "description": "Stadt Zuerich Organisation und Informatik",
+        "handle": "STADTZUERICH"
+    },
+    "201329": {
+        "country_code": "CH",
+        "asn": "201329",
+        "description": "Gemeinde Reinach BL",
+        "handle": "REINACHBL"
+    },
+    "201365": {
+        "country_code": "CH",
+        "asn": "201365",
+        "description": "Nagravision Sarl",
+        "handle": "EU-CHX"
+    },
+    "201416": {
+        "country_code": "CH",
+        "asn": "201416",
+        "description": "Gebaeudeversicherung Bern (GVB)",
+        "handle": "GVB"
+    },
+    "201436": {
+        "country_code": "CH",
+        "asn": "201436",
+        "description": "JURA Elektroapparate AG",
+        "handle": "JURA"
+    },
+    "201440": {
+        "country_code": "CH",
+        "asn": "201440",
+        "description": "MSCI Barra (Suisse) Sarl",
+        "handle": "MSCI-AS"
+    },
+    "201481": {
+        "country_code": "CH",
+        "asn": "201481",
+        "description": "CDI Conseils et Developpements Informatiques SA",
+        "handle": "CDISA"
+    },
+    "201586": {
+        "country_code": "CH",
+        "asn": "201586",
+        "description": "Administration communale de Pully",
+        "handle": "PULLY-ASN"
+    },
+    "201590": {
+        "country_code": "CH",
+        "asn": "201590",
+        "description": "SOCAR Energy Holdings AG",
+        "handle": "SOCAR"
+    },
+    "201621": {
+        "country_code": "CH",
+        "asn": "201621",
+        "description": "VAUDOISE GENERALE Compagnie d'Assurances SA",
+        "handle": "VGNET-AS"
+    },
+    "201679": {
+        "country_code": "CH",
+        "asn": "201679",
+        "description": "Reversing Labs International GmbH",
+        "handle": "REVERSINGLABS"
+    },
+    "201837": {
+        "country_code": "CH",
+        "asn": "201837",
+        "description": "4GVISION AG",
+        "handle": "AS5PLAY"
+    },
+    "201870": {
+        "country_code": "CH",
+        "asn": "201870",
+        "description": "Bank-now AG",
+        "handle": "BANK-NOW"
+    },
+    "201882": {
+        "country_code": "CH",
+        "asn": "201882",
+        "description": "Marco Sandro Naef",
+        "handle": "NAEF-AS"
+    },
+    "202032": {
+        "country_code": "CH",
+        "asn": "202032",
+        "description": "GOLINE SA",
+        "handle": "GOLINE"
+    },
+    "202035": {
+        "country_code": "CH",
+        "asn": "202035",
+        "description": "Talus Informatik AG",
+        "handle": "TALUS-AS"
+    },
+    "202088": {
+        "country_code": "CH",
+        "asn": "202088",
+        "description": "Swisscom (Schweiz) AG",
+        "handle": "VOIP-IC-AS"
+    },
+    "202123": {
+        "country_code": "CH",
+        "asn": "202123",
+        "description": "Nationale Alarmzentrale NEOC",
+        "handle": "NAZ"
+    },
+    "202172": {
+        "country_code": "CH",
+        "asn": "202172",
+        "description": "Migadu-Mail Gmbh",
+        "handle": "MIGADU"
+    },
+    "202240": {
+        "country_code": "CH",
+        "asn": "202240",
+        "description": "Innflow AG",
+        "handle": "INNFLOW-CH-001"
+    },
+    "202360": {
+        "country_code": "CH",
+        "asn": "202360",
+        "description": "The Global Fund to fight AIDS Tuberculosis and Malaria",
+        "handle": "TGF"
+    },
+    "202411": {
+        "country_code": "CH",
+        "asn": "202411",
+        "description": "Flow Swiss AG",
+        "handle": "FLOW-ZRH2"
+    },
+    "202424": {
+        "country_code": "CH",
+        "asn": "202424",
+        "description": "Regio Energie Solothurn",
+        "handle": "REGIOENERGIE"
+    },
+    "202427": {
+        "country_code": "CH",
+        "asn": "202427",
+        "description": "Ursin Filli",
+        "handle": "FILLI-AS"
+    },
+    "202451": {
+        "country_code": "CH",
+        "asn": "202451",
+        "description": "Clue Security Services AG",
+        "handle": "CLUE"
+    },
+    "202452": {
+        "country_code": "CH",
+        "asn": "202452",
+        "description": "Flow Swiss AG",
+        "handle": "FLOW-ALP2"
+    },
+    "202458": {
+        "country_code": "CH",
+        "asn": "202458",
+        "description": "Timothe Ember",
+        "handle": "THUNDERHOSTINGNETWORK"
+    },
+    "202479": {
+        "country_code": "CH",
+        "asn": "202479",
+        "description": "iFog GmbH",
+        "handle": "FOGNET-SERVICES"
+    },
+    "202647": {
+        "country_code": "CH",
+        "asn": "202647",
+        "description": "Simplysoft GmbH",
+        "handle": "SIMPLYSOFT-SRV"
+    },
+    "202691": {
+        "country_code": "CH",
+        "asn": "202691",
+        "description": "Alt Gr SA",
+        "handle": "ALTGRSA-Z"
+    },
+    "202714": {
+        "country_code": "CH",
+        "asn": "202714",
+        "description": "Aarenet AG",
+        "handle": "AARENET-01"
+    },
+    "202721": {
+        "country_code": "CH",
+        "asn": "202721",
+        "description": "Infra-Com Swiss AG",
+        "handle": "INFRA-COM"
+    },
+    "202728": {
+        "country_code": "CH",
+        "asn": "202728",
+        "description": "ENGITECH SA",
+        "handle": "ENGITECH"
+    },
+    "202771": {
+        "country_code": "CH",
+        "asn": "202771",
+        "description": "Codenmore AG",
+        "handle": "CODENMORE"
+    },
+    "202850": {
+        "country_code": "CH",
+        "asn": "202850",
+        "description": "Activatel Holding GmbH",
+        "handle": "ACTIVATEL"
+    },
+    "202885": {
+        "country_code": "CH",
+        "asn": "202885",
+        "description": "Acronis International GmbH",
+        "handle": "ACRONIS-GMBH"
+    },
+    "203104": {
+        "country_code": "CH",
+        "asn": "203104",
+        "description": "IBKR Financial Services AG",
+        "handle": "AS-IBKR"
+    },
+    "203125": {
+        "country_code": "CH",
+        "asn": "203125",
+        "description": "Julian Braun",
+        "handle": "COREROUTE"
+    },
+    "203130": {
+        "country_code": "CH",
+        "asn": "203130",
+        "description": "Haute ecole d ingenierie et de gestion du canton de Vaud",
+        "handle": "HEIG-VD"
+    },
+    "203153": {
+        "country_code": "CH",
+        "asn": "203153",
+        "description": "AVASAD - Association Vaudoise Aide et de Soins Domicile / Institut de droit public",
+        "handle": "AVASAD"
+    },
+    "203200": {
+        "country_code": "CH",
+        "asn": "203200",
+        "description": "ALPEIN Software SWISS AG",
+        "handle": "ALPEINSSAG"
+    },
+    "203218": {
+        "country_code": "CH",
+        "asn": "203218",
+        "description": "Cyril Papadakis trading as Papadakis IT",
+        "handle": "PAPADAKIS-AS"
+    },
+    "203384": {
+        "country_code": "CH",
+        "asn": "203384",
+        "description": "Helsana Versicherungen AG",
+        "handle": "HELSANA"
+    },
+    "203434": {
+        "country_code": "CH",
+        "asn": "203434",
+        "description": "Open Circle AG",
+        "handle": "OPEN-CIRCLE"
+    },
+    "203496": {
+        "country_code": "CH",
+        "asn": "203496",
+        "description": "Olaf Bernhard Rudolf Baumert",
+        "handle": "OBNH-NETWORK"
+    },
+    "203521": {
+        "country_code": "CH",
+        "asn": "203521",
+        "description": "Goyman SA",
+        "handle": "E42"
+    },
+    "203564": {
+        "country_code": "CH",
+        "asn": "203564",
+        "description": "IBKR Financial Services AG",
+        "handle": "THA2"
+    },
+    "203639": {
+        "country_code": "CH",
+        "asn": "203639",
+        "description": "TEKNOLOGY SA",
+        "handle": "TEKNOLOGY"
+    },
+    "203660": {
+        "country_code": "CH",
+        "asn": "203660",
+        "description": "WebPros International GmbH",
+        "handle": "PLESK-INT-GMBH-AS"
+    },
+    "203670": {
+        "country_code": "CH",
+        "asn": "203670",
+        "description": "World-Connect Services Sarl",
+        "handle": "WORLD-CONNECT-AS"
+    },
+    "203702": {
+        "country_code": "CH",
+        "asn": "203702",
+        "description": "Art Basel GmbH",
+        "handle": "MCH"
+    },
+    "203718": {
+        "country_code": "CH",
+        "asn": "203718",
+        "description": "Astelon GmbH",
+        "handle": "ASTELON"
+    },
+    "203730": {
+        "country_code": "CH",
+        "asn": "203730",
+        "description": "Soleblanca SA",
+        "handle": "SOLEBLANCA-AS"
+    },
+    "203732": {
+        "country_code": "CH",
+        "asn": "203732",
+        "description": "DV Bern AG",
+        "handle": "DVBERN"
+    },
+    "203776": {
+        "country_code": "CH",
+        "asn": "203776",
+        "description": "Mitto AG",
+        "handle": "MITTO"
+    },
+    "203855": {
+        "country_code": "CH",
+        "asn": "203855",
+        "description": "Sunrise GmbH",
+        "handle": "INFRA"
+    },
+    "203882": {
+        "country_code": "CH",
+        "asn": "203882",
+        "description": "Altern8 SA",
+        "handle": "EVOK"
+    },
+    "203892": {
+        "country_code": "CH",
+        "asn": "203892",
+        "description": "Flow Swiss AG",
+        "handle": "FLOW"
+    },
+    "203903": {
+        "country_code": "CH",
+        "asn": "203903",
+        "description": "Nic Cantieni",
+        "handle": "BOLLARD-AS"
+    },
+    "203914": {
+        "country_code": "CH",
+        "asn": "203914",
+        "description": "Edmond de Rothschild (Suisse) SA",
+        "handle": "EDR-LU"
+    },
+    "203969": {
+        "country_code": "CH",
+        "asn": "203969",
+        "description": "YMC AG",
+        "handle": "YMC-AS"
+    },
+    "204082": {
+        "country_code": "CH",
+        "asn": "204082",
+        "description": "Philippe Bonvin",
+        "handle": "GALPHANET"
+    },
+    "204095": {
+        "country_code": "CH",
+        "asn": "204095",
+        "description": "CRIF AG",
+        "handle": "CRIF-AG-CH"
+    },
+    "204178": {
+        "country_code": "CH",
+        "asn": "204178",
+        "description": "Winet Voicetec Solutions AG",
+        "handle": "WINET"
+    },
+    "204284": {
+        "country_code": "CH",
+        "asn": "204284",
+        "description": "Nestle Operational Services Worldwide SA",
+        "handle": "NESTLE"
+    },
+    "204333": {
+        "country_code": "CH",
+        "asn": "204333",
+        "description": "Witalij Koweschnikow",
+        "handle": "REJECTY"
+    },
+    "204418": {
+        "country_code": "CH",
+        "asn": "204418",
+        "description": "Sandro Bolliger trading as Bolliger Network Solutions",
+        "handle": "INTERNETPROVIDERCH"
+    },
+    "204437": {
+        "country_code": "CH",
+        "asn": "204437",
+        "description": "Federal Institute of Technology Zurich (ETHZ)",
+        "handle": "ETHZ-NSG"
+    },
+    "204438": {
+        "country_code": "CH",
+        "asn": "204438",
+        "description": "Ruben Garbade",
+        "handle": "RUBEN-GARBADE"
+    },
+    "204442": {
+        "country_code": "CH",
+        "asn": "204442",
+        "description": "Peter Baumann",
+        "handle": "GECLOUDCH"
+    },
+    "204478": {
+        "country_code": "CH",
+        "asn": "204478",
+        "description": "EW Hoefe AG",
+        "handle": "EWH"
+    },
+    "204483": {
+        "country_code": "CH",
+        "asn": "204483",
+        "description": "Skan AG",
+        "handle": "SKAN-AS"
+    },
+    "204510": {
+        "country_code": "CH",
+        "asn": "204510",
+        "description": "Luzerner Kantonsspital",
+        "handle": "LUKS"
+    },
+    "204572": {
+        "country_code": "CH",
+        "asn": "204572",
+        "description": "Ofac societe cooperative",
+        "handle": "OFACGROUP"
+    },
+    "204590": {
+        "country_code": "CH",
+        "asn": "204590",
+        "description": "Swiss International Air Lines AG",
+        "handle": "SWISS-AS"
+    },
+    "204594": {
+        "country_code": "CH",
+        "asn": "204594",
+        "description": "Galliker Transport AG",
+        "handle": "GALLIKER"
+    },
+    "204631": {
+        "country_code": "CH",
+        "asn": "204631",
+        "description": "VIVANET GmbH",
+        "handle": "VIVANET-AS"
+    },
+    "204697": {
+        "country_code": "CH",
+        "asn": "204697",
+        "description": "Sunrise GmbH",
+        "handle": "AMALTHEA-METIS"
+    },
+    "204783": {
+        "country_code": "CH",
+        "asn": "204783",
+        "description": "Ronal AG",
+        "handle": "RONAL"
+    },
+    "204824": {
+        "country_code": "CH",
+        "asn": "204824",
+        "description": "PSiDEO SA",
+        "handle": "PSIDEO-EU"
+    },
+    "204970": {
+        "country_code": "CH",
+        "asn": "204970",
+        "description": "Manor AG",
+        "handle": "MANOR-CH"
+    },
+    "205029": {
+        "country_code": "CH",
+        "asn": "205029",
+        "description": "Livesystems Group AG",
+        "handle": "LIVESYSTEMS"
+    },
+    "205040": {
+        "country_code": "CH",
+        "asn": "205040",
+        "description": "Virtuozzo International GmbH",
+        "handle": "VIRTUOZZO"
+    },
+    "205067": {
+        "country_code": "CH",
+        "asn": "205067",
+        "description": "swissns GmbH",
+        "handle": "SWISSNS"
+    },
+    "205073": {
+        "country_code": "CH",
+        "asn": "205073",
+        "description": "EQUANT AG",
+        "handle": "CIRCUITT"
+    },
+    "205092": {
+        "country_code": "CH",
+        "asn": "205092",
+        "description": "UNICEF",
+        "handle": "G-NET"
+    },
+    "205218": {
+        "country_code": "CH",
+        "asn": "205218",
+        "description": "Ente Ospedaliero Cantonale",
+        "handle": "EOC"
+    },
+    "205315": {
+        "country_code": "CH",
+        "asn": "205315",
+        "description": "Jean-Remy Buchs",
+        "handle": "ORG-JB83-RIPE"
+    },
+    "205357": {
+        "country_code": "CH",
+        "asn": "205357",
+        "description": "winVS software AG",
+        "handle": "WINVS"
+    },
+    "205377": {
+        "country_code": "CH",
+        "asn": "205377",
+        "description": "Flow Swiss AG",
+        "handle": "CLOUDBIT"
+    },
+    "205393": {
+        "country_code": "CH",
+        "asn": "205393",
+        "description": "AEROPORT INTERNATIONAL DE GENEVE",
+        "handle": "AIG"
+    },
+    "205466": {
+        "country_code": "CH",
+        "asn": "205466",
+        "description": "mobile4business AG",
+        "handle": "ASMOBILE4BUSINESS"
+    },
+    "205573": {
+        "country_code": "CH",
+        "asn": "205573",
+        "description": "Gluecklich GmbH",
+        "handle": "CCC-RHEINTAL-ACCESS"
+    },
+    "205678": {
+        "country_code": "CH",
+        "asn": "205678",
+        "description": "Peoplefone AG",
+        "handle": "PEOPLEFONE"
+    },
+    "205683": {
+        "country_code": "CH",
+        "asn": "205683",
+        "description": "SICPA SA",
+        "handle": "SICPA"
+    },
+    "205699": {
+        "country_code": "CH",
+        "asn": "205699",
+        "description": "Flow Swiss AG",
+        "handle": "FLOW"
+    },
+    "205730": {
+        "country_code": "CH",
+        "asn": "205730",
+        "description": "FERRING INTERNATIONAL CENTER S.A.",
+        "handle": "FERRING"
+    },
+    "205737": {
+        "country_code": "CH",
+        "asn": "205737",
+        "description": "Naveum AG",
+        "handle": "NAVEUM"
+    },
+    "205747": {
+        "country_code": "CH",
+        "asn": "205747",
+        "description": "VNV SA",
+        "handle": "VNV-AS"
+    },
+    "205762": {
+        "country_code": "CH",
+        "asn": "205762",
+        "description": "Swisscom (Schweiz) AG",
+        "handle": "GTP-FILTER"
+    },
+    "205815": {
+        "country_code": "CH",
+        "asn": "205815",
+        "description": "SIX Group Services AG",
+        "handle": "SIX"
+    },
+    "205920": {
+        "country_code": "CH",
+        "asn": "205920",
+        "description": "iFog GmbH",
+        "handle": "FOGNET-SPAIN"
+    },
+    "205929": {
+        "country_code": "CH",
+        "asn": "205929",
+        "description": "Abzieher GmbH",
+        "handle": "ABZIEHER-GMBH"
+    },
+    "205955": {
+        "country_code": "CH",
+        "asn": "205955",
+        "description": "MvA Internet Services GmbH",
+        "handle": "MVA"
+    },
+    "205959": {
+        "country_code": "CH",
+        "asn": "205959",
+        "description": "Convotis Schweiz AG",
+        "handle": "ASN-SCCAG"
+    },
+    "206032": {
+        "country_code": "CH",
+        "asn": "206032",
+        "description": "Coop Pronto AG",
+        "handle": "COOP-PRONTO"
+    },
+    "206095": {
+        "country_code": "CH",
+        "asn": "206095",
+        "description": "CERN - European Organization for Nuclear Research",
+        "handle": "LHCONE-TE"
+    },
+    "206104": {
+        "country_code": "CH",
+        "asn": "206104",
+        "description": "Phinom AG",
+        "handle": "PHINOM-AG-AS"
+    },
+    "206123": {
+        "country_code": "CH",
+        "asn": "206123",
+        "description": "Xelon AG",
+        "handle": "XELON"
+    },
+    "206137": {
+        "country_code": "CH",
+        "asn": "206137",
+        "description": "Societa Elettrica Sopracenerina SA (SES)",
+        "handle": "CH-SES"
+    },
+    "206140": {
+        "country_code": "CH",
+        "asn": "206140",
+        "description": "Arxada AG",
+        "handle": "CHV-ARXADA"
+    },
+    "206147": {
+        "country_code": "CH",
+        "asn": "206147",
+        "description": "Banque Lombard Odier & Cie SA",
+        "handle": "CH-LO"
+    },
+    "206201": {
+        "country_code": "CH",
+        "asn": "206201",
+        "description": "Devantis SA",
+        "handle": "DEVANTIS-AS"
+    },
+    "206214": {
+        "country_code": "CH",
+        "asn": "206214",
+        "description": "Telco Pack SA",
+        "handle": "TELCOPACK"
+    },
+    "206225": {
+        "country_code": "CH",
+        "asn": "206225",
+        "description": "Union Postale Universelle",
+        "handle": "UPU"
+    },
+    "206261": {
+        "country_code": "CH",
+        "asn": "206261",
+        "description": "DynaNet GmbH",
+        "handle": "DYNANET-AS"
+    },
+    "206291": {
+        "country_code": "CH",
+        "asn": "206291",
+        "description": "Klixa IT GmbH",
+        "handle": "KLIXA"
+    },
+    "206327": {
+        "country_code": "CH",
+        "asn": "206327",
+        "description": "Andreas Fink trading as Fink Telecom Services GmbH",
+        "handle": "EURASIA-IX"
+    },
+    "206330": {
+        "country_code": "CH",
+        "asn": "206330",
+        "description": "Manuel Merkli",
+        "handle": "MERKLI"
+    },
+    "206402": {
+        "country_code": "CH",
+        "asn": "206402",
+        "description": "Orion Innovation AG",
+        "handle": "ORION"
+    },
+    "206415": {
+        "country_code": "CH",
+        "asn": "206415",
+        "description": "endigo Energie AG",
+        "handle": "EWGOMS"
+    },
+    "206433": {
+        "country_code": "CH",
+        "asn": "206433",
+        "description": "SITA Switzerland Sarl",
+        "handle": "SITA-SFA"
+    },
+    "206466": {
+        "country_code": "CH",
+        "asn": "206466",
+        "description": "Palexpo SA",
+        "handle": "PALEXPO"
+    },
+    "206484": {
+        "country_code": "CH",
+        "asn": "206484",
+        "description": "oriented.net GmbH",
+        "handle": "ORIENTEDNET"
+    },
+    "206492": {
+        "country_code": "CH",
+        "asn": "206492",
+        "description": "Nexphone AG",
+        "handle": "NEXPHONE"
+    },
+    "206500": {
+        "country_code": "CH",
+        "asn": "206500",
+        "description": "AVASAD - Association Vaudoise Aide et de Soins Domicile / Institut de droit public",
+        "handle": "BIOTEL"
+    },
+    "206522": {
+        "country_code": "CH",
+        "asn": "206522",
+        "description": "ISP Datacenter SARL",
+        "handle": "ISPDC-AS"
+    },
+    "206567": {
+        "country_code": "CH",
+        "asn": "206567",
+        "description": "TX Group AG",
+        "handle": "TAMEDIA-AS"
+    },
+    "206616": {
+        "country_code": "CH",
+        "asn": "206616",
+        "description": "wwcom AG",
+        "handle": "CH-WWCOM-1"
+    },
+    "206662": {
+        "country_code": "CH",
+        "asn": "206662",
+        "description": "Inventx AG",
+        "handle": "INVENTX-CH"
+    },
+    "206779": {
+        "country_code": "CH",
+        "asn": "206779",
+        "description": "Hatebur Umformmaschinen AG",
+        "handle": "HATEBUR"
+    },
+    "206790": {
+        "country_code": "CH",
+        "asn": "206790",
+        "description": "Banque de Commerce et de Placements SA",
+        "handle": "BANQUE-DE-COMMERCE-ET-DE-PLACEMENTS-SA"
+    },
+    "206794": {
+        "country_code": "CH",
+        "asn": "206794",
+        "description": "Metalor Technologies SA",
+        "handle": "METALOR"
+    },
+    "206857": {
+        "country_code": "CH",
+        "asn": "206857",
+        "description": "MLS Communications Sarl",
+        "handle": "MLS"
+    },
+    "206891": {
+        "country_code": "CH",
+        "asn": "206891",
+        "description": "Kanton Luzern Dienststelle Informatik",
+        "handle": "KANTONLUZERN"
+    },
+    "206969": {
+        "country_code": "CH",
+        "asn": "206969",
+        "description": "Hewlett Packard International Sarl",
+        "handle": "HPE-CIC"
+    },
+    "207014": {
+        "country_code": "CH",
+        "asn": "207014",
+        "description": "Radix Technologies SA",
+        "handle": "CH-RADIXCLOUD"
+    },
+    "207076": {
+        "country_code": "CH",
+        "asn": "207076",
+        "description": "ANTOINE JACOT-DESCOMBES",
+        "handle": "ONELAN"
+    },
+    "207143": {
+        "country_code": "CH",
+        "asn": "207143",
+        "description": "hosttech GmbH",
+        "handle": "HOSTTECH-AS"
+    },
+    "207149": {
+        "country_code": "CH",
+        "asn": "207149",
+        "description": "Julien Sansonnens",
+        "handle": "SNAWNET"
+    },
+    "207161": {
+        "country_code": "CH",
+        "asn": "207161",
+        "description": "Nagravision Sarl",
+        "handle": "US-PHX"
+    },
+    "207224": {
+        "country_code": "CH",
+        "asn": "207224",
+        "description": "BLOCKROCK (CH) SA",
+        "handle": "VOX-AS"
+    },
+    "207241": {
+        "country_code": "CH",
+        "asn": "207241",
+        "description": "IBKR Financial Services AG",
+        "handle": "IBKR-GB-AS"
+    },
+    "207271": {
+        "country_code": "CH",
+        "asn": "207271",
+        "description": "Swiss Datalink AG",
+        "handle": "DATALINK-AS"
+    },
+    "207308": {
+        "country_code": "CH",
+        "asn": "207308",
+        "description": "Bank Julius Baer & Co. Ltd",
+        "handle": "BJB2-AS"
+    },
+    "207335": {
+        "country_code": "CH",
+        "asn": "207335",
+        "description": "i-Community AG",
+        "handle": "I-COMMUNITY"
+    },
+    "207378": {
+        "country_code": "CH",
+        "asn": "207378",
+        "description": "DIRK MUTTERLOSE",
+        "handle": "INGBUEROMUTTERLOSE-ASZN01"
+    },
+    "207395": {
+        "country_code": "CH",
+        "asn": "207395",
+        "description": "MAXONY Suisse SA",
+        "handle": "MAXONY"
+    },
+    "207482": {
+        "country_code": "CH",
+        "asn": "207482",
+        "description": "MSC Cruises SA",
+        "handle": "MSC-CRUISES"
+    },
+    "207512": {
+        "country_code": "CH",
+        "asn": "207512",
+        "description": "CSL Behring AG",
+        "handle": "CSLBEHRING"
+    },
+    "207531": {
+        "country_code": "CH",
+        "asn": "207531",
+        "description": "IELO Sarl",
+        "handle": "IELO-CH"
+    },
+    "207624": {
+        "country_code": "CH",
+        "asn": "207624",
+        "description": "Signalhorn AG",
+        "handle": "AS-TDC-CH"
+    },
+    "207646": {
+        "country_code": "CH",
+        "asn": "207646",
+        "description": "Nexthink SA",
+        "handle": "NEXTHINK"
+    },
+    "207660": {
+        "country_code": "CH",
+        "asn": "207660",
+        "description": "BSE Software GmbH",
+        "handle": "SOLNET-VPN-SERVICE"
+    },
+    "207666": {
+        "country_code": "CH",
+        "asn": "207666",
+        "description": "Zibris AG",
+        "handle": "ZIBRIS"
+    },
+    "207688": {
+        "country_code": "CH",
+        "asn": "207688",
+        "description": "Saitis Network N.Desir",
+        "handle": "BISTOQUETTE"
+    },
+    "207733": {
+        "country_code": "CH",
+        "asn": "207733",
+        "description": "Iway AG",
+        "handle": "ISPVOIP"
+    },
+    "207758": {
+        "country_code": "CH",
+        "asn": "207758",
+        "description": "Hosteur SA",
+        "handle": "HOSTEUR-NET-CORE-CH"
+    },
+    "207762": {
+        "country_code": "CH",
+        "asn": "207762",
+        "description": "Zsolt Kazsi",
+        "handle": "KAZSI-AS"
+    },
+    "207907": {
+        "country_code": "CH",
+        "asn": "207907",
+        "description": "Elia Kessler",
+        "handle": "ELIA-AS"
+    },
+    "207996": {
+        "country_code": "CH",
+        "asn": "207996",
+        "description": "ungleich glarus ag",
+        "handle": "UNGLEICH-PLACE6"
+    },
+    "208065": {
+        "country_code": "CH",
+        "asn": "208065",
+        "description": "Leica Geosystems AG",
+        "handle": "LEICA-AS"
+    },
+    "208091": {
+        "country_code": "CH",
+        "asn": "208091",
+        "description": "Stephan Roland Wolf",
+        "handle": "WOLFSEC-AS3"
+    },
+    "208172": {
+        "country_code": "CH",
+        "asn": "208172",
+        "description": "Proton AG",
+        "handle": "PV-HOSTED"
+    },
+    "208216": {
+        "country_code": "CH",
+        "asn": "208216",
+        "description": "Tinext Cloud SA",
+        "handle": "CH-SWISSCOLOCATION"
+    },
+    "208224": {
+        "country_code": "CH",
+        "asn": "208224",
+        "description": "Galaxyweb AG",
+        "handle": "GALAXYWEB-AG"
+    },
+    "208260": {
+        "country_code": "CH",
+        "asn": "208260",
+        "description": "Daniel Stocker",
+        "handle": "STOEGE"
+    },
+    "208305": {
+        "country_code": "CH",
+        "asn": "208305",
+        "description": "Viseca Payment Services AG",
+        "handle": "AS-VISECA"
+    },
+    "208316": {
+        "country_code": "CH",
+        "asn": "208316",
+        "description": "Elca Informatique SA",
+        "handle": "ELCA-AS"
+    },
+    "208378": {
+        "country_code": "CH",
+        "asn": "208378",
+        "description": "BIG IT AG",
+        "handle": "BIGIT"
+    },
+    "208381": {
+        "country_code": "CH",
+        "asn": "208381",
+        "description": "Romande Energie SA",
+        "handle": "ROMANDE-ENERGIE"
+    },
+    "208510": {
+        "country_code": "CH",
+        "asn": "208510",
+        "description": "Axians Infoma Schweiz AG",
+        "handle": "AXIANS-AS"
+    },
+    "208575": {
+        "country_code": "CH",
+        "asn": "208575",
+        "description": "Haemoglobin",
+        "handle": "AS208575"
+    },
+    "208600": {
+        "country_code": "CH",
+        "asn": "208600",
+        "description": "Syselcom Mutuelle Informatique SA",
+        "handle": "ASINFOG"
+    },
+    "208608": {
+        "country_code": "CH",
+        "asn": "208608",
+        "description": "Haemoglobin",
+        "handle": "REDACTED"
+    },
+    "208613": {
+        "country_code": "CH",
+        "asn": "208613",
+        "description": "EternalNet AG",
+        "handle": "ETERNALNET"
+    },
+    "208646": {
+        "country_code": "CH",
+        "asn": "208646",
+        "description": "Haemoglobin",
+        "handle": "HAEMOGLOBIN-NETWORKS"
+    },
+    "208650": {
+        "country_code": "CH",
+        "asn": "208650",
+        "description": "Sonio AG",
+        "handle": "SONIO-AS"
+    },
+    "208682": {
+        "country_code": "CH",
+        "asn": "208682",
+        "description": "SMG Swiss Marketplace Group AG",
+        "handle": "CH-SCOUT24"
+    },
+    "208731": {
+        "country_code": "CH",
+        "asn": "208731",
+        "description": "RULEMATCH AG",
+        "handle": "RULEMATCH"
+    },
+    "208782": {
+        "country_code": "CH",
+        "asn": "208782",
+        "description": "ISPIN AG",
+        "handle": "ISPIN-AS"
+    },
+    "208813": {
+        "country_code": "CH",
+        "asn": "208813",
+        "description": "Galexis AG",
+        "handle": "GALEXIS"
+    },
+    "208836": {
+        "country_code": "CH",
+        "asn": "208836",
+        "description": "Banca Populare di Sondrio (Suisse) SA",
+        "handle": "BPS-AS"
+    },
+    "208921": {
+        "country_code": "CH",
+        "asn": "208921",
+        "description": "Loewenfels Partner AG",
+        "handle": "LOEWENFELS"
+    },
+    "208948": {
+        "country_code": "CH",
+        "asn": "208948",
+        "description": "e-Durable SA",
+        "handle": "RECYCLED-CLOUD-AS"
+    },
+    "208980": {
+        "country_code": "CH",
+        "asn": "208980",
+        "description": "Sauber Motorsport AG",
+        "handle": "SAUBER-AS"
+    },
+    "209042": {
+        "country_code": "CH",
+        "asn": "209042",
+        "description": "TiZoo Sarl",
+        "handle": "TIZOO"
+    },
+    "209103": {
+        "country_code": "CH",
+        "asn": "209103",
+        "description": "Proton AG",
+        "handle": "PROTONVPN"
+    },
+    "209105": {
+        "country_code": "CH",
+        "asn": "209105",
+        "description": "Freunde der Meinungsfreiheit",
+        "handle": "TUXLIORG"
+    },
+    "209346": {
+        "country_code": "CH",
+        "asn": "209346",
+        "description": "UMB AG",
+        "handle": "UMB-AG"
+    },
+    "209494": {
+        "country_code": "CH",
+        "asn": "209494",
+        "description": "Banque Eric Sturdza SA",
+        "handle": "AS3303"
+    },
+    "209533": {
+        "country_code": "CH",
+        "asn": "209533",
+        "description": "iFog GmbH",
+        "handle": "BGPTUNNEL"
+    },
+    "209582": {
+        "country_code": "CH",
+        "asn": "209582",
+        "description": "Goldinger IT GmbH",
+        "handle": "GOLDINGER"
+    },
+    "209615": {
+        "country_code": "CH",
+        "asn": "209615",
+        "description": "Antonio Parrinello trading as Nakoma AG",
+        "handle": "NAKOMA"
+    },
+    "209807": {
+        "country_code": "CH",
+        "asn": "209807",
+        "description": "Sandchaschte",
+        "handle": "SANDCHASCHTE"
+    },
+    "209822": {
+        "country_code": "CH",
+        "asn": "209822",
+        "description": "BKW Energie AG",
+        "handle": "BKW"
+    },
+    "209833": {
+        "country_code": "CH",
+        "asn": "209833",
+        "description": "Aroga GmbH",
+        "handle": "AROGA-GMBH"
+    },
+    "209848": {
+        "country_code": "CH",
+        "asn": "209848",
+        "description": "UBS Card Center AG",
+        "handle": "CARDCENTER"
+    },
+    "209878": {
+        "country_code": "CH",
+        "asn": "209878",
+        "description": "RackFarm",
+        "handle": "RACKFARM"
+    },
+    "209880": {
+        "country_code": "CH",
+        "asn": "209880",
+        "description": "VZ Corporate Services AG",
+        "handle": "VZ-AS"
+    },
+    "209886": {
+        "country_code": "CH",
+        "asn": "209886",
+        "description": "LAKE Solutions AG",
+        "handle": "LAKE"
+    },
+    "209898": {
+        "country_code": "CH",
+        "asn": "209898",
+        "description": "ungleich glarus ag",
+        "handle": "UNGLEICH-UNGLEICH-UPSTREAM"
+    },
+    "209913": {
+        "country_code": "CH",
+        "asn": "209913",
+        "description": "Crealogix AG",
+        "handle": "CREALOGIX-AG"
+    },
+    "210018": {
+        "country_code": "CH",
+        "asn": "210018",
+        "description": "Bank CIC (Schweiz) AG",
+        "handle": "ASNEW"
+    },
+    "210036": {
+        "country_code": "CH",
+        "asn": "210036",
+        "description": "Rayhaan Ahmad Jaufeerally",
+        "handle": "RAYHAANNET"
+    },
+    "210042": {
+        "country_code": "CH",
+        "asn": "210042",
+        "description": "embeDD GmbH",
+        "handle": "EMBEDD-FFM-AS"
+    },
+    "210076": {
+        "country_code": "CH",
+        "asn": "210076",
+        "description": "Beat Joerg",
+        "handle": "BJCH-NET"
+    },
+    "210231": {
+        "country_code": "CH",
+        "asn": "210231",
+        "description": "Sysdex AG",
+        "handle": "SYSDEX"
+    },
+    "210308": {
+        "country_code": "CH",
+        "asn": "210308",
+        "description": "Schweizer Paraplegiker-Zentrum Nottwil AG",
+        "handle": "PARAPLEGIE"
+    },
+    "210346": {
+        "country_code": "CH",
+        "asn": "210346",
+        "description": "Phoenix Systems AG",
+        "handle": "PHOENIX"
+    },
+    "210360": {
+        "country_code": "CH",
+        "asn": "210360",
+        "description": "Leonard Paschek",
+        "handle": "HIMBEER-AS"
+    },
+    "210378": {
+        "country_code": "CH",
+        "asn": "210378",
+        "description": "Kantonspolizei Zuerich",
+        "handle": "KNET"
+    },
+    "210468": {
+        "country_code": "CH",
+        "asn": "210468",
+        "description": "Eniwa AG",
+        "handle": "ENIWA"
+    },
+    "210500": {
+        "country_code": "CH",
+        "asn": "210500",
+        "description": "Stadt Winterthur",
+        "handle": "STADT-WITHUR"
+    },
+    "210602": {
+        "country_code": "CH",
+        "asn": "210602",
+        "description": "Marbell AG",
+        "handle": "MARBELL"
+    },
+    "210688": {
+        "country_code": "CH",
+        "asn": "210688",
+        "description": "Benjamin Leroy",
+        "handle": "BENJAMINLEROY"
+    },
+    "210736": {
+        "country_code": "CH",
+        "asn": "210736",
+        "description": "Hamilton Services AG",
+        "handle": "HAMILTON"
+    },
+    "210742": {
+        "country_code": "CH",
+        "asn": "210742",
+        "description": "SIX Group Services AG",
+        "handle": "SIX-JP"
+    },
+    "210752": {
+        "country_code": "CH",
+        "asn": "210752",
+        "description": "Global Legal Entity Identifier Foundation",
+        "handle": "GLEIF-NET"
+    },
+    "210861": {
+        "country_code": "CH",
+        "asn": "210861",
+        "description": "Open Networks Association",
+        "handle": "ONA"
+    },
+    "210862": {
+        "country_code": "CH",
+        "asn": "210862",
+        "description": "WND AG",
+        "handle": "WND-AS"
+    },
+    "210983": {
+        "country_code": "CH",
+        "asn": "210983",
+        "description": "Digris AG",
+        "handle": "DIGRIS"
+    },
+    "210998": {
+        "country_code": "CH",
+        "asn": "210998",
+        "description": "SPS Switzerland AG",
+        "handle": "SWISSPOSTSOLUTION"
+    },
+    "211003": {
+        "country_code": "CH",
+        "asn": "211003",
+        "description": "Finn Linsbauer",
+        "handle": "BAMBUS-NETWORK"
+    },
+    "211013": {
+        "country_code": "CH",
+        "asn": "211013",
+        "description": "Reseau scientifique valaisan (VSnet)",
+        "handle": "VSNET"
+    },
+    "211096": {
+        "country_code": "CH",
+        "asn": "211096",
+        "description": "Gluecklich GmbH",
+        "handle": "AS-MHS"
+    },
+    "211107": {
+        "country_code": "CH",
+        "asn": "211107",
+        "description": "Openfactory GmbH",
+        "handle": "CCC39-RS"
+    },
+    "211174": {
+        "country_code": "CH",
+        "asn": "211174",
+        "description": "St. Gallisch-Appenzellische Kraftwerke AG",
+        "handle": "SAKNET"
+    },
+    "211182": {
+        "country_code": "CH",
+        "asn": "211182",
+        "description": "Television Sierre SA",
+        "handle": "AS-TVSSA"
+    },
+    "211197": {
+        "country_code": "CH",
+        "asn": "211197",
+        "description": "Informatikleistungszentrum Obwalden - Nidwalden (ILZ)",
+        "handle": "ILZ"
+    },
+    "211342": {
+        "country_code": "CH",
+        "asn": "211342",
+        "description": "esr multimedia SA",
+        "handle": "AS-ESRM"
+    },
+    "211452": {
+        "country_code": "CH",
+        "asn": "211452",
+        "description": "Kanton Appenzell Ausserrhoden",
+        "handle": "KANTONAR"
+    },
+    "211454": {
+        "country_code": "CH",
+        "asn": "211454",
+        "description": "Selecta AG",
+        "handle": "SELECTA-AS"
+    },
+    "211464": {
+        "country_code": "CH",
+        "asn": "211464",
+        "description": "Prisma Group SA",
+        "handle": "PRISMA-GROUP"
+    },
+    "211472": {
+        "country_code": "CH",
+        "asn": "211472",
+        "description": "SwissLink Carrier AG",
+        "handle": "SWISSLINK-AS"
+    },
+    "211540": {
+        "country_code": "CH",
+        "asn": "211540",
+        "description": "Stiftung Kantonsspital Graubuenden",
+        "handle": "KSGR"
+    },
+    "211565": {
+        "country_code": "CH",
+        "asn": "211565",
+        "description": "Boschung Mecatronic AG",
+        "handle": "BOSCHUNG-MECATRONIC"
+    },
+    "211569": {
+        "country_code": "CH",
+        "asn": "211569",
+        "description": "naturenergie holding AG",
+        "handle": "NATURENERGIE"
+    },
+    "211833": {
+        "country_code": "CH",
+        "asn": "211833",
+        "description": "itship GmbH",
+        "handle": "ITSHIP"
+    },
+    "211837": {
+        "country_code": "CH",
+        "asn": "211837",
+        "description": "Helbling Networks GmbH",
+        "handle": "HELBLING-NET"
+    },
+    "211861": {
+        "country_code": "CH",
+        "asn": "211861",
+        "description": "netwolk GmbH",
+        "handle": "NETWOLK-AS"
+    },
+    "211876": {
+        "country_code": "CH",
+        "asn": "211876",
+        "description": "Luis Staeheli Quednau",
+        "handle": "WUEMELIINTERWEBSSOLUTIONS"
+    },
+    "211894": {
+        "country_code": "CH",
+        "asn": "211894",
+        "description": "ungleich GmbH",
+        "handle": "UNGLEICH-PLACE18"
+    },
+    "212009": {
+        "country_code": "CH",
+        "asn": "212009",
+        "description": "M&S Software Engineering AG",
+        "handle": "M-S"
+    },
+    "212014": {
+        "country_code": "CH",
+        "asn": "212014",
+        "description": "Nugolo AG",
+        "handle": "NUGOLO-AS"
+    },
+    "212100": {
+        "country_code": "CH",
+        "asn": "212100",
+        "description": "CH IX",
+        "handle": "CHIX-AS"
+    },
+    "212125": {
+        "country_code": "CH",
+        "asn": "212125",
+        "description": "Franz Abzieher",
+        "handle": "ABZIEHER-AS"
+    },
+    "212129": {
+        "country_code": "CH",
+        "asn": "212129",
+        "description": "Christophe Gherardi",
+        "handle": "CIRRUSLAB"
+    },
+    "212141": {
+        "country_code": "CH",
+        "asn": "212141",
+        "description": "IBKR Financial Services AG",
+        "handle": "IBKR-4-AS"
+    },
+    "212142": {
+        "country_code": "CH",
+        "asn": "212142",
+        "description": "IBKR Financial Services AG",
+        "handle": "IBKR-3-AS"
+    },
+    "212143": {
+        "country_code": "CH",
+        "asn": "212143",
+        "description": "IBKR Financial Services AG",
+        "handle": "IBKR-2-AS"
+    },
+    "212145": {
+        "country_code": "CH",
+        "asn": "212145",
+        "description": "IBKR Financial Services AG",
+        "handle": "IBKR-1-AS"
+    },
+    "212201": {
+        "country_code": "CH",
+        "asn": "212201",
+        "description": "Ducksify SA",
+        "handle": "DUCKSIFY"
+    },
+    "212255": {
+        "country_code": "CH",
+        "asn": "212255",
+        "description": "TelcoGuard AG",
+        "handle": "TELCOTEST"
+    },
+    "212310": {
+        "country_code": "CH",
+        "asn": "212310",
+        "description": "Nielsen International SA",
+        "handle": "NIELSEN"
+    },
+    "212323": {
+        "country_code": "CH",
+        "asn": "212323",
+        "description": "Daedalean AG",
+        "handle": "DDLN"
+    },
+    "212368": {
+        "country_code": "CH",
+        "asn": "212368",
+        "description": "GlobaHub AG",
+        "handle": "GLOBAHUB-NET"
+    },
+    "212374": {
+        "country_code": "CH",
+        "asn": "212374",
+        "description": "Virtuozzo International GmbH",
+        "handle": "VZGMBH-NET"
+    },
+    "212378": {
+        "country_code": "CH",
+        "asn": "212378",
+        "description": "Aleksei Papulovskii",
+        "handle": "AS212378"
+    },
+    "212381": {
+        "country_code": "CH",
+        "asn": "212381",
+        "description": "Marbell AG",
+        "handle": "BEELASTIC-TICINO"
+    },
+    "212464": {
+        "country_code": "CH",
+        "asn": "212464",
+        "description": "Jonas Kohler",
+        "handle": "TUXNET"
+    },
+    "212506": {
+        "country_code": "CH",
+        "asn": "212506",
+        "description": "swizzonic ltd",
+        "handle": "SWIZZONIC-AS"
+    },
+    "212580": {
+        "country_code": "CH",
+        "asn": "212580",
+        "description": "cupaco GmbH",
+        "handle": "CORUNET"
+    },
+    "212629": {
+        "country_code": "CH",
+        "asn": "212629",
+        "description": "Sankt Galler Stadtwerke",
+        "handle": "SGSW"
+    },
+    "212777": {
+        "country_code": "CH",
+        "asn": "212777",
+        "description": "Schweizerische Mobiliar Versicherungsgesellschaft AG",
+        "handle": "MOBILIAR"
+    },
+    "212801": {
+        "country_code": "CH",
+        "asn": "212801",
+        "description": "almanid group GmbH",
+        "handle": "ALMANID-AS-IAS"
+    },
+    "212823": {
+        "country_code": "CH",
+        "asn": "212823",
+        "description": "Fuehrungsunterstuetzungsbasis FUB",
+        "handle": "BABS"
+    },
+    "212865": {
+        "country_code": "CH",
+        "asn": "212865",
+        "description": "netconnect AG",
+        "handle": "NETCONNECT"
+    },
+    "212920": {
+        "country_code": "CH",
+        "asn": "212920",
+        "description": "Addax Energy SA",
+        "handle": "ADDAX-ENERGY"
+    },
+    "212944": {
+        "country_code": "CH",
+        "asn": "212944",
+        "description": "Thurgroup Partners GmbH",
+        "handle": "THUR-AS"
+    },
+    "212959": {
+        "country_code": "CH",
+        "asn": "212959",
+        "description": "ungleich glarus ag",
+        "handle": "UNGLEICH-SOUTH-KOREA"
+    },
+    "212960": {
+        "country_code": "CH",
+        "asn": "212960",
+        "description": "Gamanza Group AG",
+        "handle": "GAMANZA-AS"
+    },
+    "212981": {
+        "country_code": "CH",
+        "asn": "212981",
+        "description": "Schiller AG",
+        "handle": "SCHILLER-AS"
+    },
+    "213011": {
+        "country_code": "CH",
+        "asn": "213011",
+        "description": "FHVi (federation des hopitaux vaudois informatique)",
+        "handle": "FHVI"
+    },
+    "213044": {
+        "country_code": "CH",
+        "asn": "213044",
+        "description": "Stiftung Auffangeinrichtung BVG",
+        "handle": "BVG-AS"
+    },
+    "213059": {
+        "country_code": "CH",
+        "asn": "213059",
+        "description": "IT-Zentrum Emmental AG",
+        "handle": "ITZE"
+    },
+    "213076": {
+        "country_code": "CH",
+        "asn": "213076",
+        "description": "Graian Capital Management SA",
+        "handle": "GRAIAN-AS"
+    },
+    "213081": {
+        "country_code": "CH",
+        "asn": "213081",
+        "description": "ungleich glarus ag",
+        "handle": "UNGLEICH-PLACE10"
+    },
+    "213196": {
+        "country_code": "CH",
+        "asn": "213196",
+        "description": "Universitaetsspital Basel",
+        "handle": "USB"
+    },
+    "213263": {
+        "country_code": "CH",
+        "asn": "213263",
+        "description": "Benjamin Marty",
+        "handle": "KILOBYTE"
+    },
+    "213270": {
+        "country_code": "CH",
+        "asn": "213270",
+        "description": "Cysec SA",
+        "handle": "CYSEC"
+    },
+    "213288": {
+        "country_code": "CH",
+        "asn": "213288",
+        "description": "iFog GmbH",
+        "handle": "IFOG-ACCESS-NETWORK"
+    },
+    "213298": {
+        "country_code": "CH",
+        "asn": "213298",
+        "description": "Cortex IT SA",
+        "handle": "CTX-BRN-AS"
+    },
+    "213307": {
+        "country_code": "CH",
+        "asn": "213307",
+        "description": "Idorsia Pharmaceuticals Ltd",
+        "handle": "IDORSIA-PHARMACEUTICALS-LTD"
+    },
+    "213376": {
+        "country_code": "CH",
+        "asn": "213376",
+        "description": "HERVE ROUSSEAU",
+        "handle": "MOULTICAST"
+    },
+    "213418": {
+        "country_code": "CH",
+        "asn": "213418",
+        "description": "BE BRAVE AG",
+        "handle": "BEBRAVE"
+    },
+    "213597": {
+        "country_code": "CH",
+        "asn": "213597",
+        "description": "Quad9 Stiftung",
+        "handle": "QUAD9-TRANSIT"
+    },
+    "213743": {
+        "country_code": "CH",
+        "asn": "213743",
+        "description": "Maya Boeckh",
+        "handle": "ATOMICINFRA"
+    },
+    "213747": {
+        "country_code": "CH",
+        "asn": "213747",
+        "description": "Stephan Hegner",
+        "handle": "HEGNERENGINEERING"
+    },
+    "213758": {
+        "country_code": "CH",
+        "asn": "213758",
+        "description": "Global Legal Entity Identifier Foundation",
+        "handle": "GLEIF-TECH"
+    },
+    "213913": {
+        "country_code": "CH",
+        "asn": "213913",
+        "description": "Unlimited Network AG",
+        "handle": "UNLIMITED-NETWORK"
+    },
+    "213924": {
+        "country_code": "CH",
+        "asn": "213924",
+        "description": "MOUNT10 AG",
+        "handle": "MOUNT10"
+    },
+    "213929": {
+        "country_code": "CH",
+        "asn": "213929",
+        "description": "UP-NETWORK Sarl",
+        "handle": "UP-NETWORK"
+    },
+    "214035": {
+        "country_code": "CH",
+        "asn": "214035",
+        "description": "Health Info Net AG",
+        "handle": "HIN"
+    },
+    "214060": {
+        "country_code": "CH",
+        "asn": "214060",
+        "description": "Seabix AG",
+        "handle": "SEABIX"
+    },
+    "214108": {
+        "country_code": "CH",
+        "asn": "214108",
+        "description": "Unlyme SA",
+        "handle": "UNLYME-AS"
+    },
+    "214163": {
+        "country_code": "CH",
+        "asn": "214163",
+        "description": "Republique et Canton du Jura",
+        "handle": "JURA-CH"
+    },
+    "214182": {
+        "country_code": "CH",
+        "asn": "214182",
+        "description": "Swisscom (Schweiz) AG",
+        "handle": "CIP"
+    },
+    "214204": {
+        "country_code": "CH",
+        "asn": "214204",
+        "description": "Zenvoo Sagl",
+        "handle": "ZENVOO-LUX-LW"
+    },
+    "214217": {
+        "country_code": "CH",
+        "asn": "214217",
+        "description": "Etat du Valais",
+        "handle": "ASN"
+    },
+    "214237": {
+        "country_code": "CH",
+        "asn": "214237",
+        "description": "setaiga GmbH",
+        "handle": "SETAIGA"
+    },
+    "214249": {
+        "country_code": "CH",
+        "asn": "214249",
+        "description": "ALPHASCALE MEDIA GMBH",
+        "handle": "ALPHASCALE"
+    },
+    "214274": {
+        "country_code": "CH",
+        "asn": "214274",
+        "description": "Informaticon AG",
+        "handle": "INFORMATICON"
+    },
+    "214310": {
+        "country_code": "CH",
+        "asn": "214310",
+        "description": "Teleinformatik Services AG",
+        "handle": "TIAG-AS"
+    },
+    "214358": {
+        "country_code": "CH",
+        "asn": "214358",
+        "description": "MTEL Schweiz GmbH",
+        "handle": "MTEL-CH-AS"
+    },
+    "214476": {
+        "country_code": "CH",
+        "asn": "214476",
+        "description": "Robert Ressl",
+        "handle": "CANUS"
+    },
+    "214527": {
+        "country_code": "CH",
+        "asn": "214527",
+        "description": "Frederic Arroyo",
+        "handle": "FREDERIC-ARROYO"
+    },
+    "214551": {
+        "country_code": "CH",
+        "asn": "214551",
+        "description": "Dmitry Kalinin",
+        "handle": "DMITRY-KALININ"
+    },
+    "214552": {
+        "country_code": "CH",
+        "asn": "214552",
+        "description": "Flow Swiss AG",
+        "handle": "FLOWR3"
+    },
+    "214619": {
+        "country_code": "CH",
+        "asn": "214619",
+        "description": "TBF + Partner AG",
+        "handle": "TBF"
+    },
+    "214700": {
+        "country_code": "CH",
+        "asn": "214700",
+        "description": "JBOD AG",
+        "handle": "AS-JBODAG"
+    },
+    "214756": {
+        "country_code": "CH",
+        "asn": "214756",
+        "description": "Constellium Switzerland AG",
+        "handle": "CONSTELLIUM-CH"
+    },
+    "214815": {
+        "country_code": "CH",
+        "asn": "214815",
+        "description": "Amforc AG",
+        "handle": "AMFORC-AS"
+    },
+    "214849": {
+        "country_code": "CH",
+        "asn": "214849",
+        "description": "Hitachi Energy Holdings Ltd",
+        "handle": "SA-1"
+    },
+    "214864": {
+        "country_code": "CH",
+        "asn": "214864",
+        "description": "BPC AG",
+        "handle": "BPC-AG"
+    },
+    "214867": {
+        "country_code": "CH",
+        "asn": "214867",
+        "description": "advact AG",
+        "handle": "ADVACT"
+    },
+    "214873": {
+        "country_code": "CH",
+        "asn": "214873",
+        "description": "HINT AG",
+        "handle": "HINTAG"
+    },
+    "214897": {
+        "country_code": "CH",
+        "asn": "214897",
+        "description": "Virtuozzo International GmbH",
+        "handle": "VIRTUC"
+    },
+    "214898": {
+        "country_code": "CH",
+        "asn": "214898",
+        "description": "Kanton Basel-Stadt",
+        "handle": "CH-KANTON-BASEL-AS"
+    },
+    "215041": {
+        "country_code": "CH",
+        "asn": "215041",
+        "description": "Kevin Schaerer",
+        "handle": "SCHAERER"
+    },
+    "215044": {
+        "country_code": "CH",
+        "asn": "215044",
+        "description": "OBT AG",
+        "handle": "OBT-AG"
+    },
+    "215178": {
+        "country_code": "CH",
+        "asn": "215178",
+        "description": "HostMAX GmbH",
+        "handle": "HOSTMAX"
+    },
+    "215198": {
+        "country_code": "CH",
+        "asn": "215198",
+        "description": "Theo Buehler",
+        "handle": "TBLR-AS"
+    },
+    "215217": {
+        "country_code": "CH",
+        "asn": "215217",
+        "description": "Vadian.Net AG",
+        "handle": "AS-VADIAN2"
+    },
+    "215254": {
+        "country_code": "CH",
+        "asn": "215254",
+        "description": "Swisscom Broadcast Ltd",
+        "handle": "SBC-NET-2"
+    },
+    "215266": {
+        "country_code": "CH",
+        "asn": "215266",
+        "description": "Audatex (Schweiz) GmbH",
+        "handle": "SOLERA-EU"
+    },
+    "215278": {
+        "country_code": "CH",
+        "asn": "215278",
+        "description": "Leuchter IT Infrastructure Solutions AG",
+        "handle": "LEUCHTER"
+    },
+    "215448": {
+        "country_code": "CH",
+        "asn": "215448",
+        "description": "Leif Jakob",
+        "handle": "JAKOBLEIF-AS"
+    },
+    "215489": {
+        "country_code": "CH",
+        "asn": "215489",
+        "description": "Sandoz AG",
+        "handle": "SANDOZ-GDC-EU"
+    },
+    "215538": {
+        "country_code": "CH",
+        "asn": "215538",
+        "description": "Givaudan International SA",
+        "handle": "GIVAUDAN-INTERNATIONAL-SA"
+    },
+    "215642": {
+        "country_code": "CH",
+        "asn": "215642",
+        "description": "Ursin Filli",
+        "handle": "FILLI-LAB-AS"
+    },
+    "215785": {
+        "country_code": "CH",
+        "asn": "215785",
+        "description": "Remo Steiner",
+        "handle": "LANPORT"
+    },
+    "215808": {
+        "country_code": "CH",
+        "asn": "215808",
+        "description": "IBB Energie AG",
+        "handle": "IBB-HOLDING-AS"
+    },
+    "215816": {
+        "country_code": "CH",
+        "asn": "215816",
+        "description": "ITEres GmbH",
+        "handle": "CH-ITERESGMBH"
+    },
+    "215825": {
+        "country_code": "CH",
+        "asn": "215825",
+        "description": "Baptiste A. Ferrando",
+        "handle": "ALTERA-NETWORK"
+    },
+    "215847": {
+        "country_code": "CH",
+        "asn": "215847",
+        "description": "ITeasy AG",
+        "handle": "CH-ITEASY"
+    },
+    "215852": {
+        "country_code": "CH",
+        "asn": "215852",
+        "description": "Shigir GmbH",
+        "handle": "SHIGIR"
+    },
+    "215891": {
+        "country_code": "CH",
+        "asn": "215891",
+        "description": "Kantonspolizei St.Gallen",
+        "handle": "STGALLEN"
+    },
+    "216097": {
+        "country_code": "CH",
+        "asn": "216097",
+        "description": "Stefan Gantenbein trading as Movie2Go Inh. Gantenbein",
+        "handle": "MOVIE2GO-AS"
+    },
+    "216106": {
+        "country_code": "CH",
+        "asn": "216106",
+        "description": "JustFiberNet GmbH",
+        "handle": "JUSTFIBERNET"
+    },
+    "216220": {
+        "country_code": "CH",
+        "asn": "216220",
+        "description": "Edmond de Rothschild (Suisse) SA",
+        "handle": "EDR-CH"
+    },
+    "216229": {
+        "country_code": "CH",
+        "asn": "216229",
+        "description": "Eurovision Services SA",
+        "handle": "THEMEDIAHUB"
+    },
+    "216318": {
+        "country_code": "CH",
+        "asn": "216318",
+        "description": "Daniel Baumann",
+        "handle": "OPEN-INFRASTRUCTURE"
+    },
+    "216381": {
+        "country_code": "CH",
+        "asn": "216381",
+        "description": "Axians IT Services AG",
+        "handle": "AXIANS"
+    },
+    "216434": {
+        "country_code": "CH",
+        "asn": "216434",
+        "description": "aity AG",
+        "handle": "AITY"
+    },
+    "216467": {
+        "country_code": "CH",
+        "asn": "216467",
+        "description": "Universitaet Bern",
+        "handle": "UNIBE-LHEP"
+    }
+}

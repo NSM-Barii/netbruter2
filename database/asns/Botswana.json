@@ -1,0 +1,218 @@
+{
+    "14988": {
+        "country_code": "BW",
+        "asn": "14988",
+        "description": "Botswana Telecommunications Corporation",
+        "handle": "BTC-GATE1"
+    },
+    "32279": {
+        "country_code": "BW",
+        "asn": "32279",
+        "description": "University of Botswana",
+        "handle": "UBW-WAN"
+    },
+    "33781": {
+        "country_code": "BW",
+        "asn": "33781",
+        "description": "OPQ Net",
+        "handle": "OPQ"
+    },
+    "36963": {
+        "country_code": "BW",
+        "asn": "36963",
+        "description": "Orange Botswana (PTY) Ltd",
+        "handle": "OBO"
+    },
+    "37014": {
+        "country_code": "BW",
+        "asn": "37014",
+        "description": "Mascom Wireless Ltd",
+        "handle": "MASCOM-WIRELESS-BOTSWANA"
+    },
+    "37051": {
+        "country_code": "BW",
+        "asn": "37051",
+        "description": "Government of Botswana",
+        "handle": "GOVBW-AS0"
+    },
+    "37257": {
+        "country_code": "BW",
+        "asn": "37257",
+        "description": "Broadband Botswana Internet",
+        "handle": "BBI"
+    },
+    "37395": {
+        "country_code": "BW",
+        "asn": "37395",
+        "description": "Abari Communications",
+        "handle": "ABARI"
+    },
+    "37604": {
+        "country_code": "BW",
+        "asn": "37604",
+        "description": "Desert Road Pty Ltd t/a Zebranet",
+        "handle": "ZEBRANET-AS"
+    },
+    "37678": {
+        "country_code": "BW",
+        "asn": "37678",
+        "description": "BOTSWANA FIBRE NETWORKS (Proprietary) Limited",
+        "handle": "BOFINET"
+    },
+    "37711": {
+        "country_code": "BW",
+        "asn": "37711",
+        "description": "Sea Breeze (Pty) Ltd T/A Mega Internet",
+        "handle": "SEABREEZE"
+    },
+    "37771": {
+        "country_code": "BW",
+        "asn": "37771",
+        "description": "The Botswana Internet Exchange (BINX)",
+        "handle": "BINX-PEERING"
+    },
+    "212122": {
+        "country_code": "BW",
+        "asn": "212122",
+        "description": "Revoc Admira Group Proprietary Limited Trading as Admira Solutions",
+        "handle": "ADMIRA-SOLUTIONS"
+    },
+    "327696": {
+        "country_code": "BW",
+        "asn": "327696",
+        "description": "The Botswana Internet Exchange (BINX)",
+        "handle": "BINX-MGMT-AS"
+    },
+    "327716": {
+        "country_code": "BW",
+        "asn": "327716",
+        "description": "Microteck Enterprises (Pty) Ltd.",
+        "handle": "MICROTECK-AS"
+    },
+    "327757": {
+        "country_code": "BW",
+        "asn": "327757",
+        "description": "ICT DYNAMIX (Pty) Limited",
+        "handle": "ICT-DYNAMIX"
+    },
+    "327760": {
+        "country_code": "BW",
+        "asn": "327760",
+        "description": "ELECTRO METIC ENTERPRISES PTY LTD",
+        "handle": "ELECTRO-METIC"
+    },
+    "327776": {
+        "country_code": "BW",
+        "asn": "327776",
+        "description": "STATURE (PTY) LTD",
+        "handle": "STATURE-PTY-LTD"
+    },
+    "327830": {
+        "country_code": "BW",
+        "asn": "327830",
+        "description": "Concerotel Botswana Pty Ltd",
+        "handle": "CONCEROTEL-BOTSWANA"
+    },
+    "328070": {
+        "country_code": "BW",
+        "asn": "328070",
+        "description": "MTN Business Solutions (Botswana)",
+        "handle": "MTN-BUSINESS-SOLUTIONS-BW-AS"
+    },
+    "328181": {
+        "country_code": "BW",
+        "asn": "328181",
+        "description": "Dapit Ventures (PTY) Ltd t/a GCSat Botswana",
+        "handle": "GCSAT-BOTSWANA"
+    },
+    "328348": {
+        "country_code": "BW",
+        "asn": "328348",
+        "description": "Fasttrack Learning (Proprietary) Limited",
+        "handle": "FASTTRACKLEARNING-AS"
+    },
+    "328459": {
+        "country_code": "BW",
+        "asn": "328459",
+        "description": "VBN Services",
+        "handle": "VBN-SERVICES"
+    },
+    "328737": {
+        "country_code": "BW",
+        "asn": "328737",
+        "description": "Netway (Proprietary) Limited",
+        "handle": "NETWAY-PROPRIETARY-LIMITED"
+    },
+    "328757": {
+        "country_code": "BW",
+        "asn": "328757",
+        "description": "Donya Digital (Pty) Ltd",
+        "handle": "DONYA-DIGITAL-AS"
+    },
+    "328869": {
+        "country_code": "BW",
+        "asn": "328869",
+        "description": "Bank Gaborone Limited",
+        "handle": "BGL-AS"
+    },
+    "328996": {
+        "country_code": "BW",
+        "asn": "328996",
+        "description": "Botswana Postal Services Limited",
+        "handle": "BPSL1-AS"
+    },
+    "329078": {
+        "country_code": "BW",
+        "asn": "329078",
+        "description": "Abari Communications",
+        "handle": "ABARI-FTTH"
+    },
+    "329185": {
+        "country_code": "BW",
+        "asn": "329185",
+        "description": "Pula Net Proprietary Limited",
+        "handle": "PNPL1-AS"
+    },
+    "329301": {
+        "country_code": "BW",
+        "asn": "329301",
+        "description": "BOTSWANA RESEARCH AND EDUCATION NETWORK SOCIETY",
+        "handle": "BOTSWANA-RESEARCH-AND-EDUCATION-NETWORK"
+    },
+    "329339": {
+        "country_code": "BW",
+        "asn": "329339",
+        "description": "Smartgae Proprietary Limited",
+        "handle": "SMARTGAE"
+    },
+    "329381": {
+        "country_code": "BW",
+        "asn": "329381",
+        "description": "FIBRE SOURCING BOTSWANA PROPRIETARY LIMITED",
+        "handle": "FIBRE-SOURCING"
+    },
+    "329473": {
+        "country_code": "BW",
+        "asn": "329473",
+        "description": "Click Connect Proprietary Limited",
+        "handle": "CLICK-CONNECT"
+    },
+    "329581": {
+        "country_code": "BW",
+        "asn": "329581",
+        "description": "Botswana Communications Regulatory Authority",
+        "handle": "BOTSWANA-COMMUNICATIONS-REGULATORY"
+    },
+    "329604": {
+        "country_code": "BW",
+        "asn": "329604",
+        "description": "Elemech Contractors Proprietary Limited",
+        "handle": "ELEMECH-CONTRACTORS-PROPRIETARY-LIMITED"
+    },
+    "329615": {
+        "country_code": "BW",
+        "asn": "329615",
+        "description": "Sharp Thoughts Proprietary Ltd t/a Cloud Raptor",
+        "handle": "CLOUD-RAPTOR"
+    }
+}

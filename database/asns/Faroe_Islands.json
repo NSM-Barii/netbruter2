@@ -1,0 +1,44 @@
+{
+    "15389": {
+        "country_code": "FO",
+        "asn": "15389",
+        "description": "P/F Telefonverkid",
+        "handle": "FAROESE-TELECOM-AS"
+    },
+    "20963": {
+        "country_code": "FO",
+        "asn": "20963",
+        "description": "P/F 20.11.19",
+        "handle": "NEMAFAROE"
+    },
+    "200664": {
+        "country_code": "FO",
+        "asn": "200664",
+        "description": "P/F Net",
+        "handle": "PF-FTNET"
+    },
+    "206928": {
+        "country_code": "FO",
+        "asn": "206928",
+        "description": "P/F Elektron",
+        "handle": "PF-ELEKTRON"
+    },
+    "209175": {
+        "country_code": "FO",
+        "asn": "209175",
+        "description": "Kringvarp Foroya",
+        "handle": "KRINGVARP-FOROYA"
+    },
+    "210417": {
+        "country_code": "FO",
+        "asn": "210417",
+        "description": "P/F Net",
+        "handle": "NET2"
+    },
+    "213733": {
+        "country_code": "FO",
+        "asn": "213733",
+        "description": "Charlie Gustafsson",
+        "handle": "CHARLIE-GUSTAFSSON"
+    }
+}

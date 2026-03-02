@@ -1,0 +1,62 @@
+{
+    "3605": {
+        "country_code": "GU",
+        "asn": "3605",
+        "description": "Kuentos Communications Inc.",
+        "handle": "ERX-KUENTOS-AS"
+    },
+    "9246": {
+        "country_code": "GU",
+        "asn": "9246",
+        "description": "TeleGuam Holdings",
+        "handle": "GTA-AP"
+    },
+    "9548": {
+        "country_code": "GU",
+        "asn": "9548",
+        "description": "EC Communications LLC.",
+        "handle": "INET-AS-AP"
+    },
+    "17456": {
+        "country_code": "GU",
+        "asn": "17456",
+        "description": "Pacific Data Systems",
+        "handle": "PDSGUAM-USTRANSPORT-AS-GU-AP"
+    },
+    "23676": {
+        "country_code": "GU",
+        "asn": "23676",
+        "description": "University of Guam",
+        "handle": "MARIIX-GU"
+    },
+    "55863": {
+        "country_code": "GU",
+        "asn": "55863",
+        "description": "Choice Phone LLC",
+        "handle": "ICONNECT-NET-AS-AP"
+    },
+    "56200": {
+        "country_code": "GU",
+        "asn": "56200",
+        "description": "Guam Community College",
+        "handle": "GCC-NETOPS-GU"
+    },
+    "133071": {
+        "country_code": "GU",
+        "asn": "133071",
+        "description": "GUAMCELL Communications",
+        "handle": "GUAMCELL-AS-AP"
+    },
+    "152735": {
+        "country_code": "GU",
+        "asn": "152735",
+        "description": "Guam Exchange",
+        "handle": "CPDCL-AS-AP"
+    },
+    "395400": {
+        "country_code": "GU",
+        "asn": "395400",
+        "description": "UNIVERSITY OF GUAM",
+        "handle": "UNIVERSITY-GUAM"
+    }
+}

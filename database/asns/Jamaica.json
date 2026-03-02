@@ -1,0 +1,92 @@
+{
+    "3586": {
+        "country_code": "JM",
+        "asn": "3586",
+        "description": "University of the West Indies",
+        "handle": "JAMNET"
+    },
+    "10292": {
+        "country_code": "JM",
+        "asn": "10292",
+        "description": "Cable & Wireless Jamaica",
+        "handle": "CWJ-1"
+    },
+    "11580": {
+        "country_code": "JM",
+        "asn": "11580",
+        "description": "Island Networks Ltd",
+        "handle": "ISLAND-NETWORKS-LTD"
+    },
+    "18505": {
+        "country_code": "JM",
+        "asn": "18505",
+        "description": "SOLAR INTERNET REPAIRS SIR TECH JAMAICA",
+        "handle": "SIR-TECH-JA"
+    },
+    "22306": {
+        "country_code": "JM",
+        "asn": "22306",
+        "description": "eGov Jamaica Limited",
+        "handle": "FISC-JM"
+    },
+    "26999": {
+        "country_code": "JM",
+        "asn": "26999",
+        "description": "Creditinfo Jamaica Limited",
+        "handle": "CIC-CREDITINFO"
+    },
+    "30689": {
+        "country_code": "JM",
+        "asn": "30689",
+        "description": "FLOW",
+        "handle": "FLOW-NET"
+    },
+    "33576": {
+        "country_code": "JM",
+        "asn": "33576",
+        "description": "Digicel Jamaica",
+        "handle": "DIG001"
+    },
+    "35878": {
+        "country_code": "JM",
+        "asn": "35878",
+        "description": "Cable and Wireless Jamaica",
+        "handle": "CWJM-35878"
+    },
+    "40143": {
+        "country_code": "JM",
+        "asn": "40143",
+        "description": "University of Technology Jamaica",
+        "handle": "UTECH-JAMAICA"
+    },
+    "40786": {
+        "country_code": "JM",
+        "asn": "40786",
+        "description": "Digicel Jamaica",
+        "handle": "DIGI-GRP-JAM"
+    },
+    "63094": {
+        "country_code": "JM",
+        "asn": "63094",
+        "description": "Office of Utilities Regulation",
+        "handle": "JAMAICA-INTERNET-EXCHANGE"
+    },
+    "395477": {
+        "country_code": "JM",
+        "asn": "395477",
+        "description": "Cornwall Communication Limited",
+        "handle": "CORN-COM01"
+    },
+    "399567": {
+        "country_code": "JM",
+        "asn": "399567",
+        "description": "Hometime",
+        "handle": "HOMETIME-ASN1"
+    },
+    "401520": {
+        "country_code": "JM",
+        "asn": "401520",
+        "description": "Verge Communications Ltd.",
+        "handle": "VERGE-JM"
+    }
+}

@@ -1,0 +1,986 @@
+{
+    "9144": {
+        "country_code": "GE",
+        "asn": "9144",
+        "description": "Europabet LLC",
+        "handle": "CHEMPIONEBI-AS"
+    },
+    "15491": {
+        "country_code": "GE",
+        "asn": "15491",
+        "description": "JSC Silknet",
+        "handle": "SILKNET"
+    },
+    "16010": {
+        "country_code": "GE",
+        "asn": "16010",
+        "description": "Magticom Ltd.",
+        "handle": "MAGTICOMAS"
+    },
+    "20545": {
+        "country_code": "GE",
+        "asn": "20545",
+        "description": "Georgian Research and Educational Networking Association (GRENA)",
+        "handle": "GRENA-AS"
+    },
+    "20771": {
+        "country_code": "GE",
+        "asn": "20771",
+        "description": "Caucasus Online Ltd.",
+        "handle": "CAUCASUS-CABLE-SYSTEM"
+    },
+    "21214": {
+        "country_code": "GE",
+        "asn": "21214",
+        "description": "Geonet Ltd.",
+        "handle": "GEONET-AS"
+    },
+    "21276": {
+        "country_code": "GE",
+        "asn": "21276",
+        "description": "Expert Solutions Georgia LLC",
+        "handle": "XSG"
+    },
+    "24997": {
+        "country_code": "GE",
+        "asn": "24997",
+        "description": "Caucasus Digital Network LTD",
+        "handle": "GE-CDN-AS"
+    },
+    "25249": {
+        "country_code": "GE",
+        "asn": "25249",
+        "description": "Magticom Ltd.",
+        "handle": "GE-MAGTICOM"
+    },
+    "28751": {
+        "country_code": "GE",
+        "asn": "28751",
+        "description": "Caucasus Online Ltd.",
+        "handle": "CAUCASUS-NET-AS"
+    },
+    "29289": {
+        "country_code": "GE",
+        "asn": "29289",
+        "description": "Georgian Technical University",
+        "handle": "GTU"
+    },
+    "34666": {
+        "country_code": "GE",
+        "asn": "34666",
+        "description": "JSC Global Erty",
+        "handle": "GLB1-AS"
+    },
+    "34797": {
+        "country_code": "GE",
+        "asn": "34797",
+        "description": "System Net Ltd",
+        "handle": "SYSTEM-NET"
+    },
+    "35076": {
+        "country_code": "GE",
+        "asn": "35076",
+        "description": "LLC Service",
+        "handle": "NAME-SERVICE-AS"
+    },
+    "35805": {
+        "country_code": "GE",
+        "asn": "35805",
+        "description": "JSC Silknet",
+        "handle": "SILKNET-AS"
+    },
+    "39248": {
+        "country_code": "GE",
+        "asn": "39248",
+        "description": "Artem Zubkov",
+        "handle": "SIVASH-AS"
+    },
+    "39452": {
+        "country_code": "GE",
+        "asn": "39452",
+        "description": "Myphone LLC",
+        "handle": "MAXTEL-AS"
+    },
+    "41161": {
+        "country_code": "GE",
+        "asn": "41161",
+        "description": "Artem Zubkov",
+        "handle": "REALWEB-AS"
+    },
+    "41738": {
+        "country_code": "GE",
+        "asn": "41738",
+        "description": "Cellfie Mobile LLC",
+        "handle": "MOBITEL-GE"
+    },
+    "41877": {
+        "country_code": "GE",
+        "asn": "41877",
+        "description": "Railway Telecom Ltd",
+        "handle": "GRT-AS"
+    },
+    "42082": {
+        "country_code": "GE",
+        "asn": "42082",
+        "description": "JSC Silknet",
+        "handle": "GEOCELL"
+    },
+    "42140": {
+        "country_code": "GE",
+        "asn": "42140",
+        "description": "New Georgia LLC",
+        "handle": "NEWGEORGIA-GE"
+    },
+    "42223": {
+        "country_code": "GE",
+        "asn": "42223",
+        "description": "LLC MARS",
+        "handle": "CL-AS"
+    },
+    "42896": {
+        "country_code": "GE",
+        "asn": "42896",
+        "description": "Artem Zubkov",
+        "handle": "ACS-AS"
+    },
+    "42938": {
+        "country_code": "GE",
+        "asn": "42938",
+        "description": "LLC Gudauta-net",
+        "handle": "GUDAUTA-AS"
+    },
+    "43715": {
+        "country_code": "GE",
+        "asn": "43715",
+        "description": "LLC Skytel",
+        "handle": "SKYTEL-AS43715"
+    },
+    "44327": {
+        "country_code": "GE",
+        "asn": "44327",
+        "description": "DELTA COMM LLC",
+        "handle": "DELTANET-NET"
+    },
+    "44621": {
+        "country_code": "GE",
+        "asn": "44621",
+        "description": "PE Maxim Lysenko",
+        "handle": "KOMPLEKSNAYA-BEZOPASNOST-AS"
+    },
+    "47270": {
+        "country_code": "GE",
+        "asn": "47270",
+        "description": "GL-21 LLC",
+        "handle": "GL21-AS"
+    },
+    "47575": {
+        "country_code": "GE",
+        "asn": "47575",
+        "description": "Ivane Javakhishvili Tbilisi State University",
+        "handle": "TSU"
+    },
+    "47644": {
+        "country_code": "GE",
+        "asn": "47644",
+        "description": "JSC TBC BANK",
+        "handle": "TBCBANK"
+    },
+    "47810": {
+        "country_code": "GE",
+        "asn": "47810",
+        "description": "Proservice LLC",
+        "handle": "PROSERVICE"
+    },
+    "48393": {
+        "country_code": "GE",
+        "asn": "48393",
+        "description": "JSCB Bank of Georgia",
+        "handle": "BOG-AS"
+    },
+    "48415": {
+        "country_code": "GE",
+        "asn": "48415",
+        "description": "JSC Georgian Card",
+        "handle": "GEORGIANCARD-AS"
+    },
+    "48538": {
+        "country_code": "GE",
+        "asn": "48538",
+        "description": "GEOCOM LLC",
+        "handle": "GOREV"
+    },
+    "49016": {
+        "country_code": "GE",
+        "asn": "49016",
+        "description": "JSC Georgian State Electrosystem",
+        "handle": "GSE-AS"
+    },
+    "49129": {
+        "country_code": "GE",
+        "asn": "49129",
+        "description": "LTD CGC Co",
+        "handle": "CGC-AS"
+    },
+    "49254": {
+        "country_code": "GE",
+        "asn": "49254",
+        "description": "Alternet Ltd",
+        "handle": "ALTERNET-AS"
+    },
+    "49297": {
+        "country_code": "GE",
+        "asn": "49297",
+        "description": "Cloud 9 Ltd.",
+        "handle": "CLOUD9"
+    },
+    "49628": {
+        "country_code": "GE",
+        "asn": "49628",
+        "description": "LLC Skytel",
+        "handle": "SKYTEL-AS"
+    },
+    "50151": {
+        "country_code": "GE",
+        "asn": "50151",
+        "description": "Easterra LLC",
+        "handle": "EASTERRAAS"
+    },
+    "50514": {
+        "country_code": "GE",
+        "asn": "50514",
+        "description": "Cavea Plus LLC",
+        "handle": "CAVEAONLINE"
+    },
+    "50647": {
+        "country_code": "GE",
+        "asn": "50647",
+        "description": "Georgian Water and Power LLC",
+        "handle": "GWP-AS"
+    },
+    "51010": {
+        "country_code": "GE",
+        "asn": "51010",
+        "description": "National Agency of Public Registry",
+        "handle": "NAPR-AS"
+    },
+    "51142": {
+        "country_code": "GE",
+        "asn": "51142",
+        "description": "LLC Ekspres Netvork",
+        "handle": "EXPRESSNETWORK"
+    },
+    "51481": {
+        "country_code": "GE",
+        "asn": "51481",
+        "description": "LLC Skytel",
+        "handle": "SKYTEL-AS51481"
+    },
+    "51841": {
+        "country_code": "GE",
+        "asn": "51841",
+        "description": "JSC MFI IntelExpress",
+        "handle": "INTELEXPRES-AS"
+    },
+    "56811": {
+        "country_code": "GE",
+        "asn": "56811",
+        "description": "National Bank of Georgia",
+        "handle": "NBOG-AS"
+    },
+    "56855": {
+        "country_code": "GE",
+        "asn": "56855",
+        "description": "Ministry of Internal Affairs",
+        "handle": "MIA-AS"
+    },
+    "56966": {
+        "country_code": "GE",
+        "asn": "56966",
+        "description": "Foodservice LTD",
+        "handle": "FS-ASN"
+    },
+    "57127": {
+        "country_code": "GE",
+        "asn": "57127",
+        "description": "Internet Exchange Association of Georgia",
+        "handle": "GEOIXP-RS"
+    },
+    "57445": {
+        "country_code": "GE",
+        "asn": "57445",
+        "description": "Administration of the President of Georgia",
+        "handle": "SPSL-AS"
+    },
+    "57473": {
+        "country_code": "GE",
+        "asn": "57473",
+        "description": "Education Managment Information System EMIS",
+        "handle": "EMIS-AS"
+    },
+    "57743": {
+        "country_code": "GE",
+        "asn": "57743",
+        "description": "GreenNetworks LLC",
+        "handle": "GREENNETWORKS-LCC"
+    },
+    "57768": {
+        "country_code": "GE",
+        "asn": "57768",
+        "description": "LLC Skytel",
+        "handle": "SKYTEL-AS57768"
+    },
+    "57814": {
+        "country_code": "GE",
+        "asn": "57814",
+        "description": "Cloud 9 Ltd.",
+        "handle": "CLOUD9"
+    },
+    "57881": {
+        "country_code": "GE",
+        "asn": "57881",
+        "description": "JSC ENERGO-PRO Georgia",
+        "handle": "EPG-AS"
+    },
+    "58185": {
+        "country_code": "GE",
+        "asn": "58185",
+        "description": "Ministry of Justice of Georgia",
+        "handle": "MOJ-AS"
+    },
+    "58227": {
+        "country_code": "GE",
+        "asn": "58227",
+        "description": "Cartu Bank JSC.",
+        "handle": "CARTUBANK-AS"
+    },
+    "59447": {
+        "country_code": "GE",
+        "asn": "59447",
+        "description": "GEOCOM LLC",
+        "handle": "ISTANBULDC2"
+    },
+    "59503": {
+        "country_code": "GE",
+        "asn": "59503",
+        "description": "LEPL Digital Governance Agency",
+        "handle": "DEAAS"
+    },
+    "60392": {
+        "country_code": "GE",
+        "asn": "60392",
+        "description": "RETN GE LLC",
+        "handle": "RETN-GE-AS"
+    },
+    "61167": {
+        "country_code": "GE",
+        "asn": "61167",
+        "description": "LEPL Digital Governance Agency",
+        "handle": "DEAAS2"
+    },
+    "62252": {
+        "country_code": "GE",
+        "asn": "62252",
+        "description": "JSC Terabank",
+        "handle": "KSB-GE-AS"
+    },
+    "197229": {
+        "country_code": "GE",
+        "asn": "197229",
+        "description": "Connect Ltd.",
+        "handle": "PREDATOR-AS"
+    },
+    "197328": {
+        "country_code": "GE",
+        "asn": "197328",
+        "description": "GEOCOM LLC",
+        "handle": "ISTANBULDC1"
+    },
+    "197335": {
+        "country_code": "GE",
+        "asn": "197335",
+        "description": "Artem Zubkov",
+        "handle": "FREEBIT"
+    },
+    "198150": {
+        "country_code": "GE",
+        "asn": "198150",
+        "description": "SIACOM JSC",
+        "handle": "SIACOM-AS"
+    },
+    "198512": {
+        "country_code": "GE",
+        "asn": "198512",
+        "description": "JSC United Financial Corporation UFC",
+        "handle": "UFC"
+    },
+    "198561": {
+        "country_code": "GE",
+        "asn": "198561",
+        "description": "Legal Entity Under Public Law Financial Analytical Service",
+        "handle": "FAS"
+    },
+    "198874": {
+        "country_code": "GE",
+        "asn": "198874",
+        "description": "JSC Liberty Bank",
+        "handle": "LIBERTY-BANK"
+    },
+    "199045": {
+        "country_code": "GE",
+        "asn": "199045",
+        "description": "LTD Sky-Net",
+        "handle": "SKYNET-AS"
+    },
+    "199242": {
+        "country_code": "GE",
+        "asn": "199242",
+        "description": "Malakmadze Web LLC",
+        "handle": "MALAKMADZE"
+    },
+    "199469": {
+        "country_code": "GE",
+        "asn": "199469",
+        "description": "AIRNET LLC",
+        "handle": "AIR-NET"
+    },
+    "199625": {
+        "country_code": "GE",
+        "asn": "199625",
+        "description": "Netcom LLC",
+        "handle": "AS-NETCOM"
+    },
+    "199872": {
+        "country_code": "GE",
+        "asn": "199872",
+        "description": "JSC Wissol Petroleum Georgia",
+        "handle": "WISSOL-GROUP-CLOUD"
+    },
+    "199899": {
+        "country_code": "GE",
+        "asn": "199899",
+        "description": "GEOCOM LLC",
+        "handle": "GORIWEB"
+    },
+    "200476": {
+        "country_code": "GE",
+        "asn": "200476",
+        "description": "Tech Solutions LLC",
+        "handle": "TECHPAY-AS"
+    },
+    "200488": {
+        "country_code": "GE",
+        "asn": "200488",
+        "description": "LLC Tegeta Motors",
+        "handle": "TGM"
+    },
+    "200568": {
+        "country_code": "GE",
+        "asn": "200568",
+        "description": "LEPL Digital Governance Agency",
+        "handle": "SDA"
+    },
+    "200823": {
+        "country_code": "GE",
+        "asn": "200823",
+        "description": "MHost LLC",
+        "handle": "MHOST-AS"
+    },
+    "200883": {
+        "country_code": "GE",
+        "asn": "200883",
+        "description": "LEPL- Levan Samkharauli National Forensics Bureau",
+        "handle": "EXPERTIZA-GOV-GE"
+    },
+    "201141": {
+        "country_code": "GE",
+        "asn": "201141",
+        "description": "JSC Insurance Company Aldagi",
+        "handle": "JSCINSURANCEALDAG"
+    },
+    "201174": {
+        "country_code": "GE",
+        "asn": "201174",
+        "description": "Tbilisi City Hall",
+        "handle": "TBILISI-CITY-HALL"
+    },
+    "201356": {
+        "country_code": "GE",
+        "asn": "201356",
+        "description": "JSC VTB Bank Georgia",
+        "handle": "VTB-GE-AS"
+    },
+    "201575": {
+        "country_code": "GE",
+        "asn": "201575",
+        "description": "TradeZone LLC",
+        "handle": "WORLDBUS"
+    },
+    "201598": {
+        "country_code": "GE",
+        "asn": "201598",
+        "description": "LLC Aversi-Pharma",
+        "handle": "AVERSI"
+    },
+    "201651": {
+        "country_code": "GE",
+        "asn": "201651",
+        "description": "Superbet 2014 Ltd",
+        "handle": "SUPERBET2014-LTD"
+    },
+    "201881": {
+        "country_code": "GE",
+        "asn": "201881",
+        "description": "JSC Telasi",
+        "handle": "JSC-TELASI"
+    },
+    "202065": {
+        "country_code": "GE",
+        "asn": "202065",
+        "description": "Alliance Global Net Ltd",
+        "handle": "ALIANCE-GLOBAL-NET"
+    },
+    "202223": {
+        "country_code": "GE",
+        "asn": "202223",
+        "description": "Odrex Software LLC",
+        "handle": "GE-ODREX-AS"
+    },
+    "202544": {
+        "country_code": "GE",
+        "asn": "202544",
+        "description": "Sigma-D LLC",
+        "handle": "SIGMA-AS"
+    },
+    "203039": {
+        "country_code": "GE",
+        "asn": "203039",
+        "description": "Cavea Plus LLC",
+        "handle": "CAVEA"
+    },
+    "203136": {
+        "country_code": "GE",
+        "asn": "203136",
+        "description": "LLC Ordunet",
+        "handle": "ORDUNET"
+    },
+    "203301": {
+        "country_code": "GE",
+        "asn": "203301",
+        "description": "Cloud 9 Ltd.",
+        "handle": "DATACENTER"
+    },
+    "203310": {
+        "country_code": "GE",
+        "asn": "203310",
+        "description": "Ministry of Internal Affairs",
+        "handle": "SERVICE-AGENCY-OF-MIA-AS"
+    },
+    "203448": {
+        "country_code": "GE",
+        "asn": "203448",
+        "description": "Telecom 1 LLC",
+        "handle": "TELECOM1-R01"
+    },
+    "203647": {
+        "country_code": "GE",
+        "asn": "203647",
+        "description": "TradeZone LLC",
+        "handle": "WORLDBUS"
+    },
+    "203962": {
+        "country_code": "GE",
+        "asn": "203962",
+        "description": "JSC ProCredit Bank",
+        "handle": "PCBG"
+    },
+    "204498": {
+        "country_code": "GE",
+        "asn": "204498",
+        "description": "UGT LLC",
+        "handle": "UGT"
+    },
+    "204524": {
+        "country_code": "GE",
+        "asn": "204524",
+        "description": "Scientific-Technical Association Interoptica LLC",
+        "handle": "GE-IO-AS"
+    },
+    "205089": {
+        "country_code": "GE",
+        "asn": "205089",
+        "description": "Alfahost LLC",
+        "handle": "ALFAHOST"
+    },
+    "205143": {
+        "country_code": "GE",
+        "asn": "205143",
+        "description": "Cloud 9 Ltd.",
+        "handle": "CLOUD9"
+    },
+    "205173": {
+        "country_code": "GE",
+        "asn": "205173",
+        "description": "JSC Georgian Railway",
+        "handle": "GERAILWAY"
+    },
+    "205797": {
+        "country_code": "GE",
+        "asn": "205797",
+        "description": "Credo Bank JSC",
+        "handle": "CREDO-BANK-BGP"
+    },
+    "205901": {
+        "country_code": "GE",
+        "asn": "205901",
+        "description": "Evgenii Diakov",
+        "handle": "RUSK-AS"
+    },
+    "205928": {
+        "country_code": "GE",
+        "asn": "205928",
+        "description": "Evex Hospitals JSC",
+        "handle": "EVEX"
+    },
+    "206527": {
+        "country_code": "GE",
+        "asn": "206527",
+        "description": "METRONET LLC",
+        "handle": "METRONET"
+    },
+    "206534": {
+        "country_code": "GE",
+        "asn": "206534",
+        "description": "AB Georgia LLC",
+        "handle": "ADJARABET-AS"
+    },
+    "206584": {
+        "country_code": "GE",
+        "asn": "206584",
+        "description": "Georgian Post LTD",
+        "handle": "GEORGIAN-POST"
+    },
+    "207359": {
+        "country_code": "GE",
+        "asn": "207359",
+        "description": "Tochka Network LLC",
+        "handle": "TOCHKANETWORK-AS"
+    },
+    "207573": {
+        "country_code": "GE",
+        "asn": "207573",
+        "description": "Metro Servis + LLC",
+        "handle": "MSPLUS-AS"
+    },
+    "207640": {
+        "country_code": "GE",
+        "asn": "207640",
+        "description": "Expert Solutions Georgia LLC",
+        "handle": "XSG"
+    },
+    "207877": {
+        "country_code": "GE",
+        "asn": "207877",
+        "description": "Safebeat LLC",
+        "handle": "SAFEBEAT-AS"
+    },
+    "208080": {
+        "country_code": "GE",
+        "asn": "208080",
+        "description": "Tbilisi Energy LLC",
+        "handle": "GE-TE"
+    },
+    "208097": {
+        "country_code": "GE",
+        "asn": "208097",
+        "description": "Money Movers LLC",
+        "handle": "MONEYMOVERS-AS"
+    },
+    "208144": {
+        "country_code": "GE",
+        "asn": "208144",
+        "description": "PASHA Bank Georgia JSC",
+        "handle": "GE-PASHA"
+    },
+    "208320": {
+        "country_code": "GE",
+        "asn": "208320",
+        "description": "AIRMAX LLC",
+        "handle": "AIRMAX"
+    },
+    "208603": {
+        "country_code": "GE",
+        "asn": "208603",
+        "description": "Real Estate of Georgia JSC",
+        "handle": "GE-M2"
+    },
+    "208744": {
+        "country_code": "GE",
+        "asn": "208744",
+        "description": "UGT LLC",
+        "handle": "UGTCLOUD"
+    },
+    "208883": {
+        "country_code": "GE",
+        "asn": "208883",
+        "description": "State Audit Office of Georgia",
+        "handle": "SAO"
+    },
+    "208943": {
+        "country_code": "GE",
+        "asn": "208943",
+        "description": "Full House LLC",
+        "handle": "FULLHOUSE-NET"
+    },
+    "209000": {
+        "country_code": "GE",
+        "asn": "209000",
+        "description": "GreenNetworks LLC",
+        "handle": "CONNECT2"
+    },
+    "209012": {
+        "country_code": "GE",
+        "asn": "209012",
+        "description": "MULTISOFT LLC",
+        "handle": "MSOFT"
+    },
+    "209046": {
+        "country_code": "GE",
+        "asn": "209046",
+        "description": "Georgianairlink LLC",
+        "handle": "AS-GAL"
+    },
+    "209047": {
+        "country_code": "GE",
+        "asn": "209047",
+        "description": "JSC Risk Management and Insurance Company Global Benefits Georgia",
+        "handle": "ASGBG"
+    },
+    "209064": {
+        "country_code": "GE",
+        "asn": "209064",
+        "description": "Ministry of Internally Displaced Persons from the Occupied Territories Labor Health and Social Affairs of Georgia",
+        "handle": "MOH"
+    },
+    "209183": {
+        "country_code": "GE",
+        "asn": "209183",
+        "description": "AkhaliNet LLC",
+        "handle": "AKHALINET-AS"
+    },
+    "209263": {
+        "country_code": "GE",
+        "asn": "209263",
+        "description": "Jenet LLC",
+        "handle": "GENET-MARNEULI"
+    },
+    "209332": {
+        "country_code": "GE",
+        "asn": "209332",
+        "description": "High Council of Justice of Georgia LEPL DEPARTMENT OF COMMON COURTS",
+        "handle": "ASCOURT"
+    },
+    "209663": {
+        "country_code": "GE",
+        "asn": "209663",
+        "description": "iLink Ltd",
+        "handle": "ILINK-AS"
+    },
+    "209743": {
+        "country_code": "GE",
+        "asn": "209743",
+        "description": "Enbinet Ltd.",
+        "handle": "LTDNBNET"
+    },
+    "209786": {
+        "country_code": "GE",
+        "asn": "209786",
+        "description": "Delta Consulting LLC",
+        "handle": "DELTACONSULTING"
+    },
+    "210234": {
+        "country_code": "GE",
+        "asn": "210234",
+        "description": "City Net LLC",
+        "handle": "AS-CITYNET"
+    },
+    "210580": {
+        "country_code": "GE",
+        "asn": "210580",
+        "description": "Internet Exchange Association of Georgia",
+        "handle": "GEORGIAIXP"
+    },
+    "210797": {
+        "country_code": "GE",
+        "asn": "210797",
+        "description": "LukNet Ltd",
+        "handle": "NO"
+    },
+    "210808": {
+        "country_code": "GE",
+        "asn": "210808",
+        "description": "VGS Network LLC",
+        "handle": "NO"
+    },
+    "210824": {
+        "country_code": "GE",
+        "asn": "210824",
+        "description": "SmartNet LLC",
+        "handle": "AS-SMARTNET"
+    },
+    "210850": {
+        "country_code": "GE",
+        "asn": "210850",
+        "description": "SysNet LLC",
+        "handle": "FASTCLOUD"
+    },
+    "210923": {
+        "country_code": "GE",
+        "asn": "210923",
+        "description": "LTD NETSERVICE",
+        "handle": "NETSERVICE-AS"
+    },
+    "211322": {
+        "country_code": "GE",
+        "asn": "211322",
+        "description": "GeNet Ltd",
+        "handle": "AS"
+    },
+    "211426": {
+        "country_code": "GE",
+        "asn": "211426",
+        "description": "Silk Bank JSC",
+        "handle": "SILKROADBANK"
+    },
+    "211981": {
+        "country_code": "GE",
+        "asn": "211981",
+        "description": "Argonet LLC",
+        "handle": "SERVICE-PI"
+    },
+    "212318": {
+        "country_code": "GE",
+        "asn": "212318",
+        "description": "Tech Solutions LLC",
+        "handle": "TECHPAY-AS"
+    },
+    "212319": {
+        "country_code": "GE",
+        "asn": "212319",
+        "description": "Tech Solutions LLC",
+        "handle": "TECHPAY-AS"
+    },
+    "212345": {
+        "country_code": "GE",
+        "asn": "212345",
+        "description": "Tech Solutions LLC",
+        "handle": "TECHPAY-AS"
+    },
+    "212398": {
+        "country_code": "GE",
+        "asn": "212398",
+        "description": "Ministry of Environmental Protection and Agriculture of Georgia",
+        "handle": "MEPA"
+    },
+    "212484": {
+        "country_code": "GE",
+        "asn": "212484",
+        "description": "SmartITUP LLC",
+        "handle": "SMARTITUP"
+    },
+    "212599": {
+        "country_code": "GE",
+        "asn": "212599",
+        "description": "Telecom 1 LLC",
+        "handle": "TELECOM1-R02"
+    },
+    "212803": {
+        "country_code": "GE",
+        "asn": "212803",
+        "description": "Orbi Group 10 LTD",
+        "handle": "ORBI-NET"
+    },
+    "213520": {
+        "country_code": "GE",
+        "asn": "213520",
+        "description": "Senko Digital LLC",
+        "handle": "SENKO-AS"
+    },
+    "214015": {
+        "country_code": "GE",
+        "asn": "214015",
+        "description": "HALYK BANK GEORGIA JSC",
+        "handle": "HBG"
+    },
+    "214049": {
+        "country_code": "GE",
+        "asn": "214049",
+        "description": "Netera LLC",
+        "handle": "NETERA"
+    },
+    "214158": {
+        "country_code": "GE",
+        "asn": "214158",
+        "description": "Unicell Mobile LLC",
+        "handle": "UNICELL-MOBILE"
+    },
+    "214176": {
+        "country_code": "GE",
+        "asn": "214176",
+        "description": "PC MAX LLC",
+        "handle": "PCMAX"
+    },
+    "214901": {
+        "country_code": "GE",
+        "asn": "214901",
+        "description": "LLC Nic Sepehr",
+        "handle": "HOSTBARAN"
+    },
+    "215348": {
+        "country_code": "GE",
+        "asn": "215348",
+        "description": "Gnet LLC",
+        "handle": "GONET-AS"
+    },
+    "215463": {
+        "country_code": "GE",
+        "asn": "215463",
+        "description": "JSC Insurance Company GPI Holding",
+        "handle": "GPIH-AS"
+    },
+    "215546": {
+        "country_code": "GE",
+        "asn": "215546",
+        "description": "Telecom 1 LLC",
+        "handle": "TELECOM1-IXP01"
+    },
+    "215594": {
+        "country_code": "GE",
+        "asn": "215594",
+        "description": "TradeZone LLC",
+        "handle": "WORLDBUS-NETHERLANDS"
+    },
+    "215647": {
+        "country_code": "GE",
+        "asn": "215647",
+        "description": "Asia Net LLC",
+        "handle": "ASIANET"
+    },
+    "215952": {
+        "country_code": "GE",
+        "asn": "215952",
+        "description": "LLC TNET",
+        "handle": "TNET"
+    },
+    "216300": {
+        "country_code": "GE",
+        "asn": "216300",
+        "description": "Closed Joint Stock Company AbkhazMedia",
+        "handle": "ABKHAZMEDIA-AS"
+    },
+    "216463": {
+        "country_code": "GE",
+        "asn": "216463",
+        "description": "GREENTV LLC",
+        "handle": "GREENTV"
+    }
+}

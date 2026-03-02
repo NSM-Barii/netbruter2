@@ -1,0 +1,1460 @@
+{
+    "3132": {
+        "country_code": "PE",
+        "asn": "3132",
+        "description": "Red Cientifica Peruana",
+        "handle": "RED-CIENTIFICA-PERUANA"
+    },
+    "6147": {
+        "country_code": "PE",
+        "asn": "6147",
+        "description": "INTEGRATEL PER\u00da S.A.A.",
+        "handle": "INTEGRATEL-PERU"
+    },
+    "7994": {
+        "country_code": "PE",
+        "asn": "7994",
+        "description": "Global One Peru",
+        "handle": "GLOBAL-ONE-PERU"
+    },
+    "12252": {
+        "country_code": "PE",
+        "asn": "12252",
+        "description": "America Movil Peru S.A.C.",
+        "handle": "AMERICA-MOVIL-PERU"
+    },
+    "15125": {
+        "country_code": "PE",
+        "asn": "15125",
+        "description": "SENCINET LATAM PERU S.A.C.",
+        "handle": "SENCINET-LATAM-PERU"
+    },
+    "19180": {
+        "country_code": "PE",
+        "asn": "19180",
+        "description": "AMERICATEL PERU S.A.",
+        "handle": "AMERICATEL-PERU"
+    },
+    "20345": {
+        "country_code": "PE",
+        "asn": "20345",
+        "description": "Elnath S.A.C",
+        "handle": "ELNATH"
+    },
+    "21575": {
+        "country_code": "PE",
+        "asn": "21575",
+        "description": "ENTEL PERU S.A.",
+        "handle": "ENTEL-PERU"
+    },
+    "22305": {
+        "country_code": "PE",
+        "asn": "22305",
+        "description": "Gamacom S.A.C.",
+        "handle": "GAMACOM"
+    },
+    "22411": {
+        "country_code": "PE",
+        "asn": "22411",
+        "description": "GTD PER\u00da S.A",
+        "handle": "GTD-PERU"
+    },
+    "25701": {
+        "country_code": "PE",
+        "asn": "25701",
+        "description": "AMERICATEL PERU S.A.",
+        "handle": "AMERICATEL-PERU"
+    },
+    "25705": {
+        "country_code": "PE",
+        "asn": "25705",
+        "description": "AMERICATEL PERU S.A.",
+        "handle": "AMERICATEL-PERU"
+    },
+    "26136": {
+        "country_code": "PE",
+        "asn": "26136",
+        "description": "The American School of Lima",
+        "handle": "THE-AMERICAN-SCHOOL-OF-LIMA"
+    },
+    "27702": {
+        "country_code": "PE",
+        "asn": "27702",
+        "description": "America Movil Peru S.A.C.",
+        "handle": "AMERICA-MOVIL-PERU"
+    },
+    "27791": {
+        "country_code": "PE",
+        "asn": "27791",
+        "description": "Universidad Ricardo Palma",
+        "handle": "UNIVERSIDAD-RICARDO-PALMA"
+    },
+    "27809": {
+        "country_code": "PE",
+        "asn": "27809",
+        "description": "Alignet S.A.C",
+        "handle": "ALIGNET"
+    },
+    "27843": {
+        "country_code": "PE",
+        "asn": "27843",
+        "description": "ON EMPRESAS S.A.C.",
+        "handle": "WIN-EMPRESAS"
+    },
+    "28032": {
+        "country_code": "PE",
+        "asn": "28032",
+        "description": "INTERNEXA PERU S.A",
+        "handle": "INTERNEXA-PERU"
+    },
+    "52278": {
+        "country_code": "PE",
+        "asn": "52278",
+        "description": "FRAVATEL EIRL",
+        "handle": "FRAVATEL-EIRL"
+    },
+    "52400": {
+        "country_code": "PE",
+        "asn": "52400",
+        "description": "Olo del Peru S.A.C",
+        "handle": "OLO-PERU"
+    },
+    "61482": {
+        "country_code": "PE",
+        "asn": "61482",
+        "description": "CONVERGIA",
+        "handle": "CONVERGIA"
+    },
+    "61485": {
+        "country_code": "PE",
+        "asn": "61485",
+        "description": "GILAT TO HOME PERU S.A",
+        "handle": "GILAT-TO-HOME-PERU"
+    },
+    "64114": {
+        "country_code": "PE",
+        "asn": "64114",
+        "description": "TECNOWEB PERU SAC",
+        "handle": "TECNOWEB-PERU"
+    },
+    "64115": {
+        "country_code": "PE",
+        "asn": "64115",
+        "description": "PIT PERU S.A.C",
+        "handle": "PIT-PERU"
+    },
+    "64116": {
+        "country_code": "PE",
+        "asn": "64116",
+        "description": "PIT PERU S.A.C",
+        "handle": "PIT-PERU"
+    },
+    "64120": {
+        "country_code": "PE",
+        "asn": "64120",
+        "description": "NOCPERU-LATIN TECHNOLOGIES",
+        "handle": "NOCPERU-LATIN-TECHNOLOGIES"
+    },
+    "64128": {
+        "country_code": "PE",
+        "asn": "64128",
+        "description": "PIT PERU S.A.C",
+        "handle": "PIT-PERU"
+    },
+    "64130": {
+        "country_code": "PE",
+        "asn": "64130",
+        "description": "M & B Soluciones Peru S.A.C. (FASTNET)",
+        "handle": "M-B-SOLUCIONES-PERU"
+    },
+    "64132": {
+        "country_code": "PE",
+        "asn": "64132",
+        "description": "PIT PERU S.A.C",
+        "handle": "PIT-PERU"
+    },
+    "64143": {
+        "country_code": "PE",
+        "asn": "64143",
+        "description": "PIT PERU S.A.C",
+        "handle": "PIT-PERU"
+    },
+    "64144": {
+        "country_code": "PE",
+        "asn": "64144",
+        "description": "PIT PERU S.A.C",
+        "handle": "PIT-PERU"
+    },
+    "64145": {
+        "country_code": "PE",
+        "asn": "64145",
+        "description": "PIT PERU S.A.C",
+        "handle": "PIT-PERU"
+    },
+    "64146": {
+        "country_code": "PE",
+        "asn": "64146",
+        "description": "PIT PERU S.A.C",
+        "handle": "PIT-PERU"
+    },
+    "64147": {
+        "country_code": "PE",
+        "asn": "64147",
+        "description": "PIT PERU S.A.C",
+        "handle": "PIT-PERU"
+    },
+    "64155": {
+        "country_code": "PE",
+        "asn": "64155",
+        "description": "EDGEUNO S.A.C.",
+        "handle": "EDGEUNO"
+    },
+    "64162": {
+        "country_code": "PE",
+        "asn": "64162",
+        "description": "IX ANDESPARK SAC",
+        "handle": "IX-ANDESPARK"
+    },
+    "64163": {
+        "country_code": "PE",
+        "asn": "64163",
+        "description": "ONIX NETWORK E.I.R.L.",
+        "handle": "ONIX-NETWORK-EIRL"
+    },
+    "64167": {
+        "country_code": "PE",
+        "asn": "64167",
+        "description": "IX ANDESPARK SAC",
+        "handle": "IX-ANDESPARK"
+    },
+    "214482": {
+        "country_code": "PE",
+        "asn": "214482",
+        "description": "Juan Chomba",
+        "handle": "LEAPRACK"
+    },
+    "215522": {
+        "country_code": "PE",
+        "asn": "215522",
+        "description": "Leonardo Rodrigo Reynoso Condori",
+        "handle": "THE-QUANTUM-NETWORKS"
+    },
+    "262168": {
+        "country_code": "PE",
+        "asn": "262168",
+        "description": "COLINANET S.A.",
+        "handle": "COLINANET"
+    },
+    "262182": {
+        "country_code": "PE",
+        "asn": "262182",
+        "description": "TELEFONICA GLOBAL SOLUTIONS PERU S.A.C.",
+        "handle": "TELEFONICA-GLOBAL-SOLUTIONS"
+    },
+    "262210": {
+        "country_code": "PE",
+        "asn": "262210",
+        "description": "VIETTEL PER\u00da S.A.C.",
+        "handle": "VIETTEL-PERU"
+    },
+    "262235": {
+        "country_code": "PE",
+        "asn": "262235",
+        "description": "GTD PER\u00da S.A",
+        "handle": "GTD-PERU"
+    },
+    "262253": {
+        "country_code": "PE",
+        "asn": "262253",
+        "description": "ECONOCABLE MEDIA SAC",
+        "handle": "ECONOCABLE-MEDIA"
+    },
+    "263185": {
+        "country_code": "PE",
+        "asn": "263185",
+        "description": "MEDIA COMMERCE PER\u00da S.A.C",
+        "handle": "MEDIA-COMMERCE-PERU"
+    },
+    "263189": {
+        "country_code": "PE",
+        "asn": "263189",
+        "description": "GLG PERU SAC",
+        "handle": "GLG-PERU"
+    },
+    "263224": {
+        "country_code": "PE",
+        "asn": "263224",
+        "description": "EMPRESA DE TELECOMUNICACIONES MULTIMEDIA ALFA",
+        "handle": "EMPRESA-TELECOMUNICACIONES-MULTIMEDIA"
+    },
+    "263229": {
+        "country_code": "PE",
+        "asn": "263229",
+        "description": "NAP Peru",
+        "handle": "NAP-PERU"
+    },
+    "263681": {
+        "country_code": "PE",
+        "asn": "263681",
+        "description": "IPTP NETWORKS S.A.C.",
+        "handle": "IPTP-NETWORKS"
+    },
+    "263692": {
+        "country_code": "PE",
+        "asn": "263692",
+        "description": "DIRECNET S.A.C",
+        "handle": "DIRECNET"
+    },
+    "264684": {
+        "country_code": "PE",
+        "asn": "264684",
+        "description": "INTEGRATEL PER\u00da S.A.A.",
+        "handle": "INTEGRATEL-PERU"
+    },
+    "264783": {
+        "country_code": "PE",
+        "asn": "264783",
+        "description": "RED INTERCABLE PERU SAC",
+        "handle": "RED-INTERCABLE-PERU"
+    },
+    "265666": {
+        "country_code": "PE",
+        "asn": "265666",
+        "description": "GLOBAL FIBER PER\u00da S.A.C.",
+        "handle": "GLOBAL-FIBER-PERU"
+    },
+    "265667": {
+        "country_code": "PE",
+        "asn": "265667",
+        "description": "MEDIA COMMERCE PER\u00da S.A.C",
+        "handle": "MEDIA-COMMERCE-PERU"
+    },
+    "265668": {
+        "country_code": "PE",
+        "asn": "265668",
+        "description": "MEDIA COMMERCE PER\u00da S.A.C",
+        "handle": "MEDIA-COMMERCE-PERU"
+    },
+    "265669": {
+        "country_code": "PE",
+        "asn": "265669",
+        "description": "MEDIA COMMERCE PER\u00da S.A.C",
+        "handle": "MEDIA-COMMERCE-PERU"
+    },
+    "265691": {
+        "country_code": "PE",
+        "asn": "265691",
+        "description": "WI-NET TELECOM S.A.C.",
+        "handle": "WI-NET-TELECOM"
+    },
+    "265785": {
+        "country_code": "PE",
+        "asn": "265785",
+        "description": "SERVICIOS BANCARIOS COMPARTIDOS S.A. (UNIBANCA)",
+        "handle": "SERVICIOS-BANCARIOS-COMPARTIDOS"
+    },
+    "265794": {
+        "country_code": "PE",
+        "asn": "265794",
+        "description": "ARTIC TELECOM E.I.R.L",
+        "handle": "ARTIC-TELECOM-EIRL"
+    },
+    "265869": {
+        "country_code": "PE",
+        "asn": "265869",
+        "description": "INGENIERiA EN GESTION DE NEGOCIOS Y OPORTUNIDADES S.A.C. (INGENYO S.A.C.)",
+        "handle": "INGENIERIA-GESTION-NEGOCIOS"
+    },
+    "265875": {
+        "country_code": "PE",
+        "asn": "265875",
+        "description": "FIBERLUX S.A.C",
+        "handle": "FIBERLUX"
+    },
+    "266712": {
+        "country_code": "PE",
+        "asn": "266712",
+        "description": "CORPORACION PERUDATA CENTER S.A.C.",
+        "handle": "CORPORACION-PERUDATA-CENTER"
+    },
+    "266716": {
+        "country_code": "PE",
+        "asn": "266716",
+        "description": "CABLE VIDEO PERU SAC",
+        "handle": "CABLE-VIDEO-PERU"
+    },
+    "266722": {
+        "country_code": "PE",
+        "asn": "266722",
+        "description": "AMITEL PERU TELECOMUNICACIONES SAC",
+        "handle": "AMITEL-PERU-TELECOMUNICACIONES"
+    },
+    "266732": {
+        "country_code": "PE",
+        "asn": "266732",
+        "description": "FIBERTEL PERU S.A.",
+        "handle": "FIBERTEL-PERU"
+    },
+    "266757": {
+        "country_code": "PE",
+        "asn": "266757",
+        "description": "SATELITAL TELECOMUNICACIONES S.A.C",
+        "handle": "SATELITAL-TELECOMUNICACIONES"
+    },
+    "266823": {
+        "country_code": "PE",
+        "asn": "266823",
+        "description": "DOLPHIN TELECOM DEL PERU S.A.C.",
+        "handle": "DOLPHIN-TELECOM-PERU"
+    },
+    "266859": {
+        "country_code": "PE",
+        "asn": "266859",
+        "description": "ANDRESYSTEM NET S.A.C. (ASYSNET)",
+        "handle": "ANDRESYSTEM-NET"
+    },
+    "267742": {
+        "country_code": "PE",
+        "asn": "267742",
+        "description": "LIBERTY NETWORKS PER\u00da S.A.C.",
+        "handle": "LIBERTY-NETWORKS-PERU"
+    },
+    "267743": {
+        "country_code": "PE",
+        "asn": "267743",
+        "description": "GILAT NETWORKS PERU S.A.",
+        "handle": "GILAT-NETWORKS-PERU"
+    },
+    "267747": {
+        "country_code": "PE",
+        "asn": "267747",
+        "description": "Andesat Peru SAC",
+        "handle": "ANDESAT-PERU"
+    },
+    "267749": {
+        "country_code": "PE",
+        "asn": "267749",
+        "description": "INVERSIONES TELCOTEL SAC",
+        "handle": "INVERSIONES-TELCOTEL"
+    },
+    "267800": {
+        "country_code": "PE",
+        "asn": "267800",
+        "description": "TE.SA.M. PERU S.A",
+        "handle": "TESAM-PERU"
+    },
+    "267815": {
+        "country_code": "PE",
+        "asn": "267815",
+        "description": "SERVI CABLE S.A.C",
+        "handle": "SERVI-CABLE"
+    },
+    "267831": {
+        "country_code": "PE",
+        "asn": "267831",
+        "description": "INVERSIONES EN TELECOMUNICACIONES DIGITALES S.A.C",
+        "handle": "INVERSIONES-TELECOMUNICACIONES-DIGITALES"
+    },
+    "267871": {
+        "country_code": "PE",
+        "asn": "267871",
+        "description": "P&P BUSINESS GROUP SAC",
+        "handle": "P-P-BUSINESS-GROUP"
+    },
+    "267898": {
+        "country_code": "PE",
+        "asn": "267898",
+        "description": "BANCO DE CR\u00c9DITO DEL PER\u00da S.A",
+        "handle": "BANCO-CREDITO-PERU"
+    },
+    "267904": {
+        "country_code": "PE",
+        "asn": "267904",
+        "description": "TELEVISORA DEL SUR SAC",
+        "handle": "TELEVISORA-SUR"
+    },
+    "269751": {
+        "country_code": "PE",
+        "asn": "269751",
+        "description": "INTERMAX S.A.C.",
+        "handle": "INTERMAX"
+    },
+    "269772": {
+        "country_code": "PE",
+        "asn": "269772",
+        "description": "NEO FIBER SAC",
+        "handle": "NEO-FIBER"
+    },
+    "269773": {
+        "country_code": "PE",
+        "asn": "269773",
+        "description": "OROCOM S.A.C.",
+        "handle": "OROCOM"
+    },
+    "269803": {
+        "country_code": "PE",
+        "asn": "269803",
+        "description": "INVENTA TELECOMUNICACIONES EIRL",
+        "handle": "INVENTA-TELECOMUNICACIONES-EIRL"
+    },
+    "269811": {
+        "country_code": "PE",
+        "asn": "269811",
+        "description": "IMPORTACIONES Y EXPORTACIONES C.L.K. S.A.C",
+        "handle": "IMPORTACIONES-EXPORTACIONES-CLK"
+    },
+    "269826": {
+        "country_code": "PE",
+        "asn": "269826",
+        "description": "MEGA ANDINA TV E.I.R.L.",
+        "handle": "MEGA-ANDINA-TV-EIRL"
+    },
+    "269843": {
+        "country_code": "PE",
+        "asn": "269843",
+        "description": "BANTEL SAC",
+        "handle": "BANTEL"
+    },
+    "269857": {
+        "country_code": "PE",
+        "asn": "269857",
+        "description": "FIBER DIGITAL S.R.L",
+        "handle": "FIBER-DIGITAL"
+    },
+    "269862": {
+        "country_code": "PE",
+        "asn": "269862",
+        "description": "M & B Soluciones Peru S.A.C. (FASTNET)",
+        "handle": "M-B-SOLUCIONES-PERU"
+    },
+    "269889": {
+        "country_code": "PE",
+        "asn": "269889",
+        "description": "DSP CORP S.A.C.",
+        "handle": "DSP-CORP"
+    },
+    "269894": {
+        "country_code": "PE",
+        "asn": "269894",
+        "description": "CABLE ANDINA S.A.C",
+        "handle": "CABLE-ANDINA"
+    },
+    "269898": {
+        "country_code": "PE",
+        "asn": "269898",
+        "description": "SOFTBUTTERFLY SAC",
+        "handle": "SOFTBUTTERFLY"
+    },
+    "269913": {
+        "country_code": "PE",
+        "asn": "269913",
+        "description": "CABLE SELVA CENTRAL S.A.C.",
+        "handle": "CABLE-SELVA-CENTRAL"
+    },
+    "269938": {
+        "country_code": "PE",
+        "asn": "269938",
+        "description": "ADN TELECOM S.A.C.",
+        "handle": "ADN-TELECOM"
+    },
+    "269975": {
+        "country_code": "PE",
+        "asn": "269975",
+        "description": "CORPORACION CONEXTELECOM S.A.C",
+        "handle": "CORPORACION-CONEXTELECOM"
+    },
+    "269981": {
+        "country_code": "PE",
+        "asn": "269981",
+        "description": "COMPUNETWORK S.A.C.",
+        "handle": "COMPUNETWORK"
+    },
+    "270006": {
+        "country_code": "PE",
+        "asn": "270006",
+        "description": "INTEL COMUNICACIONES PER\u00da SAC",
+        "handle": "INTEL-COMUNICACIONES-PERU"
+    },
+    "270007": {
+        "country_code": "PE",
+        "asn": "270007",
+        "description": "MORENO YANOC NEMIAS BERNARDO",
+        "handle": "MORENO-YANOC-NEMIAS-BERNARDO"
+    },
+    "270010": {
+        "country_code": "PE",
+        "asn": "270010",
+        "description": "AIRWIZ PERU E.I.R.L",
+        "handle": "AIRWIZ-PERU-EIRL"
+    },
+    "270012": {
+        "country_code": "PE",
+        "asn": "270012",
+        "description": "EDDAS HOLDING GROUP SOCIEDAD ANONIMA CERRADA",
+        "handle": "EDDAS-HOLDING-GROUP"
+    },
+    "270019": {
+        "country_code": "PE",
+        "asn": "270019",
+        "description": "RCT VISION S.A.C",
+        "handle": "RCT-VISION"
+    },
+    "270023": {
+        "country_code": "PE",
+        "asn": "270023",
+        "description": "TELECOM BOLIVIA S.A.C",
+        "handle": "TELECOM-BOLIVIA"
+    },
+    "270032": {
+        "country_code": "PE",
+        "asn": "270032",
+        "description": "MIRANET S.A.C.",
+        "handle": "MIRANET"
+    },
+    "270037": {
+        "country_code": "PE",
+        "asn": "270037",
+        "description": "COMWIFI TELECOMUNICACIONES E.I.R.L",
+        "handle": "COMWIFI-TELECOMUNICACIONES-EIRL"
+    },
+    "270068": {
+        "country_code": "PE",
+        "asn": "270068",
+        "description": "DESARROLLO DE INFRAESTRUCTURA DE TELECOMUNICACIONES PERU S.A.C. (INFRATEL)",
+        "handle": "DESARROLLO-INFRAESTRUCTURA-TELECOMUNICACIONES"
+    },
+    "270069": {
+        "country_code": "PE",
+        "asn": "270069",
+        "description": "TECNO PROYECTOS GLOBALES S.A.C. - TECNOGLO S.A.C.",
+        "handle": "TECNO-PROYECTOS-GLOBALES"
+    },
+    "270076": {
+        "country_code": "PE",
+        "asn": "270076",
+        "description": "EXA NETWORKS S.A.C.",
+        "handle": "EXA-NETWORKS"
+    },
+    "270081": {
+        "country_code": "PE",
+        "asn": "270081",
+        "description": "VEMAX S.A.C",
+        "handle": "VEMAX"
+    },
+    "270082": {
+        "country_code": "PE",
+        "asn": "270082",
+        "description": "IWAY TELECOM SOCIEDAD ANONIMA CERRADA",
+        "handle": "IWAY-TELECOM-SOCIEDAD"
+    },
+    "270086": {
+        "country_code": "PE",
+        "asn": "270086",
+        "description": "FIRTEL S.A.C.",
+        "handle": "FIRTEL"
+    },
+    "271805": {
+        "country_code": "PE",
+        "asn": "271805",
+        "description": "BMC TECHNOLOGIES SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA",
+        "handle": "BMC-TECHNOLOGIES-SOCIEDAD"
+    },
+    "271814": {
+        "country_code": "PE",
+        "asn": "271814",
+        "description": "NEXTNET SAC",
+        "handle": "NEXTNET"
+    },
+    "271835": {
+        "country_code": "PE",
+        "asn": "271835",
+        "description": "P Y D TELECOM S.R.L.",
+        "handle": "P-D-TELECOM"
+    },
+    "271838": {
+        "country_code": "PE",
+        "asn": "271838",
+        "description": "INTEGRA NETWORK DEL PERU E.I.R.L.",
+        "handle": "INTEGRA-NETWORK-PERU-EIRL"
+    },
+    "271842": {
+        "country_code": "PE",
+        "asn": "271842",
+        "description": "M & B Soluciones Peru S.A.C. (FASTNET)",
+        "handle": "M-B-SOLUCIONES-PERU"
+    },
+    "271857": {
+        "country_code": "PE",
+        "asn": "271857",
+        "description": "TELECOMUNICACIONES MAFRI S.A.C.",
+        "handle": "TELECOMUNICACIONES-MAFRI"
+    },
+    "271860": {
+        "country_code": "PE",
+        "asn": "271860",
+        "description": "NOVACLOUD S.A.C",
+        "handle": "NOVACLOUD"
+    },
+    "271861": {
+        "country_code": "PE",
+        "asn": "271861",
+        "description": "MOVILMAX TELECOM S.A.",
+        "handle": "MOVILMAX-TELECOM"
+    },
+    "271862": {
+        "country_code": "PE",
+        "asn": "271862",
+        "description": "FIBER LINE SAC",
+        "handle": "FIBER-LINE"
+    },
+    "271866": {
+        "country_code": "PE",
+        "asn": "271866",
+        "description": "ANURA PERU SAC",
+        "handle": "ANURA-PERU"
+    },
+    "271868": {
+        "country_code": "PE",
+        "asn": "271868",
+        "description": "GPON NETWORKS S.A.C.",
+        "handle": "GPON-NETWORKS"
+    },
+    "271876": {
+        "country_code": "PE",
+        "asn": "271876",
+        "description": "LANINVERSAT E.I.R.L.",
+        "handle": "LANINVERSAT-EIRL"
+    },
+    "271900": {
+        "country_code": "PE",
+        "asn": "271900",
+        "description": "INTERNET SOLUTIONS NETWORK PERU SAC",
+        "handle": "INTERNET-SOLUTIONS-NETWORK"
+    },
+    "271962": {
+        "country_code": "PE",
+        "asn": "271962",
+        "description": "CABLE MASTER COMUNICACIONES SAC",
+        "handle": "CABLE-MASTER-COMUNICACIONES"
+    },
+    "271976": {
+        "country_code": "PE",
+        "asn": "271976",
+        "description": "WORLD\u00b4S TV SAC",
+        "handle": "WORLDS-TV"
+    },
+    "272002": {
+        "country_code": "PE",
+        "asn": "272002",
+        "description": "PLANET CABLE S.A.C.",
+        "handle": "PLANET-CABLE"
+    },
+    "272004": {
+        "country_code": "PE",
+        "asn": "272004",
+        "description": "EGP COMUNICACIONES S.A.C",
+        "handle": "EGP-COMUNICACIONES"
+    },
+    "272008": {
+        "country_code": "PE",
+        "asn": "272008",
+        "description": "TELECABLE CENTRAL NETWORK SOCIEDAD ANONIMA CERRADA",
+        "handle": "TELECABLE-CENTRAL-NETWORK"
+    },
+    "272029": {
+        "country_code": "PE",
+        "asn": "272029",
+        "description": "FIBER CABLE E.I.R.L.",
+        "handle": "FIBER-CABLE-EIRL"
+    },
+    "272033": {
+        "country_code": "PE",
+        "asn": "272033",
+        "description": "HR SERVICIOS VENTAS Y TELECOMUNICACIONES SOCIEDAD ANONIMA CERRADA",
+        "handle": "HR-SERVICIOS-VENTAS"
+    },
+    "272045": {
+        "country_code": "PE",
+        "asn": "272045",
+        "description": "FIBER FIX S.A.C.",
+        "handle": "FIBER-FIX"
+    },
+    "272059": {
+        "country_code": "PE",
+        "asn": "272059",
+        "description": "CHARACKWAVES CUSYPATA EXPORT/IMPORT S.A.C.",
+        "handle": "CHARACKWAVES-CUSYPATA-EXPORTIMPORT"
+    },
+    "272077": {
+        "country_code": "PE",
+        "asn": "272077",
+        "description": "TELECOMUNICACIONES INTERNACIONALES PERU CONNECTIONS S.A.C.",
+        "handle": "TELECOMUNICACIONES-INTERNACIONALES-PERU"
+    },
+    "272085": {
+        "country_code": "PE",
+        "asn": "272085",
+        "description": "TELECOMUNICACIONES DEL FUTURO SAC",
+        "handle": "TELECOMUNICACIONES-FUTURO"
+    },
+    "272104": {
+        "country_code": "PE",
+        "asn": "272104",
+        "description": "LATINCABLE S.R.L.",
+        "handle": "LATINCABLE"
+    },
+    "272106": {
+        "country_code": "PE",
+        "asn": "272106",
+        "description": "CORPORACION TARAZONA CATV S.A.C.",
+        "handle": "CORPORACION-TARAZONA-CATV"
+    },
+    "272111": {
+        "country_code": "PE",
+        "asn": "272111",
+        "description": "DATA ONLINE PERU S.A.C.",
+        "handle": "DATA-ONLINE-PERU"
+    },
+    "272141": {
+        "country_code": "PE",
+        "asn": "272141",
+        "description": "P & M COMUNICACIONES S.A.C.",
+        "handle": "P-M-COMUNICACIONES"
+    },
+    "272801": {
+        "country_code": "PE",
+        "asn": "272801",
+        "description": "RED AMONES S.A.C.",
+        "handle": "RED-AMONES"
+    },
+    "272805": {
+        "country_code": "PE",
+        "asn": "272805",
+        "description": "ITSYSTEMS PERU S.A.C.",
+        "handle": "ITSYSTEMS-PERU"
+    },
+    "272816": {
+        "country_code": "PE",
+        "asn": "272816",
+        "description": "INTERNET PERU CABLE SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA - INPECABLE S.R.L.",
+        "handle": "INTERNET-PERU-CABLE"
+    },
+    "272830": {
+        "country_code": "PE",
+        "asn": "272830",
+        "description": "TELCOMNETPERU S.A.C.-TELCOMNET S.A.C",
+        "handle": "TELCOMNETPERU-SAC-TELCOMNET"
+    },
+    "272833": {
+        "country_code": "PE",
+        "asn": "272833",
+        "description": "VULCAN-AREQUIPA SOCIEDAD ANONIMA CERRADA",
+        "handle": "VULCAN-AREQUIPA-SOCIEDAD"
+    },
+    "272836": {
+        "country_code": "PE",
+        "asn": "272836",
+        "description": "CALA SERVICIOS INTEGRALES E.I.R.L.",
+        "handle": "CALA-SERVICIOS-INTEGRALES-EIRL"
+    },
+    "272838": {
+        "country_code": "PE",
+        "asn": "272838",
+        "description": "FIBERRED SAC",
+        "handle": "FIBERRED"
+    },
+    "272846": {
+        "country_code": "PE",
+        "asn": "272846",
+        "description": "GIIPON PERU S.A.C.",
+        "handle": "GIIPON-PERU"
+    },
+    "272848": {
+        "country_code": "PE",
+        "asn": "272848",
+        "description": "HUASCARAN INVESTMENT GROUP S.A.C.",
+        "handle": "HUASCARAN-INVESTMENT-GROUP"
+    },
+    "272856": {
+        "country_code": "PE",
+        "asn": "272856",
+        "description": "YOFC PERU S.A.C.",
+        "handle": "YOFC-PERU"
+    },
+    "272894": {
+        "country_code": "PE",
+        "asn": "272894",
+        "description": "MISTICOM FIBRA OPTICA S.A.C.",
+        "handle": "MISTICOM-FIBRA-OPTICA"
+    },
+    "272923": {
+        "country_code": "PE",
+        "asn": "272923",
+        "description": "GIGABIT TELECOM E.I.R.L.",
+        "handle": "GIGABIT-TELECOM-EIRL"
+    },
+    "272948": {
+        "country_code": "PE",
+        "asn": "272948",
+        "description": "BFT S.A.C.",
+        "handle": "BFT"
+    },
+    "272965": {
+        "country_code": "PE",
+        "asn": "272965",
+        "description": "UNIVERSIDAD NACIONAL DE INGENIERIA UNI",
+        "handle": "UNIVERSIDAD-NACIONAL-INGENIERIA"
+    },
+    "272973": {
+        "country_code": "PE",
+        "asn": "272973",
+        "description": "TOTAL NETWORKS S.A.",
+        "handle": "TOTAL-NETWORKS"
+    },
+    "272976": {
+        "country_code": "PE",
+        "asn": "272976",
+        "description": "IFOX TELECOMUNICACIONES E.I.R.L.",
+        "handle": "IFOX-TELECOMUNICACIONES-EIRL"
+    },
+    "272979": {
+        "country_code": "PE",
+        "asn": "272979",
+        "description": "UCAYALI VENTURES SOCIEDAD ANONIMA CERRADA",
+        "handle": "UCAYALI-VENTURES-SOCIEDAD"
+    },
+    "272984": {
+        "country_code": "PE",
+        "asn": "272984",
+        "description": "ONIX NETWORK E.I.R.L.",
+        "handle": "ONIX-NETWORK-EIRL"
+    },
+    "272997": {
+        "country_code": "PE",
+        "asn": "272997",
+        "description": "LOPEZ PE\u00d1ALOZA EDSON MAX",
+        "handle": "LOPEZ-PENALOZA-EDSON-MAX"
+    },
+    "273000": {
+        "country_code": "PE",
+        "asn": "273000",
+        "description": "TELCOM MIKROTIK PERU S.A.C.",
+        "handle": "TELCOM-MIKROTIK-PERU"
+    },
+    "273014": {
+        "country_code": "PE",
+        "asn": "273014",
+        "description": "AGUSTINA SERVICIOS GENERALES S.A.C",
+        "handle": "AGUSTINA-SERVICIOS-GENERALES"
+    },
+    "273018": {
+        "country_code": "PE",
+        "asn": "273018",
+        "description": "RED OPTICA PERUANA E.I.R.L.",
+        "handle": "RED-OPTICA-PERUANA-EIRL"
+    },
+    "273026": {
+        "country_code": "PE",
+        "asn": "273026",
+        "description": "NEXSATEL SOCIEDAD ANONIMA CERRADA - NEXSATEL S.A.C.",
+        "handle": "NEXSATEL-SOCIEDAD-ANONIMA"
+    },
+    "273033": {
+        "country_code": "PE",
+        "asn": "273033",
+        "description": "FASTNETPERU E.I.R.L",
+        "handle": "FASTNETPERU-EIRL"
+    },
+    "273037": {
+        "country_code": "PE",
+        "asn": "273037",
+        "description": "EQUINIX PERU S.R.L.",
+        "handle": "EQUINIX-PERU"
+    },
+    "273051": {
+        "country_code": "PE",
+        "asn": "273051",
+        "description": "ANDINA TELECOMUNICACIONES DEL PERU S.A.C.",
+        "handle": "ANDINA-TELECOMUNICACIONES-PERU"
+    },
+    "273052": {
+        "country_code": "PE",
+        "asn": "273052",
+        "description": "UNI\u00d3N TELECOMUNICACIONES S.R.L.",
+        "handle": "UNION-TELECOMUNICACIONES"
+    },
+    "273053": {
+        "country_code": "PE",
+        "asn": "273053",
+        "description": "WIRELESS COMMUNICATIONS S.A.C.",
+        "handle": "WIRELESS-COMMUNICATIONS"
+    },
+    "273061": {
+        "country_code": "PE",
+        "asn": "273061",
+        "description": "VOZ Y TELEVISION SOCIEDAD ANONIMA CERRADA",
+        "handle": "VOZ-TELEVISION-SOCIEDAD"
+    },
+    "273067": {
+        "country_code": "PE",
+        "asn": "273067",
+        "description": "LOA NETWORK JL S.A.C.",
+        "handle": "LOA-NETWORK-JL"
+    },
+    "273084": {
+        "country_code": "PE",
+        "asn": "273084",
+        "description": "FORZA BUSSINES S.A.C.",
+        "handle": "FORZA-BUSSINES"
+    },
+    "273086": {
+        "country_code": "PE",
+        "asn": "273086",
+        "description": "CABLE MAX SIGLO XXI S.R.L.",
+        "handle": "CABLE-MAX-SIGLO-XXI"
+    },
+    "273087": {
+        "country_code": "PE",
+        "asn": "273087",
+        "description": "WILUX NETWORKS S.A.C.",
+        "handle": "WILUX-NETWORKS"
+    },
+    "273101": {
+        "country_code": "PE",
+        "asn": "273101",
+        "description": "REDESVIP E.I.R.L.",
+        "handle": "REDESVIP-EIRL"
+    },
+    "273107": {
+        "country_code": "PE",
+        "asn": "273107",
+        "description": "CABLE VISION ICA S.A.C",
+        "handle": "CABLE-VISION-ICA"
+    },
+    "273108": {
+        "country_code": "PE",
+        "asn": "273108",
+        "description": "NEXTGEN NETWORKS SOLUTIONS S.A.C.",
+        "handle": "NEXTGEN-NETWORKS-SOLUTIONS"
+    },
+    "273110": {
+        "country_code": "PE",
+        "asn": "273110",
+        "description": "NETWIN S.A.C",
+        "handle": "NETWIN"
+    },
+    "273112": {
+        "country_code": "PE",
+        "asn": "273112",
+        "description": "ARAPA TELECOMUNICACIONES E.I.R.L.",
+        "handle": "ARAPA-TELECOMUNICACIONES-EIRL"
+    },
+    "273117": {
+        "country_code": "PE",
+        "asn": "273117",
+        "description": "SINATEC PERU S.A.C.",
+        "handle": "SINATEC-PERU"
+    },
+    "273118": {
+        "country_code": "PE",
+        "asn": "273118",
+        "description": "WAYRA NETWORK S.A.C.",
+        "handle": "WAYRA-NETWORK"
+    },
+    "273133": {
+        "country_code": "PE",
+        "asn": "273133",
+        "description": "CONEX TV E.I.R.L.",
+        "handle": "CONEX-TV-EIRL"
+    },
+    "273143": {
+        "country_code": "PE",
+        "asn": "273143",
+        "description": "SIGNAL PERU S.A.C.",
+        "handle": "SIGNAL-PERU"
+    },
+    "273146": {
+        "country_code": "PE",
+        "asn": "273146",
+        "description": "REDCONEX E.I.R.L",
+        "handle": "REDCONEX-EIRL"
+    },
+    "273185": {
+        "country_code": "PE",
+        "asn": "273185",
+        "description": "SYSCOM NEGOCIOS S.A.C.",
+        "handle": "SYSCOM-NEGOCIOS"
+    },
+    "273192": {
+        "country_code": "PE",
+        "asn": "273192",
+        "description": "ALFIBER TELECOMUNICACIONES S.A.C.",
+        "handle": "ALFIBER-TELECOMUNICACIONES"
+    },
+    "273193": {
+        "country_code": "PE",
+        "asn": "273193",
+        "description": "FIBERTIM S.A.C",
+        "handle": "FIBERTIM"
+    },
+    "273200": {
+        "country_code": "PE",
+        "asn": "273200",
+        "description": "HUASCARAN TELECOM SOCIEDAD ANONIMA CERRADA",
+        "handle": "HUASCARAN-TELECOM-SOCIEDAD"
+    },
+    "273209": {
+        "country_code": "PE",
+        "asn": "273209",
+        "description": "CABLE STAR TV SAC",
+        "handle": "CABLE-STAR-TV"
+    },
+    "273210": {
+        "country_code": "PE",
+        "asn": "273210",
+        "description": "INNOVA PERU SYSTEMS S.A.C.",
+        "handle": "INNOVA-PERU-SYSTEMS"
+    },
+    "273211": {
+        "country_code": "PE",
+        "asn": "273211",
+        "description": "IX ANDESPARK SAC",
+        "handle": "IX-ANDESPARK"
+    },
+    "273222": {
+        "country_code": "PE",
+        "asn": "273222",
+        "description": "INVERSIONES CABLENET E.I.R.L.",
+        "handle": "INVERSIONES-CABLENET-EIRL"
+    },
+    "273232": {
+        "country_code": "PE",
+        "asn": "273232",
+        "description": "CORPORACION CABLE LASER SOCIEDAD AN\u00d3NIMA CERRADA",
+        "handle": "CORPORACION-CABLE-LASER"
+    },
+    "273862": {
+        "country_code": "PE",
+        "asn": "273862",
+        "description": "STARCAST PERU S.A.C.",
+        "handle": "STARCAST-PERU"
+    },
+    "273868": {
+        "country_code": "PE",
+        "asn": "273868",
+        "description": "INVERSIONES Y MULTISERVICIOS HUAMAN S.A.C.",
+        "handle": "INVERSIONES-MULTISERVICIOS-HUAMAN"
+    },
+    "273869": {
+        "country_code": "PE",
+        "asn": "273869",
+        "description": "INTERNEX NETWORKS S.A.C.",
+        "handle": "INTERNEX-NETWORKS"
+    },
+    "273881": {
+        "country_code": "PE",
+        "asn": "273881",
+        "description": "ISP PERU IX E.I.R.L.",
+        "handle": "ISP-PERU-IX-EIRL"
+    },
+    "273882": {
+        "country_code": "PE",
+        "asn": "273882",
+        "description": "MEGAS MAYORISTAS S.A.C.",
+        "handle": "MEGAS-MAYORISTAS"
+    },
+    "273891": {
+        "country_code": "PE",
+        "asn": "273891",
+        "description": "COMPA\u00d1IA DE SERVICIOS Y TELECOMUNICACIONES DEL PERU S.A.C",
+        "handle": "COMPANIA-SERVICIOS-TELECOMUNICACIONES"
+    },
+    "273895": {
+        "country_code": "PE",
+        "asn": "273895",
+        "description": "INFINITE SPEED TELECOMUNICACIONES SAC",
+        "handle": "INFINITE-SPEED-TELECOMUNICACIONES"
+    },
+    "273906": {
+        "country_code": "PE",
+        "asn": "273906",
+        "description": "COMPA\u00d1IA OPERADORA DE TELECOMUNICACIONES Y ADMINISTRADORA DE SERVICIOS PERU SAC",
+        "handle": "COMPANIA-OPERADORA-TELECOMUNICACIONES"
+    },
+    "273913": {
+        "country_code": "PE",
+        "asn": "273913",
+        "description": "CONEXI\u00d3N DIRECTA TELECOM S.A.C.",
+        "handle": "CONEXION-DIRECTA-TELECOM"
+    },
+    "273914": {
+        "country_code": "PE",
+        "asn": "273914",
+        "description": "FIBRAMAX TEL S.A.C.",
+        "handle": "FIBRAMAX-TEL"
+    },
+    "273915": {
+        "country_code": "PE",
+        "asn": "273915",
+        "description": "CHASQUI@NET SRL",
+        "handle": "CHASQUINET"
+    },
+    "273933": {
+        "country_code": "PE",
+        "asn": "273933",
+        "description": "INVERSIONES STARNET PERU S.A.C.",
+        "handle": "INVERSIONES-STARNET-PERU"
+    },
+    "273934": {
+        "country_code": "PE",
+        "asn": "273934",
+        "description": "A & D FOR CABLE TELEVISION IN THE SOUTHERN PERU SAC",
+        "handle": "A-D-FOR"
+    },
+    "273935": {
+        "country_code": "PE",
+        "asn": "273935",
+        "description": "CORPORACION GIGA SAC",
+        "handle": "CORPORACION-GIGA"
+    },
+    "273936": {
+        "country_code": "PE",
+        "asn": "273936",
+        "description": "FON FIBRA OPTICA NACIONAL S.A.C.",
+        "handle": "FON-FIBRA-OPTICA-NACIONAL"
+    },
+    "273941": {
+        "country_code": "PE",
+        "asn": "273941",
+        "description": "MULTISERVICIOS DE TELECOMUNICACIONES SATELITAL- EMPRESA INDIVIDUAL DE RESPONSABILIDAD LIMITADA",
+        "handle": "MULTISERVICIOS-TELECOMUNICACIONES-SATELITAL"
+    },
+    "273943": {
+        "country_code": "PE",
+        "asn": "273943",
+        "description": "JYC SOLUCIONES EN REDES INFORMATICAS S.A.C.",
+        "handle": "JYC-SOLUCIONES-REDES"
+    },
+    "273946": {
+        "country_code": "PE",
+        "asn": "273946",
+        "description": "MULTIVISION S.R.L.",
+        "handle": "MULTIVISION"
+    },
+    "273950": {
+        "country_code": "PE",
+        "asn": "273950",
+        "description": "STAR TELECOM PERU S.A.C.",
+        "handle": "STAR-TELECOM-PERU"
+    },
+    "273959": {
+        "country_code": "PE",
+        "asn": "273959",
+        "description": "GUECAM TECNOLOGIA Y SERVICIOS E.I.R.L.",
+        "handle": "GUECAM-TECNOLOGIA-SERVICIOS"
+    },
+    "273968": {
+        "country_code": "PE",
+        "asn": "273968",
+        "description": "Fiber Z Telecom SRL",
+        "handle": "FIBER-Z-TELECOM"
+    },
+    "273976": {
+        "country_code": "PE",
+        "asn": "273976",
+        "description": "FICOM TELECOMUNICACIONES S.A.C.",
+        "handle": "FICOM-TELECOMUNICACIONES"
+    },
+    "273977": {
+        "country_code": "PE",
+        "asn": "273977",
+        "description": "OFICINA DE NORMALIZACION PREVISIONAL",
+        "handle": "OFICINA-NORMALIZACION-PREVISIONAL"
+    },
+    "273983": {
+        "country_code": "PE",
+        "asn": "273983",
+        "description": "GRIVA TECHNOLOGIES S.A.C",
+        "handle": "GRIVA-TECHNOLOGIES"
+    },
+    "273985": {
+        "country_code": "PE",
+        "asn": "273985",
+        "description": "GIGARED CENTRO S.A.C.",
+        "handle": "GIGARED-CENTRO"
+    },
+    "273996": {
+        "country_code": "PE",
+        "asn": "273996",
+        "description": "CLIC 21 SOCIEDAD ANONIMA CERRADA",
+        "handle": "CLIC-21-SOCIEDAD"
+    },
+    "274029": {
+        "country_code": "PE",
+        "asn": "274029",
+        "description": "KAZAV LATAM E.I.R.L.",
+        "handle": "KAZAV-LATAM-EIRL"
+    },
+    "274031": {
+        "country_code": "PE",
+        "asn": "274031",
+        "description": "GRUPO POWERTEL SAC",
+        "handle": "GRUPO-POWERTEL"
+    },
+    "274051": {
+        "country_code": "PE",
+        "asn": "274051",
+        "description": "CABLE MUNDO PERU S.A.C.",
+        "handle": "CABLE-MUNDO-PERU"
+    },
+    "274056": {
+        "country_code": "PE",
+        "asn": "274056",
+        "description": "OSC TELECOMS SAC",
+        "handle": "OSC-TELECOMS"
+    },
+    "274066": {
+        "country_code": "PE",
+        "asn": "274066",
+        "description": "TELEREDES PERU S.A.C",
+        "handle": "TELEREDES-PERU"
+    },
+    "274076": {
+        "country_code": "PE",
+        "asn": "274076",
+        "description": "WIMAXPERU E.I.R.L.",
+        "handle": "WIMAXPERU-EIRL"
+    },
+    "274077": {
+        "country_code": "PE",
+        "asn": "274077",
+        "description": "NETWORLDS TV SAC",
+        "handle": "NETWORLDS-TV"
+    },
+    "274087": {
+        "country_code": "PE",
+        "asn": "274087",
+        "description": "FIBERLINK E.I.R.L.",
+        "handle": "FIBERLINK-EIRL"
+    },
+    "274113": {
+        "country_code": "PE",
+        "asn": "274113",
+        "description": "CINTELSUR PERU S.A.C.",
+        "handle": "CINTELSUR-PERU"
+    },
+    "274116": {
+        "country_code": "PE",
+        "asn": "274116",
+        "description": "CTV CHICLIN E.I.R.L.",
+        "handle": "CTV-CHICLIN-EIRL"
+    },
+    "274131": {
+        "country_code": "PE",
+        "asn": "274131",
+        "description": "ANDINATEL S.A.C.",
+        "handle": "ANDINATEL"
+    },
+    "274145": {
+        "country_code": "PE",
+        "asn": "274145",
+        "description": "AMERICANET WORLDWIDE S.A.C.",
+        "handle": "AMERICANET-WORLDWIDE"
+    },
+    "274148": {
+        "country_code": "PE",
+        "asn": "274148",
+        "description": "GRUPO INFINITI SOCIEDAD ANONIMA CERRADA",
+        "handle": "GRUPO-INFINITI-SOCIEDAD"
+    },
+    "274150": {
+        "country_code": "PE",
+        "asn": "274150",
+        "description": "LOTENGO PERU S.A.C.",
+        "handle": "LOTENGO-PERU"
+    },
+    "274156": {
+        "country_code": "PE",
+        "asn": "274156",
+        "description": "TELDRA S.A.C.",
+        "handle": "TELDRA"
+    },
+    "274162": {
+        "country_code": "PE",
+        "asn": "274162",
+        "description": "CABLENORTV S.A.C. (CABLE VISION)",
+        "handle": "CABLENORTV"
+    },
+    "274174": {
+        "country_code": "PE",
+        "asn": "274174",
+        "description": "WAN CONECTA PERU S.A.C.",
+        "handle": "WAN-CONECTA-PERU"
+    },
+    "274178": {
+        "country_code": "PE",
+        "asn": "274178",
+        "description": "CORPORACI\u00d3N PV NETWORKS S.A.C.",
+        "handle": "CORPORACION-PV-NETWORKS"
+    },
+    "274179": {
+        "country_code": "PE",
+        "asn": "274179",
+        "description": "CONEXIONES OCANEY E.I.R.L",
+        "handle": "CONEXIONES-OCANEY-EIRL"
+    },
+    "274184": {
+        "country_code": "PE",
+        "asn": "274184",
+        "description": "STR3MFAST S.A.C.",
+        "handle": "STR3MFAST"
+    },
+    "274250": {
+        "country_code": "PE",
+        "asn": "274250",
+        "description": "TUFIBRA PERU S.A.C.",
+        "handle": "TUFIBRA-PERU"
+    },
+    "274270": {
+        "country_code": "PE",
+        "asn": "274270",
+        "description": "EQUIPOS-SERVICIOS DE SEGURIDAD Y COMPUTO ESERSEC S.A.C. - ESERSEC S.A.C.",
+        "handle": "EQUIPOS-SERVICIOS-SEGURIDAD"
+    },
+    "274274": {
+        "country_code": "PE",
+        "asn": "274274",
+        "description": "COMUNICACIONES CABAPICE S.A.C. (CABLECLUB)",
+        "handle": "COMUNICACIONES-CABAPICE"
+    },
+    "274275": {
+        "country_code": "PE",
+        "asn": "274275",
+        "description": "BEST SPEEDYN S.A.C.",
+        "handle": "BEST-SPEEDYN"
+    },
+    "274294": {
+        "country_code": "PE",
+        "asn": "274294",
+        "description": "CABLE VISION MAGES S.A.C.",
+        "handle": "CABLE-VISION-MAGES"
+    },
+    "274297": {
+        "country_code": "PE",
+        "asn": "274297",
+        "description": "CORPORACION FINANCIERA DE DESARROLLO S.A.",
+        "handle": "CORPORACION-FINANCIERA-DESARROLLO"
+    },
+    "274298": {
+        "country_code": "PE",
+        "asn": "274298",
+        "description": "NETWORKS PLUS PERU S.A.C.",
+        "handle": "NETWORKS-PLUS-PERU"
+    },
+    "274309": {
+        "country_code": "PE",
+        "asn": "274309",
+        "description": "IPTEL SOLUTIONS PERU SOCIEDAD ANONIMA CERRADA",
+        "handle": "IPTEL-SOLUTIONS-PERU"
+    }
+}

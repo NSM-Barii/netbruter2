@@ -1,0 +1,4124 @@
+{
+    "931": {
+        "country_code": "SG",
+        "asn": "931",
+        "description": "Hyonix",
+        "handle": "HYONIX"
+    },
+    "963": {
+        "country_code": "SG",
+        "asn": "963",
+        "description": "N963",
+        "handle": "N963-AS-AP"
+    },
+    "997": {
+        "country_code": "SG",
+        "asn": "997",
+        "description": "Beyotta Services LLP",
+        "handle": "BSL-AS-AP"
+    },
+    "1250": {
+        "country_code": "SG",
+        "asn": "1250",
+        "description": "National University of Singapore",
+        "handle": "ERX-SINGAPORE-AS"
+    },
+    "1825": {
+        "country_code": "SG",
+        "asn": "1825",
+        "description": "SetClear Pte. Ltd.",
+        "handle": "SETCLEAR"
+    },
+    "3119": {
+        "country_code": "SG",
+        "asn": "3119",
+        "description": "Hsin Yi Pte Ltd",
+        "handle": "HSINYIPTELTD-AS-AP"
+    },
+    "3758": {
+        "country_code": "SG",
+        "asn": "3758",
+        "description": "SingNet Pte Ltd",
+        "handle": "SINGNET"
+    },
+    "4352": {
+        "country_code": "SG",
+        "asn": "4352",
+        "description": "EMERSON ASIA PACIFIC PRIVATE LIMITED",
+        "handle": "EAPPL-AS-AP"
+    },
+    "4620": {
+        "country_code": "SG",
+        "asn": "4620",
+        "description": "Sol One PTE LTD",
+        "handle": "SOLONE-AS-AP"
+    },
+    "4628": {
+        "country_code": "SG",
+        "asn": "4628",
+        "description": "PACIFIC INTERNET (S) PTE. LTD.",
+        "handle": "PACIFICINTERNET-AS-AP"
+    },
+    "4657": {
+        "country_code": "SG",
+        "asn": "4657",
+        "description": "Starhub Ltd.",
+        "handle": "STARHUB-INTERNET"
+    },
+    "4765": {
+        "country_code": "SG",
+        "asn": "4765",
+        "description": "PACIFIC INTERNET (S) PTE. LTD.",
+        "handle": "PACIFICINTERNET-AS-AP"
+    },
+    "4773": {
+        "country_code": "SG",
+        "asn": "4773",
+        "description": "M1 LIMITED",
+        "handle": "MOBILEONELTD-AS-AP"
+    },
+    "4817": {
+        "country_code": "SG",
+        "asn": "4817",
+        "description": "Simba Telecom Pte Ltd",
+        "handle": "STPL-SG-AP"
+    },
+    "4836": {
+        "country_code": "SG",
+        "asn": "4836",
+        "description": "National University of Singapore",
+        "handle": "NUS-SOX"
+    },
+    "4844": {
+        "country_code": "SG",
+        "asn": "4844",
+        "description": "SuperInternet Access Pte Ltd",
+        "handle": "SUPERINTERNET-AS-AP"
+    },
+    "4907": {
+        "country_code": "SG",
+        "asn": "4907",
+        "description": "BGPNET PTE. LTD.",
+        "handle": "BGPNETPTELTD-AS-AP"
+    },
+    "7387": {
+        "country_code": "SG",
+        "asn": "7387",
+        "description": "ONBOARDCLOUD PTE. LTD.",
+        "handle": "ONBOARD-AS-AP"
+    },
+    "7472": {
+        "country_code": "SG",
+        "asn": "7472",
+        "description": "National University of Singapore",
+        "handle": "NUS-AS-AP"
+    },
+    "7473": {
+        "country_code": "SG",
+        "asn": "7473",
+        "description": "Singapore Telecommunications (SINGTEL Internet Exchange)",
+        "handle": "SINGTEL-AS-AP"
+    },
+    "7595": {
+        "country_code": "SG",
+        "asn": "7595",
+        "description": "Readyspace Network Pte Ltd",
+        "handle": "READYSPACE-SG"
+    },
+    "7607": {
+        "country_code": "SG",
+        "asn": "7607",
+        "description": "JT TELECOM INTERNATIONAL PTE.LTD.",
+        "handle": "JTIP-AS-AP"
+    },
+    "7610": {
+        "country_code": "SG",
+        "asn": "7610",
+        "description": "National University of Singapore",
+        "handle": "NUS-GP-AS-AP"
+    },
+    "7634": {
+        "country_code": "SG",
+        "asn": "7634",
+        "description": "Starhub Ltd.",
+        "handle": "SGNET-AS-AP"
+    },
+    "7658": {
+        "country_code": "SG",
+        "asn": "7658",
+        "description": "1-Net Singapore Pte Ltd",
+        "handle": "NETNAME-1-NET-ISP"
+    },
+    "7700": {
+        "country_code": "SG",
+        "asn": "7700",
+        "description": "Singapore Telecommunications (SINGTEL Internet Exchange)",
+        "handle": "SINGTEL-DVBIP-AS-AP"
+    },
+    "9226": {
+        "country_code": "SG",
+        "asn": "9226",
+        "description": "1-Net Singapore Pte Ltd",
+        "handle": "SGIX-AS-AP"
+    },
+    "9234": {
+        "country_code": "SG",
+        "asn": "9234",
+        "description": "Sol One PTE LTD",
+        "handle": "SOLONE-SG"
+    },
+    "9247": {
+        "country_code": "SG",
+        "asn": "9247",
+        "description": "SingNet Pte Ltd",
+        "handle": "NIE-SG"
+    },
+    "9255": {
+        "country_code": "SG",
+        "asn": "9255",
+        "description": "Singapore Telecom ConnectPlus",
+        "handle": "CONNECTPLUS-AS"
+    },
+    "9292": {
+        "country_code": "SG",
+        "asn": "9292",
+        "description": "Temasek Polytechnic",
+        "handle": "TEMASEKPOLY-SG"
+    },
+    "9337": {
+        "country_code": "SG",
+        "asn": "9337",
+        "description": "Verizon Asia Pte Limited",
+        "handle": "HKG-RET-AS-AP"
+    },
+    "9419": {
+        "country_code": "SG",
+        "asn": "9419",
+        "description": "Nanyang Technological University",
+        "handle": "NTU-AS-AP"
+    },
+    "9465": {
+        "country_code": "SG",
+        "asn": "9465",
+        "description": "AGOTOZ PTE. LTD.",
+        "handle": "AGOTOZPTELTD-AS-AP"
+    },
+    "9481": {
+        "country_code": "SG",
+        "asn": "9481",
+        "description": "M1 LIMITED",
+        "handle": "M1LIMITED-AS-AP"
+    },
+    "9506": {
+        "country_code": "SG",
+        "asn": "9506",
+        "description": "Singapore Telecommunications Ltd Magix Services",
+        "handle": "SINGTEL-FIBRE"
+    },
+    "9589": {
+        "country_code": "SG",
+        "asn": "9589",
+        "description": "Verizon Hong Kong Limited",
+        "handle": "UUNET-AS-AP"
+    },
+    "9649": {
+        "country_code": "SG",
+        "asn": "9649",
+        "description": "PACIFIC INTERNET (S) PTE. LTD.",
+        "handle": "MOPH-TH-AP"
+    },
+    "9656": {
+        "country_code": "SG",
+        "asn": "9656",
+        "description": "T-Systems Singapore Pte Ltd",
+        "handle": "T-SYSTEMS-SG"
+    },
+    "9664": {
+        "country_code": "SG",
+        "asn": "9664",
+        "description": "SOUTHEAST ASIA TELECOM(SG) PTE. LTD.",
+        "handle": "SATPL-AS-AP"
+    },
+    "9731": {
+        "country_code": "SG",
+        "asn": "9731",
+        "description": "Speedcast Singapore Pte Ltd",
+        "handle": "SPEEDCAST-AS-AP"
+    },
+    "9748": {
+        "country_code": "SG",
+        "asn": "9748",
+        "description": "DE-CIX Singapore PTE LTD",
+        "handle": "DECIX-JKT-AS"
+    },
+    "9798": {
+        "country_code": "SG",
+        "asn": "9798",
+        "description": "BlackBerry Singapore Pte. Limited",
+        "handle": "BLACKBERRY-SG"
+    },
+    "9874": {
+        "country_code": "SG",
+        "asn": "9874",
+        "description": "Starhub Ltd.",
+        "handle": "STARHUB-MOBILE"
+    },
+    "9877": {
+        "country_code": "SG",
+        "asn": "9877",
+        "description": "SingNet Pte Ltd",
+        "handle": "NGEEANN-POLY-AS-AP"
+    },
+    "9890": {
+        "country_code": "SG",
+        "asn": "9890",
+        "description": "ATOS Information Technology (Singapore) Pte Ltd",
+        "handle": "ATOSINFOTECH-SG-AP"
+    },
+    "9892": {
+        "country_code": "SG",
+        "asn": "9892",
+        "description": "Iconz-Webvisions Pte. Ltd.",
+        "handle": "ICONZ-WEBVISIONS-AP"
+    },
+    "9911": {
+        "country_code": "SG",
+        "asn": "9911",
+        "description": "Singapore Telecommunications Ltd",
+        "handle": "CONNECTPLUS-AP"
+    },
+    "9989": {
+        "country_code": "SG",
+        "asn": "9989",
+        "description": "Equinix Singapore Pte Ltd",
+        "handle": "EQUINIX-AP"
+    },
+    "10024": {
+        "country_code": "SG",
+        "asn": "10024",
+        "description": "LGA International",
+        "handle": "LGA-AS-SG-AP"
+    },
+    "10031": {
+        "country_code": "SG",
+        "asn": "10031",
+        "description": "WebSatMedia Pte Ltd",
+        "handle": "WEBSATMEDIA-AS"
+    },
+    "10082": {
+        "country_code": "SG",
+        "asn": "10082",
+        "description": "Morgan Stanley Management Service (Singapore) Pte. Ltd",
+        "handle": "MS-HK-AS-AP"
+    },
+    "10086": {
+        "country_code": "SG",
+        "asn": "10086",
+        "description": "T-Systems Singapore Pte Ltd",
+        "handle": "T-SYSTEMS-SG"
+    },
+    "10091": {
+        "country_code": "SG",
+        "asn": "10091",
+        "description": "StarHub Cable Vision Ltd",
+        "handle": "STARHUB-CABLE"
+    },
+    "10102": {
+        "country_code": "SG",
+        "asn": "10102",
+        "description": "1Asia Communication Pte Ltd",
+        "handle": "SG-1ASIACOM-AS-AP"
+    },
+    "10117": {
+        "country_code": "SG",
+        "asn": "10117",
+        "description": "Viewqwest Pte Ltd",
+        "handle": "VIEWQWEST-SG-AS-AP"
+    },
+    "10120": {
+        "country_code": "SG",
+        "asn": "10120",
+        "description": "IBM Singapore Pte Ltd",
+        "handle": "IBM-SG-AP"
+    },
+    "10122": {
+        "country_code": "SG",
+        "asn": "10122",
+        "description": "NETSTAR (SG) PTE. LTD.",
+        "handle": "NETSTAR-AS-AP"
+    },
+    "10140": {
+        "country_code": "SG",
+        "asn": "10140",
+        "description": "Singapore Telecommunications (SINGTEL Internet Exchange)",
+        "handle": "SINGTEL-GRX"
+    },
+    "10149": {
+        "country_code": "SG",
+        "asn": "10149",
+        "description": "Singapore Telecom ConnectPlus",
+        "handle": "MEGAPOP-SG-AP"
+    },
+    "17441": {
+        "country_code": "SG",
+        "asn": "17441",
+        "description": "PrimeXM Networks (Singapore) PTE. LTD",
+        "handle": "PNPL-AS-AP"
+    },
+    "17493": {
+        "country_code": "SG",
+        "asn": "17493",
+        "description": "Amazon Asia-Pacific Resources Private Limited",
+        "handle": "AMAZON-AP-RESOURCES-AS-AP-SIN"
+    },
+    "17547": {
+        "country_code": "SG",
+        "asn": "17547",
+        "description": "M1 NET LTD",
+        "handle": "M1NET-SG-AP"
+    },
+    "17548": {
+        "country_code": "SG",
+        "asn": "17548",
+        "description": "ATOS Information Technology (Singapore) Pte Ltd",
+        "handle": "ATOSINFOTECH-SG-AP"
+    },
+    "17549": {
+        "country_code": "SG",
+        "asn": "17549",
+        "description": "Singapore Telecommunications Ltd",
+        "handle": "NCS-SG-AP"
+    },
+    "17560": {
+        "country_code": "SG",
+        "asn": "17560",
+        "description": "PACIFIC INTERNET (S) PTE. LTD.",
+        "handle": "ASN-PACIFIC-INTERNET-IX"
+    },
+    "17617": {
+        "country_code": "SG",
+        "asn": "17617",
+        "description": "Nanyang Polytechnic",
+        "handle": "NYP-AS-AP"
+    },
+    "17636": {
+        "country_code": "SG",
+        "asn": "17636",
+        "description": "T-Systems Singapore Pte Ltd",
+        "handle": "T-SYSTEMS-SG"
+    },
+    "17644": {
+        "country_code": "SG",
+        "asn": "17644",
+        "description": "IoT Techsmart Pte. Ltd.",
+        "handle": "IOT-AS-AP"
+    },
+    "17645": {
+        "country_code": "SG",
+        "asn": "17645",
+        "description": "NTT Singapore Pte Ltd",
+        "handle": "NTT-SG-AP"
+    },
+    "17653": {
+        "country_code": "SG",
+        "asn": "17653",
+        "description": "Globecast Asia Pte Ltd",
+        "handle": "GCHK-SG"
+    },
+    "17733": {
+        "country_code": "SG",
+        "asn": "17733",
+        "description": "Singapore Management University",
+        "handle": "SMU-AS-AP"
+    },
+    "17743": {
+        "country_code": "SG",
+        "asn": "17743",
+        "description": "M1 NET LTD",
+        "handle": "M1NET-SG-AP"
+    },
+    "17761": {
+        "country_code": "SG",
+        "asn": "17761",
+        "description": "M1 NET LTD",
+        "handle": "M1NET-SG-AP"
+    },
+    "17819": {
+        "country_code": "SG",
+        "asn": "17819",
+        "description": "Equinix Asia Pacific Pte Ltd",
+        "handle": "ASN-EQUINIX-AP"
+    },
+    "17886": {
+        "country_code": "SG",
+        "asn": "17886",
+        "description": "Matrix Networks Pte. Ltd.",
+        "handle": "MATRIXNETWORKS-AS-SG-AP"
+    },
+    "17926": {
+        "country_code": "SG",
+        "asn": "17926",
+        "description": "Singapore Computer Systems Ltd",
+        "handle": "SCS"
+    },
+    "17927": {
+        "country_code": "SG",
+        "asn": "17927",
+        "description": "WebSatMedia Pte Ltd",
+        "handle": "WEBSATMEDIA-AS"
+    },
+    "18019": {
+        "country_code": "SG",
+        "asn": "18019",
+        "description": "NEUTRADC",
+        "handle": "NEUTRADC-AS-AP"
+    },
+    "18106": {
+        "country_code": "SG",
+        "asn": "18106",
+        "description": "Viewqwest Pte Ltd",
+        "handle": "VIEWQWEST-SG-AP"
+    },
+    "18113": {
+        "country_code": "SG",
+        "asn": "18113",
+        "description": "Pfizer Pte Ltd",
+        "handle": "PFIZER-SG-AP"
+    },
+    "18219": {
+        "country_code": "SG",
+        "asn": "18219",
+        "description": "SAP Asia Pte Ltd",
+        "handle": "SAP-DC-SIN"
+    },
+    "18221": {
+        "country_code": "SG",
+        "asn": "18221",
+        "description": "Morgan Stanley Management Service (Singapore) Pte. Ltd",
+        "handle": "MS-IN-AS-AP"
+    },
+    "18224": {
+        "country_code": "SG",
+        "asn": "18224",
+        "description": "CrimsonLogic Pte Ltd",
+        "handle": "ASN-CRIMSONLOGIC-AP"
+    },
+    "18228": {
+        "country_code": "SG",
+        "asn": "18228",
+        "description": "NCS Pte Ltd",
+        "handle": "NCSHUB-SG-AP"
+    },
+    "18377": {
+        "country_code": "SG",
+        "asn": "18377",
+        "description": "Viewqwest Pte Ltd",
+        "handle": "CDV-SG-AP"
+    },
+    "18391": {
+        "country_code": "SG",
+        "asn": "18391",
+        "description": "NETPLUZ HOLDINGS PRIVATE LIMITED",
+        "handle": "NETPLUZ-AS-AP"
+    },
+    "18402": {
+        "country_code": "SG",
+        "asn": "18402",
+        "description": "National Library Board",
+        "handle": "NLB-AS-SG-AP"
+    },
+    "23653": {
+        "country_code": "SG",
+        "asn": "23653",
+        "description": "BNP Paribas",
+        "handle": "BNPP-AS-SG"
+    },
+    "23686": {
+        "country_code": "SG",
+        "asn": "23686",
+        "description": "Equinix Asia Pacific Pte Ltd",
+        "handle": "ASN-EQIX-MELBOURNE-AP"
+    },
+    "23703": {
+        "country_code": "SG",
+        "asn": "23703",
+        "description": "RigNet Pte Ltd",
+        "handle": "RIGNET-AS-AP"
+    },
+    "23728": {
+        "country_code": "SG",
+        "asn": "23728",
+        "description": "Republic Polytechnic Singapore",
+        "handle": "REPUBLICPOLYTECHNIC-AS"
+    },
+    "23767": {
+        "country_code": "SG",
+        "asn": "23767",
+        "description": "A-STAR",
+        "handle": "A-STAR-AS-AP"
+    },
+    "23855": {
+        "country_code": "SG",
+        "asn": "23855",
+        "description": "SingAREN",
+        "handle": "SINGAREN-GIX-AS-AP"
+    },
+    "23856": {
+        "country_code": "SG",
+        "asn": "23856",
+        "description": "SPTEL PTE. LTD.",
+        "handle": "SPTEL-AS-AP"
+    },
+    "23864": {
+        "country_code": "SG",
+        "asn": "23864",
+        "description": "Singapre Advance Research and Education Network - National Grid Office - IHPC",
+        "handle": "SINGAREN-GIX-IHPC-AS-AP"
+    },
+    "23896": {
+        "country_code": "SG",
+        "asn": "23896",
+        "description": "ONBOARDCLOUD PTE. LTD.",
+        "handle": "ONBOARD-AS-AP"
+    },
+    "23920": {
+        "country_code": "SG",
+        "asn": "23920",
+        "description": "Asia Mediatel Pte Ltd",
+        "handle": "ASIATEL-AS-AP"
+    },
+    "23936": {
+        "country_code": "SG",
+        "asn": "23936",
+        "description": "Epsilon Telecommunications (SP) Pte Ltd",
+        "handle": "EPSILON-SG"
+    },
+    "23939": {
+        "country_code": "SG",
+        "asn": "23939",
+        "description": "ONBOARDCLOUD PTE. LTD.",
+        "handle": "ONBOARD-AS-AP"
+    },
+    "23979": {
+        "country_code": "SG",
+        "asn": "23979",
+        "description": "NETPLUZ HOLDINGS PRIVATE LIMITED",
+        "handle": "NETPLUZ-AS-AP"
+    },
+    "23986": {
+        "country_code": "SG",
+        "asn": "23986",
+        "description": "NETPLUZ HOLDINGS PRIVATE LIMITED",
+        "handle": "NETPLUZ-AS-AP"
+    },
+    "23987": {
+        "country_code": "SG",
+        "asn": "23987",
+        "description": "NETPLUZ HOLDINGS PRIVATE LIMITED",
+        "handle": "NETPLUZ-AS-AP"
+    },
+    "24024": {
+        "country_code": "SG",
+        "asn": "24024",
+        "description": "GENERAL MOTORS OVERSEAS DISTRIBUTION LLC",
+        "handle": "GM-AP-HOLDEN"
+    },
+    "24030": {
+        "country_code": "SG",
+        "asn": "24030",
+        "description": "Schenker (Asia Pacific) Pte Ltd",
+        "handle": "SCHENKER-AS-SG"
+    },
+    "24038": {
+        "country_code": "SG",
+        "asn": "24038",
+        "description": "Fujitsu Asia Pte. Ltd.",
+        "handle": "FAPL-AS-AP"
+    },
+    "24056": {
+        "country_code": "SG",
+        "asn": "24056",
+        "description": "Singapore Telecommunications Ltd",
+        "handle": "SINGTEL-EXPAN-JP"
+    },
+    "24063": {
+        "country_code": "SG",
+        "asn": "24063",
+        "description": "interTouch Pte. Ltd.",
+        "handle": "DOCOMOINTERTOUCH-IN"
+    },
+    "24096": {
+        "country_code": "SG",
+        "asn": "24096",
+        "description": "Metlife Taiwan Taipei Office Multihomed",
+        "handle": "METLIFETW-AS-AP"
+    },
+    "24114": {
+        "country_code": "SG",
+        "asn": "24114",
+        "description": "Equinix Asia Pacific Pte Ltd",
+        "handle": "ASN-EQIX-CLOUD-TY"
+    },
+    "24115": {
+        "country_code": "SG",
+        "asn": "24115",
+        "description": "Equinix Asia Pacific Pte Ltd",
+        "handle": "ASN-EQIX-MLPE"
+    },
+    "24116": {
+        "country_code": "SG",
+        "asn": "24116",
+        "description": "Equinix Asia Pacific Pte Ltd",
+        "handle": "ASN-EQIX-CLOUD-SG"
+    },
+    "24121": {
+        "country_code": "SG",
+        "asn": "24121",
+        "description": "Equinix Asia Pacific Pte Ltd",
+        "handle": "ASN-EQIX-OSAKA-AP"
+    },
+    "24188": {
+        "country_code": "SG",
+        "asn": "24188",
+        "description": "Equinix Asia Pacific Pte Ltd",
+        "handle": "ASN-EQIX-CLOUD-HK"
+    },
+    "24312": {
+        "country_code": "SG",
+        "asn": "24312",
+        "description": "AXGN",
+        "handle": "AXGNDOTCOMDOTSG-SG-SG"
+    },
+    "24467": {
+        "country_code": "SG",
+        "asn": "24467",
+        "description": "Deutsche Bank Regional Head Office",
+        "handle": "DB-APAC-RHO-AS"
+    },
+    "24482": {
+        "country_code": "SG",
+        "asn": "24482",
+        "description": "SG.GS",
+        "handle": "SGGS-AS-AP"
+    },
+    "24493": {
+        "country_code": "SG",
+        "asn": "24493",
+        "description": "Singapore Telecommunications (SINGTEL Internet Exchange)",
+        "handle": "STIXLITE-AS-AP"
+    },
+    "24546": {
+        "country_code": "SG",
+        "asn": "24546",
+        "description": "BP Singapore Pte. Limited",
+        "handle": "GLOBAL-BP-AS-AP"
+    },
+    "24552": {
+        "country_code": "SG",
+        "asn": "24552",
+        "description": "Avago Technologies Internatonal Sales Pte. Ltd.",
+        "handle": "AVAGOTECH-AS-AP"
+    },
+    "24569": {
+        "country_code": "SG",
+        "asn": "24569",
+        "description": "Equinix Asia Pacific Pte Ltd",
+        "handle": "ASN-EQIX-CLOUD-SY"
+    },
+    "37989": {
+        "country_code": "SG",
+        "asn": "37989",
+        "description": "DCS1 Pte. Ltd.",
+        "handle": "DCS1PTELTD-AS-AP"
+    },
+    "38001": {
+        "country_code": "SG",
+        "asn": "38001",
+        "description": "NewMedia Express Pte Ltd",
+        "handle": "NEWMEDIAEXPRESS-AS-AP"
+    },
+    "38137": {
+        "country_code": "SG",
+        "asn": "38137",
+        "description": "DE-CIX ASIA PTE LTD",
+        "handle": "DECIXASIAPTELTD-AS-SG"
+    },
+    "38258": {
+        "country_code": "SG",
+        "asn": "38258",
+        "description": "Sony Electronics (S) Pte. Ltd",
+        "handle": "SONY-APAC-AP"
+    },
+    "38282": {
+        "country_code": "SG",
+        "asn": "38282",
+        "description": "Morgan Stanley Management Service (Singapore) Pte. Ltd",
+        "handle": "MS-IN-AS-AP"
+    },
+    "38316": {
+        "country_code": "SG",
+        "asn": "38316",
+        "description": "Heidmar (Far East) Pte. Ltd.",
+        "handle": "HEIDMAR-AP"
+    },
+    "38321": {
+        "country_code": "SG",
+        "asn": "38321",
+        "description": "interTouch Pte. Ltd.",
+        "handle": "DOCOMOINTERTOUCH-HQ"
+    },
+    "38325": {
+        "country_code": "SG",
+        "asn": "38325",
+        "description": "WTP Resources Pte Ltd",
+        "handle": "WTP-AS-AP"
+    },
+    "38386": {
+        "country_code": "SG",
+        "asn": "38386",
+        "description": "Iconz-Webvisions Pte. Ltd.",
+        "handle": "ICONZ-WEBVISIONS-AP"
+    },
+    "38489": {
+        "country_code": "SG",
+        "asn": "38489",
+        "description": "DBS Vickers Securities (Singapore) PTE LTD",
+        "handle": "DBSVO-AS-AP"
+    },
+    "38532": {
+        "country_code": "SG",
+        "asn": "38532",
+        "description": "Exabytes Network (Singapore) Pte. Ltd.",
+        "handle": "EXABYTES-AS-AP"
+    },
+    "38612": {
+        "country_code": "SG",
+        "asn": "38612",
+        "description": "Singapore Telecommunications (SINGTEL Internet Exchange)",
+        "handle": "STIXLITE-AS-HK"
+    },
+    "38792": {
+        "country_code": "SG",
+        "asn": "38792",
+        "description": "interTouch Pte. Ltd.",
+        "handle": "DOCOMOINTERTOUCH-SH"
+    },
+    "38798": {
+        "country_code": "SG",
+        "asn": "38798",
+        "description": "interTouch Pte. Ltd.",
+        "handle": "DOCOMOINTERTOUCH-IN"
+    },
+    "38801": {
+        "country_code": "SG",
+        "asn": "38801",
+        "description": "interTouch Pte. Ltd.",
+        "handle": "DOCOMOINTERTOUCH-TH"
+    },
+    "38860": {
+        "country_code": "SG",
+        "asn": "38860",
+        "description": "interTouch Pte. Ltd.",
+        "handle": "DOCOMOINTERTOUCH-HK"
+    },
+    "38861": {
+        "country_code": "SG",
+        "asn": "38861",
+        "description": "Starhub Ltd.",
+        "handle": "STARHUB-INTERNET2"
+    },
+    "38862": {
+        "country_code": "SG",
+        "asn": "38862",
+        "description": "Tullett Prebon Singapore Limited",
+        "handle": "TULLETTPREBON-AS-SG-AP"
+    },
+    "38865": {
+        "country_code": "SG",
+        "asn": "38865",
+        "description": "DOCOMO interTouch - Thailand Operation",
+        "handle": "DOCOMOINTERTOUCH-TH"
+    },
+    "40747": {
+        "country_code": "SG",
+        "asn": "40747",
+        "description": "Hsin Yi Pte Ltd",
+        "handle": "HSINYIPTELTD-AS-AP"
+    },
+    "43081": {
+        "country_code": "SG",
+        "asn": "43081",
+        "description": "World News PTE. LTD",
+        "handle": "WORLD-NEWS"
+    },
+    "45133": {
+        "country_code": "SG",
+        "asn": "45133",
+        "description": "Singapore Polytechnic",
+        "handle": "SINGAPORE-POLYTECHNIC-AS-AP"
+    },
+    "45143": {
+        "country_code": "SG",
+        "asn": "45143",
+        "description": "Singapore Telecom Mobile Pte Ltd",
+        "handle": "SINGTELMOBILE-AS-AP"
+    },
+    "45159": {
+        "country_code": "SG",
+        "asn": "45159",
+        "description": "M1 NET LTD",
+        "handle": "M1NET-SG-AP"
+    },
+    "45166": {
+        "country_code": "SG",
+        "asn": "45166",
+        "description": "PACIFIC INTERNET (S) PTE. LTD.",
+        "handle": "PACIFICINTERNET-AS-AP"
+    },
+    "45227": {
+        "country_code": "SG",
+        "asn": "45227",
+        "description": "Iconz-Webvisions Pte. Ltd.",
+        "handle": "ICONZ-WEBVISIONS-AP"
+    },
+    "45241": {
+        "country_code": "SG",
+        "asn": "45241",
+        "description": "GENERAL MOTORS OVERSEAS DISTRIBUTION LLC",
+        "handle": "GM-AP-GMTCI"
+    },
+    "45412": {
+        "country_code": "SG",
+        "asn": "45412",
+        "description": "interTouch Pte. Ltd.",
+        "handle": "DOCOMOINTERTOUCH-MY"
+    },
+    "45414": {
+        "country_code": "SG",
+        "asn": "45414",
+        "description": "Continent 8 Technologies (Asia) PTE. Ltd",
+        "handle": "CONTINENT8-AS-SG-AP"
+    },
+    "45445": {
+        "country_code": "SG",
+        "asn": "45445",
+        "description": "GENERAL MOTORS OVERSEAS DISTRIBUTION LLC",
+        "handle": "GM-AP-GMKOREA"
+    },
+    "45470": {
+        "country_code": "SG",
+        "asn": "45470",
+        "description": "8 To Infinity Pte Ltd",
+        "handle": "SG-8-TO-SG"
+    },
+    "45474": {
+        "country_code": "SG",
+        "asn": "45474",
+        "description": "Nexusguard Pte. Ltd.",
+        "handle": "NEXUSGUARD-AS-AP"
+    },
+    "45477": {
+        "country_code": "SG",
+        "asn": "45477",
+        "description": "AP Transit Pte Ltd",
+        "handle": "APTRANSIT-SG"
+    },
+    "45505": {
+        "country_code": "SG",
+        "asn": "45505",
+        "description": "T-Global Pte Ltd",
+        "handle": "T-GLOBAL-AS-AP"
+    },
+    "45530": {
+        "country_code": "SG",
+        "asn": "45530",
+        "description": "Agoda Company Pte. Ltd.",
+        "handle": "AGODA-AS-AP"
+    },
+    "45566": {
+        "country_code": "SG",
+        "asn": "45566",
+        "description": "Google Singapore Pte. Ltd.",
+        "handle": "GSPL-AS-AP"
+    },
+    "45634": {
+        "country_code": "SG",
+        "asn": "45634",
+        "description": "Sparkstation Pte Ltd",
+        "handle": "SPARKSTATION-SG-AP"
+    },
+    "45736": {
+        "country_code": "SG",
+        "asn": "45736",
+        "description": "DCS1 Pte. Ltd.",
+        "handle": "DCS1PTELTD-AS-AP"
+    },
+    "45755": {
+        "country_code": "SG",
+        "asn": "45755",
+        "description": "Bayer (South East Asia) Pte Ltd",
+        "handle": "CNB-SG"
+    },
+    "45794": {
+        "country_code": "SG",
+        "asn": "45794",
+        "description": "NTT Singapore Pte Ltd",
+        "handle": "NTT-SG-AP-RFC2270"
+    },
+    "45795": {
+        "country_code": "SG",
+        "asn": "45795",
+        "description": "ONBOARDCLOUD PTE. LTD.",
+        "handle": "ONBOARD-AS-AP"
+    },
+    "45817": {
+        "country_code": "SG",
+        "asn": "45817",
+        "description": "ONBOARDCLOUD PTE. LTD.",
+        "handle": "ONBOARD-AS-AP"
+    },
+    "45938": {
+        "country_code": "SG",
+        "asn": "45938",
+        "description": "Nucleus Connect Pte Ltd",
+        "handle": "NUCLEUS-CONNECT-SG"
+    },
+    "45941": {
+        "country_code": "SG",
+        "asn": "45941",
+        "description": "interTouch Pte. Ltd.",
+        "handle": "DOCOMOINTERTOUCH-PH"
+    },
+    "46066": {
+        "country_code": "SG",
+        "asn": "46066",
+        "description": "interTouch Pte. Ltd.",
+        "handle": "DOCOMOINTERTOUCH-IN"
+    },
+    "46078": {
+        "country_code": "SG",
+        "asn": "46078",
+        "description": "Dimension Data Asia Pacific Pte. Ltd.",
+        "handle": "DDAP-KBT-AS-AP"
+    },
+    "51356": {
+        "country_code": "SG",
+        "asn": "51356",
+        "description": "Soon Keat Neo",
+        "handle": "SOONKEATNEO-AS-AP"
+    },
+    "55332": {
+        "country_code": "SG",
+        "asn": "55332",
+        "description": "NTT Singapore Pte Ltd",
+        "handle": "HARBOURMSP-SG"
+    },
+    "55336": {
+        "country_code": "SG",
+        "asn": "55336",
+        "description": "interTouch Pte. Ltd.",
+        "handle": "DOCOMOINTERTOUCH-AU"
+    },
+    "55415": {
+        "country_code": "SG",
+        "asn": "55415",
+        "description": "Marina Bay Sands Pte Ltd",
+        "handle": "MBS-SG"
+    },
+    "55421": {
+        "country_code": "SG",
+        "asn": "55421",
+        "description": "interTouch Pte. Ltd.",
+        "handle": "DOCOMOINTERTOUCH-IN"
+    },
+    "55426": {
+        "country_code": "SG",
+        "asn": "55426",
+        "description": "Amphenol FCI Asia Pte Ltd",
+        "handle": "FCIASIA-AS-AP"
+    },
+    "55430": {
+        "country_code": "SG",
+        "asn": "55430",
+        "description": "Starhub Ltd.",
+        "handle": "STARHUB-NGNBN"
+    },
+    "55487": {
+        "country_code": "SG",
+        "asn": "55487",
+        "description": "GLOBALFOUNDRIES SINGAPORE PTE. LTD.",
+        "handle": "GLOBALFOUNDRIES-SG"
+    },
+    "55504": {
+        "country_code": "SG",
+        "asn": "55504",
+        "description": "BP Singapore Pte. Limited",
+        "handle": "BP-AS-AUS"
+    },
+    "55518": {
+        "country_code": "SG",
+        "asn": "55518",
+        "description": "Singapore Internet Exchange Limited",
+        "handle": "SGIX-SG"
+    },
+    "55553": {
+        "country_code": "SG",
+        "asn": "55553",
+        "description": "Singapore Telecommunications Limited",
+        "handle": "SINGTEL"
+    },
+    "55562": {
+        "country_code": "SG",
+        "asn": "55562",
+        "description": "SIX Financial Information Singapore Pte Ltd",
+        "handle": "SIX-FINANCIAL-INFORMATION-SINGAPORE-PTE-LTD"
+    },
+    "55743": {
+        "country_code": "SG",
+        "asn": "55743",
+        "description": "UBISOFT SINGAPORE PTE. LTD.",
+        "handle": "UBISOFT-SG"
+    },
+    "55755": {
+        "country_code": "SG",
+        "asn": "55755",
+        "description": "Internap Network Services (Singapore) Pte. Limited",
+        "handle": "INTERNAP-AGILE-HOSTING-SG"
+    },
+    "55781": {
+        "country_code": "SG",
+        "asn": "55781",
+        "description": "Fujitsu Asia Pte. Ltd.",
+        "handle": "FAPLNET-AS-SOP"
+    },
+    "55843": {
+        "country_code": "SG",
+        "asn": "55843",
+        "description": "Acclivis Technologies and Solutions Pte Ltd",
+        "handle": "ATS-GLNET-SG"
+    },
+    "55854": {
+        "country_code": "SG",
+        "asn": "55854",
+        "description": "L'Oreal Singapore Pte Ltd",
+        "handle": "LOREAL-SG"
+    },
+    "55855": {
+        "country_code": "SG",
+        "asn": "55855",
+        "description": "PLAYPARK PTE. LTD.",
+        "handle": "PLAYPARK-AS-AP"
+    },
+    "55919": {
+        "country_code": "SG",
+        "asn": "55919",
+        "description": "Singapore University of Technology and Design",
+        "handle": "SUTD-SG"
+    },
+    "56039": {
+        "country_code": "SG",
+        "asn": "56039",
+        "description": "SPH Media Limited",
+        "handle": "SPHMEDIALIMITED-AS-AP"
+    },
+    "56043": {
+        "country_code": "SG",
+        "asn": "56043",
+        "description": "PEPSICO INTERNATIONAL PTE. LTD.",
+        "handle": "PEPSI-AS-AP"
+    },
+    "56080": {
+        "country_code": "SG",
+        "asn": "56080",
+        "description": "Morgan Stanley Management Service (Singapore) Pte. Ltd",
+        "handle": "MS-AU-AS-AP"
+    },
+    "56094": {
+        "country_code": "SG",
+        "asn": "56094",
+        "description": "Institute Of Technical Education",
+        "handle": "ITENET-SG"
+    },
+    "56114": {
+        "country_code": "SG",
+        "asn": "56114",
+        "description": "ATOS Information Technology (Singapore) Pte Ltd",
+        "handle": "ATOSINFOTECH-SG-AP"
+    },
+    "56161": {
+        "country_code": "SG",
+        "asn": "56161",
+        "description": "Exabytes Network (Singapore) Pte. Ltd.",
+        "handle": "EXABYTES-AS-AP"
+    },
+    "56172": {
+        "country_code": "SG",
+        "asn": "56172",
+        "description": "Agora Communications Pte Ltd",
+        "handle": "AGORACOMMS-AS-AP"
+    },
+    "56175": {
+        "country_code": "SG",
+        "asn": "56175",
+        "description": "Merit Medical Singapore Pte. Ltd.",
+        "handle": "ARGONCCS-SG"
+    },
+    "56197": {
+        "country_code": "SG",
+        "asn": "56197",
+        "description": "KDDI ASIA PACIFIC PTE. LTD.",
+        "handle": "KDDI-SG"
+    },
+    "56198": {
+        "country_code": "SG",
+        "asn": "56198",
+        "description": "Standard Chartered Bank",
+        "handle": "SCB-SG-AS-AP"
+    },
+    "56274": {
+        "country_code": "SG",
+        "asn": "56274",
+        "description": "GENERAL MOTORS OVERSEAS DISTRIBUTION LLC",
+        "handle": "GM-AP-SGDC"
+    },
+    "56289": {
+        "country_code": "SG",
+        "asn": "56289",
+        "description": "DBS Bank Ltd",
+        "handle": "DBS-NET-1-SG"
+    },
+    "56300": {
+        "country_code": "SG",
+        "asn": "56300",
+        "description": "MYREPUBLIC LIMITED",
+        "handle": "MYREPUBLIC-SG"
+    },
+    "56308": {
+        "country_code": "SG",
+        "asn": "56308",
+        "description": "TELEKOMUNIKASI INDONESIA INTERNATIONAL PTE.LTD",
+        "handle": "TELIN-NET-SG"
+    },
+    "56311": {
+        "country_code": "SG",
+        "asn": "56311",
+        "description": "Morgan Stanley Management Service (Singapore) Pte. Ltd",
+        "handle": "MS-SG-AS-AP"
+    },
+    "58436": {
+        "country_code": "SG",
+        "asn": "58436",
+        "description": "SecureAX Pte Ltd",
+        "handle": "SECUREAX-SG-AS-AP"
+    },
+    "58513": {
+        "country_code": "SG",
+        "asn": "58513",
+        "description": "TELEKOMUNIKASI INDONESIA INTERNATIONAL PTE.LTD",
+        "handle": "TELIN-NET-SG"
+    },
+    "58521": {
+        "country_code": "SG",
+        "asn": "58521",
+        "description": "Garena Online Pte Ltd",
+        "handle": "GARENA-SG"
+    },
+    "58562": {
+        "country_code": "SG",
+        "asn": "58562",
+        "description": "NCS MNS",
+        "handle": "NCS-MNS-SG"
+    },
+    "58578": {
+        "country_code": "SG",
+        "asn": "58578",
+        "description": "PACIFIC INTERNET (S) PTE. LTD.",
+        "handle": "PACIFICINTERNET-AS-AP"
+    },
+    "58619": {
+        "country_code": "SG",
+        "asn": "58619",
+        "description": "Vodien Internet Solutions Pte Ltd",
+        "handle": "VODIEN-AS-AP-LOC1"
+    },
+    "58621": {
+        "country_code": "SG",
+        "asn": "58621",
+        "description": "Vodien Internet Solutions Pte Ltd",
+        "handle": "VODIEN-AS-AP-LOC2"
+    },
+    "58669": {
+        "country_code": "SG",
+        "asn": "58669",
+        "description": "Acclivis Technologies and Solutions Pte Ltd",
+        "handle": "ATS-GLNET-SG"
+    },
+    "58679": {
+        "country_code": "SG",
+        "asn": "58679",
+        "description": "Xssist Group Pte Ltd",
+        "handle": "XSSIST-SG"
+    },
+    "58751": {
+        "country_code": "SG",
+        "asn": "58751",
+        "description": "Nodens Solutions Pte Ltd",
+        "handle": "NODENS-AS"
+    },
+    "58795": {
+        "country_code": "SG",
+        "asn": "58795",
+        "description": "First Technology Development PTE Ltd.",
+        "handle": "FTDPL-SG"
+    },
+    "58867": {
+        "country_code": "SG",
+        "asn": "58867",
+        "description": "SG.GS",
+        "handle": "SGGS-ANYCAST-AS"
+    },
+    "58885": {
+        "country_code": "SG",
+        "asn": "58885",
+        "description": "IQON GLOBAL PTE LTD",
+        "handle": "IQONGLOBALPTELTD-AS-AP"
+    },
+    "59117": {
+        "country_code": "SG",
+        "asn": "59117",
+        "description": "DREAM CLOUD INNOVATION PTE. LTD.",
+        "handle": "DCIPL-AS-AP"
+    },
+    "59211": {
+        "country_code": "SG",
+        "asn": "59211",
+        "description": "OneAsiaHost",
+        "handle": "ONEASIAHOST"
+    },
+    "59253": {
+        "country_code": "SG",
+        "asn": "59253",
+        "description": "LEASEWEB SINGAPORE PTE. LTD.",
+        "handle": "LEASEWEB-APAC-SIN-11"
+    },
+    "59254": {
+        "country_code": "SG",
+        "asn": "59254",
+        "description": "Brain Net",
+        "handle": "BRAINNET-AS"
+    },
+    "59258": {
+        "country_code": "SG",
+        "asn": "59258",
+        "description": "IIJ Global Soltuions Singapore Pte. Ltd.",
+        "handle": "IGSSPL-SG"
+    },
+    "59326": {
+        "country_code": "SG",
+        "asn": "59326",
+        "description": "DSO National Laboratories",
+        "handle": "DEFENSCIENORGAN-AS"
+    },
+    "59345": {
+        "country_code": "SG",
+        "asn": "59345",
+        "description": "CME Group Singapore Operations Pte Ldt.",
+        "handle": "CGSOPL-AS"
+    },
+    "59347": {
+        "country_code": "SG",
+        "asn": "59347",
+        "description": "Cloud Telecommunications (S) PTE. LTD.",
+        "handle": "CTPL-AS-AP"
+    },
+    "59349": {
+        "country_code": "SG",
+        "asn": "59349",
+        "description": "GMO INTERNET PTE. LTD.",
+        "handle": "GMOINTERNET-SG"
+    },
+    "59364": {
+        "country_code": "SG",
+        "asn": "59364",
+        "description": "vHost Holdings Pte Ltd",
+        "handle": "VHOST-HOLDINGS-SG"
+    },
+    "59369": {
+        "country_code": "SG",
+        "asn": "59369",
+        "description": "BBIX SINGAPORE PTE. LTD.",
+        "handle": "BBIXSG-AS-AP"
+    },
+    "60021": {
+        "country_code": "SG",
+        "asn": "60021",
+        "description": "Edge Cloud (SG) Pte. Ltd.",
+        "handle": "AS-EDGE"
+    },
+    "63523": {
+        "country_code": "SG",
+        "asn": "63523",
+        "description": "BasicBrix LLP",
+        "handle": "BASICBRIX-SG"
+    },
+    "63524": {
+        "country_code": "SG",
+        "asn": "63524",
+        "description": "Equinix Asia Pacific Pte Ltd",
+        "handle": "ASN-EQIX-CLOUD-OS"
+    },
+    "63525": {
+        "country_code": "SG",
+        "asn": "63525",
+        "description": "Equinix Asia Pacific Pte Ltd",
+        "handle": "ASN-EQIX-CLOUD-ME"
+    },
+    "63570": {
+        "country_code": "SG",
+        "asn": "63570",
+        "description": "China Internet Network Information Center",
+        "handle": "CHINA-INTERNET-NETWORK"
+    },
+    "63832": {
+        "country_code": "SG",
+        "asn": "63832",
+        "description": "Megaport Singapore Pte Limited",
+        "handle": "MEGA-SG"
+    },
+    "63834": {
+        "country_code": "SG",
+        "asn": "63834",
+        "description": "PrimeXM Networks (Singapore) PTE. LTD",
+        "handle": "PNPL-AS-AP"
+    },
+    "63912": {
+        "country_code": "SG",
+        "asn": "63912",
+        "description": "Racks Central Pte Ltd",
+        "handle": "RACKS-CENTRAL-SG-SG"
+    },
+    "63930": {
+        "country_code": "SG",
+        "asn": "63930",
+        "description": "Ready Server Pte Ltd",
+        "handle": "READYSERVER-SG"
+    },
+    "63943": {
+        "country_code": "SG",
+        "asn": "63943",
+        "description": "UBER SINGAPORE TECHNOLOGY PTE. LTD",
+        "handle": "UBER-AS-AP"
+    },
+    "63948": {
+        "country_code": "SG",
+        "asn": "63948",
+        "description": "UBER SINGAPORE TECHNOLOGY PTE. LTD",
+        "handle": "UBER-AS-AP"
+    },
+    "63970": {
+        "country_code": "SG",
+        "asn": "63970",
+        "description": "KDDI ASIA PACIFIC PTE. LTD.",
+        "handle": "KDDI-AS-VPN"
+    },
+    "64003": {
+        "country_code": "SG",
+        "asn": "64003",
+        "description": "UOB Kay Hian Private Limited",
+        "handle": "UKHPL-SG"
+    },
+    "64010": {
+        "country_code": "SG",
+        "asn": "64010",
+        "description": "BasicBrix LLP",
+        "handle": "BASICBRIX-AS-AP"
+    },
+    "64049": {
+        "country_code": "SG",
+        "asn": "64049",
+        "description": "Reliance Jio Infocomm Pte.Ltd",
+        "handle": "RJIPL-SG"
+    },
+    "65555": {
+        "country_code": "SG",
+        "asn": "65555",
+        "description": "LGA International",
+        "handle": "LGA-INTERNATIONAL"
+    },
+    "65564": {
+        "country_code": "SG",
+        "asn": "65564",
+        "description": "SingNet Pte Ltd",
+        "handle": "SINGNET-PTE-LTD"
+    },
+    "131165": {
+        "country_code": "SG",
+        "asn": "131165",
+        "description": "Media Access International Pte Ltd",
+        "handle": "MEDIAACCESS-AS-AP"
+    },
+    "131195": {
+        "country_code": "SG",
+        "asn": "131195",
+        "description": "Singapore Institute of Management",
+        "handle": "SIM-SG-AS-AP"
+    },
+    "131208": {
+        "country_code": "SG",
+        "asn": "131208",
+        "description": "1Asia Communication Pte Ltd",
+        "handle": "SG-1ASIACOM-SG"
+    },
+    "131217": {
+        "country_code": "SG",
+        "asn": "131217",
+        "description": "Infineon Technologies Asia Pacific Pte Ltd",
+        "handle": "INFINEON-SG"
+    },
+    "131219": {
+        "country_code": "SG",
+        "asn": "131219",
+        "description": "Indosat Singapore Pte. Ltd.",
+        "handle": "ISPL-AS-AP"
+    },
+    "131236": {
+        "country_code": "SG",
+        "asn": "131236",
+        "description": "Genworx Pte Ltd",
+        "handle": "GENWORXPTELTD-AS-AP"
+    },
+    "131244": {
+        "country_code": "SG",
+        "asn": "131244",
+        "description": "Invisalign Singapore Pte. Ltd.",
+        "handle": "INVIS-AS-AP"
+    },
+    "131259": {
+        "country_code": "SG",
+        "asn": "131259",
+        "description": "QOXY PTE LTD",
+        "handle": "QX-AS-AP"
+    },
+    "131339": {
+        "country_code": "SG",
+        "asn": "131339",
+        "description": "Media Access International Pte Ltd",
+        "handle": "MEDIAACCESS-AS-AP"
+    },
+    "131444": {
+        "country_code": "SG",
+        "asn": "131444",
+        "description": "HUAWEI INTERNATIONAL PTE. LTD.",
+        "handle": "HIPL-AS-AP"
+    },
+    "131466": {
+        "country_code": "SG",
+        "asn": "131466",
+        "description": "Akari Networks Pte. Ltd.",
+        "handle": "ANPL-AS-AP"
+    },
+    "131475": {
+        "country_code": "SG",
+        "asn": "131475",
+        "description": "Singapore Institute of Technology",
+        "handle": "SIT-AS-AP"
+    },
+    "131582": {
+        "country_code": "SG",
+        "asn": "131582",
+        "description": "QUAPE PTE LTD",
+        "handle": "QUAPEPTELTD-AS-AP"
+    },
+    "131790": {
+        "country_code": "SG",
+        "asn": "131790",
+        "description": "Sanofi-aventis Singapore Pte Ltd",
+        "handle": "SANOFI-SG"
+    },
+    "132011": {
+        "country_code": "SG",
+        "asn": "132011",
+        "description": "Panasonic Avionics Corporation Singapore Branch",
+        "handle": "PAC-AS-AP"
+    },
+    "132019": {
+        "country_code": "SG",
+        "asn": "132019",
+        "description": "Earth network technology (Shanghai) Co. Ltd",
+        "handle": "EARTHNET-AS"
+    },
+    "132047": {
+        "country_code": "SG",
+        "asn": "132047",
+        "description": "MYREPUBLIC LIMITED",
+        "handle": "MYREPUBLIC-SG"
+    },
+    "132081": {
+        "country_code": "SG",
+        "asn": "132081",
+        "description": "GOVERNMENT TECHNOLOGY AGENCY",
+        "handle": "IDA-SG"
+    },
+    "132132": {
+        "country_code": "SG",
+        "asn": "132132",
+        "description": "Republic Telecom",
+        "handle": "REPUBLICTELECOM-SG"
+    },
+    "132138": {
+        "country_code": "SG",
+        "asn": "132138",
+        "description": "StarHub Cable Vision Ltd",
+        "handle": "STARHUB-CDN"
+    },
+    "132200": {
+        "country_code": "SG",
+        "asn": "132200",
+        "description": "Exabytes Network (Singapore) Pte. Ltd.",
+        "handle": "EXABYTES-AS-AP"
+    },
+    "132204": {
+        "country_code": "SG",
+        "asn": "132204",
+        "description": "Coretel Networks (International) Pte Ltd",
+        "handle": "CORETELNET-AS-AP"
+    },
+    "132236": {
+        "country_code": "SG",
+        "asn": "132236",
+        "description": "NEC ASIA PACIFIC PTE LTD",
+        "handle": "NAPPL-AS-AP"
+    },
+    "132237": {
+        "country_code": "SG",
+        "asn": "132237",
+        "description": "GOVERNMENT TECHNOLOGY AGENCY",
+        "handle": "IDA-AS-WDA"
+    },
+    "132242": {
+        "country_code": "SG",
+        "asn": "132242",
+        "description": "Hogarth Worldwide Pte",
+        "handle": "HOGARTHWW-SG"
+    },
+    "132243": {
+        "country_code": "SG",
+        "asn": "132243",
+        "description": "GOVERNMENT TECHNOLOGY AGENCY",
+        "handle": "IDA-AS-SCB"
+    },
+    "132247": {
+        "country_code": "SG",
+        "asn": "132247",
+        "description": "NTT Singapore - Integration Services",
+        "handle": "NTTS-ISD-NET-SG"
+    },
+    "132253": {
+        "country_code": "SG",
+        "asn": "132253",
+        "description": "CPF Board",
+        "handle": "CPFBOARD-SG"
+    },
+    "132265": {
+        "country_code": "SG",
+        "asn": "132265",
+        "description": "Singapore Airlines Limited",
+        "handle": "SIANET-AS-AP"
+    },
+    "132271": {
+        "country_code": "SG",
+        "asn": "132271",
+        "description": "Vodien Internet Solutions Pte Ltd",
+        "handle": "VODIEN-AS-AP-LOC3"
+    },
+    "132277": {
+        "country_code": "SG",
+        "asn": "132277",
+        "description": "X-TRA Communication Pte Ltd",
+        "handle": "XTRA-COMMUNICATION-SG"
+    },
+    "132281": {
+        "country_code": "SG",
+        "asn": "132281",
+        "description": "China Unicom (Singapore) Operations Pte Ltd",
+        "handle": "CHINAUNICOM-AS-AP"
+    },
+    "132286": {
+        "country_code": "SG",
+        "asn": "132286",
+        "description": "GOVERNMENT TECHNOLOGY AGENCY",
+        "handle": "IDA-AS-SSCHQ"
+    },
+    "132287": {
+        "country_code": "SG",
+        "asn": "132287",
+        "description": "GOVERNMENT TECHNOLOGY AGENCY",
+        "handle": "IDA-AS-SSCSRC1"
+    },
+    "132288": {
+        "country_code": "SG",
+        "asn": "132288",
+        "description": "GOVERNMENT TECHNOLOGY AGENCY",
+        "handle": "IDA-AS-SSCSPAS"
+    },
+    "132289": {
+        "country_code": "SG",
+        "asn": "132289",
+        "description": "GOVERNMENT TECHNOLOGY AGENCY",
+        "handle": "IDA-AS-SSCSRC2"
+    },
+    "132293": {
+        "country_code": "SG",
+        "asn": "132293",
+        "description": "GOVERNMENT TECHNOLOGY AGENCY",
+        "handle": "IDA-AS-EMA"
+    },
+    "132307": {
+        "country_code": "SG",
+        "asn": "132307",
+        "description": "GOVERNMENT TECHNOLOGY AGENCY",
+        "handle": "IDA-AS-MPA"
+    },
+    "132312": {
+        "country_code": "SG",
+        "asn": "132312",
+        "description": "GOVERNMENT TECHNOLOGY AGENCY",
+        "handle": "IDA-AS-MDA"
+    },
+    "132328": {
+        "country_code": "SG",
+        "asn": "132328",
+        "description": "GOVERNMENT TECHNOLOGY AGENCY",
+        "handle": "IDA-AS-MUIS"
+    },
+    "132332": {
+        "country_code": "SG",
+        "asn": "132332",
+        "description": "GOVERNMENT TECHNOLOGY AGENCY",
+        "handle": "IDA-AS-SPRING"
+    },
+    "132337": {
+        "country_code": "SG",
+        "asn": "132337",
+        "description": "AXCLUSIVE PTE. LTD.",
+        "handle": "ANSPL-AS-AP"
+    },
+    "132348": {
+        "country_code": "SG",
+        "asn": "132348",
+        "description": "Microsoft Operations PTE Ltd",
+        "handle": "MOPL-AS-AP"
+    },
+    "132356": {
+        "country_code": "SG",
+        "asn": "132356",
+        "description": "Changi Airport Group (Singapore) Pte Ltd",
+        "handle": "CAG-IT-SG"
+    },
+    "132380": {
+        "country_code": "SG",
+        "asn": "132380",
+        "description": "GENERAL MOTORS OVERSEAS DISTRIBUTION LLC",
+        "handle": "GM-AP-GMTHAI"
+    },
+    "132398": {
+        "country_code": "SG",
+        "asn": "132398",
+        "description": "Science and Engineering Institutes",
+        "handle": "SCEI-AS-AP"
+    },
+    "132406": {
+        "country_code": "SG",
+        "asn": "132406",
+        "description": "Linkedin Singapore Pte. Ltd",
+        "handle": "LINKEDIN-AS"
+    },
+    "132425": {
+        "country_code": "SG",
+        "asn": "132425",
+        "description": "Exabytes Network (Singapore) Pte. Ltd.",
+        "handle": "EXABYTES-AS-AP"
+    },
+    "132465": {
+        "country_code": "SG",
+        "asn": "132465",
+        "description": "GOVERNMENT TECHNOLOGY AGENCY",
+        "handle": "IDA-AS-MLAW"
+    },
+    "132466": {
+        "country_code": "SG",
+        "asn": "132466",
+        "description": "Linkedin Singapore Pte. Ltd",
+        "handle": "LINKEDIN2-AS-AP"
+    },
+    "132472": {
+        "country_code": "SG",
+        "asn": "132472",
+        "description": "Auctorizium Pte Ltd",
+        "handle": "AUCTORIZIUM-SG"
+    },
+    "132526": {
+        "country_code": "SG",
+        "asn": "132526",
+        "description": "Cybersite Services Pte Ltd",
+        "handle": "CSPL-AS-AP"
+    },
+    "132589": {
+        "country_code": "SG",
+        "asn": "132589",
+        "description": "GOVERNMENT TECHNOLOGY AGENCY",
+        "handle": "IDA-AS-NEA-MSS"
+    },
+    "132690": {
+        "country_code": "SG",
+        "asn": "132690",
+        "description": "Network For Electronic Transfers (Singapore) Pte Ltd",
+        "handle": "NETS-AS-AP"
+    },
+    "132696": {
+        "country_code": "SG",
+        "asn": "132696",
+        "description": "Singapore Internet Exchange Limited",
+        "handle": "SGIX-SG-AS"
+    },
+    "132699": {
+        "country_code": "SG",
+        "asn": "132699",
+        "description": "Siemens Pte Ltd.",
+        "handle": "SIEMENSPTELTD-AS-AP"
+    },
+    "132700": {
+        "country_code": "SG",
+        "asn": "132700",
+        "description": "IQON GLOBAL PTE LTD",
+        "handle": "IQONGLOBALPTELTD-AS-AP"
+    },
+    "132708": {
+        "country_code": "SG",
+        "asn": "132708",
+        "description": "VNG Singapore PTE. LTD.",
+        "handle": "VNG-AS-AP"
+    },
+    "132731": {
+        "country_code": "SG",
+        "asn": "132731",
+        "description": "Cybersite Pte Ltd",
+        "handle": "CYBERSITE-NET-AS-AP"
+    },
+    "132739": {
+        "country_code": "SG",
+        "asn": "132739",
+        "description": "Scaffnet Pte Ltd",
+        "handle": "SCAFFNETPTELTD-AS-AP"
+    },
+    "132804": {
+        "country_code": "SG",
+        "asn": "132804",
+        "description": "Singapore Telecommunications Limited",
+        "handle": "SINGTEL-AS-SCSGBDK3"
+    },
+    "132805": {
+        "country_code": "SG",
+        "asn": "132805",
+        "description": "Singapore Telecommunications Limited",
+        "handle": "SINGTEL-AS-SCSGKC23"
+    },
+    "132816": {
+        "country_code": "SG",
+        "asn": "132816",
+        "description": "SimplerCloud Pte Ltd",
+        "handle": "SIMPLERCLOUD-AS-AP"
+    },
+    "132824": {
+        "country_code": "SG",
+        "asn": "132824",
+        "description": "Beyotta Network LLP",
+        "handle": "BEYOTTANETWORKLLP-AS-AP"
+    },
+    "132829": {
+        "country_code": "SG",
+        "asn": "132829",
+        "description": "Nevigate Communications (S) Pte Ltd",
+        "handle": "NCPL-AS-AP"
+    },
+    "132910": {
+        "country_code": "SG",
+        "asn": "132910",
+        "description": "QOXY PTE LTD",
+        "handle": "QX-AS-AP"
+    },
+    "132915": {
+        "country_code": "SG",
+        "asn": "132915",
+        "description": "M1 LIMITED",
+        "handle": "MOBILEONELTD-AS-NGNBN"
+    },
+    "133025": {
+        "country_code": "SG",
+        "asn": "133025",
+        "description": "InMobi Pte. Ltd.",
+        "handle": "INMOBIINC-AS-AP"
+    },
+    "133058": {
+        "country_code": "SG",
+        "asn": "133058",
+        "description": "MYREPUBLIC LIMITED",
+        "handle": "MYREPUBLIC-SG"
+    },
+    "133097": {
+        "country_code": "SG",
+        "asn": "133097",
+        "description": "Starhub Ltd.",
+        "handle": "STARHUB-IPVPN"
+    },
+    "133134": {
+        "country_code": "SG",
+        "asn": "133134",
+        "description": "AION TECHNOLOGIES PTE LTD",
+        "handle": "ATPL-AS-AP"
+    },
+    "133136": {
+        "country_code": "SG",
+        "asn": "133136",
+        "description": "MYREPUBLIC LIMITED",
+        "handle": "MYREPUBLIC-SG"
+    },
+    "133151": {
+        "country_code": "SG",
+        "asn": "133151",
+        "description": "Garena Online Pte Ltd",
+        "handle": "GARENA-AS-AP"
+    },
+    "133210": {
+        "country_code": "SG",
+        "asn": "133210",
+        "description": "EN Technologies Pte Ltd",
+        "handle": "ENTECHNOLOGIES-AS-AP"
+    },
+    "133219": {
+        "country_code": "SG",
+        "asn": "133219",
+        "description": "NewMedia Express Pte Ltd",
+        "handle": "NEWMEDIAEXPRESSCHINA-AS-AP"
+    },
+    "133327": {
+        "country_code": "SG",
+        "asn": "133327",
+        "description": "Flextronics International Ltd.",
+        "handle": "FLEX-AS-AP"
+    },
+    "133387": {
+        "country_code": "SG",
+        "asn": "133387",
+        "description": "GOVERNMENT TECHNOLOGY AGENCY",
+        "handle": "IDA-AS-IDAHQ-NG"
+    },
+    "133390": {
+        "country_code": "SG",
+        "asn": "133390",
+        "description": "Cosmo System Pte Ltd",
+        "handle": "COSMO-AS-AP"
+    },
+    "133391": {
+        "country_code": "SG",
+        "asn": "133391",
+        "description": "SYSNETPRO SOLUTION PTE LTD",
+        "handle": "SYSNETPRO-SOLUTION-AS-AP"
+    },
+    "133422": {
+        "country_code": "SG",
+        "asn": "133422",
+        "description": "Aviva Asia Pte Ltd",
+        "handle": "AVIVAASIAPTELTD-AS-AP"
+    },
+    "133426": {
+        "country_code": "SG",
+        "asn": "133426",
+        "description": "Northtelecom PTE LTD",
+        "handle": "NPL-AS-AP"
+    },
+    "133449": {
+        "country_code": "SG",
+        "asn": "133449",
+        "description": "VASTSPACE PTE. LTD.",
+        "handle": "VASTSPACEPTELTD-AS-AP"
+    },
+    "133456": {
+        "country_code": "SG",
+        "asn": "133456",
+        "description": "ALAGAS NETWORK PTE. LTD.",
+        "handle": "ALAGASNET-AS-AP"
+    },
+    "133470": {
+        "country_code": "SG",
+        "asn": "133470",
+        "description": "SYNAPXE PTE. LTD.",
+        "handle": "SYNAPXE-AS-AP"
+    },
+    "133471": {
+        "country_code": "SG",
+        "asn": "133471",
+        "description": "SYNAPXE PTE. LTD.",
+        "handle": "SYNAPXE-AS-AP"
+    },
+    "133472": {
+        "country_code": "SG",
+        "asn": "133472",
+        "description": "TECHLINKZ SOLUTIONS",
+        "handle": "TECHLINKZSOLUTIONS-AS-AP"
+    },
+    "133497": {
+        "country_code": "SG",
+        "asn": "133497",
+        "description": "Singapore Telecom ConnectPlus",
+        "handle": "CONNECTPLUS-AS-AP"
+    },
+    "133535": {
+        "country_code": "SG",
+        "asn": "133535",
+        "description": "ALAGAS NETWORK PTE. LTD.",
+        "handle": "ALAGASNETWORK-AS-AP"
+    },
+    "133541": {
+        "country_code": "SG",
+        "asn": "133541",
+        "description": "SABIC Innovative Plastics (SEA) Pte. Ltd.",
+        "handle": "SIPPE-AS"
+    },
+    "133600": {
+        "country_code": "SG",
+        "asn": "133600",
+        "description": "ESSEC",
+        "handle": "ESSEC-AS-AP"
+    },
+    "133622": {
+        "country_code": "SG",
+        "asn": "133622",
+        "description": "Bottomline Technologies Pte. Ltd.",
+        "handle": "BOTTOMLINE-AS-AP"
+    },
+    "133728": {
+        "country_code": "SG",
+        "asn": "133728",
+        "description": "Chubb Asia Pacific Pte Ltd",
+        "handle": "CAPPL-AS-AP"
+    },
+    "133748": {
+        "country_code": "SG",
+        "asn": "133748",
+        "description": "Coretel Networks (International) Pte Ltd",
+        "handle": "CORETELNET-AS-AP"
+    },
+    "133757": {
+        "country_code": "SG",
+        "asn": "133757",
+        "description": "Telecom Italia Sparkle Singapore Pte Ltd",
+        "handle": "SEABONE-AS-AP"
+    },
+    "133862": {
+        "country_code": "SG",
+        "asn": "133862",
+        "description": "1-Net Singapore Pte Ltd",
+        "handle": "CLOUD-AS"
+    },
+    "133879": {
+        "country_code": "SG",
+        "asn": "133879",
+        "description": "New World Hotels",
+        "handle": "DOCOMOINTERTOUCH-CUST"
+    },
+    "133882": {
+        "country_code": "SG",
+        "asn": "133882",
+        "description": "Godaddy.com",
+        "handle": "GODADDY-NET-SG-AS-AP"
+    },
+    "133903": {
+        "country_code": "SG",
+        "asn": "133903",
+        "description": "Rocket Network Pte. Ltd.",
+        "handle": "RNPL-AS-AP"
+    },
+    "133912": {
+        "country_code": "SG",
+        "asn": "133912",
+        "description": "MediaCorp Pte Ltd",
+        "handle": "MEDIACORPPTELTD-AS-AP"
+    },
+    "133921": {
+        "country_code": "SG",
+        "asn": "133921",
+        "description": "CITYLINK SOLUTIONS PTE.LTD.",
+        "handle": "CITYLINK-AS-AP"
+    },
+    "134078": {
+        "country_code": "SG",
+        "asn": "134078",
+        "description": "NETPLUZ HOLDINGS PRIVATE LIMITED",
+        "handle": "NETPLUZ-AS-AP"
+    },
+    "134079": {
+        "country_code": "SG",
+        "asn": "134079",
+        "description": "SecureAX Pte Ltd",
+        "handle": "SECUREAX-AS-AP"
+    },
+    "134144": {
+        "country_code": "SG",
+        "asn": "134144",
+        "description": "WIZ TECHNOLOGIES (S) PTE LTD",
+        "handle": "WIZ-AS-AP"
+    },
+    "134148": {
+        "country_code": "SG",
+        "asn": "134148",
+        "description": "SingAREN",
+        "handle": "SINGAREN-GIX-AS-AP-2"
+    },
+    "134161": {
+        "country_code": "SG",
+        "asn": "134161",
+        "description": "GLOBALFOUNDRIES SINGAPORE PTE. LTD.",
+        "handle": "GLOBALFOUNDRIES-AS-AP"
+    },
+    "134190": {
+        "country_code": "SG",
+        "asn": "134190",
+        "description": "IPDC SOLUTIONS PTE LTD",
+        "handle": "IPDC-AS-AP"
+    },
+    "134193": {
+        "country_code": "SG",
+        "asn": "134193",
+        "description": "SkyLab Holding Pte. Ltd.",
+        "handle": "SHPL-AS-AP"
+    },
+    "134206": {
+        "country_code": "SG",
+        "asn": "134206",
+        "description": "DRW Singapore Pte Ltd",
+        "handle": "DRWSG1E-AS-AP"
+    },
+    "134214": {
+        "country_code": "SG",
+        "asn": "134214",
+        "description": "AVALOQ SOURCING ASIA PACIFIC (SINGAPORE) PTE. LTD.",
+        "handle": "ASAP-AS-AP"
+    },
+    "134349": {
+        "country_code": "SG",
+        "asn": "134349",
+        "description": "Panduit Singapore Pte Ltd",
+        "handle": "PSPL-AS-AP"
+    },
+    "134363": {
+        "country_code": "SG",
+        "asn": "134363",
+        "description": "EZIT Solutions Pte Ltd",
+        "handle": "EZIT-AS-AP"
+    },
+    "134407": {
+        "country_code": "SG",
+        "asn": "134407",
+        "description": "MediaCorp Pte Ltd",
+        "handle": "MEDIACORPPTELTD-AS-AP"
+    },
+    "134451": {
+        "country_code": "SG",
+        "asn": "134451",
+        "description": "NewMedia Express Pte Ltd",
+        "handle": "NME-INDONESIA-AS-AP"
+    },
+    "134457": {
+        "country_code": "SG",
+        "asn": "134457",
+        "description": "BMC Software Asia Pacific Pte Ltd",
+        "handle": "BSAPPL-AS-AP"
+    },
+    "134469": {
+        "country_code": "SG",
+        "asn": "134469",
+        "description": "Digital Singapore 2 Pte Ltd",
+        "handle": "DS2PL-AS-AP"
+    },
+    "134474": {
+        "country_code": "SG",
+        "asn": "134474",
+        "description": "Micro Cloud Technology Pte. Ltd.",
+        "handle": "MCTPL-AS-AP"
+    },
+    "134515": {
+        "country_code": "SG",
+        "asn": "134515",
+        "description": "NOV Rig Solutions Pte Ltd",
+        "handle": "NOVSGP-SG"
+    },
+    "134546": {
+        "country_code": "SG",
+        "asn": "134546",
+        "description": "Maybank Singapore Limited",
+        "handle": "MSL-AS-AP"
+    },
+    "134547": {
+        "country_code": "SG",
+        "asn": "134547",
+        "description": "Singapore Telecommunications Limited",
+        "handle": "SINGTEL-AS-AP"
+    },
+    "134588": {
+        "country_code": "SG",
+        "asn": "134588",
+        "description": "SINGAPORE TURF CLUB",
+        "handle": "SINGAPORETURFCLUB-AS-AP"
+    },
+    "134594": {
+        "country_code": "SG",
+        "asn": "134594",
+        "description": "AVNET ASIA PTE LTD",
+        "handle": "AAPL-AS-AP"
+    },
+    "134607": {
+        "country_code": "SG",
+        "asn": "134607",
+        "description": "Dailymotion Asia Pacific Pte Ltd.",
+        "handle": "DAILYM-AS-AP"
+    },
+    "134667": {
+        "country_code": "SG",
+        "asn": "134667",
+        "description": "IBM Singapore Pte Ltd",
+        "handle": "IBM-SG-AP"
+    },
+    "134677": {
+        "country_code": "SG",
+        "asn": "134677",
+        "description": "Dromatics Systems Pte Ltd",
+        "handle": "IDC-AS-AP"
+    },
+    "134699": {
+        "country_code": "SG",
+        "asn": "134699",
+        "description": "CYPRESS TELECOM (SINGAPORE) PTE. LTD.",
+        "handle": "CYPRESSTEL-AS-AP"
+    },
+    "134789": {
+        "country_code": "SG",
+        "asn": "134789",
+        "description": "OPTICALHASH COMMUNICATIONS PTE LTD",
+        "handle": "OCPL-AS-AP"
+    },
+    "134831": {
+        "country_code": "SG",
+        "asn": "134831",
+        "description": "PropertyGuru Pte Ltd",
+        "handle": "PG-AS-AP"
+    },
+    "134839": {
+        "country_code": "SG",
+        "asn": "134839",
+        "description": "PropertyGuru Pte Ltd",
+        "handle": "PG-AS-AP-TH"
+    },
+    "134842": {
+        "country_code": "SG",
+        "asn": "134842",
+        "description": "PGAS TELECOMMUNICATIONS INTERNATIONAL PTE. LTD",
+        "handle": "PTIPL-AS-AP"
+    },
+    "134963": {
+        "country_code": "SG",
+        "asn": "134963",
+        "description": "Alibaba Cloud (Singapore) Private Limited",
+        "handle": "ASEPL-AS-AP"
+    },
+    "134981": {
+        "country_code": "SG",
+        "asn": "134981",
+        "description": "UBER SINGAPORE TECHNOLOGY PTE. LTD",
+        "handle": "UBER-AS-AP"
+    },
+    "134998": {
+        "country_code": "SG",
+        "asn": "134998",
+        "description": "Green Packet Global Pte. Ltd.",
+        "handle": "GREENPACKET-AS-AP"
+    },
+    "135002": {
+        "country_code": "SG",
+        "asn": "135002",
+        "description": "Singapore Exchange Limited",
+        "handle": "SGX-AS-AP"
+    },
+    "135008": {
+        "country_code": "SG",
+        "asn": "135008",
+        "description": "GOVERNMENT TECHNOLOGY AGENCY",
+        "handle": "GOVTECH-AS-GOVTECH"
+    },
+    "135009": {
+        "country_code": "SG",
+        "asn": "135009",
+        "description": "Singapore Exchange Limited",
+        "handle": "SGX-SG-AS-SDC2"
+    },
+    "135014": {
+        "country_code": "SG",
+        "asn": "135014",
+        "description": "Crosspoint Telecom PTE. LTD.",
+        "handle": "CROSSPOINT-AS-AP"
+    },
+    "135048": {
+        "country_code": "SG",
+        "asn": "135048",
+        "description": "Singapore Pools (Private) Limited",
+        "handle": "SINGAPORE-AS-AP"
+    },
+    "135066": {
+        "country_code": "SG",
+        "asn": "135066",
+        "description": "Schroders Investment Management (Singapore) Limited",
+        "handle": "SIML-AS-AP"
+    },
+    "135074": {
+        "country_code": "SG",
+        "asn": "135074",
+        "description": "DREAM CLOUD INNOVATION PTE. LTD.",
+        "handle": "DCIPL-AS-AP"
+    },
+    "135093": {
+        "country_code": "SG",
+        "asn": "135093",
+        "description": "AVALOQ SOURCING ASIA PACIFIC (SINGAPORE) PTE. LTD.",
+        "handle": "ASAP-AS-AP"
+    },
+    "135102": {
+        "country_code": "SG",
+        "asn": "135102",
+        "description": "ZOHO CORPORATION PTE. LTD.",
+        "handle": "ZCPL-AS-AP"
+    },
+    "135103": {
+        "country_code": "SG",
+        "asn": "135103",
+        "description": "Alex Neo Jing Hui",
+        "handle": "ALEX-NEO-AS-AP"
+    },
+    "135114": {
+        "country_code": "SG",
+        "asn": "135114",
+        "description": "MediaCorp Pte Ltd",
+        "handle": "MEDIACORPPTELTD-SG"
+    },
+    "135134": {
+        "country_code": "SG",
+        "asn": "135134",
+        "description": "Soon Keat Neo",
+        "handle": "SOONKEATNEO-AS-AP"
+    },
+    "135161": {
+        "country_code": "SG",
+        "asn": "135161",
+        "description": "GMO-Z.COM PTE. LTD.",
+        "handle": "GMO-Z-COM-TH"
+    },
+    "135291": {
+        "country_code": "SG",
+        "asn": "135291",
+        "description": "IBM Singapore Pte Ltd",
+        "handle": "IBM-SG-AP"
+    },
+    "135354": {
+        "country_code": "SG",
+        "asn": "135354",
+        "description": "NAVER BUSINESS PLATFORM ASIA PACIFIC PTE. LTD.",
+        "handle": "NBPAP-AS-AP"
+    },
+    "135382": {
+        "country_code": "SG",
+        "asn": "135382",
+        "description": "DE-CIX ASIA PTE LTD",
+        "handle": "DECIXASIAPTELTD-AS-AP"
+    },
+    "135409": {
+        "country_code": "SG",
+        "asn": "135409",
+        "description": "Kacific Broadband Satellites Pte Ltd",
+        "handle": "KBSPL-AS-AP"
+    },
+    "135411": {
+        "country_code": "SG",
+        "asn": "135411",
+        "description": "Red Grapes Pte Ltd",
+        "handle": "REDGRAPESPTELTD-AS-AP"
+    },
+    "135412": {
+        "country_code": "SG",
+        "asn": "135412",
+        "description": "Singapore Network Information Centre",
+        "handle": "SGNIC-AS-AP"
+    },
+    "135418": {
+        "country_code": "SG",
+        "asn": "135418",
+        "description": "Computer Analysts And Recovery Experts Pte. Ltd.",
+        "handle": "CAAREPL-AS-AP"
+    },
+    "135437": {
+        "country_code": "SG",
+        "asn": "135437",
+        "description": "HostSG",
+        "handle": "HOSTSG-AS-SG"
+    },
+    "135521": {
+        "country_code": "SG",
+        "asn": "135521",
+        "description": "ROBERT BOSCH (SOUTH EAST ASIA) PTE. LTD.",
+        "handle": "RBEAPL-AS-AP"
+    },
+    "135522": {
+        "country_code": "SG",
+        "asn": "135522",
+        "description": "Aveva Software Singapore Pte. Ltd.",
+        "handle": "AVEVA-AS-AP"
+    },
+    "135525": {
+        "country_code": "SG",
+        "asn": "135525",
+        "description": "Exoduspoint Capital Management Singapore Pte. Ltd.",
+        "handle": "ECML-AS-AP"
+    },
+    "135530": {
+        "country_code": "SG",
+        "asn": "135530",
+        "description": "Acronis Asia Pte. Ltd",
+        "handle": "ACRONIS-AS-AP"
+    },
+    "135531": {
+        "country_code": "SG",
+        "asn": "135531",
+        "description": "Global Integrated Communications Pte Ltd",
+        "handle": "GIC-AS-AP"
+    },
+    "135577": {
+        "country_code": "SG",
+        "asn": "135577",
+        "description": "SAP Asia Pte Ltd",
+        "handle": "SAP-DC-SHA"
+    },
+    "135600": {
+        "country_code": "SG",
+        "asn": "135600",
+        "description": "Whiz Communications Pte Ltd",
+        "handle": "WHIZCOMMS-AS-AP"
+    },
+    "135623": {
+        "country_code": "SG",
+        "asn": "135623",
+        "description": "PACIFIC INTERNET (S) PTE. LTD.",
+        "handle": "PACIFICINTERNET-AS-AP"
+    },
+    "135894": {
+        "country_code": "SG",
+        "asn": "135894",
+        "description": "Apple South Asia Pte Ltd",
+        "handle": "ASAPL-AS-AP"
+    },
+    "136029": {
+        "country_code": "SG",
+        "asn": "136029",
+        "description": "SINGAPORE POWER LIMITED",
+        "handle": "SINGAPORE1-AS-AP"
+    },
+    "136041": {
+        "country_code": "SG",
+        "asn": "136041",
+        "description": "Singapore Telecom ConnectPlus",
+        "handle": "CONNECTPLUS-AS-AP"
+    },
+    "136149": {
+        "country_code": "SG",
+        "asn": "136149",
+        "description": "MediaCorp Pte Ltd",
+        "handle": "MEDIACORPPTELTD-AS-AP"
+    },
+    "136169": {
+        "country_code": "SG",
+        "asn": "136169",
+        "description": "DBS Bank Ltd",
+        "handle": "DBS-NET-AS-AP"
+    },
+    "136202": {
+        "country_code": "SG",
+        "asn": "136202",
+        "description": "Freepoint Commodities Singapore Pte. Ltd.",
+        "handle": "FCSPL-AS-AP"
+    },
+    "136261": {
+        "country_code": "SG",
+        "asn": "136261",
+        "description": "VERTIV (SINGAPORE) PTE. LTD.",
+        "handle": "VERTIVCO-AS-AP"
+    },
+    "136270": {
+        "country_code": "SG",
+        "asn": "136270",
+        "description": "Route Mobile PTE Ltd",
+        "handle": "RMPL-AS-AP"
+    },
+    "136439": {
+        "country_code": "SG",
+        "asn": "136439",
+        "description": "Defence Science Technology Agency",
+        "handle": "DSTA-DMZ-AS-AP"
+    },
+    "136459": {
+        "country_code": "SG",
+        "asn": "136459",
+        "description": "F12 DATA PTE LTD",
+        "handle": "F12DATAPTELTD-AS-AP"
+    },
+    "136464": {
+        "country_code": "SG",
+        "asn": "136464",
+        "description": "Pacific Internet Pte Ltd",
+        "handle": "PACIFICINTERNET-AS-AP"
+    },
+    "136468": {
+        "country_code": "SG",
+        "asn": "136468",
+        "description": "IBM Singapore Pte Ltd",
+        "handle": "IBM-SG-AP"
+    },
+    "136511": {
+        "country_code": "SG",
+        "asn": "136511",
+        "description": "Toku Ltd",
+        "handle": "TOKU-AS-AP"
+    },
+    "136537": {
+        "country_code": "SG",
+        "asn": "136537",
+        "description": "SQUAREPOINT OPERATIONS PRIVATE LIMITED",
+        "handle": "SOPL-AS-AP"
+    },
+    "136553": {
+        "country_code": "SG",
+        "asn": "136553",
+        "description": "3i Network Pte Ltd",
+        "handle": "SG-3INETWORK-AS-AP"
+    },
+    "136593": {
+        "country_code": "SG",
+        "asn": "136593",
+        "description": "Hostsymbol Pte. Ltd.",
+        "handle": "HOSTSYMBOL2-AS-AP"
+    },
+    "136599": {
+        "country_code": "SG",
+        "asn": "136599",
+        "description": "IEC Telecom Singapore Pte Ltd",
+        "handle": "ITSPL-SG"
+    },
+    "136601": {
+        "country_code": "SG",
+        "asn": "136601",
+        "description": "GOVERNMENT TECHNOLOGY AGENCY",
+        "handle": "GT-GPC-AS-AP"
+    },
+    "136606": {
+        "country_code": "SG",
+        "asn": "136606",
+        "description": "Crystal Net Pte Ltd",
+        "handle": "CRYSTALNETPTELTD-AS-AP"
+    },
+    "136733": {
+        "country_code": "SG",
+        "asn": "136733",
+        "description": "Racks Central Pte Ltd",
+        "handle": "RACKSCENTRAL-AS-AP"
+    },
+    "136736": {
+        "country_code": "SG",
+        "asn": "136736",
+        "description": "NEOLINK TECHNOLOGY PTE. LTD.",
+        "handle": "NEOLINK-AS-AP"
+    },
+    "136785": {
+        "country_code": "SG",
+        "asn": "136785",
+        "description": "TOFFS TECHNOLOGIES PTE LTD",
+        "handle": "TTPL-AS-AP"
+    },
+    "136817": {
+        "country_code": "SG",
+        "asn": "136817",
+        "description": "Sony Electronics (S) Pte. Ltd",
+        "handle": "SONY-GLOBAL-AS-AP"
+    },
+    "136907": {
+        "country_code": "SG",
+        "asn": "136907",
+        "description": "HUAWEI INTERNATIONAL PTE. LTD.",
+        "handle": "HWCLOUDS-AS-AP"
+    },
+    "136968": {
+        "country_code": "SG",
+        "asn": "136968",
+        "description": "SingAREN",
+        "handle": "SINGAREN-GIX-AS-AP"
+    },
+    "137003": {
+        "country_code": "SG",
+        "asn": "137003",
+        "description": "INSEAD",
+        "handle": "INSEAD1-AS-AP"
+    },
+    "137043": {
+        "country_code": "SG",
+        "asn": "137043",
+        "description": "Hostsymbol Pte. Ltd.",
+        "handle": "HOSTSYMBOL2-AS-AP"
+    },
+    "137061": {
+        "country_code": "SG",
+        "asn": "137061",
+        "description": "Flextronics International Ltd.",
+        "handle": "FLEX-SGF"
+    },
+    "137182": {
+        "country_code": "SG",
+        "asn": "137182",
+        "description": "BLUE WIRELESS PTE LTD",
+        "handle": "BLUE-WIRELESS-SG"
+    },
+    "137190": {
+        "country_code": "SG",
+        "asn": "137190",
+        "description": "STRAITDEER PTE. LTD.",
+        "handle": "STRAITDEERPTELTD-AS-AP"
+    },
+    "137205": {
+        "country_code": "SG",
+        "asn": "137205",
+        "description": "CIMB Bank Berhad",
+        "handle": "CIMBBANKBERHAD-AS-AP"
+    },
+    "137253": {
+        "country_code": "SG",
+        "asn": "137253",
+        "description": "Princeton Digital Group (Singapore) SG1 Pte. Ltd.",
+        "handle": "PRINCETON-AS-AP"
+    },
+    "137269": {
+        "country_code": "SG",
+        "asn": "137269",
+        "description": "Novartis Singapore Pte Ltd",
+        "handle": "NSPL-AS-AP"
+    },
+    "137272": {
+        "country_code": "SG",
+        "asn": "137272",
+        "description": "PSiDEO (Singapore) Pte Ltd",
+        "handle": "PSIDEO-SINGAPORE-AS-AP"
+    },
+    "137393": {
+        "country_code": "SG",
+        "asn": "137393",
+        "description": "Nubitel Technology Pte. Ltd.",
+        "handle": "NUBITEL-AS-AP"
+    },
+    "137468": {
+        "country_code": "SG",
+        "asn": "137468",
+        "description": "SPTEL PTE. LTD.",
+        "handle": "SPTEL-AS-AP"
+    },
+    "137476": {
+        "country_code": "SG",
+        "asn": "137476",
+        "description": "Cargill Asia Pacific Holdings Pte Ltd",
+        "handle": "CAPHPL-AS-AP"
+    },
+    "137535": {
+        "country_code": "SG",
+        "asn": "137535",
+        "description": "JT TELECOM INTERNATIONAL PTE.LTD.",
+        "handle": "JTIP-AS-AP"
+    },
+    "137563": {
+        "country_code": "SG",
+        "asn": "137563",
+        "description": "Flow Traders Asia Pte. Ltd.",
+        "handle": "FTAPL-AS-AP"
+    },
+    "137567": {
+        "country_code": "SG",
+        "asn": "137567",
+        "description": "Campana Group Pte. Ltd.",
+        "handle": "CGPL-AS-AP"
+    },
+    "137825": {
+        "country_code": "SG",
+        "asn": "137825",
+        "description": "UniCredit Business Integrated Solutions S.C.P.A Singapore Branch",
+        "handle": "UBIS-AS-AP"
+    },
+    "137831": {
+        "country_code": "SG",
+        "asn": "137831",
+        "description": "SHOPEE SINGAPORE PRIVATE LIMITED",
+        "handle": "SHOPEE-AS-AP"
+    },
+    "137835": {
+        "country_code": "SG",
+        "asn": "137835",
+        "description": "Nathaniel Chan Jie Le",
+        "handle": "NATCHAN-AS"
+    },
+    "137865": {
+        "country_code": "SG",
+        "asn": "137865",
+        "description": "TELNYX ASIA PACIFIC PTE. LTD.",
+        "handle": "TELNYX-AS-AP"
+    },
+    "137904": {
+        "country_code": "SG",
+        "asn": "137904",
+        "description": "Black & Veatch (SEA) PTE LTD",
+        "handle": "BVPL-AS-AP"
+    },
+    "137928": {
+        "country_code": "SG",
+        "asn": "137928",
+        "description": "SIEMENS HEALTHCARE PTE.LTD",
+        "handle": "SIEMENS-HEALTHINEERS-AS-AP"
+    },
+    "137932": {
+        "country_code": "SG",
+        "asn": "137932",
+        "description": "IPDC SOLUTIONS PTE LTD",
+        "handle": "IPDC-AS-AP"
+    },
+    "137948": {
+        "country_code": "SG",
+        "asn": "137948",
+        "description": "Diebold Nixdorf Singapore PTE. LTD.",
+        "handle": "DIEBOLDNIXDORF-AS-AP"
+    },
+    "137954": {
+        "country_code": "SG",
+        "asn": "137954",
+        "description": "CLOUDSTORAGE PTE. LTD.",
+        "handle": "CLOUDSTORAGE-AS-AP"
+    },
+    "137962": {
+        "country_code": "SG",
+        "asn": "137962",
+        "description": "GREYPANEL.PTE.LTD",
+        "handle": "GREYPANEL-AS137962"
+    },
+    "137988": {
+        "country_code": "SG",
+        "asn": "137988",
+        "description": "QUALITY INTERNET SERVICES PTE. LTD.",
+        "handle": "QIS-AS-AP"
+    },
+    "137991": {
+        "country_code": "SG",
+        "asn": "137991",
+        "description": "Lifeway Singapore Pte. Ltd.",
+        "handle": "LIFEWAY-AS-AP"
+    },
+    "138006": {
+        "country_code": "SG",
+        "asn": "138006",
+        "description": "Long Isaac Kwan",
+        "handle": "YOTTADEVELOP-AS-AP"
+    },
+    "138030": {
+        "country_code": "SG",
+        "asn": "138030",
+        "description": "IWAN TECHNOLOGY PTE. LTD.",
+        "handle": "IWAN-AS-AP"
+    },
+    "138035": {
+        "country_code": "SG",
+        "asn": "138035",
+        "description": "Novartis Singapore Pte Ltd",
+        "handle": "NVS-INHY-AS-AP"
+    },
+    "138341": {
+        "country_code": "SG",
+        "asn": "138341",
+        "description": "SHOPEE SINGAPORE PRIVATE LIMITED",
+        "handle": "SHOPEE-AS"
+    },
+    "138345": {
+        "country_code": "SG",
+        "asn": "138345",
+        "description": "Starhub Ltd.",
+        "handle": "STARHUB-MOBILE2"
+    },
+    "138419": {
+        "country_code": "SG",
+        "asn": "138419",
+        "description": "Pico (Singapore) Pte. Ltd.",
+        "handle": "PPL-AS-AP"
+    },
+    "138433": {
+        "country_code": "SG",
+        "asn": "138433",
+        "description": "GMO GlobalSign Pte Ltd",
+        "handle": "GLOBALSIGN-AS-AP"
+    },
+    "138450": {
+        "country_code": "SG",
+        "asn": "138450",
+        "description": "IBM Singapore Pte Ltd",
+        "handle": "AVALOQ-AS-AP"
+    },
+    "138458": {
+        "country_code": "SG",
+        "asn": "138458",
+        "description": "NEC ASIA PACIFIC PTE LTD",
+        "handle": "NAPPL-PROJECTJ-AS-AP"
+    },
+    "138459": {
+        "country_code": "SG",
+        "asn": "138459",
+        "description": "NEC ASIA PACIFIC PTE LTD",
+        "handle": "NAPPL-PROJECTC-AS-AP"
+    },
+    "138463": {
+        "country_code": "SG",
+        "asn": "138463",
+        "description": "Interactive Brokers Singapore Pte. Ltd",
+        "handle": "IBSPL-AS-AP"
+    },
+    "138526": {
+        "country_code": "SG",
+        "asn": "138526",
+        "description": "PROTOSTAR INTELLIGENCE PTE. LTD.",
+        "handle": "PROTOSTAR-AS-AP"
+    },
+    "138539": {
+        "country_code": "SG",
+        "asn": "138539",
+        "description": "Jewel Changi Airport Trustee Pte. Ltd.",
+        "handle": "JEWEL-AS-AP"
+    },
+    "138552": {
+        "country_code": "SG",
+        "asn": "138552",
+        "description": "RTB HOUSE PTE. LTD.",
+        "handle": "RTBHOUSE-AS-AP"
+    },
+    "138588": {
+        "country_code": "SG",
+        "asn": "138588",
+        "description": "Diebold Nixdorf Singapore PTE. LTD.",
+        "handle": "DIEBOLDNIXDORF4"
+    },
+    "138593": {
+        "country_code": "SG",
+        "asn": "138593",
+        "description": "Diebold Nixdorf Singapore PTE. LTD.",
+        "handle": "DIEBOLDNIXDORF3"
+    },
+    "138606": {
+        "country_code": "SG",
+        "asn": "138606",
+        "description": "Suga Pte. Ltd",
+        "handle": "SUGAPTELTD-AS-AP"
+    },
+    "138608": {
+        "country_code": "SG",
+        "asn": "138608",
+        "description": "Cloud Host Pte Ltd",
+        "handle": "CLOUDHOST-AS-AP"
+    },
+    "138610": {
+        "country_code": "SG",
+        "asn": "138610",
+        "description": "SAP Asia Pte Ltd",
+        "handle": "SAP-SE-SIN"
+    },
+    "138626": {
+        "country_code": "SG",
+        "asn": "138626",
+        "description": "AVALOQ SOURCING ASIA PACIFIC (SINGAPORE) PTE. LTD.",
+        "handle": "ASAP-AS-AP"
+    },
+    "138699": {
+        "country_code": "SG",
+        "asn": "138699",
+        "description": "TIKTOK PTE. LTD.",
+        "handle": "TIKTOK-AS-AP"
+    },
+    "139028": {
+        "country_code": "SG",
+        "asn": "139028",
+        "description": "Singapore Technologies Engineering Ltd",
+        "handle": "STENGG-SG"
+    },
+    "139057": {
+        "country_code": "SG",
+        "asn": "139057",
+        "description": "Edgenext Legend Dynasty Pte. Ltd.",
+        "handle": "ELD-AS-AP"
+    },
+    "139062": {
+        "country_code": "SG",
+        "asn": "139062",
+        "description": "Synamedia Asia Private Ltd",
+        "handle": "SAPL-AS-AP"
+    },
+    "139070": {
+        "country_code": "SG",
+        "asn": "139070",
+        "description": "Google Asia Pacific Pte. Ltd.",
+        "handle": "GOOGLE-AS-AP"
+    },
+    "139072": {
+        "country_code": "SG",
+        "asn": "139072",
+        "description": "Wework Singapore Pte. Ltd.",
+        "handle": "WEWORK-AS-AP"
+    },
+    "139079": {
+        "country_code": "SG",
+        "asn": "139079",
+        "description": "The Central Depository Pte Ltd",
+        "handle": "TCDPL-AS-AP"
+    },
+    "139083": {
+        "country_code": "SG",
+        "asn": "139083",
+        "description": "The Central Depository Pte Ltd",
+        "handle": "TCDPL-AS-AP"
+    },
+    "139190": {
+        "country_code": "SG",
+        "asn": "139190",
+        "description": "Google Asia Pacific Pte. Ltd.",
+        "handle": "GOOGLE-AS-AP"
+    },
+    "139209": {
+        "country_code": "SG",
+        "asn": "139209",
+        "description": "Flextronics International Ltd.",
+        "handle": "FLEX-DCF"
+    },
+    "139210": {
+        "country_code": "SG",
+        "asn": "139210",
+        "description": "Flextronics International Ltd.",
+        "handle": "FLEX-SHF"
+    },
+    "139211": {
+        "country_code": "SG",
+        "asn": "139211",
+        "description": "Flextronics International Ltd.",
+        "handle": "FLEX-CHF"
+    },
+    "139264": {
+        "country_code": "SG",
+        "asn": "139264",
+        "description": "Zhongfu Li",
+        "handle": "ZHONGFULI-AS-AP"
+    },
+    "139291": {
+        "country_code": "SG",
+        "asn": "139291",
+        "description": "INFINITIUM HOLDINGS PTE. LTD.",
+        "handle": "INFGROUP-AS-AP"
+    },
+    "139341": {
+        "country_code": "SG",
+        "asn": "139341",
+        "description": "ACEVILLE PTE.LTD.",
+        "handle": "ACE-AS-AP"
+    },
+    "139349": {
+        "country_code": "SG",
+        "asn": "139349",
+        "description": "Diebold Nixdorf Singapore PTE. LTD.",
+        "handle": "DIEBOLDNIXDORF-AS-AP"
+    },
+    "139601": {
+        "country_code": "SG",
+        "asn": "139601",
+        "description": "Krixe Pte. Ltd.",
+        "handle": "KRIXEPTELTD-AS-AP"
+    },
+    "139617": {
+        "country_code": "SG",
+        "asn": "139617",
+        "description": "ISEAS Yusof Ishak Institute",
+        "handle": "ISEAS-AS-AP"
+    },
+    "139625": {
+        "country_code": "SG",
+        "asn": "139625",
+        "description": "Zenlayer (Singapore) PTE. LTD",
+        "handle": "ZEN-AS-AP"
+    },
+    "139631": {
+        "country_code": "SG",
+        "asn": "139631",
+        "description": "ANY DIGITAL PTE. LTD.",
+        "handle": "ADPL-AS-AP"
+    },
+    "139655": {
+        "country_code": "SG",
+        "asn": "139655",
+        "description": "Singcash Pte. Ltd.",
+        "handle": "SINGCASHPTELTD-AS-AP"
+    },
+    "139690": {
+        "country_code": "SG",
+        "asn": "139690",
+        "description": "DBS Bank Ltd",
+        "handle": "DBS-NET-1-AS-AP"
+    },
+    "139739": {
+        "country_code": "SG",
+        "asn": "139739",
+        "description": "Hsin Yi Pte Ltd",
+        "handle": "HSINYIPTELTD-AS-AP"
+    },
+    "139746": {
+        "country_code": "SG",
+        "asn": "139746",
+        "description": "FlexTrade Systems Pte Ltd",
+        "handle": "FSPL-AS-AP"
+    },
+    "139829": {
+        "country_code": "SG",
+        "asn": "139829",
+        "description": "RigNet Pte Ltd",
+        "handle": "RIGNET-AS-AU"
+    },
+    "139883": {
+        "country_code": "SG",
+        "asn": "139883",
+        "description": "SPTEL PTE. LTD.",
+        "handle": "SPTEL-AS-AP"
+    },
+    "139895": {
+        "country_code": "SG",
+        "asn": "139895",
+        "description": "Air Liquide Industrial Services Pte Ltd",
+        "handle": "AIRLIQUIDE-AS-AP"
+    },
+    "139896": {
+        "country_code": "SG",
+        "asn": "139896",
+        "description": "Flextronics International Ltd.",
+        "handle": "FLEX-SGD"
+    },
+    "140052": {
+        "country_code": "SG",
+        "asn": "140052",
+        "description": "Behenobe Trade Services Pte. Ltd.",
+        "handle": "BEHENOBE-AS-SG"
+    },
+    "140362": {
+        "country_code": "SG",
+        "asn": "140362",
+        "description": "DIGISIGMA PTE. LTD.",
+        "handle": "DIGISIGMAPTELTD-AS-AP"
+    },
+    "140577": {
+        "country_code": "SG",
+        "asn": "140577",
+        "description": "Ahrefs Pte Ltd",
+        "handle": "AHREFS-AS-AP"
+    },
+    "140578": {
+        "country_code": "SG",
+        "asn": "140578",
+        "description": "BNP Paribas",
+        "handle": "BNPP-AS-IN-MUM"
+    },
+    "140584": {
+        "country_code": "SG",
+        "asn": "140584",
+        "description": "Morgan Stanley Management Service (Singapore) Pte. Ltd",
+        "handle": "MS-IN-AS-AP"
+    },
+    "140590": {
+        "country_code": "SG",
+        "asn": "140590",
+        "description": "DGT Services Singapore PTE Ltd.",
+        "handle": "DSSPL-AS-AP"
+    },
+    "140592": {
+        "country_code": "SG",
+        "asn": "140592",
+        "description": "GOVERNMENT TECHNOLOGY AGENCY",
+        "handle": "GOVTECH-AS-WOG-NC"
+    },
+    "140605": {
+        "country_code": "SG",
+        "asn": "140605",
+        "description": "ShareInvestor Pte Ltd",
+        "handle": "SHAREINVESTOR-AS-AP"
+    },
+    "140610": {
+        "country_code": "SG",
+        "asn": "140610",
+        "description": "Bayer (South East Asia) Pte Ltd",
+        "handle": "CNB-AS-AP"
+    },
+    "140629": {
+        "country_code": "SG",
+        "asn": "140629",
+        "description": "Antarex Cyber Pte. Ltd.",
+        "handle": "ACPL-AS-AP"
+    },
+    "140661": {
+        "country_code": "SG",
+        "asn": "140661",
+        "description": "PSA Corporation Ltd",
+        "handle": "PSACORPORATIONLTD-AS-AP"
+    },
+    "140666": {
+        "country_code": "SG",
+        "asn": "140666",
+        "description": "ANY DIGITAL PTE. LTD.",
+        "handle": "ADPL-AS-AP"
+    },
+    "140677": {
+        "country_code": "SG",
+        "asn": "140677",
+        "description": "Group8 Cyber Pte. Ltd.",
+        "handle": "G8-AS-AP"
+    },
+    "140719": {
+        "country_code": "SG",
+        "asn": "140719",
+        "description": "1cloudstar Pte Ltd",
+        "handle": "M1PL-AS-AP"
+    },
+    "140845": {
+        "country_code": "SG",
+        "asn": "140845",
+        "description": "Threadneedle Investments Singapore (pte.) limited",
+        "handle": "TISL-AS-AP"
+    },
+    "140902": {
+        "country_code": "SG",
+        "asn": "140902",
+        "description": "Infatica Pte. Ltd",
+        "handle": "INFATICAPTELTD-AS-AP"
+    },
+    "140920": {
+        "country_code": "SG",
+        "asn": "140920",
+        "description": "HICLOUDS (SINGAPORE) PTE.LTD.",
+        "handle": "HICLOUDS-AS-AP"
+    },
+    "140928": {
+        "country_code": "SG",
+        "asn": "140928",
+        "description": "Starhub Ltd.",
+        "handle": "STARHUB-T20025A"
+    },
+    "140929": {
+        "country_code": "SG",
+        "asn": "140929",
+        "description": "Starhub Ltd.",
+        "handle": "STARHUB-T20025B"
+    },
+    "140939": {
+        "country_code": "SG",
+        "asn": "140939",
+        "description": "Tenpage Pte Ltd",
+        "handle": "TENPAGE-AS-AP"
+    },
+    "140982": {
+        "country_code": "SG",
+        "asn": "140982",
+        "description": "DCS1 Pte. Ltd.",
+        "handle": "DCS1PTELTD-AS-AP"
+    },
+    "141042": {
+        "country_code": "SG",
+        "asn": "141042",
+        "description": "DECATHLON SINGAPORE PTE. LTD.",
+        "handle": "DECATHLONSINGAPORE-AS-AP"
+    },
+    "141180": {
+        "country_code": "SG",
+        "asn": "141180",
+        "description": "HUAWEI INTERNATIONAL PTE. LTD.",
+        "handle": "HIPL-AS-AP"
+    },
+    "141190": {
+        "country_code": "SG",
+        "asn": "141190",
+        "description": "Jindun Technology PTE. Ltd.",
+        "handle": "JTPL-AS-AP"
+    },
+    "141205": {
+        "country_code": "SG",
+        "asn": "141205",
+        "description": "Maybank Securities Pte Ltd",
+        "handle": "MSPL-SG"
+    },
+    "141235": {
+        "country_code": "SG",
+        "asn": "141235",
+        "description": "PrimeXM Networks (Singapore) PTE. LTD",
+        "handle": "PNPL-AS-AP"
+    },
+    "141354": {
+        "country_code": "SG",
+        "asn": "141354",
+        "description": "TINREAT PTE. LTD.",
+        "handle": "TINREATPTELTD-AS-AP"
+    },
+    "141364": {
+        "country_code": "SG",
+        "asn": "141364",
+        "description": "Bayer (South East Asia) Pte Ltd",
+        "handle": "CNB-AS-JP"
+    },
+    "141367": {
+        "country_code": "SG",
+        "asn": "141367",
+        "description": "Bayer (South East Asia) Pte Ltd",
+        "handle": "CNB-AS-OSAKA"
+    },
+    "141379": {
+        "country_code": "SG",
+        "asn": "141379",
+        "description": "iShine Cloud Limited",
+        "handle": "ICL-AS-AP"
+    },
+    "141384": {
+        "country_code": "SG",
+        "asn": "141384",
+        "description": "Internet Society Asia Limited",
+        "handle": "ISAL-AS-AP"
+    },
+    "141389": {
+        "country_code": "SG",
+        "asn": "141389",
+        "description": "GOIP BUSINESS SOLUTION PTE. LTD.",
+        "handle": "GBSPL-AS-AP"
+    },
+    "141435": {
+        "country_code": "SG",
+        "asn": "141435",
+        "description": "Bayer (South East Asia) Pte Ltd",
+        "handle": "CNB-AS-AUS"
+    },
+    "141469": {
+        "country_code": "SG",
+        "asn": "141469",
+        "description": "Cargill Asia Pacific Holdings Pte Ltd",
+        "handle": "CAPHPL-AS-AP"
+    },
+    "141678": {
+        "country_code": "SG",
+        "asn": "141678",
+        "description": "Genesis Networks Pte Ltd",
+        "handle": "GNPL-AS-AP"
+    },
+    "141697": {
+        "country_code": "SG",
+        "asn": "141697",
+        "description": "CrimsonLogic Pte Ltd",
+        "handle": "CRIMSONLOGIC-AS-SG"
+    },
+    "141753": {
+        "country_code": "SG",
+        "asn": "141753",
+        "description": "CBC TECH INTERNATIONAL LTD.",
+        "handle": "CBCTIL-AS-AP"
+    },
+    "141760": {
+        "country_code": "SG",
+        "asn": "141760",
+        "description": "Mercedes-Benz Singapore Pte. Ltd.",
+        "handle": "MERCEDES-BENZ-AS-AP"
+    },
+    "141883": {
+        "country_code": "SG",
+        "asn": "141883",
+        "description": "BGPNET PTE. LTD.",
+        "handle": "BGPNETPTELTD-AS-AP"
+    },
+    "141995": {
+        "country_code": "SG",
+        "asn": "141995",
+        "description": "Contabo Asia Private Limited",
+        "handle": "CAPL-AS-AP"
+    },
+    "142002": {
+        "country_code": "SG",
+        "asn": "142002",
+        "description": "Scloud Pte Ltd",
+        "handle": "SCLOUDPTELTD-AS"
+    },
+    "142026": {
+        "country_code": "SG",
+        "asn": "142026",
+        "description": "ISMO Pte. Ltd.",
+        "handle": "ISMOPTELTD-AS-AP"
+    },
+    "142036": {
+        "country_code": "SG",
+        "asn": "142036",
+        "description": "Hosteons Pte. Ltd.",
+        "handle": "HOSTEONS-AS-AP"
+    },
+    "142066": {
+        "country_code": "SG",
+        "asn": "142066",
+        "description": "Northern Point Technology Private Limited",
+        "handle": "NPTPL-AS-AP"
+    },
+    "142110": {
+        "country_code": "SG",
+        "asn": "142110",
+        "description": "Northern Point Technology Private Limited",
+        "handle": "NPTPL-AS-AP"
+    },
+    "142119": {
+        "country_code": "SG",
+        "asn": "142119",
+        "description": "NEX CORPORATEIT PTE LTD",
+        "handle": "NEX-AS-AP"
+    },
+    "142138": {
+        "country_code": "SG",
+        "asn": "142138",
+        "description": "Eemont Private Limited",
+        "handle": "EEMONT1-AS-AP"
+    },
+    "142146": {
+        "country_code": "SG",
+        "asn": "142146",
+        "description": "SANDHILL SOLUTION PTE. LTD.",
+        "handle": "SANDHILL-AS-AP"
+    },
+    "142160": {
+        "country_code": "SG",
+        "asn": "142160",
+        "description": "JOYO TECHNOLOGY PTE. LTD.",
+        "handle": "JOYO-AS-AP"
+    },
+    "142227": {
+        "country_code": "SG",
+        "asn": "142227",
+        "description": "INFRATEL COMMUNICATIONS PTE. LTD.",
+        "handle": "ICPL-AS-AP"
+    },
+    "142250": {
+        "country_code": "SG",
+        "asn": "142250",
+        "description": "OVERSEA-CHINESE BANKING CORPORATION LIMITED",
+        "handle": "OBCL-AS-AP"
+    },
+    "142292": {
+        "country_code": "SG",
+        "asn": "142292",
+        "description": "NOVA TECHNOLOGY DEVELOPMENT (HONG KONG) LIMITED (SINGAPORE BRANCH)",
+        "handle": "NTDKB-AS-AP"
+    },
+    "142564": {
+        "country_code": "SG",
+        "asn": "142564",
+        "description": "Citibank NA Singapore Branch",
+        "handle": "CNSB-AS-AP"
+    },
+    "142565": {
+        "country_code": "SG",
+        "asn": "142565",
+        "description": "Bangmod Cloud Pte. Ltd.",
+        "handle": "BANGMODCLOUD-AS-AP"
+    },
+    "142624": {
+        "country_code": "SG",
+        "asn": "142624",
+        "description": "Morgan Stanley Management Service (Singapore) Pte. Ltd",
+        "handle": "MS-IN-AS-AP"
+    },
+    "142636": {
+        "country_code": "SG",
+        "asn": "142636",
+        "description": "SynOption Pte. Ltd.",
+        "handle": "SPLS-AS-AP"
+    },
+    "142637": {
+        "country_code": "SG",
+        "asn": "142637",
+        "description": "STAR FAX GROUP PTE LTD",
+        "handle": "SRFX-AS-AP"
+    },
+    "146962": {
+        "country_code": "SG",
+        "asn": "146962",
+        "description": "GATEWAY TECHNOLOGY DEVELOPMENT PTE. LTD.",
+        "handle": "GTDPL-AS-AP"
+    },
+    "147003": {
+        "country_code": "SG",
+        "asn": "147003",
+        "description": "ALLIANCE INTELLIGENT TECHNOLOGIES PTE. LTD.",
+        "handle": "AITPL-AS-AP"
+    },
+    "147188": {
+        "country_code": "SG",
+        "asn": "147188",
+        "description": "Rocket Network Pte. Ltd.",
+        "handle": "RNPL-AS-AP"
+    },
+    "148973": {
+        "country_code": "SG",
+        "asn": "148973",
+        "description": "EpicUp PTE LTD",
+        "handle": "EPICUPPTELTD-AS-AP"
+    },
+    "149008": {
+        "country_code": "SG",
+        "asn": "149008",
+        "description": "DE-CIX Singapore PTE LTD",
+        "handle": "DECIX-SIN-CUG-MAPS"
+    },
+    "149010": {
+        "country_code": "SG",
+        "asn": "149010",
+        "description": "Asia Server Host Pte. Ltd.",
+        "handle": "ASIA1-AS-AP"
+    },
+    "149040": {
+        "country_code": "SG",
+        "asn": "149040",
+        "description": "STARCLOUD GLOBAL PTE. LTD.",
+        "handle": "SGPL-AS-AP"
+    },
+    "149059": {
+        "country_code": "SG",
+        "asn": "149059",
+        "description": "Alpha Motion Pte Ltd",
+        "handle": "AMSPL-AS-AP"
+    },
+    "149167": {
+        "country_code": "SG",
+        "asn": "149167",
+        "description": "HUAWEI INTERNATIONAL PTE. LTD.",
+        "handle": "HIPL-AS-AP"
+    },
+    "149290": {
+        "country_code": "SG",
+        "asn": "149290",
+        "description": "Cloud Telecommunications (S) PTE. LTD.",
+        "handle": "CTPL-AS-AP"
+    },
+    "149291": {
+        "country_code": "SG",
+        "asn": "149291",
+        "description": "Cloud Telecommunications (S) PTE. LTD.",
+        "handle": "CTPL-IX-AS-AP"
+    },
+    "149431": {
+        "country_code": "SG",
+        "asn": "149431",
+        "description": "PricewaterhouseCoopers IT Services (Singapore) Pte. Ltd.",
+        "handle": "PISPL-AS-AP"
+    },
+    "149448": {
+        "country_code": "SG",
+        "asn": "149448",
+        "description": "Singapore Data Cloud PTE. LTD",
+        "handle": "SGDC-AS-AP"
+    },
+    "149493": {
+        "country_code": "SG",
+        "asn": "149493",
+        "description": "HRT SG PTE. LTD.",
+        "handle": "HRTSGPTELTD-AS-AP"
+    },
+    "149642": {
+        "country_code": "SG",
+        "asn": "149642",
+        "description": "Facebook Singapore Pte Ltd.",
+        "handle": "FACEBOOK-AS"
+    },
+    "149818": {
+        "country_code": "SG",
+        "asn": "149818",
+        "description": "COCOA ORIENTAL NETWORK (SINGAPORE) PTE. LTD.",
+        "handle": "CONPL-AS-AP"
+    },
+    "149981": {
+        "country_code": "SG",
+        "asn": "149981",
+        "description": "Edgenext Legend Dynasty Pte. Ltd.",
+        "handle": "ELD-AS-AP"
+    },
+    "150003": {
+        "country_code": "SG",
+        "asn": "150003",
+        "description": "RETN PTE. LTD.",
+        "handle": "RETNPTELTD-AS-AP"
+    },
+    "150006": {
+        "country_code": "SG",
+        "asn": "150006",
+        "description": "ALOI PTE. LTD.",
+        "handle": "ALOIPTELTD-AS-AP"
+    },
+    "150120": {
+        "country_code": "SG",
+        "asn": "150120",
+        "description": "BEST EDGE GLOBAL PTE.LTD.",
+        "handle": "BEGP-AS-AP"
+    },
+    "150157": {
+        "country_code": "SG",
+        "asn": "150157",
+        "description": "Cartrack",
+        "handle": "CARTRACK-AS-AP"
+    },
+    "150171": {
+        "country_code": "SG",
+        "asn": "150171",
+        "description": "DIGISIGMA PTE. LTD.",
+        "handle": "DIGISIGMAPTELTD-AS-AP"
+    },
+    "150183": {
+        "country_code": "SG",
+        "asn": "150183",
+        "description": "Infineon Technologies Asia Pacific Pte Ltd",
+        "handle": "INFINEON-AS-AP"
+    },
+    "150288": {
+        "country_code": "SG",
+        "asn": "150288",
+        "description": "METAGE TECHNOLOGY PTE. LTD.",
+        "handle": "METAGE-AS-AP"
+    },
+    "150317": {
+        "country_code": "SG",
+        "asn": "150317",
+        "description": "Northern Point Technology Private Limited",
+        "handle": "NPTPL-AS-AP"
+    },
+    "150326": {
+        "country_code": "SG",
+        "asn": "150326",
+        "description": "DESKTOPIP PTE. LTD.",
+        "handle": "DESKTOPIPPTELTD-AS-AP"
+    },
+    "150347": {
+        "country_code": "SG",
+        "asn": "150347",
+        "description": "Planisware Singapore Pte. Ltd",
+        "handle": "PLANISWARE-AS-AP"
+    },
+    "150353": {
+        "country_code": "SG",
+        "asn": "150353",
+        "description": "Brain Telco",
+        "handle": "BRAINTELCO-AS-AP"
+    },
+    "150378": {
+        "country_code": "SG",
+        "asn": "150378",
+        "description": "THE ADVENTUS CONSULTANTS PTE LTD",
+        "handle": "THE-AS-AP"
+    },
+    "150423": {
+        "country_code": "SG",
+        "asn": "150423",
+        "description": "Server Galactic Private Limited",
+        "handle": "SERVER-AS-AP"
+    },
+    "150432": {
+        "country_code": "SG",
+        "asn": "150432",
+        "description": "NTC Asia Limited",
+        "handle": "NTC-ASIA-AS-AP"
+    },
+    "150436": {
+        "country_code": "SG",
+        "asn": "150436",
+        "description": "Byteplus Pte. Ltd.",
+        "handle": "BYTEPLUS-AS-AP"
+    },
+    "150453": {
+        "country_code": "SG",
+        "asn": "150453",
+        "description": "IOT360 PTE.LTD",
+        "handle": "IOT360PTELTD-AS-AP"
+    },
+    "150725": {
+        "country_code": "SG",
+        "asn": "150725",
+        "description": "National University of Singapore",
+        "handle": "NUS-AS-AP"
+    },
+    "151053": {
+        "country_code": "SG",
+        "asn": "151053",
+        "description": "ASIA DIGITAL EXCHANGE PTE. LTD.",
+        "handle": "ADEPL-AS-AP"
+    },
+    "151059": {
+        "country_code": "SG",
+        "asn": "151059",
+        "description": "Etiqa Insurance Pte. Ltd",
+        "handle": "EIPL-AS-AP"
+    },
+    "151190": {
+        "country_code": "SG",
+        "asn": "151190",
+        "description": "Duke Host Pte. Ltd.",
+        "handle": "DUKEHOSTPTELTD-AS-AP"
+    },
+    "151209": {
+        "country_code": "SG",
+        "asn": "151209",
+        "description": "National University of Singapore",
+        "handle": "NUS-AS-AP"
+    },
+    "151326": {
+        "country_code": "SG",
+        "asn": "151326",
+        "description": "DCConnect Communication Pte. Ltd.",
+        "handle": "DCPL-AS-AP"
+    },
+    "151334": {
+        "country_code": "SG",
+        "asn": "151334",
+        "description": "Land Transport Authority",
+        "handle": "LTA-AS-AP"
+    },
+    "151358": {
+        "country_code": "SG",
+        "asn": "151358",
+        "description": "Finovy Pte. Ltd.",
+        "handle": "FPL-AS-AP"
+    },
+    "151361": {
+        "country_code": "SG",
+        "asn": "151361",
+        "description": "THE CUBICLEREBELS PTE LTD",
+        "handle": "TCPL-AS-AP"
+    },
+    "151399": {
+        "country_code": "SG",
+        "asn": "151399",
+        "description": "Herza Cloud",
+        "handle": "HERZA-AS-AP"
+    },
+    "151404": {
+        "country_code": "SG",
+        "asn": "151404",
+        "description": "3GO TECHNOLOGY PTE. LTD.",
+        "handle": "THREEGOTECHNOLOGY-AS-AP"
+    },
+    "151469": {
+        "country_code": "SG",
+        "asn": "151469",
+        "description": "CrimsonLogic Pte Ltd",
+        "handle": "CRIMSONLOGIC-AS-AP-INDIA"
+    },
+    "151481": {
+        "country_code": "SG",
+        "asn": "151481",
+        "description": "SINGAPORE SUNRISE FINTEC PTE. LTD.",
+        "handle": "SSFPL-AS-AP"
+    },
+    "151495": {
+        "country_code": "SG",
+        "asn": "151495",
+        "description": "Lelantos Pte Ltd",
+        "handle": "LELANTOSPTELTD-AS-AP"
+    },
+    "151609": {
+        "country_code": "SG",
+        "asn": "151609",
+        "description": "GREYWOLF NETWORKS PTE. LTD.",
+        "handle": "GREYWOLFNETWORKS-AS-AP"
+    },
+    "151610": {
+        "country_code": "SG",
+        "asn": "151610",
+        "description": "HUAWEI INTERNATIONAL PTE. LTD.",
+        "handle": "HIPL-AS-AP"
+    },
+    "151611": {
+        "country_code": "SG",
+        "asn": "151611",
+        "description": "FOOKSTAR TECH PTE. LTD.",
+        "handle": "FTPL-AS-AP"
+    },
+    "151644": {
+        "country_code": "SG",
+        "asn": "151644",
+        "description": "GLOBALTOO TECHNOLOGY PTE. LTD.",
+        "handle": "GTPL-AS-AP"
+    },
+    "151665": {
+        "country_code": "SG",
+        "asn": "151665",
+        "description": "GREYWOLF NETWORKS PTE. LTD.",
+        "handle": "GREYWOLFNETWORKS-AS-AP"
+    },
+    "151785": {
+        "country_code": "SG",
+        "asn": "151785",
+        "description": "Zhou Yang",
+        "handle": "ZHOU-AS-AP"
+    },
+    "151829": {
+        "country_code": "SG",
+        "asn": "151829",
+        "description": "DE-CIX ASIA PTE LTD",
+        "handle": "DECIXASIAPTELTD-AS-AP"
+    },
+    "151830": {
+        "country_code": "SG",
+        "asn": "151830",
+        "description": "Siemens Pte Ltd.",
+        "handle": "SIEMENSPTELTD-AS-AP-DI-SW"
+    },
+    "151836": {
+        "country_code": "SG",
+        "asn": "151836",
+        "description": "LINKCIRCLE SINGAPORE PTE LTD",
+        "handle": "LINKCIRCLE-AS-AP"
+    },
+    "151958": {
+        "country_code": "SG",
+        "asn": "151958",
+        "description": "Sorb Security PTE. LTD.",
+        "handle": "SORB-AS-AP"
+    },
+    "152091": {
+        "country_code": "SG",
+        "asn": "152091",
+        "description": "Defence Science Technology Agency",
+        "handle": "DSTA-DMZ-AS-AP"
+    },
+    "152143": {
+        "country_code": "SG",
+        "asn": "152143",
+        "description": "Firmus Metal Technologies Singapore Pte. Ltd",
+        "handle": "FMTSPL-AS-AP"
+    },
+    "152144": {
+        "country_code": "SG",
+        "asn": "152144",
+        "description": "LIGHTSTORM ASIA PTE. LTD.",
+        "handle": "LAPL-AS-AP"
+    },
+    "152166": {
+        "country_code": "SG",
+        "asn": "152166",
+        "description": "Hostsymbol Pte. Ltd.",
+        "handle": "HOSTSYMBOL2-AS-AP"
+    },
+    "152339": {
+        "country_code": "SG",
+        "asn": "152339",
+        "description": "EDGE CLOUD (SG) PTE. LTD.",
+        "handle": "ECPL-AS-AP"
+    },
+    "152475": {
+        "country_code": "SG",
+        "asn": "152475",
+        "description": "BGPNET PTE. LTD.",
+        "handle": "BGPNETPTELTD-AS-AP"
+    },
+    "152583": {
+        "country_code": "SG",
+        "asn": "152583",
+        "description": "TENNDA COMMUNICATION PTE.LTD.",
+        "handle": "TCP-AS-AP"
+    },
+    "152587": {
+        "country_code": "SG",
+        "asn": "152587",
+        "description": "DE-CIX ASIA PTE LTD",
+        "handle": "DECIX-JKT-MAPS"
+    },
+    "152666": {
+        "country_code": "SG",
+        "asn": "152666",
+        "description": "ICDN TELECOM PTE. LTD.",
+        "handle": "ICDN-AS-AP"
+    },
+    "152700": {
+        "country_code": "SG",
+        "asn": "152700",
+        "description": "NUUK COMMUNICATIONS PTE. LTD.",
+        "handle": "NUUK-AS-AP"
+    },
+    "152719": {
+        "country_code": "SG",
+        "asn": "152719",
+        "description": "UIT GLOBAL PTE. LTD.",
+        "handle": "UGPL-AS-AP"
+    },
+    "152903": {
+        "country_code": "SG",
+        "asn": "152903",
+        "description": "PSA Corporation Ltd",
+        "handle": "PSACORPORATIONLTD-AS-AP"
+    },
+    "153164": {
+        "country_code": "SG",
+        "asn": "153164",
+        "description": "ASIA CLOUD HOSTING",
+        "handle": "ASIACLOUDHOSTING-AS-AP"
+    },
+    "153201": {
+        "country_code": "SG",
+        "asn": "153201",
+        "description": "ZHONGCHOU PTE. LTD.",
+        "handle": "ZHONGCHOUPTELTD-AS-AP"
+    },
+    "153305": {
+        "country_code": "SG",
+        "asn": "153305",
+        "description": "Broadside Quanta Pte Ltd",
+        "handle": "BROADSIDE-AS-IN"
+    },
+    "153314": {
+        "country_code": "SG",
+        "asn": "153314",
+        "description": "NXERA SG PTE. LTD.",
+        "handle": "NXERASGPTELTD-AS-AP"
+    },
+    "153325": {
+        "country_code": "SG",
+        "asn": "153325",
+        "description": "Next Era Pte. Ltd.",
+        "handle": "NEXTERA-AS-AP"
+    },
+    "153454": {
+        "country_code": "SG",
+        "asn": "153454",
+        "description": "BYIO SINGAPORE PTE. LTD.",
+        "handle": "BSPL-AS-AP"
+    },
+    "153474": {
+        "country_code": "SG",
+        "asn": "153474",
+        "description": "HIGH FREQUENCY TRADING NETWORK PTE. LTD.",
+        "handle": "HFTNPL-AS-AP"
+    },
+    "153510": {
+        "country_code": "SG",
+        "asn": "153510",
+        "description": "EMERSON ASIA PACIFIC PRIVATE LIMITED",
+        "handle": "EAPPL-AS-AP"
+    },
+    "153529": {
+        "country_code": "SG",
+        "asn": "153529",
+        "description": "STARLIGHTS INFOCOMM PTE. LTD.",
+        "handle": "STARLIGHTS-AS-AP"
+    },
+    "153560": {
+        "country_code": "SG",
+        "asn": "153560",
+        "description": "STACKS NETWORK PTE. LTD.",
+        "handle": "STACKS-AS-AP"
+    },
+    "153594": {
+        "country_code": "SG",
+        "asn": "153594",
+        "description": "B3NETWORKS PTE. LTD.",
+        "handle": "B3NETWORKS-AS-AP"
+    },
+    "153599": {
+        "country_code": "SG",
+        "asn": "153599",
+        "description": "New Pos Network (S) Pte Ltd",
+        "handle": "NPNPL-AS-AP"
+    },
+    "153900": {
+        "country_code": "SG",
+        "asn": "153900",
+        "description": "EXPEDIA TRAVEL SINGAPORE PTE. LTD.",
+        "handle": "ETSPL-AS-AP"
+    },
+    "153906": {
+        "country_code": "SG",
+        "asn": "153906",
+        "description": "Three Media Private Limited",
+        "handle": "TMPL-AS-AP"
+    },
+    "154049": {
+        "country_code": "SG",
+        "asn": "154049",
+        "description": "EXA TECH PTE. LTD.",
+        "handle": "EXATECHPTELTD-AS-AP"
+    },
+    "154085": {
+        "country_code": "SG",
+        "asn": "154085",
+        "description": "National University of Singapore",
+        "handle": "NUS-AS-AP"
+    },
+    "154156": {
+        "country_code": "SG",
+        "asn": "154156",
+        "description": "NEUTRADC",
+        "handle": "NEUTRADC-AS-AP"
+    },
+    "154175": {
+        "country_code": "SG",
+        "asn": "154175",
+        "description": "Starview Technologies Pte. Ltd.",
+        "handle": "STARVIEW-AS-AP"
+    },
+    "154246": {
+        "country_code": "SG",
+        "asn": "154246",
+        "description": "ASSOCIATION OF SMALL & MEDIUM ENTERPRISES",
+        "handle": "AOSME-AS-AP"
+    },
+    "154316": {
+        "country_code": "SG",
+        "asn": "154316",
+        "description": "OVERSEA-CHINESE BANKING CORPORATION LIMITED",
+        "handle": "OBCL-AS-AP"
+    },
+    "154319": {
+        "country_code": "SG",
+        "asn": "154319",
+        "description": "OVERSEA-CHINESE BANKING CORPORATION LIMITED",
+        "handle": "OBCL-AS-AP"
+    },
+    "154324": {
+        "country_code": "SG",
+        "asn": "154324",
+        "description": "AltusCloud Pte. Ltd.",
+        "handle": "APL-AS-AP"
+    },
+    "154343": {
+        "country_code": "SG",
+        "asn": "154343",
+        "description": "AGILENAAS GLOBAL SERVICE PTE.LTD",
+        "handle": "AGILENAAS-AS-AP"
+    },
+    "154373": {
+        "country_code": "SG",
+        "asn": "154373",
+        "description": "Singapore Data Cloud Pte Ltd",
+        "handle": "SINGAPORE2-AS-AP"
+    },
+    "154392": {
+        "country_code": "SG",
+        "asn": "154392",
+        "description": "Singapore Institute of Technology",
+        "handle": "SIT-AS-AP"
+    },
+    "154438": {
+        "country_code": "SG",
+        "asn": "154438",
+        "description": "Superstify Technology Pte Ltd",
+        "handle": "SUPERSTIFY1-AS-AP"
+    },
+    "154469": {
+        "country_code": "SG",
+        "asn": "154469",
+        "description": "CHAIN CLOUD INFORMATION TECHNOLOGY PTE. LTD.",
+        "handle": "CCITPL-AS-AP"
+    },
+    "197537": {
+        "country_code": "SG",
+        "asn": "197537",
+        "description": "WISDOM CLOUD INTERNET TECHNOLOGY PTE. LTD.",
+        "handle": "WISDOM-CLOUD"
+    },
+    "200078": {
+        "country_code": "SG",
+        "asn": "200078",
+        "description": "Gao Yijia",
+        "handle": "AS-POTAT0"
+    },
+    "202274": {
+        "country_code": "SG",
+        "asn": "202274",
+        "description": "xTom Pte Ltd",
+        "handle": "XTOM-SG"
+    },
+    "202430": {
+        "country_code": "SG",
+        "asn": "202430",
+        "description": "Alarislabs Pte Ltd",
+        "handle": "ALARISLABS"
+    },
+    "202736": {
+        "country_code": "SG",
+        "asn": "202736",
+        "description": "WISDOM CLOUD INTERNET TECHNOLOGY PTE. LTD.",
+        "handle": "WISDOM"
+    },
+    "203513": {
+        "country_code": "SG",
+        "asn": "203513",
+        "description": "Alibaba Cloud (Singapore) Private Limited",
+        "handle": "ALIBABACLOUD"
+    },
+    "203548": {
+        "country_code": "SG",
+        "asn": "203548",
+        "description": "LONGYIN JIUXIAO TECHNOLOGY PTE. LTD.",
+        "handle": "LONGYIN-JIUXIAO"
+    },
+    "204936": {
+        "country_code": "SG",
+        "asn": "204936",
+        "description": "WISDOM CLOUD INTERNET TECHNOLOGY PTE. LTD.",
+        "handle": "WISDOM-TECHNOLOGY"
+    },
+    "205142": {
+        "country_code": "SG",
+        "asn": "205142",
+        "description": "Flex Ltd.",
+        "handle": "FLEX-AMF"
+    },
+    "205983": {
+        "country_code": "SG",
+        "asn": "205983",
+        "description": "INDE PTE LTD",
+        "handle": "INDE-PTE"
+    },
+    "206753": {
+        "country_code": "SG",
+        "asn": "206753",
+        "description": "PayPal Pvt Ltd",
+        "handle": "PAYPAL-EU"
+    },
+    "208959": {
+        "country_code": "SG",
+        "asn": "208959",
+        "description": "SlashN Services Pte. Ltd.",
+        "handle": "SG-SLASHN"
+    },
+    "209792": {
+        "country_code": "SG",
+        "asn": "209792",
+        "description": "Daan van Gorkum",
+        "handle": "DJVG"
+    },
+    "209942": {
+        "country_code": "SG",
+        "asn": "209942",
+        "description": "AIRGSM PTE. LTD",
+        "handle": "AIRALO"
+    },
+    "210205": {
+        "country_code": "SG",
+        "asn": "210205",
+        "description": "WIRKOLA PTE. LTD",
+        "handle": "WIRKOLA"
+    },
+    "211103": {
+        "country_code": "SG",
+        "asn": "211103",
+        "description": "BUNGATEL Pte. Ltd.",
+        "handle": "BUNGATEL-AS"
+    },
+    "211747": {
+        "country_code": "SG",
+        "asn": "211747",
+        "description": "HYPR PTE. LTD.",
+        "handle": "HYPR-NET"
+    },
+    "212628": {
+        "country_code": "SG",
+        "asn": "212628",
+        "description": "ARTRUBY PTE. LTD.",
+        "handle": "AS-ARTRUBY"
+    },
+    "212995": {
+        "country_code": "SG",
+        "asn": "212995",
+        "description": "HockWoo Tan",
+        "handle": "TAN-NET"
+    },
+    "213122": {
+        "country_code": "SG",
+        "asn": "213122",
+        "description": "Krixe Pte. Ltd.",
+        "handle": "HYONIX"
+    },
+    "213845": {
+        "country_code": "SG",
+        "asn": "213845",
+        "description": "Cylix Pte. Ltd.",
+        "handle": "CYLIX"
+    },
+    "213855": {
+        "country_code": "SG",
+        "asn": "213855",
+        "description": "CHAO YIN LOONG",
+        "handle": "NGLOOYIN"
+    },
+    "214766": {
+        "country_code": "SG",
+        "asn": "214766",
+        "description": "NUUK COMMUNICATIONS PTE. LTD.",
+        "handle": "NUUK-COMMUNICATIONS"
+    },
+    "215384": {
+        "country_code": "SG",
+        "asn": "215384",
+        "description": "Hostsymbol Pte. Ltd.",
+        "handle": "HOSTSYMBOL-FR"
+    },
+    "215554": {
+        "country_code": "SG",
+        "asn": "215554",
+        "description": "ALTUSCLOUD PTE. LTD",
+        "handle": "ALTUS"
+    },
+    "216245": {
+        "country_code": "SG",
+        "asn": "216245",
+        "description": "CYBERJET PTE. LTD.",
+        "handle": "CYBERJET"
+    },
+    "394260": {
+        "country_code": "SG",
+        "asn": "394260",
+        "description": "Verizon Asia Pte Limited",
+        "handle": "VERIZON-ASIA-PTE-LIMITED"
+    },
+    "399114": {
+        "country_code": "SG",
+        "asn": "399114",
+        "description": "Hyonix",
+        "handle": "HYONIX-EDGE"
+    },
+    "400061": {
+        "country_code": "SG",
+        "asn": "400061",
+        "description": "Hyonix",
+        "handle": "IGNERO"
+    },
+    "401556": {
+        "country_code": "SG",
+        "asn": "401556",
+        "description": "VINAGPU LLC",
+        "handle": "VINAGPU"
+    },
+    "401581": {
+        "country_code": "SG",
+        "asn": "401581",
+        "description": "Infolink Technologies LLC",
+        "handle": "INFOL"
+    }
+}

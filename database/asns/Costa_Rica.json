@@ -1,0 +1,734 @@
+{
+    "2146": {
+        "country_code": "CR",
+        "asn": "2146",
+        "description": "CRNet: Red Nacional de Investigaci\u00f3n de C.R.",
+        "handle": "CRNET-RED-NACIONAL"
+    },
+    "3790": {
+        "country_code": "CR",
+        "asn": "3790",
+        "description": "RADIOGRAFICA COSTARRICENSE",
+        "handle": "RADIOGRAFICA-COSTARRICENSE"
+    },
+    "11830": {
+        "country_code": "CR",
+        "asn": "11830",
+        "description": "Instituto Costarricense de Electricidad y Telecom",
+        "handle": "INSTITUTO-COSTARRICENSE-ELECTRICIDAD"
+    },
+    "16973": {
+        "country_code": "CR",
+        "asn": "16973",
+        "description": "T-Four Services S.A",
+        "handle": "T-FOUR-SERVICES"
+    },
+    "17182": {
+        "country_code": "CR",
+        "asn": "17182",
+        "description": "ISP Proveedora S.A.",
+        "handle": "ISP-PROVEEDORA"
+    },
+    "17376": {
+        "country_code": "CR",
+        "asn": "17376",
+        "description": "Laissez Faire City",
+        "handle": "LAISSEZ-FAIRE-CITY"
+    },
+    "18998": {
+        "country_code": "CR",
+        "asn": "18998",
+        "description": "Credomatic",
+        "handle": "CREDOMATIC"
+    },
+    "27876": {
+        "country_code": "CR",
+        "asn": "27876",
+        "description": "American Data Networks",
+        "handle": "AMERICAN-DATA-NETWORKS"
+    },
+    "27908": {
+        "country_code": "CR",
+        "asn": "27908",
+        "description": "Tracity Inc.",
+        "handle": "TRACITY"
+    },
+    "28022": {
+        "country_code": "CR",
+        "asn": "28022",
+        "description": "CRISP S.A.",
+        "handle": "CRISP"
+    },
+    "28050": {
+        "country_code": "CR",
+        "asn": "28050",
+        "description": "ADN Solutions S.A. (Rokru Int.)",
+        "handle": "ADN-SOLUTIONS"
+    },
+    "28081": {
+        "country_code": "CR",
+        "asn": "28081",
+        "description": "Instituto Costarricense de Electricidad y Telecom",
+        "handle": "INSTITUTO-COSTARRICENSE-ELECTRICIDAD"
+    },
+    "28086": {
+        "country_code": "CR",
+        "asn": "28086",
+        "description": "Worldcom de Costa Rica S.A.",
+        "handle": "WORLDCOM-COSTA-RICA"
+    },
+    "28110": {
+        "country_code": "CR",
+        "asn": "28110",
+        "description": "NAVEGALO S.A.",
+        "handle": "NAVEGALO"
+    },
+    "28317": {
+        "country_code": "CR",
+        "asn": "28317",
+        "description": "NAVEGALO S.A.",
+        "handle": "NAVEGALO"
+    },
+    "52228": {
+        "country_code": "CR",
+        "asn": "52228",
+        "description": "Cable Tica",
+        "handle": "CABLE-TICA"
+    },
+    "52263": {
+        "country_code": "CR",
+        "asn": "52263",
+        "description": "Telecable Economico S.A.",
+        "handle": "TELECABLE-ECONOMICO"
+    },
+    "52342": {
+        "country_code": "CR",
+        "asn": "52342",
+        "description": "Critical Colocation S.A.",
+        "handle": "CRITICAL-COLOCATION"
+    },
+    "52356": {
+        "country_code": "CR",
+        "asn": "52356",
+        "description": "R&H International Telecom Services SA.",
+        "handle": "R-H-INTERNATIONAL"
+    },
+    "52385": {
+        "country_code": "CR",
+        "asn": "52385",
+        "description": "Academia Nacional de Ciencias",
+        "handle": "ACADEMIA-NACIONAL-CIENCIAS"
+    },
+    "52392": {
+        "country_code": "CR",
+        "asn": "52392",
+        "description": "Grupo Telco de Centroamerica S.A.",
+        "handle": "GRUPO-TELCO-CENTROAMERICA"
+    },
+    "52395": {
+        "country_code": "CR",
+        "asn": "52395",
+        "description": "Multiflex Payment Services Ltda",
+        "handle": "MULTIFLEX-PAYMENT-SERVICES"
+    },
+    "52408": {
+        "country_code": "CR",
+        "asn": "52408",
+        "description": "Itech Soluciones S.A",
+        "handle": "ITECH-SOLUCIONES"
+    },
+    "52423": {
+        "country_code": "CR",
+        "asn": "52423",
+        "description": "Data Miners S.A. ( Racknation.cr )",
+        "handle": "DATA-MINERS"
+    },
+    "52429": {
+        "country_code": "CR",
+        "asn": "52429",
+        "description": "BAC LATAM SSC SOCIEDAD ANONIMA",
+        "handle": "BAC-LATAM-SSC-SOCIEDAD-ANONIMA"
+    },
+    "52463": {
+        "country_code": "CR",
+        "asn": "52463",
+        "description": "Banco Nacional de Costa Rica (BNCR)",
+        "handle": "BANCO-NACIONAL-COSTA-RICA"
+    },
+    "52470": {
+        "country_code": "CR",
+        "asn": "52470",
+        "description": "CONARE",
+        "handle": "CONARE"
+    },
+    "52476": {
+        "country_code": "CR",
+        "asn": "52476",
+        "description": "P.R.D. Internacional",
+        "handle": "PRD-INTERNACIONAL"
+    },
+    "61462": {
+        "country_code": "CR",
+        "asn": "61462",
+        "description": "Ufinet Costa Rica S. A.",
+        "handle": "UFINET-COSTA-RICA-S-A"
+    },
+    "61464": {
+        "country_code": "CR",
+        "asn": "61464",
+        "description": "BADJELLY S.A.",
+        "handle": "BADJELLY"
+    },
+    "61479": {
+        "country_code": "CR",
+        "asn": "61479",
+        "description": "Dole Shared Services Limited",
+        "handle": "DOLE-SHARED-SERVICES-LIMITED"
+    },
+    "61489": {
+        "country_code": "CR",
+        "asn": "61489",
+        "description": "SISTEMAS EDENIA INTERNACIONAL S.A.",
+        "handle": "SISTEMAS-EDENIA-INTERNACIONAL"
+    },
+    "64102": {
+        "country_code": "CR",
+        "asn": "64102",
+        "description": "Oracle Corporation",
+        "handle": "ORACLE-CORPORATION"
+    },
+    "262145": {
+        "country_code": "CR",
+        "asn": "262145",
+        "description": "Cooperativa de Electrificaci\u00f3n Rural de San Carlos R.L. (Coopelesca R.L.)",
+        "handle": "COOPERATIVA-ELECTRIFICACION-RURAL"
+    },
+    "262149": {
+        "country_code": "CR",
+        "asn": "262149",
+        "description": "Sistemas Fratec S.A.",
+        "handle": "SISTEMAS-FRATEC"
+    },
+    "262152": {
+        "country_code": "CR",
+        "asn": "262152",
+        "description": "Banco de Costa Rica",
+        "handle": "BANCO-COSTA-RICA"
+    },
+    "262171": {
+        "country_code": "CR",
+        "asn": "262171",
+        "description": "Telecom Logistics S.A.",
+        "handle": "TELECOM-LOGISTICS"
+    },
+    "262172": {
+        "country_code": "CR",
+        "asn": "262172",
+        "description": "Claro CR Telecomunicaciones S.A.",
+        "handle": "CLARO-CR-TELECOMUNICACIONES"
+    },
+    "262184": {
+        "country_code": "CR",
+        "asn": "262184",
+        "description": "GRUPO KONECTIVA LATAM S.A",
+        "handle": "GRUPO-KONECTIVA-LATAM"
+    },
+    "262197": {
+        "country_code": "CR",
+        "asn": "262197",
+        "description": "MILLICOM CABLE COSTA RICA S.A.",
+        "handle": "MILLICOM-CABLE-COSTA-RICA"
+    },
+    "262202": {
+        "country_code": "CR",
+        "asn": "262202",
+        "description": "Telefonica de Costa Rica TC SA",
+        "handle": "TELEFONICA-COSTA-RICA-TC"
+    },
+    "262217": {
+        "country_code": "CR",
+        "asn": "262217",
+        "description": "Telecable Economico S.A.",
+        "handle": "TELECABLE-ECONOMICO"
+    },
+    "262241": {
+        "country_code": "CR",
+        "asn": "262241",
+        "description": "COOPERATIVA DE ELECTRIFICACION RURAL DE ALFARO RUIZ R.L.",
+        "handle": "COOPERATIVA-ELECTRIFICACION-RURAL"
+    },
+    "262242": {
+        "country_code": "CR",
+        "asn": "262242",
+        "description": "Ufinet Costa Rica S. A.",
+        "handle": "UFINET-COSTA-RICA-S-A"
+    },
+    "262252": {
+        "country_code": "CR",
+        "asn": "262252",
+        "description": "Servicios Technologicos Antares de Costa Rica S.A.",
+        "handle": "SERVICIOS-TECHNOLOGICOS-ANTARES"
+    },
+    "263220": {
+        "country_code": "CR",
+        "asn": "263220",
+        "description": "BANCO PROMERICA COSTA RICA",
+        "handle": "BANCO-PROMERICA-COSTA-RICA"
+    },
+    "263232": {
+        "country_code": "CR",
+        "asn": "263232",
+        "description": "ESPH.SA",
+        "handle": "ESPHSA"
+    },
+    "263246": {
+        "country_code": "CR",
+        "asn": "263246",
+        "description": "Metrowireless Solutions de Costa Rica SA",
+        "handle": "METROWIRELESS-SOLUTIONS-COSTA"
+    },
+    "263248": {
+        "country_code": "CR",
+        "asn": "263248",
+        "description": "GCI SERVICE PROVIDER S.A.",
+        "handle": "GCI-SERVICE-PROVIDER"
+    },
+    "263683": {
+        "country_code": "CR",
+        "asn": "263683",
+        "description": "Universidad de Costa Rica",
+        "handle": "UNIVERSIDAD-COSTA-RICA"
+    },
+    "263698": {
+        "country_code": "CR",
+        "asn": "263698",
+        "description": "TRANSDATELECOM S.A",
+        "handle": "TRANSDATELECOM"
+    },
+    "263713": {
+        "country_code": "CR",
+        "asn": "263713",
+        "description": "Server Lodge S.A.",
+        "handle": "SERVER-LODGE"
+    },
+    "263749": {
+        "country_code": "CR",
+        "asn": "263749",
+        "description": "Junta Administrativa del Servicio El\u00e9ctrico Municipal de Cartago(JASEC)",
+        "handle": "JUNTA-ADMINISTRATIVA-SERVICIO"
+    },
+    "263762": {
+        "country_code": "CR",
+        "asn": "263762",
+        "description": "COOPERATIVA DE ELECTRIFICACI\u00d3N RURAL DE GUANACASTE R.L.",
+        "handle": "COOPERATIVA-ELECTRIFICACION-RURAL"
+    },
+    "263779": {
+        "country_code": "CR",
+        "asn": "263779",
+        "description": "Academia Nacional de Ciencias",
+        "handle": "ACADEMIA-NACIONAL-CIENCIAS"
+    },
+    "263785": {
+        "country_code": "CR",
+        "asn": "263785",
+        "description": "COLUMBUS NETWORKS DE COSTA RICA SOCIEDAD DE RESPONSABILIDAD LIMITADA",
+        "handle": "COLUMBUS-NETWORKS-COSTA"
+    },
+    "263796": {
+        "country_code": "CR",
+        "asn": "263796",
+        "description": "NAVEGALO S.A.",
+        "handle": "NAVEGALO"
+    },
+    "263831": {
+        "country_code": "CR",
+        "asn": "263831",
+        "description": "Contraloria General de la Republica",
+        "handle": "CONTRALORIA-GENERAL"
+    },
+    "263832": {
+        "country_code": "CR",
+        "asn": "263832",
+        "description": "GREEN JAL INVESTMENTS S.A.",
+        "handle": "GREEN-JAL-INVESTMENTS"
+    },
+    "264615": {
+        "country_code": "CR",
+        "asn": "264615",
+        "description": "INASOL INAL\u00c1MBRICA SOLUCIONES S.A.",
+        "handle": "INASOL-INALAMBRICA-SOLUCIONES"
+    },
+    "264621": {
+        "country_code": "CR",
+        "asn": "264621",
+        "description": "BLUE SAT SERVICIOS ADMINISTRADOS DE TELECOMUNICACIONES SA",
+        "handle": "BLUE-SAT-SERVICIOS"
+    },
+    "264644": {
+        "country_code": "CR",
+        "asn": "264644",
+        "description": "INFORMATION TECHNOLOGIES OUTSOURCING",
+        "handle": "INFORMATION-TECHNOLOGIES-OUTSOURCING"
+    },
+    "264654": {
+        "country_code": "CR",
+        "asn": "264654",
+        "description": "FIBERNET",
+        "handle": "FIBERNET"
+    },
+    "264686": {
+        "country_code": "CR",
+        "asn": "264686",
+        "description": "STREET FIBER S.A.",
+        "handle": "STREET-FIBER"
+    },
+    "264763": {
+        "country_code": "CR",
+        "asn": "264763",
+        "description": "RACKNATION S.A.",
+        "handle": "RACKNATION"
+    },
+    "264820": {
+        "country_code": "CR",
+        "asn": "264820",
+        "description": "COREBASES S.A",
+        "handle": "COREBASES"
+    },
+    "265636": {
+        "country_code": "CR",
+        "asn": "265636",
+        "description": "CoopeSantos R.L.",
+        "handle": "COOPESANTOS-RL"
+    },
+    "265766": {
+        "country_code": "CR",
+        "asn": "265766",
+        "description": "NAVEGALO S.A.",
+        "handle": "NAVEGALO"
+    },
+    "265797": {
+        "country_code": "CR",
+        "asn": "265797",
+        "description": "TICARIBE S.A.",
+        "handle": "TICARIBE"
+    },
+    "265873": {
+        "country_code": "CR",
+        "asn": "265873",
+        "description": "FIBER TO THE HOME FTTH SA",
+        "handle": "FIBER-TO-THE-HOME-FTTH"
+    },
+    "266665": {
+        "country_code": "CR",
+        "asn": "266665",
+        "description": "IDEAS GLORIS SOCIEDAD AN\u00d3NIMA",
+        "handle": "IDEAS-GLORIS-SOCIEDAD-ANONIMA"
+    },
+    "266717": {
+        "country_code": "CR",
+        "asn": "266717",
+        "description": "Academia Nacional de Ciencias",
+        "handle": "ACADEMIA-NACIONAL-CIENCIAS"
+    },
+    "266718": {
+        "country_code": "CR",
+        "asn": "266718",
+        "description": "Academia Nacional de Ciencias",
+        "handle": "ACADEMIA-NACIONAL-CIENCIAS"
+    },
+    "266719": {
+        "country_code": "CR",
+        "asn": "266719",
+        "description": "Academia Nacional de Ciencias",
+        "handle": "ACADEMIA-NACIONAL-CIENCIAS"
+    },
+    "266720": {
+        "country_code": "CR",
+        "asn": "266720",
+        "description": "VMWARE COSTA RICA LIMITADA",
+        "handle": "VMWARE-COSTA-RICA-LIMITADA"
+    },
+    "266746": {
+        "country_code": "CR",
+        "asn": "266746",
+        "description": "CONTINUM DATACENTER SOCIEDAD ANONIMA",
+        "handle": "CONTINUM-DATACENTER-SOCIEDAD"
+    },
+    "266853": {
+        "country_code": "CR",
+        "asn": "266853",
+        "description": "Comunicaciones Metropolitanas METROCOM S.A.",
+        "handle": "COMUNICACIONES-METROPOLITANAS-METROCOM"
+    },
+    "266875": {
+        "country_code": "CR",
+        "asn": "266875",
+        "description": "WIMAX NETWORKS SRL",
+        "handle": "WIMAX-NETWORKS"
+    },
+    "266882": {
+        "country_code": "CR",
+        "asn": "266882",
+        "description": "COSTA NET SOCIEDAD ANONIMA",
+        "handle": "COSTA-NET-SOCIEDAD-ANONIMA"
+    },
+    "266907": {
+        "country_code": "CR",
+        "asn": "266907",
+        "description": "DEWCOM SYSTEMS S.A",
+        "handle": "DEWCOM-SYSTEMS"
+    },
+    "267692": {
+        "country_code": "CR",
+        "asn": "267692",
+        "description": "UNIVERSIDAD NACIONAL",
+        "handle": "UNIVERSIDAD-NACIONAL"
+    },
+    "267698": {
+        "country_code": "CR",
+        "asn": "267698",
+        "description": "COMUNICACION CONSTANTE S.A",
+        "handle": "COMUNICACION-CONSTANTE"
+    },
+    "267740": {
+        "country_code": "CR",
+        "asn": "267740",
+        "description": "UNIVERSIDAD U LATINA SRL",
+        "handle": "UNIVERSIDAD-U-LATINA"
+    },
+    "267744": {
+        "country_code": "CR",
+        "asn": "267744",
+        "description": "SMILE DIRECT CLUB S.A",
+        "handle": "SMILE-DIRECT-CLUB"
+    },
+    "267858": {
+        "country_code": "CR",
+        "asn": "267858",
+        "description": "COMUNICACIONES TELEFONICAS TICOLINEA S.A",
+        "handle": "COMUNICACIONES-TELEFONICAS-TICOLINEA"
+    },
+    "269787": {
+        "country_code": "CR",
+        "asn": "269787",
+        "description": "ASOCIACION CAMARA DE INFOCOMUNICACION Y TECNOLOGIA",
+        "handle": "ASOCIACION-CAMARA-INFOCOMUNICACION"
+    },
+    "269841": {
+        "country_code": "CR",
+        "asn": "269841",
+        "description": "COMNET TELECOM CRP S.A.",
+        "handle": "COMNET-TELECOM-CRP"
+    },
+    "269863": {
+        "country_code": "CR",
+        "asn": "269863",
+        "description": "TELECARRIER TECHNOLOGY SRL",
+        "handle": "TELECARRIER-TECHNOLOGY"
+    },
+    "269884": {
+        "country_code": "CR",
+        "asn": "269884",
+        "description": "ENTERPRISE WIRELESS SOLUTIONS SOCIEDAD DE RESPONSABILIDAD LIMITADA",
+        "handle": "ENTERPRISE-WIRELESS-SOLUTIONS"
+    },
+    "270058": {
+        "country_code": "CR",
+        "asn": "270058",
+        "description": "CABLE CENTRO SOCIEDAD ANONIMA",
+        "handle": "CABLE-CENTRO-SOCIEDAD-ANONIMA"
+    },
+    "270087": {
+        "country_code": "CR",
+        "asn": "270087",
+        "description": "COMUNICACION CONSTANTE S.A",
+        "handle": "COMUNICACION-CONSTANTE"
+    },
+    "271847": {
+        "country_code": "CR",
+        "asn": "271847",
+        "description": "GRID TECHNOLOGY SRL",
+        "handle": "GRID-TECHNOLOGY"
+    },
+    "271889": {
+        "country_code": "CR",
+        "asn": "271889",
+        "description": "FIBRAENCASA SOCIEDAD ANONIMA",
+        "handle": "FIBRAENCASA-SOCIEDAD-ANONIMA"
+    },
+    "271891": {
+        "country_code": "CR",
+        "asn": "271891",
+        "description": "UNIVERSIDAD ESTATAL A DISTANCIA",
+        "handle": "UNIVERSIDAD-ESTATAL-DISTANCIA"
+    },
+    "271960": {
+        "country_code": "CR",
+        "asn": "271960",
+        "description": "MIRA NETWORKS SOCIEDAD DE RESPONSABILIDAD LIMITADA",
+        "handle": "MIRA-NETWORKS-SOCIEDAD"
+    },
+    "271972": {
+        "country_code": "CR",
+        "asn": "271972",
+        "description": "BNET LATINOAMERICA SRL",
+        "handle": "BNET-LATINOAMERICA"
+    },
+    "271999": {
+        "country_code": "CR",
+        "asn": "271999",
+        "description": "CONTROLNET SOCIEDAD ANONIMA",
+        "handle": "CONTROLNET-SOCIEDAD-ANONIMA"
+    },
+    "272000": {
+        "country_code": "CR",
+        "asn": "272000",
+        "description": "CR SIG SMART INVESTMENTS GROUP SOCIEDAD ANONIMA",
+        "handle": "CR-SIG-SMART"
+    },
+    "272023": {
+        "country_code": "CR",
+        "asn": "272023",
+        "description": "UNIVERSIDAD TECNICA NACIONAL",
+        "handle": "UNIVERSIDAD-TECNICA-NACIONAL"
+    },
+    "272108": {
+        "country_code": "CR",
+        "asn": "272108",
+        "description": "ADMINTEK S.A.",
+        "handle": "ADMINTEK"
+    },
+    "272130": {
+        "country_code": "CR",
+        "asn": "272130",
+        "description": "BAC LATAM SSC SOCIEDAD ANONIMA",
+        "handle": "BAC-LATAM-SSC-SOCIEDAD-ANONIMA"
+    },
+    "272821": {
+        "country_code": "CR",
+        "asn": "272821",
+        "description": "VMWARE COSTA RICA LIMITADA",
+        "handle": "VMWARE-COSTA-RICA-LIMITADA"
+    },
+    "272888": {
+        "country_code": "CR",
+        "asn": "272888",
+        "description": "CABLE VICTORIA S.A.",
+        "handle": "CABLE-VICTORIA"
+    },
+    "272900": {
+        "country_code": "CR",
+        "asn": "272900",
+        "description": "MDBA NETWORKS SOCIEDAD DE RESPONSABILIDAD LIMITADA",
+        "handle": "MDBA-NETWORKS-SOCIEDAD"
+    },
+    "273139": {
+        "country_code": "CR",
+        "asn": "273139",
+        "description": "RED Y COMUNICACIONES REYCOM DEL SUR SOCIEDAD ANONIMA",
+        "handle": "RED-COMUNICACIONES-REYCOM"
+    },
+    "273147": {
+        "country_code": "CR",
+        "asn": "273147",
+        "description": "MUNICIPALIDAD DE CARRILLO GUANACASTE",
+        "handle": "MUNICIPALIDAD-CARRILLO-GUANACASTE"
+    },
+    "273213": {
+        "country_code": "CR",
+        "asn": "273213",
+        "description": "NAVEGALO S.A.",
+        "handle": "NAVEGALO"
+    },
+    "273214": {
+        "country_code": "CR",
+        "asn": "273214",
+        "description": "NAVEGALO S.A.",
+        "handle": "NAVEGALO"
+    },
+    "273215": {
+        "country_code": "CR",
+        "asn": "273215",
+        "description": "NAVEGALO S.A.",
+        "handle": "NAVEGALO"
+    },
+    "273216": {
+        "country_code": "CR",
+        "asn": "273216",
+        "description": "NAVEGALO S.A.",
+        "handle": "NAVEGALO"
+    },
+    "273830": {
+        "country_code": "CR",
+        "asn": "273830",
+        "description": "CABLE CARIBE S.A.",
+        "handle": "CABLE-CARIBE"
+    },
+    "273929": {
+        "country_code": "CR",
+        "asn": "273929",
+        "description": "LOQUITECK SOCIEDAD DE RESPONSABILIDAD LIMITADA",
+        "handle": "LOQUITECK-SOCIEDAD-RESPONSABILIDAD"
+    },
+    "273939": {
+        "country_code": "CR",
+        "asn": "273939",
+        "description": "RACKNATION S.A.",
+        "handle": "RACKNATION"
+    },
+    "273987": {
+        "country_code": "CR",
+        "asn": "273987",
+        "description": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
+        "handle": "BANCO-POPULAR-DESARROLLO"
+    },
+    "274016": {
+        "country_code": "CR",
+        "asn": "274016",
+        "description": "Terramix S.A.",
+        "handle": "TERRAMIX"
+    },
+    "274032": {
+        "country_code": "CR",
+        "asn": "274032",
+        "description": "SERVICIOS FEMAROCA TV SOCIEDAD ANONIMA",
+        "handle": "SERVICIOS-FEMAROCA-TV"
+    },
+    "274079": {
+        "country_code": "CR",
+        "asn": "274079",
+        "description": "ANTARES WIFI SOCIEDAD ANONIMA",
+        "handle": "ANTARES-WIFI-SOCIEDAD-ANONIMA"
+    },
+    "274108": {
+        "country_code": "CR",
+        "asn": "274108",
+        "description": "CABLE VISION DE OCCIDENTE SOCIEDAD ANONIMA",
+        "handle": "CABLE-VISION-OCCIDENTE"
+    },
+    "274133": {
+        "country_code": "CR",
+        "asn": "274133",
+        "description": "Tribunal Supremo de Elecciones",
+        "handle": "TRIBUNAL-SUPREMO-ELECCIONES"
+    },
+    "274158": {
+        "country_code": "CR",
+        "asn": "274158",
+        "description": "CINEMA TURRIALBA SOCIEDAD ANONIMA",
+        "handle": "CINEMA-TURRIALBA-SOCIEDAD"
+    },
+    "274194": {
+        "country_code": "CR",
+        "asn": "274194",
+        "description": "CONSORCIO NACIONAL DE EMPRESAS DE ELECTRIFICACION DE C.R. RL",
+        "handle": "CONSORCIO-NACIONAL-EMPRESAS"
+    },
+    "274239": {
+        "country_code": "CR",
+        "asn": "274239",
+        "description": "RING CENTRALES DE COSTA RICA SOCIEDAD ANONIMA",
+        "handle": "RING-CENTRALES-COSTA"
+    }
+}

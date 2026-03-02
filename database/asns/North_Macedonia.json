@@ -1,0 +1,410 @@
+{
+    "5379": {
+        "country_code": "MK",
+        "asn": "5379",
+        "description": "Univerzitet Sv. Kiril i Metodij",
+        "handle": "MK-UKIM-1"
+    },
+    "5581": {
+        "country_code": "MK",
+        "asn": "5581",
+        "description": "INTERSPACE DOOEL Skopje",
+        "handle": "INTERSPACE-AS-GLOBAL"
+    },
+    "6821": {
+        "country_code": "MK",
+        "asn": "6821",
+        "description": "Makedonski Telekom AD-Skopje",
+        "handle": "MT-AS-OWN"
+    },
+    "8830": {
+        "country_code": "MK",
+        "asn": "8830",
+        "description": "UltraNet d.o.o.",
+        "handle": "UNET-AS-MK"
+    },
+    "9172": {
+        "country_code": "MK",
+        "asn": "9172",
+        "description": "Company for Computer Services and Trade MOL KOMUNIKACII DOOEL Skopje LLC",
+        "handle": "MK-MOL-AS"
+    },
+    "16333": {
+        "country_code": "MK",
+        "asn": "16333",
+        "description": "Company for communications services A1 Makedonija DOOEL Skopje",
+        "handle": "A1MK-AS16333"
+    },
+    "34547": {
+        "country_code": "MK",
+        "asn": "34547",
+        "description": "TELESMART TELEKOM DOO",
+        "handle": "TELESMART-AS"
+    },
+    "34772": {
+        "country_code": "MK",
+        "asn": "34772",
+        "description": "NEOTEL AD Skopje",
+        "handle": "NEOTEL-AS-MK"
+    },
+    "39766": {
+        "country_code": "MK",
+        "asn": "39766",
+        "description": "TRD Net Kabel",
+        "handle": "NETKABEL-AS"
+    },
+    "41557": {
+        "country_code": "MK",
+        "asn": "41557",
+        "description": "Drustvo za telekomunikaciski uslugi TELEKABEL DOOEL Stip",
+        "handle": "TELEKABEL-AS"
+    },
+    "42133": {
+        "country_code": "MK",
+        "asn": "42133",
+        "description": "EVN Electric Power Company of Macedonia AD Skopje",
+        "handle": "EVNMK"
+    },
+    "43227": {
+        "country_code": "MK",
+        "asn": "43227",
+        "description": "Makpetrol AD Skopje",
+        "handle": "MAKPETROL-AS-MK"
+    },
+    "43452": {
+        "country_code": "MK",
+        "asn": "43452",
+        "description": "TELENET KOM DOO",
+        "handle": "TELENET-AS"
+    },
+    "43494": {
+        "country_code": "MK",
+        "asn": "43494",
+        "description": "Company for communications services A1 Makedonija DOOEL Skopje",
+        "handle": "A1MK-AS43494"
+    },
+    "43612": {
+        "country_code": "MK",
+        "asn": "43612",
+        "description": "Company for communications services A1 Makedonija DOOEL Skopje",
+        "handle": "A1MK-AS43612"
+    },
+    "44021": {
+        "country_code": "MK",
+        "asn": "44021",
+        "description": "Drustvo za telekomunikaciski uslugi TELEKABEL DOOEL Stip",
+        "handle": "INFEL-AS"
+    },
+    "44118": {
+        "country_code": "MK",
+        "asn": "44118",
+        "description": "BalkanTel DOO",
+        "handle": "BKTEL"
+    },
+    "44224": {
+        "country_code": "MK",
+        "asn": "44224",
+        "description": "Macedonian Academic Research Network Skopje",
+        "handle": "MARNET"
+    },
+    "44566": {
+        "country_code": "MK",
+        "asn": "44566",
+        "description": "KDS-Kabel Net DOO",
+        "handle": "KDS-KABELNET"
+    },
+    "44777": {
+        "country_code": "MK",
+        "asn": "44777",
+        "description": "Insurance MAKEDONIJA s.c. Skopje Vienna Insurance Group",
+        "handle": "QBEMAKEDONIJA-AS"
+    },
+    "47212": {
+        "country_code": "MK",
+        "asn": "47212",
+        "description": "Republic of Macedonia State University GOCE DELCEV Stip",
+        "handle": "UGD-AS"
+    },
+    "48057": {
+        "country_code": "MK",
+        "asn": "48057",
+        "description": "Company for interactive technologies ITV DOOEL export-import Skopje",
+        "handle": "ITVNET-AS"
+    },
+    "49056": {
+        "country_code": "MK",
+        "asn": "49056",
+        "description": "Inel Internacional Dooel Kavadarci",
+        "handle": "INEL-AS-MK"
+    },
+    "49914": {
+        "country_code": "MK",
+        "asn": "49914",
+        "description": "Multimedija Netvork L DOOEL Export-Import Gostivar",
+        "handle": "MULTIMEDIA-AS"
+    },
+    "52188": {
+        "country_code": "MK",
+        "asn": "52188",
+        "description": "Univerzitet Sv. Kiril i Metodij",
+        "handle": "MK-UKIM-FCSE"
+    },
+    "56507": {
+        "country_code": "MK",
+        "asn": "56507",
+        "description": "Faculty of Computer Science and Engineering - Ss. Cyril and Methodius University in Skopje",
+        "handle": "IXPMK"
+    },
+    "56620": {
+        "country_code": "MK",
+        "asn": "56620",
+        "description": "National Bank of the Republic of Macedonia",
+        "handle": "NBRM-AS-OWN"
+    },
+    "57116": {
+        "country_code": "MK",
+        "asn": "57116",
+        "description": "Health Insurance Fund of Macedonia",
+        "handle": "AUTO-1"
+    },
+    "57134": {
+        "country_code": "MK",
+        "asn": "57134",
+        "description": "Multimedia-Net doo Skopje",
+        "handle": "MULTIMEDIA-NET-AS"
+    },
+    "57340": {
+        "country_code": "MK",
+        "asn": "57340",
+        "description": "INTERSPACE DOOEL Skopje",
+        "handle": "INTERSPACE-ASN"
+    },
+    "57374": {
+        "country_code": "MK",
+        "asn": "57374",
+        "description": "Company for communications services A1 Makedonija DOOEL Skopje",
+        "handle": "GIV-AS"
+    },
+    "60613": {
+        "country_code": "MK",
+        "asn": "60613",
+        "description": "INTERSPACE DOOEL Skopje",
+        "handle": "ASN-INTERSPACE"
+    },
+    "61057": {
+        "country_code": "MK",
+        "asn": "61057",
+        "description": "INTERSPACE DOOEL Skopje",
+        "handle": "ASN-GLOBAL-INTERSPACE"
+    },
+    "198159": {
+        "country_code": "MK",
+        "asn": "198159",
+        "description": "HALKBANK AD Skopje",
+        "handle": "AS-HALKB"
+    },
+    "199128": {
+        "country_code": "MK",
+        "asn": "199128",
+        "description": "PET NET DOO Gevgelija",
+        "handle": "PETNET-ASN"
+    },
+    "199969": {
+        "country_code": "MK",
+        "asn": "199969",
+        "description": "ProCredit Bank AD Skopje",
+        "handle": "PCB-AS"
+    },
+    "200412": {
+        "country_code": "MK",
+        "asn": "200412",
+        "description": "KIBS AD Skopje",
+        "handle": "KIBS"
+    },
+    "200899": {
+        "country_code": "MK",
+        "asn": "200899",
+        "description": "INTERSPACE DOOEL Skopje",
+        "handle": "INTERSPACE-EUROPE"
+    },
+    "201683": {
+        "country_code": "MK",
+        "asn": "201683",
+        "description": "DTS Corp D.o.o.e.l export-import Skopje",
+        "handle": "DTSCORP-AS"
+    },
+    "203274": {
+        "country_code": "MK",
+        "asn": "203274",
+        "description": "BIDI IN V.I.B. DOO Skopje",
+        "handle": "BIDI-IN-VIB"
+    },
+    "203522": {
+        "country_code": "MK",
+        "asn": "203522",
+        "description": "Faculty of Computer Science and Engineering - Ss. Cyril and Methodius University in Skopje",
+        "handle": "NOGMK"
+    },
+    "203571": {
+        "country_code": "MK",
+        "asn": "203571",
+        "description": "Delta Bet D.O.O.E.L Skopje",
+        "handle": "DELTABET"
+    },
+    "204031": {
+        "country_code": "MK",
+        "asn": "204031",
+        "description": "Komercijalna banka AD Skopje",
+        "handle": "KB-ASN"
+    },
+    "205076": {
+        "country_code": "MK",
+        "asn": "205076",
+        "description": "Robi Inzhenering DOOEL",
+        "handle": "ROBI-AS"
+    },
+    "205119": {
+        "country_code": "MK",
+        "asn": "205119",
+        "description": "TELEKS DOOEL Skopje",
+        "handle": "TELEKS-MK"
+    },
+    "205347": {
+        "country_code": "MK",
+        "asn": "205347",
+        "description": "Information Technology Company AVENGA DOOEL Skopje",
+        "handle": "SEAVUS-AS"
+    },
+    "205623": {
+        "country_code": "MK",
+        "asn": "205623",
+        "description": "Adzibadem Sistina Skopje Private Clinic Hospital",
+        "handle": "SISTINA-ASN"
+    },
+    "206311": {
+        "country_code": "MK",
+        "asn": "206311",
+        "description": "STOPANSKA BANKA A.D. BITOLA",
+        "handle": "STBBT"
+    },
+    "206666": {
+        "country_code": "MK",
+        "asn": "206666",
+        "description": "MULTIMEDIA-NET DOO SKOPJE",
+        "handle": "MULTIMEDIA-NET"
+    },
+    "206769": {
+        "country_code": "MK",
+        "asn": "206769",
+        "description": "Real Estate Cadastre Agency Skopje",
+        "handle": "AREC-AS"
+    },
+    "207766": {
+        "country_code": "MK",
+        "asn": "207766",
+        "description": "MTEL DOOEL Skopje",
+        "handle": "MTEL-MK-AS"
+    },
+    "207938": {
+        "country_code": "MK",
+        "asn": "207938",
+        "description": "NEOCOM AD Skopje",
+        "handle": "NEOCOM-MK"
+    },
+    "208730": {
+        "country_code": "MK",
+        "asn": "208730",
+        "description": "INEL TEHNIK DOOEL",
+        "handle": "AS-INELTEHNIK"
+    },
+    "209152": {
+        "country_code": "MK",
+        "asn": "209152",
+        "description": "FIVENET D.O.O. Skopje",
+        "handle": "FIVENET"
+    },
+    "209613": {
+        "country_code": "MK",
+        "asn": "209613",
+        "description": "Gou Net DOOEL",
+        "handle": "GONET-AS"
+    },
+    "209972": {
+        "country_code": "MK",
+        "asn": "209972",
+        "description": "Government of Republic of North Macedonia",
+        "handle": "GOVMK"
+    },
+    "210179": {
+        "country_code": "MK",
+        "asn": "210179",
+        "description": "Trend Komunikacii DOOEL Strumica",
+        "handle": "TREND-KOMUNIKACII"
+    },
+    "210565": {
+        "country_code": "MK",
+        "asn": "210565",
+        "description": "Faculty of Computer Science and Engineering - Ss. Cyril and Methodius University in Skopje",
+        "handle": "IXPMK-OUTREACH"
+    },
+    "210865": {
+        "country_code": "MK",
+        "asn": "210865",
+        "description": "AD MEPSO JSC",
+        "handle": "MEPSO-MK"
+    },
+    "211172": {
+        "country_code": "MK",
+        "asn": "211172",
+        "description": "NLB Banka AD Skopje",
+        "handle": "NLB-MK"
+    },
+    "211450": {
+        "country_code": "MK",
+        "asn": "211450",
+        "description": "SPIDER DOOEL GEVGELIJA",
+        "handle": "SPIDER-MK"
+    },
+    "212645": {
+        "country_code": "MK",
+        "asn": "212645",
+        "description": "GLOBALSAT DOOEL",
+        "handle": "GLOBALSAT-AS-MK"
+    },
+    "213562": {
+        "country_code": "MK",
+        "asn": "213562",
+        "description": "SETEC All from Tehnika DOO Skopje",
+        "handle": "SETEC"
+    },
+    "213946": {
+        "country_code": "MK",
+        "asn": "213946",
+        "description": "Signal NET d.o.o.",
+        "handle": "SIGNALNET-AS"
+    },
+    "214632": {
+        "country_code": "MK",
+        "asn": "214632",
+        "description": "STOPANSKA BANKA AD SKOPJE",
+        "handle": "STB"
+    },
+    "215863": {
+        "country_code": "MK",
+        "asn": "215863",
+        "description": "PROLINK ICT DOOEL",
+        "handle": "PROLINK-ICT"
+    },
+    "215968": {
+        "country_code": "MK",
+        "asn": "215968",
+        "description": "DATAKOM JV DOOEL",
+        "handle": "DATACOM-JV"
+    },
+    "216337": {
+        "country_code": "MK",
+        "asn": "216337",
+        "description": "Vladislav Bidikov",
+        "handle": "BIDIK-AS"
+    }
+}

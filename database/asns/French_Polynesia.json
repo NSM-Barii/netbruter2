@@ -1,0 +1,38 @@
+{
+    "9471": {
+        "country_code": "PF",
+        "asn": "9471",
+        "description": "ONATI",
+        "handle": "ONATI-AS-AP"
+    },
+    "55943": {
+        "country_code": "PF",
+        "asn": "55943",
+        "description": "ONATI",
+        "handle": "ONATI-AS-AP"
+    },
+    "56017": {
+        "country_code": "PF",
+        "asn": "56017",
+        "description": "VITI",
+        "handle": "VITI-AS-PF"
+    },
+    "133896": {
+        "country_code": "PF",
+        "asn": "133896",
+        "description": "Tahiti Nui Telecom",
+        "handle": "TAHITINUITELECOM-AS-AP"
+    },
+    "138179": {
+        "country_code": "PF",
+        "asn": "138179",
+        "description": "PACIFIC MOBILE TELECOM",
+        "handle": "PMT-AS-AP"
+    },
+    "139263": {
+        "country_code": "PF",
+        "asn": "139263",
+        "description": "Universite de la Polynesie Francaise",
+        "handle": "UDLPF-AS-AP"
+    }
+}

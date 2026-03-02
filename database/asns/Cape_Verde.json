@@ -1,0 +1,68 @@
+{
+    "37517": {
+        "country_code": "CV",
+        "asn": "37517",
+        "description": "CABO VERDE TELECOM S.A",
+        "handle": "CVTS1"
+    },
+    "37575": {
+        "country_code": "CV",
+        "asn": "37575",
+        "description": "UNITEL T+ Telecomunicacoes Sociedade Unipessoal S.A.",
+        "handle": "TMAIS"
+    },
+    "37796": {
+        "country_code": "CV",
+        "asn": "37796",
+        "description": "Associa\u00e7\u00e3o Cabo Verde Internet Exchange Point",
+        "handle": "CV-IX-PEERING"
+    },
+    "327862": {
+        "country_code": "CV",
+        "asn": "327862",
+        "description": "NOSi EPE",
+        "handle": "NOSI"
+    },
+    "328440": {
+        "country_code": "CV",
+        "asn": "328440",
+        "description": "Banco BAI Cabo Verde SA",
+        "handle": "BANCO-BAI"
+    },
+    "328941": {
+        "country_code": "CV",
+        "asn": "328941",
+        "description": "CABO VERDE TELECOM S.A",
+        "handle": "CVTS1-AS"
+    },
+    "329040": {
+        "country_code": "CV",
+        "asn": "329040",
+        "description": "Banco de Cabo Verde",
+        "handle": "BDCV1-AS"
+    },
+    "329138": {
+        "country_code": "CV",
+        "asn": "329138",
+        "description": "BCN - Banco Caboverdiano de Neg\u00f3cios SA",
+        "handle": "BBCD1-AS"
+    },
+    "329173": {
+        "country_code": "CV",
+        "asn": "329173",
+        "description": "Associa\u00e7\u00e3o Cabo Verde Internet Exchange Point",
+        "handle": "CV-IX-MGT"
+    },
+    "329245": {
+        "country_code": "CV",
+        "asn": "329245",
+        "description": "Public University of Cape Verde",
+        "handle": "PUBLIC-UNIVERSITY-OF-CAPE-VERDE"
+    },
+    "329281": {
+        "country_code": "CV",
+        "asn": "329281",
+        "description": "CAIXA ECONOMICA DE CABO VERDE S. A.",
+        "handle": "CAIXA-ECONOMICA-DE-CABO-VERDE"
+    }
+}

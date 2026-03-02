@@ -1,0 +1,44 @@
+{
+    "15344": {
+        "country_code": "LC",
+        "asn": "15344",
+        "description": "Karib Cable",
+        "handle": "ASN15344-SLU"
+    },
+    "33582": {
+        "country_code": "LC",
+        "asn": "33582",
+        "description": "Digicel St.Lucia Ltd",
+        "handle": "DIGICEL-OECS"
+    },
+    "394469": {
+        "country_code": "LC",
+        "asn": "394469",
+        "description": "Digicel Caribbean Limited",
+        "handle": "DIGICEL-GROUP-BUSINESS"
+    },
+    "395561": {
+        "country_code": "LC",
+        "asn": "395561",
+        "description": "Digicel St.Lucia Ltd",
+        "handle": "DIGICEL-GRENADA"
+    },
+    "397961": {
+        "country_code": "LC",
+        "asn": "397961",
+        "description": "Government Information Technology Services Limited",
+        "handle": "GOVERNMENT-OF-SAINT-LUCIA"
+    },
+    "399724": {
+        "country_code": "LC",
+        "asn": "399724",
+        "description": "Digicel St.Lucia Ltd",
+        "handle": "DIGICEL-STVINCENT"
+    },
+    "399884": {
+        "country_code": "LC",
+        "asn": "399884",
+        "description": "Government Information Technology Services Limited",
+        "handle": "SLU-IX"
+    }
+}

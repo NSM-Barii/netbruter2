@@ -1,0 +1,1004 @@
+{
+    "9333": {
+        "country_code": "MM",
+        "asn": "9333",
+        "description": "MYANMAR INTERNET EXCHANGE ASSOCIATION INC.",
+        "handle": "MMIX-AS-AP"
+    },
+    "9654": {
+        "country_code": "MM",
+        "asn": "9654",
+        "description": "MYANMAR INTERNET EXCHANGE ASSOCIATION INC.",
+        "handle": "MMIX-AS-AP"
+    },
+    "9988": {
+        "country_code": "MM",
+        "asn": "9988",
+        "description": "Myanma Post & Telecommunication",
+        "handle": "MPT-AP"
+    },
+    "18399": {
+        "country_code": "MM",
+        "asn": "18399",
+        "description": "Yatanarpon Teleport Company Limited",
+        "handle": "YTCL-AS-AP"
+    },
+    "45558": {
+        "country_code": "MM",
+        "asn": "45558",
+        "description": "MYANMA POSTS AND TELECOMMUNICATIONS",
+        "handle": "MPT-MM-AS-AP"
+    },
+    "58952": {
+        "country_code": "MM",
+        "asn": "58952",
+        "description": "Frontiir Co. Ltd",
+        "handle": "FRONTIIRCOLTD-MM"
+    },
+    "63852": {
+        "country_code": "MM",
+        "asn": "63852",
+        "description": "FMG COMPANY LIMITED",
+        "handle": "FMG-MM"
+    },
+    "63982": {
+        "country_code": "MM",
+        "asn": "63982",
+        "description": "Myanma Post & Telecommunication",
+        "handle": "MMTELECOM-MM"
+    },
+    "63998": {
+        "country_code": "MM",
+        "asn": "63998",
+        "description": "Kinetic Myanmar Technology Co. ltd",
+        "handle": "KMTCL-MM"
+    },
+    "131322": {
+        "country_code": "MM",
+        "asn": "131322",
+        "description": "Yatanarpon Teleport Company Limited",
+        "handle": "YTCL-AS-AP"
+    },
+    "131331": {
+        "country_code": "MM",
+        "asn": "131331",
+        "description": "Light Wings Company Limited",
+        "handle": "LIGHTWINGS-AS-AP"
+    },
+    "132026": {
+        "country_code": "MM",
+        "asn": "132026",
+        "description": "Yatanarpon Teleport Company Limited",
+        "handle": "RL-AS-AP"
+    },
+    "132038": {
+        "country_code": "MM",
+        "asn": "132038",
+        "description": "Royal Esprit Company Limited",
+        "handle": "ROYALESPRIT-MM"
+    },
+    "132060": {
+        "country_code": "MM",
+        "asn": "132060",
+        "description": "Hanthar Net",
+        "handle": "HANTHARNET-AS-AP"
+    },
+    "132100": {
+        "country_code": "MM",
+        "asn": "132100",
+        "description": "Myanmar Speed Net Co. Ltd",
+        "handle": "MSN-AS-AP"
+    },
+    "132148": {
+        "country_code": "MM",
+        "asn": "132148",
+        "description": "HORIZON TELECOM INTERNATIONAL COMPANY LIMITED",
+        "handle": "HTI-AS-AP"
+    },
+    "132167": {
+        "country_code": "MM",
+        "asn": "132167",
+        "description": "Nine Communications Company Limited",
+        "handle": "U9-MM"
+    },
+    "132344": {
+        "country_code": "MM",
+        "asn": "132344",
+        "description": "Southeastasianet Technologies Myanmar Co. Ltd.",
+        "handle": "STMCL-AS-AP"
+    },
+    "132537": {
+        "country_code": "MM",
+        "asn": "132537",
+        "description": "LG",
+        "handle": "MLGCL-AS-AP"
+    },
+    "132686": {
+        "country_code": "MM",
+        "asn": "132686",
+        "description": "Amara Communications",
+        "handle": "ACS-AS-AP"
+    },
+    "133384": {
+        "country_code": "MM",
+        "asn": "133384",
+        "description": "Global Technology Co. Ltd.",
+        "handle": "GTCL-AS-AP"
+    },
+    "133385": {
+        "country_code": "MM",
+        "asn": "133385",
+        "description": "Atom Myanmar Limited",
+        "handle": "ATOMMYANMAR-AS-AP"
+    },
+    "133392": {
+        "country_code": "MM",
+        "asn": "133392",
+        "description": "Yatanarpon Teleport Company Limited",
+        "handle": "YTCL-AS-AP"
+    },
+    "133433": {
+        "country_code": "MM",
+        "asn": "133433",
+        "description": "ZOOM PLUS COMPANY LIMITED",
+        "handle": "ZPC-AS-AP"
+    },
+    "133440": {
+        "country_code": "MM",
+        "asn": "133440",
+        "description": "Stepping Stone Co. Ltd",
+        "handle": "STIGW-AS-AP"
+    },
+    "133524": {
+        "country_code": "MM",
+        "asn": "133524",
+        "description": "Global Technology Co. Ltd.",
+        "handle": "GTCL-AS-AP"
+    },
+    "134105": {
+        "country_code": "MM",
+        "asn": "134105",
+        "description": "Shwe Than Lwin Media Co. Ltd.",
+        "handle": "STLMC-AS-AP"
+    },
+    "134484": {
+        "country_code": "MM",
+        "asn": "134484",
+        "description": "V D C Net Company Limited",
+        "handle": "VDCNET-AS-AP"
+    },
+    "134528": {
+        "country_code": "MM",
+        "asn": "134528",
+        "description": "MYANMAR PI TECHNOLOGY CO. LTD",
+        "handle": "MPTCL-AS-AP"
+    },
+    "134714": {
+        "country_code": "MM",
+        "asn": "134714",
+        "description": "Elite Telecom Public Company Limited",
+        "handle": "ETPCL-AS-AP"
+    },
+    "134736": {
+        "country_code": "MM",
+        "asn": "134736",
+        "description": "NTT MYANMAR CO. LTD.",
+        "handle": "NMCL-AS-AP"
+    },
+    "134739": {
+        "country_code": "MM",
+        "asn": "134739",
+        "description": "AGB Communication Co. Ltd",
+        "handle": "AGBC-AS-AP"
+    },
+    "134840": {
+        "country_code": "MM",
+        "asn": "134840",
+        "description": "Myanmar Country Co. Ltd.",
+        "handle": "MCCL-AS-AP"
+    },
+    "134846": {
+        "country_code": "MM",
+        "asn": "134846",
+        "description": "Access Spectrum Co. Ltd.",
+        "handle": "ASCL-AS-AP"
+    },
+    "134976": {
+        "country_code": "MM",
+        "asn": "134976",
+        "description": "Myint & Associates Telecommunications Ltd",
+        "handle": "MATL-AS-AP"
+    },
+    "135111": {
+        "country_code": "MM",
+        "asn": "135111",
+        "description": "Asia Mega Link Company Limited",
+        "handle": "AML-AS-AP"
+    },
+    "135149": {
+        "country_code": "MM",
+        "asn": "135149",
+        "description": "Myanmar Technology Gateway Co. Ltd",
+        "handle": "MTGCL-AS-AP"
+    },
+    "135300": {
+        "country_code": "MM",
+        "asn": "135300",
+        "description": "Myanmar Broadband Telecom Co. Ltd",
+        "handle": "MBTCL-AS-AP"
+    },
+    "135307": {
+        "country_code": "MM",
+        "asn": "135307",
+        "description": "Golden TMH Telecom Co. Ltd",
+        "handle": "GTMH-AS-AP"
+    },
+    "135371": {
+        "country_code": "MM",
+        "asn": "135371",
+        "description": "Fortune International Ltd.",
+        "handle": "FORTUNEINTERNATIONAL-AS-AP"
+    },
+    "135405": {
+        "country_code": "MM",
+        "asn": "135405",
+        "description": "Tah Moe Hnye'Chan Thar Tun We Thar Company Limited",
+        "handle": "TMHTTWTL-AS-AP"
+    },
+    "135427": {
+        "country_code": "MM",
+        "asn": "135427",
+        "description": "Myanmar Network Company Limited",
+        "handle": "MYANMARNETWORK-AS-AP"
+    },
+    "135433": {
+        "country_code": "MM",
+        "asn": "135433",
+        "description": "Connect Gateway Company Limited",
+        "handle": "CGCL-AS-AP"
+    },
+    "135589": {
+        "country_code": "MM",
+        "asn": "135589",
+        "description": "Internet Maekhong Network Company Limited",
+        "handle": "IMNCL-AS-AP"
+    },
+    "136168": {
+        "country_code": "MM",
+        "asn": "136168",
+        "description": "Campana MYTHIC Co. Ltd.",
+        "handle": "CAMPANA-AS-AP"
+    },
+    "136177": {
+        "country_code": "MM",
+        "asn": "136177",
+        "description": "Yoma Bank Limited",
+        "handle": "YOMABANKLIMITED-AS-AP"
+    },
+    "136205": {
+        "country_code": "MM",
+        "asn": "136205",
+        "description": "Linn IT Solution Company Limited",
+        "handle": "LINNITSOLUTION-AS-AP"
+    },
+    "136210": {
+        "country_code": "MM",
+        "asn": "136210",
+        "description": "IT Spectrum Company Limited",
+        "handle": "ITSPECTRUM-AS-AP"
+    },
+    "136229": {
+        "country_code": "MM",
+        "asn": "136229",
+        "description": "Treasure Chindwin Land Co. Ltd",
+        "handle": "TCLC-AS-AP"
+    },
+    "136255": {
+        "country_code": "MM",
+        "asn": "136255",
+        "description": "Telecom International Myanmar Company Limited",
+        "handle": "TIMCL-AS-AP"
+    },
+    "136442": {
+        "country_code": "MM",
+        "asn": "136442",
+        "description": "Ocean Wave Communication Co. Ltd",
+        "handle": "OCEANWAVE-AS-AP"
+    },
+    "136465": {
+        "country_code": "MM",
+        "asn": "136465",
+        "description": "Dept. of Information Technology & Cyber Security",
+        "handle": "INFORMATIONTECHNOLOGYCYBERSECURITY-AS-AP"
+    },
+    "136474": {
+        "country_code": "MM",
+        "asn": "136474",
+        "description": "Marga Global Telecom Limited",
+        "handle": "MGTL-AS-AP"
+    },
+    "136480": {
+        "country_code": "MM",
+        "asn": "136480",
+        "description": "Myanmar Unilink Communication Company Limited",
+        "handle": "MMUNILINK-AS-AP"
+    },
+    "136613": {
+        "country_code": "MM",
+        "asn": "136613",
+        "description": "Ayeyarwady Bank",
+        "handle": "AYEYARWADYBANK-AS-AP"
+    },
+    "136617": {
+        "country_code": "MM",
+        "asn": "136617",
+        "description": "Fortune Telecom Company Limited",
+        "handle": "FTCL-AS-AP"
+    },
+    "136752": {
+        "country_code": "MM",
+        "asn": "136752",
+        "description": "Golden TMH Telecom Co. Ltd",
+        "handle": "GTTCL-MANDALAY-AS-AP"
+    },
+    "136780": {
+        "country_code": "MM",
+        "asn": "136780",
+        "description": "MYANMAR INFORMATION HIGHWAY LIMITED",
+        "handle": "MIHL-AS-AP"
+    },
+    "136786": {
+        "country_code": "MM",
+        "asn": "136786",
+        "description": "Information Beam Company Limited",
+        "handle": "I-BEAM-AS-AP"
+    },
+    "136789": {
+        "country_code": "MM",
+        "asn": "136789",
+        "description": "LOTUS MUDRA COMPANY LIMITED",
+        "handle": "LOTUS-AS-AP"
+    },
+    "136919": {
+        "country_code": "MM",
+        "asn": "136919",
+        "description": "FACE24 Co. Ltd",
+        "handle": "FACE24COLTD-AS-AP"
+    },
+    "136975": {
+        "country_code": "MM",
+        "asn": "136975",
+        "description": "Next Tier Trading Company Limited",
+        "handle": "GNET-AS-AP"
+    },
+    "137069": {
+        "country_code": "MM",
+        "asn": "137069",
+        "description": "POSCO INTERNATIONAL CORPORATION (MYANMAR E&P OFFICE)",
+        "handle": "PICME-AS-AP"
+    },
+    "137259": {
+        "country_code": "MM",
+        "asn": "137259",
+        "description": "i-Link",
+        "handle": "ILINK-AS-AP"
+    },
+    "137424": {
+        "country_code": "MM",
+        "asn": "137424",
+        "description": "Integral Solutions Myanmar Co. Ltd.",
+        "handle": "ISMC-AS-AP"
+    },
+    "137431": {
+        "country_code": "MM",
+        "asn": "137431",
+        "description": "ZORRO RITZ PUBLIC COMPANY LIMITED",
+        "handle": "RPCL-AS-AP"
+    },
+    "137560": {
+        "country_code": "MM",
+        "asn": "137560",
+        "description": "Golden Myanmar Business Exchange Co. Ltd",
+        "handle": "GMBECL-AS-AP"
+    },
+    "137826": {
+        "country_code": "MM",
+        "asn": "137826",
+        "description": "AST SYSTEM TECHNOLOGY COMPANY LIMITED",
+        "handle": "ASTCL-AS-AP"
+    },
+    "137861": {
+        "country_code": "MM",
+        "asn": "137861",
+        "description": "Myanmar World Distribution Telecommunication Company Limited",
+        "handle": "MWT-AS-AP"
+    },
+    "137878": {
+        "country_code": "MM",
+        "asn": "137878",
+        "description": "GoldeNet",
+        "handle": "GOLDENET-AS-AP"
+    },
+    "137888": {
+        "country_code": "MM",
+        "asn": "137888",
+        "description": "Bee Connect Myanmar Co. Ltd.",
+        "handle": "BCM-AS-AP"
+    },
+    "137891": {
+        "country_code": "MM",
+        "asn": "137891",
+        "description": "Be The First",
+        "handle": "BETHEFIRST-AS-AP"
+    },
+    "137955": {
+        "country_code": "MM",
+        "asn": "137955",
+        "description": "MYANMAR INTERNET EXCHANGE ASSOCIATION INC.",
+        "handle": "MMIX-AS-AP"
+    },
+    "138158": {
+        "country_code": "MM",
+        "asn": "138158",
+        "description": "Serge Pun & Associate (Myanmar) Ltd.",
+        "handle": "SPAL-AS-AP"
+    },
+    "138166": {
+        "country_code": "MM",
+        "asn": "138166",
+        "description": "MASCOTS TECHNOLOGIES AND TELECOMMUNICATION COMPANY LIMITED",
+        "handle": "MTATCL-AS-AP"
+    },
+    "138167": {
+        "country_code": "MM",
+        "asn": "138167",
+        "description": "TrueNET Company Limited",
+        "handle": "TRUENET-AS-AP"
+    },
+    "138168": {
+        "country_code": "MM",
+        "asn": "138168",
+        "description": "MyanmarAPN Company Limited",
+        "handle": "APN-AS-AP"
+    },
+    "138617": {
+        "country_code": "MM",
+        "asn": "138617",
+        "description": "Orange Broadband Co. LTD",
+        "handle": "ORANGE-AS-AP"
+    },
+    "138634": {
+        "country_code": "MM",
+        "asn": "138634",
+        "description": "MYNET SOLUTIONS COMPANY LIMITED",
+        "handle": "MSCL-AS-AP"
+    },
+    "138656": {
+        "country_code": "MM",
+        "asn": "138656",
+        "description": "Myanmar GT Broadband Co. Ltd",
+        "handle": "GT-BROADBAND-AS-AP"
+    },
+    "138684": {
+        "country_code": "MM",
+        "asn": "138684",
+        "description": "ManauLinks Co. Ltd.",
+        "handle": "MANAULINKS-AS-AP"
+    },
+    "139003": {
+        "country_code": "MM",
+        "asn": "139003",
+        "description": "Telcospeed",
+        "handle": "TELCOSPEEDCOLTD-AS-AP"
+    },
+    "139017": {
+        "country_code": "MM",
+        "asn": "139017",
+        "description": "MyanmarAPN Company Limited",
+        "handle": "APN2-AS-AP"
+    },
+    "139051": {
+        "country_code": "MM",
+        "asn": "139051",
+        "description": "AUNG GABAR COMPANY LIMITED",
+        "handle": "AUNGGABAR-AS-AP"
+    },
+    "139058": {
+        "country_code": "MM",
+        "asn": "139058",
+        "description": "Tachileik Net Co. Ltd",
+        "handle": "TACHILEIKNET-AS-AP"
+    },
+    "139071": {
+        "country_code": "MM",
+        "asn": "139071",
+        "description": "MK Networks Co. Ltd.",
+        "handle": "MNCL-AS-AP"
+    },
+    "139206": {
+        "country_code": "MM",
+        "asn": "139206",
+        "description": "Pan Asia Majestic Eagle Ltd",
+        "handle": "PAMEL-AS-AP"
+    },
+    "139595": {
+        "country_code": "MM",
+        "asn": "139595",
+        "description": "HTIN HTIN NETWORK COMPANY LIMITED",
+        "handle": "HTIN-AS-AP"
+    },
+    "139608": {
+        "country_code": "MM",
+        "asn": "139608",
+        "description": "AST SYSTEM TECHNOLOGY COMPANY LIMITED",
+        "handle": "ASTCL-AS-AP"
+    },
+    "139620": {
+        "country_code": "MM",
+        "asn": "139620",
+        "description": "MYANMAR TELECOMMUNICATION NETWORK PUBLIC COMPANY LIMITED",
+        "handle": "MTNPCL-AS-AP"
+    },
+    "139658": {
+        "country_code": "MM",
+        "asn": "139658",
+        "description": "Nine Communications Company Limited",
+        "handle": "U9-MM"
+    },
+    "139692": {
+        "country_code": "MM",
+        "asn": "139692",
+        "description": "CHEN GUANG COMPANY LIMITED",
+        "handle": "CHEN-AS-AP"
+    },
+    "139704": {
+        "country_code": "MM",
+        "asn": "139704",
+        "description": "AGB Communication Co. Ltd",
+        "handle": "AS-AGBC"
+    },
+    "139711": {
+        "country_code": "MM",
+        "asn": "139711",
+        "description": "KANBAWZA BANK LIMITED",
+        "handle": "KBZBANK-AS-AP"
+    },
+    "139719": {
+        "country_code": "MM",
+        "asn": "139719",
+        "description": "Yar Chang Company Limited",
+        "handle": "YARCHANG-AS-AP"
+    },
+    "139766": {
+        "country_code": "MM",
+        "asn": "139766",
+        "description": "KNET",
+        "handle": "PROTOCOL-AS-AP"
+    },
+    "139804": {
+        "country_code": "MM",
+        "asn": "139804",
+        "description": "RED PALM COMPANY LIMITED",
+        "handle": "REDPALM-AS-AP"
+    },
+    "139822": {
+        "country_code": "MM",
+        "asn": "139822",
+        "description": "GNE Company Limited",
+        "handle": "GNE-AS-MM"
+    },
+    "139849": {
+        "country_code": "MM",
+        "asn": "139849",
+        "description": "Royal Esprit Company Limited",
+        "handle": "ROYALESPRIT-AS-AP"
+    },
+    "140091": {
+        "country_code": "MM",
+        "asn": "140091",
+        "description": "SHWE MAHAR MAE KHONG INDUSTRIAL COMPANY LIMITED",
+        "handle": "SHWE-AS-AP"
+    },
+    "140552": {
+        "country_code": "MM",
+        "asn": "140552",
+        "description": "Co-operative Bank Public Company Limited",
+        "handle": "CBBANK-AS-AP"
+    },
+    "140617": {
+        "country_code": "MM",
+        "asn": "140617",
+        "description": "THAN PHYO THU MINING COMPANY LIMITED",
+        "handle": "TPTNET-AS-AP"
+    },
+    "140997": {
+        "country_code": "MM",
+        "asn": "140997",
+        "description": "LNS Myanmar Company Limited",
+        "handle": "LMCL-AS-AP"
+    },
+    "141015": {
+        "country_code": "MM",
+        "asn": "141015",
+        "description": "Myanmar Link Telecommunication Ltd",
+        "handle": "MYANMARLINK-AS-AP"
+    },
+    "141199": {
+        "country_code": "MM",
+        "asn": "141199",
+        "description": "Century Link Plus Co .Ltd",
+        "handle": "CLPC-AS-AP"
+    },
+    "141216": {
+        "country_code": "MM",
+        "asn": "141216",
+        "description": "GREAT GOLDEN HORSE COMPANY LIMITED",
+        "handle": "GREATGOLDENHORSE-AS-AP"
+    },
+    "141236": {
+        "country_code": "MM",
+        "asn": "141236",
+        "description": "Mandalay City Development Committee",
+        "handle": "MCDC-AS-AP"
+    },
+    "141704": {
+        "country_code": "MM",
+        "asn": "141704",
+        "description": "Galaxia @ Net",
+        "handle": "GALAXIANET-AS-AP"
+    },
+    "142126": {
+        "country_code": "MM",
+        "asn": "142126",
+        "description": "SCSK Myanmar Ltd",
+        "handle": "SCSKMYANMARLTD-AS"
+    },
+    "142423": {
+        "country_code": "MM",
+        "asn": "142423",
+        "description": "Myanmar Bee Live Communication Co. Ltd",
+        "handle": "MBLCC-AS-AP"
+    },
+    "142546": {
+        "country_code": "MM",
+        "asn": "142546",
+        "description": "AUNG GABAR COMPANY LIMITED",
+        "handle": "AUNGGABAR-AS-AP"
+    },
+    "142644": {
+        "country_code": "MM",
+        "asn": "142644",
+        "description": "Link Fast Company Limited",
+        "handle": "LINKFAST-AS-AP"
+    },
+    "147005": {
+        "country_code": "MM",
+        "asn": "147005",
+        "description": "Infinite Networks Co. Ltd",
+        "handle": "INC-AS-AP"
+    },
+    "149029": {
+        "country_code": "MM",
+        "asn": "149029",
+        "description": "NTT MYANMAR CO. LTD.",
+        "handle": "NMCL-AS-AP"
+    },
+    "149038": {
+        "country_code": "MM",
+        "asn": "149038",
+        "description": "UNIQUE COMM GROUP COMPANY LIMITED",
+        "handle": "UCGCL-AS-AP"
+    },
+    "149054": {
+        "country_code": "MM",
+        "asn": "149054",
+        "description": "HORIZON TELECOM INTERNATIONAL COMPANY LIMITED",
+        "handle": "HTI-AS-MM"
+    },
+    "149487": {
+        "country_code": "MM",
+        "asn": "149487",
+        "description": "MOC COMPANY LIMITED",
+        "handle": "MCLOCCL-AS-AP"
+    },
+    "149521": {
+        "country_code": "MM",
+        "asn": "149521",
+        "description": "Fiber Life Company Limited",
+        "handle": "FLC-AS-AP"
+    },
+    "149660": {
+        "country_code": "MM",
+        "asn": "149660",
+        "description": "Horizon Sources Company Limited",
+        "handle": "HSCL-AS-AP"
+    },
+    "149810": {
+        "country_code": "MM",
+        "asn": "149810",
+        "description": "AYARNET COMPANY LIMITED",
+        "handle": "ACL-AS-AP"
+    },
+    "149846": {
+        "country_code": "MM",
+        "asn": "149846",
+        "description": "NEXT HOP COMPANY LIMITED",
+        "handle": "NEXTHOPCOLTD-AS-AP"
+    },
+    "149855": {
+        "country_code": "MM",
+        "asn": "149855",
+        "description": "AGB Communication Co. Ltd",
+        "handle": "AS-AGBC"
+    },
+    "150153": {
+        "country_code": "MM",
+        "asn": "150153",
+        "description": "A W S (MYANMAR) COMPANY LIMITED",
+        "handle": "AWSCL-AS-AP"
+    },
+    "150159": {
+        "country_code": "MM",
+        "asn": "150159",
+        "description": "BRAINWAVE DATA COMPANY LIMITED",
+        "handle": "BDCL-AS-AP"
+    },
+    "150285": {
+        "country_code": "MM",
+        "asn": "150285",
+        "description": "Long Mao Home Center Co.ltd.",
+        "handle": "LMHCC-AS-AP"
+    },
+    "150297": {
+        "country_code": "MM",
+        "asn": "150297",
+        "description": "Golden Myanmar Business Exchange Co. Ltd",
+        "handle": "GMBECL-AS-AP"
+    },
+    "150309": {
+        "country_code": "MM",
+        "asn": "150309",
+        "description": "E R S TECHNOLOGY COMPANY LIMITED",
+        "handle": "ERSTCL-AS-AP"
+    },
+    "150310": {
+        "country_code": "MM",
+        "asn": "150310",
+        "description": "Trustforce Myanmar Company Limited",
+        "handle": "TMC-AS-AP"
+    },
+    "150456": {
+        "country_code": "MM",
+        "asn": "150456",
+        "description": "Posts and Telecommunications Department",
+        "handle": "PTD-AS-AP"
+    },
+    "150692": {
+        "country_code": "MM",
+        "asn": "150692",
+        "description": "Dragon Net",
+        "handle": "GD2CL-AS-AP"
+    },
+    "150721": {
+        "country_code": "MM",
+        "asn": "150721",
+        "description": "ARAKHA NET",
+        "handle": "ANCL-AS-AP"
+    },
+    "150736": {
+        "country_code": "MM",
+        "asn": "150736",
+        "description": "WEBSATMEDIA MYANMAR COMPANY LIMITED",
+        "handle": "WMCL-AS-AP"
+    },
+    "150797": {
+        "country_code": "MM",
+        "asn": "150797",
+        "description": "GIGA-NET COMPANY LIMITED",
+        "handle": "GCL-AS-AP"
+    },
+    "150812": {
+        "country_code": "MM",
+        "asn": "150812",
+        "description": "Myanmar Fortune Global Company Limited",
+        "handle": "MFGCL-AS-AP"
+    },
+    "151210": {
+        "country_code": "MM",
+        "asn": "151210",
+        "description": "NEXGENET COMPANY LIMITED",
+        "handle": "NCL-AS-AP"
+    },
+    "151341": {
+        "country_code": "MM",
+        "asn": "151341",
+        "description": "The Next Success Company Limited",
+        "handle": "THENEXTSUCCESS-AS-AP"
+    },
+    "151342": {
+        "country_code": "MM",
+        "asn": "151342",
+        "description": "East Boy Engineering Company Limited",
+        "handle": "EBECL-AS-AP"
+    },
+    "151482": {
+        "country_code": "MM",
+        "asn": "151482",
+        "description": "MKTN ENGINEERING GROUP COMPANY LIMITED",
+        "handle": "MKTN-AS-AP"
+    },
+    "151491": {
+        "country_code": "MM",
+        "asn": "151491",
+        "description": "Innovative Quality Internet Company Limited",
+        "handle": "IQI-AS-AP"
+    },
+    "151606": {
+        "country_code": "MM",
+        "asn": "151606",
+        "description": "MYANMAR SHWE PYI AYE COMPANY LIMITED",
+        "handle": "MSPACL-AS-AP"
+    },
+    "151783": {
+        "country_code": "MM",
+        "asn": "151783",
+        "description": "EASTERN ROYAL UNICOM (ERU) TECHNOLOGY COMPANY LIMITED",
+        "handle": "ERU-AS-AP"
+    },
+    "151802": {
+        "country_code": "MM",
+        "asn": "151802",
+        "description": "FIND SOLUTION AND SERVICES CO. LTD.",
+        "handle": "FSAS-AS-MM"
+    },
+    "151826": {
+        "country_code": "MM",
+        "asn": "151826",
+        "description": "Fast Speed",
+        "handle": "FASTSPEED-AS-AP"
+    },
+    "151965": {
+        "country_code": "MM",
+        "asn": "151965",
+        "description": "Hepta Alliance Technology Group",
+        "handle": "HATG-AS-AP"
+    },
+    "152140": {
+        "country_code": "MM",
+        "asn": "152140",
+        "description": "YAM Success of Myanmar Co. Ltd.",
+        "handle": "YSOMCL-AS-AP"
+    },
+    "152191": {
+        "country_code": "MM",
+        "asn": "152191",
+        "description": "YOUNIQUE INFO TECH CO. LTD",
+        "handle": "YOUNIQUEINFOTECH-AS-AP"
+    },
+    "152329": {
+        "country_code": "MM",
+        "asn": "152329",
+        "description": "Aon Kham Network Company Limited",
+        "handle": "AKNCL-AS-AP"
+    },
+    "152447": {
+        "country_code": "MM",
+        "asn": "152447",
+        "description": "My Mandalay Company Limited",
+        "handle": "MMCL-AS-AP"
+    },
+    "152459": {
+        "country_code": "MM",
+        "asn": "152459",
+        "description": "KNET BROADBAND COMPANY LIMITED",
+        "handle": "KBC-AS-AP"
+    },
+    "152466": {
+        "country_code": "MM",
+        "asn": "152466",
+        "description": "T-Link Group Company Limited",
+        "handle": "TLINKGROUP-AS-AP"
+    },
+    "152634": {
+        "country_code": "MM",
+        "asn": "152634",
+        "description": "Goal Link ISP",
+        "handle": "WCCCOMPANYLIMITED-AS-AP"
+    },
+    "152663": {
+        "country_code": "MM",
+        "asn": "152663",
+        "description": "SMART & SHINE COMPANY LIMITED",
+        "handle": "SMARTSHINECOMPANYLIMITED-AS-MM"
+    },
+    "153044": {
+        "country_code": "MM",
+        "asn": "153044",
+        "description": "MYANMAR SKY CITY NETWORK COMMUNICATION COMPANY LIMITED",
+        "handle": "MSCNC-AS-AP"
+    },
+    "153188": {
+        "country_code": "MM",
+        "asn": "153188",
+        "description": "Myanmar Telecom Wave Company Limited",
+        "handle": "MTWCL-AS-AP"
+    },
+    "153311": {
+        "country_code": "MM",
+        "asn": "153311",
+        "description": "SMMCL",
+        "handle": "SMMCL-AS-MM"
+    },
+    "153319": {
+        "country_code": "MM",
+        "asn": "153319",
+        "description": "Information Beam Company Limited",
+        "handle": "I-BEAM-AS-AU"
+    },
+    "153482": {
+        "country_code": "MM",
+        "asn": "153482",
+        "description": "Stream Net",
+        "handle": "STREAMNET-AS-AP"
+    },
+    "153549": {
+        "country_code": "MM",
+        "asn": "153549",
+        "description": "MUI Technology Company Limited",
+        "handle": "MTC-AS-AP"
+    },
+    "153777": {
+        "country_code": "MM",
+        "asn": "153777",
+        "description": "Mandalar Mandalay Company Limited",
+        "handle": "MMC-AS-AP"
+    },
+    "153790": {
+        "country_code": "MM",
+        "asn": "153790",
+        "description": "ADS Myanmar Company Limited",
+        "handle": "AMCL-AS-AP"
+    },
+    "153837": {
+        "country_code": "MM",
+        "asn": "153837",
+        "description": "Global Technology Company Limited",
+        "handle": "GLOBALTECH-AS-MM"
+    },
+    "153998": {
+        "country_code": "MM",
+        "asn": "153998",
+        "description": "Myanmar Citizens Bank Public Company Limited",
+        "handle": "MCBPCL-AS-AP"
+    },
+    "154020": {
+        "country_code": "MM",
+        "asn": "154020",
+        "description": "SAM MOUK MO Company Ltd",
+        "handle": "SMMCL-AS-AP"
+    },
+    "154064": {
+        "country_code": "MM",
+        "asn": "154064",
+        "description": "APAAS Company Limited",
+        "handle": "APAAS-AS-AP"
+    },
+    "154271": {
+        "country_code": "MM",
+        "asn": "154271",
+        "description": "Asia Yadanar Golden Horse Company Limited",
+        "handle": "ASIA-AS-AP"
+    },
+    "154481": {
+        "country_code": "MM",
+        "asn": "154481",
+        "description": "Tachileik Jade Dragon Company Limited",
+        "handle": "TACHILEIK1-AS-AP"
+    },
+    "154519": {
+        "country_code": "MM",
+        "asn": "154519",
+        "description": "University of Computer Studies Yangon",
+        "handle": "UNIVERSITY-AS-AP"
+    }
+}

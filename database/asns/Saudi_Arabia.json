@@ -1,0 +1,1220 @@
+{
+    "3311": {
+        "country_code": "SA",
+        "asn": "3311",
+        "description": "Tamkeen Technologies LLC",
+        "handle": "TAMKEENTECH-IT"
+    },
+    "8895": {
+        "country_code": "SA",
+        "asn": "8895",
+        "description": "King Abdul Aziz City for Science and Technology",
+        "handle": "ISU"
+    },
+    "12524": {
+        "country_code": "SA",
+        "asn": "12524",
+        "description": "Middle East Internet Company Limited",
+        "handle": "CYBERIA-RUH"
+    },
+    "12529": {
+        "country_code": "SA",
+        "asn": "12529",
+        "description": "Channels By Saudi Telecom Company (STC) LLC",
+        "handle": "CHANNELS-STC"
+    },
+    "15505": {
+        "country_code": "SA",
+        "asn": "15505",
+        "description": "King Abdulaziz University (KAU) - Deanship of Information Technology",
+        "handle": "KAU"
+    },
+    "20759": {
+        "country_code": "SA",
+        "asn": "20759",
+        "description": "King Abdul Aziz City for Science and Technology",
+        "handle": "SA-IX"
+    },
+    "21002": {
+        "country_code": "SA",
+        "asn": "21002",
+        "description": "Ministry of Finance of Saudi Arabia",
+        "handle": "MOF-AS"
+    },
+    "24731": {
+        "country_code": "SA",
+        "asn": "24731",
+        "description": "Middle East Internet Company Limited",
+        "handle": "ASN-NESMA"
+    },
+    "25019": {
+        "country_code": "SA",
+        "asn": "25019",
+        "description": "Saudi Telecom Company JSC",
+        "handle": "SAUDINETSTC-AS"
+    },
+    "25233": {
+        "country_code": "SA",
+        "asn": "25233",
+        "description": "ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD",
+        "handle": "AWALNET-ASN"
+    },
+    "28938": {
+        "country_code": "SA",
+        "asn": "28938",
+        "description": "Sultan Bin Abdulaziz Foundation",
+        "handle": "MEDUNET-AS"
+    },
+    "29160": {
+        "country_code": "SA",
+        "asn": "29160",
+        "description": "Arabcircle Internet Services for Saudi Arabia",
+        "handle": "ACIS-AS"
+    },
+    "29255": {
+        "country_code": "SA",
+        "asn": "29255",
+        "description": "Etihad Etisalat a joint stock company",
+        "handle": "ZAJIL-AS"
+    },
+    "29684": {
+        "country_code": "SA",
+        "asn": "29684",
+        "description": "Nour Internet Company for Communications and Information Technology Ltd.",
+        "handle": "NOURNET-ASN"
+    },
+    "29690": {
+        "country_code": "SA",
+        "asn": "29690",
+        "description": "AI Jeraisy Electronic Services Company Ltd.",
+        "handle": "ATHEER"
+    },
+    "30815": {
+        "country_code": "SA",
+        "asn": "30815",
+        "description": "Detecon Al Saudia Co. Ltd.",
+        "handle": "DETASAD"
+    },
+    "30857": {
+        "country_code": "SA",
+        "asn": "30857",
+        "description": "Communications Space & Technology Commission (Saudi Arabia)",
+        "handle": "CITC-AS"
+    },
+    "31177": {
+        "country_code": "SA",
+        "asn": "31177",
+        "description": "Saudi Telecom Company JSC",
+        "handle": "JED-IX"
+    },
+    "31416": {
+        "country_code": "SA",
+        "asn": "31416",
+        "description": "Applied Technologies Co.",
+        "handle": "APPTEC-NETWORK"
+    },
+    "31699": {
+        "country_code": "SA",
+        "asn": "31699",
+        "description": "BANK AL JAZIRA",
+        "handle": "BANK-AL-JAZIRA-AS"
+    },
+    "34397": {
+        "country_code": "SA",
+        "asn": "34397",
+        "description": "Middle East Internet Company Limited",
+        "handle": "CYBERIA-RUH"
+    },
+    "34400": {
+        "country_code": "SA",
+        "asn": "34400",
+        "description": "Etihad Etisalat a joint stock company",
+        "handle": "ASN-ETTIHADETISALAT"
+    },
+    "34426": {
+        "country_code": "SA",
+        "asn": "34426",
+        "description": "Shabakah Net",
+        "handle": "SHABAKAHNET-ASN"
+    },
+    "35338": {
+        "country_code": "SA",
+        "asn": "35338",
+        "description": "Ministry of Interior",
+        "handle": "NIC-SDAIA"
+    },
+    "35427": {
+        "country_code": "SA",
+        "asn": "35427",
+        "description": "Inspire Net Information Technology",
+        "handle": "INS"
+    },
+    "35629": {
+        "country_code": "SA",
+        "asn": "35629",
+        "description": "Technical Solutions service Company for Telecommunications and Information Technology Ltd",
+        "handle": "STS"
+    },
+    "35681": {
+        "country_code": "SA",
+        "asn": "35681",
+        "description": "Oyoun al Wasool Communications and Information Technology Company",
+        "handle": "A2TELECOM"
+    },
+    "35753": {
+        "country_code": "SA",
+        "asn": "35753",
+        "description": "Etihad Salam Telecom CJSC",
+        "handle": "ITC"
+    },
+    "35819": {
+        "country_code": "SA",
+        "asn": "35819",
+        "description": "Etihad Etisalat a joint stock company",
+        "handle": "MOBILY-AS"
+    },
+    "39064": {
+        "country_code": "SA",
+        "asn": "39064",
+        "description": "Arab Satellite Communications Organization",
+        "handle": "GATEWAYS-AOC"
+    },
+    "39228": {
+        "country_code": "SA",
+        "asn": "39228",
+        "description": "Integrated Networks Co.",
+        "handle": "INET"
+    },
+    "39358": {
+        "country_code": "SA",
+        "asn": "39358",
+        "description": "Bank Al Bilad",
+        "handle": "BANK-ALBILAD"
+    },
+    "39370": {
+        "country_code": "SA",
+        "asn": "39370",
+        "description": "Saudi Basic Industries Co",
+        "handle": "SABIC-ASN"
+    },
+    "39386": {
+        "country_code": "SA",
+        "asn": "39386",
+        "description": "Saudi Telecom Company JSC",
+        "handle": "STC-IGW-AS"
+    },
+    "39891": {
+        "country_code": "SA",
+        "asn": "39891",
+        "description": "Saudi Telecom Company JSC",
+        "handle": "ALJAWWALSTC-AS"
+    },
+    "41054": {
+        "country_code": "SA",
+        "asn": "41054",
+        "description": "Saudi Paper Manufacturing Company",
+        "handle": "SPMC1-ASN"
+    },
+    "41132": {
+        "country_code": "SA",
+        "asn": "41132",
+        "description": "Applied Technologies Co.",
+        "handle": "SOL-AS"
+    },
+    "41176": {
+        "country_code": "SA",
+        "asn": "41176",
+        "description": "Sahara Al Jazeera Network Information Technology Company",
+        "handle": "SAHARANET-AS"
+    },
+    "41215": {
+        "country_code": "SA",
+        "asn": "41215",
+        "description": "EFG-Hermes KSA",
+        "handle": "EFG-HERMES-UAE"
+    },
+    "41594": {
+        "country_code": "SA",
+        "asn": "41594",
+        "description": "Banque Saudi Fransi",
+        "handle": "SFB-AS"
+    },
+    "41659": {
+        "country_code": "SA",
+        "asn": "41659",
+        "description": "Arab Satellite Communications Organization",
+        "handle": "ARABSAT"
+    },
+    "41739": {
+        "country_code": "SA",
+        "asn": "41739",
+        "description": "Ministry of Education",
+        "handle": "MOESA"
+    },
+    "41810": {
+        "country_code": "SA",
+        "asn": "41810",
+        "description": "Electronic Resources Company Ltd",
+        "handle": "ORBITNET"
+    },
+    "42028": {
+        "country_code": "SA",
+        "asn": "42028",
+        "description": "EFG-Hermes KSA",
+        "handle": "EFG-HERMES-KUWAIT"
+    },
+    "42067": {
+        "country_code": "SA",
+        "asn": "42067",
+        "description": "Luna Space Digital for Information and Technology Company Ltd.",
+        "handle": "SKYBAND-AS"
+    },
+    "42182": {
+        "country_code": "SA",
+        "asn": "42182",
+        "description": "King Fahd Medical City",
+        "handle": "KFMC-ASN"
+    },
+    "42333": {
+        "country_code": "SA",
+        "asn": "42333",
+        "description": "Geidea Technology Co ltd",
+        "handle": "GEIDEA"
+    },
+    "42411": {
+        "country_code": "SA",
+        "asn": "42411",
+        "description": "TAQNIA SPACE CO.",
+        "handle": "TAQNIA-SPACE-AS"
+    },
+    "42428": {
+        "country_code": "SA",
+        "asn": "42428",
+        "description": "Gulf Computer Services Co Ldt",
+        "handle": "SPSNET"
+    },
+    "42591": {
+        "country_code": "SA",
+        "asn": "42591",
+        "description": "Saudi Awwal Bank JSC",
+        "handle": "SHB"
+    },
+    "42684": {
+        "country_code": "SA",
+        "asn": "42684",
+        "description": "EFG-Hermes KSA",
+        "handle": "EFG-HERMES-KSA"
+    },
+    "42769": {
+        "country_code": "SA",
+        "asn": "42769",
+        "description": "Mohammed Ali Alesayi Group",
+        "handle": "ALESAYI"
+    },
+    "42838": {
+        "country_code": "SA",
+        "asn": "42838",
+        "description": "Subhi Muhideen Al Qabani trading as Wideband Est",
+        "handle": "WBC"
+    },
+    "42943": {
+        "country_code": "SA",
+        "asn": "42943",
+        "description": "Dar Al-Mustawred Trading Group Limited",
+        "handle": "TOPNET"
+    },
+    "43316": {
+        "country_code": "SA",
+        "asn": "43316",
+        "description": "Capital Market Authority",
+        "handle": "CMA-AS"
+    },
+    "43334": {
+        "country_code": "SA",
+        "asn": "43334",
+        "description": "Geidea Technology Co ltd",
+        "handle": "GMB"
+    },
+    "43378": {
+        "country_code": "SA",
+        "asn": "43378",
+        "description": "Ministry of Commerce and Industry in Saudi Arabia",
+        "handle": "MOCISA"
+    },
+    "43706": {
+        "country_code": "SA",
+        "asn": "43706",
+        "description": "Network Channels Communications Company",
+        "handle": "ICCSAT"
+    },
+    "43766": {
+        "country_code": "SA",
+        "asn": "43766",
+        "description": "Mobile Telecommunication Company Saudi Arabia Joint-Stock company",
+        "handle": "MTC-KSA-AS"
+    },
+    "43775": {
+        "country_code": "SA",
+        "asn": "43775",
+        "description": "Digital Solutions Provider",
+        "handle": "DSP-AS"
+    },
+    "43977": {
+        "country_code": "SA",
+        "asn": "43977",
+        "description": "ARAMCO GULF OPERATIONS COMPANY LIMITED",
+        "handle": "KJO-OPERATIONS"
+    },
+    "43987": {
+        "country_code": "SA",
+        "asn": "43987",
+        "description": "ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD",
+        "handle": "JDC-CLOUD"
+    },
+    "44138": {
+        "country_code": "SA",
+        "asn": "44138",
+        "description": "Arab National Bank Saudi Stock Co.",
+        "handle": "ANB-ASN"
+    },
+    "44465": {
+        "country_code": "SA",
+        "asn": "44465",
+        "description": "Saudi Central Bank (SAMA)",
+        "handle": "SAMA-AS"
+    },
+    "44577": {
+        "country_code": "SA",
+        "asn": "44577",
+        "description": "Saudi Electricity Company",
+        "handle": "SEC-AS"
+    },
+    "44623": {
+        "country_code": "SA",
+        "asn": "44623",
+        "description": "Middle East Financial Investment",
+        "handle": "MEFIC"
+    },
+    "44689": {
+        "country_code": "SA",
+        "asn": "44689",
+        "description": "Ministry of Education",
+        "handle": "MOHE-AS"
+    },
+    "47146": {
+        "country_code": "SA",
+        "asn": "47146",
+        "description": "Saudi National Bank JSC",
+        "handle": "SAMBAISP-ASN"
+    },
+    "47327": {
+        "country_code": "SA",
+        "asn": "47327",
+        "description": "IT Security Trading Company Ltd",
+        "handle": "ITS2"
+    },
+    "47344": {
+        "country_code": "SA",
+        "asn": "47344",
+        "description": "Rabigh Refining & Petrochemical PJSC",
+        "handle": "PRC"
+    },
+    "47606": {
+        "country_code": "SA",
+        "asn": "47606",
+        "description": "Communications Space & Technology Commission (Saudi Arabia)",
+        "handle": "IXSA"
+    },
+    "47794": {
+        "country_code": "SA",
+        "asn": "47794",
+        "description": "Etihad GO Company For communications",
+        "handle": "ATHEEB-AS"
+    },
+    "47805": {
+        "country_code": "SA",
+        "asn": "47805",
+        "description": "Ministry of Communications and Information Technology",
+        "handle": "MCIT"
+    },
+    "47907": {
+        "country_code": "SA",
+        "asn": "47907",
+        "description": "Elm Company PJS",
+        "handle": "ELM"
+    },
+    "48204": {
+        "country_code": "SA",
+        "asn": "48204",
+        "description": "Etihad Salam Telecom CJSC",
+        "handle": "ITC-INT-POPS"
+    },
+    "48237": {
+        "country_code": "SA",
+        "asn": "48237",
+        "description": "Etihad Etisalat a joint stock company",
+        "handle": "MOBILY-AS"
+    },
+    "48695": {
+        "country_code": "SA",
+        "asn": "48695",
+        "description": "Etihad GO Company For communications",
+        "handle": "ATHEEB-AS"
+    },
+    "48840": {
+        "country_code": "SA",
+        "asn": "48840",
+        "description": "Perfect Presentation for commercial services",
+        "handle": "PP"
+    },
+    "48932": {
+        "country_code": "SA",
+        "asn": "48932",
+        "description": "Saudi Arabian Airlines",
+        "handle": "SV-TAMKEEN"
+    },
+    "48937": {
+        "country_code": "SA",
+        "asn": "48937",
+        "description": "Saudi National Bank JSC",
+        "handle": "NCB"
+    },
+    "49240": {
+        "country_code": "SA",
+        "asn": "49240",
+        "description": "Alinma Bank JSC",
+        "handle": "INMABANK"
+    },
+    "49257": {
+        "country_code": "SA",
+        "asn": "49257",
+        "description": "American Express Company (Saudi Arabia) PJS",
+        "handle": "AMEXAS"
+    },
+    "49317": {
+        "country_code": "SA",
+        "asn": "49317",
+        "description": "Abdul Kadir Al-Muhaidib & Sons Company CJS",
+        "handle": "AMG"
+    },
+    "49474": {
+        "country_code": "SA",
+        "asn": "49474",
+        "description": "Elm Company PJS",
+        "handle": "ALELM"
+    },
+    "49610": {
+        "country_code": "SA",
+        "asn": "49610",
+        "description": "NIC (National Information Center)- SDAIA ( Saudi Data and Artificial Intelligence Authority )",
+        "handle": "NIC-SAIX-ASAS1"
+    },
+    "49833": {
+        "country_code": "SA",
+        "asn": "49833",
+        "description": "National Center for Meteorology",
+        "handle": "GAMEP"
+    },
+    "50280": {
+        "country_code": "SA",
+        "asn": "50280",
+        "description": "Ministry Of Civil Service Kingdom of Saudi Arabia",
+        "handle": "MCSSA-AS"
+    },
+    "50517": {
+        "country_code": "SA",
+        "asn": "50517",
+        "description": "King Saud University",
+        "handle": "KSU"
+    },
+    "50880": {
+        "country_code": "SA",
+        "asn": "50880",
+        "description": "SEVEN EYES FOR MARKETING LTD",
+        "handle": "SEVENI-AS"
+    },
+    "50999": {
+        "country_code": "SA",
+        "asn": "50999",
+        "description": "King Abdullah University of Science and Technology",
+        "handle": "KAUST-AS1"
+    },
+    "51549": {
+        "country_code": "SA",
+        "asn": "51549",
+        "description": "Sahara Petrochemical Co.",
+        "handle": "SAHARAPCC-AS"
+    },
+    "51670": {
+        "country_code": "SA",
+        "asn": "51670",
+        "description": "Technical & Vocational Training Corporation",
+        "handle": "TVTC-AS"
+    },
+    "51975": {
+        "country_code": "SA",
+        "asn": "51975",
+        "description": "CloudLayers for Information Technology Co. LTD",
+        "handle": "NASHIRNET-ASN"
+    },
+    "56714": {
+        "country_code": "SA",
+        "asn": "56714",
+        "description": "Imam Abdulrahman Bin Faisal University",
+        "handle": "IAU"
+    },
+    "56865": {
+        "country_code": "SA",
+        "asn": "56865",
+        "description": "Dar Al-Mustawred Trading Group Limited",
+        "handle": "TOPNET"
+    },
+    "57458": {
+        "country_code": "SA",
+        "asn": "57458",
+        "description": "Global Arabian For Modern Applications LTD.",
+        "handle": "GAMA"
+    },
+    "57689": {
+        "country_code": "SA",
+        "asn": "57689",
+        "description": "Rashid Abdul Rahman Al Rashid & Sons Co.",
+        "handle": "RASHED-ALRASHED-AS"
+    },
+    "57799": {
+        "country_code": "SA",
+        "asn": "57799",
+        "description": "SAUDI CREDIT INFORMATION CJSC",
+        "handle": "SIMAH"
+    },
+    "57863": {
+        "country_code": "SA",
+        "asn": "57863",
+        "description": "Saudi Investment Bank JSC",
+        "handle": "SAIB"
+    },
+    "57900": {
+        "country_code": "SA",
+        "asn": "57900",
+        "description": "Saudi Awwal Bank JSC",
+        "handle": "SAUDI-BRITISH-BANK"
+    },
+    "57968": {
+        "country_code": "SA",
+        "asn": "57968",
+        "description": "Ministry of Foreign Affairs",
+        "handle": "MOFA"
+    },
+    "58025": {
+        "country_code": "SA",
+        "asn": "58025",
+        "description": "Advanced Petrochemical Company JSC",
+        "handle": "ADVA-AS"
+    },
+    "58250": {
+        "country_code": "SA",
+        "asn": "58250",
+        "description": "ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD",
+        "handle": "STCS-JDC"
+    },
+    "58277": {
+        "country_code": "SA",
+        "asn": "58277",
+        "description": "RigNet Inc",
+        "handle": "RIGNET-INC-SA"
+    },
+    "59771": {
+        "country_code": "SA",
+        "asn": "59771",
+        "description": "RIYAD BANK",
+        "handle": "RB"
+    },
+    "60050": {
+        "country_code": "SA",
+        "asn": "60050",
+        "description": "Saudi Post Corporation",
+        "handle": "SP-ASN"
+    },
+    "60055": {
+        "country_code": "SA",
+        "asn": "60055",
+        "description": "Saudi Chevron Phillips LLC",
+        "handle": "SCHEM"
+    },
+    "60161": {
+        "country_code": "SA",
+        "asn": "60161",
+        "description": "Prince Sattam Bin Abdulaziz University",
+        "handle": "SAUAS"
+    },
+    "60621": {
+        "country_code": "SA",
+        "asn": "60621",
+        "description": "Authority of Developing Al-Madinah Al-Munawarah",
+        "handle": "MDA-AS"
+    },
+    "61073": {
+        "country_code": "SA",
+        "asn": "61073",
+        "description": "Global Financial Digital Solution Company JSC",
+        "handle": "NEOLEAP"
+    },
+    "61268": {
+        "country_code": "SA",
+        "asn": "61268",
+        "description": "SAUDI TADAWUL GROUP HOLDING COMPANY JSC",
+        "handle": "TADAWUL"
+    },
+    "61398": {
+        "country_code": "SA",
+        "asn": "61398",
+        "description": "Real Estate Development Fund",
+        "handle": "REDF"
+    },
+    "62415": {
+        "country_code": "SA",
+        "asn": "62415",
+        "description": "Agricultural Development Fund (gov)",
+        "handle": "ADF"
+    },
+    "62452": {
+        "country_code": "SA",
+        "asn": "62452",
+        "description": "Al-Imam Muhammad Ibn Saud Islamic University",
+        "handle": "IMIU"
+    },
+    "65571": {
+        "country_code": "SA",
+        "asn": "65571",
+        "description": "Saudi Telecom Company JSC",
+        "handle": "SAUDI-TELECOM-COMPANY-JSC"
+    },
+    "65572": {
+        "country_code": "SA",
+        "asn": "65572",
+        "description": "Saudi Telecom Company JSC",
+        "handle": "SAUDI-TELECOM-COMPANY-JSC"
+    },
+    "196848": {
+        "country_code": "SA",
+        "asn": "196848",
+        "description": "Zamil Industrial Investment Co",
+        "handle": "ZIIC"
+    },
+    "197247": {
+        "country_code": "SA",
+        "asn": "197247",
+        "description": "International Systems Engineering Co. Limited Liability",
+        "handle": "ISE"
+    },
+    "197989": {
+        "country_code": "SA",
+        "asn": "197989",
+        "description": "Saudi Electronic Info Exchange Company (Tabadul) JSC",
+        "handle": "TABADUL-AS"
+    },
+    "197994": {
+        "country_code": "SA",
+        "asn": "197994",
+        "description": "Al Jazirah Corporation for Press Printing and Publishing",
+        "handle": "SUHUF-AS"
+    },
+    "198254": {
+        "country_code": "SA",
+        "asn": "198254",
+        "description": "Abdul Latheef Jameel Co. Ltd",
+        "handle": "ALJ-SA"
+    },
+    "198406": {
+        "country_code": "SA",
+        "asn": "198406",
+        "description": "TASNEE National Company LTD",
+        "handle": "TASNEE"
+    },
+    "198795": {
+        "country_code": "SA",
+        "asn": "198795",
+        "description": "NIC (National Information Center)- SDAIA ( Saudi Data and Artificial Intelligence Authority )",
+        "handle": "NIC-SAIX-P-CLOUD"
+    },
+    "200025": {
+        "country_code": "SA",
+        "asn": "200025",
+        "description": "Saudi Arabian Mining Company (Ma'aden) JSC",
+        "handle": "MAADEN"
+    },
+    "200366": {
+        "country_code": "SA",
+        "asn": "200366",
+        "description": "Saudi Business Machines Ltd - Sole Shareholder Company",
+        "handle": "CLOUDBLUE"
+    },
+    "200852": {
+        "country_code": "SA",
+        "asn": "200852",
+        "description": "Gulf Digital Media Model LLC",
+        "handle": "INTIGRAL-AS"
+    },
+    "201484": {
+        "country_code": "SA",
+        "asn": "201484",
+        "description": "Saudi Public Transport Company JSC",
+        "handle": "SAPTCO"
+    },
+    "201628": {
+        "country_code": "SA",
+        "asn": "201628",
+        "description": "Cloud Connect Co LLC",
+        "handle": "CLOUD-CONNECT"
+    },
+    "201768": {
+        "country_code": "SA",
+        "asn": "201768",
+        "description": "ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD",
+        "handle": "ISP-SAT"
+    },
+    "201769": {
+        "country_code": "SA",
+        "asn": "201769",
+        "description": "ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD",
+        "handle": "ODC-COL"
+    },
+    "201771": {
+        "country_code": "SA",
+        "asn": "201771",
+        "description": "ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD",
+        "handle": "NDC-CLOUD"
+    },
+    "201927": {
+        "country_code": "SA",
+        "asn": "201927",
+        "description": "National Agricultural Development Co. (JSC)",
+        "handle": "SA-NADEC-AS"
+    },
+    "202105": {
+        "country_code": "SA",
+        "asn": "202105",
+        "description": "Al wafai International For Communication and Information Technology LLC",
+        "handle": "WAFAINET-AS"
+    },
+    "202379": {
+        "country_code": "SA",
+        "asn": "202379",
+        "description": "MADARAT COMMUNICATIONS COMPANY LLC",
+        "handle": "MADARAT"
+    },
+    "202392": {
+        "country_code": "SA",
+        "asn": "202392",
+        "description": "Dawiyat Telecommunication Co.",
+        "handle": "DAWIYAT-SA"
+    },
+    "202982": {
+        "country_code": "SA",
+        "asn": "202982",
+        "description": "Al-Rajhi Banking and Investment Corporation",
+        "handle": "ASALRAJHIBANK"
+    },
+    "203116": {
+        "country_code": "SA",
+        "asn": "203116",
+        "description": "NESMA HOLDING CO LLC",
+        "handle": "NESMAHOLDING"
+    },
+    "203268": {
+        "country_code": "SA",
+        "asn": "203268",
+        "description": "Digital Technology Co.Ltd.",
+        "handle": "DIGITAL-TECHNOLOGY-AS"
+    },
+    "203378": {
+        "country_code": "SA",
+        "asn": "203378",
+        "description": "General Authority of ZAKAT & TAX",
+        "handle": "DZIT"
+    },
+    "203893": {
+        "country_code": "SA",
+        "asn": "203893",
+        "description": "International Maritime Industries Mixed Limited Liability Company",
+        "handle": "ASNIMIRAK"
+    },
+    "204011": {
+        "country_code": "SA",
+        "asn": "204011",
+        "description": "Saudi Aramco Total Refining and Petrochemical Co.",
+        "handle": "SATORP4"
+    },
+    "204255": {
+        "country_code": "SA",
+        "asn": "204255",
+        "description": "Salem Alsaiari",
+        "handle": "SY-AS"
+    },
+    "205222": {
+        "country_code": "SA",
+        "asn": "205222",
+        "description": "Kalaam Telecom for Communications LLC",
+        "handle": "KALAAM-TELECOM-KSA"
+    },
+    "205251": {
+        "country_code": "SA",
+        "asn": "205251",
+        "description": "Sadara Chemical Company LLC",
+        "handle": "SADARANET"
+    },
+    "205695": {
+        "country_code": "SA",
+        "asn": "205695",
+        "description": "Maximum Solutions for Communications and Information Technology LLC",
+        "handle": "MAX-JED-AS"
+    },
+    "206694": {
+        "country_code": "SA",
+        "asn": "206694",
+        "description": "Amazenet Information Technology Co Ltd",
+        "handle": "AMAZENET-AS"
+    },
+    "206878": {
+        "country_code": "SA",
+        "asn": "206878",
+        "description": "Johns Hopkins Aramco Healthcare LLC",
+        "handle": "JHAH"
+    },
+    "206942": {
+        "country_code": "SA",
+        "asn": "206942",
+        "description": "Saudia Aerospace Engineering Industries SJSC",
+        "handle": "SAEI-ASN"
+    },
+    "207276": {
+        "country_code": "SA",
+        "asn": "207276",
+        "description": "Muvi Cinemas Company CJSC",
+        "handle": "MUVI-CINEMAS"
+    },
+    "207443": {
+        "country_code": "SA",
+        "asn": "207443",
+        "description": "Nova Set Trading Company CJSC",
+        "handle": "NOVASAT"
+    },
+    "207544": {
+        "country_code": "SA",
+        "asn": "207544",
+        "description": "FAST DATA COMPANY FOR TELECOMMUNICATIONS AND INFORMATION TECHNOLOGY LIMITED LIABILITY",
+        "handle": "FD-ME"
+    },
+    "207661": {
+        "country_code": "SA",
+        "asn": "207661",
+        "description": "Safe Decision Information Technology Company JSC",
+        "handle": "SDMS"
+    },
+    "208140": {
+        "country_code": "SA",
+        "asn": "208140",
+        "description": "Elm Company PJS",
+        "handle": "HUIC"
+    },
+    "208472": {
+        "country_code": "SA",
+        "asn": "208472",
+        "description": "Social Development Bank",
+        "handle": "SDB"
+    },
+    "208520": {
+        "country_code": "SA",
+        "asn": "208520",
+        "description": "King Abdul Aziz City for Science and Technology",
+        "handle": "SA-IX"
+    },
+    "209197": {
+        "country_code": "SA",
+        "asn": "209197",
+        "description": "Data Security for Cyber Security LLC",
+        "handle": "SADEEMCLOUD-SA"
+    },
+    "209308": {
+        "country_code": "SA",
+        "asn": "209308",
+        "description": "Public Telecommunications Company Limited Liability Company",
+        "handle": "STCSC"
+    },
+    "209342": {
+        "country_code": "SA",
+        "asn": "209342",
+        "description": "NIC (National Information Center)- SDAIA ( Saudi Data and Artificial Intelligence Authority )",
+        "handle": "NIC-SDAIA-DEEM"
+    },
+    "209421": {
+        "country_code": "SA",
+        "asn": "209421",
+        "description": "Saudi Telecom Company JSC",
+        "handle": "JED-IX"
+    },
+    "209444": {
+        "country_code": "SA",
+        "asn": "209444",
+        "description": "The Royal commission for Jubail and Yanbu",
+        "handle": "RCJY"
+    },
+    "209464": {
+        "country_code": "SA",
+        "asn": "209464",
+        "description": "King Saud bin Abdulaziz University For Health Sciences",
+        "handle": "KSAU"
+    },
+    "209497": {
+        "country_code": "SA",
+        "asn": "209497",
+        "description": "Saudi Red Crescent Authority",
+        "handle": "SRCA"
+    },
+    "209905": {
+        "country_code": "SA",
+        "asn": "209905",
+        "description": "Sejel Technology Company for Integrated Electronic Applications Ltd",
+        "handle": "SEJEL"
+    },
+    "210248": {
+        "country_code": "SA",
+        "asn": "210248",
+        "description": "NORTHERN BORDER UNIVERSITY",
+        "handle": "NBU"
+    },
+    "210268": {
+        "country_code": "SA",
+        "asn": "210268",
+        "description": "Mawarid Electronics Ltd",
+        "handle": "MAWARID"
+    },
+    "210275": {
+        "country_code": "SA",
+        "asn": "210275",
+        "description": "Saudi Information Technology Company CJSC",
+        "handle": "SITCO-AS"
+    },
+    "210859": {
+        "country_code": "SA",
+        "asn": "210859",
+        "description": "King Abdul Aziz City for Science and Technology",
+        "handle": "SA-IX"
+    },
+    "211050": {
+        "country_code": "SA",
+        "asn": "211050",
+        "description": "STC Bank CJSC",
+        "handle": "AS-STCPAY"
+    },
+    "211226": {
+        "country_code": "SA",
+        "asn": "211226",
+        "description": "EBTTIKAR TECHNOLOGY Company Ltd",
+        "handle": "EBTTIKAR"
+    },
+    "211266": {
+        "country_code": "SA",
+        "asn": "211266",
+        "description": "Alistithmar for Financial Securities and Brokerage Company JSC",
+        "handle": "ICAP"
+    },
+    "211459": {
+        "country_code": "SA",
+        "asn": "211459",
+        "description": "NATTAK AL-TATUR for information technology Ltd",
+        "handle": "SPHERA"
+    },
+    "211764": {
+        "country_code": "SA",
+        "asn": "211764",
+        "description": "King Abdul Aziz City for Science and Technology",
+        "handle": "SA-IX"
+    },
+    "212173": {
+        "country_code": "SA",
+        "asn": "212173",
+        "description": "XP Cloud Establishment",
+        "handle": "XP"
+    },
+    "212294": {
+        "country_code": "SA",
+        "asn": "212294",
+        "description": "Basel Al-Sayeh",
+        "handle": "BASEL-AL-SAYEH-ASN"
+    },
+    "212436": {
+        "country_code": "SA",
+        "asn": "212436",
+        "description": "Flynas Company PJS",
+        "handle": "SA-FLYNAS"
+    },
+    "212758": {
+        "country_code": "SA",
+        "asn": "212758",
+        "description": "Salem Bakhdhar trading as Horizons Solutions for Communications & Information Technology",
+        "handle": "HS-AS"
+    },
+    "212848": {
+        "country_code": "SA",
+        "asn": "212848",
+        "description": "STC Bank CJSC",
+        "handle": "AS-STCPAY"
+    },
+    "212889": {
+        "country_code": "SA",
+        "asn": "212889",
+        "description": "Al wafai International For Communication and Information Technology LLC",
+        "handle": "WAFAINET-AS"
+    },
+    "213473": {
+        "country_code": "SA",
+        "asn": "213473",
+        "description": "Kalaam Telecom for Communications LLC",
+        "handle": "KALAAM-KSA"
+    },
+    "213535": {
+        "country_code": "SA",
+        "asn": "213535",
+        "description": "YottaSrc",
+        "handle": "YOTTASRC"
+    },
+    "213675": {
+        "country_code": "SA",
+        "asn": "213675",
+        "description": "King Faisal Specialist Hospital and Research Centre",
+        "handle": "KFSHRC-AS"
+    },
+    "213797": {
+        "country_code": "SA",
+        "asn": "213797",
+        "description": "Digital Centers for Data and Communications Company-One-Person Company",
+        "handle": "DAM-IX"
+    },
+    "213838": {
+        "country_code": "SA",
+        "asn": "213838",
+        "description": "Company AL-BAAD AL-AKHIR For Information Technology Ltd",
+        "handle": "LD"
+    },
+    "214156": {
+        "country_code": "SA",
+        "asn": "214156",
+        "description": "Zaintech Solutions Company LLC",
+        "handle": "HZT-KSA-ASN"
+    },
+    "214303": {
+        "country_code": "SA",
+        "asn": "214303",
+        "description": "Ministry of Hajj and Umrah",
+        "handle": "HAJ"
+    },
+    "214329": {
+        "country_code": "SA",
+        "asn": "214329",
+        "description": "BGP Network LLC",
+        "handle": "BGP-NETWORK"
+    },
+    "214754": {
+        "country_code": "SA",
+        "asn": "214754",
+        "description": "Business research and development company Ltd",
+        "handle": "T2-ASN"
+    },
+    "214905": {
+        "country_code": "SA",
+        "asn": "214905",
+        "description": "Layer3 for Wireless communication Mixed LLC",
+        "handle": "LAYER3"
+    },
+    "214936": {
+        "country_code": "SA",
+        "asn": "214936",
+        "description": "Saudi Business Machines Ltd - Sole Shareholder Company",
+        "handle": "CLOUDBLUEHOFUF"
+    },
+    "215072": {
+        "country_code": "SA",
+        "asn": "215072",
+        "description": "Tawuniya Insurance JSC",
+        "handle": "TAWUNIYA"
+    },
+    "215196": {
+        "country_code": "SA",
+        "asn": "215196",
+        "description": "Middle East Advanced IT Systems Establishment",
+        "handle": "MEA"
+    },
+    "215442": {
+        "country_code": "SA",
+        "asn": "215442",
+        "description": "Al-marhalla Al-taliya Information Technology Holding Company Ltd",
+        "handle": "NEVELTECH"
+    },
+    "215524": {
+        "country_code": "SA",
+        "asn": "215524",
+        "description": "Tonomus Limited",
+        "handle": "NEOM-AS"
+    },
+    "215557": {
+        "country_code": "SA",
+        "asn": "215557",
+        "description": "Saudi Information Technology Company CJSC",
+        "handle": "SITE"
+    },
+    "215580": {
+        "country_code": "SA",
+        "asn": "215580",
+        "description": "Saudi Net Link LLC",
+        "handle": "SNLC"
+    },
+    "215611": {
+        "country_code": "SA",
+        "asn": "215611",
+        "description": "Ceer National Automotive Company CJSC",
+        "handle": "CEER"
+    },
+    "215861": {
+        "country_code": "SA",
+        "asn": "215861",
+        "description": "NIC (National Information Center)- SDAIA ( Saudi Data and Artificial Intelligence Authority )",
+        "handle": "CRIT"
+    },
+    "216292": {
+        "country_code": "SA",
+        "asn": "216292",
+        "description": "Abdulrahman Aljeraisy trading as Seven Hundred and Twenty Technologies Company",
+        "handle": "SECURE-PATH"
+    },
+    "216396": {
+        "country_code": "SA",
+        "asn": "216396",
+        "description": "WALEED ALNAMI",
+        "handle": "NECRONNETWORKS"
+    },
+    "216406": {
+        "country_code": "SA",
+        "asn": "216406",
+        "description": "Digital Centers for Data and Communications Company-One-Person Company",
+        "handle": "RYD-IX"
+    },
+    "216407": {
+        "country_code": "SA",
+        "asn": "216407",
+        "description": "Digital Centers for Data and Communications Company-One-Person Company",
+        "handle": "RYD-IX"
+    },
+    "216419": {
+        "country_code": "SA",
+        "asn": "216419",
+        "description": "ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD",
+        "handle": "RMDC-CLOUD"
+    },
+    "216465": {
+        "country_code": "SA",
+        "asn": "216465",
+        "description": "Islamic Military Counter Terrorism Coalition",
+        "handle": "IMCTC"
+    }
+}

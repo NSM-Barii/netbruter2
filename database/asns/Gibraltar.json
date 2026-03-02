@@ -1,0 +1,158 @@
+{
+    "8301": {
+        "country_code": "GI",
+        "asn": "8301",
+        "description": "Gibtelecom Ltd.",
+        "handle": "GIBTELECOMNET"
+    },
+    "8446": {
+        "country_code": "GI",
+        "asn": "8446",
+        "description": "Kindred (Gibraltar) Limited",
+        "handle": "ASN-SJU"
+    },
+    "8652": {
+        "country_code": "GI",
+        "asn": "8652",
+        "description": "Petfre (Gibraltar) Limited",
+        "handle": "PETFRE-AS"
+    },
+    "12786": {
+        "country_code": "GI",
+        "asn": "12786",
+        "description": "Hattrick Limited",
+        "handle": "HATTRICK"
+    },
+    "12798": {
+        "country_code": "GI",
+        "asn": "12798",
+        "description": "BV Gaming Limited",
+        "handle": "VCW-AS"
+    },
+    "21110": {
+        "country_code": "GI",
+        "asn": "21110",
+        "description": "Entain Corporate Services Limited",
+        "handle": "LADBROKES-UK"
+    },
+    "34803": {
+        "country_code": "GI",
+        "asn": "34803",
+        "description": "Broadband Gibraltar Limited",
+        "handle": "BGL"
+    },
+    "34810": {
+        "country_code": "GI",
+        "asn": "34810",
+        "description": "Mansion (Gibraltar) Limited",
+        "handle": "MANSION-AS"
+    },
+    "39882": {
+        "country_code": "GI",
+        "asn": "39882",
+        "description": "Virtual Internet Services Limited",
+        "handle": "VISL"
+    },
+    "47448": {
+        "country_code": "GI",
+        "asn": "47448",
+        "description": "Entain Corporate Services Limited",
+        "handle": "PRTY-AS"
+    },
+    "49061": {
+        "country_code": "GI",
+        "asn": "49061",
+        "description": "WHG (International) Limited",
+        "handle": "WHGINTLTD"
+    },
+    "60412": {
+        "country_code": "GI",
+        "asn": "60412",
+        "description": "MATER LIMITED",
+        "handle": "MATER"
+    },
+    "60817": {
+        "country_code": "GI",
+        "asn": "60817",
+        "description": "Netassist Limited",
+        "handle": "IXP6ASSIST-AS"
+    },
+    "196775": {
+        "country_code": "GI",
+        "asn": "196775",
+        "description": "Entain Corporate Services Limited",
+        "handle": "BAY-MANAGEMENT"
+    },
+    "196904": {
+        "country_code": "GI",
+        "asn": "196904",
+        "description": "Evolution NetEnt (Gibraltar) Limited",
+        "handle": "NETENT-AS"
+    },
+    "198849": {
+        "country_code": "GI",
+        "asn": "198849",
+        "description": "Virtual Internet Services Limited",
+        "handle": "VISL-UK"
+    },
+    "199926": {
+        "country_code": "GI",
+        "asn": "199926",
+        "description": "Evolution NetEnt (Gibraltar) Limited",
+        "handle": "NETENT2-AS"
+    },
+    "201071": {
+        "country_code": "GI",
+        "asn": "201071",
+        "description": "Virtual Internet Services Limited",
+        "handle": "VISL-IE"
+    },
+    "202087": {
+        "country_code": "GI",
+        "asn": "202087",
+        "description": "GIBFIBRE LTD",
+        "handle": "AJSEGIB-AS"
+    },
+    "203335": {
+        "country_code": "GI",
+        "asn": "203335",
+        "description": "Evolution NetEnt (Gibraltar) Limited",
+        "handle": "NETENT3-AS"
+    },
+    "203619": {
+        "country_code": "GI",
+        "asn": "203619",
+        "description": "IVPN Limited",
+        "handle": "IVPN"
+    },
+    "203976": {
+        "country_code": "GI",
+        "asn": "203976",
+        "description": "QUAD CODE (GB) LTD",
+        "handle": "AS-QUADCODE-2"
+    },
+    "207402": {
+        "country_code": "GI",
+        "asn": "207402",
+        "description": "Government of Gibraltar",
+        "handle": "GOG-ASN"
+    },
+    "208700": {
+        "country_code": "GI",
+        "asn": "208700",
+        "description": "QUAD CODE (GB) LTD",
+        "handle": "QC-BG"
+    },
+    "212316": {
+        "country_code": "GI",
+        "asn": "212316",
+        "description": "Melmasti Global (Gibraltar) Limited",
+        "handle": "MELMASTI-GLOBAL"
+    },
+    "212734": {
+        "country_code": "GI",
+        "asn": "212734",
+        "description": "QUAD CODE (GB) LTD",
+        "handle": "QUADCODE"
+    }
+}

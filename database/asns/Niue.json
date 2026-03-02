@@ -1,0 +1,14 @@
+{
+    "10025": {
+        "country_code": "NU",
+        "asn": "10025",
+        "description": "The IUSN Foundation",
+        "handle": "IUSN-AS-AP"
+    },
+    "55885": {
+        "country_code": "NU",
+        "asn": "55885",
+        "description": "Niue Telecom",
+        "handle": "ISP-NU"
+    }
+}

@@ -1,0 +1,1310 @@
+{
+    "2586": {
+        "country_code": "EE",
+        "asn": "2586",
+        "description": "Elisa Eesti AS",
+        "handle": "UNINET-AS"
+    },
+    "2876": {
+        "country_code": "EE",
+        "asn": "2876",
+        "description": "Gheorghiu Enterprises OU",
+        "handle": "AS-G-ENTERPRISES"
+    },
+    "3130": {
+        "country_code": "EE",
+        "asn": "3130",
+        "description": "RGnet OU",
+        "handle": "RGNET-SEA"
+    },
+    "3204": {
+        "country_code": "EE",
+        "asn": "3204",
+        "description": "xTom OU",
+        "handle": "XTOM-V-PS"
+    },
+    "3221": {
+        "country_code": "EE",
+        "asn": "3221",
+        "description": "Haridus- ja Teadusministeerium",
+        "handle": "EENET-AS"
+    },
+    "3249": {
+        "country_code": "EE",
+        "asn": "3249",
+        "description": "Telia Eesti AS",
+        "handle": "ESTPAK"
+    },
+    "3332": {
+        "country_code": "EE",
+        "asn": "3332",
+        "description": "Swedbank AS",
+        "handle": "SWEDBANK-AS"
+    },
+    "3920": {
+        "country_code": "EE",
+        "asn": "3920",
+        "description": "PUSHPKT OU",
+        "handle": "PUSHPKT"
+    },
+    "3927": {
+        "country_code": "EE",
+        "asn": "3927",
+        "description": "RGnet OU",
+        "handle": "RGNET-IAD"
+    },
+    "3970": {
+        "country_code": "EE",
+        "asn": "3970",
+        "description": "RGnet OU",
+        "handle": "RGNET-TE-EX"
+    },
+    "4128": {
+        "country_code": "EE",
+        "asn": "4128",
+        "description": "RGnet OU",
+        "handle": "RGNET-DFW"
+    },
+    "5608": {
+        "country_code": "EE",
+        "asn": "5608",
+        "description": "Magnus McKay Moeller",
+        "handle": "FVNN"
+    },
+    "8240": {
+        "country_code": "EE",
+        "asn": "8240",
+        "description": "Information System Authority",
+        "handle": "AS8240"
+    },
+    "8728": {
+        "country_code": "EE",
+        "asn": "8728",
+        "description": "AS INFONET",
+        "handle": "AS-INFONET"
+    },
+    "8756": {
+        "country_code": "EE",
+        "asn": "8756",
+        "description": "Windmill Telecom OU",
+        "handle": "RADIO-MSU"
+    },
+    "9204": {
+        "country_code": "EE",
+        "asn": "9204",
+        "description": "Gheorghiu Enterprises OU",
+        "handle": "AS-G-ENTERPRISES"
+    },
+    "12293": {
+        "country_code": "EE",
+        "asn": "12293",
+        "description": "Xvid Services OU",
+        "handle": "XVID"
+    },
+    "12757": {
+        "country_code": "EE",
+        "asn": "12757",
+        "description": "IPTRON.NET OU",
+        "handle": "IPTRON"
+    },
+    "13272": {
+        "country_code": "EE",
+        "asn": "13272",
+        "description": "Elisa Eesti AS",
+        "handle": "STARMAN"
+    },
+    "16014": {
+        "country_code": "EE",
+        "asn": "16014",
+        "description": "Telia Eesti AS",
+        "handle": "ESTPAK-GRX"
+    },
+    "16255": {
+        "country_code": "EE",
+        "asn": "16255",
+        "description": "IridiumProvider OU",
+        "handle": "IRIDIUM-AS"
+    },
+    "20948": {
+        "country_code": "EE",
+        "asn": "20948",
+        "description": "Skylink Networking Ltd",
+        "handle": "SKYLINK-AS"
+    },
+    "21147": {
+        "country_code": "EE",
+        "asn": "21147",
+        "description": "If P&C Insurance AS",
+        "handle": "IF-NOC-AS"
+    },
+    "24984": {
+        "country_code": "EE",
+        "asn": "24984",
+        "description": "Luminor Bank AS",
+        "handle": "LUMINORLT"
+    },
+    "31081": {
+        "country_code": "EE",
+        "asn": "31081",
+        "description": "National Audit Office of Estonia",
+        "handle": "RIIGIKONTROLL-AS"
+    },
+    "31365": {
+        "country_code": "EE",
+        "asn": "31365",
+        "description": "NGI2 Technologies OU",
+        "handle": "NGI2-TR"
+    },
+    "31605": {
+        "country_code": "EE",
+        "asn": "31605",
+        "description": "Titanium OU",
+        "handle": "ALLOY-NETWORKS"
+    },
+    "34702": {
+        "country_code": "EE",
+        "asn": "34702",
+        "description": "Aktsiaselts WaveCom",
+        "handle": "WAVECOM-AS"
+    },
+    "34729": {
+        "country_code": "EE",
+        "asn": "34729",
+        "description": "Veho Baltics OU",
+        "handle": "SILBERAUTO"
+    },
+    "35713": {
+        "country_code": "EE",
+        "asn": "35713",
+        "description": "Careerum OU",
+        "handle": "SERTY-AS"
+    },
+    "39038": {
+        "country_code": "EE",
+        "asn": "39038",
+        "description": "Kernel AS",
+        "handle": "KERNEL-AS"
+    },
+    "39632": {
+        "country_code": "EE",
+        "asn": "39632",
+        "description": "Eesti Pank",
+        "handle": "EESTIPANK"
+    },
+    "39823": {
+        "country_code": "EE",
+        "asn": "39823",
+        "description": "Compic OU",
+        "handle": "COMPIC"
+    },
+    "42012": {
+        "country_code": "EE",
+        "asn": "42012",
+        "description": "Estonian Public Broadcasting",
+        "handle": "ETV-AS"
+    },
+    "42016": {
+        "country_code": "EE",
+        "asn": "42016",
+        "description": "AS Tallinna Lennujaam",
+        "handle": "TLL-AERO-AS"
+    },
+    "42300": {
+        "country_code": "EE",
+        "asn": "42300",
+        "description": "TOP CONNECT OU",
+        "handle": "TOPCONNECT-AS"
+    },
+    "42380": {
+        "country_code": "EE",
+        "asn": "42380",
+        "description": "Ergo Insurance SE",
+        "handle": "ERGOLT-AS"
+    },
+    "42472": {
+        "country_code": "EE",
+        "asn": "42472",
+        "description": "AS Smarten Logistics",
+        "handle": "SMARTEN-AS"
+    },
+    "42474": {
+        "country_code": "EE",
+        "asn": "42474",
+        "description": "SmartApe OU",
+        "handle": "IL"
+    },
+    "43682": {
+        "country_code": "EE",
+        "asn": "43682",
+        "description": "AS SEB Pank",
+        "handle": "EE-SEB-AS"
+    },
+    "43881": {
+        "country_code": "EE",
+        "asn": "43881",
+        "description": "Revnetek Systems OU",
+        "handle": "SMARTLINK-AS"
+    },
+    "43883": {
+        "country_code": "EE",
+        "asn": "43883",
+        "description": "Citynet OU",
+        "handle": "CITY-AS"
+    },
+    "43937": {
+        "country_code": "EE",
+        "asn": "43937",
+        "description": "Playtech Estonia OU",
+        "handle": "PTNET"
+    },
+    "43958": {
+        "country_code": "EE",
+        "asn": "43958",
+        "description": "AS Tallink Grupp",
+        "handle": "TALLINK-AS"
+    },
+    "43993": {
+        "country_code": "EE",
+        "asn": "43993",
+        "description": "IronTelecom OU",
+        "handle": "ITEL-AS"
+    },
+    "44794": {
+        "country_code": "EE",
+        "asn": "44794",
+        "description": "DNScale OU",
+        "handle": "DNSCALE"
+    },
+    "44839": {
+        "country_code": "EE",
+        "asn": "44839",
+        "description": "Telegrupp AS",
+        "handle": "TELEGRUPP-AS"
+    },
+    "44929": {
+        "country_code": "EE",
+        "asn": "44929",
+        "description": "Nord Connect OU",
+        "handle": "NORD-CONNECT"
+    },
+    "47105": {
+        "country_code": "EE",
+        "asn": "47105",
+        "description": "Vault Dweller OU",
+        "handle": "AS-VD"
+    },
+    "47294": {
+        "country_code": "EE",
+        "asn": "47294",
+        "description": "Nomadl OU",
+        "handle": "NOMD-AS"
+    },
+    "47416": {
+        "country_code": "EE",
+        "asn": "47416",
+        "description": "AS INFONET",
+        "handle": "IIX-EE"
+    },
+    "47525": {
+        "country_code": "EE",
+        "asn": "47525",
+        "description": "AS TBB pank",
+        "handle": "TBB-AS"
+    },
+    "47713": {
+        "country_code": "EE",
+        "asn": "47713",
+        "description": "EUROPEAN NETWORKS OY",
+        "handle": "EE-EUROPEANNETWORKS"
+    },
+    "47736": {
+        "country_code": "EE",
+        "asn": "47736",
+        "description": "IT and Development Center of Ministry of Interior Estonia",
+        "handle": "SMIT"
+    },
+    "48539": {
+        "country_code": "EE",
+        "asn": "48539",
+        "description": "Bifrost Systems OU",
+        "handle": "BIFROST-SYSTEMS"
+    },
+    "48924": {
+        "country_code": "EE",
+        "asn": "48924",
+        "description": "Global Software Investment OU",
+        "handle": "SOFTERIUM-AS"
+    },
+    "49191": {
+        "country_code": "EE",
+        "asn": "49191",
+        "description": "Global Software Investment OU",
+        "handle": "SOFTERIUM-AS"
+    },
+    "49512": {
+        "country_code": "EE",
+        "asn": "49512",
+        "description": "Biptec OU",
+        "handle": "BIPTEC"
+    },
+    "49604": {
+        "country_code": "EE",
+        "asn": "49604",
+        "description": "Zone Media OU",
+        "handle": "ZONE"
+    },
+    "50535": {
+        "country_code": "EE",
+        "asn": "50535",
+        "description": "Theta Sigma Industries OU",
+        "handle": "EUSKILL-AS"
+    },
+    "50747": {
+        "country_code": "EE",
+        "asn": "50747",
+        "description": "It Hosting Group",
+        "handle": "IT-HOSTINGGROUP"
+    },
+    "50794": {
+        "country_code": "EE",
+        "asn": "50794",
+        "description": "Levira AS",
+        "handle": "LEVIRA"
+    },
+    "51103": {
+        "country_code": "EE",
+        "asn": "51103",
+        "description": "EDS SYSTEMS OU",
+        "handle": "EDS-EE"
+    },
+    "51349": {
+        "country_code": "EE",
+        "asn": "51349",
+        "description": "Foundation Eesti Interneti Sihtasutus",
+        "handle": "EIS-AS"
+    },
+    "51504": {
+        "country_code": "EE",
+        "asn": "51504",
+        "description": "AS Telset",
+        "handle": "TELSET"
+    },
+    "56588": {
+        "country_code": "EE",
+        "asn": "56588",
+        "description": "Information System Authority",
+        "handle": "EE-CERT"
+    },
+    "57063": {
+        "country_code": "EE",
+        "asn": "57063",
+        "description": "GPU Computing OU",
+        "handle": "PUZL-AS"
+    },
+    "57196": {
+        "country_code": "EE",
+        "asn": "57196",
+        "description": "Clonoth OU",
+        "handle": "CLONOTH"
+    },
+    "57201": {
+        "country_code": "EE",
+        "asn": "57201",
+        "description": "Estonian Defence Forces",
+        "handle": "EDF-AS"
+    },
+    "57873": {
+        "country_code": "EE",
+        "asn": "57873",
+        "description": "SONICTEST Ltd.",
+        "handle": "SONICTEST"
+    },
+    "57934": {
+        "country_code": "EE",
+        "asn": "57934",
+        "description": "WJY OU",
+        "handle": "WJY-AS"
+    },
+    "59435": {
+        "country_code": "EE",
+        "asn": "59435",
+        "description": "CSpace Hostings OU",
+        "handle": "BLAZELYNK"
+    },
+    "59725": {
+        "country_code": "EE",
+        "asn": "59725",
+        "description": "Solifinance OU",
+        "handle": "SOLIFINANCE-AS"
+    },
+    "60320": {
+        "country_code": "EE",
+        "asn": "60320",
+        "description": "European Domain Registry OU",
+        "handle": "EDOMREG"
+    },
+    "60415": {
+        "country_code": "EE",
+        "asn": "60415",
+        "description": "Loginet Solutions LLC",
+        "handle": "LOGINET-AS"
+    },
+    "60608": {
+        "country_code": "EE",
+        "asn": "60608",
+        "description": "Olympic Entertainment Group AS",
+        "handle": "OLYMPIC"
+    },
+    "61189": {
+        "country_code": "EE",
+        "asn": "61189",
+        "description": "Elkdata OU",
+        "handle": "ELKDATA"
+    },
+    "61254": {
+        "country_code": "EE",
+        "asn": "61254",
+        "description": "ESTOXY OU",
+        "handle": "ESTOXY-OU"
+    },
+    "61307": {
+        "country_code": "EE",
+        "asn": "61307",
+        "description": "AS STV",
+        "handle": "EE-AS-STV"
+    },
+    "61328": {
+        "country_code": "EE",
+        "asn": "61328",
+        "description": "OU Metrotec",
+        "handle": "METROTEC"
+    },
+    "62005": {
+        "country_code": "EE",
+        "asn": "62005",
+        "description": "BlueVPS OU",
+        "handle": "BV-EU-AS"
+    },
+    "62024": {
+        "country_code": "EE",
+        "asn": "62024",
+        "description": "SIHTASUTUS EESTI TERVISHOIU PILDIPANK",
+        "handle": "PACS"
+    },
+    "62212": {
+        "country_code": "EE",
+        "asn": "62212",
+        "description": "SmartApe OU",
+        "handle": "EE"
+    },
+    "62248": {
+        "country_code": "EE",
+        "asn": "62248",
+        "description": "MODIRUM MDPAY OU",
+        "handle": "MODIRUM"
+    },
+    "62303": {
+        "country_code": "EE",
+        "asn": "62303",
+        "description": "DNScale OU",
+        "handle": "DNSCALE"
+    },
+    "62406": {
+        "country_code": "EE",
+        "asn": "62406",
+        "description": "DNScale OU",
+        "handle": "DNSCALE"
+    },
+    "64451": {
+        "country_code": "EE",
+        "asn": "64451",
+        "description": "Xvid Services OU",
+        "handle": "XVID-SERVICES"
+    },
+    "64467": {
+        "country_code": "EE",
+        "asn": "64467",
+        "description": "Magnus McKay Moeller",
+        "handle": "CROABH"
+    },
+    "142108": {
+        "country_code": "EE",
+        "asn": "142108",
+        "description": "Rotko Networks",
+        "handle": "ROTKONETWORKSOU-AS-AP"
+    },
+    "196743": {
+        "country_code": "EE",
+        "asn": "196743",
+        "description": "OU Interframe",
+        "handle": "INTERFRAME"
+    },
+    "196785": {
+        "country_code": "EE",
+        "asn": "196785",
+        "description": "ERGO Insurance SE",
+        "handle": "EE-ERGO-AS"
+    },
+    "197060": {
+        "country_code": "EE",
+        "asn": "197060",
+        "description": "Prominion OU",
+        "handle": "IP-KONEKESKUSTEOU"
+    },
+    "197289": {
+        "country_code": "EE",
+        "asn": "197289",
+        "description": "AS HELMES",
+        "handle": "HELMES-AS"
+    },
+    "197517": {
+        "country_code": "EE",
+        "asn": "197517",
+        "description": "Salva Kindlustuse AS",
+        "handle": "SALVA-AS"
+    },
+    "197611": {
+        "country_code": "EE",
+        "asn": "197611",
+        "description": "AS LHV Pank",
+        "handle": "LHV-AS"
+    },
+    "198006": {
+        "country_code": "EE",
+        "asn": "198006",
+        "description": "Bear Metal OU",
+        "handle": "BEARMETAL"
+    },
+    "198068": {
+        "country_code": "EE",
+        "asn": "198068",
+        "description": "P.A.G.M. OU",
+        "handle": "PAGM-AS"
+    },
+    "198379": {
+        "country_code": "EE",
+        "asn": "198379",
+        "description": "AS Atea",
+        "handle": "EE-ATEA"
+    },
+    "198632": {
+        "country_code": "EE",
+        "asn": "198632",
+        "description": "Telia Eesti AS",
+        "handle": "EE-ESTPAK-IPT"
+    },
+    "198702": {
+        "country_code": "EE",
+        "asn": "198702",
+        "description": "SmartTel Plus OU",
+        "handle": "TENIOS-DE"
+    },
+    "198776": {
+        "country_code": "EE",
+        "asn": "198776",
+        "description": "EDELARAUDTEE AS",
+        "handle": "EDELARAUDTEE"
+    },
+    "198966": {
+        "country_code": "EE",
+        "asn": "198966",
+        "description": "Fill Ltd.",
+        "handle": "FILL"
+    },
+    "199328": {
+        "country_code": "EE",
+        "asn": "199328",
+        "description": "Ekspress Grupp AS",
+        "handle": "EKSPRESS-DIGITAL"
+    },
+    "199800": {
+        "country_code": "EE",
+        "asn": "199800",
+        "description": "OIXIO IT AS",
+        "handle": "VORGUVARA"
+    },
+    "199867": {
+        "country_code": "EE",
+        "asn": "199867",
+        "description": "P.A.G.M. OU",
+        "handle": "PAGM-AS-2"
+    },
+    "200774": {
+        "country_code": "EE",
+        "asn": "200774",
+        "description": "Atlasnode OU",
+        "handle": "ATLASNODE"
+    },
+    "200804": {
+        "country_code": "EE",
+        "asn": "200804",
+        "description": "OU NORTHSIDE SOLUTIONS",
+        "handle": "NSS"
+    },
+    "200989": {
+        "country_code": "EE",
+        "asn": "200989",
+        "description": "Foundation Eesti Interneti Sihtasutus",
+        "handle": "EIS-ANYCAST"
+    },
+    "201256": {
+        "country_code": "EE",
+        "asn": "201256",
+        "description": "MurphyHolding OU",
+        "handle": "MURPHYHOLDING"
+    },
+    "201273": {
+        "country_code": "EE",
+        "asn": "201273",
+        "description": "cubequadrat OU",
+        "handle": "CUBE2"
+    },
+    "201344": {
+        "country_code": "EE",
+        "asn": "201344",
+        "description": "PUSHPKT OU",
+        "handle": "PUSHPKT-OU"
+    },
+    "201601": {
+        "country_code": "EE",
+        "asn": "201601",
+        "description": "Astrec Data OU",
+        "handle": "ASTREC-DATA"
+    },
+    "201613": {
+        "country_code": "EE",
+        "asn": "201613",
+        "description": "22nd Century Dev OU",
+        "handle": "CENTURY-AS"
+    },
+    "201906": {
+        "country_code": "EE",
+        "asn": "201906",
+        "description": "Eesti Post AS",
+        "handle": "EESTIPOST-AS"
+    },
+    "202063": {
+        "country_code": "EE",
+        "asn": "202063",
+        "description": "Admiral Markets AS",
+        "handle": "ADMIRAL-MARKETS"
+    },
+    "202225": {
+        "country_code": "EE",
+        "asn": "202225",
+        "description": "Helionet OU",
+        "handle": "BIGHOST-NL"
+    },
+    "202376": {
+        "country_code": "EE",
+        "asn": "202376",
+        "description": "Arvid Logicum OU",
+        "handle": "ARVID-LOGICUM"
+    },
+    "202413": {
+        "country_code": "EE",
+        "asn": "202413",
+        "description": "Pronkin Timofei",
+        "handle": "PRONKIN-AS"
+    },
+    "202480": {
+        "country_code": "EE",
+        "asn": "202480",
+        "description": "AS Tallinna Sadam",
+        "handle": "EE-TALLINNASADAM"
+    },
+    "202635": {
+        "country_code": "EE",
+        "asn": "202635",
+        "description": "Server Farm LLC",
+        "handle": "SERVERFARM"
+    },
+    "202652": {
+        "country_code": "EE",
+        "asn": "202652",
+        "description": "Elevi AS",
+        "handle": "ELEVI-AS"
+    },
+    "202705": {
+        "country_code": "EE",
+        "asn": "202705",
+        "description": "Pavali Technology OU",
+        "handle": "PAVALI-TECHNOLOGY"
+    },
+    "202759": {
+        "country_code": "EE",
+        "asn": "202759",
+        "description": "RJ Network OU",
+        "handle": "FAIRYHOSTING"
+    },
+    "203021": {
+        "country_code": "EE",
+        "asn": "203021",
+        "description": "Tervisekassa",
+        "handle": "TERVISEKASSA"
+    },
+    "203065": {
+        "country_code": "EE",
+        "asn": "203065",
+        "description": "eu-LISA",
+        "handle": "EU-LISA"
+    },
+    "203081": {
+        "country_code": "EE",
+        "asn": "203081",
+        "description": "Geenet OY",
+        "handle": "GEENET"
+    },
+    "203273": {
+        "country_code": "EE",
+        "asn": "203273",
+        "description": "NetCrafters OU",
+        "handle": "NETCRAFTERSOUE"
+    },
+    "203311": {
+        "country_code": "EE",
+        "asn": "203311",
+        "description": "NATO Cooperative Cyber Defence Centre of Excellence",
+        "handle": "CCDCOE"
+    },
+    "203701": {
+        "country_code": "EE",
+        "asn": "203701",
+        "description": "RocketConnect OU",
+        "handle": "ROCKET-AS"
+    },
+    "203906": {
+        "country_code": "EE",
+        "asn": "203906",
+        "description": "Sihtasutus Pohja-Eesti Regionaalhaigla",
+        "handle": "PERH"
+    },
+    "204023": {
+        "country_code": "EE",
+        "asn": "204023",
+        "description": "Brainoza OU",
+        "handle": "DNSDOT"
+    },
+    "204072": {
+        "country_code": "EE",
+        "asn": "204072",
+        "description": "Quickport OU",
+        "handle": "QUICKPORT"
+    },
+    "204411": {
+        "country_code": "EE",
+        "asn": "204411",
+        "description": "Bigbank AS",
+        "handle": "BIGBANK"
+    },
+    "204472": {
+        "country_code": "EE",
+        "asn": "204472",
+        "description": "Welcomehost OU",
+        "handle": "WELCOMEHOST"
+    },
+    "204595": {
+        "country_code": "EE",
+        "asn": "204595",
+        "description": "UUS PROGRAMM",
+        "handle": "UUSPROGRAMM"
+    },
+    "204671": {
+        "country_code": "EE",
+        "asn": "204671",
+        "description": "Habr Europe OU",
+        "handle": "HABR-AS"
+    },
+    "205346": {
+        "country_code": "EE",
+        "asn": "205346",
+        "description": "Lennuliiklusteeninduse AS",
+        "handle": "EANS"
+    },
+    "205504": {
+        "country_code": "EE",
+        "asn": "205504",
+        "description": "Skylink Networking Ltd",
+        "handle": "FAL-AS"
+    },
+    "205621": {
+        "country_code": "EE",
+        "asn": "205621",
+        "description": "Zentria OU",
+        "handle": "ZENTRIAOU"
+    },
+    "205646": {
+        "country_code": "EE",
+        "asn": "205646",
+        "description": "Newtel Company OU",
+        "handle": "NEWTEL-AS"
+    },
+    "205696": {
+        "country_code": "EE",
+        "asn": "205696",
+        "description": "AS Postimees Grupp",
+        "handle": "EE-APOLLOTV"
+    },
+    "205930": {
+        "country_code": "EE",
+        "asn": "205930",
+        "description": "Virtuaal.com OU",
+        "handle": "VIRTUAALCOM"
+    },
+    "205950": {
+        "country_code": "EE",
+        "asn": "205950",
+        "description": "INFONET DC OY",
+        "handle": "INFONET-DC"
+    },
+    "206151": {
+        "country_code": "EE",
+        "asn": "206151",
+        "description": "Elevi AS",
+        "handle": "PROLINKAS"
+    },
+    "206714": {
+        "country_code": "EE",
+        "asn": "206714",
+        "description": "SK ID Solutions AS",
+        "handle": "SKIDSOLUTIONS"
+    },
+    "206804": {
+        "country_code": "EE",
+        "asn": "206804",
+        "description": "EstNOC OU",
+        "handle": "ESTNOC-GLOBAL"
+    },
+    "206844": {
+        "country_code": "EE",
+        "asn": "206844",
+        "description": "Riigi Info- ja Kommunikatsioonitehnoloogia Keskus",
+        "handle": "RIKS"
+    },
+    "206919": {
+        "country_code": "EE",
+        "asn": "206919",
+        "description": "Carizma Invest OU",
+        "handle": "AGL-DIVISION-AS"
+    },
+    "207037": {
+        "country_code": "EE",
+        "asn": "207037",
+        "description": "Information System Authority",
+        "handle": "RV"
+    },
+    "207213": {
+        "country_code": "EE",
+        "asn": "207213",
+        "description": "TAMONE OU",
+        "handle": "TAMONE-OU"
+    },
+    "207254": {
+        "country_code": "EE",
+        "asn": "207254",
+        "description": "AS Postimees Grupp",
+        "handle": "EE-EMEEDIA"
+    },
+    "207428": {
+        "country_code": "EE",
+        "asn": "207428",
+        "description": "Rednet LLC",
+        "handle": "REDNET"
+    },
+    "207522": {
+        "country_code": "EE",
+        "asn": "207522",
+        "description": "Mygaru OU Private Limited Company",
+        "handle": "MYGARU-AU"
+    },
+    "207568": {
+        "country_code": "EE",
+        "asn": "207568",
+        "description": "Teleone OU",
+        "handle": "TELEONE"
+    },
+    "207800": {
+        "country_code": "EE",
+        "asn": "207800",
+        "description": "Information System Authority",
+        "handle": "RTIX"
+    },
+    "207819": {
+        "country_code": "EE",
+        "asn": "207819",
+        "description": "NOVAMETRO OU",
+        "handle": "NOVAMETRO"
+    },
+    "207872": {
+        "country_code": "EE",
+        "asn": "207872",
+        "description": "OU CSC Telecom Estonia",
+        "handle": "CTE1"
+    },
+    "208076": {
+        "country_code": "EE",
+        "asn": "208076",
+        "description": "Infra1 OU",
+        "handle": "INFRA1-AS-EE"
+    },
+    "208283": {
+        "country_code": "EE",
+        "asn": "208283",
+        "description": "Cybernetica AS",
+        "handle": "CYBERNETICA2-EE"
+    },
+    "208338": {
+        "country_code": "EE",
+        "asn": "208338",
+        "description": "Cybernetica AS",
+        "handle": "CYBERNETICA-EE"
+    },
+    "208367": {
+        "country_code": "EE",
+        "asn": "208367",
+        "description": "CSpace Hostings OU",
+        "handle": "CSPACEHOSTINGS"
+    },
+    "208440": {
+        "country_code": "EE",
+        "asn": "208440",
+        "description": "GmhostGrupp OU",
+        "handle": "GMHOST-EE"
+    },
+    "208446": {
+        "country_code": "EE",
+        "asn": "208446",
+        "description": "Spacebear OU",
+        "handle": "SPACEBEAR-AS"
+    },
+    "208550": {
+        "country_code": "EE",
+        "asn": "208550",
+        "description": "Wise Payments Limited Eesti filiaal",
+        "handle": "TRANSFERWISE-EST"
+    },
+    "208673": {
+        "country_code": "EE",
+        "asn": "208673",
+        "description": "ESTOXY OU",
+        "handle": "ESTOXY-EE"
+    },
+    "208832": {
+        "country_code": "EE",
+        "asn": "208832",
+        "description": "Twinservers OU",
+        "handle": "TWINSERVERS-AS"
+    },
+    "208834": {
+        "country_code": "EE",
+        "asn": "208834",
+        "description": "Coop Pank AS",
+        "handle": "COOPPANK"
+    },
+    "209153": {
+        "country_code": "EE",
+        "asn": "209153",
+        "description": "Arvid Logicum OU",
+        "handle": "ARVID"
+    },
+    "209537": {
+        "country_code": "EE",
+        "asn": "209537",
+        "description": "Vying Technologies OU",
+        "handle": "VYING-TECHNOLOGIES"
+    },
+    "209554": {
+        "country_code": "EE",
+        "asn": "209554",
+        "description": "ISIF OU",
+        "handle": "ISIF-AS"
+    },
+    "209587": {
+        "country_code": "EE",
+        "asn": "209587",
+        "description": "AS Eesti Loto",
+        "handle": "EESTILOTO"
+    },
+    "209722": {
+        "country_code": "EE",
+        "asn": "209722",
+        "description": "Tryware OU",
+        "handle": "TRYWARE"
+    },
+    "209798": {
+        "country_code": "EE",
+        "asn": "209798",
+        "description": "Eesti Avaliku Sektori Andmeside MTU",
+        "handle": "EASA"
+    },
+    "209842": {
+        "country_code": "EE",
+        "asn": "209842",
+        "description": "CybExer Technologies OU",
+        "handle": "CYBEXER"
+    },
+    "209916": {
+        "country_code": "EE",
+        "asn": "209916",
+        "description": "viasys OU",
+        "handle": "VIASYS"
+    },
+    "210002": {
+        "country_code": "EE",
+        "asn": "210002",
+        "description": "SmartTel Plus OU",
+        "handle": "STP"
+    },
+    "210009": {
+        "country_code": "EE",
+        "asn": "210009",
+        "description": "MadCats OU",
+        "handle": "UNKNOWN"
+    },
+    "210283": {
+        "country_code": "EE",
+        "asn": "210283",
+        "description": "DIGIFINANCE OU",
+        "handle": "ASDIGIFINANCE"
+    },
+    "210284": {
+        "country_code": "EE",
+        "asn": "210284",
+        "description": "NOVAMETRO OU",
+        "handle": "NOVAMETROTALLIN"
+    },
+    "210302": {
+        "country_code": "EE",
+        "asn": "210302",
+        "description": "Pipedrive OU",
+        "handle": "PIPEDRIVE-M3"
+    },
+    "210434": {
+        "country_code": "EE",
+        "asn": "210434",
+        "description": "nets360 OU",
+        "handle": "AS-NETS360"
+    },
+    "210661": {
+        "country_code": "EE",
+        "asn": "210661",
+        "description": "ZMTO Technologies OU",
+        "handle": "ZMTO"
+    },
+    "210671": {
+        "country_code": "EE",
+        "asn": "210671",
+        "description": "Virtuaalinfra OU",
+        "handle": "VIRTUAALINFRA-AS"
+    },
+    "210734": {
+        "country_code": "EE",
+        "asn": "210734",
+        "description": "IPHOSTER OU",
+        "handle": "IPHOSTER"
+    },
+    "210978": {
+        "country_code": "EE",
+        "asn": "210978",
+        "description": "NOVAMETRO OU",
+        "handle": "OFFICE"
+    },
+    "211156": {
+        "country_code": "EE",
+        "asn": "211156",
+        "description": "Eleks Holding OU",
+        "handle": "ELEKS-PL"
+    },
+    "211230": {
+        "country_code": "EE",
+        "asn": "211230",
+        "description": "Sean Consulting OU",
+        "handle": "SEANCONSULTING"
+    },
+    "211328": {
+        "country_code": "EE",
+        "asn": "211328",
+        "description": "Nets Estonia AS",
+        "handle": "NETS-EE-AS"
+    },
+    "211451": {
+        "country_code": "EE",
+        "asn": "211451",
+        "description": "MCF Group Estonia OU",
+        "handle": "EEMCF"
+    },
+    "211494": {
+        "country_code": "EE",
+        "asn": "211494",
+        "description": "Narayana OU",
+        "handle": "NARAYANA"
+    },
+    "211924": {
+        "country_code": "EE",
+        "asn": "211924",
+        "description": "PrintLab OU",
+        "handle": "PRINTLAB-AS"
+    },
+    "212159": {
+        "country_code": "EE",
+        "asn": "212159",
+        "description": "Martin Soovares",
+        "handle": "HOOD-VPS"
+    },
+    "212649": {
+        "country_code": "EE",
+        "asn": "212649",
+        "description": "GLOWING TECHNOLOGIES SECURITY OU",
+        "handle": "GLWTECH"
+    },
+    "213172": {
+        "country_code": "EE",
+        "asn": "213172",
+        "description": "Health and Welfare Information Systems",
+        "handle": "EE-TEHIK"
+    },
+    "213267": {
+        "country_code": "EE",
+        "asn": "213267",
+        "description": "Luminor Bank AS",
+        "handle": "LUMINORLV"
+    },
+    "213410": {
+        "country_code": "EE",
+        "asn": "213410",
+        "description": "OakHost OU",
+        "handle": "OAKHOST"
+    },
+    "213459": {
+        "country_code": "EE",
+        "asn": "213459",
+        "description": "Snowd Security OU",
+        "handle": "SNOWD"
+    },
+    "213614": {
+        "country_code": "EE",
+        "asn": "213614",
+        "description": "MonxLabs OU",
+        "handle": "MONXLABS"
+    },
+    "213627": {
+        "country_code": "EE",
+        "asn": "213627",
+        "description": "QVQNETWORK OU",
+        "handle": "QVQNETWORK"
+    },
+    "213757": {
+        "country_code": "EE",
+        "asn": "213757",
+        "description": "Impressive Solutions OU",
+        "handle": "IMPRESSIVE-SOLUTIONS-AS"
+    },
+    "214132": {
+        "country_code": "EE",
+        "asn": "214132",
+        "description": "3NV OU",
+        "handle": "EE-3NV-AS"
+    },
+    "214246": {
+        "country_code": "EE",
+        "asn": "214246",
+        "description": "Impressive Solutions OU",
+        "handle": "IMPRESSIVE-SOLUTIONS-OU"
+    },
+    "214279": {
+        "country_code": "EE",
+        "asn": "214279",
+        "description": "DASABO OU",
+        "handle": "DASABO"
+    },
+    "214322": {
+        "country_code": "EE",
+        "asn": "214322",
+        "description": "HostAnder OU",
+        "handle": "HOSTANDER-AS"
+    },
+    "214630": {
+        "country_code": "EE",
+        "asn": "214630",
+        "description": "Kyberorg IT OU",
+        "handle": "KYBERORG-IT-AS"
+    },
+    "214693": {
+        "country_code": "EE",
+        "asn": "214693",
+        "description": "Fusiora OU",
+        "handle": "FUSIORA"
+    },
+    "214712": {
+        "country_code": "EE",
+        "asn": "214712",
+        "description": "FLOKLI OU",
+        "handle": "FLOKLI"
+    },
+    "214776": {
+        "country_code": "EE",
+        "asn": "214776",
+        "description": "Teliqon Communications OU",
+        "handle": "TELIQON-AS"
+    },
+    "214790": {
+        "country_code": "EE",
+        "asn": "214790",
+        "description": "Brainoza OU",
+        "handle": "BRAINOZA"
+    },
+    "214919": {
+        "country_code": "EE",
+        "asn": "214919",
+        "description": "Kabat OU",
+        "handle": "KABAT-AS"
+    },
+    "214976": {
+        "country_code": "EE",
+        "asn": "214976",
+        "description": "API VERSA OU",
+        "handle": "APIVERSA"
+    },
+    "215447": {
+        "country_code": "EE",
+        "asn": "215447",
+        "description": "Primend OU",
+        "handle": "PRIMEND"
+    },
+    "215467": {
+        "country_code": "EE",
+        "asn": "215467",
+        "description": "Skhron OU",
+        "handle": "SKHRON"
+    },
+    "215709": {
+        "country_code": "EE",
+        "asn": "215709",
+        "description": "YOLLA CALLS INTERNATIONAL OU",
+        "handle": "YOLLA-AS"
+    },
+    "215955": {
+        "country_code": "EE",
+        "asn": "215955",
+        "description": "ALTEASYSTEMS OU",
+        "handle": "ALTEASYSTEMS-AS"
+    },
+    "216253": {
+        "country_code": "EE",
+        "asn": "216253",
+        "description": "Interhive OU",
+        "handle": "INTERHIVE-AS"
+    },
+    "216263": {
+        "country_code": "EE",
+        "asn": "216263",
+        "description": "Radicenter OU",
+        "handle": "RADICENTER"
+    },
+    "216408": {
+        "country_code": "EE",
+        "asn": "216408",
+        "description": "Tavid AS",
+        "handle": "TAVEX"
+    }
+}

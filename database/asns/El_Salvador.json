@@ -1,0 +1,332 @@
+{
+    "6945": {
+        "country_code": "SV",
+        "asn": "6945",
+        "description": "SVNet",
+        "handle": "SVNET"
+    },
+    "12127": {
+        "country_code": "SV",
+        "asn": "12127",
+        "description": "Telefonica Moviles El Salvador S.A. de C.V.",
+        "handle": "TELEFONICA-MOVILES-EL"
+    },
+    "14111": {
+        "country_code": "SV",
+        "asn": "14111",
+        "description": "EL SALVADOR TELECOM S.A DE C.V.",
+        "handle": "EL-SALVADOR-TELECOM"
+    },
+    "16592": {
+        "country_code": "SV",
+        "asn": "16592",
+        "description": "ICOMSA S.A. de C.V.",
+        "handle": "ICOMSA"
+    },
+    "16906": {
+        "country_code": "SV",
+        "asn": "16906",
+        "description": "El Salvador Network S. A.",
+        "handle": "EL-SALVADOR-NETWORK-S-A"
+    },
+    "17079": {
+        "country_code": "SV",
+        "asn": "17079",
+        "description": "Telemovil El Salvador S.A.",
+        "handle": "TELEMOVIL-EL-SALVADOR"
+    },
+    "17086": {
+        "country_code": "SV",
+        "asn": "17086",
+        "description": "MILLICOM CABLE EL SALVADOR S.A. DE C.V.",
+        "handle": "MILLICOM-CABLE-EL"
+    },
+    "22833": {
+        "country_code": "SV",
+        "asn": "22833",
+        "description": "CTE S.A. de C.V.",
+        "handle": "CTE"
+    },
+    "25927": {
+        "country_code": "SV",
+        "asn": "25927",
+        "description": "Telecomunicaciones de America S.A. de C.V.",
+        "handle": "TELECOMUNICACIONES-AMERICA"
+    },
+    "27708": {
+        "country_code": "SV",
+        "asn": "27708",
+        "description": "GCA Telecom",
+        "handle": "GCA-TELECOM"
+    },
+    "27773": {
+        "country_code": "SV",
+        "asn": "27773",
+        "description": "MILLICOM CABLE EL SALVADOR S.A. DE C.V.",
+        "handle": "MILLICOM-CABLE-EL"
+    },
+    "27785": {
+        "country_code": "SV",
+        "asn": "27785",
+        "description": "BANCO CUSCATLAN SV S.A.",
+        "handle": "BANCO-CUSCATLAN-SV"
+    },
+    "27900": {
+        "country_code": "SV",
+        "asn": "27900",
+        "description": "PLATINUM ENTERPRISES S.A. DE C.V.",
+        "handle": "PLATINUM-ENTERPRISES"
+    },
+    "27903": {
+        "country_code": "SV",
+        "asn": "27903",
+        "description": "DIGICEL S.A. DE C.V.",
+        "handle": "DIGICEL"
+    },
+    "28074": {
+        "country_code": "SV",
+        "asn": "28074",
+        "description": "Banco Azteca El Salvador S.A.",
+        "handle": "BANCO-AZTECA-EL-SALVADOR"
+    },
+    "52472": {
+        "country_code": "SV",
+        "asn": "52472",
+        "description": "FOCUS EL SALVADOR S.A DE C.V",
+        "handle": "FOCUS-EL-SALVADOR"
+    },
+    "61502": {
+        "country_code": "SV",
+        "asn": "61502",
+        "description": "UNIVERSIDAD CENTROAMERICANA JOSE SIMEON CA\u00d1AS",
+        "handle": "UNIVERSIDAD-CENTROAMERICANA-JOSE"
+    },
+    "262179": {
+        "country_code": "SV",
+        "asn": "262179",
+        "description": "TELENETWORK DE EL SALVADOR S.A. DE C.V.",
+        "handle": "TELENETWORK-EL-SALVADOR"
+    },
+    "262199": {
+        "country_code": "SV",
+        "asn": "262199",
+        "description": "LIBERTY NETWORKS EL SALVADOR SOCIEDAD AN\u00d3NIMA DE CAPITAL VARIABLE",
+        "handle": "LIBERTY-NETWORKS-EL"
+    },
+    "262204": {
+        "country_code": "SV",
+        "asn": "262204",
+        "description": "Telecomunicaciones de America S.A. de C.V.",
+        "handle": "TELECOMUNICACIONES-AMERICA"
+    },
+    "263695": {
+        "country_code": "SV",
+        "asn": "263695",
+        "description": "BANCO AGRICOLA",
+        "handle": "BANCO-AGRICOLA"
+    },
+    "263708": {
+        "country_code": "SV",
+        "asn": "263708",
+        "description": "Almacenes Sim\u00e1n S.A. de C.V.",
+        "handle": "ALMACENES-SIMAN"
+    },
+    "263783": {
+        "country_code": "SV",
+        "asn": "263783",
+        "description": "Telefonica Moviles El Salvador S.A. de C.V.",
+        "handle": "TELEFONICA-MOVILES-EL"
+    },
+    "264606": {
+        "country_code": "SV",
+        "asn": "264606",
+        "description": "ENLACEVISION",
+        "handle": "ENLACEVISION"
+    },
+    "264635": {
+        "country_code": "SV",
+        "asn": "264635",
+        "description": "CONECTIVE S.A. DE C.V.",
+        "handle": "CONECTIVE"
+    },
+    "264662": {
+        "country_code": "SV",
+        "asn": "264662",
+        "description": "Universidad Don Bosco",
+        "handle": "UNIVERSIDAD-DON-BOSCO"
+    },
+    "264720": {
+        "country_code": "SV",
+        "asn": "264720",
+        "description": "UNIVERSIDAD DE EL SALVADOR",
+        "handle": "UNIVERSIDAD-EL-SALVADOR"
+    },
+    "264813": {
+        "country_code": "SV",
+        "asn": "264813",
+        "description": "Outsourcing Services International",
+        "handle": "OUTSOURCING-SERVICES-INTERNATIONAL"
+    },
+    "265650": {
+        "country_code": "SV",
+        "asn": "265650",
+        "description": "Next Generation S.A. DE C.V.",
+        "handle": "NEXT-GENERATION"
+    },
+    "265712": {
+        "country_code": "SV",
+        "asn": "265712",
+        "description": "UNIVERSIDAD FRANCISCO GAVIDIA",
+        "handle": "UNIVERSIDAD-FRANCISCO-GAVIDIA"
+    },
+    "265752": {
+        "country_code": "SV",
+        "asn": "265752",
+        "description": "FOCUS EL SALVADOR S.A DE C.V",
+        "handle": "FOCUS-EL-SALVADOR"
+    },
+    "265780": {
+        "country_code": "SV",
+        "asn": "265780",
+        "description": "FLYNET BUSINESS AND SYSTEM SA de CV",
+        "handle": "FLYNET-BUSINESS"
+    },
+    "265811": {
+        "country_code": "SV",
+        "asn": "265811",
+        "description": "UNIVERSIDAD CAPITAN GENERAL GERARDO BARRIOS",
+        "handle": "UNIVERSIDAD-CAPITAN-GENERAL"
+    },
+    "265840": {
+        "country_code": "SV",
+        "asn": "265840",
+        "description": "SOCIAL MARKETING AND PROMOTIONS S.A. DE C.V.",
+        "handle": "SOCIAL-MARKETING"
+    },
+    "266686": {
+        "country_code": "SV",
+        "asn": "266686",
+        "description": "SISCOMP NETWORK S.A de C.V(Ego-Internet)",
+        "handle": "SISCOMP-NETWORK"
+    },
+    "266893": {
+        "country_code": "SV",
+        "asn": "266893",
+        "description": "MULTIMEDIA NETWORK S.A. DE C.V.",
+        "handle": "MULTIMEDIA-NETWORK"
+    },
+    "267709": {
+        "country_code": "SV",
+        "asn": "267709",
+        "description": "NABA COM S.A. DE C.V.",
+        "handle": "NABA-COM"
+    },
+    "267752": {
+        "country_code": "SV",
+        "asn": "267752",
+        "description": "INTERNET TELECOMUNICATION COMPANY DE GUATEMALA S.A. SUCURSAL EL SALVADOR",
+        "handle": "INTERNET-TELECOMUNICATION-COMPANY"
+    },
+    "267768": {
+        "country_code": "SV",
+        "asn": "267768",
+        "description": "TELECAM CIENTO CUARENTA S.A de C.V.",
+        "handle": "TELECAM-CIENTO-CUARENTA"
+    },
+    "267860": {
+        "country_code": "SV",
+        "asn": "267860",
+        "description": "UNIVERSIDAD DE ORIENTE",
+        "handle": "UNIVERSIDAD-ORIENTE"
+    },
+    "267877": {
+        "country_code": "SV",
+        "asn": "267877",
+        "description": "GLOBAL TELECOM LATAM S.A. DE C.V.",
+        "handle": "GLOBAL-TELECOM-LATAM"
+    },
+    "267917": {
+        "country_code": "SV",
+        "asn": "267917",
+        "description": "B-PRO INNOVACIONES S.A. DE C.V.",
+        "handle": "B-PRO-INNOVACIONES"
+    },
+    "269734": {
+        "country_code": "SV",
+        "asn": "269734",
+        "description": "CABLE VISI\u00d3N POR SAT\u00c9LITE S.A. DE C.V.",
+        "handle": "CABLE-VISION-POR"
+    },
+    "269769": {
+        "country_code": "SV",
+        "asn": "269769",
+        "description": "SERVICABLE S.A. DE C.V.",
+        "handle": "SERVICABLE"
+    },
+    "269815": {
+        "country_code": "SV",
+        "asn": "269815",
+        "description": "RED 4G SA DE CV",
+        "handle": "RED-4G"
+    },
+    "269837": {
+        "country_code": "SV",
+        "asn": "269837",
+        "description": "BLUE FUSION S.A. DE C.V",
+        "handle": "BLUE-FUSION"
+    },
+    "269927": {
+        "country_code": "SV",
+        "asn": "269927",
+        "description": "JORGE ALFREDO ARGUETA FLORES (OMNIVISION-OMNICOM)",
+        "handle": "JORGE-ALFREDO-ARGUETA-FLORES"
+    },
+    "271948": {
+        "country_code": "SV",
+        "asn": "271948",
+        "description": "COATL S.A. de C.V.",
+        "handle": "COATL"
+    },
+    "271966": {
+        "country_code": "SV",
+        "asn": "271966",
+        "description": "Red Avanzada de Investigaci\u00f3n Ciencia y Educaci\u00f3n Salvadore\u00f1a",
+        "handle": "RED-AVANZADA-INVESTIGACION"
+    },
+    "273171": {
+        "country_code": "SV",
+        "asn": "273171",
+        "description": "SERVICIOS Y ADMINISTRACI\u00d3N DE DATOS Y VIDEO SOCIEDAD ANONIMA DE CAPITAL VARIABLE",
+        "handle": "SERVICIOS-ADMINISTRACION-DATOS"
+    },
+    "273827": {
+        "country_code": "SV",
+        "asn": "273827",
+        "description": "TECNNITEL S.A. DE C.V.",
+        "handle": "TECNNITEL"
+    },
+    "273859": {
+        "country_code": "SV",
+        "asn": "273859",
+        "description": "REDES LITORALES S.A. DE C.V.",
+        "handle": "REDES-LITORALES"
+    },
+    "273962": {
+        "country_code": "SV",
+        "asn": "273962",
+        "description": "CAMET S.A DE C.V.",
+        "handle": "CAMET"
+    },
+    "274006": {
+        "country_code": "SV",
+        "asn": "274006",
+        "description": "DATA TRUST SOCIEDAD ANONIMA DE CAPITAL VARIABLE",
+        "handle": "DATA-TRUST-SOCIEDAD"
+    },
+    "274283": {
+        "country_code": "SV",
+        "asn": "274283",
+        "description": "SERVICAVISA S.A. de C.V.",
+        "handle": "SERVICAVISA"
+    }
+}

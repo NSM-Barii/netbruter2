@@ -1,0 +1,302 @@
+{
+    "5536": {
+        "country_code": "MU",
+        "asn": "5536",
+        "description": "Xyberdata",
+        "handle": "LEGACY"
+    },
+    "7855": {
+        "country_code": "MU",
+        "asn": "7855",
+        "description": "Telecom Plus",
+        "handle": "ERX-TELECOMPLUS"
+    },
+    "17652": {
+        "country_code": "MU",
+        "asn": "17652",
+        "description": "Mauritius Telecom Ltd",
+        "handle": "MAURITIUSTELECOM"
+    },
+    "19676": {
+        "country_code": "MU",
+        "asn": "19676",
+        "description": "Liquid Telecommunications Operations Limited",
+        "handle": "SWIFT-GLOBAL"
+    },
+    "21280": {
+        "country_code": "MU",
+        "asn": "21280",
+        "description": "Liquid Telecommunications Operations Limited",
+        "handle": "AS-CASSAVAAI"
+    },
+    "23889": {
+        "country_code": "MU",
+        "asn": "23889",
+        "description": "Mauritius Telecom Ltd",
+        "handle": "MAURITIUSTELECOM"
+    },
+    "30999": {
+        "country_code": "MU",
+        "asn": "30999",
+        "description": "EMTEL LIMITED",
+        "handle": "EMTEL-AS-AP"
+    },
+    "33763": {
+        "country_code": "MU",
+        "asn": "33763",
+        "description": "Paratus Telecommunications Limited",
+        "handle": "PARATUS"
+    },
+    "33764": {
+        "country_code": "MU",
+        "asn": "33764",
+        "description": "African Network Information Center - (AfriNIC) Ltd",
+        "handle": "AFRINIC-ZA-JNB-AS"
+    },
+    "33768": {
+        "country_code": "MU",
+        "asn": "33768",
+        "description": "Liquid Telecommunications Operations Limited",
+        "handle": "LTOL"
+    },
+    "36868": {
+        "country_code": "MU",
+        "asn": "36868",
+        "description": "Rogers Capital Technology Services Ltd",
+        "handle": "EIS"
+    },
+    "36871": {
+        "country_code": "MU",
+        "asn": "36871",
+        "description": "Africa Online Operations (Mauritius) Limited",
+        "handle": "IWAY-AFRICA"
+    },
+    "36894": {
+        "country_code": "MU",
+        "asn": "36894",
+        "description": "Mauritius Digital Promotion Agency",
+        "handle": "GOC"
+    },
+    "36942": {
+        "country_code": "MU",
+        "asn": "36942",
+        "description": "Liquid Telecommunications Operations Limited",
+        "handle": "SWIFGLOBALKENYA"
+    },
+    "37046": {
+        "country_code": "MU",
+        "asn": "37046",
+        "description": "Mauritius Freeport Development Company Ltd",
+        "handle": "ASMFD"
+    },
+    "37096": {
+        "country_code": "MU",
+        "asn": "37096",
+        "description": "Paratus Telecommunications Limited",
+        "handle": "PARATUS"
+    },
+    "37100": {
+        "country_code": "MU",
+        "asn": "37100",
+        "description": "SEACOM Limited",
+        "handle": "SEACOM-AS"
+    },
+    "37177": {
+        "country_code": "MU",
+        "asn": "37177",
+        "description": "African Network Information Center - (AfriNIC) Ltd",
+        "handle": "AFRINIC-ANYCAST"
+    },
+    "37181": {
+        "country_code": "MU",
+        "asn": "37181",
+        "description": "African Network Information Center - (AfriNIC) Ltd",
+        "handle": "AFRINIC-ANYCAST-RFC-5855"
+    },
+    "37238": {
+        "country_code": "MU",
+        "asn": "37238",
+        "description": "Africa Online Operations (Mauritius) Limited",
+        "handle": "IWAY-AFRICA"
+    },
+    "37301": {
+        "country_code": "MU",
+        "asn": "37301",
+        "description": "African Network Information Center - (AfriNIC) Ltd",
+        "handle": "AFRINIC-ZA-CPT-AS"
+    },
+    "37324": {
+        "country_code": "MU",
+        "asn": "37324",
+        "description": "Mauritius Internet Exchange Point",
+        "handle": "MIXP"
+    },
+    "37379": {
+        "country_code": "MU",
+        "asn": "37379",
+        "description": "Africa Online Operations (Mauritius) Limited",
+        "handle": "IWAYAFRICA-ZAMBIA"
+    },
+    "37455": {
+        "country_code": "MU",
+        "asn": "37455",
+        "description": "Bharat Telecom Ltd",
+        "handle": "BHARAT-TEL"
+    },
+    "37538": {
+        "country_code": "MU",
+        "asn": "37538",
+        "description": "Pamoja Ltd",
+        "handle": "PAMOJA"
+    },
+    "37622": {
+        "country_code": "MU",
+        "asn": "37622",
+        "description": "Mahanagar Telephone (Mauritius) Ltd",
+        "handle": "MTML-AS"
+    },
+    "37662": {
+        "country_code": "MU",
+        "asn": "37662",
+        "description": "West Indian Ocean Cable Company",
+        "handle": "WIOCC-AS"
+    },
+    "37674": {
+        "country_code": "MU",
+        "asn": "37674",
+        "description": "Millenium Outsourcing Ltd",
+        "handle": "IP-MPLS-EMEA"
+    },
+    "37708": {
+        "country_code": "MU",
+        "asn": "37708",
+        "description": "African Network Information Center - (AfriNIC) Ltd",
+        "handle": "AFRINIC-MAIN"
+    },
+    "37722": {
+        "country_code": "MU",
+        "asn": "37722",
+        "description": "Kaldera Ltd",
+        "handle": "KALDERA"
+    },
+    "37725": {
+        "country_code": "MU",
+        "asn": "37725",
+        "description": "Xyberdata",
+        "handle": "IOT"
+    },
+    "37797": {
+        "country_code": "MU",
+        "asn": "37797",
+        "description": "Open Access Data Centres (Mauritius) Ltd",
+        "handle": "OADC-AS"
+    },
+    "66001": {
+        "country_code": "MU",
+        "asn": "66001",
+        "description": "African Network Information Center",
+        "handle": "AFRICAN-NETWORK-INFORMATION"
+    },
+    "327821": {
+        "country_code": "MU",
+        "asn": "327821",
+        "description": "Mauritius Internet Exchange Point",
+        "handle": "MIXP-MGMNT"
+    },
+    "327913": {
+        "country_code": "MU",
+        "asn": "327913",
+        "description": "Millenium Outsourcing Ltd",
+        "handle": "VPLS-EMEA"
+    },
+    "327914": {
+        "country_code": "MU",
+        "asn": "327914",
+        "description": "Millenium Outsourcing Ltd",
+        "handle": "MPLS-EMEA"
+    },
+    "327919": {
+        "country_code": "MU",
+        "asn": "327919",
+        "description": "CANAL+ (Maurice) Ltd",
+        "handle": "CANAL"
+    },
+    "328019": {
+        "country_code": "MU",
+        "asn": "328019",
+        "description": "Atcomm Broadband Services Ltd",
+        "handle": "ATCOMM-BROADBAND-SERVICES-LTD"
+    },
+    "328144": {
+        "country_code": "MU",
+        "asn": "328144",
+        "description": "African Network Information Center",
+        "handle": "AFRICAN-NETWORK-INFORMATION"
+    },
+    "328476": {
+        "country_code": "MU",
+        "asn": "328476",
+        "description": "La Sentinelle Ltd",
+        "handle": "LASENTINELLE"
+    },
+    "328540": {
+        "country_code": "MU",
+        "asn": "328540",
+        "description": "University of Mauritius",
+        "handle": "UOMAS"
+    },
+    "328623": {
+        "country_code": "MU",
+        "asn": "328623",
+        "description": "VGR Communications Ltd",
+        "handle": "VGR-COMMUNICATIONS"
+    },
+    "328699": {
+        "country_code": "MU",
+        "asn": "328699",
+        "description": "DataKeepers Ltd",
+        "handle": "CLOUD-MU"
+    },
+    "328701": {
+        "country_code": "MU",
+        "asn": "328701",
+        "description": "EFT Corporation Ltd",
+        "handle": "EFT-CORPORATION-AS"
+    },
+    "328728": {
+        "country_code": "MU",
+        "asn": "328728",
+        "description": "Outremer Telecom Digital Solutions Ltd",
+        "handle": "OUTREMER-TELECOM-DIGITAL-SOLUTIONS"
+    },
+    "328758": {
+        "country_code": "MU",
+        "asn": "328758",
+        "description": "R A Consulting Services (Pty) Ltd",
+        "handle": "RA-CONSULTING-SERVICES"
+    },
+    "329069": {
+        "country_code": "MU",
+        "asn": "329069",
+        "description": "CIM Financial Services Limited",
+        "handle": "CFSL1-AS"
+    },
+    "329187": {
+        "country_code": "MU",
+        "asn": "329187",
+        "description": "Open Access Data Centres (Mauritius) Ltd",
+        "handle": "OADC-IX-MGMT"
+    },
+    "329584": {
+        "country_code": "MU",
+        "asn": "329584",
+        "description": "Currimjee Informatics Ltd",
+        "handle": "CINF-PUBLIC-IP"
+    },
+    "329598": {
+        "country_code": "MU",
+        "asn": "329598",
+        "description": "Information and Communication Technologies Authority",
+        "handle": "INFORMATION-AND-COMMUNICATION-TECHNOLOGIES-AUTHORITY"
+    }
+}

@@ -1,0 +1,236 @@
+{
+    "7615": {
+        "country_code": "BT",
+        "asn": "7615",
+        "description": "Bhutan Internet Exchange",
+        "handle": "BTIX-AS-AP"
+    },
+    "17482": {
+        "country_code": "BT",
+        "asn": "17482",
+        "description": "Bhutan Internet Exchange",
+        "handle": "BTIX-AS-AP"
+    },
+    "17660": {
+        "country_code": "BT",
+        "asn": "17660",
+        "description": "Bhutan Telecom Ltd",
+        "handle": "DRUKNET-AS"
+    },
+    "18024": {
+        "country_code": "BT",
+        "asn": "18024",
+        "description": "Bhutan Telecom Ltd",
+        "handle": "BTTELECOM-AS-AP"
+    },
+    "18025": {
+        "country_code": "BT",
+        "asn": "18025",
+        "description": "Bhutan Telecom Ltd",
+        "handle": "BTTELECOM-AS-AP"
+    },
+    "18205": {
+        "country_code": "BT",
+        "asn": "18205",
+        "description": "Bhutan Telecom Ltd",
+        "handle": "BTTELECOM-AS-AP"
+    },
+    "23955": {
+        "country_code": "BT",
+        "asn": "23955",
+        "description": "Tashi InfoComm Limited",
+        "handle": "TASHICELL-DOMESTIC-AS"
+    },
+    "38004": {
+        "country_code": "BT",
+        "asn": "38004",
+        "description": "FastLink ISP",
+        "handle": "FASTLINK-ISP"
+    },
+    "38740": {
+        "country_code": "BT",
+        "asn": "38740",
+        "description": "Tashi InfoComm Limited",
+        "handle": "TASHICELL-TRANSIT-AS"
+    },
+    "59219": {
+        "country_code": "BT",
+        "asn": "59219",
+        "description": "Ministry of Information & Communications",
+        "handle": "MOIC-BT"
+    },
+    "132232": {
+        "country_code": "BT",
+        "asn": "132232",
+        "description": "Data Centre Services",
+        "handle": "DCS-AS"
+    },
+    "132894": {
+        "country_code": "BT",
+        "asn": "132894",
+        "description": "Sigma Internet Service",
+        "handle": "MUD-AS-AP"
+    },
+    "134715": {
+        "country_code": "BT",
+        "asn": "134715",
+        "description": "Government Technology Agency",
+        "handle": "GTA-AS-AP"
+    },
+    "135147": {
+        "country_code": "BT",
+        "asn": "135147",
+        "description": "T Bank Limited",
+        "handle": "TBANKLIMITED-AS-AP"
+    },
+    "135666": {
+        "country_code": "BT",
+        "asn": "135666",
+        "description": "Ministry of Information & Communications",
+        "handle": "MOIC-AS-AP"
+    },
+    "136039": {
+        "country_code": "BT",
+        "asn": "136039",
+        "description": "NANO",
+        "handle": "NANO-AS-AP"
+    },
+    "137412": {
+        "country_code": "BT",
+        "asn": "137412",
+        "description": "Tashi InfoComm Limited",
+        "handle": "TASHICELL-MOBILE-AS"
+    },
+    "137925": {
+        "country_code": "BT",
+        "asn": "137925",
+        "description": "GIC-Bhutan Reinsurance Co. Ltd.",
+        "handle": "GIC-BHUTAN-AS-AP"
+    },
+    "137994": {
+        "country_code": "BT",
+        "asn": "137994",
+        "description": "Bhutan National Bank limited",
+        "handle": "BNBL-AS-AP"
+    },
+    "138529": {
+        "country_code": "BT",
+        "asn": "138529",
+        "description": "DATANET WIFI",
+        "handle": "DATANET-AS-AP"
+    },
+    "138558": {
+        "country_code": "BT",
+        "asn": "138558",
+        "description": "Gelephu Digital Network",
+        "handle": "GDNI-AS-AP"
+    },
+    "138920": {
+        "country_code": "BT",
+        "asn": "138920",
+        "description": "Royal University of Bhutan",
+        "handle": "RUOB-AS-AP"
+    },
+    "140695": {
+        "country_code": "BT",
+        "asn": "140695",
+        "description": "Bank of Bhutan Limited",
+        "handle": "BANKOFBHUTAN-AS-AP"
+    },
+    "141680": {
+        "country_code": "BT",
+        "asn": "141680",
+        "description": "SuperNet Infocomm",
+        "handle": "SUPERNET1-AS-AP"
+    },
+    "151498": {
+        "country_code": "BT",
+        "asn": "151498",
+        "description": "Bhutan Power Corporation Ltd",
+        "handle": "BPCL-AS-AP"
+    },
+    "151955": {
+        "country_code": "BT",
+        "asn": "151955",
+        "description": "DRUK PNB BANK LIMITED",
+        "handle": "DPBL-AS-AP"
+    },
+    "152308": {
+        "country_code": "BT",
+        "asn": "152308",
+        "description": "Bumthang Dzongkhag Administration",
+        "handle": "BDA-AS-AP"
+    },
+    "152309": {
+        "country_code": "BT",
+        "asn": "152309",
+        "description": "Gasa Dzongkhag Administration",
+        "handle": "GDAO-AS-AP"
+    },
+    "152310": {
+        "country_code": "BT",
+        "asn": "152310",
+        "description": "Thimphu Dzongkhag Administration",
+        "handle": "TDA-AS-AP"
+    },
+    "152311": {
+        "country_code": "BT",
+        "asn": "152311",
+        "description": "Haa Dzongkhag Administration",
+        "handle": "HDA-AS-AP"
+    },
+    "152312": {
+        "country_code": "BT",
+        "asn": "152312",
+        "description": "Paro Dzongkhag Administration",
+        "handle": "PDA-AS-AP"
+    },
+    "152313": {
+        "country_code": "BT",
+        "asn": "152313",
+        "description": "Samtse Dzongkhag Administration",
+        "handle": "SDA-AS-AP"
+    },
+    "152314": {
+        "country_code": "BT",
+        "asn": "152314",
+        "description": "Chhukha Dzongkhag Administration",
+        "handle": "CDA-AS-AP"
+    },
+    "152315": {
+        "country_code": "BT",
+        "asn": "152315",
+        "description": "Sarpang Dzongkhag Administration",
+        "handle": "SARPANG-AS-AP"
+    },
+    "152316": {
+        "country_code": "BT",
+        "asn": "152316",
+        "description": "Punakha Dzongkhag Administration",
+        "handle": "PUNKHA-AS-AP"
+    },
+    "152317": {
+        "country_code": "BT",
+        "asn": "152317",
+        "description": "Wangdue Phodrang Dzongkhag Administration",
+        "handle": "WPDA-AS-AP"
+    },
+    "152318": {
+        "country_code": "BT",
+        "asn": "152318",
+        "description": "Gelephu Thromde",
+        "handle": "GELEPHUTHROMDE-AS-AP"
+    },
+    "153740": {
+        "country_code": "BT",
+        "asn": "153740",
+        "description": "Bhutan Development Bank",
+        "handle": "BDB-AS-AP"
+    },
+    "153779": {
+        "country_code": "BT",
+        "asn": "153779",
+        "description": "Nilo FiberNet",
+        "handle": "NLTANLFS-AS-AP"
+    }
+}

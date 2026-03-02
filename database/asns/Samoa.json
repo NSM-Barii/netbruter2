@@ -1,0 +1,68 @@
+{
+    "9218": {
+        "country_code": "WS",
+        "asn": "9218",
+        "description": "WISEVAN GUARD Limited",
+        "handle": "WISEVANGUARD-AS-AP"
+    },
+    "17993": {
+        "country_code": "WS",
+        "asn": "17993",
+        "description": "Vodafone Samoa Limited",
+        "handle": "VODAFONESAMOA-AS-AP"
+    },
+    "38227": {
+        "country_code": "WS",
+        "asn": "38227",
+        "description": "Computer Services Ltd",
+        "handle": "CSLSAMOA-WS-AS-AP"
+    },
+    "38800": {
+        "country_code": "WS",
+        "asn": "38800",
+        "description": "Digicel Samoa Ltd",
+        "handle": "DIGICELSAMOA-WS-AS-AP"
+    },
+    "55579": {
+        "country_code": "WS",
+        "asn": "55579",
+        "description": "Computer Services Ltd",
+        "handle": "CSLSAMOA-AS-AP"
+    },
+    "133747": {
+        "country_code": "WS",
+        "asn": "133747",
+        "description": "TRIUMPH DYNASTY Limited",
+        "handle": "TRIUMPH-AS-AP"
+    },
+    "134376": {
+        "country_code": "WS",
+        "asn": "134376",
+        "description": "Computer Services Ltd",
+        "handle": "CSLSAMOA-IX-AS-AP"
+    },
+    "138356": {
+        "country_code": "WS",
+        "asn": "138356",
+        "description": "National University of Samoa",
+        "handle": "NUS-AS-AP"
+    },
+    "139679": {
+        "country_code": "WS",
+        "asn": "139679",
+        "description": "Office of the Electoral Commission",
+        "handle": "OEC-AS-AP"
+    },
+    "150321": {
+        "country_code": "WS",
+        "asn": "150321",
+        "description": "Secretariat of the Pacific Regional Environment Programme",
+        "handle": "SOTPREP-AS-AP"
+    },
+    "153053": {
+        "country_code": "WS",
+        "asn": "153053",
+        "description": "Lesamoa.net",
+        "handle": "LTSCL-AS-AP"
+    }
+}

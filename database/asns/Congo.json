@@ -1,0 +1,92 @@
+{
+    "37281": {
+        "country_code": "CG",
+        "asn": "37281",
+        "description": "GVA Congo",
+        "handle": "GVA-CONGO"
+    },
+    "37322": {
+        "country_code": "CG",
+        "asn": "37322",
+        "description": "GVA Congo",
+        "handle": "GVA-CONGO"
+    },
+    "37451": {
+        "country_code": "CG",
+        "asn": "37451",
+        "description": "CONGO TELECOM",
+        "handle": "CONGOTELECOM"
+    },
+    "37463": {
+        "country_code": "CG",
+        "asn": "37463",
+        "description": "MTN CONGO",
+        "handle": "MTN-CONGO"
+    },
+    "37481": {
+        "country_code": "CG",
+        "asn": "37481",
+        "description": "ARPCE",
+        "handle": "CGIX"
+    },
+    "37548": {
+        "country_code": "CG",
+        "asn": "37548",
+        "description": "ARPCE",
+        "handle": "ARPCE"
+    },
+    "37550": {
+        "country_code": "CG",
+        "asn": "37550",
+        "description": "Airtel Congo S.A",
+        "handle": "AIRTELCG"
+    },
+    "37782": {
+        "country_code": "CG",
+        "asn": "37782",
+        "description": "ARPCE",
+        "handle": "CGIX-POINTENOIRE-AS-PEERING"
+    },
+    "327829": {
+        "country_code": "CG",
+        "asn": "327829",
+        "description": "SKYTIC TELECOM",
+        "handle": "SKYTIC-TELECOM"
+    },
+    "328329": {
+        "country_code": "CG",
+        "asn": "328329",
+        "description": "ARPCE",
+        "handle": "ARPCE-AS"
+    },
+    "328379": {
+        "country_code": "CG",
+        "asn": "328379",
+        "description": "ARPCE",
+        "handle": "CGIX-POINTENOIRE-AS-MGT"
+    },
+    "328500": {
+        "country_code": "CG",
+        "asn": "328500",
+        "description": "A.M.C Telecom",
+        "handle": "AMC-TELECOM"
+    },
+    "328857": {
+        "country_code": "CG",
+        "asn": "328857",
+        "description": "SILICONE CONNECT",
+        "handle": "SILICONEAS"
+    },
+    "329423": {
+        "country_code": "CG",
+        "asn": "329423",
+        "description": "Centre d'informatique et de recherche de l'arm\u00e9e et de la s\u00e9curit\u00e9 (CIRAS)",
+        "handle": "CIRAS"
+    },
+    "329632": {
+        "country_code": "CG",
+        "asn": "329632",
+        "description": "TELECOMMUNICATION DU CONGO",
+        "handle": "TELECOMMUNICATION-DU-CONGO"
+    }
+}

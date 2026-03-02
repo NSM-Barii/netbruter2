@@ -1,0 +1,404 @@
+{
+    "6568": {
+        "country_code": "BO",
+        "asn": "6568",
+        "description": "EMPRESA NACIONAL DE TELECOMUNICACIONES SOCIEDAD ANONIMA",
+        "handle": "EMPRESA-NACIONAL-TELECOMUNICACIONES"
+    },
+    "11585": {
+        "country_code": "BO",
+        "asn": "11585",
+        "description": "Zupernet",
+        "handle": "ZUPERNET"
+    },
+    "13521": {
+        "country_code": "BO",
+        "asn": "13521",
+        "description": "Infonet ISP Bolivia SRL.",
+        "handle": "INFONET-ISP-BOLIVIA"
+    },
+    "22541": {
+        "country_code": "BO",
+        "asn": "22541",
+        "description": "MEGALINK S.R.L.",
+        "handle": "MEGALINK"
+    },
+    "25620": {
+        "country_code": "BO",
+        "asn": "25620",
+        "description": "COTAS LTDA.",
+        "handle": "COTAS"
+    },
+    "26210": {
+        "country_code": "BO",
+        "asn": "26210",
+        "description": "AXS Bolivia S. A.",
+        "handle": "AXS-BOLIVIA-S-A"
+    },
+    "27714": {
+        "country_code": "BO",
+        "asn": "27714",
+        "description": "Unete Telecomunicaciones Ltda.",
+        "handle": "UNETE-TELECOMUNICACIONES"
+    },
+    "27828": {
+        "country_code": "BO",
+        "asn": "27828",
+        "description": "UNIVERSIDAD MAYOR DE SAN ANDRES",
+        "handle": "UNIVERSIDAD-MAYOR-SAN-ANDRES"
+    },
+    "27839": {
+        "country_code": "BO",
+        "asn": "27839",
+        "description": "Comteco Ltda",
+        "handle": "COMTECO"
+    },
+    "27882": {
+        "country_code": "BO",
+        "asn": "27882",
+        "description": "Telef\u00f3nica Celular de Bolivia S.A.",
+        "handle": "TELEFONICA-CELULAR-BOLIVIA"
+    },
+    "28024": {
+        "country_code": "BO",
+        "asn": "28024",
+        "description": "Nuevatel PCS de Bolivia S.A.",
+        "handle": "NUEVATEL-PCS-BOLIVIA"
+    },
+    "52250": {
+        "country_code": "BO",
+        "asn": "52250",
+        "description": "Ag para el Desarrollo de la Sociedad de la Inf en Bolivia - ADSIB",
+        "handle": "AG-PARA-EL"
+    },
+    "52338": {
+        "country_code": "BO",
+        "asn": "52338",
+        "description": "COSETT LTDA",
+        "handle": "COSETT"
+    },
+    "52340": {
+        "country_code": "BO",
+        "asn": "52340",
+        "description": "Comteco Ltda",
+        "handle": "COMTECO"
+    },
+    "52355": {
+        "country_code": "BO",
+        "asn": "52355",
+        "description": "Jalasoft Corp.",
+        "handle": "JALASOFT-CORP"
+    },
+    "52495": {
+        "country_code": "BO",
+        "asn": "52495",
+        "description": "Cotel Ltda.",
+        "handle": "COTEL"
+    },
+    "52499": {
+        "country_code": "BO",
+        "asn": "52499",
+        "description": "MEGALINK S.R.L.",
+        "handle": "MEGALINK"
+    },
+    "61458": {
+        "country_code": "BO",
+        "asn": "61458",
+        "description": "GOBIERNO AUT\u00d3NOMO MUNICIPAL DE LA PAZ",
+        "handle": "GOBIERNO-AUTONOMO-MUNICIPAL"
+    },
+    "61475": {
+        "country_code": "BO",
+        "asn": "61475",
+        "description": "UNIVERSIDAD CAT\u00d3LICA BOLIVIANA SAN PABLO",
+        "handle": "UNIVERSIDAD-CATOLICA-BOLIVIANA"
+    },
+    "61488": {
+        "country_code": "BO",
+        "asn": "61488",
+        "description": "BOLITEL SRL",
+        "handle": "BOLITEL"
+    },
+    "64119": {
+        "country_code": "BO",
+        "asn": "64119",
+        "description": "AUTORIDAD DE REGULACI\u00d3N Y FISCALIZACI\u00d3N DE TELECOMUNICACIONES Y TRANSPORTES",
+        "handle": "AUTORIDAD-REGULACION-FISCALIZACION"
+    },
+    "199343": {
+        "country_code": "BO",
+        "asn": "199343",
+        "description": "Luis Fernando Mita Caceres",
+        "handle": "LAOTRARED"
+    },
+    "204655": {
+        "country_code": "BO",
+        "asn": "204655",
+        "description": "MegaLink SRL",
+        "handle": "BOLIVIA"
+    },
+    "211397": {
+        "country_code": "BO",
+        "asn": "211397",
+        "description": "WebLink SRL",
+        "handle": "WEBLINK-AS"
+    },
+    "262159": {
+        "country_code": "BO",
+        "asn": "262159",
+        "description": "Digital TV CABLE DE EDMUND S.R.L.",
+        "handle": "DIGITAL-TV-CABLE-EDMUND"
+    },
+    "262161": {
+        "country_code": "BO",
+        "asn": "262161",
+        "description": "COTES Ltda.",
+        "handle": "COTES"
+    },
+    "263242": {
+        "country_code": "BO",
+        "asn": "263242",
+        "description": "DIGITAL WORK",
+        "handle": "DIGITAL-WORK"
+    },
+    "263709": {
+        "country_code": "BO",
+        "asn": "263709",
+        "description": "UNIVERSIDAD SAN FRANCISCO XAVIER DE CHUQUISACA",
+        "handle": "UNIVERSIDAD-SAN-FRANCISCO"
+    },
+    "264612": {
+        "country_code": "BO",
+        "asn": "264612",
+        "description": "BANCO MERCANTIL SANTA CRUZ S.A.",
+        "handle": "BANCO-MERCANTIL-SANTA-CRUZ"
+    },
+    "264690": {
+        "country_code": "BO",
+        "asn": "264690",
+        "description": "BANCO SOLIDARIO S.A.",
+        "handle": "BANCO-SOLIDARIO"
+    },
+    "264747": {
+        "country_code": "BO",
+        "asn": "264747",
+        "description": "Agencia Nacional de Hidrocarburos",
+        "handle": "AGENCIA-NACIONAL-HIDROCARBUROS"
+    },
+    "264789": {
+        "country_code": "BO",
+        "asn": "264789",
+        "description": "AGENCIA BOLIVIANA ESPACIAL",
+        "handle": "AGENCIA-BOLIVIANA-ESPACIAL"
+    },
+    "264855": {
+        "country_code": "BO",
+        "asn": "264855",
+        "description": "COTERI LTDA (Cooperativa de telefonos Riberalta Ltda)",
+        "handle": "COTERI"
+    },
+    "264858": {
+        "country_code": "BO",
+        "asn": "264858",
+        "description": "Servicio de Impuestos Nacionales",
+        "handle": "SERVICIO-IMPUESTOS-NACIONALES"
+    },
+    "265647": {
+        "country_code": "BO",
+        "asn": "265647",
+        "description": "BANCO DE CREDITO DE BOLIVIA S.A.",
+        "handle": "BANCO-CREDITO-BOLIVIA"
+    },
+    "265670": {
+        "country_code": "BO",
+        "asn": "265670",
+        "description": "BANCO NACIONAL DE BOLIVIA S.A.",
+        "handle": "BANCO-NACIONAL-BOLIVIA"
+    },
+    "265756": {
+        "country_code": "BO",
+        "asn": "265756",
+        "description": "BANCO PRODEM SA",
+        "handle": "BANCO-PRODEM"
+    },
+    "265779": {
+        "country_code": "BO",
+        "asn": "265779",
+        "description": "AUTORIDAD DE SUPERVISI\u00d3N DEL SISTEMA FINANCIERO (ASFI)",
+        "handle": "AUTORIDAD-SUPERVISION-SISTEMA"
+    },
+    "265814": {
+        "country_code": "BO",
+        "asn": "265814",
+        "description": "CIDIS CAMIRI",
+        "handle": "CIDIS-CAMIRI"
+    },
+    "265880": {
+        "country_code": "BO",
+        "asn": "265880",
+        "description": "CORPORACION VISTA COBIJA S.R.L.",
+        "handle": "CORPORACION-VISTA-COBIJA"
+    },
+    "266671": {
+        "country_code": "BO",
+        "asn": "266671",
+        "description": "CONFIARED S.R.L.",
+        "handle": "CONFIARED"
+    },
+    "266723": {
+        "country_code": "BO",
+        "asn": "266723",
+        "description": "BANCO PARA EL FOMENTO A INICIATIVAS ECONOMICAS S.A.",
+        "handle": "BANCO-PARA-EL"
+    },
+    "266745": {
+        "country_code": "BO",
+        "asn": "266745",
+        "description": "INVERSIONES CREDICORP BOLIVIA S.A.",
+        "handle": "INVERSIONES-CREDICORP-BOLIVIA"
+    },
+    "266804": {
+        "country_code": "BO",
+        "asn": "266804",
+        "description": "BANCO UNI\u00d3N S.A.",
+        "handle": "BANCO-UNION"
+    },
+    "267685": {
+        "country_code": "BO",
+        "asn": "267685",
+        "description": "SIRIO TELECOMUNICACIONES S.R.L",
+        "handle": "SIRIO-TELECOMUNICACIONES"
+    },
+    "267765": {
+        "country_code": "BO",
+        "asn": "267765",
+        "description": "COTAP LTDA",
+        "handle": "COTAP"
+    },
+    "267770": {
+        "country_code": "BO",
+        "asn": "267770",
+        "description": "COTEGUA LTDA (Coop. de Telecomunicaciones Guayaramerin Ltda.)",
+        "handle": "COTEGUA"
+    },
+    "269797": {
+        "country_code": "BO",
+        "asn": "269797",
+        "description": "LOCH TEL SRL (GOLOCHTEL)",
+        "handle": "LOCH-TEL"
+    },
+    "269959": {
+        "country_code": "BO",
+        "asn": "269959",
+        "description": "ADMINISTRADORA DE TARJETAS DE CR\u00c9DITO S.A (ATC S.A)",
+        "handle": "ADMINISTRADORA-TARJETAS-CREDITO"
+    },
+    "270038": {
+        "country_code": "BO",
+        "asn": "270038",
+        "description": "ITC SERVICIOS S.R.L.",
+        "handle": "ITC-SERVICIOS"
+    },
+    "270045": {
+        "country_code": "BO",
+        "asn": "270045",
+        "description": "TELECOMUNICACIONES OPORTUNAS INTELIGENTES SRL",
+        "handle": "TELECOMUNICACIONES-OPORTUNAS-INTELIGENTES"
+    },
+    "270080": {
+        "country_code": "BO",
+        "asn": "270080",
+        "description": "INTERCORP S.R.L.",
+        "handle": "INTERCORP"
+    },
+    "270090": {
+        "country_code": "BO",
+        "asn": "270090",
+        "description": "FUNDACI\u00d3N UNIVERSIDAD PRIVADA DE SANTA CRUZ DE LA SIERRA - UPSA",
+        "handle": "FUNDACION-UNIVERSIDAD-PRIVADA"
+    },
+    "271801": {
+        "country_code": "BO",
+        "asn": "271801",
+        "description": "PUNTO DE INTERCAMBIO DE TRAFICO - PIT BOLIVIA ENTIDAD CIVIL SIN FINES DE LUCRO",
+        "handle": "PUNTO-INTERCAMBIO-TRAFICO"
+    },
+    "271906": {
+        "country_code": "BO",
+        "asn": "271906",
+        "description": "WebLink SRL",
+        "handle": "WEBLINK"
+    },
+    "271987": {
+        "country_code": "BO",
+        "asn": "271987",
+        "description": "ACTEL SRL",
+        "handle": "ACTEL"
+    },
+    "272036": {
+        "country_code": "BO",
+        "asn": "272036",
+        "description": "ADMINISTRADORA DE CAMARAS DE COMPENSACION Y LIQUIDACION S.A. ACCL S.A.",
+        "handle": "ADMINISTRADORA-CAMARAS-COMPENSACION"
+    },
+    "272041": {
+        "country_code": "BO",
+        "asn": "272041",
+        "description": "FUNDACION DIACONIA FONDO ROTATIVO DE INVERSION Y FOMENTO INSTITUCION FINANCIERA DE DESARROLLO (DIACONIA FRIF - IFD)",
+        "handle": "FUNDACION-DIACONIA-FONDO"
+    },
+    "272127": {
+        "country_code": "BO",
+        "asn": "272127",
+        "description": "MAX ALBERTO CATIVA MARISCAL (MAXTEL BOLIVIA)",
+        "handle": "MAX-ALBERTO-CATIVA-MARISCAL"
+    },
+    "272840": {
+        "country_code": "BO",
+        "asn": "272840",
+        "description": "EMPRESA DE SERVICIOS DAN SOLUTIONS S.R.L.",
+        "handle": "EMPRESA-SERVICIOS-DAN"
+    },
+    "272892": {
+        "country_code": "BO",
+        "asn": "272892",
+        "description": "CORPORACION TVN S.R.L.",
+        "handle": "CORPORACION-TVN"
+    },
+    "272913": {
+        "country_code": "BO",
+        "asn": "272913",
+        "description": "MEGALINK S.R.L.",
+        "handle": "MEGALINK"
+    },
+    "273161": {
+        "country_code": "BO",
+        "asn": "273161",
+        "description": "TELARIUS S.R.L.",
+        "handle": "TELARIUS"
+    },
+    "273835": {
+        "country_code": "BO",
+        "asn": "273835",
+        "description": "ASISTENCIA CORPORATIVA S.R.L.",
+        "handle": "ASISTENCIA-CORPORATIVA"
+    },
+    "273984": {
+        "country_code": "BO",
+        "asn": "273984",
+        "description": "DWTEC S.R.L.",
+        "handle": "DWTEC"
+    },
+    "274026": {
+        "country_code": "BO",
+        "asn": "274026",
+        "description": "MAPLENET COMUNICACIONES S.A.",
+        "handle": "MAPLENET-COMUNICACIONES"
+    },
+    "274273": {
+        "country_code": "BO",
+        "asn": "274273",
+        "description": "DATEC LTDA",
+        "handle": "DATEC"
+    }
+}

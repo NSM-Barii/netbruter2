@@ -1,0 +1,446 @@
+{
+    "17411": {
+        "country_code": "AF",
+        "asn": "17411",
+        "description": "Io-Global Services Pvt. Ltd.",
+        "handle": "IO-GLOBAL-AP"
+    },
+    "38742": {
+        "country_code": "AF",
+        "asn": "38742",
+        "description": "Afghan Wireless Communication Company",
+        "handle": "AWCC-AS-AP"
+    },
+    "45178": {
+        "country_code": "AF",
+        "asn": "45178",
+        "description": "Telecom Development Company Afghanistan",
+        "handle": "ROSHAN-AF"
+    },
+    "55330": {
+        "country_code": "AF",
+        "asn": "55330",
+        "description": "Government Communications Network",
+        "handle": "GCN-DCN-AS"
+    },
+    "55424": {
+        "country_code": "AF",
+        "asn": "55424",
+        "description": "Instatelecom Limited",
+        "handle": "INSTATELECOM-AS-AP"
+    },
+    "55732": {
+        "country_code": "AF",
+        "asn": "55732",
+        "description": "RANA Technologies Enterprises",
+        "handle": "RANATECHNET-AF"
+    },
+    "55745": {
+        "country_code": "AF",
+        "asn": "55745",
+        "description": "Neda Telecommunications",
+        "handle": "NEDA-AS-AP"
+    },
+    "58427": {
+        "country_code": "AF",
+        "asn": "58427",
+        "description": "Global Entourage Services",
+        "handle": "GEC-AF"
+    },
+    "58469": {
+        "country_code": "AF",
+        "asn": "58469",
+        "description": "Ministry of Communication & IT",
+        "handle": "MOCI-AS-AP"
+    },
+    "58697": {
+        "country_code": "AF",
+        "asn": "58697",
+        "description": "Vital Telecommunication",
+        "handle": "THREESPARK-NET-AF"
+    },
+    "59317": {
+        "country_code": "AF",
+        "asn": "59317",
+        "description": "Afghan Cyber ISP",
+        "handle": "AFGHANCYBERISP-AF"
+    },
+    "59355": {
+        "country_code": "AF",
+        "asn": "59355",
+        "description": "Arif Azim Ltd",
+        "handle": "AACL-AS-AP"
+    },
+    "59381": {
+        "country_code": "AF",
+        "asn": "59381",
+        "description": "Vice Group",
+        "handle": "VICEGROUP-AF"
+    },
+    "131284": {
+        "country_code": "AF",
+        "asn": "131284",
+        "description": "Etisalat Afghan",
+        "handle": "ETISALATAFG-AS-AP"
+    },
+    "132104": {
+        "country_code": "AF",
+        "asn": "132104",
+        "description": "Fars Route Information Technology Services Company",
+        "handle": "FARSROUTE-AS-AP"
+    },
+    "132173": {
+        "country_code": "AF",
+        "asn": "132173",
+        "description": "Streamlink",
+        "handle": "STREAMLINK-AS"
+    },
+    "132222": {
+        "country_code": "AF",
+        "asn": "132222",
+        "description": "Afghanistan Holding Group",
+        "handle": "AHG-AS-AP"
+    },
+    "132404": {
+        "country_code": "AF",
+        "asn": "132404",
+        "description": "Neda Telecommunications",
+        "handle": "NEDA-KAF-AF"
+    },
+    "132471": {
+        "country_code": "AF",
+        "asn": "132471",
+        "description": "ATOMA",
+        "handle": "ATOMA-AS-AP"
+    },
+    "133066": {
+        "country_code": "AF",
+        "asn": "133066",
+        "description": "Ariana Network Services Co",
+        "handle": "ANS-AS-AP"
+    },
+    "133076": {
+        "country_code": "AF",
+        "asn": "133076",
+        "description": "Unique Atlantic Telecommunication",
+        "handle": "UAT-AF"
+    },
+    "133174": {
+        "country_code": "AF",
+        "asn": "133174",
+        "description": "Neda Telecommunications",
+        "handle": "NEDA-AS-AP"
+    },
+    "133202": {
+        "country_code": "AF",
+        "asn": "133202",
+        "description": "Afghanistan Faiz Satellite Communications",
+        "handle": "AFSAT-AS-AP"
+    },
+    "133533": {
+        "country_code": "AF",
+        "asn": "133533",
+        "description": "Khogiyant International ltd",
+        "handle": "KIL-AF"
+    },
+    "133894": {
+        "country_code": "AF",
+        "asn": "133894",
+        "description": "Easy Connect- ISP",
+        "handle": "EASYCONNECTISP-AS-AP"
+    },
+    "134112": {
+        "country_code": "AF",
+        "asn": "134112",
+        "description": "Aria Sat LTD",
+        "handle": "ARIASAT-LTD"
+    },
+    "134134": {
+        "country_code": "AF",
+        "asn": "134134",
+        "description": "Western ICT Solutions Services",
+        "handle": "WESTERN2-AS-AP"
+    },
+    "135298": {
+        "country_code": "AF",
+        "asn": "135298",
+        "description": "Ankabut Internet Service Provider",
+        "handle": "TRANSWORLD-AS-AP"
+    },
+    "135376": {
+        "country_code": "AF",
+        "asn": "135376",
+        "description": "Rahanet Internet Service Provider",
+        "handle": "RAHANET-ISP-AS-AP"
+    },
+    "136400": {
+        "country_code": "AF",
+        "asn": "136400",
+        "description": "Asia Consultancy Group",
+        "handle": "ACG-AFG-AS-AP"
+    },
+    "136454": {
+        "country_code": "AF",
+        "asn": "136454",
+        "description": "Fiber Sat Networking Services",
+        "handle": "FIBERSAT-AS-AP"
+    },
+    "136479": {
+        "country_code": "AF",
+        "asn": "136479",
+        "description": "Cyber Telecom ISP",
+        "handle": "CYBERTELECOMISP-AS-AP"
+    },
+    "136774": {
+        "country_code": "AF",
+        "asn": "136774",
+        "description": "Fiber technology services",
+        "handle": "FTS-AS-AP"
+    },
+    "136986": {
+        "country_code": "AF",
+        "asn": "136986",
+        "description": "Cyber Net ISP",
+        "handle": "CYBERNET1-AS-AP"
+    },
+    "137039": {
+        "country_code": "AF",
+        "asn": "137039",
+        "description": "Zohak Technology (Z-Tech)",
+        "handle": "ZT-AS-AP"
+    },
+    "137040": {
+        "country_code": "AF",
+        "asn": "137040",
+        "description": "Network Zone Solution Provider Ltd",
+        "handle": "NZSPL-AS-AP"
+    },
+    "137246": {
+        "country_code": "AF",
+        "asn": "137246",
+        "description": "Ministry of Communication & IT",
+        "handle": "MOCI-NIXA-AF"
+    },
+    "137276": {
+        "country_code": "AF",
+        "asn": "137276",
+        "description": "Asia Bridge Telecom",
+        "handle": "ASIABRIDGETELECOM-AS-AP"
+    },
+    "137450": {
+        "country_code": "AF",
+        "asn": "137450",
+        "description": "Western ICT Solutions Services",
+        "handle": "WESTERN2-AS-AP"
+    },
+    "137475": {
+        "country_code": "AF",
+        "asn": "137475",
+        "description": "Shah Net Internet Services Provider",
+        "handle": "SNISP-AS-AP"
+    },
+    "137824": {
+        "country_code": "AF",
+        "asn": "137824",
+        "description": "View Net Technology",
+        "handle": "VNT-ISP-AS-AP"
+    },
+    "137895": {
+        "country_code": "AF",
+        "asn": "137895",
+        "description": "Fast Net Telecom",
+        "handle": "FAST-AS-AP"
+    },
+    "137975": {
+        "country_code": "AF",
+        "asn": "137975",
+        "description": "Stark Telecom",
+        "handle": "STARKTELECOM-AS-AP"
+    },
+    "138322": {
+        "country_code": "AF",
+        "asn": "138322",
+        "description": "Afghan Wireless Communication Company",
+        "handle": "AWCC-AS-AP"
+    },
+    "139651": {
+        "country_code": "AF",
+        "asn": "139651",
+        "description": "KAYANAT TECHNOLOGY INTERNET SERVICES CO",
+        "handle": "KAYANATTECHNOLOGY-AS-AP"
+    },
+    "139697": {
+        "country_code": "AF",
+        "asn": "139697",
+        "description": "Mikrogate ICT Services Company",
+        "handle": "MIKROGATE-AS-AP"
+    },
+    "139770": {
+        "country_code": "AF",
+        "asn": "139770",
+        "description": "SADAT Telecom",
+        "handle": "SADATTELECOM-AS-AP"
+    },
+    "139885": {
+        "country_code": "AF",
+        "asn": "139885",
+        "description": "Fushanj Telecom ISP",
+        "handle": "FUSHANJ-TELECOM-AS-AP"
+    },
+    "140082": {
+        "country_code": "AF",
+        "asn": "140082",
+        "description": "Sniperhill Internet Services LLC",
+        "handle": "SIS-AS-AP"
+    },
+    "140908": {
+        "country_code": "AF",
+        "asn": "140908",
+        "description": "Atlas Surkh Networking Services Company",
+        "handle": "ATLASSURKH-AS-AP"
+    },
+    "141224": {
+        "country_code": "AF",
+        "asn": "141224",
+        "description": "Fibernet Telecom",
+        "handle": "FIBERNETTELECOM-AS-AP"
+    },
+    "141355": {
+        "country_code": "AF",
+        "asn": "141355",
+        "description": "Amoo Net Technology Services",
+        "handle": "ANTS-AS-AP"
+    },
+    "141447": {
+        "country_code": "AF",
+        "asn": "141447",
+        "description": "Sky Wave Technologies Internet Service",
+        "handle": "SWT-AS-AP"
+    },
+    "142051": {
+        "country_code": "AF",
+        "asn": "142051",
+        "description": "HaqNet Technology Services",
+        "handle": "HAQNET-AS-AP"
+    },
+    "142541": {
+        "country_code": "AF",
+        "asn": "142541",
+        "description": "Optix Wave Internet Services",
+        "handle": "OIS-AS-AP"
+    },
+    "142570": {
+        "country_code": "AF",
+        "asn": "142570",
+        "description": "ARYAN DUNYA ICT",
+        "handle": "ARYANDUNYAICT-AS-AP"
+    },
+    "149024": {
+        "country_code": "AF",
+        "asn": "149024",
+        "description": "Afghan Bawar ICT Services",
+        "handle": "ABIS-AS-AP"
+    },
+    "149173": {
+        "country_code": "AF",
+        "asn": "149173",
+        "description": "Hindukush Bridge ICT Services Company",
+        "handle": "HBISC-AS-AP"
+    },
+    "149771": {
+        "country_code": "AF",
+        "asn": "149771",
+        "description": "Hewad Aziz Services Company",
+        "handle": "HASC-AS-AP"
+    },
+    "150155": {
+        "country_code": "AF",
+        "asn": "150155",
+        "description": "Speed Light ICT Services Company",
+        "handle": "SPEED-AS-AP"
+    },
+    "150401": {
+        "country_code": "AF",
+        "asn": "150401",
+        "description": "AfghaNet Ltd",
+        "handle": "AFGHANETLTD-AS-AP"
+    },
+    "151062": {
+        "country_code": "AF",
+        "asn": "151062",
+        "description": "Matin Net",
+        "handle": "MATINNET-AS-AP"
+    },
+    "151081": {
+        "country_code": "AF",
+        "asn": "151081",
+        "description": "ARYAN DUNYA ICT",
+        "handle": "ARYANDUNYAICT-AS-AP"
+    },
+    "151329": {
+        "country_code": "AF",
+        "asn": "151329",
+        "description": "Tez Technology Services",
+        "handle": "TTS-AS-AP"
+    },
+    "152123": {
+        "country_code": "AF",
+        "asn": "152123",
+        "description": "Afghan Gate Way",
+        "handle": "AGW-AS-AP"
+    },
+    "153323": {
+        "country_code": "AF",
+        "asn": "153323",
+        "description": "Power Bridge ICT Services",
+        "handle": "POWER-AS-AP"
+    },
+    "153324": {
+        "country_code": "AF",
+        "asn": "153324",
+        "description": "Noori Wave ICT Services Company",
+        "handle": "NWISC-AS-AP"
+    },
+    "153384": {
+        "country_code": "AF",
+        "asn": "153384",
+        "description": "Safa Wave ICT services",
+        "handle": "SWIS-AS-AP"
+    },
+    "153394": {
+        "country_code": "AF",
+        "asn": "153394",
+        "description": "RED CLOUD INFORMATION TECHNOLOGY SERVICES COMPANY",
+        "handle": "RCITSC-AS-AP"
+    },
+    "153557": {
+        "country_code": "AF",
+        "asn": "153557",
+        "description": "Shamal Telecome Company",
+        "handle": "SHAMALTELECOM-AS-AP"
+    },
+    "153669": {
+        "country_code": "AF",
+        "asn": "153669",
+        "description": "Vira Nawawaran ICT Services Company",
+        "handle": "VNISC-AS-AP"
+    },
+    "153711": {
+        "country_code": "AF",
+        "asn": "153711",
+        "description": "Lajward Hindukush Technology Service company",
+        "handle": "LHI-AS-AP"
+    },
+    "153854": {
+        "country_code": "AF",
+        "asn": "153854",
+        "description": "Bright Wave ICT Services",
+        "handle": "BRIGHTWAVE-AS-AP"
+    },
+    "153975": {
+        "country_code": "AF",
+        "asn": "153975",
+        "description": "Kabul Supply Chain",
+        "handle": "KABULSUPPLYCHAIN-AS-AP"
+    }
+}

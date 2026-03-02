@@ -1,0 +1,56 @@
+{
+    "26130": {
+        "country_code": "NE",
+        "asn": "26130",
+        "description": "LIPTINFOR NIGER SA",
+        "handle": "LIPTINFOR-AS"
+    },
+    "37205": {
+        "country_code": "NE",
+        "asn": "37205",
+        "description": "Atlantique Telecom Niger",
+        "handle": "ATLANTIQUE-TELECOM-NIGER"
+    },
+    "37233": {
+        "country_code": "NE",
+        "asn": "37233",
+        "description": "Zamani Telecom Niger SA",
+        "handle": "ORANGE-NIGER"
+    },
+    "37385": {
+        "country_code": "NE",
+        "asn": "37385",
+        "description": "Societe Nigerienne des Telecommunications (SONITEL)",
+        "handle": "SONITEL"
+    },
+    "37531": {
+        "country_code": "NE",
+        "asn": "37531",
+        "description": "Airtel Niger",
+        "handle": "AIRTEL-NIGER"
+    },
+    "327711": {
+        "country_code": "NE",
+        "asn": "327711",
+        "description": "Airtel Niger",
+        "handle": "AIRTEL-NIGER"
+    },
+    "329103": {
+        "country_code": "NE",
+        "asn": "329103",
+        "description": "NINETEC SARL",
+        "handle": "NINETEC"
+    },
+    "329203": {
+        "country_code": "NE",
+        "asn": "329203",
+        "description": "COMSATES NIGER",
+        "handle": "COMSATES-NIGER"
+    },
+    "329224": {
+        "country_code": "NE",
+        "asn": "329224",
+        "description": "Global Data Services",
+        "handle": "GLOBAL-DATA-SERVICES"
+    }
+}

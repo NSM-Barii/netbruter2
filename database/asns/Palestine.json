@@ -1,0 +1,398 @@
+{
+    "12754": {
+        "country_code": "PS",
+        "asn": "12754",
+        "description": "Coolnet New Communication Provider",
+        "handle": "COOLNET"
+    },
+    "12975": {
+        "country_code": "PS",
+        "asn": "12975",
+        "description": "Palestine Telecommunications Company (PALTEL)",
+        "handle": "PALTEL-AS"
+    },
+    "15975": {
+        "country_code": "PS",
+        "asn": "15975",
+        "description": "Hadara Technologies Private Shareholding Company",
+        "handle": "HADARA-AS"
+    },
+    "20719": {
+        "country_code": "PS",
+        "asn": "20719",
+        "description": "Birzeit University",
+        "handle": "PS-BZU-AS"
+    },
+    "25586": {
+        "country_code": "PS",
+        "asn": "25586",
+        "description": "Hadara Technologies Private Shareholding Company",
+        "handle": "HADARARND"
+    },
+    "29310": {
+        "country_code": "PS",
+        "asn": "29310",
+        "description": "JAWWAL",
+        "handle": "JAWWAL"
+    },
+    "31408": {
+        "country_code": "PS",
+        "asn": "31408",
+        "description": "Palestine Telecommunications Company (PALTEL)",
+        "handle": "ORANGE-PALESTINE"
+    },
+    "34008": {
+        "country_code": "PS",
+        "asn": "34008",
+        "description": "Together Communication LTD",
+        "handle": "TOGETHER-COMMUNICATIONS-LTD-CLOUD-NETWORK"
+    },
+    "35385": {
+        "country_code": "PS",
+        "asn": "35385",
+        "description": "Al Quds Open University",
+        "handle": "QOU"
+    },
+    "41347": {
+        "country_code": "PS",
+        "asn": "41347",
+        "description": "Islamic University of Gaza",
+        "handle": "IUG-AS"
+    },
+    "42013": {
+        "country_code": "PS",
+        "asn": "42013",
+        "description": "Together Communication LTD",
+        "handle": "TOGETHER-COMMUNICATION-LTD"
+    },
+    "42314": {
+        "country_code": "PS",
+        "asn": "42314",
+        "description": "Fusion Internet Services Company LLC",
+        "handle": "FUSION"
+    },
+    "42506": {
+        "country_code": "PS",
+        "asn": "42506",
+        "description": "Palestine Polytechnic University (PPU)",
+        "handle": "PPU-AS"
+    },
+    "44075": {
+        "country_code": "PS",
+        "asn": "44075",
+        "description": "PALWIFI",
+        "handle": "PALWIFI-ASN"
+    },
+    "44213": {
+        "country_code": "PS",
+        "asn": "44213",
+        "description": "Thaer A. T. Abuyousef trading as Abuyousef Co & Partners For General Trade",
+        "handle": "NEWSTARMAX-ASN"
+    },
+    "47154": {
+        "country_code": "PS",
+        "asn": "47154",
+        "description": "HUSAM A. H. HIJAZI",
+        "handle": "HUSAM-NETWORK"
+    },
+    "47253": {
+        "country_code": "PS",
+        "asn": "47253",
+        "description": "BCI Telecommunication & Advanced Technology Company",
+        "handle": "AS-BNETSET"
+    },
+    "47546": {
+        "country_code": "PS",
+        "asn": "47546",
+        "description": "Asad Tom trading as AsadNet",
+        "handle": "ASADNET"
+    },
+    "48270": {
+        "country_code": "PS",
+        "asn": "48270",
+        "description": "iNET Solutions for computer Co.",
+        "handle": "INETSOLUTIONSPS"
+    },
+    "48966": {
+        "country_code": "PS",
+        "asn": "48966",
+        "description": "Wataniya Palestine Mobile Telecommunication Company PLC",
+        "handle": "WPT"
+    },
+    "49248": {
+        "country_code": "PS",
+        "asn": "49248",
+        "description": "Ministry of Higher Education and Scientific Research",
+        "handle": "ULSA-AS"
+    },
+    "50330": {
+        "country_code": "PS",
+        "asn": "50330",
+        "description": "Bank of Palestine",
+        "handle": "BOP-AS"
+    },
+    "51336": {
+        "country_code": "PS",
+        "asn": "51336",
+        "description": "Gemzo information technology Private Joint-Stock company",
+        "handle": "GEMZO"
+    },
+    "51407": {
+        "country_code": "PS",
+        "asn": "51407",
+        "description": "Mada Al-Arab General Services Company",
+        "handle": "MADA-AS"
+    },
+    "51737": {
+        "country_code": "PS",
+        "asn": "51737",
+        "description": "Super Link Communications Co. Ltd",
+        "handle": "SUPERLINK-AS"
+    },
+    "52145": {
+        "country_code": "PS",
+        "asn": "52145",
+        "description": "ZONE Technologies Ltd",
+        "handle": "ZONE-AS"
+    },
+    "56787": {
+        "country_code": "PS",
+        "asn": "56787",
+        "description": "City Net Informatics Internet and Communication Technologies and General Trade Ltd.",
+        "handle": "CITYNET"
+    },
+    "56922": {
+        "country_code": "PS",
+        "asn": "56922",
+        "description": "Jinan modern Techniques and communication Ltd.",
+        "handle": "JINAN"
+    },
+    "56995": {
+        "country_code": "PS",
+        "asn": "56995",
+        "description": "NetStream Technology Joint-Stock Private Ltd.",
+        "handle": "NETSTREAM"
+    },
+    "57704": {
+        "country_code": "PS",
+        "asn": "57704",
+        "description": "SpeedClick for Information Technology and Communication Ltd",
+        "handle": "SPEED-CLICK-LTD"
+    },
+    "59394": {
+        "country_code": "PS",
+        "asn": "59394",
+        "description": "The National Bank PLC",
+        "handle": "THE-NATIONAL-BANK-ASNUMBER"
+    },
+    "59973": {
+        "country_code": "PS",
+        "asn": "59973",
+        "description": "NetStream Technology Joint-Stock Private Ltd.",
+        "handle": "NSHOST"
+    },
+    "60268": {
+        "country_code": "PS",
+        "asn": "60268",
+        "description": "Digital Communication Company for Telecommunications and Information Technology LTD",
+        "handle": "DIGITAL-COMMUNICATION-PALESTINE-ASN"
+    },
+    "61274": {
+        "country_code": "PS",
+        "asn": "61274",
+        "description": "Ministry of Telecommunication & Digital Economy",
+        "handle": "MTDE-PSIX-AS"
+    },
+    "61417": {
+        "country_code": "PS",
+        "asn": "61417",
+        "description": "Palestine Internet Exchange Point",
+        "handle": "PIX-PS"
+    },
+    "64400": {
+        "country_code": "PS",
+        "asn": "64400",
+        "description": "Quintiez Alfa",
+        "handle": "ALFANET"
+    },
+    "196725": {
+        "country_code": "PS",
+        "asn": "196725",
+        "description": "GlobalCom Telecommunications PLC",
+        "handle": "GLOBALCOM-AS"
+    },
+    "197350": {
+        "country_code": "PS",
+        "asn": "197350",
+        "description": "AL Zaytona Company For Communication Ltd.",
+        "handle": "ZAYTONA"
+    },
+    "197708": {
+        "country_code": "PS",
+        "asn": "197708",
+        "description": "PalPay For Electronic Payment System Company",
+        "handle": "PALPAYAS"
+    },
+    "199046": {
+        "country_code": "PS",
+        "asn": "199046",
+        "description": "JetNet for Information Technology and Telecommunications Limited Liability Company",
+        "handle": "JETNET"
+    },
+    "199895": {
+        "country_code": "PS",
+        "asn": "199895",
+        "description": "Arab American University",
+        "handle": "AAUJ-AS"
+    },
+    "199979": {
+        "country_code": "PS",
+        "asn": "199979",
+        "description": "Palestine Islamic Bank Public shareholding company",
+        "handle": "PIB-AS"
+    },
+    "200957": {
+        "country_code": "PS",
+        "asn": "200957",
+        "description": "Zyad Al-Astal Trading as WaveLink Trading",
+        "handle": "WAVELINK-AS"
+    },
+    "203479": {
+        "country_code": "PS",
+        "asn": "203479",
+        "description": "Al-Aqsa University",
+        "handle": "AL-AQSA-ASN1"
+    },
+    "204626": {
+        "country_code": "PS",
+        "asn": "204626",
+        "description": "Modern University College",
+        "handle": "MUCASN"
+    },
+    "204759": {
+        "country_code": "PS",
+        "asn": "204759",
+        "description": "AL Zaytona Company For Communication Ltd.",
+        "handle": "ZAYTONA-FTTH"
+    },
+    "205066": {
+        "country_code": "PS",
+        "asn": "205066",
+        "description": "Ministry of Telecommunication & Digital Economy",
+        "handle": "MTDE-PSIX-AS"
+    },
+    "205205": {
+        "country_code": "PS",
+        "asn": "205205",
+        "description": "Badawi information systems Ltd",
+        "handle": "PS-BADAWI"
+    },
+    "207521": {
+        "country_code": "PS",
+        "asn": "207521",
+        "description": "Together Communication LTD",
+        "handle": "OWNSIM"
+    },
+    "207951": {
+        "country_code": "PS",
+        "asn": "207951",
+        "description": "Palestine Investment Bank",
+        "handle": "PIB-AS"
+    },
+    "208031": {
+        "country_code": "PS",
+        "asn": "208031",
+        "description": "MazayaNET Communication Services Co.",
+        "handle": "MAZAYANET"
+    },
+    "208071": {
+        "country_code": "PS",
+        "asn": "208071",
+        "description": "Injazat Technologies LTD",
+        "handle": "INJAZAT-AS"
+    },
+    "208473": {
+        "country_code": "PS",
+        "asn": "208473",
+        "description": "Furrera For Telecommunication & Internet Services Co. Private Shareholding Company",
+        "handle": "ASN-FURRERA"
+    },
+    "208661": {
+        "country_code": "PS",
+        "asn": "208661",
+        "description": "NetZone Technology Co. PSC",
+        "handle": "NETZONE"
+    },
+    "210059": {
+        "country_code": "PS",
+        "asn": "210059",
+        "description": "Southern electricity Company",
+        "handle": "PALTEL-AS"
+    },
+    "210116": {
+        "country_code": "PS",
+        "asn": "210116",
+        "description": "Quintiez Alfa General Trading Co.",
+        "handle": "PS-QUINTIEZ"
+    },
+    "210476": {
+        "country_code": "PS",
+        "asn": "210476",
+        "description": "Moon net for Information Technology LLC",
+        "handle": "MOON-NET"
+    },
+    "210478": {
+        "country_code": "PS",
+        "asn": "210478",
+        "description": "Farah Net for Telecommunication Services LLC",
+        "handle": "FARAHNET-AS"
+    },
+    "210974": {
+        "country_code": "PS",
+        "asn": "210974",
+        "description": "AjyalFi Company for Information and Communication Technology LLC",
+        "handle": "AJYALFI"
+    },
+    "210990": {
+        "country_code": "PS",
+        "asn": "210990",
+        "description": "SpeedClick for Information Technology and Communication Ltd",
+        "handle": "SP-HOSTING-AS"
+    },
+    "211057": {
+        "country_code": "PS",
+        "asn": "211057",
+        "description": "Astra for Telecommunication and IT Services",
+        "handle": "PS-ASTRA"
+    },
+    "211466": {
+        "country_code": "PS",
+        "asn": "211466",
+        "description": "Ministry of Telecommunication & Digital Economy",
+        "handle": "MTDE-PSIX-AS"
+    },
+    "213207": {
+        "country_code": "PS",
+        "asn": "213207",
+        "description": "TechHub company for trading investment and technology",
+        "handle": "TECHHUB-HINET"
+    },
+    "214920": {
+        "country_code": "PS",
+        "asn": "214920",
+        "description": "Northern Electricity Distribution Company (NEDCO)",
+        "handle": "NEDCO-AS"
+    },
+    "215860": {
+        "country_code": "PS",
+        "asn": "215860",
+        "description": "Pal Link for Investment Co.",
+        "handle": "PALLINK-AS"
+    },
+    "215886": {
+        "country_code": "PS",
+        "asn": "215886",
+        "description": "The Zainco Company for Internet Services and Information Technology JSC",
+        "handle": "ZAINCO-CO-AS"
+    }
+}

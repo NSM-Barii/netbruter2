@@ -1,0 +1,56 @@
+{
+    "29544": {
+        "country_code": "MR",
+        "asn": "29544",
+        "description": "Mauritanian Telecommunication Company",
+        "handle": "MAURITEL"
+    },
+    "37508": {
+        "country_code": "MR",
+        "asn": "37508",
+        "description": "MATTEL",
+        "handle": "MATTEL"
+    },
+    "37541": {
+        "country_code": "MR",
+        "asn": "37541",
+        "description": "Chinguitel S.A",
+        "handle": "CHINGUITEL"
+    },
+    "328008": {
+        "country_code": "MR",
+        "asn": "328008",
+        "description": "Association pour la Gestion du Point d'Echange Internet en Mauritanie (RIMIX)",
+        "handle": "RIMIX"
+    },
+    "328850": {
+        "country_code": "MR",
+        "asn": "328850",
+        "description": "Computer Sales & Services (C.S.S-SA)",
+        "handle": "CSS-AS"
+    },
+    "328997": {
+        "country_code": "MR",
+        "asn": "328997",
+        "description": "RIMATEL-SA",
+        "handle": "RIMATEL"
+    },
+    "329048": {
+        "country_code": "MR",
+        "asn": "329048",
+        "description": "NETCOM sa",
+        "handle": "NETCOM-AS"
+    },
+    "329119": {
+        "country_code": "MR",
+        "asn": "329119",
+        "description": "PATRIE NETWORK- PATRIE-NET- SA",
+        "handle": "A2LTD-AS"
+    },
+    "329555": {
+        "country_code": "MR",
+        "asn": "329555",
+        "description": "SAHEL TELECOM S.A",
+        "handle": "SAHEL-TELECOM-SA"
+    }
+}

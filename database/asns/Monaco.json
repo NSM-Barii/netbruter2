@@ -1,0 +1,26 @@
+{
+    "6758": {
+        "country_code": "MC",
+        "asn": "6758",
+        "description": "Monaco Telecom S.A.",
+        "handle": "AS6758"
+    },
+    "12463": {
+        "country_code": "MC",
+        "asn": "12463",
+        "description": "S.A. des Bains de Mer et du Cercle des Etrangers a Monaco",
+        "handle": "ASN-SBM"
+    },
+    "48996": {
+        "country_code": "MC",
+        "asn": "48996",
+        "description": "CENTRE HOSPITALIER PRINCESSE GRACE",
+        "handle": "CHPG-MC"
+    },
+    "215994": {
+        "country_code": "MC",
+        "asn": "215994",
+        "description": "CMB Monaco SAM",
+        "handle": "CMB-MONACO"
+    }
+}

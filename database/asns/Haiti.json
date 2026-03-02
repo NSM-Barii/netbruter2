@@ -1,0 +1,80 @@
+{
+    "10824": {
+        "country_code": "HT",
+        "asn": "10824",
+        "description": "BANQUE DE LA REPUBLIQUE D'HAITI",
+        "handle": "BANQUE-LA-REPUBLIQUE-D'HAITI"
+    },
+    "27653": {
+        "country_code": "HT",
+        "asn": "27653",
+        "description": "Alpha Communications Network",
+        "handle": "ALPHA-COMMUNICATIONS-NETWORK"
+    },
+    "27759": {
+        "country_code": "HT",
+        "asn": "27759",
+        "description": "ACCESS HAITI S.A.",
+        "handle": "ACCESS-HAITI"
+    },
+    "27774": {
+        "country_code": "HT",
+        "asn": "27774",
+        "description": "Haiti Networking Group S.A.",
+        "handle": "HAITI-NETWORKING-GROUP"
+    },
+    "27777": {
+        "country_code": "HT",
+        "asn": "27777",
+        "description": "Haiti Networking Group S.A.",
+        "handle": "HAITI-NETWORKING-GROUP"
+    },
+    "28056": {
+        "country_code": "HT",
+        "asn": "28056",
+        "description": "AHTIC",
+        "handle": "AHTIC"
+    },
+    "52260": {
+        "country_code": "HT",
+        "asn": "52260",
+        "description": "T\u00e9l\u00e9communications de Hait\u00ed (Teleco)",
+        "handle": "TELECOMMUNICATIONS-HAITI"
+    },
+    "52297": {
+        "country_code": "HT",
+        "asn": "52297",
+        "description": "HAICOM (Haiti Communications S.A.)",
+        "handle": "HAICOM"
+    },
+    "52382": {
+        "country_code": "HT",
+        "asn": "52382",
+        "description": "Faculte Des Sciences Universite dEtat dHaiti",
+        "handle": "FACULTE-DES-SCIENCES"
+    },
+    "263685": {
+        "country_code": "HT",
+        "asn": "263685",
+        "description": "SOGEBANK",
+        "handle": "SOGEBANK"
+    },
+    "264616": {
+        "country_code": "HT",
+        "asn": "264616",
+        "description": "Haiti Data Networks S.A.",
+        "handle": "HAITI-DATA-NETWORKS"
+    },
+    "264828": {
+        "country_code": "HT",
+        "asn": "264828",
+        "description": "FONDATION TRANSVERSAL",
+        "handle": "FONDATION-TRANSVERSAL"
+    },
+    "271897": {
+        "country_code": "HT",
+        "asn": "271897",
+        "description": "UNIBANK S.A.",
+        "handle": "UNIBANK"
+    }
+}

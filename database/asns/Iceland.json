@@ -1,0 +1,536 @@
+{
+    "1850": {
+        "country_code": "IS",
+        "asn": "1850",
+        "description": "Internet a Islandi hf",
+        "handle": "ISNIC"
+    },
+    "6677": {
+        "country_code": "IS",
+        "asn": "6677",
+        "description": "Mila hf",
+        "handle": "ICENET-AS1"
+    },
+    "12969": {
+        "country_code": "IS",
+        "asn": "12969",
+        "description": "Ljosleidarinn ehf",
+        "handle": "VODAFONE-ICELAND"
+    },
+    "15474": {
+        "country_code": "IS",
+        "asn": "15474",
+        "description": "Rannsokna- og haskolanet Islands hf.",
+        "handle": "RHNET"
+    },
+    "21268": {
+        "country_code": "IS",
+        "asn": "21268",
+        "description": "Ljosleidarinn ehf",
+        "handle": "VODAFONE-ICELAND"
+    },
+    "24743": {
+        "country_code": "IS",
+        "asn": "24743",
+        "description": "Snerpa ehf",
+        "handle": "SNERPA-NET"
+    },
+    "25244": {
+        "country_code": "IS",
+        "asn": "25244",
+        "description": "deCode genetics Ltd.",
+        "handle": "DECODE-AS"
+    },
+    "25509": {
+        "country_code": "IS",
+        "asn": "25509",
+        "description": "Hringidan ehf / Vortex Inc",
+        "handle": "VORTEX-AS"
+    },
+    "29348": {
+        "country_code": "IS",
+        "asn": "29348",
+        "description": "Icelandic Ministry of Education and Children",
+        "handle": "FSNET-AS"
+    },
+    "29689": {
+        "country_code": "IS",
+        "asn": "29689",
+        "description": "Origo ehf",
+        "handle": "ORIGO-AS"
+    },
+    "30818": {
+        "country_code": "IS",
+        "asn": "30818",
+        "description": "Advania Island ehf",
+        "handle": "IS-ADVANIA-TRANSIT"
+    },
+    "31236": {
+        "country_code": "IS",
+        "asn": "31236",
+        "description": "Reykjavik City Hall",
+        "handle": "RVK-AS"
+    },
+    "31410": {
+        "country_code": "IS",
+        "asn": "31410",
+        "description": "Nova hf",
+        "handle": "CORE-GLOBAL-AS"
+    },
+    "31441": {
+        "country_code": "IS",
+        "asn": "31441",
+        "description": "Ljosleidarinn ehf",
+        "handle": "GR-AS"
+    },
+    "34678": {
+        "country_code": "IS",
+        "asn": "34678",
+        "description": "Eignafelag Tolvunar ehf",
+        "handle": "TOLVUN-AS"
+    },
+    "35834": {
+        "country_code": "IS",
+        "asn": "35834",
+        "description": "CCP ehf.",
+        "handle": "CCP"
+    },
+    "39418": {
+        "country_code": "IS",
+        "asn": "39418",
+        "description": "Origo ehf",
+        "handle": "UMSJA"
+    },
+    "39472": {
+        "country_code": "IS",
+        "asn": "39472",
+        "description": "Arion Banki hf",
+        "handle": "ARION-BANKI-AS"
+    },
+    "39532": {
+        "country_code": "IS",
+        "asn": "39532",
+        "description": "Landsbankinn hf",
+        "handle": "LANDSBANKI-AS"
+    },
+    "43571": {
+        "country_code": "IS",
+        "asn": "43571",
+        "description": "Nova hf",
+        "handle": "NOVAIS-AS"
+    },
+    "43892": {
+        "country_code": "IS",
+        "asn": "43892",
+        "description": "Sensa ehf",
+        "handle": "BASIS-AS"
+    },
+    "44275": {
+        "country_code": "IS",
+        "asn": "44275",
+        "description": "Opin Kerfi hf",
+        "handle": "OPINKERFI2024"
+    },
+    "44515": {
+        "country_code": "IS",
+        "asn": "44515",
+        "description": "Advania Island ehf",
+        "handle": "IS-ADVANIA"
+    },
+    "44644": {
+        "country_code": "IS",
+        "asn": "44644",
+        "description": "Arvakur hf",
+        "handle": "ARVAKUR-NET"
+    },
+    "44735": {
+        "country_code": "IS",
+        "asn": "44735",
+        "description": "Nova hf",
+        "handle": "SIP-ASN"
+    },
+    "44925": {
+        "country_code": "IS",
+        "asn": "44925",
+        "description": "1984 ehf",
+        "handle": "THE-1984-AS"
+    },
+    "47545": {
+        "country_code": "IS",
+        "asn": "47545",
+        "description": "Verkis hf",
+        "handle": "VST-RAF-AS"
+    },
+    "47828": {
+        "country_code": "IS",
+        "asn": "47828",
+        "description": "Rapyd Europe hf.",
+        "handle": "VALITOR-AS"
+    },
+    "48568": {
+        "country_code": "IS",
+        "asn": "48568",
+        "description": "Haskoli Islands",
+        "handle": "IS-HINET"
+    },
+    "48685": {
+        "country_code": "IS",
+        "asn": "48685",
+        "description": "Opin Kerfi hf",
+        "handle": "OK-AS"
+    },
+    "50613": {
+        "country_code": "IS",
+        "asn": "50613",
+        "description": "Advania Island ehf",
+        "handle": "THORDC-AS"
+    },
+    "51019": {
+        "country_code": "IS",
+        "asn": "51019",
+        "description": "Kria Elinarbur",
+        "handle": "LJOSNET-VPC"
+    },
+    "51296": {
+        "country_code": "IS",
+        "asn": "51296",
+        "description": "Handpoint ehf",
+        "handle": "MEDIAN-IS"
+    },
+    "51829": {
+        "country_code": "IS",
+        "asn": "51829",
+        "description": "Nova hf",
+        "handle": "KUKL-AS"
+    },
+    "51896": {
+        "country_code": "IS",
+        "asn": "51896",
+        "description": "Hringdu ehf",
+        "handle": "HRINGDU-AS"
+    },
+    "56704": {
+        "country_code": "IS",
+        "asn": "56704",
+        "description": "Farice ehf",
+        "handle": "FARICE-AS"
+    },
+    "57508": {
+        "country_code": "IS",
+        "asn": "57508",
+        "description": "Alza ehf",
+        "handle": "AS-ALZA-IS"
+    },
+    "57729": {
+        "country_code": "IS",
+        "asn": "57729",
+        "description": "Kopavogsbaer",
+        "handle": "KOPAVOGUR-AS"
+    },
+    "57759": {
+        "country_code": "IS",
+        "asn": "57759",
+        "description": "Rapyd Europe hf.",
+        "handle": "KORTA-AS"
+    },
+    "59396": {
+        "country_code": "IS",
+        "asn": "59396",
+        "description": "Tolvu- og Rafeindapjonusta Sudurlands ehf",
+        "handle": "TRS"
+    },
+    "60259": {
+        "country_code": "IS",
+        "asn": "60259",
+        "description": "Nova hf",
+        "handle": "SIMAFELAGID-ASN"
+    },
+    "60300": {
+        "country_code": "IS",
+        "asn": "60300",
+        "description": "Syn hf",
+        "handle": "VODAFONE-ICELAND"
+    },
+    "60690": {
+        "country_code": "IS",
+        "asn": "60690",
+        "description": "Opin Kerfi hf",
+        "handle": "OPEX-ASN"
+    },
+    "62199": {
+        "country_code": "IS",
+        "asn": "62199",
+        "description": "Verne Global hf.",
+        "handle": "VERNEGLOBAL-IS"
+    },
+    "197403": {
+        "country_code": "IS",
+        "asn": "197403",
+        "description": "Islandsbanki hf",
+        "handle": "ISLANDSBANKI-AS1"
+    },
+    "197973": {
+        "country_code": "IS",
+        "asn": "197973",
+        "description": "Registers Iceland",
+        "handle": "SKRA-NET"
+    },
+    "198815": {
+        "country_code": "IS",
+        "asn": "198815",
+        "description": "Rikisutvarpid Ohf",
+        "handle": "RUV-AS"
+    },
+    "199844": {
+        "country_code": "IS",
+        "asn": "199844",
+        "description": "RARIK ohf.",
+        "handle": "RARIK"
+    },
+    "200432": {
+        "country_code": "IS",
+        "asn": "200432",
+        "description": "Teya Iceland hf",
+        "handle": "BORGUN"
+    },
+    "200651": {
+        "country_code": "IS",
+        "asn": "200651",
+        "description": "FlokiNET ehf",
+        "handle": "FLOKINET"
+    },
+    "200868": {
+        "country_code": "IS",
+        "asn": "200868",
+        "description": "Kapalvaeding ehf.",
+        "handle": "KAPALVAEDING"
+    },
+    "201849": {
+        "country_code": "IS",
+        "asn": "201849",
+        "description": "Sensa ehf",
+        "handle": "SENSA-AS"
+    },
+    "201885": {
+        "country_code": "IS",
+        "asn": "201885",
+        "description": "Haskolinn i Reykjavik ehf.",
+        "handle": "RU-AS"
+    },
+    "202030": {
+        "country_code": "IS",
+        "asn": "202030",
+        "description": "Icelandair ehf",
+        "handle": "ICELANDAIR-AS"
+    },
+    "202247": {
+        "country_code": "IS",
+        "asn": "202247",
+        "description": "NetBerg ehf",
+        "handle": "NETBERG"
+    },
+    "202868": {
+        "country_code": "IS",
+        "asn": "202868",
+        "description": "Nova hf",
+        "handle": "TSC"
+    },
+    "203176": {
+        "country_code": "IS",
+        "asn": "203176",
+        "description": "Reiknistofa bankanna hf.",
+        "handle": "RB"
+    },
+    "203322": {
+        "country_code": "IS",
+        "asn": "203322",
+        "description": "Eimskip Island ehf",
+        "handle": "EIMSKIP-AS"
+    },
+    "203566": {
+        "country_code": "IS",
+        "asn": "203566",
+        "description": "Mila hf",
+        "handle": "MILAHF-AS2"
+    },
+    "203590": {
+        "country_code": "IS",
+        "asn": "203590",
+        "description": "Sensa ehf",
+        "handle": "SENSA-AS"
+    },
+    "203715": {
+        "country_code": "IS",
+        "asn": "203715",
+        "description": "Isavia ohf",
+        "handle": "ISA"
+    },
+    "204588": {
+        "country_code": "IS",
+        "asn": "204588",
+        "description": "Rapyd Europe hf.",
+        "handle": "PROTEGION"
+    },
+    "205436": {
+        "country_code": "IS",
+        "asn": "205436",
+        "description": "Wintermute Technologies EHF",
+        "handle": "ASWINTERMUTE"
+    },
+    "206010": {
+        "country_code": "IS",
+        "asn": "206010",
+        "description": "Umbra Service Center Management",
+        "handle": "RFS"
+    },
+    "206440": {
+        "country_code": "IS",
+        "asn": "206440",
+        "description": "NetBerg ehf",
+        "handle": "NETPANDAN"
+    },
+    "206669": {
+        "country_code": "IS",
+        "asn": "206669",
+        "description": "Gagnaveitan ehf.",
+        "handle": "GAGNAVEITAN"
+    },
+    "206743": {
+        "country_code": "IS",
+        "asn": "206743",
+        "description": "Securitas hf.",
+        "handle": "SECURITASICELAND"
+    },
+    "206842": {
+        "country_code": "IS",
+        "asn": "206842",
+        "description": "Tactica ehf",
+        "handle": "TACTICA"
+    },
+    "208548": {
+        "country_code": "IS",
+        "asn": "208548",
+        "description": "Kria Elinarbur",
+        "handle": "CANICE"
+    },
+    "209214": {
+        "country_code": "IS",
+        "asn": "209214",
+        "description": "Netheimur ehf.",
+        "handle": "IS-NETHEIMUR"
+    },
+    "209356": {
+        "country_code": "IS",
+        "asn": "209356",
+        "description": "Landspitali - University Hospital (LUH)",
+        "handle": "LANDSPITALI"
+    },
+    "210080": {
+        "country_code": "IS",
+        "asn": "210080",
+        "description": "Tolvuthjonustan ehf.",
+        "handle": "TOLVUTHJONUSTAN"
+    },
+    "210747": {
+        "country_code": "IS",
+        "asn": "210747",
+        "description": "BERJAYA HOTELS ICELAND hf",
+        "handle": "IHOTELS"
+    },
+    "211589": {
+        "country_code": "IS",
+        "asn": "211589",
+        "description": "Rikisutvarpid Ohf",
+        "handle": "RUV-CDN"
+    },
+    "211734": {
+        "country_code": "IS",
+        "asn": "211734",
+        "description": "Vegagerdin",
+        "handle": "IS-VEGAGERDIN"
+    },
+    "211757": {
+        "country_code": "IS",
+        "asn": "211757",
+        "description": "Panascais ehf.",
+        "handle": "PANASCAIS"
+    },
+    "211815": {
+        "country_code": "IS",
+        "asn": "211815",
+        "description": "Landsvirkjun",
+        "handle": "LANDSVIRKJUN-AS"
+    },
+    "212771": {
+        "country_code": "IS",
+        "asn": "212771",
+        "description": "Netvoktun ehf",
+        "handle": "NETVOKTUN"
+    },
+    "212926": {
+        "country_code": "IS",
+        "asn": "212926",
+        "description": "Harpa Concert Hall and Conference Centre ohf",
+        "handle": "HARPA-AS"
+    },
+    "213364": {
+        "country_code": "IS",
+        "asn": "213364",
+        "description": "STEINN ORVAR BJARNARSON",
+        "handle": "IS-STEINN-6"
+    },
+    "214144": {
+        "country_code": "IS",
+        "asn": "214144",
+        "description": "Neydarlinan ohf.",
+        "handle": "NEYDARLINAN-AS"
+    },
+    "214185": {
+        "country_code": "IS",
+        "asn": "214185",
+        "description": "Rafey ehf",
+        "handle": "AUSTURLJOS"
+    },
+    "214215": {
+        "country_code": "IS",
+        "asn": "214215",
+        "description": "Farice ehf",
+        "handle": "FARICE-RISP-AS"
+    },
+    "214718": {
+        "country_code": "IS",
+        "asn": "214718",
+        "description": "Wise lausnir ehf.",
+        "handle": "WISE"
+    },
+    "215608": {
+        "country_code": "IS",
+        "asn": "215608",
+        "description": "Samgongustofa",
+        "handle": "SAMGONGUSTOFA"
+    },
+    "215793": {
+        "country_code": "IS",
+        "asn": "215793",
+        "description": "Siminn hf. (Iceland Telecom)",
+        "handle": "SIMINN"
+    },
+    "215823": {
+        "country_code": "IS",
+        "asn": "215823",
+        "description": "Spaugur ehf.",
+        "handle": "SPAUGURDATA"
+    },
+    "216017": {
+        "country_code": "IS",
+        "asn": "216017",
+        "description": "Opin Kerfi hf",
+        "handle": "OKH-2"
+    },
+    "216293": {
+        "country_code": "IS",
+        "asn": "216293",
+        "description": "TechSupport ehf",
+        "handle": "TS"
+    }
+}

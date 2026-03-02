@@ -1,0 +1,68 @@
+{
+    "24439": {
+        "country_code": "MH",
+        "asn": "24439",
+        "description": "National Telecommunications Authority",
+        "handle": "NTAMAR-AS-AP"
+    },
+    "50183": {
+        "country_code": "MH",
+        "asn": "50183",
+        "description": "CenturyNetworks Ltd",
+        "handle": "CENTURY-LTD"
+    },
+    "62880": {
+        "country_code": "MH",
+        "asn": "62880",
+        "description": "Synatec LLC",
+        "handle": "SYNATEC"
+    },
+    "154410": {
+        "country_code": "MH",
+        "asn": "154410",
+        "description": "Marshall Telecom LTD",
+        "handle": "MTL-AS-AP"
+    },
+    "200877": {
+        "country_code": "MH",
+        "asn": "200877",
+        "description": "iSH TRANSIT LTD",
+        "handle": "ISH-TRANSIT"
+    },
+    "201501": {
+        "country_code": "MH",
+        "asn": "201501",
+        "description": "ISECLAYER INC",
+        "handle": "ISEC-ASN"
+    },
+    "204938": {
+        "country_code": "MH",
+        "asn": "204938",
+        "description": "APEX NODE LTD",
+        "handle": "APEX-AS"
+    },
+    "205009": {
+        "country_code": "MH",
+        "asn": "205009",
+        "description": "HDM Solutions LTD",
+        "handle": "HDMS"
+    },
+    "209194": {
+        "country_code": "MH",
+        "asn": "209194",
+        "description": "Hyper Data Transit LTD",
+        "handle": "HYPER-DATA-TRANSIT"
+    },
+    "213205": {
+        "country_code": "MH",
+        "asn": "213205",
+        "description": "COOOLBE LTD",
+        "handle": "COOOLBE-CA"
+    },
+    "213846": {
+        "country_code": "MH",
+        "asn": "213846",
+        "description": "NALMI LIMITED",
+        "handle": "NALMI-AS"
+    }
+}

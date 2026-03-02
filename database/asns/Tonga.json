@@ -1,0 +1,32 @@
+{
+    "38198": {
+        "country_code": "TO",
+        "asn": "38198",
+        "description": "Digicel Tonga Ltd.",
+        "handle": "DIGICELNET-TO"
+    },
+    "38201": {
+        "country_code": "TO",
+        "asn": "38201",
+        "description": "Tonga Communications Corporation",
+        "handle": "KALIANET-PUBLIC-AS-AP"
+    },
+    "132579": {
+        "country_code": "TO",
+        "asn": "132579",
+        "description": "Tonga Cable Limited",
+        "handle": "TONGACABLELIMITED-AS-AP"
+    },
+    "132831": {
+        "country_code": "TO",
+        "asn": "132831",
+        "description": "TokoWireless Limited",
+        "handle": "TOKOWIRELESSLTD-AS-AP"
+    },
+    "140987": {
+        "country_code": "TO",
+        "asn": "140987",
+        "description": "Government of Tonga Ministry of MEIDECC",
+        "handle": "GOTMOM-AS-AP"
+    }
+}

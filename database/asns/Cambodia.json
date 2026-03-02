@@ -1,0 +1,872 @@
+{
+    "7712": {
+        "country_code": "KH",
+        "asn": "7712",
+        "description": "Cambodian Network Exchange Co. Ltd.",
+        "handle": "CNE-AS-AP"
+    },
+    "9900": {
+        "country_code": "KH",
+        "asn": "9900",
+        "description": "COGETEL LTD.",
+        "handle": "COGETEL-AS-AP"
+    },
+    "9902": {
+        "country_code": "KH",
+        "asn": "9902",
+        "description": "NeocomISP Limited",
+        "handle": "NEOCOMISP-KH-AP"
+    },
+    "17726": {
+        "country_code": "KH",
+        "asn": "17726",
+        "description": "Telecom Cambodia (T.C.)",
+        "handle": "CAMNET-AS"
+    },
+    "17976": {
+        "country_code": "KH",
+        "asn": "17976",
+        "description": "CAMGSM Company Ltd",
+        "handle": "CAMGSM-CELLCARD-AS-AP"
+    },
+    "17981": {
+        "country_code": "KH",
+        "asn": "17981",
+        "description": "Cambo Technology (I.S.P) Company Limited",
+        "handle": "CAMBOTECH-KH-AS"
+    },
+    "18014": {
+        "country_code": "KH",
+        "asn": "18014",
+        "description": "CityLink Co. Ltd.",
+        "handle": "CLT-SR-AS-AP"
+    },
+    "23673": {
+        "country_code": "KH",
+        "asn": "23673",
+        "description": "COGETEL LTD.",
+        "handle": "ONLINE-AS"
+    },
+    "24325": {
+        "country_code": "KH",
+        "asn": "24325",
+        "description": "COGETEL LTD.",
+        "handle": "COGETEL-AZCOMM-AS"
+    },
+    "24441": {
+        "country_code": "KH",
+        "asn": "24441",
+        "description": "CityLink Co. Ltd.",
+        "handle": "CITYLINK-AS-KH"
+    },
+    "24478": {
+        "country_code": "KH",
+        "asn": "24478",
+        "description": "Cambodia Data Communication",
+        "handle": "ANGKORNET-CDC-AS-AP"
+    },
+    "24492": {
+        "country_code": "KH",
+        "asn": "24492",
+        "description": "WiCAM Corporation Ltd.",
+        "handle": "IIT-WICAM-AS-AP"
+    },
+    "37971": {
+        "country_code": "KH",
+        "asn": "37971",
+        "description": "ANGKOR DATA COMMUNICATION GROUP CO. LTD. (A D C)",
+        "handle": "MIX-AS-AP"
+    },
+    "38209": {
+        "country_code": "KH",
+        "asn": "38209",
+        "description": "Camintel S.A",
+        "handle": "CAMINTEL-AS"
+    },
+    "38235": {
+        "country_code": "KH",
+        "asn": "38235",
+        "description": "ANGKOR DATA COMMUNICATION GROUP CO. LTD. (A D C)",
+        "handle": "MEKONGNET-ADC-AS-AP"
+    },
+    "38286": {
+        "country_code": "KH",
+        "asn": "38286",
+        "description": "Phnom Penh Cable TV",
+        "handle": "PPCTV-AS-AP"
+    },
+    "38600": {
+        "country_code": "KH",
+        "asn": "38600",
+        "description": "Smart Axiata Co. Ltd.",
+        "handle": "SMART-AXIATA-KH"
+    },
+    "38623": {
+        "country_code": "KH",
+        "asn": "38623",
+        "description": "VIETTEL (CAMBODIA) PTE. LTD",
+        "handle": "VIETTELCAMBODIA-AS-AP"
+    },
+    "38901": {
+        "country_code": "KH",
+        "asn": "38901",
+        "description": "EZECOM CO. LTD.",
+        "handle": "EZECOM-AS-AP"
+    },
+    "45348": {
+        "country_code": "KH",
+        "asn": "45348",
+        "description": "Chuan Wei (Cambodia) Co. Ltd",
+        "handle": "CHUANWEI-AS-KH"
+    },
+    "45498": {
+        "country_code": "KH",
+        "asn": "45498",
+        "description": "Smart Axiata Co. Ltd.",
+        "handle": "SMART-AXIATA-KH"
+    },
+    "55329": {
+        "country_code": "KH",
+        "asn": "55329",
+        "description": "Telcotech Ltd",
+        "handle": "TELCOTECH-KH"
+    },
+    "55559": {
+        "country_code": "KH",
+        "asn": "55559",
+        "description": "WiCAM Corporation Ltd.",
+        "handle": "IIT-WICAM-AS-AP"
+    },
+    "55582": {
+        "country_code": "KH",
+        "asn": "55582",
+        "description": "Telcotech Ltd",
+        "handle": "TELCOTECH-LOCAL-AS-AP"
+    },
+    "55636": {
+        "country_code": "KH",
+        "asn": "55636",
+        "description": "TPLC Holdings Ltd",
+        "handle": "TPLC-KH"
+    },
+    "55769": {
+        "country_code": "KH",
+        "asn": "55769",
+        "description": "SOUTH EAST ASIA TELECOM (Cambodia) Co. LTD",
+        "handle": "SEATELECOM-KH"
+    },
+    "55928": {
+        "country_code": "KH",
+        "asn": "55928",
+        "description": "NTT Communications Phnom Penh",
+        "handle": "NTTCT-AS-KH-AP"
+    },
+    "58424": {
+        "country_code": "KH",
+        "asn": "58424",
+        "description": "Xinwei (Cambodia) Telecom Co. Ltd",
+        "handle": "XINWEITELECOM-KH"
+    },
+    "58465": {
+        "country_code": "KH",
+        "asn": "58465",
+        "description": "Cambodia Securities Exchange",
+        "handle": "CSX-KH"
+    },
+    "59318": {
+        "country_code": "KH",
+        "asn": "59318",
+        "description": "S.I Group",
+        "handle": "SINET-KH"
+    },
+    "131178": {
+        "country_code": "KH",
+        "asn": "131178",
+        "description": "EZECOM CO. LTD.",
+        "handle": "EZECOM-AS-AP"
+    },
+    "131186": {
+        "country_code": "KH",
+        "asn": "131186",
+        "description": "MekongNet IXP",
+        "handle": "MKN1-BAVET-AS-KH"
+    },
+    "131203": {
+        "country_code": "KH",
+        "asn": "131203",
+        "description": "MekongNet IXP",
+        "handle": "MKN1-DIX-AS-KH"
+    },
+    "131207": {
+        "country_code": "KH",
+        "asn": "131207",
+        "description": "S.I Group",
+        "handle": "SINET-KH"
+    },
+    "131238": {
+        "country_code": "KH",
+        "asn": "131238",
+        "description": "MekongNet IXP",
+        "handle": "MKN1-TOMPENGPHLONG-AS-KH"
+    },
+    "131241": {
+        "country_code": "KH",
+        "asn": "131241",
+        "description": "ACLEDA Bank Plc.",
+        "handle": "ACLEDABANKPLC-AS-AP"
+    },
+    "131309": {
+        "country_code": "KH",
+        "asn": "131309",
+        "description": "Khmer Highspeed Asianet Co. Ltd.",
+        "handle": "KHA-AS-AP"
+    },
+    "132025": {
+        "country_code": "KH",
+        "asn": "132025",
+        "description": "Wingel cooperation co. Ltd",
+        "handle": "WGCC-AS-AP"
+    },
+    "132080": {
+        "country_code": "KH",
+        "asn": "132080",
+        "description": "M.A.T Co. Ltd.",
+        "handle": "MATCORP-AS-AP"
+    },
+    "132098": {
+        "country_code": "KH",
+        "asn": "132098",
+        "description": "Wingel cooperation co. Ltd",
+        "handle": "WGCC-AS-AP"
+    },
+    "132213": {
+        "country_code": "KH",
+        "asn": "132213",
+        "description": "Cambodian Network Exchange Co. Ltd.",
+        "handle": "CNE-AS-AP"
+    },
+    "132350": {
+        "country_code": "KH",
+        "asn": "132350",
+        "description": "The National Information Communications Technology Development Authority (NiDA)",
+        "handle": "NIDA-AS"
+    },
+    "132590": {
+        "country_code": "KH",
+        "asn": "132590",
+        "description": "AKCTV Pte. Ltd.",
+        "handle": "AKCTV-AS-AP"
+    },
+    "132599": {
+        "country_code": "KH",
+        "asn": "132599",
+        "description": "Ministry of Post and Telecommunication",
+        "handle": "NICTDA-AS-AP"
+    },
+    "132730": {
+        "country_code": "KH",
+        "asn": "132730",
+        "description": "MAXIMUM BUSINESS INFORMATION TECHNOLOGY CO. LTD.",
+        "handle": "MBIT-KH"
+    },
+    "132820": {
+        "country_code": "KH",
+        "asn": "132820",
+        "description": "Telecom Cambodia (T.C.)",
+        "handle": "CAMNET-AS-AP"
+    },
+    "133200": {
+        "country_code": "KH",
+        "asn": "133200",
+        "description": "NeocomISP Limited",
+        "handle": "NEOCOMISP-AS-AP"
+    },
+    "133378": {
+        "country_code": "KH",
+        "asn": "133378",
+        "description": "Wingel cooperation co. Ltd",
+        "handle": "WGCC-AS-AP"
+    },
+    "133416": {
+        "country_code": "KH",
+        "asn": "133416",
+        "description": "Edeel (Cambodia) Plc.",
+        "handle": "EP-AS-AP"
+    },
+    "133588": {
+        "country_code": "KH",
+        "asn": "133588",
+        "description": "Cambodian Network Exchange Co. Ltd.",
+        "handle": "CNE-AS-AP"
+    },
+    "133941": {
+        "country_code": "KH",
+        "asn": "133941",
+        "description": "Data Center Services Provider co. ltd",
+        "handle": "DSP-AS-AP"
+    },
+    "134136": {
+        "country_code": "KH",
+        "asn": "134136",
+        "description": "IBANK (CAMBODIA) PLC",
+        "handle": "IBANK-AS-AP"
+    },
+    "134478": {
+        "country_code": "KH",
+        "asn": "134478",
+        "description": "Eang Kong (Cambodia) Co. Ltd",
+        "handle": "EKCL-AS-AP"
+    },
+    "135286": {
+        "country_code": "KH",
+        "asn": "135286",
+        "description": "Star Digital MUDs TV Limited",
+        "handle": "SDMTL-AS-AP"
+    },
+    "135295": {
+        "country_code": "KH",
+        "asn": "135295",
+        "description": "S.I Group",
+        "handle": "FASTCDN2-AS-AP"
+    },
+    "135333": {
+        "country_code": "KH",
+        "asn": "135333",
+        "description": "AKCTV Pte. Ltd.",
+        "handle": "AKCTV-AS-AP"
+    },
+    "135375": {
+        "country_code": "KH",
+        "asn": "135375",
+        "description": "Today Communication Co. Ltd",
+        "handle": "TCC-AS-AP"
+    },
+    "135380": {
+        "country_code": "KH",
+        "asn": "135380",
+        "description": "Ministry of Industry Science Technology and Innovation",
+        "handle": "MOISTAI-AS-AP"
+    },
+    "135429": {
+        "country_code": "KH",
+        "asn": "135429",
+        "description": "S.I Group",
+        "handle": "SINET-CDN"
+    },
+    "135664": {
+        "country_code": "KH",
+        "asn": "135664",
+        "description": "GLOBAL CLOUD EXCHANGE Co. Ltd.",
+        "handle": "GCX-AS-AP"
+    },
+    "136379": {
+        "country_code": "KH",
+        "asn": "136379",
+        "description": "Istanaimpian Corporation Limited",
+        "handle": "ICL-AS-AP"
+    },
+    "136583": {
+        "country_code": "KH",
+        "asn": "136583",
+        "description": "PROJECT99-AS-AP",
+        "handle": "PROJECT99-AS-AP"
+    },
+    "136764": {
+        "country_code": "KH",
+        "asn": "136764",
+        "description": "ZSL Amusement and Investment Co. Ltd.",
+        "handle": "FASTCDN-AS-AP"
+    },
+    "136967": {
+        "country_code": "KH",
+        "asn": "136967",
+        "description": "MAXIMUM BUSINESS INFORMATION TECHNOLOGY CO. LTD.",
+        "handle": "BEE-UNION-AS-AP"
+    },
+    "136998": {
+        "country_code": "KH",
+        "asn": "136998",
+        "description": "ASSAWIN ASSET CO. LTD.",
+        "handle": "AAC-AS-AP"
+    },
+    "137066": {
+        "country_code": "KH",
+        "asn": "137066",
+        "description": "VDTTECH limited",
+        "handle": "VDTTECH-KH"
+    },
+    "137206": {
+        "country_code": "KH",
+        "asn": "137206",
+        "description": "TRUE MONEY (CAMBODIA) PLC",
+        "handle": "TRUEMONEY-AS-AP"
+    },
+    "137236": {
+        "country_code": "KH",
+        "asn": "137236",
+        "description": "TURBOTECH CO. LTD.",
+        "handle": "TTSCL-AS-AP"
+    },
+    "137281": {
+        "country_code": "KH",
+        "asn": "137281",
+        "description": "Mega Truenet Communication Co. Ltd.",
+        "handle": "MEGATRUENET-AS"
+    },
+    "137413": {
+        "country_code": "KH",
+        "asn": "137413",
+        "description": "Cambodian Network Exchange Co. Ltd.",
+        "handle": "CNE-AS-AP"
+    },
+    "137440": {
+        "country_code": "KH",
+        "asn": "137440",
+        "description": "Advanced Bank of Asia Limited",
+        "handle": "ABABANK-AS-AP"
+    },
+    "137499": {
+        "country_code": "KH",
+        "asn": "137499",
+        "description": "Data Network Services Provider Co. Ltd",
+        "handle": "HD-AS-AP"
+    },
+    "137503": {
+        "country_code": "KH",
+        "asn": "137503",
+        "description": "Spidernet Co. Ltd",
+        "handle": "SPIDERNETCOLTD-AS-AP"
+    },
+    "137537": {
+        "country_code": "KH",
+        "asn": "137537",
+        "description": "iOne Co. Ltd",
+        "handle": "IONECOLTD-AS-AP"
+    },
+    "137551": {
+        "country_code": "KH",
+        "asn": "137551",
+        "description": "REDLINK TELECOM Co. Ltd",
+        "handle": "REDLINK-AS-AP"
+    },
+    "137811": {
+        "country_code": "KH",
+        "asn": "137811",
+        "description": "BEE UNION (CAMBODIA) TELECOM CO. LTD",
+        "handle": "BUTCL-AS-AP"
+    },
+    "137820": {
+        "country_code": "KH",
+        "asn": "137820",
+        "description": "TPLC Holdings Ltd",
+        "handle": "TPLC-KH"
+    },
+    "137829": {
+        "country_code": "KH",
+        "asn": "137829",
+        "description": "LOLC (CAMBODIA) PLC.",
+        "handle": "LCP-AS-AP"
+    },
+    "137853": {
+        "country_code": "KH",
+        "asn": "137853",
+        "description": "TELNET CO. LTD",
+        "handle": "TELNETCOLTD-AS-AP"
+    },
+    "137952": {
+        "country_code": "KH",
+        "asn": "137952",
+        "description": "ANGKOR E & C (CAMBODIA) Co. Ltd.",
+        "handle": "ANGKORENC-AS-AP"
+    },
+    "137966": {
+        "country_code": "KH",
+        "asn": "137966",
+        "description": "NeocomISP Limited",
+        "handle": "NEOCOMISP-AS-AP"
+    },
+    "137989": {
+        "country_code": "KH",
+        "asn": "137989",
+        "description": "BigHub Co. Ltd",
+        "handle": "BIGHUBCOLTD-AS-AP"
+    },
+    "138010": {
+        "country_code": "KH",
+        "asn": "138010",
+        "description": "S.I Group",
+        "handle": "SINET-KH"
+    },
+    "138160": {
+        "country_code": "KH",
+        "asn": "138160",
+        "description": "ZTNET CO. LTD",
+        "handle": "ZTNETCOLTD-AS-AP"
+    },
+    "138334": {
+        "country_code": "KH",
+        "asn": "138334",
+        "description": "ZSL Amusement and Investment Co. Ltd.",
+        "handle": "ZAAICL-AS-AP"
+    },
+    "138340": {
+        "country_code": "KH",
+        "asn": "138340",
+        "description": "ESURFING TECHNOLOGY CO.LTD",
+        "handle": "ETC-AS-AP"
+    },
+    "138429": {
+        "country_code": "KH",
+        "asn": "138429",
+        "description": "EZECOM CO. LTD.",
+        "handle": "EZECOM-AS-AP"
+    },
+    "138528": {
+        "country_code": "KH",
+        "asn": "138528",
+        "description": "EMPIRE TECH Co. Ltd.",
+        "handle": "EMPIRETECH-AS-AP"
+    },
+    "138579": {
+        "country_code": "KH",
+        "asn": "138579",
+        "description": "One Shot Media Co. Ltd.",
+        "handle": "ONESHT-AS-AP"
+    },
+    "138580": {
+        "country_code": "KH",
+        "asn": "138580",
+        "description": "Ministry of Economy and Finance",
+        "handle": "MINISTRY-AS-AP"
+    },
+    "138629": {
+        "country_code": "KH",
+        "asn": "138629",
+        "description": "NSM SOLUTION AND MAINTENANCE CO. LTD.",
+        "handle": "NSMISP-AS-AP"
+    },
+    "138643": {
+        "country_code": "KH",
+        "asn": "138643",
+        "description": "CN XINYUAN INTERCONNECT COMPANY LTD",
+        "handle": "CXICL-AS-AP"
+    },
+    "138666": {
+        "country_code": "KH",
+        "asn": "138666",
+        "description": "MONOROM ADVANCED TECHNOLOGIES CO. LTD.",
+        "handle": "MONOROM-AS-AP"
+    },
+    "138682": {
+        "country_code": "KH",
+        "asn": "138682",
+        "description": "REMOHAND TECHNICAL CO LTD",
+        "handle": "REMOHAND1-AS-AP"
+    },
+    "138690": {
+        "country_code": "KH",
+        "asn": "138690",
+        "description": "Mega Truenet Communication Co. Ltd.",
+        "handle": "MEGATRUENET-AS-AP"
+    },
+    "138930": {
+        "country_code": "KH",
+        "asn": "138930",
+        "description": "NeocomISP Limited",
+        "handle": "NEOCOMISP-AS-AP"
+    },
+    "138999": {
+        "country_code": "KH",
+        "asn": "138999",
+        "description": "PPIN INTERNET CO. LTD.",
+        "handle": "PPIN-AS-AP"
+    },
+    "139044": {
+        "country_code": "KH",
+        "asn": "139044",
+        "description": "HUIONE PAY PLC.",
+        "handle": "HUIONEPAYPLC-AS-AP"
+    },
+    "139056": {
+        "country_code": "KH",
+        "asn": "139056",
+        "description": "FAST ONE (CAMBODIA) CO. LTD",
+        "handle": "FOCL-AS-AP"
+    },
+    "139060": {
+        "country_code": "KH",
+        "asn": "139060",
+        "description": "CHAOJI SUPER HIGH INTERNET TECHNOLOGY CO. LTD.",
+        "handle": "CSHITCL-AS-AP"
+    },
+    "139226": {
+        "country_code": "KH",
+        "asn": "139226",
+        "description": "Brother Telecom (Cambodia) co. Ltd.",
+        "handle": "ECG-AS-AP"
+    },
+    "139258": {
+        "country_code": "KH",
+        "asn": "139258",
+        "description": "TURBOTECH CO. LTD.",
+        "handle": "TTSCL-AS-AP"
+    },
+    "139285": {
+        "country_code": "KH",
+        "asn": "139285",
+        "description": "Wingel cooperation co. Ltd",
+        "handle": "WGCC-AS-AP"
+    },
+    "139588": {
+        "country_code": "KH",
+        "asn": "139588",
+        "description": "Institute of Technology of Cambodia",
+        "handle": "ITC-CAM-AS-AP"
+    },
+    "139628": {
+        "country_code": "KH",
+        "asn": "139628",
+        "description": "Mega Truenet Communication Co. Ltd.",
+        "handle": "MEGATRUENET-AS-AP"
+    },
+    "139797": {
+        "country_code": "KH",
+        "asn": "139797",
+        "description": "ANGKOR DATA COMMUNICATION GROUP CO. LTD. (A D C)",
+        "handle": "HONGKONG-CLOUD-AP"
+    },
+    "139821": {
+        "country_code": "KH",
+        "asn": "139821",
+        "description": "WiCAM Corporation Ltd.",
+        "handle": "IIT-WICAM-AS-AP"
+    },
+    "139844": {
+        "country_code": "KH",
+        "asn": "139844",
+        "description": "FIBER NANOTECH (Cambodia) Co. Ltd",
+        "handle": "FIBERNANOTECH-AS-AP"
+    },
+    "139871": {
+        "country_code": "KH",
+        "asn": "139871",
+        "description": "TONLE TECHNOLOGIES AND COMMUNICATIONS CO. LTD.",
+        "handle": "TTACCL-AS-AP"
+    },
+    "140659": {
+        "country_code": "KH",
+        "asn": "140659",
+        "description": "Vonet technology Co. Ltd.",
+        "handle": "VONET-AS-AP"
+    },
+    "140723": {
+        "country_code": "KH",
+        "asn": "140723",
+        "description": "EDGE CLOUD (CAMBODIA) CO. LTD",
+        "handle": "EDGECLOUDCAMBODIACOLTD-AS-KH"
+    },
+    "140974": {
+        "country_code": "KH",
+        "asn": "140974",
+        "description": "Mengly J. Quach Education PLC",
+        "handle": "MJQEP-AS-AP"
+    },
+    "141370": {
+        "country_code": "KH",
+        "asn": "141370",
+        "description": "CAMBODIAN TXT TELECOM CO. LTD.",
+        "handle": "CTTCL-AS-AP"
+    },
+    "141761": {
+        "country_code": "KH",
+        "asn": "141761",
+        "description": "Starchain Telecom Co. LTD.",
+        "handle": "STCL-AS-AP"
+    },
+    "141993": {
+        "country_code": "KH",
+        "asn": "141993",
+        "description": "X LINK ASIA COOPERATION CO. LTD.",
+        "handle": "XLACC-AS-AP"
+    },
+    "142024": {
+        "country_code": "KH",
+        "asn": "142024",
+        "description": "HGC GLOBAL COMMUNICATIONS (CAMBODIA) COMPANY LIMITED",
+        "handle": "HGCICLE-AS-AP"
+    },
+    "142296": {
+        "country_code": "KH",
+        "asn": "142296",
+        "description": "General Department of Taxation",
+        "handle": "GDOT-AS-AP"
+    },
+    "146995": {
+        "country_code": "KH",
+        "asn": "146995",
+        "description": "Cambodian Network Exchange Co. Ltd.",
+        "handle": "CNE-AS-AP"
+    },
+    "147011": {
+        "country_code": "KH",
+        "asn": "147011",
+        "description": "SATHAPANA BANK PLC",
+        "handle": "SATHAPANABANK-AS-AP"
+    },
+    "147023": {
+        "country_code": "KH",
+        "asn": "147023",
+        "description": "ESURFING TECHNOLOGY CO.LTD",
+        "handle": "ETC-AS-AP"
+    },
+    "147056": {
+        "country_code": "KH",
+        "asn": "147056",
+        "description": "U-LIFE KH SUPER APP CO. LTD",
+        "handle": "UKSAC-AS-AP"
+    },
+    "149177": {
+        "country_code": "KH",
+        "asn": "149177",
+        "description": "Amret PLC",
+        "handle": "AMRETPLC-AS-AP"
+    },
+    "149294": {
+        "country_code": "KH",
+        "asn": "149294",
+        "description": "CHAKTOMUK DATA CENTER CO. LTD.",
+        "handle": "CDCCL-AS-AP"
+    },
+    "149634": {
+        "country_code": "KH",
+        "asn": "149634",
+        "description": "R.M.O Technology Co. Ltd.",
+        "handle": "RMO-AS-AP"
+    },
+    "149828": {
+        "country_code": "KH",
+        "asn": "149828",
+        "description": "PASSAPP TECHNOLOGIES CO. LTD.",
+        "handle": "PASSAPP-AS-AP"
+    },
+    "150158": {
+        "country_code": "KH",
+        "asn": "150158",
+        "description": "PHSS CAM INDO CO . LTD.",
+        "handle": "PHS-AS-AP"
+    },
+    "150295": {
+        "country_code": "KH",
+        "asn": "150295",
+        "description": "Wing Bank (Cambodia) Plc",
+        "handle": "WBP-AS-AP"
+    },
+    "150381": {
+        "country_code": "KH",
+        "asn": "150381",
+        "description": "VENUS BROADBAND (CAMBODIA) PLC",
+        "handle": "VBP-AS-AP"
+    },
+    "150444": {
+        "country_code": "KH",
+        "asn": "150444",
+        "description": "TECHNOVAGE SOLUTION CO. LTD",
+        "handle": "TECHNOVAGE-AS-AP"
+    },
+    "150796": {
+        "country_code": "KH",
+        "asn": "150796",
+        "description": "DGB BANK PLC.",
+        "handle": "DGBBANKPLC-AS-AP"
+    },
+    "151622": {
+        "country_code": "KH",
+        "asn": "151622",
+        "description": "Earthstar Solution Co. Ltd.",
+        "handle": "ESCL-AS-AP"
+    },
+    "151654": {
+        "country_code": "KH",
+        "asn": "151654",
+        "description": "Cloud Digital Cambodia Co.Ltd",
+        "handle": "CDCC-AS-AP"
+    },
+    "151795": {
+        "country_code": "KH",
+        "asn": "151795",
+        "description": "Foreign Trade Bank of Cambodia",
+        "handle": "FOREIGN-AS-AP"
+    },
+    "151816": {
+        "country_code": "KH",
+        "asn": "151816",
+        "description": "ZSL Amusement and Investment Co. Ltd.",
+        "handle": "ZAAICL-AS-AP"
+    },
+    "151977": {
+        "country_code": "KH",
+        "asn": "151977",
+        "description": "Royal University of Phnom Penh",
+        "handle": "RUOPP-AS-AP"
+    },
+    "152301": {
+        "country_code": "KH",
+        "asn": "152301",
+        "description": "DAUN PENH DATA CENTER CO. LTD.",
+        "handle": "DPDCCL-AS-AP"
+    },
+    "152452": {
+        "country_code": "KH",
+        "asn": "152452",
+        "description": "BS PRINTING AND ADVERTISING CO. LTD.",
+        "handle": "BPAA-AS-AP"
+    },
+    "152901": {
+        "country_code": "KH",
+        "asn": "152901",
+        "description": "K-ZONE TECH CO. LTD",
+        "handle": "KZONETECHCOLTD-AS-AP"
+    },
+    "153715": {
+        "country_code": "KH",
+        "asn": "153715",
+        "description": "General Department of Public Financial Management Information Technology",
+        "handle": "GDOPFMIT-AS-AP"
+    },
+    "153864": {
+        "country_code": "KH",
+        "asn": "153864",
+        "description": "National Social Security Fund",
+        "handle": "NSSF-AS-AP"
+    },
+    "154213": {
+        "country_code": "KH",
+        "asn": "154213",
+        "description": "Ministry of Interior",
+        "handle": "MOI-AS-AP"
+    },
+    "154215": {
+        "country_code": "KH",
+        "asn": "154215",
+        "description": "Bytedc Solutions Co. Ltd",
+        "handle": "BYTEDC1-AS-AP"
+    },
+    "154515": {
+        "country_code": "KH",
+        "asn": "154515",
+        "description": "IZOOM SOLUTIONS CO. LTD",
+        "handle": "ISCL-AS-AP"
+    },
+    "202199": {
+        "country_code": "KH",
+        "asn": "202199",
+        "description": "Sochetra Than",
+        "handle": "TRAWARE-TECHNOLOGIES"
+    },
+    "210912": {
+        "country_code": "KH",
+        "asn": "210912",
+        "description": "KIM SOKNY",
+        "handle": "KIM-SOKNY"
+    }
+}

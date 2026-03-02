@@ -1,0 +1,4316 @@
+{
+    "681": {
+        "country_code": "NZ",
+        "asn": "681",
+        "description": "University of Waikato",
+        "handle": "WAIKATOUNI-AS-AP"
+    },
+    "2537": {
+        "country_code": "NZ",
+        "asn": "2537",
+        "description": "New Zealand Department of Statistics",
+        "handle": "ERX-STATS-GOVTNZ"
+    },
+    "2569": {
+        "country_code": "NZ",
+        "asn": "2569",
+        "description": "Spark New Zealand Trading Limited",
+        "handle": "SPARK-AS-AP"
+    },
+    "2570": {
+        "country_code": "NZ",
+        "asn": "2570",
+        "description": "Spark New Zealand Trading Limited",
+        "handle": "TAS-SPARK-NZ"
+    },
+    "2925": {
+        "country_code": "NZ",
+        "asn": "2925",
+        "description": "Freightways Information Services Ltd.",
+        "handle": "ERX-FIS"
+    },
+    "2926": {
+        "country_code": "NZ",
+        "asn": "2926",
+        "description": "Dominion Breweries Ltd.",
+        "handle": "ERX-DB-2"
+    },
+    "3711": {
+        "country_code": "NZ",
+        "asn": "3711",
+        "description": "ISIS International (NZ) Ltd.",
+        "handle": "ERX-ISIS-NZ-0"
+    },
+    "3747": {
+        "country_code": "NZ",
+        "asn": "3747",
+        "description": "Wang NZ Ltd",
+        "handle": "ERX-WANG-1"
+    },
+    "3773": {
+        "country_code": "NZ",
+        "asn": "3773",
+        "description": "TGE",
+        "handle": "ERX-TGE-1"
+    },
+    "3787": {
+        "country_code": "NZ",
+        "asn": "3787",
+        "description": "Telecom Mobile Communications Ltd.",
+        "handle": "ERX-MOBILE-1"
+    },
+    "3929": {
+        "country_code": "NZ",
+        "asn": "3929",
+        "description": "Financial Systems Limited",
+        "handle": "ERX-FINSYS-NET"
+    },
+    "4049": {
+        "country_code": "NZ",
+        "asn": "4049",
+        "description": "CELLO GROUP LIMITED",
+        "handle": "CELLO-AS-AP"
+    },
+    "4610": {
+        "country_code": "NZ",
+        "asn": "4610",
+        "description": "Two Degrees Mobile Limited",
+        "handle": "TWO-DEGREES-AS-AP"
+    },
+    "4648": {
+        "country_code": "NZ",
+        "asn": "4648",
+        "description": "Spark New Zealand Trading Limited",
+        "handle": "SPARK-NZ"
+    },
+    "4667": {
+        "country_code": "NZ",
+        "asn": "4667",
+        "description": "GNS Science",
+        "handle": "GNS-NZ-AS-AP"
+    },
+    "4763": {
+        "country_code": "NZ",
+        "asn": "4763",
+        "description": "One New Zealand Group Limited",
+        "handle": "ONENZ-AS-AP"
+    },
+    "4768": {
+        "country_code": "NZ",
+        "asn": "4768",
+        "description": "One New Zealand Group Limited",
+        "handle": "ONENZ-INET-AS"
+    },
+    "4770": {
+        "country_code": "NZ",
+        "asn": "4770",
+        "description": "INTERNET COMPANY OF NEW ZEALAND LIMITED",
+        "handle": "ICONZ-AS"
+    },
+    "4771": {
+        "country_code": "NZ",
+        "asn": "4771",
+        "description": "Spark New Zealand Trading Limited",
+        "handle": "SPARKNZ"
+    },
+    "4830": {
+        "country_code": "NZ",
+        "asn": "4830",
+        "description": "One New Zealand Group Limited",
+        "handle": "AS-WESTPACNZ-AP"
+    },
+    "4831": {
+        "country_code": "NZ",
+        "asn": "4831",
+        "description": "INTERNET COMPANY OF NEW ZEALAND LIMITED",
+        "handle": "MELCO-NZ-AS-AP"
+    },
+    "4834": {
+        "country_code": "NZ",
+        "asn": "4834",
+        "description": "Spark New Zealand Trading Limited",
+        "handle": "ESURF-AS-AP"
+    },
+    "5709": {
+        "country_code": "NZ",
+        "asn": "5709",
+        "description": "Kiwifruit Marketing Board",
+        "handle": "ERX-KMB-1"
+    },
+    "7584": {
+        "country_code": "NZ",
+        "asn": "7584",
+        "description": "TCR Holdings Ltd",
+        "handle": "TCR-AS-AP"
+    },
+    "7599": {
+        "country_code": "NZ",
+        "asn": "7599",
+        "description": "Advanced Management Systems",
+        "handle": "AMSNET-NZ-AP"
+    },
+    "7657": {
+        "country_code": "NZ",
+        "asn": "7657",
+        "description": "One New Zealand Group Limited",
+        "handle": "ONENZ-NZ-NGN-AS"
+    },
+    "7696": {
+        "country_code": "NZ",
+        "asn": "7696",
+        "description": "OneSquared",
+        "handle": "MODICAGROUP-AS-AP"
+    },
+    "7714": {
+        "country_code": "NZ",
+        "asn": "7714",
+        "description": "One New Zealand Group Limited",
+        "handle": "ONENZ-VPN-AS"
+    },
+    "9233": {
+        "country_code": "NZ",
+        "asn": "9233",
+        "description": "One New Zealand Group Limited",
+        "handle": "ASN-EVENTURES-AP"
+    },
+    "9236": {
+        "country_code": "NZ",
+        "asn": "9236",
+        "description": "Vital Data Ltd",
+        "handle": "AMPCI-AS-AP"
+    },
+    "9245": {
+        "country_code": "NZ",
+        "asn": "9245",
+        "description": "Compass Communications Ltd",
+        "handle": "COMPASS-NZ-AP"
+    },
+    "9281": {
+        "country_code": "NZ",
+        "asn": "9281",
+        "description": "Vital Data Ltd",
+        "handle": "PNIX-NZ-AP"
+    },
+    "9303": {
+        "country_code": "NZ",
+        "asn": "9303",
+        "description": "The Digital Lab 2007 Limited",
+        "handle": "TDL2L-AS-AP"
+    },
+    "9325": {
+        "country_code": "NZ",
+        "asn": "9325",
+        "description": "Spark New Zealand Trading Limited",
+        "handle": "SPARK-AS-AP"
+    },
+    "9327": {
+        "country_code": "NZ",
+        "asn": "9327",
+        "description": "One New Zealand Group Limited",
+        "handle": "HOPCOUNT"
+    },
+    "9338": {
+        "country_code": "NZ",
+        "asn": "9338",
+        "description": "National Library of New Zealand",
+        "handle": "NATLIB-NZ-AS-AP"
+    },
+    "9343": {
+        "country_code": "NZ",
+        "asn": "9343",
+        "description": "Voyager Internet Ltd.",
+        "handle": "VOYAGERNET-NZ"
+    },
+    "9344": {
+        "country_code": "NZ",
+        "asn": "9344",
+        "description": "Verizon New Zealand Limited",
+        "handle": "VOYAGER-NZ-AS"
+    },
+    "9345": {
+        "country_code": "NZ",
+        "asn": "9345",
+        "description": "One New Zealand Group Limited",
+        "handle": "PARADISE-AS"
+    },
+    "9427": {
+        "country_code": "NZ",
+        "asn": "9427",
+        "description": "One New Zealand Group Limited",
+        "handle": "TOWER-AS-AP"
+    },
+    "9428": {
+        "country_code": "NZ",
+        "asn": "9428",
+        "description": "One New Zealand Group Limited",
+        "handle": "NETEFFECT-AU-AP"
+    },
+    "9429": {
+        "country_code": "NZ",
+        "asn": "9429",
+        "description": "One New Zealand Group Limited",
+        "handle": "ACAY-AU-AP"
+    },
+    "9431": {
+        "country_code": "NZ",
+        "asn": "9431",
+        "description": "The University of Auckland",
+        "handle": "AKUNI-NZ"
+    },
+    "9432": {
+        "country_code": "NZ",
+        "asn": "9432",
+        "description": "University of Canterbury",
+        "handle": "CANTERBURY-AS-AP"
+    },
+    "9433": {
+        "country_code": "NZ",
+        "asn": "9433",
+        "description": "Massey University",
+        "handle": "MASSEY-AS"
+    },
+    "9436": {
+        "country_code": "NZ",
+        "asn": "9436",
+        "description": "One New Zealand Group Limited",
+        "handle": "GLOBENET-AS"
+    },
+    "9439": {
+        "country_code": "NZ",
+        "asn": "9439",
+        "description": "Vital Data Ltd",
+        "handle": "WIX-VITAL-NZ-AP"
+    },
+    "9445": {
+        "country_code": "NZ",
+        "asn": "9445",
+        "description": "One New Zealand Group Limited",
+        "handle": "ASN-SATURN-NZ"
+    },
+    "9469": {
+        "country_code": "NZ",
+        "asn": "9469",
+        "description": "One New Zealand Group Limited",
+        "handle": "ASN-TERABYTE-NZ-AP"
+    },
+    "9470": {
+        "country_code": "NZ",
+        "asn": "9470",
+        "description": "One New Zealand Group Limited",
+        "handle": "ASN-COMPASS-NZ-AP"
+    },
+    "9483": {
+        "country_code": "NZ",
+        "asn": "9483",
+        "description": "Flatnet Networks",
+        "handle": "DPL-AS-AP"
+    },
+    "9495": {
+        "country_code": "NZ",
+        "asn": "9495",
+        "description": "One New Zealand Group Limited",
+        "handle": "CLEARVIEW-AS"
+    },
+    "9500": {
+        "country_code": "NZ",
+        "asn": "9500",
+        "description": "One New Zealand Group Limited",
+        "handle": "ONENZ-TRANSIT-AS"
+    },
+    "9503": {
+        "country_code": "NZ",
+        "asn": "9503",
+        "description": "Two Degrees Mobile Limited",
+        "handle": "TWO-DEGREES-AS-AP"
+    },
+    "9511": {
+        "country_code": "NZ",
+        "asn": "9511",
+        "description": "One New Zealand Group Limited",
+        "handle": "WILSONHORTON-AS-AP"
+    },
+    "9537": {
+        "country_code": "NZ",
+        "asn": "9537",
+        "description": "Vital Data Ltd",
+        "handle": "LEVEL48-NZ-AP"
+    },
+    "9559": {
+        "country_code": "NZ",
+        "asn": "9559",
+        "description": "One New Zealand Group Limited",
+        "handle": "PLAINCOM-NZ"
+    },
+    "9560": {
+        "country_code": "NZ",
+        "asn": "9560",
+        "description": "Vital Data Ltd",
+        "handle": "APE-NZ"
+    },
+    "9561": {
+        "country_code": "NZ",
+        "asn": "9561",
+        "description": "One New Zealand Group Limited",
+        "handle": "RELAX-AP"
+    },
+    "9627": {
+        "country_code": "NZ",
+        "asn": "9627",
+        "description": "TCR Holdings Ltd",
+        "handle": "TCR-AP"
+    },
+    "9662": {
+        "country_code": "NZ",
+        "asn": "9662",
+        "description": "One New Zealand Group Limited",
+        "handle": "EASYNET-AS-AP"
+    },
+    "9718": {
+        "country_code": "NZ",
+        "asn": "9718",
+        "description": "Kordia Limited",
+        "handle": "KORDIA-LTD-AS-AP"
+    },
+    "9727": {
+        "country_code": "NZ",
+        "asn": "9727",
+        "description": "Devoli LTD",
+        "handle": "VIBEHEAVY-AS-AP"
+    },
+    "9733": {
+        "country_code": "NZ",
+        "asn": "9733",
+        "description": "Netspace Services Limited",
+        "handle": "NETSPACE-AS-NZ-AP"
+    },
+    "9788": {
+        "country_code": "NZ",
+        "asn": "9788",
+        "description": "Inland Revenue Department",
+        "handle": "IRD-NZ-AS-AP"
+    },
+    "9790": {
+        "country_code": "NZ",
+        "asn": "9790",
+        "description": "Two Degrees Mobile Limited",
+        "handle": "TWO-DEGREES-AS-AP"
+    },
+    "9834": {
+        "country_code": "NZ",
+        "asn": "9834",
+        "description": "Trade Me Limited",
+        "handle": "TRADEME-AS-NZ"
+    },
+    "9872": {
+        "country_code": "NZ",
+        "asn": "9872",
+        "description": "Voyager Internet Ltd.",
+        "handle": "VOYAGERNET-NZ"
+    },
+    "9876": {
+        "country_code": "NZ",
+        "asn": "9876",
+        "description": "Mercury NZ Limited",
+        "handle": "MERCURYNZ-AS-AP"
+    },
+    "9887": {
+        "country_code": "NZ",
+        "asn": "9887",
+        "description": "One New Zealand Group Limited",
+        "handle": "THEWEB-AP"
+    },
+    "9889": {
+        "country_code": "NZ",
+        "asn": "9889",
+        "description": "Two Degrees Mobile Limited",
+        "handle": "TWO-DEGREES-AS-AP"
+    },
+    "9896": {
+        "country_code": "NZ",
+        "asn": "9896",
+        "description": "David Robb",
+        "handle": "DAVIDROBB-AS-AP"
+    },
+    "9897": {
+        "country_code": "NZ",
+        "asn": "9897",
+        "description": "One New Zealand Group Limited",
+        "handle": "JSR-AP"
+    },
+    "9898": {
+        "country_code": "NZ",
+        "asn": "9898",
+        "description": "IQ Hive Limited",
+        "handle": "IQHIVE-AS-AP"
+    },
+    "9901": {
+        "country_code": "NZ",
+        "asn": "9901",
+        "description": "One New Zealand Group Limited",
+        "handle": "ONENZ-TRANSIT-AS"
+    },
+    "10022": {
+        "country_code": "NZ",
+        "asn": "10022",
+        "description": "Datacom Group Ltd",
+        "handle": "DSLAK-AS-AP"
+    },
+    "10110": {
+        "country_code": "NZ",
+        "asn": "10110",
+        "description": "Te Pukenga - New Zealand Institute of Skills and Technology",
+        "handle": "MITNZ-AS-AP"
+    },
+    "10200": {
+        "country_code": "NZ",
+        "asn": "10200",
+        "description": "The Digital Lab 2007 Limited",
+        "handle": "TDL2L-AS-AP"
+    },
+    "17410": {
+        "country_code": "NZ",
+        "asn": "17410",
+        "description": "One New Zealand Group Limited",
+        "handle": "ASN-NZDG-AP"
+    },
+    "17435": {
+        "country_code": "NZ",
+        "asn": "17435",
+        "description": "Vodafone Next Generation Services Limited",
+        "handle": "VNGSL-AS-NZ"
+    },
+    "17472": {
+        "country_code": "NZ",
+        "asn": "17472",
+        "description": "Bank of New Zealand",
+        "handle": "BNZ-NZ"
+    },
+    "17474": {
+        "country_code": "NZ",
+        "asn": "17474",
+        "description": "Two Degrees Mobile Limited",
+        "handle": "TWO-DEGREES-AS-AP"
+    },
+    "17484": {
+        "country_code": "NZ",
+        "asn": "17484",
+        "description": "CELLO GROUP LIMITED",
+        "handle": "CELLO-AS-AP"
+    },
+    "17491": {
+        "country_code": "NZ",
+        "asn": "17491",
+        "description": "New Zealand Internet Exchange Incorporated",
+        "handle": "NZ-IX-AS-AP"
+    },
+    "17492": {
+        "country_code": "NZ",
+        "asn": "17492",
+        "description": "Vector Communications Ltd",
+        "handle": "VECTOR-COMMUNICATIONS-AS"
+    },
+    "17542": {
+        "country_code": "NZ",
+        "asn": "17542",
+        "description": "The New Zealand Institute for Plant and Food Research",
+        "handle": "TNZIFPAFR-AS-AP"
+    },
+    "17646": {
+        "country_code": "NZ",
+        "asn": "17646",
+        "description": "One New Zealand Group Limited",
+        "handle": "WAVE-NZ-AS-AP"
+    },
+    "17649": {
+        "country_code": "NZ",
+        "asn": "17649",
+        "description": "One New Zealand Group Limited",
+        "handle": "DMZGLOBAL-AP"
+    },
+    "17656": {
+        "country_code": "NZ",
+        "asn": "17656",
+        "description": "Two Degrees Mobile Limited",
+        "handle": "TWO-DEGREES-AS-AP"
+    },
+    "17663": {
+        "country_code": "NZ",
+        "asn": "17663",
+        "description": "KAINGA ORA HOMES AND COMMUNITIES",
+        "handle": "KAINGAORA-AS-AP"
+    },
+    "17664": {
+        "country_code": "NZ",
+        "asn": "17664",
+        "description": "One New Zealand Group Limited",
+        "handle": "CYBER-AP"
+    },
+    "17705": {
+        "country_code": "NZ",
+        "asn": "17705",
+        "description": "InSPire Net Ltd",
+        "handle": "INSPIRENET-AS-AP"
+    },
+    "17746": {
+        "country_code": "NZ",
+        "asn": "17746",
+        "description": "Two Degrees Mobile Limited",
+        "handle": "TWO-DEGREES-AS-AP"
+    },
+    "17752": {
+        "country_code": "NZ",
+        "asn": "17752",
+        "description": "The Digital Lab 2007 Limited",
+        "handle": "TDL2L-AS-AP"
+    },
+    "17792": {
+        "country_code": "NZ",
+        "asn": "17792",
+        "description": "Meteorological Service of New Zealand Ltd",
+        "handle": "MET-AS-AP"
+    },
+    "17808": {
+        "country_code": "NZ",
+        "asn": "17808",
+        "description": "One New Zealand Group Limited",
+        "handle": "ONENZ-AS-AP"
+    },
+    "17902": {
+        "country_code": "NZ",
+        "asn": "17902",
+        "description": "One New Zealand Group Limited",
+        "handle": "IHUG-TRANSIT-AP"
+    },
+    "17994": {
+        "country_code": "NZ",
+        "asn": "17994",
+        "description": "Spark New Zealand Trading Limited",
+        "handle": "SPARK-AS-AP"
+    },
+    "18006": {
+        "country_code": "NZ",
+        "asn": "18006",
+        "description": "Spark New Zealand Trading Limited",
+        "handle": "BSPG-AS-AP"
+    },
+    "18015": {
+        "country_code": "NZ",
+        "asn": "18015",
+        "description": "Fastcom Limited",
+        "handle": "FASTCOM-AS-AP"
+    },
+    "18021": {
+        "country_code": "NZ",
+        "asn": "18021",
+        "description": "Unisys New Zealand Ltd",
+        "handle": "UNINET-AS-AP"
+    },
+    "18119": {
+        "country_code": "NZ",
+        "asn": "18119",
+        "description": "Advanced Computer Solutions",
+        "handle": "ACSDATA-NZ"
+    },
+    "18159": {
+        "country_code": "NZ",
+        "asn": "18159",
+        "description": "Netspeed Data Ltd",
+        "handle": "NETSPEED-AS-AP"
+    },
+    "18198": {
+        "country_code": "NZ",
+        "asn": "18198",
+        "description": "One New Zealand Group Limited",
+        "handle": "MATHIAS-NZ"
+    },
+    "18199": {
+        "country_code": "NZ",
+        "asn": "18199",
+        "description": "Worldnet Services Limited",
+        "handle": "WSL-AS-AP"
+    },
+    "18202": {
+        "country_code": "NZ",
+        "asn": "18202",
+        "description": "Voyager Internet Ltd.",
+        "handle": "VOYAGERNET-AS-AP"
+    },
+    "18203": {
+        "country_code": "NZ",
+        "asn": "18203",
+        "description": "Two Degrees Mobile Limited",
+        "handle": "TWO-DEGREES-AS-AP"
+    },
+    "18348": {
+        "country_code": "NZ",
+        "asn": "18348",
+        "description": "Spark New Zealand Trading Limited",
+        "handle": "DPS-AS-AP"
+    },
+    "18352": {
+        "country_code": "NZ",
+        "asn": "18352",
+        "description": "Two Degrees Mobile Limited",
+        "handle": "TWO-DEGREES-AS-AP"
+    },
+    "18353": {
+        "country_code": "NZ",
+        "asn": "18353",
+        "description": "Revera Limited",
+        "handle": "HDSVDCNZ-AS-AP"
+    },
+    "18378": {
+        "country_code": "NZ",
+        "asn": "18378",
+        "description": "National Institute of Water and Atmospheric Research Ltd",
+        "handle": "NIWA-AS-AP"
+    },
+    "18400": {
+        "country_code": "NZ",
+        "asn": "18400",
+        "description": "Xtreme Networks Limited",
+        "handle": "XTREME-AS-AP"
+    },
+    "18406": {
+        "country_code": "NZ",
+        "asn": "18406",
+        "description": "Two Degrees Mobile Limited",
+        "handle": "TWO-DEGREES-AS-AP"
+    },
+    "18407": {
+        "country_code": "NZ",
+        "asn": "18407",
+        "description": "Fastcom Limited",
+        "handle": "CLICKINT-AS-AP"
+    },
+    "23603": {
+        "country_code": "NZ",
+        "asn": "23603",
+        "description": "Housing New Zealand",
+        "handle": "ICONZ-AS-AP"
+    },
+    "23655": {
+        "country_code": "NZ",
+        "asn": "23655",
+        "description": "Two Degrees Mobile Limited",
+        "handle": "TWODEGREES-NZ-AS"
+    },
+    "23658": {
+        "country_code": "NZ",
+        "asn": "23658",
+        "description": "Vital Data Ltd",
+        "handle": "VITAL-DATA-LTD"
+    },
+    "23684": {
+        "country_code": "NZ",
+        "asn": "23684",
+        "description": "Two Degrees Mobile Limited",
+        "handle": "TWO-DEGREES-AS-AP"
+    },
+    "23735": {
+        "country_code": "NZ",
+        "asn": "23735",
+        "description": "Enternet Online Ltd",
+        "handle": "EOL-AS-AP"
+    },
+    "23737": {
+        "country_code": "NZ",
+        "asn": "23737",
+        "description": "Digital Exchange Limited",
+        "handle": "OLYMPIC-ASP-AS"
+    },
+    "23746": {
+        "country_code": "NZ",
+        "asn": "23746",
+        "description": "Symbio Networks New Zealand Limited",
+        "handle": "SYMBIONETWORKSNZLTD-AS-AP"
+    },
+    "23754": {
+        "country_code": "NZ",
+        "asn": "23754",
+        "description": "Vital Data Ltd",
+        "handle": "VITAL-AS-NZ"
+    },
+    "23755": {
+        "country_code": "NZ",
+        "asn": "23755",
+        "description": "Vital Data Ltd",
+        "handle": "CITYBRIDGE-AS-NZ"
+    },
+    "23838": {
+        "country_code": "NZ",
+        "asn": "23838",
+        "description": "Solarix Networks Limited",
+        "handle": "SOLARIX-INTERNET-AS-AP"
+    },
+    "23869": {
+        "country_code": "NZ",
+        "asn": "23869",
+        "description": "InternetNZ",
+        "handle": "NZSRS-AP"
+    },
+    "23878": {
+        "country_code": "NZ",
+        "asn": "23878",
+        "description": "Softsource Limited",
+        "handle": "SOFTSOURCE-AS-AP"
+    },
+    "23904": {
+        "country_code": "NZ",
+        "asn": "23904",
+        "description": "Ministry for the Environment",
+        "handle": "MFE-AS-AP"
+    },
+    "23905": {
+        "country_code": "NZ",
+        "asn": "23905",
+        "description": "Victoria University of Wellington",
+        "handle": "VUW-AS-AP"
+    },
+    "23916": {
+        "country_code": "NZ",
+        "asn": "23916",
+        "description": "House of Travel Holdings Ltd",
+        "handle": "HOTHL-NZ"
+    },
+    "23934": {
+        "country_code": "NZ",
+        "asn": "23934",
+        "description": "Plan-b Ltd",
+        "handle": "TURNSTONE-NZ-AS-AP"
+    },
+    "23958": {
+        "country_code": "NZ",
+        "asn": "23958",
+        "description": "DTS Limited",
+        "handle": "DTSNZ-GLOBAL-AP"
+    },
+    "23960": {
+        "country_code": "NZ",
+        "asn": "23960",
+        "description": "Data Traffic Services",
+        "handle": "DATA-TRAFFIC-SERVICES-AP"
+    },
+    "23973": {
+        "country_code": "NZ",
+        "asn": "23973",
+        "description": "Two Degrees Mobile Limited",
+        "handle": "TWO-DEGREES-AS-AP"
+    },
+    "23977": {
+        "country_code": "NZ",
+        "asn": "23977",
+        "description": "Katipo Communications Limited",
+        "handle": "KATIPO-AS-NZ"
+    },
+    "24005": {
+        "country_code": "NZ",
+        "asn": "24005",
+        "description": "Securecom Ltd",
+        "handle": "SECURECOM2-NZ-AS-AP"
+    },
+    "24006": {
+        "country_code": "NZ",
+        "asn": "24006",
+        "description": "Liverton Limited",
+        "handle": "LIVERTON-AS-NZ"
+    },
+    "24011": {
+        "country_code": "NZ",
+        "asn": "24011",
+        "description": "Health New Zealand",
+        "handle": "HEALTHNEWZEALAND-AS-AP"
+    },
+    "24025": {
+        "country_code": "NZ",
+        "asn": "24025",
+        "description": "Two Degress Mobile Limited",
+        "handle": "TWO-DEGREES-AS-AP"
+    },
+    "24054": {
+        "country_code": "NZ",
+        "asn": "24054",
+        "description": "Air New Zealand Limited",
+        "handle": "AIRNZ-AS-AP"
+    },
+    "24074": {
+        "country_code": "NZ",
+        "asn": "24074",
+        "description": "NEW ZEALAND POST LIMITED",
+        "handle": "NZPOST-NZ-AP"
+    },
+    "24078": {
+        "country_code": "NZ",
+        "asn": "24078",
+        "description": "Trade Me Limited",
+        "handle": "TRADEME-AS-WLG-NZ"
+    },
+    "24107": {
+        "country_code": "NZ",
+        "asn": "24107",
+        "description": "CommArc Consulting Ltd",
+        "handle": "COMMARC-ASN-AP"
+    },
+    "24111": {
+        "country_code": "NZ",
+        "asn": "24111",
+        "description": "nzwireless Ltd",
+        "handle": "NZWIRELESS-CO-NZ-AS-AP"
+    },
+    "24181": {
+        "country_code": "NZ",
+        "asn": "24181",
+        "description": "CELLO GROUP LIMITED",
+        "handle": "CELLO-AS-AP"
+    },
+    "24183": {
+        "country_code": "NZ",
+        "asn": "24183",
+        "description": "DTS Limited",
+        "handle": "DTS-ISP-CORE1-AP"
+    },
+    "24189": {
+        "country_code": "NZ",
+        "asn": "24189",
+        "description": "IBM New Zealand Limited",
+        "handle": "IBM-GS-ITS-NZ-AP"
+    },
+    "24192": {
+        "country_code": "NZ",
+        "asn": "24192",
+        "description": "Solarix Networks Limited",
+        "handle": "SOLARIX-INTERNET-AS-AP"
+    },
+    "24226": {
+        "country_code": "NZ",
+        "asn": "24226",
+        "description": "Catalyst.Net Ltd",
+        "handle": "CATALYST-NZ"
+    },
+    "24318": {
+        "country_code": "NZ",
+        "asn": "24318",
+        "description": "Ministry of Education",
+        "handle": "MINEDU-AS-NZ-AP"
+    },
+    "24324": {
+        "country_code": "NZ",
+        "asn": "24324",
+        "description": "Kordia Limited",
+        "handle": "KORDIA-TRANSIT-AS-AP"
+    },
+    "24347": {
+        "country_code": "NZ",
+        "asn": "24347",
+        "description": "Capgemini New Zealand Limited",
+        "handle": "CAPGEMINI-AS-NZ"
+    },
+    "24384": {
+        "country_code": "NZ",
+        "asn": "24384",
+        "description": "Vital Data Ltd",
+        "handle": "DPE-AS-AP"
+    },
+    "24385": {
+        "country_code": "NZ",
+        "asn": "24385",
+        "description": "Vital Data Ltd",
+        "handle": "SMARTLINX3-AS-AP"
+    },
+    "24386": {
+        "country_code": "NZ",
+        "asn": "24386",
+        "description": "Networker",
+        "handle": "NETWORKER-AS-AP"
+    },
+    "24387": {
+        "country_code": "NZ",
+        "asn": "24387",
+        "description": "Vital Data Ltd",
+        "handle": "SIX-AS-AP"
+    },
+    "24388": {
+        "country_code": "NZ",
+        "asn": "24388",
+        "description": "Vital Data Ltd",
+        "handle": "CHIX-AS-AP"
+    },
+    "24398": {
+        "country_code": "NZ",
+        "asn": "24398",
+        "description": "Auckland University of Technology",
+        "handle": "AUT-NZ-AP"
+    },
+    "24459": {
+        "country_code": "NZ",
+        "asn": "24459",
+        "description": "RIMU HOSTING LIMITED",
+        "handle": "RIMUHOSTING-AS-AP"
+    },
+    "24466": {
+        "country_code": "NZ",
+        "asn": "24466",
+        "description": "Voyager Internet Ltd.",
+        "handle": "ACCELERO-AP"
+    },
+    "24484": {
+        "country_code": "NZ",
+        "asn": "24484",
+        "description": "Two Degrees Mobile Limited",
+        "handle": "TWO-DEGREES-AS-AP"
+    },
+    "24511": {
+        "country_code": "NZ",
+        "asn": "24511",
+        "description": "NET TRUST LIMITED",
+        "handle": "NETTRUSTLTD-AS-AP"
+    },
+    "24548": {
+        "country_code": "NZ",
+        "asn": "24548",
+        "description": "BayCity Communications",
+        "handle": "BAYCITY-AS-AP"
+    },
+    "37979": {
+        "country_code": "NZ",
+        "asn": "37979",
+        "description": "ThePacific.Net Ltd",
+        "handle": "TPN-AS-AP"
+    },
+    "37999": {
+        "country_code": "NZ",
+        "asn": "37999",
+        "description": "Television New Zealand",
+        "handle": "TVNZ-AS-NZ"
+    },
+    "38003": {
+        "country_code": "NZ",
+        "asn": "38003",
+        "description": "Two Degrees Mobile Limited",
+        "handle": "TWO-DEGREES-AS-AP"
+    },
+    "38018": {
+        "country_code": "NZ",
+        "asn": "38018",
+        "description": "Research and Education Advanced Network New Zealand",
+        "handle": "REANNZ-INT-NZ-AP"
+    },
+    "38022": {
+        "country_code": "NZ",
+        "asn": "38022",
+        "description": "Research and Education Advanced Network New Zealand",
+        "handle": "REANNZ-NZ-AP"
+    },
+    "38037": {
+        "country_code": "NZ",
+        "asn": "38037",
+        "description": "InternetNZ",
+        "handle": "INTERNET-AS-AP"
+    },
+    "38052": {
+        "country_code": "NZ",
+        "asn": "38052",
+        "description": "Two Degress Mobile Limited",
+        "handle": "TWO-DEGREES-AS-AP"
+    },
+    "38064": {
+        "country_code": "NZ",
+        "asn": "38064",
+        "description": "InternetNZ",
+        "handle": "NZ-AS-NS1-AP"
+    },
+    "38065": {
+        "country_code": "NZ",
+        "asn": "38065",
+        "description": "Catalyst .Net Limited",
+        "handle": "TEST-CATALYST-NZ"
+    },
+    "38079": {
+        "country_code": "NZ",
+        "asn": "38079",
+        "description": "Public Services Commission",
+        "handle": "PSC-NZ-AP"
+    },
+    "38178": {
+        "country_code": "NZ",
+        "asn": "38178",
+        "description": "E-Cast",
+        "handle": "ECAST-AS-AP"
+    },
+    "38189": {
+        "country_code": "NZ",
+        "asn": "38189",
+        "description": "Parliamentary Services",
+        "handle": "PARLIAMENTNZ-AS-AP"
+    },
+    "38190": {
+        "country_code": "NZ",
+        "asn": "38190",
+        "description": "TCR Holdings Ltd",
+        "handle": "TCR-NZ"
+    },
+    "38243": {
+        "country_code": "NZ",
+        "asn": "38243",
+        "description": "Two Degress Mobile Limited",
+        "handle": "TWO-DEGREES-AS-AP"
+    },
+    "38290": {
+        "country_code": "NZ",
+        "asn": "38290",
+        "description": "TCR Holdings Ltd",
+        "handle": "TCR-NZ"
+    },
+    "38292": {
+        "country_code": "NZ",
+        "asn": "38292",
+        "description": "Compass Communications Ltd",
+        "handle": "ZEROONE-AS-NZ-AP"
+    },
+    "38294": {
+        "country_code": "NZ",
+        "asn": "38294",
+        "description": "ServerWorks Ltd",
+        "handle": "SERVERWORKS-NZ-AP"
+    },
+    "38299": {
+        "country_code": "NZ",
+        "asn": "38299",
+        "description": "Research and Education Advanced Network New Zealand",
+        "handle": "REANNZ-CORP-NZ-AP"
+    },
+    "38300": {
+        "country_code": "NZ",
+        "asn": "38300",
+        "description": "Research and Education Advanced Network New Zealand",
+        "handle": "REANNZ-RD-NZ-AP"
+    },
+    "38305": {
+        "country_code": "NZ",
+        "asn": "38305",
+        "description": "University of Otago",
+        "handle": "OTAGO-UNIVERSITY-AS-NZ-AP"
+    },
+    "38319": {
+        "country_code": "NZ",
+        "asn": "38319",
+        "description": "Lincoln University",
+        "handle": "LINCOLN-UNIVERSITY-NZ"
+    },
+    "38329": {
+        "country_code": "NZ",
+        "asn": "38329",
+        "description": "Wellington City Council",
+        "handle": "WCC-AS-AP"
+    },
+    "38437": {
+        "country_code": "NZ",
+        "asn": "38437",
+        "description": "WIC NZ Ltd",
+        "handle": "WIC-AS-NZ"
+    },
+    "38451": {
+        "country_code": "NZ",
+        "asn": "38451",
+        "description": "SMX Ltd",
+        "handle": "SMX-AS-NZ"
+    },
+    "38473": {
+        "country_code": "NZ",
+        "asn": "38473",
+        "description": "New Zealand Institute for Bioeconomy Science Limited",
+        "handle": "NZIBSL-AS-AP"
+    },
+    "38477": {
+        "country_code": "NZ",
+        "asn": "38477",
+        "description": "Solarix Networks Limited",
+        "handle": "SOLARIX-NZ"
+    },
+    "38479": {
+        "country_code": "NZ",
+        "asn": "38479",
+        "description": "Spark New Zealand Trading Limited",
+        "handle": "LANDCARE-AS-NZ"
+    },
+    "38485": {
+        "country_code": "NZ",
+        "asn": "38485",
+        "description": "Spark New Zealand Trading Limited",
+        "handle": "GENI-SDP-AS-NZ"
+    },
+    "38492": {
+        "country_code": "NZ",
+        "asn": "38492",
+        "description": "Endace",
+        "handle": "REANNZ-ENDACE-NZ-AP"
+    },
+    "38495": {
+        "country_code": "NZ",
+        "asn": "38495",
+        "description": "Transpower",
+        "handle": "TRANSPOWER-B-AS-AP"
+    },
+    "38560": {
+        "country_code": "NZ",
+        "asn": "38560",
+        "description": "Meridian energy",
+        "handle": "MERIDIANENERGY-NZ"
+    },
+    "38586": {
+        "country_code": "NZ",
+        "asn": "38586",
+        "description": "NTT NEW ZEALAND LIMITED",
+        "handle": "INTEGRALGROUP-AS-NZ"
+    },
+    "38605": {
+        "country_code": "NZ",
+        "asn": "38605",
+        "description": "Rakon Ltd",
+        "handle": "RAKON-AS-NZ-AP"
+    },
+    "38624": {
+        "country_code": "NZ",
+        "asn": "38624",
+        "description": "Paymark Limited",
+        "handle": "PAYMARK-NZ-INTERNET-AP"
+    },
+    "38626": {
+        "country_code": "NZ",
+        "asn": "38626",
+        "description": "NEW ZEALAND INSTITUTE FOR PUBLIC HEALTH AND FORENSIC SCIENCE LIMITED",
+        "handle": "PHFSCIENCE-AS-AP"
+    },
+    "38711": {
+        "country_code": "NZ",
+        "asn": "38711",
+        "description": "Research and Education Advanced Network New Zealand",
+        "handle": "REANNZ-EDUCATION-NZ-AP"
+    },
+    "38748": {
+        "country_code": "NZ",
+        "asn": "38748",
+        "description": "One New Zealand Group Limited",
+        "handle": "ONENZ-NZ-TEST-AP"
+    },
+    "38793": {
+        "country_code": "NZ",
+        "asn": "38793",
+        "description": "Two Degrees Mobile Limited",
+        "handle": "NZCOMMS-AS-AP"
+    },
+    "38827": {
+        "country_code": "NZ",
+        "asn": "38827",
+        "description": "Kristin School",
+        "handle": "REANNZ-KRISTIN-NZ-AP"
+    },
+    "38881": {
+        "country_code": "NZ",
+        "asn": "38881",
+        "description": "New Zealand Lotteries Commission",
+        "handle": "NZ-LOTTERIES-AS-AP"
+    },
+    "38900": {
+        "country_code": "NZ",
+        "asn": "38900",
+        "description": "Unison Networks Limited",
+        "handle": "UNISON-NZ-AP"
+    },
+    "38906": {
+        "country_code": "NZ",
+        "asn": "38906",
+        "description": "Te Pukenga - New Zealand Institute of Skills and Technology",
+        "handle": "OTAGOPOLY-AS-NZ-AP"
+    },
+    "45116": {
+        "country_code": "NZ",
+        "asn": "45116",
+        "description": "One New Zealand Group Limited",
+        "handle": "ONENZ-NZ-TP-AP"
+    },
+    "45131": {
+        "country_code": "NZ",
+        "asn": "45131",
+        "description": "Research and Education Advanced Network New Zealand",
+        "handle": "REANNZ-OFFICE"
+    },
+    "45135": {
+        "country_code": "NZ",
+        "asn": "45135",
+        "description": "Two Degrees Mobile Limited",
+        "handle": "SNAP-REANNZ-AS-AP"
+    },
+    "45138": {
+        "country_code": "NZ",
+        "asn": "45138",
+        "description": "Christchurch Polytechnic Institute of Technology",
+        "handle": "CPIT-NZ-AS-AP"
+    },
+    "45140": {
+        "country_code": "NZ",
+        "asn": "45140",
+        "description": "Christ College Christchurch",
+        "handle": "CHRIST-COLLEGE-NZ-AS-AP"
+    },
+    "45164": {
+        "country_code": "NZ",
+        "asn": "45164",
+        "description": "Allied Telesis Labs Limited",
+        "handle": "ATLL-AS-AP"
+    },
+    "45172": {
+        "country_code": "NZ",
+        "asn": "45172",
+        "description": "Jade Software Corporation Limited",
+        "handle": "JADE-NZ-AS-AP"
+    },
+    "45177": {
+        "country_code": "NZ",
+        "asn": "45177",
+        "description": "Devoli LTD",
+        "handle": "DEVOLI-AS-AP"
+    },
+    "45179": {
+        "country_code": "NZ",
+        "asn": "45179",
+        "description": "SiteTech Solutions Limited",
+        "handle": "SITEHOST-AS-AP"
+    },
+    "45190": {
+        "country_code": "NZ",
+        "asn": "45190",
+        "description": "Auckland International Airport Limited",
+        "handle": "AIALNET-NZ"
+    },
+    "45191": {
+        "country_code": "NZ",
+        "asn": "45191",
+        "description": "Two Degrees Mobile Limited",
+        "handle": "ECANS-NZ-AS"
+    },
+    "45215": {
+        "country_code": "NZ",
+        "asn": "45215",
+        "description": "OneNet Limited",
+        "handle": "ONENET-AS-NZ"
+    },
+    "45222": {
+        "country_code": "NZ",
+        "asn": "45222",
+        "description": "Revera Limited",
+        "handle": "MIN-RESEARCH-SCIENCE-TECH-AS-AP"
+    },
+    "45230": {
+        "country_code": "NZ",
+        "asn": "45230",
+        "description": "UberNetworks Limited",
+        "handle": "UBERGROUP-AS-NZ"
+    },
+    "45249": {
+        "country_code": "NZ",
+        "asn": "45249",
+        "description": "Waikato Institute of Technology",
+        "handle": "WINTEC-AS-AP"
+    },
+    "45267": {
+        "country_code": "NZ",
+        "asn": "45267",
+        "description": "Lightwire Limited",
+        "handle": "LIGHTWIRE-AS-AP"
+    },
+    "45279": {
+        "country_code": "NZ",
+        "asn": "45279",
+        "description": "Vital Data Ltd",
+        "handle": "HIX-CITYLINK-NZ-AP"
+    },
+    "45280": {
+        "country_code": "NZ",
+        "asn": "45280",
+        "description": "New Zealand Technology Group Limited",
+        "handle": "NZTECHNOLOGY-AS-AP"
+    },
+    "45285": {
+        "country_code": "NZ",
+        "asn": "45285",
+        "description": "InternetNZ",
+        "handle": "NZ-AS-NS2-AP"
+    },
+    "45359": {
+        "country_code": "NZ",
+        "asn": "45359",
+        "description": "MediaWorks Holdings Limited",
+        "handle": "MEDIA-AS-AP"
+    },
+    "45459": {
+        "country_code": "NZ",
+        "asn": "45459",
+        "description": "Solarix Networks Limited",
+        "handle": "SOLARIX-INTERNET-AS-AP"
+    },
+    "45473": {
+        "country_code": "NZ",
+        "asn": "45473",
+        "description": "Solnet Solutions Ltd",
+        "handle": "SOLNETSOLUTIONS-NZ"
+    },
+    "45475": {
+        "country_code": "NZ",
+        "asn": "45475",
+        "description": "Amuri Net Limited",
+        "handle": "AMURINET-NZ"
+    },
+    "45476": {
+        "country_code": "NZ",
+        "asn": "45476",
+        "description": "PHARMACY RETAILING (NZ) LIMITED",
+        "handle": "PROPHARMANET-AS-AP"
+    },
+    "45480": {
+        "country_code": "NZ",
+        "asn": "45480",
+        "description": "Censorship Compliance Unit Department of Internal Affairs",
+        "handle": "DIACCU-NZ"
+    },
+    "45563": {
+        "country_code": "NZ",
+        "asn": "45563",
+        "description": "Network Pro",
+        "handle": "NETWORKPRO-AS-AP"
+    },
+    "45585": {
+        "country_code": "NZ",
+        "asn": "45585",
+        "description": "Vital Data Ltd",
+        "handle": "NIX-AS-AP"
+    },
+    "45586": {
+        "country_code": "NZ",
+        "asn": "45586",
+        "description": "Auckland Grammar School",
+        "handle": "AKGRAMMAR-AKL-NZ"
+    },
+    "45620": {
+        "country_code": "NZ",
+        "asn": "45620",
+        "description": "Sky Network Television Ltd",
+        "handle": "SKYTELEVISION-AS-AP"
+    },
+    "45631": {
+        "country_code": "NZ",
+        "asn": "45631",
+        "description": "Contact Energy Limited",
+        "handle": "CONTACTENERGY-NZ-AP"
+    },
+    "45633": {
+        "country_code": "NZ",
+        "asn": "45633",
+        "description": "Slush Technologies AS V4 Transit",
+        "handle": "SLUSH-V4-TRANSIT-AP"
+    },
+    "45637": {
+        "country_code": "NZ",
+        "asn": "45637",
+        "description": "UniFone New Zealand Ltd",
+        "handle": "UNIFONENETWORKS-AS-AP"
+    },
+    "45641": {
+        "country_code": "NZ",
+        "asn": "45641",
+        "description": "Advantage Limited",
+        "handle": "ADVANTAGE-AS-AP"
+    },
+    "45738": {
+        "country_code": "NZ",
+        "asn": "45738",
+        "description": "Kordia Limited",
+        "handle": "KORDIA-TRANSIT-AS-AP"
+    },
+    "45787": {
+        "country_code": "NZ",
+        "asn": "45787",
+        "description": "Te Pukenga - New Zealand Institute of Skills and Technology",
+        "handle": "WHITIREIA-AC-AS-AP"
+    },
+    "45792": {
+        "country_code": "NZ",
+        "asn": "45792",
+        "description": "Two Degrees Mobile Limited",
+        "handle": "TWO-DEGREES-AS-AP"
+    },
+    "45809": {
+        "country_code": "NZ",
+        "asn": "45809",
+        "description": "InternetNZ",
+        "handle": "NZRS-AS-AP"
+    },
+    "45822": {
+        "country_code": "NZ",
+        "asn": "45822",
+        "description": "Two Degrees Mobile Limited",
+        "handle": "SNAP-NZ-DOM-AS-AP"
+    },
+    "45823": {
+        "country_code": "NZ",
+        "asn": "45823",
+        "description": "Two Degrees Mobile Limited",
+        "handle": "SNAP-NZ-INT-AS"
+    },
+    "45943": {
+        "country_code": "NZ",
+        "asn": "45943",
+        "description": "Fastcom Limited",
+        "handle": "OPUS-INTERNATIONAL-CONSULTANTS-AS-AP"
+    },
+    "45946": {
+        "country_code": "NZ",
+        "asn": "45946",
+        "description": "Air New Zealand Limited",
+        "handle": "AIRNZ-AS2-NZ"
+    },
+    "45950": {
+        "country_code": "NZ",
+        "asn": "45950",
+        "description": "Gareth Morgan Investments",
+        "handle": "GMI-AS-AP"
+    },
+    "46075": {
+        "country_code": "NZ",
+        "asn": "46075",
+        "description": "Solarix Networks Limited",
+        "handle": "MJ-AS-AP"
+    },
+    "55300": {
+        "country_code": "NZ",
+        "asn": "55300",
+        "description": "Fastcom Limited",
+        "handle": "DIACCU2-AS-NZ"
+    },
+    "55301": {
+        "country_code": "NZ",
+        "asn": "55301",
+        "description": "Fastcom Limited",
+        "handle": "DIACCU3-AS-NZ"
+    },
+    "55368": {
+        "country_code": "NZ",
+        "asn": "55368",
+        "description": "Lightwire Limited",
+        "handle": "LIGHTWIRE-AS-AP"
+    },
+    "55397": {
+        "country_code": "NZ",
+        "asn": "55397",
+        "description": "Lightwire Limited",
+        "handle": "LIGHTWIRE-AS-AP"
+    },
+    "55435": {
+        "country_code": "NZ",
+        "asn": "55435",
+        "description": "Whangarei District Council",
+        "handle": "WDC-AS-AP"
+    },
+    "55436": {
+        "country_code": "NZ",
+        "asn": "55436",
+        "description": "Vodafone Next Generation Services Limited",
+        "handle": "VNGSL-VOICE-AS-AP"
+    },
+    "55454": {
+        "country_code": "NZ",
+        "asn": "55454",
+        "description": "Two Degrees Mobile Limited",
+        "handle": "TWO-DEGREES-AS-AP"
+    },
+    "55485": {
+        "country_code": "NZ",
+        "asn": "55485",
+        "description": "Te Whare Wananga o Awanuiarangi",
+        "handle": "TWWOA-AS-NZ"
+    },
+    "55502": {
+        "country_code": "NZ",
+        "asn": "55502",
+        "description": "Institute of Chartered Accountants of New Zealand",
+        "handle": "NZICA-NET-NZ"
+    },
+    "55516": {
+        "country_code": "NZ",
+        "asn": "55516",
+        "description": "Universal College of Learning",
+        "handle": "UCOL-AS-AP"
+    },
+    "55524": {
+        "country_code": "NZ",
+        "asn": "55524",
+        "description": "Te Pukenga - New Zealand Institute of Skills and Technology",
+        "handle": "TOI-AS-AP"
+    },
+    "55561": {
+        "country_code": "NZ",
+        "asn": "55561",
+        "description": "2talk Limited",
+        "handle": "TWO-TALK"
+    },
+    "55702": {
+        "country_code": "NZ",
+        "asn": "55702",
+        "description": "Te Pukenga - New Zealand Institute of Skills and Technology",
+        "handle": "EIT-AS-AP"
+    },
+    "55703": {
+        "country_code": "NZ",
+        "asn": "55703",
+        "description": "Liverton Limited",
+        "handle": "VISTAGATE-AS-AP"
+    },
+    "55715": {
+        "country_code": "NZ",
+        "asn": "55715",
+        "description": "Advanced Data Centres Limited",
+        "handle": "ADVANCEDDATACENTRES-NZ"
+    },
+    "55716": {
+        "country_code": "NZ",
+        "asn": "55716",
+        "description": "Censorship Compliance Unit Department of Internal Affairs",
+        "handle": "DIACCU-AS-AP"
+    },
+    "55719": {
+        "country_code": "NZ",
+        "asn": "55719",
+        "description": "Reserve Bank of New Zealand",
+        "handle": "RBNZ-AS-AP"
+    },
+    "55729": {
+        "country_code": "NZ",
+        "asn": "55729",
+        "description": "Pacific Technology Solutions Ltd",
+        "handle": "PAC-TECH-AS-AP"
+    },
+    "55746": {
+        "country_code": "NZ",
+        "asn": "55746",
+        "description": "Western Institute of Technology at Taranaki",
+        "handle": "WITT-AS-AP"
+    },
+    "55747": {
+        "country_code": "NZ",
+        "asn": "55747",
+        "description": "Southern Institute of Technology",
+        "handle": "SIT-AS-AP"
+    },
+    "55759": {
+        "country_code": "NZ",
+        "asn": "55759",
+        "description": "Ministry of Foreign Affairs and Trade",
+        "handle": "MFAT-NET-NZ"
+    },
+    "55785": {
+        "country_code": "NZ",
+        "asn": "55785",
+        "description": "ISP Limited",
+        "handle": "ISPLIMITED-AS-AP"
+    },
+    "55793": {
+        "country_code": "NZ",
+        "asn": "55793",
+        "description": "Public Services Commission",
+        "handle": "PSC-AS-AP"
+    },
+    "55850": {
+        "country_code": "NZ",
+        "asn": "55850",
+        "description": "Mercury NZ Limited",
+        "handle": "MERCURYNZ-AS-AP"
+    },
+    "55853": {
+        "country_code": "NZ",
+        "asn": "55853",
+        "description": "Megatel",
+        "handle": "MEGATEL-AS-AP"
+    },
+    "55857": {
+        "country_code": "NZ",
+        "asn": "55857",
+        "description": "Harvest Electronics NZ Limited",
+        "handle": "HARVESTELECTRONICS-AS-AP"
+    },
+    "55860": {
+        "country_code": "NZ",
+        "asn": "55860",
+        "description": "Foodstuffs SI Ltd",
+        "handle": "FOODSTUFFSSI-AS-AP"
+    },
+    "55872": {
+        "country_code": "NZ",
+        "asn": "55872",
+        "description": "BayCity Communications",
+        "handle": "BAYCITY-AS-AP"
+    },
+    "55887": {
+        "country_code": "NZ",
+        "asn": "55887",
+        "description": "Diocesan School for Girls",
+        "handle": "DIOSCHOOLAK2-NZ"
+    },
+    "55926": {
+        "country_code": "NZ",
+        "asn": "55926",
+        "description": "Mercury NZ Limited",
+        "handle": "MERCURYNZ-AS-AP"
+    },
+    "55936": {
+        "country_code": "NZ",
+        "asn": "55936",
+        "description": "Spark Digital New Zealand Ltd",
+        "handle": "GENI-SDP-NZ-AS-AP"
+    },
+    "55946": {
+        "country_code": "NZ",
+        "asn": "55946",
+        "description": "P.C. Exchange Ltd",
+        "handle": "PCX-AS-AP"
+    },
+    "55948": {
+        "country_code": "NZ",
+        "asn": "55948",
+        "description": "ISP Limited",
+        "handle": "ISPLIMITED-AS-AP"
+    },
+    "56028": {
+        "country_code": "NZ",
+        "asn": "56028",
+        "description": "Business Technology Group Limited",
+        "handle": "BTG-NZ"
+    },
+    "56030": {
+        "country_code": "NZ",
+        "asn": "56030",
+        "description": "Voyager Internet Ltd.",
+        "handle": "VOYAGERNET-AS-AP"
+    },
+    "56036": {
+        "country_code": "NZ",
+        "asn": "56036",
+        "description": "UberNetworks Limited",
+        "handle": "UBERGROUP-NIX-NZ"
+    },
+    "56068": {
+        "country_code": "NZ",
+        "asn": "56068",
+        "description": "Lightspeed Technology Group Limited",
+        "handle": "LIGHTSPEED-TECHNOLOGY-AS-AP"
+    },
+    "56101": {
+        "country_code": "NZ",
+        "asn": "56101",
+        "description": "Te Wananga O Aotearoa",
+        "handle": "TWOA-NZ"
+    },
+    "56102": {
+        "country_code": "NZ",
+        "asn": "56102",
+        "description": "Two Degress Mobile Limited",
+        "handle": "TWO-DEGREES-AS-AP"
+    },
+    "56137": {
+        "country_code": "NZ",
+        "asn": "56137",
+        "description": "Two Degrees Mobile Limited",
+        "handle": "TWO-DEGREES-AS-AP"
+    },
+    "56171": {
+        "country_code": "NZ",
+        "asn": "56171",
+        "description": "Devoli LTD",
+        "handle": "VIBECOM-AS-AP"
+    },
+    "56174": {
+        "country_code": "NZ",
+        "asn": "56174",
+        "description": "Eagle Technology Group Ltd",
+        "handle": "EAGLE-AS-AP"
+    },
+    "56186": {
+        "country_code": "NZ",
+        "asn": "56186",
+        "description": "Digital Island Limited",
+        "handle": "DIGINET-NZ"
+    },
+    "56189": {
+        "country_code": "NZ",
+        "asn": "56189",
+        "description": "Fastcom Limited",
+        "handle": "NEWMEDIA-AS-AP"
+    },
+    "56214": {
+        "country_code": "NZ",
+        "asn": "56214",
+        "description": "Zelan Ltd",
+        "handle": "ZELAN-LTD-AS-AP"
+    },
+    "56216": {
+        "country_code": "NZ",
+        "asn": "56216",
+        "description": "Compass Communications Ltd",
+        "handle": "COMPASSCOM-AS-AP"
+    },
+    "56228": {
+        "country_code": "NZ",
+        "asn": "56228",
+        "description": "Kordia Limited",
+        "handle": "KORDIA-LTD-AS-AP"
+    },
+    "56304": {
+        "country_code": "NZ",
+        "asn": "56304",
+        "description": "The Total Team Limited",
+        "handle": "THETOTALTEAM-AS-AP"
+    },
+    "56683": {
+        "country_code": "NZ",
+        "asn": "56683",
+        "description": "EXNESS LIMITED",
+        "handle": "EXNESS-AS"
+    },
+    "58421": {
+        "country_code": "NZ",
+        "asn": "58421",
+        "description": "Parliamentary Service",
+        "handle": "PS-NZ-AS-AP"
+    },
+    "58423": {
+        "country_code": "NZ",
+        "asn": "58423",
+        "description": "Stratanet Limited",
+        "handle": "STRATANET-NZ"
+    },
+    "58443": {
+        "country_code": "NZ",
+        "asn": "58443",
+        "description": "Devoli LTD",
+        "handle": "RACK-CENTRAL-AS-AP"
+    },
+    "58444": {
+        "country_code": "NZ",
+        "asn": "58444",
+        "description": "Weta Digital Ltd",
+        "handle": "WETADIGITAL-AS-AP"
+    },
+    "58583": {
+        "country_code": "NZ",
+        "asn": "58583",
+        "description": "Solarix Networks Limited",
+        "handle": "SOLARIX-INTERNET-AS-AP"
+    },
+    "58600": {
+        "country_code": "NZ",
+        "asn": "58600",
+        "description": "Two Degrees Mobile Limited",
+        "handle": "TWO-DEGREES-AS-AP"
+    },
+    "58610": {
+        "country_code": "NZ",
+        "asn": "58610",
+        "description": "Telnet Telecommunication Limited",
+        "handle": "TELNET-AS-AP"
+    },
+    "58624": {
+        "country_code": "NZ",
+        "asn": "58624",
+        "description": "End 2 End Limited",
+        "handle": "END2END-AS-AP"
+    },
+    "58631": {
+        "country_code": "NZ",
+        "asn": "58631",
+        "description": "Vista Group (NZ) Limited",
+        "handle": "VISTA-AS-AP"
+    },
+    "58666": {
+        "country_code": "NZ",
+        "asn": "58666",
+        "description": "Network Access Services Limited",
+        "handle": "NASL-AS-AP"
+    },
+    "58936": {
+        "country_code": "NZ",
+        "asn": "58936",
+        "description": "Managed Hosted Applications Limited",
+        "handle": "MHAL-AS-AP"
+    },
+    "58938": {
+        "country_code": "NZ",
+        "asn": "58938",
+        "description": "HiTech Telecommunication Limited",
+        "handle": "HTL-AS-AP"
+    },
+    "58988": {
+        "country_code": "NZ",
+        "asn": "58988",
+        "description": "Experieco Limited",
+        "handle": "EXPERIECO-AS-AP"
+    },
+    "59292": {
+        "country_code": "NZ",
+        "asn": "59292",
+        "description": "Foodstuffs North Island Limited",
+        "handle": "FSNI-NZ"
+    },
+    "61025": {
+        "country_code": "NZ",
+        "asn": "61025",
+        "description": "CoCCA Registry Services (NZ) Limited",
+        "handle": "COCCA-ASN"
+    },
+    "63519": {
+        "country_code": "NZ",
+        "asn": "63519",
+        "description": "Silicon Systems Limited",
+        "handle": "SILICON-NZ"
+    },
+    "63830": {
+        "country_code": "NZ",
+        "asn": "63830",
+        "description": "New Zealand Internet Exchange Incorporated",
+        "handle": "AKLIX-AS-AP"
+    },
+    "63925": {
+        "country_code": "NZ",
+        "asn": "63925",
+        "description": "Bypass Network Services",
+        "handle": "BNSL-AS-AP"
+    },
+    "63979": {
+        "country_code": "NZ",
+        "asn": "63979",
+        "description": "TALK A CLOUD LIMITED",
+        "handle": "TALK-CLOUD-AS-AP"
+    },
+    "64015": {
+        "country_code": "NZ",
+        "asn": "64015",
+        "description": "Pure IP Limited",
+        "handle": "PUREIP-AS-AP"
+    },
+    "64054": {
+        "country_code": "NZ",
+        "asn": "64054",
+        "description": "SiteTech Solutions Limited",
+        "handle": "SITEHOST-AS-AP"
+    },
+    "64070": {
+        "country_code": "NZ",
+        "asn": "64070",
+        "description": "healthAlliance",
+        "handle": "HEALTHALLIANCE-NZ"
+    },
+    "64073": {
+        "country_code": "NZ",
+        "asn": "64073",
+        "description": "Vetta Online Ltd",
+        "handle": "VETTA"
+    },
+    "64076": {
+        "country_code": "NZ",
+        "asn": "64076",
+        "description": "CloudSource IT Limited",
+        "handle": "CLOUDSOURCEITLTD-AS-AP"
+    },
+    "64095": {
+        "country_code": "NZ",
+        "asn": "64095",
+        "description": "Blue Reach Services Limited",
+        "handle": "BRSL-AS-AP"
+    },
+    "131110": {
+        "country_code": "NZ",
+        "asn": "131110",
+        "description": "Slush Technologies AS V6 Transit",
+        "handle": "SLUSH-TRANSIT-AS-AP"
+    },
+    "131168": {
+        "country_code": "NZ",
+        "asn": "131168",
+        "description": "WINDCAVE LIMITED",
+        "handle": "WINDCAVE-AS-AP"
+    },
+    "131174": {
+        "country_code": "NZ",
+        "asn": "131174",
+        "description": "Two Degrees Mobile Limited",
+        "handle": "TWO-DEGREES-AS-AP"
+    },
+    "131176": {
+        "country_code": "NZ",
+        "asn": "131176",
+        "description": "REANNZ Customer - Tertiary Education Commission",
+        "handle": "REANNZ-TEC-NZ-AP"
+    },
+    "131187": {
+        "country_code": "NZ",
+        "asn": "131187",
+        "description": "Teritary Education Commission",
+        "handle": "ECSN-AS-AP"
+    },
+    "131193": {
+        "country_code": "NZ",
+        "asn": "131193",
+        "description": "Victoria University of Wellington",
+        "handle": "VUW2-AS-AP"
+    },
+    "131196": {
+        "country_code": "NZ",
+        "asn": "131196",
+        "description": "Enable Networks",
+        "handle": "ENABLENET-AS-AP"
+    },
+    "131198": {
+        "country_code": "NZ",
+        "asn": "131198",
+        "description": "Mediatribe Limited",
+        "handle": "MEDIATRIBELIMITED-AS-AP"
+    },
+    "131201": {
+        "country_code": "NZ",
+        "asn": "131201",
+        "description": "Skope Industries Limited",
+        "handle": "SIL-AS-AP"
+    },
+    "131202": {
+        "country_code": "NZ",
+        "asn": "131202",
+        "description": "Gravity Internet Ltd",
+        "handle": "GRAVITY-AS-AP"
+    },
+    "131209": {
+        "country_code": "NZ",
+        "asn": "131209",
+        "description": "Allied Press Limited",
+        "handle": "ALLIEDPRESS-NON-AS-AP"
+    },
+    "131227": {
+        "country_code": "NZ",
+        "asn": "131227",
+        "description": "Yrless Ltd",
+        "handle": "YRLESSLTD-AS-AP"
+    },
+    "131239": {
+        "country_code": "NZ",
+        "asn": "131239",
+        "description": "Auckland Council",
+        "handle": "AUCKLANDCOUNCIL-AS-AP"
+    },
+    "131254": {
+        "country_code": "NZ",
+        "asn": "131254",
+        "description": "Northpower Ltd",
+        "handle": "NORTHPOWER-AS-AP"
+    },
+    "131261": {
+        "country_code": "NZ",
+        "asn": "131261",
+        "description": "LIZARD NETWORKS 2015 LIMITED",
+        "handle": "LIZRD2015LIMITED-AS-AP"
+    },
+    "131272": {
+        "country_code": "NZ",
+        "asn": "131272",
+        "description": "Te Pukenga - New Zealand Institute of Skills and Technology",
+        "handle": "OPENPOLY-AS-AP"
+    },
+    "131287": {
+        "country_code": "NZ",
+        "asn": "131287",
+        "description": "Yonder.Co.Nz Limited",
+        "handle": "YONDER-AS-AP"
+    },
+    "131291": {
+        "country_code": "NZ",
+        "asn": "131291",
+        "description": "LANWorx Limited",
+        "handle": "LANWORXLIMITED-AS-AP"
+    },
+    "131296": {
+        "country_code": "NZ",
+        "asn": "131296",
+        "description": "REXNETWORKS LIMITED",
+        "handle": "REXNETWORKS-AS-AP"
+    },
+    "131305": {
+        "country_code": "NZ",
+        "asn": "131305",
+        "description": "MSCA",
+        "handle": "MSCA-AS-AP"
+    },
+    "131318": {
+        "country_code": "NZ",
+        "asn": "131318",
+        "description": "Wialus Solutions Limited",
+        "handle": "WIALUS-SOLN-AS-AP"
+    },
+    "131323": {
+        "country_code": "NZ",
+        "asn": "131323",
+        "description": "Honda New Zealand Ltd",
+        "handle": "HONDA-AS-AP"
+    },
+    "131328": {
+        "country_code": "NZ",
+        "asn": "131328",
+        "description": "The Loop Trust",
+        "handle": "NELSONLOOP-AS-AP"
+    },
+    "131443": {
+        "country_code": "NZ",
+        "asn": "131443",
+        "description": "Oxygen IT",
+        "handle": "OXYGENIT-AS-NZ"
+    },
+    "131452": {
+        "country_code": "NZ",
+        "asn": "131452",
+        "description": "Core Mart Ltd",
+        "handle": "COREMARTLTD-AS-AP"
+    },
+    "131583": {
+        "country_code": "NZ",
+        "asn": "131583",
+        "description": "WIZwireless Limited",
+        "handle": "WIZWIRELESS-AS-AP"
+    },
+    "132001": {
+        "country_code": "NZ",
+        "asn": "132001",
+        "description": "Vital Data Ltd",
+        "handle": "WELLINGTON-FREEWIFI-AP"
+    },
+    "132003": {
+        "country_code": "NZ",
+        "asn": "132003",
+        "description": "Victoria University of Wellington",
+        "handle": "VUW-SOFTNETLAB-AP"
+    },
+    "132014": {
+        "country_code": "NZ",
+        "asn": "132014",
+        "description": "NetPoller Limited",
+        "handle": "NETPOLLER-AS-AP"
+    },
+    "132027": {
+        "country_code": "NZ",
+        "asn": "132027",
+        "description": "Hastings District Council",
+        "handle": "HDC-AS-AP"
+    },
+    "132036": {
+        "country_code": "NZ",
+        "asn": "132036",
+        "description": "InverLoop",
+        "handle": "INVERLOOP-AS-AP"
+    },
+    "132040": {
+        "country_code": "NZ",
+        "asn": "132040",
+        "description": "Vital Data Ltd",
+        "handle": "VITAL-CT-AP"
+    },
+    "132042": {
+        "country_code": "NZ",
+        "asn": "132042",
+        "description": "Manux Networks Ltd",
+        "handle": "MANUX-AS-AP"
+    },
+    "132048": {
+        "country_code": "NZ",
+        "asn": "132048",
+        "description": "Devoli LTD",
+        "handle": "RACKCENTRAL-DNS-AS-AP"
+    },
+    "132058": {
+        "country_code": "NZ",
+        "asn": "132058",
+        "description": "VIAN Limited",
+        "handle": "VIANLIMITED-AS-AP"
+    },
+    "132066": {
+        "country_code": "NZ",
+        "asn": "132066",
+        "description": "New Plymouth District Council",
+        "handle": "NPDC-AS-AP"
+    },
+    "132074": {
+        "country_code": "NZ",
+        "asn": "132074",
+        "description": "Fastcom Limited",
+        "handle": "ATLANTECH-NZ"
+    },
+    "132083": {
+        "country_code": "NZ",
+        "asn": "132083",
+        "description": "FOUNDATION CLOUD SERVICES LIMITED",
+        "handle": "FCSL-AS-AP"
+    },
+    "132096": {
+        "country_code": "NZ",
+        "asn": "132096",
+        "description": "Land Information New Zealand",
+        "handle": "LINZ-AS-AP"
+    },
+    "132125": {
+        "country_code": "NZ",
+        "asn": "132125",
+        "description": "Braintrust Ltd",
+        "handle": "BRAINTRUST-AS-AP"
+    },
+    "132130": {
+        "country_code": "NZ",
+        "asn": "132130",
+        "description": "Triko Security Limited",
+        "handle": "TRIKO-AS-AP"
+    },
+    "132143": {
+        "country_code": "NZ",
+        "asn": "132143",
+        "description": "Harbour City Security Limited",
+        "handle": "HCSL-AS-AP"
+    },
+    "132149": {
+        "country_code": "NZ",
+        "asn": "132149",
+        "description": "Fastcom Limited",
+        "handle": "CLICKINT-NZ"
+    },
+    "132155": {
+        "country_code": "NZ",
+        "asn": "132155",
+        "description": "Obtrix",
+        "handle": "OBTRIX-AS-AP"
+    },
+    "132161": {
+        "country_code": "NZ",
+        "asn": "132161",
+        "description": "vGRID Limited",
+        "handle": "VGRID-AS-AP"
+    },
+    "132174": {
+        "country_code": "NZ",
+        "asn": "132174",
+        "description": "Matrix Security Group Limited",
+        "handle": "MATRIXSECURITY-AS-AP"
+    },
+    "132219": {
+        "country_code": "NZ",
+        "asn": "132219",
+        "description": "Ministry of Maori Development (Te Puni Kokiri)",
+        "handle": "TEPUNIKOKIRI-AS-AP"
+    },
+    "132231": {
+        "country_code": "NZ",
+        "asn": "132231",
+        "description": "Network For Learning Limited",
+        "handle": "NFLL-AS-AP"
+    },
+    "132235": {
+        "country_code": "NZ",
+        "asn": "132235",
+        "description": "Greater Christchurch Schools Network",
+        "handle": "GCSN-AS-AP"
+    },
+    "132238": {
+        "country_code": "NZ",
+        "asn": "132238",
+        "description": "Array Health",
+        "handle": "AHSL-AS-AP"
+    },
+    "132240": {
+        "country_code": "NZ",
+        "asn": "132240",
+        "description": "Plan-b Ltd",
+        "handle": "PLAN-B-AS-AP"
+    },
+    "132255": {
+        "country_code": "NZ",
+        "asn": "132255",
+        "description": "PrimoWireless Ltd",
+        "handle": "PRIMOWIRELESS-NZ"
+    },
+    "132264": {
+        "country_code": "NZ",
+        "asn": "132264",
+        "description": "Callaghan Innovation",
+        "handle": "CALLAGHAN-INNOVATION-AS-AP"
+    },
+    "132268": {
+        "country_code": "NZ",
+        "asn": "132268",
+        "description": "Velocity Net Limited",
+        "handle": "VELOCITYNET-AS-AP"
+    },
+    "132284": {
+        "country_code": "NZ",
+        "asn": "132284",
+        "description": "Radio New Zealand",
+        "handle": "RADIO-NEW-ZEALAND-AS-AP"
+    },
+    "132316": {
+        "country_code": "NZ",
+        "asn": "132316",
+        "description": "Frednet Limited",
+        "handle": "FREDNETLIMITED-AS-AP"
+    },
+    "132333": {
+        "country_code": "NZ",
+        "asn": "132333",
+        "description": "Mercury NZ Limited",
+        "handle": "MERCURYNZ-AS-AP"
+    },
+    "132347": {
+        "country_code": "NZ",
+        "asn": "132347",
+        "description": "MikiPro Ltd",
+        "handle": "MIKIPRO-AS-AP"
+    },
+    "132357": {
+        "country_code": "NZ",
+        "asn": "132357",
+        "description": "Fastcom Limited",
+        "handle": "NSP-AS-AP"
+    },
+    "132375": {
+        "country_code": "NZ",
+        "asn": "132375",
+        "description": "Mercury NZ Limited",
+        "handle": "MERCURYNZ-AS-AP"
+    },
+    "132391": {
+        "country_code": "NZ",
+        "asn": "132391",
+        "description": "Devoli LTD",
+        "handle": "RACK-CENTRAL-AS-AP"
+    },
+    "132409": {
+        "country_code": "NZ",
+        "asn": "132409",
+        "description": "Museum of New Zealand Te Papa Tongarewa",
+        "handle": "MONZTPT-AS-AP"
+    },
+    "132431": {
+        "country_code": "NZ",
+        "asn": "132431",
+        "description": "Netspace Services Limited",
+        "handle": "NETSPACE-AS-AP"
+    },
+    "132449": {
+        "country_code": "NZ",
+        "asn": "132449",
+        "description": "Wireless Nation Ltd.",
+        "handle": "WIRELESSNATION-NZ"
+    },
+    "132450": {
+        "country_code": "NZ",
+        "asn": "132450",
+        "description": "New Era IT Ltd",
+        "handle": "NEWERAIT"
+    },
+    "132452": {
+        "country_code": "NZ",
+        "asn": "132452",
+        "description": "New Plymouth Schools",
+        "handle": "NPSCHOOLS-AS-AP"
+    },
+    "132456": {
+        "country_code": "NZ",
+        "asn": "132456",
+        "description": "OneSquared",
+        "handle": "MODICA-AKL-AS-AP"
+    },
+    "132457": {
+        "country_code": "NZ",
+        "asn": "132457",
+        "description": "HEADQUARTERS NETWORK CONSULTANCY LIMITED",
+        "handle": "HQWIFI-NZ"
+    },
+    "132509": {
+        "country_code": "NZ",
+        "asn": "132509",
+        "description": "Solarix Networks Limited",
+        "handle": "SOLARIX-INTERNET-AS-AP"
+    },
+    "132534": {
+        "country_code": "NZ",
+        "asn": "132534",
+        "description": "Healthlink Limited",
+        "handle": "HEALTHLINKLIMITED-AS-AP"
+    },
+    "132583": {
+        "country_code": "NZ",
+        "asn": "132583",
+        "description": "ASI Solutions Limited",
+        "handle": "ASI-AS-AP"
+    },
+    "132588": {
+        "country_code": "NZ",
+        "asn": "132588",
+        "description": "Yrless Ltd",
+        "handle": "YRLESSLTD-AS-AP"
+    },
+    "132687": {
+        "country_code": "NZ",
+        "asn": "132687",
+        "description": "Mercury NZ Limited",
+        "handle": "MERCURYNZ-AS-AP"
+    },
+    "132692": {
+        "country_code": "NZ",
+        "asn": "132692",
+        "description": "GlobiCom Limited",
+        "handle": "GLOBICOMLIMITED-AS-AP"
+    },
+    "132695": {
+        "country_code": "NZ",
+        "asn": "132695",
+        "description": "Optimation New Zealand Limited",
+        "handle": "OPTIM-AS-AP"
+    },
+    "132697": {
+        "country_code": "NZ",
+        "asn": "132697",
+        "description": "Voyager Internet Ltd.",
+        "handle": "ACCELERO-AP"
+    },
+    "132709": {
+        "country_code": "NZ",
+        "asn": "132709",
+        "description": "New Zealand Genomics Limited",
+        "handle": "NZGL-AS-AP"
+    },
+    "132712": {
+        "country_code": "NZ",
+        "asn": "132712",
+        "description": "DAIFUKU OCEANIA LIMITED",
+        "handle": "DAIFUKUOC"
+    },
+    "132722": {
+        "country_code": "NZ",
+        "asn": "132722",
+        "description": "Intellium Technology Limited",
+        "handle": "ITL-AS-AP"
+    },
+    "132723": {
+        "country_code": "NZ",
+        "asn": "132723",
+        "description": "Tararua District Council",
+        "handle": "TDC-AS-AP"
+    },
+    "132727": {
+        "country_code": "NZ",
+        "asn": "132727",
+        "description": "Strata Networks Ltd",
+        "handle": "STRATANETWORKSLTD-AS-AP"
+    },
+    "132736": {
+        "country_code": "NZ",
+        "asn": "132736",
+        "description": "Two Degrees Mobile Limited",
+        "handle": "TWO-DEGREES-AS-AP"
+    },
+    "132744": {
+        "country_code": "NZ",
+        "asn": "132744",
+        "description": "The Virus Centre Ltd",
+        "handle": "TVCL-AS-AP"
+    },
+    "132745": {
+        "country_code": "NZ",
+        "asn": "132745",
+        "description": "Blast Internet Ltd",
+        "handle": "BLASTINTERNET-AS-AP"
+    },
+    "132809": {
+        "country_code": "NZ",
+        "asn": "132809",
+        "description": "Feenix Communications Limited",
+        "handle": "FEENIX-L3-AS-AP"
+    },
+    "132810": {
+        "country_code": "NZ",
+        "asn": "132810",
+        "description": "Telarus Pty Ltd",
+        "handle": "TELARUSPTYLTD-AS-AP"
+    },
+    "132815": {
+        "country_code": "NZ",
+        "asn": "132815",
+        "description": "Evolution Wireless Ltd",
+        "handle": "EWL-AS-AP"
+    },
+    "132822": {
+        "country_code": "NZ",
+        "asn": "132822",
+        "description": "Fidelity Life Assurance Company Limited",
+        "handle": "FIDLAPNIC-AS-AP"
+    },
+    "132832": {
+        "country_code": "NZ",
+        "asn": "132832",
+        "description": "RIMU HOSTING LIMITED",
+        "handle": "RIMUHOSTING-AS-AP"
+    },
+    "132840": {
+        "country_code": "NZ",
+        "asn": "132840",
+        "description": "Neos Systems Limited",
+        "handle": "NSL-AS-AP"
+    },
+    "132854": {
+        "country_code": "NZ",
+        "asn": "132854",
+        "description": "InSPire Net Ltd",
+        "handle": "WDC-AS-AP"
+    },
+    "132857": {
+        "country_code": "NZ",
+        "asn": "132857",
+        "description": "FULL FLAVOUR LIMITED",
+        "handle": "FFL-AS-AP"
+    },
+    "132870": {
+        "country_code": "NZ",
+        "asn": "132870",
+        "description": "Xtreme Networks Limited",
+        "handle": "XTREME-NETWORKS-PALMERSTON-NORTH-AS-AP"
+    },
+    "132875": {
+        "country_code": "NZ",
+        "asn": "132875",
+        "description": "National Pacs Limited",
+        "handle": "NATIONALPACS-AS-AP"
+    },
+    "132881": {
+        "country_code": "NZ",
+        "asn": "132881",
+        "description": "OmniNet Ltd",
+        "handle": "OMNINETLTD-AS-AP"
+    },
+    "132887": {
+        "country_code": "NZ",
+        "asn": "132887",
+        "description": "Counties Energy Limited",
+        "handle": "COUNTIESENERGY-AS-AP"
+    },
+    "132898": {
+        "country_code": "NZ",
+        "asn": "132898",
+        "description": "CHORUS NEW ZEALAND LIMITED",
+        "handle": "CHORUS-NZ"
+    },
+    "132917": {
+        "country_code": "NZ",
+        "asn": "132917",
+        "description": "Yellow Pages Group",
+        "handle": "YELLOWPAGESGROUP-AS-AP"
+    },
+    "132918": {
+        "country_code": "NZ",
+        "asn": "132918",
+        "description": "Vetta Online Ltd",
+        "handle": "VETTA"
+    },
+    "132919": {
+        "country_code": "NZ",
+        "asn": "132919",
+        "description": "SiteTech Solutions Limited",
+        "handle": "WEBSLICELIMITED-AS-AP"
+    },
+    "133026": {
+        "country_code": "NZ",
+        "asn": "133026",
+        "description": "Fujitsu New Zealand Ltd",
+        "handle": "FUJITSU-GIS-AS-AP"
+    },
+    "133035": {
+        "country_code": "NZ",
+        "asn": "133035",
+        "description": "CELLO GROUP LIMITED",
+        "handle": "CELLO-AS-AP"
+    },
+    "133043": {
+        "country_code": "NZ",
+        "asn": "133043",
+        "description": "Enhanced Solutions Ltd",
+        "handle": "ESL-AS-AP"
+    },
+    "133075": {
+        "country_code": "NZ",
+        "asn": "133075",
+        "description": "Telesmart Limited",
+        "handle": "TELESMARTLIMITED-NZ"
+    },
+    "133079": {
+        "country_code": "NZ",
+        "asn": "133079",
+        "description": "Northland Regional Council",
+        "handle": "NRC-NORTHLAND-AS-AP"
+    },
+    "133090": {
+        "country_code": "NZ",
+        "asn": "133090",
+        "description": "Fusion Networks",
+        "handle": "FUSIONNETWORKS-AS-AP"
+    },
+    "133096": {
+        "country_code": "NZ",
+        "asn": "133096",
+        "description": "MOTHERSHIP LIMITED",
+        "handle": "MOTHERSHIP-AS-AP"
+    },
+    "133101": {
+        "country_code": "NZ",
+        "asn": "133101",
+        "description": "Power Wireless Ltd",
+        "handle": "POWERWIRELESSLTD-AS-AP"
+    },
+    "133108": {
+        "country_code": "NZ",
+        "asn": "133108",
+        "description": "Wanganui District Council",
+        "handle": "WANGANUI-AS-AP"
+    },
+    "133124": {
+        "country_code": "NZ",
+        "asn": "133124",
+        "description": "Spark Ventures",
+        "handle": "SPARKVENT-AS-AP"
+    },
+    "133132": {
+        "country_code": "NZ",
+        "asn": "133132",
+        "description": "H. W. RICHARDSON GROUP LIMITED",
+        "handle": "HWR-AS-AP"
+    },
+    "133154": {
+        "country_code": "NZ",
+        "asn": "133154",
+        "description": "Gisborne District Council",
+        "handle": "GDC-AS-AP"
+    },
+    "133162": {
+        "country_code": "NZ",
+        "asn": "133162",
+        "description": "Voyager Internet Ltd.",
+        "handle": "ACCELERO-AP"
+    },
+    "133186": {
+        "country_code": "NZ",
+        "asn": "133186",
+        "description": "COMPUTER & NETWORK SOLUTIONS LIMITED",
+        "handle": "CNS-AS-AP"
+    },
+    "133187": {
+        "country_code": "NZ",
+        "asn": "133187",
+        "description": "Ashnet Limited",
+        "handle": "ASHGROUPLTD-AS-AP"
+    },
+    "133188": {
+        "country_code": "NZ",
+        "asn": "133188",
+        "description": "Stantec New Zealand Limited",
+        "handle": "MWH-AU-SYD-00"
+    },
+    "133192": {
+        "country_code": "NZ",
+        "asn": "133192",
+        "description": "Ultimate Mobile limited",
+        "handle": "UBB-AS-AP"
+    },
+    "133214": {
+        "country_code": "NZ",
+        "asn": "133214",
+        "description": "Justinternet Limited",
+        "handle": "JUSTINTERNET-AS-AP"
+    },
+    "133218": {
+        "country_code": "NZ",
+        "asn": "133218",
+        "description": "Network Edge NZ Limited",
+        "handle": "NENL-AS-AP"
+    },
+    "133366": {
+        "country_code": "NZ",
+        "asn": "133366",
+        "description": "Stantec New Zealand Limited",
+        "handle": "MWH-NZ-CHC-03"
+    },
+    "133370": {
+        "country_code": "NZ",
+        "asn": "133370",
+        "description": "TODD ENERGY LIMITED",
+        "handle": "TODDENERGYLIMITED-AS-AP"
+    },
+    "133393": {
+        "country_code": "NZ",
+        "asn": "133393",
+        "description": "Naki Host Limted",
+        "handle": "NAKIHOST-AS-AP"
+    },
+    "133396": {
+        "country_code": "NZ",
+        "asn": "133396",
+        "description": "TEAMnetwork Systems Ltd",
+        "handle": "TEAMNETWORK-AS-AP"
+    },
+    "133399": {
+        "country_code": "NZ",
+        "asn": "133399",
+        "description": "HI-TECH SOLUTIONS LIMITED",
+        "handle": "HITECH1-AS-AP"
+    },
+    "133401": {
+        "country_code": "NZ",
+        "asn": "133401",
+        "description": "Devoli LTD",
+        "handle": "FREEDOM-INTERNET-AU"
+    },
+    "133404": {
+        "country_code": "NZ",
+        "asn": "133404",
+        "description": "Online Republic Limited",
+        "handle": "ONLINEREPUB-AS-AP"
+    },
+    "133420": {
+        "country_code": "NZ",
+        "asn": "133420",
+        "description": "Spark New Zealand Trading Limited",
+        "handle": "GENI-N4L-APE"
+    },
+    "133427": {
+        "country_code": "NZ",
+        "asn": "133427",
+        "description": "Selwyn District Council",
+        "handle": "SDC-AS-AP"
+    },
+    "133451": {
+        "country_code": "NZ",
+        "asn": "133451",
+        "description": "PC Soft Limited",
+        "handle": "PCSOFTLIMITED-AS-AP"
+    },
+    "133455": {
+        "country_code": "NZ",
+        "asn": "133455",
+        "description": "SKYCITY ENTERTAINMENT GROUP Limited",
+        "handle": "SKYCITY-AS-AP"
+    },
+    "133473": {
+        "country_code": "NZ",
+        "asn": "133473",
+        "description": "Spark New Zealand Trading Limited",
+        "handle": "MOB-AS-SPARK-NZ"
+    },
+    "133474": {
+        "country_code": "NZ",
+        "asn": "133474",
+        "description": "Devoli LTD",
+        "handle": "MYNX-AS-AP"
+    },
+    "133532": {
+        "country_code": "NZ",
+        "asn": "133532",
+        "description": "InternetNZ",
+        "handle": "INTERNET-AS-AP"
+    },
+    "133537": {
+        "country_code": "NZ",
+        "asn": "133537",
+        "description": "Downer New Zealand Limited",
+        "handle": "DNZL-AS-AP"
+    },
+    "133578": {
+        "country_code": "NZ",
+        "asn": "133578",
+        "description": "DOERS NETWORKS LIMITED",
+        "handle": "DOERSNETWORKSLIMITED-AS-AP"
+    },
+    "133601": {
+        "country_code": "NZ",
+        "asn": "133601",
+        "description": "BIG IRON LIMITED",
+        "handle": "BIGIRONLIMITED-AS-AP"
+    },
+    "133604": {
+        "country_code": "NZ",
+        "asn": "133604",
+        "description": "MidCentral District Health Board",
+        "handle": "MDHB-AS-AP"
+    },
+    "133607": {
+        "country_code": "NZ",
+        "asn": "133607",
+        "description": "Big Noise Group Limited",
+        "handle": "BGL-AS-AP"
+    },
+    "133608": {
+        "country_code": "NZ",
+        "asn": "133608",
+        "description": "Liverton Security",
+        "handle": "LIVERTON1-AS-AP"
+    },
+    "133636": {
+        "country_code": "NZ",
+        "asn": "133636",
+        "description": "Fisheye Limited",
+        "handle": "FISHEYELIMITED-AS-AP"
+    },
+    "133729": {
+        "country_code": "NZ",
+        "asn": "133729",
+        "description": "Equinox Limited",
+        "handle": "EQUINOXLIMITED-AS-AP"
+    },
+    "133741": {
+        "country_code": "NZ",
+        "asn": "133741",
+        "description": "Waka Kotahi NZ Transport Agency",
+        "handle": "WKNTA-AS-AP"
+    },
+    "133745": {
+        "country_code": "NZ",
+        "asn": "133745",
+        "description": "InternetNZ",
+        "handle": "INTERNET-AS-AP"
+    },
+    "133756": {
+        "country_code": "NZ",
+        "asn": "133756",
+        "description": "The Digital Lab 2007 Limited",
+        "handle": "TDL2L-AS-AP"
+    },
+    "133785": {
+        "country_code": "NZ",
+        "asn": "133785",
+        "description": "KeepItSafe New Zealand Limited",
+        "handle": "KNZL-AS-AP"
+    },
+    "133789": {
+        "country_code": "NZ",
+        "asn": "133789",
+        "description": "Mount Campbell Networks Ltd",
+        "handle": "RADIO-NET-AS-AP"
+    },
+    "133857": {
+        "country_code": "NZ",
+        "asn": "133857",
+        "description": "Callaghan Innovation",
+        "handle": "CALLAGHAN-INNOVATION-AS-AP"
+    },
+    "133870": {
+        "country_code": "NZ",
+        "asn": "133870",
+        "description": "Brand Developers Limited",
+        "handle": "BDL-AS-AP"
+    },
+    "133878": {
+        "country_code": "NZ",
+        "asn": "133878",
+        "description": "UNICOM NEW ZEALAND LIMITED",
+        "handle": "UNICOM1-AS-AP"
+    },
+    "133884": {
+        "country_code": "NZ",
+        "asn": "133884",
+        "description": "Airways Corporation of New Zealand",
+        "handle": "ACNZ-AS-AP"
+    },
+    "133887": {
+        "country_code": "NZ",
+        "asn": "133887",
+        "description": "CyberHub Ltd",
+        "handle": "CYBERHUB-AS-AP"
+    },
+    "133906": {
+        "country_code": "NZ",
+        "asn": "133906",
+        "description": "Sand Dune Mail Ltd",
+        "handle": "SMTP2GO-AS-AP"
+    },
+    "133915": {
+        "country_code": "NZ",
+        "asn": "133915",
+        "description": "Powerco NZ Limited",
+        "handle": "POWERCO-AS-AP"
+    },
+    "133920": {
+        "country_code": "NZ",
+        "asn": "133920",
+        "description": "TSB Bank Limited",
+        "handle": "TSBBANK-AS-AP"
+    },
+    "133927": {
+        "country_code": "NZ",
+        "asn": "133927",
+        "description": "HAMPTON DOWNS GROUP LIMITED",
+        "handle": "HDMP-AS-AP"
+    },
+    "133928": {
+        "country_code": "NZ",
+        "asn": "133928",
+        "description": "Te Pukenga - New Zealand Institute of Skills and Technology",
+        "handle": "UNITEC-NZ"
+    },
+    "133950": {
+        "country_code": "NZ",
+        "asn": "133950",
+        "description": "Hoopla Hosting Limited",
+        "handle": "HOOPLAHOSTING-AS-AP"
+    },
+    "134062": {
+        "country_code": "NZ",
+        "asn": "134062",
+        "description": "Scorch Communications Limited",
+        "handle": "SCORCH-APNIC-AS-AP"
+    },
+    "134099": {
+        "country_code": "NZ",
+        "asn": "134099",
+        "description": "The Treasury",
+        "handle": "THETREASURY-AS-AP"
+    },
+    "134102": {
+        "country_code": "NZ",
+        "asn": "134102",
+        "description": "Voyager Internet Ltd.",
+        "handle": "ACCELERO-AP"
+    },
+    "134110": {
+        "country_code": "NZ",
+        "asn": "134110",
+        "description": "MiIT Limited",
+        "handle": "MIITLIMITED-AS-AP"
+    },
+    "134118": {
+        "country_code": "NZ",
+        "asn": "134118",
+        "description": "Beca Corporate Holdings Limited",
+        "handle": "BECA3-AS-AP"
+    },
+    "134131": {
+        "country_code": "NZ",
+        "asn": "134131",
+        "description": "Whakatane District Council",
+        "handle": "WHAKATANE1-AS-AP"
+    },
+    "134156": {
+        "country_code": "NZ",
+        "asn": "134156",
+        "description": "COVER COMMUNICATIONS LIMITED",
+        "handle": "COVER-AS-AP"
+    },
+    "134192": {
+        "country_code": "NZ",
+        "asn": "134192",
+        "description": "CloudSquared",
+        "handle": "CLOUDSQUARED-AS-AP"
+    },
+    "134220": {
+        "country_code": "NZ",
+        "asn": "134220",
+        "description": "Lightwire Limited",
+        "handle": "LIGHTWIRE-AS-AP"
+    },
+    "134224": {
+        "country_code": "NZ",
+        "asn": "134224",
+        "description": "Voyager Internet Ltd.",
+        "handle": "VOYAGERNET-AS-AP"
+    },
+    "134227": {
+        "country_code": "NZ",
+        "asn": "134227",
+        "description": "University of Waikato",
+        "handle": "REDCABLES-NZ-AP"
+    },
+    "134244": {
+        "country_code": "NZ",
+        "asn": "134244",
+        "description": "Orca Communications Ltd",
+        "handle": "OCL-AS-AP"
+    },
+    "134359": {
+        "country_code": "NZ",
+        "asn": "134359",
+        "description": "PURELINK LIMITED",
+        "handle": "PURELINK-AS-AP"
+    },
+    "134372": {
+        "country_code": "NZ",
+        "asn": "134372",
+        "description": "VisionLab",
+        "handle": "VISIONLAB-AS-AP"
+    },
+    "134378": {
+        "country_code": "NZ",
+        "asn": "134378",
+        "description": "Alchemy Networks Limited",
+        "handle": "ANL-AS-AP"
+    },
+    "134429": {
+        "country_code": "NZ",
+        "asn": "134429",
+        "description": "Evolution Networks Limited",
+        "handle": "ENL-AS-AP"
+    },
+    "134433": {
+        "country_code": "NZ",
+        "asn": "134433",
+        "description": "REDSHIELD SECURITY LIMITED",
+        "handle": "REDSHIELD-AS-AP"
+    },
+    "134436": {
+        "country_code": "NZ",
+        "asn": "134436",
+        "description": "The Instillery Group Limited",
+        "handle": "TIGL-AS-AP"
+    },
+    "134444": {
+        "country_code": "NZ",
+        "asn": "134444",
+        "description": "Computer Concepts Limited",
+        "handle": "CCL-AKL-AS-AP"
+    },
+    "134445": {
+        "country_code": "NZ",
+        "asn": "134445",
+        "description": "Nelson Marlborough Institute of Technology",
+        "handle": "NMIT-AS-AP"
+    },
+    "134566": {
+        "country_code": "NZ",
+        "asn": "134566",
+        "description": "WEX NEW ZELAND",
+        "handle": "WEXAP-AS-AP"
+    },
+    "134673": {
+        "country_code": "NZ",
+        "asn": "134673",
+        "description": "Devoli LTD",
+        "handle": "GISBORNE-AS-AP"
+    },
+    "134691": {
+        "country_code": "NZ",
+        "asn": "134691",
+        "description": "Fastway Global Limited",
+        "handle": "FASTWAYGLOBALLTD-AS-AP"
+    },
+    "134692": {
+        "country_code": "NZ",
+        "asn": "134692",
+        "description": "IAG New Zealand",
+        "handle": "IAG-NZ-AS"
+    },
+    "134730": {
+        "country_code": "NZ",
+        "asn": "134730",
+        "description": "EDMI NZ Limited",
+        "handle": "EDMICLOUD-AS-AP"
+    },
+    "134744": {
+        "country_code": "NZ",
+        "asn": "134744",
+        "description": "Countrynet NZ Limited",
+        "handle": "COUNTRYNET-AS-AP"
+    },
+    "134746": {
+        "country_code": "NZ",
+        "asn": "134746",
+        "description": "Z Energy Ltd",
+        "handle": "ZENERGYLTD-AS-AP"
+    },
+    "134818": {
+        "country_code": "NZ",
+        "asn": "134818",
+        "description": "Epsom Girls Grammar School",
+        "handle": "EGGS-AS-AP"
+    },
+    "134845": {
+        "country_code": "NZ",
+        "asn": "134845",
+        "description": "Wellington International Airport Limited",
+        "handle": "WIAL-AS-AP"
+    },
+    "134954": {
+        "country_code": "NZ",
+        "asn": "134954",
+        "description": "Vital Data Ltd",
+        "handle": "ART-A-AS-AP"
+    },
+    "134955": {
+        "country_code": "NZ",
+        "asn": "134955",
+        "description": "Vital Data Ltd",
+        "handle": "ART-B-AS-AP"
+    },
+    "134956": {
+        "country_code": "NZ",
+        "asn": "134956",
+        "description": "Vital Data Ltd",
+        "handle": "TAKANINI-A-AS-AP"
+    },
+    "134957": {
+        "country_code": "NZ",
+        "asn": "134957",
+        "description": "Vital Data Ltd",
+        "handle": "TAKANINI-B-AS-AP"
+    },
+    "134958": {
+        "country_code": "NZ",
+        "asn": "134958",
+        "description": "Vital Data Ltd",
+        "handle": "KAPUA-A-AS-AP"
+    },
+    "134959": {
+        "country_code": "NZ",
+        "asn": "134959",
+        "description": "Vital Data Ltd",
+        "handle": "KAPUA-B-AS-AP"
+    },
+    "134960": {
+        "country_code": "NZ",
+        "asn": "134960",
+        "description": "Vital Data Ltd",
+        "handle": "ORBIT-A-AS-AP"
+    },
+    "134961": {
+        "country_code": "NZ",
+        "asn": "134961",
+        "description": "Vital Data Ltd",
+        "handle": "ORBIT-B-AS-AP"
+    },
+    "134967": {
+        "country_code": "NZ",
+        "asn": "134967",
+        "description": "TopQuality Limited",
+        "handle": "TQL-AS-AP"
+    },
+    "134988": {
+        "country_code": "NZ",
+        "asn": "134988",
+        "description": "Gateway Teleport Ltd.",
+        "handle": "GTL-AS-AP"
+    },
+    "135021": {
+        "country_code": "NZ",
+        "asn": "135021",
+        "description": "PlatformPlus Limited",
+        "handle": "PLATFORMPLUS-AS-AP"
+    },
+    "135023": {
+        "country_code": "NZ",
+        "asn": "135023",
+        "description": "Maximum Control Limited",
+        "handle": "MAXCONTROL-AS-AP"
+    },
+    "135047": {
+        "country_code": "NZ",
+        "asn": "135047",
+        "description": "NTT NEW ZEALAND LIMITED",
+        "handle": "DDNZL-AS-AP"
+    },
+    "135069": {
+        "country_code": "NZ",
+        "asn": "135069",
+        "description": "Feenix Communications Limited",
+        "handle": "FEENIX-AS-AP"
+    },
+    "135087": {
+        "country_code": "NZ",
+        "asn": "135087",
+        "description": "Sweep Internet NZ Limited",
+        "handle": "SWEEPINTERNET-AS-AP"
+    },
+    "135142": {
+        "country_code": "NZ",
+        "asn": "135142",
+        "description": "Enigma Solutions Limited",
+        "handle": "ENIGMA-AS-AP"
+    },
+    "135154": {
+        "country_code": "NZ",
+        "asn": "135154",
+        "description": "Genesis Energy Limited",
+        "handle": "GEL-AS-AP"
+    },
+    "135157": {
+        "country_code": "NZ",
+        "asn": "135157",
+        "description": "Hilton Haulage Limited",
+        "handle": "HILTONS-AS-AP"
+    },
+    "135288": {
+        "country_code": "NZ",
+        "asn": "135288",
+        "description": "Auckland Museum Trust Board",
+        "handle": "AUCKLANDMUSEUM-AS-AP"
+    },
+    "135328": {
+        "country_code": "NZ",
+        "asn": "135328",
+        "description": "TANGELO SERVICES LIMITED",
+        "handle": "TSL-AS-AP"
+    },
+    "135344": {
+        "country_code": "NZ",
+        "asn": "135344",
+        "description": "Transactor Technologies Limited",
+        "handle": "TTL-AS-AP"
+    },
+    "135385": {
+        "country_code": "NZ",
+        "asn": "135385",
+        "description": "Gough Group Limited",
+        "handle": "GOUGHGROUP-AS-AP"
+    },
+    "135393": {
+        "country_code": "NZ",
+        "asn": "135393",
+        "description": "Kiwi VoIP Limited",
+        "handle": "KIWIVOIP-AS-AP"
+    },
+    "135400": {
+        "country_code": "NZ",
+        "asn": "135400",
+        "description": "Contact Energy Limited",
+        "handle": "CONTACTENERGY-AS-AP"
+    },
+    "135403": {
+        "country_code": "NZ",
+        "asn": "135403",
+        "description": "Auckland Transport",
+        "handle": "AUCKLANDTRANSPORT-AS-AP"
+    },
+    "135428": {
+        "country_code": "NZ",
+        "asn": "135428",
+        "description": "Fire and Emergency New Zealand",
+        "handle": "FENZ-AS-AP"
+    },
+    "135431": {
+        "country_code": "NZ",
+        "asn": "135431",
+        "description": "Te Pukenga - New Zealand Institute of Skills and Technology",
+        "handle": "EIT-AS-AP"
+    },
+    "135606": {
+        "country_code": "NZ",
+        "asn": "135606",
+        "description": "Warp Speed Computers Limited",
+        "handle": "WSCL-AS-AP"
+    },
+    "135626": {
+        "country_code": "NZ",
+        "asn": "135626",
+        "description": "Electra Limited",
+        "handle": "ELECTRALTD-AS-AP"
+    },
+    "135642": {
+        "country_code": "NZ",
+        "asn": "135642",
+        "description": "VetNZ Limited",
+        "handle": "VET-AS-AP"
+    },
+    "135671": {
+        "country_code": "NZ",
+        "asn": "135671",
+        "description": "RBB InfoTech",
+        "handle": "RBB-AS-AP"
+    },
+    "135889": {
+        "country_code": "NZ",
+        "asn": "135889",
+        "description": "Softsource Limited",
+        "handle": "SOFTSOURCE-AS-AP"
+    },
+    "136015": {
+        "country_code": "NZ",
+        "asn": "136015",
+        "description": "NETWORK SERVICE PROVIDERS LIMITED",
+        "handle": "NSP-AS-AP"
+    },
+    "136024": {
+        "country_code": "NZ",
+        "asn": "136024",
+        "description": "Advantage Limited",
+        "handle": "ADVANTAGE-AS-AP"
+    },
+    "136157": {
+        "country_code": "NZ",
+        "asn": "136157",
+        "description": "AFFCO New Zealand Ltd",
+        "handle": "AFFCO-AS-AP"
+    },
+    "136249": {
+        "country_code": "NZ",
+        "asn": "136249",
+        "description": "KIWIWIFI LIMITED",
+        "handle": "KIWIWIFI-AS-AP"
+    },
+    "136269": {
+        "country_code": "NZ",
+        "asn": "136269",
+        "description": "BPAC CLINICAL SOLUTIONS LP",
+        "handle": "BPAC-CS-LP-AS-AP"
+    },
+    "136409": {
+        "country_code": "NZ",
+        "asn": "136409",
+        "description": "DAIFUKU OCEANIA LIMITED",
+        "handle": "DAIFUKU-INF-OOB"
+    },
+    "136410": {
+        "country_code": "NZ",
+        "asn": "136410",
+        "description": "DAIFUKU OCEANIA LIMITED",
+        "handle": "DAIFUKUNZ"
+    },
+    "136411": {
+        "country_code": "NZ",
+        "asn": "136411",
+        "description": "DAIFUKU OCEANIA LIMITED",
+        "handle": "DAIFUKUNZ"
+    },
+    "136440": {
+        "country_code": "NZ",
+        "asn": "136440",
+        "description": "VALENTIA TECHNOLOGIES (NZ) LIMITED",
+        "handle": "VALENTIA-AS-AP"
+    },
+    "136463": {
+        "country_code": "NZ",
+        "asn": "136463",
+        "description": "WheroNet Limited",
+        "handle": "WHERONET-AS-AP"
+    },
+    "136488": {
+        "country_code": "NZ",
+        "asn": "136488",
+        "description": "Health Care of New Zealand Limited",
+        "handle": "HCONZ-AS-AP"
+    },
+    "136494": {
+        "country_code": "NZ",
+        "asn": "136494",
+        "description": "Smartcall Limited",
+        "handle": "SMARTCALLLIMITED-AS-AP"
+    },
+    "136499": {
+        "country_code": "NZ",
+        "asn": "136499",
+        "description": "TMG Cloudland Limited",
+        "handle": "TMGCLOUDLAND-AS-AP"
+    },
+    "136500": {
+        "country_code": "NZ",
+        "asn": "136500",
+        "description": "NorthCloud Limited",
+        "handle": "NORTHCLOUDLIMITED-AS-AP"
+    },
+    "136524": {
+        "country_code": "NZ",
+        "asn": "136524",
+        "description": "Zylex Computers Limited",
+        "handle": "ZYLEX-AS-AP"
+    },
+    "136559": {
+        "country_code": "NZ",
+        "asn": "136559",
+        "description": "Omega Networks",
+        "handle": "OMEGANETWORKSLTD-AS-AP"
+    },
+    "136595": {
+        "country_code": "NZ",
+        "asn": "136595",
+        "description": "EXCELLENT SOFTWARE LIMITED",
+        "handle": "EXCELLENT-AS-AP"
+    },
+    "136795": {
+        "country_code": "NZ",
+        "asn": "136795",
+        "description": "Nova Energy LTD",
+        "handle": "NOVAENERGYLTD-AS-AP"
+    },
+    "136797": {
+        "country_code": "NZ",
+        "asn": "136797",
+        "description": "Turbo I.T Limited",
+        "handle": "TURBOITLIMITED-AS-AP"
+    },
+    "136953": {
+        "country_code": "NZ",
+        "asn": "136953",
+        "description": "VOIP HQ LIMITED",
+        "handle": "VOIPHQ-AS-AP"
+    },
+    "136960": {
+        "country_code": "NZ",
+        "asn": "136960",
+        "description": "ARTHUR J. GALLAGHER & CO (NZ) LIMITED",
+        "handle": "AJG-AS-AP"
+    },
+    "136964": {
+        "country_code": "NZ",
+        "asn": "136964",
+        "description": "NZ Safety Blackwoods",
+        "handle": "WISNL-AS-AP"
+    },
+    "136965": {
+        "country_code": "NZ",
+        "asn": "136965",
+        "description": "IT Live Ltd",
+        "handle": "ITLIVELTD-AS-AP"
+    },
+    "136980": {
+        "country_code": "NZ",
+        "asn": "136980",
+        "description": "THE CO-OPERATIVE BANK LIMITED",
+        "handle": "COOPERATIVEBANK-AS-AP"
+    },
+    "136984": {
+        "country_code": "NZ",
+        "asn": "136984",
+        "description": "Mercury NZ Limited",
+        "handle": "MERCURYNZ-AS-AP"
+    },
+    "136990": {
+        "country_code": "NZ",
+        "asn": "136990",
+        "description": "Inland Revenue Department",
+        "handle": "IRD-NZ-AS-CLOUD-AP"
+    },
+    "137028": {
+        "country_code": "NZ",
+        "asn": "137028",
+        "description": "Latte Solutions Limited",
+        "handle": "LATTE-SOL-AS-AP"
+    },
+    "137051": {
+        "country_code": "NZ",
+        "asn": "137051",
+        "description": "CYBERCX NEW ZEALAND LIMITED",
+        "handle": "CYBERCX-AS-AP"
+    },
+    "137052": {
+        "country_code": "NZ",
+        "asn": "137052",
+        "description": "NZX Limited",
+        "handle": "NZXLIMITED-AS-AP"
+    },
+    "137217": {
+        "country_code": "NZ",
+        "asn": "137217",
+        "description": "BLUE STAR GROUP (NEW ZEALAND) LIMITED",
+        "handle": "BSPG-AS-AP"
+    },
+    "137257": {
+        "country_code": "NZ",
+        "asn": "137257",
+        "description": "Localhost Limited",
+        "handle": "LOCALHOST-AS-AP"
+    },
+    "137262": {
+        "country_code": "NZ",
+        "asn": "137262",
+        "description": "Smartlinx3 Limited",
+        "handle": "SMARTLINX3LIMITED-AS-AP"
+    },
+    "137267": {
+        "country_code": "NZ",
+        "asn": "137267",
+        "description": "CBROS Technologies Limited",
+        "handle": "CTL-AS-AP"
+    },
+    "137448": {
+        "country_code": "NZ",
+        "asn": "137448",
+        "description": "ASB BANK LIMITED",
+        "handle": "ASBBANKLIMITED-AS-AP"
+    },
+    "137465": {
+        "country_code": "NZ",
+        "asn": "137465",
+        "description": "Simplyfree Limited",
+        "handle": "SIMPLYFREELIMITED-AS-AP"
+    },
+    "137469": {
+        "country_code": "NZ",
+        "asn": "137469",
+        "description": "Signify Limited",
+        "handle": "SIGNIFYLIMITED-AS-AP"
+    },
+    "137471": {
+        "country_code": "NZ",
+        "asn": "137471",
+        "description": "New Zealand Defence Forces",
+        "handle": "INTERNZDF-NZ-AS"
+    },
+    "137472": {
+        "country_code": "NZ",
+        "asn": "137472",
+        "description": "Freightways Information Services Limited",
+        "handle": "FREIGHTWAYS-AS-AP"
+    },
+    "137495": {
+        "country_code": "NZ",
+        "asn": "137495",
+        "description": "Skyline Networks NZ Ltd",
+        "handle": "SKN-NZ-AS"
+    },
+    "137879": {
+        "country_code": "NZ",
+        "asn": "137879",
+        "description": "Guardians of New Zealand Superannuation",
+        "handle": "GNZS-AS-AP"
+    },
+    "137914": {
+        "country_code": "NZ",
+        "asn": "137914",
+        "description": "ABB LIMITED",
+        "handle": "ABB-DC3"
+    },
+    "137920": {
+        "country_code": "NZ",
+        "asn": "137920",
+        "description": "Suncorp Group New Zealand Ltd",
+        "handle": "SGNZL-AS-AP"
+    },
+    "137957": {
+        "country_code": "NZ",
+        "asn": "137957",
+        "description": "OMV NEW ZEALAND LIMITED",
+        "handle": "OMV-AS-AP"
+    },
+    "138041": {
+        "country_code": "NZ",
+        "asn": "138041",
+        "description": "Telco2 Limited",
+        "handle": "TELCO2-AS-AP"
+    },
+    "138187": {
+        "country_code": "NZ",
+        "asn": "138187",
+        "description": "AYONE COMPUTERS LIMITED",
+        "handle": "LOUDNCLEAR-AS-AP"
+    },
+    "138189": {
+        "country_code": "NZ",
+        "asn": "138189",
+        "description": "Securecom Ltd",
+        "handle": "SECURECOM-NZ-AS-AP"
+    },
+    "138348": {
+        "country_code": "NZ",
+        "asn": "138348",
+        "description": "Antarctica New Zealand",
+        "handle": "ANTARCTICANZ-AS-AP"
+    },
+    "138355": {
+        "country_code": "NZ",
+        "asn": "138355",
+        "description": "Warner Telecommunication LTD",
+        "handle": "WARNERTELECOM-AS-AP"
+    },
+    "138360": {
+        "country_code": "NZ",
+        "asn": "138360",
+        "description": "Southern Cross Medical Care Society",
+        "handle": "SCMCS-AS-AP"
+    },
+    "138398": {
+        "country_code": "NZ",
+        "asn": "138398",
+        "description": "Prodigi Technology Services Limited",
+        "handle": "PRODIGI-AS-AP"
+    },
+    "138399": {
+        "country_code": "NZ",
+        "asn": "138399",
+        "description": "Vadacom Limited",
+        "handle": "VADACOMLIMITED-AS-AP"
+    },
+    "138410": {
+        "country_code": "NZ",
+        "asn": "138410",
+        "description": "University of Waikato",
+        "handle": "WAIKATOUNI-AS-AP"
+    },
+    "138686": {
+        "country_code": "NZ",
+        "asn": "138686",
+        "description": "AWACS Communications (NZ) Limited",
+        "handle": "ACL-AS-AP"
+    },
+    "138943": {
+        "country_code": "NZ",
+        "asn": "138943",
+        "description": "Connectnet Services Limited",
+        "handle": "CNS247-AS-AP"
+    },
+    "138973": {
+        "country_code": "NZ",
+        "asn": "138973",
+        "description": "Campbell Technology Limited",
+        "handle": "CAMPBELL-AS-AP"
+    },
+    "138976": {
+        "country_code": "NZ",
+        "asn": "138976",
+        "description": "NEW ZEALAND PHARMACEUTICALS LIMITED",
+        "handle": "NZPL-AS-AP"
+    },
+    "138980": {
+        "country_code": "NZ",
+        "asn": "138980",
+        "description": "MEGA CLOUD SERVICES LIMITED",
+        "handle": "MEGACLOUDSERVICESLIMITED-AS-AP"
+    },
+    "139005": {
+        "country_code": "NZ",
+        "asn": "139005",
+        "description": "Vivid Computers Ltd",
+        "handle": "VCL-AS-AP"
+    },
+    "139020": {
+        "country_code": "NZ",
+        "asn": "139020",
+        "description": "CloudLink Communications",
+        "handle": "CLOUDLINK-AS-AP"
+    },
+    "139046": {
+        "country_code": "NZ",
+        "asn": "139046",
+        "description": "Nextro LP",
+        "handle": "NEXTRO-AS-AP"
+    },
+    "139054": {
+        "country_code": "NZ",
+        "asn": "139054",
+        "description": "Auckland Data Centre Limited",
+        "handle": "DATACENTRELIMITED-AS-AP"
+    },
+    "139074": {
+        "country_code": "NZ",
+        "asn": "139074",
+        "description": "Prodigi Technology Services Limited",
+        "handle": "PRODIGI-AS-AP"
+    },
+    "139078": {
+        "country_code": "NZ",
+        "asn": "139078",
+        "description": "Glow Networks Ltd",
+        "handle": "GLOWNETWORKSLTD-AS-AP"
+    },
+    "139200": {
+        "country_code": "NZ",
+        "asn": "139200",
+        "description": "Arthur D. Riley and Company Limited",
+        "handle": "ADRACL-AS-AP"
+    },
+    "139271": {
+        "country_code": "NZ",
+        "asn": "139271",
+        "description": "Simpson Grierson Limited",
+        "handle": "SIMPSONGRIERSON-AS-AP"
+    },
+    "139272": {
+        "country_code": "NZ",
+        "asn": "139272",
+        "description": "Te Pukenga - New Zealand Institute of Skills and Technology",
+        "handle": "EIT-AS-AP"
+    },
+    "139275": {
+        "country_code": "NZ",
+        "asn": "139275",
+        "description": "Watercare Services Limited",
+        "handle": "WATERCARE-NON-AS-AP"
+    },
+    "139310": {
+        "country_code": "NZ",
+        "asn": "139310",
+        "description": "Mackenzie Agricultural Technologies",
+        "handle": "MATNET-AS-AP"
+    },
+    "139336": {
+        "country_code": "NZ",
+        "asn": "139336",
+        "description": "Freedom Internet Ltd.",
+        "handle": "FREEDOMINTERNET-LTD-AS-AP"
+    },
+    "139359": {
+        "country_code": "NZ",
+        "asn": "139359",
+        "description": "New Solutions Group Limited",
+        "handle": "NSG-AS-AP"
+    },
+    "139580": {
+        "country_code": "NZ",
+        "asn": "139580",
+        "description": "RIMU HOSTING LIMITED",
+        "handle": "RIMUHOSTING-AS-AP"
+    },
+    "139656": {
+        "country_code": "NZ",
+        "asn": "139656",
+        "description": "ANZ BANK NEW ZEALAND LIMITED",
+        "handle": "ANZNATIONAL-AS-AP"
+    },
+    "139681": {
+        "country_code": "NZ",
+        "asn": "139681",
+        "description": "Dynamic Computer Services Limited",
+        "handle": "DCSL-AS-AP"
+    },
+    "139694": {
+        "country_code": "NZ",
+        "asn": "139694",
+        "description": "Kiwibank Limited",
+        "handle": "KIWIBANK-AS-KAP"
+    },
+    "139695": {
+        "country_code": "NZ",
+        "asn": "139695",
+        "description": "Kiwibank Limited",
+        "handle": "KIWIBANK-AS-ORB"
+    },
+    "139707": {
+        "country_code": "NZ",
+        "asn": "139707",
+        "description": "Radford Software Limited",
+        "handle": "RSL-AS-AP"
+    },
+    "139744": {
+        "country_code": "NZ",
+        "asn": "139744",
+        "description": "Health New Zealand",
+        "handle": "HEALTHNEWZEALAND-AS-AP"
+    },
+    "139748": {
+        "country_code": "NZ",
+        "asn": "139748",
+        "description": "Hawkes Bay District Health Board",
+        "handle": "HBDHB-AS-AP"
+    },
+    "139827": {
+        "country_code": "NZ",
+        "asn": "139827",
+        "description": "Zeald IP Limited",
+        "handle": "ZEALD-AS-AP"
+    },
+    "139828": {
+        "country_code": "NZ",
+        "asn": "139828",
+        "description": "Ministry of Social Development",
+        "handle": "MSD-AS-NZ"
+    },
+    "139861": {
+        "country_code": "NZ",
+        "asn": "139861",
+        "description": "Cloud Torque Global Limited",
+        "handle": "CLOUDTORQUE-AS-AP"
+    },
+    "139876": {
+        "country_code": "NZ",
+        "asn": "139876",
+        "description": "COSCO SHIPPING LINES (NEW ZEALAND) LIMITED",
+        "handle": "COSCOSHIPPING-AS-AP"
+    },
+    "139906": {
+        "country_code": "NZ",
+        "asn": "139906",
+        "description": "InSPire Net Ltd",
+        "handle": "INSPIRENET-AS-AP"
+    },
+    "140055": {
+        "country_code": "NZ",
+        "asn": "140055",
+        "description": "Timaru District Council",
+        "handle": "TIMARU-AS-AP"
+    },
+    "140089": {
+        "country_code": "NZ",
+        "asn": "140089",
+        "description": "Turners Automotive Group Limited",
+        "handle": "TAGL-AS-AP"
+    },
+    "140095": {
+        "country_code": "NZ",
+        "asn": "140095",
+        "description": "Morlock Networks",
+        "handle": "MORLOCK-AS-AP"
+    },
+    "140220": {
+        "country_code": "NZ",
+        "asn": "140220",
+        "description": "Sky Network Television Ltd",
+        "handle": "SKYTELEVISION-AS-AP"
+    },
+    "140548": {
+        "country_code": "NZ",
+        "asn": "140548",
+        "description": "Reserve Bank of New Zealand",
+        "handle": "RBNZ-AS-AP"
+    },
+    "140602": {
+        "country_code": "NZ",
+        "asn": "140602",
+        "description": "Enable Services Limited",
+        "handle": "ENABLE-AS-AP"
+    },
+    "140679": {
+        "country_code": "NZ",
+        "asn": "140679",
+        "description": "Our School Ltd",
+        "handle": "OSL-AS-AP"
+    },
+    "140680": {
+        "country_code": "NZ",
+        "asn": "140680",
+        "description": "NRG Automation Ltd",
+        "handle": "NRGAUTOMATIONLTD-AS-AP"
+    },
+    "140685": {
+        "country_code": "NZ",
+        "asn": "140685",
+        "description": "CHAPMAN TRIPP HOLDINGS LIMITED",
+        "handle": "CHAPMAN-AS-AP"
+    },
+    "140839": {
+        "country_code": "NZ",
+        "asn": "140839",
+        "description": "Lantech Limited",
+        "handle": "LANTECHLIMITED-AS-AP"
+    },
+    "140844": {
+        "country_code": "NZ",
+        "asn": "140844",
+        "description": "Power Wireless Ltd",
+        "handle": "POWERWIRELESSLTD-AS-AP"
+    },
+    "140851": {
+        "country_code": "NZ",
+        "asn": "140851",
+        "description": "Ryman Healthcare Limited",
+        "handle": "RHL-AS-AP"
+    },
+    "140869": {
+        "country_code": "NZ",
+        "asn": "140869",
+        "description": "Turing Group Limited",
+        "handle": "TGL-AS-AP"
+    },
+    "140870": {
+        "country_code": "NZ",
+        "asn": "140870",
+        "description": "Accelerate Wireless Limited",
+        "handle": "ACCELERATE1-AS-AP"
+    },
+    "140872": {
+        "country_code": "NZ",
+        "asn": "140872",
+        "description": "Catalyst Cloud Limited",
+        "handle": "CATALYSTCLOUD-AS-AP"
+    },
+    "140874": {
+        "country_code": "NZ",
+        "asn": "140874",
+        "description": "Rapidweb Networks Limited",
+        "handle": "RNL-AS-AP"
+    },
+    "141007": {
+        "country_code": "NZ",
+        "asn": "141007",
+        "description": "GLG TRUSTEES LIMITED",
+        "handle": "GLG-AS-AP"
+    },
+    "141040": {
+        "country_code": "NZ",
+        "asn": "141040",
+        "description": "CHELMER LIMITED",
+        "handle": "CHELMER-NON-AS-AP"
+    },
+    "141183": {
+        "country_code": "NZ",
+        "asn": "141183",
+        "description": "Kiwibank Limited",
+        "handle": "KIWIBANK-AS-AP"
+    },
+    "141186": {
+        "country_code": "NZ",
+        "asn": "141186",
+        "description": "Forsyth Barr Limited",
+        "handle": "FBL-AS-AP"
+    },
+    "141226": {
+        "country_code": "NZ",
+        "asn": "141226",
+        "description": "Engage Technology Limited",
+        "handle": "ETL-AS-AP"
+    },
+    "141228": {
+        "country_code": "NZ",
+        "asn": "141228",
+        "description": "Monitor New Zealand Limited",
+        "handle": "MNZL-AS-AP"
+    },
+    "141233": {
+        "country_code": "NZ",
+        "asn": "141233",
+        "description": "FULL FLAVOUR LIMITED",
+        "handle": "FFL-AS-AP"
+    },
+    "141382": {
+        "country_code": "NZ",
+        "asn": "141382",
+        "description": "Fulton Hogan Limited",
+        "handle": "FULTONHOGANLIMITED-AS-AP"
+    },
+    "141413": {
+        "country_code": "NZ",
+        "asn": "141413",
+        "description": "KAMAR Limited",
+        "handle": "KAMARLIMITED-AS-AP"
+    },
+    "141693": {
+        "country_code": "NZ",
+        "asn": "141693",
+        "description": "Unix Co LTD",
+        "handle": "UNIXCOLTD-AS-AP"
+    },
+    "141710": {
+        "country_code": "NZ",
+        "asn": "141710",
+        "description": "InSPire Net Ltd",
+        "handle": "INSPIRENET-AS-AP"
+    },
+    "141720": {
+        "country_code": "NZ",
+        "asn": "141720",
+        "description": "Blast Internet Ltd",
+        "handle": "BLASTINTERNET-AS-AP"
+    },
+    "141764": {
+        "country_code": "NZ",
+        "asn": "141764",
+        "description": "Woi",
+        "handle": "MCL-AS-AP"
+    },
+    "141769": {
+        "country_code": "NZ",
+        "asn": "141769",
+        "description": "iTCo Solutions Limited",
+        "handle": "ITCO1-AS-AP"
+    },
+    "141775": {
+        "country_code": "NZ",
+        "asn": "141775",
+        "description": "Wireless Dynamics Limited",
+        "handle": "WDL-AS-AP"
+    },
+    "141779": {
+        "country_code": "NZ",
+        "asn": "141779",
+        "description": "OXYGENIT LIMITED",
+        "handle": "OXYGENITLIMITED-AS-AP"
+    },
+    "142178": {
+        "country_code": "NZ",
+        "asn": "142178",
+        "description": "Earthlight Communications LTD",
+        "handle": "ECL-AS-AP"
+    },
+    "142197": {
+        "country_code": "NZ",
+        "asn": "142197",
+        "description": "LRAE Comms Group Ltd",
+        "handle": "LRAE-AS-AP"
+    },
+    "142601": {
+        "country_code": "NZ",
+        "asn": "142601",
+        "description": "TILLERED LIMITED",
+        "handle": "TILLERED-AS-AP"
+    },
+    "142602": {
+        "country_code": "NZ",
+        "asn": "142602",
+        "description": "Contact Energy Limited",
+        "handle": "CONTACTENERGY-AS-AP"
+    },
+    "147012": {
+        "country_code": "NZ",
+        "asn": "147012",
+        "description": "Liverton Security",
+        "handle": "LIVERTON1-AS-AP"
+    },
+    "147045": {
+        "country_code": "NZ",
+        "asn": "147045",
+        "description": "Mercury NZ Limited",
+        "handle": "MERCURYNZ-AS-AP"
+    },
+    "147051": {
+        "country_code": "NZ",
+        "asn": "147051",
+        "description": "Ethanet Limited",
+        "handle": "ETH-AS-AP"
+    },
+    "147067": {
+        "country_code": "NZ",
+        "asn": "147067",
+        "description": "WEL Networks Ltd",
+        "handle": "WELNETWORKSLTD-AS-AP"
+    },
+    "149052": {
+        "country_code": "NZ",
+        "asn": "149052",
+        "description": "Big Noise Group Limited",
+        "handle": "BGL-AS-AP"
+    },
+    "149301": {
+        "country_code": "NZ",
+        "asn": "149301",
+        "description": "Askja Telecom Limited",
+        "handle": "ATL-AS-AP"
+    },
+    "149310": {
+        "country_code": "NZ",
+        "asn": "149310",
+        "description": "Layer3 Limited",
+        "handle": "LAYER3LIMITED-AS-AP"
+    },
+    "149479": {
+        "country_code": "NZ",
+        "asn": "149479",
+        "description": "TANK. Webservices Limited",
+        "handle": "TWL-AS-AP"
+    },
+    "149657": {
+        "country_code": "NZ",
+        "asn": "149657",
+        "description": "Internet Services Limited",
+        "handle": "ISP-AS-AP"
+    },
+    "149816": {
+        "country_code": "NZ",
+        "asn": "149816",
+        "description": "Kuwaha Internet Charitable Trust",
+        "handle": "KICT-AS-AP"
+    },
+    "149820": {
+        "country_code": "NZ",
+        "asn": "149820",
+        "description": "Epworth Corporation Limited",
+        "handle": "EPWORTHCORPORATION-AS-AP"
+    },
+    "150134": {
+        "country_code": "NZ",
+        "asn": "150134",
+        "description": "Whanganui District Health Board",
+        "handle": "WDHB-AS-AP"
+    },
+    "150154": {
+        "country_code": "NZ",
+        "asn": "150154",
+        "description": "CloudSquared",
+        "handle": "CLOUDSQUARED-AS-AP"
+    },
+    "150287": {
+        "country_code": "NZ",
+        "asn": "150287",
+        "description": "Tuatahi First Fibre Limited",
+        "handle": "TFFL-AS-AP"
+    },
+    "150409": {
+        "country_code": "NZ",
+        "asn": "150409",
+        "description": "Entity Communications Limited",
+        "handle": "ENTITY-AS-AP"
+    },
+    "150454": {
+        "country_code": "NZ",
+        "asn": "150454",
+        "description": "Flatnet Networks",
+        "handle": "DPL-AS-AP"
+    },
+    "150663": {
+        "country_code": "NZ",
+        "asn": "150663",
+        "description": "WombatNET Limited",
+        "handle": "WOMBATNET1-AS-AP"
+    },
+    "150723": {
+        "country_code": "NZ",
+        "asn": "150723",
+        "description": "Mega Limited",
+        "handle": "MEGA-AS-JP"
+    },
+    "150795": {
+        "country_code": "NZ",
+        "asn": "150795",
+        "description": "Braintrust Ltd",
+        "handle": "BRAINTRUST-AS-AP"
+    },
+    "151191": {
+        "country_code": "NZ",
+        "asn": "151191",
+        "description": "Select Solutions Limited",
+        "handle": "SSL-AS-AP"
+    },
+    "151208": {
+        "country_code": "NZ",
+        "asn": "151208",
+        "description": "Hero Internet Limited",
+        "handle": "HIL-AS-AP"
+    },
+    "151336": {
+        "country_code": "NZ",
+        "asn": "151336",
+        "description": "Verge Networks Limited",
+        "handle": "VERGE-AS-AP"
+    },
+    "151475": {
+        "country_code": "NZ",
+        "asn": "151475",
+        "description": "Caduceus Systems Limited",
+        "handle": "CADUCEUS-AS-AP"
+    },
+    "151607": {
+        "country_code": "NZ",
+        "asn": "151607",
+        "description": "Christchurch International Airport Ltd",
+        "handle": "CIAL-AS-AP"
+    },
+    "151612": {
+        "country_code": "NZ",
+        "asn": "151612",
+        "description": "HOSTPERL",
+        "handle": "HOSTPERL-AS-AP"
+    },
+    "151625": {
+        "country_code": "NZ",
+        "asn": "151625",
+        "description": "Aorangi EFTPOS 2020 Ltd",
+        "handle": "AE2L-AS-AP"
+    },
+    "151642": {
+        "country_code": "NZ",
+        "asn": "151642",
+        "description": "Netvine LTD",
+        "handle": "NETVINELTD-AS-AP"
+    },
+    "151645": {
+        "country_code": "NZ",
+        "asn": "151645",
+        "description": "Ministry of Justice",
+        "handle": "JUSTICE-AS-AP"
+    },
+    "151839": {
+        "country_code": "NZ",
+        "asn": "151839",
+        "description": "OJI FIBRE SOLUTIONS",
+        "handle": "OFSNL-AS-AP"
+    },
+    "151956": {
+        "country_code": "NZ",
+        "asn": "151956",
+        "description": "Earthlink",
+        "handle": "EARTHLINKLIMITED-AS-AP"
+    },
+    "152106": {
+        "country_code": "NZ",
+        "asn": "152106",
+        "description": "Turners and Growers Fresh Ltd",
+        "handle": "TAGFL-AS-AP"
+    },
+    "152108": {
+        "country_code": "NZ",
+        "asn": "152108",
+        "description": "NATC Limited",
+        "handle": "NATCLIMITED-AS-AP"
+    },
+    "152180": {
+        "country_code": "NZ",
+        "asn": "152180",
+        "description": "1C Limited",
+        "handle": "NETNAME-1CLIMITED-AS-AP"
+    },
+    "152596": {
+        "country_code": "NZ",
+        "asn": "152596",
+        "description": "Rodney Broadband Limited",
+        "handle": "RBL-AS-AP"
+    },
+    "152653": {
+        "country_code": "NZ",
+        "asn": "152653",
+        "description": "CHORUS NEW ZEALAND LIMITED",
+        "handle": "CHORUSLTD-AS-AP"
+    },
+    "152657": {
+        "country_code": "NZ",
+        "asn": "152657",
+        "description": "Department of Conservation",
+        "handle": "DOC-NON-AS-AP"
+    },
+    "152703": {
+        "country_code": "NZ",
+        "asn": "152703",
+        "description": "BAINZ",
+        "handle": "BAINZ-AS-AP"
+    },
+    "152851": {
+        "country_code": "NZ",
+        "asn": "152851",
+        "description": "RJOC Limited",
+        "handle": "RJOCLIMITED-AS-AP"
+    },
+    "152880": {
+        "country_code": "NZ",
+        "asn": "152880",
+        "description": "Mega Limited",
+        "handle": "MEGA-AS-NZ"
+    },
+    "152887": {
+        "country_code": "NZ",
+        "asn": "152887",
+        "description": "Alarm Watch Limited",
+        "handle": "ALARM-AS-AP"
+    },
+    "152888": {
+        "country_code": "NZ",
+        "asn": "152888",
+        "description": "Baycom Communications",
+        "handle": "BAYCOM-AS-AP"
+    },
+    "152909": {
+        "country_code": "NZ",
+        "asn": "152909",
+        "description": "SaferCities",
+        "handle": "SAFER-AS-AP"
+    },
+    "153036": {
+        "country_code": "NZ",
+        "asn": "153036",
+        "description": "Tait Limited",
+        "handle": "TAITLIMITED-AS-AP"
+    },
+    "153173": {
+        "country_code": "NZ",
+        "asn": "153173",
+        "description": "Information Technology Consultants Limited",
+        "handle": "ITCL-AS-AP"
+    },
+    "153180": {
+        "country_code": "NZ",
+        "asn": "153180",
+        "description": "Exaba",
+        "handle": "EXABA-AS-NZ"
+    },
+    "153306": {
+        "country_code": "NZ",
+        "asn": "153306",
+        "description": "VOIP HQ LIMITED",
+        "handle": "VOIPHQ-AS-AP"
+    },
+    "153312": {
+        "country_code": "NZ",
+        "asn": "153312",
+        "description": "BTIT Consulting Limited",
+        "handle": "BTIT-AS-AP"
+    },
+    "153350": {
+        "country_code": "NZ",
+        "asn": "153350",
+        "description": "Orbit Broadband Limited",
+        "handle": "OBL-AS-AP"
+    },
+    "153375": {
+        "country_code": "NZ",
+        "asn": "153375",
+        "description": "COVER COMMUNICATIONS LIMITED",
+        "handle": "COVER-AS-AP"
+    },
+    "153389": {
+        "country_code": "NZ",
+        "asn": "153389",
+        "description": "Tasman District Council",
+        "handle": "TASMAN-AS-AP"
+    },
+    "153399": {
+        "country_code": "NZ",
+        "asn": "153399",
+        "description": "Tu Atea Limited",
+        "handle": "TUATEALIMITED-AS-AP"
+    },
+    "153850": {
+        "country_code": "NZ",
+        "asn": "153850",
+        "description": "Resolve Technology Limited",
+        "handle": "RTL-AS-AP"
+    },
+    "153979": {
+        "country_code": "NZ",
+        "asn": "153979",
+        "description": "Maximum Control Limited",
+        "handle": "MAXCONTROL-AS-AP"
+    },
+    "154275": {
+        "country_code": "NZ",
+        "asn": "154275",
+        "description": "Silver Fern Farms Limited",
+        "handle": "SFFL-AS-AP"
+    },
+    "198501": {
+        "country_code": "NZ",
+        "asn": "198501",
+        "description": "Jasper Hugo",
+        "handle": "JASPERHUGO"
+    },
+    "199124": {
+        "country_code": "NZ",
+        "asn": "199124",
+        "description": "Mega Limited",
+        "handle": "MEGALIMITED"
+    },
+    "199334": {
+        "country_code": "NZ",
+        "asn": "199334",
+        "description": "RIGIL WEB TECHNOLOGIES LIMITED",
+        "handle": "RIGILWEB"
+    },
+    "201517": {
+        "country_code": "NZ",
+        "asn": "201517",
+        "description": "Tawhero Technology Limited",
+        "handle": "TAWHERO-TECH-AS"
+    },
+    "205809": {
+        "country_code": "NZ",
+        "asn": "205809",
+        "description": "MEGA Cloud Services Limited",
+        "handle": "MEGA"
+    },
+    "205810": {
+        "country_code": "NZ",
+        "asn": "205810",
+        "description": "Standard Platforms Limited",
+        "handle": "STANDARD-NET"
+    },
+    "214491": {
+        "country_code": "NZ",
+        "asn": "214491",
+        "description": "PC BUILDS HUB LIMITED",
+        "handle": "HOSTINGREMADE"
+    }
+}

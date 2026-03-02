@@ -1,0 +1,128 @@
+{
+    "20459": {
+        "country_code": "NA",
+        "asn": "20459",
+        "description": "Telecom Namibia",
+        "handle": "TELECOM-NAMIBIA-AS"
+    },
+    "22735": {
+        "country_code": "NA",
+        "asn": "22735",
+        "description": "Government of the Republic of Namibia",
+        "handle": "GOVT-NAMIBIA"
+    },
+    "36877": {
+        "country_code": "NA",
+        "asn": "36877",
+        "description": "Africa Online (Africa) (Pty) Ltd",
+        "handle": "AFRICA-ONLINE-AFRICA-PTY-LTD"
+    },
+    "36996": {
+        "country_code": "NA",
+        "asn": "36996",
+        "description": "Telecom Namibia",
+        "handle": "TELECOM-NAMIBIA"
+    },
+    "36999": {
+        "country_code": "NA",
+        "asn": "36999",
+        "description": "Telecom Namibia",
+        "handle": "TELECOM-NAMIBIA"
+    },
+    "37009": {
+        "country_code": "NA",
+        "asn": "37009",
+        "description": "MTC - Mobile Telecommunications Ltd.",
+        "handle": "MTCASN"
+    },
+    "37026": {
+        "country_code": "NA",
+        "asn": "37026",
+        "description": "Salt Essential Information Technology",
+        "handle": "SALT-ASN"
+    },
+    "37201": {
+        "country_code": "NA",
+        "asn": "37201",
+        "description": "Bank Windhoek",
+        "handle": "BANK-WINDHOEK"
+    },
+    "37513": {
+        "country_code": "NA",
+        "asn": "37513",
+        "description": "Namibia University of Science and Technology",
+        "handle": "POLYTECHNIC-NA"
+    },
+    "37694": {
+        "country_code": "NA",
+        "asn": "37694",
+        "description": "Internet Exchange Point Association of Namibia",
+        "handle": "IXP-NAMIBIA"
+    },
+    "327694": {
+        "country_code": "NA",
+        "asn": "327694",
+        "description": "NamPower",
+        "handle": "NAMPOWER"
+    },
+    "327842": {
+        "country_code": "NA",
+        "asn": "327842",
+        "description": "Trustco Group Holdings",
+        "handle": "TRUSTCO-GROUP-HOLDINGS"
+    },
+    "327865": {
+        "country_code": "NA",
+        "asn": "327865",
+        "description": "Mobile Telephone Networks Business Solutions (Namibia) (Proprietary) Limited",
+        "handle": "MTN-BUSINESS-NAMIBIA"
+    },
+    "328506": {
+        "country_code": "NA",
+        "asn": "328506",
+        "description": "Radio Electronic (Proprietary) Limited",
+        "handle": "RADIO-ELECTRONIC-PROPRIETARY-LIMITED"
+    },
+    "329067": {
+        "country_code": "NA",
+        "asn": "329067",
+        "description": "Click Cloud Hosting Services CC",
+        "handle": "CLICK"
+    },
+    "329115": {
+        "country_code": "NA",
+        "asn": "329115",
+        "description": "Africa Online (Africa) (Pty) Ltd",
+        "handle": "AOL3-AS"
+    },
+    "329395": {
+        "country_code": "NA",
+        "asn": "329395",
+        "description": "Rocketnet Internet Namibia Pty Ltd",
+        "handle": "ROCKETNET"
+    },
+    "329400": {
+        "country_code": "NA",
+        "asn": "329400",
+        "description": "Loc Eight Mobile (Pty) Ltd",
+        "handle": "LOC-EIGHT-MOBILE"
+    },
+    "329626": {
+        "country_code": "NA",
+        "asn": "329626",
+        "description": "Oryx Fibre Infrastructure (Pty) Ltd",
+        "handle": "ORYX-FIBRE-INFRASTRUCTURE-PTY-LTD"
+    },
+    "329665": {
+        "country_code": "NA",
+        "asn": "329665",
+        "description": "NamPower",
+        "handle": "GRIDONLINE"
+    },
+    "329698": {
+        "country_code": "NA",
+        "asn": "329698",
+        "description": "Canopus Technologies (PTY) Ltd",
+        "handle": "CANOPUS-TECHNOLOGIES"
+    }
+}

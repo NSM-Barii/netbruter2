@@ -1,0 +1,74 @@
+{
+    "16058": {
+        "country_code": "GA",
+        "asn": "16058",
+        "description": "Gabon Telecom / Office of Posts and Telecommunications of Gabon",
+        "handle": "GABON-TELECOM"
+    },
+    "37390": {
+        "country_code": "GA",
+        "asn": "37390",
+        "description": "iPi9",
+        "handle": "IPI9"
+    },
+    "37582": {
+        "country_code": "GA",
+        "asn": "37582",
+        "description": "Agence Nationale des Infrastructures Numeriques et des Frequences (ANINF)",
+        "handle": "ANINF"
+    },
+    "37616": {
+        "country_code": "GA",
+        "asn": "37616",
+        "description": "Airtel Gabon S.A",
+        "handle": "AIRTEL"
+    },
+    "37780": {
+        "country_code": "GA",
+        "asn": "37780",
+        "description": "Gabon Internet eXchange (Gab-IX)",
+        "handle": "GABIX-PEERING-AS"
+    },
+    "327796": {
+        "country_code": "GA",
+        "asn": "327796",
+        "description": "Gabon Internet eXchange (Gab-IX)",
+        "handle": "GABON-IX"
+    },
+    "327876": {
+        "country_code": "GA",
+        "asn": "327876",
+        "description": "Societe TLDC",
+        "handle": "SOCIETE-TLDC"
+    },
+    "328124": {
+        "country_code": "GA",
+        "asn": "328124",
+        "description": "DIGICOM",
+        "handle": "DIGICOM-AS"
+    },
+    "328304": {
+        "country_code": "GA",
+        "asn": "328304",
+        "description": "Waka",
+        "handle": "WAKA-AS"
+    },
+    "328429": {
+        "country_code": "GA",
+        "asn": "328429",
+        "description": "GENERAL BUSINESS MACHINES SA",
+        "handle": "GENERAL-BUSINESS-MACHINES-AS"
+    },
+    "328502": {
+        "country_code": "GA",
+        "asn": "328502",
+        "description": "STR AFRICA SA",
+        "handle": "STR-AFRICA-AS"
+    },
+    "329118": {
+        "country_code": "GA",
+        "asn": "329118",
+        "description": "AXIONE Gabon SA",
+        "handle": "AXIONE-GABON-SA"
+    }
+}

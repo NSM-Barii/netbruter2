@@ -1,0 +1,212 @@
+{
+    "33773": {
+        "country_code": "MW",
+        "asn": "33773",
+        "description": "NIC.MW",
+        "handle": "NIC-MW-AS1"
+    },
+    "36913": {
+        "country_code": "MW",
+        "asn": "36913",
+        "description": "TELEKOM NETWORKS MALAWI LTD",
+        "handle": "TELEKOM-NETWORKS-MALAWI"
+    },
+    "36944": {
+        "country_code": "MW",
+        "asn": "36944",
+        "description": "Ubuntunet Alliance For Research and Education Networking",
+        "handle": "UBUNTU-UNICAST-AS"
+    },
+    "36969": {
+        "country_code": "MW",
+        "asn": "36969",
+        "description": "Malawi Telecommunications Limited",
+        "handle": "MTL-AS"
+    },
+    "37098": {
+        "country_code": "MW",
+        "asn": "37098",
+        "description": "globe internet limited",
+        "handle": "GLOBE-AS"
+    },
+    "37187": {
+        "country_code": "MW",
+        "asn": "37187",
+        "description": "Inq. Digital Limited",
+        "handle": "SKYBAND"
+    },
+    "37215": {
+        "country_code": "MW",
+        "asn": "37215",
+        "description": "Malawi Research and Education Network - MAREN",
+        "handle": "MAREN"
+    },
+    "37294": {
+        "country_code": "MW",
+        "asn": "37294",
+        "description": "TELEKOM NETWORKS MALAWI LTD",
+        "handle": "TNM"
+    },
+    "37440": {
+        "country_code": "MW",
+        "asn": "37440",
+        "description": "Airtel Malawi Ltd",
+        "handle": "AIRTEL-MW"
+    },
+    "37651": {
+        "country_code": "MW",
+        "asn": "37651",
+        "description": "Malawi Internet Service Providers Association - MISPA",
+        "handle": "MIX-AS"
+    },
+    "37712": {
+        "country_code": "MW",
+        "asn": "37712",
+        "description": "National Integrated Technologies Limited",
+        "handle": "NATIONAL-INTEGRATED-TECHNOLOGIES-LIMITED"
+    },
+    "37713": {
+        "country_code": "MW",
+        "asn": "37713",
+        "description": "Access Communications Ltd",
+        "handle": "ACCESS-COMMUNICATIONS-LTD"
+    },
+    "37800": {
+        "country_code": "MW",
+        "asn": "37800",
+        "description": "Lilongwe Open Neutral Internet Exchange Limited",
+        "handle": "LILONGWE-OPEN-NEUTRAL-INTERNET-EXCHANGE-LIMITED"
+    },
+    "37802": {
+        "country_code": "MW",
+        "asn": "37802",
+        "description": "Malawi Internet Service Providers Association - MISPA",
+        "handle": "AS-LLIX-PEERING"
+    },
+    "327941": {
+        "country_code": "MW",
+        "asn": "327941",
+        "description": "SIMBANET MALAWI LIMITED",
+        "handle": "SIMBANET-MALAWI"
+    },
+    "328117": {
+        "country_code": "MW",
+        "asn": "328117",
+        "description": "FDH Bank Limited",
+        "handle": "FDH-BANK-AS"
+    },
+    "328300": {
+        "country_code": "MW",
+        "asn": "328300",
+        "description": "National Bank of Malawi",
+        "handle": "MALAWI-BANK-AS"
+    },
+    "328403": {
+        "country_code": "MW",
+        "asn": "328403",
+        "description": "Malawi Revenue Authority",
+        "handle": "MALAWI-REVENUE-AUTHORITY-AS"
+    },
+    "328489": {
+        "country_code": "MW",
+        "asn": "328489",
+        "description": "Malawi Internet Service Providers Association - MISPA",
+        "handle": "MISPA-MGMT-AS"
+    },
+    "328565": {
+        "country_code": "MW",
+        "asn": "328565",
+        "description": "NBS BANK PLC",
+        "handle": "NBS-BANK-LIMITED"
+    },
+    "328600": {
+        "country_code": "MW",
+        "asn": "328600",
+        "description": "BENGOL.NET LIMITED",
+        "handle": "BENGOL-NET-LIMITED-AS"
+    },
+    "328738": {
+        "country_code": "MW",
+        "asn": "328738",
+        "description": "Youth Net and Counselling",
+        "handle": "YOUTH-NET-COUNSELLING"
+    },
+    "328811": {
+        "country_code": "MW",
+        "asn": "328811",
+        "description": "First Capital Bank PLC",
+        "handle": "FCB-AS"
+    },
+    "328844": {
+        "country_code": "MW",
+        "asn": "328844",
+        "description": "Afrimax Limited",
+        "handle": "AFRIMAX-MW"
+    },
+    "328919": {
+        "country_code": "MW",
+        "asn": "328919",
+        "description": "Open Connect Limited",
+        "handle": "OCL-AS"
+    },
+    "328949": {
+        "country_code": "MW",
+        "asn": "328949",
+        "description": "Converged Technology Networks Limited",
+        "handle": "CTNL1-AS"
+    },
+    "329220": {
+        "country_code": "MW",
+        "asn": "329220",
+        "description": "Department of E-Government",
+        "handle": "DEPARTMENT-OF-E-GOVERNMENT"
+    },
+    "329260": {
+        "country_code": "MW",
+        "asn": "329260",
+        "description": "Malawi Communications Regulatory Authority",
+        "handle": "MCRA1-AS"
+    },
+    "329333": {
+        "country_code": "MW",
+        "asn": "329333",
+        "description": "National Oil Company of Malawi Ltd",
+        "handle": "NATIONAL-OIL-COMPANY-OF-MALAWI"
+    },
+    "329335": {
+        "country_code": "MW",
+        "asn": "329335",
+        "description": "Department of HIV & AIDS and Viral Hepatitis",
+        "handle": "DEPARTMENT-OF-HIV-AIDS-AND-VIRAL-HEPATITIS"
+    },
+    "329427": {
+        "country_code": "MW",
+        "asn": "329427",
+        "description": "Electricity Supply Corporation of Malawi Ltd",
+        "handle": "ELECTRICITY-SUPPLY-CORPORATION-OF-MALAWI"
+    },
+    "329434": {
+        "country_code": "MW",
+        "asn": "329434",
+        "description": "Datacom.mw Limited",
+        "handle": "DATACOM-LIMITED"
+    },
+    "329483": {
+        "country_code": "MW",
+        "asn": "329483",
+        "description": "Malawi-Liverpool-Wellcome Trust Clinical Research Programme",
+        "handle": "MALAWI-LIVERPOOL-WELLCOME-TRUST-CLINICAL-RESEARCH-PROGRAMME"
+    },
+    "329493": {
+        "country_code": "MW",
+        "asn": "329493",
+        "description": "Malawi Internet Service Providers Association - MISPA",
+        "handle": "AS-LLIX-MGT"
+    },
+    "329663": {
+        "country_code": "MW",
+        "asn": "329663",
+        "description": "Malawi Research and Education Network - MAREN",
+        "handle": "PATIO"
+    }
+}

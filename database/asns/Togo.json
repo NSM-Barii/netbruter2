@@ -1,0 +1,68 @@
+{
+    "24691": {
+        "country_code": "TG",
+        "asn": "24691",
+        "description": "TogoTelecom Togo",
+        "handle": "TOGOTEL-AS"
+    },
+    "30982": {
+        "country_code": "TG",
+        "asn": "30982",
+        "description": "CAFE Informatique et telecommunications",
+        "handle": "CAFENET"
+    },
+    "37229": {
+        "country_code": "TG",
+        "asn": "37229",
+        "description": "ATLANTIQUE TELECOM TOGO",
+        "handle": "ATLANTIQUE-TELECOM-TG"
+    },
+    "37774": {
+        "country_code": "TG",
+        "asn": "37774",
+        "description": "Togo Internet Exchange Point (TGIX)",
+        "handle": "TGIX-PEERING-AS"
+    },
+    "328152": {
+        "country_code": "TG",
+        "asn": "328152",
+        "description": "Togo Internet Exchange Point (TGIX)",
+        "handle": "TGIX-MGMT-AS"
+    },
+    "328282": {
+        "country_code": "TG",
+        "asn": "328282",
+        "description": "TEOLIS SAU",
+        "handle": "TEOLIS-SAU"
+    },
+    "328293": {
+        "country_code": "TG",
+        "asn": "328293",
+        "description": "RESEAU D'EDUCATION ET DE RECHERCHE DU TOGO - TogoRER",
+        "handle": "RDED-AS"
+    },
+    "328463": {
+        "country_code": "TG",
+        "asn": "328463",
+        "description": "MINISTERE DES POSTES ET DE L'ECONOMIE NUMERIQUE",
+        "handle": "MINISTERE-DES-POSTES-TOGO-AS"
+    },
+    "328859": {
+        "country_code": "TG",
+        "asn": "328859",
+        "description": "HOSTEUR AFRICA SAS",
+        "handle": "HOSTEUR-AS"
+    },
+    "329010": {
+        "country_code": "TG",
+        "asn": "329010",
+        "description": "Soci\u00e9t\u00e9 d'Infrastructures Num\u00e9riques (SIN)",
+        "handle": "SDN1-AS"
+    },
+    "329683": {
+        "country_code": "TG",
+        "asn": "329683",
+        "description": "Autorit\u00e9 de R\u00e9gulation des Communications Electroniques et des Postes (ARCEP)",
+        "handle": "ARCEP"
+    }
+}

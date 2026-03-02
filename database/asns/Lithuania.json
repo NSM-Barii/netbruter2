@@ -1,0 +1,1280 @@
+{
+    "2847": {
+        "country_code": "LT",
+        "asn": "2847",
+        "description": "Kauno Technologijos Universitetas",
+        "handle": "LITNET"
+    },
+    "3266": {
+        "country_code": "LT",
+        "asn": "3266",
+        "description": "UAB Porenta",
+        "handle": "INTERLINK"
+    },
+    "5479": {
+        "country_code": "LT",
+        "asn": "5479",
+        "description": "Kauno Technologijos Universitetas",
+        "handle": "UNI-VILNIUS"
+    },
+    "5522": {
+        "country_code": "LT",
+        "asn": "5522",
+        "description": "Telia Lietuva AB",
+        "handle": "TELIA-LIETUVA"
+    },
+    "6769": {
+        "country_code": "LT",
+        "asn": "6769",
+        "description": "Kertinis valstybes telekomunikaciju centras",
+        "handle": "SICN"
+    },
+    "8314": {
+        "country_code": "LT",
+        "asn": "8314",
+        "description": "UAB Lrytas",
+        "handle": "UAB-LRYTAS"
+    },
+    "8486": {
+        "country_code": "LT",
+        "asn": "8486",
+        "description": "UAB Baltnetos komunikacijos",
+        "handle": "BNK-AS"
+    },
+    "8764": {
+        "country_code": "LT",
+        "asn": "8764",
+        "description": "Telia Lietuva AB",
+        "handle": "TELIA-LIETUVA"
+    },
+    "8849": {
+        "country_code": "LT",
+        "asn": "8849",
+        "description": "Melbikomas UAB",
+        "handle": "MELBICOM-EU-AS"
+    },
+    "8892": {
+        "country_code": "LT",
+        "asn": "8892",
+        "description": "UAB Skylink LT.",
+        "handle": "SKLNK"
+    },
+    "12539": {
+        "country_code": "LT",
+        "asn": "12539",
+        "description": "UAB Penki kontinentai",
+        "handle": "PENKI"
+    },
+    "13194": {
+        "country_code": "LT",
+        "asn": "13194",
+        "description": "UAB Bite Lietuva",
+        "handle": "BITE"
+    },
+    "13260": {
+        "country_code": "LT",
+        "asn": "13260",
+        "description": "SKUBA UAB",
+        "handle": "SKUBA"
+    },
+    "15419": {
+        "country_code": "LT",
+        "asn": "15419",
+        "description": "SC Lithuanian Radio and TV Center",
+        "handle": "LRTC-AS"
+    },
+    "15440": {
+        "country_code": "LT",
+        "asn": "15440",
+        "description": "UAB Baltnetos komunikacijos",
+        "handle": "BALTNETA"
+    },
+    "15908": {
+        "country_code": "LT",
+        "asn": "15908",
+        "description": "UAB Urbo bankas",
+        "handle": "AS-MEDBANK"
+    },
+    "15911": {
+        "country_code": "LT",
+        "asn": "15911",
+        "description": "Lietuvos Respublikos Seimo kanceliarija",
+        "handle": "SEIMAS-AS"
+    },
+    "15995": {
+        "country_code": "LT",
+        "asn": "15995",
+        "description": "AB SEB bankas",
+        "handle": "AB-SEB-BANKAS"
+    },
+    "16125": {
+        "country_code": "LT",
+        "asn": "16125",
+        "description": "UAB Cherry Servers",
+        "handle": "CHERRYSERVERS1-AS"
+    },
+    "20846": {
+        "country_code": "LT",
+        "asn": "20846",
+        "description": "UAB Parabole",
+        "handle": "PARABOLE-AS"
+    },
+    "21031": {
+        "country_code": "LT",
+        "asn": "21031",
+        "description": "UAB Elneta",
+        "handle": "ELNETA-AS"
+    },
+    "21211": {
+        "country_code": "LT",
+        "asn": "21211",
+        "description": "Penkiu kontinentu komunikaciju centras Ltd.",
+        "handle": "PENKI-AS"
+    },
+    "21412": {
+        "country_code": "LT",
+        "asn": "21412",
+        "description": "UAB Cgates",
+        "handle": "CGATES-AS"
+    },
+    "21420": {
+        "country_code": "LT",
+        "asn": "21420",
+        "description": "Swedbank AB",
+        "handle": "SWEDBANK-AS"
+    },
+    "24607": {
+        "country_code": "LT",
+        "asn": "24607",
+        "description": "UAB Ignitis grupes paslaugu centras",
+        "handle": "LENET"
+    },
+    "24645": {
+        "country_code": "LT",
+        "asn": "24645",
+        "description": "CSC Telecom UAB",
+        "handle": "CSC-TELECOM-LT"
+    },
+    "24825": {
+        "country_code": "LT",
+        "asn": "24825",
+        "description": "Lietuvos Respublikos Uzsienio reikalu ministerija",
+        "handle": "LTMFA-AS"
+    },
+    "24852": {
+        "country_code": "LT",
+        "asn": "24852",
+        "description": "UAB INIT",
+        "handle": "VINITA"
+    },
+    "24877": {
+        "country_code": "LT",
+        "asn": "24877",
+        "description": "UAB INIT",
+        "handle": "INIT"
+    },
+    "25190": {
+        "country_code": "LT",
+        "asn": "25190",
+        "description": "UAB Kauno interneto sistemos",
+        "handle": "KIS-AS"
+    },
+    "25406": {
+        "country_code": "LT",
+        "asn": "25406",
+        "description": "SPLIUS UAB",
+        "handle": "SPLIUS-AS"
+    },
+    "28917": {
+        "country_code": "LT",
+        "asn": "28917",
+        "description": "Fiord Networks UAB",
+        "handle": "FIORD-AS"
+    },
+    "30775": {
+        "country_code": "LT",
+        "asn": "30775",
+        "description": "UAB Worldline Lietuva",
+        "handle": "MKS-AS"
+    },
+    "31114": {
+        "country_code": "LT",
+        "asn": "31114",
+        "description": "Unifiedpost UAB",
+        "handle": "NAC-LT-AS"
+    },
+    "33922": {
+        "country_code": "LT",
+        "asn": "33922",
+        "description": "UAB Nacionalinis Telekomunikaciju Tinklas",
+        "handle": "NTT-LT-AS"
+    },
+    "34037": {
+        "country_code": "LT",
+        "asn": "34037",
+        "description": "VARDAS.LT UAB",
+        "handle": "VARDAS-LT-AS"
+    },
+    "34120": {
+        "country_code": "LT",
+        "asn": "34120",
+        "description": "Verslo Tiltas UAB",
+        "handle": "VT-ASN"
+    },
+    "34842": {
+        "country_code": "LT",
+        "asn": "34842",
+        "description": "Mano Busto prieziura UAB",
+        "handle": "RCS-LT"
+    },
+    "34857": {
+        "country_code": "LT",
+        "asn": "34857",
+        "description": "SPLIUS UAB",
+        "handle": "T-VARTAI-AS"
+    },
+    "34961": {
+        "country_code": "LT",
+        "asn": "34961",
+        "description": "UAB ALSO Lietuva",
+        "handle": "ALSO-AS"
+    },
+    "35135": {
+        "country_code": "LT",
+        "asn": "35135",
+        "description": "Bank of Lithuania",
+        "handle": "LBANK-AS"
+    },
+    "35384": {
+        "country_code": "LT",
+        "asn": "35384",
+        "description": "Lambda Creative MB",
+        "handle": "LAMBDA-CREATIVE"
+    },
+    "35441": {
+        "country_code": "LT",
+        "asn": "35441",
+        "description": "A. Judicko individuali imone",
+        "handle": "AJI"
+    },
+    "35500": {
+        "country_code": "LT",
+        "asn": "35500",
+        "description": "Western Union Processing Lithuania UAB",
+        "handle": "WESTERNUNION-AS"
+    },
+    "39007": {
+        "country_code": "LT",
+        "asn": "39007",
+        "description": "UAB Balticum TV",
+        "handle": "BALTICUM-TV-AS"
+    },
+    "39067": {
+        "country_code": "LT",
+        "asn": "39067",
+        "description": "ETANETAS UAB",
+        "handle": "ETANETAS"
+    },
+    "41228": {
+        "country_code": "LT",
+        "asn": "41228",
+        "description": "UAB Barbamia kirgudu",
+        "handle": "NNT-AS41228"
+    },
+    "41506": {
+        "country_code": "LT",
+        "asn": "41506",
+        "description": "AB Bankas SNORAS",
+        "handle": "SNORAS-AS"
+    },
+    "42181": {
+        "country_code": "LT",
+        "asn": "42181",
+        "description": "Sintagma UAB",
+        "handle": "ASSECO-LIETUVA-AS"
+    },
+    "42549": {
+        "country_code": "LT",
+        "asn": "42549",
+        "description": "UAB Baltnetos komunikacijos",
+        "handle": "BNK-AS"
+    },
+    "42657": {
+        "country_code": "LT",
+        "asn": "42657",
+        "description": "Telia Lietuva AB",
+        "handle": "INTERDATA-AS"
+    },
+    "42774": {
+        "country_code": "LT",
+        "asn": "42774",
+        "description": "Blue Bridge MSP UAB",
+        "handle": "BB-AS"
+    },
+    "42887": {
+        "country_code": "LT",
+        "asn": "42887",
+        "description": "ACC Distribution UAB",
+        "handle": "ACC-AS"
+    },
+    "42979": {
+        "country_code": "LT",
+        "asn": "42979",
+        "description": "UAB Baltnetos komunikacijos",
+        "handle": "ASGLBLCOM"
+    },
+    "43151": {
+        "country_code": "LT",
+        "asn": "43151",
+        "description": "UAB STARNITA",
+        "handle": "ASCLOUDCS"
+    },
+    "43482": {
+        "country_code": "LT",
+        "asn": "43482",
+        "description": "Mediafon UAB",
+        "handle": "MFLT-AS"
+    },
+    "43586": {
+        "country_code": "LT",
+        "asn": "43586",
+        "description": "UAB Porenta",
+        "handle": "INTERLINK"
+    },
+    "43627": {
+        "country_code": "LT",
+        "asn": "43627",
+        "description": "UAB Besmegeniai",
+        "handle": "KLI-AS"
+    },
+    "43700": {
+        "country_code": "LT",
+        "asn": "43700",
+        "description": "UAB Consilium Optimum",
+        "handle": "CO-AS"
+    },
+    "43811": {
+        "country_code": "LT",
+        "asn": "43811",
+        "description": "Telia Lietuva AB",
+        "handle": "TELIA-LIETUVA"
+    },
+    "44246": {
+        "country_code": "LT",
+        "asn": "44246",
+        "description": "UAB Bitosis",
+        "handle": "BITOSIS"
+    },
+    "44358": {
+        "country_code": "LT",
+        "asn": "44358",
+        "description": "Kauno Technologijos Universitetas",
+        "handle": "DOMREG-ANY-AS"
+    },
+    "44571": {
+        "country_code": "LT",
+        "asn": "44571",
+        "description": "Melbikomas UAB",
+        "handle": "NETVILLAGE-AS"
+    },
+    "44613": {
+        "country_code": "LT",
+        "asn": "44613",
+        "description": "UAB Ogmios Centras",
+        "handle": "OGMIOS-AS"
+    },
+    "44771": {
+        "country_code": "LT",
+        "asn": "44771",
+        "description": "SC Lithuanian Radio and TV Center",
+        "handle": "LRTC"
+    },
+    "47205": {
+        "country_code": "LT",
+        "asn": "47205",
+        "description": "Telia Lietuva AB",
+        "handle": "TELIA-LIETUVA"
+    },
+    "47341": {
+        "country_code": "LT",
+        "asn": "47341",
+        "description": "Torena II",
+        "handle": "AS-TORENA"
+    },
+    "47512": {
+        "country_code": "LT",
+        "asn": "47512",
+        "description": "AB Artea bankas",
+        "handle": "FINASTA-AS"
+    },
+    "47609": {
+        "country_code": "LT",
+        "asn": "47609",
+        "description": "UAB LTMD Networks",
+        "handle": "LTMD"
+    },
+    "47929": {
+        "country_code": "LT",
+        "asn": "47929",
+        "description": "UAB Baltnetos komunikacijos",
+        "handle": "BK-AS"
+    },
+    "49287": {
+        "country_code": "LT",
+        "asn": "49287",
+        "description": "Melbikomas UAB",
+        "handle": "SWIFTYCDN-AS"
+    },
+    "49550": {
+        "country_code": "LT",
+        "asn": "49550",
+        "description": "UAB Nacionalinis Telekomunikaciju Tinklas",
+        "handle": "NTT2-LT-AS"
+    },
+    "49602": {
+        "country_code": "LT",
+        "asn": "49602",
+        "description": "Private Limited Liability Company KRENA",
+        "handle": "KRENA"
+    },
+    "49912": {
+        "country_code": "LT",
+        "asn": "49912",
+        "description": "UAB Moletu radijas ir televizija",
+        "handle": "MRTV"
+    },
+    "50065": {
+        "country_code": "LT",
+        "asn": "50065",
+        "description": "UAB Saulenet",
+        "handle": "SAULENET"
+    },
+    "50098": {
+        "country_code": "LT",
+        "asn": "50098",
+        "description": "Melbikomas UAB",
+        "handle": "AS-CLOUVO"
+    },
+    "50256": {
+        "country_code": "LT",
+        "asn": "50256",
+        "description": "State Enterprise Agriculture Information and Rural Business Center",
+        "handle": "VIC-AS"
+    },
+    "50297": {
+        "country_code": "LT",
+        "asn": "50297",
+        "description": "Infium UAB",
+        "handle": "INFIUM"
+    },
+    "50320": {
+        "country_code": "LT",
+        "asn": "50320",
+        "description": "Laisvas ir nepriklausomas kanalas UAB",
+        "handle": "LNK-AS"
+    },
+    "50610": {
+        "country_code": "LT",
+        "asn": "50610",
+        "description": "AB Lietuvos gelezinkeliai",
+        "handle": "LITRAIL"
+    },
+    "50962": {
+        "country_code": "LT",
+        "asn": "50962",
+        "description": "UAB Roventa",
+        "handle": "ROVENTA-AS-LT"
+    },
+    "51107": {
+        "country_code": "LT",
+        "asn": "51107",
+        "description": "UAB Bartus pro",
+        "handle": "DOMENAIAS"
+    },
+    "51172": {
+        "country_code": "LT",
+        "asn": "51172",
+        "description": "Kauno Technologijos Universitetas",
+        "handle": "DOMREG-UNI-AS"
+    },
+    "51247": {
+        "country_code": "LT",
+        "asn": "51247",
+        "description": "Serverio technologijos MB",
+        "handle": "SERVERIOTECHNOLOGIJOS-AS"
+    },
+    "51259": {
+        "country_code": "LT",
+        "asn": "51259",
+        "description": "Arcus Novus UAB",
+        "handle": "ARCUS"
+    },
+    "51388": {
+        "country_code": "LT",
+        "asn": "51388",
+        "description": "UAB Marsatas",
+        "handle": "MARSATAS-LT-AS"
+    },
+    "51719": {
+        "country_code": "LT",
+        "asn": "51719",
+        "description": "UAB GF bankas",
+        "handle": "GENFIN"
+    },
+    "51802": {
+        "country_code": "LT",
+        "asn": "51802",
+        "description": "EPS LT UAB",
+        "handle": "EPS-AS"
+    },
+    "56413": {
+        "country_code": "LT",
+        "asn": "56413",
+        "description": "UAB Proservis",
+        "handle": "PROSERVIS-AS"
+    },
+    "56630": {
+        "country_code": "LT",
+        "asn": "56630",
+        "description": "Melbikomas UAB",
+        "handle": "MELBICOM-EU-AS"
+    },
+    "56847": {
+        "country_code": "LT",
+        "asn": "56847",
+        "description": "V.Ivanciko individuali imone Zaibas",
+        "handle": "ZAIBAS"
+    },
+    "57289": {
+        "country_code": "LT",
+        "asn": "57289",
+        "description": "UAB Infoseka",
+        "handle": "INFOSEKA"
+    },
+    "58146": {
+        "country_code": "LT",
+        "asn": "58146",
+        "description": "UAB Delska Lithuania",
+        "handle": "LITIX"
+    },
+    "59642": {
+        "country_code": "LT",
+        "asn": "59642",
+        "description": "UAB Cherry Servers",
+        "handle": "CHERRYSERVERS2-AS"
+    },
+    "59821": {
+        "country_code": "LT",
+        "asn": "59821",
+        "description": "HyperOps UAB",
+        "handle": "HYPEROPS"
+    },
+    "59874": {
+        "country_code": "LT",
+        "asn": "59874",
+        "description": "Vinted UAB",
+        "handle": "VINTED"
+    },
+    "59939": {
+        "country_code": "LT",
+        "asn": "59939",
+        "description": "WIBO Baltic UAB",
+        "handle": "WIBO-AS"
+    },
+    "60099": {
+        "country_code": "LT",
+        "asn": "60099",
+        "description": "UAB Radijo elektronines sistemos",
+        "handle": "RES"
+    },
+    "61053": {
+        "country_code": "LT",
+        "asn": "61053",
+        "description": "UAB ESNET",
+        "handle": "VPSNET-AS"
+    },
+    "61091": {
+        "country_code": "LT",
+        "asn": "61091",
+        "description": "UAB Diginet LTU",
+        "handle": "PLIUS-AS"
+    },
+    "61272": {
+        "country_code": "LT",
+        "asn": "61272",
+        "description": "Informacines sistemos ir technologijos UAB",
+        "handle": "IST-AS"
+    },
+    "62179": {
+        "country_code": "LT",
+        "asn": "62179",
+        "description": "UAB Ecofon",
+        "handle": "ECOFON"
+    },
+    "62260": {
+        "country_code": "LT",
+        "asn": "62260",
+        "description": "AB LIETUVOS PASTAS",
+        "handle": "LIETUVOS-PASTAS"
+    },
+    "62282": {
+        "country_code": "LT",
+        "asn": "62282",
+        "description": "UAB Delska Lithuania",
+        "handle": "RACKRAY"
+    },
+    "62304": {
+        "country_code": "LT",
+        "asn": "62304",
+        "description": "MB Go live",
+        "handle": "MB-GO-LIVE"
+    },
+    "133944": {
+        "country_code": "LT",
+        "asn": "133944",
+        "description": "trafficforce UAB",
+        "handle": "TRAFFICFORCE-INTERNET-SERVICES"
+    },
+    "149428": {
+        "country_code": "LT",
+        "asn": "149428",
+        "description": "Code200 UAB",
+        "handle": "CODE200-AS-AP"
+    },
+    "150445": {
+        "country_code": "LT",
+        "asn": "150445",
+        "description": "Getechbrothers",
+        "handle": "MBGETECHBROTHERS-AS-AP"
+    },
+    "196852": {
+        "country_code": "LT",
+        "asn": "196852",
+        "description": "Valstybine ligoniu kasa prie Sveikatos apsaugos ministerijos",
+        "handle": "VLK-AS"
+    },
+    "197225": {
+        "country_code": "LT",
+        "asn": "197225",
+        "description": "UAB Airnet TV",
+        "handle": "AIRNET"
+    },
+    "198009": {
+        "country_code": "LT",
+        "asn": "198009",
+        "description": "Ashburn International Ltd.",
+        "handle": "AI-AS"
+    },
+    "198345": {
+        "country_code": "LT",
+        "asn": "198345",
+        "description": "Viesoji istaiga Vilniaus universiteto bustas",
+        "handle": "VUB-AS"
+    },
+    "198651": {
+        "country_code": "LT",
+        "asn": "198651",
+        "description": "HOSTLINE UAB",
+        "handle": "HOSTLINE"
+    },
+    "199527": {
+        "country_code": "LT",
+        "asn": "199527",
+        "description": "UAB Bite Lietuva",
+        "handle": "BITE-LT-AS"
+    },
+    "199737": {
+        "country_code": "LT",
+        "asn": "199737",
+        "description": "Nerijus Kriauciunas",
+        "handle": "NERIJUS-KRIAUCIUNAS"
+    },
+    "200017": {
+        "country_code": "LT",
+        "asn": "200017",
+        "description": "Elisteka UAB",
+        "handle": "ECOLANDO"
+    },
+    "200216": {
+        "country_code": "LT",
+        "asn": "200216",
+        "description": "Honeygain UAB",
+        "handle": "HONEYGAIN"
+    },
+    "201096": {
+        "country_code": "LT",
+        "asn": "201096",
+        "description": "UAB Eltida",
+        "handle": "ELTIDA"
+    },
+    "201182": {
+        "country_code": "LT",
+        "asn": "201182",
+        "description": "IT Uoga MB",
+        "handle": "ITU"
+    },
+    "201201": {
+        "country_code": "LT",
+        "asn": "201201",
+        "description": "UAB Delska Lithuania",
+        "handle": "DATALOGISTICS"
+    },
+    "201207": {
+        "country_code": "LT",
+        "asn": "201207",
+        "description": "Getechbrothers MB",
+        "handle": "INT-GTB"
+    },
+    "201260": {
+        "country_code": "LT",
+        "asn": "201260",
+        "description": "UAB Porenta",
+        "handle": "ARIES"
+    },
+    "201341": {
+        "country_code": "LT",
+        "asn": "201341",
+        "description": "trafficforce UAB",
+        "handle": "CENTURION-INTERNET-SERVICES"
+    },
+    "201541": {
+        "country_code": "LT",
+        "asn": "201541",
+        "description": "Nedas Dozorec",
+        "handle": "MURASAKI-NET"
+    },
+    "201959": {
+        "country_code": "LT",
+        "asn": "201959",
+        "description": "Data Bank Group UAB",
+        "handle": "DATABANK-LT"
+    },
+    "202044": {
+        "country_code": "LT",
+        "asn": "202044",
+        "description": "Getechbrothers MB",
+        "handle": "GETECHBROTHERS-INTERNET"
+    },
+    "202085": {
+        "country_code": "LT",
+        "asn": "202085",
+        "description": "UAB Kvartalo Tinklas",
+        "handle": "KVT-AS"
+    },
+    "202304": {
+        "country_code": "LT",
+        "asn": "202304",
+        "description": "UAB Internetas Vilniuje",
+        "handle": "B4NET"
+    },
+    "202490": {
+        "country_code": "LT",
+        "asn": "202490",
+        "description": "Game Insight UAB",
+        "handle": "YRA-NSK"
+    },
+    "202496": {
+        "country_code": "LT",
+        "asn": "202496",
+        "description": "trafficforce UAB",
+        "handle": "PRIENAI-SCIENCES-INTERNET"
+    },
+    "202725": {
+        "country_code": "LT",
+        "asn": "202725",
+        "description": "ZetaNetas UAB",
+        "handle": "ZETANETAS"
+    },
+    "203061": {
+        "country_code": "LT",
+        "asn": "203061",
+        "description": "UAB code200",
+        "handle": "ITPROXIMUS"
+    },
+    "203098": {
+        "country_code": "LT",
+        "asn": "203098",
+        "description": "trafficforce UAB",
+        "handle": "TECH-INTERNET-BROADBAND"
+    },
+    "203783": {
+        "country_code": "LT",
+        "asn": "203783",
+        "description": "UAB Gurtam",
+        "handle": "GURTAM-IDNET-AS"
+    },
+    "204057": {
+        "country_code": "LT",
+        "asn": "204057",
+        "description": "Duomenu apdorojimo centras LTD",
+        "handle": "DCXV-AS"
+    },
+    "204315": {
+        "country_code": "LT",
+        "asn": "204315",
+        "description": "Game Insight UAB",
+        "handle": "YRA-LT"
+    },
+    "204335": {
+        "country_code": "LT",
+        "asn": "204335",
+        "description": "IT business solutions MB",
+        "handle": "STARTZ"
+    },
+    "204390": {
+        "country_code": "LT",
+        "asn": "204390",
+        "description": "UAB Magnetukas",
+        "handle": "MAGNETUKAS"
+    },
+    "204746": {
+        "country_code": "LT",
+        "asn": "204746",
+        "description": "UAB Bite Lietuva",
+        "handle": "BITE-CLOUD"
+    },
+    "204770": {
+        "country_code": "LT",
+        "asn": "204770",
+        "description": "UAB Cherry Servers",
+        "handle": "CHERRYSERVERS3-AS"
+    },
+    "204967": {
+        "country_code": "LT",
+        "asn": "204967",
+        "description": "Advokatu kontora Ellex Valiunas ir partneriai",
+        "handle": "ELLEX"
+    },
+    "205227": {
+        "country_code": "LT",
+        "asn": "205227",
+        "description": "IT business solutions MB",
+        "handle": "LTITBUSINESS"
+    },
+    "205659": {
+        "country_code": "LT",
+        "asn": "205659",
+        "description": "UAB code200",
+        "handle": "CODE200-ISP2"
+    },
+    "205686": {
+        "country_code": "LT",
+        "asn": "205686",
+        "description": "UAB DPD Lietuva",
+        "handle": "DPD-LT"
+    },
+    "205688": {
+        "country_code": "LT",
+        "asn": "205688",
+        "description": "UAB SERVERA",
+        "handle": "SERVERA"
+    },
+    "205964": {
+        "country_code": "LT",
+        "asn": "205964",
+        "description": "UAB code200",
+        "handle": "CODE200-180"
+    },
+    "206029": {
+        "country_code": "LT",
+        "asn": "206029",
+        "description": "UAB Attrel",
+        "handle": "ATTREL"
+    },
+    "206633": {
+        "country_code": "LT",
+        "asn": "206633",
+        "description": "Mantas Mikulenas",
+        "handle": "BROKEN-SYMLINK"
+    },
+    "207186": {
+        "country_code": "LT",
+        "asn": "207186",
+        "description": "Kauno Technologijos Universitetas",
+        "handle": "LT-RDNS"
+    },
+    "207291": {
+        "country_code": "LT",
+        "asn": "207291",
+        "description": "UAB Sender.lt",
+        "handle": "SENDER-AS"
+    },
+    "207452": {
+        "country_code": "LT",
+        "asn": "207452",
+        "description": "UAB BESK",
+        "handle": "BESK-AS"
+    },
+    "207785": {
+        "country_code": "LT",
+        "asn": "207785",
+        "description": "HOSTLINE UAB",
+        "handle": "HSTL"
+    },
+    "208084": {
+        "country_code": "LT",
+        "asn": "208084",
+        "description": "PAVLOV DMITRIY",
+        "handle": "ELVD"
+    },
+    "208119": {
+        "country_code": "LT",
+        "asn": "208119",
+        "description": "UAB Ruptela",
+        "handle": "RUPTELA"
+    },
+    "209161": {
+        "country_code": "LT",
+        "asn": "209161",
+        "description": "ALTIC IT UAB",
+        "handle": "ALANTIC"
+    },
+    "209461": {
+        "country_code": "LT",
+        "asn": "209461",
+        "description": "Game Insight UAB",
+        "handle": "YRA-TAGAN"
+    },
+    "209605": {
+        "country_code": "LT",
+        "asn": "209605",
+        "description": "UAB Host Baltic",
+        "handle": "HOSTBALTIC"
+    },
+    "209709": {
+        "country_code": "LT",
+        "asn": "209709",
+        "description": "UAB code200",
+        "handle": "CODE200-ISP1"
+    },
+    "209713": {
+        "country_code": "LT",
+        "asn": "209713",
+        "description": "Game Insight UAB",
+        "handle": "YRA-MURM"
+    },
+    "209989": {
+        "country_code": "LT",
+        "asn": "209989",
+        "description": "UAB Baltnetos komunikacijos",
+        "handle": "LRT-AS"
+    },
+    "210000": {
+        "country_code": "LT",
+        "asn": "210000",
+        "description": "TwentyWAN MB",
+        "handle": "TWENTYWAN-NETWORKS"
+    },
+    "210126": {
+        "country_code": "LT",
+        "asn": "210126",
+        "description": "DELFI UAB",
+        "handle": "DELFI"
+    },
+    "210162": {
+        "country_code": "LT",
+        "asn": "210162",
+        "description": "UAB Cherry Servers",
+        "handle": "CHERRYSERVERS7-AS"
+    },
+    "210175": {
+        "country_code": "LT",
+        "asn": "210175",
+        "description": "Lietuvos Interneto Paslaugu Teikeju Asociacija",
+        "handle": "LIPTA-AS"
+    },
+    "210242": {
+        "country_code": "LT",
+        "asn": "210242",
+        "description": "Game Insight UAB",
+        "handle": "YRA-NN"
+    },
+    "210647": {
+        "country_code": "LT",
+        "asn": "210647",
+        "description": "Light Conversion UAB",
+        "handle": "LIGHTCON"
+    },
+    "210906": {
+        "country_code": "LT",
+        "asn": "210906",
+        "description": "UAB Bite Lietuva",
+        "handle": "BITE-US"
+    },
+    "210948": {
+        "country_code": "LT",
+        "asn": "210948",
+        "description": "SPV-48 UAB",
+        "handle": "SPV-48"
+    },
+    "211336": {
+        "country_code": "LT",
+        "asn": "211336",
+        "description": "UAB Penki kontinentai",
+        "handle": "PENKI"
+    },
+    "211350": {
+        "country_code": "LT",
+        "asn": "211350",
+        "description": "UAB Data Business",
+        "handle": "DATABUSINESS-LT"
+    },
+    "211373": {
+        "country_code": "LT",
+        "asn": "211373",
+        "description": "Simoresta UAB",
+        "handle": "INTERNET-1"
+    },
+    "211415": {
+        "country_code": "LT",
+        "asn": "211415",
+        "description": "Karolio IT paslaugos UAB",
+        "handle": "INTERNET-4"
+    },
+    "211432": {
+        "country_code": "LT",
+        "asn": "211432",
+        "description": "Improvizus MB",
+        "handle": "IMPROVIZUS"
+    },
+    "211440": {
+        "country_code": "LT",
+        "asn": "211440",
+        "description": "Karolio IT paslaugos UAB",
+        "handle": "INTERNET-5"
+    },
+    "211614": {
+        "country_code": "LT",
+        "asn": "211614",
+        "description": "UAB Bite Lietuva",
+        "handle": "BITEMOBILE-LT"
+    },
+    "211743": {
+        "country_code": "LT",
+        "asn": "211743",
+        "description": "Astijus Griguola",
+        "handle": "MEOWCATTO-NETWORK"
+    },
+    "211832": {
+        "country_code": "LT",
+        "asn": "211832",
+        "description": "AB Artea bankas",
+        "handle": "ARTEA-LT"
+    },
+    "211872": {
+        "country_code": "LT",
+        "asn": "211872",
+        "description": "UAB Host Baltic",
+        "handle": "ALPHA-NETWORKS"
+    },
+    "212046": {
+        "country_code": "LT",
+        "asn": "212046",
+        "description": "UAB Mezon",
+        "handle": "MEZON-LT"
+    },
+    "212062": {
+        "country_code": "LT",
+        "asn": "212062",
+        "description": "UAB Worldline Lietuva",
+        "handle": "WLRDLN-EE"
+    },
+    "212102": {
+        "country_code": "LT",
+        "asn": "212102",
+        "description": "Litgrid AB",
+        "handle": "LITGRID"
+    },
+    "212144": {
+        "country_code": "LT",
+        "asn": "212144",
+        "description": "trafficforce UAB",
+        "handle": "FUTURE-NETWORK-01"
+    },
+    "212335": {
+        "country_code": "LT",
+        "asn": "212335",
+        "description": "Simoresta UAB",
+        "handle": "INTERNET-2"
+    },
+    "212384": {
+        "country_code": "LT",
+        "asn": "212384",
+        "description": "Simoresta UAB",
+        "handle": "INTERNET-3"
+    },
+    "212531": {
+        "country_code": "LT",
+        "asn": "212531",
+        "description": "UAB Interneto vizija",
+        "handle": "INTERNETO-VIZIJA"
+    },
+    "212609": {
+        "country_code": "LT",
+        "asn": "212609",
+        "description": "Karolio IT paslaugos UAB",
+        "handle": "INTERNET-6"
+    },
+    "212669": {
+        "country_code": "LT",
+        "asn": "212669",
+        "description": "Karolio IT paslaugos UAB",
+        "handle": "INTERNET-7"
+    },
+    "212822": {
+        "country_code": "LT",
+        "asn": "212822",
+        "description": "UAB EUROAPOTHECA",
+        "handle": "EUROAPOTHECA"
+    },
+    "212853": {
+        "country_code": "LT",
+        "asn": "212853",
+        "description": "MB Redfox Cloud",
+        "handle": "REDFOXCLOUD"
+    },
+    "212872": {
+        "country_code": "LT",
+        "asn": "212872",
+        "description": "Serverio technologijos MB",
+        "handle": "SERVERIO"
+    },
+    "212980": {
+        "country_code": "LT",
+        "asn": "212980",
+        "description": "UAB Atlantis Capital",
+        "handle": "UAB-ATLANTIS-CAPITAL"
+    },
+    "213365": {
+        "country_code": "LT",
+        "asn": "213365",
+        "description": "SBA COMPETENCE AND SERVICE CENTER UAB",
+        "handle": "AS15540"
+    },
+    "213476": {
+        "country_code": "LT",
+        "asn": "213476",
+        "description": "Litlink UAB",
+        "handle": "LITLINK"
+    },
+    "213586": {
+        "country_code": "LT",
+        "asn": "213586",
+        "description": "SM Consulting Services MB",
+        "handle": "SMCONSULTINGSERVICES"
+    },
+    "213772": {
+        "country_code": "LT",
+        "asn": "213772",
+        "description": "UAB Baltnetos komunikacijos",
+        "handle": "BK-CUST"
+    },
+    "213896": {
+        "country_code": "LT",
+        "asn": "213896",
+        "description": "UAB Cherry Servers",
+        "handle": "CHERRYSERVERS6-AS"
+    },
+    "214027": {
+        "country_code": "LT",
+        "asn": "214027",
+        "description": "Monotinklo sprendimai UAB",
+        "handle": "MONOVM-DE"
+    },
+    "214159": {
+        "country_code": "LT",
+        "asn": "214159",
+        "description": "UAB Cherry Servers",
+        "handle": "CHERRYSERVERS5-AS"
+    },
+    "214208": {
+        "country_code": "LT",
+        "asn": "214208",
+        "description": "Elisteka UAB",
+        "handle": "IPELIS"
+    },
+    "214794": {
+        "country_code": "LT",
+        "asn": "214794",
+        "description": "PAYAPP DIGITAL UAB",
+        "handle": "PAYAPP-DIGITAL"
+    },
+    "215038": {
+        "country_code": "LT",
+        "asn": "215038",
+        "description": "Fabrica Idearum MB",
+        "handle": "FABRICA-IDEARUM-1"
+    },
+    "215294": {
+        "country_code": "LT",
+        "asn": "215294",
+        "description": "Lumina broadband UAB",
+        "handle": "LUMINABROADBAND"
+    },
+    "215426": {
+        "country_code": "LT",
+        "asn": "215426",
+        "description": "MB Eisina",
+        "handle": "EISINA"
+    },
+    "215427": {
+        "country_code": "LT",
+        "asn": "215427",
+        "description": "UAB Revonia",
+        "handle": "REVONIA"
+    },
+    "215434": {
+        "country_code": "LT",
+        "asn": "215434",
+        "description": "Xantho UAB",
+        "handle": "XANTHO"
+    },
+    "215568": {
+        "country_code": "LT",
+        "asn": "215568",
+        "description": "MB Manding Data Venture",
+        "handle": "MANDING-DATA-VENTURE"
+    },
+    "215819": {
+        "country_code": "LT",
+        "asn": "215819",
+        "description": "IT business solutions MB",
+        "handle": "LTITBUSINESS3"
+    },
+    "215899": {
+        "country_code": "LT",
+        "asn": "215899",
+        "description": "Justas Gudynas",
+        "handle": "GUDIS-NET"
+    },
+    "215975": {
+        "country_code": "LT",
+        "asn": "215975",
+        "description": "Cloud Acropolis UAB",
+        "handle": "CALTRIPE"
+    },
+    "216050": {
+        "country_code": "LT",
+        "asn": "216050",
+        "description": "Lietparkas UAB",
+        "handle": "LIETPARK"
+    },
+    "216215": {
+        "country_code": "LT",
+        "asn": "216215",
+        "description": "Xantho UAB",
+        "handle": "XANTHO-IT"
+    },
+    "216349": {
+        "country_code": "LT",
+        "asn": "216349",
+        "description": "Getechbrothers MB",
+        "handle": "LEX-NET"
+    },
+    "216444": {
+        "country_code": "LT",
+        "asn": "216444",
+        "description": "UAB Cherry Servers",
+        "handle": "CHERRYSERVERS4-AS"
+    }
+}

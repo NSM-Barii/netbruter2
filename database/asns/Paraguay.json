@@ -1,0 +1,674 @@
+{
+    "23201": {
+        "country_code": "PY",
+        "asn": "23201",
+        "description": "Telecel S.A.",
+        "handle": "TELECEL"
+    },
+    "27669": {
+        "country_code": "PY",
+        "asn": "27669",
+        "description": "E-life Paraguay S.A.",
+        "handle": "E-LIFE-PARAGUAY"
+    },
+    "27727": {
+        "country_code": "PY",
+        "asn": "27727",
+        "description": "Consultronic S.A.E.C.A.",
+        "handle": "CONSULTRONIC-SAECA"
+    },
+    "27733": {
+        "country_code": "PY",
+        "asn": "27733",
+        "description": "Centro Nacional de Computacion",
+        "handle": "CENTRO-NACIONAL-COMPUTACION"
+    },
+    "27768": {
+        "country_code": "PY",
+        "asn": "27768",
+        "description": "COMPA\u00d1IA PARAGUAYA DE COMUNICACIONES S.A. (COPACO S.A.)",
+        "handle": "COMPANIA-PARAGUAYA-COMUNICACIONES"
+    },
+    "27795": {
+        "country_code": "PY",
+        "asn": "27795",
+        "description": "Netvision S.A.",
+        "handle": "NETVISION"
+    },
+    "27866": {
+        "country_code": "PY",
+        "asn": "27866",
+        "description": "COMPA\u00d1IA PARAGUAYA DE COMUNICACIONES S.A. (COPACO S.A.)",
+        "handle": "COMPANIA-PARAGUAYA-COMUNICACIONES"
+    },
+    "27895": {
+        "country_code": "PY",
+        "asn": "27895",
+        "description": "N\u00facleo S.A.",
+        "handle": "NUCLEO"
+    },
+    "28008": {
+        "country_code": "PY",
+        "asn": "28008",
+        "description": "Telecel S.A.",
+        "handle": "TELECEL"
+    },
+    "28033": {
+        "country_code": "PY",
+        "asn": "28033",
+        "description": "Banco Familiar SAECA",
+        "handle": "BANCO-FAMILIAR-SAECA"
+    },
+    "28103": {
+        "country_code": "PY",
+        "asn": "28103",
+        "description": "TECNOLOGIA EN ELECTRONICA E INFORMATICA SOCIEDAD ANONIMA (T.E.I.S.A)",
+        "handle": "TECNOLOGIA-ELECTRONICA-INFORMATICA"
+    },
+    "52227": {
+        "country_code": "PY",
+        "asn": "52227",
+        "description": "Banco Itau Paraguay S.A.",
+        "handle": "BANCO-ITAU-PARAGUAY"
+    },
+    "52229": {
+        "country_code": "PY",
+        "asn": "52229",
+        "description": "Telecel S.A.",
+        "handle": "TELECEL"
+    },
+    "52418": {
+        "country_code": "PY",
+        "asn": "52418",
+        "description": "NETEL S.A.",
+        "handle": "NETEL"
+    },
+    "52445": {
+        "country_code": "PY",
+        "asn": "52445",
+        "description": "FINANCIERA PARAGUAYO JAPONESA S.A.",
+        "handle": "FINANCIERA-PARAGUAYO-JAPONESA"
+    },
+    "52455": {
+        "country_code": "PY",
+        "asn": "52455",
+        "description": "TEMPUS GROUP S.A.",
+        "handle": "TEMPUS-GROUP"
+    },
+    "61512": {
+        "country_code": "PY",
+        "asn": "61512",
+        "description": "GIG@NET SOCIEDAD ANONIMA",
+        "handle": "GIGNET-SOCIEDAD-ANONIMA"
+    },
+    "64159": {
+        "country_code": "PY",
+        "asn": "64159",
+        "description": "IX CDE SOCIEDAD AN\u00d3NIMA",
+        "handle": "IX-CDE-SOCIEDAD-ANONIMA"
+    },
+    "64165": {
+        "country_code": "PY",
+        "asn": "64165",
+        "description": "EXTRA S.A.",
+        "handle": "EXTRA"
+    },
+    "64170": {
+        "country_code": "PY",
+        "asn": "64170",
+        "description": "ASOCIACION PARAGUAYA DE PROVEEDORES DE INTERNET Y TELECOMUNICACIONES",
+        "handle": "ASOCIACION-PARAGUAYA-PROVEEDORES"
+    },
+    "262183": {
+        "country_code": "PY",
+        "asn": "262183",
+        "description": "MULTI LINK S.A.",
+        "handle": "MULTI-LINK"
+    },
+    "262250": {
+        "country_code": "PY",
+        "asn": "262250",
+        "description": "Direccion Nacional de Contrataciones Publicas",
+        "handle": "DIRECCION-NACIONAL-CONTRATACIONES"
+    },
+    "263169": {
+        "country_code": "PY",
+        "asn": "263169",
+        "description": "Vision Banco",
+        "handle": "VISION-BANCO"
+    },
+    "263192": {
+        "country_code": "PY",
+        "asn": "263192",
+        "description": "MEDITER S.R.L.",
+        "handle": "MEDITER"
+    },
+    "263228": {
+        "country_code": "PY",
+        "asn": "263228",
+        "description": "PLANET S.A.",
+        "handle": "PLANET"
+    },
+    "263717": {
+        "country_code": "PY",
+        "asn": "263717",
+        "description": "SOL TELECOMUNICACIONES S.A.",
+        "handle": "SOL-TELECOMUNICACIONES"
+    },
+    "263727": {
+        "country_code": "PY",
+        "asn": "263727",
+        "description": "Subsecretar\u00eda de Estado de Tributaci\u00f3n",
+        "handle": "SUBSECRETARIA-ESTADO-TRIBUTACION"
+    },
+    "263732": {
+        "country_code": "PY",
+        "asn": "263732",
+        "description": "PANDA CONECT S.A.",
+        "handle": "PANDA-CONECT"
+    },
+    "263750": {
+        "country_code": "PY",
+        "asn": "263750",
+        "description": "Douglas Back Pavan (SI NET)",
+        "handle": "DOUGLAS-BACK-PAVAN"
+    },
+    "263787": {
+        "country_code": "PY",
+        "asn": "263787",
+        "description": "CABLE VISI\u00d3N DEL SUR S.A",
+        "handle": "CABLE-VISION-SUR"
+    },
+    "263813": {
+        "country_code": "PY",
+        "asn": "263813",
+        "description": "iNet - Banda Ancha",
+        "handle": "INET-BANDA-ANCHA"
+    },
+    "264631": {
+        "country_code": "PY",
+        "asn": "264631",
+        "description": "RED PARAGUAYA DE TELECOMUNICACIONES SA",
+        "handle": "RED-PARAGUAYA-TELECOMUNICACIONES"
+    },
+    "264633": {
+        "country_code": "PY",
+        "asn": "264633",
+        "description": "BANCO GNB PARAGUAY SOCIEDAD ANONIMA EMISORA DE CAPITAL ABIERTO",
+        "handle": "BANCO-GNB-PARAGUAY"
+    },
+    "264705": {
+        "country_code": "PY",
+        "asn": "264705",
+        "description": "Secretaria Nacional de Tecnologias de la Informaci\u00f3n y Comunicaciones",
+        "handle": "SECRETARIA-NACIONAL-TECNOLOGIAS"
+    },
+    "264722": {
+        "country_code": "PY",
+        "asn": "264722",
+        "description": "Centro Nacional de Computacion",
+        "handle": "CENTRO-NACIONAL-COMPUTACION"
+    },
+    "264733": {
+        "country_code": "PY",
+        "asn": "264733",
+        "description": "CHACO COMUNICACIONES S.A.",
+        "handle": "CHACO-COMUNICACIONES"
+    },
+    "264756": {
+        "country_code": "PY",
+        "asn": "264756",
+        "description": "Cable Television Satelital SRL",
+        "handle": "CABLE-TELEVISION-SATELITAL"
+    },
+    "264770": {
+        "country_code": "PY",
+        "asn": "264770",
+        "description": "Leonir Remussi (KDMNET)",
+        "handle": "LEONIR-REMUSSI"
+    },
+    "264807": {
+        "country_code": "PY",
+        "asn": "264807",
+        "description": "Datapar SA",
+        "handle": "DATAPAR"
+    },
+    "264853": {
+        "country_code": "PY",
+        "asn": "264853",
+        "description": "UFINET PARAGUAY S.A.",
+        "handle": "UFINET-PARAGUAY"
+    },
+    "265728": {
+        "country_code": "PY",
+        "asn": "265728",
+        "description": "FLYNET SRL",
+        "handle": "FLYNET"
+    },
+    "265759": {
+        "country_code": "PY",
+        "asn": "265759",
+        "description": "VIVE TELECOM S.A.",
+        "handle": "VIVE-TELECOM"
+    },
+    "265864": {
+        "country_code": "PY",
+        "asn": "265864",
+        "description": "LINK Telecom S.A.",
+        "handle": "LINK-TELECOM"
+    },
+    "266673": {
+        "country_code": "PY",
+        "asn": "266673",
+        "description": "FLYTEC TELECOM SOCIEDAD ANONIMA",
+        "handle": "FLYTEC-TELECOM-SOCIEDAD"
+    },
+    "266677": {
+        "country_code": "PY",
+        "asn": "266677",
+        "description": "FILA-NET",
+        "handle": "FILA-NET"
+    },
+    "266694": {
+        "country_code": "PY",
+        "asn": "266694",
+        "description": "FULL TELECOMUNICACIONES S.A",
+        "handle": "FULL-TELECOMUNICACIONES"
+    },
+    "266782": {
+        "country_code": "PY",
+        "asn": "266782",
+        "description": "Masternet Telecomunicaciones",
+        "handle": "MASTERNET-TELECOMUNICACIONES"
+    },
+    "266784": {
+        "country_code": "PY",
+        "asn": "266784",
+        "description": "CENMONT S.A",
+        "handle": "CENMONT"
+    },
+    "266805": {
+        "country_code": "PY",
+        "asn": "266805",
+        "description": "NETI SIEMPRE CONECTADO",
+        "handle": "NETI-SIEMPRE-CONECTADO"
+    },
+    "266814": {
+        "country_code": "PY",
+        "asn": "266814",
+        "description": "Masternet Telecomunicaciones",
+        "handle": "MASTERNET-TELECOMUNICACIONES"
+    },
+    "266831": {
+        "country_code": "PY",
+        "asn": "266831",
+        "description": "MONGELOS ARCE MARCIAL(DELTA NETWORKS)",
+        "handle": "MONGELOS-ARCE-MARCIAL"
+    },
+    "266858": {
+        "country_code": "PY",
+        "asn": "266858",
+        "description": "INTERNET & MEDIA S.A.",
+        "handle": "INTERNET-MEDIA"
+    },
+    "266876": {
+        "country_code": "PY",
+        "asn": "266876",
+        "description": "DOUGLAS BIONDO BOSCHETTI(TECNOPAGE)",
+        "handle": "DOUGLAS-BIONDO-BOSCHETTI"
+    },
+    "267702": {
+        "country_code": "PY",
+        "asn": "267702",
+        "description": "SANCHEZ ANIBAL RAMON (ARSOFT INTERNET)",
+        "handle": "SANCHEZ-ANIBAL-RAMON"
+    },
+    "267704": {
+        "country_code": "PY",
+        "asn": "267704",
+        "description": "SAMISTRARO BAMBERG DANGELO DANIEL",
+        "handle": "SAMISTRARO-BAMBERG-DANGELO"
+    },
+    "267723": {
+        "country_code": "PY",
+        "asn": "267723",
+        "description": "SOLAR BANCO S.A.E.",
+        "handle": "SOLAR-BANCO-SAE"
+    },
+    "267767": {
+        "country_code": "PY",
+        "asn": "267767",
+        "description": "VAZQUEZ BOGADO CHRISTIAN AGUSTIN (CYBERNET)",
+        "handle": "VAZQUEZ-BOGADO-CHRISTIAN"
+    },
+    "267795": {
+        "country_code": "PY",
+        "asn": "267795",
+        "description": "PRIETO TELLES ALEXANDRE(F1NET TELECOM PY)",
+        "handle": "PRIETO-TELLES-ALEXANDRE"
+    },
+    "267837": {
+        "country_code": "PY",
+        "asn": "267837",
+        "description": "Vicente Sosa Peralta",
+        "handle": "VICENTE-SOSA-PERALTA"
+    },
+    "267872": {
+        "country_code": "PY",
+        "asn": "267872",
+        "description": "FLORES MESSA JORGE MARCELO (MSS INTERNET)",
+        "handle": "FLORES-MESSA-JORGE-MARCELO"
+    },
+    "267883": {
+        "country_code": "PY",
+        "asn": "267883",
+        "description": "RODRIGUEZ PAEZ HUGO HERNAN (TELNET PARAGUAY)",
+        "handle": "RODRIGUEZ-PAEZ-HUGO-HERNAN"
+    },
+    "267885": {
+        "country_code": "PY",
+        "asn": "267885",
+        "description": "MSW S.A.",
+        "handle": "MSW"
+    },
+    "267905": {
+        "country_code": "PY",
+        "asn": "267905",
+        "description": "PERES RAMOS WILLIAN (GIGABIT INTERNET)",
+        "handle": "PERES-RAMOS-WILLIAN"
+    },
+    "267914": {
+        "country_code": "PY",
+        "asn": "267914",
+        "description": "TVH S.A",
+        "handle": "TVH"
+    },
+    "267920": {
+        "country_code": "PY",
+        "asn": "267920",
+        "description": "Saldivar Sosa Rodrigo Agustin (RAYNET)",
+        "handle": "SALDIVAR-SOSA-RODRIGO-AGUSTIN"
+    },
+    "269725": {
+        "country_code": "PY",
+        "asn": "269725",
+        "description": "ACAS TECNOLOG\u00cdAS S.A.",
+        "handle": "ACAS-TECNOLOGIAS"
+    },
+    "269731": {
+        "country_code": "PY",
+        "asn": "269731",
+        "description": "Liz Carolina Zavala Martinez (Link Telecomunicaciones)",
+        "handle": "LIZ-CAROLINA-ZAVALA-MARTINEZ"
+    },
+    "269748": {
+        "country_code": "PY",
+        "asn": "269748",
+        "description": "MOSSO Y ASOCIADOS SOCIEDAD ANONIMA (CABLE DIGITAL DEL ESTE)",
+        "handle": "MOSSO-ASOCIADOS-SOCIEDAD"
+    },
+    "269763": {
+        "country_code": "PY",
+        "asn": "269763",
+        "description": "JOSE MARIA DELPINO(TELMIIX)",
+        "handle": "JOSE-MARIA-DELPINO"
+    },
+    "269783": {
+        "country_code": "PY",
+        "asn": "269783",
+        "description": "WIND NET S.A.",
+        "handle": "WIND-NET"
+    },
+    "269794": {
+        "country_code": "PY",
+        "asn": "269794",
+        "description": "GRUPO SPEED NET SOCIEDAD ANONIMA",
+        "handle": "GRUPO-SPEED-NET"
+    },
+    "269878": {
+        "country_code": "PY",
+        "asn": "269878",
+        "description": "HINET E.A.S. UNIPERSONAL",
+        "handle": "HINET-EAS-UNIPERSONAL"
+    },
+    "269887": {
+        "country_code": "PY",
+        "asn": "269887",
+        "description": "FRANCISCO VILLALBA SANTACRUZ (PLUS.NET)",
+        "handle": "FRANCISCO-VILLALBA-SANTACRUZ"
+    },
+    "269905": {
+        "country_code": "PY",
+        "asn": "269905",
+        "description": "COOPERATIVA COLONIZADORA MULTIACTIVA FERNHEIM LTDA",
+        "handle": "COOPERATIVA-COLONIZADORA-MULTIACTIVA"
+    },
+    "269914": {
+        "country_code": "PY",
+        "asn": "269914",
+        "description": "FRANCISCO DARIO DAVID GARCIA AYALA (NETCON)",
+        "handle": "FRANCISCO-DARIO-DAVID"
+    },
+    "269930": {
+        "country_code": "PY",
+        "asn": "269930",
+        "description": "CAMPOS FARIAS GUILHERME",
+        "handle": "CAMPOS-FARIAS-GUILHERME"
+    },
+    "269976": {
+        "country_code": "PY",
+        "asn": "269976",
+        "description": "TV MAX CABLE S.A.",
+        "handle": "TV-MAX-CABLE"
+    },
+    "270029": {
+        "country_code": "PY",
+        "asn": "270029",
+        "description": "MEGANET S.R.L.",
+        "handle": "MEGANET"
+    },
+    "270052": {
+        "country_code": "PY",
+        "asn": "270052",
+        "description": "STARTELECOM S.A.",
+        "handle": "STARTELECOM"
+    },
+    "270096": {
+        "country_code": "PY",
+        "asn": "270096",
+        "description": "MACHADO BAEZ NERY JAVIER (LOCAL NET PARAGUAY)",
+        "handle": "MACHADO-BAEZ-NERY-JAVIER"
+    },
+    "271775": {
+        "country_code": "PY",
+        "asn": "271775",
+        "description": "ARLINDO PORATH (NETN@R NARANJITO)",
+        "handle": "ARLINDO-PORATH"
+    },
+    "271969": {
+        "country_code": "PY",
+        "asn": "271969",
+        "description": "SIMON ALBERTO KONARREUSKI MLOT",
+        "handle": "SIMON-ALBERTO-KONARREUSKI-MLOT"
+    },
+    "272021": {
+        "country_code": "PY",
+        "asn": "272021",
+        "description": "ITAIPU BINACIONAL",
+        "handle": "ITAIPU-BINACIONAL"
+    },
+    "272026": {
+        "country_code": "PY",
+        "asn": "272026",
+        "description": "HERNAN GALEANO KIM (HERKIM - SOLUCIONES TECNOLOGICAS)",
+        "handle": "HERNAN-GALEANO-KIM"
+    },
+    "272062": {
+        "country_code": "PY",
+        "asn": "272062",
+        "description": "TV 2 S.A.",
+        "handle": "TV-2"
+    },
+    "272065": {
+        "country_code": "PY",
+        "asn": "272065",
+        "description": "PUNTO DOC SOCIEDAD ANONIMA",
+        "handle": "PUNTO-DOC-SOCIEDAD-ANONIMA"
+    },
+    "272099": {
+        "country_code": "PY",
+        "asn": "272099",
+        "description": "WIRSCHKE MONGES RICARDO DANIEL",
+        "handle": "WIRSCHKE-MONGES-RICARDO-DANIEL"
+    },
+    "272154": {
+        "country_code": "PY",
+        "asn": "272154",
+        "description": "DIRECCION NACIONAL DE ADUANAS",
+        "handle": "DIRECCION-NACIONAL-ADUANAS"
+    },
+    "272820": {
+        "country_code": "PY",
+        "asn": "272820",
+        "description": "COMTEC E.A.S.",
+        "handle": "COMTEC-EAS"
+    },
+    "272898": {
+        "country_code": "PY",
+        "asn": "272898",
+        "description": "SUDAMERIS BANK SAECA",
+        "handle": "SUDAMERIS-BANK-SAECA"
+    },
+    "272961": {
+        "country_code": "PY",
+        "asn": "272961",
+        "description": "JANZEN WIENS RALF DONALD",
+        "handle": "JANZEN-WIENS-RALF-DONALD"
+    },
+    "272970": {
+        "country_code": "PY",
+        "asn": "272970",
+        "description": "LOPEZ FLORENTIN FREDDY HERNAN",
+        "handle": "LOPEZ-FLORENTIN-FREDDY-HERNAN"
+    },
+    "273023": {
+        "country_code": "PY",
+        "asn": "273023",
+        "description": "ITATEC SOCIEDAD ANONIMA",
+        "handle": "ITATEC-SOCIEDAD-ANONIMA"
+    },
+    "273063": {
+        "country_code": "PY",
+        "asn": "273063",
+        "description": "DAHMER MARIANO ROBERTO ADRIANO",
+        "handle": "DAHMER-MARIANO-ROBERTO-ADRIANO"
+    },
+    "273066": {
+        "country_code": "PY",
+        "asn": "273066",
+        "description": "SUR TELECOM SOCIEDAD DE RESPONSABILIDAD LIMITADA",
+        "handle": "SUR-TELECOM-SOCIEDAD"
+    },
+    "273077": {
+        "country_code": "PY",
+        "asn": "273077",
+        "description": "GONZALEZ BERTRAND ANIBAL JOSE MARIA (OVEVE NET)",
+        "handle": "GONZALEZ-BERTRAND-ANIBAL"
+    },
+    "273095": {
+        "country_code": "PY",
+        "asn": "273095",
+        "description": "NORTE NET E.A.S.",
+        "handle": "NORTE-NET-EAS"
+    },
+    "273126": {
+        "country_code": "PY",
+        "asn": "273126",
+        "description": "MAS GROUP E.A.S.",
+        "handle": "MAS-GROUP-EAS"
+    },
+    "273156": {
+        "country_code": "PY",
+        "asn": "273156",
+        "description": "ADN HOLDING E.A.S.",
+        "handle": "ADN-HOLDING-EAS"
+    },
+    "273165": {
+        "country_code": "PY",
+        "asn": "273165",
+        "description": "IX CDE SOCIEDAD AN\u00d3NIMA",
+        "handle": "IX-CDE-SOCIEDAD-ANONIMA"
+    },
+    "273828": {
+        "country_code": "PY",
+        "asn": "273828",
+        "description": "DAMOA SA",
+        "handle": "DAMOA"
+    },
+    "273847": {
+        "country_code": "PY",
+        "asn": "273847",
+        "description": "P.A. NETWORKS E.A.S",
+        "handle": "PA-NETWORKS-EAS"
+    },
+    "273876": {
+        "country_code": "PY",
+        "asn": "273876",
+        "description": "FRETES SEGOVIA FRANCISCO JAVIER",
+        "handle": "FRETES-SEGOVIA-FRANCISCO"
+    },
+    "273918": {
+        "country_code": "PY",
+        "asn": "273918",
+        "description": "Future E.A.S",
+        "handle": "FUTURE-EAS"
+    },
+    "273991": {
+        "country_code": "PY",
+        "asn": "273991",
+        "description": "FIBRACOL E.A.S. UNIPERSONAL",
+        "handle": "FIBRACOL-EAS-UNIPERSONAL"
+    },
+    "274041": {
+        "country_code": "PY",
+        "asn": "274041",
+        "description": "INTERCABLE COMERCIAL Y SERVICIOS S.R.L.",
+        "handle": "INTERCABLE-COMERCIAL-SERVICIOS"
+    },
+    "274082": {
+        "country_code": "PY",
+        "asn": "274082",
+        "description": "ASOCIACION PARAGUAYA DE PROVEEDORES DE INTERNET Y TELECOMUNICACIONES",
+        "handle": "ASOCIACION-PARAGUAYA-PROVEEDORES"
+    },
+    "274161": {
+        "country_code": "PY",
+        "asn": "274161",
+        "description": "OSCAR ALBERTO YEGROS (ColNet Telecom)",
+        "handle": "OSCAR-ALBERTO-YEGROS"
+    },
+    "274166": {
+        "country_code": "PY",
+        "asn": "274166",
+        "description": "GONZALEZ GAMARRA ARLIS JAVIER (SOLUCIONES MAX)",
+        "handle": "GONZALEZ-GAMARRA-ARLIS-JAVIER"
+    },
+    "274173": {
+        "country_code": "PY",
+        "asn": "274173",
+        "description": "WILOHOSTING E.A.S. UNIPERSONAL",
+        "handle": "WILOHOSTING-EAS-UNIPERSONAL"
+    },
+    "274296": {
+        "country_code": "PY",
+        "asn": "274296",
+        "description": "KACTUS & CIA SOCIEDAD AN\u00d3NIMA",
+        "handle": "KACTUS-CIA-SOCIEDAD-ANONIMA"
+    },
+    "274306": {
+        "country_code": "PY",
+        "asn": "274306",
+        "description": "TECYTEL SA",
+        "handle": "TECYTEL"
+    }
+}

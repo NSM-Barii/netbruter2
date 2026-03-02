@@ -1,0 +1,32 @@
+{
+    "55722": {
+        "country_code": "NR",
+        "asn": "55722",
+        "description": "CenPac Net Inc.",
+        "handle": "CENPAC-AS-AP"
+    },
+    "55723": {
+        "country_code": "NR",
+        "asn": "55723",
+        "description": "Digicel Nauru",
+        "handle": "DIGICEL-NR-AS-AP"
+    },
+    "140504": {
+        "country_code": "NR",
+        "asn": "140504",
+        "description": "Digicel Nauru Corporation",
+        "handle": "DIGICELNAURU-AS-AP"
+    },
+    "141368": {
+        "country_code": "NR",
+        "asn": "141368",
+        "description": "ICT",
+        "handle": "ICT-NR-AS-AP"
+    },
+    "152706": {
+        "country_code": "NR",
+        "asn": "152706",
+        "description": "Neotel",
+        "handle": "TNC-AS-AP"
+    }
+}

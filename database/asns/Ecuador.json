@@ -1,0 +1,1610 @@
+{
+    "2277": {
+        "country_code": "EC",
+        "asn": "2277",
+        "description": "ECUANET - CORPORACION ECUATORIANA DE INFORMACION",
+        "handle": "ECUANET-CORPORACION-ECUATORIANA"
+    },
+    "7315": {
+        "country_code": "EC",
+        "asn": "7315",
+        "description": "Otecel S.A.",
+        "handle": "OTECEL"
+    },
+    "14420": {
+        "country_code": "EC",
+        "asn": "14420",
+        "description": "CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP",
+        "handle": "CORPORACION-NACIONAL-TELECOMUNICACIONES"
+    },
+    "14522": {
+        "country_code": "EC",
+        "asn": "14522",
+        "description": "SERVICIOS DE TELECOMUNICACIONES SETEL S.A. (XTRIM EC)",
+        "handle": "SERVICIOS-TELECOMUNICACIONES-SETEL"
+    },
+    "19114": {
+        "country_code": "EC",
+        "asn": "19114",
+        "description": "Otecel S.A.",
+        "handle": "OTECEL"
+    },
+    "19169": {
+        "country_code": "EC",
+        "asn": "19169",
+        "description": "Telconet S.A",
+        "handle": "TELCONET"
+    },
+    "19582": {
+        "country_code": "EC",
+        "asn": "19582",
+        "description": "GRUPO BRAVCO",
+        "handle": "GRUPO-BRAVCO"
+    },
+    "22724": {
+        "country_code": "EC",
+        "asn": "22724",
+        "description": "PUNTONET S.A.",
+        "handle": "PUNTONET"
+    },
+    "23031": {
+        "country_code": "EC",
+        "asn": "23031",
+        "description": "TELECU TELECOMUNICACIONES DEL ECUADOR TELECUSA S.A.S.",
+        "handle": "TELECU-TELECOMUNICACIONES-ECUADOR"
+    },
+    "23216": {
+        "country_code": "EC",
+        "asn": "23216",
+        "description": "MEGADATOS S.A.",
+        "handle": "MEGADATOS"
+    },
+    "23487": {
+        "country_code": "EC",
+        "asn": "23487",
+        "description": "CONECEL",
+        "handle": "CONECEL"
+    },
+    "26600": {
+        "country_code": "EC",
+        "asn": "26600",
+        "description": "M.I. WEBWORKS S.A.",
+        "handle": "MI-WEBWORKS"
+    },
+    "26613": {
+        "country_code": "EC",
+        "asn": "26613",
+        "description": "CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP",
+        "handle": "CORPORACION-NACIONAL-TELECOMUNICACIONES"
+    },
+    "27668": {
+        "country_code": "EC",
+        "asn": "27668",
+        "description": "ETAPA EP",
+        "handle": "ETAPA-EP"
+    },
+    "27738": {
+        "country_code": "EC",
+        "asn": "27738",
+        "description": "Ecuadortelecom S.A.",
+        "handle": "ECUADORTELECOM"
+    },
+    "27740": {
+        "country_code": "EC",
+        "asn": "27740",
+        "description": "EDGEUNO ECUADOR S.A.",
+        "handle": "EDGEUNO-ECUADOR"
+    },
+    "27757": {
+        "country_code": "EC",
+        "asn": "27757",
+        "description": "CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP",
+        "handle": "CORPORACION-NACIONAL-TELECOMUNICACIONES"
+    },
+    "27784": {
+        "country_code": "EC",
+        "asn": "27784",
+        "description": "Bco. Pichincha Matriz",
+        "handle": "BCO-PICHINCHA-MATRIZ"
+    },
+    "27814": {
+        "country_code": "EC",
+        "asn": "27814",
+        "description": "Aeprovi",
+        "handle": "AEPROVI"
+    },
+    "27820": {
+        "country_code": "EC",
+        "asn": "27820",
+        "description": "Universidad Tecnica Particular de Loja",
+        "handle": "UNIVERSIDAD-TECNICA-PARTICULAR"
+    },
+    "27841": {
+        "country_code": "EC",
+        "asn": "27841",
+        "description": "CEDIA",
+        "handle": "CEDIA"
+    },
+    "27844": {
+        "country_code": "EC",
+        "asn": "27844",
+        "description": "ETAPA EP",
+        "handle": "ETAPA-EP"
+    },
+    "27902": {
+        "country_code": "EC",
+        "asn": "27902",
+        "description": "GPF CORPORACION - POWERFAST",
+        "handle": "GPF-CORPORACION-POWERFAST"
+    },
+    "27919": {
+        "country_code": "EC",
+        "asn": "27919",
+        "description": "IXP ECUADOR",
+        "handle": "IXP-ECUADOR"
+    },
+    "27947": {
+        "country_code": "EC",
+        "asn": "27947",
+        "description": "Telconet S.A",
+        "handle": "TELCONET"
+    },
+    "27948": {
+        "country_code": "EC",
+        "asn": "27948",
+        "description": "CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP",
+        "handle": "CORPORACION-NACIONAL-TELECOMUNICACIONES"
+    },
+    "27958": {
+        "country_code": "EC",
+        "asn": "27958",
+        "description": "FIX GROUP",
+        "handle": "FIX-GROUP"
+    },
+    "27968": {
+        "country_code": "EC",
+        "asn": "27968",
+        "description": "CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP",
+        "handle": "CORPORACION-NACIONAL-TELECOMUNICACIONES"
+    },
+    "27998": {
+        "country_code": "EC",
+        "asn": "27998",
+        "description": "Contecon Guayaquil S.A.",
+        "handle": "CONTECON-GUAYAQUIL"
+    },
+    "28006": {
+        "country_code": "EC",
+        "asn": "28006",
+        "description": "CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP",
+        "handle": "CORPORACION-NACIONAL-TELECOMUNICACIONES"
+    },
+    "28011": {
+        "country_code": "EC",
+        "asn": "28011",
+        "description": "CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP",
+        "handle": "CORPORACION-NACIONAL-TELECOMUNICACIONES"
+    },
+    "28021": {
+        "country_code": "EC",
+        "asn": "28021",
+        "description": "ASEGLOB S.A.",
+        "handle": "ASEGLOB"
+    },
+    "28025": {
+        "country_code": "EC",
+        "asn": "28025",
+        "description": "CENTROSUR",
+        "handle": "CENTROSUR"
+    },
+    "28027": {
+        "country_code": "EC",
+        "asn": "28027",
+        "description": "Escuela Superior Politecnica del Litoral",
+        "handle": "ESCUELA-SUPERIOR-POLITECNICA"
+    },
+    "28041": {
+        "country_code": "EC",
+        "asn": "28041",
+        "description": "INTERTELNET S.A",
+        "handle": "INTERTELNET"
+    },
+    "28058": {
+        "country_code": "EC",
+        "asn": "28058",
+        "description": "Stealth Telecom del Ecuador",
+        "handle": "STEALTH-TELECOM-ECUADOR"
+    },
+    "28097": {
+        "country_code": "EC",
+        "asn": "28097",
+        "description": "Farcomed",
+        "handle": "FARCOMED"
+    },
+    "52238": {
+        "country_code": "EC",
+        "asn": "52238",
+        "description": "SPEEDYCOM",
+        "handle": "SPEEDYCOM"
+    },
+    "52257": {
+        "country_code": "EC",
+        "asn": "52257",
+        "description": "Telconet S.A",
+        "handle": "TELCONET"
+    },
+    "52274": {
+        "country_code": "EC",
+        "asn": "52274",
+        "description": "NIC.EC S.A.",
+        "handle": "NICEC"
+    },
+    "52331": {
+        "country_code": "EC",
+        "asn": "52331",
+        "description": "CORPORACION FINANCIERA NACIONAL",
+        "handle": "CORPORACION-FINANCIERA-NACIONAL"
+    },
+    "52343": {
+        "country_code": "EC",
+        "asn": "52343",
+        "description": "UNIVERSIDAD UTE",
+        "handle": "UNIVERSIDAD-UTE"
+    },
+    "52345": {
+        "country_code": "EC",
+        "asn": "52345",
+        "description": "BANCO DE LOJA",
+        "handle": "BANCO-LOJA"
+    },
+    "52377": {
+        "country_code": "EC",
+        "asn": "52377",
+        "description": "GILAUCO S.A.",
+        "handle": "GILAUCO"
+    },
+    "52417": {
+        "country_code": "EC",
+        "asn": "52417",
+        "description": "BPAC AMERAFIN S.A.",
+        "handle": "BPAC-AMERAFIN"
+    },
+    "52458": {
+        "country_code": "EC",
+        "asn": "52458",
+        "description": "WISP INTERNET ECUADOR",
+        "handle": "WISP-INTERNET-ECUADOR"
+    },
+    "52466": {
+        "country_code": "EC",
+        "asn": "52466",
+        "description": "TECHNOLOGY EQUINOCCIAL TECCIAL S.A.",
+        "handle": "TECHNOLOGY-EQUINOCCIAL-TECCIAL"
+    },
+    "52482": {
+        "country_code": "EC",
+        "asn": "52482",
+        "description": "Aeprovi",
+        "handle": "AEPROVI"
+    },
+    "52483": {
+        "country_code": "EC",
+        "asn": "52483",
+        "description": "Aeprovi",
+        "handle": "AEPROVI"
+    },
+    "61468": {
+        "country_code": "EC",
+        "asn": "61468",
+        "description": "CEDIA",
+        "handle": "CEDIA"
+    },
+    "64110": {
+        "country_code": "EC",
+        "asn": "64110",
+        "description": "LK-TRO-KOM S.A. (ELECTROCOM)",
+        "handle": "LK-TRO-KOM"
+    },
+    "64133": {
+        "country_code": "EC",
+        "asn": "64133",
+        "description": "Asociaci\u00f3n de Proveedores de Servicio de Valor Agregado(APROSVA)",
+        "handle": "ASOCIACION-PROVEEDORES-SERVICIO"
+    },
+    "64169": {
+        "country_code": "EC",
+        "asn": "64169",
+        "description": "PUNTO DE INTERCAMBIO DE TRAFICO PITLATITUD0 S.A.S.",
+        "handle": "PUNTO-INTERCAMBIO-TRAFICO"
+    },
+    "262154": {
+        "country_code": "EC",
+        "asn": "262154",
+        "description": "Comm & Net S.A.",
+        "handle": "COMM-NET"
+    },
+    "262157": {
+        "country_code": "EC",
+        "asn": "262157",
+        "description": "Tame Linea Aerea del Ecuador",
+        "handle": "TAME-LINEA-AEREA-ECUADOR"
+    },
+    "262169": {
+        "country_code": "EC",
+        "asn": "262169",
+        "description": "SOLINTELSA",
+        "handle": "SOLINTELSA"
+    },
+    "262212": {
+        "country_code": "EC",
+        "asn": "262212",
+        "description": "Escuela Politecnica Nacional",
+        "handle": "ESCUELA-POLITECNICA-NACIONAL"
+    },
+    "262223": {
+        "country_code": "EC",
+        "asn": "262223",
+        "description": "NECUSOFT CIA. LTDA. (NETTPLUS)",
+        "handle": "NECUSOFT"
+    },
+    "262257": {
+        "country_code": "EC",
+        "asn": "262257",
+        "description": "Banco Bolivariano C.A.",
+        "handle": "BANCO-BOLIVARIANO-CA"
+    },
+    "263174": {
+        "country_code": "EC",
+        "asn": "263174",
+        "description": "NOVANET",
+        "handle": "NOVANET"
+    },
+    "263238": {
+        "country_code": "EC",
+        "asn": "263238",
+        "description": "Eliana Vanessa Morocho O\u00f1a",
+        "handle": "ELIANA-VANESSA-MOROCHO-ONA"
+    },
+    "263243": {
+        "country_code": "EC",
+        "asn": "263243",
+        "description": "BRIDGE TELECOM S.A.",
+        "handle": "BRIDGE-TELECOM"
+    },
+    "263245": {
+        "country_code": "EC",
+        "asn": "263245",
+        "description": "CINECABLE TV",
+        "handle": "CINECABLE-TV"
+    },
+    "263738": {
+        "country_code": "EC",
+        "asn": "263738",
+        "description": "GRUPO EL COMERCIO",
+        "handle": "GRUPO-EL-COMERCIO"
+    },
+    "263792": {
+        "country_code": "EC",
+        "asn": "263792",
+        "description": "IN.PLANET S. A",
+        "handle": "INPLANET-S-A"
+    },
+    "263805": {
+        "country_code": "EC",
+        "asn": "263805",
+        "description": "SOLUCIONES AVANZADAS INFORMATICAS Y TELECOMUNICACIONES SAITEL",
+        "handle": "SOLUCIONES-AVANZADAS-INFORMATICAS"
+    },
+    "264668": {
+        "country_code": "EC",
+        "asn": "264668",
+        "description": "NEGOCIOS Y TELEFONIA NEDETEL S.A.",
+        "handle": "NEGOCIOS-TELEFONIA-NEDETEL"
+    },
+    "264717": {
+        "country_code": "EC",
+        "asn": "264717",
+        "description": "Patriacell Ecuador S.A.",
+        "handle": "PATRIACELL-ECUADOR"
+    },
+    "264744": {
+        "country_code": "EC",
+        "asn": "264744",
+        "description": "WIFITELECOM",
+        "handle": "WIFITELECOM"
+    },
+    "264746": {
+        "country_code": "EC",
+        "asn": "264746",
+        "description": "Mar\u00eda Teresa Vivar (CITYCOM)",
+        "handle": "MARIA-TERESA-VIVAR"
+    },
+    "264788": {
+        "country_code": "EC",
+        "asn": "264788",
+        "description": "Telconet S.A",
+        "handle": "TELCONET"
+    },
+    "264801": {
+        "country_code": "EC",
+        "asn": "264801",
+        "description": "BANCO GUAYAQUIL",
+        "handle": "BANCO-GUAYAQUIL"
+    },
+    "264824": {
+        "country_code": "EC",
+        "asn": "264824",
+        "description": "COMPA\u00d1IA ELECTROMECANICOS PARA EL DESARROLLO CSED SA",
+        "handle": "COMPANIA-ELECTROMECANICOS-PARA"
+    },
+    "264825": {
+        "country_code": "EC",
+        "asn": "264825",
+        "description": "TELEALFACOM S.A.S.",
+        "handle": "TELEALFACOM"
+    },
+    "264826": {
+        "country_code": "EC",
+        "asn": "264826",
+        "description": "POWERNET SD CIA. LTDA.",
+        "handle": "POWERNET-SD"
+    },
+    "264836": {
+        "country_code": "EC",
+        "asn": "264836",
+        "description": "Asociaci\u00f3n de Proveedores de Servicio de Valor Agregado(APROSVA)",
+        "handle": "ASOCIACION-PROVEEDORES-SERVICIO"
+    },
+    "264841": {
+        "country_code": "EC",
+        "asn": "264841",
+        "description": "SYSTRAY S.A",
+        "handle": "SYSTRAY"
+    },
+    "264851": {
+        "country_code": "EC",
+        "asn": "264851",
+        "description": "IFOTONCORP S.A.",
+        "handle": "IFOTONCORP"
+    },
+    "265629": {
+        "country_code": "EC",
+        "asn": "265629",
+        "description": "FIBERNET",
+        "handle": "FIBERNET"
+    },
+    "265632": {
+        "country_code": "EC",
+        "asn": "265632",
+        "description": "ANGEL BENIGNO CONDOLO GUAYA",
+        "handle": "ANGEL-BENIGNO-CONDOLO-GUAYA"
+    },
+    "265657": {
+        "country_code": "EC",
+        "asn": "265657",
+        "description": "SERVICABLE CIA. LTDA.",
+        "handle": "SERVICABLE"
+    },
+    "265677": {
+        "country_code": "EC",
+        "asn": "265677",
+        "description": "GEDATECU SA.",
+        "handle": "GEDATECU"
+    },
+    "265711": {
+        "country_code": "EC",
+        "asn": "265711",
+        "description": "KOLVECH S.A. (TELECOMVAS)",
+        "handle": "KOLVECH"
+    },
+    "265724": {
+        "country_code": "EC",
+        "asn": "265724",
+        "description": "Teneda Corporaci\u00f3n CIA. LTDA",
+        "handle": "TENEDA-CORPORACION"
+    },
+    "265734": {
+        "country_code": "EC",
+        "asn": "265734",
+        "description": "The Diners Club del Ecuador C. LTDA",
+        "handle": "THE-DINERS-CLUB-ECUADOR-C"
+    },
+    "265762": {
+        "country_code": "EC",
+        "asn": "265762",
+        "description": "CASTRO TELLO MARCO IV\u00c1N (CONEXI\u00d3N GLOBAL)",
+        "handle": "CASTRO-TELLO-MARCO-IVAN"
+    },
+    "265775": {
+        "country_code": "EC",
+        "asn": "265775",
+        "description": "AUSTRONET",
+        "handle": "AUSTRONET"
+    },
+    "265787": {
+        "country_code": "EC",
+        "asn": "265787",
+        "description": "MERCREDI S.A.",
+        "handle": "MERCREDI"
+    },
+    "265799": {
+        "country_code": "EC",
+        "asn": "265799",
+        "description": "EXPERTSERVI S.A.",
+        "handle": "EXPERTSERVI"
+    },
+    "265815": {
+        "country_code": "EC",
+        "asn": "265815",
+        "description": "ESMONSA S.A.",
+        "handle": "ESMONSA"
+    },
+    "265838": {
+        "country_code": "EC",
+        "asn": "265838",
+        "description": "TELECOM",
+        "handle": "TELECOM"
+    },
+    "265863": {
+        "country_code": "EC",
+        "asn": "265863",
+        "description": "JEA.PC COMUNICACIONES S.A.",
+        "handle": "JEAPC-COMUNICACIONES"
+    },
+    "266664": {
+        "country_code": "EC",
+        "asn": "266664",
+        "description": "ADEATEL S.A",
+        "handle": "ADEATEL"
+    },
+    "266667": {
+        "country_code": "EC",
+        "asn": "266667",
+        "description": "TECHNOLOGY EQUINOCCIAL TECCIAL S.A.",
+        "handle": "TECHNOLOGY-EQUINOCCIAL-TECCIAL"
+    },
+    "266672": {
+        "country_code": "EC",
+        "asn": "266672",
+        "description": "SYSNOVELLTEL S.A",
+        "handle": "SYSNOVELLTEL"
+    },
+    "266676": {
+        "country_code": "EC",
+        "asn": "266676",
+        "description": "INTERBYTES",
+        "handle": "INTERBYTES"
+    },
+    "266679": {
+        "country_code": "EC",
+        "asn": "266679",
+        "description": "ORBINET",
+        "handle": "ORBINET"
+    },
+    "266681": {
+        "country_code": "EC",
+        "asn": "266681",
+        "description": "ZORRILLA SOLEDISPA JUAN JOBINO (JJ COMP)",
+        "handle": "ZORRILLA-SOLEDISPA-JUAN-JOBINO"
+    },
+    "266728": {
+        "country_code": "EC",
+        "asn": "266728",
+        "description": "INTER&INTER S.A.",
+        "handle": "INTER-INTER"
+    },
+    "266756": {
+        "country_code": "EC",
+        "asn": "266756",
+        "description": "EBESTPHONE ECUADOR S.A.",
+        "handle": "EBESTPHONE-ECUADOR"
+    },
+    "266783": {
+        "country_code": "EC",
+        "asn": "266783",
+        "description": "Anibal Humberto Enriquez Moncayo(Comunicate)",
+        "handle": "ANIBAL-HUMBERTO-ENRIQUEZ"
+    },
+    "266790": {
+        "country_code": "EC",
+        "asn": "266790",
+        "description": "GARC\u00cdA VILLAMAR ASOCIADOS CIA. LTDA. (MUNDO WIRELESS)",
+        "handle": "GARCIA-VILLAMAR-ASOCIADOS"
+    },
+    "266802": {
+        "country_code": "EC",
+        "asn": "266802",
+        "description": "CODGREC S.A.",
+        "handle": "CODGREC"
+    },
+    "266812": {
+        "country_code": "EC",
+        "asn": "266812",
+        "description": "CONEXIONTOTAL S.A.",
+        "handle": "CONEXIONTOTAL"
+    },
+    "266834": {
+        "country_code": "EC",
+        "asn": "266834",
+        "description": "INSTALACION DE SISTEMAS EN REDES INSYSRED S.A.",
+        "handle": "INSTALACION-SISTEMAS-REDES"
+    },
+    "266839": {
+        "country_code": "EC",
+        "asn": "266839",
+        "description": "QUIMBITA PANCHI LUIS ANIBAL (SISCOM)",
+        "handle": "QUIMBITA-PANCHI-LUIS-ANIBAL"
+    },
+    "266856": {
+        "country_code": "EC",
+        "asn": "266856",
+        "description": "BRAVO BARAHONA WILLIAM ALBERTO(NUBESMART)",
+        "handle": "BRAVO-BARAHONA-WILLIAM-ALBERTO"
+    },
+    "266867": {
+        "country_code": "EC",
+        "asn": "266867",
+        "description": "WILSON FERNANDO G\u00d3MEZ BARRIONUEVO",
+        "handle": "WILSON-FERNANDO-GOMEZ"
+    },
+    "266880": {
+        "country_code": "EC",
+        "asn": "266880",
+        "description": "BENALCAZAR ROMERO LEONARDO ISRAEL (MAXXNET)",
+        "handle": "BENALCAZAR-ROMERO-LEONARDO"
+    },
+    "266894": {
+        "country_code": "EC",
+        "asn": "266894",
+        "description": "LOJASYSTEM C.A.",
+        "handle": "LOJASYSTEM-CA"
+    },
+    "266904": {
+        "country_code": "EC",
+        "asn": "266904",
+        "description": "ALCIVAR ESPIN DANNY ALEXANDER (OptiCom)",
+        "handle": "ALCIVAR-ESPIN-DANNY-ALEXANDER"
+    },
+    "267684": {
+        "country_code": "EC",
+        "asn": "267684",
+        "description": "VISIONMAGICA SOCIEDAD ANONIMA",
+        "handle": "VISIONMAGICA-SOCIEDAD-ANONIMA"
+    },
+    "267699": {
+        "country_code": "EC",
+        "asn": "267699",
+        "description": "CUBOTELECOM CIA. LTDA.",
+        "handle": "CUBOTELECOM"
+    },
+    "267756": {
+        "country_code": "EC",
+        "asn": "267756",
+        "description": "TRANSCORPORACION S.A.",
+        "handle": "TRANSCORPORACION"
+    },
+    "267778": {
+        "country_code": "EC",
+        "asn": "267778",
+        "description": "LAGONET-TV CIA. LTDA.",
+        "handle": "LAGONET-TV"
+    },
+    "267787": {
+        "country_code": "EC",
+        "asn": "267787",
+        "description": "MENDOZA MENDOZA CARLOS ALFREDO(TECGLO TECNOLOGIA GLOBAL)",
+        "handle": "MENDOZA-MENDOZA-CARLOS-ALFREDO"
+    },
+    "267849": {
+        "country_code": "EC",
+        "asn": "267849",
+        "description": "RECOMDATA CIA.LTDA.",
+        "handle": "RECOMDATA-CIALTDA"
+    },
+    "267881": {
+        "country_code": "EC",
+        "asn": "267881",
+        "description": "SAOREDES CIA. LTDA. (SAOHOSTING)",
+        "handle": "SAOREDES"
+    },
+    "267907": {
+        "country_code": "EC",
+        "asn": "267907",
+        "description": "CORPORACI\u00d3N FAVORITA C.A.",
+        "handle": "CORPORACION-FAVORITA-CA"
+    },
+    "267916": {
+        "country_code": "EC",
+        "asn": "267916",
+        "description": "AGUILAR AGUILAR ASOCIADOS Y COMPA\u00d1IA",
+        "handle": "AGUILAR-AGUILAR-ASOCIADOS"
+    },
+    "267924": {
+        "country_code": "EC",
+        "asn": "267924",
+        "description": "BRAVO MEDRANO JOSE LUIS (ECUABIT INTERNET)",
+        "handle": "BRAVO-MEDRANO-JOSE-LUIS"
+    },
+    "267931": {
+        "country_code": "EC",
+        "asn": "267931",
+        "description": "BANCO DEL PACIFICO S.A.",
+        "handle": "BANCO-PACIFICO"
+    },
+    "269728": {
+        "country_code": "EC",
+        "asn": "269728",
+        "description": "DECERET CIA. LTDA.",
+        "handle": "DECERET"
+    },
+    "269756": {
+        "country_code": "EC",
+        "asn": "269756",
+        "description": "REDECOM",
+        "handle": "REDECOM"
+    },
+    "269761": {
+        "country_code": "EC",
+        "asn": "269761",
+        "description": "CAVNET S.A.",
+        "handle": "CAVNET"
+    },
+    "269789": {
+        "country_code": "EC",
+        "asn": "269789",
+        "description": "ZENIX TELECOMUNICACIONES S.A.",
+        "handle": "ZENIX-TELECOMUNICACIONES"
+    },
+    "269790": {
+        "country_code": "EC",
+        "asn": "269790",
+        "description": "UNIVERSIDAD CAT\u00d3LICA DE CUENCA",
+        "handle": "UNIVERSIDAD-CATOLICA-CUENCA"
+    },
+    "269791": {
+        "country_code": "EC",
+        "asn": "269791",
+        "description": "ESCUELA SUPERIOR POLIT\u00c9CNICA DE CHIMBORAZO",
+        "handle": "ESCUELA-SUPERIOR-POLITECNICA"
+    },
+    "269792": {
+        "country_code": "EC",
+        "asn": "269792",
+        "description": "UNIVERSIDAD TECNOL\u00d3GICA INDOAMERICA",
+        "handle": "UNIVERSIDAD-TECNOLOGICA-INDOAMERICA"
+    },
+    "269799": {
+        "country_code": "EC",
+        "asn": "269799",
+        "description": "GENOVEZ TOBAR CARLOS ANDRES (NOCTELECOM)",
+        "handle": "GENOVEZ-TOBAR-CARLOS-ANDRES"
+    },
+    "269805": {
+        "country_code": "EC",
+        "asn": "269805",
+        "description": "MEDIA COMMERCE MEDCOMM S.A",
+        "handle": "MEDIA-COMMERCE-MEDCOMM"
+    },
+    "269806": {
+        "country_code": "EC",
+        "asn": "269806",
+        "description": "PEREZ TITO JULIO CESAR(FASTNETT)",
+        "handle": "PEREZ-TITO-JULIO-CESAR"
+    },
+    "269825": {
+        "country_code": "EC",
+        "asn": "269825",
+        "description": "UNIVERSIDAD DE LAS AMERICAS",
+        "handle": "UNIVERSIDAD-LAS-AMERICAS"
+    },
+    "269831": {
+        "country_code": "EC",
+        "asn": "269831",
+        "description": "SERVICIO DE TELECOMUNICACIONES OROBLA S. A",
+        "handle": "SERVICIO-TELECOMUNICACIONES-OROBLA"
+    },
+    "269838": {
+        "country_code": "EC",
+        "asn": "269838",
+        "description": "MENA CORNEJO HECTOR ELIAS (TECMESH)",
+        "handle": "MENA-CORNEJO-HECTOR-ELIAS"
+    },
+    "269842": {
+        "country_code": "EC",
+        "asn": "269842",
+        "description": "COMUNICA-TE S.A.",
+        "handle": "COMUNICA-TE"
+    },
+    "269844": {
+        "country_code": "EC",
+        "asn": "269844",
+        "description": "UNIVERSIDAD NACIONAL DEL CHIMBORAZO",
+        "handle": "UNIVERSIDAD-NACIONAL-CHIMBORAZO"
+    },
+    "269848": {
+        "country_code": "EC",
+        "asn": "269848",
+        "description": "UNIVERSIDAD REGIONAL AMAZ\u00d3NICA IKIAM",
+        "handle": "UNIVERSIDAD-REGIONAL-AMAZONICA"
+    },
+    "269852": {
+        "country_code": "EC",
+        "asn": "269852",
+        "description": "LOJANOS TELECOMUNICACIONES (ASTRONETV) CIA. LTDA",
+        "handle": "LOJANOS-TELECOMUNICACIONES"
+    },
+    "269853": {
+        "country_code": "EC",
+        "asn": "269853",
+        "description": "CBVISION S.A.",
+        "handle": "CBVISION"
+    },
+    "269935": {
+        "country_code": "EC",
+        "asn": "269935",
+        "description": "TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)",
+        "handle": "TAPIA-FLORES-OSCAR-ALDO"
+    },
+    "269936": {
+        "country_code": "EC",
+        "asn": "269936",
+        "description": "TELEVISION MONTALVO VISION MONVISION S.A.",
+        "handle": "TELEVISION-MONTALVO-VISION"
+    },
+    "269941": {
+        "country_code": "EC",
+        "asn": "269941",
+        "description": "Universidad Particular de Especialidades Esp\u00edritu Santo",
+        "handle": "UNIVERSIDAD-PARTICULAR-ESPECIALIDADES"
+    },
+    "269953": {
+        "country_code": "EC",
+        "asn": "269953",
+        "description": "SMART TECHNOLOGY S.A. TECHSMART",
+        "handle": "SMART-TECHNOLOGY"
+    },
+    "269955": {
+        "country_code": "EC",
+        "asn": "269955",
+        "description": "ALFATV CABLE S.A",
+        "handle": "ALFATV-CABLE"
+    },
+    "269992": {
+        "country_code": "EC",
+        "asn": "269992",
+        "description": "Universidad de Guayaquil",
+        "handle": "UNIVERSIDAD-GUAYAQUIL"
+    },
+    "270009": {
+        "country_code": "EC",
+        "asn": "270009",
+        "description": "GUALAN JAPON LUIS JOAQUIN (SARAGUROSNET)",
+        "handle": "GUALAN-JAPON-LUIS-JOAQUIN"
+    },
+    "270016": {
+        "country_code": "EC",
+        "asn": "270016",
+        "description": "ALAVA MACAS GALO ALFREDO (AIRNET)",
+        "handle": "ALAVA-MACAS-GALO-ALFREDO"
+    },
+    "270049": {
+        "country_code": "EC",
+        "asn": "270049",
+        "description": "MARVICNET CIA LTDA",
+        "handle": "MARVICNET"
+    },
+    "270071": {
+        "country_code": "EC",
+        "asn": "270071",
+        "description": "SIGNAL-TELECOM TELECOMUNICACIONES & T.I CIA.LTDA.",
+        "handle": "SIGNAL-TELECOM-TELECOMUNICACIONES"
+    },
+    "270074": {
+        "country_code": "EC",
+        "asn": "270074",
+        "description": "UNIVERSIDAD DE LAS ARTES",
+        "handle": "UNIVERSIDAD-LAS-ARTES"
+    },
+    "270084": {
+        "country_code": "EC",
+        "asn": "270084",
+        "description": "BRIDGE COMUNICACIONES S.A. BRIDGECOMTEL",
+        "handle": "BRIDGE-COMUNICACIONES"
+    },
+    "270085": {
+        "country_code": "EC",
+        "asn": "270085",
+        "description": "DATAFAST S.A.",
+        "handle": "DATAFAST"
+    },
+    "270092": {
+        "country_code": "EC",
+        "asn": "270092",
+        "description": "ZAMBRANO CARRE\u00d1O HUMBERTO ALEJANDRO (PROGRAMAX)",
+        "handle": "ZAMBRANO-CARRENO-HUMBERTO"
+    },
+    "270095": {
+        "country_code": "EC",
+        "asn": "270095",
+        "description": "SALAZAR GUEVARA ELVIS XAVIER (CABLE MAGICO)",
+        "handle": "SALAZAR-GUEVARA-ELVIS-XAVIER"
+    },
+    "270100": {
+        "country_code": "EC",
+        "asn": "270100",
+        "description": "DRIVERNET S.A.",
+        "handle": "DRIVERNET"
+    },
+    "270104": {
+        "country_code": "EC",
+        "asn": "270104",
+        "description": "UFINET ECUADOR UFIEC S.A.",
+        "handle": "UFINET-ECUADOR-UFIEC"
+    },
+    "271785": {
+        "country_code": "EC",
+        "asn": "271785",
+        "description": "TELECOMUNICACIONES NETHOME CIA.LTDA.",
+        "handle": "TELECOMUNICACIONES-NETHOME-CIALTDA"
+    },
+    "271795": {
+        "country_code": "EC",
+        "asn": "271795",
+        "description": "SERVITELCONET CIA. LTDA.",
+        "handle": "SERVITELCONET"
+    },
+    "271821": {
+        "country_code": "EC",
+        "asn": "271821",
+        "description": "UNIVERSIDAD TECNICA DEL NORTE",
+        "handle": "UNIVERSIDAD-TECNICA-NORTE"
+    },
+    "271822": {
+        "country_code": "EC",
+        "asn": "271822",
+        "description": "INNO FIBER INFI CIA LTDA",
+        "handle": "INNO-FIBER-INFI"
+    },
+    "271837": {
+        "country_code": "EC",
+        "asn": "271837",
+        "description": "DESPLIEGUE COMPUTACIONAL E INTERNET DCNET S.A.",
+        "handle": "DESPLIEGUE-COMPUTACIONAL-INTERNET"
+    },
+    "271840": {
+        "country_code": "EC",
+        "asn": "271840",
+        "description": "JOFRE HOMERO PACHECO PROA\u00d1O",
+        "handle": "JOFRE-HOMERO-PACHECO-PROANO"
+    },
+    "271873": {
+        "country_code": "EC",
+        "asn": "271873",
+        "description": "ZAIGOVER S.A",
+        "handle": "ZAIGOVER"
+    },
+    "271874": {
+        "country_code": "EC",
+        "asn": "271874",
+        "description": "SERVITRACTOR S.A.",
+        "handle": "SERVITRACTOR"
+    },
+    "271882": {
+        "country_code": "EC",
+        "asn": "271882",
+        "description": "LLANOS ALOMIA LIGIA VERONICA",
+        "handle": "LLANOS-ALOMIA-LIGIA-VERONICA"
+    },
+    "271911": {
+        "country_code": "EC",
+        "asn": "271911",
+        "description": "Gavilanes Parre\u00f1o Irene Del Roc\u00edo",
+        "handle": "GAVILANES-PARRENO-IRENE-ROCIO"
+    },
+    "271919": {
+        "country_code": "EC",
+        "asn": "271919",
+        "description": "ASOCIACION DE SERVICIOS DE COMERCIALIZACION DE REDES E INTERNET EL ORO ASOSERINRED",
+        "handle": "ASOCIACION-SERVICIOS-COMERCIALIZACION"
+    },
+    "271923": {
+        "country_code": "EC",
+        "asn": "271923",
+        "description": "ZOENETV S.A.",
+        "handle": "ZOENETV"
+    },
+    "271929": {
+        "country_code": "EC",
+        "asn": "271929",
+        "description": "INTERCOMMERCE S.A.",
+        "handle": "INTERCOMMERCE"
+    },
+    "271933": {
+        "country_code": "EC",
+        "asn": "271933",
+        "description": "AIRMAXTELECOM SOLUCIONES TECNOLOGICAS S.A.",
+        "handle": "AIRMAXTELECOM-SOLUCIONES-TECNOLOGICAS"
+    },
+    "271936": {
+        "country_code": "EC",
+        "asn": "271936",
+        "description": "SERVICIOS DE TELECOMUNICACIONES ATVCABLE CIA. LTDA.",
+        "handle": "SERVICIOS-TELECOMUNICACIONES-ATVCABLE"
+    },
+    "271941": {
+        "country_code": "EC",
+        "asn": "271941",
+        "description": "NU\u00d1EZ DE LA ROSA RICHARD DALTON (ECONTEL ECUADOR)",
+        "handle": "NUNEZ-LA-ROSA-RICHARD-DALTON"
+    },
+    "271967": {
+        "country_code": "EC",
+        "asn": "271967",
+        "description": "TURBONET S.A.",
+        "handle": "TURBONET"
+    },
+    "271975": {
+        "country_code": "EC",
+        "asn": "271975",
+        "description": "CABRERA VELEZ ELIO DAVID",
+        "handle": "CABRERA-VELEZ-ELIO-DAVID"
+    },
+    "271977": {
+        "country_code": "EC",
+        "asn": "271977",
+        "description": "SOLORZANO BRAVO ELIAS JOSE (CONECTADOS-ECUADOR)",
+        "handle": "SOLORZANO-BRAVO-ELIAS-JOSE"
+    },
+    "271983": {
+        "country_code": "EC",
+        "asn": "271983",
+        "description": "MARIA JAQUELINE OTAVALO MARIN",
+        "handle": "MARIA-JAQUELINE-OTAVALO-MARIN"
+    },
+    "272019": {
+        "country_code": "EC",
+        "asn": "272019",
+        "description": "NETDIGITAL S.A.",
+        "handle": "NETDIGITAL"
+    },
+    "272032": {
+        "country_code": "EC",
+        "asn": "272032",
+        "description": "SITERTL CIA. LTDA.",
+        "handle": "SITERTL"
+    },
+    "272034": {
+        "country_code": "EC",
+        "asn": "272034",
+        "description": "ECUAFIBRA S.A.",
+        "handle": "ECUAFIBRA"
+    },
+    "272067": {
+        "country_code": "EC",
+        "asn": "272067",
+        "description": "Universidad Estatal de Bolivar",
+        "handle": "UNIVERSIDAD-ESTATAL-BOLIVAR"
+    },
+    "272074": {
+        "country_code": "EC",
+        "asn": "272074",
+        "description": "INTERNET POR FIBRA OPTICA FONET CIA LTDA",
+        "handle": "INTERNET-POR-FIBRA"
+    },
+    "272075": {
+        "country_code": "EC",
+        "asn": "272075",
+        "description": "APOLO CHAMBA DAYRI NATHALIA (RED PLUS)",
+        "handle": "APOLO-CHAMBA-DAYRI-NATHALIA"
+    },
+    "272080": {
+        "country_code": "EC",
+        "asn": "272080",
+        "description": "Universidad Estatal de Milagro",
+        "handle": "UNIVERSIDAD-ESTATAL-MILAGRO"
+    },
+    "272094": {
+        "country_code": "EC",
+        "asn": "272094",
+        "description": "OPTILINK CIA LTDA",
+        "handle": "OPTILINK"
+    },
+    "272097": {
+        "country_code": "EC",
+        "asn": "272097",
+        "description": "TELEVISION POR CABLE COCATEVE S.A. (GRUPO COCAVISION)",
+        "handle": "TELEVISION-POR-CABLE"
+    },
+    "272101": {
+        "country_code": "EC",
+        "asn": "272101",
+        "description": "COMERCIALIZADORA MACAS CALDERON CONECTATE CIA. LTDA",
+        "handle": "COMERCIALIZADORA-MACAS-CALDERON"
+    },
+    "272121": {
+        "country_code": "EC",
+        "asn": "272121",
+        "description": "MONTA\u00d1O VELEZ MARIA TERESA (VISIONNET)",
+        "handle": "MONTANO-VELEZ-MARIA-TERESA"
+    },
+    "272140": {
+        "country_code": "EC",
+        "asn": "272140",
+        "description": "UNIVERSIDAD DE INVESTIGACION DE TECNOLOGIA EXPERIMENTAL YACHAY",
+        "handle": "UNIVERSIDAD-INVESTIGACION-TECNOLOGIA"
+    },
+    "272147": {
+        "country_code": "EC",
+        "asn": "272147",
+        "description": "ZAMBRANO INTRIAGO RICHARD EDISSON (ZAM NET)",
+        "handle": "ZAMBRANO-INTRIAGO-RICHARD"
+    },
+    "272808": {
+        "country_code": "EC",
+        "asn": "272808",
+        "description": "FRANCO MENENDEZ RICARDO JAVIER",
+        "handle": "FRANCO-MENENDEZ-RICARDO-JAVIER"
+    },
+    "272811": {
+        "country_code": "EC",
+        "asn": "272811",
+        "description": "PAALLNET CIA LTDA",
+        "handle": "PAALLNET"
+    },
+    "272817": {
+        "country_code": "EC",
+        "asn": "272817",
+        "description": "SPEED FIBER SPEEDFIBER CIA.LTDA.",
+        "handle": "SPEED-FIBER-SPEEDFIBER-CIALTDA"
+    },
+    "272819": {
+        "country_code": "EC",
+        "asn": "272819",
+        "description": "BOSCONET S.A.S.",
+        "handle": "BOSCONET"
+    },
+    "272823": {
+        "country_code": "EC",
+        "asn": "272823",
+        "description": "SILVA CORRALES DANIEL FERNANDO (SMARTNET)",
+        "handle": "SILVA-CORRALES-DANIEL-FERNANDO"
+    },
+    "272827": {
+        "country_code": "EC",
+        "asn": "272827",
+        "description": "AMMAZONTVNET CIA.LTDA.",
+        "handle": "AMMAZONTVNET-CIALTDA"
+    },
+    "272863": {
+        "country_code": "EC",
+        "asn": "272863",
+        "description": "SISTEMAS GLOBALES DE COMUNICACION HCGLOBAL S.A.",
+        "handle": "SISTEMAS-GLOBALES-COMUNICACION"
+    },
+    "272877": {
+        "country_code": "EC",
+        "asn": "272877",
+        "description": "TVDATOS S.C.C",
+        "handle": "TVDATOS-SCC"
+    },
+    "272880": {
+        "country_code": "EC",
+        "asn": "272880",
+        "description": "NEXOTEL S.A.S.",
+        "handle": "NEXOTEL"
+    },
+    "272883": {
+        "country_code": "EC",
+        "asn": "272883",
+        "description": "BRITEL S.A.",
+        "handle": "BRITEL"
+    },
+    "272889": {
+        "country_code": "EC",
+        "asn": "272889",
+        "description": "URDATEL S.A.S.",
+        "handle": "URDATEL"
+    },
+    "272890": {
+        "country_code": "EC",
+        "asn": "272890",
+        "description": "MASTER TECHNOLOGY CIA. LTDA.",
+        "handle": "MASTER-TECHNOLOGY"
+    },
+    "272910": {
+        "country_code": "EC",
+        "asn": "272910",
+        "description": "INTRIAGO CEDE\u00d1O MILTON LUYELY (RADIALNET MONTECRISTI)",
+        "handle": "INTRIAGO-CEDENO-MILTON-LUYELY"
+    },
+    "272914": {
+        "country_code": "EC",
+        "asn": "272914",
+        "description": "FAJARDO PILICITA NESTOR MARCELO (JAKFIBER)",
+        "handle": "FAJARDO-PILICITA-NESTOR"
+    },
+    "272936": {
+        "country_code": "EC",
+        "asn": "272936",
+        "description": "CIDEMS CIA.LTDA.",
+        "handle": "CIDEMS-CIALTDA"
+    },
+    "272939": {
+        "country_code": "EC",
+        "asn": "272939",
+        "description": "TELECOMNET S.A.",
+        "handle": "TELECOMNET"
+    },
+    "272954": {
+        "country_code": "EC",
+        "asn": "272954",
+        "description": "VUELATECHNOLOGY S.A.S.",
+        "handle": "VUELATECHNOLOGY"
+    },
+    "272966": {
+        "country_code": "EC",
+        "asn": "272966",
+        "description": "VELOCITY-COORPORATION S.A.S.",
+        "handle": "VELOCITY-COORPORATION"
+    },
+    "272972": {
+        "country_code": "EC",
+        "asn": "272972",
+        "description": "MARTINEZ JURADO EVELIN PAOLA (STALSOFT TYS)",
+        "handle": "MARTINEZ-JURADO-EVELIN-PAOLA"
+    },
+    "272998": {
+        "country_code": "EC",
+        "asn": "272998",
+        "description": "WORLD SISTEM TELECOM WST S.A.S.",
+        "handle": "WORLD-SISTEM-TELECOM-WST"
+    },
+    "272999": {
+        "country_code": "EC",
+        "asn": "272999",
+        "description": "ACCESSNET S.A.S.",
+        "handle": "ACCESSNET"
+    },
+    "273003": {
+        "country_code": "EC",
+        "asn": "273003",
+        "description": "Ond\u00fa Soluciones Tecnol\u00f3gicas S.A.",
+        "handle": "ONDU-SOLUCIONES-TECNOLOGICAS"
+    },
+    "273017": {
+        "country_code": "EC",
+        "asn": "273017",
+        "description": "TELNETISP S.A.S.",
+        "handle": "TELNETISP"
+    },
+    "273034": {
+        "country_code": "EC",
+        "asn": "273034",
+        "description": "COMPA\u00d1IA DE TELECOMUNICACIONES LEON & RODAS LR-COMPTEL S.A.",
+        "handle": "COMPANIA-TELECOMUNICACIONES-LEON"
+    },
+    "273035": {
+        "country_code": "EC",
+        "asn": "273035",
+        "description": "CORPORACI\u00d3N LORIATELECOM S.A.S.",
+        "handle": "CORPORACION-LORIATELECOM"
+    },
+    "273040": {
+        "country_code": "EC",
+        "asn": "273040",
+        "description": "DFSCOM DARWIN SALGADO COMUNICACIONES CIA.LTDA.",
+        "handle": "DFSCOM-DARWIN-SALGADO"
+    },
+    "273068": {
+        "country_code": "EC",
+        "asn": "273068",
+        "description": "DIAZ TORO JAVIER ANDRES (ECUARED PCTRONIC)",
+        "handle": "DIAZ-TORO-JAVIER-ANDRES"
+    },
+    "273072": {
+        "country_code": "EC",
+        "asn": "273072",
+        "description": "MAXXCON CIA.LTDA.",
+        "handle": "MAXXCON-CIALTDA"
+    },
+    "273079": {
+        "country_code": "EC",
+        "asn": "273079",
+        "description": "I-NET SOLUTIONS S.A.S.",
+        "handle": "I-NET-SOLUTIONS"
+    },
+    "273081": {
+        "country_code": "EC",
+        "asn": "273081",
+        "description": "ISP INTERNETLACRUZ S.A.S.",
+        "handle": "ISP-INTERNETLACRUZ"
+    },
+    "273098": {
+        "country_code": "EC",
+        "asn": "273098",
+        "description": "BARREIRO MENENDEZ SILVIA BEATRIZ (CABLE HOGAR)",
+        "handle": "BARREIRO-MENENDEZ-SILVIA"
+    },
+    "273123": {
+        "country_code": "EC",
+        "asn": "273123",
+        "description": "CRAMCOMNET CIA.LTDA.",
+        "handle": "CRAMCOMNET-CIALTDA"
+    },
+    "273127": {
+        "country_code": "EC",
+        "asn": "273127",
+        "description": "VITERI HERNANDEZ CHRYSTIAN PATRICIO",
+        "handle": "VITERI-HERNANDEZ-CHRYSTIAN"
+    },
+    "273140": {
+        "country_code": "EC",
+        "asn": "273140",
+        "description": "TELECOMUNICACIONES DEL ORIENTE TELECORPVP S.A.S.",
+        "handle": "TELECOMUNICACIONES-ORIENTE-TELECORPVP"
+    },
+    "273141": {
+        "country_code": "EC",
+        "asn": "273141",
+        "description": "MICARMITA S.A.S",
+        "handle": "MICARMITA"
+    },
+    "273142": {
+        "country_code": "EC",
+        "asn": "273142",
+        "description": "SERVICIOS DE TELCOMUNICACIONES LATEVECOM CIA LTDA",
+        "handle": "SERVICIOS-TELCOMUNICACIONES-LATEVECOM"
+    },
+    "273163": {
+        "country_code": "EC",
+        "asn": "273163",
+        "description": "CABASCANGO FARINANGO MARIA ERLINDA",
+        "handle": "CABASCANGO-FARINANGO-MARIA"
+    },
+    "273167": {
+        "country_code": "EC",
+        "asn": "273167",
+        "description": "WIGO S.A.S.",
+        "handle": "WIGO"
+    },
+    "273177": {
+        "country_code": "EC",
+        "asn": "273177",
+        "description": "TELECOM3000 S.A.",
+        "handle": "TELECOM3000"
+    },
+    "273190": {
+        "country_code": "EC",
+        "asn": "273190",
+        "description": "VASQUEZ BURGOS LIVINGTON",
+        "handle": "VASQUEZ-BURGOS-LIVINGTON"
+    },
+    "273195": {
+        "country_code": "EC",
+        "asn": "273195",
+        "description": "INTERPLUSNET EC CIA. LTDA.",
+        "handle": "INTERPLUSNET-EC"
+    },
+    "273196": {
+        "country_code": "EC",
+        "asn": "273196",
+        "description": "SISNETEL FIBER EC S.A.",
+        "handle": "SISNETEL-FIBER-EC"
+    },
+    "273219": {
+        "country_code": "EC",
+        "asn": "273219",
+        "description": "EQUTECHS S.A.",
+        "handle": "EQUTECHS"
+    },
+    "273229": {
+        "country_code": "EC",
+        "asn": "273229",
+        "description": "SERVICIOS&TELECOMUNICACIONES TEUNE S.A.",
+        "handle": "SERVICIOS-TELECOMUNICACIONES-TEUNE"
+    },
+    "273233": {
+        "country_code": "EC",
+        "asn": "273233",
+        "description": "URBANO URBANO LUCIA DEL SOCORRO (FIBERCOM ECUADOR)",
+        "handle": "URBANO-URBANO-LUCIA-SOCORRO"
+    },
+    "273826": {
+        "country_code": "EC",
+        "asn": "273826",
+        "description": "BARZALLO SAQUICELA CAROLINA ELIZABETH (TELNET ISP)",
+        "handle": "BARZALLO-SAQUICELA-CAROLINA"
+    },
+    "273832": {
+        "country_code": "EC",
+        "asn": "273832",
+        "description": "GAVILANEZ PROA\u00d1O PAOLA ALEXANDRA",
+        "handle": "GAVILANEZ-PROANO-PAOLA"
+    },
+    "273839": {
+        "country_code": "EC",
+        "asn": "273839",
+        "description": "SMARTCONEXION CIA.LTDA.",
+        "handle": "SMARTCONEXION-CIALTDA"
+    },
+    "273855": {
+        "country_code": "EC",
+        "asn": "273855",
+        "description": "CAIZA ELBAY SUSANA IVETH",
+        "handle": "CAIZA-ELBAY-SUSANA-IVETH"
+    },
+    "273858": {
+        "country_code": "EC",
+        "asn": "273858",
+        "description": "RICACHI ALVAREZ JUAN CARLOS (Fast Systems)",
+        "handle": "RICACHI-ALVAREZ-JUAN-CARLOS"
+    },
+    "273877": {
+        "country_code": "EC",
+        "asn": "273877",
+        "description": "TELECOMUNICACIONES NETHOMEMANTA S.A.S.",
+        "handle": "TELECOMUNICACIONES-NETHOMEMANTA"
+    },
+    "273883": {
+        "country_code": "EC",
+        "asn": "273883",
+        "description": "MEGATEL-EC S.A.",
+        "handle": "MEGATEL-EC"
+    },
+    "273921": {
+        "country_code": "EC",
+        "asn": "273921",
+        "description": "DANILO RUBEN GUEVARA LOPEZ (WIFINET)",
+        "handle": "DANILO-RUBEN-GUEVARA-LOPEZ"
+    },
+    "273923": {
+        "country_code": "EC",
+        "asn": "273923",
+        "description": "SPEEDNET-EC S.A.",
+        "handle": "SPEEDNET-EC"
+    },
+    "273944": {
+        "country_code": "EC",
+        "asn": "273944",
+        "description": "TVDATOSGROUP S.A.S.",
+        "handle": "TVDATOSGROUP"
+    },
+    "273951": {
+        "country_code": "EC",
+        "asn": "273951",
+        "description": "PASTAZATV S.A.",
+        "handle": "PASTAZATV"
+    },
+    "273966": {
+        "country_code": "EC",
+        "asn": "273966",
+        "description": "FIBERGO-TELECOM S.A.",
+        "handle": "FIBERGO-TELECOM"
+    },
+    "274004": {
+        "country_code": "EC",
+        "asn": "274004",
+        "description": "NAVARRETE HIDALGO EDISON JESUS",
+        "handle": "NAVARRETE-HIDALGO-EDISON-JESUS"
+    },
+    "274053": {
+        "country_code": "EC",
+        "asn": "274053",
+        "description": "IPTV-COM C.L. (HALLO INTERNET)",
+        "handle": "IPTV-COM-CL"
+    },
+    "274055": {
+        "country_code": "EC",
+        "asn": "274055",
+        "description": "SOLORZANO ANDRADE RONALD JAVIER(Meganet Internet)",
+        "handle": "SOLORZANO-ANDRADE-RONALD"
+    },
+    "274063": {
+        "country_code": "EC",
+        "asn": "274063",
+        "description": "RIMTEL S.A.S.",
+        "handle": "RIMTEL"
+    },
+    "274083": {
+        "country_code": "EC",
+        "asn": "274083",
+        "description": "AIRWON-FIBTEL S.A.S.",
+        "handle": "AIRWON-FIBTEL"
+    },
+    "274090": {
+        "country_code": "EC",
+        "asn": "274090",
+        "description": "CONEXIONFAST SERVICIOS DE TELECOMUNICACIONES S.A.S",
+        "handle": "CONEXIONFAST-SERVICIOS-TELECOMUNICACIONES"
+    },
+    "274106": {
+        "country_code": "EC",
+        "asn": "274106",
+        "description": "PUNTO DE INTERCAMBIO DE TRAFICO PITLATITUD0 S.A.S.",
+        "handle": "PUNTO-INTERCAMBIO-TRAFICO"
+    },
+    "274114": {
+        "country_code": "EC",
+        "asn": "274114",
+        "description": "TELSYSTEMSA S.A.",
+        "handle": "TELSYSTEMSA"
+    },
+    "274134": {
+        "country_code": "EC",
+        "asn": "274134",
+        "description": "RIOBIT CIA.LTDA.",
+        "handle": "RIOBIT-CIALTDA"
+    },
+    "274144": {
+        "country_code": "EC",
+        "asn": "274144",
+        "description": "TELINCOM S.A.",
+        "handle": "TELINCOM"
+    },
+    "274169": {
+        "country_code": "EC",
+        "asn": "274169",
+        "description": "TELECOMUNICACIONES SIERRA NETWORKS SIERRANET CIA.LTDA.",
+        "handle": "TELECOMUNICACIONES-SIERRA-NETWORKS"
+    },
+    "274176": {
+        "country_code": "EC",
+        "asn": "274176",
+        "description": "CHICAIZA NAULA MARIA UMBELINA (Mega Compu ISP)",
+        "handle": "CHICAIZA-NAULA-MARIA-UMBELINA"
+    },
+    "274183": {
+        "country_code": "EC",
+        "asn": "274183",
+        "description": "BP DATA-COMMUNICATIONS S.A.S.",
+        "handle": "BP-DATA-COMMUNICATIONS"
+    },
+    "274188": {
+        "country_code": "EC",
+        "asn": "274188",
+        "description": "CONSORCIO ECUATORIANO DE REDES Y SATELITES CONREDSAT S.A",
+        "handle": "CONSORCIO-ECUATORIANO-REDES"
+    },
+    "274196": {
+        "country_code": "EC",
+        "asn": "274196",
+        "description": "FASTCONEXION S.A.",
+        "handle": "FASTCONEXION"
+    },
+    "274231": {
+        "country_code": "EC",
+        "asn": "274231",
+        "description": "MASFIBERHOME S.A.S.",
+        "handle": "MASFIBERHOME"
+    },
+    "274252": {
+        "country_code": "EC",
+        "asn": "274252",
+        "description": "ORELTELECOM S.A.S.",
+        "handle": "ORELTELECOM"
+    },
+    "274260": {
+        "country_code": "EC",
+        "asn": "274260",
+        "description": "UNIVERSIDAD LAICA ELOY ALFARO DE MANABI",
+        "handle": "UNIVERSIDAD-LAICA-ELOY"
+    },
+    "274269": {
+        "country_code": "EC",
+        "asn": "274269",
+        "description": "VILCANET ISP S.A.S.",
+        "handle": "VILCANET-ISP"
+    },
+    "274278": {
+        "country_code": "EC",
+        "asn": "274278",
+        "description": "HIGHTELECOM S.A.S.",
+        "handle": "HIGHTELECOM"
+    },
+    "274291": {
+        "country_code": "EC",
+        "asn": "274291",
+        "description": "SERVICIOS DE INTERNET Y TELECOMUNICACIONES S-NET S.A.",
+        "handle": "SERVICIOS-INTERNET-TELECOMUNICACIONES"
+    }
+}

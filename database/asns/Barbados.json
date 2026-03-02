@@ -1,0 +1,62 @@
+{
+    "10278": {
+        "country_code": "BB",
+        "asn": "10278",
+        "description": "Cable & Wireless (Barbados) Limited",
+        "handle": "CWWI-AS"
+    },
+    "14813": {
+        "country_code": "BB",
+        "asn": "14813",
+        "description": "Columbus Telecommunications (Barbados) Limited",
+        "handle": "BB-COLUMBUS"
+    },
+    "26634": {
+        "country_code": "BB",
+        "asn": "26634",
+        "description": "First Caribbean International Bank Limited",
+        "handle": "FIRST-433"
+    },
+    "31794": {
+        "country_code": "BB",
+        "asn": "31794",
+        "description": "Caribbean Development Bank",
+        "handle": "CARIBANK"
+    },
+    "35900": {
+        "country_code": "BB",
+        "asn": "35900",
+        "description": "Digicel Barbados Ltd",
+        "handle": "DIGI-BDS-ASN"
+    },
+    "40398": {
+        "country_code": "BB",
+        "asn": "40398",
+        "description": "Sunbeach Communications Inc.",
+        "handle": "SUNBEACH"
+    },
+    "46764": {
+        "country_code": "BB",
+        "asn": "46764",
+        "description": "University of the West Indies",
+        "handle": "UWI-OPEN-CAMPUS"
+    },
+    "55033": {
+        "country_code": "BB",
+        "asn": "55033",
+        "description": "University of the West Indies",
+        "handle": "UWI-CH-ASN1"
+    },
+    "393223": {
+        "country_code": "BB",
+        "asn": "393223",
+        "description": "CWI Caribbean Limited",
+        "handle": "CWI-CARIBBEAN-AS"
+    },
+    "397166": {
+        "country_code": "BB",
+        "asn": "397166",
+        "description": "CWI Caribbean Limited",
+        "handle": "CWSKB-ASN2"
+    }
+}

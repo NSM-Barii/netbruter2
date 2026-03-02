@@ -1,0 +1,146 @@
+{
+    "5416": {
+        "country_code": "BH",
+        "asn": "5416",
+        "description": "BEYON B.S.C.",
+        "handle": "BEYON-BSC"
+    },
+    "5584": {
+        "country_code": "BH",
+        "asn": "5584",
+        "description": "University of Bahrain",
+        "handle": "UNIVERSITY-OF-BAHRAIN"
+    },
+    "15539": {
+        "country_code": "BH",
+        "asn": "15539",
+        "description": "BEYON B.S.C.",
+        "handle": "BATELCO-CORE-IP-NETWORK"
+    },
+    "30882": {
+        "country_code": "BH",
+        "asn": "30882",
+        "description": "The Benefit Company B.S.C. (C)",
+        "handle": "BENEFIT"
+    },
+    "31452": {
+        "country_code": "BH",
+        "asn": "31452",
+        "description": "ZAIN BAHRAIN B.S.C.",
+        "handle": "ZAIN-BH-AS"
+    },
+    "35019": {
+        "country_code": "BH",
+        "asn": "35019",
+        "description": "Bahrain Internet Exchange",
+        "handle": "BIX-AS"
+    },
+    "35313": {
+        "country_code": "BH",
+        "asn": "35313",
+        "description": "Infonas W.L.L.",
+        "handle": "BH-INFONAS-ASN"
+    },
+    "35457": {
+        "country_code": "BH",
+        "asn": "35457",
+        "description": "Etisalcom Bahrain Company W.L.L.",
+        "handle": "ETISALCOM-AS"
+    },
+    "35546": {
+        "country_code": "BH",
+        "asn": "35546",
+        "description": "Northstar Technology Company W.L.L.",
+        "handle": "NORTHSTAR"
+    },
+    "35568": {
+        "country_code": "BH",
+        "asn": "35568",
+        "description": "Nuetel Communications B.S.C",
+        "handle": "TORLOVER"
+    },
+    "35729": {
+        "country_code": "BH",
+        "asn": "35729",
+        "description": "ViaCloud WLL",
+        "handle": "VIACLOUD-AS"
+    },
+    "39015": {
+        "country_code": "BH",
+        "asn": "39015",
+        "description": "STC BAHRAIN B.S.C CLOSED",
+        "handle": "VIVABH-AS2"
+    },
+    "39273": {
+        "country_code": "BH",
+        "asn": "39273",
+        "description": "Kalaam Telecom Bahrain B.S.C.",
+        "handle": "KALAAM-TELECOM"
+    },
+    "48109": {
+        "country_code": "BH",
+        "asn": "48109",
+        "description": "Information and eGovernment Authority",
+        "handle": "CIO-AS"
+    },
+    "51375": {
+        "country_code": "BH",
+        "asn": "51375",
+        "description": "STC BAHRAIN B.S.C CLOSED",
+        "handle": "VIVABH"
+    },
+    "51429": {
+        "country_code": "BH",
+        "asn": "51429",
+        "description": "ARAB BANKING CORPORATION B S C",
+        "handle": "BABC-BH-AS"
+    },
+    "56494": {
+        "country_code": "BH",
+        "asn": "56494",
+        "description": "Etisalcom Bahrain Company W.L.L.",
+        "handle": "ETISALCOM-CORP"
+    },
+    "62123": {
+        "country_code": "BH",
+        "asn": "62123",
+        "description": "Rapid Telecommunications W.L.L.",
+        "handle": "RT-AS"
+    },
+    "201998": {
+        "country_code": "BH",
+        "asn": "201998",
+        "description": "National Bank of Bahrain",
+        "handle": "NBB"
+    },
+    "204200": {
+        "country_code": "BH",
+        "asn": "204200",
+        "description": "ZAIN BAHRAIN B.S.C.",
+        "handle": "ZAIN-BH-PRNG"
+    },
+    "209004": {
+        "country_code": "BH",
+        "asn": "209004",
+        "description": "AMEX (MIDDLE EAST) B.S.C. (CLOSED)",
+        "handle": "AMEX-ME-AS"
+    },
+    "209752": {
+        "country_code": "BH",
+        "asn": "209752",
+        "description": "BEYON B.S.C.",
+        "handle": "BATELCO"
+    },
+    "210968": {
+        "country_code": "BH",
+        "asn": "210968",
+        "description": "SINNAD W.L.L",
+        "handle": "SINNAD-BAH"
+    },
+    "215287": {
+        "country_code": "BH",
+        "asn": "215287",
+        "description": "Secure Digital Apps CO WLL",
+        "handle": "SECUREDIGITALAPP"
+    }
+}

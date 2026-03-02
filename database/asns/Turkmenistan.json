@@ -1,0 +1,50 @@
+{
+    "20661": {
+        "country_code": "TM",
+        "asn": "20661",
+        "description": "State Company of Electro Communications Turkmentelecom",
+        "handle": "TURKMENTELECOM-AS"
+    },
+    "51495": {
+        "country_code": "TM",
+        "asn": "51495",
+        "description": "Telephone Network of Ashgabat CJSC",
+        "handle": "AGTS-AS"
+    },
+    "59974": {
+        "country_code": "TM",
+        "asn": "59974",
+        "description": "Altyn Asyr CJSC",
+        "handle": "TMCELL-NET"
+    },
+    "201558": {
+        "country_code": "TM",
+        "asn": "201558",
+        "description": "The State Bank for Foreign Affairs of Turkmenistan",
+        "handle": "TFEB-AS"
+    },
+    "204579": {
+        "country_code": "TM",
+        "asn": "204579",
+        "description": "Turkmen hemrasi CJSC",
+        "handle": "TH"
+    },
+    "205471": {
+        "country_code": "TM",
+        "asn": "205471",
+        "description": "Telephone Network of Ashgabat City CJSC",
+        "handle": "CDMA-AGTS-AS"
+    },
+    "215487": {
+        "country_code": "TM",
+        "asn": "215487",
+        "description": "Tehno Merkez CJSC",
+        "handle": "TEHNOMERKEZ"
+    },
+    "215598": {
+        "country_code": "TM",
+        "asn": "215598",
+        "description": "Tehno Merkez CJSC",
+        "handle": "TKM-IX"
+    }
+}

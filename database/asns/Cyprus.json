@@ -1,0 +1,1004 @@
+{
+    "3268": {
+        "country_code": "CY",
+        "asn": "3268",
+        "description": "University of Cyprus",
+        "handle": "UNIVERSITY-OF-CYPRUS"
+    },
+    "5425": {
+        "country_code": "CY",
+        "asn": "5425",
+        "description": "Primetel PLC",
+        "handle": "SPIDERNET"
+    },
+    "5504": {
+        "country_code": "CY",
+        "asn": "5504",
+        "description": "Logosnet Services Limited",
+        "handle": "LOGOSNET"
+    },
+    "5531": {
+        "country_code": "CY",
+        "asn": "5531",
+        "description": "SINUM CURRUS LTD",
+        "handle": "TEZTOUR-AS"
+    },
+    "6866": {
+        "country_code": "CY",
+        "asn": "6866",
+        "description": "Cyprus Telecommunications Authority",
+        "handle": "CYTA-NETWORK"
+    },
+    "8544": {
+        "country_code": "CY",
+        "asn": "8544",
+        "description": "Primetel PLC",
+        "handle": "NSP-INTL"
+    },
+    "8639": {
+        "country_code": "CY",
+        "asn": "8639",
+        "description": "Bilgi Teknolojileri ve Haberlesme Kurumu",
+        "handle": "BTHK"
+    },
+    "9139": {
+        "country_code": "CY",
+        "asn": "9139",
+        "description": "University of Cyprus",
+        "handle": "UNIVERSITY-OF-CYPRUS"
+    },
+    "12567": {
+        "country_code": "CY",
+        "asn": "12567",
+        "description": "GAIJIN NETWORK LTD",
+        "handle": "GAIJIN-ST"
+    },
+    "15805": {
+        "country_code": "CY",
+        "asn": "15805",
+        "description": "EPIC LTD",
+        "handle": "SKYNET-CY-AS"
+    },
+    "16229": {
+        "country_code": "CY",
+        "asn": "16229",
+        "description": "Primetel PLC",
+        "handle": "PRIMETEL"
+    },
+    "21427": {
+        "country_code": "CY",
+        "asn": "21427",
+        "description": "NEAR EAST BANK LTD",
+        "handle": "ASNEB"
+    },
+    "24655": {
+        "country_code": "CY",
+        "asn": "24655",
+        "description": "BANK OF CYPRUS PUBLIC COMPANY LIMITED",
+        "handle": "BOC-AS"
+    },
+    "24672": {
+        "country_code": "CY",
+        "asn": "24672",
+        "description": "Primetel PLC",
+        "handle": "CALLSAT-AS"
+    },
+    "25425": {
+        "country_code": "CY",
+        "asn": "25425",
+        "description": "SCF MANAGEMENT SERVICES (CYPRUS) LTD",
+        "handle": "UNICOM"
+    },
+    "29171": {
+        "country_code": "CY",
+        "asn": "29171",
+        "description": "N.C. NET-CONNECT (CY) LTD",
+        "handle": "NETCONNECT"
+    },
+    "29639": {
+        "country_code": "CY",
+        "asn": "29639",
+        "description": "Eurocenter Games Ltd",
+        "handle": "EUROCENTER-AS"
+    },
+    "30916": {
+        "country_code": "CY",
+        "asn": "30916",
+        "description": "Primetel PLC",
+        "handle": "NETWAY-AS"
+    },
+    "34480": {
+        "country_code": "CY",
+        "asn": "34480",
+        "description": "Redlimtech Limited",
+        "handle": "GSC-AS"
+    },
+    "34775": {
+        "country_code": "CY",
+        "asn": "34775",
+        "description": "LVNET LTD",
+        "handle": "LVNET-AS"
+    },
+    "35432": {
+        "country_code": "CY",
+        "asn": "35432",
+        "description": "Cablenet Communication Systems plc",
+        "handle": "CABLENET-AS"
+    },
+    "39666": {
+        "country_code": "CY",
+        "asn": "39666",
+        "description": "Redlimtech Limited",
+        "handle": "RADIOC-AS"
+    },
+    "39935": {
+        "country_code": "CY",
+        "asn": "39935",
+        "description": "NETSMART (CYPRUS) LTD",
+        "handle": "NSMRT-AS"
+    },
+    "40809": {
+        "country_code": "CY",
+        "asn": "40809",
+        "description": "PrimeXM Networks (Cyprus) Ltd",
+        "handle": "CY-PRIMEXM-NETWORKS"
+    },
+    "41657": {
+        "country_code": "CY",
+        "asn": "41657",
+        "description": "Cyprus Telecommunications Authority",
+        "handle": "CYTA-CORE-NETWORK"
+    },
+    "41697": {
+        "country_code": "CY",
+        "asn": "41697",
+        "description": "Hellas Sat Consortium Ltd",
+        "handle": "HELLAS-SAT-ASN"
+    },
+    "42913": {
+        "country_code": "CY",
+        "asn": "42913",
+        "description": "Redlimtech Limited",
+        "handle": "REDLIMTECH-AS"
+    },
+    "43644": {
+        "country_code": "CY",
+        "asn": "43644",
+        "description": "Federal Bank Middle East Card Services LTD",
+        "handle": "FBME-AS"
+    },
+    "43779": {
+        "country_code": "CY",
+        "asn": "43779",
+        "description": "KIBRIS VAKIFLAR BANKASI LTD",
+        "handle": "KVB-AS"
+    },
+    "44364": {
+        "country_code": "CY",
+        "asn": "44364",
+        "description": "LVNET LTD",
+        "handle": "LVNET-AS"
+    },
+    "44550": {
+        "country_code": "CY",
+        "asn": "44550",
+        "description": "Techno G Limited",
+        "handle": "TECHNOG"
+    },
+    "44559": {
+        "country_code": "CY",
+        "asn": "44559",
+        "description": "IT HOSTLINE LTD",
+        "handle": "ITHOSTLINE"
+    },
+    "47583": {
+        "country_code": "CY",
+        "asn": "47583",
+        "description": "Hostinger International Limited",
+        "handle": "AS-HOSTINGER"
+    },
+    "48285": {
+        "country_code": "CY",
+        "asn": "48285",
+        "description": "TRISOPTERUS LTD",
+        "handle": "TRISOPTERUS-AS"
+    },
+    "48623": {
+        "country_code": "CY",
+        "asn": "48623",
+        "description": "CYPRUS Development Bank Limited",
+        "handle": "CYDB-AS"
+    },
+    "49338": {
+        "country_code": "CY",
+        "asn": "49338",
+        "description": "ALPHA BANK CYPRUS LTD",
+        "handle": "ALPHABANKCY-AS"
+    },
+    "49768": {
+        "country_code": "CY",
+        "asn": "49768",
+        "description": "Extlikes Solutions LTD",
+        "handle": "ASN-EXTLIKES"
+    },
+    "49921": {
+        "country_code": "CY",
+        "asn": "49921",
+        "description": "FORMULA INVESTMENT HOUSE B.O.S LTD",
+        "handle": "IFOREX-ASN"
+    },
+    "50007": {
+        "country_code": "CY",
+        "asn": "50007",
+        "description": "LVNET LTD",
+        "handle": "LVNET-AS"
+    },
+    "50233": {
+        "country_code": "CY",
+        "asn": "50233",
+        "description": "Department of Information Technology Services (DITS)",
+        "handle": "DITS"
+    },
+    "50769": {
+        "country_code": "CY",
+        "asn": "50769",
+        "description": "Osbil Technology Ltd.",
+        "handle": "OSBIL"
+    },
+    "50996": {
+        "country_code": "CY",
+        "asn": "50996",
+        "description": "AMDOCS DEVELOPMENT LIMITED",
+        "handle": "AMDOCSCYLIM"
+    },
+    "51228": {
+        "country_code": "CY",
+        "asn": "51228",
+        "description": "CENTRAL BANK CYPRUS LTD",
+        "handle": "CENBANKCY"
+    },
+    "51297": {
+        "country_code": "CY",
+        "asn": "51297",
+        "description": "Exinity works (CY) LTD",
+        "handle": "ALPARI"
+    },
+    "51351": {
+        "country_code": "CY",
+        "asn": "51351",
+        "description": "Classwire Limited",
+        "handle": "CLASSWIRE-AS"
+    },
+    "51606": {
+        "country_code": "CY",
+        "asn": "51606",
+        "description": "Globico Limited",
+        "handle": "GLOBICO-AS"
+    },
+    "51609": {
+        "country_code": "CY",
+        "asn": "51609",
+        "description": "AULMARK LIMITED",
+        "handle": "AULMARK-LIMITED"
+    },
+    "52080": {
+        "country_code": "CY",
+        "asn": "52080",
+        "description": "M. SEREDA NETWORK LTD",
+        "handle": "NETCOM"
+    },
+    "56355": {
+        "country_code": "CY",
+        "asn": "56355",
+        "description": "Redlimtech Limited",
+        "handle": "ICONNECT-AS"
+    },
+    "56418": {
+        "country_code": "CY",
+        "asn": "56418",
+        "description": "Operationrange LTD",
+        "handle": "OPERATIONRANGE"
+    },
+    "56528": {
+        "country_code": "CY",
+        "asn": "56528",
+        "description": "BIG MMO GAME NETWORK LIMITED",
+        "handle": "BIGMMO-AS"
+    },
+    "56860": {
+        "country_code": "CY",
+        "asn": "56860",
+        "description": "ASBANK LIMITED",
+        "handle": "ASBNK-AS"
+    },
+    "56884": {
+        "country_code": "CY",
+        "asn": "56884",
+        "description": "T.K Bytech LTD",
+        "handle": "TKBYTECH"
+    },
+    "58181": {
+        "country_code": "CY",
+        "asn": "58181",
+        "description": "ULTRANEX LTD",
+        "handle": "RAPIDGATOR-AS"
+    },
+    "59406": {
+        "country_code": "CY",
+        "asn": "59406",
+        "description": "B.W.I. BLACK-WOOD LIMITED",
+        "handle": "BLACK-WOOD-AS"
+    },
+    "59655": {
+        "country_code": "CY",
+        "asn": "59655",
+        "description": "Exinity works (CY) LTD",
+        "handle": "EXINITY-AS"
+    },
+    "59697": {
+        "country_code": "CY",
+        "asn": "59697",
+        "description": "CARLETTA Ltd",
+        "handle": "CARLETTA-AS"
+    },
+    "59707": {
+        "country_code": "CY",
+        "asn": "59707",
+        "description": "SmartLabs Holding Ltd",
+        "handle": "SMLABS2"
+    },
+    "59719": {
+        "country_code": "CY",
+        "asn": "59719",
+        "description": "PrimeXM Services (Cyprus) Ltd",
+        "handle": "PRIMEXM"
+    },
+    "61067": {
+        "country_code": "CY",
+        "asn": "61067",
+        "description": "EON TV INTERNATIONAL LTD",
+        "handle": "SOLFORD"
+    },
+    "61170": {
+        "country_code": "CY",
+        "asn": "61170",
+        "description": "SmartLabs Holding Ltd",
+        "handle": "SMLABS1"
+    },
+    "62187": {
+        "country_code": "CY",
+        "asn": "62187",
+        "description": "CREDITWEST BANK LTD",
+        "handle": "CWB-AS"
+    },
+    "150405": {
+        "country_code": "CY",
+        "asn": "150405",
+        "description": "My.com",
+        "handle": "MML-AS-AP"
+    },
+    "153562": {
+        "country_code": "CY",
+        "asn": "153562",
+        "description": "Alber Blanc Alpha LTD",
+        "handle": "ABAL-AS-AP"
+    },
+    "153773": {
+        "country_code": "CY",
+        "asn": "153773",
+        "description": "MetaQuotes Ltd",
+        "handle": "METAQUOTES-AS-AP"
+    },
+    "196736": {
+        "country_code": "CY",
+        "asn": "196736",
+        "description": "FXPRO FINANCIAL SERVICES LTD",
+        "handle": "EUROORIENT"
+    },
+    "196984": {
+        "country_code": "CY",
+        "asn": "196984",
+        "description": "Hermes Airports Ltd",
+        "handle": "HERMES-AIRPORTS"
+    },
+    "196992": {
+        "country_code": "CY",
+        "asn": "196992",
+        "description": "IKOS CIF Ltd",
+        "handle": "IKOSCIF-AS"
+    },
+    "197648": {
+        "country_code": "CY",
+        "asn": "197648",
+        "description": "CLOUDLAYER8 LIMITED",
+        "handle": "CL8ASN1"
+    },
+    "197774": {
+        "country_code": "CY",
+        "asn": "197774",
+        "description": "CDMA Services Limited",
+        "handle": "CDMA-CY"
+    },
+    "197785": {
+        "country_code": "CY",
+        "asn": "197785",
+        "description": "Allied Engineering Group (Cyprus) LTD",
+        "handle": "ALLIEDENG-AS"
+    },
+    "198268": {
+        "country_code": "CY",
+        "asn": "198268",
+        "description": "Nonagon Edge SF LTD",
+        "handle": "NONAGON"
+    },
+    "198336": {
+        "country_code": "CY",
+        "asn": "198336",
+        "description": "Cyprus University of Technology",
+        "handle": "CUT"
+    },
+    "198461": {
+        "country_code": "CY",
+        "asn": "198461",
+        "description": "BRILLIANT TELECOM LIMITED",
+        "handle": "BRILLIANT-TELECOM-LTD-AS"
+    },
+    "198858": {
+        "country_code": "CY",
+        "asn": "198858",
+        "description": "cTrader Ltd",
+        "handle": "CTRADER-AS"
+    },
+    "198943": {
+        "country_code": "CY",
+        "asn": "198943",
+        "description": "Electricity Authority of Cyprus",
+        "handle": "EAC-AS"
+    },
+    "199188": {
+        "country_code": "CY",
+        "asn": "199188",
+        "description": "PrimeXM Services (Cyprus) Ltd",
+        "handle": "PRIMEXM"
+    },
+    "199206": {
+        "country_code": "CY",
+        "asn": "199206",
+        "description": "NOTESCO FINANCIAL SERVICES LIMITED",
+        "handle": "IRONFX-AS"
+    },
+    "199247": {
+        "country_code": "CY",
+        "asn": "199247",
+        "description": "INTELIT LTD",
+        "handle": "FS-NEST-AS"
+    },
+    "199631": {
+        "country_code": "CY",
+        "asn": "199631",
+        "description": "REDMAX TECHNOLOGIES LTD",
+        "handle": "REDMAX"
+    },
+    "200055": {
+        "country_code": "CY",
+        "asn": "200055",
+        "description": "Penta Investments Limited",
+        "handle": "PENTA36-AS"
+    },
+    "200403": {
+        "country_code": "CY",
+        "asn": "200403",
+        "description": "Airtel Net Ltd",
+        "handle": "AIRTEL-NET"
+    },
+    "200649": {
+        "country_code": "CY",
+        "asn": "200649",
+        "description": "ANCORIA BANK LIMITED",
+        "handle": "ANCORIA-BANK-AS"
+    },
+    "201812": {
+        "country_code": "CY",
+        "asn": "201812",
+        "description": "IL Technologies Group Limited",
+        "handle": "ITG"
+    },
+    "201860": {
+        "country_code": "CY",
+        "asn": "201860",
+        "description": "MyTelco Ltd",
+        "handle": "MYTELCO"
+    },
+    "201872": {
+        "country_code": "CY",
+        "asn": "201872",
+        "description": "Redlimtech Limited",
+        "handle": "MIXNET-AS"
+    },
+    "201978": {
+        "country_code": "CY",
+        "asn": "201978",
+        "description": "Osbil Technology Ltd.",
+        "handle": "OSBIL"
+    },
+    "202117": {
+        "country_code": "CY",
+        "asn": "202117",
+        "description": "Trading Point of Financials Instruments Ltd",
+        "handle": "TRADINGPOINT"
+    },
+    "202232": {
+        "country_code": "CY",
+        "asn": "202232",
+        "description": "Odyssey Consultants Ltd",
+        "handle": "ODYSSEYCONSULTANTS-AS"
+    },
+    "202448": {
+        "country_code": "CY",
+        "asn": "202448",
+        "description": "MVPS LTD",
+        "handle": "MVPS"
+    },
+    "202534": {
+        "country_code": "CY",
+        "asn": "202534",
+        "description": "Trading Point of Financials Instruments Ltd",
+        "handle": "TRADINGPOINTNIC"
+    },
+    "202954": {
+        "country_code": "CY",
+        "asn": "202954",
+        "description": "Rapiddot Hosting Services Ltd",
+        "handle": "RAPIDDOT"
+    },
+    "203206": {
+        "country_code": "CY",
+        "asn": "203206",
+        "description": "A.C. NetFlash Technologies Ltd",
+        "handle": "NETFLASH-CY-ISP"
+    },
+    "203316": {
+        "country_code": "CY",
+        "asn": "203316",
+        "description": "SOL Holdings Limited",
+        "handle": "DMM-SOLUTIONS-F0"
+    },
+    "203402": {
+        "country_code": "CY",
+        "asn": "203402",
+        "description": "C.S.P.S Carta Solutions Processing Services (CYPRUS)LTD",
+        "handle": "CARTA-CY"
+    },
+    "203410": {
+        "country_code": "CY",
+        "asn": "203410",
+        "description": "COLOBIX LTD",
+        "handle": "COLOBIX"
+    },
+    "203598": {
+        "country_code": "CY",
+        "asn": "203598",
+        "description": "SIMPLEX SOFTWARE & INTERNET SERVICES LTD",
+        "handle": "SIMPLEX-SOFTWARE-AS"
+    },
+    "203663": {
+        "country_code": "CY",
+        "asn": "203663",
+        "description": "Wargaming Group Limited",
+        "handle": "WGHQ-AS"
+    },
+    "203690": {
+        "country_code": "CY",
+        "asn": "203690",
+        "description": "RTB Marketing and Tech Services Ltd",
+        "handle": "RTB-HOUSE-ASH"
+    },
+    "203872": {
+        "country_code": "CY",
+        "asn": "203872",
+        "description": "AdGuard Software Limited",
+        "handle": "ASL"
+    },
+    "203946": {
+        "country_code": "CY",
+        "asn": "203946",
+        "description": "IQOPTION EUROPE LTD",
+        "handle": "IQOPTION-2"
+    },
+    "204006": {
+        "country_code": "CY",
+        "asn": "204006",
+        "description": "IQOPTION EUROPE LTD",
+        "handle": "IQOPTION"
+    },
+    "204343": {
+        "country_code": "CY",
+        "asn": "204343",
+        "description": "Compubyte Limited",
+        "handle": "COMPUBYTE-AS"
+    },
+    "204453": {
+        "country_code": "CY",
+        "asn": "204453",
+        "description": "VASKIANI VENTURES LIMITED",
+        "handle": "VASKIANI-AS"
+    },
+    "204610": {
+        "country_code": "CY",
+        "asn": "204610",
+        "description": "I.M.A. Software Future Solutions Ltd",
+        "handle": "IMASOFTWARE-AS"
+    },
+    "204775": {
+        "country_code": "CY",
+        "asn": "204775",
+        "description": "D.S.T.U. Telecom Limited",
+        "handle": "DSTU"
+    },
+    "204915": {
+        "country_code": "CY",
+        "asn": "204915",
+        "description": "Hostinger International Limited",
+        "handle": "AWEX"
+    },
+    "204995": {
+        "country_code": "CY",
+        "asn": "204995",
+        "description": "RTB Marketing and Tech Services Ltd",
+        "handle": "RTB-HOUSE-AMS"
+    },
+    "205186": {
+        "country_code": "CY",
+        "asn": "205186",
+        "description": "MetaQuotes Ltd",
+        "handle": "MQ"
+    },
+    "205216": {
+        "country_code": "CY",
+        "asn": "205216",
+        "description": "VASKIANI VENTURES LIMITED",
+        "handle": "MEGOGO-AS"
+    },
+    "205362": {
+        "country_code": "CY",
+        "asn": "205362",
+        "description": "SKY WISP SERVICES LTD",
+        "handle": "SKYWISP"
+    },
+    "205972": {
+        "country_code": "CY",
+        "asn": "205972",
+        "description": "Hellenic Bank Public Company Ltd",
+        "handle": "HELLENIC-BANK-AS"
+    },
+    "206044": {
+        "country_code": "CY",
+        "asn": "206044",
+        "description": "MOBICO SERVICES LIMITED",
+        "handle": "MOBICO-AS"
+    },
+    "206074": {
+        "country_code": "CY",
+        "asn": "206074",
+        "description": "F.N.S. HOLDINGS LIMITED",
+        "handle": "ASCOMMONDIGIT"
+    },
+    "206092": {
+        "country_code": "CY",
+        "asn": "206092",
+        "description": "F.N.S. HOLDINGS LIMITED",
+        "handle": "SECFIREWALLAS"
+    },
+    "206150": {
+        "country_code": "CY",
+        "asn": "206150",
+        "description": "F.N.S. HOLDINGS LIMITED",
+        "handle": "CUBEFOCUS-AS"
+    },
+    "206164": {
+        "country_code": "CY",
+        "asn": "206164",
+        "description": "F.N.S. HOLDINGS LIMITED",
+        "handle": "ASREACHABLENET"
+    },
+    "206244": {
+        "country_code": "CY",
+        "asn": "206244",
+        "description": "DutchTech Pcs Ltd",
+        "handle": "FIRSTNET"
+    },
+    "206502": {
+        "country_code": "CY",
+        "asn": "206502",
+        "description": "RTB Marketing and Tech Services Ltd",
+        "handle": "RTB-HOUSE-WAW"
+    },
+    "206717": {
+        "country_code": "CY",
+        "asn": "206717",
+        "description": "A.K.M Network Ltd",
+        "handle": "BLUENET-AS"
+    },
+    "206912": {
+        "country_code": "CY",
+        "asn": "206912",
+        "description": "Superdach LTD",
+        "handle": "ALPHA-NET-CY"
+    },
+    "206962": {
+        "country_code": "CY",
+        "asn": "206962",
+        "description": "HOSTING B2B LTD",
+        "handle": "HOSTINGB2B-CURACAO"
+    },
+    "207431": {
+        "country_code": "CY",
+        "asn": "207431",
+        "description": "AUB Limited",
+        "handle": "AUB-LIMITED"
+    },
+    "207440": {
+        "country_code": "CY",
+        "asn": "207440",
+        "description": "KEYRUNON LIMITED",
+        "handle": "AS-BKT"
+    },
+    "207658": {
+        "country_code": "CY",
+        "asn": "207658",
+        "description": "ZONEVOICE LIMITED",
+        "handle": "ZONEVOICE"
+    },
+    "207763": {
+        "country_code": "CY",
+        "asn": "207763",
+        "description": "Campionlabs LTD",
+        "handle": "CAMPIONLABS"
+    },
+    "207971": {
+        "country_code": "CY",
+        "asn": "207971",
+        "description": "CYPRUS ASSET MANAGEMENT COMPANY LIMITED",
+        "handle": "KEDIPES-LTD"
+    },
+    "208037": {
+        "country_code": "CY",
+        "asn": "208037",
+        "description": "KEYRUNON LIMITED",
+        "handle": "AS-PDC"
+    },
+    "208040": {
+        "country_code": "CY",
+        "asn": "208040",
+        "description": "RSS (RAPID SOFTWARE SYSTEMS) CYPRUS LTD",
+        "handle": "GHOFI"
+    },
+    "208415": {
+        "country_code": "CY",
+        "asn": "208415",
+        "description": "INTELIT LTD",
+        "handle": "INTELIT-AS"
+    },
+    "208425": {
+        "country_code": "CY",
+        "asn": "208425",
+        "description": "Osbil Technology Ltd.",
+        "handle": "YONCU"
+    },
+    "208495": {
+        "country_code": "CY",
+        "asn": "208495",
+        "description": "Bolton Technologies LTD",
+        "handle": "BOLTON"
+    },
+    "208521": {
+        "country_code": "CY",
+        "asn": "208521",
+        "description": "Bilgi Teknolojileri ve Haberlesme Kurumu",
+        "handle": "BTHK-MAIN"
+    },
+    "208561": {
+        "country_code": "CY",
+        "asn": "208561",
+        "description": "IQOPTION EUROPE LTD",
+        "handle": "IQOPTION-SC"
+    },
+    "208601": {
+        "country_code": "CY",
+        "asn": "208601",
+        "description": "JCC Payment Systems LTD",
+        "handle": "JCCPAYMENTSYSTEMS"
+    },
+    "208617": {
+        "country_code": "CY",
+        "asn": "208617",
+        "description": "PrimeNet Internet Servis Sag. LTD.",
+        "handle": "PRIMENETCY"
+    },
+    "209180": {
+        "country_code": "CY",
+        "asn": "209180",
+        "description": "IQOPTION EUROPE LTD",
+        "handle": "IQOPTION-AMS"
+    },
+    "209231": {
+        "country_code": "CY",
+        "asn": "209231",
+        "description": "KEYRUNON LIMITED",
+        "handle": "AS-KEYRUNON"
+    },
+    "209366": {
+        "country_code": "CY",
+        "asn": "209366",
+        "description": "SEMrush CY LTD",
+        "handle": "SEMRUSH-AS"
+    },
+    "209382": {
+        "country_code": "CY",
+        "asn": "209382",
+        "description": "TEN MEDIA (CYPRUS) LTD",
+        "handle": "SL"
+    },
+    "209562": {
+        "country_code": "CY",
+        "asn": "209562",
+        "description": "LVNET LTD",
+        "handle": "LVNET-AS"
+    },
+    "209617": {
+        "country_code": "CY",
+        "asn": "209617",
+        "description": "University of Cyprus",
+        "handle": "UCY"
+    },
+    "209625": {
+        "country_code": "CY",
+        "asn": "209625",
+        "description": "Redcluster LTD",
+        "handle": "REDCLUSTER"
+    },
+    "209716": {
+        "country_code": "CY",
+        "asn": "209716",
+        "description": "Andreas Economides trading as Ecotech Engineering",
+        "handle": "ECOTECH"
+    },
+    "209772": {
+        "country_code": "CY",
+        "asn": "209772",
+        "description": "Maiva Services Ltd",
+        "handle": "MATWORKS"
+    },
+    "210366": {
+        "country_code": "CY",
+        "asn": "210366",
+        "description": "Wargaming Group Limited",
+        "handle": "WGUS-AS"
+    },
+    "210800": {
+        "country_code": "CY",
+        "asn": "210800",
+        "description": "cTrader Ltd",
+        "handle": "CTRADER"
+    },
+    "211072": {
+        "country_code": "CY",
+        "asn": "211072",
+        "description": "MFI INVESTMENTS LIMITED",
+        "handle": "MFI-AS"
+    },
+    "211239": {
+        "country_code": "CY",
+        "asn": "211239",
+        "description": "DutchTech Pcs Ltd",
+        "handle": "WINET"
+    },
+    "211537": {
+        "country_code": "CY",
+        "asn": "211537",
+        "description": "Pifagorus Ltd",
+        "handle": "SECURITA-AS"
+    },
+    "211725": {
+        "country_code": "CY",
+        "asn": "211725",
+        "description": "REMANOVA LTD",
+        "handle": "REMANOVA"
+    },
+    "211779": {
+        "country_code": "CY",
+        "asn": "211779",
+        "description": "Cyprus Research and Academic Network (CYNET)",
+        "handle": "CYNET-1"
+    },
+    "211839": {
+        "country_code": "CY",
+        "asn": "211839",
+        "description": "JMT Paso Limited",
+        "handle": "SEEDIT4ME"
+    },
+    "212200": {
+        "country_code": "CY",
+        "asn": "212200",
+        "description": "EUCLID SERVICES LIMITED",
+        "handle": "EUCLID"
+    },
+    "212772": {
+        "country_code": "CY",
+        "asn": "212772",
+        "description": "AdGuard Software Limited",
+        "handle": "ADGUARD"
+    },
+    "212875": {
+        "country_code": "CY",
+        "asn": "212875",
+        "description": "Cyprus Telecommunications Authority",
+        "handle": "CYTA-MOBILE-NETWORK"
+    },
+    "213793": {
+        "country_code": "CY",
+        "asn": "213793",
+        "description": "Open University of Cyprus",
+        "handle": "OUC"
+    },
+    "213936": {
+        "country_code": "CY",
+        "asn": "213936",
+        "description": "VENSON LTD",
+        "handle": "VENSON-LTD"
+    },
+    "214124": {
+        "country_code": "CY",
+        "asn": "214124",
+        "description": "Intrahost Solutions Ltd",
+        "handle": "INTRAHOST"
+    },
+    "214273": {
+        "country_code": "CY",
+        "asn": "214273",
+        "description": "MetaQuotes Ltd",
+        "handle": "METAQUOTES"
+    },
+    "214504": {
+        "country_code": "CY",
+        "asn": "214504",
+        "description": "Hostman LTD",
+        "handle": "HOSTMAN"
+    },
+    "214979": {
+        "country_code": "CY",
+        "asn": "214979",
+        "description": "DIJUST DEVELOPMENT LTD",
+        "handle": "DIJUST-DEVELOPMENT"
+    },
+    "215099": {
+        "country_code": "CY",
+        "asn": "215099",
+        "description": "LIRIONA LTD",
+        "handle": "LIRIONA-AS"
+    },
+    "215202": {
+        "country_code": "CY",
+        "asn": "215202",
+        "description": "SOL Holdings Limited",
+        "handle": "DMM-SOLUTIONS-IPTP"
+    },
+    "215621": {
+        "country_code": "CY",
+        "asn": "215621",
+        "description": "Cyant ARB LTD",
+        "handle": "CYANTARB"
+    },
+    "215918": {
+        "country_code": "CY",
+        "asn": "215918",
+        "description": "SOL Holdings Limited",
+        "handle": "DMM-SOLUTIONS-F1"
+    },
+    "216151": {
+        "country_code": "CY",
+        "asn": "216151",
+        "description": "S.S NETSHOP INTERNET SERVICES LTD",
+        "handle": "NETSHOP-ISP"
+    }
+}

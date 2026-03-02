@@ -1,0 +1,14 @@
+{
+    "9751": {
+        "country_code": "AS",
+        "asn": "9751",
+        "description": "American Samoa Telecommunications Authority",
+        "handle": "ASTCA-AS-AP"
+    },
+    "23657": {
+        "country_code": "AS",
+        "asn": "23657",
+        "description": "Blue Sky Communications",
+        "handle": "BLUESKY-AS-AP"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "2740": {
+        "country_code": "AI",
+        "asn": "2740",
+        "description": "Caribbean Cable Communications",
+        "handle": "CARIBCABLE"
+    },
+    "32338": {
+        "country_code": "AI",
+        "asn": "32338",
+        "description": "Hostiserver Ltd",
+        "handle": "HOSTISERVER"
+    },
+    "50118": {
+        "country_code": "AI",
+        "asn": "50118",
+        "description": "Caribbean Telecom S.A",
+        "handle": "CARITELE-AS"
+    },
+    "393410": {
+        "country_code": "AI",
+        "asn": "393410",
+        "description": "Davosys International BV",
+        "handle": "AS-DIBV"
+    }
+}

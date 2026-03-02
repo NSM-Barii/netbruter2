@@ -1,0 +1,188 @@
+{
+    "5087": {
+        "country_code": "LK",
+        "asn": "5087",
+        "description": "Lanka Communication Services (Pvt) Ltd.",
+        "handle": "LANKA-COM"
+    },
+    "9329": {
+        "country_code": "LK",
+        "asn": "9329",
+        "description": "Sri Lanka Telecom Ltd",
+        "handle": "SLTINT-AS-AP"
+    },
+    "17470": {
+        "country_code": "LK",
+        "asn": "17470",
+        "description": "Hutchison Telecommunications Lanka (Private) Limited",
+        "handle": "HUTCHISON-LK"
+    },
+    "17627": {
+        "country_code": "LK",
+        "asn": "17627",
+        "description": "MTT Network (Pvt) Ltd",
+        "handle": "MTT-AS-AP"
+    },
+    "17770": {
+        "country_code": "LK",
+        "asn": "17770",
+        "description": "Dialog Axiata Plc",
+        "handle": "DIALOG-LK"
+    },
+    "17904": {
+        "country_code": "LK",
+        "asn": "17904",
+        "description": "Sri Lanka Telecom Ltd",
+        "handle": "SLTASUL-LK"
+    },
+    "18001": {
+        "country_code": "LK",
+        "asn": "18001",
+        "description": "Dialog Axiata Plc",
+        "handle": "DIALOG-AS"
+    },
+    "18066": {
+        "country_code": "LK",
+        "asn": "18066",
+        "description": "Tata Communications Lanka Ltd",
+        "handle": "TCLL-AS-AP"
+    },
+    "38229": {
+        "country_code": "LK",
+        "asn": "38229",
+        "description": "Lanka Education and Research Network",
+        "handle": "LEARN-LK"
+    },
+    "45224": {
+        "country_code": "LK",
+        "asn": "45224",
+        "description": "Lanka Bell Limited",
+        "handle": "BELLNET-AS-AP"
+    },
+    "45338": {
+        "country_code": "LK",
+        "asn": "45338",
+        "description": "Lanka Communication Services (Pvt) Ltd.",
+        "handle": "SLIX"
+    },
+    "45356": {
+        "country_code": "LK",
+        "asn": "45356",
+        "description": "Mobitel Pvt Ltd",
+        "handle": "MOBITEL-LK"
+    },
+    "45489": {
+        "country_code": "LK",
+        "asn": "45489",
+        "description": "Sri Lanka Telecom Ltd",
+        "handle": "SLT-GLOBAL"
+    },
+    "45517": {
+        "country_code": "LK",
+        "asn": "45517",
+        "description": "Dialog Axiata Plc",
+        "handle": "DIALOG-LK"
+    },
+    "131173": {
+        "country_code": "LK",
+        "asn": "131173",
+        "description": "Sri Lanka Telecom Ltd",
+        "handle": "COLOCIX-IX-AS"
+    },
+    "132045": {
+        "country_code": "LK",
+        "asn": "132045",
+        "description": "Dialog Axiata Plc",
+        "handle": "DIALOG-LK"
+    },
+    "132124": {
+        "country_code": "LK",
+        "asn": "132124",
+        "description": "Information and Communication Technology Agency of Sri Lanka",
+        "handle": "ICTA-LK"
+    },
+    "132447": {
+        "country_code": "LK",
+        "asn": "132447",
+        "description": "Hutchison Telecommunications Lanka (Private) Limited",
+        "handle": "HUTCHISON-LK"
+    },
+    "133051": {
+        "country_code": "LK",
+        "asn": "133051",
+        "description": "COMMERCIAL BANK OF CEYLON PLC",
+        "handle": "CBOCP-AS-AP"
+    },
+    "134824": {
+        "country_code": "LK",
+        "asn": "134824",
+        "description": "Tekki Pvt Ltd",
+        "handle": "TEKKI-AS-AP"
+    },
+    "136420": {
+        "country_code": "LK",
+        "asn": "136420",
+        "description": "Dialog Broadband Networks (Pvt) Ltd.",
+        "handle": "CUMULUS-AS-AP"
+    },
+    "136934": {
+        "country_code": "LK",
+        "asn": "136934",
+        "description": "Bank Of Ceylon",
+        "handle": "BOC-AS-AP"
+    },
+    "138984": {
+        "country_code": "LK",
+        "asn": "138984",
+        "description": "Sri Lanka Telecom Ltd",
+        "handle": "SLT-IP-TRANSPORT"
+    },
+    "139032": {
+        "country_code": "LK",
+        "asn": "139032",
+        "description": "Nations Trust Banks Plc",
+        "handle": "NTBP-AS-AP"
+    },
+    "139731": {
+        "country_code": "LK",
+        "asn": "139731",
+        "description": "Hatton National Bank PLC",
+        "handle": "HNBP-AS-AP"
+    },
+    "151197": {
+        "country_code": "LK",
+        "asn": "151197",
+        "description": "OREL I T Private Limited",
+        "handle": "OITPL-AS-AP"
+    },
+    "151362": {
+        "country_code": "LK",
+        "asn": "151362",
+        "description": "DTV",
+        "handle": "DTV-AS-AP"
+    },
+    "151485": {
+        "country_code": "LK",
+        "asn": "151485",
+        "description": "CEYLON ELECTRICITY BOARD",
+        "handle": "CEB-AS-AP"
+    },
+    "152325": {
+        "country_code": "LK",
+        "asn": "152325",
+        "description": "LankaPay Pvt Ltd",
+        "handle": "LANKAPAY-AS-AP"
+    },
+    "153563": {
+        "country_code": "LK",
+        "asn": "153563",
+        "description": "OREL I T Private Limited",
+        "handle": "OITPL-AS-AP"
+    },
+    "204307": {
+        "country_code": "LK",
+        "asn": "204307",
+        "description": "Rishikeshan Lavakumar",
+        "handle": "RISHIKESHAN"
+    }
+}

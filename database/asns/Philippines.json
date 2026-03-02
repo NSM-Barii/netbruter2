@@ -1,0 +1,3812 @@
+{
+    "3550": {
+        "country_code": "PH",
+        "asn": "3550",
+        "description": "Philippine Network Foundation Inc (PHNet)",
+        "handle": "PHNET-AS-AP"
+    },
+    "4682": {
+        "country_code": "PH",
+        "asn": "4682",
+        "description": "Infinivan Inc.",
+        "handle": "BBIXPHILIPPINES-AS-AP"
+    },
+    "4759": {
+        "country_code": "PH",
+        "asn": "4759",
+        "description": "TEXTRON CORPORATION",
+        "handle": "ITEXTRON-AS-AP"
+    },
+    "4775": {
+        "country_code": "PH",
+        "asn": "4775",
+        "description": "Globe Telecom (GMCR INC)",
+        "handle": "GLOBE-TELECOM-AS"
+    },
+    "4779": {
+        "country_code": "PH",
+        "asn": "4779",
+        "description": "Advanced Science and Technology Institute",
+        "handle": "PHOPENIX-AS-PH"
+    },
+    "4863": {
+        "country_code": "PH",
+        "asn": "4863",
+        "description": "MECO Enterprises Inc.",
+        "handle": "EASY-PH"
+    },
+    "6163": {
+        "country_code": "PH",
+        "asn": "6163",
+        "description": "Sky Cable Corporation",
+        "handle": "SKYBB-AS-AP"
+    },
+    "6648": {
+        "country_code": "PH",
+        "asn": "6648",
+        "description": "Sky Internet",
+        "handle": "BAYAN-TELECOMMUNICATIONS"
+    },
+    "7491": {
+        "country_code": "PH",
+        "asn": "7491",
+        "description": "Primeworld Digital Systems Inc.",
+        "handle": "PI-PH-AS-AP"
+    },
+    "7495": {
+        "country_code": "PH",
+        "asn": "7495",
+        "description": "TEXTRON CORPORATION",
+        "handle": "AMANET-AS"
+    },
+    "7544": {
+        "country_code": "PH",
+        "asn": "7544",
+        "description": "ComClark Network & Technology Corp",
+        "handle": "COMCLARK-IXG"
+    },
+    "7611": {
+        "country_code": "PH",
+        "asn": "7611",
+        "description": "W Network Inc.",
+        "handle": "WNETWORK-AS-AP"
+    },
+    "7629": {
+        "country_code": "PH",
+        "asn": "7629",
+        "description": "VITRO Inc.",
+        "handle": "EPLDT-AS-AP"
+    },
+    "7707": {
+        "country_code": "PH",
+        "asn": "7707",
+        "description": "Philippine Long Distance Telephone Co.",
+        "handle": "PHIX-AS-AP"
+    },
+    "9254": {
+        "country_code": "PH",
+        "asn": "9254",
+        "description": "Del Monte Philippines Inc.",
+        "handle": "DELMONTE-AS-PH-AP"
+    },
+    "9299": {
+        "country_code": "PH",
+        "asn": "9299",
+        "description": "Philippine Long Distance Telephone Co.",
+        "handle": "IPG-AS-AP"
+    },
+    "9334": {
+        "country_code": "PH",
+        "asn": "9334",
+        "description": "iManila",
+        "handle": "IMANILA-AS-AP"
+    },
+    "9386": {
+        "country_code": "PH",
+        "asn": "9386",
+        "description": "Sky Cable Corporation",
+        "handle": "DESTINY-AS-AP"
+    },
+    "9420": {
+        "country_code": "PH",
+        "asn": "9420",
+        "description": "Maharlika Internet Exchange",
+        "handle": "MAHARLIKAINTERNETEXCHANGE-AS-PH"
+    },
+    "9497": {
+        "country_code": "PH",
+        "asn": "9497",
+        "description": "Digital Telecommunications Philippines Inc.",
+        "handle": "DIGITELONE"
+    },
+    "9658": {
+        "country_code": "PH",
+        "asn": "9658",
+        "description": "Eastern Telecommunications Philippines Inc.",
+        "handle": "ETPI-IDS-AS-AP"
+    },
+    "9670": {
+        "country_code": "PH",
+        "asn": "9670",
+        "description": "Eastern Telecommunications Philippines Inc.",
+        "handle": "MANILA-IX"
+    },
+    "9742": {
+        "country_code": "PH",
+        "asn": "9742",
+        "description": "Digital Telecommunications Philippines Inc.",
+        "handle": "GVBROADCAST-AS-AP"
+    },
+    "9821": {
+        "country_code": "PH",
+        "asn": "9821",
+        "description": "Advanced Science and Technology Institute",
+        "handle": "DOST-PH-AP"
+    },
+    "9927": {
+        "country_code": "PH",
+        "asn": "9927",
+        "description": "PhilCom Corporation",
+        "handle": "PHILCOMNET-PH"
+    },
+    "10096": {
+        "country_code": "PH",
+        "asn": "10096",
+        "description": "EasyCall Communications Philippines Inc.",
+        "handle": "EASYCALL-PH-AS"
+    },
+    "10107": {
+        "country_code": "PH",
+        "asn": "10107",
+        "description": "aastar",
+        "handle": "AASTARNET-PH"
+    },
+    "10139": {
+        "country_code": "PH",
+        "asn": "10139",
+        "description": "Smart Broadband Inc.",
+        "handle": "SMARTBRO-PH-AP"
+    },
+    "10141": {
+        "country_code": "PH",
+        "asn": "10141",
+        "description": "Sky Internet",
+        "handle": "DFNN-AS-AP"
+    },
+    "17445": {
+        "country_code": "PH",
+        "asn": "17445",
+        "description": "Universal Robina Corporation",
+        "handle": "URC-AS-AP"
+    },
+    "17448": {
+        "country_code": "PH",
+        "asn": "17448",
+        "description": "Web.com.ph Inc.",
+        "handle": "WEB-COM-AS-AP"
+    },
+    "17452": {
+        "country_code": "PH",
+        "asn": "17452",
+        "description": "Bitstop Inc",
+        "handle": "BITSTOP-AS-AP"
+    },
+    "17550": {
+        "country_code": "PH",
+        "asn": "17550",
+        "description": "San Miguel Corporation",
+        "handle": "SMC-AS-AP"
+    },
+    "17639": {
+        "country_code": "PH",
+        "asn": "17639",
+        "description": "ComClark Network & Technology Corp",
+        "handle": "CONVERGE-AS"
+    },
+    "17721": {
+        "country_code": "PH",
+        "asn": "17721",
+        "description": "International Rice Research Institute (IRRI)",
+        "handle": "IRRI-AS-AP"
+    },
+    "17749": {
+        "country_code": "PH",
+        "asn": "17749",
+        "description": "Digital Telecommunications Philippines Inc.",
+        "handle": "TRENDMICRO"
+    },
+    "17796": {
+        "country_code": "PH",
+        "asn": "17796",
+        "description": "Philippine Long Distance Telephone Co.",
+        "handle": "PLDT-IP-VPN-AP"
+    },
+    "17811": {
+        "country_code": "PH",
+        "asn": "17811",
+        "description": "TPPH-FHCS INC.",
+        "handle": "TPPHFHCS-NON-AS-AP"
+    },
+    "17894": {
+        "country_code": "PH",
+        "asn": "17894",
+        "description": "Innove Communications",
+        "handle": "APMI-AS-AP"
+    },
+    "17895": {
+        "country_code": "PH",
+        "asn": "17895",
+        "description": "Cybernet Solutions Inc",
+        "handle": "GLOBALREACH-AP"
+    },
+    "17970": {
+        "country_code": "PH",
+        "asn": "17970",
+        "description": "Sky Cable Corporation",
+        "handle": "SKYBB-AS-AP"
+    },
+    "17973": {
+        "country_code": "PH",
+        "asn": "17973",
+        "description": "Digital Telecommunications Philippines Inc.",
+        "handle": "TBGI-AS-AP"
+    },
+    "18005": {
+        "country_code": "PH",
+        "asn": "18005",
+        "description": "Eastern Telecommunications Philippines Inc.",
+        "handle": "SURFSHOP-PH-AP"
+    },
+    "18016": {
+        "country_code": "PH",
+        "asn": "18016",
+        "description": "Sky Internet",
+        "handle": "CAPITOL-UNIVERSITY-AS-PH"
+    },
+    "18018": {
+        "country_code": "PH",
+        "asn": "18018",
+        "description": "Gamebuilders Inc.",
+        "handle": "GAMEBUILDERS-AS-PH"
+    },
+    "18114": {
+        "country_code": "PH",
+        "asn": "18114",
+        "description": "PLDT Subic Telecom Inc.",
+        "handle": "SUBICTEL-AS-AP"
+    },
+    "18115": {
+        "country_code": "PH",
+        "asn": "18115",
+        "description": "JG Group of Companies",
+        "handle": "JGS-AS-AP"
+    },
+    "18187": {
+        "country_code": "PH",
+        "asn": "18187",
+        "description": "Ignite Telecommunications Inc",
+        "handle": "ITI-AS-AP"
+    },
+    "18188": {
+        "country_code": "PH",
+        "asn": "18188",
+        "description": "Ateneo de Manila University",
+        "handle": "ATENEO-AS-AP"
+    },
+    "18190": {
+        "country_code": "PH",
+        "asn": "18190",
+        "description": "Eastern Telecommunications Philippines Inc.",
+        "handle": "WWW-PH-AP"
+    },
+    "18194": {
+        "country_code": "PH",
+        "asn": "18194",
+        "description": "Philippine Multi-Media System",
+        "handle": "PMMSI-AS-AP"
+    },
+    "18214": {
+        "country_code": "PH",
+        "asn": "18214",
+        "description": "TELUS International Philippines Inc",
+        "handle": "TELUS-INTERNATIONAL"
+    },
+    "18226": {
+        "country_code": "PH",
+        "asn": "18226",
+        "description": "Smart Broadband Inc.",
+        "handle": "SMARTBRO-VIS-AP"
+    },
+    "18233": {
+        "country_code": "PH",
+        "asn": "18233",
+        "description": "Philippine Telelgraph & Telephone",
+        "handle": "PTTNET"
+    },
+    "18249": {
+        "country_code": "PH",
+        "asn": "18249",
+        "description": "Innove Communications",
+        "handle": "GLOBEIDC-AS-AP"
+    },
+    "18360": {
+        "country_code": "PH",
+        "asn": "18360",
+        "description": "University of Santo Tomas",
+        "handle": "UST-AS-AP"
+    },
+    "18389": {
+        "country_code": "PH",
+        "asn": "18389",
+        "description": "Eastern Telecommunications Philippines Inc.",
+        "handle": "ASIA-SOLUTIONS-AS-AP"
+    },
+    "18392": {
+        "country_code": "PH",
+        "asn": "18392",
+        "description": "Globe Telecom (GMCR INC)",
+        "handle": "GLOBE-TELECOM-IX"
+    },
+    "18396": {
+        "country_code": "PH",
+        "asn": "18396",
+        "description": "PhilCom Corporation Mindanao",
+        "handle": "PHILCOMCORP-MND-AS-AP"
+    },
+    "23605": {
+        "country_code": "PH",
+        "asn": "23605",
+        "description": "De La Salle University Incorporated",
+        "handle": "DLSU-AS-AP"
+    },
+    "23606": {
+        "country_code": "PH",
+        "asn": "23606",
+        "description": "Globe Telecom (GMCR INC)",
+        "handle": "GLOBE-TELECOM-AS-AP"
+    },
+    "23660": {
+        "country_code": "PH",
+        "asn": "23660",
+        "description": ".PH ccTLD",
+        "handle": "CCTLD-PH-AS"
+    },
+    "23665": {
+        "country_code": "PH",
+        "asn": "23665",
+        "description": "Seven Seven Global Services Inc.",
+        "handle": "GSNET-AS-AP"
+    },
+    "23680": {
+        "country_code": "PH",
+        "asn": "23680",
+        "description": "Southern Telecommunications Company",
+        "handle": "SOTELCO-AS-AP"
+    },
+    "23689": {
+        "country_code": "PH",
+        "asn": "23689",
+        "description": "Makati Shangri-La",
+        "handle": "MAKATISHANGRILA-AS-AP"
+    },
+    "23701": {
+        "country_code": "PH",
+        "asn": "23701",
+        "description": "Digital Telecommunications Philippines Inc.",
+        "handle": "SYMBIO-AS-AP"
+    },
+    "23732": {
+        "country_code": "PH",
+        "asn": "23732",
+        "description": "Sagility Philippines B.V. Branch Office",
+        "handle": "SAGILITY-AS-AP"
+    },
+    "23862": {
+        "country_code": "PH",
+        "asn": "23862",
+        "description": "University of the Philippines",
+        "handle": "DILNET-AS-AP"
+    },
+    "23887": {
+        "country_code": "PH",
+        "asn": "23887",
+        "description": "PRODATA",
+        "handle": "PRODATA-TRANSIT-AS-AP"
+    },
+    "23894": {
+        "country_code": "PH",
+        "asn": "23894",
+        "description": "Ignite Telecommunications Inc",
+        "handle": "ITI-AS-AP"
+    },
+    "23930": {
+        "country_code": "PH",
+        "asn": "23930",
+        "description": "VITRO Inc.",
+        "handle": "VITROINC-AS-AP"
+    },
+    "23933": {
+        "country_code": "PH",
+        "asn": "23933",
+        "description": "SLU Net Office",
+        "handle": "SLU-AS-AP"
+    },
+    "23942": {
+        "country_code": "PH",
+        "asn": "23942",
+        "description": "Responsible Internet Sustainability Effort",
+        "handle": "GETAFIX"
+    },
+    "23944": {
+        "country_code": "PH",
+        "asn": "23944",
+        "description": "Sky Cable Corporation",
+        "handle": "SKYBB-AS-AP"
+    },
+    "23988": {
+        "country_code": "PH",
+        "asn": "23988",
+        "description": "PLDT Global Corporation",
+        "handle": "PLDTGLOBAL-AS-AP"
+    },
+    "23996": {
+        "country_code": "PH",
+        "asn": "23996",
+        "description": "Globe Telecom Inc.",
+        "handle": "GLOBE-MOBILE-AS-AP"
+    },
+    "24070": {
+        "country_code": "PH",
+        "asn": "24070",
+        "description": "Bayantel Inc. IP CORE AS number",
+        "handle": "BAYANTEL-IPCORE"
+    },
+    "24079": {
+        "country_code": "PH",
+        "asn": "24079",
+        "description": "Data One Asia Philippines",
+        "handle": "DATAONE-PH-AS-AP"
+    },
+    "24081": {
+        "country_code": "PH",
+        "asn": "24081",
+        "description": "SPI Technologies Inc.",
+        "handle": "SPITECH-AS"
+    },
+    "24091": {
+        "country_code": "PH",
+        "asn": "24091",
+        "description": "Globe Telecom (GMCR INC)",
+        "handle": "INNOVE-MSDDNPLUS-AP"
+    },
+    "24095": {
+        "country_code": "PH",
+        "asn": "24095",
+        "description": "VITRO Inc.",
+        "handle": "VITRO-INTERNET-EXCHANGE"
+    },
+    "24102": {
+        "country_code": "PH",
+        "asn": "24102",
+        "description": "TPPH-FHCS INC.",
+        "handle": "TPPHFHCS-NON-AS-AP"
+    },
+    "24106": {
+        "country_code": "PH",
+        "asn": "24106",
+        "description": "DMPI Digitel Mobile Philippines Inc.",
+        "handle": "DMPI-AS-AP"
+    },
+    "24179": {
+        "country_code": "PH",
+        "asn": "24179",
+        "description": "Globe Telecom (GMCR INC)",
+        "handle": "IMI-AS-AP"
+    },
+    "24221": {
+        "country_code": "PH",
+        "asn": "24221",
+        "description": "VITRO Inc.",
+        "handle": "EPLDT-AZURE-STACK"
+    },
+    "24298": {
+        "country_code": "PH",
+        "asn": "24298",
+        "description": "Apollo Global Corporation",
+        "handle": "APOLLOGLOBAL-PH"
+    },
+    "24306": {
+        "country_code": "PH",
+        "asn": "24306",
+        "description": "SKYBroadband SKYCable Corporation",
+        "handle": "SKYBB-AS-AP"
+    },
+    "24377": {
+        "country_code": "PH",
+        "asn": "24377",
+        "description": "Sky Internet",
+        "handle": "BAYANTEL-TANTRA-AS"
+    },
+    "24451": {
+        "country_code": "PH",
+        "asn": "24451",
+        "description": "Philippine Dealing System",
+        "handle": "PDS-GROUP-AS-AP"
+    },
+    "24456": {
+        "country_code": "PH",
+        "asn": "24456",
+        "description": "FOUNDEVER ASIA INC.",
+        "handle": "FOUNDEVERASIA-PH"
+    },
+    "24458": {
+        "country_code": "PH",
+        "asn": "24458",
+        "description": "Philippine Long Distance Telephone Co.",
+        "handle": "PLDT-IPCORE-AS-AP"
+    },
+    "24494": {
+        "country_code": "PH",
+        "asn": "24494",
+        "description": "China Banking Corporation",
+        "handle": "CBCNET-AS-AP"
+    },
+    "24505": {
+        "country_code": "PH",
+        "asn": "24505",
+        "description": "ABS-CBN Broadcasting Inc.",
+        "handle": "ABS-CBN-AS"
+    },
+    "24551": {
+        "country_code": "PH",
+        "asn": "24551",
+        "description": "VIACOMM",
+        "handle": "VIACOMM-AS-AP"
+    },
+    "38063": {
+        "country_code": "PH",
+        "asn": "38063",
+        "description": "Panay Broadband / Buenavista Cable TV. Inc.",
+        "handle": "PBBCTI-AS-PH"
+    },
+    "38180": {
+        "country_code": "PH",
+        "asn": "38180",
+        "description": "Eastern Telecommunications Philippines Inc.",
+        "handle": "ETPI-IDS-JOLLIBEE-AS-AP"
+    },
+    "38183": {
+        "country_code": "PH",
+        "asn": "38183",
+        "description": "Digital Telecommunications Philippines Inc.",
+        "handle": "CABLELINK-AS-AP"
+    },
+    "38240": {
+        "country_code": "PH",
+        "asn": "38240",
+        "description": "Digital Edge Philippines Inc",
+        "handle": "DEPI-ASN-AP"
+    },
+    "38262": {
+        "country_code": "PH",
+        "asn": "38262",
+        "description": "Eastern Telecommunications Philippines Inc.",
+        "handle": "JIVE-247-AS-AP"
+    },
+    "38268": {
+        "country_code": "PH",
+        "asn": "38268",
+        "description": "Digital Telecommunications Philippines Inc.",
+        "handle": "POINTWEST-AS-AP"
+    },
+    "38291": {
+        "country_code": "PH",
+        "asn": "38291",
+        "description": "BASTION PAYMENT SYSTEMS",
+        "handle": "BPS-CORP-AS"
+    },
+    "38301": {
+        "country_code": "PH",
+        "asn": "38301",
+        "description": "Trec Global Pacific Transit AS",
+        "handle": "TREC-GLOBAL-AS-AP"
+    },
+    "38334": {
+        "country_code": "PH",
+        "asn": "38334",
+        "description": "World Health Organization",
+        "handle": "WPRONET-WHO-AS-PH"
+    },
+    "38445": {
+        "country_code": "PH",
+        "asn": "38445",
+        "description": "WiPro BPO Philippines LTD Inc.",
+        "handle": "WIPRO-TRANSIT-AS-AP"
+    },
+    "38463": {
+        "country_code": "PH",
+        "asn": "38463",
+        "description": "AZ Communications Network Inc.",
+        "handle": "AZCOM-AS-AP"
+    },
+    "38467": {
+        "country_code": "PH",
+        "asn": "38467",
+        "description": "DBA Moylan",
+        "handle": "DBAMOYLAN-TRANSIT-AS-AP"
+    },
+    "38471": {
+        "country_code": "PH",
+        "asn": "38471",
+        "description": "BC Net Inc.",
+        "handle": "BCNET-AS-AP"
+    },
+    "38483": {
+        "country_code": "PH",
+        "asn": "38483",
+        "description": "RCG Information Technology",
+        "handle": "RCGIT-ODC-AS-AP"
+    },
+    "38491": {
+        "country_code": "PH",
+        "asn": "38491",
+        "description": "VITRO Inc.",
+        "handle": "VITROINC-AS-AP"
+    },
+    "38553": {
+        "country_code": "PH",
+        "asn": "38553",
+        "description": "DC Tech Micro Services Inc.",
+        "handle": "DCTECHMSI-AS-AP"
+    },
+    "38577": {
+        "country_code": "PH",
+        "asn": "38577",
+        "description": "Leekie Enterprises Inc",
+        "handle": "LEEKIE-EN"
+    },
+    "38606": {
+        "country_code": "PH",
+        "asn": "38606",
+        "description": "Oakleigh Capital Ltd",
+        "handle": "OAKLEIGH-TRANSIT-AS-AP"
+    },
+    "38609": {
+        "country_code": "PH",
+        "asn": "38609",
+        "description": "American Data Exchange Corporation Ltd.",
+        "handle": "AMDATEX-PH-AS"
+    },
+    "38722": {
+        "country_code": "PH",
+        "asn": "38722",
+        "description": "Conduent Business Services Philippines Inc.",
+        "handle": "CBSP-AS-AP"
+    },
+    "38741": {
+        "country_code": "PH",
+        "asn": "38741",
+        "description": "HelpCenter Inc.",
+        "handle": "HELPCENTRIC-AS-AP"
+    },
+    "38811": {
+        "country_code": "PH",
+        "asn": "38811",
+        "description": "Magsaysay Maritime/Global Process Manager Inc",
+        "handle": "MAGSAYSAY-AS-AP"
+    },
+    "38822": {
+        "country_code": "PH",
+        "asn": "38822",
+        "description": "Ayala Corporation Conglomerate",
+        "handle": "ACNET-AP"
+    },
+    "38823": {
+        "country_code": "PH",
+        "asn": "38823",
+        "description": "Caspo Inc.",
+        "handle": "CASPO-AS-AP"
+    },
+    "38867": {
+        "country_code": "PH",
+        "asn": "38867",
+        "description": "VITRO Inc.",
+        "handle": "MICROGAMING-PH"
+    },
+    "38885": {
+        "country_code": "PH",
+        "asn": "38885",
+        "description": "Concentric Techologies Inc. Transit AS Internet Service Provider",
+        "handle": "CONCENTRIX-TRANSIT-AS-AP"
+    },
+    "38909": {
+        "country_code": "PH",
+        "asn": "38909",
+        "description": "ARDION LINE WEB DESIGN",
+        "handle": "ARDION-AS-AP"
+    },
+    "45126": {
+        "country_code": "PH",
+        "asn": "45126",
+        "description": "Primeworld Digital Systems Inc.",
+        "handle": "PDSI-PH-AP"
+    },
+    "45156": {
+        "country_code": "PH",
+        "asn": "45156",
+        "description": "Sky Internet",
+        "handle": "Q2SEARCH-AS-AP"
+    },
+    "45209": {
+        "country_code": "PH",
+        "asn": "45209",
+        "description": "University of the Philippines",
+        "handle": "UPLB-AS-AP"
+    },
+    "45218": {
+        "country_code": "PH",
+        "asn": "45218",
+        "description": "Coca-Cola FEMSA Philippines Inc.",
+        "handle": "KOF-AS-AP"
+    },
+    "45221": {
+        "country_code": "PH",
+        "asn": "45221",
+        "description": "Bank of The Philippine Islands",
+        "handle": "BPINET-AP"
+    },
+    "45330": {
+        "country_code": "PH",
+        "asn": "45330",
+        "description": "IDS-AS",
+        "handle": "ACS-AS-AP"
+    },
+    "45343": {
+        "country_code": "PH",
+        "asn": "45343",
+        "description": "Globe Telecom (GMCR INC)",
+        "handle": "AYALALAND-TRANSIT-AS-AP"
+    },
+    "45351": {
+        "country_code": "PH",
+        "asn": "45351",
+        "description": "ABS-CBN Broadcasting Corporation",
+        "handle": "ABS-CBN-PH"
+    },
+    "45449": {
+        "country_code": "PH",
+        "asn": "45449",
+        "description": "Accent Micro Technologies Inc AS",
+        "handle": "ACCENTMICRO-AS-AP"
+    },
+    "45450": {
+        "country_code": "PH",
+        "asn": "45450",
+        "description": "Makati City Government",
+        "handle": "MAKATICITYGOV-AS-AP"
+    },
+    "45462": {
+        "country_code": "PH",
+        "asn": "45462",
+        "description": "Aboitiz Transport System Corporation",
+        "handle": "ATSC-TRANSIT-AS-AP"
+    },
+    "45499": {
+        "country_code": "PH",
+        "asn": "45499",
+        "description": "Cablelink Internet Sservices Inc.",
+        "handle": "CABLELINK-TRANSIT-AS-AP"
+    },
+    "45504": {
+        "country_code": "PH",
+        "asn": "45504",
+        "description": "SplunkNet Inc",
+        "handle": "SPLUNKNET-PH"
+    },
+    "45531": {
+        "country_code": "PH",
+        "asn": "45531",
+        "description": "Maxsun Int'l Inc",
+        "handle": "MAXSUN-PH-AS-AP"
+    },
+    "45559": {
+        "country_code": "PH",
+        "asn": "45559",
+        "description": "Quza Tech Inc",
+        "handle": "QUZATECH-PH"
+    },
+    "45578": {
+        "country_code": "PH",
+        "asn": "45578",
+        "description": "SplunkNet Inc",
+        "handle": "SPLUNKNET-PH"
+    },
+    "45580": {
+        "country_code": "PH",
+        "asn": "45580",
+        "description": "Omitech Int",
+        "handle": "OMITECHINT-PH"
+    },
+    "45593": {
+        "country_code": "PH",
+        "asn": "45593",
+        "description": "Straits Technologies Ltd",
+        "handle": "STRAITSTECH-PH"
+    },
+    "45600": {
+        "country_code": "PH",
+        "asn": "45600",
+        "description": "University of the Philippines",
+        "handle": "UPM-AS-AP"
+    },
+    "45608": {
+        "country_code": "PH",
+        "asn": "45608",
+        "description": "Smart Broadband Inc.",
+        "handle": "SMARTBRO-PH"
+    },
+    "45622": {
+        "country_code": "PH",
+        "asn": "45622",
+        "description": "SkyBroadband Provincial Network",
+        "handle": "SKYBB-PILIPINOCABLE-AS-AP"
+    },
+    "45664": {
+        "country_code": "PH",
+        "asn": "45664",
+        "description": "Philippine Long Distance Telephone Co.",
+        "handle": "PLDT-AS-AP"
+    },
+    "45754": {
+        "country_code": "PH",
+        "asn": "45754",
+        "description": "Clear Path Networks Inc",
+        "handle": "CLEARPATH-AS-AP"
+    },
+    "45759": {
+        "country_code": "PH",
+        "asn": "45759",
+        "description": "Internet Gateway Inc.",
+        "handle": "IGATE"
+    },
+    "45782": {
+        "country_code": "PH",
+        "asn": "45782",
+        "description": "Philippine Airlines Inc.",
+        "handle": "PHILIPPINEAIRLINES-PH-AP"
+    },
+    "45789": {
+        "country_code": "PH",
+        "asn": "45789",
+        "description": "Landbank of the Philippines",
+        "handle": "LANDBANK-AS-AP"
+    },
+    "45799": {
+        "country_code": "PH",
+        "asn": "45799",
+        "description": "Sinonet Technology",
+        "handle": "SINONET-TRANSIT-AS-AP"
+    },
+    "45832": {
+        "country_code": "PH",
+        "asn": "45832",
+        "description": "Globe Telecom (GMCR INC)",
+        "handle": "ENDERUN-TRANSIT-AS-AP"
+    },
+    "45858": {
+        "country_code": "PH",
+        "asn": "45858",
+        "description": "Data One Asia Philippines",
+        "handle": "DATAONE-PH2-AS-AP"
+    },
+    "45865": {
+        "country_code": "PH",
+        "asn": "45865",
+        "description": "INFOR PSSC INC.",
+        "handle": "INFORPSSC-PH"
+    },
+    "55343": {
+        "country_code": "PH",
+        "asn": "55343",
+        "description": "Conduent Business Services Philippines Inc.",
+        "handle": "CBSP-AS-AP"
+    },
+    "55402": {
+        "country_code": "PH",
+        "asn": "55402",
+        "description": "Philippine National Bank",
+        "handle": "PNB1COM-PH"
+    },
+    "55413": {
+        "country_code": "PH",
+        "asn": "55413",
+        "description": "Digital Telecommunications Philippines Inc.",
+        "handle": "DBP-AS-AP"
+    },
+    "55431": {
+        "country_code": "PH",
+        "asn": "55431",
+        "description": "PHCOLO INC.",
+        "handle": "PHCOLO-AS-AP"
+    },
+    "55437": {
+        "country_code": "PH",
+        "asn": "55437",
+        "description": "We Are IT Philippines Inc.",
+        "handle": "WIT-PHILS-INC-PH"
+    },
+    "55477": {
+        "country_code": "PH",
+        "asn": "55477",
+        "description": "Ateneo de Manila University",
+        "handle": "ADMU-AS-PH"
+    },
+    "55547": {
+        "country_code": "PH",
+        "asn": "55547",
+        "description": "WoodsDale Ventures INC",
+        "handle": "WOODSNET-PH"
+    },
+    "55650": {
+        "country_code": "PH",
+        "asn": "55650",
+        "description": "Capital IQ Information Systems",
+        "handle": "CAPITALIQ-PH-AS-AP"
+    },
+    "55704": {
+        "country_code": "PH",
+        "asn": "55704",
+        "description": "WIDEOUT Technology Services Inc.",
+        "handle": "WIDEOUT-AS-AP"
+    },
+    "55730": {
+        "country_code": "PH",
+        "asn": "55730",
+        "description": "Sunwest Construction & Devt. Corporation",
+        "handle": "SUNWEST-AS-AP"
+    },
+    "55798": {
+        "country_code": "PH",
+        "asn": "55798",
+        "description": "RCG Information Technology",
+        "handle": "RCGIT-ODC-NON-AS-AP"
+    },
+    "55821": {
+        "country_code": "PH",
+        "asn": "55821",
+        "description": "RADIUS TELECOMS INC.",
+        "handle": "RADIUSTELECOMS-AS-AP"
+    },
+    "56095": {
+        "country_code": "PH",
+        "asn": "56095",
+        "description": "RCG Information Technology",
+        "handle": "RCGIT-ODC-NON-AS-AP"
+    },
+    "56099": {
+        "country_code": "PH",
+        "asn": "56099",
+        "description": "Asian Vision Cable Holdings Inc",
+        "handle": "AVCHI-CLICK-AS-AP"
+    },
+    "56100": {
+        "country_code": "PH",
+        "asn": "56100",
+        "description": "HEADSTRONG PHILS INC",
+        "handle": "HPI-AS-AP"
+    },
+    "56128": {
+        "country_code": "PH",
+        "asn": "56128",
+        "description": "Asian Development Bank",
+        "handle": "ADB-ORG-AS-BCF"
+    },
+    "56164": {
+        "country_code": "PH",
+        "asn": "56164",
+        "description": "Marriott Hotel Manila",
+        "handle": "MHM-AS-AP"
+    },
+    "56207": {
+        "country_code": "PH",
+        "asn": "56207",
+        "description": "ComClark Network & Technology Corp",
+        "handle": "COMCLARK-PH"
+    },
+    "56262": {
+        "country_code": "PH",
+        "asn": "56262",
+        "description": "Dagupan Urban Satellite Vision Inc.",
+        "handle": "USATV-DAGUPAN-AS-AP"
+    },
+    "58437": {
+        "country_code": "PH",
+        "asn": "58437",
+        "description": "Mapua Institute of Technology",
+        "handle": "MAPUAEDU-PH"
+    },
+    "58526": {
+        "country_code": "PH",
+        "asn": "58526",
+        "description": "CIBI Information Inc.",
+        "handle": "CIBI-AS-AP"
+    },
+    "58604": {
+        "country_code": "PH",
+        "asn": "58604",
+        "description": "PACKETWORX INC.",
+        "handle": "PACKETWORX-PH"
+    },
+    "58635": {
+        "country_code": "PH",
+        "asn": "58635",
+        "description": "South American Entertainment Corporation II LTD.",
+        "handle": "SAEC-AS-AP"
+    },
+    "58677": {
+        "country_code": "PH",
+        "asn": "58677",
+        "description": "Department of Finance",
+        "handle": "DOFAIMPNET-PH"
+    },
+    "58706": {
+        "country_code": "PH",
+        "asn": "58706",
+        "description": "Xavier School",
+        "handle": "XAVIER-AS"
+    },
+    "58748": {
+        "country_code": "PH",
+        "asn": "58748",
+        "description": "Corporate Executive Offices",
+        "handle": "CEO-AS-AP"
+    },
+    "58757": {
+        "country_code": "PH",
+        "asn": "58757",
+        "description": "Ace Wireless Network Philippines Inc.",
+        "handle": "AWNPI-AS"
+    },
+    "58809": {
+        "country_code": "PH",
+        "asn": "58809",
+        "description": "VITRO Inc.",
+        "handle": "IT-COREA-AS-AP"
+    },
+    "58884": {
+        "country_code": "PH",
+        "asn": "58884",
+        "description": "SM Prime Holdings Inc.",
+        "handle": "SMPHI-AS-AP"
+    },
+    "59322": {
+        "country_code": "PH",
+        "asn": "59322",
+        "description": "Black Fiber Solutions Corporation",
+        "handle": "BFSC-AS"
+    },
+    "59325": {
+        "country_code": "PH",
+        "asn": "59325",
+        "description": "Responsible Internet Sustainability Effort",
+        "handle": "RISE-AS-AP"
+    },
+    "59334": {
+        "country_code": "PH",
+        "asn": "59334",
+        "description": "Remote Staff",
+        "handle": "REMOTESTAFF-AS-AP"
+    },
+    "59342": {
+        "country_code": "PH",
+        "asn": "59342",
+        "description": "Broadband Broadcast Services Pte. Ltd. - Philippine Branch",
+        "handle": "BBS-PH"
+    },
+    "59348": {
+        "country_code": "PH",
+        "asn": "59348",
+        "description": "Sky Cable Corporation",
+        "handle": "SKYCABLE-AS-AP"
+    },
+    "59366": {
+        "country_code": "PH",
+        "asn": "59366",
+        "description": "eBusinessBPO Inc.",
+        "handle": "EBUSINESSBPOINC-AS-AP"
+    },
+    "63846": {
+        "country_code": "PH",
+        "asn": "63846",
+        "description": "SGS ASIA PACIFIC LIMITED",
+        "handle": "SGS-AS-AP"
+    },
+    "63848": {
+        "country_code": "PH",
+        "asn": "63848",
+        "description": "De La Salle - College of Saint Benilde",
+        "handle": "DLS-CSB-PH"
+    },
+    "63938": {
+        "country_code": "PH",
+        "asn": "63938",
+        "description": "MALAYAN COLLEGES LAGUNA INC. LED BY A MAPUA SCHOOL OF ENGINEERING",
+        "handle": "MCLI-PH"
+    },
+    "63966": {
+        "country_code": "PH",
+        "asn": "63966",
+        "description": "Rizal Commercial Banking Corporation",
+        "handle": "RIZAL1-PH"
+    },
+    "63986": {
+        "country_code": "PH",
+        "asn": "63986",
+        "description": "IT.COREA INC.",
+        "handle": "CIX-PH"
+    },
+    "64066": {
+        "country_code": "PH",
+        "asn": "64066",
+        "description": "Ace Wireless Network Philippines Inc.",
+        "handle": "AWNPI-AS-AP"
+    },
+    "131121": {
+        "country_code": "PH",
+        "asn": "131121",
+        "description": "Globe Telecom (GMCR INC)",
+        "handle": "GLOBE-TELECOM-AS"
+    },
+    "131171": {
+        "country_code": "PH",
+        "asn": "131171",
+        "description": "Techne Fiber",
+        "handle": "JSC-AS-AP"
+    },
+    "131180": {
+        "country_code": "PH",
+        "asn": "131180",
+        "description": "Philippine Long Distance Telephone Co.",
+        "handle": "PLDT-AMLC-AP"
+    },
+    "131194": {
+        "country_code": "PH",
+        "asn": "131194",
+        "description": "Avocado Broadband Telecoms Inc.",
+        "handle": "ABTI-AS-AP"
+    },
+    "131212": {
+        "country_code": "PH",
+        "asn": "131212",
+        "description": "Robinsons Land Corporation",
+        "handle": "ROBINSONS-AS-AP"
+    },
+    "131213": {
+        "country_code": "PH",
+        "asn": "131213",
+        "description": "Eastern Telecommunications Philippines Inc.",
+        "handle": "DBP-AS-AP"
+    },
+    "131228": {
+        "country_code": "PH",
+        "asn": "131228",
+        "description": "Eastern Telecommunications Philippines Inc.",
+        "handle": "PNB-AS-AP"
+    },
+    "131245": {
+        "country_code": "PH",
+        "asn": "131245",
+        "description": "University of the Philippines",
+        "handle": "UPD-COE-AS-AP"
+    },
+    "131251": {
+        "country_code": "PH",
+        "asn": "131251",
+        "description": "De La Salle - College of Saint Benilde",
+        "handle": "DLS-LIPA"
+    },
+    "131253": {
+        "country_code": "PH",
+        "asn": "131253",
+        "description": "De La Salle - College of Saint Benilde",
+        "handle": "DLS-LIPA"
+    },
+    "131258": {
+        "country_code": "PH",
+        "asn": "131258",
+        "description": "De La Salle - College of Saint Benilde",
+        "handle": "DLS-CSB-SDA"
+    },
+    "131260": {
+        "country_code": "PH",
+        "asn": "131260",
+        "description": "De La Salle - College of Saint Benilde",
+        "handle": "DLS-ANTIPOLO"
+    },
+    "131276": {
+        "country_code": "PH",
+        "asn": "131276",
+        "description": "Mega Speed ICT Solutions Inc.",
+        "handle": "MSISI-AS-AP"
+    },
+    "131281": {
+        "country_code": "PH",
+        "asn": "131281",
+        "description": "University of the Philippines",
+        "handle": "UPV-AS-AP"
+    },
+    "131288": {
+        "country_code": "PH",
+        "asn": "131288",
+        "description": "Bayan Transit AS",
+        "handle": "BAYAN-AS-AP"
+    },
+    "131289": {
+        "country_code": "PH",
+        "asn": "131289",
+        "description": "University of the Philippines",
+        "handle": "UPOU-LB-AS-AP"
+    },
+    "131303": {
+        "country_code": "PH",
+        "asn": "131303",
+        "description": "First Cagayan Converge Data Center Inc.",
+        "handle": "FCCDCI-NET-PH"
+    },
+    "131306": {
+        "country_code": "PH",
+        "asn": "131306",
+        "description": "CITI Cableworld Inc.",
+        "handle": "CCI-AS-AP"
+    },
+    "131465": {
+        "country_code": "PH",
+        "asn": "131465",
+        "description": "Marbel Telephone System Inc.",
+        "handle": "MTSI-AS-AP"
+    },
+    "131891": {
+        "country_code": "PH",
+        "asn": "131891",
+        "description": "Cebu Air Inc.",
+        "handle": "CEBUAIRINC-AS-AP"
+    },
+    "132021": {
+        "country_code": "PH",
+        "asn": "132021",
+        "description": "Kalibo Cable Television Network Inc",
+        "handle": "KALIBOCABLE-PH"
+    },
+    "132046": {
+        "country_code": "PH",
+        "asn": "132046",
+        "description": "Sunbridge worldwide LTD",
+        "handle": "SUNBRIDGE-PH-AS-AP"
+    },
+    "132054": {
+        "country_code": "PH",
+        "asn": "132054",
+        "description": "Rising Star Cable TV Services",
+        "handle": "RISINGSTAR-AS-AP"
+    },
+    "132059": {
+        "country_code": "PH",
+        "asn": "132059",
+        "description": "TV5 Network Inc.",
+        "handle": "TV5-PH"
+    },
+    "132141": {
+        "country_code": "PH",
+        "asn": "132141",
+        "description": "Chikka Philippines Inc.",
+        "handle": "CHIKKANET-PH"
+    },
+    "132193": {
+        "country_code": "PH",
+        "asn": "132193",
+        "description": "Social Security System",
+        "handle": "SSSGOV-AS-AP"
+    },
+    "132199": {
+        "country_code": "PH",
+        "asn": "132199",
+        "description": "Globe Telecom Inc.",
+        "handle": "GLOBE-MOBILE-5TH-GEN-AS"
+    },
+    "132209": {
+        "country_code": "PH",
+        "asn": "132209",
+        "description": "VITRO Inc.",
+        "handle": "VITROINC-AS-AP"
+    },
+    "132212": {
+        "country_code": "PH",
+        "asn": "132212",
+        "description": "IGT TECHNOLOGIES PHILIPPINES INC.",
+        "handle": "IGTINTERGLOBE-AS-PH"
+    },
+    "132223": {
+        "country_code": "PH",
+        "asn": "132223",
+        "description": "Yew Tree Services Inc.",
+        "handle": "YEWTREE-PH"
+    },
+    "132229": {
+        "country_code": "PH",
+        "asn": "132229",
+        "description": "Trend Micro Inc.",
+        "handle": "TRENDMICRO-PH"
+    },
+    "132233": {
+        "country_code": "PH",
+        "asn": "132233",
+        "description": "Fourleaf Consulting Network and Data Solution",
+        "handle": "FCNADS-AS-AP"
+    },
+    "132246": {
+        "country_code": "PH",
+        "asn": "132246",
+        "description": "St. Luke's Medical Center",
+        "handle": "ST-AS-AP"
+    },
+    "132313": {
+        "country_code": "PH",
+        "asn": "132313",
+        "description": "Calauag Cat V System",
+        "handle": "CALAUAGCATVSYSTEM-AS-AP"
+    },
+    "132400": {
+        "country_code": "PH",
+        "asn": "132400",
+        "description": "COMMUNITY CABLE VISION CORPORATION",
+        "handle": "CCVC-AS-AP"
+    },
+    "132454": {
+        "country_code": "PH",
+        "asn": "132454",
+        "description": "Philippine Telelgraph & Telephone",
+        "handle": "PTTNET"
+    },
+    "132459": {
+        "country_code": "PH",
+        "asn": "132459",
+        "description": "Electrical and Electronics Engineering Institute",
+        "handle": "EEEI-AS-AP"
+    },
+    "132464": {
+        "country_code": "PH",
+        "asn": "132464",
+        "description": "Barbaza Multi-Purpose Cooperative",
+        "handle": "BARBAZACOOP-AS-AP"
+    },
+    "132483": {
+        "country_code": "PH",
+        "asn": "132483",
+        "description": "University of the Philippines System Network",
+        "handle": "UP-AS-AP"
+    },
+    "132505": {
+        "country_code": "PH",
+        "asn": "132505",
+        "description": "Concentrix Daksh Services Philippines Corporation",
+        "handle": "CONCENTRIX-AS-AP"
+    },
+    "132508": {
+        "country_code": "PH",
+        "asn": "132508",
+        "description": "Philippine Long Distance Telephone Co.",
+        "handle": "EGS-PL-AP"
+    },
+    "132554": {
+        "country_code": "PH",
+        "asn": "132554",
+        "description": "Ateneo de Manila University",
+        "handle": "ADMU-SALCEDO-AS-AP"
+    },
+    "132595": {
+        "country_code": "PH",
+        "asn": "132595",
+        "description": "Solutions Experts and Enablers Inc.",
+        "handle": "SEEI-AS-AP"
+    },
+    "132615": {
+        "country_code": "PH",
+        "asn": "132615",
+        "description": "Pipol Broadband and Telecommunications Corporation",
+        "handle": "PBATC-AS-AP"
+    },
+    "132714": {
+        "country_code": "PH",
+        "asn": "132714",
+        "description": "Airfiber's Internet Shop",
+        "handle": "AIRFIBERS-AS-AP"
+    },
+    "132716": {
+        "country_code": "PH",
+        "asn": "132716",
+        "description": "Sureste Properties Inc.",
+        "handle": "SURESTEPROPERTIES-PH"
+    },
+    "132792": {
+        "country_code": "PH",
+        "asn": "132792",
+        "description": "University of the Philippines Visayas Miagao",
+        "handle": "UPV-MIAGAO-AS-AP"
+    },
+    "132793": {
+        "country_code": "PH",
+        "asn": "132793",
+        "description": "University of the Philippines Visayas Tacloban",
+        "handle": "UPV-TACLOBAN-AS-AP"
+    },
+    "132794": {
+        "country_code": "PH",
+        "asn": "132794",
+        "description": "University of the Philippines Mindanao Campus",
+        "handle": "UPMIN-AS-AP"
+    },
+    "132795": {
+        "country_code": "PH",
+        "asn": "132795",
+        "description": "University of the Philippines Visayas Iloilo Campus",
+        "handle": "UPV-ILOILO-AS-AP"
+    },
+    "132796": {
+        "country_code": "PH",
+        "asn": "132796",
+        "description": "University of the Philippines Baguio Campus",
+        "handle": "UPB-AS-AP"
+    },
+    "132803": {
+        "country_code": "PH",
+        "asn": "132803",
+        "description": "Philippine Long Distance Telephone Co.",
+        "handle": "THUNDERBIRD-PL-AP"
+    },
+    "132826": {
+        "country_code": "PH",
+        "asn": "132826",
+        "description": "Oakleigh Capital Ltd",
+        "handle": "OAKLEIGH-AS"
+    },
+    "132843": {
+        "country_code": "PH",
+        "asn": "132843",
+        "description": "Digital Advantage Corp.",
+        "handle": "DIGITALADV-AS-AP"
+    },
+    "132844": {
+        "country_code": "PH",
+        "asn": "132844",
+        "description": "Ateneo de Manila University",
+        "handle": "ADMU-AS-AP"
+    },
+    "132853": {
+        "country_code": "PH",
+        "asn": "132853",
+        "description": "PHILIPPINE DEALING SYSTEM HOLDINGS CORP",
+        "handle": "PDSHC-AS"
+    },
+    "132862": {
+        "country_code": "PH",
+        "asn": "132862",
+        "description": "St. Luke's Medical Center",
+        "handle": "ST-AS-AP"
+    },
+    "132904": {
+        "country_code": "PH",
+        "asn": "132904",
+        "description": "University of the Philippines Diliman Campus",
+        "handle": "UPD-CS-AS-AP"
+    },
+    "132905": {
+        "country_code": "PH",
+        "asn": "132905",
+        "description": "Ateneo de Davao University",
+        "handle": "ADDU-AS-AP"
+    },
+    "132913": {
+        "country_code": "PH",
+        "asn": "132913",
+        "description": "VITRO Inc.",
+        "handle": "VITROINC-AS-AP"
+    },
+    "133020": {
+        "country_code": "PH",
+        "asn": "133020",
+        "description": "Oakleigh Capital Ltd",
+        "handle": "OAKLEIGH-AS-FOR"
+    },
+    "133021": {
+        "country_code": "PH",
+        "asn": "133021",
+        "description": "Oakleigh Capital Ltd",
+        "handle": "OAKLEIGH-AS-FOR-HK"
+    },
+    "133064": {
+        "country_code": "PH",
+        "asn": "133064",
+        "description": "St. Luke's Medical Center",
+        "handle": "ST-AS-AP-LOCAL-PEERING"
+    },
+    "133068": {
+        "country_code": "PH",
+        "asn": "133068",
+        "description": "China Online Innovations Inc",
+        "handle": "COII-AS-AP"
+    },
+    "133098": {
+        "country_code": "PH",
+        "asn": "133098",
+        "description": "Metropolitan Bank and Trust Company",
+        "handle": "MBATC-AS-AP"
+    },
+    "133131": {
+        "country_code": "PH",
+        "asn": "133131",
+        "description": "NEW VISION SATELLITE NETWORK INC.",
+        "handle": "NVSNI-AS-AP"
+    },
+    "133150": {
+        "country_code": "PH",
+        "asn": "133150",
+        "description": "GGS Technical Information Services Inc.",
+        "handle": "GTISI-AS-AP"
+    },
+    "133195": {
+        "country_code": "PH",
+        "asn": "133195",
+        "description": "PERFETTI VAN MELLE ASIA PACIFIC PTE LTD - ROHQ",
+        "handle": "PVMAPPLR-AS-AP"
+    },
+    "133198": {
+        "country_code": "PH",
+        "asn": "133198",
+        "description": "iOne Resources Inc.",
+        "handle": "IONE-AS-AP"
+    },
+    "133334": {
+        "country_code": "PH",
+        "asn": "133334",
+        "description": "DCTV Cable Network & Broadband Services Inc.",
+        "handle": "DCNBSI-AS-AP"
+    },
+    "133377": {
+        "country_code": "PH",
+        "asn": "133377",
+        "description": "IBM Business Services Inc",
+        "handle": "IBM-GPS-AS-AP"
+    },
+    "133432": {
+        "country_code": "PH",
+        "asn": "133432",
+        "description": "iConcerto Inc",
+        "handle": "ICONCERTOINC-AS-AP"
+    },
+    "133436": {
+        "country_code": "PH",
+        "asn": "133436",
+        "description": "KONTAK ONE MANAGEMENT EXCHANGE INC.",
+        "handle": "KONTAKONE-APO-AS"
+    },
+    "133464": {
+        "country_code": "PH",
+        "asn": "133464",
+        "description": "RTDS Network ICT Solutions Inc.",
+        "handle": "RNISI-AS-AP"
+    },
+    "133498": {
+        "country_code": "PH",
+        "asn": "133498",
+        "description": "De La Salle University Incorporated",
+        "handle": "DLSU-AS-AP"
+    },
+    "133544": {
+        "country_code": "PH",
+        "asn": "133544",
+        "description": "Wisetech Solutions Inc.",
+        "handle": "WSI-AS-AP"
+    },
+    "133584": {
+        "country_code": "PH",
+        "asn": "133584",
+        "description": "Responsible Internet Sustainability Effort",
+        "handle": "RISE-AS-AP"
+    },
+    "133585": {
+        "country_code": "PH",
+        "asn": "133585",
+        "description": "Bee Information Technology PH Inc.",
+        "handle": "BITPI-AS-AP"
+    },
+    "133611": {
+        "country_code": "PH",
+        "asn": "133611",
+        "description": "St. Luke's Medical Center",
+        "handle": "ST-AS-AP-SLEC"
+    },
+    "133623": {
+        "country_code": "PH",
+        "asn": "133623",
+        "description": "Planet Cable Inc.",
+        "handle": "PLANETCABLETV-AS-AP"
+    },
+    "133754": {
+        "country_code": "PH",
+        "asn": "133754",
+        "description": "Philippine Long Distance Telephone Co.",
+        "handle": "PLDT-MERALCO-AP"
+    },
+    "133778": {
+        "country_code": "PH",
+        "asn": "133778",
+        "description": "GY Consultancy Group Inc.",
+        "handle": "GCGI-AS-AP"
+    },
+    "133922": {
+        "country_code": "PH",
+        "asn": "133922",
+        "description": "Robcom Networks Inc.",
+        "handle": "RNI-AS-AP"
+    },
+    "134084": {
+        "country_code": "PH",
+        "asn": "134084",
+        "description": "TOSLINK INC.",
+        "handle": "TOSLINK-AS-AP"
+    },
+    "134140": {
+        "country_code": "PH",
+        "asn": "134140",
+        "description": "Philippine Long Distance Telephone Co.",
+        "handle": "PLDT-CORPORATEDSL-AP"
+    },
+    "134154": {
+        "country_code": "PH",
+        "asn": "134154",
+        "description": "Sitel Philippines Corporation",
+        "handle": "PHSITEL-ASN-PL-AP"
+    },
+    "134170": {
+        "country_code": "PH",
+        "asn": "134170",
+        "description": "Responsible Internet Sustainability Effort",
+        "handle": "RISE-AS-AP"
+    },
+    "134171": {
+        "country_code": "PH",
+        "asn": "134171",
+        "description": "Newbuy Inc.",
+        "handle": "NEWBUYINC-AS-AP"
+    },
+    "134182": {
+        "country_code": "PH",
+        "asn": "134182",
+        "description": "Pacificweb Internet Services Inc.",
+        "handle": "PISI-AS-AP"
+    },
+    "134211": {
+        "country_code": "PH",
+        "asn": "134211",
+        "description": "La Union Digital Evolution Company",
+        "handle": "LUDECO-AS-AP"
+    },
+    "134213": {
+        "country_code": "PH",
+        "asn": "134213",
+        "description": "Netify Communications Corp.",
+        "handle": "NCC-AS-AP"
+    },
+    "134216": {
+        "country_code": "PH",
+        "asn": "134216",
+        "description": "GLERCIMOR NETWORK AND DATA SOLUTION",
+        "handle": "EDMONDBSORIANO-AS-AP"
+    },
+    "134241": {
+        "country_code": "PH",
+        "asn": "134241",
+        "description": "Mamuric7 Telecommunications Corporation",
+        "handle": "MTC-AS-AP"
+    },
+    "134346": {
+        "country_code": "PH",
+        "asn": "134346",
+        "description": "Gainlot International Co. Ltd",
+        "handle": "GICL-AS-AP"
+    },
+    "134381": {
+        "country_code": "PH",
+        "asn": "134381",
+        "description": "MICHEL J. LHUILLIER FINANCIAL SERVICES (PAWNSHOPS) INC.",
+        "handle": "MLFSI-AS-AP"
+    },
+    "134414": {
+        "country_code": "PH",
+        "asn": "134414",
+        "description": "De La Salle - College of Saint Benilde",
+        "handle": "DLS-LSGH"
+    },
+    "134415": {
+        "country_code": "PH",
+        "asn": "134415",
+        "description": "De La Salle - College of Saint Benilde",
+        "handle": "DLS-CSB-ATRIUM"
+    },
+    "134416": {
+        "country_code": "PH",
+        "asn": "134416",
+        "description": "De La Salle - College of Saint Benilde",
+        "handle": "DLS-ZOBEL"
+    },
+    "134431": {
+        "country_code": "PH",
+        "asn": "134431",
+        "description": "News and Entertainment Network Corp",
+        "handle": "NEWSNET-AS-AP"
+    },
+    "134490": {
+        "country_code": "PH",
+        "asn": "134490",
+        "description": "Asian Vision Cable Holdings Inc",
+        "handle": "AVCHI-ZAM-AS-AP"
+    },
+    "134497": {
+        "country_code": "PH",
+        "asn": "134497",
+        "description": "Cine Cebu Television Network Inc.",
+        "handle": "CINE-AS-AP"
+    },
+    "134564": {
+        "country_code": "PH",
+        "asn": "134564",
+        "description": "Netfactory Network and Data Solution",
+        "handle": "NETFACTORY-AS-AP"
+    },
+    "134672": {
+        "country_code": "PH",
+        "asn": "134672",
+        "description": "Aquoz Solutions Inc",
+        "handle": "AQUOZSOLUTIONSINC-AS-AP"
+    },
+    "134707": {
+        "country_code": "PH",
+        "asn": "134707",
+        "description": "Royal Cablevision Corp.",
+        "handle": "RCC-AS-AP"
+    },
+    "134710": {
+        "country_code": "PH",
+        "asn": "134710",
+        "description": "Interlink Management and Consultancy",
+        "handle": "IMAC-AS-AP"
+    },
+    "134716": {
+        "country_code": "PH",
+        "asn": "134716",
+        "description": "Savant Technologies Inc.",
+        "handle": "SAVANT-ANTIQUE-AS-AP"
+    },
+    "134777": {
+        "country_code": "PH",
+        "asn": "134777",
+        "description": "De La Salle University Incorporated",
+        "handle": "DLSU-AS-AP"
+    },
+    "134779": {
+        "country_code": "PH",
+        "asn": "134779",
+        "description": "Philippine Long Distance Telephone Co.",
+        "handle": "PLDT-IBM-AS-AP"
+    },
+    "134788": {
+        "country_code": "PH",
+        "asn": "134788",
+        "description": "Parasat Cable TV Inc",
+        "handle": "PARASATCABLETV-AS-AP"
+    },
+    "134802": {
+        "country_code": "PH",
+        "asn": "134802",
+        "description": "Naic Cable TV Corp.",
+        "handle": "NAICCABLETVCORP-AS-AP"
+    },
+    "134966": {
+        "country_code": "PH",
+        "asn": "134966",
+        "description": "Southern CableVision Inc.",
+        "handle": "SCVI-AS-AP"
+    },
+    "134974": {
+        "country_code": "PH",
+        "asn": "134974",
+        "description": "Oakleigh Capital Ltd",
+        "handle": "OAKLEIGH-AS-FOR-HK2"
+    },
+    "134993": {
+        "country_code": "PH",
+        "asn": "134993",
+        "description": "INNOVATIVE INDUSTRIAL DESIGN SERVICES",
+        "handle": "IIDS-AS-AP"
+    },
+    "134996": {
+        "country_code": "PH",
+        "asn": "134996",
+        "description": "BSITC PHILS. INC.",
+        "handle": "EXA-NET-AS-AP"
+    },
+    "135025": {
+        "country_code": "PH",
+        "asn": "135025",
+        "description": "Nexlogic Telecommunications Network Inc.",
+        "handle": "NEXLOGIC-AS-AP"
+    },
+    "135028": {
+        "country_code": "PH",
+        "asn": "135028",
+        "description": "GEMSTAR CABLE TV",
+        "handle": "GEMSTARCABLETV-AS-AP"
+    },
+    "135084": {
+        "country_code": "PH",
+        "asn": "135084",
+        "description": "DCTV Cable Network & Broadband Services Inc.",
+        "handle": "DCNBSI-AS-AP"
+    },
+    "135122": {
+        "country_code": "PH",
+        "asn": "135122",
+        "description": "MILLAWAVE SYSTEMS CORPORATION",
+        "handle": "MILLAWAVE-AS-AP"
+    },
+    "135132": {
+        "country_code": "PH",
+        "asn": "135132",
+        "description": "Dreamscape Networks Inc.",
+        "handle": "DNI-PH"
+    },
+    "135162": {
+        "country_code": "PH",
+        "asn": "135162",
+        "description": "University of the Philippines",
+        "handle": "UP-ITDC-NET"
+    },
+    "135283": {
+        "country_code": "PH",
+        "asn": "135283",
+        "description": "Makilala Cable TV",
+        "handle": "MAKILALACABLETV-AS-AP"
+    },
+    "135305": {
+        "country_code": "PH",
+        "asn": "135305",
+        "description": "Nexlogic Telecommunications Network Inc.",
+        "handle": "NEXLOGIC-PH"
+    },
+    "135324": {
+        "country_code": "PH",
+        "asn": "135324",
+        "description": "IPStar",
+        "handle": "IPSTAR-AS-AP"
+    },
+    "135325": {
+        "country_code": "PH",
+        "asn": "135325",
+        "description": "EWS DS Networks Inc",
+        "handle": "EWSDSNETWORKSINC-AS-AP"
+    },
+    "135345": {
+        "country_code": "PH",
+        "asn": "135345",
+        "description": "NewMountainView Satellite Corporation",
+        "handle": "NEWMOUNTAINVIEW-PH"
+    },
+    "135366": {
+        "country_code": "PH",
+        "asn": "135366",
+        "description": "Zafra Cable TV Network Inc.",
+        "handle": "ZAFRACABLETV-AS-AP"
+    },
+    "135423": {
+        "country_code": "PH",
+        "asn": "135423",
+        "description": "Total Information Management Corporation",
+        "handle": "TIM-GNS-AS-AP"
+    },
+    "135491": {
+        "country_code": "PH",
+        "asn": "135491",
+        "description": "Datelcom Corporation",
+        "handle": "DATELCOM-AS-AP"
+    },
+    "135495": {
+        "country_code": "PH",
+        "asn": "135495",
+        "description": "Independent Telephone Company Inc.",
+        "handle": "ITCI-AS-AP"
+    },
+    "135499": {
+        "country_code": "PH",
+        "asn": "135499",
+        "description": "Tiger Resort Leisure & Entertainment Inc. (TRLEI)",
+        "handle": "TIGER-PL-AP"
+    },
+    "135549": {
+        "country_code": "PH",
+        "asn": "135549",
+        "description": "NEW WORLD CATV INC.",
+        "handle": "NWC-AS-AP"
+    },
+    "135556": {
+        "country_code": "PH",
+        "asn": "135556",
+        "description": "MULTIFACTORS SALES",
+        "handle": "MULTIFACTORSSALES-AS-AP"
+    },
+    "135582": {
+        "country_code": "PH",
+        "asn": "135582",
+        "description": "Galaxy Cable Corp.",
+        "handle": "GCC-AS-AP"
+    },
+    "135592": {
+        "country_code": "PH",
+        "asn": "135592",
+        "description": "Solaire Resort & Casino",
+        "handle": "SOLAIRE-OLG-ASN"
+    },
+    "135594": {
+        "country_code": "PH",
+        "asn": "135594",
+        "description": "Kabayan Cable Tv Systems Inc.",
+        "handle": "KCTSI-AS-AP"
+    },
+    "135607": {
+        "country_code": "PH",
+        "asn": "135607",
+        "description": "Infinivan Inc.",
+        "handle": "INFINIVAN-AS-AP"
+    },
+    "135643": {
+        "country_code": "PH",
+        "asn": "135643",
+        "description": "Automated Technologies Inc",
+        "handle": "ATCLOUD-AS-AP"
+    },
+    "135645": {
+        "country_code": "PH",
+        "asn": "135645",
+        "description": "Sureste Properties Inc.",
+        "handle": "SURESTEPROPERTIES-AS-AP"
+    },
+    "135896": {
+        "country_code": "PH",
+        "asn": "135896",
+        "description": "SBC Network Solutions Inc",
+        "handle": "SNSI-AS-AP"
+    },
+    "136028": {
+        "country_code": "PH",
+        "asn": "136028",
+        "description": "Advanced Science and Technology Institute",
+        "handle": "ASTI-AS-AP"
+    },
+    "136031": {
+        "country_code": "PH",
+        "asn": "136031",
+        "description": "NewMountainView Satellite Corporation",
+        "handle": "NEWMOUNTAINVIEW-AS-AP"
+    },
+    "136032": {
+        "country_code": "PH",
+        "asn": "136032",
+        "description": "NewMountainView Satellite Corporation",
+        "handle": "NEWMOUNTAINVIEW-AS-AP"
+    },
+    "136216": {
+        "country_code": "PH",
+        "asn": "136216",
+        "description": "Channel Information Technology Support and Leasing Services Inc.",
+        "handle": "BPOSEATS-COM-AS-AP"
+    },
+    "136227": {
+        "country_code": "PH",
+        "asn": "136227",
+        "description": "Philippine Long Distance Telephone Co.",
+        "handle": "AMS-PL-AP"
+    },
+    "136244": {
+        "country_code": "PH",
+        "asn": "136244",
+        "description": "Panay Broadband / Buenavista Cable TV. Inc.",
+        "handle": "PBBCTI-AS-AP"
+    },
+    "136260": {
+        "country_code": "PH",
+        "asn": "136260",
+        "description": "IPOINTEAST INC.",
+        "handle": "IPOINTEAST-AS-AP"
+    },
+    "136404": {
+        "country_code": "PH",
+        "asn": "136404",
+        "description": "BICOLANDIA CABLE TV INCORPORATED",
+        "handle": "BICOLANDIA-AS-AP"
+    },
+    "136433": {
+        "country_code": "PH",
+        "asn": "136433",
+        "description": "Medrozo IT Solutions",
+        "handle": "MEDROZO-AS-AP"
+    },
+    "136503": {
+        "country_code": "PH",
+        "asn": "136503",
+        "description": "Personal Collection Direct Selling Inc.",
+        "handle": "PCDSI-AS-AP"
+    },
+    "136513": {
+        "country_code": "PH",
+        "asn": "136513",
+        "description": "Corporate Technologies Incorporated",
+        "handle": "CTI-AS-AP"
+    },
+    "136515": {
+        "country_code": "PH",
+        "asn": "136515",
+        "description": "Dasca Cable Services Inc.",
+        "handle": "DCSI-AS-AP"
+    },
+    "136588": {
+        "country_code": "PH",
+        "asn": "136588",
+        "description": "INFOR PSSC INC.",
+        "handle": "INFORINDIAPVTLTD-AS-AP"
+    },
+    "136728": {
+        "country_code": "PH",
+        "asn": "136728",
+        "description": "Oakleigh Capital Ltd",
+        "handle": "OAKLEIGH-AS-AP"
+    },
+    "136729": {
+        "country_code": "PH",
+        "asn": "136729",
+        "description": "Oakleigh Capital Ltd",
+        "handle": "OAKLEIGH-AS-AP"
+    },
+    "136773": {
+        "country_code": "PH",
+        "asn": "136773",
+        "description": "BDO Unibank Inc",
+        "handle": "BDOUNIBANKINC-AS-AP"
+    },
+    "136777": {
+        "country_code": "PH",
+        "asn": "136777",
+        "description": "247 Customer Philippiness inc",
+        "handle": "M2CPI-AS-AP"
+    },
+    "136803": {
+        "country_code": "PH",
+        "asn": "136803",
+        "description": "TELMARC CORPORATION",
+        "handle": "TELMARCCORPORATION-AS-AP"
+    },
+    "136929": {
+        "country_code": "PH",
+        "asn": "136929",
+        "description": "Meridian Cable TV INC",
+        "handle": "MERIDIAN1-AS-AP"
+    },
+    "136961": {
+        "country_code": "PH",
+        "asn": "136961",
+        "description": "Apollo Global Corporation",
+        "handle": "APOLLOGLOBAL-AS-AP"
+    },
+    "136982": {
+        "country_code": "PH",
+        "asn": "136982",
+        "description": "Integranet Network Services",
+        "handle": "INS-AS-AP"
+    },
+    "137074": {
+        "country_code": "PH",
+        "asn": "137074",
+        "description": "Responsible Internet Sustainability Effort",
+        "handle": "RISE-AS-AP"
+    },
+    "137184": {
+        "country_code": "PH",
+        "asn": "137184",
+        "description": "Suniway Group of Companies Inc.",
+        "handle": "SUNIWAYTELECOM-AS-AP"
+    },
+    "137193": {
+        "country_code": "PH",
+        "asn": "137193",
+        "description": "Agera Network and Data Solution",
+        "handle": "AGERA-AS-AP"
+    },
+    "137202": {
+        "country_code": "PH",
+        "asn": "137202",
+        "description": "Philippine Long Distance Telephone Co.",
+        "handle": "SPI-ASN-PL-AP"
+    },
+    "137208": {
+        "country_code": "PH",
+        "asn": "137208",
+        "description": "ILEAD ICT SOLUTIONS INC",
+        "handle": "IISI-AS-AP"
+    },
+    "137226": {
+        "country_code": "PH",
+        "asn": "137226",
+        "description": "ANGELES CITY CABLE TELEVISION NETWORK INC.",
+        "handle": "ACCTN-AS-AP"
+    },
+    "137239": {
+        "country_code": "PH",
+        "asn": "137239",
+        "description": "Fil Products Service Television Incorporated",
+        "handle": "FPSTI-AS-AP"
+    },
+    "137248": {
+        "country_code": "PH",
+        "asn": "137248",
+        "description": "GNET Technologies OPC",
+        "handle": "GNETTECHNOLOGIES-AS-AP"
+    },
+    "137404": {
+        "country_code": "PH",
+        "asn": "137404",
+        "description": "Kabankalan Community Antenna Television System Inc",
+        "handle": "KCAT-AS-AP"
+    },
+    "137406": {
+        "country_code": "PH",
+        "asn": "137406",
+        "description": "Airlive Communications Inc.",
+        "handle": "ACI-AS-AP"
+    },
+    "137417": {
+        "country_code": "PH",
+        "asn": "137417",
+        "description": "Cambridge University Press",
+        "handle": "CUP-ASN-PL-AP"
+    },
+    "137418": {
+        "country_code": "PH",
+        "asn": "137418",
+        "description": "Savant Technologies Inc.",
+        "handle": "SAVANT-MANILA-AS-AP"
+    },
+    "137420": {
+        "country_code": "PH",
+        "asn": "137420",
+        "description": "Savant Technologies Inc.",
+        "handle": "SAVANT-ILOILO-AS-AP"
+    },
+    "137458": {
+        "country_code": "PH",
+        "asn": "137458",
+        "description": "MCBROAD IT SOLUTIONS",
+        "handle": "MIS-AS-AP"
+    },
+    "137459": {
+        "country_code": "PH",
+        "asn": "137459",
+        "description": "Open Access BPO",
+        "handle": "OAMPI-ASN-PL-AP"
+    },
+    "137487": {
+        "country_code": "PH",
+        "asn": "137487",
+        "description": "Manila Electric Company",
+        "handle": "MERALCO-AS-AP"
+    },
+    "137527": {
+        "country_code": "PH",
+        "asn": "137527",
+        "description": "HGC Global Communications (Philippines) Inc.",
+        "handle": "HGCI-AS-AP"
+    },
+    "137577": {
+        "country_code": "PH",
+        "asn": "137577",
+        "description": "Cloudware Enterprise Limited",
+        "handle": "CWE-AS-AP"
+    },
+    "137818": {
+        "country_code": "PH",
+        "asn": "137818",
+        "description": "Panay Telephone Corporation",
+        "handle": "PANTELCO-AS-AP"
+    },
+    "137827": {
+        "country_code": "PH",
+        "asn": "137827",
+        "description": "Cygnal Technologies Trading and Services",
+        "handle": "CYGNALTECHNOLOGIES-AS-AP"
+    },
+    "137846": {
+        "country_code": "PH",
+        "asn": "137846",
+        "description": "Sharp Viewing Entertainment Corporation",
+        "handle": "SHARP-AS-AP"
+    },
+    "137902": {
+        "country_code": "PH",
+        "asn": "137902",
+        "description": "Cagayan Cybertech Corporation",
+        "handle": "CCTEL-NET-AS-AP"
+    },
+    "137936": {
+        "country_code": "PH",
+        "asn": "137936",
+        "description": "RDTECH IT SOLUTIONS",
+        "handle": "RDTECHITSOLUTIONS-AS-AP"
+    },
+    "137941": {
+        "country_code": "PH",
+        "asn": "137941",
+        "description": "Mabuhay Cable TV Inc",
+        "handle": "MABUHAY-AS-AP"
+    },
+    "137996": {
+        "country_code": "PH",
+        "asn": "137996",
+        "description": "HGC Global Communications (Philippines) Inc.",
+        "handle": "HGCI-AS-AP"
+    },
+    "138025": {
+        "country_code": "PH",
+        "asn": "138025",
+        "description": "RBC Cable Master System",
+        "handle": "RBCCABLE-AS-AP"
+    },
+    "138036": {
+        "country_code": "PH",
+        "asn": "138036",
+        "description": "Cloudstaff",
+        "handle": "CLOUDSTAFF-ASN-PL-AP"
+    },
+    "138147": {
+        "country_code": "PH",
+        "asn": "138147",
+        "description": "Philippine Cable Television Association Inc.",
+        "handle": "PCTA-AS-AP"
+    },
+    "138185": {
+        "country_code": "PH",
+        "asn": "138185",
+        "description": "LUKBAN TELEPHONE SYSTEM INC.",
+        "handle": "LTSI-AS-AP"
+    },
+    "138218": {
+        "country_code": "PH",
+        "asn": "138218",
+        "description": "ABOITIZ EQUITY VENTURES INC.",
+        "handle": "AEV-AS-AP"
+    },
+    "138333": {
+        "country_code": "PH",
+        "asn": "138333",
+        "description": "Butuan Baulete Corporation",
+        "handle": "KOMSPEC1-AS-AP"
+    },
+    "138379": {
+        "country_code": "PH",
+        "asn": "138379",
+        "description": "Satellite Cable Network Inc.",
+        "handle": "SCNBROADBAND-AS-AP"
+    },
+    "138446": {
+        "country_code": "PH",
+        "asn": "138446",
+        "description": "Terraserv Technologies Inc.",
+        "handle": "TERRASERV-TECHNOLOGIES-AS-AP"
+    },
+    "138486": {
+        "country_code": "PH",
+        "asn": "138486",
+        "description": "We Are IT Philippines Inc.",
+        "handle": "WIT-HKG"
+    },
+    "138496": {
+        "country_code": "PH",
+        "asn": "138496",
+        "description": "Inspiro Relia Inc",
+        "handle": "INSPIRO-AS-AP"
+    },
+    "138540": {
+        "country_code": "PH",
+        "asn": "138540",
+        "description": "The Insular Life Assurance Company Ltd.",
+        "handle": "INSULARLIFE-AS-AP"
+    },
+    "138543": {
+        "country_code": "PH",
+        "asn": "138543",
+        "description": "Cablevision Systems Corporation",
+        "handle": "CABLEVISION-AS-AP"
+    },
+    "138569": {
+        "country_code": "PH",
+        "asn": "138569",
+        "description": "Tech2Go Strategic IT Solutions",
+        "handle": "T2G-TRUNET-AS-AP"
+    },
+    "138678": {
+        "country_code": "PH",
+        "asn": "138678",
+        "description": "Grandbo Technology Development Corporation",
+        "handle": "GTDC-AS-AP"
+    },
+    "138689": {
+        "country_code": "PH",
+        "asn": "138689",
+        "description": "CONCEPCION PAY-TV NETWORK INC.",
+        "handle": "CPTVNET-AS-AP"
+    },
+    "138916": {
+        "country_code": "PH",
+        "asn": "138916",
+        "description": "Personal Collection Direct Selling Inc.",
+        "handle": "PCDSI-AS-AP"
+    },
+    "138929": {
+        "country_code": "PH",
+        "asn": "138929",
+        "description": "Cebu Cable TV Management Corporation",
+        "handle": "CCTMC-AS-AP"
+    },
+    "138956": {
+        "country_code": "PH",
+        "asn": "138956",
+        "description": "Miriam College",
+        "handle": "MIRIAM-AS-AP"
+    },
+    "138958": {
+        "country_code": "PH",
+        "asn": "138958",
+        "description": "Tandag Electric & Telephone Company Inc.",
+        "handle": "TETCI-AS-AP"
+    },
+    "138961": {
+        "country_code": "PH",
+        "asn": "138961",
+        "description": "Paradise Cable Television Network",
+        "handle": "PCTN-AS-AP"
+    },
+    "138965": {
+        "country_code": "PH",
+        "asn": "138965",
+        "description": "Streamtech Systems Technologies Inc.",
+        "handle": "SSTI-AS-AP"
+    },
+    "138969": {
+        "country_code": "PH",
+        "asn": "138969",
+        "description": "Marbel Services & Television System Inc.",
+        "handle": "MARBEL1-AS-AP"
+    },
+    "138970": {
+        "country_code": "PH",
+        "asn": "138970",
+        "description": "Wesfardell Cable Services",
+        "handle": "WCS-AS-AP"
+    },
+    "138975": {
+        "country_code": "PH",
+        "asn": "138975",
+        "description": "Claveria Agribased Multipurpose Cooperative",
+        "handle": "CAMC-AS-AP"
+    },
+    "138987": {
+        "country_code": "PH",
+        "asn": "138987",
+        "description": "CHARLES CATV SYSTEMS INC",
+        "handle": "CCSI-AS-AP"
+    },
+    "138989": {
+        "country_code": "PH",
+        "asn": "138989",
+        "description": "Pisopay.com Inc.",
+        "handle": "PISOPAYCOMINC-AS-AP"
+    },
+    "139034": {
+        "country_code": "PH",
+        "asn": "139034",
+        "description": "Sattelite Plus Incorporated",
+        "handle": "SATTLINK-INC-AS-AP"
+    },
+    "139040": {
+        "country_code": "PH",
+        "asn": "139040",
+        "description": "CANON BUSINESS PROCESS SERVICES PHILIPPINES INC.",
+        "handle": "CBPSPH-ASN-PL-AP"
+    },
+    "139204": {
+        "country_code": "PH",
+        "asn": "139204",
+        "description": "RACITELCOM Inc.",
+        "handle": "RACITELCOM-AS-AP"
+    },
+    "139213": {
+        "country_code": "PH",
+        "asn": "139213",
+        "description": "Hillview Cable Systems inc.",
+        "handle": "HCSI-AS-AP"
+    },
+    "139238": {
+        "country_code": "PH",
+        "asn": "139238",
+        "description": "Infinity Broadband INC.",
+        "handle": "INFINITY1-AS-AP"
+    },
+    "139265": {
+        "country_code": "PH",
+        "asn": "139265",
+        "description": "V&M INFORMATION TECHNOLOGY INC.",
+        "handle": "VITI-AS-AP"
+    },
+    "139333": {
+        "country_code": "PH",
+        "asn": "139333",
+        "description": "Global Agility Solutions LLC",
+        "handle": "GASL-AS-AP"
+    },
+    "139350": {
+        "country_code": "PH",
+        "asn": "139350",
+        "description": "Solaire Resort & Casino",
+        "handle": "SURESTEONLINE-AS-AP"
+    },
+    "139464": {
+        "country_code": "PH",
+        "asn": "139464",
+        "description": "KMC Mag Solutions",
+        "handle": "KMCMAGSOLUTIONS-AS-AP"
+    },
+    "139614": {
+        "country_code": "PH",
+        "asn": "139614",
+        "description": "BANGKO SENTRAL NG PILIPINAS",
+        "handle": "BSP-AS-AP"
+    },
+    "139626": {
+        "country_code": "PH",
+        "asn": "139626",
+        "description": "Globe Telecom (GMCR INC)",
+        "handle": "TWOGO-AS-AP"
+    },
+    "139630": {
+        "country_code": "PH",
+        "asn": "139630",
+        "description": "Telectronic Systems Inc.",
+        "handle": "TSI-AS-AP"
+    },
+    "139639": {
+        "country_code": "PH",
+        "asn": "139639",
+        "description": "Directory Assistance BPO Company",
+        "handle": "ETELECONNECT-ASN-PL-AP"
+    },
+    "139673": {
+        "country_code": "PH",
+        "asn": "139673",
+        "description": "MFOJR Wired Internet Services",
+        "handle": "MWIS-AS-AP"
+    },
+    "139698": {
+        "country_code": "PH",
+        "asn": "139698",
+        "description": "Ikonek Network Telecom Inc.",
+        "handle": "INTI-AS-AP"
+    },
+    "139710": {
+        "country_code": "PH",
+        "asn": "139710",
+        "description": "HINDUJA GLOBAL SOLUTIONS LIMITED",
+        "handle": "HGS-ASN-PL-AP"
+    },
+    "139729": {
+        "country_code": "PH",
+        "asn": "139729",
+        "description": "Advance G Advertising Services",
+        "handle": "AGAS-AS-AP"
+    },
+    "139749": {
+        "country_code": "PH",
+        "asn": "139749",
+        "description": "Nanyang Telecom Inc",
+        "handle": "NANYANGTELECOMINC-AS-AP"
+    },
+    "139752": {
+        "country_code": "PH",
+        "asn": "139752",
+        "description": "Multinetwork Cable Television Inc",
+        "handle": "MCTI-AS-AP"
+    },
+    "139798": {
+        "country_code": "PH",
+        "asn": "139798",
+        "description": "LizardBear Tasking Inc",
+        "handle": "TASKUS-AS-AP"
+    },
+    "139831": {
+        "country_code": "PH",
+        "asn": "139831",
+        "description": "DITO TELECOMMUNITY CORPORATION",
+        "handle": "DTC-AS-AP"
+    },
+    "139833": {
+        "country_code": "PH",
+        "asn": "139833",
+        "description": "Cable Television Network Inc.",
+        "handle": "CABLE-AS-AP"
+    },
+    "139846": {
+        "country_code": "PH",
+        "asn": "139846",
+        "description": "Star Viewing Network Inc.",
+        "handle": "SVNI-AS-AP"
+    },
+    "139852": {
+        "country_code": "PH",
+        "asn": "139852",
+        "description": "Home Credit Philippines",
+        "handle": "HCP-AS-AP"
+    },
+    "139855": {
+        "country_code": "PH",
+        "asn": "139855",
+        "description": "BIT(Brother Internet Technology) INC.",
+        "handle": "BIT-AS-AP"
+    },
+    "139867": {
+        "country_code": "PH",
+        "asn": "139867",
+        "description": "TaskUs",
+        "handle": "TASKUS-ASN-PL-AP"
+    },
+    "139900": {
+        "country_code": "PH",
+        "asn": "139900",
+        "description": "RELIANCE CATV AND ENTERTAINMENT SERVICES",
+        "handle": "RELIANCE-CABLE-AS-AP"
+    },
+    "139920": {
+        "country_code": "PH",
+        "asn": "139920",
+        "description": "UE-IX",
+        "handle": "UEIX-AS-PH"
+    },
+    "140243": {
+        "country_code": "PH",
+        "asn": "140243",
+        "description": "CMD Cable Vision Inc",
+        "handle": "CCVI-AS-AP"
+    },
+    "140323": {
+        "country_code": "PH",
+        "asn": "140323",
+        "description": "ALLASTRILLA ENTERPRISES",
+        "handle": "ALLASTRILLA-AS-AP"
+    },
+    "140549": {
+        "country_code": "PH",
+        "asn": "140549",
+        "description": "SHIFT DATA SERVICES INC",
+        "handle": "SDSI-AS-AP"
+    },
+    "140593": {
+        "country_code": "PH",
+        "asn": "140593",
+        "description": "ULAP Networks Inc.",
+        "handle": "ULAP-AS-AP"
+    },
+    "140599": {
+        "country_code": "PH",
+        "asn": "140599",
+        "description": "COMFAC CORPORATION",
+        "handle": "COMFACCORPORATION-AS-AP"
+    },
+    "140619": {
+        "country_code": "PH",
+        "asn": "140619",
+        "description": "JSLINK INTERNATIONAL CORPORATION",
+        "handle": "JIC-AS-AP"
+    },
+    "140630": {
+        "country_code": "PH",
+        "asn": "140630",
+        "description": "JSLINK INTERNATIONAL CORPORATION",
+        "handle": "JIC-AS-AP"
+    },
+    "140686": {
+        "country_code": "PH",
+        "asn": "140686",
+        "description": "Nabunturan Cable TV Network Inc.",
+        "handle": "NCTNI-AS-AP"
+    },
+    "140708": {
+        "country_code": "PH",
+        "asn": "140708",
+        "description": "VITRO Inc.",
+        "handle": "VITROINC-AS-AP"
+    },
+    "140715": {
+        "country_code": "PH",
+        "asn": "140715",
+        "description": "KF Network Limited Corp.",
+        "handle": "KNLC-AS-AP"
+    },
+    "140722": {
+        "country_code": "PH",
+        "asn": "140722",
+        "description": "Bureau of the Treasury",
+        "handle": "BUREAUOFTHETREASURY-AS-AP"
+    },
+    "140734": {
+        "country_code": "PH",
+        "asn": "140734",
+        "description": "Watch Tower Bible and Tract Society of the Philippines",
+        "handle": "WTBATSOTP-AS-AP"
+    },
+    "140878": {
+        "country_code": "PH",
+        "asn": "140878",
+        "description": "Philippine National Police",
+        "handle": "PNP-AS-AP"
+    },
+    "140927": {
+        "country_code": "PH",
+        "asn": "140927",
+        "description": "SKY MOVIE PHILIPPINES CATV",
+        "handle": "SMPC-AS-AP"
+    },
+    "140964": {
+        "country_code": "PH",
+        "asn": "140964",
+        "description": "USATV One Inc.",
+        "handle": "USATVONEINC-AS-AP"
+    },
+    "140975": {
+        "country_code": "PH",
+        "asn": "140975",
+        "description": "Comsat Cable Supplies and Services",
+        "handle": "MARVINAPOLINAR-AS-AP"
+    },
+    "140984": {
+        "country_code": "PH",
+        "asn": "140984",
+        "description": "WTW HIGHTECH COMPANY INC",
+        "handle": "WTWHIGHTECHCOMPAN-AS-AP"
+    },
+    "141013": {
+        "country_code": "PH",
+        "asn": "141013",
+        "description": "Responsible Internet Sustainability Effort",
+        "handle": "RISE-AS-AP"
+    },
+    "141016": {
+        "country_code": "PH",
+        "asn": "141016",
+        "description": "SM Investments Corporation",
+        "handle": "SMIC-AS-AP"
+    },
+    "141152": {
+        "country_code": "PH",
+        "asn": "141152",
+        "description": "BATAAN SPACE CABLE NETWORK INC",
+        "handle": "BATAAN-AS-AP"
+    },
+    "141196": {
+        "country_code": "PH",
+        "asn": "141196",
+        "description": "DEPARTMENT OF INFORMATION AND COMMUNICATION TECHNOLOGY",
+        "handle": "DICT-AS-AP"
+    },
+    "141210": {
+        "country_code": "PH",
+        "asn": "141210",
+        "description": "Grand Unicom Corp",
+        "handle": "GRAND-AS-AP"
+    },
+    "141238": {
+        "country_code": "PH",
+        "asn": "141238",
+        "description": "Qualfon",
+        "handle": "QUALFON-ASN-PL-AP"
+    },
+    "141239": {
+        "country_code": "PH",
+        "asn": "141239",
+        "description": "JSLINK INTERNATIONAL CORPORATION",
+        "handle": "JIC-AS-AP"
+    },
+    "141391": {
+        "country_code": "PH",
+        "asn": "141391",
+        "description": "CONVERGE INFORMATION AND COMMUNICATIONS TECHNOLOGY SOLUTIONS INC",
+        "handle": "CONVERGE-BIDA-FIBER"
+    },
+    "141455": {
+        "country_code": "PH",
+        "asn": "141455",
+        "description": "Halum Properties (HALPROP) Inc.",
+        "handle": "HALUM-AS-AP"
+    },
+    "141676": {
+        "country_code": "PH",
+        "asn": "141676",
+        "description": "St. Joseph Cable TV System",
+        "handle": "SJCTS-AS-AP"
+    },
+    "141677": {
+        "country_code": "PH",
+        "asn": "141677",
+        "description": "Logify Inc.",
+        "handle": "LOGIFY-AS-AP"
+    },
+    "141686": {
+        "country_code": "PH",
+        "asn": "141686",
+        "description": "LizardBear Tasking Inc.",
+        "handle": "LTI-AS"
+    },
+    "141709": {
+        "country_code": "PH",
+        "asn": "141709",
+        "description": "Clare Cable TeleVision",
+        "handle": "CCT-AS-AP"
+    },
+    "141730": {
+        "country_code": "PH",
+        "asn": "141730",
+        "description": "Pacific Technologies and Network Philippines Incorporation",
+        "handle": "PTANPI-AS-AP"
+    },
+    "141748": {
+        "country_code": "PH",
+        "asn": "141748",
+        "description": "QUANTUM DATA COMMUNICATIONS INC.",
+        "handle": "QDCI-AS-AP"
+    },
+    "141754": {
+        "country_code": "PH",
+        "asn": "141754",
+        "description": "Emapta Versatile Services Inc",
+        "handle": "EVSI-AS-AP"
+    },
+    "141781": {
+        "country_code": "PH",
+        "asn": "141781",
+        "description": "WAHWAY DATA NETWORKS INC.",
+        "handle": "WAHWAY-AS-AP"
+    },
+    "141994": {
+        "country_code": "PH",
+        "asn": "141994",
+        "description": "Ocean Wave Communications Philippine Corp.",
+        "handle": "OWCPC-AS-AP"
+    },
+    "142009": {
+        "country_code": "PH",
+        "asn": "142009",
+        "description": "Misamis Cable Management and Development Corp",
+        "handle": "MCMADC-AS-AP"
+    },
+    "142035": {
+        "country_code": "PH",
+        "asn": "142035",
+        "description": "Weavetech Networks Inc.",
+        "handle": "WNI-AS-AP"
+    },
+    "142056": {
+        "country_code": "PH",
+        "asn": "142056",
+        "description": "Tectonics Electronics Marketing",
+        "handle": "TECTONICS-AS-AP"
+    },
+    "142121": {
+        "country_code": "PH",
+        "asn": "142121",
+        "description": "uniBeam Incorporated",
+        "handle": "UNIBEAM-AS-AP"
+    },
+    "142128": {
+        "country_code": "PH",
+        "asn": "142128",
+        "description": "Electrical and Electronics Engineering Institute",
+        "handle": "EEEI-AS-IXP-SCIMIX"
+    },
+    "142129": {
+        "country_code": "PH",
+        "asn": "142129",
+        "description": "Electrical and Electronics Engineering Institute",
+        "handle": "EEEI-AS-IXP-CONNECT-IX"
+    },
+    "142177": {
+        "country_code": "PH",
+        "asn": "142177",
+        "description": "Deatras Network and Data Solution",
+        "handle": "HENRYPDEATRAS-AS-AP"
+    },
+    "142187": {
+        "country_code": "PH",
+        "asn": "142187",
+        "description": "PROTECTIV IT SECURITY INC",
+        "handle": "PROTECTIV1-AS-AP"
+    },
+    "142271": {
+        "country_code": "PH",
+        "asn": "142271",
+        "description": "DoubleSquare Networks Inc.",
+        "handle": "DOUBLESQUARE-AS-AP"
+    },
+    "142285": {
+        "country_code": "PH",
+        "asn": "142285",
+        "description": "KEITH.NET INCORPORATED",
+        "handle": "KEITHNET-AS-AP"
+    },
+    "142409": {
+        "country_code": "PH",
+        "asn": "142409",
+        "description": "Digital Edge Philippines Inc",
+        "handle": "DEPI-ASN-AP"
+    },
+    "142414": {
+        "country_code": "PH",
+        "asn": "142414",
+        "description": "MALASIMBU CATV CORP",
+        "handle": "MALASIMBUCATVCORP-AS-AP"
+    },
+    "142416": {
+        "country_code": "PH",
+        "asn": "142416",
+        "description": "Itiviti Philippines Inc",
+        "handle": "ITIVITI-AS-AP"
+    },
+    "142424": {
+        "country_code": "PH",
+        "asn": "142424",
+        "description": "Unique Cable Network Inc.",
+        "handle": "UCNI-AS-AP"
+    },
+    "142548": {
+        "country_code": "PH",
+        "asn": "142548",
+        "description": "QUANTUM DATA COMMUNICATIONS INC.",
+        "handle": "QDCI-AS-AP"
+    },
+    "142555": {
+        "country_code": "PH",
+        "asn": "142555",
+        "description": "Z-ENERGY CATV NETWORK INC.",
+        "handle": "ZCNI-AS-AP"
+    },
+    "142581": {
+        "country_code": "PH",
+        "asn": "142581",
+        "description": "Mambulao Cable Television",
+        "handle": "MCT-AS-AP"
+    },
+    "142629": {
+        "country_code": "PH",
+        "asn": "142629",
+        "description": "GigaFiber Corp.",
+        "handle": "GIGAFIBERCORP-AS-AP"
+    },
+    "142648": {
+        "country_code": "PH",
+        "asn": "142648",
+        "description": "Cavite MBNS Project",
+        "handle": "CAVITE-ASN-PL-AP"
+    },
+    "142649": {
+        "country_code": "PH",
+        "asn": "142649",
+        "description": "Limitless-Tech Solutions Inc.",
+        "handle": "LIMITLESSTECH-AS-AP"
+    },
+    "146948": {
+        "country_code": "PH",
+        "asn": "146948",
+        "description": "Rural Bank of Guinobatan Inc.",
+        "handle": "RBOGI-AS-AP"
+    },
+    "146954": {
+        "country_code": "PH",
+        "asn": "146954",
+        "description": "IMJWANKLIK INTERNET COMMUNICATION SERVICES",
+        "handle": "IICS-AS-AP"
+    },
+    "147014": {
+        "country_code": "PH",
+        "asn": "147014",
+        "description": "IPTECH SOLUTION PROVIDER INCORPORATED",
+        "handle": "ISPI-AS-AP"
+    },
+    "147042": {
+        "country_code": "PH",
+        "asn": "147042",
+        "description": "Panabo Satellite Cable Television Inc.",
+        "handle": "PANABO-AS-AP"
+    },
+    "147044": {
+        "country_code": "PH",
+        "asn": "147044",
+        "description": "TECH MAHINDRA",
+        "handle": "TECHMAHINDRA-ASN-PL-AP"
+    },
+    "147174": {
+        "country_code": "PH",
+        "asn": "147174",
+        "description": "POLARIS CABLE VISION INC.",
+        "handle": "PCVI-AS-AP"
+    },
+    "147178": {
+        "country_code": "PH",
+        "asn": "147178",
+        "description": "TierOne Communications International Inc",
+        "handle": "TCII-AS-AP"
+    },
+    "149022": {
+        "country_code": "PH",
+        "asn": "149022",
+        "description": "Cloud Net Cable and Telecom Inc.",
+        "handle": "CNCATI-AS-AP"
+    },
+    "149027": {
+        "country_code": "PH",
+        "asn": "149027",
+        "description": "Neo-Tech Asia Distribution Inc.",
+        "handle": "NADI-AS-AP"
+    },
+    "149170": {
+        "country_code": "PH",
+        "asn": "149170",
+        "description": "NONE",
+        "handle": "TOLEDOCABLETV-AS-AP"
+    },
+    "149299": {
+        "country_code": "PH",
+        "asn": "149299",
+        "description": "CABLESTAR INC.",
+        "handle": "CABLESTARINC-AS-AP"
+    },
+    "149444": {
+        "country_code": "PH",
+        "asn": "149444",
+        "description": "Pampanga Digital Evolution Company (PADECO) Inc",
+        "handle": "PDECI-AS-AP"
+    },
+    "149509": {
+        "country_code": "PH",
+        "asn": "149509",
+        "description": "Xfiniti Internet Communication Services",
+        "handle": "XICSGS-AS-AP"
+    },
+    "149519": {
+        "country_code": "PH",
+        "asn": "149519",
+        "description": "TIGER RESORT LEISURE AND ENTERTAINMENT INC.",
+        "handle": "TRLEI-AS-AP"
+    },
+    "149635": {
+        "country_code": "PH",
+        "asn": "149635",
+        "description": "BICOL TELEPHONE AND TELEGRAPH INC.",
+        "handle": "BTTI-AS-AP"
+    },
+    "149645": {
+        "country_code": "PH",
+        "asn": "149645",
+        "description": "Spectrum Cable network and broadband Inc.",
+        "handle": "SCNABI-AS-AP"
+    },
+    "149802": {
+        "country_code": "PH",
+        "asn": "149802",
+        "description": "MT Cable Television Network",
+        "handle": "MCTN-AS-AP"
+    },
+    "149825": {
+        "country_code": "PH",
+        "asn": "149825",
+        "description": "RFi Fiber",
+        "handle": "RFINETWORK-AS-AP"
+    },
+    "149833": {
+        "country_code": "PH",
+        "asn": "149833",
+        "description": "Wrkpod Inc.",
+        "handle": "WRKPODINC-PH-AS-AP"
+    },
+    "149848": {
+        "country_code": "PH",
+        "asn": "149848",
+        "description": "CELEBRITY CABLE NETWORK INC",
+        "handle": "CCNI-AS-AP"
+    },
+    "149875": {
+        "country_code": "PH",
+        "asn": "149875",
+        "description": "PCByte Networks",
+        "handle": "PCBYTE-AS-PH"
+    },
+    "150000": {
+        "country_code": "PH",
+        "asn": "150000",
+        "description": "Data-Beam Business Solution",
+        "handle": "DBS-AS-AP"
+    },
+    "150161": {
+        "country_code": "PH",
+        "asn": "150161",
+        "description": "HYPERSONIC MANAGEMENT OPC",
+        "handle": "HMO-AS-AP"
+    },
+    "150286": {
+        "country_code": "PH",
+        "asn": "150286",
+        "description": "VICTORIAS TELEPHONE SYSTEM INC.",
+        "handle": "VTSI-AS-AP"
+    },
+    "150292": {
+        "country_code": "PH",
+        "asn": "150292",
+        "description": "Nevigate Communications (Philippines) OPC",
+        "handle": "NCO-AS-AP"
+    },
+    "150396": {
+        "country_code": "PH",
+        "asn": "150396",
+        "description": "Philippines Cloud Exchange Inc",
+        "handle": "PCEI-AS-AP"
+    },
+    "150431": {
+        "country_code": "PH",
+        "asn": "150431",
+        "description": "ADS Cable TV Network",
+        "handle": "ACTN-AS-AP"
+    },
+    "150447": {
+        "country_code": "PH",
+        "asn": "150447",
+        "description": "Woofy Incorporated",
+        "handle": "WOOFYINCORPORATED-AS-AP"
+    },
+    "150450": {
+        "country_code": "PH",
+        "asn": "150450",
+        "description": "Kinahugan Bojol Communications Inc.",
+        "handle": "KBCI-AS"
+    },
+    "150704": {
+        "country_code": "PH",
+        "asn": "150704",
+        "description": "DMPI Employees Agrarian Reform Beneficiaries Cooperative",
+        "handle": "DEARBC-AS-AP"
+    },
+    "150707": {
+        "country_code": "PH",
+        "asn": "150707",
+        "description": "Romblon Cable Corporation",
+        "handle": "ROMBLON-AS-AP"
+    },
+    "150749": {
+        "country_code": "PH",
+        "asn": "150749",
+        "description": "AFMB Corporation",
+        "handle": "AFMBCORPORATION-AS-AP"
+    },
+    "150781": {
+        "country_code": "PH",
+        "asn": "150781",
+        "description": "Data-Beam Business Solution",
+        "handle": "DBS-AS"
+    },
+    "150786": {
+        "country_code": "PH",
+        "asn": "150786",
+        "description": "EWS DS Networks Inc",
+        "handle": "MHK-IX-AS-AP"
+    },
+    "150806": {
+        "country_code": "PH",
+        "asn": "150806",
+        "description": "R. C. Yulo Telephone System Inc.",
+        "handle": "RCYTSI-AS-AP"
+    },
+    "151049": {
+        "country_code": "PH",
+        "asn": "151049",
+        "description": "ATSS NETWORK AND DATA SOLUTION",
+        "handle": "ATSSFIBER-AS-AP"
+    },
+    "151066": {
+        "country_code": "PH",
+        "asn": "151066",
+        "description": "Imperial network inc",
+        "handle": "INI-AS-AP"
+    },
+    "151212": {
+        "country_code": "PH",
+        "asn": "151212",
+        "description": "Calapan Telephone System Inc.",
+        "handle": "CATSI-AS-AP"
+    },
+    "151317": {
+        "country_code": "PH",
+        "asn": "151317",
+        "description": "Librify Information Technology Solutions",
+        "handle": "LITS-AS-AP"
+    },
+    "151324": {
+        "country_code": "PH",
+        "asn": "151324",
+        "description": "Bongao Cable Television Network Inc.",
+        "handle": "BCTNI-AS-AP"
+    },
+    "151346": {
+        "country_code": "PH",
+        "asn": "151346",
+        "description": "Macrologic Diversified Technologies Inc.",
+        "handle": "MDTI-AS-AP"
+    },
+    "151351": {
+        "country_code": "PH",
+        "asn": "151351",
+        "description": "NICO ZERO THREE TRADING & SERVICES",
+        "handle": "ZNTTAS-AS-AP"
+    },
+    "151354": {
+        "country_code": "PH",
+        "asn": "151354",
+        "description": "MCBROAD IT SOLUTIONS",
+        "handle": "MIS-AS-AP"
+    },
+    "151360": {
+        "country_code": "PH",
+        "asn": "151360",
+        "description": "SONIC NETWORKS PHL INC.",
+        "handle": "SNPI-AS-AP"
+    },
+    "151366": {
+        "country_code": "PH",
+        "asn": "151366",
+        "description": "AKM INTERNET INSTALLATION SERVICES",
+        "handle": "AIIS-AS-AP"
+    },
+    "151405": {
+        "country_code": "PH",
+        "asn": "151405",
+        "description": "WISE CABLE TV",
+        "handle": "WCTD-AS-AP"
+    },
+    "151408": {
+        "country_code": "PH",
+        "asn": "151408",
+        "description": "Fil Products Service Television of Calbayog Inc.",
+        "handle": "FIL-AS-AP"
+    },
+    "151465": {
+        "country_code": "PH",
+        "asn": "151465",
+        "description": "CULASI CATV INC.",
+        "handle": "CULASI-AS-AP"
+    },
+    "151617": {
+        "country_code": "PH",
+        "asn": "151617",
+        "description": "SYNCHRONY GLOBAL SERVICES PHILIPPINES INC.",
+        "handle": "SGSPI-AS-AP"
+    },
+    "151627": {
+        "country_code": "PH",
+        "asn": "151627",
+        "description": "KC Broadband Inc.",
+        "handle": "KCBI-AS-AP"
+    },
+    "151633": {
+        "country_code": "PH",
+        "asn": "151633",
+        "description": "Archon Network and Data Solution",
+        "handle": "ARCHON-AS-AP"
+    },
+    "151650": {
+        "country_code": "PH",
+        "asn": "151650",
+        "description": "Switch Fiber",
+        "handle": "SWITCHFIBER-AS-AP"
+    },
+    "151652": {
+        "country_code": "PH",
+        "asn": "151652",
+        "description": "ZSG Internet Communication Services",
+        "handle": "ZICS-AS-AP"
+    },
+    "151653": {
+        "country_code": "PH",
+        "asn": "151653",
+        "description": "General Telephone System Inc.",
+        "handle": "GTSI-AS-AP"
+    },
+    "151678": {
+        "country_code": "PH",
+        "asn": "151678",
+        "description": "Iriga Telephone Company Inc.",
+        "handle": "IRIGA1-AS-AP"
+    },
+    "151788": {
+        "country_code": "PH",
+        "asn": "151788",
+        "description": "EAGLE VISION INC.",
+        "handle": "EAGLEVISIONINC-AS-AP"
+    },
+    "151789": {
+        "country_code": "PH",
+        "asn": "151789",
+        "description": "Philippine National Computer Emergency Response Team",
+        "handle": "PNCERT-AS-AP"
+    },
+    "152107": {
+        "country_code": "PH",
+        "asn": "152107",
+        "description": "Fiberbro Internet Communication Services Corp.",
+        "handle": "FICSC-AS-AP"
+    },
+    "152131": {
+        "country_code": "PH",
+        "asn": "152131",
+        "description": "ILEAD NETWORK CORPORATION",
+        "handle": "INC-AS-AP"
+    },
+    "152135": {
+        "country_code": "PH",
+        "asn": "152135",
+        "description": "Cubiscomm Signal Sales Inc.",
+        "handle": "CSSI-AS-AP"
+    },
+    "152141": {
+        "country_code": "PH",
+        "asn": "152141",
+        "description": "R-NET Wired Internet Services",
+        "handle": "RWIS-AS-AP"
+    },
+    "152152": {
+        "country_code": "PH",
+        "asn": "152152",
+        "description": "SOLETECH IT SOLUTIONS",
+        "handle": "SIS-AS-AP"
+    },
+    "152172": {
+        "country_code": "PH",
+        "asn": "152172",
+        "description": "PSALMS CABLE INC.",
+        "handle": "PSALMSCABLEINC-AS-AP"
+    },
+    "152173": {
+        "country_code": "PH",
+        "asn": "152173",
+        "description": "Robinsons Bank Corporation",
+        "handle": "ROBINSONSBANKCORPORATION-AS-PH"
+    },
+    "152297": {
+        "country_code": "PH",
+        "asn": "152297",
+        "description": "PLANETNET NETWORK AND DATA SOLUTION",
+        "handle": "PNADS-AS-AP"
+    },
+    "152326": {
+        "country_code": "PH",
+        "asn": "152326",
+        "description": "RADIUS TELECOMS INC.",
+        "handle": "RTI-PLDTVRF-PH"
+    },
+    "152335": {
+        "country_code": "PH",
+        "asn": "152335",
+        "description": "CONVERGE INFORMATION AND COMMUNICATIONS TECHNOLOGY SOLUTIONS INC",
+        "handle": "CONVERGE-AS-CLOUD"
+    },
+    "152458": {
+        "country_code": "PH",
+        "asn": "152458",
+        "description": "HAPI.BYTES NETWORK AND DATA SOLUTION",
+        "handle": "HAPIBYTES-AS-AP"
+    },
+    "152584": {
+        "country_code": "PH",
+        "asn": "152584",
+        "description": "Infinivan Inc.",
+        "handle": "IVAN-US"
+    },
+    "152680": {
+        "country_code": "PH",
+        "asn": "152680",
+        "description": "Global IP Philippines Corp.",
+        "handle": "GIPC-AS-AP"
+    },
+    "152681": {
+        "country_code": "PH",
+        "asn": "152681",
+        "description": "FMKC TELECOM INC.",
+        "handle": "FMKCTELECOMINC-AS-AP"
+    },
+    "152687": {
+        "country_code": "PH",
+        "asn": "152687",
+        "description": "Macrologic Diversified Technologies Inc.",
+        "handle": "MDTI-AS-AP"
+    },
+    "152891": {
+        "country_code": "PH",
+        "asn": "152891",
+        "description": "Philippine Long Distance Telephone Co.",
+        "handle": "PLDT-INNOLAB-AS-AP"
+    },
+    "152896": {
+        "country_code": "PH",
+        "asn": "152896",
+        "description": "Dollar King Realty Corporation",
+        "handle": "DOLLARKINGREALTYCORPORATION-AS-PH"
+    },
+    "152907": {
+        "country_code": "PH",
+        "asn": "152907",
+        "description": "PANAY TELEPHONE CORPORATION II",
+        "handle": "PTCI-AS-AP"
+    },
+    "152914": {
+        "country_code": "PH",
+        "asn": "152914",
+        "description": "Infanta Cable TV Network Inc",
+        "handle": "ICTNI-AS-AP"
+    },
+    "153055": {
+        "country_code": "PH",
+        "asn": "153055",
+        "description": "TAMARAW VISION NETWORK INC.",
+        "handle": "TAMARAW-AS-AP"
+    },
+    "153166": {
+        "country_code": "PH",
+        "asn": "153166",
+        "description": "PAKONEK SOLUTIONS INC.",
+        "handle": "PAKONEK-AS-AP"
+    },
+    "153167": {
+        "country_code": "PH",
+        "asn": "153167",
+        "description": "Bicol University",
+        "handle": "BICOLUNIVERSITY-AS-AP"
+    },
+    "153174": {
+        "country_code": "PH",
+        "asn": "153174",
+        "description": "Aioni Digital and Data Solutions Inc.",
+        "handle": "ADADSI-AS-AP"
+    },
+    "153175": {
+        "country_code": "PH",
+        "asn": "153175",
+        "description": "Tiny Redbug Enterprising Network and Data Solution",
+        "handle": "TRENADS-AS-AP"
+    },
+    "153191": {
+        "country_code": "PH",
+        "asn": "153191",
+        "description": "DNS NETWORK AND DATA SOLUTION",
+        "handle": "DARNELREYESSANTOS-AS-AP"
+    },
+    "153196": {
+        "country_code": "PH",
+        "asn": "153196",
+        "description": "CAMARINES SUR POLYTECHNIC COLLEGES",
+        "handle": "CSPC-AS-AP"
+    },
+    "153200": {
+        "country_code": "PH",
+        "asn": "153200",
+        "description": "Cyber Peers Wireless Internet Services Co.",
+        "handle": "CPWISC-AS-AP"
+    },
+    "153322": {
+        "country_code": "PH",
+        "asn": "153322",
+        "description": "Persian Cable TV Network",
+        "handle": "PERSIAN1-AS-AP"
+    },
+    "153351": {
+        "country_code": "PH",
+        "asn": "153351",
+        "description": "Alcesski Information Technology Solutions",
+        "handle": "RICHARD-AS-AP"
+    },
+    "153356": {
+        "country_code": "PH",
+        "asn": "153356",
+        "description": "Home Development Mutual Fund",
+        "handle": "HOMEDEVELOPMENTMUTUALFUND-AS-PH"
+    },
+    "153359": {
+        "country_code": "PH",
+        "asn": "153359",
+        "description": "Imtech Solution and Data Providers",
+        "handle": "ISADP-AS-AP"
+    },
+    "153455": {
+        "country_code": "PH",
+        "asn": "153455",
+        "description": "G Links Solution",
+        "handle": "GMSC-AS-AP"
+    },
+    "153469": {
+        "country_code": "PH",
+        "asn": "153469",
+        "description": "Linkserve Telecommunications Network Inc.",
+        "handle": "LTNI-AS-AP"
+    },
+    "153495": {
+        "country_code": "PH",
+        "asn": "153495",
+        "description": "OFiber Communications Inc.",
+        "handle": "OFIBER"
+    },
+    "153496": {
+        "country_code": "PH",
+        "asn": "153496",
+        "description": "Editha Internet Information Services",
+        "handle": "EIIS-AS-AP"
+    },
+    "153574": {
+        "country_code": "PH",
+        "asn": "153574",
+        "description": "L & S Cable Television Inc.",
+        "handle": "LASCTI-AS-AP"
+    },
+    "153644": {
+        "country_code": "PH",
+        "asn": "153644",
+        "description": "RVNET ELECTRONICS AND TELECOMMUNICATION PARTS AND EQUIPMENT RETAILING",
+        "handle": "REATPAER-AS-AP"
+    },
+    "153648": {
+        "country_code": "PH",
+        "asn": "153648",
+        "description": "Emapta Versatile Services Inc",
+        "handle": "EVSI-AS-AP"
+    },
+    "153660": {
+        "country_code": "PH",
+        "asn": "153660",
+        "description": "Quad L Solutions Corp.",
+        "handle": "QLSC-AS-AP"
+    },
+    "153689": {
+        "country_code": "PH",
+        "asn": "153689",
+        "description": "SIQUIJOR ISLAND CABLE TV SYSTEMS CORPORATION",
+        "handle": "SICTSC-AS-AP"
+    },
+    "153691": {
+        "country_code": "PH",
+        "asn": "153691",
+        "description": "Will Connect Internet Communication Services",
+        "handle": "WCICS-AS-AP"
+    },
+    "153692": {
+        "country_code": "PH",
+        "asn": "153692",
+        "description": "Digital Essentials Trading",
+        "handle": "DETCONNECT-AS-AP"
+    },
+    "153695": {
+        "country_code": "PH",
+        "asn": "153695",
+        "description": "Kuya J Network Seven Infinity IT Solutions",
+        "handle": "KJNSIIS-AS-AP"
+    },
+    "153719": {
+        "country_code": "PH",
+        "asn": "153719",
+        "description": "Queens link technology Inc.",
+        "handle": "QLTI-AS-AP"
+    },
+    "153736": {
+        "country_code": "PH",
+        "asn": "153736",
+        "description": "DoubleSquare Networks Inc.",
+        "handle": "DOUBLESQUARE-AS-AP"
+    },
+    "153739": {
+        "country_code": "PH",
+        "asn": "153739",
+        "description": "G-Net IT Systems OPC",
+        "handle": "GNET-AS-AP"
+    },
+    "153789": {
+        "country_code": "PH",
+        "asn": "153789",
+        "description": "Clian Internet and I.T. Services",
+        "handle": "CIAIS-AS-AP"
+    },
+    "153793": {
+        "country_code": "PH",
+        "asn": "153793",
+        "description": "Kingred Network",
+        "handle": "KINGREDNETWORK-AS-AP"
+    },
+    "153855": {
+        "country_code": "PH",
+        "asn": "153855",
+        "description": "RDNAKS NETWORK AND DATA SOLUTION",
+        "handle": "RNADS-AS-AP"
+    },
+    "153856": {
+        "country_code": "PH",
+        "asn": "153856",
+        "description": "ZZNET",
+        "handle": "SULTANHIZAMOPC-AS-AP"
+    },
+    "153862": {
+        "country_code": "PH",
+        "asn": "153862",
+        "description": "CloudSecure Consultancy and Services Inc.",
+        "handle": "CCSIPH-AS-AP"
+    },
+    "153869": {
+        "country_code": "PH",
+        "asn": "153869",
+        "description": "Newisland Media Vision Inc.",
+        "handle": "NIMVI-AS-AP"
+    },
+    "153908": {
+        "country_code": "PH",
+        "asn": "153908",
+        "description": "Corona Intl. Inc.",
+        "handle": "CII-AS-AP"
+    },
+    "153912": {
+        "country_code": "PH",
+        "asn": "153912",
+        "description": "AMIA PISONET",
+        "handle": "AMIAPISONET-AS-AP"
+    },
+    "153934": {
+        "country_code": "PH",
+        "asn": "153934",
+        "description": "TECHGEEKPH",
+        "handle": "TSSO-AS-AP"
+    },
+    "153969": {
+        "country_code": "PH",
+        "asn": "153969",
+        "description": "JVL STAR CABLE TV INC.",
+        "handle": "JSCT-AS-AP"
+    },
+    "153989": {
+        "country_code": "PH",
+        "asn": "153989",
+        "description": "Jamers Digital Computer Parts and Accessories Trading",
+        "handle": "JDCPAAT-AS-AP"
+    },
+    "153994": {
+        "country_code": "PH",
+        "asn": "153994",
+        "description": "BITSFIBER",
+        "handle": "BITSFIBEROPC-AS-AP"
+    },
+    "154002": {
+        "country_code": "PH",
+        "asn": "154002",
+        "description": "iRateNet Solutions",
+        "handle": "ISI-AS-AP"
+    },
+    "154031": {
+        "country_code": "PH",
+        "asn": "154031",
+        "description": "Sierra.Net Network & Data Solution",
+        "handle": "SNDS-AS-AP"
+    },
+    "154040": {
+        "country_code": "PH",
+        "asn": "154040",
+        "description": "AIRDAN NETWORKS CORPORATION",
+        "handle": "ANC-AS-AP"
+    },
+    "154080": {
+        "country_code": "PH",
+        "asn": "154080",
+        "description": "Ignite Telecommunications Inc",
+        "handle": "ITI-AS-AP"
+    },
+    "154083": {
+        "country_code": "PH",
+        "asn": "154083",
+        "description": "DC FIBER NETWORK WIRED INTERNET SERVICES",
+        "handle": "DFNWIS-AS-AP"
+    },
+    "154180": {
+        "country_code": "PH",
+        "asn": "154180",
+        "description": "RNDS Network",
+        "handle": "RNDSNETWORK-AS-AP"
+    },
+    "154184": {
+        "country_code": "PH",
+        "asn": "154184",
+        "description": "JAT I.T. SERVICES",
+        "handle": "JAT-AS-AP"
+    },
+    "154200": {
+        "country_code": "PH",
+        "asn": "154200",
+        "description": "JUJIEDSO FIBR WIRED INTERNET SERVICES",
+        "handle": "JFWIS-AS-AP"
+    },
+    "154227": {
+        "country_code": "PH",
+        "asn": "154227",
+        "description": "Go Wiser Corporation",
+        "handle": "GWC-AS-AP"
+    },
+    "154236": {
+        "country_code": "PH",
+        "asn": "154236",
+        "description": "JustConnect Installation Solutions Inc.",
+        "handle": "JISI-AS-AP"
+    },
+    "154240": {
+        "country_code": "PH",
+        "asn": "154240",
+        "description": "Mindanao State University - Iligan Institute of Technology",
+        "handle": "MSUIIOT-AS-AP"
+    },
+    "154242": {
+        "country_code": "PH",
+        "asn": "154242",
+        "description": "Data Works Solutions Corporation",
+        "handle": "DWSC-AS-AP"
+    },
+    "154251": {
+        "country_code": "PH",
+        "asn": "154251",
+        "description": "TIM Nextgen DC Corporation",
+        "handle": "TNDC-AS-AP"
+    },
+    "154257": {
+        "country_code": "PH",
+        "asn": "154257",
+        "description": "SANFIL NETWORK AND DATA SOLUTION",
+        "handle": "SANFIL-AS-AP"
+    },
+    "154260": {
+        "country_code": "PH",
+        "asn": "154260",
+        "description": "KAZIBUFAST HOTSPOT NET & PISONET",
+        "handle": "BRAIELTAPDASAN-AS-AP"
+    },
+    "154261": {
+        "country_code": "PH",
+        "asn": "154261",
+        "description": "BF DOMINGO ENTERPRISES",
+        "handle": "BDE-AS-AP"
+    },
+    "154262": {
+        "country_code": "PH",
+        "asn": "154262",
+        "description": "Your Tech Electronics and Your Shop Enterprise",
+        "handle": "SMJ3CORPORATION-AS-AP"
+    },
+    "154267": {
+        "country_code": "PH",
+        "asn": "154267",
+        "description": "JMJR ENTERPRISES OPC",
+        "handle": "JEO-AS-AP"
+    },
+    "154273": {
+        "country_code": "PH",
+        "asn": "154273",
+        "description": "DMCI Project Developers Inc.",
+        "handle": "DPDI-AS-AP"
+    },
+    "154285": {
+        "country_code": "PH",
+        "asn": "154285",
+        "description": "Exe Network and Data Solution",
+        "handle": "EXE-AS-AP"
+    },
+    "154287": {
+        "country_code": "PH",
+        "asn": "154287",
+        "description": "R-Connect",
+        "handle": "RCNC-AS-AP"
+    },
+    "154335": {
+        "country_code": "PH",
+        "asn": "154335",
+        "description": "NAYSWAN NETWORK AND DATA SOLUTION",
+        "handle": "NAYSWAN-AS-AP"
+    },
+    "154355": {
+        "country_code": "PH",
+        "asn": "154355",
+        "description": "CABSTECH NETWORK",
+        "handle": "CNADS-AS-AP"
+    },
+    "154398": {
+        "country_code": "PH",
+        "asn": "154398",
+        "description": "Fil Products Service Television Incorporated",
+        "handle": "FPSTI-AS-AP"
+    },
+    "154409": {
+        "country_code": "PH",
+        "asn": "154409",
+        "description": "Powerlink Technologies Inc",
+        "handle": "POWERLINK-AS-AP"
+    },
+    "154424": {
+        "country_code": "PH",
+        "asn": "154424",
+        "description": "Jrev IT Solutions",
+        "handle": "JREVIT-AS-AP"
+    },
+    "154429": {
+        "country_code": "PH",
+        "asn": "154429",
+        "description": "JAPTECH ELECTRONIC IT SOLUTIONS",
+        "handle": "JAFFYSUDIOBUYAO-AS-AP"
+    },
+    "154443": {
+        "country_code": "PH",
+        "asn": "154443",
+        "description": "Kmhars IT Solutions Corporation",
+        "handle": "KISC-AS-AP"
+    },
+    "199676": {
+        "country_code": "PH",
+        "asn": "199676",
+        "description": "John Leo Navarro",
+        "handle": "JOHN-NAVARRO"
+    },
+    "200879": {
+        "country_code": "PH",
+        "asn": "200879",
+        "description": "John Carlo Olideles",
+        "handle": "OLIDELES-AS"
+    },
+    "209612": {
+        "country_code": "PH",
+        "asn": "209612",
+        "description": "Curt Joseph Hidalgo trading as Curt Creation Website Hosting Services",
+        "handle": "CURTCREATION-AS"
+    },
+    "213884": {
+        "country_code": "PH",
+        "asn": "213884",
+        "description": "Reynaldo Papahan trading as FAST-FIBER NETWORK AND DATA SOLUTION",
+        "handle": "FAST-FIBER"
+    },
+    "215150": {
+        "country_code": "PH",
+        "asn": "215150",
+        "description": "Shawn Maurin",
+        "handle": "MAURIN-AS"
+    },
+    "216077": {
+        "country_code": "PH",
+        "asn": "216077",
+        "description": "Albert Salvador trading as SARAP MAG BIYAHE TRAVEL AND TOURS",
+        "handle": "SARAP-MAG-BIYAHE-TRAVEL-AND-TOURS"
+    }
+}

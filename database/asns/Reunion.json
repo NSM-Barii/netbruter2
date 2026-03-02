@@ -1,0 +1,38 @@
+{
+    "34306": {
+        "country_code": "RE",
+        "asn": "34306",
+        "description": "SOCIETE REUNIONNAISE DU RADIOTELEPHONE SCS",
+        "handle": "MOBIUS-AS"
+    },
+    "37002": {
+        "country_code": "RE",
+        "asn": "37002",
+        "description": "Reunicable SAS",
+        "handle": "REUNICABLE"
+    },
+    "49902": {
+        "country_code": "RE",
+        "asn": "49902",
+        "description": "SOCIETE REUNIONNAISE DU RADIOTELEPHONE SCS",
+        "handle": "SRR-AS"
+    },
+    "327697": {
+        "country_code": "RE",
+        "asn": "327697",
+        "description": "TELCO OI SAS",
+        "handle": "TELCO-OI-AS"
+    },
+    "327874": {
+        "country_code": "RE",
+        "asn": "327874",
+        "description": "PYXISE SARL",
+        "handle": "PYXISE-SARL"
+    },
+    "327956": {
+        "country_code": "RE",
+        "asn": "327956",
+        "description": "PARABOLE REUNION",
+        "handle": "PARABOLE-REUNION"
+    }
+}

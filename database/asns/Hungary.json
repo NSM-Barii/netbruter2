@@ -1,0 +1,1790 @@
+{
+    "1955": {
+        "country_code": "HU",
+        "asn": "1955",
+        "description": "KIFU (Governmental Info Tech Development Agency)",
+        "handle": "HBONE-AS"
+    },
+    "2547": {
+        "country_code": "HU",
+        "asn": "2547",
+        "description": "Budapest University of Technology and Economics",
+        "handle": "BMENET-AS"
+    },
+    "3219": {
+        "country_code": "HU",
+        "asn": "3219",
+        "description": "Ministry of Local Government and Regional Development",
+        "handle": "HU-GOVNET"
+    },
+    "3244": {
+        "country_code": "HU",
+        "asn": "3244",
+        "description": "3c. Kft.",
+        "handle": "BANKNET"
+    },
+    "3314": {
+        "country_code": "HU",
+        "asn": "3314",
+        "description": "MTA Wigner Fizikai Kutatokozpont",
+        "handle": "KFKI-AS"
+    },
+    "3338": {
+        "country_code": "HU",
+        "asn": "3338",
+        "description": "SZTAKI",
+        "handle": "HUNGARNET-SZTAKI"
+    },
+    "3340": {
+        "country_code": "HU",
+        "asn": "3340",
+        "description": "Magyar Telekom Plc.",
+        "handle": "MAGYAR-TELEKOM-GTS-AS"
+    },
+    "5483": {
+        "country_code": "HU",
+        "asn": "5483",
+        "description": "Magyar Telekom Plc.",
+        "handle": "MAGYAR-TELEKOM-MAIN-AS"
+    },
+    "5507": {
+        "country_code": "HU",
+        "asn": "5507",
+        "description": "Magyarorszagi Internet Szolgaltatok Tanacsa Tudomanyos Egyesulet",
+        "handle": "HU-BIX-AS"
+    },
+    "5565": {
+        "country_code": "HU",
+        "asn": "5565",
+        "description": "SATRAX-NET Ltd.",
+        "handle": "SATRAX-NET-AS"
+    },
+    "5594": {
+        "country_code": "HU",
+        "asn": "5594",
+        "description": "Lufthansa Systems Hungaria Ltd.",
+        "handle": "LHSYSHU"
+    },
+    "6711": {
+        "country_code": "HU",
+        "asn": "6711",
+        "description": "University of Szeged",
+        "handle": "HUNGARNET-SZEGED"
+    },
+    "6784": {
+        "country_code": "HU",
+        "asn": "6784",
+        "description": "MOL Nyrt.",
+        "handle": "MOL-NYRT"
+    },
+    "6790": {
+        "country_code": "HU",
+        "asn": "6790",
+        "description": "Magyar Telekom Plc.",
+        "handle": "MAGYAR-TELEKOM-DATANET-AS"
+    },
+    "8229": {
+        "country_code": "HU",
+        "asn": "8229",
+        "description": "KiberNet Kft.",
+        "handle": "KIBERNET-AS"
+    },
+    "8294": {
+        "country_code": "HU",
+        "asn": "8294",
+        "description": "Fornax ZRt.",
+        "handle": "FORNAX-ZRT"
+    },
+    "8358": {
+        "country_code": "HU",
+        "asn": "8358",
+        "description": "Magyar Telekom Plc.",
+        "handle": "MAGYAR-TELEKOM-INTERWARE-AS"
+    },
+    "8448": {
+        "country_code": "HU",
+        "asn": "8448",
+        "description": "CETIN Hungary Zrt.",
+        "handle": "CETIN-HU"
+    },
+    "8462": {
+        "country_code": "HU",
+        "asn": "8462",
+        "description": "Tarr Kft.",
+        "handle": "TARR1"
+    },
+    "8536": {
+        "country_code": "HU",
+        "asn": "8536",
+        "description": "QwertyNet Kft",
+        "handle": "ASN-QWERTYNET"
+    },
+    "8579": {
+        "country_code": "HU",
+        "asn": "8579",
+        "description": "Magyar Telekom Plc.",
+        "handle": "MAGYAR-TELEKOM-TIX-AS"
+    },
+    "8696": {
+        "country_code": "HU",
+        "asn": "8696",
+        "description": "Invitech ICT Services Kft.",
+        "handle": "INVITEL"
+    },
+    "8990": {
+        "country_code": "HU",
+        "asn": "8990",
+        "description": "4iG Telecommunications Holding Zrt",
+        "handle": "AHRT-AS"
+    },
+    "12301": {
+        "country_code": "HU",
+        "asn": "12301",
+        "description": "Invitech ICT Services Kft.",
+        "handle": "INVITECH"
+    },
+    "12303": {
+        "country_code": "HU",
+        "asn": "12303",
+        "description": "Magyarorszagi Internet Szolgaltatok Tanacsa Tudomanyos Egyesulet",
+        "handle": "ISZT-AS"
+    },
+    "12589": {
+        "country_code": "HU",
+        "asn": "12589",
+        "description": "Magyar Posta Zrt",
+        "handle": "POSTA-HU-AS"
+    },
+    "12594": {
+        "country_code": "HU",
+        "asn": "12594",
+        "description": "Comnica Kft.",
+        "handle": "EXTERNET-AS"
+    },
+    "12673": {
+        "country_code": "HU",
+        "asn": "12673",
+        "description": "University of Pannonia",
+        "handle": "UNIVERSITY-OF-PANNONIA"
+    },
+    "15410": {
+        "country_code": "HU",
+        "asn": "15410",
+        "description": "BT Limited Magyarorszagi Fioktelepe",
+        "handle": "BT-HUNGARY"
+    },
+    "15566": {
+        "country_code": "HU",
+        "asn": "15566",
+        "description": "Infotechna Ltd.",
+        "handle": "INFOTECHNA"
+    },
+    "15629": {
+        "country_code": "HU",
+        "asn": "15629",
+        "description": "United Technology Alliance Kft.",
+        "handle": "UNITECHNAL"
+    },
+    "15985": {
+        "country_code": "HU",
+        "asn": "15985",
+        "description": "Pipenet Informatics and Securities Bt.",
+        "handle": "ASN-PIPENET"
+    },
+    "16015": {
+        "country_code": "HU",
+        "asn": "16015",
+        "description": "CIB Bank Zrt.",
+        "handle": "CIB-AS"
+    },
+    "16280": {
+        "country_code": "HU",
+        "asn": "16280",
+        "description": "BorsodChem Zrt",
+        "handle": "BCRT"
+    },
+    "20510": {
+        "country_code": "HU",
+        "asn": "20510",
+        "description": "Nexum Hungary Internet Service Provider Ltd.",
+        "handle": "NEXUM-AS"
+    },
+    "20523": {
+        "country_code": "HU",
+        "asn": "20523",
+        "description": "Invitech ICT Services Kft.",
+        "handle": "INVITECH-ICT-SERVICES-KFT"
+    },
+    "20568": {
+        "country_code": "HU",
+        "asn": "20568",
+        "description": "4iG Telecommunications Holding Zrt",
+        "handle": "AHRT-PRO-AS"
+    },
+    "20624": {
+        "country_code": "HU",
+        "asn": "20624",
+        "description": "Euronet Services Kft",
+        "handle": "EURONET-SERVICES-KFT"
+    },
+    "20742": {
+        "country_code": "HU",
+        "asn": "20742",
+        "description": "Internet4U Kereskedelmi es Szolgaltato Kft.",
+        "handle": "AHOL"
+    },
+    "20845": {
+        "country_code": "HU",
+        "asn": "20845",
+        "description": "DIGI Tavkozlesi es Szolgaltato Kft.",
+        "handle": "DIGICABLE"
+    },
+    "20922": {
+        "country_code": "HU",
+        "asn": "20922",
+        "description": "Invitech ICT Services Kft.",
+        "handle": "DW-AS"
+    },
+    "21146": {
+        "country_code": "HU",
+        "asn": "21146",
+        "description": "GigaBit Kereskedelmi es Informatikai Kft.",
+        "handle": "EYSSEN-AS"
+    },
+    "21209": {
+        "country_code": "HU",
+        "asn": "21209",
+        "description": "MKB Uzemeltetesi Kft.",
+        "handle": "MKB"
+    },
+    "21229": {
+        "country_code": "HU",
+        "asn": "21229",
+        "description": "Dravanet Co Ltd.",
+        "handle": "DRAVANET-AS"
+    },
+    "21334": {
+        "country_code": "HU",
+        "asn": "21334",
+        "description": "One Hungary Ltd.",
+        "handle": "ASN-VODAFONE-HU"
+    },
+    "24686": {
+        "country_code": "HU",
+        "asn": "24686",
+        "description": "University of Pecs",
+        "handle": "UPNET-ASN"
+    },
+    "24690": {
+        "country_code": "HU",
+        "asn": "24690",
+        "description": "Szerencsejatek Zrt",
+        "handle": "SZRT-HU-ASN"
+    },
+    "24794": {
+        "country_code": "HU",
+        "asn": "24794",
+        "description": "Kesz Consulting Kft.",
+        "handle": "IBCNET-HU-AS"
+    },
+    "24822": {
+        "country_code": "HU",
+        "asn": "24822",
+        "description": "OPC Networks Kft.",
+        "handle": "OPCNET-HU-AS"
+    },
+    "24991": {
+        "country_code": "HU",
+        "asn": "24991",
+        "description": "Datatrans Internet Ltd",
+        "handle": "DATATRANSINTERNET-AS"
+    },
+    "25274": {
+        "country_code": "HU",
+        "asn": "25274",
+        "description": "Naracom Kft.",
+        "handle": "NARACOM-HU"
+    },
+    "25539": {
+        "country_code": "HU",
+        "asn": "25539",
+        "description": "Hungarian Power System Operator Co.",
+        "handle": "MAVIR-HU-AS"
+    },
+    "28728": {
+        "country_code": "HU",
+        "asn": "28728",
+        "description": "Infornax Information Technology Zrt.",
+        "handle": "INFORNAX-AS"
+    },
+    "28924": {
+        "country_code": "HU",
+        "asn": "28924",
+        "description": "INTEGRITY Informatics Ltd.",
+        "handle": "INTEGRITY-HU-AS"
+    },
+    "29278": {
+        "country_code": "HU",
+        "asn": "29278",
+        "description": "Rackhost Zrt.",
+        "handle": "RACKHOST-HU-AS"
+    },
+    "29657": {
+        "country_code": "HU",
+        "asn": "29657",
+        "description": "Last-Mile Ltd.",
+        "handle": "ASN-6NETWORK"
+    },
+    "30723": {
+        "country_code": "HU",
+        "asn": "30723",
+        "description": "Fotexnet Kft.",
+        "handle": "FOTEXNET-AS"
+    },
+    "30836": {
+        "country_code": "HU",
+        "asn": "30836",
+        "description": "23VNet Kft.",
+        "handle": "NET23-AS"
+    },
+    "30904": {
+        "country_code": "HU",
+        "asn": "30904",
+        "description": "National Infocommunications Service Company Limited by Shares",
+        "handle": "KOZHALO-AS"
+    },
+    "30917": {
+        "country_code": "HU",
+        "asn": "30917",
+        "description": "MBH Bank Nyrt.",
+        "handle": "MBHBANK-AS"
+    },
+    "30942": {
+        "country_code": "HU",
+        "asn": "30942",
+        "description": "HW STUDIO Szamitastechnikai Kereskedelmi es Szolgaltato Korlatolt Felelossegu Tarsasag",
+        "handle": "HW-STUDIO-AS"
+    },
+    "31297": {
+        "country_code": "HU",
+        "asn": "31297",
+        "description": "Axian Kft.",
+        "handle": "AXIAN-HU-AS"
+    },
+    "31581": {
+        "country_code": "HU",
+        "asn": "31581",
+        "description": "National Infocommunications Service Company Limited by Shares",
+        "handle": "KOPINT-AS"
+    },
+    "33947": {
+        "country_code": "HU",
+        "asn": "33947",
+        "description": "WLA Interservice Ltd.",
+        "handle": "WLA-NET-HU-AS"
+    },
+    "33959": {
+        "country_code": "HU",
+        "asn": "33959",
+        "description": "METRO Kereskedelmi Kft.",
+        "handle": "METRO-HU-AS"
+    },
+    "34059": {
+        "country_code": "HU",
+        "asn": "34059",
+        "description": "SPAR Magyarorszag Kereskedelmi Kft",
+        "handle": "SPAR-HU-AS"
+    },
+    "34262": {
+        "country_code": "HU",
+        "asn": "34262",
+        "description": "TEVA Gyogyszergyar Zrt.",
+        "handle": "BIOTEVA-AS"
+    },
+    "34489": {
+        "country_code": "HU",
+        "asn": "34489",
+        "description": "Pannon Pipics Ltd.",
+        "handle": "AIRPLANET-AS"
+    },
+    "34563": {
+        "country_code": "HU",
+        "asn": "34563",
+        "description": "Microsec zrt.",
+        "handle": "MICROSEC-AS"
+    },
+    "34588": {
+        "country_code": "HU",
+        "asn": "34588",
+        "description": "Invitech ICT Services Kft.",
+        "handle": "FIBERNET-HU-AS"
+    },
+    "35190": {
+        "country_code": "HU",
+        "asn": "35190",
+        "description": "Magyar Telekom Plc.",
+        "handle": "HTC-ROMANIAN-BACKBONE"
+    },
+    "35263": {
+        "country_code": "HU",
+        "asn": "35263",
+        "description": "MAGICNET Kft.",
+        "handle": "RLAN-AS"
+    },
+    "35311": {
+        "country_code": "HU",
+        "asn": "35311",
+        "description": "PR-TELECOM Zrt.",
+        "handle": "PR-TELECOM-AS"
+    },
+    "35740": {
+        "country_code": "HU",
+        "asn": "35740",
+        "description": "Euronet Services Kft",
+        "handle": "EURONET"
+    },
+    "35792": {
+        "country_code": "HU",
+        "asn": "35792",
+        "description": "Takinfo Kft",
+        "handle": "TAKI-AS"
+    },
+    "39201": {
+        "country_code": "HU",
+        "asn": "39201",
+        "description": "WaveCom Informatikai Kft.",
+        "handle": "WAVECOM"
+    },
+    "39533": {
+        "country_code": "HU",
+        "asn": "39533",
+        "description": "Asympto Networks Kft.",
+        "handle": "ASYMPTO"
+    },
+    "39679": {
+        "country_code": "HU",
+        "asn": "39679",
+        "description": "JZT Informatikai Kft.",
+        "handle": "ASJZTKFT"
+    },
+    "39844": {
+        "country_code": "HU",
+        "asn": "39844",
+        "description": "T-Systems Magyarorszag zrt",
+        "handle": "KFKILNX-AS"
+    },
+    "39934": {
+        "country_code": "HU",
+        "asn": "39934",
+        "description": "Roico Net Kft",
+        "handle": "ROICO"
+    },
+    "40989": {
+        "country_code": "HU",
+        "asn": "40989",
+        "description": "EGIS Pharmaceuticals Plc.",
+        "handle": "EGIS-HU-AS"
+    },
+    "41015": {
+        "country_code": "HU",
+        "asn": "41015",
+        "description": "GELKA HIRTECH KFT",
+        "handle": "GELKA-ASN"
+    },
+    "41075": {
+        "country_code": "HU",
+        "asn": "41075",
+        "description": "ATW Internet Kft.",
+        "handle": "ATW-AS"
+    },
+    "41183": {
+        "country_code": "HU",
+        "asn": "41183",
+        "description": "National Bank of Hungary",
+        "handle": "AS41183"
+    },
+    "41206": {
+        "country_code": "HU",
+        "asn": "41206",
+        "description": "United Telecom Zartkoruen Mukodo Reszvenytarsasag",
+        "handle": "UNITED-TELECOM-HU-AS"
+    },
+    "41251": {
+        "country_code": "HU",
+        "asn": "41251",
+        "description": "XELLA Hungary Ltd",
+        "handle": "XELLA-HU-AS"
+    },
+    "41303": {
+        "country_code": "HU",
+        "asn": "41303",
+        "description": "MatraCOMP Kft.",
+        "handle": "MATRACOMP-AS"
+    },
+    "41627": {
+        "country_code": "HU",
+        "asn": "41627",
+        "description": "Pick-Up Ltd.",
+        "handle": "ASPICKUPNET"
+    },
+    "41694": {
+        "country_code": "HU",
+        "asn": "41694",
+        "description": "Raiffeisen Bank Zartkoruen Mukodo Reszvenytarsasag",
+        "handle": "RB-HU-AS"
+    },
+    "41885": {
+        "country_code": "HU",
+        "asn": "41885",
+        "description": "Hungaro DigiTel Tavkozlesi Korlatolt Felelossegu Tarsasag",
+        "handle": "HDT-AS"
+    },
+    "42120": {
+        "country_code": "HU",
+        "asn": "42120",
+        "description": "MODIT Informatikai Zrt.",
+        "handle": "AS-MDC"
+    },
+    "42185": {
+        "country_code": "HU",
+        "asn": "42185",
+        "description": "NKM Energia Zrt",
+        "handle": "NKM-GSZ-AS"
+    },
+    "42205": {
+        "country_code": "HU",
+        "asn": "42205",
+        "description": "Optiwella Kft.",
+        "handle": "NET-TV"
+    },
+    "42232": {
+        "country_code": "HU",
+        "asn": "42232",
+        "description": "PARISAT Tavkozlesi es Szolgaltato Korlatolt Felelossegu Tarsasag",
+        "handle": "PARISAT"
+    },
+    "42371": {
+        "country_code": "HU",
+        "asn": "42371",
+        "description": "MAGEX Solutions Kft.",
+        "handle": "AS-MAGEX"
+    },
+    "42854": {
+        "country_code": "HU",
+        "asn": "42854",
+        "description": "Generali-Providencia Insurance Ltd",
+        "handle": "GENERALI-AS"
+    },
+    "42864": {
+        "country_code": "HU",
+        "asn": "42864",
+        "description": "Giganet Internet Szolgaltato Kft",
+        "handle": "GIGANET-HU"
+    },
+    "42872": {
+        "country_code": "HU",
+        "asn": "42872",
+        "description": "Comnica Kft.",
+        "handle": "UHUSYSTEMS-AS"
+    },
+    "42964": {
+        "country_code": "HU",
+        "asn": "42964",
+        "description": "SigmaNet Szolgaltato es Kereskedelm Ltd",
+        "handle": "SIGMANET-HU-AS"
+    },
+    "43187": {
+        "country_code": "HU",
+        "asn": "43187",
+        "description": "Deloitte Advisory and Management Consulting Ltd.",
+        "handle": "DELOITTE-HU-AS"
+    },
+    "43359": {
+        "country_code": "HU",
+        "asn": "43359",
+        "description": "Tarhely.Eu Szolgaltato Kft.",
+        "handle": "TARHELY"
+    },
+    "43529": {
+        "country_code": "HU",
+        "asn": "43529",
+        "description": "ViDaNet Cabletelevision Provider Ltd.",
+        "handle": "VIDANET-AS"
+    },
+    "43749": {
+        "country_code": "HU",
+        "asn": "43749",
+        "description": "Happymed Healthcare and IT Provider Co. Ltd.",
+        "handle": "HAPPYMEDHU"
+    },
+    "43860": {
+        "country_code": "HU",
+        "asn": "43860",
+        "description": "Dijbeszedo Holding Zrt",
+        "handle": "DIJBESZEDO-AS"
+    },
+    "43876": {
+        "country_code": "HU",
+        "asn": "43876",
+        "description": "UniCredit S.p.A. Magyarorszagi Fioktelepe",
+        "handle": "UCBHU-AS"
+    },
+    "43928": {
+        "country_code": "HU",
+        "asn": "43928",
+        "description": "MVM Information Technology Private Company Limited by Shares",
+        "handle": "MVMI-AS"
+    },
+    "44029": {
+        "country_code": "HU",
+        "asn": "44029",
+        "description": "Antenna World Egyeni Ceg",
+        "handle": "AS-ANTENNAWORLD"
+    },
+    "44057": {
+        "country_code": "HU",
+        "asn": "44057",
+        "description": "1BTELEKOM Ltd.",
+        "handle": "BTELEKOM-HU-AS"
+    },
+    "44264": {
+        "country_code": "HU",
+        "asn": "44264",
+        "description": "4VOICE Ltd.",
+        "handle": "F-4VOICE-AS"
+    },
+    "44302": {
+        "country_code": "HU",
+        "asn": "44302",
+        "description": "NETregator Kft.",
+        "handle": "IECHU-AS"
+    },
+    "44419": {
+        "country_code": "HU",
+        "asn": "44419",
+        "description": "Kalasznet Kabel TV Kft",
+        "handle": "GAX-VACTV"
+    },
+    "44460": {
+        "country_code": "HU",
+        "asn": "44460",
+        "description": "MEDIACENTER HUNGARY INFORMATIKAI SZOLGALTATO ES UZEMELTETO kft",
+        "handle": "MEDIACENTER-AS"
+    },
+    "44651": {
+        "country_code": "HU",
+        "asn": "44651",
+        "description": "Kalasznet Kabel TV Kft",
+        "handle": "COMUNIQUE"
+    },
+    "44768": {
+        "country_code": "HU",
+        "asn": "44768",
+        "description": "Kontron Hungary Kft",
+        "handle": "SNT-HU-AS"
+    },
+    "44789": {
+        "country_code": "HU",
+        "asn": "44789",
+        "description": "KabelszatNet-2002. Musoreloszto es Kereskedelmi Kft.",
+        "handle": "HIRSAT-AS"
+    },
+    "44945": {
+        "country_code": "HU",
+        "asn": "44945",
+        "description": "Olah es Tarsa Kereskedelmi es Szolgaltato Kft",
+        "handle": "OLAH"
+    },
+    "44991": {
+        "country_code": "HU",
+        "asn": "44991",
+        "description": "Grepton Informatikai Zartkoruen Mukodo Reszvenytarsasag",
+        "handle": "GREPTON-AS"
+    },
+    "47116": {
+        "country_code": "HU",
+        "asn": "47116",
+        "description": "Intellihome Tavkozlesi Szolgaltato Kft",
+        "handle": "INTELLIHOME-AS"
+    },
+    "47159": {
+        "country_code": "HU",
+        "asn": "47159",
+        "description": "Celldomolki Kabeltelevizio Kft.",
+        "handle": "CELLKABEL"
+    },
+    "47169": {
+        "country_code": "HU",
+        "asn": "47169",
+        "description": "Pro-M Zrt.",
+        "handle": "HPC-MVM-AS"
+    },
+    "47324": {
+        "country_code": "HU",
+        "asn": "47324",
+        "description": "KDB Bank Hungary Ltd.",
+        "handle": "KDB-HU-AS"
+    },
+    "47325": {
+        "country_code": "HU",
+        "asn": "47325",
+        "description": "VPS4You Kft.",
+        "handle": "ASVPS4YOU"
+    },
+    "47343": {
+        "country_code": "HU",
+        "asn": "47343",
+        "description": "Rendszerinformatika Zrt.",
+        "handle": "RIEXP"
+    },
+    "47381": {
+        "country_code": "HU",
+        "asn": "47381",
+        "description": "Servergarden Kft.",
+        "handle": "SERVERGARDEN-AS"
+    },
+    "47421": {
+        "country_code": "HU",
+        "asn": "47421",
+        "description": "Biatorbagyi Kabeltv Kft.",
+        "handle": "BIATV"
+    },
+    "47710": {
+        "country_code": "HU",
+        "asn": "47710",
+        "description": "Porion-Digital Kft.",
+        "handle": "PORION-AS"
+    },
+    "47969": {
+        "country_code": "HU",
+        "asn": "47969",
+        "description": "Moneywheel Research Zrt.",
+        "handle": "MWR-LD4"
+    },
+    "48829": {
+        "country_code": "HU",
+        "asn": "48829",
+        "description": "SYKES Kozep Europa Kft.",
+        "handle": "SYKESCE-AS"
+    },
+    "48893": {
+        "country_code": "HU",
+        "asn": "48893",
+        "description": "ESO TV Kft.",
+        "handle": "TELEMEDIA-AS"
+    },
+    "49004": {
+        "country_code": "HU",
+        "asn": "49004",
+        "description": "Asympto Networks Kft.",
+        "handle": "ASYMPTO"
+    },
+    "49090": {
+        "country_code": "HU",
+        "asn": "49090",
+        "description": "Budapest Stock Exchange Ltd.",
+        "handle": "BUX-HU-AS"
+    },
+    "49239": {
+        "country_code": "HU",
+        "asn": "49239",
+        "description": "Zsolt Murzsa",
+        "handle": "NANIDA-AS"
+    },
+    "49786": {
+        "country_code": "HU",
+        "asn": "49786",
+        "description": "WaveCom Informatikai Kft.",
+        "handle": "WAVECOM1"
+    },
+    "49795": {
+        "country_code": "HU",
+        "asn": "49795",
+        "description": "ADERTIS Kft.",
+        "handle": "ASADERTIS"
+    },
+    "49818": {
+        "country_code": "HU",
+        "asn": "49818",
+        "description": "ELIN.hu Informatikai Szolgaltato es Tanacsado Kft.",
+        "handle": "KABELSAT-2000"
+    },
+    "49857": {
+        "country_code": "HU",
+        "asn": "49857",
+        "description": "Inclust System Ltd.",
+        "handle": "INCLUST-AS"
+    },
+    "49944": {
+        "country_code": "HU",
+        "asn": "49944",
+        "description": "Eminencias-Net Kft.",
+        "handle": "OZDKABEL-NET-AS"
+    },
+    "49986": {
+        "country_code": "HU",
+        "asn": "49986",
+        "description": "Paks II. Ltd.",
+        "handle": "PAKS2"
+    },
+    "50031": {
+        "country_code": "HU",
+        "asn": "50031",
+        "description": "Zalaszam Informatika Kft.",
+        "handle": "ZALASZAM-AS"
+    },
+    "50144": {
+        "country_code": "HU",
+        "asn": "50144",
+        "description": "Unimatrix IT Solutions Kft.",
+        "handle": "UNIMATRIX-AS"
+    },
+    "50181": {
+        "country_code": "HU",
+        "asn": "50181",
+        "description": "KabelszatNet-2002. Musoreloszto es Kereskedelmi Kft.",
+        "handle": "GAX-KABELSZAT"
+    },
+    "50261": {
+        "country_code": "HU",
+        "asn": "50261",
+        "description": "ACE Telecom Kft",
+        "handle": "ACENET"
+    },
+    "50658": {
+        "country_code": "HU",
+        "asn": "50658",
+        "description": "Netvalor Kft.",
+        "handle": "AS-NETVALOR"
+    },
+    "50689": {
+        "country_code": "HU",
+        "asn": "50689",
+        "description": "WANNET Korlatolt Felelossegu Tarsasag",
+        "handle": "WANNET-AS"
+    },
+    "51033": {
+        "country_code": "HU",
+        "asn": "51033",
+        "description": "Asympto Networks Kft.",
+        "handle": "ASYMPTO"
+    },
+    "51096": {
+        "country_code": "HU",
+        "asn": "51096",
+        "description": "Magyar Orszagos Kozjegyzoi Kamara",
+        "handle": "MOKK-AS"
+    },
+    "51120": {
+        "country_code": "HU",
+        "asn": "51120",
+        "description": "UniCredit Operativ Lizing Kft.",
+        "handle": "UOLK-AS"
+    },
+    "51232": {
+        "country_code": "HU",
+        "asn": "51232",
+        "description": "PCE Paragon Solutions Korlatolt Felelossegu Tarsasag",
+        "handle": "FOXCONNHU"
+    },
+    "51275": {
+        "country_code": "HU",
+        "asn": "51275",
+        "description": "Viacom Informatics Ltd.",
+        "handle": "VIACOMKFT"
+    },
+    "51403": {
+        "country_code": "HU",
+        "asn": "51403",
+        "description": "Cascade Informatikai es Energetikai Zrt",
+        "handle": "CASCADE"
+    },
+    "51438": {
+        "country_code": "HU",
+        "asn": "51438",
+        "description": "Boly Varos Onkormanyzat",
+        "handle": "BOLYAS"
+    },
+    "51843": {
+        "country_code": "HU",
+        "asn": "51843",
+        "description": "Tata Consultancy Services Limited Magyarorszagi Fioktelepe",
+        "handle": "TATA-HU-AS"
+    },
+    "51920": {
+        "country_code": "HU",
+        "asn": "51920",
+        "description": "VIVACOM Magyarorszag Kft",
+        "handle": "VIVACOM"
+    },
+    "56322": {
+        "country_code": "HU",
+        "asn": "56322",
+        "description": "ServerAstra Kft.",
+        "handle": "SERVERASTRA-AS"
+    },
+    "57095": {
+        "country_code": "HU",
+        "asn": "57095",
+        "description": "Rackhost Zrt.",
+        "handle": "AS-MAXER"
+    },
+    "57389": {
+        "country_code": "HU",
+        "asn": "57389",
+        "description": "ZNET Telekom Zrt",
+        "handle": "ZT-HU"
+    },
+    "57657": {
+        "country_code": "HU",
+        "asn": "57657",
+        "description": "Nicom Wireless Kft.",
+        "handle": "NICOM-AS"
+    },
+    "57747": {
+        "country_code": "HU",
+        "asn": "57747",
+        "description": "Netkontakt Kft.",
+        "handle": "NETKONTAKT-AS"
+    },
+    "57920": {
+        "country_code": "HU",
+        "asn": "57920",
+        "description": "Brillant Auto Kft.",
+        "handle": "UNDERNET-ANYCAST"
+    },
+    "58012": {
+        "country_code": "HU",
+        "asn": "58012",
+        "description": "Nanida Cloud Kft.",
+        "handle": "NANIDA-CLOUD-AS"
+    },
+    "58098": {
+        "country_code": "HU",
+        "asn": "58098",
+        "description": "Szatmarnet Bt.",
+        "handle": "SZATMARNET-AS"
+    },
+    "59448": {
+        "country_code": "HU",
+        "asn": "59448",
+        "description": "Andrews IT Engineering Mernoki Informaciotechnikai es Szolgaltato Korlatolt Felelossegu Tarsasag",
+        "handle": "ANT-AS"
+    },
+    "59649": {
+        "country_code": "HU",
+        "asn": "59649",
+        "description": "National Media and Infocommunications Authority",
+        "handle": "NMHH-AS"
+    },
+    "59869": {
+        "country_code": "HU",
+        "asn": "59869",
+        "description": "JuPiNet Kft.",
+        "handle": "GOTTHARDTV"
+    },
+    "59880": {
+        "country_code": "HU",
+        "asn": "59880",
+        "description": "Polaris-N Systems Kft.",
+        "handle": "POLARIS-AS"
+    },
+    "59949": {
+        "country_code": "HU",
+        "asn": "59949",
+        "description": "KOMPaaS.tech Kft",
+        "handle": "TEL2TEL-AS"
+    },
+    "60071": {
+        "country_code": "HU",
+        "asn": "60071",
+        "description": "RendszerNET Kft.",
+        "handle": "RENDSZERNET-AS"
+    },
+    "60291": {
+        "country_code": "HU",
+        "asn": "60291",
+        "description": "3LAN Kereskedelmi es Szolgaltato Kft.",
+        "handle": "AS-3LAN"
+    },
+    "60619": {
+        "country_code": "HU",
+        "asn": "60619",
+        "description": "TelcoNet Kft.",
+        "handle": "TELCONET"
+    },
+    "60673": {
+        "country_code": "HU",
+        "asn": "60673",
+        "description": "Activcom Kft.",
+        "handle": "ACTIVCOM"
+    },
+    "61270": {
+        "country_code": "HU",
+        "asn": "61270",
+        "description": "Keler Zrt.",
+        "handle": "KELER"
+    },
+    "61294": {
+        "country_code": "HU",
+        "asn": "61294",
+        "description": "Andreas Stihl Kereskedelmi Kft.",
+        "handle": "STIHLHU-AS"
+    },
+    "61998": {
+        "country_code": "HU",
+        "asn": "61998",
+        "description": "SzerverPlex.hu KFT.",
+        "handle": "SZERVERPLEXHU"
+    },
+    "62051": {
+        "country_code": "HU",
+        "asn": "62051",
+        "description": "42NET Marvin Cloud Kft",
+        "handle": "A42NET"
+    },
+    "62214": {
+        "country_code": "HU",
+        "asn": "62214",
+        "description": "Rackforest Zrt.",
+        "handle": "RACKFOREST-AS"
+    },
+    "62292": {
+        "country_code": "HU",
+        "asn": "62292",
+        "description": "Websupport Magyarorszag Kft.",
+        "handle": "EZIT-AS"
+    },
+    "62449": {
+        "country_code": "HU",
+        "asn": "62449",
+        "description": "Sybell Informatika Kft",
+        "handle": "AS-SYBELL"
+    },
+    "65782": {
+        "country_code": "HU",
+        "asn": "65782",
+        "description": "Magyar Telekom Plc.",
+        "handle": "MAGYAR-TELEKOM-PLC"
+    },
+    "196958": {
+        "country_code": "HU",
+        "asn": "196958",
+        "description": "Pro-M Zrt.",
+        "handle": "MVM-NET-UTDIJ"
+    },
+    "196970": {
+        "country_code": "HU",
+        "asn": "196970",
+        "description": "Langaton Hungary Kft",
+        "handle": "LNGTN-AS"
+    },
+    "197112": {
+        "country_code": "HU",
+        "asn": "197112",
+        "description": "jacsa.NET Kft.",
+        "handle": "JACSANET"
+    },
+    "197248": {
+        "country_code": "HU",
+        "asn": "197248",
+        "description": "Dravanet Co Ltd.",
+        "handle": "DRAVANET-AS"
+    },
+    "197523": {
+        "country_code": "HU",
+        "asn": "197523",
+        "description": "DV Info Informatikai kft.",
+        "handle": "DVINFO-AS"
+    },
+    "197750": {
+        "country_code": "HU",
+        "asn": "197750",
+        "description": "NK Services (Magyarorszag) Kft.",
+        "handle": "NKSERVICES"
+    },
+    "197862": {
+        "country_code": "HU",
+        "asn": "197862",
+        "description": "Netfone Telecom Tavkozlesi es Szolgaltato KFT",
+        "handle": "NETFONE"
+    },
+    "197886": {
+        "country_code": "HU",
+        "asn": "197886",
+        "description": "Flashnet Kft",
+        "handle": "FLS-NET"
+    },
+    "197889": {
+        "country_code": "HU",
+        "asn": "197889",
+        "description": "Microsystem-Kecskemet Kft",
+        "handle": "MICROSYSTEM"
+    },
+    "198223": {
+        "country_code": "HU",
+        "asn": "198223",
+        "description": "Genpact Services Hungary Kft.",
+        "handle": "GENPACT-EUROPE-AS"
+    },
+    "198281": {
+        "country_code": "HU",
+        "asn": "198281",
+        "description": "Websas.hu Kft.",
+        "handle": "WEBSAS-AS"
+    },
+    "199235": {
+        "country_code": "HU",
+        "asn": "199235",
+        "description": "Mikrohalo Kft",
+        "handle": "MIKROHALO-HU-AS"
+    },
+    "200076": {
+        "country_code": "HU",
+        "asn": "200076",
+        "description": "Klapka Gyorgy Lakasfenntarto Szovetkezet",
+        "handle": "KLAPKA-AS"
+    },
+    "200157": {
+        "country_code": "HU",
+        "asn": "200157",
+        "description": "99999 Informatika Ltd.",
+        "handle": "HU-99999-SKYBLOCKS"
+    },
+    "200864": {
+        "country_code": "HU",
+        "asn": "200864",
+        "description": "Cogitnet Kft.",
+        "handle": "COGITNETAS1"
+    },
+    "200900": {
+        "country_code": "HU",
+        "asn": "200900",
+        "description": "Granit Bank Zrt.",
+        "handle": "GRANITBANK"
+    },
+    "200933": {
+        "country_code": "HU",
+        "asn": "200933",
+        "description": "Teranet.hu Szolgaltato Kft",
+        "handle": "TERANET-HU-AS"
+    },
+    "200940": {
+        "country_code": "HU",
+        "asn": "200940",
+        "description": "T-Systems Magyarorszag zrt",
+        "handle": "RWE-AS"
+    },
+    "200964": {
+        "country_code": "HU",
+        "asn": "200964",
+        "description": "Isis-Com Kft.",
+        "handle": "ISISCOM"
+    },
+    "201237": {
+        "country_code": "HU",
+        "asn": "201237",
+        "description": "Datatrans Internet Ltd",
+        "handle": "ON-LINE-SYSTEM-HU"
+    },
+    "201355": {
+        "country_code": "HU",
+        "asn": "201355",
+        "description": "Tigaz Zrt.",
+        "handle": "TIGAZ"
+    },
+    "201431": {
+        "country_code": "HU",
+        "asn": "201431",
+        "description": "Zsolt Murzsa",
+        "handle": "AS-NANIDA-MG"
+    },
+    "201450": {
+        "country_code": "HU",
+        "asn": "201450",
+        "description": "ITConsult-Pro Zrt.",
+        "handle": "ITCHU-NET"
+    },
+    "201568": {
+        "country_code": "HU",
+        "asn": "201568",
+        "description": "HBO Holding Uzletviteli Tanacsado Csoport Zrt.",
+        "handle": "HBOEUROPE-AS"
+    },
+    "202062": {
+        "country_code": "HU",
+        "asn": "202062",
+        "description": "Unix Auto Ltd.",
+        "handle": "AS-UNIXAUTO1"
+    },
+    "202115": {
+        "country_code": "HU",
+        "asn": "202115",
+        "description": "Magyar Telekom Plc.",
+        "handle": "MTIXP-AS"
+    },
+    "202243": {
+        "country_code": "HU",
+        "asn": "202243",
+        "description": "KabelszatNet-2002. Musoreloszto es Kereskedelmi Kft.",
+        "handle": "LAT-SAT"
+    },
+    "202659": {
+        "country_code": "HU",
+        "asn": "202659",
+        "description": "DomainTank Informatikai Kft",
+        "handle": "DOMAINTANK"
+    },
+    "203084": {
+        "country_code": "HU",
+        "asn": "203084",
+        "description": "Mikrotti Kft",
+        "handle": "MIKROTTI-NET"
+    },
+    "203137": {
+        "country_code": "HU",
+        "asn": "203137",
+        "description": "Normbenz Magyarorszag Kft",
+        "handle": "NORMBENZ"
+    },
+    "203246": {
+        "country_code": "HU",
+        "asn": "203246",
+        "description": "MOBILLAN-SAT Informatikai Kereskedelmi es Szolgaltato Kft",
+        "handle": "MOBILLAN-SAT"
+    },
+    "203331": {
+        "country_code": "HU",
+        "asn": "203331",
+        "description": "Fundamenta-Lakaskassza Zrt.",
+        "handle": "FUNDAMENTA"
+    },
+    "203583": {
+        "country_code": "HU",
+        "asn": "203583",
+        "description": "MBH Bank Nyrt.",
+        "handle": "DOM-P-AS"
+    },
+    "204026": {
+        "country_code": "HU",
+        "asn": "204026",
+        "description": "Szatmar-Telekom Kft.",
+        "handle": "AS-SZATMAR-TELEKOM"
+    },
+    "204168": {
+        "country_code": "HU",
+        "asn": "204168",
+        "description": "EszakNet Kft.",
+        "handle": "ESZAKNET"
+    },
+    "204494": {
+        "country_code": "HU",
+        "asn": "204494",
+        "description": "Cognizant Technology Solutions Hungary Kft.",
+        "handle": "COGNIZANT-HU-AS"
+    },
+    "204497": {
+        "country_code": "HU",
+        "asn": "204497",
+        "description": "Cloudcenter.hu Kft",
+        "handle": "CLOUDCENTER"
+    },
+    "204530": {
+        "country_code": "HU",
+        "asn": "204530",
+        "description": "ACE Telecom Kft",
+        "handle": "KABELFIX-AS"
+    },
+    "204745": {
+        "country_code": "HU",
+        "asn": "204745",
+        "description": "Macronet System Kft",
+        "handle": "MACRONET"
+    },
+    "205285": {
+        "country_code": "HU",
+        "asn": "205285",
+        "description": "Kapulan Kft.",
+        "handle": "KAPULAN"
+    },
+    "205514": {
+        "country_code": "HU",
+        "asn": "205514",
+        "description": "Martin Reicher",
+        "handle": "REICHER-NET"
+    },
+    "205914": {
+        "country_code": "HU",
+        "asn": "205914",
+        "description": "Nemzeti Media- es Hirkozlesi Hatosag",
+        "handle": "NMHH-PUB-AS"
+    },
+    "206361": {
+        "country_code": "HU",
+        "asn": "206361",
+        "description": "Tamas Drinkal",
+        "handle": "AS-TAMANET"
+    },
+    "206473": {
+        "country_code": "HU",
+        "asn": "206473",
+        "description": "GIRO Elszamolasforgalmi Zartkoruen Mukodo Reszvenytarsasag",
+        "handle": "GIRO"
+    },
+    "206814": {
+        "country_code": "HU",
+        "asn": "206814",
+        "description": "SCI-Network pInc.",
+        "handle": "SCI-NETWORK-AS"
+    },
+    "206892": {
+        "country_code": "HU",
+        "asn": "206892",
+        "description": "Rendszerinformatika Zrt.",
+        "handle": "RENDSZERINF"
+    },
+    "207070": {
+        "country_code": "HU",
+        "asn": "207070",
+        "description": "DIGI Tavkozlesi es Szolgaltato Kft.",
+        "handle": "DIGIMOBILE"
+    },
+    "207107": {
+        "country_code": "HU",
+        "asn": "207107",
+        "description": "NNG Kft.",
+        "handle": "NNG"
+    },
+    "207142": {
+        "country_code": "HU",
+        "asn": "207142",
+        "description": "HMX Hungarian Media Exchange Kft",
+        "handle": "HMX"
+    },
+    "207233": {
+        "country_code": "HU",
+        "asn": "207233",
+        "description": "Iplus Magyarorszag Kereskedelmi es Szolgaltato Kft.",
+        "handle": "IPLUS"
+    },
+    "207236": {
+        "country_code": "HU",
+        "asn": "207236",
+        "description": "Widenet Internet Szolgaltato Kft.",
+        "handle": "WIDENET"
+    },
+    "207255": {
+        "country_code": "HU",
+        "asn": "207255",
+        "description": "Mediaszolgaltatas-tamogato es Vagyonkezelo Alap",
+        "handle": "AS-MTVA"
+    },
+    "207349": {
+        "country_code": "HU",
+        "asn": "207349",
+        "description": "Opennetworks Kft.",
+        "handle": "OPENNETWORKS"
+    },
+    "207693": {
+        "country_code": "HU",
+        "asn": "207693",
+        "description": "Telekabel Ltd.",
+        "handle": "TELEKABEL-AS"
+    },
+    "207770": {
+        "country_code": "HU",
+        "asn": "207770",
+        "description": "VIVAnet DataCenter Kft.",
+        "handle": "VIVANETDC"
+    },
+    "207950": {
+        "country_code": "HU",
+        "asn": "207950",
+        "description": "Nemzeti Sportugynokseg Nonprofit Zrt.",
+        "handle": "NSK-AS"
+    },
+    "208126": {
+        "country_code": "HU",
+        "asn": "208126",
+        "description": "ViNetwork Kft.",
+        "handle": "VINET-HU"
+    },
+    "208154": {
+        "country_code": "HU",
+        "asn": "208154",
+        "description": "ELIN.hu Informatikai Szolgaltato es Tanacsado Kft.",
+        "handle": "ELIN"
+    },
+    "208708": {
+        "country_code": "HU",
+        "asn": "208708",
+        "description": "Eurocable Magyarorszag Kft",
+        "handle": "EUC"
+    },
+    "208724": {
+        "country_code": "HU",
+        "asn": "208724",
+        "description": "MEZGA-NET Bt",
+        "handle": "ASN-MEZGANET"
+    },
+    "208839": {
+        "country_code": "HU",
+        "asn": "208839",
+        "description": "Gergi Halo Kft.",
+        "handle": "GERGIHALO"
+    },
+    "208891": {
+        "country_code": "HU",
+        "asn": "208891",
+        "description": "Epitesi es Kozlekedesi Miniszterium",
+        "handle": "NIFZRT"
+    },
+    "209001": {
+        "country_code": "HU",
+        "asn": "209001",
+        "description": "DELTAKON KFT.",
+        "handle": "DELTAAS"
+    },
+    "209016": {
+        "country_code": "HU",
+        "asn": "209016",
+        "description": "Ifact Hungary Kft.",
+        "handle": "IFACT"
+    },
+    "209052": {
+        "country_code": "HU",
+        "asn": "209052",
+        "description": "NN Biztosito Zrt",
+        "handle": "NN"
+    },
+    "209061": {
+        "country_code": "HU",
+        "asn": "209061",
+        "description": "DIGI Tavkozlesi es Szolgaltato Kft.",
+        "handle": "INVI16"
+    },
+    "209108": {
+        "country_code": "HU",
+        "asn": "209108",
+        "description": "Trans-Pack Logisztika Kft.",
+        "handle": "TPIT"
+    },
+    "209196": {
+        "country_code": "HU",
+        "asn": "209196",
+        "description": "Elektronet Zrt.",
+        "handle": "ELEKTRONET-HU"
+    },
+    "209310": {
+        "country_code": "HU",
+        "asn": "209310",
+        "description": "Interien Technologies Kft.",
+        "handle": "INTERIEN-AS"
+    },
+    "209455": {
+        "country_code": "HU",
+        "asn": "209455",
+        "description": "GYSEV Zrt.",
+        "handle": "GYSEV-AS"
+    },
+    "209486": {
+        "country_code": "HU",
+        "asn": "209486",
+        "description": "EgomNet Kft.",
+        "handle": "EGOMNET"
+    },
+    "209602": {
+        "country_code": "HU",
+        "asn": "209602",
+        "description": "Okos Volgy Kft",
+        "handle": "DUNABYTE-AS"
+    },
+    "210114": {
+        "country_code": "HU",
+        "asn": "210114",
+        "description": "HungaroControl Pte.Ltd.Co.",
+        "handle": "HUNGAROCONTROL-AS"
+    },
+    "210244": {
+        "country_code": "HU",
+        "asn": "210244",
+        "description": "FGSZ Zrt.",
+        "handle": "FGSZ"
+    },
+    "210291": {
+        "country_code": "HU",
+        "asn": "210291",
+        "description": "Auchan Magyarorszag Kereskedelmi es Szolgaltato Kft.",
+        "handle": "AUCHANHU"
+    },
+    "210579": {
+        "country_code": "HU",
+        "asn": "210579",
+        "description": "Rackhost Zrt.",
+        "handle": "RACKHOST-AS"
+    },
+    "210611": {
+        "country_code": "HU",
+        "asn": "210611",
+        "description": "HFC Technics Ipari Kereskedelmi es Szolgaltato Kft.",
+        "handle": "HFCTECHNICS-AS"
+    },
+    "210674": {
+        "country_code": "HU",
+        "asn": "210674",
+        "description": "Spitzmuller Tamas",
+        "handle": "XRB-IT-SOLUTIONS-HUNGARY"
+    },
+    "210678": {
+        "country_code": "HU",
+        "asn": "210678",
+        "description": "GERANT Kereskedelmi es Szolgaltato Kft",
+        "handle": "GERANT"
+    },
+    "210772": {
+        "country_code": "HU",
+        "asn": "210772",
+        "description": "NewPush Europe Kft.",
+        "handle": "NEWPUSH"
+    },
+    "210788": {
+        "country_code": "HU",
+        "asn": "210788",
+        "description": "Magyarorszagi Internet Szolgaltatok Tanacsa Tudomanyos Egyesulet",
+        "handle": "BIX-AS"
+    },
+    "210966": {
+        "country_code": "HU",
+        "asn": "210966",
+        "description": "Data Center Solutions Kft.",
+        "handle": "DCSOLUTIONS"
+    },
+    "211212": {
+        "country_code": "HU",
+        "asn": "211212",
+        "description": "GBD Software as a Service Private Limited Company",
+        "handle": "GBD-AS"
+    },
+    "211326": {
+        "country_code": "HU",
+        "asn": "211326",
+        "description": "Incom Technologies Kft.",
+        "handle": "INCOMTECH"
+    },
+    "211495": {
+        "country_code": "HU",
+        "asn": "211495",
+        "description": "Daniel Jacint Agocs",
+        "handle": "AGOCSNET"
+    },
+    "211523": {
+        "country_code": "HU",
+        "asn": "211523",
+        "description": "Mihaly Szummer",
+        "handle": "SMZ"
+    },
+    "211595": {
+        "country_code": "HU",
+        "asn": "211595",
+        "description": "OTP Bank Nyrt. Hungary",
+        "handle": "OTPHU-AS"
+    },
+    "211765": {
+        "country_code": "HU",
+        "asn": "211765",
+        "description": "Nagy Kristof",
+        "handle": "NAGY-KRISTOF"
+    },
+    "212184": {
+        "country_code": "HU",
+        "asn": "212184",
+        "description": "Prozserin Rudolf",
+        "handle": "IMXRP"
+    },
+    "212229": {
+        "country_code": "HU",
+        "asn": "212229",
+        "description": "HD.hu Kft.",
+        "handle": "EASYWEBBT"
+    },
+    "212555": {
+        "country_code": "HU",
+        "asn": "212555",
+        "description": "Remicro Kft.",
+        "handle": "REMICRO"
+    },
+    "212658": {
+        "country_code": "HU",
+        "asn": "212658",
+        "description": "Techno-Tel Kft",
+        "handle": "TECHNO-TEL"
+    },
+    "212707": {
+        "country_code": "HU",
+        "asn": "212707",
+        "description": "KeviWLAN Informatikai Kft.",
+        "handle": "KEVIWLAN-HU-AS"
+    },
+    "212910": {
+        "country_code": "HU",
+        "asn": "212910",
+        "description": "Oros-Com Ltd.",
+        "handle": "OROS"
+    },
+    "213155": {
+        "country_code": "HU",
+        "asn": "213155",
+        "description": "Yettel Hungary Ltd.",
+        "handle": "YETTEL-HU"
+    },
+    "213439": {
+        "country_code": "HU",
+        "asn": "213439",
+        "description": "GLS General Logistics Systems Hungary Kft.",
+        "handle": "GLS-HUNGARY"
+    },
+    "213455": {
+        "country_code": "HU",
+        "asn": "213455",
+        "description": "Alfold.NET Ltd.",
+        "handle": "ASN-ALFOLDNET"
+    },
+    "213643": {
+        "country_code": "HU",
+        "asn": "213643",
+        "description": "ReBell Telecommunication Zrt.",
+        "handle": "REBELLTEL"
+    },
+    "213669": {
+        "country_code": "HU",
+        "asn": "213669",
+        "description": "Varadi Daniel",
+        "handle": "DARKSYSTEMS-AS"
+    },
+    "213746": {
+        "country_code": "HU",
+        "asn": "213746",
+        "description": "Fiberwave Szolgaltato Bt.",
+        "handle": "FIBERWAVE"
+    },
+    "213830": {
+        "country_code": "HU",
+        "asn": "213830",
+        "description": "Konyvtarellato Kozhasznu Nonprofit KFT",
+        "handle": "KONYVTARELLATO"
+    },
+    "213869": {
+        "country_code": "HU",
+        "asn": "213869",
+        "description": "WiNext Kft.",
+        "handle": "WINEXT-AS"
+    },
+    "213980": {
+        "country_code": "HU",
+        "asn": "213980",
+        "description": "Net Media Zrt.",
+        "handle": "NETMEDIA"
+    },
+    "213983": {
+        "country_code": "HU",
+        "asn": "213983",
+        "description": "Fair Game Software Kft.",
+        "handle": "FAIRGAME-SOFTWARE"
+    },
+    "214175": {
+        "country_code": "HU",
+        "asn": "214175",
+        "description": "Pecsi Egyhazmegye",
+        "handle": "EGYHAZM-PECS"
+    },
+    "214226": {
+        "country_code": "HU",
+        "asn": "214226",
+        "description": "Webenlet Kft.",
+        "handle": "WEBENLET-AS"
+    },
+    "214275": {
+        "country_code": "HU",
+        "asn": "214275",
+        "description": "Digicorp Ltd.",
+        "handle": "DIGICORP-NET"
+    },
+    "214308": {
+        "country_code": "HU",
+        "asn": "214308",
+        "description": "Rackforest Zrt.",
+        "handle": "RACKFOREST2-AS"
+    },
+    "215168": {
+        "country_code": "HU",
+        "asn": "215168",
+        "description": "Akos Miklos",
+        "handle": "FURITSYSTEMS"
+    },
+    "215261": {
+        "country_code": "HU",
+        "asn": "215261",
+        "description": "ByteFly Kft",
+        "handle": "VIPY-AS"
+    },
+    "215366": {
+        "country_code": "HU",
+        "asn": "215366",
+        "description": "Gabor Birincsik",
+        "handle": "BGN"
+    },
+    "215408": {
+        "country_code": "HU",
+        "asn": "215408",
+        "description": "NaxoNet Bt.",
+        "handle": "NAXONET"
+    },
+    "215505": {
+        "country_code": "HU",
+        "asn": "215505",
+        "description": "Szabolcs Sipos",
+        "handle": "BALFUGNET-AS"
+    },
+    "215525": {
+        "country_code": "HU",
+        "asn": "215525",
+        "description": "NLG-System Bt.",
+        "handle": "NLGSYS"
+    },
+    "215904": {
+        "country_code": "HU",
+        "asn": "215904",
+        "description": "HostingBazis Beteti Tarsasag",
+        "handle": "HOSTINGBAZIS"
+    },
+    "215920": {
+        "country_code": "HU",
+        "asn": "215920",
+        "description": "Vincotech Hungaria Kft.",
+        "handle": "VINCOTECHHU-AS"
+    },
+    "216010": {
+        "country_code": "HU",
+        "asn": "216010",
+        "description": "ConStream Digitalis Szolgaltato Kft.",
+        "handle": "CONSTREAM-AS"
+    },
+    "216142": {
+        "country_code": "HU",
+        "asn": "216142",
+        "description": "SzemerNet kft.",
+        "handle": "SZEMERNET"
+    },
+    "216431": {
+        "country_code": "HU",
+        "asn": "216431",
+        "description": "Doczi Roland e.v.",
+        "handle": "HOSTPOST-HUNGARY"
+    },
+    "216453": {
+        "country_code": "HU",
+        "asn": "216453",
+        "description": "THE IT Solutions Kft.",
+        "handle": "DAM-AS"
+    }
+}

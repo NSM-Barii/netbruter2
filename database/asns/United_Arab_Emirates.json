@@ -1,0 +1,1118 @@
+{
+    "5384": {
+        "country_code": "AE",
+        "asn": "5384",
+        "description": "EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",
+        "handle": "EMIRATES-INTERNET"
+    },
+    "8529": {
+        "country_code": "AE",
+        "asn": "8529",
+        "description": "Zain Omantel International FZ-LLC",
+        "handle": "OMANTEL-AS"
+    },
+    "8959": {
+        "country_code": "AE",
+        "asn": "8959",
+        "description": "EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",
+        "handle": "EMIRATES-TELECOMMUNICATIONS-GROUP"
+    },
+    "8960": {
+        "country_code": "AE",
+        "asn": "8960",
+        "description": "EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",
+        "handle": "EMIRATES-TELECOMMUNICATIONS-GROUP"
+    },
+    "8961": {
+        "country_code": "AE",
+        "asn": "8961",
+        "description": "EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",
+        "handle": "SHIX-DUBAI"
+    },
+    "8966": {
+        "country_code": "AE",
+        "asn": "8966",
+        "description": "EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",
+        "handle": "ETISALAT-AS"
+    },
+    "9098": {
+        "country_code": "AE",
+        "asn": "9098",
+        "description": "Seven Digital Network Services LLC",
+        "handle": "SDNS"
+    },
+    "14509": {
+        "country_code": "AE",
+        "asn": "14509",
+        "description": "Earthlink Telecommunications Equipment Trading & Services DMCC",
+        "handle": "EARTHLINK-TELECOMMUNICATIONS-EQUIPMENT"
+    },
+    "15802": {
+        "country_code": "AE",
+        "asn": "15802",
+        "description": "Emirates Integrated Telecommunications Company PJSC",
+        "handle": "DU-AS1"
+    },
+    "16230": {
+        "country_code": "AE",
+        "asn": "16230",
+        "description": "LIR Limited",
+        "handle": "LIR-AS"
+    },
+    "25465": {
+        "country_code": "AE",
+        "asn": "25465",
+        "description": "Business Integrated Operating Systems M.E. LLC",
+        "handle": "BIOSME-AS"
+    },
+    "30788": {
+        "country_code": "AE",
+        "asn": "30788",
+        "description": "Seven Digital Network Services LLC",
+        "handle": "AS30788"
+    },
+    "30981": {
+        "country_code": "AE",
+        "asn": "30981",
+        "description": "Horizonsat FZ LLC",
+        "handle": "HSS-KSA"
+    },
+    "33847": {
+        "country_code": "AE",
+        "asn": "33847",
+        "description": "Khalifa University",
+        "handle": "AE-ANKABUT"
+    },
+    "35086": {
+        "country_code": "AE",
+        "asn": "35086",
+        "description": "NG for Telecom and managed IT services DMCC",
+        "handle": "NOURGLOBAL"
+    },
+    "39031": {
+        "country_code": "AE",
+        "asn": "39031",
+        "description": "Khalifa University",
+        "handle": "ANKABUT"
+    },
+    "39368": {
+        "country_code": "AE",
+        "asn": "39368",
+        "description": "Mahdiar Rafiee",
+        "handle": "SERVERIR"
+    },
+    "39410": {
+        "country_code": "AE",
+        "asn": "39410",
+        "description": "FreeNet L.L.C-FZ",
+        "handle": "FN2-AS"
+    },
+    "41268": {
+        "country_code": "AE",
+        "asn": "41268",
+        "description": "Sesameware FZ-LLC",
+        "handle": "LANTA-AS"
+    },
+    "44578": {
+        "country_code": "AE",
+        "asn": "44578",
+        "description": "ITGLOBAL COM DMCC",
+        "handle": "ITGLOBALCOM-DMCC"
+    },
+    "44703": {
+        "country_code": "AE",
+        "asn": "44703",
+        "description": "Thuraya Telecommunications Private Joint-Stock Company",
+        "handle": "THURAYA"
+    },
+    "44947": {
+        "country_code": "AE",
+        "asn": "44947",
+        "description": "AMWAJ ALKHYR COMMERCIAL BROKERS CO.",
+        "handle": "AMWAJ"
+    },
+    "44978": {
+        "country_code": "AE",
+        "asn": "44978",
+        "description": "MBC FZ-LLC",
+        "handle": "MBC-FZ-LLC"
+    },
+    "45053": {
+        "country_code": "AE",
+        "asn": "45053",
+        "description": "Zain Omantel International FZ-LLC",
+        "handle": "ZAINOMANTEL"
+    },
+    "47201": {
+        "country_code": "AE",
+        "asn": "47201",
+        "description": "TELECOMMUNICATIONS AND DIGITAL GOVERNMENT REGULATORY AUTHORITY",
+        "handle": "AEDAAS1"
+    },
+    "47862": {
+        "country_code": "AE",
+        "asn": "47862",
+        "description": "Khalifa University",
+        "handle": "ANKABUT"
+    },
+    "48456": {
+        "country_code": "AE",
+        "asn": "48456",
+        "description": "IPX - FZCO",
+        "handle": "IPX-AS"
+    },
+    "48631": {
+        "country_code": "AE",
+        "asn": "48631",
+        "description": "Odine Solutions FZ-LLC",
+        "handle": "ODINE-AS"
+    },
+    "49626": {
+        "country_code": "AE",
+        "asn": "49626",
+        "description": "Controls Middle East Electromechanical Works L.L.C",
+        "handle": "AS-CME"
+    },
+    "49647": {
+        "country_code": "AE",
+        "asn": "49647",
+        "description": "Sky Unwired DWC-LLC",
+        "handle": "SKY-UNWIRED"
+    },
+    "49832": {
+        "country_code": "AE",
+        "asn": "49832",
+        "description": "QBIC COMMUNICATIONS DMCC",
+        "handle": "AS-QBIC"
+    },
+    "50529": {
+        "country_code": "AE",
+        "asn": "50529",
+        "description": "FreeNet L.L.C-FZ",
+        "handle": "FN-AS"
+    },
+    "50602": {
+        "country_code": "AE",
+        "asn": "50602",
+        "description": "Khalifa University",
+        "handle": "ANKABUT"
+    },
+    "50710": {
+        "country_code": "AE",
+        "asn": "50710",
+        "description": "Earthlink Telecommunications Equipment Trading & Services DMCC",
+        "handle": "EARTHLINK-AS"
+    },
+    "50811": {
+        "country_code": "AE",
+        "asn": "50811",
+        "description": "NEW YORK UNIVERSITY ABU DHABI - ABU DHABI Foreign Branch-USA",
+        "handle": "NYUAD-ASN"
+    },
+    "50961": {
+        "country_code": "AE",
+        "asn": "50961",
+        "description": "Oceanblue Cloud Middle East FZ-LLC",
+        "handle": "OBC"
+    },
+    "51182": {
+        "country_code": "AE",
+        "asn": "51182",
+        "description": "The United Arab Emirates University",
+        "handle": "UAEU"
+    },
+    "56442": {
+        "country_code": "AE",
+        "asn": "56442",
+        "description": "Alnair Mineral Services FZCO",
+        "handle": "RUALNAIR"
+    },
+    "56479": {
+        "country_code": "AE",
+        "asn": "56479",
+        "description": "Higher Colleges of Technology",
+        "handle": "HCT-AS"
+    },
+    "56960": {
+        "country_code": "AE",
+        "asn": "56960",
+        "description": "IPX - FZCO",
+        "handle": "IPX-AS"
+    },
+    "57000": {
+        "country_code": "AE",
+        "asn": "57000",
+        "description": "LinkiWay DMCC",
+        "handle": "LINKIWAY"
+    },
+    "57143": {
+        "country_code": "AE",
+        "asn": "57143",
+        "description": "Abu Dhabi University LLC",
+        "handle": "ABUDHABIUNIVERSITY"
+    },
+    "57163": {
+        "country_code": "AE",
+        "asn": "57163",
+        "description": "Zayed University",
+        "handle": "ZAYEDUNIVERSITY"
+    },
+    "57171": {
+        "country_code": "AE",
+        "asn": "57171",
+        "description": "American University of Sharjah",
+        "handle": "AUS"
+    },
+    "57187": {
+        "country_code": "AE",
+        "asn": "57187",
+        "description": "Emirates Integrated Telecommunications Company PJSC",
+        "handle": "DATAMENA-ASN"
+    },
+    "57511": {
+        "country_code": "AE",
+        "asn": "57511",
+        "description": "Innovative Telecom Systems FZE",
+        "handle": "ITEL-AS-NUMBER"
+    },
+    "57568": {
+        "country_code": "AE",
+        "asn": "57568",
+        "description": "ARVANCLOUD GLOBAL TECHNOLOGIES L.L.C",
+        "handle": "TR-ARVANCLOUD"
+    },
+    "57585": {
+        "country_code": "AE",
+        "asn": "57585",
+        "description": "Al-Mahara Trading FZCO",
+        "handle": "MAHARA"
+    },
+    "57702": {
+        "country_code": "AE",
+        "asn": "57702",
+        "description": "Khalifa University",
+        "handle": "ANKABUT"
+    },
+    "58165": {
+        "country_code": "AE",
+        "asn": "58165",
+        "description": "QBIC COMMUNICATIONS DMCC",
+        "handle": "QBIC-ME"
+    },
+    "58283": {
+        "country_code": "AE",
+        "asn": "58283",
+        "description": "Institute of Applied Technology",
+        "handle": "IAT"
+    },
+    "58287": {
+        "country_code": "AE",
+        "asn": "58287",
+        "description": "Emirates Aluminium Company Limited PJSC",
+        "handle": "EMAL-AS"
+    },
+    "59605": {
+        "country_code": "AE",
+        "asn": "59605",
+        "description": "Zain Omantel International FZ-LLC",
+        "handle": "ZAINGP-AS"
+    },
+    "59692": {
+        "country_code": "AE",
+        "asn": "59692",
+        "description": "IQWeb FZ-LLC",
+        "handle": "IQWEB"
+    },
+    "59695": {
+        "country_code": "AE",
+        "asn": "59695",
+        "description": "Cleveland Clinic AbuDhabi Sole proprietorship L.L.C",
+        "handle": "CCAD-AS"
+    },
+    "59773": {
+        "country_code": "AE",
+        "asn": "59773",
+        "description": "Al Ard Al Thahabia Phone & Internet Devices Trading L.L.C",
+        "handle": "ALARD"
+    },
+    "59868": {
+        "country_code": "AE",
+        "asn": "59868",
+        "description": "VAPORVM IT SERVICES DMCC",
+        "handle": "VAPORVM"
+    },
+    "59878": {
+        "country_code": "AE",
+        "asn": "59878",
+        "description": "BFB ONE FZ-LLC",
+        "handle": "ASBFB"
+    },
+    "59981": {
+        "country_code": "AE",
+        "asn": "59981",
+        "description": "EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",
+        "handle": "ETISALAT-AS"
+    },
+    "59982": {
+        "country_code": "AE",
+        "asn": "59982",
+        "description": "EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",
+        "handle": "ETISALAT-AS"
+    },
+    "59983": {
+        "country_code": "AE",
+        "asn": "59983",
+        "description": "EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",
+        "handle": "ETISALAT-AS"
+    },
+    "60051": {
+        "country_code": "AE",
+        "asn": "60051",
+        "description": "Earthlink Telecommunications Equipment Trading & Services DMCC",
+        "handle": "EARTHLINK-DMCC"
+    },
+    "60117": {
+        "country_code": "AE",
+        "asn": "60117",
+        "description": "Host Sailor Ltd",
+        "handle": "HS"
+    },
+    "60140": {
+        "country_code": "AE",
+        "asn": "60140",
+        "description": "Buzinessware FZCO",
+        "handle": "BUZINESSWARE"
+    },
+    "60849": {
+        "country_code": "AE",
+        "asn": "60849",
+        "description": "iLevant FZE",
+        "handle": "ILEVANT-AS"
+    },
+    "61137": {
+        "country_code": "AE",
+        "asn": "61137",
+        "description": "Khalifa University",
+        "handle": "ANKABUTSERVICES"
+    },
+    "61164": {
+        "country_code": "AE",
+        "asn": "61164",
+        "description": "LIR Limited",
+        "handle": "LIR-AS"
+    },
+    "61313": {
+        "country_code": "AE",
+        "asn": "61313",
+        "description": "NetAssets Services - FZCO",
+        "handle": "WEBRAIN-AS"
+    },
+    "61330": {
+        "country_code": "AE",
+        "asn": "61330",
+        "description": "iServerHost LTD",
+        "handle": "ISERVERHOSTLTD"
+    },
+    "61963": {
+        "country_code": "AE",
+        "asn": "61963",
+        "description": "REVTON GENERAL TRADING L.L.C",
+        "handle": "MARKAVIP"
+    },
+    "62251": {
+        "country_code": "AE",
+        "asn": "62251",
+        "description": "IP MARKET - FZCO",
+        "handle": "IPV6-TUNNELBROKER2-ASN"
+    },
+    "62458": {
+        "country_code": "AE",
+        "asn": "62458",
+        "description": "MBC FZ-LLC",
+        "handle": "MBC-AS"
+    },
+    "140871": {
+        "country_code": "AE",
+        "asn": "140871",
+        "description": "Zeta FZ-LLC",
+        "handle": "ZETAFZLLC-AS-AP"
+    },
+    "154147": {
+        "country_code": "AE",
+        "asn": "154147",
+        "description": "chain cloud information technology LLC",
+        "handle": "CCITL-AS-AP"
+    },
+    "197024": {
+        "country_code": "AE",
+        "asn": "197024",
+        "description": "D P World FZE",
+        "handle": "DPW-AS"
+    },
+    "197381": {
+        "country_code": "AE",
+        "asn": "197381",
+        "description": "Dubai World Trade Center (L.L.C.)",
+        "handle": "DWTC-AS"
+    },
+    "197703": {
+        "country_code": "AE",
+        "asn": "197703",
+        "description": "IP MARKET - FZCO",
+        "handle": "AEIP4-AS"
+    },
+    "198129": {
+        "country_code": "AE",
+        "asn": "198129",
+        "description": "M D C GENERAL SERVICES HOLDING COMPANY L.L.C.",
+        "handle": "MUBADALA"
+    },
+    "198157": {
+        "country_code": "AE",
+        "asn": "198157",
+        "description": "M D C GENERAL SERVICES HOLDING COMPANY L.L.C.",
+        "handle": "MUBADALA"
+    },
+    "198247": {
+        "country_code": "AE",
+        "asn": "198247",
+        "description": "Star Satellite Communications Company - PJSC",
+        "handle": "AD1"
+    },
+    "198381": {
+        "country_code": "AE",
+        "asn": "198381",
+        "description": "Star Satellite Communications Company - PJSC",
+        "handle": "ES1"
+    },
+    "198394": {
+        "country_code": "AE",
+        "asn": "198394",
+        "description": "Star Satellite Communications Company - PJSC",
+        "handle": "GR1"
+    },
+    "198398": {
+        "country_code": "AE",
+        "asn": "198398",
+        "description": "Symphony Solutions FZ-LLC",
+        "handle": "SYMPHONYSOLUTIONSAS"
+    },
+    "198503": {
+        "country_code": "AE",
+        "asn": "198503",
+        "description": "Dubai Financial Market (DFM) PJSC",
+        "handle": "DFMAS"
+    },
+    "198504": {
+        "country_code": "AE",
+        "asn": "198504",
+        "description": "Star Satellite Communications Company - PJSC",
+        "handle": "LU1"
+    },
+    "198779": {
+        "country_code": "AE",
+        "asn": "198779",
+        "description": "Earthlink Telecommunications Equipment Trading & Services DMCC",
+        "handle": "EARTHLINK-IQ"
+    },
+    "199739": {
+        "country_code": "AE",
+        "asn": "199739",
+        "description": "Earthlink Telecommunications Equipment Trading & Services DMCC",
+        "handle": "EARTHLINK-DMCC-IQ"
+    },
+    "200284": {
+        "country_code": "AE",
+        "asn": "200284",
+        "description": "FIRST ABU DHABI BANK P.J.S.C",
+        "handle": "BANKFAB"
+    },
+    "200315": {
+        "country_code": "AE",
+        "asn": "200315",
+        "description": "NetConnect Innovations LLC",
+        "handle": "AE-NETCONNECT"
+    },
+    "200494": {
+        "country_code": "AE",
+        "asn": "200494",
+        "description": "ME BRIDGE TELECOM FZCO",
+        "handle": "ME-BRIDGE"
+    },
+    "200558": {
+        "country_code": "AE",
+        "asn": "200558",
+        "description": "Core Network Services FZE",
+        "handle": "CORENET"
+    },
+    "200661": {
+        "country_code": "AE",
+        "asn": "200661",
+        "description": "Nexserve Solutions - FZCO",
+        "handle": "NEXSERVE-AS"
+    },
+    "200851": {
+        "country_code": "AE",
+        "asn": "200851",
+        "description": "Bamboozle Web Services MEA FZ-LLC",
+        "handle": "BAMBOOZLE-AS"
+    },
+    "201062": {
+        "country_code": "AE",
+        "asn": "201062",
+        "description": "Basra Energy Company Limited",
+        "handle": "HQ-BP-IRAQ-NV"
+    },
+    "201340": {
+        "country_code": "AE",
+        "asn": "201340",
+        "description": "EMIRATES NBD (P.J.S.C).",
+        "handle": "ENBD"
+    },
+    "201678": {
+        "country_code": "AE",
+        "asn": "201678",
+        "description": "Abu Dhabi Digital Authority",
+        "handle": "ADNET"
+    },
+    "201700": {
+        "country_code": "AE",
+        "asn": "201700",
+        "description": "Abu Dhabi Airports Company PJSC",
+        "handle": "ADAC-AS"
+    },
+    "202024": {
+        "country_code": "AE",
+        "asn": "202024",
+        "description": "TELECOMMUNICATIONS AND DIGITAL GOVERNMENT REGULATORY AUTHORITY",
+        "handle": "FEDNETAS1"
+    },
+    "202041": {
+        "country_code": "AE",
+        "asn": "202041",
+        "description": "Abu Dhabi Media Company PJSC",
+        "handle": "ADMC-AS"
+    },
+    "202638": {
+        "country_code": "AE",
+        "asn": "202638",
+        "description": "EVOFLARE - FZCO",
+        "handle": "EVOFLARE"
+    },
+    "202670": {
+        "country_code": "AE",
+        "asn": "202670",
+        "description": "CLOUDZME FZE",
+        "handle": "CLOUDZMEASN1"
+    },
+    "202715": {
+        "country_code": "AE",
+        "asn": "202715",
+        "description": "Al Naboodah Group Enterprises LLC",
+        "handle": "AL-NABOODAH"
+    },
+    "202930": {
+        "country_code": "AE",
+        "asn": "202930",
+        "description": "SKYTELL FZ LLC",
+        "handle": "SKYTELL-AE"
+    },
+    "203656": {
+        "country_code": "AE",
+        "asn": "203656",
+        "description": "Easy Tech Gaming FZ LLC",
+        "handle": "EASYTECH"
+    },
+    "203785": {
+        "country_code": "AE",
+        "asn": "203785",
+        "description": "ABU DHABI PORTS COMPANY PJSC",
+        "handle": "ADPORTS-AS"
+    },
+    "203790": {
+        "country_code": "AE",
+        "asn": "203790",
+        "description": "SECWELL L.L.C-FZ",
+        "handle": "AS-SECWELL"
+    },
+    "203884": {
+        "country_code": "AE",
+        "asn": "203884",
+        "description": "QUAZARUS CONSULTING - FZCO",
+        "handle": "QUAZARUS-CONSULTING-FZCO"
+    },
+    "203896": {
+        "country_code": "AE",
+        "asn": "203896",
+        "description": "DUBAI AVIATION CORPORATION",
+        "handle": "FLYDUBAI"
+    },
+    "204206": {
+        "country_code": "AE",
+        "asn": "204206",
+        "description": "Digital Dubai Government Establishment",
+        "handle": "GIN-INT-AS"
+    },
+    "204523": {
+        "country_code": "AE",
+        "asn": "204523",
+        "description": "Expresso Telecom Group Ltd",
+        "handle": "EXPRESSO-TELECOM-GROUP"
+    },
+    "204832": {
+        "country_code": "AE",
+        "asn": "204832",
+        "description": "Data Hub Integrated Solutions Moro LLC",
+        "handle": "MORO"
+    },
+    "205023": {
+        "country_code": "AE",
+        "asn": "205023",
+        "description": "TINOU CONSULTING - FZCO",
+        "handle": "TINOU-CONSULTING-FZCO"
+    },
+    "205213": {
+        "country_code": "AE",
+        "asn": "205213",
+        "description": "Emirates National Oil Co. Ltd. (ENOC) LLC",
+        "handle": "ENOC-AS"
+    },
+    "205380": {
+        "country_code": "AE",
+        "asn": "205380",
+        "description": "GeekTeam L.L.C-FZ",
+        "handle": "GEEKTEAMLLLC"
+    },
+    "205601": {
+        "country_code": "AE",
+        "asn": "205601",
+        "description": "GALAXY STAR COMPANY LIMITED",
+        "handle": "VEEV-CDN"
+    },
+    "205951": {
+        "country_code": "AE",
+        "asn": "205951",
+        "description": "Anwar Bahadar",
+        "handle": "MCBBANKDXB"
+    },
+    "205980": {
+        "country_code": "AE",
+        "asn": "205980",
+        "description": "W&D CORP - FZCO",
+        "handle": "WD-CORP"
+    },
+    "205988": {
+        "country_code": "AE",
+        "asn": "205988",
+        "description": "Playco Entertainment FZ LLC",
+        "handle": "PLAYCO-AS"
+    },
+    "206042": {
+        "country_code": "AE",
+        "asn": "206042",
+        "description": "Suhail Haris",
+        "handle": "SH-WEB"
+    },
+    "206204": {
+        "country_code": "AE",
+        "asn": "206204",
+        "description": "Huawei Tech(UAE)FZ-LLC",
+        "handle": "UAE-HUAWEI"
+    },
+    "206283": {
+        "country_code": "AE",
+        "asn": "206283",
+        "description": "Star Satellite Communications Company - PJSC",
+        "handle": "YAHSAT-FRANKFURT"
+    },
+    "206771": {
+        "country_code": "AE",
+        "asn": "206771",
+        "description": "Dubai Gold and Commodities Exchange DMCC",
+        "handle": "DGCX-AS"
+    },
+    "206797": {
+        "country_code": "AE",
+        "asn": "206797",
+        "description": "ADS Securities LLC",
+        "handle": "ADS-SECURITIES"
+    },
+    "206816": {
+        "country_code": "AE",
+        "asn": "206816",
+        "description": "meranur limited",
+        "handle": "MAJORLYNX"
+    },
+    "207418": {
+        "country_code": "AE",
+        "asn": "207418",
+        "description": "CLOUD HOST TECHNOLOGY LLC",
+        "handle": "CLOUDHOST"
+    },
+    "207712": {
+        "country_code": "AE",
+        "asn": "207712",
+        "description": "Izitell Cloud - FZCO",
+        "handle": "IZITELL-FIN"
+    },
+    "207833": {
+        "country_code": "AE",
+        "asn": "207833",
+        "description": "Innovative Telecom Systems FZE",
+        "handle": "AS-ZLAYER"
+    },
+    "208006": {
+        "country_code": "AE",
+        "asn": "208006",
+        "description": "ARVANCLOUD GLOBAL TECHNOLOGIES L.L.C",
+        "handle": "ARVANCLOUD-CDN"
+    },
+    "208105": {
+        "country_code": "AE",
+        "asn": "208105",
+        "description": "QBIC COMMUNICATIONS DMCC",
+        "handle": "QBIC"
+    },
+    "208111": {
+        "country_code": "AE",
+        "asn": "208111",
+        "description": "Falcon FZE LLC",
+        "handle": "BAREMETAL-AE"
+    },
+    "208213": {
+        "country_code": "AE",
+        "asn": "208213",
+        "description": "Horizon Technology-Fzco",
+        "handle": "H-MENA"
+    },
+    "208278": {
+        "country_code": "AE",
+        "asn": "208278",
+        "description": "OMNICLOUDS COMPUTER SYSTEMS & COMMUNICATION EQUIPMENT SOFTWARE DESIGN LLC",
+        "handle": "OMNICLOUDS"
+    },
+    "208428": {
+        "country_code": "AE",
+        "asn": "208428",
+        "description": "Star Satellite Communications Company - PJSC",
+        "handle": "YAHSAT-DUBAI"
+    },
+    "208797": {
+        "country_code": "AE",
+        "asn": "208797",
+        "description": "MASHREQBANK PJSC",
+        "handle": "MASHREQBANK-AS"
+    },
+    "208800": {
+        "country_code": "AE",
+        "asn": "208800",
+        "description": "G42 CLOUD TECHNOLOGY L.L.C.",
+        "handle": "EOSCLOUD"
+    },
+    "208922": {
+        "country_code": "AE",
+        "asn": "208922",
+        "description": "Abu Dhabi Commercial Bank PJS",
+        "handle": "ADCB"
+    },
+    "209043": {
+        "country_code": "AE",
+        "asn": "209043",
+        "description": "IPRoyal Services FZE LLC",
+        "handle": "IPROYAL"
+    },
+    "209173": {
+        "country_code": "AE",
+        "asn": "209173",
+        "description": "PetroChina International Iraq FZE",
+        "handle": "WESTQURNA1FOD"
+    },
+    "209184": {
+        "country_code": "AE",
+        "asn": "209184",
+        "description": "DATANNEST SOLUTIONS L.L.C",
+        "handle": "DATANNEST"
+    },
+    "209526": {
+        "country_code": "AE",
+        "asn": "209526",
+        "description": "Cyber Assets FZCO",
+        "handle": "BATTERSEA-FIBRE-BORADBAND-SERVICE"
+    },
+    "209538": {
+        "country_code": "AE",
+        "asn": "209538",
+        "description": "Lead Time Telecom FZE",
+        "handle": "AS-LT"
+    },
+    "209995": {
+        "country_code": "AE",
+        "asn": "209995",
+        "description": "Network International LLC",
+        "handle": "NIDXB-AS"
+    },
+    "210296": {
+        "country_code": "AE",
+        "asn": "210296",
+        "description": "ARVANCLOUD GLOBAL TECHNOLOGIES L.L.C",
+        "handle": "ARVANCLOUD-GLOBAL"
+    },
+    "210744": {
+        "country_code": "AE",
+        "asn": "210744",
+        "description": "BUSINESS INTEGRATED OPERATING SYSTEMS BIOS ( M.E ) L L C",
+        "handle": "BIOSKSA"
+    },
+    "210838": {
+        "country_code": "AE",
+        "asn": "210838",
+        "description": "Nama Engineering & Projects (FZC)",
+        "handle": "SKYLINE"
+    },
+    "211112": {
+        "country_code": "AE",
+        "asn": "211112",
+        "description": "Qrator Technologies FZ-LLC",
+        "handle": "QRATOR-FZ"
+    },
+    "211273": {
+        "country_code": "AE",
+        "asn": "211273",
+        "description": "Cloud Software - FZCO",
+        "handle": "CSOFT"
+    },
+    "211416": {
+        "country_code": "AE",
+        "asn": "211416",
+        "description": "Tawasal Information Technology LLC",
+        "handle": "TAWASUL2021"
+    },
+    "211603": {
+        "country_code": "AE",
+        "asn": "211603",
+        "description": "IDFAA PAYMENT SERVICES L.L.C",
+        "handle": "NEOPAY"
+    },
+    "212020": {
+        "country_code": "AE",
+        "asn": "212020",
+        "description": "AlTayer Group (L.L.C)",
+        "handle": "ALTAYER-AS"
+    },
+    "212546": {
+        "country_code": "AE",
+        "asn": "212546",
+        "description": "Virtual Network Lab L.L.C-FZ",
+        "handle": "ASVIRTUALNETLABS"
+    },
+    "212741": {
+        "country_code": "AE",
+        "asn": "212741",
+        "description": "Emirates Aluminium Company Limited PJSC",
+        "handle": "EGA-JA-AS"
+    },
+    "212809": {
+        "country_code": "AE",
+        "asn": "212809",
+        "description": "7Grid Solutions L.L.C S.O.C",
+        "handle": "SEVENGRID"
+    },
+    "212827": {
+        "country_code": "AE",
+        "asn": "212827",
+        "description": "Delta Communications FZ LLC",
+        "handle": "AE-DELTACOM"
+    },
+    "213303": {
+        "country_code": "AE",
+        "asn": "213303",
+        "description": "Al Nafetha Computers & Requisites Trading LLC",
+        "handle": "ABRENIK"
+    },
+    "213453": {
+        "country_code": "AE",
+        "asn": "213453",
+        "description": "NETROX FZE LLC",
+        "handle": "NETROX-AS"
+    },
+    "213456": {
+        "country_code": "AE",
+        "asn": "213456",
+        "description": "TAWSIE TECHNOLOGY",
+        "handle": "TT-UAE"
+    },
+    "213622": {
+        "country_code": "AE",
+        "asn": "213622",
+        "description": "Falcon FZE LLC",
+        "handle": "FALCON"
+    },
+    "213811": {
+        "country_code": "AE",
+        "asn": "213811",
+        "description": "Richard Lowton",
+        "handle": "NEKOTOPIA"
+    },
+    "213902": {
+        "country_code": "AE",
+        "asn": "213902",
+        "description": "ZLayer L.L.C-FZ",
+        "handle": "ZLAYER"
+    },
+    "213931": {
+        "country_code": "AE",
+        "asn": "213931",
+        "description": "Alaitisal Computers and Requisites Trading LLC",
+        "handle": "ALAITISAL"
+    },
+    "214095": {
+        "country_code": "AE",
+        "asn": "214095",
+        "description": "E Sim international LLC",
+        "handle": "ESIMINTERNATIONAL"
+    },
+    "214120": {
+        "country_code": "AE",
+        "asn": "214120",
+        "description": "LOGIC INFOTECH ELECTRICAL SPARE PARTS TRADING L.L.C.",
+        "handle": "LOGICINFO-AS"
+    },
+    "214227": {
+        "country_code": "AE",
+        "asn": "214227",
+        "description": "Zoho Software Trading LLC",
+        "handle": "ZOHO-AE"
+    },
+    "214366": {
+        "country_code": "AE",
+        "asn": "214366",
+        "description": "Moustafa Mohamed Mohamed Ahmed Elghoubashi",
+        "handle": "PRIVACYFIRST"
+    },
+    "214477": {
+        "country_code": "AE",
+        "asn": "214477",
+        "description": "SHIVSUM INFORMATION TECHNOLOGY FZE",
+        "handle": "SHIVSUM-AS"
+    },
+    "214687": {
+        "country_code": "AE",
+        "asn": "214687",
+        "description": "EQVILENT TECH COMPUTER SYSTEMS DESIGN L.L.C",
+        "handle": "EQVILENT-AS"
+    },
+    "214695": {
+        "country_code": "AE",
+        "asn": "214695",
+        "description": "DIAMOND IP BROKERS FZCO",
+        "handle": "DIAMONDIPBROKERS"
+    },
+    "214798": {
+        "country_code": "AE",
+        "asn": "214798",
+        "description": "Digital City FZE",
+        "handle": "VPS1"
+    },
+    "214965": {
+        "country_code": "AE",
+        "asn": "214965",
+        "description": "ServerWala InfraNet FZ-LLC",
+        "handle": "SW-INFRANET"
+    },
+    "215024": {
+        "country_code": "AE",
+        "asn": "215024",
+        "description": "Direct Cursus Technology LLC",
+        "handle": "FUNTECH"
+    },
+    "215078": {
+        "country_code": "AE",
+        "asn": "215078",
+        "description": "FRESH CODE - FZCO",
+        "handle": "FZCO"
+    },
+    "215108": {
+        "country_code": "AE",
+        "asn": "215108",
+        "description": "WebDevAE FZE",
+        "handle": "WEBDEVAE"
+    },
+    "215174": {
+        "country_code": "AE",
+        "asn": "215174",
+        "description": "ProNow Tech CO. L.L.C",
+        "handle": "PRONOW"
+    },
+    "215211": {
+        "country_code": "AE",
+        "asn": "215211",
+        "description": "GOLD IP L.L.C-FZ",
+        "handle": "GOLDIPV4"
+    },
+    "215377": {
+        "country_code": "AE",
+        "asn": "215377",
+        "description": "WORLD GURUJI EDUCATION AND TRAINING COMPUTER SOFTWARE L.L.C",
+        "handle": "WORLDGURUJI"
+    },
+    "215441": {
+        "country_code": "AE",
+        "asn": "215441",
+        "description": "ITGLOBAL COM DMCC",
+        "handle": "ITGLOBALCOM-GA"
+    },
+    "215716": {
+        "country_code": "AE",
+        "asn": "215716",
+        "description": "PURE C S IT INFRASTRUCTURE L.L.C",
+        "handle": "PURECS"
+    },
+    "215878": {
+        "country_code": "AE",
+        "asn": "215878",
+        "description": "M1CLOUD INFORMATION TECHNOLOGY CONSULTANTS L.L.C",
+        "handle": "M1CLOUDITC"
+    },
+    "215935": {
+        "country_code": "AE",
+        "asn": "215935",
+        "description": "Alphinity labs L.L.C-FZ",
+        "handle": "ORG-AA3392-RIPE"
+    },
+    "215999": {
+        "country_code": "AE",
+        "asn": "215999",
+        "description": "Data Fortress FZC",
+        "handle": "DATA-FORTRESS"
+    },
+    "216070": {
+        "country_code": "AE",
+        "asn": "216070",
+        "description": "RCS Technologies FZE LLC",
+        "handle": "RCSTECHNOLOGIES"
+    },
+    "216071": {
+        "country_code": "AE",
+        "asn": "216071",
+        "description": "SERVERS TECH FZCO",
+        "handle": "VDSINA"
+    },
+    "216154": {
+        "country_code": "AE",
+        "asn": "216154",
+        "description": "CLODO CLOUD SERVICE CO. L.L.C",
+        "handle": "CLODO"
+    },
+    "216194": {
+        "country_code": "AE",
+        "asn": "216194",
+        "description": "Navid Emrozian trading as 'Emrozian International Trading'",
+        "handle": "ONESTYLEDESIGN"
+    },
+    "216382": {
+        "country_code": "AE",
+        "asn": "216382",
+        "description": "LAYER MARKETING SERVICES L.L.C",
+        "handle": "LAYER"
+    }
+}

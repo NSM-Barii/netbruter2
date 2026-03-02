@@ -1,0 +1,1052 @@
+{
+    "1886": {
+        "country_code": "HR",
+        "asn": "1886",
+        "description": "BT NET d.o.o. za trgovinu i usluge",
+        "handle": "BTNET"
+    },
+    "2108": {
+        "country_code": "HR",
+        "asn": "2108",
+        "description": "Croatian Academic and Research Network",
+        "handle": "CARNET-AS"
+    },
+    "5391": {
+        "country_code": "HR",
+        "asn": "5391",
+        "description": "Hrvatski Telekom d.d.",
+        "handle": "T-HT"
+    },
+    "5620": {
+        "country_code": "HR",
+        "asn": "5620",
+        "description": "Adria Media Zagreb doo",
+        "handle": "ADRIAMEDIA-AS"
+    },
+    "6794": {
+        "country_code": "HR",
+        "asn": "6794",
+        "description": "HRT - Croatian Radio Television",
+        "handle": "ASN-HRTNET"
+    },
+    "12417": {
+        "country_code": "HR",
+        "asn": "12417",
+        "description": "Plus Hosting Grupa d.o.o.",
+        "handle": "DHH-AS"
+    },
+    "12810": {
+        "country_code": "HR",
+        "asn": "12810",
+        "description": "A1 Hrvatska d.o.o.",
+        "handle": "VIPNET-AS"
+    },
+    "13046": {
+        "country_code": "HR",
+        "asn": "13046",
+        "description": "Hrvatski Telekom d.d.",
+        "handle": "ASN-ISKON"
+    },
+    "15719": {
+        "country_code": "HR",
+        "asn": "15719",
+        "description": "CENTAR ZA VOZILA HRVATSKE D.D.",
+        "handle": "CZVH"
+    },
+    "15994": {
+        "country_code": "HR",
+        "asn": "15994",
+        "description": "A1 Hrvatska d.o.o.",
+        "handle": "A1HR"
+    },
+    "16163": {
+        "country_code": "HR",
+        "asn": "16163",
+        "description": "Agram Brokeri d.d.",
+        "handle": "AGRAMBROKERI"
+    },
+    "21323": {
+        "country_code": "HR",
+        "asn": "21323",
+        "description": "Erste&Steiermarkische Bank d.d.",
+        "handle": "ERSTEBANK"
+    },
+    "25045": {
+        "country_code": "HR",
+        "asn": "25045",
+        "description": "HANZA MEDIA d.o.o.",
+        "handle": "EPH-AS"
+    },
+    "25277": {
+        "country_code": "HR",
+        "asn": "25277",
+        "description": "POSLuH d.o.o za informaticke usluge i trgovinu",
+        "handle": "POSLUH"
+    },
+    "25328": {
+        "country_code": "HR",
+        "asn": "25328",
+        "description": "HEP-TELEKOMUNIKACIJE d.o.o.",
+        "handle": "HEP-AS"
+    },
+    "25365": {
+        "country_code": "HR",
+        "asn": "25365",
+        "description": "Tomsoft d.o.o.",
+        "handle": "TOMSOFT-AS"
+    },
+    "25528": {
+        "country_code": "HR",
+        "asn": "25528",
+        "description": "A1 Hrvatska d.o.o.",
+        "handle": "VODATEL-AS"
+    },
+    "28766": {
+        "country_code": "HR",
+        "asn": "28766",
+        "description": "Oglasnik d.o.o.",
+        "handle": "OGLASNIK-AS"
+    },
+    "28837": {
+        "country_code": "HR",
+        "asn": "28837",
+        "description": "Avola Solutions d.o.o.",
+        "handle": "AS-HR-NET"
+    },
+    "28862": {
+        "country_code": "HR",
+        "asn": "28862",
+        "description": "INA Industrija Nafte d.d.",
+        "handle": "INA-HR-AS"
+    },
+    "29485": {
+        "country_code": "HR",
+        "asn": "29485",
+        "description": "A1 Hrvatska d.o.o.",
+        "handle": "AMISHR"
+    },
+    "29647": {
+        "country_code": "HR",
+        "asn": "29647",
+        "description": "HINA - Hrvatska Izvjestajna Novinska Agencija",
+        "handle": "HINA-AS"
+    },
+    "30841": {
+        "country_code": "HR",
+        "asn": "30841",
+        "description": "Istarska kreditna banka Umag d.d.",
+        "handle": "IKB-AS"
+    },
+    "30905": {
+        "country_code": "HR",
+        "asn": "30905",
+        "description": "Raiffeisenbank Austria d.d.",
+        "handle": "HRRBA-AS"
+    },
+    "31012": {
+        "country_code": "HR",
+        "asn": "31012",
+        "description": "A1 Hrvatska d.o.o.",
+        "handle": "DCM-AS"
+    },
+    "31215": {
+        "country_code": "HR",
+        "asn": "31215",
+        "description": "The Republic of Croatia Ministry of Finance",
+        "handle": "PURH"
+    },
+    "34362": {
+        "country_code": "HR",
+        "asn": "34362",
+        "description": "Terrakom d.o.o.",
+        "handle": "VOLJATEL-HR-AS"
+    },
+    "34463": {
+        "country_code": "HR",
+        "asn": "34463",
+        "description": "Super Sport d.o.o.",
+        "handle": "SSPORT-AS"
+    },
+    "34519": {
+        "country_code": "HR",
+        "asn": "34519",
+        "description": "VJESNIK d.d.",
+        "handle": "VJESNIK-AS"
+    },
+    "34522": {
+        "country_code": "HR",
+        "asn": "34522",
+        "description": "Ministarstvo Obrane Republike Hrvatske",
+        "handle": "MORH"
+    },
+    "34540": {
+        "country_code": "HR",
+        "asn": "34540",
+        "description": "mStart plus d.o.o.",
+        "handle": "MSTART-AS"
+    },
+    "34594": {
+        "country_code": "HR",
+        "asn": "34594",
+        "description": "Telemach Hrvatska d.o.o.",
+        "handle": "OT-AS"
+    },
+    "34748": {
+        "country_code": "HR",
+        "asn": "34748",
+        "description": "Telemach Hrvatska d.o.o.",
+        "handle": "OT-AS"
+    },
+    "35128": {
+        "country_code": "HR",
+        "asn": "35128",
+        "description": "Hrvatska Postanska Banka d.d.",
+        "handle": "HPB-AS"
+    },
+    "35225": {
+        "country_code": "HR",
+        "asn": "35225",
+        "description": "Hrvatske ceste",
+        "handle": "HRVATSKE-CESTE"
+    },
+    "35416": {
+        "country_code": "HR",
+        "asn": "35416",
+        "description": "CROATIA AIRLINES D.D.",
+        "handle": "CROAIR-AS"
+    },
+    "35549": {
+        "country_code": "HR",
+        "asn": "35549",
+        "description": "A1 Hrvatska d.o.o.",
+        "handle": "METRONET-AS"
+    },
+    "35648": {
+        "country_code": "HR",
+        "asn": "35648",
+        "description": "Hrvatski Telekom d.d.",
+        "handle": "T-MOBILE-HR-AS"
+    },
+    "38937": {
+        "country_code": "HR",
+        "asn": "38937",
+        "description": "VERSO ALTIMA d.o.o.",
+        "handle": "VERSO"
+    },
+    "39416": {
+        "country_code": "HR",
+        "asn": "39416",
+        "description": "Infoart d.o.o.",
+        "handle": "INFOART"
+    },
+    "41121": {
+        "country_code": "HR",
+        "asn": "41121",
+        "description": "Ministarstvo unutarnjih poslova Republike Hrvatske",
+        "handle": "MUPHR"
+    },
+    "41336": {
+        "country_code": "HR",
+        "asn": "41336",
+        "description": "Financijska agencija",
+        "handle": "HITRONET-AS"
+    },
+    "41452": {
+        "country_code": "HR",
+        "asn": "41452",
+        "description": "Zracna luka Zagreb d.o.o.",
+        "handle": "ZGAIR-AS"
+    },
+    "41454": {
+        "country_code": "HR",
+        "asn": "41454",
+        "description": "Optika Kabel TV d.o.o.",
+        "handle": "OKTV"
+    },
+    "42488": {
+        "country_code": "HR",
+        "asn": "42488",
+        "description": "AtlanticGrupa d.d.",
+        "handle": "ATLANTICGRUPA"
+    },
+    "42593": {
+        "country_code": "HR",
+        "asn": "42593",
+        "description": "KONCAR - Digital d.o.o.",
+        "handle": "KODEKS-AS"
+    },
+    "42679": {
+        "country_code": "HR",
+        "asn": "42679",
+        "description": "IPT d.o.o.",
+        "handle": "IPT-AS"
+    },
+    "42937": {
+        "country_code": "HR",
+        "asn": "42937",
+        "description": "BIT d.o.o.",
+        "handle": "BIT"
+    },
+    "43023": {
+        "country_code": "HR",
+        "asn": "43023",
+        "description": "iGP Tech d.o.o.",
+        "handle": "AA-ASN"
+    },
+    "43083": {
+        "country_code": "HR",
+        "asn": "43083",
+        "description": "Metro Cash & Carry d.o.o.",
+        "handle": "MCC-HR-AS"
+    },
+    "43394": {
+        "country_code": "HR",
+        "asn": "43394",
+        "description": "Nexi Croatia d.o.o. za karticno poslovanje",
+        "handle": "MERCURY"
+    },
+    "43804": {
+        "country_code": "HR",
+        "asn": "43804",
+        "description": "IMENIK d.o.o",
+        "handle": "IMENIK-AS"
+    },
+    "43823": {
+        "country_code": "HR",
+        "asn": "43823",
+        "description": "OMONIA d.o.o.",
+        "handle": "OMONIA-RO"
+    },
+    "43953": {
+        "country_code": "HR",
+        "asn": "43953",
+        "description": "mStart plus d.o.o.",
+        "handle": "MERCATOR-H"
+    },
+    "44260": {
+        "country_code": "HR",
+        "asn": "44260",
+        "description": "Jadrolinija",
+        "handle": "JADROLINIJA"
+    },
+    "44306": {
+        "country_code": "HR",
+        "asn": "44306",
+        "description": "OMONIA d.o.o.",
+        "handle": "OMONIA"
+    },
+    "44325": {
+        "country_code": "HR",
+        "asn": "44325",
+        "description": "RealTime d.o.o.",
+        "handle": "REALTIME-AS"
+    },
+    "44330": {
+        "country_code": "HR",
+        "asn": "44330",
+        "description": "all eyes on screens d.o.o.",
+        "handle": "ADSCANNER-AS"
+    },
+    "44377": {
+        "country_code": "HR",
+        "asn": "44377",
+        "description": "MAGIC NET D.O.O.",
+        "handle": "MTNET-AS"
+    },
+    "44475": {
+        "country_code": "HR",
+        "asn": "44475",
+        "description": "RAO d.o.o.",
+        "handle": "RAO"
+    },
+    "47107": {
+        "country_code": "HR",
+        "asn": "47107",
+        "description": "Megatrend Poslovna Rjesenja d.o.o.",
+        "handle": "MEGATREND"
+    },
+    "47948": {
+        "country_code": "HR",
+        "asn": "47948",
+        "description": "24sata doo",
+        "handle": "SATA-AS"
+    },
+    "48256": {
+        "country_code": "HR",
+        "asn": "48256",
+        "description": "Croatia Osiguranje",
+        "handle": "CROSIG-HR"
+    },
+    "48353": {
+        "country_code": "HR",
+        "asn": "48353",
+        "description": "NOVA TV d.d.",
+        "handle": "NOVATV-AS"
+    },
+    "48372": {
+        "country_code": "HR",
+        "asn": "48372",
+        "description": "HANZA MEDIA d.o.o.",
+        "handle": "SDALMACIJA-AS"
+    },
+    "48567": {
+        "country_code": "HR",
+        "asn": "48567",
+        "description": "MEDIKA D.D.",
+        "handle": "MEDIKA-AS"
+    },
+    "48621": {
+        "country_code": "HR",
+        "asn": "48621",
+        "description": "AGRAM BANKA d.d.",
+        "handle": "KBZ"
+    },
+    "48794": {
+        "country_code": "HR",
+        "asn": "48794",
+        "description": "ADRIATIC OSIGURANJE d.d.",
+        "handle": "ADRIATIC-OSIGURANJE"
+    },
+    "48797": {
+        "country_code": "HR",
+        "asn": "48797",
+        "description": "Odasiljaci i veze d.o.o.",
+        "handle": "OIV-AS"
+    },
+    "49498": {
+        "country_code": "HR",
+        "asn": "49498",
+        "description": "Axians Hrvatska d.o.o.",
+        "handle": "AXIANS-HR-AS"
+    },
+    "50410": {
+        "country_code": "HR",
+        "asn": "50410",
+        "description": "Hrvatske autoceste d.o.o.",
+        "handle": "HAC-AS"
+    },
+    "51485": {
+        "country_code": "HR",
+        "asn": "51485",
+        "description": "Blink d.o.o.",
+        "handle": "BLINK"
+    },
+    "51577": {
+        "country_code": "HR",
+        "asn": "51577",
+        "description": "Styria IT Solutions d.o.o.",
+        "handle": "STYRIA-AS"
+    },
+    "51702": {
+        "country_code": "HR",
+        "asn": "51702",
+        "description": "University of Zagreb University Computing Centre",
+        "handle": "CIX"
+    },
+    "51989": {
+        "country_code": "HR",
+        "asn": "51989",
+        "description": "Grad Rijeka-Gradsko Vijece",
+        "handle": "GRADRI-AS"
+    },
+    "52152": {
+        "country_code": "HR",
+        "asn": "52152",
+        "description": "Privredna banka Zagreb d.d.",
+        "handle": "PBZ"
+    },
+    "52172": {
+        "country_code": "HR",
+        "asn": "52172",
+        "description": "Zagrebacki holding d.o.o.",
+        "handle": "ZGH"
+    },
+    "57499": {
+        "country_code": "HR",
+        "asn": "57499",
+        "description": "Ministarstvo mora prometa i infrastrukture",
+        "handle": "MMPI"
+    },
+    "57868": {
+        "country_code": "HR",
+        "asn": "57868",
+        "description": "Lucka uprava Ploce",
+        "handle": "LUPLOCE"
+    },
+    "57888": {
+        "country_code": "HR",
+        "asn": "57888",
+        "description": "Telesat d.o.o.",
+        "handle": "TELESAT-AS"
+    },
+    "58312": {
+        "country_code": "HR",
+        "asn": "58312",
+        "description": "Zracna luka Split d.o.o.",
+        "handle": "ZLSPLIT"
+    },
+    "59522": {
+        "country_code": "HR",
+        "asn": "59522",
+        "description": "M3T Projekt d.o.o.",
+        "handle": "M3T"
+    },
+    "59786": {
+        "country_code": "HR",
+        "asn": "59786",
+        "description": "OTP banka d.d.",
+        "handle": "OTPBANKHRV"
+    },
+    "59866": {
+        "country_code": "HR",
+        "asn": "59866",
+        "description": "AKD d.o.o.",
+        "handle": "AKD"
+    },
+    "60009": {
+        "country_code": "HR",
+        "asn": "60009",
+        "description": "SETCOR d.o.o.",
+        "handle": "SETCOR"
+    },
+    "60762": {
+        "country_code": "HR",
+        "asn": "60762",
+        "description": "IT Jedan d.o.o.",
+        "handle": "IT1-HR-AS"
+    },
+    "61094": {
+        "country_code": "HR",
+        "asn": "61094",
+        "description": "CRATIS d.o.o.",
+        "handle": "CRATIS-AS"
+    },
+    "61211": {
+        "country_code": "HR",
+        "asn": "61211",
+        "description": "SETCOR d.o.o.",
+        "handle": "SETCOR"
+    },
+    "61995": {
+        "country_code": "HR",
+        "asn": "61995",
+        "description": "AIRNET d.o.o. za telekomunikacije",
+        "handle": "KRK-AS"
+    },
+    "62120": {
+        "country_code": "HR",
+        "asn": "62120",
+        "description": "PRO-PING d.o.o.",
+        "handle": "PRO-PING-ASN02"
+    },
+    "62161": {
+        "country_code": "HR",
+        "asn": "62161",
+        "description": "PRO-PING d.o.o.",
+        "handle": "PRO-PING"
+    },
+    "62182": {
+        "country_code": "HR",
+        "asn": "62182",
+        "description": "Barrage d.o.o.",
+        "handle": "BARRAGE"
+    },
+    "62294": {
+        "country_code": "HR",
+        "asn": "62294",
+        "description": "Data Target d.o.o.",
+        "handle": "DATA-TARGET"
+    },
+    "196622": {
+        "country_code": "HR",
+        "asn": "196622",
+        "description": "Hrvatska posta d.d.",
+        "handle": "HR-POSTA"
+    },
+    "197521": {
+        "country_code": "HR",
+        "asn": "197521",
+        "description": "SPAN d.d.",
+        "handle": "SPAN-AS"
+    },
+    "197716": {
+        "country_code": "HR",
+        "asn": "197716",
+        "description": "MULTI KOMUNIKACIJE d.o.o.",
+        "handle": "MULTIKOMUNIKACIJE-HR"
+    },
+    "197823": {
+        "country_code": "HR",
+        "asn": "197823",
+        "description": "Ministarstvo zdravstva",
+        "handle": "ASN-MZSS"
+    },
+    "198548": {
+        "country_code": "HR",
+        "asn": "198548",
+        "description": "Overseas Trade Co. Ltd. d.o.o.",
+        "handle": "OVERSEAS-AS"
+    },
+    "198565": {
+        "country_code": "HR",
+        "asn": "198565",
+        "description": "Germania Sport d.o.o.",
+        "handle": "GERMANIASPORT-AS"
+    },
+    "198785": {
+        "country_code": "HR",
+        "asn": "198785",
+        "description": "Sedmi Odjel d.o.o.",
+        "handle": "SEDMIODJEL-AS"
+    },
+    "199244": {
+        "country_code": "HR",
+        "asn": "199244",
+        "description": "Digital Realty Croatia Llc",
+        "handle": "ALTUS-AS"
+    },
+    "199401": {
+        "country_code": "HR",
+        "asn": "199401",
+        "description": "APIS IT d.o.o.",
+        "handle": "APISIT-AS"
+    },
+    "199433": {
+        "country_code": "HR",
+        "asn": "199433",
+        "description": "Koncar-Elektronika i informatika d.d.",
+        "handle": "INEM-AS"
+    },
+    "199565": {
+        "country_code": "HR",
+        "asn": "199565",
+        "description": "O TELEKOMUNIKACIJE d.o.o.",
+        "handle": "OTELEKOMUNIKACIJE-AS"
+    },
+    "200248": {
+        "country_code": "HR",
+        "asn": "200248",
+        "description": "M Plus Croatia d.o.o.",
+        "handle": "MPLUSCROATIA-AS"
+    },
+    "200929": {
+        "country_code": "HR",
+        "asn": "200929",
+        "description": "JADRAN - GALENSKI LABORATORIJ d. d.",
+        "handle": "JGL"
+    },
+    "200990": {
+        "country_code": "HR",
+        "asn": "200990",
+        "description": "Hrvatski operator prijenosnog sustava d.d.",
+        "handle": "HOPS"
+    },
+    "201563": {
+        "country_code": "HR",
+        "asn": "201563",
+        "description": "cyber Folks d.o.o",
+        "handle": "AVALON-AS"
+    },
+    "201850": {
+        "country_code": "HR",
+        "asn": "201850",
+        "description": "SUPER SPORT d.o.o.",
+        "handle": "SUPERSPORT-AS"
+    },
+    "201987": {
+        "country_code": "HR",
+        "asn": "201987",
+        "description": "EOLO Hrvatska d.d.",
+        "handle": "EOLODD"
+    },
+    "203254": {
+        "country_code": "HR",
+        "asn": "203254",
+        "description": "KTV net d.o.o.",
+        "handle": "KTVNET-AS"
+    },
+    "203271": {
+        "country_code": "HR",
+        "asn": "203271",
+        "description": "Antonio Anzil",
+        "handle": "ANZIL"
+    },
+    "203455": {
+        "country_code": "HR",
+        "asn": "203455",
+        "description": "Valsil d.o.o.",
+        "handle": "HR-VALSIL"
+    },
+    "203463": {
+        "country_code": "HR",
+        "asn": "203463",
+        "description": "ASEE SOLUTIONS d.o.o",
+        "handle": "ASSECOSEE-AS"
+    },
+    "203876": {
+        "country_code": "HR",
+        "asn": "203876",
+        "description": "PLINACRO d.o.o.",
+        "handle": "PLINACRO"
+    },
+    "203964": {
+        "country_code": "HR",
+        "asn": "203964",
+        "description": "4Tel Telekomunikacije d.o.o.",
+        "handle": "X4TEL-AS"
+    },
+    "204020": {
+        "country_code": "HR",
+        "asn": "204020",
+        "description": "Fenice Telekom Grupa d.o.o.",
+        "handle": "FENICE-AS"
+    },
+    "204083": {
+        "country_code": "HR",
+        "asn": "204083",
+        "description": "Telemach Hrvatska d.o.o.",
+        "handle": "HR-TOTALNA"
+    },
+    "204163": {
+        "country_code": "HR",
+        "asn": "204163",
+        "description": "Hrvatske vode",
+        "handle": "HRVATSKEVODE"
+    },
+    "204693": {
+        "country_code": "HR",
+        "asn": "204693",
+        "description": "Nikola Garafolic",
+        "handle": "GARAFOLIC"
+    },
+    "204709": {
+        "country_code": "HR",
+        "asn": "204709",
+        "description": "Telemach Hrvatska d.o.o.",
+        "handle": "HR-TOTALNA1"
+    },
+    "204808": {
+        "country_code": "HR",
+        "asn": "204808",
+        "description": "Inflexus d.o.o.",
+        "handle": "INFLX-AS"
+    },
+    "205246": {
+        "country_code": "HR",
+        "asn": "205246",
+        "description": "Barrage d.o.o.",
+        "handle": "CEREBROCLOUD"
+    },
+    "205607": {
+        "country_code": "HR",
+        "asn": "205607",
+        "description": "Zagrebacka banka d.d.",
+        "handle": "ZABA-AS"
+    },
+    "205707": {
+        "country_code": "HR",
+        "asn": "205707",
+        "description": "Login d.o.o.",
+        "handle": "LOGIN-AS"
+    },
+    "205714": {
+        "country_code": "HR",
+        "asn": "205714",
+        "description": "Telemach Hrvatska d.o.o.",
+        "handle": "TELE2HR"
+    },
+    "205774": {
+        "country_code": "HR",
+        "asn": "205774",
+        "description": "TONET d.o.o.",
+        "handle": "TONET"
+    },
+    "205895": {
+        "country_code": "HR",
+        "asn": "205895",
+        "description": "SETCOR d.o.o.",
+        "handle": "SETCOR"
+    },
+    "206233": {
+        "country_code": "HR",
+        "asn": "206233",
+        "description": "Business Computer Systems d.o.o.",
+        "handle": "BCS"
+    },
+    "206444": {
+        "country_code": "HR",
+        "asn": "206444",
+        "description": "Dubravko Vinkovic",
+        "handle": "REG-CUST-AS"
+    },
+    "206575": {
+        "country_code": "HR",
+        "asn": "206575",
+        "description": "DATABOX d.o.o.",
+        "handle": "DATABOX-AS"
+    },
+    "206808": {
+        "country_code": "HR",
+        "asn": "206808",
+        "description": "HEP-TELEKOMUNIKACIJE d.o.o.",
+        "handle": "HEPTK-CLOUD"
+    },
+    "206997": {
+        "country_code": "HR",
+        "asn": "206997",
+        "description": "Hrvatska narodna banka",
+        "handle": "HNB-AS"
+    },
+    "207004": {
+        "country_code": "HR",
+        "asn": "207004",
+        "description": "Tria d.o.o.",
+        "handle": "TRIA-AS"
+    },
+    "207102": {
+        "country_code": "HR",
+        "asn": "207102",
+        "description": "Telensa d.o.o.",
+        "handle": "INTERSAT"
+    },
+    "207348": {
+        "country_code": "HR",
+        "asn": "207348",
+        "description": "Tehnoline Telekom d.o.o.",
+        "handle": "TEHNOLINE-AS"
+    },
+    "207514": {
+        "country_code": "HR",
+        "asn": "207514",
+        "description": "Croatian Regulatory Authority for Network Industries",
+        "handle": "HAKOM"
+    },
+    "207517": {
+        "country_code": "HR",
+        "asn": "207517",
+        "description": "Hrvatski autoklub",
+        "handle": "HAK-AS"
+    },
+    "207541": {
+        "country_code": "HR",
+        "asn": "207541",
+        "description": "Eco Net d.o.o.",
+        "handle": "ECONET"
+    },
+    "207599": {
+        "country_code": "HR",
+        "asn": "207599",
+        "description": "Orbico d.o.o.",
+        "handle": "ORBICO-AS"
+    },
+    "207895": {
+        "country_code": "HR",
+        "asn": "207895",
+        "description": "Josip Sabolek",
+        "handle": "SUDOSTAR"
+    },
+    "208057": {
+        "country_code": "HR",
+        "asn": "208057",
+        "description": "Filip informatika d.o.o.",
+        "handle": "FILI-01"
+    },
+    "208225": {
+        "country_code": "HR",
+        "asn": "208225",
+        "description": "GlobalLogic Croatia d.o.o.",
+        "handle": "GLOBALLOGIC-HR-ZAG-AS"
+    },
+    "208764": {
+        "country_code": "HR",
+        "asn": "208764",
+        "description": "FRANZ NET d.o.o.",
+        "handle": "FRANZ-NET"
+    },
+    "208842": {
+        "country_code": "HR",
+        "asn": "208842",
+        "description": "Frano Jelincic trading as Konektor Brac",
+        "handle": "KONEKTORBRAC"
+    },
+    "208983": {
+        "country_code": "HR",
+        "asn": "208983",
+        "description": "RTL Hrvatska d.o.o.",
+        "handle": "RTLHR"
+    },
+    "208998": {
+        "country_code": "HR",
+        "asn": "208998",
+        "description": "Sredisnji drzavni ured za razvoj digitalnog drustva",
+        "handle": "RDD-AS"
+    },
+    "209174": {
+        "country_code": "HR",
+        "asn": "209174",
+        "description": "ADMIRAL .HR d.o.o.",
+        "handle": "ADMIRAL"
+    },
+    "209434": {
+        "country_code": "HR",
+        "asn": "209434",
+        "description": "Ericsson Nikola Tesla d.d.",
+        "handle": "ERICSSON-HR"
+    },
+    "209957": {
+        "country_code": "HR",
+        "asn": "209957",
+        "description": "Infigo IS d.o.o.",
+        "handle": "INFIGOIS-HR"
+    },
+    "210190": {
+        "country_code": "HR",
+        "asn": "210190",
+        "description": "NetLogic d.o.o.",
+        "handle": "NETLOGIC"
+    },
+    "210485": {
+        "country_code": "HR",
+        "asn": "210485",
+        "description": "General Logistics Systems Croatia d.o.o.",
+        "handle": "GLSHR-ASN"
+    },
+    "210486": {
+        "country_code": "HR",
+        "asn": "210486",
+        "description": "General Logistics Systems Croatia d.o.o.",
+        "handle": "GLSHR-ASN"
+    },
+    "210730": {
+        "country_code": "HR",
+        "asn": "210730",
+        "description": "Release14 d.o.o.",
+        "handle": "RELEASE14"
+    },
+    "210763": {
+        "country_code": "HR",
+        "asn": "210763",
+        "description": "Ured za podrsku d.o.o.",
+        "handle": "HR-BACKOFFICE"
+    },
+    "211133": {
+        "country_code": "HR",
+        "asn": "211133",
+        "description": "KING ICT d.o.o.",
+        "handle": "KINGICT-HR"
+    },
+    "211572": {
+        "country_code": "HR",
+        "asn": "211572",
+        "description": "Vrbovec Wireless",
+        "handle": "VRW-HR"
+    },
+    "211619": {
+        "country_code": "HR",
+        "asn": "211619",
+        "description": "MAXKO d.o.o.",
+        "handle": "MAXKO"
+    },
+    "212025": {
+        "country_code": "HR",
+        "asn": "212025",
+        "description": "Cukman Kresimir",
+        "handle": "CUKMAN-AS"
+    },
+    "212293": {
+        "country_code": "HR",
+        "asn": "212293",
+        "description": "Tehnomania d.o.o.",
+        "handle": "ASN-TEHNOMANIA"
+    },
+    "212550": {
+        "country_code": "HR",
+        "asn": "212550",
+        "description": "Sedmi Odjel d.o.o.",
+        "handle": "SEDMIODJEL-AS2"
+    },
+    "213325": {
+        "country_code": "HR",
+        "asn": "213325",
+        "description": "Denis Dokleja trading as Syshead",
+        "handle": "SYSHEAD-AS"
+    },
+    "213343": {
+        "country_code": "HR",
+        "asn": "213343",
+        "description": "Zagreb Stock Exchange Inc.",
+        "handle": "ZSE-AS"
+    },
+    "213405": {
+        "country_code": "HR",
+        "asn": "213405",
+        "description": "ING SERVIS d.o.o.",
+        "handle": "INGSERVIS"
+    },
+    "213419": {
+        "country_code": "HR",
+        "asn": "213419",
+        "description": "Furia DOO",
+        "handle": "FURIA"
+    },
+    "213420": {
+        "country_code": "HR",
+        "asn": "213420",
+        "description": "SL SOLUCIJE d.o.o.",
+        "handle": "SL-SOLUCIJE"
+    },
+    "213433": {
+        "country_code": "HR",
+        "asn": "213433",
+        "description": "STUDENAC d.o.o.",
+        "handle": "STUDENAC-AS"
+    },
+    "213904": {
+        "country_code": "HR",
+        "asn": "213904",
+        "description": "BUBA USLUGE d.o.o.",
+        "handle": "BU-HR"
+    },
+    "214057": {
+        "country_code": "HR",
+        "asn": "214057",
+        "description": "FINA gotovinski servisi d.o.o.",
+        "handle": "FINAGS"
+    },
+    "214099": {
+        "country_code": "HR",
+        "asn": "214099",
+        "description": "Digicom d.o.o.",
+        "handle": "DIGICOM"
+    },
+    "214427": {
+        "country_code": "HR",
+        "asn": "214427",
+        "description": "Netvis d.o.o.",
+        "handle": "HR-NETVIS"
+    },
+    "214688": {
+        "country_code": "HR",
+        "asn": "214688",
+        "description": "Hrvatska Lutrija d.o.o.",
+        "handle": "HRVATSKA-LUTRIJA-AS"
+    },
+    "214724": {
+        "country_code": "HR",
+        "asn": "214724",
+        "description": "OPTIMAR ADRIA d.o.o.",
+        "handle": "OPTIMAR"
+    },
+    "215916": {
+        "country_code": "HR",
+        "asn": "215916",
+        "description": "Josip Tisljar Matausic",
+        "handle": "JOSIP-TISLJAR-MATAUSIC"
+    },
+    "216457": {
+        "country_code": "HR",
+        "asn": "216457",
+        "description": "Pronect Technology LTD",
+        "handle": "PRONECT"
+    }
+}

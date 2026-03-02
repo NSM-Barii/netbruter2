@@ -1,0 +1,1334 @@
+{
+    "6400": {
+        "country_code": "DO",
+        "asn": "6400",
+        "description": "Compa\u00f1\u00eda Dominicana de Tel\u00e9fonos S. A.",
+        "handle": "COMPANIA-DOMINICANA-TELEFONOS"
+    },
+    "12066": {
+        "country_code": "DO",
+        "asn": "12066",
+        "description": "ALTICE DOMINICANA S.A.",
+        "handle": "ALTICE-DOMINICANA"
+    },
+    "27824": {
+        "country_code": "DO",
+        "asn": "27824",
+        "description": "ALTICE DOMINICANA S.A.",
+        "handle": "ALTICE-DOMINICANA"
+    },
+    "27847": {
+        "country_code": "DO",
+        "asn": "27847",
+        "description": "TECNOLOGIA DIGITAL S.A. (DGTEC)",
+        "handle": "TECNOLOGIA-DIGITAL"
+    },
+    "27887": {
+        "country_code": "DO",
+        "asn": "27887",
+        "description": "WIND Telecom S.A.",
+        "handle": "WIND-TELECOM"
+    },
+    "27896": {
+        "country_code": "DO",
+        "asn": "27896",
+        "description": "Trilogy Dominicana S.A.",
+        "handle": "TRILOGY-DOMINICANA"
+    },
+    "27991": {
+        "country_code": "DO",
+        "asn": "27991",
+        "description": "NETWORK ACCESS POINT DEL CARIBE - DR",
+        "handle": "NETWORK-ACCESS-POINT-CARIBE-DR"
+    },
+    "28045": {
+        "country_code": "DO",
+        "asn": "28045",
+        "description": "PACO Telecomunicaciones",
+        "handle": "PACO-TELECOMUNICACIONES"
+    },
+    "28053": {
+        "country_code": "DO",
+        "asn": "28053",
+        "description": "ONEMAX S.A.",
+        "handle": "ONEMAX"
+    },
+    "28115": {
+        "country_code": "DO",
+        "asn": "28115",
+        "description": "Direcci\u00f3n General de Aduanas",
+        "handle": "DIRECCION-GENERAL-ADUANAS"
+    },
+    "28118": {
+        "country_code": "DO",
+        "asn": "28118",
+        "description": "ALTICE DOMINICANA S.A.",
+        "handle": "ALTICE-DOMINICANA"
+    },
+    "46198": {
+        "country_code": "DO",
+        "asn": "46198",
+        "description": "Trilogy Dominicana S.A.",
+        "handle": "AS-TRILOGY-DOMINICANA"
+    },
+    "52412": {
+        "country_code": "DO",
+        "asn": "52412",
+        "description": "BW TELECOM SRL",
+        "handle": "BW-TELECOM"
+    },
+    "52471": {
+        "country_code": "DO",
+        "asn": "52471",
+        "description": "COLUMBUS NETWORKS DOMINICANA S.A.",
+        "handle": "COLUMBUS-NETWORKS-DOMINICANA"
+    },
+    "61477": {
+        "country_code": "DO",
+        "asn": "61477",
+        "description": "Indotel",
+        "handle": "INDOTEL"
+    },
+    "64125": {
+        "country_code": "DO",
+        "asn": "64125",
+        "description": "ISOC REPUBLICA DOMINICANA CAPITULO DOMINICANO DE LA INTERNET SOCIETY",
+        "handle": "ISOC-REPUBLICA-DOMINICANA"
+    },
+    "64126": {
+        "country_code": "DO",
+        "asn": "64126",
+        "description": "DOMINICAN TELECOM PRIME DTP S.R.L.",
+        "handle": "DOMINICAN-TELECOM-PRIME"
+    },
+    "64134": {
+        "country_code": "DO",
+        "asn": "64134",
+        "description": "VISNETWORK SRL",
+        "handle": "VISNETWORK"
+    },
+    "64153": {
+        "country_code": "DO",
+        "asn": "64153",
+        "description": "ADOTIC ASOCIACI\u00d3N DOMINICANA DE EMPRESAS DE TECNOLOG\u00cdAS DE INFORMACI\u00d3N Y COMUNICACI\u00d3N (STIX)",
+        "handle": "ADOTIC-ASOCIACION-DOMINICANA"
+    },
+    "64156": {
+        "country_code": "DO",
+        "asn": "64156",
+        "description": "Cable Atlantico SRL",
+        "handle": "CABLE-ATLANTICO"
+    },
+    "64168": {
+        "country_code": "DO",
+        "asn": "64168",
+        "description": "PUNTO DE INTERCAMBIO DE TRAFICO DOMINICANO PIT-DOMINICANO S.R.L.",
+        "handle": "PUNTO-INTERCAMBIO-TRAFICO"
+    },
+    "207036": {
+        "country_code": "DO",
+        "asn": "207036",
+        "description": "Ariel Antigua",
+        "handle": "AANETWORKS"
+    },
+    "262148": {
+        "country_code": "DO",
+        "asn": "262148",
+        "description": "Universidad APEC",
+        "handle": "UNIVERSIDAD-APEC"
+    },
+    "262178": {
+        "country_code": "DO",
+        "asn": "262178",
+        "description": "Pontificia Universidad Catolica Madre y Maestra (PUCMM)",
+        "handle": "PONTIFICIA-UNIVERSIDAD-CATOLICA"
+    },
+    "262221": {
+        "country_code": "DO",
+        "asn": "262221",
+        "description": "ESTRELA TELECOM",
+        "handle": "ESTRELA-TELECOM"
+    },
+    "262247": {
+        "country_code": "DO",
+        "asn": "262247",
+        "description": "Banco Popular Dominicano",
+        "handle": "BANCO-POPULAR-DOMINICANO"
+    },
+    "262931": {
+        "country_code": "DO",
+        "asn": "262931",
+        "description": "Servicios De Ti Dominicana Sc Sas",
+        "handle": "SERVICIOS-TI-DOMINICANA-SC"
+    },
+    "263212": {
+        "country_code": "DO",
+        "asn": "263212",
+        "description": "NETWORK ACCESS POINT DEL CARIBE - DR",
+        "handle": "NETWORK-ACCESS-POINT-CARIBE-DR"
+    },
+    "263216": {
+        "country_code": "DO",
+        "asn": "263216",
+        "description": "TELEIMAGEN SATELITAL",
+        "handle": "TELEIMAGEN-SATELITAL"
+    },
+    "263689": {
+        "country_code": "DO",
+        "asn": "263689",
+        "description": "Telecable Central S.A.",
+        "handle": "TELECABLE-CENTRAL"
+    },
+    "263723": {
+        "country_code": "DO",
+        "asn": "263723",
+        "description": "DRL MANUFACTURING SPM",
+        "handle": "DRL-MANUFACTURING-SPM"
+    },
+    "263730": {
+        "country_code": "DO",
+        "asn": "263730",
+        "description": "TELECABLE SABANETA SRL",
+        "handle": "TELECABLE-SABANETA"
+    },
+    "263748": {
+        "country_code": "DO",
+        "asn": "263748",
+        "description": "CONSORCIO DE TARJETAS DOMINICANAS S.A",
+        "handle": "CONSORCIO-TARJETAS-DOMINICANAS"
+    },
+    "264605": {
+        "country_code": "DO",
+        "asn": "264605",
+        "description": "TELEVIADUCTO S.R.L.",
+        "handle": "TELEVIADUCTO"
+    },
+    "264750": {
+        "country_code": "DO",
+        "asn": "264750",
+        "description": "TELEOPERADORA DEL NORDESTE S.R.L",
+        "handle": "TELEOPERADORA-NORDESTE"
+    },
+    "264817": {
+        "country_code": "DO",
+        "asn": "264817",
+        "description": "REFINERIA DOMINICANA DE PETROLEO PDV S.A",
+        "handle": "REFINERIA-DOMINICANA-PETROLEO"
+    },
+    "264821": {
+        "country_code": "DO",
+        "asn": "264821",
+        "description": "COMCAST-SRL",
+        "handle": "COMCAST"
+    },
+    "265695": {
+        "country_code": "DO",
+        "asn": "265695",
+        "description": "ELIAS COMUNICACIONES SRL",
+        "handle": "ELIAS-COMUNICACIONES"
+    },
+    "265721": {
+        "country_code": "DO",
+        "asn": "265721",
+        "description": "Cable Atlantico SRL",
+        "handle": "CABLE-ATLANTICO"
+    },
+    "265742": {
+        "country_code": "DO",
+        "asn": "265742",
+        "description": "CABLE DE LANCER SRL",
+        "handle": "CABLE-LANCER"
+    },
+    "266709": {
+        "country_code": "DO",
+        "asn": "266709",
+        "description": "Oficina Presidencial de la Tecnolog\u00edas de Informaci\u00f3n y Comunicaci\u00f3n",
+        "handle": "OFICINA-PRESIDENCIAL"
+    },
+    "266730": {
+        "country_code": "DO",
+        "asn": "266730",
+        "description": "CENTRAL SOLUTIONS TECHNOLOGY S.R.L.",
+        "handle": "CENTRAL-SOLUTIONS-TECHNOLOGY"
+    },
+    "266734": {
+        "country_code": "DO",
+        "asn": "266734",
+        "description": "TELEVISION POR CABLE S. R. L.",
+        "handle": "TELEVISION-POR-CABLE-S-R-L"
+    },
+    "266798": {
+        "country_code": "DO",
+        "asn": "266798",
+        "description": "UNE COMUNICACIONES SRL",
+        "handle": "UNE-COMUNICACIONES"
+    },
+    "266815": {
+        "country_code": "DO",
+        "asn": "266815",
+        "description": "Cable Del Norte S.R.L",
+        "handle": "CABLE-NORTE"
+    },
+    "267700": {
+        "country_code": "DO",
+        "asn": "267700",
+        "description": "GUESTCHOICE TV RD S.R.L",
+        "handle": "GUESTCHOICE-TV-RD"
+    },
+    "267705": {
+        "country_code": "DO",
+        "asn": "267705",
+        "description": "ORBIT CABLE S.A.",
+        "handle": "ORBIT-CABLE"
+    },
+    "267838": {
+        "country_code": "DO",
+        "asn": "267838",
+        "description": "GREENLINK SRL",
+        "handle": "GREENLINK"
+    },
+    "267845": {
+        "country_code": "DO",
+        "asn": "267845",
+        "description": "Exito Vision Cable S.A.S",
+        "handle": "EXITO-VISION-CABLE"
+    },
+    "267846": {
+        "country_code": "DO",
+        "asn": "267846",
+        "description": "Cable Onda Oriental SRL",
+        "handle": "CABLE-ONDA-ORIENTAL"
+    },
+    "267853": {
+        "country_code": "DO",
+        "asn": "267853",
+        "description": "Silver Lake Investments (Silver Cable)",
+        "handle": "SILVER-LAKE-INVESTMENTS"
+    },
+    "267862": {
+        "country_code": "DO",
+        "asn": "267862",
+        "description": "CABLEVISION DEL CARIBE EIRL",
+        "handle": "CABLEVISION-CARIBE-EIRL"
+    },
+    "267896": {
+        "country_code": "DO",
+        "asn": "267896",
+        "description": "Direccion General De Impuestos Internos",
+        "handle": "DIRECCION-GENERAL-IMPUESTOS"
+    },
+    "269816": {
+        "country_code": "DO",
+        "asn": "269816",
+        "description": "TELE MON S.R.L.",
+        "handle": "TELE-MON"
+    },
+    "269868": {
+        "country_code": "DO",
+        "asn": "269868",
+        "description": "WIFEET SRL",
+        "handle": "WIFEET"
+    },
+    "269908": {
+        "country_code": "DO",
+        "asn": "269908",
+        "description": "JOSE DIGITAL MEDIA DOMINICANA SRL",
+        "handle": "JOSE-DIGITAL-MEDIA"
+    },
+    "269921": {
+        "country_code": "DO",
+        "asn": "269921",
+        "description": "TELECABLE CENTRAL PUERTO PLATA PP S.R.L",
+        "handle": "TELECABLE-CENTRAL-PUERTO"
+    },
+    "269931": {
+        "country_code": "DO",
+        "asn": "269931",
+        "description": "WIRELESS MULTI SERVICE VARGAS CABRERA S. R. L",
+        "handle": "WIRELESS-MULTI-SERVICE"
+    },
+    "269950": {
+        "country_code": "DO",
+        "asn": "269950",
+        "description": "CABLE VISION E. GONZALEZ S.R.L.",
+        "handle": "CABLE-VISION-GONZALEZ"
+    },
+    "269965": {
+        "country_code": "DO",
+        "asn": "269965",
+        "description": "LIGHTWAVE S.R.L",
+        "handle": "LIGHTWAVE"
+    },
+    "269983": {
+        "country_code": "DO",
+        "asn": "269983",
+        "description": "ESQUIRE CORPORATE SERVICES S.R.L.",
+        "handle": "ESQUIRE-CORPORATE-SERVICES"
+    },
+    "270098": {
+        "country_code": "DO",
+        "asn": "270098",
+        "description": "WI-FI DOMINICANA E.I.R.L.",
+        "handle": "WI-FI-DOMINICANA-EIRL"
+    },
+    "270107": {
+        "country_code": "DO",
+        "asn": "270107",
+        "description": "DELTA COMUNICACIONES S.R.L.",
+        "handle": "DELTA-COMUNICACIONES"
+    },
+    "271799": {
+        "country_code": "DO",
+        "asn": "271799",
+        "description": "TELERY NETWORKS S.R.L",
+        "handle": "TELERY-NETWORKS"
+    },
+    "271804": {
+        "country_code": "DO",
+        "asn": "271804",
+        "description": "CABLEMAX C.X.A",
+        "handle": "CABLEMAX-CXA"
+    },
+    "271806": {
+        "country_code": "DO",
+        "asn": "271806",
+        "description": "MR Networking SRL",
+        "handle": "MR-NETWORKING"
+    },
+    "271808": {
+        "country_code": "DO",
+        "asn": "271808",
+        "description": "MONTECRISTI CABLE VISION SRL",
+        "handle": "MONTECRISTI-CABLE-VISION"
+    },
+    "271819": {
+        "country_code": "DO",
+        "asn": "271819",
+        "description": "RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA RGDIMAX S.R.L",
+        "handle": "RUDDY-GONZALEZ-DIGITAL"
+    },
+    "271834": {
+        "country_code": "DO",
+        "asn": "271834",
+        "description": "ISOC REPUBLICA DOMINICANA CAPITULO DOMINICANO DE LA INTERNET SOCIETY",
+        "handle": "ISOC-REPUBLICA-DOMINICANA"
+    },
+    "271898": {
+        "country_code": "DO",
+        "asn": "271898",
+        "description": "MKTEL SRL",
+        "handle": "MKTEL"
+    },
+    "271916": {
+        "country_code": "DO",
+        "asn": "271916",
+        "description": "TELECABLE BANILEJO S.R.L",
+        "handle": "TELECABLE-BANILEJO"
+    },
+    "271930": {
+        "country_code": "DO",
+        "asn": "271930",
+        "description": "XTERCOM S.R.L.",
+        "handle": "XTERCOM"
+    },
+    "271931": {
+        "country_code": "DO",
+        "asn": "271931",
+        "description": "MAO CABLE VISION S.R.L.",
+        "handle": "MAO-CABLE-VISION"
+    },
+    "271932": {
+        "country_code": "DO",
+        "asn": "271932",
+        "description": "FUN TECHNOLOGY S.R.L",
+        "handle": "FUN-TECHNOLOGY"
+    },
+    "271934": {
+        "country_code": "DO",
+        "asn": "271934",
+        "description": "HDCO GROUP SRL",
+        "handle": "HDCO-GROUP"
+    },
+    "271935": {
+        "country_code": "DO",
+        "asn": "271935",
+        "description": "AIRTIME TECHNOLOGY SRL",
+        "handle": "AIRTIME-TECHNOLOGY"
+    },
+    "271940": {
+        "country_code": "DO",
+        "asn": "271940",
+        "description": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA BANCO DE SERVICIOS MULTIPLES S.A",
+        "handle": "BANCO-RESERVAS"
+    },
+    "271942": {
+        "country_code": "DO",
+        "asn": "271942",
+        "description": "CV HOTSPOT S.R.L.",
+        "handle": "CV-HOTSPOT"
+    },
+    "271943": {
+        "country_code": "DO",
+        "asn": "271943",
+        "description": "WHITETELECOM S.R.L.",
+        "handle": "WHITETELECOM"
+    },
+    "271945": {
+        "country_code": "DO",
+        "asn": "271945",
+        "description": "AZTECA TELECOM S.R.L.",
+        "handle": "AZTECA-TELECOM"
+    },
+    "271950": {
+        "country_code": "DO",
+        "asn": "271950",
+        "description": "CABLEVISION JARABACOA SRL",
+        "handle": "CABLEVISION-JARABACOA"
+    },
+    "271956": {
+        "country_code": "DO",
+        "asn": "271956",
+        "description": "GRUPO ARMARFA SRL",
+        "handle": "GRUPO-ARMARFA"
+    },
+    "271959": {
+        "country_code": "DO",
+        "asn": "271959",
+        "description": "BANCO MULTIPLE BHD LEON SA",
+        "handle": "BANCO-MULTIPLE-BHD-LEON"
+    },
+    "271965": {
+        "country_code": "DO",
+        "asn": "271965",
+        "description": "ORBITEK SRL",
+        "handle": "ORBITEK"
+    },
+    "271968": {
+        "country_code": "DO",
+        "asn": "271968",
+        "description": "CENTRIC MOBILITY (CEMO) S.R.L",
+        "handle": "CENTRIC-MOBILITY"
+    },
+    "271978": {
+        "country_code": "DO",
+        "asn": "271978",
+        "description": "LINARES TECHNOLOGY SRL",
+        "handle": "LINARES-TECHNOLOGY"
+    },
+    "271979": {
+        "country_code": "DO",
+        "asn": "271979",
+        "description": "INSTALACION DE REDES DE TELECOMUNICACIONES SRL (IREDETCOM)",
+        "handle": "INSTALACION-REDES-TELECOMUNICACIONES"
+    },
+    "271982": {
+        "country_code": "DO",
+        "asn": "271982",
+        "description": "TELEVISION PUNTO I COMUNICACIONES S.R.L.",
+        "handle": "TELEVISION-PUNTO-I"
+    },
+    "271988": {
+        "country_code": "DO",
+        "asn": "271988",
+        "description": "ISRAEL DE LOS SANTOS WIFI SRL",
+        "handle": "ISRAEL-LOS-SANTOS-WIFI"
+    },
+    "271989": {
+        "country_code": "DO",
+        "asn": "271989",
+        "description": "WALCOM ES LA RED WMPP SRL",
+        "handle": "WALCOM-ES-LA-RED-WMPP"
+    },
+    "271996": {
+        "country_code": "DO",
+        "asn": "271996",
+        "description": "WILLNET SRL",
+        "handle": "WILLNET"
+    },
+    "272011": {
+        "country_code": "DO",
+        "asn": "272011",
+        "description": "TELEMARCH S.R.L",
+        "handle": "TELEMARCH"
+    },
+    "272015": {
+        "country_code": "DO",
+        "asn": "272015",
+        "description": "INVERSIONES BONAFER SRL",
+        "handle": "INVERSIONES-BONAFER"
+    },
+    "272027": {
+        "country_code": "DO",
+        "asn": "272027",
+        "description": "LAUAM MEGARED TELECOM S.R.L.",
+        "handle": "LAUAM-MEGARED-TELECOM"
+    },
+    "272040": {
+        "country_code": "DO",
+        "asn": "272040",
+        "description": "SERVICIOS NU\u00d1EZ EIRL",
+        "handle": "SERVICIOS-NUNEZ-EIRL"
+    },
+    "272054": {
+        "country_code": "DO",
+        "asn": "272054",
+        "description": "MUNDO1TELECOM S.R.L.",
+        "handle": "MUNDO1TELECOM"
+    },
+    "272055": {
+        "country_code": "DO",
+        "asn": "272055",
+        "description": "UNIVEGACOMU DEL CARIBE SRL",
+        "handle": "UNIVEGACOMU-CARIBE"
+    },
+    "272057": {
+        "country_code": "DO",
+        "asn": "272057",
+        "description": "DERIVALNET Y COMUNICACIONES SRL",
+        "handle": "DERIVALNET-COMUNICACIONES"
+    },
+    "272069": {
+        "country_code": "DO",
+        "asn": "272069",
+        "description": "KONEX TELECOM S.R.L",
+        "handle": "KONEX-TELECOM"
+    },
+    "272070": {
+        "country_code": "DO",
+        "asn": "272070",
+        "description": "INGENIERIA EN SERVICIOS DE TELECOMUNICACIONES AGML SRL",
+        "handle": "INGENIERIA-SERVICIOS-TELECOMUNICACIONES"
+    },
+    "272073": {
+        "country_code": "DO",
+        "asn": "272073",
+        "description": "SILKGLOBAL DOMINICANA SRL",
+        "handle": "SILKGLOBAL-DOMINICANA"
+    },
+    "272082": {
+        "country_code": "DO",
+        "asn": "272082",
+        "description": "JARM TELECOMUNICACIONES SRL",
+        "handle": "JARM-TELECOMUNICACIONES"
+    },
+    "272083": {
+        "country_code": "DO",
+        "asn": "272083",
+        "description": "REYNOSO S.R.L.",
+        "handle": "REYNOSO"
+    },
+    "272091": {
+        "country_code": "DO",
+        "asn": "272091",
+        "description": "YUP TELECOM SRL",
+        "handle": "YUP-TELECOM"
+    },
+    "272095": {
+        "country_code": "DO",
+        "asn": "272095",
+        "description": "AWD NETWORKS S.R.L.",
+        "handle": "AWD-NETWORKS"
+    },
+    "272110": {
+        "country_code": "DO",
+        "asn": "272110",
+        "description": "FENIX NETWORKS S.R.L.",
+        "handle": "FENIX-NETWORKS"
+    },
+    "272112": {
+        "country_code": "DO",
+        "asn": "272112",
+        "description": "TELECABLE DOMINICANO S.A.",
+        "handle": "TELECABLE-DOMINICANO"
+    },
+    "272120": {
+        "country_code": "DO",
+        "asn": "272120",
+        "description": "SIIA SRL",
+        "handle": "SERVICIOS-INTERCONEXION-INALAMBRICA"
+    },
+    "272123": {
+        "country_code": "DO",
+        "asn": "272123",
+        "description": "WORLD CABLE RED S.R.L.",
+        "handle": "WORLD-CABLE-RED"
+    },
+    "272132": {
+        "country_code": "DO",
+        "asn": "272132",
+        "description": "TELE-COTUI S.R.L.",
+        "handle": "TELE-COTUI"
+    },
+    "272138": {
+        "country_code": "DO",
+        "asn": "272138",
+        "description": "RENOCA GROUP SRL",
+        "handle": "RENOCA-GROUP"
+    },
+    "272148": {
+        "country_code": "DO",
+        "asn": "272148",
+        "description": "GRUPO CAS-PK S.R.L.",
+        "handle": "GRUPO-CAS-PK"
+    },
+    "272149": {
+        "country_code": "DO",
+        "asn": "272149",
+        "description": "DLD SERVICIO SRL",
+        "handle": "DLD-SERVICIO"
+    },
+    "272797": {
+        "country_code": "DO",
+        "asn": "272797",
+        "description": "DSI DOMINICANA S.R.L",
+        "handle": "DSI-DOMINICANA"
+    },
+    "272798": {
+        "country_code": "DO",
+        "asn": "272798",
+        "description": "Tesla Comunicaciones SRL",
+        "handle": "TESLA-COMUNICACIONES"
+    },
+    "272804": {
+        "country_code": "DO",
+        "asn": "272804",
+        "description": "LISH TECHNOLOGY SRL",
+        "handle": "LISH-TECHNOLOGY"
+    },
+    "272807": {
+        "country_code": "DO",
+        "asn": "272807",
+        "description": "TELECABLE PUERTO PLATA SRL",
+        "handle": "TELECABLE-PUERTO-PLATA"
+    },
+    "272813": {
+        "country_code": "DO",
+        "asn": "272813",
+        "description": "IMPLEMENTECH SRL",
+        "handle": "IMPLEMENTECH"
+    },
+    "272822": {
+        "country_code": "DO",
+        "asn": "272822",
+        "description": "JEMNETWORKS S.R.L.",
+        "handle": "JEMNETWORKS"
+    },
+    "272831": {
+        "country_code": "DO",
+        "asn": "272831",
+        "description": "NEW WORLD TELECOMMUNICATIONS NWT SRLS",
+        "handle": "NEW-WORLD-TELECOMMUNICATIONS"
+    },
+    "272867": {
+        "country_code": "DO",
+        "asn": "272867",
+        "description": "EXATECH COMPUTER SRL",
+        "handle": "EXATECH-COMPUTER"
+    },
+    "272868": {
+        "country_code": "DO",
+        "asn": "272868",
+        "description": "SEQURE NETWORKS SRL",
+        "handle": "SEQURE-NETWORKS"
+    },
+    "272882": {
+        "country_code": "DO",
+        "asn": "272882",
+        "description": "BITNET DOMINICANA S.R.L.",
+        "handle": "BITNET-DOMINICANA"
+    },
+    "272886": {
+        "country_code": "DO",
+        "asn": "272886",
+        "description": "SERVIMAST JPM SRL",
+        "handle": "SERVIMAST-JPM"
+    },
+    "272887": {
+        "country_code": "DO",
+        "asn": "272887",
+        "description": "TURBOCOM TELECOM SRL",
+        "handle": "TURBOCOM-TELECOM"
+    },
+    "272899": {
+        "country_code": "DO",
+        "asn": "272899",
+        "description": "PUNTOCALL LORA COMMUNICATIONS DOMINICANA S.R.L.",
+        "handle": "PUNTOCALL-LORA-COMMUNICATIONS"
+    },
+    "272906": {
+        "country_code": "DO",
+        "asn": "272906",
+        "description": "LIBERTY TECHNOLOGY SRL",
+        "handle": "LIBERTY-TECHNOLOGY"
+    },
+    "272908": {
+        "country_code": "DO",
+        "asn": "272908",
+        "description": "HILTEC SRL",
+        "handle": "HILTEC"
+    },
+    "272911": {
+        "country_code": "DO",
+        "asn": "272911",
+        "description": "FALCO TELECOM S.R.L.",
+        "handle": "FALCO-TELECOM"
+    },
+    "272935": {
+        "country_code": "DO",
+        "asn": "272935",
+        "description": "GB TELECORP DOMINICANA S.R.L",
+        "handle": "GB-TELECORP-DOMINICANA"
+    },
+    "272943": {
+        "country_code": "DO",
+        "asn": "272943",
+        "description": "OPENCONNECTION FERNANDEZ S.R.L",
+        "handle": "OPENCONNECTION-FERNANDEZ"
+    },
+    "272960": {
+        "country_code": "DO",
+        "asn": "272960",
+        "description": "TRANSFIBER COMUNICATION GROUP SRL",
+        "handle": "TRANSFIBER-COMUNICATION-GROUP"
+    },
+    "272962": {
+        "country_code": "DO",
+        "asn": "272962",
+        "description": "KW SERVICES RD S.R.L.",
+        "handle": "KW-SERVICES-RD"
+    },
+    "272971": {
+        "country_code": "DO",
+        "asn": "272971",
+        "description": "NET LINK DOMINICANA EMIMAR SRL",
+        "handle": "NET-LINK-DOMINICANA-EMIMAR"
+    },
+    "272980": {
+        "country_code": "DO",
+        "asn": "272980",
+        "description": "WAYCOM S.R.L.",
+        "handle": "WAYCOM"
+    },
+    "272985": {
+        "country_code": "DO",
+        "asn": "272985",
+        "description": "INVERSIONES SOINPRO S.R.L.",
+        "handle": "INVERSIONES-SOINPRO"
+    },
+    "273009": {
+        "country_code": "DO",
+        "asn": "273009",
+        "description": "NEXTELECOM S.R.L.",
+        "handle": "NEXTELECOM"
+    },
+    "273048": {
+        "country_code": "DO",
+        "asn": "273048",
+        "description": "WIMAS S.R.L.",
+        "handle": "WIMAS"
+    },
+    "273070": {
+        "country_code": "DO",
+        "asn": "273070",
+        "description": "HELLOFIBRA SERVICES PE\u00d1A S.R.L.",
+        "handle": "HELLOFIBRA-SERVICES-PENA"
+    },
+    "273089": {
+        "country_code": "DO",
+        "asn": "273089",
+        "description": "LIRECOM GROUP S.R.L.",
+        "handle": "LIRECOM-GROUP"
+    },
+    "273113": {
+        "country_code": "DO",
+        "asn": "273113",
+        "description": "ONERED JWG532 SRL",
+        "handle": "ONERED-JWG532"
+    },
+    "273121": {
+        "country_code": "DO",
+        "asn": "273121",
+        "description": "TELECABLE EL LIMON SRL",
+        "handle": "TELECABLE-EL-LIMON"
+    },
+    "273157": {
+        "country_code": "DO",
+        "asn": "273157",
+        "description": "CORPORACI\u00d3N DE COMUNICACIONES Y TELEFON\u00cdA TUR\u00cdSTICA JUANILLO S.A.",
+        "handle": "CORPORACION-COMUNICACIONES-TELEFONIA"
+    },
+    "273158": {
+        "country_code": "DO",
+        "asn": "273158",
+        "description": "INTERSAT DOMINICANA SRL",
+        "handle": "INTERSAT-DOMINICANA"
+    },
+    "273162": {
+        "country_code": "DO",
+        "asn": "273162",
+        "description": "PELLEGRINI SKYNET SOLUTIONS SRL",
+        "handle": "PELLEGRINI-SKYNET-SOLUTIONS"
+    },
+    "273180": {
+        "country_code": "DO",
+        "asn": "273180",
+        "description": "THREE NETWORKS SRL",
+        "handle": "THREE-NETWORKS"
+    },
+    "273198": {
+        "country_code": "DO",
+        "asn": "273198",
+        "description": "RODRIGUEZ CABLEVISION SRL",
+        "handle": "RODRIGUEZ-CABLEVISION"
+    },
+    "273199": {
+        "country_code": "DO",
+        "asn": "273199",
+        "description": "PIRAX VELAZQUEZ S.R.L.",
+        "handle": "PIRAX-VELAZQUEZ"
+    },
+    "273217": {
+        "country_code": "DO",
+        "asn": "273217",
+        "description": "ACOLME TECH SRL",
+        "handle": "ACOLME-TECH"
+    },
+    "273220": {
+        "country_code": "DO",
+        "asn": "273220",
+        "description": "GRUPO FILPO S.R.L.",
+        "handle": "GRUPO-FILPO"
+    },
+    "273224": {
+        "country_code": "DO",
+        "asn": "273224",
+        "description": "BRAVIC SRL",
+        "handle": "BRAVIC"
+    },
+    "273230": {
+        "country_code": "DO",
+        "asn": "273230",
+        "description": "SDI DOMINICANA S.R.L.",
+        "handle": "SDI-DOMINICANA"
+    },
+    "273231": {
+        "country_code": "DO",
+        "asn": "273231",
+        "description": "SIMPLYNET SRL",
+        "handle": "SIMPLYNET"
+    },
+    "273235": {
+        "country_code": "DO",
+        "asn": "273235",
+        "description": "Hardnet SRL",
+        "handle": "HARDNET"
+    },
+    "273242": {
+        "country_code": "DO",
+        "asn": "273242",
+        "description": "PUNTO DE INTERCAMBIO DE TRAFICO DOMINICANO PIT-DOMINICANO S.R.L.",
+        "handle": "PUNTO-INTERCAMBIO-TRAFICO"
+    },
+    "273824": {
+        "country_code": "DO",
+        "asn": "273824",
+        "description": "NEXERCOM SRL",
+        "handle": "NEXERCOM"
+    },
+    "273836": {
+        "country_code": "DO",
+        "asn": "273836",
+        "description": "REY CONNECT SRL",
+        "handle": "REY-CONNECT"
+    },
+    "273838": {
+        "country_code": "DO",
+        "asn": "273838",
+        "description": "VILLANET BY JAQUEZ ARNAUT SRL",
+        "handle": "VILLANET-BY-JAQUEZ-ARNAUT"
+    },
+    "273844": {
+        "country_code": "DO",
+        "asn": "273844",
+        "description": "VALNET WIRELESS S.R.L.",
+        "handle": "VALNET-WIRELESS"
+    },
+    "273861": {
+        "country_code": "DO",
+        "asn": "273861",
+        "description": "FASTNET SOLUTIONS SRL",
+        "handle": "FASTNET-SOLUTIONS"
+    },
+    "273864": {
+        "country_code": "DO",
+        "asn": "273864",
+        "description": "AARONKA DOMINICANA SRL",
+        "handle": "AARONKA-DOMINICANA"
+    },
+    "273866": {
+        "country_code": "DO",
+        "asn": "273866",
+        "description": "TELECABLE SANCHEZ SRL",
+        "handle": "TELECABLE-SANCHEZ"
+    },
+    "273867": {
+        "country_code": "DO",
+        "asn": "273867",
+        "description": "ADOTIC ASOCIACI\u00d3N DOMINICANA DE EMPRESAS DE TECNOLOG\u00cdAS DE INFORMACI\u00d3N Y COMUNICACI\u00d3N (STIX)",
+        "handle": "ADOTIC-ASOCIACION-DOMINICANA"
+    },
+    "273901": {
+        "country_code": "DO",
+        "asn": "273901",
+        "description": "ENSAR DOMINICANA S.R.L",
+        "handle": "ENSAR-DOMINICANA"
+    },
+    "273902": {
+        "country_code": "DO",
+        "asn": "273902",
+        "description": "CONECTIVIDAD DEL CARIBE CONECAR SRL",
+        "handle": "CONECTIVIDAD-CARIBE-CONECAR"
+    },
+    "273909": {
+        "country_code": "DO",
+        "asn": "273909",
+        "description": "GENIOS SOLUCIONES SRL",
+        "handle": "GENIOS-SOLUCIONES"
+    },
+    "273917": {
+        "country_code": "DO",
+        "asn": "273917",
+        "description": "2 LIGHTS CONEXI\u00d3N S.R.L.",
+        "handle": "2-LIGHTS-CONEXION"
+    },
+    "273924": {
+        "country_code": "DO",
+        "asn": "273924",
+        "description": "UNBITEL SRL",
+        "handle": "UNBITEL"
+    },
+    "273925": {
+        "country_code": "DO",
+        "asn": "273925",
+        "description": "LEONTE & SAULY NETWORK SOLUTIONS SRL",
+        "handle": "LEONTE-SAULY-NETWORK"
+    },
+    "273927": {
+        "country_code": "DO",
+        "asn": "273927",
+        "description": "OPTILINK DOMINICANA SRL",
+        "handle": "OPTILINK-DOMINICANA"
+    },
+    "273937": {
+        "country_code": "DO",
+        "asn": "273937",
+        "description": "SERVICIOS TECNOLOGICOS PABLO MELLA MORALES SRL",
+        "handle": "SERVICIOS-TECNOLOGICOS-PABLO"
+    },
+    "273948": {
+        "country_code": "DO",
+        "asn": "273948",
+        "description": "SONICO COMUNICACIONES SRL",
+        "handle": "SONICO-COMUNICACIONES"
+    },
+    "273954": {
+        "country_code": "DO",
+        "asn": "273954",
+        "description": "FIBER57 TECHNOLOGY SRL",
+        "handle": "FIBER57-TECHNOLOGY"
+    },
+    "273960": {
+        "country_code": "DO",
+        "asn": "273960",
+        "description": "TELECABLE INTERNACIONAL TAMBORIL SRL",
+        "handle": "TELECABLE-INTERNACIONAL-TAMBORIL"
+    },
+    "273961": {
+        "country_code": "DO",
+        "asn": "273961",
+        "description": "LUDWIN GROUP COMPANY SRL",
+        "handle": "LUDWIN-GROUP-COMPANY"
+    },
+    "273964": {
+        "country_code": "DO",
+        "asn": "273964",
+        "description": "IMANTEL IMAGENES DEL NORTE TELECOMUNICACIONES S.R.L.",
+        "handle": "IMANTEL-IMAGENES-NORTE"
+    },
+    "273967": {
+        "country_code": "DO",
+        "asn": "273967",
+        "description": "TELEVISION INTERNACIONAL POR CABLE (TELEINCA) S.R.L",
+        "handle": "TELEVISION-INTERNACIONAL-POR"
+    },
+    "273975": {
+        "country_code": "DO",
+        "asn": "273975",
+        "description": "TELECABLE SAMANA S.R.L",
+        "handle": "TELECABLE-SAMANA"
+    },
+    "273982": {
+        "country_code": "DO",
+        "asn": "273982",
+        "description": "ELS INTER TELECOMUNICACIONES S.R.L.",
+        "handle": "ELS-INTER-TELECOMUNICACIONES"
+    },
+    "274027": {
+        "country_code": "DO",
+        "asn": "274027",
+        "description": "ABELCO EMPRESARIAL SRL",
+        "handle": "ABELCO-EMPRESARIAL"
+    },
+    "274035": {
+        "country_code": "DO",
+        "asn": "274035",
+        "description": "ARCOFIBER CONEXIONES SRL (RODRITEL)",
+        "handle": "ARCOFIBER-CONEXIONES"
+    },
+    "274037": {
+        "country_code": "DO",
+        "asn": "274037",
+        "description": "VICCOM SRL",
+        "handle": "VICCOM"
+    },
+    "274040": {
+        "country_code": "DO",
+        "asn": "274040",
+        "description": "ARTEL DOMINICANA SRL",
+        "handle": "ARTEL-DOMINICANA"
+    },
+    "274048": {
+        "country_code": "DO",
+        "asn": "274048",
+        "description": "VARGAS JAMPOL TELECOMUNICACIONES SRL",
+        "handle": "VARGAS-JAMPOL-TELECOMUNICACIONES"
+    },
+    "274052": {
+        "country_code": "DO",
+        "asn": "274052",
+        "description": "SERVICIOS INTEGRALES PARA TELECOMUNICACION SERVITELECOM SRL",
+        "handle": "SERVICIOS-INTEGRALES-PARA"
+    },
+    "274068": {
+        "country_code": "DO",
+        "asn": "274068",
+        "description": "WNM CONEXION Y SEGURIDAD DE DATOS S.R.L.",
+        "handle": "WNM-CONEXION-SEGURIDAD"
+    },
+    "274069": {
+        "country_code": "DO",
+        "asn": "274069",
+        "description": "PERSIL SERVICIOS MULTIPLES SRL",
+        "handle": "PERSIL-SERVICIOS-MULTIPLES"
+    },
+    "274070": {
+        "country_code": "DO",
+        "asn": "274070",
+        "description": "Soluciones de Networking Amin Moran SRL",
+        "handle": "SOLUCIONES-NETWORKING-AMIN"
+    },
+    "274072": {
+        "country_code": "DO",
+        "asn": "274072",
+        "description": "SumaTech SRL",
+        "handle": "SUMATECH"
+    },
+    "274078": {
+        "country_code": "DO",
+        "asn": "274078",
+        "description": "JIMENEZ Y DIAZ COMUNICACIONES DEL CARIBE S.R.L.",
+        "handle": "JIMENEZ-DIAZ-COMUNICACIONES"
+    },
+    "274084": {
+        "country_code": "DO",
+        "asn": "274084",
+        "description": "OWS OPTIMUM WIRELESS SERVICES S.R.L.",
+        "handle": "OWS-OPTIMUM-WIRELESS"
+    },
+    "274089": {
+        "country_code": "DO",
+        "asn": "274089",
+        "description": "AlfaServi S.R.L",
+        "handle": "ALFASERVI"
+    },
+    "274091": {
+        "country_code": "DO",
+        "asn": "274091",
+        "description": "DMR WIRELESS S.R.L.",
+        "handle": "DMR-WIRELESS"
+    },
+    "274093": {
+        "country_code": "DO",
+        "asn": "274093",
+        "description": "SOLUCIONES LIVEN S.R.L",
+        "handle": "SOLUCIONES-LIVEN"
+    },
+    "274095": {
+        "country_code": "DO",
+        "asn": "274095",
+        "description": "YNS PARTNERS EIRL",
+        "handle": "YNS-PARTNERS-EIRL"
+    },
+    "274104": {
+        "country_code": "DO",
+        "asn": "274104",
+        "description": "KING WIFI K NETWORK EIRL",
+        "handle": "KING-WIFI-K-NETWORK-EIRL"
+    },
+    "274105": {
+        "country_code": "DO",
+        "asn": "274105",
+        "description": "ANTHONELY TECNOLOGY SYSTEM SRL",
+        "handle": "ANTHONELY-TECNOLOGY-SYSTEM"
+    },
+    "274107": {
+        "country_code": "DO",
+        "asn": "274107",
+        "description": "INCONET TELECOM SRL",
+        "handle": "INCONET-TELECOM"
+    },
+    "274123": {
+        "country_code": "DO",
+        "asn": "274123",
+        "description": "GLOBAL INVERNET SRL",
+        "handle": "GLOBAL-INVERNET"
+    },
+    "274129": {
+        "country_code": "DO",
+        "asn": "274129",
+        "description": "ABITAVERAS WIRELESS S.R.L.",
+        "handle": "ABITAVERAS-WIRELESS"
+    },
+    "274130": {
+        "country_code": "DO",
+        "asn": "274130",
+        "description": "ASHM COMUNICACIONES SRL",
+        "handle": "ASHM-COMUNICACIONES"
+    },
+    "274153": {
+        "country_code": "DO",
+        "asn": "274153",
+        "description": "DIOSNAEL TELECOMUNICACIONES SRL",
+        "handle": "DIOSNAEL-TELECOMUNICACIONES"
+    },
+    "274157": {
+        "country_code": "DO",
+        "asn": "274157",
+        "description": "URANO INTERNET URANET SRL",
+        "handle": "URANO-INTERNET-URANET"
+    },
+    "274159": {
+        "country_code": "DO",
+        "asn": "274159",
+        "description": "GURYFOY GLOBAL SRL",
+        "handle": "GURYFOY-GLOBAL"
+    },
+    "274167": {
+        "country_code": "DO",
+        "asn": "274167",
+        "description": "DOMINICANA INTERNET EXCHANGE DOIX",
+        "handle": "DOMINICANA-INTERNET-EXCHANGE"
+    },
+    "274168": {
+        "country_code": "DO",
+        "asn": "274168",
+        "description": "DIGITAL SATELITE LR S.R.L.",
+        "handle": "DIGITAL-SATELITE-LR"
+    },
+    "274170": {
+        "country_code": "DO",
+        "asn": "274170",
+        "description": "INTERNET FACIL M.R. S.R.L",
+        "handle": "INTERNET-FACIL-MR"
+    },
+    "274190": {
+        "country_code": "DO",
+        "asn": "274190",
+        "description": "ZIGTECDOM SRL",
+        "handle": "ZIGTECDOM"
+    },
+    "274192": {
+        "country_code": "DO",
+        "asn": "274192",
+        "description": "TELECABLE EL CERCADO S.R.L.",
+        "handle": "TELECABLE-EL-CERCADO"
+    },
+    "274204": {
+        "country_code": "DO",
+        "asn": "274204",
+        "description": "TELEVISION POR CABLE DEL OESTE EN JIMANI SRL",
+        "handle": "TELEVISION-POR-CABLE"
+    },
+    "274213": {
+        "country_code": "DO",
+        "asn": "274213",
+        "description": "OZYMANDIAS COMPANY SRL",
+        "handle": "OZYMANDIAS-COMPANY"
+    },
+    "274214": {
+        "country_code": "DO",
+        "asn": "274214",
+        "description": "GUAO IMPORT S.R.L.",
+        "handle": "GUAO-IMPORT"
+    },
+    "274224": {
+        "country_code": "DO",
+        "asn": "274224",
+        "description": "TELE-CABLE COMPOSTELA SRL",
+        "handle": "TELE-CABLE-COMPOSTELA"
+    },
+    "274257": {
+        "country_code": "DO",
+        "asn": "274257",
+        "description": "CASTILLO FM SRL (Global Internet)",
+        "handle": "CASTILLO-FM"
+    },
+    "274266": {
+        "country_code": "DO",
+        "asn": "274266",
+        "description": "FIBERCOM DOMINICANA SRL",
+        "handle": "FIBERCOM-DOMINICANA"
+    },
+    "274267": {
+        "country_code": "DO",
+        "asn": "274267",
+        "description": "FIBEX TELECOM SRL",
+        "handle": "FIBEX-TELECOM"
+    },
+    "274271": {
+        "country_code": "DO",
+        "asn": "274271",
+        "description": "Interlink Telecom SRL",
+        "handle": "INTERLINK-TELECOM"
+    },
+    "274290": {
+        "country_code": "DO",
+        "asn": "274290",
+        "description": "YEYA WIFIL SRL",
+        "handle": "YEYA-WIFIL"
+    },
+    "274304": {
+        "country_code": "DO",
+        "asn": "274304",
+        "description": "MESHLINK S.R.L",
+        "handle": "MESHLINK"
+    },
+    "274324": {
+        "country_code": "DO",
+        "asn": "274324",
+        "description": "WIAR TECHNOLOGIES SRL",
+        "handle": "WIAR-TECHNOLOGIES"
+    },
+    "274326": {
+        "country_code": "DO",
+        "asn": "274326",
+        "description": "INTERNET AVALO SUA SRL",
+        "handle": "INTERNET-AVALO-SUA"
+    },
+    "274328": {
+        "country_code": "DO",
+        "asn": "274328",
+        "description": "GSE DOMINICANA S.R.L",
+        "handle": "GSE-DOMINICANA"
+    }
+}

@@ -1,0 +1,2822 @@
+{
+    "692": {
+        "country_code": "DK",
+        "asn": "692",
+        "description": "CuroTec ApS",
+        "handle": "DK-CUROTEC"
+    },
+    "2109": {
+        "country_code": "DK",
+        "asn": "2109",
+        "description": "TDC Holding A/S",
+        "handle": "TDC"
+    },
+    "2603": {
+        "country_code": "DK",
+        "asn": "2603",
+        "description": "NORDUnet",
+        "handle": "NORDUNET"
+    },
+    "3240": {
+        "country_code": "DK",
+        "asn": "3240",
+        "description": "Styrelsen for it og laering",
+        "handle": "SEKTORNET"
+    },
+    "3272": {
+        "country_code": "DK",
+        "asn": "3272",
+        "description": "Fujitsu Services A/S",
+        "handle": "FUJITSU-SERVICES-AS"
+    },
+    "3292": {
+        "country_code": "DK",
+        "asn": "3292",
+        "description": "TDC Holding A/S",
+        "handle": "TDC"
+    },
+    "3321": {
+        "country_code": "DK",
+        "asn": "3321",
+        "description": "SYNIVERSE TECHNOLOGIES MESSAGING ApS",
+        "handle": "SYNIVERSE-TECHNOLOGIES-MESSAGING-APS"
+    },
+    "3342": {
+        "country_code": "DK",
+        "asn": "3342",
+        "description": "Cibicom A/S",
+        "handle": "CIBICOM-IP-NETWORK"
+    },
+    "5491": {
+        "country_code": "DK",
+        "asn": "5491",
+        "description": "Jan Olsson",
+        "handle": "OLSSON-NET"
+    },
+    "5599": {
+        "country_code": "DK",
+        "asn": "5599",
+        "description": "Verizon Denmark A/S",
+        "handle": "UUNET-DK"
+    },
+    "5624": {
+        "country_code": "DK",
+        "asn": "5624",
+        "description": "DXC Technology Danmark A/S",
+        "handle": "AS5624"
+    },
+    "6785": {
+        "country_code": "DK",
+        "asn": "6785",
+        "description": "Telenor A/S",
+        "handle": "CYBERCITY"
+    },
+    "6811": {
+        "country_code": "DK",
+        "asn": "6811",
+        "description": "Verizon Denmark A/S",
+        "handle": "VERIZON-DENMARK-AS"
+    },
+    "6834": {
+        "country_code": "DK",
+        "asn": "6834",
+        "description": "KMD A/S",
+        "handle": "AS6834"
+    },
+    "8273": {
+        "country_code": "DK",
+        "asn": "8273",
+        "description": "Norlys Digital A/S",
+        "handle": "DK-STOFANET-AS"
+    },
+    "8322": {
+        "country_code": "DK",
+        "asn": "8322",
+        "description": "TDC Holding A/S",
+        "handle": "TDC"
+    },
+    "8502": {
+        "country_code": "DK",
+        "asn": "8502",
+        "description": "Adeo Datacenter ApS",
+        "handle": "ADEO"
+    },
+    "8526": {
+        "country_code": "DK",
+        "asn": "8526",
+        "description": "TDC Holding A/S",
+        "handle": "TDC"
+    },
+    "8989": {
+        "country_code": "DK",
+        "asn": "8989",
+        "description": "Nuuday A/S",
+        "handle": "NUUDAY-IP-SERVICE-LAYER"
+    },
+    "9120": {
+        "country_code": "DK",
+        "asn": "9120",
+        "description": "Keepit A/S",
+        "handle": "KEEPIT-DK-CPH"
+    },
+    "9158": {
+        "country_code": "DK",
+        "asn": "9158",
+        "description": "Telenor A/S",
+        "handle": "TELENOR-DANMARK-AS"
+    },
+    "9171": {
+        "country_code": "DK",
+        "asn": "9171",
+        "description": "Awaze A/S",
+        "handle": "NOVASOL"
+    },
+    "12483": {
+        "country_code": "DK",
+        "asn": "12483",
+        "description": "Den Danske Bank A/S",
+        "handle": "DANSKEBANK-AS"
+    },
+    "12617": {
+        "country_code": "DK",
+        "asn": "12617",
+        "description": "Sentia Denmark A/S",
+        "handle": "SOLIDO-NET"
+    },
+    "12834": {
+        "country_code": "DK",
+        "asn": "12834",
+        "description": "Danfoss A/S",
+        "handle": "DANFOSS-AS"
+    },
+    "13057": {
+        "country_code": "DK",
+        "asn": "13057",
+        "description": "A.P. MOLLER - MAERSK A/S",
+        "handle": "AP-MOLLER-MAERSK-AS"
+    },
+    "15411": {
+        "country_code": "DK",
+        "asn": "15411",
+        "description": "International N&H Denmark ApS",
+        "handle": "DANISCO"
+    },
+    "15423": {
+        "country_code": "DK",
+        "asn": "15423",
+        "description": "A.P. MOLLER - MAERSK A/S",
+        "handle": "MAERSK"
+    },
+    "15459": {
+        "country_code": "DK",
+        "asn": "15459",
+        "description": "VIKING LIFE-SAVING EQUIPMENT A/S",
+        "handle": "VIKING-LIFE"
+    },
+    "15516": {
+        "country_code": "DK",
+        "asn": "15516",
+        "description": "DKTV A/S",
+        "handle": "DK-DANSKKABELTV"
+    },
+    "15687": {
+        "country_code": "DK",
+        "asn": "15687",
+        "description": "Aeven A/S",
+        "handle": "AS15687"
+    },
+    "16095": {
+        "country_code": "DK",
+        "asn": "16095",
+        "description": "Sentia Denmark A/S",
+        "handle": "JAYNET"
+    },
+    "16245": {
+        "country_code": "DK",
+        "asn": "16245",
+        "description": "Sentia Denmark A/S",
+        "handle": "NGDC"
+    },
+    "20618": {
+        "country_code": "DK",
+        "asn": "20618",
+        "description": "Info-Connect A/S",
+        "handle": "DK-INFO-CONNECT"
+    },
+    "20681": {
+        "country_code": "DK",
+        "asn": "20681",
+        "description": "Saxo Bank A/S",
+        "handle": "SAXOBANK"
+    },
+    "20984": {
+        "country_code": "DK",
+        "asn": "20984",
+        "description": "DSV A/S",
+        "handle": "PANALPINA-AS"
+    },
+    "21060": {
+        "country_code": "DK",
+        "asn": "21060",
+        "description": "Atea A/S",
+        "handle": "ASN-ATEA-DK"
+    },
+    "21456": {
+        "country_code": "DK",
+        "asn": "21456",
+        "description": "Kvadrat AS",
+        "handle": "KVADRAT-DK"
+    },
+    "21465": {
+        "country_code": "DK",
+        "asn": "21465",
+        "description": "ERGO Forsikring A/S",
+        "handle": "EUROPAEISKE-AS"
+    },
+    "24584": {
+        "country_code": "DK",
+        "asn": "24584",
+        "description": "Dentsu Danmark A/S",
+        "handle": "AEGIS"
+    },
+    "24800": {
+        "country_code": "DK",
+        "asn": "24800",
+        "description": "BornFiber Service Provider ApS",
+        "handle": "BORNFIBER"
+    },
+    "24853": {
+        "country_code": "DK",
+        "asn": "24853",
+        "description": "DBC DIGITAL A/S",
+        "handle": "DBC-AS"
+    },
+    "24969": {
+        "country_code": "DK",
+        "asn": "24969",
+        "description": "Itm8 A/S",
+        "handle": "DIR-AS"
+    },
+    "25111": {
+        "country_code": "DK",
+        "asn": "25111",
+        "description": "Coloplast A/S",
+        "handle": "COLOPLAST-AS"
+    },
+    "25352": {
+        "country_code": "DK",
+        "asn": "25352",
+        "description": "H B H Trade Center v/Henrik Bo Hansen",
+        "handle": "GUARDIAN-NETWORKS"
+    },
+    "25384": {
+        "country_code": "DK",
+        "asn": "25384",
+        "description": "Kyndryl Danmark ApS",
+        "handle": "DMDATA-AS"
+    },
+    "28717": {
+        "country_code": "DK",
+        "asn": "28717",
+        "description": "GlobalConnect A/S",
+        "handle": "GLOBALCONNECT-AS28717"
+    },
+    "28826": {
+        "country_code": "DK",
+        "asn": "28826",
+        "description": "Bupa Denmark Services A S",
+        "handle": "IHI-DK"
+    },
+    "29100": {
+        "country_code": "DK",
+        "asn": "29100",
+        "description": "Sagitta ApS",
+        "handle": "BROADCOMDK"
+    },
+    "29139": {
+        "country_code": "DK",
+        "asn": "29139",
+        "description": "A.P. MOLLER - MAERSK A/S",
+        "handle": "SCL-AS"
+    },
+    "29156": {
+        "country_code": "DK",
+        "asn": "29156",
+        "description": "DXC Technology Danmark A/S",
+        "handle": "AS29156"
+    },
+    "29266": {
+        "country_code": "DK",
+        "asn": "29266",
+        "description": "DR",
+        "handle": "DANMARKS-RADIO-AS"
+    },
+    "29331": {
+        "country_code": "DK",
+        "asn": "29331",
+        "description": "Forsikringens Datacenter A/S",
+        "handle": "FDC-NETWORK"
+    },
+    "29542": {
+        "country_code": "DK",
+        "asn": "29542",
+        "description": "GlobalConnect A/S",
+        "handle": "DANSKETELECOM-AS"
+    },
+    "30736": {
+        "country_code": "DK",
+        "asn": "30736",
+        "description": "Asergo Holding ApS",
+        "handle": "ASERGO-AS"
+    },
+    "30772": {
+        "country_code": "DK",
+        "asn": "30772",
+        "description": "LEO Pharma A/S",
+        "handle": "LEONET"
+    },
+    "31027": {
+        "country_code": "DK",
+        "asn": "31027",
+        "description": "GlobalConnect A/S",
+        "handle": "GLOBALCONNECT-AS31027"
+    },
+    "31131": {
+        "country_code": "DK",
+        "asn": "31131",
+        "description": "GRUNDFOS HOLDING A/S",
+        "handle": "GRUNDFOS-AS"
+    },
+    "31590": {
+        "country_code": "DK",
+        "asn": "31590",
+        "description": "Rackhosting.com ApS",
+        "handle": "RACKHOSTING-AS"
+    },
+    "31709": {
+        "country_code": "DK",
+        "asn": "31709",
+        "description": "Cortex Consult A/S",
+        "handle": "ASCOMPARE"
+    },
+    "33796": {
+        "country_code": "DK",
+        "asn": "33796",
+        "description": "BOLIGNET-AARHUS F.M.B.A.",
+        "handle": "BNAA-AS"
+    },
+    "33916": {
+        "country_code": "DK",
+        "asn": "33916",
+        "description": "Comflex Networks ApS",
+        "handle": "ASCOMFLEX"
+    },
+    "34027": {
+        "country_code": "DK",
+        "asn": "34027",
+        "description": "FORBRUGER-KONTAKT A/S",
+        "handle": "FK-DISTRIBUTION"
+    },
+    "34165": {
+        "country_code": "DK",
+        "asn": "34165",
+        "description": "Novaram ApS",
+        "handle": "LOGIQIT-APS"
+    },
+    "34482": {
+        "country_code": "DK",
+        "asn": "34482",
+        "description": "TDC Holding A/S",
+        "handle": "NUUDAY"
+    },
+    "34506": {
+        "country_code": "DK",
+        "asn": "34506",
+        "description": "Dagrofa ApS",
+        "handle": "SUPERGROS"
+    },
+    "34670": {
+        "country_code": "DK",
+        "asn": "34670",
+        "description": "Skatteforvaltningen",
+        "handle": "SKATTEFORVALTNINGEN"
+    },
+    "34705": {
+        "country_code": "DK",
+        "asn": "34705",
+        "description": "Norlys Digital A/S",
+        "handle": "SYDFYN"
+    },
+    "34848": {
+        "country_code": "DK",
+        "asn": "34848",
+        "description": "J2 Global Denmark A/S",
+        "handle": "COMENDO-AS"
+    },
+    "34932": {
+        "country_code": "DK",
+        "asn": "34932",
+        "description": "GlobalConnect A/S",
+        "handle": "GLOBALCONNECT-TESTLAB-DKDE"
+    },
+    "35028": {
+        "country_code": "DK",
+        "asn": "35028",
+        "description": "Unity Technologies ApS",
+        "handle": "MULTIPLAY"
+    },
+    "35033": {
+        "country_code": "DK",
+        "asn": "35033",
+        "description": "Fujitsu Services A/S",
+        "handle": "FUJITSU-AS"
+    },
+    "35158": {
+        "country_code": "DK",
+        "asn": "35158",
+        "description": "Dansk Net A/S",
+        "handle": "DANSKNET"
+    },
+    "35376": {
+        "country_code": "DK",
+        "asn": "35376",
+        "description": "EWII Bredbaand A/S",
+        "handle": "TRE-FOR-BREDBAAND-AS"
+    },
+    "35589": {
+        "country_code": "DK",
+        "asn": "35589",
+        "description": "GlobalConnect A/S",
+        "handle": "NIANET-AS-L3-CUST"
+    },
+    "35637": {
+        "country_code": "DK",
+        "asn": "35637",
+        "description": "WAOO A/S",
+        "handle": "SMILECONTENT-AS"
+    },
+    "35678": {
+        "country_code": "DK",
+        "asn": "35678",
+        "description": "IST ApS",
+        "handle": "TYPOCONSULT"
+    },
+    "35789": {
+        "country_code": "DK",
+        "asn": "35789",
+        "description": "Gribskov Kommune",
+        "handle": "HELSINGEKOMMUNE"
+    },
+    "35817": {
+        "country_code": "DK",
+        "asn": "35817",
+        "description": "Herningsholm Erhvervsskole & Gymnasier S/I",
+        "handle": "HERNINGSHOLM-AS"
+    },
+    "39026": {
+        "country_code": "DK",
+        "asn": "39026",
+        "description": "ABENA DATA ApS",
+        "handle": "ABENADATAASN"
+    },
+    "39500": {
+        "country_code": "DK",
+        "asn": "39500",
+        "description": "Frode Laursen A/S",
+        "handle": "FLAURSEN-AS"
+    },
+    "39554": {
+        "country_code": "DK",
+        "asn": "39554",
+        "description": "Nuuday A/S",
+        "handle": "FULLRATE"
+    },
+    "39590": {
+        "country_code": "DK",
+        "asn": "39590",
+        "description": "NORDUnet",
+        "handle": "NDGF"
+    },
+    "39642": {
+        "country_code": "DK",
+        "asn": "39642",
+        "description": "Norlys Digital A/S",
+        "handle": "NORLYS-FIBERNET"
+    },
+    "39672": {
+        "country_code": "DK",
+        "asn": "39672",
+        "description": "DSV A/S",
+        "handle": "DSV"
+    },
+    "39839": {
+        "country_code": "DK",
+        "asn": "39839",
+        "description": "Punktum dk A/S",
+        "handle": "DK-PUNKTUM"
+    },
+    "39880": {
+        "country_code": "DK",
+        "asn": "39880",
+        "description": "Thomas Kruse",
+        "handle": "AS-THOMASKRUSE-DK"
+    },
+    "41014": {
+        "country_code": "DK",
+        "asn": "41014",
+        "description": "Topdanmark EDB A/S",
+        "handle": "TOPDANMARK-AS"
+    },
+    "41016": {
+        "country_code": "DK",
+        "asn": "41016",
+        "description": "Kilroy International A/S",
+        "handle": "KTI-AS"
+    },
+    "41076": {
+        "country_code": "DK",
+        "asn": "41076",
+        "description": "Post Danmark A/S",
+        "handle": "POSTDK-AS"
+    },
+    "41240": {
+        "country_code": "DK",
+        "asn": "41240",
+        "description": "ALM. Brand Forsikring A/S",
+        "handle": "SE-ALMBRAND"
+    },
+    "41306": {
+        "country_code": "DK",
+        "asn": "41306",
+        "description": "Toender Kommune",
+        "handle": "TK-AS"
+    },
+    "41629": {
+        "country_code": "DK",
+        "asn": "41629",
+        "description": "DSV A/S",
+        "handle": "DSV"
+    },
+    "41707": {
+        "country_code": "DK",
+        "asn": "41707",
+        "description": "A.P. MOLLER - MAERSK A/S",
+        "handle": "ASN-HSDG-DE"
+    },
+    "41741": {
+        "country_code": "DK",
+        "asn": "41741",
+        "description": "Nets Denmark A/S",
+        "handle": "BBS-AS"
+    },
+    "41746": {
+        "country_code": "DK",
+        "asn": "41746",
+        "description": "DSB (SOV)",
+        "handle": "DSB"
+    },
+    "41795": {
+        "country_code": "DK",
+        "asn": "41795",
+        "description": "Orsted Services A/S",
+        "handle": "ORSTED-AS"
+    },
+    "42236": {
+        "country_code": "DK",
+        "asn": "42236",
+        "description": "Itm8 A/S",
+        "handle": "ITM8-AS"
+    },
+    "42355": {
+        "country_code": "DK",
+        "asn": "42355",
+        "description": "Sinal A/S",
+        "handle": "JAN-CHRILLESEN"
+    },
+    "42418": {
+        "country_code": "DK",
+        "asn": "42418",
+        "description": "team.blue Denmark A/S",
+        "handle": "TEAM-BLUE-DENMARK"
+    },
+    "42525": {
+        "country_code": "DK",
+        "asn": "42525",
+        "description": "GlobalConnect A/S",
+        "handle": "GLOBALCONNECT-AS42525"
+    },
+    "42541": {
+        "country_code": "DK",
+        "asn": "42541",
+        "description": "Fiberby ApS",
+        "handle": "FIBERBY"
+    },
+    "42553": {
+        "country_code": "DK",
+        "asn": "42553",
+        "description": "Fionia IT ApS",
+        "handle": "ENAVN-AS"
+    },
+    "42638": {
+        "country_code": "DK",
+        "asn": "42638",
+        "description": "James Hansen trading as Netvaerkssmeden",
+        "handle": "NETVAERKSSMEDEN"
+    },
+    "42659": {
+        "country_code": "DK",
+        "asn": "42659",
+        "description": "WELLTEC A/S",
+        "handle": "AS-WELLTEC"
+    },
+    "42686": {
+        "country_code": "DK",
+        "asn": "42686",
+        "description": "Blue IT Aps",
+        "handle": "BLUEIT"
+    },
+    "42697": {
+        "country_code": "DK",
+        "asn": "42697",
+        "description": "Netic A/S",
+        "handle": "NETIC-AS"
+    },
+    "42789": {
+        "country_code": "DK",
+        "asn": "42789",
+        "description": "GVD Antenneforening",
+        "handle": "GVDNET"
+    },
+    "42876": {
+        "country_code": "DK",
+        "asn": "42876",
+        "description": "Unit IT Services ApS",
+        "handle": "UNIT-IT-SERVICES-APS"
+    },
+    "42888": {
+        "country_code": "DK",
+        "asn": "42888",
+        "description": "COWI A/S",
+        "handle": "MANNVIT-AS"
+    },
+    "42903": {
+        "country_code": "DK",
+        "asn": "42903",
+        "description": "Itm8 A/S",
+        "handle": "PROGRESSIVE-AS"
+    },
+    "43088": {
+        "country_code": "DK",
+        "asn": "43088",
+        "description": "Itm8 A/S",
+        "handle": "HOSTCENTER-AS"
+    },
+    "43167": {
+        "country_code": "DK",
+        "asn": "43167",
+        "description": "Fynske Medier P/S",
+        "handle": "FYNSKEMEDIER-AS"
+    },
+    "43196": {
+        "country_code": "DK",
+        "asn": "43196",
+        "description": "Sinal A/S",
+        "handle": "TMN-AS"
+    },
+    "43220": {
+        "country_code": "DK",
+        "asn": "43220",
+        "description": "team.blue Denmark A/S",
+        "handle": "TEAM-BLUE-NORWAY"
+    },
+    "43337": {
+        "country_code": "DK",
+        "asn": "43337",
+        "description": "SB service og LollandsNet",
+        "handle": "LOLLANDS-NET-SBS-SERVICE"
+    },
+    "43557": {
+        "country_code": "DK",
+        "asn": "43557",
+        "description": "Sinal A/S",
+        "handle": "ASEMNET"
+    },
+    "43790": {
+        "country_code": "DK",
+        "asn": "43790",
+        "description": "Frode Laursen A/S",
+        "handle": "FL-L2-AS"
+    },
+    "43806": {
+        "country_code": "DK",
+        "asn": "43806",
+        "description": "Region Sjaelland",
+        "handle": "DK-REGSJ"
+    },
+    "43869": {
+        "country_code": "DK",
+        "asn": "43869",
+        "description": "Udenrigsministeriet",
+        "handle": "DK-UM"
+    },
+    "43986": {
+        "country_code": "DK",
+        "asn": "43986",
+        "description": "Kromann Reumert I/S",
+        "handle": "KROMANNREUMERT"
+    },
+    "44134": {
+        "country_code": "DK",
+        "asn": "44134",
+        "description": "BOLIGNET A/S",
+        "handle": "BOLIGNET-AS"
+    },
+    "44328": {
+        "country_code": "DK",
+        "asn": "44328",
+        "description": "Region Syddanmark",
+        "handle": "REGION-SYDDANMARK"
+    },
+    "44338": {
+        "country_code": "DK",
+        "asn": "44338",
+        "description": "COWI A/S",
+        "handle": "COWI-AS"
+    },
+    "44398": {
+        "country_code": "DK",
+        "asn": "44398",
+        "description": "Itm8 A/S",
+        "handle": "ITM8-AS"
+    },
+    "44433": {
+        "country_code": "DK",
+        "asn": "44433",
+        "description": "Atea A/S",
+        "handle": "ASN-ATEA-DK"
+    },
+    "44508": {
+        "country_code": "DK",
+        "asn": "44508",
+        "description": "GlobalConnect A/S",
+        "handle": "GLOBALCONNECT-TESTLAB-NETWORK"
+    },
+    "44803": {
+        "country_code": "DK",
+        "asn": "44803",
+        "description": "Webdock.io ApS",
+        "handle": "WEBDOCK-AS"
+    },
+    "44869": {
+        "country_code": "DK",
+        "asn": "44869",
+        "description": "FIBIA P/S",
+        "handle": "FIBIA-P-S"
+    },
+    "45024": {
+        "country_code": "DK",
+        "asn": "45024",
+        "description": "Bo data ApS",
+        "handle": "PARTNERIT-AS"
+    },
+    "45032": {
+        "country_code": "DK",
+        "asn": "45032",
+        "description": "Fab:IT ApS",
+        "handle": "FABIT-AS"
+    },
+    "47173": {
+        "country_code": "DK",
+        "asn": "47173",
+        "description": "House4iT A/S",
+        "handle": "HOUSE4IT"
+    },
+    "47198": {
+        "country_code": "DK",
+        "asn": "47198",
+        "description": "Genmab A/S",
+        "handle": "GENMAB"
+    },
+    "47199": {
+        "country_code": "DK",
+        "asn": "47199",
+        "description": "Freeway ApS",
+        "handle": "FREEWAY"
+    },
+    "47249": {
+        "country_code": "DK",
+        "asn": "47249",
+        "description": "Ringsted Kommune",
+        "handle": "RINGSTED"
+    },
+    "47289": {
+        "country_code": "DK",
+        "asn": "47289",
+        "description": "Volvido Hosting Aps",
+        "handle": "ASVOLVIDO"
+    },
+    "47292": {
+        "country_code": "DK",
+        "asn": "47292",
+        "description": "Sentia Denmark A/S",
+        "handle": "SENTIA"
+    },
+    "47304": {
+        "country_code": "DK",
+        "asn": "47304",
+        "description": "NEF Fonden",
+        "handle": "ASNEW"
+    },
+    "47454": {
+        "country_code": "DK",
+        "asn": "47454",
+        "description": "60 North ApS",
+        "handle": "SXTNORTH"
+    },
+    "47501": {
+        "country_code": "DK",
+        "asn": "47501",
+        "description": "eTarg Media ApS",
+        "handle": "ETARG-AS"
+    },
+    "47527": {
+        "country_code": "DK",
+        "asn": "47527",
+        "description": "DLX A/S",
+        "handle": "DLX-AS"
+    },
+    "47715": {
+        "country_code": "DK",
+        "asn": "47715",
+        "description": "Valeo ApS",
+        "handle": "ASPECTNET"
+    },
+    "47765": {
+        "country_code": "DK",
+        "asn": "47765",
+        "description": "Danmarks Statistik",
+        "handle": "STATISTICSDENMARK"
+    },
+    "48288": {
+        "country_code": "DK",
+        "asn": "48288",
+        "description": "EWII Bredbaand A/S",
+        "handle": "EWII"
+    },
+    "48374": {
+        "country_code": "DK",
+        "asn": "48374",
+        "description": "MH HOLDING AF 1. JUNI 2009 ApS",
+        "handle": "GOBLER-AS"
+    },
+    "48564": {
+        "country_code": "DK",
+        "asn": "48564",
+        "description": "Dstny A/S",
+        "handle": "DSTNY-DENMARK"
+    },
+    "48726": {
+        "country_code": "DK",
+        "asn": "48726",
+        "description": "EET Group A/S",
+        "handle": "EETNORDIC"
+    },
+    "48805": {
+        "country_code": "DK",
+        "asn": "48805",
+        "description": "Blue Water Shipping A/S",
+        "handle": "BWS-AS"
+    },
+    "48854": {
+        "country_code": "DK",
+        "asn": "48854",
+        "description": "team.blue Denmark A/S",
+        "handle": "TEAM-BLUE-DENMARK"
+    },
+    "49010": {
+        "country_code": "DK",
+        "asn": "49010",
+        "description": "Herning Kommune",
+        "handle": "HERNING-KOMMUNE-AS"
+    },
+    "49051": {
+        "country_code": "DK",
+        "asn": "49051",
+        "description": "GreenHost ApS",
+        "handle": "GREENHOSTAPS"
+    },
+    "49309": {
+        "country_code": "DK",
+        "asn": "49309",
+        "description": "Aeven A/S",
+        "handle": "AS49309"
+    },
+    "49362": {
+        "country_code": "DK",
+        "asn": "49362",
+        "description": "DSV A/S",
+        "handle": "DSV"
+    },
+    "49417": {
+        "country_code": "DK",
+        "asn": "49417",
+        "description": "eTarg Media ApS",
+        "handle": "DK-ETARG-AS"
+    },
+    "49475": {
+        "country_code": "DK",
+        "asn": "49475",
+        "description": "Wingmen Solutions ApS",
+        "handle": "WINGMEN"
+    },
+    "49514": {
+        "country_code": "DK",
+        "asn": "49514",
+        "description": "2FAST A/S",
+        "handle": "TWOFAST-DK"
+    },
+    "49522": {
+        "country_code": "DK",
+        "asn": "49522",
+        "description": "INDUSTRIENS PENSIONSFORSIKRING A/S",
+        "handle": "INDUSTRIENS-PENSIONS"
+    },
+    "49630": {
+        "country_code": "DK",
+        "asn": "49630",
+        "description": "TN HOSTING ApS",
+        "handle": "TN-HOSTING"
+    },
+    "49930": {
+        "country_code": "DK",
+        "asn": "49930",
+        "description": "Itm8 A/S",
+        "handle": "JDM"
+    },
+    "49974": {
+        "country_code": "DK",
+        "asn": "49974",
+        "description": "Bo data ApS",
+        "handle": "BODATA"
+    },
+    "50021": {
+        "country_code": "DK",
+        "asn": "50021",
+        "description": "Sentia Denmark A/S",
+        "handle": "PHD-APS"
+    },
+    "50134": {
+        "country_code": "DK",
+        "asn": "50134",
+        "description": "FTZ Autodele og Vaerktoej A/S",
+        "handle": "FTZ"
+    },
+    "50323": {
+        "country_code": "DK",
+        "asn": "50323",
+        "description": "LEGO System A/S",
+        "handle": "LEGO-AS"
+    },
+    "50346": {
+        "country_code": "DK",
+        "asn": "50346",
+        "description": "IT FORUM GRUPPEN A/S",
+        "handle": "SUPPORT-IT"
+    },
+    "50364": {
+        "country_code": "DK",
+        "asn": "50364",
+        "description": "Sipato ApS",
+        "handle": "SIPATO"
+    },
+    "50457": {
+        "country_code": "DK",
+        "asn": "50457",
+        "description": "Itm8 A/S",
+        "handle": "ITRELATION-AS"
+    },
+    "50490": {
+        "country_code": "DK",
+        "asn": "50490",
+        "description": "Sinal A/S",
+        "handle": "EM-FIBERBREDBAAND-AS"
+    },
+    "50630": {
+        "country_code": "DK",
+        "asn": "50630",
+        "description": "Advanced Industries Packaging A/S",
+        "handle": "AIP-AS"
+    },
+    "50708": {
+        "country_code": "DK",
+        "asn": "50708",
+        "description": "Firstcom Europe A/S",
+        "handle": "FIRSTCOM-AS"
+    },
+    "50757": {
+        "country_code": "DK",
+        "asn": "50757",
+        "description": "Nuuday A/S",
+        "handle": "NUUDAY-IP-CORE"
+    },
+    "50783": {
+        "country_code": "DK",
+        "asn": "50783",
+        "description": "JP/Politikens Hus A/S",
+        "handle": "JPPOL"
+    },
+    "51000": {
+        "country_code": "DK",
+        "asn": "51000",
+        "description": "BEUMER Group A/S",
+        "handle": "CRISPLANT"
+    },
+    "51008": {
+        "country_code": "DK",
+        "asn": "51008",
+        "description": "Nuuday A/S",
+        "handle": "NUUDAY-IP-CORE-LAB"
+    },
+    "51049": {
+        "country_code": "DK",
+        "asn": "51049",
+        "description": "Pensionkassernes Administration A/S",
+        "handle": "PKA-AS"
+    },
+    "51073": {
+        "country_code": "DK",
+        "asn": "51073",
+        "description": "Aarhus Business College",
+        "handle": "AARHUS-KOEBMANDSSKOLE"
+    },
+    "51251": {
+        "country_code": "DK",
+        "asn": "51251",
+        "description": "Atea A/S",
+        "handle": "ASN-ATEA-DK"
+    },
+    "51377": {
+        "country_code": "DK",
+        "asn": "51377",
+        "description": "CoMaSys ApS",
+        "handle": "COMASYS"
+    },
+    "51468": {
+        "country_code": "DK",
+        "asn": "51468",
+        "description": "One.com A/S",
+        "handle": "ONECOM"
+    },
+    "51482": {
+        "country_code": "DK",
+        "asn": "51482",
+        "description": "Banedanmark",
+        "handle": "BANEDANMARK-AS"
+    },
+    "51510": {
+        "country_code": "DK",
+        "asn": "51510",
+        "description": "DFDS A/S",
+        "handle": "DFDS-AS"
+    },
+    "51595": {
+        "country_code": "DK",
+        "asn": "51595",
+        "description": "NTT Data Business Solutions A/S",
+        "handle": "NDBSN-AS"
+    },
+    "51608": {
+        "country_code": "DK",
+        "asn": "51608",
+        "description": "FLSmidth A/S",
+        "handle": "FLSMIDTH-AS"
+    },
+    "56496": {
+        "country_code": "DK",
+        "asn": "56496",
+        "description": "TV 2 Danmark A/S",
+        "handle": "TV2-DANMARK"
+    },
+    "57030": {
+        "country_code": "DK",
+        "asn": "57030",
+        "description": "Itm8 A/S",
+        "handle": "DK-MENTORIT"
+    },
+    "57087": {
+        "country_code": "DK",
+        "asn": "57087",
+        "description": "JYSK A/S",
+        "handle": "JYSK"
+    },
+    "57189": {
+        "country_code": "DK",
+        "asn": "57189",
+        "description": "eTarg Media ApS",
+        "handle": "DK-ETARG-AS"
+    },
+    "57247": {
+        "country_code": "DK",
+        "asn": "57247",
+        "description": "Stratu A/S",
+        "handle": "MOTUS"
+    },
+    "57347": {
+        "country_code": "DK",
+        "asn": "57347",
+        "description": "eTarg Media ApS",
+        "handle": "DK-ETARG-ASN"
+    },
+    "57720": {
+        "country_code": "DK",
+        "asn": "57720",
+        "description": "Wrist Ship Supply A/S",
+        "handle": "DK-OWGROUP-AS"
+    },
+    "57735": {
+        "country_code": "DK",
+        "asn": "57735",
+        "description": "Sinal A/S",
+        "handle": "HEF-FIBERNET-AS"
+    },
+    "57736": {
+        "country_code": "DK",
+        "asn": "57736",
+        "description": "Holstebro Kommune",
+        "handle": "HOLSTEBRO-KOMMUNE"
+    },
+    "57819": {
+        "country_code": "DK",
+        "asn": "57819",
+        "description": "eTarg Media ApS",
+        "handle": "ASSISTEMA"
+    },
+    "57860": {
+        "country_code": "DK",
+        "asn": "57860",
+        "description": "Zencurity ApS",
+        "handle": "ZENCURITY-NET"
+    },
+    "58111": {
+        "country_code": "DK",
+        "asn": "58111",
+        "description": "VESTAS WIND SYSTEMS A/S",
+        "handle": "VESTASDK-AS"
+    },
+    "58282": {
+        "country_code": "DK",
+        "asn": "58282",
+        "description": "Statens IT",
+        "handle": "STATENSIT"
+    },
+    "59469": {
+        "country_code": "DK",
+        "asn": "59469",
+        "description": "Sentia Denmark A/S",
+        "handle": "SOLIDO-NETWORKS"
+    },
+    "59626": {
+        "country_code": "DK",
+        "asn": "59626",
+        "description": "Conscia Danmark A/S",
+        "handle": "CONSCIA"
+    },
+    "59700": {
+        "country_code": "DK",
+        "asn": "59700",
+        "description": "Nordjyllands Trafikselskab I/S",
+        "handle": "NJTS"
+    },
+    "59701": {
+        "country_code": "DK",
+        "asn": "59701",
+        "description": "NetNordic Denmark A/S",
+        "handle": "LYTZENIT"
+    },
+    "59979": {
+        "country_code": "DK",
+        "asn": "59979",
+        "description": "Daniel Stjernholm Andersen trading as Klein-Data",
+        "handle": "KLEIN-DATA-AS"
+    },
+    "60111": {
+        "country_code": "DK",
+        "asn": "60111",
+        "description": "ASOM-Net Forening",
+        "handle": "ASOM-NET"
+    },
+    "60153": {
+        "country_code": "DK",
+        "asn": "60153",
+        "description": "Inpadi ApS",
+        "handle": "INPADI"
+    },
+    "60166": {
+        "country_code": "DK",
+        "asn": "60166",
+        "description": "eTarg Media ApS",
+        "handle": "BGBILOTIL-AS"
+    },
+    "60247": {
+        "country_code": "DK",
+        "asn": "60247",
+        "description": "Labitat",
+        "handle": "LABIX-AS"
+    },
+    "60422": {
+        "country_code": "DK",
+        "asn": "60422",
+        "description": "DLX A/S",
+        "handle": "PH-AS"
+    },
+    "60751": {
+        "country_code": "DK",
+        "asn": "60751",
+        "description": "Salling Group A/S",
+        "handle": "AS60751"
+    },
+    "60794": {
+        "country_code": "DK",
+        "asn": "60794",
+        "description": "Landsbyggefonden",
+        "handle": "LANDSBYGGEFONDEN"
+    },
+    "60876": {
+        "country_code": "DK",
+        "asn": "60876",
+        "description": "Capexconnect ApS",
+        "handle": "CAPEXCONNECT-DK"
+    },
+    "60958": {
+        "country_code": "DK",
+        "asn": "60958",
+        "description": "Infolink Aps",
+        "handle": "INFOLINK-AS"
+    },
+    "61032": {
+        "country_code": "DK",
+        "asn": "61032",
+        "description": "TrueCommerce Denmark ApS",
+        "handle": "EVENEX-ASN"
+    },
+    "61128": {
+        "country_code": "DK",
+        "asn": "61128",
+        "description": "Odense Kommune",
+        "handle": "ODKNET"
+    },
+    "61253": {
+        "country_code": "DK",
+        "asn": "61253",
+        "description": "Fagbevaegelsens Hovedorganisation",
+        "handle": "FHO-NETWORK"
+    },
+    "61298": {
+        "country_code": "DK",
+        "asn": "61298",
+        "description": "Noah Kornelius Svanholm",
+        "handle": "NOAHKS-NET"
+    },
+    "61397": {
+        "country_code": "DK",
+        "asn": "61397",
+        "description": "Stay Connected ApS",
+        "handle": "STAYCONNECTED"
+    },
+    "62090": {
+        "country_code": "DK",
+        "asn": "62090",
+        "description": "Randers Kommune",
+        "handle": "RANDERS-KOMMUNE-DK"
+    },
+    "62113": {
+        "country_code": "DK",
+        "asn": "62113",
+        "description": "Kracon ApS",
+        "handle": "KRACON-AS"
+    },
+    "62121": {
+        "country_code": "DK",
+        "asn": "62121",
+        "description": "Christian Ebsen ApS",
+        "handle": "OBOX-NETWORKS"
+    },
+    "62138": {
+        "country_code": "DK",
+        "asn": "62138",
+        "description": "Aarhus Universitet",
+        "handle": "AU-ASN"
+    },
+    "62209": {
+        "country_code": "DK",
+        "asn": "62209",
+        "description": "eTarg Media ApS",
+        "handle": "EKOINICIATIVE-AS"
+    },
+    "62210": {
+        "country_code": "DK",
+        "asn": "62210",
+        "description": "Danske Commodities A/S",
+        "handle": "DANSKE-COMMODITIES-DK"
+    },
+    "62319": {
+        "country_code": "DK",
+        "asn": "62319",
+        "description": "Itm8 A/S",
+        "handle": "ITM8-AS"
+    },
+    "62324": {
+        "country_code": "DK",
+        "asn": "62324",
+        "description": "Cegal Danmark AS",
+        "handle": "CEGAL-DK"
+    },
+    "64408": {
+        "country_code": "DK",
+        "asn": "64408",
+        "description": "eTarg Media ApS",
+        "handle": "VOKER-AS"
+    },
+    "140905": {
+        "country_code": "DK",
+        "asn": "140905",
+        "description": "Keepit A/S",
+        "handle": "KEEPITAS-AS-AP"
+    },
+    "196724": {
+        "country_code": "DK",
+        "asn": "196724",
+        "description": "DLX A/S",
+        "handle": "LYNERO-AS"
+    },
+    "196827": {
+        "country_code": "DK",
+        "asn": "196827",
+        "description": "Conscia Danmark A/S",
+        "handle": "CONSC1A"
+    },
+    "196976": {
+        "country_code": "DK",
+        "asn": "196976",
+        "description": "team.blue Denmark A/S",
+        "handle": "FLEXFONE-AS"
+    },
+    "196997": {
+        "country_code": "DK",
+        "asn": "196997",
+        "description": "Uni-tel A/S",
+        "handle": "UNI-TEL-AS"
+    },
+    "197123": {
+        "country_code": "DK",
+        "asn": "197123",
+        "description": "team.blue Denmark A/S",
+        "handle": "TEAM-BLUE-DENMARK"
+    },
+    "197190": {
+        "country_code": "DK",
+        "asn": "197190",
+        "description": "Finalto A/S",
+        "handle": "FINALTO-AS"
+    },
+    "197288": {
+        "country_code": "DK",
+        "asn": "197288",
+        "description": "Norlys Digital A/S",
+        "handle": "NORLYS-DIGITAL"
+    },
+    "197301": {
+        "country_code": "DK",
+        "asn": "197301",
+        "description": "Parknet F.M.B.A.",
+        "handle": "PARKNET-AS"
+    },
+    "197317": {
+        "country_code": "DK",
+        "asn": "197317",
+        "description": "Nuuday A/S",
+        "handle": "NUUDAY-ENTERTAINMENT"
+    },
+    "197493": {
+        "country_code": "DK",
+        "asn": "197493",
+        "description": "Stratu A/S",
+        "handle": "STRATU"
+    },
+    "197495": {
+        "country_code": "DK",
+        "asn": "197495",
+        "description": "One.com A/S",
+        "handle": "ONECOM-INFRA"
+    },
+    "197601": {
+        "country_code": "DK",
+        "asn": "197601",
+        "description": "Mark Holm",
+        "handle": "FDXNETWORKS"
+    },
+    "197660": {
+        "country_code": "DK",
+        "asn": "197660",
+        "description": "QuickPay ApS",
+        "handle": "QP-AS"
+    },
+    "198141": {
+        "country_code": "DK",
+        "asn": "198141",
+        "description": "DANMAGI ApS",
+        "handle": "DANMAGI-AS"
+    },
+    "198194": {
+        "country_code": "DK",
+        "asn": "198194",
+        "description": "C & B Systemer A/S",
+        "handle": "CBSYSTEMER-AS"
+    },
+    "198206": {
+        "country_code": "DK",
+        "asn": "198206",
+        "description": "Rockwool A/S",
+        "handle": "ROCKWOOL"
+    },
+    "198275": {
+        "country_code": "DK",
+        "asn": "198275",
+        "description": "Thomas Flummer",
+        "handle": "FLUMMER-AS"
+    },
+    "198391": {
+        "country_code": "DK",
+        "asn": "198391",
+        "description": "Danmarks Tekniske Universitet",
+        "handle": "DANISH-IX"
+    },
+    "198452": {
+        "country_code": "DK",
+        "asn": "198452",
+        "description": "Kontainer A/S",
+        "handle": "KONFORM-AS"
+    },
+    "198455": {
+        "country_code": "DK",
+        "asn": "198455",
+        "description": "Danmarks Tekniske Universitet",
+        "handle": "I2-HOSTING"
+    },
+    "198473": {
+        "country_code": "DK",
+        "asn": "198473",
+        "description": "KIKKENBORG FIBER & IT ApS",
+        "handle": "DK-KBDS-AS"
+    },
+    "198530": {
+        "country_code": "DK",
+        "asn": "198530",
+        "description": "Haderslev Kommune",
+        "handle": "HADERSLEV-KOMMUNE-AS"
+    },
+    "198531": {
+        "country_code": "DK",
+        "asn": "198531",
+        "description": "Silkeborg Kommune",
+        "handle": "AS-SILKEBORG-KOMMUNE"
+    },
+    "198608": {
+        "country_code": "DK",
+        "asn": "198608",
+        "description": "Symbion A/S",
+        "handle": "SYMBION-AS"
+    },
+    "198614": {
+        "country_code": "DK",
+        "asn": "198614",
+        "description": "RockyNordic ApS",
+        "handle": "AZERO"
+    },
+    "198622": {
+        "country_code": "DK",
+        "asn": "198622",
+        "description": "Adform A/S",
+        "handle": "ADFORM"
+    },
+    "198631": {
+        "country_code": "DK",
+        "asn": "198631",
+        "description": "Region Hovedstaden",
+        "handle": "REGIONH-AS"
+    },
+    "198660": {
+        "country_code": "DK",
+        "asn": "198660",
+        "description": "Martin Arendtsen",
+        "handle": "ARENDTSEN"
+    },
+    "198794": {
+        "country_code": "DK",
+        "asn": "198794",
+        "description": "Thomas Steen Rasmussen",
+        "handle": "UNCENSOREDDNS-AS"
+    },
+    "198886": {
+        "country_code": "DK",
+        "asn": "198886",
+        "description": "Daniel Brasholt",
+        "handle": "DANIELBRASHOLT-AS"
+    },
+    "198901": {
+        "country_code": "DK",
+        "asn": "198901",
+        "description": "Ordbogen A/S",
+        "handle": "ORDBOGEN-DK"
+    },
+    "198903": {
+        "country_code": "DK",
+        "asn": "198903",
+        "description": "Roskilde Kulturservice A/S",
+        "handle": "RSK-AS"
+    },
+    "198944": {
+        "country_code": "DK",
+        "asn": "198944",
+        "description": "TN HOSTING ApS",
+        "handle": "TN-TELE-DATA-AS"
+    },
+    "199004": {
+        "country_code": "DK",
+        "asn": "199004",
+        "description": "IP-First ApS",
+        "handle": "IP-FIRST"
+    },
+    "199041": {
+        "country_code": "DK",
+        "asn": "199041",
+        "description": "netIP a/s",
+        "handle": "RESENNET-AS"
+    },
+    "199135": {
+        "country_code": "DK",
+        "asn": "199135",
+        "description": "Satcom1 Airtime Services ApS",
+        "handle": "SATCOM1"
+    },
+    "199175": {
+        "country_code": "DK",
+        "asn": "199175",
+        "description": "Victor Pahuus Petersen",
+        "handle": "VICTORP-NET"
+    },
+    "199213": {
+        "country_code": "DK",
+        "asn": "199213",
+        "description": "Sentia Denmark A/S",
+        "handle": "HOSTERSAS"
+    },
+    "199289": {
+        "country_code": "DK",
+        "asn": "199289",
+        "description": "Kobalt ApS",
+        "handle": "KOBALT"
+    },
+    "199374": {
+        "country_code": "DK",
+        "asn": "199374",
+        "description": "Syddansk Erhvervsskole Odense-Vejle",
+        "handle": "SDE-AS"
+    },
+    "199545": {
+        "country_code": "DK",
+        "asn": "199545",
+        "description": "Stacket Group ApS",
+        "handle": "STACKET"
+    },
+    "199718": {
+        "country_code": "DK",
+        "asn": "199718",
+        "description": "G4S Security Services A/S",
+        "handle": "G4S-NET"
+    },
+    "199769": {
+        "country_code": "DK",
+        "asn": "199769",
+        "description": "Nets DanID A/S",
+        "handle": "DANID-AS"
+    },
+    "199773": {
+        "country_code": "DK",
+        "asn": "199773",
+        "description": "Nets Denmark A/S",
+        "handle": "NETS-AS"
+    },
+    "199795": {
+        "country_code": "DK",
+        "asn": "199795",
+        "description": "SAC-IT A/S",
+        "handle": "ONEMARKETING"
+    },
+    "199848": {
+        "country_code": "DK",
+        "asn": "199848",
+        "description": "SYSTEMATIC A/S",
+        "handle": "SYSTEMATIC"
+    },
+    "199988": {
+        "country_code": "DK",
+        "asn": "199988",
+        "description": "Paychex Europe Denmark ApS",
+        "handle": "DANSKELOENSYSTEMER-AS"
+    },
+    "200145": {
+        "country_code": "DK",
+        "asn": "200145",
+        "description": "Aarhus Kommune",
+        "handle": "AARHUSNETWORK"
+    },
+    "200292": {
+        "country_code": "DK",
+        "asn": "200292",
+        "description": "3Shape A/S",
+        "handle": "THREESHAPE"
+    },
+    "200538": {
+        "country_code": "DK",
+        "asn": "200538",
+        "description": "Rudersdal Kommune",
+        "handle": "DK-RUDERSDAL"
+    },
+    "200611": {
+        "country_code": "DK",
+        "asn": "200611",
+        "description": "itslearning A/S",
+        "handle": "ITSLEARNING-DK"
+    },
+    "200626": {
+        "country_code": "DK",
+        "asn": "200626",
+        "description": "Saxo.com A/S",
+        "handle": "SAXO"
+    },
+    "200629": {
+        "country_code": "DK",
+        "asn": "200629",
+        "description": "Advania Danmark A/S",
+        "handle": "CLOUDIO"
+    },
+    "200885": {
+        "country_code": "DK",
+        "asn": "200885",
+        "description": "kolding.net",
+        "handle": "KOLDINGNET"
+    },
+    "200894": {
+        "country_code": "DK",
+        "asn": "200894",
+        "description": "Danish Crown A/S",
+        "handle": "DANISH-CROWN-LTD"
+    },
+    "200963": {
+        "country_code": "DK",
+        "asn": "200963",
+        "description": "Gilcom Finans A/S",
+        "handle": "DK-HAE"
+    },
+    "200997": {
+        "country_code": "DK",
+        "asn": "200997",
+        "description": "NetNordic Denmark A/S",
+        "handle": "NETNORDIC-DK-2-AS"
+    },
+    "201055": {
+        "country_code": "DK",
+        "asn": "201055",
+        "description": "Market Pay Nordic & Baltic ApS",
+        "handle": "MARKET-PAY"
+    },
+    "201061": {
+        "country_code": "DK",
+        "asn": "201061",
+        "description": "GITC ApS",
+        "handle": "GITC"
+    },
+    "201078": {
+        "country_code": "DK",
+        "asn": "201078",
+        "description": "ECIT Solutions A/S",
+        "handle": "ECIT-SOLUTIONS-AS"
+    },
+    "201130": {
+        "country_code": "DK",
+        "asn": "201130",
+        "description": "Novo Nordisk A/S",
+        "handle": "NOVONORDISK"
+    },
+    "201455": {
+        "country_code": "DK",
+        "asn": "201455",
+        "description": "any.cloud A/S",
+        "handle": "ANYCLOUD"
+    },
+    "201503": {
+        "country_code": "DK",
+        "asn": "201503",
+        "description": "Enreach A/S",
+        "handle": "DK-IPNORDIC"
+    },
+    "201505": {
+        "country_code": "DK",
+        "asn": "201505",
+        "description": "Antenneforeningen Aarhus",
+        "handle": "AFAADK"
+    },
+    "201595": {
+        "country_code": "DK",
+        "asn": "201595",
+        "description": "mono solutions ApS",
+        "handle": "MONO"
+    },
+    "201697": {
+        "country_code": "DK",
+        "asn": "201697",
+        "description": "Tobias Fonsmark trading as Semaphor",
+        "handle": "SEMAPHOR-AS"
+    },
+    "201720": {
+        "country_code": "DK",
+        "asn": "201720",
+        "description": "Fredensborg Kommune",
+        "handle": "FKDK"
+    },
+    "201889": {
+        "country_code": "DK",
+        "asn": "201889",
+        "description": "e-nettet A/S",
+        "handle": "E-NETTET-AS"
+    },
+    "201911": {
+        "country_code": "DK",
+        "asn": "201911",
+        "description": "Anders T. Ballegaard",
+        "handle": "ANDERSTB"
+    },
+    "201912": {
+        "country_code": "DK",
+        "asn": "201912",
+        "description": "Glostrup Kommune",
+        "handle": "GLOSTRUPKOMMUNE"
+    },
+    "201926": {
+        "country_code": "DK",
+        "asn": "201926",
+        "description": "VK DATA ApS",
+        "handle": "VKDATA"
+    },
+    "201960": {
+        "country_code": "DK",
+        "asn": "201960",
+        "description": "Gorrissen Federspiel Advokatpartnerselskab",
+        "handle": "GORRISSEN-FEDERSPIEL-AS"
+    },
+    "202031": {
+        "country_code": "DK",
+        "asn": "202031",
+        "description": "Sjacob Holding ApS",
+        "handle": "EUSHELLS"
+    },
+    "202119": {
+        "country_code": "DK",
+        "asn": "202119",
+        "description": "Malthe Kragh Tankred",
+        "handle": "MALTHETANKRED"
+    },
+    "202361": {
+        "country_code": "DK",
+        "asn": "202361",
+        "description": "Ask Selmer",
+        "handle": "AS8"
+    },
+    "202377": {
+        "country_code": "DK",
+        "asn": "202377",
+        "description": "GlobalConnect A/S",
+        "handle": "SUPERTEL"
+    },
+    "202567": {
+        "country_code": "DK",
+        "asn": "202567",
+        "description": "Secure Data Center Aps",
+        "handle": "SECURE-DATA-CENTER"
+    },
+    "202816": {
+        "country_code": "DK",
+        "asn": "202816",
+        "description": "team.blue Denmark A/S",
+        "handle": "TEAM-BLUE-NORDICS"
+    },
+    "202892": {
+        "country_code": "DK",
+        "asn": "202892",
+        "description": "Bestseller A/S",
+        "handle": "BESTSELLER"
+    },
+    "202914": {
+        "country_code": "DK",
+        "asn": "202914",
+        "description": "Adeo Datacenter ApS",
+        "handle": "ADEODC"
+    },
+    "203042": {
+        "country_code": "DK",
+        "asn": "203042",
+        "description": "Skelduz ApS",
+        "handle": "SKELDUZ"
+    },
+    "203243": {
+        "country_code": "DK",
+        "asn": "203243",
+        "description": "TV2/Nord",
+        "handle": "TV2NORD-REGIONERNE"
+    },
+    "203250": {
+        "country_code": "DK",
+        "asn": "203250",
+        "description": "Hjoerring Kommune",
+        "handle": "HJOERRING-KOMMUNE"
+    },
+    "203288": {
+        "country_code": "DK",
+        "asn": "203288",
+        "description": "WebLager A/S",
+        "handle": "DANSKSCANNING"
+    },
+    "203327": {
+        "country_code": "DK",
+        "asn": "203327",
+        "description": "Infare Solutions A/S",
+        "handle": "DK-INFARE"
+    },
+    "203570": {
+        "country_code": "DK",
+        "asn": "203570",
+        "description": "Gigahost ApS",
+        "handle": "GIGAHOST"
+    },
+    "203581": {
+        "country_code": "DK",
+        "asn": "203581",
+        "description": "Region Hovedstaden",
+        "handle": "SUNDHEDSPLATFORMEN"
+    },
+    "203595": {
+        "country_code": "DK",
+        "asn": "203595",
+        "description": "KJELDSEN.IT ApS",
+        "handle": "KJELDSENIT"
+    },
+    "203644": {
+        "country_code": "DK",
+        "asn": "203644",
+        "description": "EG Danmark A/S",
+        "handle": "DK-EG"
+    },
+    "203646": {
+        "country_code": "DK",
+        "asn": "203646",
+        "description": "Energi Fyn Bredbaand A/S",
+        "handle": "ENERGI-FYN"
+    },
+    "203825": {
+        "country_code": "DK",
+        "asn": "203825",
+        "description": "Copenhagen Airports A/S",
+        "handle": "CPHNET"
+    },
+    "203953": {
+        "country_code": "DK",
+        "asn": "203953",
+        "description": "Hiper A/S",
+        "handle": "HIPER"
+    },
+    "204032": {
+        "country_code": "DK",
+        "asn": "204032",
+        "description": "Unity Technologies ApS",
+        "handle": "UTECH-AS"
+    },
+    "204141": {
+        "country_code": "DK",
+        "asn": "204141",
+        "description": "K-Net Forening",
+        "handle": "K-NET"
+    },
+    "204151": {
+        "country_code": "DK",
+        "asn": "204151",
+        "description": "EWII Bredbaand A/S",
+        "handle": "KVIKNET-DK"
+    },
+    "204171": {
+        "country_code": "DK",
+        "asn": "204171",
+        "description": "TD-K A/S",
+        "handle": "TD-K"
+    },
+    "204274": {
+        "country_code": "DK",
+        "asn": "204274",
+        "description": "AURA Fiber A/S",
+        "handle": "AURA-A-S"
+    },
+    "204290": {
+        "country_code": "DK",
+        "asn": "204290",
+        "description": "Egmont Administration A/S",
+        "handle": "EGMONT"
+    },
+    "204420": {
+        "country_code": "DK",
+        "asn": "204420",
+        "description": "Oticon A/S",
+        "handle": "DEMANT-AS"
+    },
+    "204425": {
+        "country_code": "DK",
+        "asn": "204425",
+        "description": "Dansk Miljoe & Energistyring A/S",
+        "handle": "DMEDK"
+    },
+    "204432": {
+        "country_code": "DK",
+        "asn": "204432",
+        "description": "Perspektiva IT ApS",
+        "handle": "PERSPEKTIVA"
+    },
+    "204575": {
+        "country_code": "DK",
+        "asn": "204575",
+        "description": "TECHCOLLEGE S/I",
+        "handle": "ITCN-DK"
+    },
+    "204607": {
+        "country_code": "DK",
+        "asn": "204607",
+        "description": "JN DATA A/S",
+        "handle": "JNDATA-AS"
+    },
+    "204652": {
+        "country_code": "DK",
+        "asn": "204652",
+        "description": "team.blue Denmark A/S",
+        "handle": "ZITCOM"
+    },
+    "204793": {
+        "country_code": "DK",
+        "asn": "204793",
+        "description": "FORENINGEN KOLLEGIENET ODENSE",
+        "handle": "KOLLEGIENET"
+    },
+    "204866": {
+        "country_code": "DK",
+        "asn": "204866",
+        "description": "Microdata Aps",
+        "handle": "MICRODATA-AS"
+    },
+    "204920": {
+        "country_code": "DK",
+        "asn": "204920",
+        "description": "Vestas Wind Systems A/S",
+        "handle": "DK-MVOW"
+    },
+    "204922": {
+        "country_code": "DK",
+        "asn": "204922",
+        "description": "Dustin A/S",
+        "handle": "DUSTIN-MS-DK"
+    },
+    "204988": {
+        "country_code": "DK",
+        "asn": "204988",
+        "description": "TDH-Net ApS",
+        "handle": "TDH-NET"
+    },
+    "205000": {
+        "country_code": "DK",
+        "asn": "205000",
+        "description": "Aalborg kommune",
+        "handle": "AALBORG"
+    },
+    "205116": {
+        "country_code": "DK",
+        "asn": "205116",
+        "description": "KRISTELIG FAGFORENING",
+        "handle": "DK-KRIFA"
+    },
+    "205144": {
+        "country_code": "DK",
+        "asn": "205144",
+        "description": "Dansk Arbejdsgiverforening",
+        "handle": "DA"
+    },
+    "205206": {
+        "country_code": "DK",
+        "asn": "205206",
+        "description": "Netsite A/S",
+        "handle": "NETSITE"
+    },
+    "205235": {
+        "country_code": "DK",
+        "asn": "205235",
+        "description": "Labitat",
+        "handle": "LABITAT"
+    },
+    "205280": {
+        "country_code": "DK",
+        "asn": "205280",
+        "description": "Jens Andersen",
+        "handle": "JENS-ANDERSEN"
+    },
+    "205452": {
+        "country_code": "DK",
+        "asn": "205452",
+        "description": "DI Forening",
+        "handle": "DI"
+    },
+    "205510": {
+        "country_code": "DK",
+        "asn": "205510",
+        "description": "Adeo Datacenter ApS",
+        "handle": "ALUCAITER-ASN"
+    },
+    "205534": {
+        "country_code": "DK",
+        "asn": "205534",
+        "description": "Jetcon Service ApS",
+        "handle": "JETCONSERVICEAPS"
+    },
+    "205662": {
+        "country_code": "DK",
+        "asn": "205662",
+        "description": "Itm8 A/S",
+        "handle": "APALLAS-NET"
+    },
+    "205721": {
+        "country_code": "DK",
+        "asn": "205721",
+        "description": "Nets Denmark A/S",
+        "handle": "NETS-PROD-DK"
+    },
+    "205742": {
+        "country_code": "DK",
+        "asn": "205742",
+        "description": "Koebenhavns Kommune",
+        "handle": "KBHVN-KOMMUNE"
+    },
+    "205760": {
+        "country_code": "DK",
+        "asn": "205760",
+        "description": "Syddjurs Kommune",
+        "handle": "SYDDJURS"
+    },
+    "205793": {
+        "country_code": "DK",
+        "asn": "205793",
+        "description": "Centrica Energy Trading A/S",
+        "handle": "NEAS-ENERGY"
+    },
+    "205805": {
+        "country_code": "DK",
+        "asn": "205805",
+        "description": "Vattenfall Vindkraft A/S",
+        "handle": "VATTENFALLVINDDK"
+    },
+    "205846": {
+        "country_code": "DK",
+        "asn": "205846",
+        "description": "Hillerod Kommune",
+        "handle": "HILLEROD-KOMMUNE"
+    },
+    "205882": {
+        "country_code": "DK",
+        "asn": "205882",
+        "description": "SimCorp A/S",
+        "handle": "SIMCORP"
+    },
+    "205979": {
+        "country_code": "DK",
+        "asn": "205979",
+        "description": "Evida Service A/S",
+        "handle": "HMN"
+    },
+    "205984": {
+        "country_code": "DK",
+        "asn": "205984",
+        "description": "Powernet Aps",
+        "handle": "POWERNET"
+    },
+    "206079": {
+        "country_code": "DK",
+        "asn": "206079",
+        "description": "MH HOLDING AF 1. JUNI 2009 ApS",
+        "handle": "SBSHOSTING"
+    },
+    "206082": {
+        "country_code": "DK",
+        "asn": "206082",
+        "description": "Danish Crown A/S",
+        "handle": "DANISH-CROWN-AS"
+    },
+    "206139": {
+        "country_code": "DK",
+        "asn": "206139",
+        "description": "TVL Holding 2025 ApS",
+        "handle": "TVL-HOLDING-2025-APS"
+    },
+    "206157": {
+        "country_code": "DK",
+        "asn": "206157",
+        "description": "Complea A/S",
+        "handle": "COMPLEA"
+    },
+    "206418": {
+        "country_code": "DK",
+        "asn": "206418",
+        "description": "Gentofte Kommune",
+        "handle": "GK5304"
+    },
+    "206464": {
+        "country_code": "DK",
+        "asn": "206464",
+        "description": "Danoffice IT ApS",
+        "handle": "DATACON"
+    },
+    "206513": {
+        "country_code": "DK",
+        "asn": "206513",
+        "description": "iFiber A/S",
+        "handle": "IFIBER"
+    },
+    "206517": {
+        "country_code": "DK",
+        "asn": "206517",
+        "description": "CuroTec ApS",
+        "handle": "CUROTEC-S2"
+    },
+    "206554": {
+        "country_code": "DK",
+        "asn": "206554",
+        "description": "Connexa A/S",
+        "handle": "CNXA"
+    },
+    "206606": {
+        "country_code": "DK",
+        "asn": "206606",
+        "description": "Unitmakers ApS",
+        "handle": "UNITMAKERS"
+    },
+    "206612": {
+        "country_code": "DK",
+        "asn": "206612",
+        "description": "Comit A/S",
+        "handle": "COMITHOSTING"
+    },
+    "206624": {
+        "country_code": "DK",
+        "asn": "206624",
+        "description": "Kamstrup A/S",
+        "handle": "KAMSTRUP"
+    },
+    "206636": {
+        "country_code": "DK",
+        "asn": "206636",
+        "description": "Norlys a.m.b.a.",
+        "handle": "DK-ENIIG-AS"
+    },
+    "206749": {
+        "country_code": "DK",
+        "asn": "206749",
+        "description": "Scalepoint A/S",
+        "handle": "SCALEPOINT"
+    },
+    "206898": {
+        "country_code": "DK",
+        "asn": "206898",
+        "description": "Oliver Hjort Nielsen",
+        "handle": "INSTANCE-GROUP"
+    },
+    "206901": {
+        "country_code": "DK",
+        "asn": "206901",
+        "description": "Danmarks Nationalbank",
+        "handle": "DKDNB-AS"
+    },
+    "206920": {
+        "country_code": "DK",
+        "asn": "206920",
+        "description": "Glentevejs Antennelaug",
+        "handle": "DK-GLENTEVEJSANTENNELAUG"
+    },
+    "206941": {
+        "country_code": "DK",
+        "asn": "206941",
+        "description": "Securitas A/S",
+        "handle": "SECURITAS-AS"
+    },
+    "207017": {
+        "country_code": "DK",
+        "asn": "207017",
+        "description": "Skywire ApS",
+        "handle": "SKYWIRE-DK"
+    },
+    "207035": {
+        "country_code": "DK",
+        "asn": "207035",
+        "description": "Nets Denmark A/S",
+        "handle": "NETS-USERS"
+    },
+    "207199": {
+        "country_code": "DK",
+        "asn": "207199",
+        "description": "team.blue Denmark A/S",
+        "handle": "ZITCOM"
+    },
+    "207247": {
+        "country_code": "DK",
+        "asn": "207247",
+        "description": "Zentura A/S",
+        "handle": "ZENTURA"
+    },
+    "207316": {
+        "country_code": "DK",
+        "asn": "207316",
+        "description": "Danmarks Eksport- og Investeringsfond",
+        "handle": "VAEKSTFONDEN"
+    },
+    "207355": {
+        "country_code": "DK",
+        "asn": "207355",
+        "description": "Ka-net",
+        "handle": "KA-NET"
+    },
+    "207533": {
+        "country_code": "DK",
+        "asn": "207533",
+        "description": "Radiometer Medical ApS",
+        "handle": "DK-RMG"
+    },
+    "207603": {
+        "country_code": "DK",
+        "asn": "207603",
+        "description": "CuroTec ApS",
+        "handle": "CUROTEC"
+    },
+    "207727": {
+        "country_code": "DK",
+        "asn": "207727",
+        "description": "Asbjorn Sloth Tonnesen trading as a5n",
+        "handle": "A5N"
+    },
+    "207818": {
+        "country_code": "DK",
+        "asn": "207818",
+        "description": "KMD A/S",
+        "handle": "KMDINTERNATIONAL"
+    },
+    "207934": {
+        "country_code": "DK",
+        "asn": "207934",
+        "description": "WNB A/S",
+        "handle": "WNB-AS"
+    },
+    "208039": {
+        "country_code": "DK",
+        "asn": "208039",
+        "description": "USER IT A/S",
+        "handle": "USERIT"
+    },
+    "208237": {
+        "country_code": "DK",
+        "asn": "208237",
+        "description": "Naestved Kommune",
+        "handle": "AS-NKKOM"
+    },
+    "208287": {
+        "country_code": "DK",
+        "asn": "208287",
+        "description": "DataGruppen MultiMed A/S",
+        "handle": "MULTIMEDHOSTINGSERVICES"
+    },
+    "208292": {
+        "country_code": "DK",
+        "asn": "208292",
+        "description": "Skive Kommune",
+        "handle": "SKIVE-KOM"
+    },
+    "208310": {
+        "country_code": "DK",
+        "asn": "208310",
+        "description": "Cloud Factory A/S",
+        "handle": "CF"
+    },
+    "208327": {
+        "country_code": "DK",
+        "asn": "208327",
+        "description": "Toke Hoiland-Jorgensen",
+        "handle": "TOKE-DK"
+    },
+    "208377": {
+        "country_code": "DK",
+        "asn": "208377",
+        "description": "SECOMEA A/S",
+        "handle": "SECOMEA"
+    },
+    "208391": {
+        "country_code": "DK",
+        "asn": "208391",
+        "description": "Christoffer Hansen",
+        "handle": "NETRAVNEN"
+    },
+    "208551": {
+        "country_code": "DK",
+        "asn": "208551",
+        "description": "Aabenraa Kommune",
+        "handle": "AABENRAAKOMMUNE"
+    },
+    "208647": {
+        "country_code": "DK",
+        "asn": "208647",
+        "description": "BornHack ApS",
+        "handle": "BORNHACK"
+    },
+    "208741": {
+        "country_code": "DK",
+        "asn": "208741",
+        "description": "60 North ApS",
+        "handle": "KPIT"
+    },
+    "208918": {
+        "country_code": "DK",
+        "asn": "208918",
+        "description": "Unit IT Services ApS",
+        "handle": "UNIT-IT-SERVICES-APS"
+    },
+    "209025": {
+        "country_code": "DK",
+        "asn": "209025",
+        "description": "EDORA A/S",
+        "handle": "EDORA"
+    },
+    "209118": {
+        "country_code": "DK",
+        "asn": "209118",
+        "description": "Helsingoer Kommune",
+        "handle": "ELSINORE-DK"
+    },
+    "209125": {
+        "country_code": "DK",
+        "asn": "209125",
+        "description": "Kobenhavn Kommune",
+        "handle": "ASN-KOBENHAVNKOMMUNE"
+    },
+    "209291": {
+        "country_code": "DK",
+        "asn": "209291",
+        "description": "Uddannelses- og Forskningsstyrelsens It",
+        "handle": "SUSTYRELSEN"
+    },
+    "209327": {
+        "country_code": "DK",
+        "asn": "209327",
+        "description": "Thomas Steen Rasmussen trading as tyktech",
+        "handle": "TYKTECH"
+    },
+    "209381": {
+        "country_code": "DK",
+        "asn": "209381",
+        "description": "ECCO Sko A/S",
+        "handle": "ECCO"
+    },
+    "209424": {
+        "country_code": "DK",
+        "asn": "209424",
+        "description": "FASTSPEED A/S",
+        "handle": "FASTSPEED"
+    },
+    "209528": {
+        "country_code": "DK",
+        "asn": "209528",
+        "description": "MyWebCity Denmark ApS",
+        "handle": "MYWEBCITY"
+    },
+    "209770": {
+        "country_code": "DK",
+        "asn": "209770",
+        "description": "Broadband Systems ApS",
+        "handle": "MOB5G-ROS"
+    },
+    "209837": {
+        "country_code": "DK",
+        "asn": "209837",
+        "description": "Slyde ApS",
+        "handle": "SLYDE"
+    },
+    "209900": {
+        "country_code": "DK",
+        "asn": "209900",
+        "description": "IT-Forsyningen I/S",
+        "handle": "IT-FORSYNINGEN"
+    },
+    "209959": {
+        "country_code": "DK",
+        "asn": "209959",
+        "description": "Mark Weber Andersen",
+        "handle": "MWA"
+    },
+    "210010": {
+        "country_code": "DK",
+        "asn": "210010",
+        "description": "Ringkoebing-Skjern Kommune",
+        "handle": "RINKOBING-SKJERN-AS"
+    },
+    "210031": {
+        "country_code": "DK",
+        "asn": "210031",
+        "description": "Greenwave Mobile IoT ApS",
+        "handle": "WAVELY"
+    },
+    "210149": {
+        "country_code": "DK",
+        "asn": "210149",
+        "description": "Esbjerg Kommune",
+        "handle": "EK-ASN"
+    },
+    "210210": {
+        "country_code": "DK",
+        "asn": "210210",
+        "description": "Region Midtjylland",
+        "handle": "REGION-MIDTJYLLAND-DK"
+    },
+    "210322": {
+        "country_code": "DK",
+        "asn": "210322",
+        "description": "GF Forsikring A/S",
+        "handle": "GFFORSIKRING"
+    },
+    "210359": {
+        "country_code": "DK",
+        "asn": "210359",
+        "description": "ECCO Sko A/S",
+        "handle": "ECCO-RUSS"
+    },
+    "210418": {
+        "country_code": "DK",
+        "asn": "210418",
+        "description": "Xellia Pharmaceuticals ApS",
+        "handle": "XELLIA-AS"
+    },
+    "210465": {
+        "country_code": "DK",
+        "asn": "210465",
+        "description": "SAC-IT A/S",
+        "handle": "AS-SACITAS"
+    },
+    "210731": {
+        "country_code": "DK",
+        "asn": "210731",
+        "description": "Forening for DotSrc",
+        "handle": "DOTSRC"
+    },
+    "210792": {
+        "country_code": "DK",
+        "asn": "210792",
+        "description": "OK A.M.B.A.",
+        "handle": "OK-AMBA"
+    },
+    "210939": {
+        "country_code": "DK",
+        "asn": "210939",
+        "description": "Procopa IT ApS",
+        "handle": "PROCOPA"
+    },
+    "210952": {
+        "country_code": "DK",
+        "asn": "210952",
+        "description": "ECCO Sko A/S",
+        "handle": "ECCO-IDNA"
+    },
+    "210971": {
+        "country_code": "DK",
+        "asn": "210971",
+        "description": "Dennis Beck",
+        "handle": "FR0ZEN-AS"
+    },
+    "210972": {
+        "country_code": "DK",
+        "asn": "210972",
+        "description": "Tideo ApS",
+        "handle": "TIDEO-AS"
+    },
+    "211040": {
+        "country_code": "DK",
+        "asn": "211040",
+        "description": "MS 2001 Aps",
+        "handle": "MS2001"
+    },
+    "211153": {
+        "country_code": "DK",
+        "asn": "211153",
+        "description": "Emil Petersen",
+        "handle": "HAFNIUM-AS"
+    },
+    "211418": {
+        "country_code": "DK",
+        "asn": "211418",
+        "description": "KABELPLUS.DK P/S",
+        "handle": "KABELPLUS"
+    },
+    "211457": {
+        "country_code": "DK",
+        "asn": "211457",
+        "description": "MB Shipbrokers A/S",
+        "handle": "MAERSKBROKERDK"
+    },
+    "211593": {
+        "country_code": "DK",
+        "asn": "211593",
+        "description": "HNielsen Technologies ApS",
+        "handle": "HNIELSEN-NETWORKS"
+    },
+    "211628": {
+        "country_code": "DK",
+        "asn": "211628",
+        "description": "ECCO Sko A/S",
+        "handle": "ECCO-USSA"
+    },
+    "211630": {
+        "country_code": "DK",
+        "asn": "211630",
+        "description": "ECCO Sko A/S",
+        "handle": "ECCO-SGSA"
+    },
+    "211633": {
+        "country_code": "DK",
+        "asn": "211633",
+        "description": "Keepit A/S",
+        "handle": "KEEPIT-DE-FR"
+    },
+    "211676": {
+        "country_code": "DK",
+        "asn": "211676",
+        "description": "IKAST BETONVAREFABRIK A/S",
+        "handle": "DK-IBF"
+    },
+    "211783": {
+        "country_code": "DK",
+        "asn": "211783",
+        "description": "beo.io ApS",
+        "handle": "BEOIO"
+    },
+    "211892": {
+        "country_code": "DK",
+        "asn": "211892",
+        "description": "WaveAccess Nordics ApS",
+        "handle": "WAVEACCESS-NORDICS"
+    },
+    "212045": {
+        "country_code": "DK",
+        "asn": "212045",
+        "description": "KrugerCorp Holding ApS",
+        "handle": "KRUGERCORPHOLDING"
+    },
+    "212050": {
+        "country_code": "DK",
+        "asn": "212050",
+        "description": "Morten Soerensen trading as Din-Server",
+        "handle": "DIN-SERVER"
+    },
+    "212055": {
+        "country_code": "DK",
+        "asn": "212055",
+        "description": "Finalto A/S",
+        "handle": "CFHGROUP-2-AS"
+    },
+    "212354": {
+        "country_code": "DK",
+        "asn": "212354",
+        "description": "Albert Soendergaard Pedersen",
+        "handle": "ASPNET"
+    },
+    "212428": {
+        "country_code": "DK",
+        "asn": "212428",
+        "description": "Vejle Kommune",
+        "handle": "VEJLEKOM"
+    },
+    "212482": {
+        "country_code": "DK",
+        "asn": "212482",
+        "description": "Liviate Hosting ApS",
+        "handle": "LIVIATE"
+    },
+    "212543": {
+        "country_code": "DK",
+        "asn": "212543",
+        "description": "Danmarks Tekniske Universitet",
+        "handle": "FSKNET-GL"
+    },
+    "212736": {
+        "country_code": "DK",
+        "asn": "212736",
+        "description": "IT Confidence A/S",
+        "handle": "ASITCH"
+    },
+    "212991": {
+        "country_code": "DK",
+        "asn": "212991",
+        "description": "CURAit A/S",
+        "handle": "CURAIT"
+    },
+    "213032": {
+        "country_code": "DK",
+        "asn": "213032",
+        "description": "Fleggaard Holding A/S",
+        "handle": "FLEGGAARD"
+    },
+    "213054": {
+        "country_code": "DK",
+        "asn": "213054",
+        "description": "Keepit A/S",
+        "handle": "KEEPIT-UK-LD"
+    },
+    "213066": {
+        "country_code": "DK",
+        "asn": "213066",
+        "description": "Terma A/S",
+        "handle": "AS-TERMA"
+    },
+    "213214": {
+        "country_code": "DK",
+        "asn": "213214",
+        "description": "Rigspolitiet",
+        "handle": "RPNET"
+    },
+    "213320": {
+        "country_code": "DK",
+        "asn": "213320",
+        "description": "Norlys Digital A/S",
+        "handle": "NORLYS-DIGITAL"
+    },
+    "213693": {
+        "country_code": "DK",
+        "asn": "213693",
+        "description": "Imad Nabil Daher trading as ID Performance",
+        "handle": "IDPERFORMANCE-IDHOSTING"
+    },
+    "213943": {
+        "country_code": "DK",
+        "asn": "213943",
+        "description": "Sundhedsdatastyrelsen",
+        "handle": "NGC"
+    },
+    "214233": {
+        "country_code": "DK",
+        "asn": "214233",
+        "description": "NemTilmeld.dk ApS",
+        "handle": "NEMTILMELD"
+    },
+    "214348": {
+        "country_code": "DK",
+        "asn": "214348",
+        "description": "Dynado ApS",
+        "handle": "DYNADO"
+    },
+    "214629": {
+        "country_code": "DK",
+        "asn": "214629",
+        "description": "Skypuzzler Aps",
+        "handle": "SKYPUZZLER"
+    },
+    "214781": {
+        "country_code": "DK",
+        "asn": "214781",
+        "description": "Rapid Solutions ApS",
+        "handle": "RAPID"
+    },
+    "214866": {
+        "country_code": "DK",
+        "asn": "214866",
+        "description": "GreenHost ApS",
+        "handle": "GREENHOST-AS"
+    },
+    "214875": {
+        "country_code": "DK",
+        "asn": "214875",
+        "description": "Altibox Danmark AS",
+        "handle": "ALTIBOXAS"
+    },
+    "214902": {
+        "country_code": "DK",
+        "asn": "214902",
+        "description": "Philip Fjaera trading as PFWeb Solutions",
+        "handle": "PFWEBSOLUTIONS"
+    },
+    "214904": {
+        "country_code": "DK",
+        "asn": "214904",
+        "description": "Lyngby-Taarbaek Kommune",
+        "handle": "LTK"
+    },
+    "214980": {
+        "country_code": "DK",
+        "asn": "214980",
+        "description": "Hexi Group ApS",
+        "handle": "HEXI-NET"
+    },
+    "214983": {
+        "country_code": "DK",
+        "asn": "214983",
+        "description": "Mikkel Buhl Madsen",
+        "handle": "MIKKELBUHLMADSEN"
+    },
+    "215052": {
+        "country_code": "DK",
+        "asn": "215052",
+        "description": "Din Server Group ApS",
+        "handle": "DINSERVGRO-NET"
+    },
+    "215054": {
+        "country_code": "DK",
+        "asn": "215054",
+        "description": "Frontmatec Skive A/S",
+        "handle": "FRONTMATEC-AS"
+    },
+    "215465": {
+        "country_code": "DK",
+        "asn": "215465",
+        "description": "Andel Holding A/S",
+        "handle": "ANDEL-A-S"
+    },
+    "215541": {
+        "country_code": "DK",
+        "asn": "215541",
+        "description": "Peter Kruse",
+        "handle": "AS-KRUSESEC"
+    },
+    "215686": {
+        "country_code": "DK",
+        "asn": "215686",
+        "description": "Edelskjold Holding ApS",
+        "handle": "EDELSKJOLDHOLDING"
+    },
+    "215782": {
+        "country_code": "DK",
+        "asn": "215782",
+        "description": "Keepit A/S",
+        "handle": "KEEPIT-CH-ZH"
+    },
+    "215874": {
+        "country_code": "DK",
+        "asn": "215874",
+        "description": "DTU Kraftvarmevaerk ApS",
+        "handle": "VESTFOR"
+    },
+    "216230": {
+        "country_code": "DK",
+        "asn": "216230",
+        "description": "INFOWISE SERVICES ApS",
+        "handle": "INFOWISE"
+    },
+    "216275": {
+        "country_code": "DK",
+        "asn": "216275",
+        "description": "Netnoerden ApS",
+        "handle": "NOERDNET"
+    },
+    "216284": {
+        "country_code": "DK",
+        "asn": "216284",
+        "description": "Mathias Neerup",
+        "handle": "MNEERUP"
+    },
+    "216298": {
+        "country_code": "DK",
+        "asn": "216298",
+        "description": "Finalto A/S",
+        "handle": "FINALTO-DK-AS"
+    },
+    "216313": {
+        "country_code": "DK",
+        "asn": "216313",
+        "description": "Completnet ApS",
+        "handle": "COMPLETNET-NET"
+    },
+    "216393": {
+        "country_code": "DK",
+        "asn": "216393",
+        "description": "Synapt ApS",
+        "handle": "SYNAPT"
+    },
+    "216433": {
+        "country_code": "DK",
+        "asn": "216433",
+        "description": "Aalborg Lufthavn A.M.B.A.",
+        "handle": "AAL"
+    }
+}

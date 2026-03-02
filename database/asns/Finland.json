@@ -1,0 +1,2186 @@
+{
+    "375": {
+        "country_code": "FI",
+        "asn": "375",
+        "description": "Tietoevry Oyj",
+        "handle": "TIETOTIE-AS"
+    },
+    "544": {
+        "country_code": "FI",
+        "asn": "544",
+        "description": "Telia Finland Oyj",
+        "handle": "TELIA-INTERNATIONAL-NETWORK"
+    },
+    "565": {
+        "country_code": "FI",
+        "asn": "565",
+        "description": "VTT Technical Research Centre of Finland Ltd",
+        "handle": "VTT-AS"
+    },
+    "719": {
+        "country_code": "FI",
+        "asn": "719",
+        "description": "Elisa Oyj",
+        "handle": "ELISA-AS"
+    },
+    "790": {
+        "country_code": "FI",
+        "asn": "790",
+        "description": "Elisa Oyj",
+        "handle": "EUNETFI"
+    },
+    "1738": {
+        "country_code": "FI",
+        "asn": "1738",
+        "description": "OP Osuuskunta",
+        "handle": "OKOBANK-AS"
+    },
+    "1741": {
+        "country_code": "FI",
+        "asn": "1741",
+        "description": "CSC - Tieteen tietotekniikan keskus Oy",
+        "handle": "FUNETAS"
+    },
+    "1759": {
+        "country_code": "FI",
+        "asn": "1759",
+        "description": "Telia Finland Oyj",
+        "handle": "TSF-IP-CORE"
+    },
+    "1780": {
+        "country_code": "FI",
+        "asn": "1780",
+        "description": "Valmet Oyj",
+        "handle": "VALNET"
+    },
+    "1854": {
+        "country_code": "FI",
+        "asn": "1854",
+        "description": "CGI Suomi Oy",
+        "handle": "NOVOGROUP"
+    },
+    "1926": {
+        "country_code": "FI",
+        "asn": "1926",
+        "description": "Tampere University Foundation",
+        "handle": "UTANET-AS"
+    },
+    "3222": {
+        "country_code": "FI",
+        "asn": "3222",
+        "description": "Cinia Oy",
+        "handle": "CINIAFI"
+    },
+    "3238": {
+        "country_code": "FI",
+        "asn": "3238",
+        "description": "Alands Telekommunikation Ab",
+        "handle": "ALCOM"
+    },
+    "3274": {
+        "country_code": "FI",
+        "asn": "3274",
+        "description": "Telia Cygate Oy",
+        "handle": "CYGATE"
+    },
+    "5411": {
+        "country_code": "FI",
+        "asn": "5411",
+        "description": "Tietoevry Oyj",
+        "handle": "TIETOEVRY-OYJ"
+    },
+    "5420": {
+        "country_code": "FI",
+        "asn": "5420",
+        "description": "Kemira Oyj",
+        "handle": "KEMNET"
+    },
+    "5469": {
+        "country_code": "FI",
+        "asn": "5469",
+        "description": "Ahlstrom Oyj",
+        "handle": "AGNET"
+    },
+    "5487": {
+        "country_code": "FI",
+        "asn": "5487",
+        "description": "Elisa Oyj",
+        "handle": "ELISA-LAB"
+    },
+    "5515": {
+        "country_code": "FI",
+        "asn": "5515",
+        "description": "Telia Finland Oyj",
+        "handle": "TS-FINLAND-DATANET-OLD"
+    },
+    "5575": {
+        "country_code": "FI",
+        "asn": "5575",
+        "description": "Telia Finland Oyj",
+        "handle": "TELIA-FINLAND-OYJ"
+    },
+    "6667": {
+        "country_code": "FI",
+        "asn": "6667",
+        "description": "Elisa Oyj",
+        "handle": "EUNET-FINLAND"
+    },
+    "6781": {
+        "country_code": "FI",
+        "asn": "6781",
+        "description": "Telia Finland Oyj",
+        "handle": "TELIA-FINLAND-OYJ"
+    },
+    "6793": {
+        "country_code": "FI",
+        "asn": "6793",
+        "description": "DNA Oyj",
+        "handle": "TELIVO-AS"
+    },
+    "6852": {
+        "country_code": "FI",
+        "asn": "6852",
+        "description": "UB Securities Ltd.",
+        "handle": "UNITEDBANKERS-AS"
+    },
+    "8145": {
+        "country_code": "FI",
+        "asn": "8145",
+        "description": "Trans-Atlantic Communications",
+        "handle": "GW"
+    },
+    "8236": {
+        "country_code": "FI",
+        "asn": "8236",
+        "description": "DNA Oyj",
+        "handle": "DNA-CE"
+    },
+    "8275": {
+        "country_code": "FI",
+        "asn": "8275",
+        "description": "Keski-Suomen Valokuituverkot Oy",
+        "handle": "KSVV"
+    },
+    "8624": {
+        "country_code": "FI",
+        "asn": "8624",
+        "description": "Equinix (Finland) Oy",
+        "handle": "TENUE-AS"
+    },
+    "8829": {
+        "country_code": "FI",
+        "asn": "8829",
+        "description": "ElmoNet Oy",
+        "handle": "ELMONET-AS"
+    },
+    "8983": {
+        "country_code": "FI",
+        "asn": "8983",
+        "description": "Nokia Solutions and Networks Oy",
+        "handle": "NOKIA-AS"
+    },
+    "12330": {
+        "country_code": "FI",
+        "asn": "12330",
+        "description": "MPY Telecom Oy",
+        "handle": "MPYNET-AS"
+    },
+    "12582": {
+        "country_code": "FI",
+        "asn": "12582",
+        "description": "Telia Finland Oyj",
+        "handle": "TSF-DATANET-NGD-AS"
+    },
+    "12630": {
+        "country_code": "FI",
+        "asn": "12630",
+        "description": "Otaverkko Oy",
+        "handle": "OVERKKOAS"
+    },
+    "12659": {
+        "country_code": "FI",
+        "asn": "12659",
+        "description": "Backbone Networks Europe Inc",
+        "handle": "BBNWKSCORE"
+    },
+    "12712": {
+        "country_code": "FI",
+        "asn": "12712",
+        "description": "Elisa Oyj",
+        "handle": "NIC"
+    },
+    "13170": {
+        "country_code": "FI",
+        "asn": "13170",
+        "description": "Kaisanet Oy",
+        "handle": "KPO-AS"
+    },
+    "13276": {
+        "country_code": "FI",
+        "asn": "13276",
+        "description": "Telia Cygate Oy",
+        "handle": "MAGENTA"
+    },
+    "15424": {
+        "country_code": "FI",
+        "asn": "15424",
+        "description": "Elisa Oyj",
+        "handle": "ELISA-IC"
+    },
+    "15496": {
+        "country_code": "FI",
+        "asn": "15496",
+        "description": "Aalto University",
+        "handle": "AALTO-UNIVERSITY"
+    },
+    "16023": {
+        "country_code": "FI",
+        "asn": "16023",
+        "description": "Equinix (Finland) Oy",
+        "handle": "EQUINIX-CLOUD-EXCHANGE-GENEVA-ASN"
+    },
+    "16048": {
+        "country_code": "FI",
+        "asn": "16048",
+        "description": "Nokia Solutions and Networks Oy",
+        "handle": "NOKIA-SOLUTIONS"
+    },
+    "16086": {
+        "country_code": "FI",
+        "asn": "16086",
+        "description": "DNA Oyj",
+        "handle": "DNA"
+    },
+    "16228": {
+        "country_code": "FI",
+        "asn": "16228",
+        "description": "Pohjoisen Keski-Suomen Verkkopalvelut Oy",
+        "handle": "AS-VERKKOPALVELUT"
+    },
+    "16302": {
+        "country_code": "FI",
+        "asn": "16302",
+        "description": "Suomi Communications Oy",
+        "handle": "SUOMICOMMUNICATIONS"
+    },
+    "16331": {
+        "country_code": "FI",
+        "asn": "16331",
+        "description": "Tele-entre Oy",
+        "handle": "TELE-ENTRE-FI-AS"
+    },
+    "20494": {
+        "country_code": "FI",
+        "asn": "20494",
+        "description": "Kaisanet Oy",
+        "handle": "IPY-AS"
+    },
+    "20542": {
+        "country_code": "FI",
+        "asn": "20542",
+        "description": "DNA Oyj",
+        "handle": "HTV"
+    },
+    "20569": {
+        "country_code": "FI",
+        "asn": "20569",
+        "description": "Telia Finland Oyj",
+        "handle": "AINAIP-AS"
+    },
+    "20571": {
+        "country_code": "FI",
+        "asn": "20571",
+        "description": "Exomi Oy",
+        "handle": "EXOMI"
+    },
+    "20798": {
+        "country_code": "FI",
+        "asn": "20798",
+        "description": "EPTE Oy",
+        "handle": "EPTE-FI"
+    },
+    "20904": {
+        "country_code": "FI",
+        "asn": "20904",
+        "description": "Cinia Oy",
+        "handle": "NETPLAZA-AS"
+    },
+    "21348": {
+        "country_code": "FI",
+        "asn": "21348",
+        "description": "Lounea Palvelut Oy",
+        "handle": "KOPTERIFI"
+    },
+    "21490": {
+        "country_code": "FI",
+        "asn": "21490",
+        "description": "Alisa Pankki Oyj",
+        "handle": "EVLI-BANK-AS"
+    },
+    "24713": {
+        "country_code": "FI",
+        "asn": "24713",
+        "description": "CGI Suomi Oy",
+        "handle": "CGI-FINLAND"
+    },
+    "24714": {
+        "country_code": "FI",
+        "asn": "24714",
+        "description": "Tietoevry Oyj",
+        "handle": "TIETOENATOR-AS"
+    },
+    "24751": {
+        "country_code": "FI",
+        "asn": "24751",
+        "description": "Jakobstadsnejdens Telefon Ab",
+        "handle": "MULTIFI-AS"
+    },
+    "25033": {
+        "country_code": "FI",
+        "asn": "25033",
+        "description": "Equinix (Finland) Oy",
+        "handle": "EQUINIX-CLOUD-EXCHANGE-MADRID-ASN"
+    },
+    "25213": {
+        "country_code": "FI",
+        "asn": "25213",
+        "description": "Hiab Oyj",
+        "handle": "CARGOTEC-CORPORATE-AS"
+    },
+    "25391": {
+        "country_code": "FI",
+        "asn": "25391",
+        "description": "SSH Communications Security Corporation",
+        "handle": "SSH-AS"
+    },
+    "28723": {
+        "country_code": "FI",
+        "asn": "28723",
+        "description": "Nokia Oyj",
+        "handle": "NOKIA-INDIA"
+    },
+    "28883": {
+        "country_code": "FI",
+        "asn": "28883",
+        "description": "Oy Samlink Ab",
+        "handle": "SAMLINK-AS"
+    },
+    "29093": {
+        "country_code": "FI",
+        "asn": "29093",
+        "description": "Fingrid Oyj",
+        "handle": "FINGRID"
+    },
+    "29132": {
+        "country_code": "FI",
+        "asn": "29132",
+        "description": "Easylinehost Finland Oy",
+        "handle": "IMAGEWORLD-AS"
+    },
+    "29150": {
+        "country_code": "FI",
+        "asn": "29150",
+        "description": "Nokia Solutions and Networks Oy",
+        "handle": "NOKIA"
+    },
+    "29154": {
+        "country_code": "FI",
+        "asn": "29154",
+        "description": "Equinix (Finland) Oy",
+        "handle": "EQUINIX-CONNECT-HELSINKI"
+    },
+    "29240": {
+        "country_code": "FI",
+        "asn": "29240",
+        "description": "Loihde Trust Oy",
+        "handle": "LANWAN-AS"
+    },
+    "29243": {
+        "country_code": "FI",
+        "asn": "29243",
+        "description": "Domainkeskus Oy",
+        "handle": "MMD-AS"
+    },
+    "29282": {
+        "country_code": "FI",
+        "asn": "29282",
+        "description": "Enfo Oy",
+        "handle": "ENFO-FI-AS"
+    },
+    "29293": {
+        "country_code": "FI",
+        "asn": "29293",
+        "description": "Suomen Luotto-osuuskunta",
+        "handle": "LUOTTOKUNTA-AS"
+    },
+    "29422": {
+        "country_code": "FI",
+        "asn": "29422",
+        "description": "Telia Cygate Oy",
+        "handle": "NBLNETWORKS-AS"
+    },
+    "29432": {
+        "country_code": "FI",
+        "asn": "29432",
+        "description": "TREX Regional Exchanges Oy",
+        "handle": "TREX-AS"
+    },
+    "29601": {
+        "country_code": "FI",
+        "asn": "29601",
+        "description": "UPM-Kymmene Oyj",
+        "handle": "UPM-KYMMENE-AS"
+    },
+    "30754": {
+        "country_code": "FI",
+        "asn": "30754",
+        "description": "Eduskunta",
+        "handle": "FI-PARLIAMENT-AS"
+    },
+    "30759": {
+        "country_code": "FI",
+        "asn": "30759",
+        "description": "Nokia Solutions and Networks Oy",
+        "handle": "NOKIA-AMS-BB-AS"
+    },
+    "30798": {
+        "country_code": "FI",
+        "asn": "30798",
+        "description": "TNNet Oy",
+        "handle": "TNNET-AS"
+    },
+    "30978": {
+        "country_code": "FI",
+        "asn": "30978",
+        "description": "Posti Group Oyj",
+        "handle": "ATKOS-AS"
+    },
+    "31389": {
+        "country_code": "FI",
+        "asn": "31389",
+        "description": "Atomidata Oy",
+        "handle": "ATOMIDATA-AS"
+    },
+    "31639": {
+        "country_code": "FI",
+        "asn": "31639",
+        "description": "Planeetta Internet Oy",
+        "handle": "FI-PLANEETTA-ANYCAST"
+    },
+    "33801": {
+        "country_code": "FI",
+        "asn": "33801",
+        "description": "Boldyn Networks Finland Holdings Oy",
+        "handle": "UKKO-AS"
+    },
+    "33935": {
+        "country_code": "FI",
+        "asn": "33935",
+        "description": "Telia Cygate Oy",
+        "handle": "FI-24ONLINE-AS"
+    },
+    "34263": {
+        "country_code": "FI",
+        "asn": "34263",
+        "description": "MPY Telecom Oy",
+        "handle": "MPYNET-AS"
+    },
+    "34273": {
+        "country_code": "FI",
+        "asn": "34273",
+        "description": "Atos IT Solutions and Services Oy",
+        "handle": "FISBS-AS"
+    },
+    "34387": {
+        "country_code": "FI",
+        "asn": "34387",
+        "description": "Netcrew ry",
+        "handle": "NETCREW"
+    },
+    "34414": {
+        "country_code": "FI",
+        "asn": "34414",
+        "description": "Nokia Oyj",
+        "handle": "NOKIA-APAC"
+    },
+    "34484": {
+        "country_code": "FI",
+        "asn": "34484",
+        "description": "Telia Cygate Oy",
+        "handle": "TIETOTALO-AS"
+    },
+    "34541": {
+        "country_code": "FI",
+        "asn": "34541",
+        "description": "Online Solutions Oy",
+        "handle": "ONLINESOLUTIONS-AS"
+    },
+    "34801": {
+        "country_code": "FI",
+        "asn": "34801",
+        "description": "Magna Capax Finland Oy",
+        "handle": "ASNUCODE"
+    },
+    "35175": {
+        "country_code": "FI",
+        "asn": "35175",
+        "description": "Oulun kaupunki",
+        "handle": "OUKA-AS"
+    },
+    "39098": {
+        "country_code": "FI",
+        "asn": "39098",
+        "description": "Bank Of Finland",
+        "handle": "BOF-AS"
+    },
+    "39194": {
+        "country_code": "FI",
+        "asn": "39194",
+        "description": "Vakka-Suomen Puhelin Oy",
+        "handle": "VSP"
+    },
+    "39242": {
+        "country_code": "FI",
+        "asn": "39242",
+        "description": "Seclan Oy",
+        "handle": "SECLAN"
+    },
+    "39278": {
+        "country_code": "FI",
+        "asn": "39278",
+        "description": "CustomIT Oy",
+        "handle": "CUSTOMIT-AS"
+    },
+    "39324": {
+        "country_code": "FI",
+        "asn": "39324",
+        "description": "Mediam Group Oy",
+        "handle": "MEDIAM-AS"
+    },
+    "39484": {
+        "country_code": "FI",
+        "asn": "39484",
+        "description": "Pirkan Opiskelija-asunnot Oy",
+        "handle": "POAS-AS"
+    },
+    "39662": {
+        "country_code": "FI",
+        "asn": "39662",
+        "description": "Finnish Transport and Communications Agency",
+        "handle": "FI-FICORA-AS"
+    },
+    "39665": {
+        "country_code": "FI",
+        "asn": "39665",
+        "description": "YIT Oyj",
+        "handle": "YIT-AS"
+    },
+    "39699": {
+        "country_code": "FI",
+        "asn": "39699",
+        "description": "Lounea Palvelut Oy",
+        "handle": "SSPOY-AS"
+    },
+    "39784": {
+        "country_code": "FI",
+        "asn": "39784",
+        "description": "Nokia Oyj",
+        "handle": "NOKIANET-AMSTERDAM"
+    },
+    "39857": {
+        "country_code": "FI",
+        "asn": "39857",
+        "description": "Aalto University Student Union",
+        "handle": "TKY-AS"
+    },
+    "41194": {
+        "country_code": "FI",
+        "asn": "41194",
+        "description": "Finnish Communication and Internet Exchange - FICIX ry",
+        "handle": "FICIX-ROUTE-SERVER-1"
+    },
+    "41242": {
+        "country_code": "FI",
+        "asn": "41242",
+        "description": "Sofor Oy",
+        "handle": "SOFOR-RIPE"
+    },
+    "41369": {
+        "country_code": "FI",
+        "asn": "41369",
+        "description": "Advania Finland Oy",
+        "handle": "DATACENTER-AS"
+    },
+    "41561": {
+        "country_code": "FI",
+        "asn": "41561",
+        "description": "Suomen Osuuskauppojen Keskuskunta",
+        "handle": "SRYHMA-AS"
+    },
+    "41581": {
+        "country_code": "FI",
+        "asn": "41581",
+        "description": "Nokia Solutions and Networks Oy",
+        "handle": "NOKIA-AMERICAS"
+    },
+    "41648": {
+        "country_code": "FI",
+        "asn": "41648",
+        "description": "Rautaruukki Oyj",
+        "handle": "RUUKKI"
+    },
+    "41666": {
+        "country_code": "FI",
+        "asn": "41666",
+        "description": "Institute for Pyrotechnical Cleaning (limited company)",
+        "handle": "PYRO-AS"
+    },
+    "41701": {
+        "country_code": "FI",
+        "asn": "41701",
+        "description": "Capgemini Finland Oy",
+        "handle": "CAP-FIN-AS"
+    },
+    "41747": {
+        "country_code": "FI",
+        "asn": "41747",
+        "description": "Cloud2 Oy",
+        "handle": "CLOUD2-AS"
+    },
+    "41785": {
+        "country_code": "FI",
+        "asn": "41785",
+        "description": "Christian Kurvinen",
+        "handle": "CRISU"
+    },
+    "41993": {
+        "country_code": "FI",
+        "asn": "41993",
+        "description": "Cloud Center Finland Oy",
+        "handle": "CLOUDCENTER"
+    },
+    "42122": {
+        "country_code": "FI",
+        "asn": "42122",
+        "description": "S1 Networks Oy",
+        "handle": "NETHIT"
+    },
+    "42252": {
+        "country_code": "FI",
+        "asn": "42252",
+        "description": "Kaapelinetworks Oy",
+        "handle": "LASIPALATSI-AS"
+    },
+    "42343": {
+        "country_code": "FI",
+        "asn": "42343",
+        "description": "Karjaan Puhelin Oy",
+        "handle": "KTAB-AS"
+    },
+    "42540": {
+        "country_code": "FI",
+        "asn": "42540",
+        "description": "Atea Finland Oy",
+        "handle": "ATEA-AS"
+    },
+    "42621": {
+        "country_code": "FI",
+        "asn": "42621",
+        "description": "LPOnet Osk Anl",
+        "handle": "LPOK-AS"
+    },
+    "42885": {
+        "country_code": "FI",
+        "asn": "42885",
+        "description": "Paraisten Puhelin Oy",
+        "handle": "PARTEL"
+    },
+    "42977": {
+        "country_code": "FI",
+        "asn": "42977",
+        "description": "Ambientia Group Oy",
+        "handle": "AMB-AS"
+    },
+    "43016": {
+        "country_code": "FI",
+        "asn": "43016",
+        "description": "Keski-Suomen Valokuituverkot Oy",
+        "handle": "KSVVNET"
+    },
+    "43024": {
+        "country_code": "FI",
+        "asn": "43024",
+        "description": "Datalahti Oy",
+        "handle": "DALAHTI-GER-AS"
+    },
+    "43161": {
+        "country_code": "FI",
+        "asn": "43161",
+        "description": "Frendy Oy",
+        "handle": "AS-WISDOMIC"
+    },
+    "43499": {
+        "country_code": "FI",
+        "asn": "43499",
+        "description": "Innofactor Software Oy",
+        "handle": "DOCUMENTA-AS"
+    },
+    "43558": {
+        "country_code": "FI",
+        "asn": "43558",
+        "description": "Finnish Transport and Communications Agency",
+        "handle": "FICORA-FI-ANYCAST"
+    },
+    "43692": {
+        "country_code": "FI",
+        "asn": "43692",
+        "description": "ZD Communications Oy",
+        "handle": "ZD-AS"
+    },
+    "43792": {
+        "country_code": "FI",
+        "asn": "43792",
+        "description": "Saku Matias Ytti",
+        "handle": "YTTI"
+    },
+    "44146": {
+        "country_code": "FI",
+        "asn": "44146",
+        "description": "FoxCodePlus Oy",
+        "handle": "ASFOXCODE"
+    },
+    "44506": {
+        "country_code": "FI",
+        "asn": "44506",
+        "description": "LP Vahvavirta Osk",
+        "handle": "LAITILANPUHELIN"
+    },
+    "45010": {
+        "country_code": "FI",
+        "asn": "45010",
+        "description": "S1 Networks Oy",
+        "handle": "MEGATUUTTI"
+    },
+    "47605": {
+        "country_code": "FI",
+        "asn": "47605",
+        "description": "FNE-Finland Oy",
+        "handle": "FNE-AS"
+    },
+    "47732": {
+        "country_code": "FI",
+        "asn": "47732",
+        "description": "Equinix (Finland) Oy",
+        "handle": "EQUINIX-CLOUD-EXCHANGE-HELSINKI-ASN"
+    },
+    "47983": {
+        "country_code": "FI",
+        "asn": "47983",
+        "description": "Cinia Oy",
+        "handle": "OPTIMESYS"
+    },
+    "48156": {
+        "country_code": "FI",
+        "asn": "48156",
+        "description": "Sanoma Oyj",
+        "handle": "SANOMA-AS"
+    },
+    "48299": {
+        "country_code": "FI",
+        "asn": "48299",
+        "description": "Digita Oy",
+        "handle": "DIGITA"
+    },
+    "48346": {
+        "country_code": "FI",
+        "asn": "48346",
+        "description": "Jarventaustan Kylakuituosuuskunta",
+        "handle": "ASJTKK"
+    },
+    "48618": {
+        "country_code": "FI",
+        "asn": "48618",
+        "description": "Oulun DataCenter Oy",
+        "handle": "OULUDC"
+    },
+    "48755": {
+        "country_code": "FI",
+        "asn": "48755",
+        "description": "ILJOJA Oy",
+        "handle": "ILJOJA-AS"
+    },
+    "49059": {
+        "country_code": "FI",
+        "asn": "49059",
+        "description": "Salomaa Yhtiot Oy",
+        "handle": "SALOMAA-AS"
+    },
+    "49189": {
+        "country_code": "FI",
+        "asn": "49189",
+        "description": "Joonas Ahonen trading as ILJOJA Networks",
+        "handle": "ILJOJANET-AS"
+    },
+    "49282": {
+        "country_code": "FI",
+        "asn": "49282",
+        "description": "Verne Vantaa Oy",
+        "handle": "FICOLO"
+    },
+    "49283": {
+        "country_code": "FI",
+        "asn": "49283",
+        "description": "Setera Oy",
+        "handle": "SETERA-AS"
+    },
+    "49397": {
+        "country_code": "FI",
+        "asn": "49397",
+        "description": "Sava-Group Oy",
+        "handle": "SAVA-GROUP-AS"
+    },
+    "49422": {
+        "country_code": "FI",
+        "asn": "49422",
+        "description": "DNA Oyj",
+        "handle": "FORTENET"
+    },
+    "49430": {
+        "country_code": "FI",
+        "asn": "49430",
+        "description": "Pihlajalinna Terveys Oy",
+        "handle": "PIHLAJALINNA-AS"
+    },
+    "49670": {
+        "country_code": "FI",
+        "asn": "49670",
+        "description": "Insta DefSec Oy",
+        "handle": "INSTADEF-AS"
+    },
+    "49762": {
+        "country_code": "FI",
+        "asn": "49762",
+        "description": "Elisa Santa Monica Oy",
+        "handle": "SMN-AS"
+    },
+    "49826": {
+        "country_code": "FI",
+        "asn": "49826",
+        "description": "Lounea Palvelut Oy",
+        "handle": "FSP-AS"
+    },
+    "49866": {
+        "country_code": "FI",
+        "asn": "49866",
+        "description": "Loopback Oy",
+        "handle": "LOOPBACK"
+    },
+    "50154": {
+        "country_code": "FI",
+        "asn": "50154",
+        "description": "Nokia Oyj",
+        "handle": "ION-NOKIA"
+    },
+    "50290": {
+        "country_code": "FI",
+        "asn": "50290",
+        "description": "Valtion tieto - Ja viestintatekniikkakeskus Valtori",
+        "handle": "VK-VALTORI-AS"
+    },
+    "50296": {
+        "country_code": "FI",
+        "asn": "50296",
+        "description": "Nettia Oy",
+        "handle": "SCANDICOM"
+    },
+    "50377": {
+        "country_code": "FI",
+        "asn": "50377",
+        "description": "Dustin Finland Oy",
+        "handle": "ITAITO-AS"
+    },
+    "50503": {
+        "country_code": "FI",
+        "asn": "50503",
+        "description": "ICT Elmo Oy",
+        "handle": "TP-AS"
+    },
+    "50585": {
+        "country_code": "FI",
+        "asn": "50585",
+        "description": "Suomen Datasafe Oy",
+        "handle": "DATASAFE-AS"
+    },
+    "50603": {
+        "country_code": "FI",
+        "asn": "50603",
+        "description": "Artio Oy",
+        "handle": "ARTIO-AS"
+    },
+    "51161": {
+        "country_code": "FI",
+        "asn": "51161",
+        "description": "Aktia Bank Abp",
+        "handle": "AKTIA-AS"
+    },
+    "51164": {
+        "country_code": "FI",
+        "asn": "51164",
+        "description": "Knowit Solutions Oy",
+        "handle": "KNOWIT-FI"
+    },
+    "51188": {
+        "country_code": "FI",
+        "asn": "51188",
+        "description": "Telia Cygate Oy",
+        "handle": "CRESCOM-AS"
+    },
+    "51311": {
+        "country_code": "FI",
+        "asn": "51311",
+        "description": "Noisy Stream Oy",
+        "handle": "ASNS"
+    },
+    "51319": {
+        "country_code": "FI",
+        "asn": "51319",
+        "description": "KajoNet Oy",
+        "handle": "KAJONET"
+    },
+    "51473": {
+        "country_code": "FI",
+        "asn": "51473",
+        "description": "Maxisat Oy",
+        "handle": "MAXISAT-AS"
+    },
+    "51571": {
+        "country_code": "FI",
+        "asn": "51571",
+        "description": "Alpit Nordic Oy",
+        "handle": "ALPIT-NORDIC-AS"
+    },
+    "51691": {
+        "country_code": "FI",
+        "asn": "51691",
+        "description": "F-Solutions Oy",
+        "handle": "FSOL-AS"
+    },
+    "51726": {
+        "country_code": "FI",
+        "asn": "51726",
+        "description": "Oy Suomen Tietotoimisto - Finska Notisbyran Ab",
+        "handle": "STT-AS"
+    },
+    "51728": {
+        "country_code": "FI",
+        "asn": "51728",
+        "description": "Seltimil Oy",
+        "handle": "SELTIMIL-AS"
+    },
+    "51765": {
+        "country_code": "FI",
+        "asn": "51765",
+        "description": "Oy Crea Nova Hosting Solution Ltd",
+        "handle": "CREANOVA-AS"
+    },
+    "51935": {
+        "country_code": "FI",
+        "asn": "51935",
+        "description": "BLC Telecom Oy",
+        "handle": "SPY-AS"
+    },
+    "51941": {
+        "country_code": "FI",
+        "asn": "51941",
+        "description": "BaseN Oy",
+        "handle": "BASEN-EU"
+    },
+    "52004": {
+        "country_code": "FI",
+        "asn": "52004",
+        "description": "Lindex Group Oyj",
+        "handle": "STOCKMANN-AS"
+    },
+    "52056": {
+        "country_code": "FI",
+        "asn": "52056",
+        "description": "Lounea Palvelut Oy",
+        "handle": "HTP-AS"
+    },
+    "52121": {
+        "country_code": "FI",
+        "asn": "52121",
+        "description": "Kavalanit Oy",
+        "handle": "AS-KAVALANIT"
+    },
+    "52170": {
+        "country_code": "FI",
+        "asn": "52170",
+        "description": "Helen Oy",
+        "handle": "HELEN-AS"
+    },
+    "56520": {
+        "country_code": "FI",
+        "asn": "56520",
+        "description": "Neve Oy",
+        "handle": "NEVEOY-AS"
+    },
+    "56900": {
+        "country_code": "FI",
+        "asn": "56900",
+        "description": "Lansilinkki Oy",
+        "handle": "WESTLINK"
+    },
+    "57066": {
+        "country_code": "FI",
+        "asn": "57066",
+        "description": "Yleisradio Oy",
+        "handle": "YLE"
+    },
+    "57313": {
+        "country_code": "FI",
+        "asn": "57313",
+        "description": "Puustelli Group Oy",
+        "handle": "PUUSTELLI"
+    },
+    "57359": {
+        "country_code": "FI",
+        "asn": "57359",
+        "description": "Pyhanet Oy",
+        "handle": "PYHANET-AS"
+    },
+    "57390": {
+        "country_code": "FI",
+        "asn": "57390",
+        "description": "Setera Oy",
+        "handle": "SETERA-INTERNATIONAL"
+    },
+    "57664": {
+        "country_code": "FI",
+        "asn": "57664",
+        "description": "F-Solutions Oy",
+        "handle": "FSOL-AS-SOUTH"
+    },
+    "57692": {
+        "country_code": "FI",
+        "asn": "57692",
+        "description": "Kapsi Internet-kayttajat ry",
+        "handle": "KAPSI-AS"
+    },
+    "57732": {
+        "country_code": "FI",
+        "asn": "57732",
+        "description": "Ikaalisten-Parkanon Puhelin Osakeyhtio Ltd",
+        "handle": "IPPOY-AS"
+    },
+    "58003": {
+        "country_code": "FI",
+        "asn": "58003",
+        "description": "Planeetta Internet Oy",
+        "handle": "PLANEETTA-AS"
+    },
+    "58340": {
+        "country_code": "FI",
+        "asn": "58340",
+        "description": "Napapiirin Kuituverkot Oy",
+        "handle": "NEVE"
+    },
+    "59397": {
+        "country_code": "FI",
+        "asn": "59397",
+        "description": "Remod Oy",
+        "handle": "REMOD-AS"
+    },
+    "59650": {
+        "country_code": "FI",
+        "asn": "59650",
+        "description": "LahtiNetwork Oy",
+        "handle": "LNOY-AS"
+    },
+    "60109": {
+        "country_code": "FI",
+        "asn": "60109",
+        "description": "F-Solutions Oy",
+        "handle": "FSOL-AS-VECTOR"
+    },
+    "60116": {
+        "country_code": "FI",
+        "asn": "60116",
+        "description": "Finnish Communication and Internet Exchange - FICIX ry",
+        "handle": "FICIX-IXP"
+    },
+    "60156": {
+        "country_code": "FI",
+        "asn": "60156",
+        "description": "Solution Design Inc Oy",
+        "handle": "SDI-AS"
+    },
+    "60354": {
+        "country_code": "FI",
+        "asn": "60354",
+        "description": "Richie Ltd",
+        "handle": "RICHIE"
+    },
+    "60414": {
+        "country_code": "FI",
+        "asn": "60414",
+        "description": "Baytems Holdings Oy",
+        "handle": "NETINCH"
+    },
+    "60616": {
+        "country_code": "FI",
+        "asn": "60616",
+        "description": "Kyndryl Finland Oy",
+        "handle": "IBM-FINLAND"
+    },
+    "60846": {
+        "country_code": "FI",
+        "asn": "60846",
+        "description": "Nokian Renkaat Oyj",
+        "handle": "NOKIAN-AS"
+    },
+    "60869": {
+        "country_code": "FI",
+        "asn": "60869",
+        "description": "Jarvi-Suomen Valokuitu Oy",
+        "handle": "JSVOY-AS"
+    },
+    "60903": {
+        "country_code": "FI",
+        "asn": "60903",
+        "description": "Tyrnavan kunta",
+        "handle": "TYRNAVA-AS"
+    },
+    "60937": {
+        "country_code": "FI",
+        "asn": "60937",
+        "description": "Savon ICT-palvelut Oy",
+        "handle": "SAVON-ICT"
+    },
+    "60970": {
+        "country_code": "FI",
+        "asn": "60970",
+        "description": "Herman IT Oy",
+        "handle": "HERMANIT-AS"
+    },
+    "61074": {
+        "country_code": "FI",
+        "asn": "61074",
+        "description": "Cuuma Communications Oy",
+        "handle": "AS-CUUMA"
+    },
+    "61177": {
+        "country_code": "FI",
+        "asn": "61177",
+        "description": "NettiTieto Oy",
+        "handle": "NTG-AS"
+    },
+    "61340": {
+        "country_code": "FI",
+        "asn": "61340",
+        "description": "Prog-It Oy",
+        "handle": "PROG-IT"
+    },
+    "61395": {
+        "country_code": "FI",
+        "asn": "61395",
+        "description": "sysops Finland Oy",
+        "handle": "SYSOPS-FINLAND"
+    },
+    "61990": {
+        "country_code": "FI",
+        "asn": "61990",
+        "description": "Vaisala Oyj",
+        "handle": "VAISALA"
+    },
+    "62022": {
+        "country_code": "FI",
+        "asn": "62022",
+        "description": "City of Espoo",
+        "handle": "ESPOO-FI"
+    },
+    "62194": {
+        "country_code": "FI",
+        "asn": "62194",
+        "description": "Nokia Oyj",
+        "handle": "NOKIAWING"
+    },
+    "62254": {
+        "country_code": "FI",
+        "asn": "62254",
+        "description": "Avarn Security Oy",
+        "handle": "AVARN-FI"
+    },
+    "62357": {
+        "country_code": "FI",
+        "asn": "62357",
+        "description": "2M-IT Oy",
+        "handle": "MEDNET"
+    },
+    "196655": {
+        "country_code": "FI",
+        "asn": "196655",
+        "description": "Nivos Energia Oy",
+        "handle": "MSOYNET-AS"
+    },
+    "197032": {
+        "country_code": "FI",
+        "asn": "197032",
+        "description": "TREX Regional Exchanges Oy",
+        "handle": "TREX-RS"
+    },
+    "197115": {
+        "country_code": "FI",
+        "asn": "197115",
+        "description": "KEVA",
+        "handle": "KEVA"
+    },
+    "197930": {
+        "country_code": "FI",
+        "asn": "197930",
+        "description": "Haahtela-kehitys Oy",
+        "handle": "HK-AS"
+    },
+    "198020": {
+        "country_code": "FI",
+        "asn": "198020",
+        "description": "Verda Cloud Oy",
+        "handle": "DATACRUNCH"
+    },
+    "198024": {
+        "country_code": "FI",
+        "asn": "198024",
+        "description": "Istekki Oy",
+        "handle": "FI-ISTEKKI-AS"
+    },
+    "198118": {
+        "country_code": "FI",
+        "asn": "198118",
+        "description": "SGN Group Oy",
+        "handle": "SGN-GROUP"
+    },
+    "198443": {
+        "country_code": "FI",
+        "asn": "198443",
+        "description": "Advania Finland Oy",
+        "handle": "IRONNET-AS"
+    },
+    "198514": {
+        "country_code": "FI",
+        "asn": "198514",
+        "description": "ALSO Cloud Oy",
+        "handle": "ALSOCLOUDOY"
+    },
+    "198737": {
+        "country_code": "FI",
+        "asn": "198737",
+        "description": "TS-Yhtyma Oy",
+        "handle": "TS-YHTYMA"
+    },
+    "198859": {
+        "country_code": "FI",
+        "asn": "198859",
+        "description": "Osuuskunta Keskikaista",
+        "handle": "ASKESKIKAISTA"
+    },
+    "198936": {
+        "country_code": "FI",
+        "asn": "198936",
+        "description": "Tietotunkki oy",
+        "handle": "TIETOTUNKKI-OY"
+    },
+    "199087": {
+        "country_code": "FI",
+        "asn": "199087",
+        "description": "KaseNet Oy",
+        "handle": "KASENET"
+    },
+    "199122": {
+        "country_code": "FI",
+        "asn": "199122",
+        "description": "European Chemicals Agency",
+        "handle": "ECHA-AS"
+    },
+    "199231": {
+        "country_code": "FI",
+        "asn": "199231",
+        "description": "Datalahti Oy",
+        "handle": "DATALAHTI-AS"
+    },
+    "199480": {
+        "country_code": "FI",
+        "asn": "199480",
+        "description": "Alajarven Puhelinosuuskunta JAPO",
+        "handle": "JAPO-AS"
+    },
+    "199486": {
+        "country_code": "FI",
+        "asn": "199486",
+        "description": "Tietokeskus Finland Oy",
+        "handle": "TIETOKESKUS-AS"
+    },
+    "199508": {
+        "country_code": "FI",
+        "asn": "199508",
+        "description": "S1 Networks Oy",
+        "handle": "S1NETWORKS-AS"
+    },
+    "200087": {
+        "country_code": "FI",
+        "asn": "200087",
+        "description": "Onnisys Oy",
+        "handle": "ONNISYS-AS"
+    },
+    "200134": {
+        "country_code": "FI",
+        "asn": "200134",
+        "description": "IP-Connect AB",
+        "handle": "IPCONNECT"
+    },
+    "200444": {
+        "country_code": "FI",
+        "asn": "200444",
+        "description": "Glenn Haeger trading as GLH Netsolutions",
+        "handle": "GLH1"
+    },
+    "200610": {
+        "country_code": "FI",
+        "asn": "200610",
+        "description": "Fujitsu Finland Oy",
+        "handle": "FUJDC2"
+    },
+    "200630": {
+        "country_code": "FI",
+        "asn": "200630",
+        "description": "Valtion tieto - Ja viestintatekniikkakeskus Valtori",
+        "handle": "VALTORI-DC-AS"
+    },
+    "200656": {
+        "country_code": "FI",
+        "asn": "200656",
+        "description": "Nokia Solutions and Networks Oy",
+        "handle": "NOKIA-EMEA"
+    },
+    "200696": {
+        "country_code": "FI",
+        "asn": "200696",
+        "description": "Alands Penningautomatforening",
+        "handle": "PAF"
+    },
+    "200711": {
+        "country_code": "FI",
+        "asn": "200711",
+        "description": "Telia Cygate Oy",
+        "handle": "INM"
+    },
+    "200891": {
+        "country_code": "FI",
+        "asn": "200891",
+        "description": "Suomen Yhteisverkko Oy",
+        "handle": "FSN-ASN"
+    },
+    "200905": {
+        "country_code": "FI",
+        "asn": "200905",
+        "description": "Open Text Oy",
+        "handle": "LIAISONTECH"
+    },
+    "200996": {
+        "country_code": "FI",
+        "asn": "200996",
+        "description": "Suomen Kuntaliitto ry",
+        "handle": "KUNTALIITTO-AS"
+    },
+    "201006": {
+        "country_code": "FI",
+        "asn": "201006",
+        "description": "Kuuskaistan Palvelut Oy",
+        "handle": "KUUSKAISTAP"
+    },
+    "201057": {
+        "country_code": "FI",
+        "asn": "201057",
+        "description": "Multim Oy",
+        "handle": "MULTIMFI"
+    },
+    "201139": {
+        "country_code": "FI",
+        "asn": "201139",
+        "description": "Alavuden Kaupunki",
+        "handle": "FI-ALAVUS-AS"
+    },
+    "201166": {
+        "country_code": "FI",
+        "asn": "201166",
+        "description": "Bittiguru Oy",
+        "handle": "BITTIGURU"
+    },
+    "201172": {
+        "country_code": "FI",
+        "asn": "201172",
+        "description": "Suupohjan Seutuverkko Oy",
+        "handle": "SUNET-IP-RUNKO"
+    },
+    "201271": {
+        "country_code": "FI",
+        "asn": "201271",
+        "description": "Nordea Bank Abp",
+        "handle": "NORDEA-AS"
+    },
+    "201557": {
+        "country_code": "FI",
+        "asn": "201557",
+        "description": "Valoo Oy",
+        "handle": "KEMI-FI"
+    },
+    "201587": {
+        "country_code": "FI",
+        "asn": "201587",
+        "description": "verkko-osuuskunta Kuuskaista",
+        "handle": "KUUSKAISTA"
+    },
+    "201599": {
+        "country_code": "FI",
+        "asn": "201599",
+        "description": "Kimito Telefonaktiebolag Ltd",
+        "handle": "KIMITOTELEFON"
+    },
+    "201692": {
+        "country_code": "FI",
+        "asn": "201692",
+        "description": "Zoner Oy",
+        "handle": "ZONER-AS"
+    },
+    "201726": {
+        "country_code": "FI",
+        "asn": "201726",
+        "description": "Andrew Palardy",
+        "handle": "APALRD-ASN"
+    },
+    "201750": {
+        "country_code": "FI",
+        "asn": "201750",
+        "description": "Contrasec Oy",
+        "handle": "CONTRASEC"
+    },
+    "201964": {
+        "country_code": "FI",
+        "asn": "201964",
+        "description": "Domainkeskus Oy",
+        "handle": "EURONIC"
+    },
+    "201991": {
+        "country_code": "FI",
+        "asn": "201991",
+        "description": "Metsaliitto Osuuskunta",
+        "handle": "METSAGROUP-AS"
+    },
+    "202049": {
+        "country_code": "FI",
+        "asn": "202049",
+        "description": "Encrypted Email Finland Ltd",
+        "handle": "STP-AS"
+    },
+    "202053": {
+        "country_code": "FI",
+        "asn": "202053",
+        "description": "UpCloud Ltd",
+        "handle": "UPCLOUD"
+    },
+    "202180": {
+        "country_code": "FI",
+        "asn": "202180",
+        "description": "Qvantel Finland Oy",
+        "handle": "QVANTEL"
+    },
+    "202246": {
+        "country_code": "FI",
+        "asn": "202246",
+        "description": "Valoo Oy",
+        "handle": "VALOO"
+    },
+    "202407": {
+        "country_code": "FI",
+        "asn": "202407",
+        "description": "Pohjois-Pohjanmaan Sairaanhoitopiirin kuntayhtyma",
+        "handle": "PPSHP"
+    },
+    "202426": {
+        "country_code": "FI",
+        "asn": "202426",
+        "description": "Advania Finland Oy",
+        "handle": "ACCOUNTOR-FI"
+    },
+    "202509": {
+        "country_code": "FI",
+        "asn": "202509",
+        "description": "Cloud City Oy",
+        "handle": "CLOUDCITY"
+    },
+    "202677": {
+        "country_code": "FI",
+        "asn": "202677",
+        "description": "Fujitsu Finland Oy",
+        "handle": "FUJK5"
+    },
+    "202858": {
+        "country_code": "FI",
+        "asn": "202858",
+        "description": "Alastair Barber",
+        "handle": "ALASTAIR"
+    },
+    "203003": {
+        "country_code": "FI",
+        "asn": "203003",
+        "description": "Magna Capax Finland Oy",
+        "handle": "MAGNA-CAPAX"
+    },
+    "203034": {
+        "country_code": "FI",
+        "asn": "203034",
+        "description": "Planmeca oy",
+        "handle": "PLANMECA"
+    },
+    "203195": {
+        "country_code": "FI",
+        "asn": "203195",
+        "description": "DT-Link Oy",
+        "handle": "DTLINK"
+    },
+    "203296": {
+        "country_code": "FI",
+        "asn": "203296",
+        "description": "Kristillinen Media Oy",
+        "handle": "DEI"
+    },
+    "203373": {
+        "country_code": "FI",
+        "asn": "203373",
+        "description": "Eltel Group Oy",
+        "handle": "ELTEL-GROUP-AS"
+    },
+    "203486": {
+        "country_code": "FI",
+        "asn": "203486",
+        "description": "Palvelinpuisto Oy",
+        "handle": "PALVELINPUISTO"
+    },
+    "203602": {
+        "country_code": "FI",
+        "asn": "203602",
+        "description": "M-Files Oy",
+        "handle": "MFILES-AS"
+    },
+    "203609": {
+        "country_code": "FI",
+        "asn": "203609",
+        "description": "Suomen Erillisverkot Oy",
+        "handle": "ERILLISVERKOT"
+    },
+    "203817": {
+        "country_code": "FI",
+        "asn": "203817",
+        "description": "Kuhmon kylaverkko-osuuskunta",
+        "handle": "NOSTE-AS"
+    },
+    "203871": {
+        "country_code": "FI",
+        "asn": "203871",
+        "description": "Antti Tonkyra",
+        "handle": "MAKAI-AS"
+    },
+    "203875": {
+        "country_code": "FI",
+        "asn": "203875",
+        "description": "Henri Strand",
+        "handle": "STRAND-AS"
+    },
+    "203940": {
+        "country_code": "FI",
+        "asn": "203940",
+        "description": "Kalajoen Kaupunki",
+        "handle": "KALAJOKI"
+    },
+    "204002": {
+        "country_code": "FI",
+        "asn": "204002",
+        "description": "SD Worx Finland Oy",
+        "handle": "ADITROCLOUD"
+    },
+    "204088": {
+        "country_code": "FI",
+        "asn": "204088",
+        "description": "Lago Networks Oy",
+        "handle": "LGNO-AS"
+    },
+    "204129": {
+        "country_code": "FI",
+        "asn": "204129",
+        "description": "Tornion Kaupunki",
+        "handle": "TORNIO-AS"
+    },
+    "204187": {
+        "country_code": "FI",
+        "asn": "204187",
+        "description": "Oy Crea Nova Hosting Solution Ltd",
+        "handle": "CREANOVA-AS-DRP"
+    },
+    "204341": {
+        "country_code": "FI",
+        "asn": "204341",
+        "description": "Valtion tieto - Ja viestintatekniikkakeskus Valtori",
+        "handle": "VALTORI-CLOUD-AS"
+    },
+    "204452": {
+        "country_code": "FI",
+        "asn": "204452",
+        "description": "Vaestorekisterikeskus",
+        "handle": "VRK-AS"
+    },
+    "204609": {
+        "country_code": "FI",
+        "asn": "204609",
+        "description": "Comspot services Oy",
+        "handle": "CSFI"
+    },
+    "204779": {
+        "country_code": "FI",
+        "asn": "204779",
+        "description": "Local Loop Oy",
+        "handle": "LOCALNETFI"
+    },
+    "204937": {
+        "country_code": "FI",
+        "asn": "204937",
+        "description": "Nordea Bank Abp",
+        "handle": "NORDEA-ASN"
+    },
+    "204954": {
+        "country_code": "FI",
+        "asn": "204954",
+        "description": "Kaakkois-Suomen Tieto Oy",
+        "handle": "KSTIETO-AS"
+    },
+    "205069": {
+        "country_code": "FI",
+        "asn": "205069",
+        "description": "Frendy Oy",
+        "handle": "TRIUV"
+    },
+    "205250": {
+        "country_code": "FI",
+        "asn": "205250",
+        "description": "Turun Kaupunki",
+        "handle": "TURUNKAUPUNKI"
+    },
+    "205449": {
+        "country_code": "FI",
+        "asn": "205449",
+        "description": "DevNet Oy",
+        "handle": "DEVNET"
+    },
+    "205709": {
+        "country_code": "FI",
+        "asn": "205709",
+        "description": "Tietokeskus Finland Oy",
+        "handle": "DATABROS-FI"
+    },
+    "206125": {
+        "country_code": "FI",
+        "asn": "206125",
+        "description": "Nicklas Yli-Lantta",
+        "handle": "TIMNET"
+    },
+    "206175": {
+        "country_code": "FI",
+        "asn": "206175",
+        "description": "Meidan IT ja talous Oy",
+        "handle": "PKMKV"
+    },
+    "206364": {
+        "country_code": "FI",
+        "asn": "206364",
+        "description": "Suomi Communications Oy",
+        "handle": "SUOMICOM"
+    },
+    "206381": {
+        "country_code": "FI",
+        "asn": "206381",
+        "description": "Pinja Digital Oy",
+        "handle": "PINJA"
+    },
+    "206520": {
+        "country_code": "FI",
+        "asn": "206520",
+        "description": "HUB logistics Finland Oy",
+        "handle": "HUBLOGISTICS"
+    },
+    "206860": {
+        "country_code": "FI",
+        "asn": "206860",
+        "description": "LapIT Oy",
+        "handle": "OULUNKAARI"
+    },
+    "206927": {
+        "country_code": "FI",
+        "asn": "206927",
+        "description": "Bittium Technologies Oy",
+        "handle": "BITTIUM"
+    },
+    "207003": {
+        "country_code": "FI",
+        "asn": "207003",
+        "description": "Web1 Oy",
+        "handle": "WEB1-AS"
+    },
+    "207006": {
+        "country_code": "FI",
+        "asn": "207006",
+        "description": "Antti Johannes Wilhelm Brummer",
+        "handle": "MACRONET"
+    },
+    "207038": {
+        "country_code": "FI",
+        "asn": "207038",
+        "description": "Mtech Digital Solutions Oy",
+        "handle": "MLOY-AS"
+    },
+    "207041": {
+        "country_code": "FI",
+        "asn": "207041",
+        "description": "Innovisio Oy",
+        "handle": "INNOTEN"
+    },
+    "207065": {
+        "country_code": "FI",
+        "asn": "207065",
+        "description": "Joki ICT Oy",
+        "handle": "JOKIICT"
+    },
+    "207178": {
+        "country_code": "FI",
+        "asn": "207178",
+        "description": "Frendy Oy",
+        "handle": "ETEVAT"
+    },
+    "207202": {
+        "country_code": "FI",
+        "asn": "207202",
+        "description": "Lighthouse Network Ltd Oy",
+        "handle": "LIGHTHOUSE"
+    },
+    "207261": {
+        "country_code": "FI",
+        "asn": "207261",
+        "description": "Luolakallio Oy",
+        "handle": "LUOLAKALLIO"
+    },
+    "207265": {
+        "country_code": "FI",
+        "asn": "207265",
+        "description": "Remedy Entertainment Oyj",
+        "handle": "REMEDY"
+    },
+    "207282": {
+        "country_code": "FI",
+        "asn": "207282",
+        "description": "HUS Group",
+        "handle": "HUH"
+    },
+    "207306": {
+        "country_code": "FI",
+        "asn": "207306",
+        "description": "Everia Oy",
+        "handle": "EVERIANET"
+    },
+    "207390": {
+        "country_code": "FI",
+        "asn": "207390",
+        "description": "Koulutuskuntayhtyma OSAO",
+        "handle": "OSAO"
+    },
+    "207425": {
+        "country_code": "FI",
+        "asn": "207425",
+        "description": "Innocode Oy",
+        "handle": "INNOCODE"
+    },
+    "207509": {
+        "country_code": "FI",
+        "asn": "207509",
+        "description": "Verkkokauppa.com Oyj",
+        "handle": "VERKKOKAUPPA"
+    },
+    "207670": {
+        "country_code": "FI",
+        "asn": "207670",
+        "description": "Kuntarahoitus Oyj",
+        "handle": "KUNTARAHOITUS"
+    },
+    "207729": {
+        "country_code": "FI",
+        "asn": "207729",
+        "description": "Oitis Com Oy",
+        "handle": "OITIS"
+    },
+    "207797": {
+        "country_code": "FI",
+        "asn": "207797",
+        "description": "Anygraaf Oy",
+        "handle": "ANYGRAAF"
+    },
+    "207880": {
+        "country_code": "FI",
+        "asn": "207880",
+        "description": "Mara Sophie Grosch",
+        "handle": "NETWORK-0X0A"
+    },
+    "208272": {
+        "country_code": "FI",
+        "asn": "208272",
+        "description": "VR-Group Ltd",
+        "handle": "VR-AS-FI"
+    },
+    "208281": {
+        "country_code": "FI",
+        "asn": "208281",
+        "description": "Domestic Network Association ry",
+        "handle": "DNARY"
+    },
+    "208599": {
+        "country_code": "FI",
+        "asn": "208599",
+        "description": "Lounea Palvelut Oy",
+        "handle": "KALAJOENKUITU"
+    },
+    "208722": {
+        "country_code": "FI",
+        "asn": "208722",
+        "description": "Nebius DC Oy",
+        "handle": "GLOBAL-DC"
+    },
+    "208987": {
+        "country_code": "FI",
+        "asn": "208987",
+        "description": "Suomen Videoviestinta SVV Oy",
+        "handle": "SVV"
+    },
+    "209091": {
+        "country_code": "FI",
+        "asn": "209091",
+        "description": "Jan-Anders Wiren",
+        "handle": "JAN-ANDERS-WIREN"
+    },
+    "209123": {
+        "country_code": "FI",
+        "asn": "209123",
+        "description": "rBit Ab",
+        "handle": "RBIT-AS"
+    },
+    "209299": {
+        "country_code": "FI",
+        "asn": "209299",
+        "description": "Ambientia Group Oy",
+        "handle": "AMB-CF-AS"
+    },
+    "209325": {
+        "country_code": "FI",
+        "asn": "209325",
+        "description": "Line Carrier Oy",
+        "handle": "LINECARRIER"
+    },
+    "209378": {
+        "country_code": "FI",
+        "asn": "209378",
+        "description": "Inios Oy",
+        "handle": "INIOS-AS"
+    },
+    "209457": {
+        "country_code": "FI",
+        "asn": "209457",
+        "description": "Etela-Pohjanmaan Hyvinvointialue",
+        "handle": "EPSHP-FI"
+    },
+    "209633": {
+        "country_code": "FI",
+        "asn": "209633",
+        "description": "Semel Oy",
+        "handle": "SEMEL"
+    },
+    "209682": {
+        "country_code": "FI",
+        "asn": "209682",
+        "description": "Finavia Oyj",
+        "handle": "FINAVIA"
+    },
+    "209875": {
+        "country_code": "FI",
+        "asn": "209875",
+        "description": "Sanoma Oyj",
+        "handle": "SANOMA-AS-NL"
+    },
+    "210167": {
+        "country_code": "FI",
+        "asn": "210167",
+        "description": "Valmet Automation Oy",
+        "handle": "VALMET-AUTOMATION"
+    },
+    "210180": {
+        "country_code": "FI",
+        "asn": "210180",
+        "description": "Kaleva Oy",
+        "handle": "KALEVAFI"
+    },
+    "210252": {
+        "country_code": "FI",
+        "asn": "210252",
+        "description": "Mintly Oy",
+        "handle": "MINTLY"
+    },
+    "210536": {
+        "country_code": "FI",
+        "asn": "210536",
+        "description": "Xetpoint Oy",
+        "handle": "XETNET"
+    },
+    "210592": {
+        "country_code": "FI",
+        "asn": "210592",
+        "description": "Fintraffic Tie Oy",
+        "handle": "FINTRAFFIC-TIE"
+    },
+    "210722": {
+        "country_code": "FI",
+        "asn": "210722",
+        "description": "Oy Turku Energia Abo Energi AB",
+        "handle": "TURKUENERGIA"
+    },
+    "211135": {
+        "country_code": "FI",
+        "asn": "211135",
+        "description": "Mirka Oy",
+        "handle": "MIRKA"
+    },
+    "211206": {
+        "country_code": "FI",
+        "asn": "211206",
+        "description": "Locotech Oy",
+        "handle": "LOCOTECH"
+    },
+    "211215": {
+        "country_code": "FI",
+        "asn": "211215",
+        "description": "Fibernet Finland Oy",
+        "handle": "FIBERNET"
+    },
+    "211368": {
+        "country_code": "FI",
+        "asn": "211368",
+        "description": "Cuitunet Oy",
+        "handle": "CUITUNET"
+    },
+    "211599": {
+        "country_code": "FI",
+        "asn": "211599",
+        "description": "Profirator OY",
+        "handle": "PROFIRATOR"
+    },
+    "211696": {
+        "country_code": "FI",
+        "asn": "211696",
+        "description": "Jae Lo Presti",
+        "handle": "NOISELESS-AS"
+    },
+    "211722": {
+        "country_code": "FI",
+        "asn": "211722",
+        "description": "Nullroute ry",
+        "handle": "NULLROUTE-AS"
+    },
+    "211770": {
+        "country_code": "FI",
+        "asn": "211770",
+        "description": "Wolt Oy",
+        "handle": "WOLT-AS"
+    },
+    "211799": {
+        "country_code": "FI",
+        "asn": "211799",
+        "description": "Taivalkosken kunta",
+        "handle": "TAIVALKOSKI"
+    },
+    "211848": {
+        "country_code": "FI",
+        "asn": "211848",
+        "description": "Fraidei Oy",
+        "handle": "PRINTCOM-AS"
+    },
+    "211929": {
+        "country_code": "FI",
+        "asn": "211929",
+        "description": "Kuusamon kaupunki",
+        "handle": "KUUSAMO"
+    },
+    "211989": {
+        "country_code": "FI",
+        "asn": "211989",
+        "description": "Trivore oy",
+        "handle": "TRIVORE"
+    },
+    "212386": {
+        "country_code": "FI",
+        "asn": "212386",
+        "description": "Pankkih Oy",
+        "handle": "CDCTELIA"
+    },
+    "212497": {
+        "country_code": "FI",
+        "asn": "212497",
+        "description": "Suomen Yhteisverkko Oy",
+        "handle": "FSN-ASN"
+    },
+    "212574": {
+        "country_code": "FI",
+        "asn": "212574",
+        "description": "F9 Distribution Oy",
+        "handle": "F9-IP-1"
+    },
+    "212664": {
+        "country_code": "FI",
+        "asn": "212664",
+        "description": "Pori Energia Oy",
+        "handle": "PORI-ENERGIA"
+    },
+    "212881": {
+        "country_code": "FI",
+        "asn": "212881",
+        "description": "Jehovan Todistajat",
+        "handle": "JWFIN-AS"
+    },
+    "212916": {
+        "country_code": "FI",
+        "asn": "212916",
+        "description": "Supercell Oy",
+        "handle": "SUPERCELL"
+    },
+    "213070": {
+        "country_code": "FI",
+        "asn": "213070",
+        "description": "Mediam Group Oy",
+        "handle": "MEDIAM-INT-AS"
+    },
+    "213269": {
+        "country_code": "FI",
+        "asn": "213269",
+        "description": "Oulun Seudun Sahko Kuitu Oy",
+        "handle": "OSS"
+    },
+    "213468": {
+        "country_code": "FI",
+        "asn": "213468",
+        "description": "HD-decor Oy",
+        "handle": "TIETOKETTU"
+    },
+    "213524": {
+        "country_code": "FI",
+        "asn": "213524",
+        "description": "Oulun Energia Oy",
+        "handle": "OE-AS"
+    },
+    "213547": {
+        "country_code": "FI",
+        "asn": "213547",
+        "description": "Hindersby-Backby Service Ab",
+        "handle": "HB-SERVICE-AS"
+    },
+    "213689": {
+        "country_code": "FI",
+        "asn": "213689",
+        "description": "Nameto Oy",
+        "handle": "NAMETO"
+    },
+    "213879": {
+        "country_code": "FI",
+        "asn": "213879",
+        "description": "JH Computer Oy",
+        "handle": "JHCOMPUTER"
+    },
+    "214044": {
+        "country_code": "FI",
+        "asn": "214044",
+        "description": "Pauli Tiittanen",
+        "handle": "PAULITIITTANENJUKKADANIEL"
+    },
+    "214100": {
+        "country_code": "FI",
+        "asn": "214100",
+        "description": "RubyNet Oy",
+        "handle": "RUBYNET-AS"
+    },
+    "214288": {
+        "country_code": "FI",
+        "asn": "214288",
+        "description": "Simon Jagoe",
+        "handle": "SIMON-JAGOE"
+    },
+    "214353": {
+        "country_code": "FI",
+        "asn": "214353",
+        "description": "NMJ Service Oy",
+        "handle": "NMJ-SERVICE-OY"
+    },
+    "214494": {
+        "country_code": "FI",
+        "asn": "214494",
+        "description": "Oy Karl Fazer Ab",
+        "handle": "OYKARLFAZERAB"
+    },
+    "214692": {
+        "country_code": "FI",
+        "asn": "214692",
+        "description": "Valtion tieto- ja viestintatekniikkakeskus TUVE-palvelut",
+        "handle": "VALTORI-AS"
+    },
+    "214809": {
+        "country_code": "FI",
+        "asn": "214809",
+        "description": "Jere Kiitola trading as Stocade",
+        "handle": "STOCADE"
+    },
+    "215605": {
+        "country_code": "FI",
+        "asn": "215605",
+        "description": "Shams Hanna trading as InformatiQ",
+        "handle": "INFORMATIQ"
+    },
+    "215629": {
+        "country_code": "FI",
+        "asn": "215629",
+        "description": "Viipurin Reaalikoulu Oy",
+        "handle": "MAYK"
+    },
+    "215722": {
+        "country_code": "FI",
+        "asn": "215722",
+        "description": "LapIT Oy",
+        "handle": "LAPIT-AS"
+    },
+    "215776": {
+        "country_code": "FI",
+        "asn": "215776",
+        "description": "Kansanelakelaitos",
+        "handle": "KELA-AS"
+    },
+    "216002": {
+        "country_code": "FI",
+        "asn": "216002",
+        "description": "S-Infra Oy",
+        "handle": "S-INFRA"
+    },
+    "216421": {
+        "country_code": "FI",
+        "asn": "216421",
+        "description": "Adven Group Oy",
+        "handle": "ADVEN"
+    }
+}

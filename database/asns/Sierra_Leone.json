@@ -1,0 +1,134 @@
+{
+    "36988": {
+        "country_code": "SL",
+        "asn": "36988",
+        "description": "Africell Sierra Leone Limited",
+        "handle": "AFRICELL-LINTEL"
+    },
+    "37117": {
+        "country_code": "SL",
+        "asn": "37117",
+        "description": "Sierra Leone Internet eXchange",
+        "handle": "IXPSL-AS"
+    },
+    "37164": {
+        "country_code": "SL",
+        "asn": "37164",
+        "description": "Orange (SL) Limited",
+        "handle": "ZAIN-SL"
+    },
+    "37208": {
+        "country_code": "SL",
+        "asn": "37208",
+        "description": "Afcom (SL) Limited",
+        "handle": "AFCOM-SL"
+    },
+    "37418": {
+        "country_code": "SL",
+        "asn": "37418",
+        "description": "Guaranty Trust Bank Sierra Leone Limited",
+        "handle": "GUARANTY-SL"
+    },
+    "37449": {
+        "country_code": "SL",
+        "asn": "37449",
+        "description": "ONLIME SL LIMITED",
+        "handle": "ONLIME-SL"
+    },
+    "37723": {
+        "country_code": "SL",
+        "asn": "37723",
+        "description": "Cajutel (SL) Sarl Limited",
+        "handle": "CAJUTEL-ASN"
+    },
+    "37810": {
+        "country_code": "SL",
+        "asn": "37810",
+        "description": "Michcom-IX",
+        "handle": "MICHCOM-IX-PEERING"
+    },
+    "209049": {
+        "country_code": "SL",
+        "asn": "209049",
+        "description": "MICHCOM LIMITED",
+        "handle": "MICHCOM"
+    },
+    "327903": {
+        "country_code": "SL",
+        "asn": "327903",
+        "description": "Ministry of Information and Communications Government of Sierra Leone",
+        "handle": "MICG"
+    },
+    "327990": {
+        "country_code": "SL",
+        "asn": "327990",
+        "description": "AI NETWORKS LIMITED",
+        "handle": "AI-NETWORKS-LIMITED"
+    },
+    "328236": {
+        "country_code": "SL",
+        "asn": "328236",
+        "description": "PCS Holdings Limited",
+        "handle": "PCS-HOLDINGS-LIMITED"
+    },
+    "328258": {
+        "country_code": "SL",
+        "asn": "328258",
+        "description": "Zen Internet Company (SL) Limited",
+        "handle": "ZEN-INTERNET"
+    },
+    "328289": {
+        "country_code": "SL",
+        "asn": "328289",
+        "description": "CEE DEE INVESTMENT Company Limited",
+        "handle": "CEEDEE-INVESTMENT-AS"
+    },
+    "328297": {
+        "country_code": "SL",
+        "asn": "328297",
+        "description": "QCell (SL) Limited",
+        "handle": "QCELL-AS"
+    },
+    "328579": {
+        "country_code": "SL",
+        "asn": "328579",
+        "description": "Sierra Rutile Limited",
+        "handle": "SIERRA-RUTILE"
+    },
+    "328581": {
+        "country_code": "SL",
+        "asn": "328581",
+        "description": "Fiber One (SL) LIMITED",
+        "handle": "FIBER-ONE"
+    },
+    "329109": {
+        "country_code": "SL",
+        "asn": "329109",
+        "description": "Zoodlabs(SL) Limited",
+        "handle": "ZL5-AS"
+    },
+    "329439": {
+        "country_code": "SL",
+        "asn": "329439",
+        "description": "Leonecom",
+        "handle": "LEONECOM"
+    },
+    "329561": {
+        "country_code": "SL",
+        "asn": "329561",
+        "description": "SMART TELCOM LIMITED",
+        "handle": "SMART-TELCOM-LIMITED"
+    },
+    "329574": {
+        "country_code": "SL",
+        "asn": "329574",
+        "description": "Sierra Leone Research and Education Network",
+        "handle": "SIERRA-LEONE-RESEARCH-AND-EDUCATION-NETW"
+    },
+    "329680": {
+        "country_code": "SL",
+        "asn": "329680",
+        "description": "Michcom-IX",
+        "handle": "MICHCOM-IX-MGMT"
+    }
+}

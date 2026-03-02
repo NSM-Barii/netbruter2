@@ -1,0 +1,68 @@
+{
+    "24013": {
+        "country_code": "SB",
+        "asn": "24013",
+        "description": "SB Professional Services",
+        "handle": "SB"
+    },
+    "45891": {
+        "country_code": "SB",
+        "asn": "45891",
+        "description": "Solomon Telekom Co Ltd",
+        "handle": "SBT-AS-AP"
+    },
+    "132260": {
+        "country_code": "SB",
+        "asn": "132260",
+        "description": "SATSOL LIMITED",
+        "handle": "SATSOL-NET-AS-AP"
+    },
+    "132462": {
+        "country_code": "SB",
+        "asn": "132462",
+        "description": "Bemobile Solomon Islands Ltd",
+        "handle": "BEMOBILESI-AS-AP"
+    },
+    "132468": {
+        "country_code": "SB",
+        "asn": "132468",
+        "description": "SATSOL LIMITED",
+        "handle": "SATSOL-NET-SB"
+    },
+    "134525": {
+        "country_code": "SB",
+        "asn": "134525",
+        "description": "Solomon Telekom Co Ltd",
+        "handle": "SBT-AS-AP"
+    },
+    "139277": {
+        "country_code": "SB",
+        "asn": "139277",
+        "description": "Solomon Islands Government ICT Support Department",
+        "handle": "SIG-AS-AP"
+    },
+    "139609": {
+        "country_code": "SB",
+        "asn": "139609",
+        "description": "Solomon Islands Submarine Cable Company",
+        "handle": "SISCC-AS-AP"
+    },
+    "142279": {
+        "country_code": "SB",
+        "asn": "142279",
+        "description": "Solitech Ltd",
+        "handle": "SOLITECHLTD-AS-AP"
+    },
+    "150349": {
+        "country_code": "SB",
+        "asn": "150349",
+        "description": "Pacific Vaizeds Enterprise Ltd",
+        "handle": "PVEL-AS-AP"
+    },
+    "150403": {
+        "country_code": "SB",
+        "asn": "150403",
+        "description": "Solomon Islands National Provident Fund Board",
+        "handle": "SINPF-AS-AP"
+    }
+}

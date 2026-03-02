@@ -1,0 +1,1298 @@
+{
+    "3178": {
+        "country_code": "IQ",
+        "asn": "3178",
+        "description": "FastLine For Communication And Information Technology Ltd",
+        "handle": "WIDETELECOM-AS"
+    },
+    "3194": {
+        "country_code": "IQ",
+        "asn": "3194",
+        "description": "SatGate Company for Trading of Computers Systems and Communications Appliances WLL",
+        "handle": "SATGATE-IRAQ"
+    },
+    "12952": {
+        "country_code": "IQ",
+        "asn": "12952",
+        "description": "Knowledge Path for Information Technology and General Trading Ltd",
+        "handle": "KNOWLEDGE-PATH-ISP-ASN"
+    },
+    "21277": {
+        "country_code": "IQ",
+        "asn": "21277",
+        "description": "Allay Nawroz Telecom Company for Communication/Ltd",
+        "handle": "NEWROZ-TELECOM-ASN"
+    },
+    "34515": {
+        "country_code": "IQ",
+        "asn": "34515",
+        "description": "Next Net for Internet and IT Services LTD",
+        "handle": "NEXTNET-AS"
+    },
+    "34929": {
+        "country_code": "IQ",
+        "asn": "34929",
+        "description": "Al-Jazeera Al-Arabiya Company for Communication and Internet LTD",
+        "handle": "JT-WAN-AS"
+    },
+    "35160": {
+        "country_code": "IQ",
+        "asn": "35160",
+        "description": "Communications and Media Commission (CMC)",
+        "handle": "IQ-CCLTD"
+    },
+    "39216": {
+        "country_code": "IQ",
+        "asn": "39216",
+        "description": "AL-SARD FIBER Co. for Internet Fiber and Optical Cable Services /Ltd.",
+        "handle": "ALSARD"
+    },
+    "41032": {
+        "country_code": "IQ",
+        "asn": "41032",
+        "description": "IQ Networks for Data and Internet Services Ltd",
+        "handle": "IQNETWORKS-BAGHDAD"
+    },
+    "41805": {
+        "country_code": "IQ",
+        "asn": "41805",
+        "description": "SAWAD LAND for Information Technology Ltd",
+        "handle": "IQ-SAWADLAND-AS"
+    },
+    "43836": {
+        "country_code": "IQ",
+        "asn": "43836",
+        "description": "Hayat for Internet & communication LLC",
+        "handle": "HAYAT-WAN-NETWORK"
+    },
+    "44217": {
+        "country_code": "IQ",
+        "asn": "44217",
+        "description": "IQ Networks for Data and Internet Services Ltd",
+        "handle": "IQNETWORKS"
+    },
+    "48175": {
+        "country_code": "IQ",
+        "asn": "48175",
+        "description": "Advanced Networking Technologies (A.N.T.) Company for Information Technology Ltd",
+        "handle": "ANT"
+    },
+    "48407": {
+        "country_code": "IQ",
+        "asn": "48407",
+        "description": "TigrisNet",
+        "handle": "TIGRISNET-IRAQ"
+    },
+    "48492": {
+        "country_code": "IQ",
+        "asn": "48492",
+        "description": "I.Q Online for Internet Services and Communications LLC",
+        "handle": "IQ-ONLINE"
+    },
+    "48980": {
+        "country_code": "IQ",
+        "asn": "48980",
+        "description": "Pure Line Co. For Telecommunications & Internet Ltd.",
+        "handle": "DD"
+    },
+    "49110": {
+        "country_code": "IQ",
+        "asn": "49110",
+        "description": "FUTURE TECHNOLOGY COMPANY FOR TECHNOLOGY AND INFORMATICS SERVICES LTD.",
+        "handle": "FTCOM-LTD"
+    },
+    "49571": {
+        "country_code": "IQ",
+        "asn": "49571",
+        "description": "CELLNET Company for Internet Services Ltd.",
+        "handle": "CELLNET-AS"
+    },
+    "49760": {
+        "country_code": "IQ",
+        "asn": "49760",
+        "description": "Hayat for Internet & communication LLC",
+        "handle": "AL-HAYAT-FTTH"
+    },
+    "50597": {
+        "country_code": "IQ",
+        "asn": "50597",
+        "description": "ScopeSky for communications internet and technology services LLC",
+        "handle": "SCOPESKY"
+    },
+    "51018": {
+        "country_code": "IQ",
+        "asn": "51018",
+        "description": "Shabaka Sfn Al-Haditha for General Trading & Information Technology LTD.",
+        "handle": "SSAH-AS"
+    },
+    "51020": {
+        "country_code": "IQ",
+        "asn": "51020",
+        "description": "Al-Jazeera Al-Arabiya Company for Communication and Internet LTD",
+        "handle": "JAZ-WIRELESS"
+    },
+    "51539": {
+        "country_code": "IQ",
+        "asn": "51539",
+        "description": "The American University of Iraq-Sulaimani",
+        "handle": "ASN-AUIS-NET"
+    },
+    "51684": {
+        "country_code": "IQ",
+        "asn": "51684",
+        "description": "ASIACELL COMMUNICATIONS PJSC",
+        "handle": "ASIACELL"
+    },
+    "52059": {
+        "country_code": "IQ",
+        "asn": "52059",
+        "description": "International Development Bank for Islamic Investment and Finance (P.S.C)",
+        "handle": "IDB"
+    },
+    "56484": {
+        "country_code": "IQ",
+        "asn": "56484",
+        "description": "FastIraq LLC",
+        "handle": "FASTIRAQ"
+    },
+    "57053": {
+        "country_code": "IQ",
+        "asn": "57053",
+        "description": "Etisall Company for Internet Services Communication Services Information Technology and Commercial Agencies Ltd.",
+        "handle": "ETISALL"
+    },
+    "57324": {
+        "country_code": "IQ",
+        "asn": "57324",
+        "description": "Al Lawn Al Akhdar International Company for Communications and Information Technology Ltd.",
+        "handle": "GCCIT"
+    },
+    "57588": {
+        "country_code": "IQ",
+        "asn": "57588",
+        "description": "Hayat for Internet & communication LLC",
+        "handle": "HAYAT-ISP-ASN"
+    },
+    "57761": {
+        "country_code": "IQ",
+        "asn": "57761",
+        "description": "Speedway General Trading Information Technology and Internet Communications Co. Ltd.",
+        "handle": "ASN-SPW"
+    },
+    "57908": {
+        "country_code": "IQ",
+        "asn": "57908",
+        "description": "Bilad Al-Rafidain Company for Informatics and Communications Services Ltd",
+        "handle": "IQ-BILADALRAFIDAIN"
+    },
+    "57958": {
+        "country_code": "IQ",
+        "asn": "57958",
+        "description": "ALASAS COMPANY FOR TELECOMMUNICATIONS SERVICES AND INFORMATION TECHNOLOGY LTD",
+        "handle": "ASASTECH"
+    },
+    "58322": {
+        "country_code": "IQ",
+        "asn": "58322",
+        "description": "Hala Al Rafidain Company for Communications and Internet LTD.",
+        "handle": "HALASAT"
+    },
+    "59422": {
+        "country_code": "IQ",
+        "asn": "59422",
+        "description": "Etisall Company for Internet Services Communication Services Information Technology and Commercial Agencies Ltd.",
+        "handle": "ETISALL"
+    },
+    "59458": {
+        "country_code": "IQ",
+        "asn": "59458",
+        "description": "Pure Line Co. For Telecommunications & Internet Ltd.",
+        "handle": "PURELINE"
+    },
+    "59588": {
+        "country_code": "IQ",
+        "asn": "59588",
+        "description": "Al Atheer Telecommunication-Iraq Co. Ltd. Incorporated in Cayman Islands",
+        "handle": "ZAINAS-IQ"
+    },
+    "59625": {
+        "country_code": "IQ",
+        "asn": "59625",
+        "description": "Korek Telecom Company for Communications LLC",
+        "handle": "KOREKTEL"
+    },
+    "59924": {
+        "country_code": "IQ",
+        "asn": "59924",
+        "description": "Iraq Data Hub for Internet Services and Information Technology ltd",
+        "handle": "DATAHUB"
+    },
+    "60145": {
+        "country_code": "IQ",
+        "asn": "60145",
+        "description": "National Investment Commission",
+        "handle": "NIC-AS"
+    },
+    "60540": {
+        "country_code": "IQ",
+        "asn": "60540",
+        "description": "Etisall Company for Internet Services Communication Services Information Technology and Commercial Agencies Ltd.",
+        "handle": "ETISALL"
+    },
+    "60663": {
+        "country_code": "IQ",
+        "asn": "60663",
+        "description": "Online Company for Technological Information Supply of Electronic Equipment and Internet Services Through Wifi Ltd.",
+        "handle": "ONLINECOMPANY-LTD"
+    },
+    "60815": {
+        "country_code": "IQ",
+        "asn": "60815",
+        "description": "Data Net Telecom Co. Ltd",
+        "handle": "DATANET-TELECOM"
+    },
+    "61271": {
+        "country_code": "IQ",
+        "asn": "61271",
+        "description": "UNITED MIX MEDIA Company for television broadcasting media services and art production Ltd",
+        "handle": "UMM"
+    },
+    "62223": {
+        "country_code": "IQ",
+        "asn": "62223",
+        "description": "Time-Net Private Company for Internet and Wireless Services Ltd.",
+        "handle": "TIME-NET"
+    },
+    "62368": {
+        "country_code": "IQ",
+        "asn": "62368",
+        "description": "Kafeel Al Omnnea for the Distribution of Communication equipments LTD",
+        "handle": "OMNNEA"
+    },
+    "62419": {
+        "country_code": "IQ",
+        "asn": "62419",
+        "description": "I.Q Online for Internet Services and Communications LLC",
+        "handle": "IRAQ-FTTH"
+    },
+    "197305": {
+        "country_code": "IQ",
+        "asn": "197305",
+        "description": "Bilad Al-Rafidain Company for Informatics and Communications Services Ltd",
+        "handle": "IQ-BILADALRAFIDAIN-20110111"
+    },
+    "197390": {
+        "country_code": "IQ",
+        "asn": "197390",
+        "description": "Al Marafaa Co. for General Trading Services Information Technology and Contracts Ltd.",
+        "handle": "MAJNOON-OIL-FIELD"
+    },
+    "197421": {
+        "country_code": "IQ",
+        "asn": "197421",
+        "description": "Bawabet Al Manama Company for General Trading and Supply and Install Camera Systems Internet and Communication Services Ltd.",
+        "handle": "BAWABET-AL-MANAMA"
+    },
+    "197882": {
+        "country_code": "IQ",
+        "asn": "197882",
+        "description": "Tarin General Trading and Setting Up Internet Device LTD",
+        "handle": "TARIN"
+    },
+    "197893": {
+        "country_code": "IQ",
+        "asn": "197893",
+        "description": "Elsuhd Company for Communications Services Cybersecurity Information Technology Electronic Governance and Commercial Agencies Ltd.",
+        "handle": "ELSUHD-AS"
+    },
+    "198169": {
+        "country_code": "IQ",
+        "asn": "198169",
+        "description": "Informatics and Telecommunications Public Company (ITPC)",
+        "handle": "SCIS-AS"
+    },
+    "198183": {
+        "country_code": "IQ",
+        "asn": "198183",
+        "description": "Rivna For Information Technology Ltd.",
+        "handle": "RIVNA-IT"
+    },
+    "198589": {
+        "country_code": "IQ",
+        "asn": "198589",
+        "description": "Al-Jazeera Al-Arabiya Company for Communication and Internet LTD",
+        "handle": "JT-AS"
+    },
+    "198666": {
+        "country_code": "IQ",
+        "asn": "198666",
+        "description": "Information Zone Company For Internet & Computer Services - Ltd. Co.",
+        "handle": "INFO-ZONE-ISP"
+    },
+    "198735": {
+        "country_code": "IQ",
+        "asn": "198735",
+        "description": "Optimal Solutions Technology Company for information Technology and software solutions Ltd",
+        "handle": "WIFI-AS"
+    },
+    "199618": {
+        "country_code": "IQ",
+        "asn": "199618",
+        "description": "Regional Telecom Company for Communications Ltd.",
+        "handle": "RT-AS"
+    },
+    "199826": {
+        "country_code": "IQ",
+        "asn": "199826",
+        "description": "Smart Technology for Communications Services LLC",
+        "handle": "IQSTC-IQ"
+    },
+    "200004": {
+        "country_code": "IQ",
+        "asn": "200004",
+        "description": "AlbitTel Company for Provision of Internet Services/Ltd",
+        "handle": "GSFASTNET"
+    },
+    "200178": {
+        "country_code": "IQ",
+        "asn": "200178",
+        "description": "Tarik Al-thuraya Company For Communications Service Ltd.",
+        "handle": "TARIK-ALTHURAYA-TRANSIT"
+    },
+    "200179": {
+        "country_code": "IQ",
+        "asn": "200179",
+        "description": "Abbas Ghanim Saddam",
+        "handle": "AGS"
+    },
+    "200200": {
+        "country_code": "IQ",
+        "asn": "200200",
+        "description": "Iraq Al-wataniyah Co. for Telecom Services Ltd.",
+        "handle": "AL-WATANIYA"
+    },
+    "200485": {
+        "country_code": "IQ",
+        "asn": "200485",
+        "description": "Nass Al Iraq for trading general contracting technical solutions internet services and communications services Limited Liability Company",
+        "handle": "NASSIRAQ"
+    },
+    "200654": {
+        "country_code": "IQ",
+        "asn": "200654",
+        "description": "Tornet General Trading and Communication Services LLC",
+        "handle": "TORNET-AS"
+    },
+    "200744": {
+        "country_code": "IQ",
+        "asn": "200744",
+        "description": "Iraqi Islamic Bank For Investment & Development PJS",
+        "handle": "IIB"
+    },
+    "200865": {
+        "country_code": "IQ",
+        "asn": "200865",
+        "description": "TISHK NET Company for WIMAX technology and Internet Service Limited",
+        "handle": "TISHKNET"
+    },
+    "200895": {
+        "country_code": "IQ",
+        "asn": "200895",
+        "description": "ASIACELL COMMUNICATIONS PJSC",
+        "handle": "ASIACELL-3"
+    },
+    "201031": {
+        "country_code": "IQ",
+        "asn": "201031",
+        "description": "Smart Waves for Information Technology and Internet Services Ltd.",
+        "handle": "SMART-WAVES-NETWORK"
+    },
+    "201089": {
+        "country_code": "IQ",
+        "asn": "201089",
+        "description": "Experience Infinity technology Internet Service Company Ltd.",
+        "handle": "INFINITY"
+    },
+    "201145": {
+        "country_code": "IQ",
+        "asn": "201145",
+        "description": "GOLDEN SKY LINKS COMPANY FOR GENERAL TRADING AND INTERNET SERVICES LTD",
+        "handle": "GSLTELECOM"
+    },
+    "201320": {
+        "country_code": "IQ",
+        "asn": "201320",
+        "description": "Advanced Technology for Communications Services Ltd.",
+        "handle": "ATC"
+    },
+    "201519": {
+        "country_code": "IQ",
+        "asn": "201519",
+        "description": "ScopeSky for communications internet and technology services LLC",
+        "handle": "TECHPRO"
+    },
+    "201668": {
+        "country_code": "IQ",
+        "asn": "201668",
+        "description": "Sama Madeniti for Communication & Internet Ltd.",
+        "handle": "SAMAMADINATY"
+    },
+    "201749": {
+        "country_code": "IQ",
+        "asn": "201749",
+        "description": "SUPER CELL NETWORK FOR INTERNET SERVICES LTD",
+        "handle": "IQ-SUPERCELL"
+    },
+    "202055": {
+        "country_code": "IQ",
+        "asn": "202055",
+        "description": "Qemat Al-Wasat Company",
+        "handle": "QEMATALWASAT"
+    },
+    "202201": {
+        "country_code": "IQ",
+        "asn": "202201",
+        "description": "Hayder Sattar Mohammed",
+        "handle": "HAIDER-AS"
+    },
+    "202316": {
+        "country_code": "IQ",
+        "asn": "202316",
+        "description": "Baghdad Link to Internet Services Provider and Information Technology LLC",
+        "handle": "BAGHDAD-LINK"
+    },
+    "202354": {
+        "country_code": "IQ",
+        "asn": "202354",
+        "description": "Blue Sky Internet Services LTD",
+        "handle": "BLUESKY"
+    },
+    "202366": {
+        "country_code": "IQ",
+        "asn": "202366",
+        "description": "SAWAD LAND for Information Technology Ltd",
+        "handle": "IQ-SAWADLAND-AS"
+    },
+    "202651": {
+        "country_code": "IQ",
+        "asn": "202651",
+        "description": "Noor Al-Bedaya for General Trading agricultural investments Technical production and distribution internet services general services Information technology and software Ltd",
+        "handle": "NBTEL-FTTH"
+    },
+    "202672": {
+        "country_code": "IQ",
+        "asn": "202672",
+        "description": "iNet LLC",
+        "handle": "INET-ASN"
+    },
+    "202699": {
+        "country_code": "IQ",
+        "asn": "202699",
+        "description": "Asser Al-Technologia Information Technology Company Limited",
+        "handle": "ASSERTECH"
+    },
+    "202777": {
+        "country_code": "IQ",
+        "asn": "202777",
+        "description": "Aufuq Iraqna for Internet services and Software solutions LTD",
+        "handle": "IRAQ-IRAQNANETWORKS"
+    },
+    "203091": {
+        "country_code": "IQ",
+        "asn": "203091",
+        "description": "SatGate Company for Trading of Computers Systems and Communications Appliances WLL",
+        "handle": "SATGATE-IRAQ-BABYLON"
+    },
+    "203214": {
+        "country_code": "IQ",
+        "asn": "203214",
+        "description": "Hulum Almustakbal Company for Communication Engineering and Services Ltd",
+        "handle": "HULUMTELE"
+    },
+    "203217": {
+        "country_code": "IQ",
+        "asn": "203217",
+        "description": "Horizon Scope Mobile Telecom WLL",
+        "handle": "HORIZON-SCOPE-IQ"
+    },
+    "203257": {
+        "country_code": "IQ",
+        "asn": "203257",
+        "description": "Layth Zuhair Zahid",
+        "handle": "NEXUS"
+    },
+    "203409": {
+        "country_code": "IQ",
+        "asn": "203409",
+        "description": "Nawafeth Al-hadhara for Internet and Information Systems Co. Ltd",
+        "handle": "GIGANET-IQ"
+    },
+    "203459": {
+        "country_code": "IQ",
+        "asn": "203459",
+        "description": "Storm for Information Technology Internet Services Communications Electronic Solutions Software and Automation LLC",
+        "handle": "AS203459-STORM"
+    },
+    "203653": {
+        "country_code": "IQ",
+        "asn": "203653",
+        "description": "Noor Al-Qamar Co. For Internet Ltd.",
+        "handle": "NOORAL-QAMAR"
+    },
+    "203735": {
+        "country_code": "IQ",
+        "asn": "203735",
+        "description": "Net Tech Ltd",
+        "handle": "CAPACITIES-LTD"
+    },
+    "203764": {
+        "country_code": "IQ",
+        "asn": "203764",
+        "description": "Aufuq Iraqna for Internet services and Software solutions LTD",
+        "handle": "IQ-IRAQNANETWORKS"
+    },
+    "203811": {
+        "country_code": "IQ",
+        "asn": "203811",
+        "description": "Storm for Information Technology Internet Services Communications Electronic Solutions Software and Automation LLC",
+        "handle": "AS203811-STORM"
+    },
+    "203904": {
+        "country_code": "IQ",
+        "asn": "203904",
+        "description": "Domain Earth for Communication and Banking Solutions with Limited Liability",
+        "handle": "DECBS"
+    },
+    "203982": {
+        "country_code": "IQ",
+        "asn": "203982",
+        "description": "ERBIL INTERNATIONAL AIRPORT",
+        "handle": "EIA-AS"
+    },
+    "204149": {
+        "country_code": "IQ",
+        "asn": "204149",
+        "description": "AFNAN AL-HARITH CONTRACTING & GENERAL TRADING LTD",
+        "handle": "HORIZON-SCOPE-IQ"
+    },
+    "204152": {
+        "country_code": "IQ",
+        "asn": "204152",
+        "description": "Orient Company for internet services LTD",
+        "handle": "ORIENT"
+    },
+    "204174": {
+        "country_code": "IQ",
+        "asn": "204174",
+        "description": "Informatics and Telecommunications Public Company (ITPC)",
+        "handle": "IRAQ-ITPC-IIGW"
+    },
+    "204249": {
+        "country_code": "IQ",
+        "asn": "204249",
+        "description": "PAIK Company for Communication and General Trade Importation& Exportation Limited",
+        "handle": "PAIK-LTD"
+    },
+    "204331": {
+        "country_code": "IQ",
+        "asn": "204331",
+        "description": "DIL Technology Limited",
+        "handle": "DIL"
+    },
+    "204473": {
+        "country_code": "IQ",
+        "asn": "204473",
+        "description": "Aswar Al-Karam for General trading and Communications Projects Ltd",
+        "handle": "ASWAR"
+    },
+    "204583": {
+        "country_code": "IQ",
+        "asn": "204583",
+        "description": "Larsa Mountain for Information Technology Ltd",
+        "handle": "LARSA-ISP"
+    },
+    "204798": {
+        "country_code": "IQ",
+        "asn": "204798",
+        "description": "Max Link Company Ltd",
+        "handle": "MAXLINK-AS"
+    },
+    "205049": {
+        "country_code": "IQ",
+        "asn": "205049",
+        "description": "Techno Fast Company Ltd.",
+        "handle": "IQ-TECHNOFAST"
+    },
+    "205169": {
+        "country_code": "IQ",
+        "asn": "205169",
+        "description": "Al-Taif For Technical Solutions Co. LTD.",
+        "handle": "AL-TAIF-ASN"
+    },
+    "205254": {
+        "country_code": "IQ",
+        "asn": "205254",
+        "description": "Valeen for General trading Internet Services and Information Technology / Ltd",
+        "handle": "VALEEN"
+    },
+    "205371": {
+        "country_code": "IQ",
+        "asn": "205371",
+        "description": "Zana Mohammed Mahdi A.Rahman company for Internet Service Provider LTD",
+        "handle": "ZANA-COMPANY"
+    },
+    "205407": {
+        "country_code": "IQ",
+        "asn": "205407",
+        "description": "Technology Source for Systems Software and General Trading Services Company Ltd.",
+        "handle": "TS"
+    },
+    "205470": {
+        "country_code": "IQ",
+        "asn": "205470",
+        "description": "Iraq Electronic Gate for Financial Services Co. Ltd",
+        "handle": "IEG"
+    },
+    "205473": {
+        "country_code": "IQ",
+        "asn": "205473",
+        "description": "SAWAD LAND for Information Technology Ltd",
+        "handle": "IQ-SAWADLAND-AS"
+    },
+    "205800": {
+        "country_code": "IQ",
+        "asn": "205800",
+        "description": "Steps Telecom For Internet Ltd.",
+        "handle": "STEPS-TELECOM-AS"
+    },
+    "205814": {
+        "country_code": "IQ",
+        "asn": "205814",
+        "description": "Orbit Network for Information Technology Co. Ltd.",
+        "handle": "ORBIT-NETWORK"
+    },
+    "205889": {
+        "country_code": "IQ",
+        "asn": "205889",
+        "description": "Giga Nineveh for internet services Ltd",
+        "handle": "GIGANINEVEH"
+    },
+    "205906": {
+        "country_code": "IQ",
+        "asn": "205906",
+        "description": "Informatics and Telecommunications Public Company (ITPC)",
+        "handle": "SCIS-AS"
+    },
+    "206190": {
+        "country_code": "IQ",
+        "asn": "206190",
+        "description": "Alathrae Company for Information Technology Limited",
+        "handle": "HORIZON-SCOPE-IQ"
+    },
+    "206206": {
+        "country_code": "IQ",
+        "asn": "206206",
+        "description": "Kurdistan Net Company for Computer and Internet Ltd.",
+        "handle": "KNET"
+    },
+    "206391": {
+        "country_code": "IQ",
+        "asn": "206391",
+        "description": "Fancy Net Company Ltd",
+        "handle": "IQ-FANCY"
+    },
+    "206471": {
+        "country_code": "IQ",
+        "asn": "206471",
+        "description": "Najim Al Iraq Ltd",
+        "handle": "IQ-NAJIM"
+    },
+    "206611": {
+        "country_code": "IQ",
+        "asn": "206611",
+        "description": "Provider for General Trading and Internet Services LLC",
+        "handle": "ISPGROUP"
+    },
+    "206641": {
+        "country_code": "IQ",
+        "asn": "206641",
+        "description": "IraqSky Communications and Internet Limited Liability Company",
+        "handle": "IRAQISKY"
+    },
+    "206706": {
+        "country_code": "IQ",
+        "asn": "206706",
+        "description": "Iraq Smart Technologies Co. for Internet Services and Information Technology Ltd.",
+        "handle": "IQSTS"
+    },
+    "206736": {
+        "country_code": "IQ",
+        "asn": "206736",
+        "description": "Asl-Aluroba for General Trading and Contracting Ltd",
+        "handle": "ASL-ALUROBA"
+    },
+    "206893": {
+        "country_code": "IQ",
+        "asn": "206893",
+        "description": "Storm for Information Technology Internet Services Communications Electronic Solutions Software and Automation LLC",
+        "handle": "IQ-STORMNETWORKSIQ"
+    },
+    "207097": {
+        "country_code": "IQ",
+        "asn": "207097",
+        "description": "Online Company for Technological Information Supply of Electronic Equipment and Internet Services Through Wifi Ltd.",
+        "handle": "ONLINE-COMPANY-LTD"
+    },
+    "207138": {
+        "country_code": "IQ",
+        "asn": "207138",
+        "description": "Live Link Internet Service Provider PVT LTD.",
+        "handle": "LIVELINKISP"
+    },
+    "207264": {
+        "country_code": "IQ",
+        "asn": "207264",
+        "description": "RapidNet for Internet Services and Communications/Ltd",
+        "handle": "RAPIDNET"
+    },
+    "207281": {
+        "country_code": "IQ",
+        "asn": "207281",
+        "description": "Matrix Private Company for Communications and Internet Services Ltd. Liability",
+        "handle": "MATRIX-COMMUNICATIONS"
+    },
+    "207442": {
+        "country_code": "IQ",
+        "asn": "207442",
+        "description": "Tiqaniyat Al-shabkah for Internet Services Co.Ltd Private Company",
+        "handle": "TIQANYAT-AL-SHABKA"
+    },
+    "207462": {
+        "country_code": "IQ",
+        "asn": "207462",
+        "description": "Al-Jeel Al-Sabei Internet Services Co. Ltd",
+        "handle": "LUXENET"
+    },
+    "207484": {
+        "country_code": "IQ",
+        "asn": "207484",
+        "description": "Speed Fiber Band Company for Trading Ltd",
+        "handle": "SPIDEO"
+    },
+    "207565": {
+        "country_code": "IQ",
+        "asn": "207565",
+        "description": "STARLINK for the Supply & Services of Telecommunication & Internet Co. LTD / Private Company",
+        "handle": "STARLINK"
+    },
+    "207598": {
+        "country_code": "IQ",
+        "asn": "207598",
+        "description": "Iraqcell Communications Co. Ltd.",
+        "handle": "IRAQCELL"
+    },
+    "207786": {
+        "country_code": "IQ",
+        "asn": "207786",
+        "description": "super network for internet service ltd",
+        "handle": "SUPER-NETWORK-IQ"
+    },
+    "207811": {
+        "country_code": "IQ",
+        "asn": "207811",
+        "description": "SuperCell ISP LTD",
+        "handle": "SUPERCELL-ISP"
+    },
+    "207928": {
+        "country_code": "IQ",
+        "asn": "207928",
+        "description": "ALTAMEER for Trading General Transportation and Electromechanical Services Ltd",
+        "handle": "ALTAMEER"
+    },
+    "208023": {
+        "country_code": "IQ",
+        "asn": "208023",
+        "description": "Global Cloud Games for video games and general trading co. ltd",
+        "handle": "GCG"
+    },
+    "208115": {
+        "country_code": "IQ",
+        "asn": "208115",
+        "description": "SmartLink for Internet Services LTD",
+        "handle": "MEDIANETISP"
+    },
+    "208131": {
+        "country_code": "IQ",
+        "asn": "208131",
+        "description": "Cloud Company for General Services Ltd",
+        "handle": "CLOUD-IQ"
+    },
+    "208293": {
+        "country_code": "IQ",
+        "asn": "208293",
+        "description": "AlSalam State Company",
+        "handle": "MOC-ALSALAM-AS"
+    },
+    "208306": {
+        "country_code": "IQ",
+        "asn": "208306",
+        "description": "Larsa Mountain for Information Technology Ltd",
+        "handle": "LARSA"
+    },
+    "208324": {
+        "country_code": "IQ",
+        "asn": "208324",
+        "description": "Noor Al-Bedaya for General Trading agricultural investments Technical production and distribution internet services general services Information technology and software Ltd",
+        "handle": "NBTEL-WIFI"
+    },
+    "208365": {
+        "country_code": "IQ",
+        "asn": "208365",
+        "description": "Shams Telecom Networks and Internet Service Ltd",
+        "handle": "SHAMSTELECOM"
+    },
+    "208570": {
+        "country_code": "IQ",
+        "asn": "208570",
+        "description": "Spark for Information Technology Services Ltd",
+        "handle": "SPARK-IQ"
+    },
+    "208859": {
+        "country_code": "IQ",
+        "asn": "208859",
+        "description": "FACT LTD",
+        "handle": "FACTLTD"
+    },
+    "208866": {
+        "country_code": "IQ",
+        "asn": "208866",
+        "description": "Knowledge Land Company Ltd.",
+        "handle": "KNOWLEGE"
+    },
+    "209036": {
+        "country_code": "IQ",
+        "asn": "209036",
+        "description": "Central Bank of Iraq",
+        "handle": "CBI-AS"
+    },
+    "209193": {
+        "country_code": "IQ",
+        "asn": "209193",
+        "description": "SUPER CELL NETWORK FOR INTERNET SERVICES LTD",
+        "handle": "SUPERCELL-FTTH"
+    },
+    "209253": {
+        "country_code": "IQ",
+        "asn": "209253",
+        "description": "Alhadbaa Group LLC",
+        "handle": "HADBAA"
+    },
+    "209273": {
+        "country_code": "IQ",
+        "asn": "209273",
+        "description": "Hilal Al-Rafidain for Computer and Internet Services Co. Ltd.",
+        "handle": "HRINS"
+    },
+    "209348": {
+        "country_code": "IQ",
+        "asn": "209348",
+        "description": "Nass Al Iraq for trading general contracting technical solutions internet services and communications services Limited Liability Company",
+        "handle": "NPISP"
+    },
+    "209733": {
+        "country_code": "IQ",
+        "asn": "209733",
+        "description": "prospective information technology ltd",
+        "handle": "PIT"
+    },
+    "210001": {
+        "country_code": "IQ",
+        "asn": "210001",
+        "description": "FastIraq LLC",
+        "handle": "IRAQ-NETWORK"
+    },
+    "210016": {
+        "country_code": "IQ",
+        "asn": "210016",
+        "description": "Tarik Al-thuraya Company For Communications Service Ltd.",
+        "handle": "TARIK-ALTHURAYA-FTTH"
+    },
+    "210021": {
+        "country_code": "IQ",
+        "asn": "210021",
+        "description": "DIL Technology Limited",
+        "handle": "DIL"
+    },
+    "210022": {
+        "country_code": "IQ",
+        "asn": "210022",
+        "description": "Trade Link Logistics General Trading & Contracting Company W.L.L. L.L.C.",
+        "handle": "IRAQCELL"
+    },
+    "210095": {
+        "country_code": "IQ",
+        "asn": "210095",
+        "description": "TAYF AL-MADAR for Internet Services Pvt. Ltd company",
+        "handle": "ALMADAR"
+    },
+    "210194": {
+        "country_code": "IQ",
+        "asn": "210194",
+        "description": "Elaf Al Rafidain for Communications Internet Network Services and Computer Trading and Office Equipment Limited",
+        "handle": "ELAF-ALRAFIDEEN-LTD"
+    },
+    "210402": {
+        "country_code": "IQ",
+        "asn": "210402",
+        "description": "Hala Al Rafidain Company for Communications and Internet LTD.",
+        "handle": "HALASAT-FTTX"
+    },
+    "210413": {
+        "country_code": "IQ",
+        "asn": "210413",
+        "description": "SmartLink for Internet Services LTD",
+        "handle": "SMARTLINK-KRG"
+    },
+    "210509": {
+        "country_code": "IQ",
+        "asn": "210509",
+        "description": "Optimum Line for Internet Services Ltd.",
+        "handle": "OPTLINE"
+    },
+    "210513": {
+        "country_code": "IQ",
+        "asn": "210513",
+        "description": "Masarat Al-Iraq Information Technology Co. Ltd",
+        "handle": "MASARAT-ALIRAQ"
+    },
+    "210837": {
+        "country_code": "IQ",
+        "asn": "210837",
+        "description": "ROYA Communications and Internet Services Company Ltd.",
+        "handle": "ROYA-COMMUNICATIONS-AND-INTERNET-SERVICES-COMPANY-LTD"
+    },
+    "211090": {
+        "country_code": "IQ",
+        "asn": "211090",
+        "description": "DIL Technology Limited",
+        "handle": "DIL"
+    },
+    "211100": {
+        "country_code": "IQ",
+        "asn": "211100",
+        "description": "Civilisation Information Technology communication and internet services Co. LTD",
+        "handle": "IRAQ-IXP"
+    },
+    "211145": {
+        "country_code": "IQ",
+        "asn": "211145",
+        "description": "Korek Telecom Company for Communications LLC",
+        "handle": "KOREKTEL"
+    },
+    "211181": {
+        "country_code": "IQ",
+        "asn": "211181",
+        "description": "Civilisation Information Technology communication and internet services Co. LTD",
+        "handle": "IRAQ-IXP"
+    },
+    "211235": {
+        "country_code": "IQ",
+        "asn": "211235",
+        "description": "Storm for Information Technology Internet Services Communications Electronic Solutions Software and Automation LLC",
+        "handle": "AS211235-STORM"
+    },
+    "211413": {
+        "country_code": "IQ",
+        "asn": "211413",
+        "description": "Regxa Company for Information Technology Ltd",
+        "handle": "SKY-KALAK-NET"
+    },
+    "211513": {
+        "country_code": "IQ",
+        "asn": "211513",
+        "description": "Al Lawn Al Akhdar International Company for Communications and Information Technology Ltd.",
+        "handle": "AH-EBL"
+    },
+    "211534": {
+        "country_code": "IQ",
+        "asn": "211534",
+        "description": "Ishtar Gate for e-Payment Systems and Services (PSC)",
+        "handle": "IQ-ISHTARGATE"
+    },
+    "211732": {
+        "country_code": "IQ",
+        "asn": "211732",
+        "description": "AL ROOYA Co. For communication and Internet Services LTD",
+        "handle": "ALROOYA"
+    },
+    "211841": {
+        "country_code": "IQ",
+        "asn": "211841",
+        "description": "Dar Al-Salam Co. for Internet Services and Information Technology Ltd",
+        "handle": "DAR-AL-SALAM"
+    },
+    "211888": {
+        "country_code": "IQ",
+        "asn": "211888",
+        "description": "Shams Sara Company for General Contracting LTD",
+        "handle": "SHMS"
+    },
+    "211908": {
+        "country_code": "IQ",
+        "asn": "211908",
+        "description": "Horizon Scope Mobile Telecom WLL",
+        "handle": "HORIZON-SCOPE-Z5"
+    },
+    "211970": {
+        "country_code": "IQ",
+        "asn": "211970",
+        "description": "Tarik Al-thuraya Company For Communications Service Ltd.",
+        "handle": "TARIK-ALTHURAYA"
+    },
+    "212088": {
+        "country_code": "IQ",
+        "asn": "212088",
+        "description": "Noor Al-Bedaya for General Trading agricultural investments Technical production and distribution internet services general services Information technology and software Ltd",
+        "handle": "NBTEL-UPSTREAM"
+    },
+    "212101": {
+        "country_code": "IQ",
+        "asn": "212101",
+        "description": "Crystal Moon Co. For Internet Services LTD.",
+        "handle": "CRYSTAL-MOON"
+    },
+    "212191": {
+        "country_code": "IQ",
+        "asn": "212191",
+        "description": "Spider Net Ltd",
+        "handle": "SPIDER-IXP"
+    },
+    "212203": {
+        "country_code": "IQ",
+        "asn": "212203",
+        "description": "DIL Technology Limited",
+        "handle": "DIL"
+    },
+    "212250": {
+        "country_code": "IQ",
+        "asn": "212250",
+        "description": "Horizon Scope Mobile Telecom WLL",
+        "handle": "HORIZON-SCOPE"
+    },
+    "212280": {
+        "country_code": "IQ",
+        "asn": "212280",
+        "description": "Storm for Information Technology Internet Services Communications Electronic Solutions Software and Automation LLC",
+        "handle": "AS212280-STORM"
+    },
+    "212330": {
+        "country_code": "IQ",
+        "asn": "212330",
+        "description": "Civilisation Information Technology communication and internet services Co. LTD",
+        "handle": "IRAQIXP"
+    },
+    "212338": {
+        "country_code": "IQ",
+        "asn": "212338",
+        "description": "Al-Lamsa Al-Wahida Company for Communication Services & Internet Ltd",
+        "handle": "ONETOUCH"
+    },
+    "212369": {
+        "country_code": "IQ",
+        "asn": "212369",
+        "description": "Tem Technology Communication Services and Electronic System Co. LTD",
+        "handle": "TAMM"
+    },
+    "212376": {
+        "country_code": "IQ",
+        "asn": "212376",
+        "description": "Tarin General Trading and Setting Up Internet Device LTD",
+        "handle": "KITS"
+    },
+    "212392": {
+        "country_code": "IQ",
+        "asn": "212392",
+        "description": "Storm for Information Technology Internet Services Communications Electronic Solutions Software and Automation LLC",
+        "handle": "AS212392-STORM"
+    },
+    "212460": {
+        "country_code": "IQ",
+        "asn": "212460",
+        "description": "SAWAD LAND for Information Technology Ltd",
+        "handle": "IQ-SAWADLAND-AS"
+    },
+    "212525": {
+        "country_code": "IQ",
+        "asn": "212525",
+        "description": "Informatics and Telecommunications Public Company (ITPC)",
+        "handle": "ITPC-DATACENTER"
+    },
+    "212573": {
+        "country_code": "IQ",
+        "asn": "212573",
+        "description": "FastIraq LLC",
+        "handle": "TECHNOLOGY-INTERNATIONAL-AS"
+    },
+    "212648": {
+        "country_code": "IQ",
+        "asn": "212648",
+        "description": "Optimal Solutions Technology Company for information Technology and software solutions Ltd",
+        "handle": "HRINS-AS-B"
+    },
+    "212692": {
+        "country_code": "IQ",
+        "asn": "212692",
+        "description": "ScopeSky for communications internet and technology services LLC",
+        "handle": "SCOPESKY-INT"
+    },
+    "212756": {
+        "country_code": "IQ",
+        "asn": "212756",
+        "description": "SmartLink for Internet Services LTD",
+        "handle": "MEDIANETISP"
+    },
+    "212850": {
+        "country_code": "IQ",
+        "asn": "212850",
+        "description": "Omnia Alkher for internet services Limited Liability/Private Company",
+        "handle": "OMNYA"
+    },
+    "213098": {
+        "country_code": "IQ",
+        "asn": "213098",
+        "description": "Pirmam For Information Technology Services Ltd",
+        "handle": "PIRMAM"
+    },
+    "213149": {
+        "country_code": "IQ",
+        "asn": "213149",
+        "description": "Telelink Telecommunications Co for Internet services and Information Technology Ltd.",
+        "handle": "TELELINKCO"
+    },
+    "214290": {
+        "country_code": "IQ",
+        "asn": "214290",
+        "description": "Knowledge Papers for Information Technology Contracting and General Trading LLC",
+        "handle": "KNLGPPRS"
+    },
+    "214359": {
+        "country_code": "IQ",
+        "asn": "214359",
+        "description": "ISHRAQA ALBARQA FOR TECHNOLOGICAL SOLUTIONS APPLICATIONS & AUTOMATION L.L.C",
+        "handle": "ISHRAQA-AS"
+    },
+    "214734": {
+        "country_code": "IQ",
+        "asn": "214734",
+        "description": "Civilisation Information Technology communication and internet services Co. LTD",
+        "handle": "IRAQIXP"
+    },
+    "214739": {
+        "country_code": "IQ",
+        "asn": "214739",
+        "description": "Galaxy Capacity for Electronic Equipment Trading Ltd",
+        "handle": "GALAXYIQ"
+    },
+    "214774": {
+        "country_code": "IQ",
+        "asn": "214774",
+        "description": "Mina Iraq Trading and General Contracting Company Limited",
+        "handle": "MINA-IRAQ-TRADING-AND-GENERAL-CONTRACTING-COMPANY-LIMITED"
+    },
+    "214893": {
+        "country_code": "IQ",
+        "asn": "214893",
+        "description": "Etisall Company for Internet Services Communication Services Information Technology and Commercial Agencies Ltd.",
+        "handle": "ETISALL"
+    },
+    "215160": {
+        "country_code": "IQ",
+        "asn": "215160",
+        "description": "Wellow Net Company for Internet Services LTD",
+        "handle": "WELLOWNET"
+    },
+    "215311": {
+        "country_code": "IQ",
+        "asn": "215311",
+        "description": "Regxa Company for Information Technology Ltd",
+        "handle": "REGXA-CLOUD"
+    },
+    "215369": {
+        "country_code": "IQ",
+        "asn": "215369",
+        "description": "Iraq Smart Technologies Co. for Internet Services and Information Technology Ltd.",
+        "handle": "IQSTS-INTERNATIONAL-AS"
+    },
+    "215597": {
+        "country_code": "IQ",
+        "asn": "215597",
+        "description": "ASIACELL COMMUNICATIONS PJSC",
+        "handle": "ASIACELL-2"
+    },
+    "215668": {
+        "country_code": "IQ",
+        "asn": "215668",
+        "description": "Intelligent Zone for General trading Communications Services Real State Investments & Commercial agencies Co Ltd",
+        "handle": "CEIR"
+    },
+    "215732": {
+        "country_code": "IQ",
+        "asn": "215732",
+        "description": "Intelligent Zone for General trading Communications Services Real State Investments & Commercial agencies Co Ltd",
+        "handle": "BSC-DIWANIA-WIRELESS"
+    },
+    "215801": {
+        "country_code": "IQ",
+        "asn": "215801",
+        "description": "Masarat Al-Iraq Information Technology Co. Ltd",
+        "handle": "MSIT"
+    },
+    "215839": {
+        "country_code": "IQ",
+        "asn": "215839",
+        "description": "Ruyat Teknolojia for Information Technology and Telecommunications /LTD",
+        "handle": "NETSPOT"
+    },
+    "215917": {
+        "country_code": "IQ",
+        "asn": "215917",
+        "description": "Ali Thamir Hikmat",
+        "handle": "WEB-TELECOM"
+    },
+    "215970": {
+        "country_code": "IQ",
+        "asn": "215970",
+        "description": "Alshb alsareaa company for trade of electronic system materials Ltd",
+        "handle": "FASTCLOUDS"
+    },
+    "216098": {
+        "country_code": "IQ",
+        "asn": "216098",
+        "description": "Techno Fast Company Ltd.",
+        "handle": "THECHNOFAST"
+    },
+    "216196": {
+        "country_code": "IQ",
+        "asn": "216196",
+        "description": "Fast Oil Contracting and General Trading LLC",
+        "handle": "FASTOIL"
+    },
+    "216346": {
+        "country_code": "IQ",
+        "asn": "216346",
+        "description": "General Secretariat of the council of Ministers",
+        "handle": "INDC"
+    },
+    "216399": {
+        "country_code": "IQ",
+        "asn": "216399",
+        "description": "Al-Sabah Technical Company for Trading and General Contracting Ltd.",
+        "handle": "AL-SABAH"
+    },
+    "216461": {
+        "country_code": "IQ",
+        "asn": "216461",
+        "description": "Nukhbat al-Iraq for Information Technology and Software Limited Liability",
+        "handle": "NUKHBAT-IQ"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "30990": {
+        "country_code": "DJ",
+        "asn": "30990",
+        "description": "DJIBOUTI TELECOM S.A.",
+        "handle": "ADJIB-AS"
+    },
+    "37775": {
+        "country_code": "DJ",
+        "asn": "37775",
+        "description": "Djibouti Data Center SARL",
+        "handle": "DJIX-PEERING-LAN"
+    },
+    "199322": {
+        "country_code": "DJ",
+        "asn": "199322",
+        "description": "Bio Product Supplier SARL",
+        "handle": "BPS"
+    },
+    "327831": {
+        "country_code": "DJ",
+        "asn": "327831",
+        "description": "Djibouti Data Center SARL",
+        "handle": "DJIBOUTI-DATA-CENTER"
+    },
+    "329140": {
+        "country_code": "DJ",
+        "asn": "329140",
+        "description": "Afrifiber SAS",
+        "handle": "AS5-AS"
+    }
+}

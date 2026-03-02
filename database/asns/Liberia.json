@@ -1,0 +1,110 @@
+{
+    "37094": {
+        "country_code": "LR",
+        "asn": "37094",
+        "description": "Orange Liberia INC",
+        "handle": "ORANGELIBERIA"
+    },
+    "37203": {
+        "country_code": "LR",
+        "asn": "37203",
+        "description": "Liberia Telecommunications Corporation (libtelco)",
+        "handle": "LIBTELCO"
+    },
+    "37410": {
+        "country_code": "LR",
+        "asn": "37410",
+        "description": "Lonestar Communications Corporation",
+        "handle": "LONESTAR"
+    },
+    "37557": {
+        "country_code": "LR",
+        "asn": "37557",
+        "description": "NOVAFONE Inc",
+        "handle": "NOVAFONE-LR"
+    },
+    "37560": {
+        "country_code": "LR",
+        "asn": "37560",
+        "description": "Cyberdyne S.A.",
+        "handle": "CYBERDYNE"
+    },
+    "37580": {
+        "country_code": "LR",
+        "asn": "37580",
+        "description": "ELECTRO SHACK INC.",
+        "handle": "ELECTROSHACK"
+    },
+    "37715": {
+        "country_code": "LR",
+        "asn": "37715",
+        "description": "Liberia Internet Exchange Point Association",
+        "handle": "LIBERIA-IXP-PEERING"
+    },
+    "207269": {
+        "country_code": "LR",
+        "asn": "207269",
+        "description": "MARAN TANKERS MANAGEMENT INC",
+        "handle": "ANGELICOUSSISGROUP"
+    },
+    "215964": {
+        "country_code": "LR",
+        "asn": "215964",
+        "description": "SAMOS STEAMSHIP COMPANY",
+        "handle": "SAMOS"
+    },
+    "327887": {
+        "country_code": "LR",
+        "asn": "327887",
+        "description": "Liberia Internet Exchange Point Association",
+        "handle": "LIBERIA-IXP-MANAGEMENT"
+    },
+    "328136": {
+        "country_code": "LR",
+        "asn": "328136",
+        "description": "Telecel Liberia Limited",
+        "handle": "TELECEL-LIBERIA-AS"
+    },
+    "328196": {
+        "country_code": "LR",
+        "asn": "328196",
+        "description": "POWERNET",
+        "handle": "POWERNET"
+    },
+    "328279": {
+        "country_code": "LR",
+        "asn": "328279",
+        "description": "NAS Inter-Global Liberia",
+        "handle": "NAS-INTER-GLOBAL-AS"
+    },
+    "328549": {
+        "country_code": "LR",
+        "asn": "328549",
+        "description": "SAHEL TELECOM LIBERIA",
+        "handle": "SAHEL-TELECOM"
+    },
+    "328595": {
+        "country_code": "LR",
+        "asn": "328595",
+        "description": "Winners Incorporated",
+        "handle": "WINNERS-INCORPORATED"
+    },
+    "329082": {
+        "country_code": "LR",
+        "asn": "329082",
+        "description": "Connect Services Liberia LLC",
+        "handle": "CSLL1-AS"
+    },
+    "329496": {
+        "country_code": "LR",
+        "asn": "329496",
+        "description": "GOWIFI Liberia LLC",
+        "handle": "GOWIFI"
+    },
+    "329525": {
+        "country_code": "LR",
+        "asn": "329525",
+        "description": "Gonetwork Inc",
+        "handle": "GONETWORK"
+    }
+}

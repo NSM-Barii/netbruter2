@@ -1,0 +1,2660 @@
+{
+    "4615": {
+        "country_code": "PK",
+        "asn": "4615",
+        "description": "Digicom Pakistan Private Limited",
+        "handle": "DIGICOM-PK"
+    },
+    "4661": {
+        "country_code": "PK",
+        "asn": "4661",
+        "description": "Pakistan Telecommuication company limited",
+        "handle": "PTCLBB-PK"
+    },
+    "7590": {
+        "country_code": "PK",
+        "asn": "7590",
+        "description": "COMSATS",
+        "handle": "COMSATS"
+    },
+    "7605": {
+        "country_code": "PK",
+        "asn": "7605",
+        "description": "FastTrack",
+        "handle": "FASTTRACK-AS-AP"
+    },
+    "9260": {
+        "country_code": "PK",
+        "asn": "9260",
+        "description": "Multinet Broadband",
+        "handle": "MULTINET-AS-AP"
+    },
+    "9387": {
+        "country_code": "PK",
+        "asn": "9387",
+        "description": "SHARP TELECOM (PRIVATE) LIMITED",
+        "handle": "SHARPTEL-AS-AP"
+    },
+    "9541": {
+        "country_code": "PK",
+        "asn": "9541",
+        "description": "Cyber Internet Services (Private) Limited",
+        "handle": "CYBERNET-AP"
+    },
+    "9557": {
+        "country_code": "PK",
+        "asn": "9557",
+        "description": "Pakistan Telecommuication company limited",
+        "handle": "PKTELECOM-AS-PK"
+    },
+    "9937": {
+        "country_code": "PK",
+        "asn": "9937",
+        "description": "Delta Networks",
+        "handle": "DELTANET-AS-AP"
+    },
+    "9940": {
+        "country_code": "PK",
+        "asn": "9940",
+        "description": "Linkdotnet Telecom Limited",
+        "handle": "LDN-AS-AP"
+    },
+    "10112": {
+        "country_code": "PK",
+        "asn": "10112",
+        "description": "THE VALUE HOSTED (PVT.) LIMITED",
+        "handle": "VALUEHOSTED-AS"
+    },
+    "17539": {
+        "country_code": "PK",
+        "asn": "17539",
+        "description": "Netsol Connect (Pvt) Limited",
+        "handle": "ASN-NCKHI-AP"
+    },
+    "17557": {
+        "country_code": "PK",
+        "asn": "17557",
+        "description": "Pakistan Telecommuication company limited",
+        "handle": "PKTELECOM-AS-PK"
+    },
+    "17563": {
+        "country_code": "PK",
+        "asn": "17563",
+        "description": "NEXLINX NETWORKS (PVT) LIMITED",
+        "handle": "NEXLINX-AS-AP"
+    },
+    "17787": {
+        "country_code": "PK",
+        "asn": "17787",
+        "description": "Pakistan Software Export Board",
+        "handle": "PSEB-AS-PK"
+    },
+    "17911": {
+        "country_code": "PK",
+        "asn": "17911",
+        "description": "Brain NET",
+        "handle": "BRAINPK-AS-AP"
+    },
+    "18053": {
+        "country_code": "PK",
+        "asn": "18053",
+        "description": "Special Communication Organization",
+        "handle": "SNET-AS-AP"
+    },
+    "18173": {
+        "country_code": "PK",
+        "asn": "18173",
+        "description": "Aga Khan University",
+        "handle": "AKU-AS-PK"
+    },
+    "18212": {
+        "country_code": "PK",
+        "asn": "18212",
+        "description": "National Institutional Facilitation Technologies Pvt. Ltd.",
+        "handle": "NIFT-AS-PK"
+    },
+    "18359": {
+        "country_code": "PK",
+        "asn": "18359",
+        "description": "Pak-Qatar General Takaful Limited",
+        "handle": "PGTL-AS-AP"
+    },
+    "23607": {
+        "country_code": "PK",
+        "asn": "23607",
+        "description": "LeoNet Pvt. Ltd.",
+        "handle": "LEONET-AS-AP"
+    },
+    "23674": {
+        "country_code": "PK",
+        "asn": "23674",
+        "description": "Naya Tel (Pvt.) Limited",
+        "handle": "NAYATEL-PK"
+    },
+    "23750": {
+        "country_code": "PK",
+        "asn": "23750",
+        "description": "Gerrys Information Technology (PVT) Ltd",
+        "handle": "GERRYS-AS-AP"
+    },
+    "23888": {
+        "country_code": "PK",
+        "asn": "23888",
+        "description": "National Telecommunication Corporation",
+        "handle": "NTC-AS-AP"
+    },
+    "23966": {
+        "country_code": "PK",
+        "asn": "23966",
+        "description": "Linkdotnet Telecom Limited",
+        "handle": "LDN-AS-PK"
+    },
+    "24105": {
+        "country_code": "PK",
+        "asn": "24105",
+        "description": "Green Broadband",
+        "handle": "GB-AS-AP"
+    },
+    "24435": {
+        "country_code": "PK",
+        "asn": "24435",
+        "description": "Supernet PDS Limited",
+        "handle": "SUPERNET-PAKISTAN-AS-AP"
+    },
+    "24440": {
+        "country_code": "PK",
+        "asn": "24440",
+        "description": "Cyber Internet Services (Private) Limited",
+        "handle": "CYBERNET-APII"
+    },
+    "24499": {
+        "country_code": "PK",
+        "asn": "24499",
+        "description": "Telenor Pakistan (Pvt) Ltd",
+        "handle": "TPP-AS-PK"
+    },
+    "37973": {
+        "country_code": "PK",
+        "asn": "37973",
+        "description": "Independent Media Corporation",
+        "handle": "GEO-IMC-PK-AS"
+    },
+    "38193": {
+        "country_code": "PK",
+        "asn": "38193",
+        "description": "TRANS WORLD ASSOCIATES (PVT) LIMITED",
+        "handle": "TWA-AS-AP"
+    },
+    "38196": {
+        "country_code": "PK",
+        "asn": "38196",
+        "description": "Mobilink GSM Pakistan Mobile Communication Ltd.",
+        "handle": "MOBILINK-PEERING-AS-PK"
+    },
+    "38264": {
+        "country_code": "PK",
+        "asn": "38264",
+        "description": "Wateen Telecom Limited",
+        "handle": "WATEEN-IMS-PK-AS-AP"
+    },
+    "38488": {
+        "country_code": "PK",
+        "asn": "38488",
+        "description": "Telecard Limited",
+        "handle": "TELECARD-PAKISTAN-AS-AP"
+    },
+    "38547": {
+        "country_code": "PK",
+        "asn": "38547",
+        "description": "Wi-Tribe Pakistan Limited",
+        "handle": "WITRIBE-AS-AP"
+    },
+    "38584": {
+        "country_code": "PK",
+        "asn": "38584",
+        "description": "CubeXS Pvt Ltd",
+        "handle": "CUBEXS-AS-AP"
+    },
+    "38616": {
+        "country_code": "PK",
+        "asn": "38616",
+        "description": "WORLDCALL TELECOM LIMITED",
+        "handle": "WORLDCALL-AS-KHI"
+    },
+    "38710": {
+        "country_code": "PK",
+        "asn": "38710",
+        "description": "WORLDCALL TELECOM LIMITED",
+        "handle": "WORLDCALL-AS-LHR"
+    },
+    "38713": {
+        "country_code": "PK",
+        "asn": "38713",
+        "description": "Satcomm (Pvt.) Ltd.",
+        "handle": "CONNECT2B-AS-PK"
+    },
+    "38808": {
+        "country_code": "PK",
+        "asn": "38808",
+        "description": "NIG SUN (PRIVATE) LIMITED",
+        "handle": "IMZAK-TRANSIT-AS-AP"
+    },
+    "45127": {
+        "country_code": "PK",
+        "asn": "45127",
+        "description": "Mobilink GSM Pakistan Mobile Communication Ltd.",
+        "handle": "MOBILINK-PEERING-AS-PK"
+    },
+    "45195": {
+        "country_code": "PK",
+        "asn": "45195",
+        "description": "Central Despository Company of Pakistan",
+        "handle": "CDCPAK-PK"
+    },
+    "45246": {
+        "country_code": "PK",
+        "asn": "45246",
+        "description": "Unitech Solutions (Pvt.) Ltd",
+        "handle": "ITS-AS-AP"
+    },
+    "45252": {
+        "country_code": "PK",
+        "asn": "45252",
+        "description": "Dancom Pakistan (Pvt.) Ltd.",
+        "handle": "DPPLLDI-AS-PK"
+    },
+    "45446": {
+        "country_code": "PK",
+        "asn": "45446",
+        "description": "My Solutions Corporation Ltd.",
+        "handle": "MYSOL-PK"
+    },
+    "45595": {
+        "country_code": "PK",
+        "asn": "45595",
+        "description": "Pakistan Telecom Company Limited",
+        "handle": "PKTELECOM-AS-PK"
+    },
+    "45605": {
+        "country_code": "PK",
+        "asn": "45605",
+        "description": "Net Access Communication Systems (Private) Limited",
+        "handle": "NACSPL-AS-AP"
+    },
+    "45669": {
+        "country_code": "PK",
+        "asn": "45669",
+        "description": "Mobilink GSM Pakistan Mobile Communication Ltd.",
+        "handle": "MOBILINK-AS-PK"
+    },
+    "45748": {
+        "country_code": "PK",
+        "asn": "45748",
+        "description": "Pakistan International Airlines",
+        "handle": "PIA-ASN"
+    },
+    "45773": {
+        "country_code": "PK",
+        "asn": "45773",
+        "description": "HEC",
+        "handle": "HECPERN-AS-PK"
+    },
+    "45779": {
+        "country_code": "PK",
+        "asn": "45779",
+        "description": "IGI Financial Services",
+        "handle": "LDN-AS-PK"
+    },
+    "45814": {
+        "country_code": "PK",
+        "asn": "45814",
+        "description": "Fariya Networks",
+        "handle": "FARIYA-PK"
+    },
+    "45843": {
+        "country_code": "PK",
+        "asn": "45843",
+        "description": "TRANS WORLD ASSOCIATES (PVT) LIMITED",
+        "handle": "TW1-AS-AP"
+    },
+    "45939": {
+        "country_code": "PK",
+        "asn": "45939",
+        "description": "Foundation Securities (Private) Limited",
+        "handle": "FSL-AS-AP"
+    },
+    "55340": {
+        "country_code": "PK",
+        "asn": "55340",
+        "description": "Telecard Limited",
+        "handle": "TELECARD-AS-AP"
+    },
+    "55356": {
+        "country_code": "PK",
+        "asn": "55356",
+        "description": "Wateen Telecom Limited",
+        "handle": "WATEENTEL-AS-AP"
+    },
+    "55399": {
+        "country_code": "PK",
+        "asn": "55399",
+        "description": "Gerrys Information Technology (PVT) Ltd",
+        "handle": "GERRYS-AS-AP"
+    },
+    "55414": {
+        "country_code": "PK",
+        "asn": "55414",
+        "description": "WORLDCALL TELECOM LIMITED",
+        "handle": "WORLDCALL-AS-AP"
+    },
+    "55453": {
+        "country_code": "PK",
+        "asn": "55453",
+        "description": "Sky Telecom",
+        "handle": "SKYTELECOM-AS-PK"
+    },
+    "55483": {
+        "country_code": "PK",
+        "asn": "55483",
+        "description": "Multinet Broadband",
+        "handle": "MULTINET-AS-AP"
+    },
+    "55501": {
+        "country_code": "PK",
+        "asn": "55501",
+        "description": "Web Concepts (Pvt) Ltd",
+        "handle": "CONNECTEL-PK"
+    },
+    "55534": {
+        "country_code": "PK",
+        "asn": "55534",
+        "description": "Pakistan Petroleum Limited",
+        "handle": "PPL-PK"
+    },
+    "55541": {
+        "country_code": "PK",
+        "asn": "55541",
+        "description": "MCB Bank Ltd",
+        "handle": "MCB15MAIN-AS-AP"
+    },
+    "55714": {
+        "country_code": "PK",
+        "asn": "55714",
+        "description": "FIBER LINK PRIVATE LIMITED",
+        "handle": "APNIC-FIBERLINK-PK"
+    },
+    "55816": {
+        "country_code": "PK",
+        "asn": "55816",
+        "description": "Bank Alfalah Limited",
+        "handle": "BANKALFALAH-AS-AP"
+    },
+    "56052": {
+        "country_code": "PK",
+        "asn": "56052",
+        "description": "Cyber Internet Services (Private) Limited",
+        "handle": "ZPIX-PK"
+    },
+    "56126": {
+        "country_code": "PK",
+        "asn": "56126",
+        "description": "United Bank Limited",
+        "handle": "UBL-PK"
+    },
+    "56167": {
+        "country_code": "PK",
+        "asn": "56167",
+        "description": "PTML",
+        "handle": "PTML-PK"
+    },
+    "56192": {
+        "country_code": "PK",
+        "asn": "56192",
+        "description": "Karachi International Container Terminal",
+        "handle": "KICTL-PK"
+    },
+    "58468": {
+        "country_code": "PK",
+        "asn": "58468",
+        "description": "MAGSNET LIMITED",
+        "handle": "MAGSNET-PK"
+    },
+    "58470": {
+        "country_code": "PK",
+        "asn": "58470",
+        "description": "Mobilink GSM Pakistan Mobile Communication Ltd.",
+        "handle": "MOBILINK-PEERING-AS-PK"
+    },
+    "58506": {
+        "country_code": "PK",
+        "asn": "58506",
+        "description": "National Bank of Pakistan",
+        "handle": "NBP-PK"
+    },
+    "58512": {
+        "country_code": "PK",
+        "asn": "58512",
+        "description": "MAGSNET LIMITED",
+        "handle": "PUBLICINTERNETSWITCH"
+    },
+    "58515": {
+        "country_code": "PK",
+        "asn": "58515",
+        "description": "Allied Bank Limited",
+        "handle": "ALLIEDNET-PK"
+    },
+    "58609": {
+        "country_code": "PK",
+        "asn": "58609",
+        "description": "Engro Corporation Limited",
+        "handle": "ENGRO-CORP-PK"
+    },
+    "58614": {
+        "country_code": "PK",
+        "asn": "58614",
+        "description": "RapidCompute",
+        "handle": "RAPIDCOMPUTE-PK"
+    },
+    "58617": {
+        "country_code": "PK",
+        "asn": "58617",
+        "description": "TPL Trakker Ltd",
+        "handle": "TPLTRAKKER-PK"
+    },
+    "58626": {
+        "country_code": "PK",
+        "asn": "58626",
+        "description": "MAGSNET INC.",
+        "handle": "MAGSNETINC-AS-AP"
+    },
+    "58746": {
+        "country_code": "PK",
+        "asn": "58746",
+        "description": "Cyber Internet Services (Private) Limited",
+        "handle": "CYBERNET-AS-AP"
+    },
+    "58876": {
+        "country_code": "PK",
+        "asn": "58876",
+        "description": "United Energy Pakistan Limited",
+        "handle": "UEPL-NET-PK"
+    },
+    "58893": {
+        "country_code": "PK",
+        "asn": "58893",
+        "description": "Gemnet Enterprise Solutions Pvt Ltd",
+        "handle": "GESNET-AS-AP"
+    },
+    "58895": {
+        "country_code": "PK",
+        "asn": "58895",
+        "description": "E Bone Network (Pvt.) Limited",
+        "handle": "EBONE1-PK"
+    },
+    "58974": {
+        "country_code": "PK",
+        "asn": "58974",
+        "description": "KARACHI STOCK EXCHANGE LIMITED",
+        "handle": "KSKEL-PK"
+    },
+    "58987": {
+        "country_code": "PK",
+        "asn": "58987",
+        "description": "HG TELECOMMUNICATION PRIVATE LIMITED",
+        "handle": "HG1-AS-AP"
+    },
+    "59257": {
+        "country_code": "PK",
+        "asn": "59257",
+        "description": "CMPak Limited",
+        "handle": "CMPAKLIMITED-AS-AP"
+    },
+    "59323": {
+        "country_code": "PK",
+        "asn": "59323",
+        "description": "Punjab Information Technology Board",
+        "handle": "PITB-PUNJAB-PK"
+    },
+    "63954": {
+        "country_code": "PK",
+        "asn": "63954",
+        "description": "Getz Pharma (Private) Limited",
+        "handle": "GETZPHARMA-PK"
+    },
+    "64093": {
+        "country_code": "PK",
+        "asn": "64093",
+        "description": "Wise Communication Systems (Pvt) Limited",
+        "handle": "WISECOMM-AS-AP"
+    },
+    "131220": {
+        "country_code": "PK",
+        "asn": "131220",
+        "description": "FINCA Microfinance Bank Limited",
+        "handle": "FMBL-AS-AP"
+    },
+    "131275": {
+        "country_code": "PK",
+        "asn": "131275",
+        "description": "Logon Broadband Pvt. Limited",
+        "handle": "LBPL-AS-AP"
+    },
+    "131471": {
+        "country_code": "PK",
+        "asn": "131471",
+        "description": "Login.Me (Pvt) Ltd",
+        "handle": "LOGINMEPVTLTD-AS-AP"
+    },
+    "132103": {
+        "country_code": "PK",
+        "asn": "132103",
+        "description": "Bytenests Pvt Ltd",
+        "handle": "BYTENESTS-AS-AP"
+    },
+    "132165": {
+        "country_code": "PK",
+        "asn": "132165",
+        "description": "Connect Communication",
+        "handle": "CONNECT-AS-AP"
+    },
+    "132285": {
+        "country_code": "PK",
+        "asn": "132285",
+        "description": "Kurta Gali (Private) Limited",
+        "handle": "KG-AS-AP"
+    },
+    "132386": {
+        "country_code": "PK",
+        "asn": "132386",
+        "description": "Usman Internet Service Provider Private Limited",
+        "handle": "USMANISP-AS-AP"
+    },
+    "132480": {
+        "country_code": "PK",
+        "asn": "132480",
+        "description": "Netze Telecom (Private) Limited",
+        "handle": "NETZE-AS-AP"
+    },
+    "132683": {
+        "country_code": "PK",
+        "asn": "132683",
+        "description": "Style Of Global",
+        "handle": "STYLEOFGLOBAL-AS-AP"
+    },
+    "132741": {
+        "country_code": "PK",
+        "asn": "132741",
+        "description": "National Communications Services (SMC-Private) Limited",
+        "handle": "NCSL-AS-AP"
+    },
+    "132788": {
+        "country_code": "PK",
+        "asn": "132788",
+        "description": "MOBILINK IT AS",
+        "handle": "MOBIT-AS-AP"
+    },
+    "132872": {
+        "country_code": "PK",
+        "asn": "132872",
+        "description": "Data Check Limited",
+        "handle": "DATACHECK-AS-AP"
+    },
+    "132891": {
+        "country_code": "PK",
+        "asn": "132891",
+        "description": "SARFRAZ TEXTILE MILLS (PRIVATE) LIMITED",
+        "handle": "STM-AS-AP"
+    },
+    "133141": {
+        "country_code": "PK",
+        "asn": "133141",
+        "description": "Wizard's Network (PVT.) Limited",
+        "handle": "WN-AS-AP"
+    },
+    "133170": {
+        "country_code": "PK",
+        "asn": "133170",
+        "description": "Altpay (Private) Limited",
+        "handle": "ALTPAY-AS-AP"
+    },
+    "133369": {
+        "country_code": "PK",
+        "asn": "133369",
+        "description": "Netpoint IT & Communications Pvt. Ltd",
+        "handle": "NICPL-AS-AP"
+    },
+    "133495": {
+        "country_code": "PK",
+        "asn": "133495",
+        "description": "Vision telecom Private limited",
+        "handle": "VISIONTEL-PK"
+    },
+    "133502": {
+        "country_code": "PK",
+        "asn": "133502",
+        "description": "Linkdotnet Telecom Limited",
+        "handle": "LINKDOTNET-AS-AP"
+    },
+    "133551": {
+        "country_code": "PK",
+        "asn": "133551",
+        "description": "OriginNet",
+        "handle": "ORIGINNET-AS-AP"
+    },
+    "133628": {
+        "country_code": "PK",
+        "asn": "133628",
+        "description": "SB Communication PVT Ltd",
+        "handle": "SBCOMMUNICATION-AS-AP"
+    },
+    "133932": {
+        "country_code": "PK",
+        "asn": "133932",
+        "description": "Chapal (Pvt.) Limited",
+        "handle": "CHAPAL"
+    },
+    "133933": {
+        "country_code": "PK",
+        "asn": "133933",
+        "description": "NetSat Private Limited",
+        "handle": "NETSAT1-PK"
+    },
+    "134222": {
+        "country_code": "PK",
+        "asn": "134222",
+        "description": "M/S Digital Plus Internet Services",
+        "handle": "DPIS-AS-AP"
+    },
+    "134231": {
+        "country_code": "PK",
+        "asn": "134231",
+        "description": "Elite Communication Private Limited",
+        "handle": "ECPL-AS-AP"
+    },
+    "134357": {
+        "country_code": "PK",
+        "asn": "134357",
+        "description": "Fauji Fertilizer Company Limited",
+        "handle": "FFCL-AS-AP"
+    },
+    "134447": {
+        "country_code": "PK",
+        "asn": "134447",
+        "description": "Vision East (PVT) Ltd",
+        "handle": "VEL-AS-AP"
+    },
+    "134489": {
+        "country_code": "PK",
+        "asn": "134489",
+        "description": "S. B Link Network",
+        "handle": "SBLINKNETWORK-AS-AP"
+    },
+    "134596": {
+        "country_code": "PK",
+        "asn": "134596",
+        "description": "WICLOUD PVT LTD.",
+        "handle": "WICLOUDPVTLTD-AS-AP"
+    },
+    "134598": {
+        "country_code": "PK",
+        "asn": "134598",
+        "description": "Habib Oil Mills (PVT) Ltd",
+        "handle": "HOM-AS-AP"
+    },
+    "134663": {
+        "country_code": "PK",
+        "asn": "134663",
+        "description": "I-WEB",
+        "handle": "IWEB-AS-AP"
+    },
+    "134737": {
+        "country_code": "PK",
+        "asn": "134737",
+        "description": "Net-Cloud Telecom Private Limited",
+        "handle": "NETCLOUD-AS-AP"
+    },
+    "134782": {
+        "country_code": "PK",
+        "asn": "134782",
+        "description": "REDtone Digital Services (Pvt) Ltd",
+        "handle": "RDSL-AS-AP"
+    },
+    "135003": {
+        "country_code": "PK",
+        "asn": "135003",
+        "description": "Multan Cable & Internet Services (Pvt) Ltd",
+        "handle": "MULTAN-AS-AP"
+    },
+    "135046": {
+        "country_code": "PK",
+        "asn": "135046",
+        "description": "TAIZTEL (PRIVATE) LIMITED",
+        "handle": "TL-AS-AP"
+    },
+    "135115": {
+        "country_code": "PK",
+        "asn": "135115",
+        "description": "OCEAN FIBERS AND BROADBAND PRIVATE LIMITED",
+        "handle": "OFABL-AS-AP"
+    },
+    "135123": {
+        "country_code": "PK",
+        "asn": "135123",
+        "description": "Samba Bank Limited",
+        "handle": "SAMBA-AS-AP"
+    },
+    "135316": {
+        "country_code": "PK",
+        "asn": "135316",
+        "description": "AMBITIONS COMMUNICATION SYSTEM (SMC-PRIVATE) LIMITED",
+        "handle": "ACSL-AS-AP"
+    },
+    "135342": {
+        "country_code": "PK",
+        "asn": "135342",
+        "description": "Askari Bank",
+        "handle": "ASKARI-AS-AP"
+    },
+    "135384": {
+        "country_code": "PK",
+        "asn": "135384",
+        "description": "Khyber Internet Services Provider Pvt. Ltd.",
+        "handle": "KISPPL-AS-AP"
+    },
+    "135407": {
+        "country_code": "PK",
+        "asn": "135407",
+        "description": "Trans World Enterprise Services (Private) Limited",
+        "handle": "TES-PL-AS-AP"
+    },
+    "135523": {
+        "country_code": "PK",
+        "asn": "135523",
+        "description": "Multinet Broadband",
+        "handle": "MULTINET-IE-AS-AP"
+    },
+    "135567": {
+        "country_code": "PK",
+        "asn": "135567",
+        "description": "AirMax Private Limited",
+        "handle": "APL-AS-AP"
+    },
+    "135576": {
+        "country_code": "PK",
+        "asn": "135576",
+        "description": "Hazara Communication Cable Net (Pvt) Ltd",
+        "handle": "HCCNL-AS-AP"
+    },
+    "135598": {
+        "country_code": "PK",
+        "asn": "135598",
+        "description": "SIBERFY (PRIVATE) LIMITED",
+        "handle": "SIBERFY-AS-AP"
+    },
+    "135632": {
+        "country_code": "PK",
+        "asn": "135632",
+        "description": "Cactus Network Solutions (CNS) Pvt Ltd",
+        "handle": "CNSPL-AS-AP"
+    },
+    "135660": {
+        "country_code": "PK",
+        "asn": "135660",
+        "description": "ROUTE 1 DIGITAL (PVT.) LIMITED",
+        "handle": "R1DL-AS-AP"
+    },
+    "135661": {
+        "country_code": "PK",
+        "asn": "135661",
+        "description": "Superior Connections private limited",
+        "handle": "SCPL-AS-AP"
+    },
+    "135891": {
+        "country_code": "PK",
+        "asn": "135891",
+        "description": "Sharp Communications (Pvt.) Ltd",
+        "handle": "SHARPCOM-AS-AP"
+    },
+    "136012": {
+        "country_code": "PK",
+        "asn": "136012",
+        "description": "Telenor Microfinance Bank Limited",
+        "handle": "TMFB-AS-AP"
+    },
+    "136030": {
+        "country_code": "PK",
+        "asn": "136030",
+        "description": "Redtone Telecommunications Pakistan (Private) Limited",
+        "handle": "REDTONE-AS-AP"
+    },
+    "136046": {
+        "country_code": "PK",
+        "asn": "136046",
+        "description": "VimpleCom",
+        "handle": "VIMPLECOM-AS-AP"
+    },
+    "136142": {
+        "country_code": "PK",
+        "asn": "136142",
+        "description": "Enigma Fiber Pvt Ltd",
+        "handle": "EFPL-AS-AP"
+    },
+    "136174": {
+        "country_code": "PK",
+        "asn": "136174",
+        "description": "The Professional Communications Pvt Ltd",
+        "handle": "TPCPL-AS-AP"
+    },
+    "136184": {
+        "country_code": "PK",
+        "asn": "136184",
+        "description": "Y LINX (PVT.) LIMITED",
+        "handle": "YLINX-AS-AP"
+    },
+    "136225": {
+        "country_code": "PK",
+        "asn": "136225",
+        "description": "Smart Telecom",
+        "handle": "SMARTTELECOM-AS-AP"
+    },
+    "136259": {
+        "country_code": "PK",
+        "asn": "136259",
+        "description": "FAYSAL BANK LIMITED",
+        "handle": "FAYSALBANK-AS-AP"
+    },
+    "136263": {
+        "country_code": "PK",
+        "asn": "136263",
+        "description": "CLICK SAT (PVT.) LIMITED",
+        "handle": "CLICKSAT-AS-AP"
+    },
+    "136274": {
+        "country_code": "PK",
+        "asn": "136274",
+        "description": "Cloud Servers Pvt Ltd",
+        "handle": "CSPL-AS-AP"
+    },
+    "136384": {
+        "country_code": "PK",
+        "asn": "136384",
+        "description": "Optix Pakistan (Pvt.) Limited",
+        "handle": "OPTIX-AS-AP"
+    },
+    "136427": {
+        "country_code": "PK",
+        "asn": "136427",
+        "description": "MCB-ARIF HABIB SAVINGS AND INVESTMENTS LIMITED",
+        "handle": "MCBAH-AS-AP"
+    },
+    "136525": {
+        "country_code": "PK",
+        "asn": "136525",
+        "description": "Wancom (Pvt) Ltd.",
+        "handle": "WANCOMPVTLTD-AS-AP"
+    },
+    "136602": {
+        "country_code": "PK",
+        "asn": "136602",
+        "description": "Bank Al Habib Limited",
+        "handle": "BAHL-AS-AP"
+    },
+    "136610": {
+        "country_code": "PK",
+        "asn": "136610",
+        "description": "WideBand Communications(Pvt)Ltd",
+        "handle": "WIDEBAND-AS-AP"
+    },
+    "136730": {
+        "country_code": "PK",
+        "asn": "136730",
+        "description": "INTERMARKET SECURITIES LIMITED",
+        "handle": "INTERMARKET-AS-AP"
+    },
+    "136790": {
+        "country_code": "PK",
+        "asn": "136790",
+        "description": "INTENSE COMMUNICATION (PRIVATE) LIMITED",
+        "handle": "ICL-AS-AP"
+    },
+    "136969": {
+        "country_code": "PK",
+        "asn": "136969",
+        "description": "KK Networks (Pvt) Ltd.",
+        "handle": "KKNETWROK-AS-AP"
+    },
+    "136974": {
+        "country_code": "PK",
+        "asn": "136974",
+        "description": "Technology Communications & Supplies (Private) Limited",
+        "handle": "TCSPVTLTD-AS-AP"
+    },
+    "136981": {
+        "country_code": "PK",
+        "asn": "136981",
+        "description": "ANI FIBER NET TELECOMMUNICATIONS (PRIVATE) LIMITED",
+        "handle": "AFNTPL-AS-AP"
+    },
+    "137014": {
+        "country_code": "PK",
+        "asn": "137014",
+        "description": "Interwood Mobel Pvt Ltd",
+        "handle": "INTERWOOD-AS-AP"
+    },
+    "137031": {
+        "country_code": "PK",
+        "asn": "137031",
+        "description": "Collection Cable Network Tv (Pvt) Ltd",
+        "handle": "COLLECTION-AS-AP"
+    },
+    "137047": {
+        "country_code": "PK",
+        "asn": "137047",
+        "description": "TELECOMMUNICATION AND TECHNOLOGY MASTERS (PVT.) LIMITED",
+        "handle": "TATMPL-AS-AP"
+    },
+    "137224": {
+        "country_code": "PK",
+        "asn": "137224",
+        "description": "Galaxy Technology (Pvt.) Ltd",
+        "handle": "GTL-AS-AP"
+    },
+    "137233": {
+        "country_code": "PK",
+        "asn": "137233",
+        "description": "Four Star Multimedia",
+        "handle": "FCFSCNL-AS-AP"
+    },
+    "137235": {
+        "country_code": "PK",
+        "asn": "137235",
+        "description": "Kami Mobile Services",
+        "handle": "KMS-AS-AP"
+    },
+    "137237": {
+        "country_code": "PK",
+        "asn": "137237",
+        "description": "MaxTel Private Limited",
+        "handle": "MAXTEL-AS-AP"
+    },
+    "137258": {
+        "country_code": "PK",
+        "asn": "137258",
+        "description": "Shirazi Investments Pvt Ltd",
+        "handle": "SHIRAZI-AS-AP"
+    },
+    "137265": {
+        "country_code": "PK",
+        "asn": "137265",
+        "description": "MCB Islamic Bank",
+        "handle": "MCBISLAMICBANK-AS-AP"
+    },
+    "137430": {
+        "country_code": "PK",
+        "asn": "137430",
+        "description": "loomnet private limited",
+        "handle": "LOOMNET-AS-AP"
+    },
+    "137461": {
+        "country_code": "PK",
+        "asn": "137461",
+        "description": "The Bank of Punjab",
+        "handle": "THEBANKOFPUNJAB-AS-AP"
+    },
+    "137481": {
+        "country_code": "PK",
+        "asn": "137481",
+        "description": "M3 Technologies Pakistan Pvt. Ltd",
+        "handle": "MTPPL-AS-AP"
+    },
+    "137513": {
+        "country_code": "PK",
+        "asn": "137513",
+        "description": "HBL Bank Pvt Ltd.",
+        "handle": "HBLBANKPVTLTD-AS-AP"
+    },
+    "137517": {
+        "country_code": "PK",
+        "asn": "137517",
+        "description": "BEE ONLINE NETWORK PRIVATE LIMITED",
+        "handle": "FLAMEHOSTING-AS-AP"
+    },
+    "137561": {
+        "country_code": "PK",
+        "asn": "137561",
+        "description": "WayLink (Pvt.) Limited",
+        "handle": "WAYLINK-AS-AP"
+    },
+    "137910": {
+        "country_code": "PK",
+        "asn": "137910",
+        "description": "Wavecomm (Private) Limited",
+        "handle": "WAVECOMM-AS-AP"
+    },
+    "138019": {
+        "country_code": "PK",
+        "asn": "138019",
+        "description": "Punjab Safe City Authority",
+        "handle": "PSCA-AS-AP"
+    },
+    "138039": {
+        "country_code": "PK",
+        "asn": "138039",
+        "description": "Broadband Business Ideas (PVT.) Limited",
+        "handle": "BBI-AS-AP"
+    },
+    "138172": {
+        "country_code": "PK",
+        "asn": "138172",
+        "description": "Boom Info Tech (SMC-Pvt) Ltd",
+        "handle": "BOOMINFOTECH-AS-AP"
+    },
+    "138241": {
+        "country_code": "PK",
+        "asn": "138241",
+        "description": "Orient Express LDI Limited",
+        "handle": "ORIENTEXPRESS-AS-AP"
+    },
+    "138324": {
+        "country_code": "PK",
+        "asn": "138324",
+        "description": "JHELUM NETWORKS PVT LTD",
+        "handle": "JHELUMI-AS-AP"
+    },
+    "138329": {
+        "country_code": "PK",
+        "asn": "138329",
+        "description": "RedWing Private Limited",
+        "handle": "RPL-AS-AP"
+    },
+    "138349": {
+        "country_code": "PK",
+        "asn": "138349",
+        "description": "Sky Net Multi Services Pvt Ltd",
+        "handle": "SNMSPL-AS-AP"
+    },
+    "138368": {
+        "country_code": "PK",
+        "asn": "138368",
+        "description": "INSTACOM Pvt. LTD",
+        "handle": "INSTACOMPVTLTD-AS-AP"
+    },
+    "138423": {
+        "country_code": "PK",
+        "asn": "138423",
+        "description": "CMPak Limited",
+        "handle": "CMPAKLIMITED-AS-ENTCORP"
+    },
+    "138424": {
+        "country_code": "PK",
+        "asn": "138424",
+        "description": "Federal Board of Revenue",
+        "handle": "FBR-AS-AP"
+    },
+    "138426": {
+        "country_code": "PK",
+        "asn": "138426",
+        "description": "Absolute Solutions Pvt. Ltd.",
+        "handle": "ASPL-AS-AP"
+    },
+    "138432": {
+        "country_code": "PK",
+        "asn": "138432",
+        "description": "SKYWORLD TELECOMMUNICATIONS (PRIVATE) LIMITED",
+        "handle": "SKYWORLD-AS-AP"
+    },
+    "138444": {
+        "country_code": "PK",
+        "asn": "138444",
+        "description": "K-Electric Limited",
+        "handle": "K-ELECTRIC-LIMITED-AS-AP"
+    },
+    "138453": {
+        "country_code": "PK",
+        "asn": "138453",
+        "description": "GCS (Private) Limited",
+        "handle": "GCSPVTLTD-AS-AP"
+    },
+    "138467": {
+        "country_code": "PK",
+        "asn": "138467",
+        "description": "Blue Bird Networks",
+        "handle": "BBNPL-AS-AP"
+    },
+    "138590": {
+        "country_code": "PK",
+        "asn": "138590",
+        "description": "Prime Networks",
+        "handle": "PRIMENETWORKS-AS-AP"
+    },
+    "138625": {
+        "country_code": "PK",
+        "asn": "138625",
+        "description": "Dreams Network & Technology Pvt Ltd",
+        "handle": "DNTPL-AS-AP"
+    },
+    "138655": {
+        "country_code": "PK",
+        "asn": "138655",
+        "description": "Trans World Enterprise Services (Private) Limited",
+        "handle": "TES-PL-AS-AP"
+    },
+    "138677": {
+        "country_code": "PK",
+        "asn": "138677",
+        "description": "Zeta Technologies (Pvt.) Limited",
+        "handle": "ZTL-AS-AP"
+    },
+    "138905": {
+        "country_code": "PK",
+        "asn": "138905",
+        "description": "ONE CLICK BROADBAND (PRIVATE) LIMITED",
+        "handle": "OCBL-AS-AP"
+    },
+    "138910": {
+        "country_code": "PK",
+        "asn": "138910",
+        "description": "N/A",
+        "handle": "ACL-AS-AP"
+    },
+    "138914": {
+        "country_code": "PK",
+        "asn": "138914",
+        "description": "Eureka Net Pvt Ltd",
+        "handle": "EUREKANET-AS-AP"
+    },
+    "138926": {
+        "country_code": "PK",
+        "asn": "138926",
+        "description": "Netpoint IT & Communications Pvt. Ltd",
+        "handle": "NICPL-AS-AP"
+    },
+    "138955": {
+        "country_code": "PK",
+        "asn": "138955",
+        "description": "brisktel private limited",
+        "handle": "BTBN-AS-AP"
+    },
+    "138971": {
+        "country_code": "PK",
+        "asn": "138971",
+        "description": "Y LINX (PVT.) LIMITED",
+        "handle": "YLINX-AS-AP"
+    },
+    "138985": {
+        "country_code": "PK",
+        "asn": "138985",
+        "description": "CITS PVT (LTD)",
+        "handle": "CITSPVTLTD-AS-AP"
+    },
+    "139024": {
+        "country_code": "PK",
+        "asn": "139024",
+        "description": "Iqra University",
+        "handle": "IQRAUNIVERSITY-AS-AP"
+    },
+    "139043": {
+        "country_code": "PK",
+        "asn": "139043",
+        "description": "WellNetworks (Private) Limited",
+        "handle": "WELLNETWORKS-AS-AP"
+    },
+    "139067": {
+        "country_code": "PK",
+        "asn": "139067",
+        "description": "Nayapay (Pvt.) Limited",
+        "handle": "NAYAPAY-AS-AP"
+    },
+    "139087": {
+        "country_code": "PK",
+        "asn": "139087",
+        "description": "Fast Web & Wireless Communications (Pvt.) Limited",
+        "handle": "FAST1-AS-AP"
+    },
+    "139088": {
+        "country_code": "PK",
+        "asn": "139088",
+        "description": "KK Networks (Pvt) Ltd.",
+        "handle": "KKNETWROK-AS-AP"
+    },
+    "139218": {
+        "country_code": "PK",
+        "asn": "139218",
+        "description": "Jhelum Vision Cable Network",
+        "handle": "JVCN-AS-AP"
+    },
+    "139219": {
+        "country_code": "PK",
+        "asn": "139219",
+        "description": "Helium Communication PVT LTD",
+        "handle": "HCPL-AS-AP"
+    },
+    "139260": {
+        "country_code": "PK",
+        "asn": "139260",
+        "description": "u-blox Lahore Pvt Ltd.",
+        "handle": "ULPL-AS-AP"
+    },
+    "139292": {
+        "country_code": "PK",
+        "asn": "139292",
+        "description": "Jubilee Life Insurance",
+        "handle": "JUBILEE-AS-AP"
+    },
+    "139302": {
+        "country_code": "PK",
+        "asn": "139302",
+        "description": "Ashiq Cable Network (Pvt.) Limited",
+        "handle": "ACNNETWORK-AS-AP"
+    },
+    "139351": {
+        "country_code": "PK",
+        "asn": "139351",
+        "description": "AERO COMMUNICATIONS BROADBAND PVT. LTD",
+        "handle": "AERONET-AS-AP"
+    },
+    "139577": {
+        "country_code": "PK",
+        "asn": "139577",
+        "description": "Hispar Networks Pvt Ltd",
+        "handle": "HNPL-AS-AP"
+    },
+    "139598": {
+        "country_code": "PK",
+        "asn": "139598",
+        "description": "Digital World",
+        "handle": "DIGITALWORLD-AS-AP"
+    },
+    "139621": {
+        "country_code": "PK",
+        "asn": "139621",
+        "description": "Channel Tek Enterprises (Private) Limited",
+        "handle": "CHANNELTEKENT-AS-AP"
+    },
+    "139718": {
+        "country_code": "PK",
+        "asn": "139718",
+        "description": "Tornado Networks (Pvt.) Limited",
+        "handle": "TORNADO3-AS-AP"
+    },
+    "139820": {
+        "country_code": "PK",
+        "asn": "139820",
+        "description": "HG TELECOMMUNICATION PRIVATE LIMITED",
+        "handle": "HG1-AS-AP"
+    },
+    "139824": {
+        "country_code": "PK",
+        "asn": "139824",
+        "description": "Fine Net Services Pvt Ltd",
+        "handle": "FNSP-AS-AP"
+    },
+    "139879": {
+        "country_code": "PK",
+        "asn": "139879",
+        "description": "Galaxy Broadband (pvt.) Ltd.",
+        "handle": "GALAXY-AS-AP"
+    },
+    "139925": {
+        "country_code": "PK",
+        "asn": "139925",
+        "description": "SharkNet Telecom Pvt. Ltd.",
+        "handle": "STPL-AS-AP"
+    },
+    "140039": {
+        "country_code": "PK",
+        "asn": "140039",
+        "description": "Master Communication Pvt. Ltd.",
+        "handle": "MCPL-AS-AP"
+    },
+    "140045": {
+        "country_code": "PK",
+        "asn": "140045",
+        "description": "Multi City Broad Band Pvt Ltd",
+        "handle": "MULTICITY-AS-AP"
+    },
+    "140100": {
+        "country_code": "PK",
+        "asn": "140100",
+        "description": "MAC WIFI NETWORKS (PRIVATE) LIMITED",
+        "handle": "MWNPL-AS-AP"
+    },
+    "140208": {
+        "country_code": "PK",
+        "asn": "140208",
+        "description": "OBHost",
+        "handle": "OBHOST-AS-AP"
+    },
+    "140210": {
+        "country_code": "PK",
+        "asn": "140210",
+        "description": "ConnectX",
+        "handle": "CONNECTX-AS-AP"
+    },
+    "140307": {
+        "country_code": "PK",
+        "asn": "140307",
+        "description": "Pakistan Telecommuication company limited",
+        "handle": "PIE-KARACHI-AS-AP"
+    },
+    "140499": {
+        "country_code": "PK",
+        "asn": "140499",
+        "description": "Khan Telecommunications PVT LTD",
+        "handle": "KTPL-AS-AP"
+    },
+    "140526": {
+        "country_code": "PK",
+        "asn": "140526",
+        "description": "The Bank of Khyber",
+        "handle": "THEBANKOFKHYBER-AS-AP"
+    },
+    "140571": {
+        "country_code": "PK",
+        "asn": "140571",
+        "description": "Yotta Byte (Pvt.) Ltd",
+        "handle": "YOTTABYTE-AS-AP"
+    },
+    "140579": {
+        "country_code": "PK",
+        "asn": "140579",
+        "description": "Netbiz Broadband (Pvt) Ltd",
+        "handle": "NBL-AS-AP"
+    },
+    "140594": {
+        "country_code": "PK",
+        "asn": "140594",
+        "description": "New Pakistan Cable Network (Firm)",
+        "handle": "NPCN-AS-AP"
+    },
+    "140607": {
+        "country_code": "PK",
+        "asn": "140607",
+        "description": "Sign In (PVT) LTD",
+        "handle": "SIGNINN-AS-AP"
+    },
+    "140608": {
+        "country_code": "PK",
+        "asn": "140608",
+        "description": "SMART MULTIMEDIA (PRIVATE) LIMITED",
+        "handle": "SMART-AS-AP"
+    },
+    "140658": {
+        "country_code": "PK",
+        "asn": "140658",
+        "description": "saidu polytechnic college of sciences",
+        "handle": "SPCOS-AS-AP"
+    },
+    "140667": {
+        "country_code": "PK",
+        "asn": "140667",
+        "description": "ONE CLICK COMMUNICATION (PRIVATE) LIMITED",
+        "handle": "OCCL-AS-AP"
+    },
+    "140692": {
+        "country_code": "PK",
+        "asn": "140692",
+        "description": "Ghazni Traders",
+        "handle": "NOMANALI-AS-AP"
+    },
+    "140697": {
+        "country_code": "PK",
+        "asn": "140697",
+        "description": "KK Networks (Pvt) Ltd.",
+        "handle": "KKNETWROK-AS-AP"
+    },
+    "140721": {
+        "country_code": "PK",
+        "asn": "140721",
+        "description": "Fiber Connect (Private) Limited",
+        "handle": "FIBER-AS-AP"
+    },
+    "140732": {
+        "country_code": "PK",
+        "asn": "140732",
+        "description": "KK Networks (Pvt) Ltd.",
+        "handle": "KKNETWROK-AS-AP"
+    },
+    "140900": {
+        "country_code": "PK",
+        "asn": "140900",
+        "description": "Getlinks (SMC-Private) Limited",
+        "handle": "GETLINKS2-AS-AP"
+    },
+    "140941": {
+        "country_code": "PK",
+        "asn": "140941",
+        "description": "Full Time Hosting",
+        "handle": "FULLTIMEHOSTING-AS-AP"
+    },
+    "140998": {
+        "country_code": "PK",
+        "asn": "140998",
+        "description": "Netze Telecom (Private) Limited",
+        "handle": "NETZE-AS-AP"
+    },
+    "141008": {
+        "country_code": "PK",
+        "asn": "141008",
+        "description": "EFU LIFE Assurance Ltd",
+        "handle": "EFULIFEASSURANCELTD-AS-AP"
+    },
+    "141020": {
+        "country_code": "PK",
+        "asn": "141020",
+        "description": "Usman Haider & Company Private Limited",
+        "handle": "UHCPL-AS-AP"
+    },
+    "141023": {
+        "country_code": "PK",
+        "asn": "141023",
+        "description": "HG TELECOMMUNICATION PRIVATE LIMITED",
+        "handle": "HG1-AS-AP"
+    },
+    "141031": {
+        "country_code": "PK",
+        "asn": "141031",
+        "description": "Connect Communication",
+        "handle": "CONNECT-AS-AP"
+    },
+    "141164": {
+        "country_code": "PK",
+        "asn": "141164",
+        "description": "Khadim Ali Shah Bukhari Securities (Private) Limited",
+        "handle": "KHADIMALISHAHBUKHARISECURITIESPVTLIMITED-AS-AP"
+    },
+    "141212": {
+        "country_code": "PK",
+        "asn": "141212",
+        "description": "MyNet Broadband (Pvt.) Ltd",
+        "handle": "MYNET1-AS-AP"
+    },
+    "141215": {
+        "country_code": "PK",
+        "asn": "141215",
+        "description": "Dotcom International Pvt. Limited",
+        "handle": "DIPL-AS-AP"
+    },
+    "141234": {
+        "country_code": "PK",
+        "asn": "141234",
+        "description": "Big Data Technologies Pvt Ltd",
+        "handle": "BDTPL-AS-AP"
+    },
+    "141342": {
+        "country_code": "PK",
+        "asn": "141342",
+        "description": "FIBERISH (PVT) LTD",
+        "handle": "FIBERISHPVTLTD-AS-AP"
+    },
+    "141343": {
+        "country_code": "PK",
+        "asn": "141343",
+        "description": "Zeta Technologies (Pvt.) Limited",
+        "handle": "ZTL-AS-AP"
+    },
+    "141347": {
+        "country_code": "PK",
+        "asn": "141347",
+        "description": "7 Star Telecom (Private) Limited",
+        "handle": "M7STL-AS-AP"
+    },
+    "141361": {
+        "country_code": "PK",
+        "asn": "141361",
+        "description": "Bliss Communication Network (Pvt) Ltd",
+        "handle": "BCNL-AS-AP"
+    },
+    "141369": {
+        "country_code": "PK",
+        "asn": "141369",
+        "description": "Meezan Bank Limited",
+        "handle": "MEEZANBANKLIMITED-AS-AP"
+    },
+    "141372": {
+        "country_code": "PK",
+        "asn": "141372",
+        "description": "Logitech Cable (Private) Limited",
+        "handle": "LOGITECH-AS-AP"
+    },
+    "141377": {
+        "country_code": "PK",
+        "asn": "141377",
+        "description": "Faisal Cable Network (Pvt.) Limited",
+        "handle": "FCN-AS-AP"
+    },
+    "141380": {
+        "country_code": "PK",
+        "asn": "141380",
+        "description": "New Millennium Network",
+        "handle": "NMN-AS-AP"
+    },
+    "141395": {
+        "country_code": "PK",
+        "asn": "141395",
+        "description": "NETELASTIC TECHNOLOGIES PRIVATE LIMITED",
+        "handle": "NETELASTIC-AS-AP"
+    },
+    "141421": {
+        "country_code": "PK",
+        "asn": "141421",
+        "description": "MUX BROADBAND (PRIVATE) LIMITED",
+        "handle": "MUXBROADBANDP-AS-AP"
+    },
+    "141431": {
+        "country_code": "PK",
+        "asn": "141431",
+        "description": "Call 2 Phone Private Limited",
+        "handle": "CALL2PHONE-AS-AP"
+    },
+    "141432": {
+        "country_code": "PK",
+        "asn": "141432",
+        "description": "Tzee's Multi Services (Pvt.) Limited",
+        "handle": "TZEES-AS-AP"
+    },
+    "141450": {
+        "country_code": "PK",
+        "asn": "141450",
+        "description": "Connect Communication",
+        "handle": "CONNECT-ICT-AS-AP"
+    },
+    "141705": {
+        "country_code": "PK",
+        "asn": "141705",
+        "description": "Unified Engineering & Solutions",
+        "handle": "UES-AS-AP"
+    },
+    "141711": {
+        "country_code": "PK",
+        "asn": "141711",
+        "description": "Fiber Beam Pvt Limited",
+        "handle": "FIBERBEAMPVTLTD-AS-AP"
+    },
+    "141717": {
+        "country_code": "PK",
+        "asn": "141717",
+        "description": "Wi-Link Solutions Pvt Ltd",
+        "handle": "WILINK-AS-AP"
+    },
+    "141725": {
+        "country_code": "PK",
+        "asn": "141725",
+        "description": "SOLACE TEL (PVT.) LIMITED",
+        "handle": "SOLACE-AS-AP"
+    },
+    "141778": {
+        "country_code": "PK",
+        "asn": "141778",
+        "description": "Dream Internet Services Pvt Ltd",
+        "handle": "DISPL-AS-AP"
+    },
+    "141990": {
+        "country_code": "PK",
+        "asn": "141990",
+        "description": "KHAZANA ENTERPRISE (PRIVATE) LIMITED",
+        "handle": "KEL-AS-AP"
+    },
+    "142000": {
+        "country_code": "PK",
+        "asn": "142000",
+        "description": "BELLACOM (SMC-PRIVATE) LIMITED",
+        "handle": "BSPL-AS-AP"
+    },
+    "142063": {
+        "country_code": "PK",
+        "asn": "142063",
+        "description": "Grand Tel Private Limited",
+        "handle": "GPL-AS-AP"
+    },
+    "142120": {
+        "country_code": "PK",
+        "asn": "142120",
+        "description": "McSOL Pvt Ltd",
+        "handle": "MCSOL-AS-AP"
+    },
+    "142127": {
+        "country_code": "PK",
+        "asn": "142127",
+        "description": "Fibercom Technologies (Private) Limited",
+        "handle": "FIBERCOM1-AS-AP"
+    },
+    "142150": {
+        "country_code": "PK",
+        "asn": "142150",
+        "description": "MIAN SIDDIQUE NETWORKS (PRIVATE) LIMITED",
+        "handle": "MSNETWORKS-AS-AP"
+    },
+    "142175": {
+        "country_code": "PK",
+        "asn": "142175",
+        "description": "Earthlink Broadband (Private) Limited",
+        "handle": "EBPL-AS-AP"
+    },
+    "142179": {
+        "country_code": "PK",
+        "asn": "142179",
+        "description": "Indus Cloud Private Limited",
+        "handle": "ICPL-AS-AP"
+    },
+    "142234": {
+        "country_code": "PK",
+        "asn": "142234",
+        "description": "Muttasilat Network Services LLC CO",
+        "handle": "MNSLC-AS-AP"
+    },
+    "142247": {
+        "country_code": "PK",
+        "asn": "142247",
+        "description": "Tapsys Services (Private) Limited",
+        "handle": "TAPSYS-AS-AP"
+    },
+    "142268": {
+        "country_code": "PK",
+        "asn": "142268",
+        "description": "Prizma Digital Private Limited",
+        "handle": "PRIZMA-AS-AP"
+    },
+    "142274": {
+        "country_code": "PK",
+        "asn": "142274",
+        "description": "The Bank of Khyber",
+        "handle": "THEBANKOFKHYBER-AS-AP"
+    },
+    "142291": {
+        "country_code": "PK",
+        "asn": "142291",
+        "description": "FIBER LINK PRIVATE LIMITED",
+        "handle": "XPON-LINK"
+    },
+    "142295": {
+        "country_code": "PK",
+        "asn": "142295",
+        "description": "Net gate (pvt) Ltd",
+        "handle": "NET-AS-AP"
+    },
+    "142300": {
+        "country_code": "PK",
+        "asn": "142300",
+        "description": "KK TELECOM PRIVATE LIMITED",
+        "handle": "KK-AS-AP"
+    },
+    "142302": {
+        "country_code": "PK",
+        "asn": "142302",
+        "description": "INNOKAT (PVT.) LIMITED",
+        "handle": "INNOKAT-AS-AP"
+    },
+    "142405": {
+        "country_code": "PK",
+        "asn": "142405",
+        "description": "clickpick communications (pvt) Ltd",
+        "handle": "CCL-AS-AP"
+    },
+    "142421": {
+        "country_code": "PK",
+        "asn": "142421",
+        "description": "SKIF Enterprises Private Limited",
+        "handle": "SKIF-AS-AP"
+    },
+    "142552": {
+        "country_code": "PK",
+        "asn": "142552",
+        "description": "KCN",
+        "handle": "KCNL-AS-AP"
+    },
+    "142559": {
+        "country_code": "PK",
+        "asn": "142559",
+        "description": "Samz Broadband Networx ( SMC-PRIVATE ) LTD",
+        "handle": "SBNL-AS-AP"
+    },
+    "142618": {
+        "country_code": "PK",
+        "asn": "142618",
+        "description": "GH Telecom",
+        "handle": "GWIS-AS-AP"
+    },
+    "142647": {
+        "country_code": "PK",
+        "asn": "142647",
+        "description": "Nasstec Airnet Networks Private Limited",
+        "handle": "NAN-AS-AP"
+    },
+    "146955": {
+        "country_code": "PK",
+        "asn": "146955",
+        "description": "Flame Networks Private Limited",
+        "handle": "FLAMENETWORKS1-AS-AP"
+    },
+    "146998": {
+        "country_code": "PK",
+        "asn": "146998",
+        "description": "Lahore BroadBand",
+        "handle": "LAHORE2-AS-AP"
+    },
+    "147018": {
+        "country_code": "PK",
+        "asn": "147018",
+        "description": "MIAN INTERNET SERVICES (Pvt.) Ltd",
+        "handle": "MISL-AS-AP"
+    },
+    "147031": {
+        "country_code": "PK",
+        "asn": "147031",
+        "description": "Million Web Services Private Limited",
+        "handle": "MWSL-AS-AP"
+    },
+    "147055": {
+        "country_code": "PK",
+        "asn": "147055",
+        "description": "LMK Resources Pakistan (Private) Limited",
+        "handle": "LRPL-AS-AP"
+    },
+    "147057": {
+        "country_code": "PK",
+        "asn": "147057",
+        "description": "DNT Solutions",
+        "handle": "DNTSOLUTIONS-AS-AP"
+    },
+    "147066": {
+        "country_code": "PK",
+        "asn": "147066",
+        "description": "FASTTEL BROADBAND (PRIVATE) LIMITED",
+        "handle": "FBL-AS-AP"
+    },
+    "147068": {
+        "country_code": "PK",
+        "asn": "147068",
+        "description": "National Rural Support Programme",
+        "handle": "NRSP1-AS-AP"
+    },
+    "147291": {
+        "country_code": "PK",
+        "asn": "147291",
+        "description": "KHALID GROUP",
+        "handle": "KHALIDGROUP-AS-AP"
+    },
+    "147297": {
+        "country_code": "PK",
+        "asn": "147297",
+        "description": "Multi Broadband (Private) Limited",
+        "handle": "MULTI-AS-AP"
+    },
+    "147302": {
+        "country_code": "PK",
+        "asn": "147302",
+        "description": "FALCON BROADBAND (PRIVATE) LIMITED",
+        "handle": "FBPL-AS-AP"
+    },
+    "147315": {
+        "country_code": "PK",
+        "asn": "147315",
+        "description": "Zero Time Networks (Pvt.) Ltd",
+        "handle": "ZTNL-AS-AP"
+    },
+    "148980": {
+        "country_code": "PK",
+        "asn": "148980",
+        "description": "Mumara Private Limited",
+        "handle": "MUMARA-AS-AP"
+    },
+    "149009": {
+        "country_code": "PK",
+        "asn": "149009",
+        "description": "Dubai Sky Internet",
+        "handle": "DSIPL-AS-AP"
+    },
+    "149012": {
+        "country_code": "PK",
+        "asn": "149012",
+        "description": "Systems Limited",
+        "handle": "SYSTEMS2-AS-AP"
+    },
+    "149021": {
+        "country_code": "PK",
+        "asn": "149021",
+        "description": "Inara Technologies Private Limited",
+        "handle": "INARA-AS-AP"
+    },
+    "149023": {
+        "country_code": "PK",
+        "asn": "149023",
+        "description": "Ultra Quick (SMC-Private) Limited",
+        "handle": "UQL-AS-AP"
+    },
+    "149280": {
+        "country_code": "PK",
+        "asn": "149280",
+        "description": "Duos links",
+        "handle": "DLCPL-AS-AP"
+    },
+    "149283": {
+        "country_code": "PK",
+        "asn": "149283",
+        "description": "Xtream Fiber Private Limited",
+        "handle": "XTREAMFIBER-AS-AP"
+    },
+    "149307": {
+        "country_code": "PK",
+        "asn": "149307",
+        "description": "Gourmet Foods",
+        "handle": "GOURMETFOODS-AS-AP"
+    },
+    "149308": {
+        "country_code": "PK",
+        "asn": "149308",
+        "description": "Sawera Internet Service (PVT) LTD",
+        "handle": "SAWERA-AS-AP"
+    },
+    "149419": {
+        "country_code": "PK",
+        "asn": "149419",
+        "description": "A.A Networks PVT Ltd",
+        "handle": "AA2-AS-AP"
+    },
+    "149454": {
+        "country_code": "PK",
+        "asn": "149454",
+        "description": "Superuser IT Solutions (Pvt) Ltd",
+        "handle": "SISL-AS-AP"
+    },
+    "149456": {
+        "country_code": "PK",
+        "asn": "149456",
+        "description": "Orbit Networks Private Limited",
+        "handle": "ONL-AS-AP"
+    },
+    "149484": {
+        "country_code": "PK",
+        "asn": "149484",
+        "description": "WorldLink Telecom Private Limited",
+        "handle": "WTPL-AS-AP"
+    },
+    "149495": {
+        "country_code": "PK",
+        "asn": "149495",
+        "description": "Fariya Networks",
+        "handle": "FARIYA-AS-AP"
+    },
+    "149775": {
+        "country_code": "PK",
+        "asn": "149775",
+        "description": "Nation Internet Services Pvt Ltd.",
+        "handle": "NISPL-AS-AP"
+    },
+    "149776": {
+        "country_code": "PK",
+        "asn": "149776",
+        "description": "Cactus Network Solutions (CNS) Pvt Ltd",
+        "handle": "CNSPL-AS-AP"
+    },
+    "149786": {
+        "country_code": "PK",
+        "asn": "149786",
+        "description": "Saffi Networks",
+        "handle": "SAFFINETWORKS-AS-AP"
+    },
+    "149788": {
+        "country_code": "PK",
+        "asn": "149788",
+        "description": "UPNET (PRIVATE) LIMITED",
+        "handle": "UPNET-AS-AP"
+    },
+    "149792": {
+        "country_code": "PK",
+        "asn": "149792",
+        "description": "H H CABLE NETWORK (PRIVATE) LIMITED",
+        "handle": "H-AS-AP"
+    },
+    "149844": {
+        "country_code": "PK",
+        "asn": "149844",
+        "description": "Connect Communication",
+        "handle": "CONNECT-AS-AP"
+    },
+    "149850": {
+        "country_code": "PK",
+        "asn": "149850",
+        "description": "SPEED X DIGITAL (SMC-PRIVATE) LIMITED",
+        "handle": "SXDL-AS-AP"
+    },
+    "149869": {
+        "country_code": "PK",
+        "asn": "149869",
+        "description": "MEGA CABLE NETWORK(PRIVATE) LIMITED",
+        "handle": "MCN-AS-AP"
+    },
+    "149870": {
+        "country_code": "PK",
+        "asn": "149870",
+        "description": "XTREME NET (PVT.) LIMITED",
+        "handle": "XTREMENETPVT-AS-AP"
+    },
+    "149984": {
+        "country_code": "PK",
+        "asn": "149984",
+        "description": "PAYSYS LABS (PVT.) LIMITED",
+        "handle": "PAYSYLABS-AS-AP"
+    },
+    "149986": {
+        "country_code": "PK",
+        "asn": "149986",
+        "description": "DAUD AHMAD NETWORKS (PRIVATE) LIMITED",
+        "handle": "DANL-AS-AP"
+    },
+    "150108": {
+        "country_code": "PK",
+        "asn": "150108",
+        "description": "TeleHouse Pvt Ltd",
+        "handle": "TELEHOUSEPVTLTD-AS-AP"
+    },
+    "150116": {
+        "country_code": "PK",
+        "asn": "150116",
+        "description": "ONETEN COMMUNICATION",
+        "handle": "ONETEN-AS-AP"
+    },
+    "150129": {
+        "country_code": "PK",
+        "asn": "150129",
+        "description": "WaliTel",
+        "handle": "WALITELECOM-AS-AP"
+    },
+    "150130": {
+        "country_code": "PK",
+        "asn": "150130",
+        "description": "FIBERZONE (PRIVATE) LIMITED",
+        "handle": "FZL-AS-AP"
+    },
+    "150147": {
+        "country_code": "PK",
+        "asn": "150147",
+        "description": "FUTURE TELECOM (PRIVATE) LIMITED",
+        "handle": "FUTURETELECOM-AS-AP"
+    },
+    "150167": {
+        "country_code": "PK",
+        "asn": "150167",
+        "description": "HOME TELECOM (PRIVATE) LIMITED",
+        "handle": "HOMETELECOMPVTLTD-AS-AP"
+    },
+    "150177": {
+        "country_code": "PK",
+        "asn": "150177",
+        "description": "TVON (PRIVATE) LIMITED",
+        "handle": "TVONPVTLIMITED-AS-AP"
+    },
+    "150308": {
+        "country_code": "PK",
+        "asn": "150308",
+        "description": "CITY DOT NET",
+        "handle": "CITYDOTNET-AS-AP"
+    },
+    "150311": {
+        "country_code": "PK",
+        "asn": "150311",
+        "description": "LASERTEL PRIVATE LIMITED",
+        "handle": "LASERTEL-AS-AP"
+    },
+    "150315": {
+        "country_code": "PK",
+        "asn": "150315",
+        "description": "Virtury Cloud Private Limited",
+        "handle": "VCL-AS-AP"
+    },
+    "150324": {
+        "country_code": "PK",
+        "asn": "150324",
+        "description": "DOTSIS NETWORK",
+        "handle": "DOTSISNETWORK-AS-AP"
+    },
+    "150350": {
+        "country_code": "PK",
+        "asn": "150350",
+        "description": "E Bone Network (Pvt.) Limited",
+        "handle": "EBONE1-AS-AP"
+    },
+    "150371": {
+        "country_code": "PK",
+        "asn": "150371",
+        "description": "Pace Telecom and Brodcasting Private Limited",
+        "handle": "PTABPL-AS-AP"
+    },
+    "150377": {
+        "country_code": "PK",
+        "asn": "150377",
+        "description": "Multicity Internet Pvt Ltd",
+        "handle": "MIPL-AS-AP"
+    },
+    "150382": {
+        "country_code": "PK",
+        "asn": "150382",
+        "description": "BROADBAND VISION (PRIVATE) LIMITED",
+        "handle": "BVPL-AS-AP"
+    },
+    "150387": {
+        "country_code": "PK",
+        "asn": "150387",
+        "description": "BADAR ENTERPRISES CABLE NETWORK (PRIVATE) LIMITED",
+        "handle": "BECNL-AS-AP"
+    },
+    "150393": {
+        "country_code": "PK",
+        "asn": "150393",
+        "description": "LAYER WEBHOST (PVT.) LIMITED",
+        "handle": "LWPL-AS-AP"
+    },
+    "150671": {
+        "country_code": "PK",
+        "asn": "150671",
+        "description": "MANSOORAH TELECOMMUNICATIONS",
+        "handle": "MTCL-AS-AP"
+    },
+    "150683": {
+        "country_code": "PK",
+        "asn": "150683",
+        "description": "FASTTEL BROADBAND (PRIVATE) LIMITED",
+        "handle": "FBL-AS-AP"
+    },
+    "150697": {
+        "country_code": "PK",
+        "asn": "150697",
+        "description": "S N FIBER",
+        "handle": "SNFIBER-AS-AP"
+    },
+    "150713": {
+        "country_code": "PK",
+        "asn": "150713",
+        "description": "Sambrial Cable",
+        "handle": "SCN-AS-AP"
+    },
+    "150724": {
+        "country_code": "PK",
+        "asn": "150724",
+        "description": "AKD Securities",
+        "handle": "AKD-AS-AP"
+    },
+    "150750": {
+        "country_code": "PK",
+        "asn": "150750",
+        "description": "IN CABLE INTERNET (PRIVATE) LIMITED",
+        "handle": "ICIL-AS-AP"
+    },
+    "150775": {
+        "country_code": "PK",
+        "asn": "150775",
+        "description": "iVolve Technologies Pvt. Ltd.",
+        "handle": "ITPL-AS-AP"
+    },
+    "150784": {
+        "country_code": "PK",
+        "asn": "150784",
+        "description": "Virtury Cloud Private Limited",
+        "handle": "VCL-AS-AP"
+    },
+    "150790": {
+        "country_code": "PK",
+        "asn": "150790",
+        "description": "Nu Internet (Private) Limited",
+        "handle": "NU-AS-AP"
+    },
+    "150809": {
+        "country_code": "PK",
+        "asn": "150809",
+        "description": "AKBL",
+        "handle": "ASKARIBANKLIMITED-AS-AP"
+    },
+    "151048": {
+        "country_code": "PK",
+        "asn": "151048",
+        "description": "Win Broadband (Pvt) Ltd",
+        "handle": "WBPL-AS-AP"
+    },
+    "151051": {
+        "country_code": "PK",
+        "asn": "151051",
+        "description": "Classic Broadband",
+        "handle": "CLASSICBROADBAND-AS-AP"
+    },
+    "151189": {
+        "country_code": "PK",
+        "asn": "151189",
+        "description": "GNS Solutions Private Limited",
+        "handle": "GSPL-AS-AP"
+    },
+    "151201": {
+        "country_code": "PK",
+        "asn": "151201",
+        "description": "ACT Technologies Private Limited",
+        "handle": "ACT-AS-AP"
+    },
+    "151330": {
+        "country_code": "PK",
+        "asn": "151330",
+        "description": "PLAY BROADBAND (PRIVATE) LIMITED",
+        "handle": "PBPL-AS-AP"
+    },
+    "151333": {
+        "country_code": "PK",
+        "asn": "151333",
+        "description": "ASCON TEL (PRIVATE) LIMITED",
+        "handle": "ASCONTEL-AS-AP"
+    },
+    "151340": {
+        "country_code": "PK",
+        "asn": "151340",
+        "description": "DOS NETWORKS PVT LTD",
+        "handle": "DOS-AS-AP"
+    },
+    "151365": {
+        "country_code": "PK",
+        "asn": "151365",
+        "description": "GLOBAL XPERTS",
+        "handle": "GLOBAL-AS-AP"
+    },
+    "151410": {
+        "country_code": "PK",
+        "asn": "151410",
+        "description": "South Asia Pakistan Terminals Limited",
+        "handle": "SAPTL-AS-AP"
+    },
+    "151467": {
+        "country_code": "PK",
+        "asn": "151467",
+        "description": "AAAC",
+        "handle": "AZAN-AS-AP"
+    },
+    "151473": {
+        "country_code": "PK",
+        "asn": "151473",
+        "description": "GAMMA LINKS PVT LTD",
+        "handle": "GAMMALINKSPVTLTD-AS-AP"
+    },
+    "151604": {
+        "country_code": "PK",
+        "asn": "151604",
+        "description": "WEB WIRE SOLUTIONS",
+        "handle": "WEBWIRESOLUTIONS-AS-AP"
+    },
+    "151636": {
+        "country_code": "PK",
+        "asn": "151636",
+        "description": "Reliance Broadband",
+        "handle": "RELIANCE-AS-AP"
+    },
+    "151646": {
+        "country_code": "PK",
+        "asn": "151646",
+        "description": "1LINK (Private) Limited",
+        "handle": "PRIVATE1-AS-AP"
+    },
+    "151648": {
+        "country_code": "PK",
+        "asn": "151648",
+        "description": "ALPINES INTERNET (PRIVATE) LIMITED",
+        "handle": "AIPL-AS-AP"
+    },
+    "151659": {
+        "country_code": "PK",
+        "asn": "151659",
+        "description": "New Pakistan Cable Network",
+        "handle": "NEW-AS-AP"
+    },
+    "151818": {
+        "country_code": "PK",
+        "asn": "151818",
+        "description": "State Bank of Pakistan",
+        "handle": "SBOP-AS-AP"
+    },
+    "151844": {
+        "country_code": "PK",
+        "asn": "151844",
+        "description": "INetwork Pvt. Ltd.",
+        "handle": "INETWORKPVTLTD-AS-AP"
+    },
+    "151848": {
+        "country_code": "PK",
+        "asn": "151848",
+        "description": "GULF CABLE NETWORK (SMC-PVT.) LIMITED",
+        "handle": "GULFCABLENETWORK-AS-AP"
+    },
+    "151972": {
+        "country_code": "PK",
+        "asn": "151972",
+        "description": "GLOBAL EXPERT-ECOMM (SMC-PRIVATE) LIMITED",
+        "handle": "GLOBALEXPERTECOMM-AS-AP"
+    },
+    "151983": {
+        "country_code": "PK",
+        "asn": "151983",
+        "description": "Orbit Internet Service Provider Pvt Ltd",
+        "handle": "OISP-AS-AP"
+    },
+    "152146": {
+        "country_code": "PK",
+        "asn": "152146",
+        "description": "TRICETECH SOLUTIONS PRIVATE LIMITED",
+        "handle": "TSPL-AS-AP"
+    },
+    "152148": {
+        "country_code": "PK",
+        "asn": "152148",
+        "description": "FAST LINE FIBER PRIVATE LIMITED",
+        "handle": "FLFPL-AS-AP"
+    },
+    "152151": {
+        "country_code": "PK",
+        "asn": "152151",
+        "description": "Domain Bridge",
+        "handle": "DOMAINBRIDGE-AS-AP"
+    },
+    "152155": {
+        "country_code": "PK",
+        "asn": "152155",
+        "description": "SN SKIES(PVT.) LIMITED",
+        "handle": "SNSKIES-AS-AP"
+    },
+    "152296": {
+        "country_code": "PK",
+        "asn": "152296",
+        "description": "Wind Waves Broadband (Private) Limited",
+        "handle": "WWB-AS-AP"
+    },
+    "152333": {
+        "country_code": "PK",
+        "asn": "152333",
+        "description": "KAS COMMUNICATIONS SMC-PRIVATE LIMITED",
+        "handle": "KCSL-AS-AP"
+    },
+    "152444": {
+        "country_code": "PK",
+        "asn": "152444",
+        "description": "I-WEB",
+        "handle": "IWEB-AS-AP"
+    },
+    "152591": {
+        "country_code": "PK",
+        "asn": "152591",
+        "description": "NEW UNIVERSAL WORLD PRIVATE LIMITED",
+        "handle": "NUWPL-AS-AP"
+    },
+    "152605": {
+        "country_code": "PK",
+        "asn": "152605",
+        "description": "Z COM NETWORKS",
+        "handle": "ZCOMNETWORKS-AS-AP"
+    },
+    "152608": {
+        "country_code": "PK",
+        "asn": "152608",
+        "description": "Inara Technologies Private Limited",
+        "handle": "INARA-AS-AP"
+    },
+    "152638": {
+        "country_code": "PK",
+        "asn": "152638",
+        "description": "FIBERISH (PVT) LTD",
+        "handle": "FIBERISHPVTLTD-AS-AP"
+    },
+    "152647": {
+        "country_code": "PK",
+        "asn": "152647",
+        "description": "Pakistan State Oil Company Limited",
+        "handle": "PSOCL-AS-AP"
+    },
+    "152678": {
+        "country_code": "PK",
+        "asn": "152678",
+        "description": "ULTRA LINK (PRIVATE) LIMITED",
+        "handle": "ULP-AS-AP"
+    },
+    "152684": {
+        "country_code": "PK",
+        "asn": "152684",
+        "description": "The Wah Telecom",
+        "handle": "THEWAHTELECOM-AS-AP"
+    },
+    "152688": {
+        "country_code": "PK",
+        "asn": "152688",
+        "description": "Fast Networks Private Limited",
+        "handle": "FASTNETWORK-AS-AP"
+    },
+    "152890": {
+        "country_code": "PK",
+        "asn": "152890",
+        "description": "Punjab Land Records Authority",
+        "handle": "PLRA-AS-AP"
+    },
+    "152912": {
+        "country_code": "PK",
+        "asn": "152912",
+        "description": "Lokridge tech Private Limited",
+        "handle": "LTPL-AS-AP"
+    },
+    "152931": {
+        "country_code": "PK",
+        "asn": "152931",
+        "description": "Burak Tech",
+        "handle": "BURAK1-AS-AP"
+    },
+    "153194": {
+        "country_code": "PK",
+        "asn": "153194",
+        "description": "LAHORE DIGITAL NETWORK (PVT.) LIMITED",
+        "handle": "LDNPL-AS-AP"
+    },
+    "153198": {
+        "country_code": "PK",
+        "asn": "153198",
+        "description": "FALAK SAIR DYEING MILL (PRIVATE) LIMITED",
+        "handle": "FSDM-AS-AP"
+    },
+    "153202": {
+        "country_code": "PK",
+        "asn": "153202",
+        "description": "Brain Networks",
+        "handle": "BRAINNETWORKS-AS-AP"
+    },
+    "153303": {
+        "country_code": "PK",
+        "asn": "153303",
+        "description": "DYNASTY TELECOM (PRIVATE) LIMITED",
+        "handle": "DTPL-AS-AP"
+    },
+    "153321": {
+        "country_code": "PK",
+        "asn": "153321",
+        "description": "Smart Net (Private) Limited",
+        "handle": "SMART3-AS-AP"
+    },
+    "153340": {
+        "country_code": "PK",
+        "asn": "153340",
+        "description": "Darkcloud Internet Service Provider Private Limited",
+        "handle": "DISPPL-AS-AP"
+    },
+    "153349": {
+        "country_code": "PK",
+        "asn": "153349",
+        "description": "TALLYMARKS CONSULTING (PRIVATE) LIMITED",
+        "handle": "TMCPVTLTD-AS-AP"
+    },
+    "153354": {
+        "country_code": "PK",
+        "asn": "153354",
+        "description": "Dinco Pakistan private limited",
+        "handle": "DINCO-AS-AP"
+    },
+    "153390": {
+        "country_code": "PK",
+        "asn": "153390",
+        "description": "PAKHTUN FIBER SOLUTION (PRIVATE) LIMITED",
+        "handle": "PFSPL-AS-AP"
+    },
+    "153400": {
+        "country_code": "PK",
+        "asn": "153400",
+        "description": "Prime Broadband",
+        "handle": "PRIMEBROADBAND-AS-AP"
+    },
+    "153452": {
+        "country_code": "PK",
+        "asn": "153452",
+        "description": "Labsol (Pvt.) Ltd",
+        "handle": "LABSOLPVTLTD-AS-AP"
+    },
+    "153460": {
+        "country_code": "PK",
+        "asn": "153460",
+        "description": "DARLINK PRIVATE LIMITED",
+        "handle": "DARLINK1-AS-AP"
+    },
+    "153465": {
+        "country_code": "PK",
+        "asn": "153465",
+        "description": "PLAY LINX (PRIVATE) LIMITED",
+        "handle": "PLL-AS-AP"
+    },
+    "153471": {
+        "country_code": "PK",
+        "asn": "153471",
+        "description": "NEXCOM (PRIVATE) LIMITED",
+        "handle": "NEXCOMPVTLTD-AS-AP"
+    },
+    "153525": {
+        "country_code": "PK",
+        "asn": "153525",
+        "description": "Galaxy ISP",
+        "handle": "GIL-AS-AP"
+    },
+    "153527": {
+        "country_code": "PK",
+        "asn": "153527",
+        "description": "VELOCITY TELECOM (PRIVATE) LIMITED",
+        "handle": "VTL-AS-AP"
+    },
+    "153533": {
+        "country_code": "PK",
+        "asn": "153533",
+        "description": "SHAHRAM TELECOM PRIVATE LIMITED",
+        "handle": "SHAHRAM-AS-AP"
+    },
+    "153561": {
+        "country_code": "PK",
+        "asn": "153561",
+        "description": "PITC",
+        "handle": "PITC1-AS-AP"
+    },
+    "153587": {
+        "country_code": "PK",
+        "asn": "153587",
+        "description": "Cloudex Pakistan",
+        "handle": "CLOUDEXPAKISTAN-AS-AP"
+    },
+    "153596": {
+        "country_code": "PK",
+        "asn": "153596",
+        "description": "SWIS",
+        "handle": "SWISPPL-AS-AP"
+    },
+    "153606": {
+        "country_code": "PK",
+        "asn": "153606",
+        "description": "CYBERIA",
+        "handle": "CYBERIA-AS-AP"
+    },
+    "153641": {
+        "country_code": "PK",
+        "asn": "153641",
+        "description": "NETCOMM NETWORKS PRIVATE LIMITED",
+        "handle": "NNL-AS-AP"
+    },
+    "153685": {
+        "country_code": "PK",
+        "asn": "153685",
+        "description": "S.I.S.P Broadband",
+        "handle": "SBL-AS-AP"
+    },
+    "153844": {
+        "country_code": "PK",
+        "asn": "153844",
+        "description": "Riderz Network Broadband (Private) Limited",
+        "handle": "RNBL-AS-AP"
+    },
+    "153847": {
+        "country_code": "PK",
+        "asn": "153847",
+        "description": "United Energy Pakistan Limited",
+        "handle": "UEPL-NET-AS-AP"
+    },
+    "153883": {
+        "country_code": "PK",
+        "asn": "153883",
+        "description": "ANA TEL (PRIVATE) LIMITED",
+        "handle": "ANATELPVTLTD-AS-AP"
+    },
+    "153886": {
+        "country_code": "PK",
+        "asn": "153886",
+        "description": "Virtury Cloud Private Limited",
+        "handle": "VCL-AS-AP"
+    },
+    "153902": {
+        "country_code": "PK",
+        "asn": "153902",
+        "description": "Infinity Networks (Pvt) Ltd.",
+        "handle": "INL-AS-AP"
+    },
+    "153932": {
+        "country_code": "PK",
+        "asn": "153932",
+        "description": "Pakistan Single Window",
+        "handle": "PSW-AS-AP"
+    },
+    "153967": {
+        "country_code": "PK",
+        "asn": "153967",
+        "description": "Gigabit Networks (Pvt.) Ltd.",
+        "handle": "GNL-AS-AP"
+    },
+    "154014": {
+        "country_code": "PK",
+        "asn": "154014",
+        "description": "NEXGEN PVT (LTD)",
+        "handle": "NEXGEN2-AS-AP"
+    },
+    "154022": {
+        "country_code": "PK",
+        "asn": "154022",
+        "description": "Pak Datacom Limited",
+        "handle": "PAKDATACOMLIMITED-AS-AP"
+    },
+    "154066": {
+        "country_code": "PK",
+        "asn": "154066",
+        "description": "Linuro Systems",
+        "handle": "LINUROSYSTEMS-AS-AP"
+    },
+    "154086": {
+        "country_code": "PK",
+        "asn": "154086",
+        "description": "Liberty Telecommunication Private Limited",
+        "handle": "LIBERTY-AS-AP"
+    },
+    "154099": {
+        "country_code": "PK",
+        "asn": "154099",
+        "description": "VARIANT COMMUNICATIONS (PRIVATE) LIMITED",
+        "handle": "VARIANT-AS-AP"
+    },
+    "154183": {
+        "country_code": "PK",
+        "asn": "154183",
+        "description": "PRIZMA SOLUTIONS (PRIVATE) LIMITED",
+        "handle": "PSL-AS-AP"
+    },
+    "154198": {
+        "country_code": "PK",
+        "asn": "154198",
+        "description": "DATA VAULT (PRIVATE) LIMITED",
+        "handle": "DVL-AS-AP"
+    },
+    "154223": {
+        "country_code": "PK",
+        "asn": "154223",
+        "description": "DIGITAL WORLDLINK NETWORK (PRIVATE) LIMITED",
+        "handle": "DWNL-AS-AP"
+    },
+    "154249": {
+        "country_code": "PK",
+        "asn": "154249",
+        "description": "SATELLITE C-LINKERS (PRIVATE) LIMITED",
+        "handle": "SCL-AS-AP"
+    },
+    "154306": {
+        "country_code": "PK",
+        "asn": "154306",
+        "description": "SAFE TRACK (PRIVATE) LIMITED",
+        "handle": "SAFE-AS-AP"
+    },
+    "154348": {
+        "country_code": "PK",
+        "asn": "154348",
+        "description": "Sky47 Limited",
+        "handle": "SKY47LIMITED-AS-AP"
+    },
+    "154379": {
+        "country_code": "PK",
+        "asn": "154379",
+        "description": "OCTANS DIGITAL (PRIVATE) LIMITED",
+        "handle": "ODL-AS-AP"
+    },
+    "154386": {
+        "country_code": "PK",
+        "asn": "154386",
+        "description": "Javed Net",
+        "handle": "JAVEDNETFIRM-AS-AP"
+    },
+    "154396": {
+        "country_code": "PK",
+        "asn": "154396",
+        "description": "Air Touch Wireless ISP Network (Private) Limited",
+        "handle": "ATWI-AS-AP"
+    },
+    "154404": {
+        "country_code": "PK",
+        "asn": "154404",
+        "description": "Super Enterprise Services Pvt Ltd",
+        "handle": "SESPL-AS-AP"
+    },
+    "154437": {
+        "country_code": "PK",
+        "asn": "154437",
+        "description": "OPTINET SOLUTIONS PRIVATE LIMITED",
+        "handle": "OPTINETSOLUTIONS-AS-PK"
+    },
+    "154446": {
+        "country_code": "PK",
+        "asn": "154446",
+        "description": "EXTENDED DIGITAL SOLUTIONS (SMC-PRIVATE) LIMITED",
+        "handle": "EDSL-AS-AP"
+    },
+    "154453": {
+        "country_code": "PK",
+        "asn": "154453",
+        "description": "Delta Broadband Private Limited",
+        "handle": "DBPL-AS-AP"
+    },
+    "154474": {
+        "country_code": "PK",
+        "asn": "154474",
+        "description": "Turbo Links (Private) Limited",
+        "handle": "TURBO-AS-AP"
+    },
+    "154504": {
+        "country_code": "PK",
+        "asn": "154504",
+        "description": "NEXT BROADBAND (PRIVATE) LIMITED",
+        "handle": "NEXT-AS-AP"
+    },
+    "154517": {
+        "country_code": "PK",
+        "asn": "154517",
+        "description": "MARS DSL BROADBAND SERVICE (PVT.) Limited",
+        "handle": "MDBS-AS-AP"
+    },
+    "213286": {
+        "country_code": "PK",
+        "asn": "213286",
+        "description": "Junaid Uppal",
+        "handle": "VERVETECHPK"
+    },
+    "453620": {
+        "country_code": "PK",
+        "asn": "453620",
+        "description": "SHAHRAM TELECOM PRIVATE LIMITED",
+        "handle": "SHAHRAM-TELECOM-PRIVATE"
+    }
+}

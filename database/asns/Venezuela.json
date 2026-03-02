@@ -1,0 +1,1634 @@
+{
+    "3487": {
+        "country_code": "VE",
+        "asn": "3487",
+        "description": "Lagoven S.A. Telecommunication Engineering",
+        "handle": "LAGOVEN"
+    },
+    "3496": {
+        "country_code": "VE",
+        "asn": "3496",
+        "description": "Maraven",
+        "handle": "MARAVEN"
+    },
+    "3556": {
+        "country_code": "VE",
+        "asn": "3556",
+        "description": "Intevep S.A.",
+        "handle": "INTEVEP"
+    },
+    "3636": {
+        "country_code": "VE",
+        "asn": "3636",
+        "description": "Corpoven S.A.",
+        "handle": "CORPOVEN"
+    },
+    "4209": {
+        "country_code": "VE",
+        "asn": "4209",
+        "description": "Pequiven",
+        "handle": "PEQUIVEN"
+    },
+    "4535": {
+        "country_code": "VE",
+        "asn": "4535",
+        "description": "Inter Network Solutions",
+        "handle": "INTER-NETWORK-SOLUTIONS"
+    },
+    "4944": {
+        "country_code": "VE",
+        "asn": "4944",
+        "description": "Petroleos de Venezuela S.A.",
+        "handle": "PETROLEOS-VENEZUELA"
+    },
+    "5005": {
+        "country_code": "VE",
+        "asn": "5005",
+        "description": "Asociados Espada C.A.",
+        "handle": "ASOCIADOS-ESPADA-CA"
+    },
+    "6306": {
+        "country_code": "VE",
+        "asn": "6306",
+        "description": "TELEFONICA VENEZOLANA C.A.",
+        "handle": "TELEFONICA-VENEZOLANA-CA"
+    },
+    "6545": {
+        "country_code": "VE",
+        "asn": "6545",
+        "description": "TRUEVISION CORPORACION C.A",
+        "handle": "TRUEVISION-CORPORACION-CA"
+    },
+    "7927": {
+        "country_code": "VE",
+        "asn": "7927",
+        "description": "Global One Venezuela",
+        "handle": "GLOBAL-ONE-VENEZUELA"
+    },
+    "7965": {
+        "country_code": "VE",
+        "asn": "7965",
+        "description": "Universidad Catolica Andres Bello",
+        "handle": "UNIVERSIDAD-CATOLICA-ANDRES"
+    },
+    "8048": {
+        "country_code": "VE",
+        "asn": "8048",
+        "description": "CANTV Servicios Venezuela",
+        "handle": "CANTV-SERVICIOS-VENEZUELA"
+    },
+    "8053": {
+        "country_code": "VE",
+        "asn": "8053",
+        "description": "IFX Networks Venezuela C.A.",
+        "handle": "IFX-NETWORKS-VENEZUELA-CA"
+    },
+    "8056": {
+        "country_code": "VE",
+        "asn": "8056",
+        "description": "Internet Comunicaciones c.a.",
+        "handle": "INTERNET-COMUNICACIONES-CA"
+    },
+    "10293": {
+        "country_code": "VE",
+        "asn": "10293",
+        "description": "CANTV Servicios Venezuela",
+        "handle": "CANTV-SERVICIOS-VENEZUELA"
+    },
+    "10463": {
+        "country_code": "VE",
+        "asn": "10463",
+        "description": "Enlared C.A.",
+        "handle": "ENLARED-CA"
+    },
+    "10624": {
+        "country_code": "VE",
+        "asn": "10624",
+        "description": "Netpoint de Venezuela",
+        "handle": "NETPOINT-VENEZUELA"
+    },
+    "11562": {
+        "country_code": "VE",
+        "asn": "11562",
+        "description": "Net Uno C.A.",
+        "handle": "NET-UNO-CA"
+    },
+    "11694": {
+        "country_code": "VE",
+        "asn": "11694",
+        "description": "Universidad Simon Bolivar",
+        "handle": "UNIVERSIDAD-SIMON-BOLIVAR"
+    },
+    "12248": {
+        "country_code": "VE",
+        "asn": "12248",
+        "description": "Oficina Central de Estadistica eInformatica (OCEI)",
+        "handle": "OFICINA-CENTRAL-ESTADISTICA"
+    },
+    "14231": {
+        "country_code": "VE",
+        "asn": "14231",
+        "description": "Banco de Venezuela",
+        "handle": "BANCO-VENEZUELA"
+    },
+    "14285": {
+        "country_code": "VE",
+        "asn": "14285",
+        "description": "Banco Mercantil",
+        "handle": "BANCO-MERCANTIL"
+    },
+    "16607": {
+        "country_code": "VE",
+        "asn": "16607",
+        "description": "Universidad Nueva Esparta",
+        "handle": "UNIVERSIDAD-NUEVA-ESPARTA"
+    },
+    "17205": {
+        "country_code": "VE",
+        "asn": "17205",
+        "description": "CORP BANCA C.A.",
+        "handle": "CORP-BANCA-CA"
+    },
+    "17287": {
+        "country_code": "VE",
+        "asn": "17287",
+        "description": "Universidad de Carabobo",
+        "handle": "UNIVERSIDAD-CARABOBO"
+    },
+    "19033": {
+        "country_code": "VE",
+        "asn": "19033",
+        "description": "World Tel-Fax Electronics C.A.",
+        "handle": "WORLD-TEL-FAX-ELECTRONICS-CA"
+    },
+    "19192": {
+        "country_code": "VE",
+        "asn": "19192",
+        "description": "Universidad Central de Venezuela",
+        "handle": "UNIVERSIDAD-CENTRAL-VENEZUELA"
+    },
+    "20297": {
+        "country_code": "VE",
+        "asn": "20297",
+        "description": "Convergence Communications de Venezuela",
+        "handle": "CONVERGENCE-COMMUNICATIONS-VENEZUELA"
+    },
+    "20312": {
+        "country_code": "VE",
+        "asn": "20312",
+        "description": "Fundaci\u00f3n Centro Nacional de Innovaci\u00f3n Tecnol\u00f3gica (CENIT)",
+        "handle": "FUNDACION-CENTRO-NACIONAL"
+    },
+    "21826": {
+        "country_code": "VE",
+        "asn": "21826",
+        "description": "Corporaci\u00f3n Telemic C.A.",
+        "handle": "CORPORACION-TELEMIC-CA"
+    },
+    "21980": {
+        "country_code": "VE",
+        "asn": "21980",
+        "description": "Dayco Telecom C.A.",
+        "handle": "DAYCO-TELECOM-CA"
+    },
+    "22313": {
+        "country_code": "VE",
+        "asn": "22313",
+        "description": "Supercable",
+        "handle": "SUPERCABLE"
+    },
+    "22726": {
+        "country_code": "VE",
+        "asn": "22726",
+        "description": "C.A. Vencemos",
+        "handle": "CA-VENCEMOS"
+    },
+    "23007": {
+        "country_code": "VE",
+        "asn": "23007",
+        "description": "Universidad de Los Andes",
+        "handle": "UNIVERSIDAD-LOS-ANDES"
+    },
+    "26194": {
+        "country_code": "VE",
+        "asn": "26194",
+        "description": "123.com.ve C.A.",
+        "handle": "123COMVE-CA"
+    },
+    "27648": {
+        "country_code": "VE",
+        "asn": "27648",
+        "description": "TELECOMUNICACIONES BANTEL C.A.",
+        "handle": "TELECOMUNICACIONES-BANTEL-CA"
+    },
+    "27686": {
+        "country_code": "VE",
+        "asn": "27686",
+        "description": "Universidad Centro Occidental Lisandro Alvarado",
+        "handle": "UNIVERSIDAD-CENTRO-OCCIDENTAL"
+    },
+    "27717": {
+        "country_code": "VE",
+        "asn": "27717",
+        "description": "Corporacion Digitel C.A.",
+        "handle": "CORPORACION-DIGITEL-CA"
+    },
+    "27771": {
+        "country_code": "VE",
+        "asn": "27771",
+        "description": "Instituto Venezolano de Investigaciones Cientificas",
+        "handle": "INSTITUTO-VENEZOLANO-INVESTIGACIONES"
+    },
+    "27782": {
+        "country_code": "VE",
+        "asn": "27782",
+        "description": "Electricidad de Caracas",
+        "handle": "ELECTRICIDAD-CARACAS"
+    },
+    "27794": {
+        "country_code": "VE",
+        "asn": "27794",
+        "description": "STANFORD CORPORATE SERVICES (VENEZUELA) C.A",
+        "handle": "STANFORD-CORPORATE-SERVICES-CA"
+    },
+    "27807": {
+        "country_code": "VE",
+        "asn": "27807",
+        "description": "Fundaci\u00f3n Centro Nacional de Innovaci\u00f3n Tecnol\u00f3gica (CENIT)",
+        "handle": "FUNDACION-CENTRO-NACIONAL"
+    },
+    "27808": {
+        "country_code": "VE",
+        "asn": "27808",
+        "description": "Centro Nacional de Tecnolog\u00edas de Informaci\u00f3n (CNTI)",
+        "handle": "CENTRO-NACIONAL-TECNOLOGIAS"
+    },
+    "27862": {
+        "country_code": "VE",
+        "asn": "27862",
+        "description": "BANESCO BANCO UNIVERSAL C.A.",
+        "handle": "BANESCO-BANCO-UNIVERSAL-CA"
+    },
+    "27872": {
+        "country_code": "VE",
+        "asn": "27872",
+        "description": "URBE - Universidad Dr. Rafael Belloso",
+        "handle": "URBE-UNIVERSIDAD-DR"
+    },
+    "27889": {
+        "country_code": "VE",
+        "asn": "27889",
+        "description": "Telecomunicaciones MOVILNET",
+        "handle": "TELECOMUNICACIONES-MOVILNET"
+    },
+    "27890": {
+        "country_code": "VE",
+        "asn": "27890",
+        "description": "Universidad de Oriente",
+        "handle": "UNIVERSIDAD-ORIENTE"
+    },
+    "27891": {
+        "country_code": "VE",
+        "asn": "27891",
+        "description": "Universidad Pedag\u00f3gica Experimental Libertador",
+        "handle": "UNIVERSIDAD-PEDAGOGICA-EXPERIMENTAL"
+    },
+    "27892": {
+        "country_code": "VE",
+        "asn": "27892",
+        "description": "Universidad del Zulia",
+        "handle": "UNIVERSIDAD-ZULIA"
+    },
+    "27893": {
+        "country_code": "VE",
+        "asn": "27893",
+        "description": "Universidad de Carabobo",
+        "handle": "UNIVERSIDAD-CARABOBO"
+    },
+    "27957": {
+        "country_code": "VE",
+        "asn": "27957",
+        "description": "Banco Mercantil C.A.",
+        "handle": "BANCO-MERCANTIL-CA"
+    },
+    "28007": {
+        "country_code": "VE",
+        "asn": "28007",
+        "description": "Gold Data C.A.",
+        "handle": "GOLD-DATA-CA"
+    },
+    "28012": {
+        "country_code": "VE",
+        "asn": "28012",
+        "description": "BBVA Banco Provincial S.A.",
+        "handle": "BBVA-BANCO-PROVINCIAL"
+    },
+    "28089": {
+        "country_code": "VE",
+        "asn": "28089",
+        "description": "BANCO CENTRAL DE VENEZUELA",
+        "handle": "BANCO-CENTRAL-VENEZUELA"
+    },
+    "52281": {
+        "country_code": "VE",
+        "asn": "52281",
+        "description": "PATRIACELL C.A.",
+        "handle": "PATRIACELL-CA"
+    },
+    "52285": {
+        "country_code": "VE",
+        "asn": "52285",
+        "description": "Ewinet C.A.",
+        "handle": "EWINET-CA"
+    },
+    "52358": {
+        "country_code": "VE",
+        "asn": "52358",
+        "description": "Y&V Ingenier\u00eda y Construcci\u00f3n C.A.",
+        "handle": "Y-V-INGENIERIA-CONSTRUCCION-CA"
+    },
+    "52386": {
+        "country_code": "VE",
+        "asn": "52386",
+        "description": "Banco Nacional de Credito C.A.",
+        "handle": "BANCO-NACIONAL-CREDITO-CA"
+    },
+    "61461": {
+        "country_code": "VE",
+        "asn": "61461",
+        "description": "Airtek Solutions C.A.",
+        "handle": "AIRTEK-SOLUTIONS-CA"
+    },
+    "61471": {
+        "country_code": "VE",
+        "asn": "61471",
+        "description": "CONSEJO NACIONAL ELECTORAL",
+        "handle": "CONSEJO-NACIONAL-ELECTORAL"
+    },
+    "64164": {
+        "country_code": "VE",
+        "asn": "64164",
+        "description": "SERVICIOS NAP VEN C.A.",
+        "handle": "SERVICIOS-NAP-VEN-CA"
+    },
+    "64171": {
+        "country_code": "VE",
+        "asn": "64171",
+        "description": "TECNOVEN SERVICES CA",
+        "handle": "TECNOVEN-SERVICES-CA"
+    },
+    "262176": {
+        "country_code": "VE",
+        "asn": "262176",
+        "description": "BANCO EXTERIOR",
+        "handle": "BANCO-EXTERIOR"
+    },
+    "262180": {
+        "country_code": "VE",
+        "asn": "262180",
+        "description": "CANTV (NAP)",
+        "handle": "CANTV"
+    },
+    "262203": {
+        "country_code": "VE",
+        "asn": "262203",
+        "description": "VenSites.com C.A.",
+        "handle": "VENSITESCOM-CA"
+    },
+    "263180": {
+        "country_code": "VE",
+        "asn": "263180",
+        "description": "CANTV (OPSUT)",
+        "handle": "CANTV"
+    },
+    "263182": {
+        "country_code": "VE",
+        "asn": "263182",
+        "description": "Seguros Mercantil",
+        "handle": "SEGUROS-MERCANTIL"
+    },
+    "263223": {
+        "country_code": "VE",
+        "asn": "263223",
+        "description": "SATELITES Y TELECOMUNICACIONES C.A",
+        "handle": "SATELITES-TELECOMUNICACIONES-CA"
+    },
+    "263701": {
+        "country_code": "VE",
+        "asn": "263701",
+        "description": "RGO SOMOS CABLE C.A.",
+        "handle": "RGO-SOMOS-CABLE-CA"
+    },
+    "263703": {
+        "country_code": "VE",
+        "asn": "263703",
+        "description": "VIGINET C.A",
+        "handle": "VIGINET-CA"
+    },
+    "263767": {
+        "country_code": "VE",
+        "asn": "263767",
+        "description": "CORPORACI\u00d3N GALA IT C.A.",
+        "handle": "CORPORACION-GALA-IT-CA"
+    },
+    "263771": {
+        "country_code": "VE",
+        "asn": "263771",
+        "description": "IP NET C.A.",
+        "handle": "IP-NET-CA"
+    },
+    "263806": {
+        "country_code": "VE",
+        "asn": "263806",
+        "description": "GALAXY ENTERTAINMENT DE VENEZUELA S.C.A.",
+        "handle": "GALAXY-ENTERTAINMENT-VENEZUELA"
+    },
+    "264628": {
+        "country_code": "VE",
+        "asn": "264628",
+        "description": "CORPORACION FIBEX TELECOM C.A.",
+        "handle": "CORPORACION-FIBEX-TELECOM-CA"
+    },
+    "264660": {
+        "country_code": "VE",
+        "asn": "264660",
+        "description": "MESH COMUNICACIONES C.A.",
+        "handle": "MESH-COMUNICACIONES-CA"
+    },
+    "264731": {
+        "country_code": "VE",
+        "asn": "264731",
+        "description": "Corporacion Digitel C.A.",
+        "handle": "CORPORACION-DIGITEL-CA"
+    },
+    "264778": {
+        "country_code": "VE",
+        "asn": "264778",
+        "description": "TotalCom Venezuela C.A.",
+        "handle": "TOTALCOM-VENEZUELA-CA"
+    },
+    "264837": {
+        "country_code": "VE",
+        "asn": "264837",
+        "description": "CORPORACION VISUAL NUEVA ESPARTA C.A",
+        "handle": "CORPORACION-VISUAL-NUEVA"
+    },
+    "264844": {
+        "country_code": "VE",
+        "asn": "264844",
+        "description": "INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)",
+        "handle": "INVERSIONES-FRITZ-78-CA"
+    },
+    "265633": {
+        "country_code": "VE",
+        "asn": "265633",
+        "description": "Comunicaciones Galup C.A",
+        "handle": "COMUNICACIONES-GALUP-CA"
+    },
+    "265641": {
+        "country_code": "VE",
+        "asn": "265641",
+        "description": "TELECOMUNICACIONES ROCARLI C.A (CIX BROADBAND)",
+        "handle": "TELECOMUNICACIONES-ROCARLI-CA"
+    },
+    "265717": {
+        "country_code": "VE",
+        "asn": "265717",
+        "description": "MULTISERVICIOS INTERMAX C.A.",
+        "handle": "MULTISERVICIOS-INTERMAX-CA"
+    },
+    "266742": {
+        "country_code": "VE",
+        "asn": "266742",
+        "description": "SOLUCIONES DCN NETWORK C.A",
+        "handle": "SOLUCIONES-DCN-NETWORK-CA"
+    },
+    "266751": {
+        "country_code": "VE",
+        "asn": "266751",
+        "description": "CIBERSYS DE VENEZUELA C.A.",
+        "handle": "CIBERSYS-VENEZUELA-CA"
+    },
+    "266766": {
+        "country_code": "VE",
+        "asn": "266766",
+        "description": "SOLUCIONES INSTALRED CH&C C.A.",
+        "handle": "SOLUCIONES-INSTALRED-CH-C-CA"
+    },
+    "266809": {
+        "country_code": "VE",
+        "asn": "266809",
+        "description": "NERVICOM C.A.",
+        "handle": "NERVICOM-CA"
+    },
+    "266841": {
+        "country_code": "VE",
+        "asn": "266841",
+        "description": "GALANET SOLUTION C.A.",
+        "handle": "GALANET-SOLUTION-CA"
+    },
+    "267693": {
+        "country_code": "VE",
+        "asn": "267693",
+        "description": "PROYTEL CONNECTIONS C.A",
+        "handle": "PROYTEL-CONNECTIONS-CA"
+    },
+    "267701": {
+        "country_code": "VE",
+        "asn": "267701",
+        "description": "Megadatta C.A.",
+        "handle": "MEGADATTA-CA"
+    },
+    "267722": {
+        "country_code": "VE",
+        "asn": "267722",
+        "description": "INTERSPEED C.A.",
+        "handle": "INTERSPEED-CA"
+    },
+    "267781": {
+        "country_code": "VE",
+        "asn": "267781",
+        "description": "GRUPO TELMAX",
+        "handle": "GRUPO-TELMAX"
+    },
+    "267783": {
+        "country_code": "VE",
+        "asn": "267783",
+        "description": "QUALCOM TELESISTEMAS C.A.",
+        "handle": "QUALCOM-TELESISTEMAS-CA"
+    },
+    "267789": {
+        "country_code": "VE",
+        "asn": "267789",
+        "description": "TOP COMUNICATIONS ESTEGIA C.A.",
+        "handle": "TOP-COMUNICATIONS-ESTEGIA-CA"
+    },
+    "267809": {
+        "country_code": "VE",
+        "asn": "267809",
+        "description": "360NET C.A.",
+        "handle": "360NET-CA"
+    },
+    "267811": {
+        "country_code": "VE",
+        "asn": "267811",
+        "description": "FRESH TECHS C.A.",
+        "handle": "FRESH-TECHS-CA"
+    },
+    "267813": {
+        "country_code": "VE",
+        "asn": "267813",
+        "description": "REPRESENTACIONES ABANET C.A.",
+        "handle": "REPRESENTACIONES-ABANET-CA"
+    },
+    "267814": {
+        "country_code": "VE",
+        "asn": "267814",
+        "description": "ENLACES GUAYANA C.A.",
+        "handle": "ENLACES-GUAYANA-CA"
+    },
+    "267840": {
+        "country_code": "VE",
+        "asn": "267840",
+        "description": "URBALINK NETWORKS C.A.",
+        "handle": "URBALINK-NETWORKS-CA"
+    },
+    "267843": {
+        "country_code": "VE",
+        "asn": "267843",
+        "description": "TCA SERVICES C.A.",
+        "handle": "TCA-SERVICES-CA"
+    },
+    "267888": {
+        "country_code": "VE",
+        "asn": "267888",
+        "description": "NODOS DE VENEZUELA C.A.(GLOBAL LINK)",
+        "handle": "NODOS-VENEZUELA-CA"
+    },
+    "267892": {
+        "country_code": "VE",
+        "asn": "267892",
+        "description": "COMISION NACIONAL DE TELECOMUNICACIONES CONATEL (NICVE)",
+        "handle": "COMISION-NACIONAL-TELECOMUNICACIONES"
+    },
+    "267923": {
+        "country_code": "VE",
+        "asn": "267923",
+        "description": "TELECOMUNICACIONES TCONNECT CA",
+        "handle": "TELECOMUNICACIONES-TCONNECT-CA"
+    },
+    "269730": {
+        "country_code": "VE",
+        "asn": "269730",
+        "description": "TECNOVEN SERVICES CA",
+        "handle": "TECNOVEN-SERVICES-CA"
+    },
+    "269732": {
+        "country_code": "VE",
+        "asn": "269732",
+        "description": "WUIPI TECH CA",
+        "handle": "WUIPI-TECH-CA"
+    },
+    "269738": {
+        "country_code": "VE",
+        "asn": "269738",
+        "description": "CHIRCALNET TELECOM C.A.",
+        "handle": "CHIRCALNET-TELECOM-CA"
+    },
+    "269741": {
+        "country_code": "VE",
+        "asn": "269741",
+        "description": "INVERSIONES RED NET 2030 C.A",
+        "handle": "INVERSIONES-RED-NET-2030-CA"
+    },
+    "269749": {
+        "country_code": "VE",
+        "asn": "269749",
+        "description": "NETCOM PLUS C.A",
+        "handle": "NETCOM-PLUS-CA"
+    },
+    "269750": {
+        "country_code": "VE",
+        "asn": "269750",
+        "description": "Gandalf Comunicaciones C.A.",
+        "handle": "GANDALF-COMUNICACIONES-CA"
+    },
+    "269771": {
+        "country_code": "VE",
+        "asn": "269771",
+        "description": "PRINTER-NET-SERVICE C.A.",
+        "handle": "PRINTER-NET-SERVICE-CA"
+    },
+    "269775": {
+        "country_code": "VE",
+        "asn": "269775",
+        "description": "NETSPREAD C.A.",
+        "handle": "NETSPREAD-CA"
+    },
+    "269782": {
+        "country_code": "VE",
+        "asn": "269782",
+        "description": "NETWORK SPEED C.A",
+        "handle": "NETWORK-SPEED-CA"
+    },
+    "269788": {
+        "country_code": "VE",
+        "asn": "269788",
+        "description": "DISTRIBUIDORA OFIC TECH DE VENEZUELA C.A.",
+        "handle": "DISTRIBUIDORA-OFIC-TECH"
+    },
+    "269807": {
+        "country_code": "VE",
+        "asn": "269807",
+        "description": "SUMINISTROS OBRAS Y SISTEMAS C.A.",
+        "handle": "SUMINISTROS-OBRAS-SISTEMAS-CA"
+    },
+    "269820": {
+        "country_code": "VE",
+        "asn": "269820",
+        "description": "FULL DATA COMUNICACIONES C.A.",
+        "handle": "FULL-DATA-COMUNICACIONES-CA"
+    },
+    "269827": {
+        "country_code": "VE",
+        "asn": "269827",
+        "description": "VIGINET C.A",
+        "handle": "VIGINET-CA"
+    },
+    "269829": {
+        "country_code": "VE",
+        "asn": "269829",
+        "description": "MARACAIBO NET C.A",
+        "handle": "MARACAIBO-NET-CA"
+    },
+    "269832": {
+        "country_code": "VE",
+        "asn": "269832",
+        "description": "MDS TELECOM C.A.",
+        "handle": "MDS-TELECOM-CA"
+    },
+    "269846": {
+        "country_code": "VE",
+        "asn": "269846",
+        "description": "T.V ZAMORA C.A.",
+        "handle": "TV-ZAMORA-CA"
+    },
+    "269859": {
+        "country_code": "VE",
+        "asn": "269859",
+        "description": "INFINITICS S.A.",
+        "handle": "INFINITICS"
+    },
+    "269876": {
+        "country_code": "VE",
+        "asn": "269876",
+        "description": "SUMINISTROS PCWESTERN CA (WestNet)",
+        "handle": "SUMINISTROS-PCWESTERN-CA"
+    },
+    "269879": {
+        "country_code": "VE",
+        "asn": "269879",
+        "description": "INTEGRACION DE TECNOLOGIAS MOVILES ITM C.A.",
+        "handle": "INTEGRACION-TECNOLOGIAS-MOVILES"
+    },
+    "269891": {
+        "country_code": "VE",
+        "asn": "269891",
+        "description": "TELECOM.CORPORATIVAS TELECORP C.A",
+        "handle": "TELECOMCORPORATIVAS-TELECORP-CA"
+    },
+    "269901": {
+        "country_code": "VE",
+        "asn": "269901",
+        "description": "MARAVECA TELECOMUNICACIONES C.A",
+        "handle": "MARAVECA-TELECOMUNICACIONES-CA"
+    },
+    "269918": {
+        "country_code": "VE",
+        "asn": "269918",
+        "description": "SISTEMAS TELCORP C.A.",
+        "handle": "SISTEMAS-TELCORP-CA"
+    },
+    "269920": {
+        "country_code": "VE",
+        "asn": "269920",
+        "description": "INVERSIONES RDN3 C.A.",
+        "handle": "INVERSIONES-RDN3-CA"
+    },
+    "269928": {
+        "country_code": "VE",
+        "asn": "269928",
+        "description": "TELECOMUNICACIONES RHJ C. A.",
+        "handle": "TELECOMUNICACIONES-RHJ-C-A"
+    },
+    "269946": {
+        "country_code": "VE",
+        "asn": "269946",
+        "description": "BOOM SOLUTIONS C.A.",
+        "handle": "BOOM-SOLUTIONS-CA"
+    },
+    "269974": {
+        "country_code": "VE",
+        "asn": "269974",
+        "description": "LAN-ONLINE C.A.",
+        "handle": "LAN-ONLINE-CA"
+    },
+    "269984": {
+        "country_code": "VE",
+        "asn": "269984",
+        "description": "CORPORACION MATRIX TV C.A.",
+        "handle": "CORPORACION-MATRIX-TV-CA"
+    },
+    "270026": {
+        "country_code": "VE",
+        "asn": "270026",
+        "description": "RED SERVITEL CA",
+        "handle": "RED-SERVITEL-CA"
+    },
+    "270042": {
+        "country_code": "VE",
+        "asn": "270042",
+        "description": "RED DOT TECHNOLOGIES C.A.",
+        "handle": "RED-DOT-TECHNOLOGIES-CA"
+    },
+    "270073": {
+        "country_code": "VE",
+        "asn": "270073",
+        "description": "IGUANA NETWORK SERVICES C.A.",
+        "handle": "IGUANA-NETWORK-SERVICES-CA"
+    },
+    "271791": {
+        "country_code": "VE",
+        "asn": "271791",
+        "description": "CABLE NORTE CA.",
+        "handle": "CABLE-NORTE-CA"
+    },
+    "271793": {
+        "country_code": "VE",
+        "asn": "271793",
+        "description": "SERTINET C.A.",
+        "handle": "SERTINET-CA"
+    },
+    "271812": {
+        "country_code": "VE",
+        "asn": "271812",
+        "description": "CONEXT VENEZUELA C.A.",
+        "handle": "CONEXT-VENEZUELA-CA"
+    },
+    "271813": {
+        "country_code": "VE",
+        "asn": "271813",
+        "description": "COMUNICACIONES MIGTEL C.A.",
+        "handle": "COMUNICACIONES-MIGTEL-CA"
+    },
+    "271816": {
+        "country_code": "VE",
+        "asn": "271816",
+        "description": "SUMINISTROS Y SERVICIOS INTERWEB-SITE C.A.",
+        "handle": "SUMINISTROS-SERVICIOS-INTERWEB"
+    },
+    "271855": {
+        "country_code": "VE",
+        "asn": "271855",
+        "description": "MANGO NETWORK C. A. MANGONET C. A",
+        "handle": "MANGO-NETWORK-C-MANGONET-C-A"
+    },
+    "271875": {
+        "country_code": "VE",
+        "asn": "271875",
+        "description": "MARATEL CA",
+        "handle": "MARATEL-CA"
+    },
+    "271880": {
+        "country_code": "VE",
+        "asn": "271880",
+        "description": "GIGABITS TELECOM C.A.",
+        "handle": "GIGABITS-TELECOM-CA"
+    },
+    "271884": {
+        "country_code": "VE",
+        "asn": "271884",
+        "description": "VIPTEL COMMUNICATIONS C.A.",
+        "handle": "VIPTEL-COMMUNICATIONS-CA"
+    },
+    "271899": {
+        "country_code": "VE",
+        "asn": "271899",
+        "description": "GIGAPOP C.A.",
+        "handle": "GIGAPOP-CA"
+    },
+    "271904": {
+        "country_code": "VE",
+        "asn": "271904",
+        "description": "CHARTER COMMUNICATIONS INTERNATIONAL DE VENEZUELA C.A.",
+        "handle": "CHARTER-COMMUNICATIONS-INTERNATIONAL"
+    },
+    "271907": {
+        "country_code": "VE",
+        "asn": "271907",
+        "description": "COLNETWORK C.A.",
+        "handle": "COLNETWORK-CA"
+    },
+    "271909": {
+        "country_code": "VE",
+        "asn": "271909",
+        "description": "TELECOMUNICACIONES MANTENIMIENTO Y SERVICIOS P&C C.A.",
+        "handle": "TELECOMUNICACIONES-MANTENIMIENTO-SERVICIOS"
+    },
+    "271917": {
+        "country_code": "VE",
+        "asn": "271917",
+        "description": "SOLUCIONES TECNICAS VENEZUELA C.A.",
+        "handle": "SOLUCIONES-TECNICAS-VENEZUELA"
+    },
+    "271920": {
+        "country_code": "VE",
+        "asn": "271920",
+        "description": "Corporacion SLJ C.A",
+        "handle": "CORPORACION-SLJ-CA"
+    },
+    "271928": {
+        "country_code": "VE",
+        "asn": "271928",
+        "description": "TECNOIPCONSULTORES C.A.",
+        "handle": "TECNOIPCONSULTORES-CA"
+    },
+    "271939": {
+        "country_code": "VE",
+        "asn": "271939",
+        "description": "REDES ELIAS C.A.",
+        "handle": "REDES-ELIAS-CA"
+    },
+    "271951": {
+        "country_code": "VE",
+        "asn": "271951",
+        "description": "4 EVER PLUG C.A.",
+        "handle": "4-EVER-PLUG-CA"
+    },
+    "271994": {
+        "country_code": "VE",
+        "asn": "271994",
+        "description": "INTERNET SUR DEL LAGO C.A.",
+        "handle": "INTERNET-SUR-LAGO-CA"
+    },
+    "272018": {
+        "country_code": "VE",
+        "asn": "272018",
+        "description": "KM TECHNOLOGY C.A.",
+        "handle": "KM-TECHNOLOGY-CA"
+    },
+    "272048": {
+        "country_code": "VE",
+        "asn": "272048",
+        "description": "TELECOMUNICACIONES FASTNET F.G 50 C.A.",
+        "handle": "TELECOMUNICACIONES-FASTNET-FG"
+    },
+    "272063": {
+        "country_code": "VE",
+        "asn": "272063",
+        "description": "PROVEEDORES TECNOLOGICOS PK C.A.",
+        "handle": "PROVEEDORES-TECNOLOGICOS-PK-CA"
+    },
+    "272081": {
+        "country_code": "VE",
+        "asn": "272081",
+        "description": "WISPCORE C.A.",
+        "handle": "WISPCORE-CA"
+    },
+    "272092": {
+        "country_code": "VE",
+        "asn": "272092",
+        "description": "INTERNAUTAS SYSTEM C.A.",
+        "handle": "INTERNAUTAS-SYSTEM-CA"
+    },
+    "272100": {
+        "country_code": "VE",
+        "asn": "272100",
+        "description": "CONEXA TECNOLOGY C.A.",
+        "handle": "CONEXA-TECNOLOGY-CA"
+    },
+    "272102": {
+        "country_code": "VE",
+        "asn": "272102",
+        "description": "BESSER SOLUTIONS C.A.",
+        "handle": "BESSER-SOLUTIONS-CA"
+    },
+    "272118": {
+        "country_code": "VE",
+        "asn": "272118",
+        "description": "DATALINK C.A.",
+        "handle": "DATALINK-CA"
+    },
+    "272119": {
+        "country_code": "VE",
+        "asn": "272119",
+        "description": "GTITHOST C.A",
+        "handle": "GTITHOST-CA"
+    },
+    "272122": {
+        "country_code": "VE",
+        "asn": "272122",
+        "description": "TELECOMUNICACIONES G-NETWORK C.A.",
+        "handle": "TELECOMUNICACIONES-G-NETWORK"
+    },
+    "272134": {
+        "country_code": "VE",
+        "asn": "272134",
+        "description": "POWER LINK CORP C.A.",
+        "handle": "POWER-LINK-CORP-CA"
+    },
+    "272142": {
+        "country_code": "VE",
+        "asn": "272142",
+        "description": "CORPORACION REDEXCOM C.A.",
+        "handle": "CORPORACION-REDEXCOM-CA"
+    },
+    "272809": {
+        "country_code": "VE",
+        "asn": "272809",
+        "description": "THUNDERNET C.A.",
+        "handle": "THUNDERNET-CA"
+    },
+    "272814": {
+        "country_code": "VE",
+        "asn": "272814",
+        "description": "TOVARSAT C.A.",
+        "handle": "TOVARSAT-CA"
+    },
+    "272841": {
+        "country_code": "VE",
+        "asn": "272841",
+        "description": "STAR CONECT ISP TECNOLOGIES C.A.",
+        "handle": "STAR-CONECT-ISP-TECNOLOGIES-CA"
+    },
+    "272854": {
+        "country_code": "VE",
+        "asn": "272854",
+        "description": "TELECOMUNICACIONES SILVERDATA C.A.",
+        "handle": "TELECOMUNICACIONES-SILVERDATA-CA"
+    },
+    "272855": {
+        "country_code": "VE",
+        "asn": "272855",
+        "description": "TELECOMUNICACIONES MARA CA. (TELMACA)",
+        "handle": "TELECOMUNICACIONES-MARA-CA"
+    },
+    "272857": {
+        "country_code": "VE",
+        "asn": "272857",
+        "description": "MAXI CABLE C.A",
+        "handle": "MAXI-CABLE-CA"
+    },
+    "272864": {
+        "country_code": "VE",
+        "asn": "272864",
+        "description": "CIDATA C.A",
+        "handle": "CIDATA-CA"
+    },
+    "272865": {
+        "country_code": "VE",
+        "asn": "272865",
+        "description": "INVERSIONES SMARTBYTE C.A.",
+        "handle": "INVERSIONES-SMARTBYTE-CA"
+    },
+    "272871": {
+        "country_code": "VE",
+        "asn": "272871",
+        "description": "DAT - COM SERVICES C.A.",
+        "handle": "DAT-COM-SERVICES-CA"
+    },
+    "272874": {
+        "country_code": "VE",
+        "asn": "272874",
+        "description": "RADNET TELECOM C.A",
+        "handle": "RADNET-TELECOM-CA"
+    },
+    "272895": {
+        "country_code": "VE",
+        "asn": "272895",
+        "description": "TRANSPORTE DE DATOS INTERKING C.A.",
+        "handle": "TRANSPORTE-DATOS-INTERKING-CA"
+    },
+    "272907": {
+        "country_code": "VE",
+        "asn": "272907",
+        "description": "CDM.NET C.A.",
+        "handle": "CDMNET-CA"
+    },
+    "272921": {
+        "country_code": "VE",
+        "asn": "272921",
+        "description": "IAC TELECOM C.A",
+        "handle": "IAC-TELECOM-CA"
+    },
+    "272924": {
+        "country_code": "VE",
+        "asn": "272924",
+        "description": "SOLUCIONES INTEGRALES TECNOLOGICAS SIT C.A",
+        "handle": "SOLUCIONES-INTEGRALES-TECNOLOGICAS"
+    },
+    "272940": {
+        "country_code": "VE",
+        "asn": "272940",
+        "description": "CELIES-NETWORK C.A",
+        "handle": "CELIES-NETWORK-CA"
+    },
+    "272946": {
+        "country_code": "VE",
+        "asn": "272946",
+        "description": "MAR FIX C.A",
+        "handle": "MAR-FIX-CA"
+    },
+    "272951": {
+        "country_code": "VE",
+        "asn": "272951",
+        "description": "INTERCOM SERVICIOS C.A",
+        "handle": "INTERCOM-SERVICIOS-CA"
+    },
+    "272955": {
+        "country_code": "VE",
+        "asn": "272955",
+        "description": "GRUPO TECNOLIFE C.A.",
+        "handle": "GRUPO-TECNOLIFE-CA"
+    },
+    "272959": {
+        "country_code": "VE",
+        "asn": "272959",
+        "description": "GLOBAL VIEW C.A.",
+        "handle": "GLOBAL-VIEW-CA"
+    },
+    "272968": {
+        "country_code": "VE",
+        "asn": "272968",
+        "description": "LATIN AMERICAN CABLE C.A",
+        "handle": "LATIN-AMERICAN-CABLE-CA"
+    },
+    "272993": {
+        "country_code": "VE",
+        "asn": "272993",
+        "description": "GUAROVISION C.A.",
+        "handle": "GUAROVISION-CA"
+    },
+    "273007": {
+        "country_code": "VE",
+        "asn": "273007",
+        "description": "SPEEDNET C.A",
+        "handle": "SPEEDNET-CA"
+    },
+    "273010": {
+        "country_code": "VE",
+        "asn": "273010",
+        "description": "TECNOSYSTEM IO C.A",
+        "handle": "TECNOSYSTEM-IO-CA"
+    },
+    "273011": {
+        "country_code": "VE",
+        "asn": "273011",
+        "description": "DATAVOIP C.A",
+        "handle": "DATAVOIP-CA"
+    },
+    "273024": {
+        "country_code": "VE",
+        "asn": "273024",
+        "description": "SISPROT GLOBAL FIBER C.A.",
+        "handle": "SISPROT-GLOBAL-FIBER-CA"
+    },
+    "273029": {
+        "country_code": "VE",
+        "asn": "273029",
+        "description": "FIBERCOT C.A",
+        "handle": "FIBERCOT-CA"
+    },
+    "273039": {
+        "country_code": "VE",
+        "asn": "273039",
+        "description": "Tecnologia del Presente 18 C.A",
+        "handle": "TECNOLOGIA-PRESENTE-18-CA"
+    },
+    "273043": {
+        "country_code": "VE",
+        "asn": "273043",
+        "description": "TV CABLE COM CA",
+        "handle": "TV-CABLE-COM-CA"
+    },
+    "273058": {
+        "country_code": "VE",
+        "asn": "273058",
+        "description": "SOLUCIONES T\u00c9CNICAS R.V.A C.A",
+        "handle": "SOLUCIONES-TECNICAS-RVA-CA"
+    },
+    "273069": {
+        "country_code": "VE",
+        "asn": "273069",
+        "description": "MINET C.A",
+        "handle": "MINET-CA"
+    },
+    "273090": {
+        "country_code": "VE",
+        "asn": "273090",
+        "description": "HOLANET C.A.",
+        "handle": "HOLANET-CA"
+    },
+    "273093": {
+        "country_code": "VE",
+        "asn": "273093",
+        "description": "WISP TECNOGER C.A.",
+        "handle": "WISP-TECNOGER-CA"
+    },
+    "273100": {
+        "country_code": "VE",
+        "asn": "273100",
+        "description": "QXN CUSTOMERS SOCIETY",
+        "handle": "QXN-CUSTOMERS-SOCIETY"
+    },
+    "273125": {
+        "country_code": "VE",
+        "asn": "273125",
+        "description": "OIT SERVICIO DE DATOS C.A.",
+        "handle": "OIT-SERVICIO-DATOS-CA"
+    },
+    "273144": {
+        "country_code": "VE",
+        "asn": "273144",
+        "description": "PC SERVICE PLUS NET C.A",
+        "handle": "PC-SERVICE-PLUS-NET-CA"
+    },
+    "273154": {
+        "country_code": "VE",
+        "asn": "273154",
+        "description": "MULTICANAL LA SE\u00d1AL DIGITAL C.A.",
+        "handle": "MULTICANAL-LA-SENAL-DIGITAL-CA"
+    },
+    "273155": {
+        "country_code": "VE",
+        "asn": "273155",
+        "description": "DATANET VZLA 2021 C.A",
+        "handle": "DATANET-VZLA-2021-CA"
+    },
+    "273169": {
+        "country_code": "VE",
+        "asn": "273169",
+        "description": "WISPLAY NETWORKS C.A",
+        "handle": "WISPLAY-NETWORKS-CA"
+    },
+    "273173": {
+        "country_code": "VE",
+        "asn": "273173",
+        "description": "TELECOM 3 C.A",
+        "handle": "TELECOM-3-CA"
+    },
+    "273182": {
+        "country_code": "VE",
+        "asn": "273182",
+        "description": "Cablexpress TV C.A.",
+        "handle": "CABLEXPRESS-TV-CA"
+    },
+    "273186": {
+        "country_code": "VE",
+        "asn": "273186",
+        "description": "AVE TECNOLOGIA Y CONEXIONES C.A.",
+        "handle": "AVE-TECNOLOGIA-CONEXIONES-CA"
+    },
+    "273197": {
+        "country_code": "VE",
+        "asn": "273197",
+        "description": "HHNETWORK T C.A.",
+        "handle": "HHNETWORK-T-CA"
+    },
+    "273201": {
+        "country_code": "VE",
+        "asn": "273201",
+        "description": "CCQ TELECOM C.A",
+        "handle": "CCQ-TELECOM-CA"
+    },
+    "273203": {
+        "country_code": "VE",
+        "asn": "273203",
+        "description": "CABLE PAR C.A.",
+        "handle": "CABLE-PAR-CA"
+    },
+    "273205": {
+        "country_code": "VE",
+        "asn": "273205",
+        "description": "WLINK TELECOM CA",
+        "handle": "WLINK-TELECOM-CA"
+    },
+    "273206": {
+        "country_code": "VE",
+        "asn": "273206",
+        "description": "INVERSIONES CERECOM R.R C.A.",
+        "handle": "INVERSIONES-CERECOM-RR-CA"
+    },
+    "273207": {
+        "country_code": "VE",
+        "asn": "273207",
+        "description": "WIFI-PRADO C.A",
+        "handle": "WIFI-PRADO-CA"
+    },
+    "273208": {
+        "country_code": "VE",
+        "asn": "273208",
+        "description": "INTERSAT LOS ANDES C.A",
+        "handle": "INTERSAT-LOS-ANDES-CA"
+    },
+    "273225": {
+        "country_code": "VE",
+        "asn": "273225",
+        "description": "MERU NETWORKS C.A.",
+        "handle": "MERU-NETWORKS-CA"
+    },
+    "273837": {
+        "country_code": "VE",
+        "asn": "273837",
+        "description": "NAVEGANTE NETWORK C.A.",
+        "handle": "NAVEGANTE-NETWORK-CA"
+    },
+    "273843": {
+        "country_code": "VE",
+        "asn": "273843",
+        "description": "INVERSIONES ABDO 77 C.A.",
+        "handle": "INVERSIONES-ABDO-77-CA"
+    },
+    "273848": {
+        "country_code": "VE",
+        "asn": "273848",
+        "description": "CONETCOM TELECOMUNICACIONES S.A.",
+        "handle": "CONETCOM-TELECOMUNICACIONES"
+    },
+    "273851": {
+        "country_code": "VE",
+        "asn": "273851",
+        "description": "CABLE HOGAR C.A.",
+        "handle": "CABLE-HOGAR-CA"
+    },
+    "273857": {
+        "country_code": "VE",
+        "asn": "273857",
+        "description": "RED DORADA C.A",
+        "handle": "RED-DORADA-CA"
+    },
+    "273863": {
+        "country_code": "VE",
+        "asn": "273863",
+        "description": "TODONET TELECOMUNICACIONES C.A.",
+        "handle": "TODONET-TELECOMUNICACIONES-CA"
+    },
+    "273870": {
+        "country_code": "VE",
+        "asn": "273870",
+        "description": "ICR NETWORK C.A",
+        "handle": "ICR-NETWORK-CA"
+    },
+    "273872": {
+        "country_code": "VE",
+        "asn": "273872",
+        "description": "ABRAHAM NETWORK C.A",
+        "handle": "ABRAHAM-NETWORK-CA"
+    },
+    "273874": {
+        "country_code": "VE",
+        "asn": "273874",
+        "description": "INVERSIONES NEEO NET 2020 C.A.",
+        "handle": "INVERSIONES-NEEO-NET-2020-CA"
+    },
+    "273885": {
+        "country_code": "VE",
+        "asn": "273885",
+        "description": "GEZCOM CORPORATION C. A.",
+        "handle": "GEZCOM-CORPORATION-C-A"
+    },
+    "273890": {
+        "country_code": "VE",
+        "asn": "273890",
+        "description": "SERVICIOS NAP VEN C.A.",
+        "handle": "SERVICIOS-NAP-VEN-CA"
+    },
+    "273893": {
+        "country_code": "VE",
+        "asn": "273893",
+        "description": "COSAN TELECOM C.A.",
+        "handle": "COSAN-TELECOM-CA"
+    },
+    "273903": {
+        "country_code": "VE",
+        "asn": "273903",
+        "description": "TELECOMUNICACIONES ETHERNEW C.A",
+        "handle": "TELECOMUNICACIONES-ETHERNEW-CA"
+    },
+    "273904": {
+        "country_code": "VE",
+        "asn": "273904",
+        "description": "AM. CONNECTIONS C.A.",
+        "handle": "AM-CONNECTIONS-CA"
+    },
+    "273931": {
+        "country_code": "VE",
+        "asn": "273931",
+        "description": "VEARCO TELECOM C.A.",
+        "handle": "VEARCO-TELECOM-CA"
+    },
+    "273949": {
+        "country_code": "VE",
+        "asn": "273949",
+        "description": "LA RED 2022 C.A",
+        "handle": "LA-RED-2022-CA"
+    },
+    "273958": {
+        "country_code": "VE",
+        "asn": "273958",
+        "description": "INACOM C.A",
+        "handle": "INACOM-CA"
+    },
+    "273978": {
+        "country_code": "VE",
+        "asn": "273978",
+        "description": "TELECOMUNICACIONES INTER@LFA C.A",
+        "handle": "TELECOMUNICACIONES-INTERLFA-CA"
+    },
+    "273990": {
+        "country_code": "VE",
+        "asn": "273990",
+        "description": "TELECOMUNICACIONES BA 53 C.A.",
+        "handle": "TELECOMUNICACIONES-BA-53-CA"
+    },
+    "273994": {
+        "country_code": "VE",
+        "asn": "273994",
+        "description": "CORPORACION FIBERTECH C.A.",
+        "handle": "CORPORACION-FIBERTECH-CA"
+    },
+    "273995": {
+        "country_code": "VE",
+        "asn": "273995",
+        "description": "AIRLINK SERVICE C.A.",
+        "handle": "AIRLINK-SERVICE-CA"
+    },
+    "273998": {
+        "country_code": "VE",
+        "asn": "273998",
+        "description": "CORPORACION TUYNET C.A.",
+        "handle": "CORPORACION-TUYNET-CA"
+    },
+    "274022": {
+        "country_code": "VE",
+        "asn": "274022",
+        "description": "SUCRENET C.A.",
+        "handle": "SUCRENET-CA"
+    },
+    "274028": {
+        "country_code": "VE",
+        "asn": "274028",
+        "description": "DIFUSION BOLIVARIANA C.A.",
+        "handle": "DIFUSION-BOLIVARIANA-CA"
+    },
+    "274036": {
+        "country_code": "VE",
+        "asn": "274036",
+        "description": "GBIT TECNOLOGY C.A",
+        "handle": "GBIT-TECNOLOGY-CA"
+    },
+    "274047": {
+        "country_code": "VE",
+        "asn": "274047",
+        "description": "CONNECTIONS E & T C.A.",
+        "handle": "CONNECTIONS-T-CA"
+    },
+    "274050": {
+        "country_code": "VE",
+        "asn": "274050",
+        "description": "YOUNEED COMMUNICATION C.A.",
+        "handle": "YOUNEED-COMMUNICATION-CA"
+    },
+    "274058": {
+        "country_code": "VE",
+        "asn": "274058",
+        "description": "INVERSIONES DYE X4 C.A",
+        "handle": "INVERSIONES-DYE-X4-CA"
+    },
+    "274060": {
+        "country_code": "VE",
+        "asn": "274060",
+        "description": "CABLE CENTER C.A.",
+        "handle": "CABLE-CENTER-CA"
+    },
+    "274062": {
+        "country_code": "VE",
+        "asn": "274062",
+        "description": "SOLUCION TV 555 C.A",
+        "handle": "SOLUCION-TV-555-CA"
+    },
+    "274065": {
+        "country_code": "VE",
+        "asn": "274065",
+        "description": "GRUPO TELEVISTA C.A",
+        "handle": "GRUPO-TELEVISTA-CA"
+    },
+    "274092": {
+        "country_code": "VE",
+        "asn": "274092",
+        "description": "SURNET TELECOM C.A.",
+        "handle": "SURNET-TELECOM-CA"
+    },
+    "274102": {
+        "country_code": "VE",
+        "asn": "274102",
+        "description": "TELECOMUNICACIONES ORIENTE C.A",
+        "handle": "TELECOMUNICACIONES-ORIENTE-CA"
+    },
+    "274109": {
+        "country_code": "VE",
+        "asn": "274109",
+        "description": "SOLUCIONES DE TELECOMUNICACIONES SERVINET C.A.",
+        "handle": "SOLUCIONES-TELECOMUNICACIONES-SERVINET"
+    },
+    "274117": {
+        "country_code": "VE",
+        "asn": "274117",
+        "description": "SUPER-NET TELECOM C.A",
+        "handle": "SUPER-NET-TELECOM-CA"
+    },
+    "274118": {
+        "country_code": "VE",
+        "asn": "274118",
+        "description": "T AND T NETWORKS SOLUTIONS C.A.",
+        "handle": "T-AND-T-NETWORKS-SOLUTIONS-CA"
+    },
+    "274132": {
+        "country_code": "VE",
+        "asn": "274132",
+        "description": "MARANET TELECOMUNICACIONES 11-21 C.A.",
+        "handle": "MARANET-TELECOMUNICACIONES-11"
+    },
+    "274137": {
+        "country_code": "VE",
+        "asn": "274137",
+        "description": "LIDERNET ZONE C.A.",
+        "handle": "LIDERNET-ZONE-CA"
+    },
+    "274160": {
+        "country_code": "VE",
+        "asn": "274160",
+        "description": "TV STAR SATELLITE C.A",
+        "handle": "TV-STAR-SATELLITE-CA"
+    },
+    "274180": {
+        "country_code": "VE",
+        "asn": "274180",
+        "description": "SOFTELINET SOLUCIONES TECNOL\u00d3GICAS C.A.",
+        "handle": "SOFTELINET-SOLUCIONES-TECNOLOGICAS"
+    },
+    "274202": {
+        "country_code": "VE",
+        "asn": "274202",
+        "description": "GRUPO MULTIMEDIA S&G C.A",
+        "handle": "GRUPO-MULTIMEDIA-S-G-CA"
+    },
+    "274203": {
+        "country_code": "VE",
+        "asn": "274203",
+        "description": "LINK NETWORK CA.",
+        "handle": "LINK-NETWORK-CA"
+    },
+    "274205": {
+        "country_code": "VE",
+        "asn": "274205",
+        "description": "INTERANCHANET COMUNICACIONES C. A.",
+        "handle": "INTERANCHANET-COMUNICACIONES-C"
+    },
+    "274206": {
+        "country_code": "VE",
+        "asn": "274206",
+        "description": "NORTE VISION CA",
+        "handle": "NORTE-VISION-CA"
+    },
+    "274232": {
+        "country_code": "VE",
+        "asn": "274232",
+        "description": "NETIG COMPUTACION C.A.",
+        "handle": "NETIG-COMPUTACION-CA"
+    },
+    "274251": {
+        "country_code": "VE",
+        "asn": "274251",
+        "description": "ARPANET TELECOM C.A",
+        "handle": "ARPANET-TELECOM-CA"
+    },
+    "274255": {
+        "country_code": "VE",
+        "asn": "274255",
+        "description": "M&S.NET C.A.",
+        "handle": "M-SNET-CA"
+    },
+    "274279": {
+        "country_code": "VE",
+        "asn": "274279",
+        "description": "FTTH NETWORKS DE VENEZUELA C.A.",
+        "handle": "FTTH-NETWORKS-VENEZUELA-CA"
+    },
+    "274280": {
+        "country_code": "VE",
+        "asn": "274280",
+        "description": "ACT NETWORK C.A.",
+        "handle": "ACT-NETWORK-CA"
+    },
+    "274285": {
+        "country_code": "VE",
+        "asn": "274285",
+        "description": "CABLE BRASIL C.A.",
+        "handle": "CABLE-BRASIL-CA"
+    },
+    "274286": {
+        "country_code": "VE",
+        "asn": "274286",
+        "description": "WELLCOMM TECNOLOG\u00cdA C.A.",
+        "handle": "WELLCOMM-TECNOLOGIA-CA"
+    },
+    "274288": {
+        "country_code": "VE",
+        "asn": "274288",
+        "description": "SERVIWI 22 C.A",
+        "handle": "SERVIWI-22-CA"
+    },
+    "274307": {
+        "country_code": "VE",
+        "asn": "274307",
+        "description": "OPTIX TELECOM C.A.",
+        "handle": "OPTIX-TELECOM-CA"
+    },
+    "274314": {
+        "country_code": "VE",
+        "asn": "274314",
+        "description": "TUYEROS NETWORKS C.A",
+        "handle": "TUYEROS-NETWORKS-CA"
+    },
+    "274319": {
+        "country_code": "VE",
+        "asn": "274319",
+        "description": "PLATINIUM SYSTEM CABLE C.A.",
+        "handle": "PLATINIUM-SYSTEM-CABLE-CA"
+    },
+    "274321": {
+        "country_code": "VE",
+        "asn": "274321",
+        "description": "TV CABLE NET SYSTEMS C.A",
+        "handle": "TV-CABLE-NET-SYSTEMS-CA"
+    },
+    "274331": {
+        "country_code": "VE",
+        "asn": "274331",
+        "description": "EDUARNET TELECOM C.A",
+        "handle": "EDUARNET-TELECOM-CA"
+    },
+    "274332": {
+        "country_code": "VE",
+        "asn": "274332",
+        "description": "NDC SOLUTIONS C.A.",
+        "handle": "NDC-SOLUTIONS-CA"
+    },
+    "274845": {
+        "country_code": "VE",
+        "asn": "274845",
+        "description": "INVERSIONES MULTICANAL C.A.",
+        "handle": "INVERSIONES-MULTICANAL-CA"
+    }
+}

@@ -1,0 +1,704 @@
+{
+    "5498": {
+        "country_code": "BY",
+        "asn": "5498",
+        "description": "Institution Central Information and Analytical Center at the Ministry of Education of Belarus",
+        "handle": "UNIBEL-AS"
+    },
+    "6697": {
+        "country_code": "BY",
+        "asn": "6697",
+        "description": "Republican Unitary Telecommunication Enterprise Beltelecom",
+        "handle": "BELPAK-AS"
+    },
+    "12406": {
+        "country_code": "BY",
+        "asn": "12406",
+        "description": "Business Network Ltd",
+        "handle": "BN-AS"
+    },
+    "13171": {
+        "country_code": "BY",
+        "asn": "13171",
+        "description": "Belarusian State University",
+        "handle": "BSU"
+    },
+    "21062": {
+        "country_code": "BY",
+        "asn": "21062",
+        "description": "Anitex Ltd",
+        "handle": "ANITEX-AS"
+    },
+    "21274": {
+        "country_code": "BY",
+        "asn": "21274",
+        "description": "State Scientific Enterprise 'United Institute of Informatics Problems of National Academy of Sciences of Belarus' (UIIP NASB)",
+        "handle": "BAS-NET-AS"
+    },
+    "21305": {
+        "country_code": "BY",
+        "asn": "21305",
+        "description": "IP TelCom LLC",
+        "handle": "IPTEL-AS"
+    },
+    "25106": {
+        "country_code": "BY",
+        "asn": "25106",
+        "description": "Mobile TeleSystems JLLC",
+        "handle": "MTSBY-AS"
+    },
+    "28737": {
+        "country_code": "BY",
+        "asn": "28737",
+        "description": "Netland ODO",
+        "handle": "NETLAND-AS"
+    },
+    "28849": {
+        "country_code": "BY",
+        "asn": "28849",
+        "description": "JSC GLOBALONEBEL",
+        "handle": "ASN-GLOBALONEBEL-CORE"
+    },
+    "30945": {
+        "country_code": "BY",
+        "asn": "30945",
+        "description": "State Scientific Enterprise 'United Institute of Informatics Problems of National Academy of Sciences of Belarus' (UIIP NASB)",
+        "handle": "BAS-NET-TECHAS"
+    },
+    "31143": {
+        "country_code": "BY",
+        "asn": "31143",
+        "description": "COSMOS TV JLLC",
+        "handle": "COSMOSTV-AS"
+    },
+    "31345": {
+        "country_code": "BY",
+        "asn": "31345",
+        "description": "Business Network Ltd",
+        "handle": "MAGISTRAL2-AS"
+    },
+    "33973": {
+        "country_code": "BY",
+        "asn": "33973",
+        "description": "Epam Systems FLLC",
+        "handle": "EPAM-AS"
+    },
+    "34421": {
+        "country_code": "BY",
+        "asn": "34421",
+        "description": "Telecom Media Systems LLC",
+        "handle": "AS34421"
+    },
+    "35587": {
+        "country_code": "BY",
+        "asn": "35587",
+        "description": "Public Association Belarusian Railways",
+        "handle": "ASBELRW"
+    },
+    "35594": {
+        "country_code": "BY",
+        "asn": "35594",
+        "description": "Reliable Software Ltd.",
+        "handle": "HOSTERBY-AS"
+    },
+    "35647": {
+        "country_code": "BY",
+        "asn": "35647",
+        "description": "Republican Unitary Enterprise National Traffic Exchange Center",
+        "handle": "BYIX-AS"
+    },
+    "35668": {
+        "country_code": "BY",
+        "asn": "35668",
+        "description": "Municipal Unitary Enterprise Information Technologies Center Minsk City Executive Committee",
+        "handle": "CCMCEM"
+    },
+    "38980": {
+        "country_code": "BY",
+        "asn": "38980",
+        "description": "Priorbank JSC",
+        "handle": "PRIORBANK-BY"
+    },
+    "41245": {
+        "country_code": "BY",
+        "asn": "41245",
+        "description": "ITRANSITION CJSC",
+        "handle": "ITRANSITION-AS"
+    },
+    "41793": {
+        "country_code": "BY",
+        "asn": "41793",
+        "description": "Bank Dabrabyt Joint-stock Company",
+        "handle": "ASBANKDABRABYT"
+    },
+    "42772": {
+        "country_code": "BY",
+        "asn": "42772",
+        "description": "Unitary enterprise A1",
+        "handle": "A1-BY-AS"
+    },
+    "43232": {
+        "country_code": "BY",
+        "asn": "43232",
+        "description": "KT MAZLLC",
+        "handle": "TELEVID-AS16"
+    },
+    "44031": {
+        "country_code": "BY",
+        "asn": "44031",
+        "description": "Efir-TV Ltd.",
+        "handle": "EFIR-TV-AS"
+    },
+    "44087": {
+        "country_code": "BY",
+        "asn": "44087",
+        "description": "BeST CJSC",
+        "handle": "BEST-AS"
+    },
+    "44272": {
+        "country_code": "BY",
+        "asn": "44272",
+        "description": "Pinskiy internet Provider Limited",
+        "handle": "ASPINSKINT"
+    },
+    "44288": {
+        "country_code": "BY",
+        "asn": "44288",
+        "description": "JSC Banks Processing Center",
+        "handle": "BPC-AS"
+    },
+    "44397": {
+        "country_code": "BY",
+        "asn": "44397",
+        "description": "OJSC Minsk Television Information Networks",
+        "handle": "MTI-NET"
+    },
+    "48107": {
+        "country_code": "BY",
+        "asn": "48107",
+        "description": "Data Cloud LLC",
+        "handle": "DATACLOUD-AS"
+    },
+    "48340": {
+        "country_code": "BY",
+        "asn": "48340",
+        "description": "Axioma-Service Limited",
+        "handle": "AXIOMA-SERVICE"
+    },
+    "49091": {
+        "country_code": "BY",
+        "asn": "49091",
+        "description": "Telecom-garant Limited",
+        "handle": "ASTELGAROR"
+    },
+    "49243": {
+        "country_code": "BY",
+        "asn": "49243",
+        "description": "The state institution The Main Economic Office of the Administrative Affairs Office of the President of the Republic of Belarus",
+        "handle": "GHU-AS"
+    },
+    "49526": {
+        "country_code": "BY",
+        "asn": "49526",
+        "description": "JSC MTBank",
+        "handle": "MTB"
+    },
+    "49682": {
+        "country_code": "BY",
+        "asn": "49682",
+        "description": "BNB-Bank OJSC",
+        "handle": "BNB-BANK-AS"
+    },
+    "49711": {
+        "country_code": "BY",
+        "asn": "49711",
+        "description": "Flynet Ltd",
+        "handle": "FLYNET"
+    },
+    "50155": {
+        "country_code": "BY",
+        "asn": "50155",
+        "description": "Grodno Information Networks Ltd.",
+        "handle": "GR-INFO-NET"
+    },
+    "50176": {
+        "country_code": "BY",
+        "asn": "50176",
+        "description": "Prizma Additional Liability Company",
+        "handle": "PRIZMA-AS"
+    },
+    "50205": {
+        "country_code": "BY",
+        "asn": "50205",
+        "description": "Banking and Financial Network JSC",
+        "handle": "BFNASYS"
+    },
+    "50294": {
+        "country_code": "BY",
+        "asn": "50294",
+        "description": "Private services Unitary Enterprise Vash Internet",
+        "handle": "ASVASHINT"
+    },
+    "50334": {
+        "country_code": "BY",
+        "asn": "50334",
+        "description": "Join stock Grodno Regional Techno Commercial Centre GARANT",
+        "handle": "GARANT"
+    },
+    "50345": {
+        "country_code": "BY",
+        "asn": "50345",
+        "description": "Optitel LTD.",
+        "handle": "OPTITEL"
+    },
+    "50438": {
+        "country_code": "BY",
+        "asn": "50438",
+        "description": "Flynet Ltd",
+        "handle": "FLYNET-NET"
+    },
+    "50492": {
+        "country_code": "BY",
+        "asn": "50492",
+        "description": "Modern Technologies of Connection Ltd.",
+        "handle": "MTCONNECT-AS"
+    },
+    "50590": {
+        "country_code": "BY",
+        "asn": "50590",
+        "description": "PE NETBERRY",
+        "handle": "NETBERRY-AS"
+    },
+    "50593": {
+        "country_code": "BY",
+        "asn": "50593",
+        "description": "T1-Group LLC",
+        "handle": "T1-GROUP-AS"
+    },
+    "50685": {
+        "country_code": "BY",
+        "asn": "50685",
+        "description": "United Networks Ltd.",
+        "handle": "UNITED-NETWORKS-AS"
+    },
+    "50765": {
+        "country_code": "BY",
+        "asn": "50765",
+        "description": "Terranet Ltd",
+        "handle": "TERRANET-AS"
+    },
+    "50929": {
+        "country_code": "BY",
+        "asn": "50929",
+        "description": "Company with additional Liability Advanced Technology",
+        "handle": "ADVANCED-TECHNOLOGY-AS"
+    },
+    "50934": {
+        "country_code": "BY",
+        "asn": "50934",
+        "description": "Belarussian National Technical University",
+        "handle": "BNTU-OF-MANAGEMENT-AS"
+    },
+    "51276": {
+        "country_code": "BY",
+        "asn": "51276",
+        "description": "Limited Responsibility Society KomProektServis",
+        "handle": "BUDOVIT"
+    },
+    "51365": {
+        "country_code": "BY",
+        "asn": "51365",
+        "description": "OJSC Belinvestbank",
+        "handle": "BELINVESTBANK-BY"
+    },
+    "51936": {
+        "country_code": "BY",
+        "asn": "51936",
+        "description": "IP TelCom LLC",
+        "handle": "DELETE-ME"
+    },
+    "56497": {
+        "country_code": "BY",
+        "asn": "56497",
+        "description": "Company with additional liability New Technologies",
+        "handle": "MORS-AS"
+    },
+    "56740": {
+        "country_code": "BY",
+        "asn": "56740",
+        "description": "DataHata Ltd",
+        "handle": "DATAHATA-AS"
+    },
+    "56742": {
+        "country_code": "BY",
+        "asn": "56742",
+        "description": "Belorussian-Russian Belgazprombank OJSC",
+        "handle": "BELGAZPROMBANK"
+    },
+    "56920": {
+        "country_code": "BY",
+        "asn": "56920",
+        "description": "Light Well Organisation Ltd",
+        "handle": "LWOBEL-AS"
+    },
+    "57135": {
+        "country_code": "BY",
+        "asn": "57135",
+        "description": "Open joint-stock company Naftan",
+        "handle": "ASNAFTAN"
+    },
+    "57184": {
+        "country_code": "BY",
+        "asn": "57184",
+        "description": "KT MAZLLC",
+        "handle": "KTMAZ"
+    },
+    "57192": {
+        "country_code": "BY",
+        "asn": "57192",
+        "description": "Private Production Unitary Enterprise Sphera TV",
+        "handle": "ASSFERATV"
+    },
+    "57331": {
+        "country_code": "BY",
+        "asn": "57331",
+        "description": "Republican Unitary Enterprise Research and Development Center of Information Resources and Communications",
+        "handle": "NIKS-AS"
+    },
+    "58076": {
+        "country_code": "BY",
+        "asn": "58076",
+        "description": "Joint Limited Liability Company Game Stream",
+        "handle": "ASGMSTRBY"
+    },
+    "59770": {
+        "country_code": "BY",
+        "asn": "59770",
+        "description": "KT MAZLLC",
+        "handle": "GARANT-AS"
+    },
+    "59860": {
+        "country_code": "BY",
+        "asn": "59860",
+        "description": "KOIN ISP LLC",
+        "handle": "ASTVSATPLUS"
+    },
+    "59861": {
+        "country_code": "BY",
+        "asn": "59861",
+        "description": "Unitary Services Enterprise Urban Network System",
+        "handle": "ASCITINFNET"
+    },
+    "60280": {
+        "country_code": "BY",
+        "asn": "60280",
+        "description": "Republican Unitary Enterprise National Traffic Exchange Center",
+        "handle": "NTEC"
+    },
+    "60330": {
+        "country_code": "BY",
+        "asn": "60330",
+        "description": "Belarusian Cloud Technologies LLC",
+        "handle": "BCTBY-AS"
+    },
+    "60337": {
+        "country_code": "BY",
+        "asn": "60337",
+        "description": "MEDIATEK Limited",
+        "handle": "MEDIATEK-AS"
+    },
+    "60367": {
+        "country_code": "BY",
+        "asn": "60367",
+        "description": "Seti Plus Ltd.",
+        "handle": "ASNETPLUS"
+    },
+    "60591": {
+        "country_code": "BY",
+        "asn": "60591",
+        "description": "Support Chain LLC",
+        "handle": "SUPPORTCHAIN-AS"
+    },
+    "60611": {
+        "country_code": "BY",
+        "asn": "60611",
+        "description": "Closed Joint Stock Company Alfa-Bank",
+        "handle": "ASALFABANKBY"
+    },
+    "60744": {
+        "country_code": "BY",
+        "asn": "60744",
+        "description": "A.V. Luikov Heat and Mass Transfer Institute of the National Academy of Sciences of Belarus",
+        "handle": "ASITMOBY"
+    },
+    "60769": {
+        "country_code": "BY",
+        "asn": "60769",
+        "description": "Parallelny mir Ltd.",
+        "handle": "ASPMIRBY"
+    },
+    "60770": {
+        "country_code": "BY",
+        "asn": "60770",
+        "description": "Nord ltd.",
+        "handle": "NORD-BY-AS"
+    },
+    "60857": {
+        "country_code": "BY",
+        "asn": "60857",
+        "description": "TV-Com Join Limited Company",
+        "handle": "ASTVCOMBEL"
+    },
+    "61235": {
+        "country_code": "BY",
+        "asn": "61235",
+        "description": "Complementary liability company TUT and TAM Logistics",
+        "handle": "ASTTLBY"
+    },
+    "62170": {
+        "country_code": "BY",
+        "asn": "62170",
+        "description": "JSC Sberbank",
+        "handle": "ASBPSSBERBANK"
+    },
+    "62197": {
+        "country_code": "BY",
+        "asn": "62197",
+        "description": "CJSC VTB Bank (Belarus)",
+        "handle": "VTB-BY"
+    },
+    "62208": {
+        "country_code": "BY",
+        "asn": "62208",
+        "description": "Liner Limited Liability Company",
+        "handle": "ASLINERBEL"
+    },
+    "62351": {
+        "country_code": "BY",
+        "asn": "62351",
+        "description": "Municipal unitary company Novopolotsk city Novopolotsk cable television Vector",
+        "handle": "ASVEKTOR"
+    },
+    "199561": {
+        "country_code": "BY",
+        "asn": "199561",
+        "description": "Open Joint Stock Company 'Minsk Tractor Works'",
+        "handle": "MTZ-REC-AS"
+    },
+    "201638": {
+        "country_code": "BY",
+        "asn": "201638",
+        "description": "Belarusian Cloud Technologies LLC",
+        "handle": "BCTLD-AS"
+    },
+    "201992": {
+        "country_code": "BY",
+        "asn": "201992",
+        "description": "JSC Development Bank of the Republic of Belarus",
+        "handle": "DEVBANK-BY"
+    },
+    "202090": {
+        "country_code": "BY",
+        "asn": "202090",
+        "description": "Aktivnie Tehnologii LLC",
+        "handle": "ACTIVECLOUD-BY-AS"
+    },
+    "202387": {
+        "country_code": "BY",
+        "asn": "202387",
+        "description": "Republican Unitary Enterprise Production Association Belorusneft",
+        "handle": "ASBELOIL"
+    },
+    "202925": {
+        "country_code": "BY",
+        "asn": "202925",
+        "description": "Joint Venture Closed Joint Stock Company International Business Alliance",
+        "handle": "ASIBABY"
+    },
+    "203799": {
+        "country_code": "BY",
+        "asn": "203799",
+        "description": "LLC TANTAL-TECH",
+        "handle": "ASTANTALTECH"
+    },
+    "203808": {
+        "country_code": "BY",
+        "asn": "203808",
+        "description": "OOO ExCloud",
+        "handle": "EXCLOUDS-AS"
+    },
+    "205155": {
+        "country_code": "BY",
+        "asn": "205155",
+        "description": "Republican Unitary Enterprise National Centre of Electronic Services",
+        "handle": "NCES"
+    },
+    "205820": {
+        "country_code": "BY",
+        "asn": "205820",
+        "description": "Unitary enterprise A1",
+        "handle": "VDCBY-AS"
+    },
+    "206047": {
+        "country_code": "BY",
+        "asn": "206047",
+        "description": "JSC Mozyr oil refinery",
+        "handle": "MNPZ-AS"
+    },
+    "206053": {
+        "country_code": "BY",
+        "asn": "206053",
+        "description": "PE Besman Anastasia Aleksandrovna",
+        "handle": "BESMAN-AS"
+    },
+    "206428": {
+        "country_code": "BY",
+        "asn": "206428",
+        "description": "MEGADATA LLC",
+        "handle": "MEGADATA-AS"
+    },
+    "207229": {
+        "country_code": "BY",
+        "asn": "207229",
+        "description": "Bank RRB JSC",
+        "handle": "RRB"
+    },
+    "207587": {
+        "country_code": "BY",
+        "asn": "207587",
+        "description": "FE IBA IT Park",
+        "handle": "ASIBAITPARK"
+    },
+    "208009": {
+        "country_code": "BY",
+        "asn": "208009",
+        "description": "BelTechPlatforma OOO",
+        "handle": "DADDYCLOUD-AS"
+    },
+    "208217": {
+        "country_code": "BY",
+        "asn": "208217",
+        "description": "Open Joint Stock Company Belarusian People's Bank",
+        "handle": "ASBNBBY"
+    },
+    "208407": {
+        "country_code": "BY",
+        "asn": "208407",
+        "description": "LLC BYCOM SYSTEMS",
+        "handle": "BYCOMAS"
+    },
+    "209283": {
+        "country_code": "BY",
+        "asn": "209283",
+        "description": "ITGLOBALCOM BEL LLC",
+        "handle": "AS-ITGLOBALCOM-BY"
+    },
+    "209881": {
+        "country_code": "BY",
+        "asn": "209881",
+        "description": "LLC Vash internet partner",
+        "handle": "ASVASHINTPART"
+    },
+    "210153": {
+        "country_code": "BY",
+        "asn": "210153",
+        "description": "LLC Synesis Stratus",
+        "handle": "SSTRATUS"
+    },
+    "210843": {
+        "country_code": "BY",
+        "asn": "210843",
+        "description": "Garant Vasko L.A. CHURTTP",
+        "handle": "ASGARANTLIDA"
+    },
+    "210845": {
+        "country_code": "BY",
+        "asn": "210845",
+        "description": "Good Internet Ltd.",
+        "handle": "GOOD-INTERNET-AS"
+    },
+    "210871": {
+        "country_code": "BY",
+        "asn": "210871",
+        "description": "VPI Development Center Ltd",
+        "handle": "ASVPIDEV"
+    },
+    "211089": {
+        "country_code": "BY",
+        "asn": "211089",
+        "description": "Republican Unitary Enterprise 'National Centre for Marketing and Price Study'",
+        "handle": "NCFM-AS"
+    },
+    "211263": {
+        "country_code": "BY",
+        "asn": "211263",
+        "description": "JSC BSB Bank",
+        "handle": "BSBBANK"
+    },
+    "211487": {
+        "country_code": "BY",
+        "asn": "211487",
+        "description": "LLC Managing company MAX Atlant-M",
+        "handle": "ATLANTM-BY"
+    },
+    "211973": {
+        "country_code": "BY",
+        "asn": "211973",
+        "description": "Aktivnie Tehnologii LLC",
+        "handle": "ACTIVECLOUD-BY-AS2"
+    },
+    "211976": {
+        "country_code": "BY",
+        "asn": "211976",
+        "description": "Open joint-stock company Paritetbank",
+        "handle": "ASPARITETBANK"
+    },
+    "212108": {
+        "country_code": "BY",
+        "asn": "212108",
+        "description": "Bank BelVEB OJSC",
+        "handle": "BELVEB"
+    },
+    "212172": {
+        "country_code": "BY",
+        "asn": "212172",
+        "description": "CJSC PATIO",
+        "handle": "PATIO-BY"
+    },
+    "212619": {
+        "country_code": "BY",
+        "asn": "212619",
+        "description": "Foreign unitary enterprise SAMSOLUTIONS",
+        "handle": "ASSAMSOL"
+    },
+    "213664": {
+        "country_code": "BY",
+        "asn": "213664",
+        "description": "Idea Host Ltd",
+        "handle": "ASIDEAHOST"
+    },
+    "213860": {
+        "country_code": "BY",
+        "asn": "213860",
+        "description": "PATIO CJSC",
+        "handle": "ASPATIOBY"
+    },
+    "215100": {
+        "country_code": "BY",
+        "asn": "215100",
+        "description": "SoftLine Direct LLC",
+        "handle": "IQDC-AS"
+    },
+    "215119": {
+        "country_code": "BY",
+        "asn": "215119",
+        "description": "JSC StatusBank",
+        "handle": "ASN-STBANK-BY"
+    },
+    "215272": {
+        "country_code": "BY",
+        "asn": "215272",
+        "description": "Yedinyye Resheniya LLC",
+        "handle": "CLOUDVPS-AS"
+    }
+}

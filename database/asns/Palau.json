@@ -1,0 +1,26 @@
+{
+    "17893": {
+        "country_code": "PW",
+        "asn": "17893",
+        "description": "Palau National Communications Corporation",
+        "handle": "PALAU-AS-AP"
+    },
+    "58932": {
+        "country_code": "PW",
+        "asn": "58932",
+        "description": "Palau Mobile Communications Inc.",
+        "handle": "PMCI-AS-AP"
+    },
+    "133897": {
+        "country_code": "PW",
+        "asn": "133897",
+        "description": "Palau Equipment Co. Inc.",
+        "handle": "PEACCDPT-AS-AP"
+    },
+    "214652": {
+        "country_code": "PW",
+        "asn": "214652",
+        "description": "ANQI CHEN",
+        "handle": "BUSAN-FIBRES"
+    }
+}

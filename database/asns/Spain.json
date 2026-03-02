@@ -1,0 +1,6962 @@
+{
+    "711": {
+        "country_code": "ES",
+        "asn": "711",
+        "description": "Torrejon Air Base",
+        "handle": "SB-COMM-AS"
+    },
+    "766": {
+        "country_code": "ES",
+        "asn": "766",
+        "description": "Entidad Publica Empresarial Red.es",
+        "handle": "REDIRIS"
+    },
+    "2114": {
+        "country_code": "ES",
+        "asn": "2114",
+        "description": "ESCUELAS DE ESTUDIOS SUPERIORES ESIC SACERDOTES DEL CORAZON DE JESUS PADRES REPARADORES",
+        "handle": "ESIC"
+    },
+    "2134": {
+        "country_code": "ES",
+        "asn": "2134",
+        "description": "Santander Global Technology and Operations S.L.",
+        "handle": "GSVNET-AS"
+    },
+    "2606": {
+        "country_code": "ES",
+        "asn": "2606",
+        "description": "Wifiber.es SL",
+        "handle": "WIFIBERES"
+    },
+    "3262": {
+        "country_code": "ES",
+        "asn": "3262",
+        "description": "SAREnet S.A.",
+        "handle": "SARENET"
+    },
+    "3273": {
+        "country_code": "ES",
+        "asn": "3273",
+        "description": "VODAFONE ONO S.A.",
+        "handle": "ONO-AS"
+    },
+    "3324": {
+        "country_code": "ES",
+        "asn": "3324",
+        "description": "Fujitsu Technology Solutions S.A.",
+        "handle": "AS3324-FUJITSU-SPAIN"
+    },
+    "3339": {
+        "country_code": "ES",
+        "asn": "3339",
+        "description": "FIBRAWORLD TELECOM S.A.U.",
+        "handle": "FIBRAWORLD-AS"
+    },
+    "3348": {
+        "country_code": "ES",
+        "asn": "3348",
+        "description": "AVATEL TELECOM SA",
+        "handle": "AS-AVATEL"
+    },
+    "3352": {
+        "country_code": "ES",
+        "asn": "3352",
+        "description": "TELEFONICA DE ESPANA S.A.U.",
+        "handle": "TELEFONICA-DE-ESPANA"
+    },
+    "5505": {
+        "country_code": "ES",
+        "asn": "5505",
+        "description": "VADAVO SOLUCIONES SL",
+        "handle": "VADAVO"
+    },
+    "6739": {
+        "country_code": "ES",
+        "asn": "6739",
+        "description": "VODAFONE ONO S.A.",
+        "handle": "ONO-AS"
+    },
+    "6750": {
+        "country_code": "ES",
+        "asn": "6750",
+        "description": "Soluciones Dinamicas de la Red S.L.",
+        "handle": "SDR"
+    },
+    "6813": {
+        "country_code": "ES",
+        "asn": "6813",
+        "description": "TELEFONICA DE ESPANA S.A.U.",
+        "handle": "FLEXNET"
+    },
+    "6895": {
+        "country_code": "ES",
+        "asn": "6895",
+        "description": "ASOCIACION ESPANIX",
+        "handle": "ESPANIX-RS-AS"
+    },
+    "8216": {
+        "country_code": "ES",
+        "asn": "8216",
+        "description": "INDRA SISTEMAS S.A.",
+        "handle": "INDRA-SISTEMAS-SA"
+    },
+    "8239": {
+        "country_code": "ES",
+        "asn": "8239",
+        "description": "LYNTIA NETWORKS S.A.",
+        "handle": "NEXTLEVEL-CONNECTIVITY-ISP"
+    },
+    "8311": {
+        "country_code": "ES",
+        "asn": "8311",
+        "description": "Redestel Networks S.L.",
+        "handle": "REDESTEL"
+    },
+    "8318": {
+        "country_code": "ES",
+        "asn": "8318",
+        "description": "CEMEX ESPANA S.A.",
+        "handle": "CMX-AS"
+    },
+    "8637": {
+        "country_code": "ES",
+        "asn": "8637",
+        "description": "SpainWISP S.L.",
+        "handle": "SPAINWISP"
+    },
+    "8903": {
+        "country_code": "ES",
+        "asn": "8903",
+        "description": "LYNTIA NETWORKS S.A.",
+        "handle": "AS8903"
+    },
+    "9052": {
+        "country_code": "ES",
+        "asn": "9052",
+        "description": "Unidad Editorial SA",
+        "handle": "UNIDAD-EDITORIAL-SA"
+    },
+    "9075": {
+        "country_code": "ES",
+        "asn": "9075",
+        "description": "Unidad Editorial SA",
+        "handle": "RECOLETOS"
+    },
+    "9094": {
+        "country_code": "ES",
+        "asn": "9094",
+        "description": "LYNTIA NETWORKS S.A.",
+        "handle": "LYNTIA-MSP-INTERNAL"
+    },
+    "9165": {
+        "country_code": "ES",
+        "asn": "9165",
+        "description": "PROSODIE IBERICA SL",
+        "handle": "PROSODIEIBERICA-AS"
+    },
+    "9192": {
+        "country_code": "ES",
+        "asn": "9192",
+        "description": "LleidaNetworks Serveis Telematics S.A.",
+        "handle": "LLEIDANET"
+    },
+    "12319": {
+        "country_code": "ES",
+        "asn": "12319",
+        "description": "Informatika Zerbitzuen Foru Elkartea Sociedad Foral de Servicios Informaticos SA",
+        "handle": "IZFE-AS"
+    },
+    "12321": {
+        "country_code": "ES",
+        "asn": "12321",
+        "description": "XTRA TELECOM S.A.",
+        "handle": "ES-IBERCOMTELECOM-BACKBONE"
+    },
+    "12334": {
+        "country_code": "ES",
+        "asn": "12334",
+        "description": "R Cable y Telecable Telecomunicaciones S.A.U.",
+        "handle": "R-CABLE-Y"
+    },
+    "12338": {
+        "country_code": "ES",
+        "asn": "12338",
+        "description": "Euskaltel S.A.",
+        "handle": "EUSKALTEL"
+    },
+    "12357": {
+        "country_code": "ES",
+        "asn": "12357",
+        "description": "VODAFONE ESPANA S.A.U.",
+        "handle": "COMUNITEL"
+    },
+    "12367": {
+        "country_code": "ES",
+        "asn": "12367",
+        "description": "VERIZON SPAIN S.L.",
+        "handle": "VERIZON-ES"
+    },
+    "12386": {
+        "country_code": "ES",
+        "asn": "12386",
+        "description": "Orange Espagne SA",
+        "handle": "ASALPI"
+    },
+    "12430": {
+        "country_code": "ES",
+        "asn": "12430",
+        "description": "VODAFONE ESPANA S.A.U.",
+        "handle": "VODAFONE-ES"
+    },
+    "12462": {
+        "country_code": "ES",
+        "asn": "12462",
+        "description": "Evolutio Cloud Enabler S.A. Unipersonal",
+        "handle": "ECE-MAD-DATA"
+    },
+    "12479": {
+        "country_code": "ES",
+        "asn": "12479",
+        "description": "Orange Espagne SA",
+        "handle": "UNI2-AS"
+    },
+    "12521": {
+        "country_code": "ES",
+        "asn": "12521",
+        "description": "Nova Internet S.L.",
+        "handle": "NOVA-INTERNET-AS12521"
+    },
+    "12540": {
+        "country_code": "ES",
+        "asn": "12540",
+        "description": "IdecNet S.A.",
+        "handle": "IDECNET-AS"
+    },
+    "12541": {
+        "country_code": "ES",
+        "asn": "12541",
+        "description": "LYNTIA NETWORKS S.A.",
+        "handle": "LYNTIA-BB-AS"
+    },
+    "12569": {
+        "country_code": "ES",
+        "asn": "12569",
+        "description": "Instrumentacion y Componentes SA",
+        "handle": "INYCOM"
+    },
+    "12715": {
+        "country_code": "ES",
+        "asn": "12715",
+        "description": "Orange Espagne SA",
+        "handle": "JAZZNET"
+    },
+    "12924": {
+        "country_code": "ES",
+        "asn": "12924",
+        "description": "Gamma UCaaS Comercializadora S.L.U.",
+        "handle": "VIAES-AS"
+    },
+    "12946": {
+        "country_code": "ES",
+        "asn": "12946",
+        "description": "R Cable y Telecable Telecomunicaciones S.A.U.",
+        "handle": "TELECABLE"
+    },
+    "12956": {
+        "country_code": "ES",
+        "asn": "12956",
+        "description": "TELEFONICA GLOBAL SOLUTIONS SL",
+        "handle": "TELXIUS"
+    },
+    "13041": {
+        "country_code": "ES",
+        "asn": "13041",
+        "description": "Consorci de Serveis Universitaris de Catalunya",
+        "handle": "CESCA-AC"
+    },
+    "13137": {
+        "country_code": "ES",
+        "asn": "13137",
+        "description": "AGENCIA EFE SA",
+        "handle": "AGENCIAEFE-AS"
+    },
+    "13186": {
+        "country_code": "ES",
+        "asn": "13186",
+        "description": "Evolutio Cloud Enabler S.A. Unipersonal",
+        "handle": "ECE-BCN-DATA"
+    },
+    "13195": {
+        "country_code": "ES",
+        "asn": "13195",
+        "description": "Ingenieria y Economia del Transporte S.A",
+        "handle": "INECO"
+    },
+    "13287": {
+        "country_code": "ES",
+        "asn": "13287",
+        "description": "FALBOX S.L. trading as NIXVAL",
+        "handle": "NIXVAL"
+    },
+    "15364": {
+        "country_code": "ES",
+        "asn": "15364",
+        "description": "Tecavicas S.L.",
+        "handle": "ASN-TECAVICAS"
+    },
+    "15450": {
+        "country_code": "ES",
+        "asn": "15450",
+        "description": "Alhambra Systems SA",
+        "handle": "ALHAMBRA"
+    },
+    "15488": {
+        "country_code": "ES",
+        "asn": "15488",
+        "description": "Universidad del Pais Vasco - Euskal Herriko Unibertsitatea",
+        "handle": "UPV-EHU"
+    },
+    "15548": {
+        "country_code": "ES",
+        "asn": "15548",
+        "description": "Cajamar Caja Rural Sociedad Cooperativa de Credito",
+        "handle": "CCR-AS"
+    },
+    "15608": {
+        "country_code": "ES",
+        "asn": "15608",
+        "description": "Banco Inversis S.A.",
+        "handle": "BANCO-INVERSIS-SA"
+    },
+    "15616": {
+        "country_code": "ES",
+        "asn": "15616",
+        "description": "XTRA TELECOM S.A.",
+        "handle": "ES-IBERCOMTELECOM-BACKBONE"
+    },
+    "15630": {
+        "country_code": "ES",
+        "asn": "15630",
+        "description": "Universidad Nacional de Educacion a Distancia - UNED",
+        "handle": "UNED"
+    },
+    "15633": {
+        "country_code": "ES",
+        "asn": "15633",
+        "description": "Universitat Oberta de Catalunya",
+        "handle": "UOC-AS"
+    },
+    "15699": {
+        "country_code": "ES",
+        "asn": "15699",
+        "description": "Adam EcoTech S.A",
+        "handle": "AS-ADAM"
+    },
+    "15704": {
+        "country_code": "ES",
+        "asn": "15704",
+        "description": "XTRA TELECOM S.A.",
+        "handle": "AS15704"
+    },
+    "15711": {
+        "country_code": "ES",
+        "asn": "15711",
+        "description": "Iberdrola S.A.",
+        "handle": "IBERDROLA"
+    },
+    "15734": {
+        "country_code": "ES",
+        "asn": "15734",
+        "description": "EQUINIX (SPAIN) ENTERPRISES SLU",
+        "handle": "EQUINIX-CONNECT-IBERIA"
+    },
+    "15810": {
+        "country_code": "ES",
+        "asn": "15810",
+        "description": "Banco Bilbao Vizcaya Argentaria S.A.",
+        "handle": "BBVA-AS"
+    },
+    "15915": {
+        "country_code": "ES",
+        "asn": "15915",
+        "description": "MASMOVIL IBERCOM SA",
+        "handle": "IBERCOM"
+    },
+    "15919": {
+        "country_code": "ES",
+        "asn": "15919",
+        "description": "Servicios de Hosting en Internet S.A.",
+        "handle": "INTERHOST"
+    },
+    "15937": {
+        "country_code": "ES",
+        "asn": "15937",
+        "description": "ADIF",
+        "handle": "ADIF"
+    },
+    "15954": {
+        "country_code": "ES",
+        "asn": "15954",
+        "description": "Tecnocratica Centro de Datos S.L.",
+        "handle": "TECNOCRATICA"
+    },
+    "16003": {
+        "country_code": "ES",
+        "asn": "16003",
+        "description": "Fornex Hosting S.L.",
+        "handle": "FORNEX-NL-AS"
+    },
+    "16030": {
+        "country_code": "ES",
+        "asn": "16030",
+        "description": "FIBRACAT Telecom S.L.U.",
+        "handle": "ALTECOM"
+    },
+    "16039": {
+        "country_code": "ES",
+        "asn": "16039",
+        "description": "Knet Comunicaciones S.L.",
+        "handle": "KNET"
+    },
+    "16085": {
+        "country_code": "ES",
+        "asn": "16085",
+        "description": "Bolsas y Mercados Espanoles Inntech SA",
+        "handle": "ASN-INFOBOLSA"
+    },
+    "16091": {
+        "country_code": "ES",
+        "asn": "16091",
+        "description": "SISTEMAS AVANZADOS DE TECNOLOGIA SA",
+        "handle": "SATEC"
+    },
+    "16134": {
+        "country_code": "ES",
+        "asn": "16134",
+        "description": "Tecnocratica Centro de Datos S.L.",
+        "handle": "TECNOCRATICA-ANYCAST"
+    },
+    "16153": {
+        "country_code": "ES",
+        "asn": "16153",
+        "description": "Servei Catala de la Salut",
+        "handle": "SCS-AS"
+    },
+    "16168": {
+        "country_code": "ES",
+        "asn": "16168",
+        "description": "GENETSIS PARTNERS SL",
+        "handle": "GENETSIS"
+    },
+    "16203": {
+        "country_code": "ES",
+        "asn": "16203",
+        "description": "NCG Banco SA",
+        "handle": "NCG-BANCO-SA"
+    },
+    "16206": {
+        "country_code": "ES",
+        "asn": "16206",
+        "description": "XFERA Moviles S.A.",
+        "handle": "ABRARED"
+    },
+    "16299": {
+        "country_code": "ES",
+        "asn": "16299",
+        "description": "XFERA Moviles S.A.",
+        "handle": "XFERA"
+    },
+    "16338": {
+        "country_code": "ES",
+        "asn": "16338",
+        "description": "VODAFONE ONO S.A.",
+        "handle": "ONO-AS2"
+    },
+    "16371": {
+        "country_code": "ES",
+        "asn": "16371",
+        "description": "acens Technologies S.L.",
+        "handle": "ACENS-AS"
+    },
+    "16373": {
+        "country_code": "ES",
+        "asn": "16373",
+        "description": "MOEVE SA",
+        "handle": "MOEVE"
+    },
+    "16383": {
+        "country_code": "ES",
+        "asn": "16383",
+        "description": "IT Now S.A.",
+        "handle": "LACAIXA-AS"
+    },
+    "20693": {
+        "country_code": "ES",
+        "asn": "20693",
+        "description": "Nunsys SA",
+        "handle": "INTERNET-XPRESS-AS"
+    },
+    "20718": {
+        "country_code": "ES",
+        "asn": "20718",
+        "description": "ARSYS INTERNET S.L.U.",
+        "handle": "AS-ARSYS-EURO-1"
+    },
+    "20748": {
+        "country_code": "ES",
+        "asn": "20748",
+        "description": "Caixabank S.A.",
+        "handle": "CAIXABANK"
+    },
+    "20760": {
+        "country_code": "ES",
+        "asn": "20760",
+        "description": "Santander Global Technology and Operations S.L.",
+        "handle": "EUROCIBER-AS"
+    },
+    "20784": {
+        "country_code": "ES",
+        "asn": "20784",
+        "description": "Cecabank S.A.",
+        "handle": "CECA-AS"
+    },
+    "20815": {
+        "country_code": "ES",
+        "asn": "20815",
+        "description": "GRN Serveis Telematics SL",
+        "handle": "GRN-AS"
+    },
+    "20838": {
+        "country_code": "ES",
+        "asn": "20838",
+        "description": "Orange Espagne SA",
+        "handle": "YIF-AS"
+    },
+    "20869": {
+        "country_code": "ES",
+        "asn": "20869",
+        "description": "Claranet S.A.U.",
+        "handle": "CLARANET-SPAIN"
+    },
+    "20905": {
+        "country_code": "ES",
+        "asn": "20905",
+        "description": "Banco de Espana",
+        "handle": "BANCOESPANAAS"
+    },
+    "20906": {
+        "country_code": "ES",
+        "asn": "20906",
+        "description": "Allianz Compania De Seguros y Reaseguros SA",
+        "handle": "ALLIANZ-AS"
+    },
+    "20921": {
+        "country_code": "ES",
+        "asn": "20921",
+        "description": "Orange Espagne SA",
+        "handle": "AMENA-AS"
+    },
+    "20973": {
+        "country_code": "ES",
+        "asn": "20973",
+        "description": "ABBAS SERVICIOS DE INFORMATICA Y TELECOMUNICACIONES S.L.",
+        "handle": "ABBAS-AS"
+    },
+    "21009": {
+        "country_code": "ES",
+        "asn": "21009",
+        "description": "APPLus Servicios Tecnologicos S.L.",
+        "handle": "APPLUS-SERVICIOS-TECNOLOGICOS-SL"
+    },
+    "21057": {
+        "country_code": "ES",
+        "asn": "21057",
+        "description": "Servicios Audiovisuales Overon S.L.",
+        "handle": "OVERON-SPAIN-AS"
+    },
+    "21193": {
+        "country_code": "ES",
+        "asn": "21193",
+        "description": "Centre de Telecomunicacions i Tecnologies de la Informacio de la Generalitat de Catalunya",
+        "handle": "XARXA-AS"
+    },
+    "21364": {
+        "country_code": "ES",
+        "asn": "21364",
+        "description": "Lantik S.A. M.P.",
+        "handle": "LANTIK-AS"
+    },
+    "24580": {
+        "country_code": "ES",
+        "asn": "24580",
+        "description": "SUPSA SUPERMERCATS PUJOL SL",
+        "handle": "SUPSA"
+    },
+    "24592": {
+        "country_code": "ES",
+        "asn": "24592",
+        "description": "ECONOCOM CLOUD SL",
+        "handle": "NEXICA-AS"
+    },
+    "24624": {
+        "country_code": "ES",
+        "asn": "24624",
+        "description": "Oesia Networks SL",
+        "handle": "IASOFT-AS"
+    },
+    "24654": {
+        "country_code": "ES",
+        "asn": "24654",
+        "description": "Orange Espagne SA",
+        "handle": "ORANGE-MOVILWEB21-AS"
+    },
+    "24772": {
+        "country_code": "ES",
+        "asn": "24772",
+        "description": "FACTORIA PRISA NOTICIAS S.L. Sociedad Unipersonal",
+        "handle": "ASIP-AIE-AS"
+    },
+    "24799": {
+        "country_code": "ES",
+        "asn": "24799",
+        "description": "Desarrollo de la Tecnologia de las Comunicaciones S.C.A.",
+        "handle": "DTI2-AS"
+    },
+    "24830": {
+        "country_code": "ES",
+        "asn": "24830",
+        "description": "CIRCUITOS ALJARAFE S.L.",
+        "handle": "INTEREC-AS"
+    },
+    "24920": {
+        "country_code": "ES",
+        "asn": "24920",
+        "description": "Sociedad Estatal de Loterias y Apuestas del Estado SME SA",
+        "handle": "SOCIEDAD-ESTATAL-DE-LOTERIAS"
+    },
+    "25247": {
+        "country_code": "ES",
+        "asn": "25247",
+        "description": "IBERCAJA BANCO SA",
+        "handle": "IBERCAJA-AS"
+    },
+    "25259": {
+        "country_code": "ES",
+        "asn": "25259",
+        "description": "Servicios Audiovisuales Overon S.L.",
+        "handle": "MDCLOUD-ES"
+    },
+    "25261": {
+        "country_code": "ES",
+        "asn": "25261",
+        "description": "IBERIA LINEAS AEREAS DE ESPANA SOCIEDAD ANONIMA OPERADORA",
+        "handle": "IBERIA"
+    },
+    "25267": {
+        "country_code": "ES",
+        "asn": "25267",
+        "description": "Colegio de Registradores de la Propiedad y Mercantiles de Espana",
+        "handle": "CORPME-AS"
+    },
+    "25285": {
+        "country_code": "ES",
+        "asn": "25285",
+        "description": "Boletin Oficial del Estado",
+        "handle": "BOE-AS"
+    },
+    "25297": {
+        "country_code": "ES",
+        "asn": "25297",
+        "description": "COMSA CORPORACION DE INFRAESTRUCTURAS SL",
+        "handle": "COMSA-AS"
+    },
+    "25354": {
+        "country_code": "ES",
+        "asn": "25354",
+        "description": "Entidad Publica Empresarial Red.es",
+        "handle": "RED-ES-AS"
+    },
+    "25356": {
+        "country_code": "ES",
+        "asn": "25356",
+        "description": "SECURITAS DIRECT ESPANA S.A.U.",
+        "handle": "SECURITAS-DIRECT-AS"
+    },
+    "25363": {
+        "country_code": "ES",
+        "asn": "25363",
+        "description": "Adevinta Information Services S.L.",
+        "handle": "ASN-SEGUNDAMANO"
+    },
+    "25412": {
+        "country_code": "ES",
+        "asn": "25412",
+        "description": "CORPORACIO CATALANA DE MITJANS AUDIOVISUALS S.A.",
+        "handle": "CCMA-AS"
+    },
+    "25479": {
+        "country_code": "ES",
+        "asn": "25479",
+        "description": "IT Now S.A.",
+        "handle": "IC2-AS"
+    },
+    "25487": {
+        "country_code": "ES",
+        "asn": "25487",
+        "description": "Digital Value SL",
+        "handle": "DIGITALVALUE-AS"
+    },
+    "25508": {
+        "country_code": "ES",
+        "asn": "25508",
+        "description": "ARQUIA BANK SA.",
+        "handle": "ARQUIRED-AS"
+    },
+    "25544": {
+        "country_code": "ES",
+        "asn": "25544",
+        "description": "Eroski Scoop",
+        "handle": "EROSKI"
+    },
+    "25589": {
+        "country_code": "ES",
+        "asn": "25589",
+        "description": "IPv6 Informatica S.L.",
+        "handle": "IPV6INFORMATICA"
+    },
+    "28935": {
+        "country_code": "ES",
+        "asn": "28935",
+        "description": "ODEC CENTRO DE CALCULO Y APLICACIONES INFORMATICAS S.A.",
+        "handle": "ODEC-ES-AS"
+    },
+    "28971": {
+        "country_code": "ES",
+        "asn": "28971",
+        "description": "D-MOBILELAB SPAIN S.A.",
+        "handle": "MEDIAFUSION-ES-AS"
+    },
+    "29109": {
+        "country_code": "ES",
+        "asn": "29109",
+        "description": "MEDIOS AVANZADOS DE CALCULO Y DISENO S.L.",
+        "handle": "MEDIOSAVANZADOS-AS"
+    },
+    "29117": {
+        "country_code": "ES",
+        "asn": "29117",
+        "description": "Asociacion IRC Hispano",
+        "handle": "CHATHISPANO"
+    },
+    "29119": {
+        "country_code": "ES",
+        "asn": "29119",
+        "description": "AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",
+        "handle": "SERVIHOSTING-AS"
+    },
+    "29231": {
+        "country_code": "ES",
+        "asn": "29231",
+        "description": "Grupalia Internet S.A.",
+        "handle": "GRUPALIA-AS"
+    },
+    "29269": {
+        "country_code": "ES",
+        "asn": "29269",
+        "description": "Cloud Global S.L.",
+        "handle": "CLOUDGLOBAL-AS"
+    },
+    "29337": {
+        "country_code": "ES",
+        "asn": "29337",
+        "description": "Dragonet Comunicaciones SL",
+        "handle": "DRAGONET-AS"
+    },
+    "29397": {
+        "country_code": "ES",
+        "asn": "29397",
+        "description": "ENTERPRISE SOLUTIONS OUTSOURCING ESPANA SL",
+        "handle": "HP-WEBVAULT"
+    },
+    "29464": {
+        "country_code": "ES",
+        "asn": "29464",
+        "description": "FILMAC Centre SL",
+        "handle": "FILMAC-ES-AS"
+    },
+    "29481": {
+        "country_code": "ES",
+        "asn": "29481",
+        "description": "Junta de Castilla y Leon",
+        "handle": "JCYL-AS"
+    },
+    "29612": {
+        "country_code": "ES",
+        "asn": "29612",
+        "description": "Promotora de Informaciones SA",
+        "handle": "PRISANET-AS"
+    },
+    "29661": {
+        "country_code": "ES",
+        "asn": "29661",
+        "description": "AGENCIA NOTARIAL DE CERTIFICACION S.L",
+        "handle": "ANCERT-AS"
+    },
+    "29680": {
+        "country_code": "ES",
+        "asn": "29680",
+        "description": "Gamma Operadora de Comunicaciones S.A.",
+        "handle": "VOZTELECOM"
+    },
+    "30846": {
+        "country_code": "ES",
+        "asn": "30846",
+        "description": "MAPFRE TECH SA",
+        "handle": "MAPFRE-AS"
+    },
+    "30892": {
+        "country_code": "ES",
+        "asn": "30892",
+        "description": "DEUTSCHE TELEKOM GLOBAL BUSINESS SOLUTIONS IBERIA SL",
+        "handle": "DTGBS-IBERIA"
+    },
+    "30937": {
+        "country_code": "ES",
+        "asn": "30937",
+        "description": "Walhalla Data Center Services SL",
+        "handle": "WALHALLA-AS30937"
+    },
+    "30939": {
+        "country_code": "ES",
+        "asn": "30939",
+        "description": "INGENIERIA DE SISTEMAS PARA LA DEFENSA DE ESPANA SA",
+        "handle": "ISDEFE-AS"
+    },
+    "31082": {
+        "country_code": "ES",
+        "asn": "31082",
+        "description": "Valor Information Technologies S.L.",
+        "handle": "AS-KUALI-DIGITAL"
+    },
+    "31164": {
+        "country_code": "ES",
+        "asn": "31164",
+        "description": "ESTEVE PHARMACEUTICALS SA",
+        "handle": "LABESTEVE-AS"
+    },
+    "31249": {
+        "country_code": "ES",
+        "asn": "31249",
+        "description": "Instituto de Empresa S.L.",
+        "handle": "IEMPRESA-ES-AS"
+    },
+    "31262": {
+        "country_code": "ES",
+        "asn": "31262",
+        "description": "EDICOM CAPITAL S.L.",
+        "handle": "EDICOM"
+    },
+    "31332": {
+        "country_code": "ES",
+        "asn": "31332",
+        "description": "Industria de Turbo Propulsores S.A.",
+        "handle": "INDUSTRIA-DE-TURBO-PROPULSORES-AS"
+    },
+    "31346": {
+        "country_code": "ES",
+        "asn": "31346",
+        "description": "Datadec Online S.A.",
+        "handle": "DDOL-AS"
+    },
+    "31418": {
+        "country_code": "ES",
+        "asn": "31418",
+        "description": "Telefonica Audiovisual Digital S.L.U.",
+        "handle": "TELEFONICA-AUDIOVISUAL-DIGITAL"
+    },
+    "31428": {
+        "country_code": "ES",
+        "asn": "31428",
+        "description": "Compania De Distribucion Integral Logista SA",
+        "handle": "LOGISTA-ES-AS"
+    },
+    "31479": {
+        "country_code": "ES",
+        "asn": "31479",
+        "description": "Valor Information Technologies S.L.",
+        "handle": "ES-IPORIUM-AS"
+    },
+    "31577": {
+        "country_code": "ES",
+        "asn": "31577",
+        "description": "AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",
+        "handle": "PRORED"
+    },
+    "31627": {
+        "country_code": "ES",
+        "asn": "31627",
+        "description": "REDSYS SERVICIOS DE PROCESAMIENTO SL",
+        "handle": "REDSYS-ES-AS"
+    },
+    "31653": {
+        "country_code": "ES",
+        "asn": "31653",
+        "description": "Servatica Technologies S.L.",
+        "handle": "SERVATICA-AS"
+    },
+    "31676": {
+        "country_code": "ES",
+        "asn": "31676",
+        "description": "Software Product Creation SL",
+        "handle": "PENTALOG-AS"
+    },
+    "33932": {
+        "country_code": "ES",
+        "asn": "33932",
+        "description": "Minorisa de Sistemas Informaticos y de Gestion S.L.",
+        "handle": "EVERYWAN-AS"
+    },
+    "34114": {
+        "country_code": "ES",
+        "asn": "34114",
+        "description": "Consorcio de la Zona Franca de Cadiz",
+        "handle": "ZONA-FRANCA-CADIZ-AS"
+    },
+    "34285": {
+        "country_code": "ES",
+        "asn": "34285",
+        "description": "Sociedad Andaluza para el Desarrollo de las Telecomunicaciones S.A. Medio Propio",
+        "handle": "JJAA-AS"
+    },
+    "34471": {
+        "country_code": "ES",
+        "asn": "34471",
+        "description": "Free Technologies Excom S.L.",
+        "handle": "EXCOM-AS"
+    },
+    "34511": {
+        "country_code": "ES",
+        "asn": "34511",
+        "description": "Fundacion Integra",
+        "handle": "F-INTEGRA-AS"
+    },
+    "34696": {
+        "country_code": "ES",
+        "asn": "34696",
+        "description": "MISMELINK NETWORKS SL",
+        "handle": "AS-MISMELINK"
+    },
+    "34760": {
+        "country_code": "ES",
+        "asn": "34760",
+        "description": "Internet Applications and Resources S.L.",
+        "handle": "N2000-AS"
+    },
+    "34952": {
+        "country_code": "ES",
+        "asn": "34952",
+        "description": "EQUINIX (SPAIN) ENTERPRISES SLU",
+        "handle": "EQUINIX-CLOUD-EXCHANGE-BA-ASN"
+    },
+    "34977": {
+        "country_code": "ES",
+        "asn": "34977",
+        "description": "PROCONO S.A.",
+        "handle": "PROCONO-AS"
+    },
+    "35153": {
+        "country_code": "ES",
+        "asn": "35153",
+        "description": "Free Technologies Excom S.L.",
+        "handle": "ES-ONDAWIFI-AS"
+    },
+    "35167": {
+        "country_code": "ES",
+        "asn": "35167",
+        "description": "Promocion Tecnologica y Comercial S.A.",
+        "handle": "PROTEC"
+    },
+    "35171": {
+        "country_code": "ES",
+        "asn": "35171",
+        "description": "Uniway Technologies SL",
+        "handle": "UNIWAY-AS"
+    },
+    "35264": {
+        "country_code": "ES",
+        "asn": "35264",
+        "description": "Gobierno de Cantabria",
+        "handle": "GOBIERNOCANTABRIA-AS"
+    },
+    "35394": {
+        "country_code": "ES",
+        "asn": "35394",
+        "description": "Cable Aireworld S.A.U.",
+        "handle": "CABLEAIREWORLD-AS"
+    },
+    "35404": {
+        "country_code": "ES",
+        "asn": "35404",
+        "description": "AVATEL TELECOM SA",
+        "handle": "AS-TELEPITU"
+    },
+    "35454": {
+        "country_code": "ES",
+        "asn": "35454",
+        "description": "Asitur Asistencia S.A.",
+        "handle": "ASITUR-AS"
+    },
+    "35461": {
+        "country_code": "ES",
+        "asn": "35461",
+        "description": "ACCIONA S.A.",
+        "handle": "ACCIONA-AS"
+    },
+    "35486": {
+        "country_code": "ES",
+        "asn": "35486",
+        "description": "AXENTIO SL",
+        "handle": "CORDOBADATACENTER"
+    },
+    "35699": {
+        "country_code": "ES",
+        "asn": "35699",
+        "description": "Adamo Telecom Iberia S.A.",
+        "handle": "ADAMOEU-AS"
+    },
+    "35700": {
+        "country_code": "ES",
+        "asn": "35700",
+        "description": "Bilbao Bizkaia Kutxa",
+        "handle": "BBK"
+    },
+    "39020": {
+        "country_code": "ES",
+        "asn": "39020",
+        "description": "Comvive Servidores S.L.",
+        "handle": "COMVIVE-AS"
+    },
+    "39069": {
+        "country_code": "ES",
+        "asn": "39069",
+        "description": "Comunidad Autonoma de la Region de Murcia",
+        "handle": "CARM"
+    },
+    "39141": {
+        "country_code": "ES",
+        "asn": "39141",
+        "description": "Excma. Diputacion Provincial de Malaga",
+        "handle": "DIPUTACION-DE-MALAGA"
+    },
+    "39144": {
+        "country_code": "ES",
+        "asn": "39144",
+        "description": "Redes Digitales de Telecomunicacion en Internet SL",
+        "handle": "ARAGON-AS"
+    },
+    "39155": {
+        "country_code": "ES",
+        "asn": "39155",
+        "description": "JETNET WIMAX S.A",
+        "handle": "JETNET"
+    },
+    "39263": {
+        "country_code": "ES",
+        "asn": "39263",
+        "description": "Ilimit Comunicacions S.L.",
+        "handle": "ILIMIT"
+    },
+    "39281": {
+        "country_code": "ES",
+        "asn": "39281",
+        "description": "AVATEL TELECOM SA",
+        "handle": "ANS-AVATELTELECOM"
+    },
+    "39316": {
+        "country_code": "ES",
+        "asn": "39316",
+        "description": "Newry Global Media SLU",
+        "handle": "ZED"
+    },
+    "39328": {
+        "country_code": "ES",
+        "asn": "39328",
+        "description": "SISNET NUEVAS TECNOLOGIAS S.L.",
+        "handle": "SISNET"
+    },
+    "39339": {
+        "country_code": "ES",
+        "asn": "39339",
+        "description": "FIBRAWORLD TELECOM S.A.U.",
+        "handle": "TELEYECLA-AS"
+    },
+    "39353": {
+        "country_code": "ES",
+        "asn": "39353",
+        "description": "Gobierno del Principado de Asturias",
+        "handle": "PRINCAST-AS"
+    },
+    "39398": {
+        "country_code": "ES",
+        "asn": "39398",
+        "description": "ARSENET SERVICIOS EN INTERNET S.L.",
+        "handle": "ARSENET-AS39398"
+    },
+    "39447": {
+        "country_code": "ES",
+        "asn": "39447",
+        "description": "ZERTIA TELECOMUNICACIONES S.L.",
+        "handle": "ZERTIA-AS"
+    },
+    "39536": {
+        "country_code": "ES",
+        "asn": "39536",
+        "description": "BO ICT Management S.L.",
+        "handle": "BOTIC"
+    },
+    "39551": {
+        "country_code": "ES",
+        "asn": "39551",
+        "description": "Centre de Telecomunicacions i Tecnologies de la Informacio de la Generalitat de Catalunya",
+        "handle": "GENCAT-AS"
+    },
+    "39639": {
+        "country_code": "ES",
+        "asn": "39639",
+        "description": "Valor Information Technologies S.L.",
+        "handle": "AS-FFERNANDEZ"
+    },
+    "39640": {
+        "country_code": "ES",
+        "asn": "39640",
+        "description": "Valor Information Technologies S.L.",
+        "handle": "AS-AVEASCO"
+    },
+    "39691": {
+        "country_code": "ES",
+        "asn": "39691",
+        "description": "Global Digital Network S.L.",
+        "handle": "GDNET"
+    },
+    "39738": {
+        "country_code": "ES",
+        "asn": "39738",
+        "description": "Telecom Castilla La Mancha SA",
+        "handle": "TCLM-AS"
+    },
+    "39744": {
+        "country_code": "ES",
+        "asn": "39744",
+        "description": "AVATEL TELECOM SA",
+        "handle": "AVATELTELECOM"
+    },
+    "39780": {
+        "country_code": "ES",
+        "asn": "39780",
+        "description": "Indra Soluciones Tecnologias de la Informacion SL",
+        "handle": "TECNOCOM-NET"
+    },
+    "39827": {
+        "country_code": "ES",
+        "asn": "39827",
+        "description": "Valor Information Technologies S.L.",
+        "handle": "AS-ALAMEDA"
+    },
+    "39831": {
+        "country_code": "ES",
+        "asn": "39831",
+        "description": "Valor Information Technologies S.L.",
+        "handle": "VALORIT"
+    },
+    "39838": {
+        "country_code": "ES",
+        "asn": "39838",
+        "description": "Valor Information Technologies S.L.",
+        "handle": "AS-PEERING-LATAM"
+    },
+    "40973": {
+        "country_code": "ES",
+        "asn": "40973",
+        "description": "Junta de Comunidades de Castilla-La Mancha",
+        "handle": "JCCM"
+    },
+    "40996": {
+        "country_code": "ES",
+        "asn": "40996",
+        "description": "AVATEL TELECOM SA",
+        "handle": "AS-KEYFIBRE"
+    },
+    "41072": {
+        "country_code": "ES",
+        "asn": "41072",
+        "description": "Fabrica Nacional de Moneda y Timbre",
+        "handle": "FNMT"
+    },
+    "41287": {
+        "country_code": "ES",
+        "asn": "41287",
+        "description": "Adjenet Networks SL",
+        "handle": "IPEOPLE"
+    },
+    "41343": {
+        "country_code": "ES",
+        "asn": "41343",
+        "description": "Free Technologies Excom S.L.",
+        "handle": "TRIUNFOTEL-ASN"
+    },
+    "41368": {
+        "country_code": "ES",
+        "asn": "41368",
+        "description": "Spotting Brands Technologies S.L.",
+        "handle": "TVALMANSA-ASN"
+    },
+    "41397": {
+        "country_code": "ES",
+        "asn": "41397",
+        "description": "Redes Digitales de Telecomunicacion en Internet SL",
+        "handle": "REDESTEL-AS"
+    },
+    "41418": {
+        "country_code": "ES",
+        "asn": "41418",
+        "description": "AVATEL TELECOM SA",
+        "handle": "AS-SATELVEX"
+    },
+    "41531": {
+        "country_code": "ES",
+        "asn": "41531",
+        "description": "AVATEL TELECOM SA",
+        "handle": "AVATELTELECOM-ASN"
+    },
+    "41541": {
+        "country_code": "ES",
+        "asn": "41541",
+        "description": "sw hosting & communications technologies SL",
+        "handle": "SWHO-AS"
+    },
+    "41558": {
+        "country_code": "ES",
+        "asn": "41558",
+        "description": "Canal 2000 Comunicaciones S. L.",
+        "handle": "C2K-AS"
+    },
+    "41608": {
+        "country_code": "ES",
+        "asn": "41608",
+        "description": "NextGenWebs S.L.",
+        "handle": "NEXTGENWEBS-NL"
+    },
+    "41705": {
+        "country_code": "ES",
+        "asn": "41705",
+        "description": "Grupo Baladig SL",
+        "handle": "GRUPOBALADIG"
+    },
+    "41721": {
+        "country_code": "ES",
+        "asn": "41721",
+        "description": "Cartagon Cloud SL",
+        "handle": "CARTAGON"
+    },
+    "41876": {
+        "country_code": "ES",
+        "asn": "41876",
+        "description": "IGNACIO JOSE PLA CUCO",
+        "handle": "MOLTELECOM"
+    },
+    "41994": {
+        "country_code": "ES",
+        "asn": "41994",
+        "description": "ATRADIUS CREDITO Y CAUCION SA DE SEGUROS Y REASEGUROS",
+        "handle": "CREDITO-Y-CAUCION"
+    },
+    "42130": {
+        "country_code": "ES",
+        "asn": "42130",
+        "description": "RUIZ & COSTA INVERSIONES SL",
+        "handle": "FIBRAVALENCIA"
+    },
+    "42147": {
+        "country_code": "ES",
+        "asn": "42147",
+        "description": "Sociedad Estatal Correos y Telegrafos S.A.",
+        "handle": "CORREOS"
+    },
+    "42211": {
+        "country_code": "ES",
+        "asn": "42211",
+        "description": "Ministerio de Defensa",
+        "handle": "MDE-AS"
+    },
+    "42212": {
+        "country_code": "ES",
+        "asn": "42212",
+        "description": "NALANDA GLOBAL S.A.",
+        "handle": "BUILD2EDIFICA-AS"
+    },
+    "42220": {
+        "country_code": "ES",
+        "asn": "42220",
+        "description": "TREVENQUE SISTEMAS DE INFORMACION S.L.",
+        "handle": "SIAPI-AS"
+    },
+    "42229": {
+        "country_code": "ES",
+        "asn": "42229",
+        "description": "Cesar Maffini Martin",
+        "handle": "AS-IXPLAY-MAD-ES"
+    },
+    "42241": {
+        "country_code": "ES",
+        "asn": "42241",
+        "description": "Mairena del Aljarafe city council",
+        "handle": "SODEFESA"
+    },
+    "42325": {
+        "country_code": "ES",
+        "asn": "42325",
+        "description": "LYNTIA NETWORKS S.A.",
+        "handle": "UFINET"
+    },
+    "42329": {
+        "country_code": "ES",
+        "asn": "42329",
+        "description": "Aietes Telecom SL",
+        "handle": "ES-AITEL"
+    },
+    "42386": {
+        "country_code": "ES",
+        "asn": "42386",
+        "description": "EPRESA ENERGIA SA",
+        "handle": "ASEPRESA"
+    },
+    "42435": {
+        "country_code": "ES",
+        "asn": "42435",
+        "description": "Tecnicas Reunidas S.A.",
+        "handle": "ASTECNICASREUNIDAS"
+    },
+    "42493": {
+        "country_code": "ES",
+        "asn": "42493",
+        "description": "Lorca TV Sol S.L.",
+        "handle": "TELELORCA-AS"
+    },
+    "42612": {
+        "country_code": "ES",
+        "asn": "42612",
+        "description": "DinaHosting S.L.",
+        "handle": "DINAHOSTING-AS"
+    },
+    "42666": {
+        "country_code": "ES",
+        "asn": "42666",
+        "description": "Embou Nuevas Tecnologias SL",
+        "handle": "EMBOU"
+    },
+    "42722": {
+        "country_code": "ES",
+        "asn": "42722",
+        "description": "Grifols S.A.",
+        "handle": "GRIFOLS-AS"
+    },
+    "42749": {
+        "country_code": "ES",
+        "asn": "42749",
+        "description": "Dimension Virtual SL",
+        "handle": "DIVI-AS"
+    },
+    "42816": {
+        "country_code": "ES",
+        "asn": "42816",
+        "description": "FLUMOTION SERVICES S.A.",
+        "handle": "FLUMOTION"
+    },
+    "42820": {
+        "country_code": "ES",
+        "asn": "42820",
+        "description": "XFERA Moviles S.A.",
+        "handle": "ECONECTIA"
+    },
+    "42947": {
+        "country_code": "ES",
+        "asn": "42947",
+        "description": "Telfy Telecom S.L.",
+        "handle": "SKYNETLINK-AS"
+    },
+    "42976": {
+        "country_code": "ES",
+        "asn": "42976",
+        "description": "TELEFONICA INNOVACION DIGITAL SL",
+        "handle": "TELEFONICA"
+    },
+    "43115": {
+        "country_code": "ES",
+        "asn": "43115",
+        "description": "Consorci Institut de Fisica Altes Energies",
+        "handle": "PIC"
+    },
+    "43160": {
+        "country_code": "ES",
+        "asn": "43160",
+        "description": "AVATEL TELECOM SA",
+        "handle": "ES-MDC-DATACENTER"
+    },
+    "43388": {
+        "country_code": "ES",
+        "asn": "43388",
+        "description": "Avancem amb Voste S.L.",
+        "handle": "AVANCEM-AS"
+    },
+    "43419": {
+        "country_code": "ES",
+        "asn": "43419",
+        "description": "Valor Information Technologies S.L.",
+        "handle": "DIGITEL"
+    },
+    "43520": {
+        "country_code": "ES",
+        "asn": "43520",
+        "description": "Meytel Publicidad S.L.",
+        "handle": "MEYTEL-AS"
+    },
+    "43578": {
+        "country_code": "ES",
+        "asn": "43578",
+        "description": "TEMPLUS BARCELONA S.L.",
+        "handle": "BITNAP"
+    },
+    "43618": {
+        "country_code": "ES",
+        "asn": "43618",
+        "description": "INFORCELRA SL",
+        "handle": "ASN-INFORCELRA"
+    },
+    "43655": {
+        "country_code": "ES",
+        "asn": "43655",
+        "description": "SENER Mobility S.A.",
+        "handle": "SENERMOB"
+    },
+    "43697": {
+        "country_code": "ES",
+        "asn": "43697",
+        "description": "Govern de les Illes Balears",
+        "handle": "GOVERN-DE-LES-ILLES-BALEARS"
+    },
+    "43707": {
+        "country_code": "ES",
+        "asn": "43707",
+        "description": "Comision Nacional de los Mercados y la Competencia",
+        "handle": "CNENET"
+    },
+    "43747": {
+        "country_code": "ES",
+        "asn": "43747",
+        "description": "TELEVALENTIN S.L",
+        "handle": "ES-TELEVALENTIN-AS"
+    },
+    "43833": {
+        "country_code": "ES",
+        "asn": "43833",
+        "description": "OPEN CABLE TELECOMUNICACIONES S.L.",
+        "handle": "OPENCABLE-ASN"
+    },
+    "43885": {
+        "country_code": "ES",
+        "asn": "43885",
+        "description": "INSTAL MATEL SL",
+        "handle": "IMATEL"
+    },
+    "43919": {
+        "country_code": "ES",
+        "asn": "43919",
+        "description": "Alliance Healthcare Espana S.A.",
+        "handle": "SAFA-AS"
+    },
+    "43926": {
+        "country_code": "ES",
+        "asn": "43926",
+        "description": "Anxanet Operadors de Xarxes SL",
+        "handle": "ANXANET"
+    },
+    "44051": {
+        "country_code": "ES",
+        "asn": "44051",
+        "description": "Fornex Hosting S.L.",
+        "handle": "FORNEX-AS"
+    },
+    "44127": {
+        "country_code": "ES",
+        "asn": "44127",
+        "description": "J&A GARRIGUES S.L.P.",
+        "handle": "GARRIGUES-AS"
+    },
+    "44188": {
+        "country_code": "ES",
+        "asn": "44188",
+        "description": "AVATEL TELECOM SA",
+        "handle": "AVATELTELECOM-AS"
+    },
+    "44233": {
+        "country_code": "ES",
+        "asn": "44233",
+        "description": "Bullhost Cloud Services SL",
+        "handle": "SPCNET-AS"
+    },
+    "44278": {
+        "country_code": "ES",
+        "asn": "44278",
+        "description": "GRANACABLE S.L",
+        "handle": "GRANACABLE"
+    },
+    "44280": {
+        "country_code": "ES",
+        "asn": "44280",
+        "description": "Diputacio de Girona",
+        "handle": "DDGI-AS"
+    },
+    "44293": {
+        "country_code": "ES",
+        "asn": "44293",
+        "description": "Cable Aireworld S.A.U.",
+        "handle": "CABLEWORLD-AS"
+    },
+    "44431": {
+        "country_code": "ES",
+        "asn": "44431",
+        "description": "OmniAccess S.L.",
+        "handle": "OMNIACCESS-AS"
+    },
+    "44466": {
+        "country_code": "ES",
+        "asn": "44466",
+        "description": "Ibertic Soluciones S.L.",
+        "handle": "IBERTIC"
+    },
+    "44585": {
+        "country_code": "ES",
+        "asn": "44585",
+        "description": "Efor Global Technology SL",
+        "handle": "EFOR"
+    },
+    "44588": {
+        "country_code": "ES",
+        "asn": "44588",
+        "description": "Adevinta Information Services S.L.",
+        "handle": "IJ-AS"
+    },
+    "44593": {
+        "country_code": "ES",
+        "asn": "44593",
+        "description": "Fundacion Centro de Supercomputacion de Castilla y Leon",
+        "handle": "REDCAYLE"
+    },
+    "44707": {
+        "country_code": "ES",
+        "asn": "44707",
+        "description": "Unicaja Banco SA",
+        "handle": "LIBERBANK"
+    },
+    "44717": {
+        "country_code": "ES",
+        "asn": "44717",
+        "description": "Videoluc S.A.",
+        "handle": "LUCENA-AS"
+    },
+    "44762": {
+        "country_code": "ES",
+        "asn": "44762",
+        "description": "AXESOR CONOCER PARA DECIDIR SA",
+        "handle": "AS-AXESOR"
+    },
+    "44916": {
+        "country_code": "ES",
+        "asn": "44916",
+        "description": "CONTENT GENERATION MEDIA S.L.",
+        "handle": "CGM-AS"
+    },
+    "44989": {
+        "country_code": "ES",
+        "asn": "44989",
+        "description": "AERNNOVA AEROSPACE SA Unipersonal",
+        "handle": "AERNNOVA-AS"
+    },
+    "44998": {
+        "country_code": "ES",
+        "asn": "44998",
+        "description": "GOBIERNO DE CANARIAS",
+        "handle": "GOBIERNOCANARIAS-AS"
+    },
+    "45037": {
+        "country_code": "ES",
+        "asn": "45037",
+        "description": "Propelin Consulting S.L.U.",
+        "handle": "HISPAWEB-NETWORK"
+    },
+    "47164": {
+        "country_code": "ES",
+        "asn": "47164",
+        "description": "Manuel Lozano Ruiz",
+        "handle": "ASN-REDLAN"
+    },
+    "47209": {
+        "country_code": "ES",
+        "asn": "47209",
+        "description": "Sage Spain S.L.",
+        "handle": "SAGEIBERIA"
+    },
+    "47312": {
+        "country_code": "ES",
+        "asn": "47312",
+        "description": "Zipping Care S.L.",
+        "handle": "ZIPPINGCARE-AS"
+    },
+    "47683": {
+        "country_code": "ES",
+        "asn": "47683",
+        "description": "MULTICANAL DEL CABLE TVM SL",
+        "handle": "MULTICANALDELCABLETVM-AS"
+    },
+    "47756": {
+        "country_code": "ES",
+        "asn": "47756",
+        "description": "UNICABLE TELECOMUNICACIONES A.I.E",
+        "handle": "UNICABLE-ASN"
+    },
+    "47806": {
+        "country_code": "ES",
+        "asn": "47806",
+        "description": "Cesar Maffini Martin",
+        "handle": "ASN-TELECONDADO"
+    },
+    "48018": {
+        "country_code": "ES",
+        "asn": "48018",
+        "description": "Fornex Hosting S.L.",
+        "handle": "FORNEX-RU-AS"
+    },
+    "48040": {
+        "country_code": "ES",
+        "asn": "48040",
+        "description": "Fornex Hosting S.L.",
+        "handle": "FORNEX-UA-AS"
+    },
+    "48048": {
+        "country_code": "ES",
+        "asn": "48048",
+        "description": "INDRA SISTEMAS S.A.",
+        "handle": "INDRASISTEMAS-AS"
+    },
+    "48187": {
+        "country_code": "ES",
+        "asn": "48187",
+        "description": "ARABAKO FORU ALDUNDIA / DIPUTACION FORAL DE ALAVA",
+        "handle": "AFADFA-AS"
+    },
+    "48202": {
+        "country_code": "ES",
+        "asn": "48202",
+        "description": "ODEC CENTRO DE CALCULO Y APLICACIONES INFORMATICAS S.A.",
+        "handle": "ODEC"
+    },
+    "48221": {
+        "country_code": "ES",
+        "asn": "48221",
+        "description": "EMPRESAS MUNICIPALES DE SEVILLA A.I.E.",
+        "handle": "CASSI"
+    },
+    "48341": {
+        "country_code": "ES",
+        "asn": "48341",
+        "description": "Proveedores de Presencia en Internet S.L.",
+        "handle": "PPI-AS"
+    },
+    "48348": {
+        "country_code": "ES",
+        "asn": "48348",
+        "description": "Cloud Builders SA",
+        "handle": "CLOUDBUILDERS"
+    },
+    "48427": {
+        "country_code": "ES",
+        "asn": "48427",
+        "description": "VISOVISION S.L.",
+        "handle": "VISOVISION-AS"
+    },
+    "48569": {
+        "country_code": "ES",
+        "asn": "48569",
+        "description": "NIXUS NETWORKS S.L.",
+        "handle": "NCS-AS"
+    },
+    "48624": {
+        "country_code": "ES",
+        "asn": "48624",
+        "description": "Free Technologies Excom S.L.",
+        "handle": "TOTCABLE-AS"
+    },
+    "48640": {
+        "country_code": "ES",
+        "asn": "48640",
+        "description": "MAZ Mutua Colaboradora con la Seguridad Social N. 11",
+        "handle": "MAZ-AS"
+    },
+    "48697": {
+        "country_code": "ES",
+        "asn": "48697",
+        "description": "Amadeus Soluciones Tecnologicas S.A.",
+        "handle": "AMA-ES"
+    },
+    "48846": {
+        "country_code": "ES",
+        "asn": "48846",
+        "description": "Inetum Espana S.A.",
+        "handle": "INETUM-ES-AS"
+    },
+    "48864": {
+        "country_code": "ES",
+        "asn": "48864",
+        "description": "Centro Municipal de Informatica de Malaga",
+        "handle": "CEMI-MALAGA-AS"
+    },
+    "48868": {
+        "country_code": "ES",
+        "asn": "48868",
+        "description": "SOCIEDAD DE EXPLOTACION DE REDES ELECTRONICAS Y SERVICIOS SA",
+        "handle": "SERES-AS"
+    },
+    "48884": {
+        "country_code": "ES",
+        "asn": "48884",
+        "description": "Linea Directa Aseguradora S.A.",
+        "handle": "LDA-AS"
+    },
+    "48952": {
+        "country_code": "ES",
+        "asn": "48952",
+        "description": "BREAK FREE TELECOM SL",
+        "handle": "LUXUNIT"
+    },
+    "48958": {
+        "country_code": "ES",
+        "asn": "48958",
+        "description": "Grupo Baladig SL",
+        "handle": "PRSZ-AS"
+    },
+    "49000": {
+        "country_code": "ES",
+        "asn": "49000",
+        "description": "AVATEL TELECOM SA",
+        "handle": "TELECABLEJUMILLA-AS"
+    },
+    "49008": {
+        "country_code": "ES",
+        "asn": "49008",
+        "description": "Elstir S.L.",
+        "handle": "ELSTIR-AS"
+    },
+    "49054": {
+        "country_code": "ES",
+        "asn": "49054",
+        "description": "TELEFONICA INNOVACION DIGITAL SL",
+        "handle": "TUENTI"
+    },
+    "49118": {
+        "country_code": "ES",
+        "asn": "49118",
+        "description": "GYD IBERICA SA",
+        "handle": "GYD-AS"
+    },
+    "49173": {
+        "country_code": "ES",
+        "asn": "49173",
+        "description": "Telecable Almonte S.L.",
+        "handle": "ASN-TELECABLE"
+    },
+    "49178": {
+        "country_code": "ES",
+        "asn": "49178",
+        "description": "Nadunet Telecom S.L",
+        "handle": "NADUNET-ASN"
+    },
+    "49212": {
+        "country_code": "ES",
+        "asn": "49212",
+        "description": "REALE SEGUROS GENERALES S.A",
+        "handle": "REALE-SEGUROS-AS"
+    },
+    "49353": {
+        "country_code": "ES",
+        "asn": "49353",
+        "description": "Valor Information Technologies S.L.",
+        "handle": "AS-JSANS"
+    },
+    "49388": {
+        "country_code": "ES",
+        "asn": "49388",
+        "description": "Inspirit Cloud S.L.",
+        "handle": "INTERCOMGI-BCN"
+    },
+    "49493": {
+        "country_code": "ES",
+        "asn": "49493",
+        "description": "GIGAS HOSTING S.A.",
+        "handle": "GIGAS-TELCO"
+    },
+    "49538": {
+        "country_code": "ES",
+        "asn": "49538",
+        "description": "Partido Socialista Obrero Espanol (PSOE)",
+        "handle": "PSOE"
+    },
+    "49576": {
+        "country_code": "ES",
+        "asn": "49576",
+        "description": "RED ELECTRICA DE ESPANA S.A.U.",
+        "handle": "REE-AS"
+    },
+    "49600": {
+        "country_code": "ES",
+        "asn": "49600",
+        "description": "NEAR IP S.L.",
+        "handle": "NEARIP"
+    },
+    "49635": {
+        "country_code": "ES",
+        "asn": "49635",
+        "description": "CLOUDI NEXTGEN SL",
+        "handle": "CLOUDING"
+    },
+    "49638": {
+        "country_code": "ES",
+        "asn": "49638",
+        "description": "Consorci de Serveis Universitaris de Catalunya",
+        "handle": "CATNIX"
+    },
+    "49650": {
+        "country_code": "ES",
+        "asn": "49650",
+        "description": "Everex Comunicaciones S.A.",
+        "handle": "EVEREX"
+    },
+    "49835": {
+        "country_code": "ES",
+        "asn": "49835",
+        "description": "Fundacio Privada per a la Xarxa Lliure Oberta i Neutral guifi.net",
+        "handle": "GUIFINET-AS"
+    },
+    "49851": {
+        "country_code": "ES",
+        "asn": "49851",
+        "description": "Aragonesa de Servicios Telematicos",
+        "handle": "AST-AS"
+    },
+    "49928": {
+        "country_code": "ES",
+        "asn": "49928",
+        "description": "Prisa Media SAU",
+        "handle": "PRISA-MEDIA-AS"
+    },
+    "49934": {
+        "country_code": "ES",
+        "asn": "49934",
+        "description": "FREMAP MUTUA COLABORADORA CON LA SEGURIDAD SOCIAL N 61",
+        "handle": "FREMAP-AS"
+    },
+    "49940": {
+        "country_code": "ES",
+        "asn": "49940",
+        "description": "FERIA INTERNACIONAL DE BARCELONA",
+        "handle": "FIRABCN-AS"
+    },
+    "50146": {
+        "country_code": "ES",
+        "asn": "50146",
+        "description": "VERIZON SPAIN S.L.",
+        "handle": "TERREMARK-IST"
+    },
+    "50235": {
+        "country_code": "ES",
+        "asn": "50235",
+        "description": "European Union Intellectual Property Office",
+        "handle": "EUIPO-AS"
+    },
+    "50335": {
+        "country_code": "ES",
+        "asn": "50335",
+        "description": "PANDA SECURITY S.L.",
+        "handle": "PANDA-SECURITY-AS"
+    },
+    "50429": {
+        "country_code": "ES",
+        "asn": "50429",
+        "description": "ATOS Spain SA",
+        "handle": "ATOSSPAIN-AS"
+    },
+    "50563": {
+        "country_code": "ES",
+        "asn": "50563",
+        "description": "Onlycable Comunicaciones S.L.",
+        "handle": "ONLYCABLE-AS"
+    },
+    "50564": {
+        "country_code": "ES",
+        "asn": "50564",
+        "description": "CARTAGO TELECOM S. L.",
+        "handle": "ELECTRONICAMARTINEZ-AS"
+    },
+    "50573": {
+        "country_code": "ES",
+        "asn": "50573",
+        "description": "Martin Gomez Hermida",
+        "handle": "AS-GOMEZ"
+    },
+    "50715": {
+        "country_code": "ES",
+        "asn": "50715",
+        "description": "Abertis Infraestructuras S.A.",
+        "handle": "SERVIABERTIS-AS"
+    },
+    "50816": {
+        "country_code": "ES",
+        "asn": "50816",
+        "description": "INSTITUTO TECNOLOGICO DEL CALZADO Y CONEXAS INESCOP",
+        "handle": "INESCOP-AS"
+    },
+    "50926": {
+        "country_code": "ES",
+        "asn": "50926",
+        "description": "AXARNET COMUNICACIONES S.L.",
+        "handle": "AXARNET-AS"
+    },
+    "50974": {
+        "country_code": "ES",
+        "asn": "50974",
+        "description": "Ediciones El Pais S.L.",
+        "handle": "EDICIONES-EL-PAIS-AS"
+    },
+    "50977": {
+        "country_code": "ES",
+        "asn": "50977",
+        "description": "AVATEL TELECOM SA",
+        "handle": "AVATELTELECOM-AS"
+    },
+    "51007": {
+        "country_code": "ES",
+        "asn": "51007",
+        "description": "Servicios Audiovisuales Overon S.L.",
+        "handle": "MEDIAPRO-AS"
+    },
+    "51105": {
+        "country_code": "ES",
+        "asn": "51105",
+        "description": "Stackscale S.L.",
+        "handle": "STACKSCALE"
+    },
+    "51151": {
+        "country_code": "ES",
+        "asn": "51151",
+        "description": "Comunicaciones Enersol S.L.",
+        "handle": "COMENERSOL-AS"
+    },
+    "51152": {
+        "country_code": "ES",
+        "asn": "51152",
+        "description": "VALORACIONES MEDITERRANEO SA",
+        "handle": "VALMESA-AS"
+    },
+    "51294": {
+        "country_code": "ES",
+        "asn": "51294",
+        "description": "HUBARA hosting solutions S.L.",
+        "handle": "HUBARA"
+    },
+    "51330": {
+        "country_code": "ES",
+        "asn": "51330",
+        "description": "CREVINET FIBRA S.L.",
+        "handle": "CREVINET"
+    },
+    "51362": {
+        "country_code": "ES",
+        "asn": "51362",
+        "description": "OPERADORA GREDOS SL",
+        "handle": "OPERADORA-GREDOS"
+    },
+    "51415": {
+        "country_code": "ES",
+        "asn": "51415",
+        "description": "Securitas Seguridad Espana S.A.",
+        "handle": "ES-TECHCO-SECURITY-1"
+    },
+    "51457": {
+        "country_code": "ES",
+        "asn": "51457",
+        "description": "CONECTA WIRELESS S.L.",
+        "handle": "CONECTAWIRELESS"
+    },
+    "51487": {
+        "country_code": "ES",
+        "asn": "51487",
+        "description": "Networksland SL",
+        "handle": "DONNALIVE-AS"
+    },
+    "51555": {
+        "country_code": "ES",
+        "asn": "51555",
+        "description": "PREFERENCE SL",
+        "handle": "ASN-PREFERENCE"
+    },
+    "51621": {
+        "country_code": "ES",
+        "asn": "51621",
+        "description": "Infoself Sistemes SL",
+        "handle": "INFOSELF"
+    },
+    "51678": {
+        "country_code": "ES",
+        "asn": "51678",
+        "description": "AYESA IBERMATICA SAU",
+        "handle": "IBERMATICA"
+    },
+    "51681": {
+        "country_code": "ES",
+        "asn": "51681",
+        "description": "SINEASEN S.L.",
+        "handle": "DATIUM"
+    },
+    "51718": {
+        "country_code": "ES",
+        "asn": "51718",
+        "description": "Hospedaje y Dominios S.L.",
+        "handle": "HYD"
+    },
+    "51753": {
+        "country_code": "ES",
+        "asn": "51753",
+        "description": "Compania TRASMEDITERRANEA S.A.",
+        "handle": "TRASMEDITERRANEA"
+    },
+    "51773": {
+        "country_code": "ES",
+        "asn": "51773",
+        "description": "Softonic International S.A.",
+        "handle": "SOFTONIC-AS"
+    },
+    "51984": {
+        "country_code": "ES",
+        "asn": "51984",
+        "description": "Gurbtec Iguana Telecom SL",
+        "handle": "VERA-MEGATEL"
+    },
+    "52122": {
+        "country_code": "ES",
+        "asn": "52122",
+        "description": "Bona Netto SL",
+        "handle": "BONANETTO-AS"
+    },
+    "56345": {
+        "country_code": "ES",
+        "asn": "56345",
+        "description": "TVB TELEDISTRIBUCION S.L.",
+        "handle": "TELEDISTRIBUCION-BAENA-AS"
+    },
+    "56551": {
+        "country_code": "ES",
+        "asn": "56551",
+        "description": "Ayuntamiento Rivas Vaciamadrid",
+        "handle": "CVQ1-RIPE"
+    },
+    "56571": {
+        "country_code": "ES",
+        "asn": "56571",
+        "description": "HISPANICA DE TELECOMUNICACIONES Y SERVICIOS INTEGRALES S.L.",
+        "handle": "HTELECOM"
+    },
+    "56697": {
+        "country_code": "ES",
+        "asn": "56697",
+        "description": "SUIS BOGA TELECOM SL",
+        "handle": "SUISBOGATELECOM"
+    },
+    "56710": {
+        "country_code": "ES",
+        "asn": "56710",
+        "description": "MAXEN TECHNOLOGIES S.L.",
+        "handle": "MAXEN"
+    },
+    "56732": {
+        "country_code": "ES",
+        "asn": "56732",
+        "description": "AXARNET COMUNICACIONES S.L.",
+        "handle": "AXARNET-RESERVED"
+    },
+    "56822": {
+        "country_code": "ES",
+        "asn": "56822",
+        "description": "Universal Telecom Experts S.L",
+        "handle": "UNIVERSALTELECOM"
+    },
+    "56882": {
+        "country_code": "ES",
+        "asn": "56882",
+        "description": "AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",
+        "handle": "NET-LEAST-COST-ROUTING-TELECOM-SL"
+    },
+    "56909": {
+        "country_code": "ES",
+        "asn": "56909",
+        "description": "TD PR ARLU S.A",
+        "handle": "TDPRARLUTV"
+    },
+    "56924": {
+        "country_code": "ES",
+        "asn": "56924",
+        "description": "SANTANDER TELEPORT S.L.",
+        "handle": "SANTANDER-TELEPORT"
+    },
+    "56958": {
+        "country_code": "ES",
+        "asn": "56958",
+        "description": "Raiola Networks S.L.",
+        "handle": "RAIOLANETWORKS"
+    },
+    "56986": {
+        "country_code": "ES",
+        "asn": "56986",
+        "description": "Valor Information Technologies S.L.",
+        "handle": "TELECABLECL"
+    },
+    "56989": {
+        "country_code": "ES",
+        "asn": "56989",
+        "description": "Valor Information Technologies S.L.",
+        "handle": "AS-ARIADNEXT"
+    },
+    "57074": {
+        "country_code": "ES",
+        "asn": "57074",
+        "description": "Waytel Fibra SL",
+        "handle": "WAYTEL-FIBRA-SL"
+    },
+    "57117": {
+        "country_code": "ES",
+        "asn": "57117",
+        "description": "Rural Servicios Informaticos SL",
+        "handle": "RSI"
+    },
+    "57140": {
+        "country_code": "ES",
+        "asn": "57140",
+        "description": "XFERA Moviles S.A.",
+        "handle": "BLUSO"
+    },
+    "57236": {
+        "country_code": "ES",
+        "asn": "57236",
+        "description": "Juan Antonio Guerrero Gonzalez",
+        "handle": "ES-ITEBATV-AS"
+    },
+    "57269": {
+        "country_code": "ES",
+        "asn": "57269",
+        "description": "DIGI SPAIN TELECOM S.A",
+        "handle": "DIGISPAINTELECOM"
+    },
+    "57286": {
+        "country_code": "ES",
+        "asn": "57286",
+        "description": "GIGAS HOSTING S.A.",
+        "handle": "ASGIGAS"
+    },
+    "57337": {
+        "country_code": "ES",
+        "asn": "57337",
+        "description": "VR Telecom SL",
+        "handle": "VRT-AS"
+    },
+    "57365": {
+        "country_code": "ES",
+        "asn": "57365",
+        "description": "Numintec Comunicaciones S.L.",
+        "handle": "NUMINTEC"
+    },
+    "57542": {
+        "country_code": "ES",
+        "asn": "57542",
+        "description": "FALBOX S.L. trading as NIXVAL",
+        "handle": "NIXVAL-IXP"
+    },
+    "57656": {
+        "country_code": "ES",
+        "asn": "57656",
+        "description": "ALTIA CONSULTORES S.A.",
+        "handle": "ALTIA-AS"
+    },
+    "57677": {
+        "country_code": "ES",
+        "asn": "57677",
+        "description": "SINTELEC INFORMATICA S.L.",
+        "handle": "SINTELEC"
+    },
+    "57910": {
+        "country_code": "ES",
+        "asn": "57910",
+        "description": "Soluciones Corporativas IP SL",
+        "handle": "SCIP-AS"
+    },
+    "57929": {
+        "country_code": "ES",
+        "asn": "57929",
+        "description": "Octanio Sistemas Informaticos SL",
+        "handle": "OCTANIO-1"
+    },
+    "57970": {
+        "country_code": "ES",
+        "asn": "57970",
+        "description": "OLE COMUNICACION S.L.",
+        "handle": "OLECOMUNICACION"
+    },
+    "57979": {
+        "country_code": "ES",
+        "asn": "57979",
+        "description": "WIFI EXTREMENA S.L",
+        "handle": "ES-WIFEX-AS"
+    },
+    "58128": {
+        "country_code": "ES",
+        "asn": "58128",
+        "description": "COMUNICACIONES PAQUILLO E HIJOS S.L.",
+        "handle": "MOVILPAQ"
+    },
+    "58233": {
+        "country_code": "ES",
+        "asn": "58233",
+        "description": "ASPA CLOUD SL",
+        "handle": "AS-MASBYTES"
+    },
+    "58327": {
+        "country_code": "ES",
+        "asn": "58327",
+        "description": "FIBERGREEN TECNOLOGICAS S.L.",
+        "handle": "GLOBE-OPERATOR-TELECOM"
+    },
+    "58345": {
+        "country_code": "ES",
+        "asn": "58345",
+        "description": "Free Technologies Excom S.L.",
+        "handle": "DINFOTECASN"
+    },
+    "59403": {
+        "country_code": "ES",
+        "asn": "59403",
+        "description": "ZONAMBER SL",
+        "handle": "ZONAMBER"
+    },
+    "59432": {
+        "country_code": "ES",
+        "asn": "59432",
+        "description": "GINERNET S.L.",
+        "handle": "GINERNET"
+    },
+    "59499": {
+        "country_code": "ES",
+        "asn": "59499",
+        "description": "Mutua Madrilena Automovilista Sociedad De Seguros a Prima Fija",
+        "handle": "MUTUA-MAD"
+    },
+    "59631": {
+        "country_code": "ES",
+        "asn": "59631",
+        "description": "AVATEL TELECOM SA",
+        "handle": "AVATELTELECOM"
+    },
+    "59723": {
+        "country_code": "ES",
+        "asn": "59723",
+        "description": "Vaecom Telecomunicaciones SL",
+        "handle": "VAECOM-ASN"
+    },
+    "59739": {
+        "country_code": "ES",
+        "asn": "59739",
+        "description": "Almirall SA",
+        "handle": "ALMIRALL-AS"
+    },
+    "59772": {
+        "country_code": "ES",
+        "asn": "59772",
+        "description": "FLUIDRA SA",
+        "handle": "FLUIDRA"
+    },
+    "59885": {
+        "country_code": "ES",
+        "asn": "59885",
+        "description": "TELECUATRO C.B.",
+        "handle": "TELECUATRO-ASN"
+    },
+    "59908": {
+        "country_code": "ES",
+        "asn": "59908",
+        "description": "BalaLink S.A.",
+        "handle": "ISLALINK"
+    },
+    "59926": {
+        "country_code": "ES",
+        "asn": "59926",
+        "description": "Borecom Networks S.L.",
+        "handle": "BORECOM"
+    },
+    "60076": {
+        "country_code": "ES",
+        "asn": "60076",
+        "description": "Dynamic Over Network De Espana SL",
+        "handle": "DONDE"
+    },
+    "60080": {
+        "country_code": "ES",
+        "asn": "60080",
+        "description": "S2 Grupo Soluciones De Seguridad Sociedad Limitada",
+        "handle": "ES-S2GRUPO-ASN"
+    },
+    "60082": {
+        "country_code": "ES",
+        "asn": "60082",
+        "description": "Consorci de Serveis Universitaris de Catalunya",
+        "handle": "CATNIX-RS"
+    },
+    "60134": {
+        "country_code": "ES",
+        "asn": "60134",
+        "description": "Cesar Maffini Martin",
+        "handle": "AS-ANDALUCIALINK"
+    },
+    "60171": {
+        "country_code": "ES",
+        "asn": "60171",
+        "description": "AFR-IX TELECOM S.A.",
+        "handle": "AFRIX-AS"
+    },
+    "60203": {
+        "country_code": "ES",
+        "asn": "60203",
+        "description": "Innovaciones Tecnlogicas del Sur S.L.",
+        "handle": "INNOVASUR-AS"
+    },
+    "60267": {
+        "country_code": "ES",
+        "asn": "60267",
+        "description": "FIBRAWORLD TELECOM S.A.U.",
+        "handle": "CABLERWORLD-MURCIA-AS"
+    },
+    "60273": {
+        "country_code": "ES",
+        "asn": "60273",
+        "description": "ALTANETICA S.L.",
+        "handle": "ALTANETICA"
+    },
+    "60314": {
+        "country_code": "ES",
+        "asn": "60314",
+        "description": "Institut Municipal d'Informatica (IMI)",
+        "handle": "IMI-AS"
+    },
+    "60458": {
+        "country_code": "ES",
+        "asn": "60458",
+        "description": "XNET CORE SL",
+        "handle": "ASN-XTUDIONET"
+    },
+    "60488": {
+        "country_code": "ES",
+        "asn": "60488",
+        "description": "Tecnocratica Centro de Datos S.L.",
+        "handle": "VISUALTEC-AS"
+    },
+    "60493": {
+        "country_code": "ES",
+        "asn": "60493",
+        "description": "Ficosa International S.A.",
+        "handle": "FICOSA-AS"
+    },
+    "60494": {
+        "country_code": "ES",
+        "asn": "60494",
+        "description": "AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL",
+        "handle": "UNELINK"
+    },
+    "60508": {
+        "country_code": "ES",
+        "asn": "60508",
+        "description": "T.V.C. PINOS PUENTE SL",
+        "handle": "PINOSPUENTE-AS"
+    },
+    "60551": {
+        "country_code": "ES",
+        "asn": "60551",
+        "description": "D.P.S. Giro-consulting S.L.",
+        "handle": "ANT-AS"
+    },
+    "60609": {
+        "country_code": "ES",
+        "asn": "60609",
+        "description": "APFUTURA TELECOM SL",
+        "handle": "APFUTURA-ASN"
+    },
+    "60667": {
+        "country_code": "ES",
+        "asn": "60667",
+        "description": "COMUNISTONE S.L.",
+        "handle": "COMUNICA"
+    },
+    "60675": {
+        "country_code": "ES",
+        "asn": "60675",
+        "description": "AVATEL TELECOM SA",
+        "handle": "AVATELTELECOM"
+    },
+    "60682": {
+        "country_code": "ES",
+        "asn": "60682",
+        "description": "Tecnocratica Centro de Datos S.L.",
+        "handle": "ATEINCO"
+    },
+    "60685": {
+        "country_code": "ES",
+        "asn": "60685",
+        "description": "GWAY ISP S.L",
+        "handle": "GWAY-ISP-SL"
+    },
+    "60711": {
+        "country_code": "ES",
+        "asn": "60711",
+        "description": "Fernando Perez Morales",
+        "handle": "PARAVISA-AS"
+    },
+    "60807": {
+        "country_code": "ES",
+        "asn": "60807",
+        "description": "Durcatel CB",
+        "handle": "DURCATEL-AS"
+    },
+    "60813": {
+        "country_code": "ES",
+        "asn": "60813",
+        "description": "Banco de Sabadell SA",
+        "handle": "BSABADELL"
+    },
+    "60917": {
+        "country_code": "ES",
+        "asn": "60917",
+        "description": "TEDRA GLOBAL SOLUTIONS S.L.",
+        "handle": "TEDRA"
+    },
+    "60987": {
+        "country_code": "ES",
+        "asn": "60987",
+        "description": "FIBERDAN NETWORKS S.L",
+        "handle": "FIBRACADIZ"
+    },
+    "61090": {
+        "country_code": "ES",
+        "asn": "61090",
+        "description": "Green Way Telecomunicaciones S.L.",
+        "handle": "GREEN-WAY"
+    },
+    "61181": {
+        "country_code": "ES",
+        "asn": "61181",
+        "description": "METRO DE MADRID S.A.",
+        "handle": "METRO-DE-MADRID-AS"
+    },
+    "61388": {
+        "country_code": "ES",
+        "asn": "61388",
+        "description": "Correos Telecom SA S.M.E.",
+        "handle": "CORREOS-CLOUD-MAD01"
+    },
+    "61401": {
+        "country_code": "ES",
+        "asn": "61401",
+        "description": "Neutralia Operador Global S.L.U.",
+        "handle": "NEUTRALIA"
+    },
+    "61408": {
+        "country_code": "ES",
+        "asn": "61408",
+        "description": "AGO TELECOM S.L",
+        "handle": "AGOTELECOMASN"
+    },
+    "61953": {
+        "country_code": "ES",
+        "asn": "61953",
+        "description": "CLOUDEUS SL",
+        "handle": "TISCALI"
+    },
+    "62033": {
+        "country_code": "ES",
+        "asn": "62033",
+        "description": "CLOUDEUS SL",
+        "handle": "HOSTERS"
+    },
+    "62043": {
+        "country_code": "ES",
+        "asn": "62043",
+        "description": "REPSOL S.A.",
+        "handle": "REPSOL"
+    },
+    "62055": {
+        "country_code": "ES",
+        "asn": "62055",
+        "description": "SUVOZ GLOBAL SERVICES S.L.",
+        "handle": "SUVOZ"
+    },
+    "62064": {
+        "country_code": "ES",
+        "asn": "62064",
+        "description": "Closeness S.L.",
+        "handle": "CLOSENESS"
+    },
+    "62080": {
+        "country_code": "ES",
+        "asn": "62080",
+        "description": "Adrian Almenar Serrano",
+        "handle": "AALMENAR"
+    },
+    "62104": {
+        "country_code": "ES",
+        "asn": "62104",
+        "description": "Computer Service Internet Service Provider S.L.",
+        "handle": "CSISP"
+    },
+    "62235": {
+        "country_code": "ES",
+        "asn": "62235",
+        "description": "AVATEL TELECOM SA",
+        "handle": "AVATELTELECOM"
+    },
+    "62236": {
+        "country_code": "ES",
+        "asn": "62236",
+        "description": "Exsotel S.L.",
+        "handle": "FIBRIX"
+    },
+    "62352": {
+        "country_code": "ES",
+        "asn": "62352",
+        "description": "XFERA Moviles S.A.",
+        "handle": "NETLLAR"
+    },
+    "62376": {
+        "country_code": "ES",
+        "asn": "62376",
+        "description": "Tecnocratica Centro de Datos S.L.",
+        "handle": "TOROIX"
+    },
+    "62409": {
+        "country_code": "ES",
+        "asn": "62409",
+        "description": "XFERA Moviles S.A.",
+        "handle": "OCEANS-AS"
+    },
+    "62412": {
+        "country_code": "ES",
+        "asn": "62412",
+        "description": "Borecom Networks S.L.",
+        "handle": "BORECOM"
+    },
+    "64397": {
+        "country_code": "ES",
+        "asn": "64397",
+        "description": "EUROMADI IBERICA SA",
+        "handle": "EUROMADI-ASN"
+    },
+    "64411": {
+        "country_code": "ES",
+        "asn": "64411",
+        "description": "Correos Telecom SA S.M.E.",
+        "handle": "CORREOS-TELECOM"
+    },
+    "196713": {
+        "country_code": "ES",
+        "asn": "196713",
+        "description": "Abansys & Hostytec S.L.",
+        "handle": "ABANSYS-AND-HOSTYTEC-AS"
+    },
+    "196816": {
+        "country_code": "ES",
+        "asn": "196816",
+        "description": "NIXUS NETWORKS S.L.",
+        "handle": "NIXUS-AS"
+    },
+    "196842": {
+        "country_code": "ES",
+        "asn": "196842",
+        "description": "Energy Consulting Albir S.L.U",
+        "handle": "WIPZONA-AS"
+    },
+    "197100": {
+        "country_code": "ES",
+        "asn": "197100",
+        "description": "Wivacom Interactivo SL",
+        "handle": "ESYSINTX"
+    },
+    "197183": {
+        "country_code": "ES",
+        "asn": "197183",
+        "description": "Occentus Network SL",
+        "handle": "OCCENTUS"
+    },
+    "197240": {
+        "country_code": "ES",
+        "asn": "197240",
+        "description": "ASPA Technology S.L.U.",
+        "handle": "ASP-TECHNOLOGY"
+    },
+    "197267": {
+        "country_code": "ES",
+        "asn": "197267",
+        "description": "Retevision I S.A.",
+        "handle": "RETEVISION-I-AS"
+    },
+    "197397": {
+        "country_code": "ES",
+        "asn": "197397",
+        "description": "Servicio de Salud de Castilla-Mancha",
+        "handle": "SESCAM"
+    },
+    "197478": {
+        "country_code": "ES",
+        "asn": "197478",
+        "description": "Babel Sistemas de Informacion SL",
+        "handle": "ASINGENIA"
+    },
+    "197483": {
+        "country_code": "ES",
+        "asn": "197483",
+        "description": "SYSAD IT SERVICES SL",
+        "handle": "ADSYSTEMS-AS"
+    },
+    "197518": {
+        "country_code": "ES",
+        "asn": "197518",
+        "description": "Rackmarkt SL",
+        "handle": "RACKMARKT"
+    },
+    "197606": {
+        "country_code": "ES",
+        "asn": "197606",
+        "description": "Ismael Munoz Hernandez",
+        "handle": "ISMHDEZ-NET"
+    },
+    "197649": {
+        "country_code": "ES",
+        "asn": "197649",
+        "description": "JUAN PORRO FLORES",
+        "handle": "TUSERVER-Y-SERVERSGAME"
+    },
+    "197712": {
+        "country_code": "ES",
+        "asn": "197712",
+        "description": "10dencehispahard S.L.",
+        "handle": "CDMON"
+    },
+    "197772": {
+        "country_code": "ES",
+        "asn": "197772",
+        "description": "NODO50 Altavoz por la libertad de expresion y comunicacion",
+        "handle": "NODO50"
+    },
+    "197795": {
+        "country_code": "ES",
+        "asn": "197795",
+        "description": "ColdHosting SL",
+        "handle": "COLDHOSTING"
+    },
+    "197829": {
+        "country_code": "ES",
+        "asn": "197829",
+        "description": "Gobierno de Navarra",
+        "handle": "GOBIERNO-DE-NAVARRA"
+    },
+    "197876": {
+        "country_code": "ES",
+        "asn": "197876",
+        "description": "ICM Netsystems 2005 SL",
+        "handle": "ICMNETSYSTEMS-AS"
+    },
+    "197927": {
+        "country_code": "ES",
+        "asn": "197927",
+        "description": "THEIPBOX SL",
+        "handle": "WIREM-ES"
+    },
+    "197991": {
+        "country_code": "ES",
+        "asn": "197991",
+        "description": "Hispasat S.A",
+        "handle": "HISPASAT"
+    },
+    "198066": {
+        "country_code": "ES",
+        "asn": "198066",
+        "description": "Grupo Loading Systems S.L.",
+        "handle": "LOADING"
+    },
+    "198096": {
+        "country_code": "ES",
+        "asn": "198096",
+        "description": "Junta de Andalucia",
+        "handle": "CICA"
+    },
+    "198144": {
+        "country_code": "ES",
+        "asn": "198144",
+        "description": "COMUNICACIONES RONDA S.L.",
+        "handle": "RONDA"
+    },
+    "198153": {
+        "country_code": "ES",
+        "asn": "198153",
+        "description": "SOCIETAT D'ESTUDIS INFORMATICS I D'ORGANITZACIO SOCIETAT ANONIMA (SEIDOR)",
+        "handle": "DCSTD-SEIDOR"
+    },
+    "198192": {
+        "country_code": "ES",
+        "asn": "198192",
+        "description": "TELEPORTE S.L.",
+        "handle": "ASN-TELEPORTE"
+    },
+    "198193": {
+        "country_code": "ES",
+        "asn": "198193",
+        "description": "Television por Cable Santa Pola SL",
+        "handle": "ASN-TCABLE"
+    },
+    "198198": {
+        "country_code": "ES",
+        "asn": "198198",
+        "description": "TELEFONICA GLOBAL SOLUTIONS SL",
+        "handle": "TGS"
+    },
+    "198270": {
+        "country_code": "ES",
+        "asn": "198270",
+        "description": "IRONLOCK PROTECCION S.L.",
+        "handle": "SEGURIBER"
+    },
+    "198355": {
+        "country_code": "ES",
+        "asn": "198355",
+        "description": "I.T.M. Instalaciones y Mantenimiento de Telecomunicaciones S.L.",
+        "handle": "EUROH"
+    },
+    "198404": {
+        "country_code": "ES",
+        "asn": "198404",
+        "description": "RENTEL WIFI S.L.",
+        "handle": "ASRENTEL"
+    },
+    "198411": {
+        "country_code": "ES",
+        "asn": "198411",
+        "description": "AVATEL TELECOM SA",
+        "handle": "VELEVISA-AS"
+    },
+    "198432": {
+        "country_code": "ES",
+        "asn": "198432",
+        "description": "Ipcore Datacenters S.L",
+        "handle": "IPCORE-AS"
+    },
+    "198454": {
+        "country_code": "ES",
+        "asn": "198454",
+        "description": "SISTEC TELECOM S.L.",
+        "handle": "SISTEC-AS"
+    },
+    "198479": {
+        "country_code": "ES",
+        "asn": "198479",
+        "description": "Nunsys SA",
+        "handle": "BPLAN"
+    },
+    "198697": {
+        "country_code": "ES",
+        "asn": "198697",
+        "description": "YUFLY TELECOM SL",
+        "handle": "ASN-YUFLY"
+    },
+    "198731": {
+        "country_code": "ES",
+        "asn": "198731",
+        "description": "Prisco Electronica S.L.",
+        "handle": "PRISCO-AS"
+    },
+    "198760": {
+        "country_code": "ES",
+        "asn": "198760",
+        "description": "Quattre Internet SL",
+        "handle": "QUATTRE-AS"
+    },
+    "198853": {
+        "country_code": "ES",
+        "asn": "198853",
+        "description": "Fundacion ikerbasque",
+        "handle": "I2BASQUE"
+    },
+    "198871": {
+        "country_code": "ES",
+        "asn": "198871",
+        "description": "Diputacion Provincial de Castellon",
+        "handle": "DIPCAS-AS"
+    },
+    "198878": {
+        "country_code": "ES",
+        "asn": "198878",
+        "description": "Universidad de Navarra",
+        "handle": "UNAV"
+    },
+    "198885": {
+        "country_code": "ES",
+        "asn": "198885",
+        "description": "Spotting Brands Technologies S.L",
+        "handle": "REBELOAK"
+    },
+    "198934": {
+        "country_code": "ES",
+        "asn": "198934",
+        "description": "Adjenet Networks SL",
+        "handle": "ADJENET-AS"
+    },
+    "198968": {
+        "country_code": "ES",
+        "asn": "198968",
+        "description": "Cyberneticos Hosting SL",
+        "handle": "CYBERNETICOS"
+    },
+    "199134": {
+        "country_code": "ES",
+        "asn": "199134",
+        "description": "Sociedad de Fomento Agricola Castellonense S.A.",
+        "handle": "GRUPOGIMENO-ASN1"
+    },
+    "199143": {
+        "country_code": "ES",
+        "asn": "199143",
+        "description": "Indaleccius Broadcasting SL",
+        "handle": "INDALECCIUS"
+    },
+    "199171": {
+        "country_code": "ES",
+        "asn": "199171",
+        "description": "Systems Maintenance Service EUROPA S.A.",
+        "handle": "GRUPOSMS"
+    },
+    "199195": {
+        "country_code": "ES",
+        "asn": "199195",
+        "description": "ANOTHER CALPE CONSULTING CONCEPT S.L.",
+        "handle": "AS-GUADALNET"
+    },
+    "199223": {
+        "country_code": "ES",
+        "asn": "199223",
+        "description": "XFERA Moviles S.A.",
+        "handle": "OLACABLE"
+    },
+    "199226": {
+        "country_code": "ES",
+        "asn": "199226",
+        "description": "Cablemel S.L.",
+        "handle": "CABLEMEL-AS"
+    },
+    "199272": {
+        "country_code": "ES",
+        "asn": "199272",
+        "description": "Accelya World SLU",
+        "handle": "ACCELYA"
+    },
+    "199290": {
+        "country_code": "ES",
+        "asn": "199290",
+        "description": "INSTALACIONES Y SERVICIOS MOWITEL S.L.",
+        "handle": "MOWITEL"
+    },
+    "199312": {
+        "country_code": "ES",
+        "asn": "199312",
+        "description": "Free Technologies Excom S.L.",
+        "handle": "MEGAVISTA"
+    },
+    "199329": {
+        "country_code": "ES",
+        "asn": "199329",
+        "description": "BANCO MEDIOLANUM SA",
+        "handle": "MEDIOLANUM"
+    },
+    "199359": {
+        "country_code": "ES",
+        "asn": "199359",
+        "description": "TELECOMUNICACIONES MERINO S.A.",
+        "handle": "MERTEL"
+    },
+    "199434": {
+        "country_code": "ES",
+        "asn": "199434",
+        "description": "CONSORCIO DE TELECOMUNICACIONES AVANZADA S.A.",
+        "handle": "COTA-AS"
+    },
+    "199435": {
+        "country_code": "ES",
+        "asn": "199435",
+        "description": "XFERA Moviles S.A.",
+        "handle": "WIMAXONLINE-AS"
+    },
+    "199474": {
+        "country_code": "ES",
+        "asn": "199474",
+        "description": "TSK ELECTRONICA Y ELECTRICIDAD S.A.",
+        "handle": "AS-TSK"
+    },
+    "199478": {
+        "country_code": "ES",
+        "asn": "199478",
+        "description": "RADIOCABLE INGENIEROS S.L.",
+        "handle": "RADIOCABLE-AS"
+    },
+    "199482": {
+        "country_code": "ES",
+        "asn": "199482",
+        "description": "Free Technologies Excom S.L.",
+        "handle": "SANGANET-AS"
+    },
+    "199496": {
+        "country_code": "ES",
+        "asn": "199496",
+        "description": "E-PORTS AMPLE DE BANDA I INTERNET S.L.",
+        "handle": "E-PORTS-EBRETIC-AS"
+    },
+    "199581": {
+        "country_code": "ES",
+        "asn": "199581",
+        "description": "Data Rush IT Services S.L.",
+        "handle": "DATARUSH"
+    },
+    "199589": {
+        "country_code": "ES",
+        "asn": "199589",
+        "description": "Dantia Tecnologia S.L.",
+        "handle": "DANTIA"
+    },
+    "199603": {
+        "country_code": "ES",
+        "asn": "199603",
+        "description": "Octanio Sistemas Informaticos SL",
+        "handle": "OCTANIO-2"
+    },
+    "199611": {
+        "country_code": "ES",
+        "asn": "199611",
+        "description": "Telcom Business Solutions S.L.",
+        "handle": "TELCOMBS"
+    },
+    "199640": {
+        "country_code": "ES",
+        "asn": "199640",
+        "description": "eDreams International Network SL",
+        "handle": "EDREAMS-AS"
+    },
+    "199704": {
+        "country_code": "ES",
+        "asn": "199704",
+        "description": "Freemedia Internet S.L.",
+        "handle": "FREEMEDIA"
+    },
+    "199760": {
+        "country_code": "ES",
+        "asn": "199760",
+        "description": "Pau Poyatos Fuentes",
+        "handle": "POYATOS-AS"
+    },
+    "199772": {
+        "country_code": "ES",
+        "asn": "199772",
+        "description": "FONTVENTA SL",
+        "handle": "FONTVENTA"
+    },
+    "199841": {
+        "country_code": "ES",
+        "asn": "199841",
+        "description": "AVATEL TELECOM SA",
+        "handle": "CARTHAGOSAT"
+    },
+    "199889": {
+        "country_code": "ES",
+        "asn": "199889",
+        "description": "Cvip Soluciones Tecnologicas Alternativas Sl.",
+        "handle": "CVIP"
+    },
+    "199904": {
+        "country_code": "ES",
+        "asn": "199904",
+        "description": "OLIVENET DATA CENTERS SPAIN S.L.",
+        "handle": "ODC-AS"
+    },
+    "199905": {
+        "country_code": "ES",
+        "asn": "199905",
+        "description": "TRIANGULO DE CONTROL G-3 S.A.",
+        "handle": "AS-TRIANGULO"
+    },
+    "199913": {
+        "country_code": "ES",
+        "asn": "199913",
+        "description": "Gamma UCaaS Comercializadora S.L.U.",
+        "handle": "SOYTIC"
+    },
+    "199919": {
+        "country_code": "ES",
+        "asn": "199919",
+        "description": "FOX TELECOM INTERNET S.L.",
+        "handle": "FOXTELECOM-ASN"
+    },
+    "199923": {
+        "country_code": "ES",
+        "asn": "199923",
+        "description": "3PJP INVESTMENT S.L.",
+        "handle": "TRESP-TECHNOLOGY"
+    },
+    "199930": {
+        "country_code": "ES",
+        "asn": "199930",
+        "description": "PROPHASE ELECTRONICS S.L.",
+        "handle": "WIFIBALEARES-AS"
+    },
+    "199949": {
+        "country_code": "ES",
+        "asn": "199949",
+        "description": "Grupo On Seguridad SL",
+        "handle": "SEGON-AS"
+    },
+    "199952": {
+        "country_code": "ES",
+        "asn": "199952",
+        "description": "AVATEL TELECOM SA",
+        "handle": "TVT-AS"
+    },
+    "199976": {
+        "country_code": "ES",
+        "asn": "199976",
+        "description": "DUNE TECHNOLOGY SL",
+        "handle": "AS-DUNE"
+    },
+    "200014": {
+        "country_code": "ES",
+        "asn": "200014",
+        "description": "Quinteiva S.L.",
+        "handle": "AS-QUINTEIVA"
+    },
+    "200030": {
+        "country_code": "ES",
+        "asn": "200030",
+        "description": "Dvblab Communication SL",
+        "handle": "DVBLAB-AS"
+    },
+    "200064": {
+        "country_code": "ES",
+        "asn": "200064",
+        "description": "Red digital de telecomunicaciones de las Islas Baleares S.L",
+        "handle": "IB-REDAS"
+    },
+    "200072": {
+        "country_code": "ES",
+        "asn": "200072",
+        "description": "Gestel Teleservice 2000 S.L.",
+        "handle": "VOF-AS"
+    },
+    "200165": {
+        "country_code": "ES",
+        "asn": "200165",
+        "description": "Asac Comunicaciones S.L.",
+        "handle": "ASACAS01"
+    },
+    "200171": {
+        "country_code": "ES",
+        "asn": "200171",
+        "description": "NUEVA TECNOLOGIA TECNICA S.L.",
+        "handle": "NTTSWSAAS-AS"
+    },
+    "200270": {
+        "country_code": "ES",
+        "asn": "200270",
+        "description": "Ezequiel Salomon Campos Lopez",
+        "handle": "REDEKAMPOZ"
+    },
+    "200290": {
+        "country_code": "ES",
+        "asn": "200290",
+        "description": "AVATEL TELECOM SA",
+        "handle": "AUSTRALTEL"
+    },
+    "200320": {
+        "country_code": "ES",
+        "asn": "200320",
+        "description": "Soltia Consulting SL",
+        "handle": "DIOXINET"
+    },
+    "200336": {
+        "country_code": "ES",
+        "asn": "200336",
+        "description": "Dimitar Dandulov",
+        "handle": "PCSTAR"
+    },
+    "200359": {
+        "country_code": "ES",
+        "asn": "200359",
+        "description": "Grupo Proveedor tecnologico Universal SL",
+        "handle": "GRUPOUNIVERSAL"
+    },
+    "200380": {
+        "country_code": "ES",
+        "asn": "200380",
+        "description": "Imagar Informatica Sl",
+        "handle": "ASIMAGAR"
+    },
+    "200387": {
+        "country_code": "ES",
+        "asn": "200387",
+        "description": "Tele puerto real SL",
+        "handle": "ARLU"
+    },
+    "200407": {
+        "country_code": "ES",
+        "asn": "200407",
+        "description": "Telecable Cartaya S.L.",
+        "handle": "ASCARTAYA"
+    },
+    "200421": {
+        "country_code": "ES",
+        "asn": "200421",
+        "description": "Hermandad Farmaceutica del Mediterraneo S.C.L.",
+        "handle": "FIRMAMED"
+    },
+    "200434": {
+        "country_code": "ES",
+        "asn": "200434",
+        "description": "Estabanell Impulsa S.A",
+        "handle": "EPHOS"
+    },
+    "200481": {
+        "country_code": "ES",
+        "asn": "200481",
+        "description": "SERVEIS INNUBO SL",
+        "handle": "INNUBO"
+    },
+    "200509": {
+        "country_code": "ES",
+        "asn": "200509",
+        "description": "Comlocal S.L.",
+        "handle": "SVINT-ASN"
+    },
+    "200518": {
+        "country_code": "ES",
+        "asn": "200518",
+        "description": "EUSKAL KIROL APOSTUAK SOCIEDAD ANONIMA",
+        "handle": "EKASA"
+    },
+    "200521": {
+        "country_code": "ES",
+        "asn": "200521",
+        "description": "Ministerio De Economia Comercio Y Empresa",
+        "handle": "SEAP-AGE"
+    },
+    "200555": {
+        "country_code": "ES",
+        "asn": "200555",
+        "description": "WiFi Canarias de Telecomunicaciones y Fibra SL",
+        "handle": "WIFICANARIAS"
+    },
+    "200595": {
+        "country_code": "ES",
+        "asn": "200595",
+        "description": "Gestioniza Infraestructuras S.L.",
+        "handle": "CLOUDNET"
+    },
+    "200669": {
+        "country_code": "ES",
+        "asn": "200669",
+        "description": "SEAT S.A.",
+        "handle": "SEAT-AS"
+    },
+    "200695": {
+        "country_code": "ES",
+        "asn": "200695",
+        "description": "OnWifi Tarragona SLU",
+        "handle": "ONWIFITGN"
+    },
+    "200738": {
+        "country_code": "ES",
+        "asn": "200738",
+        "description": "FIBRAWORLD TELECOM S.A.U.",
+        "handle": "INTERFIBRA-AS"
+    },
+    "200773": {
+        "country_code": "ES",
+        "asn": "200773",
+        "description": "INFORMATICA FUENTEALBILLA S.L.",
+        "handle": "FUENTEALBILLA-AS"
+    },
+    "200793": {
+        "country_code": "ES",
+        "asn": "200793",
+        "description": "AORA CONECTA S.L.L.",
+        "handle": "AORACONECTA"
+    },
+    "200810": {
+        "country_code": "ES",
+        "asn": "200810",
+        "description": "CONECTA 3 TELECOM S.L.",
+        "handle": "CONECTA3"
+    },
+    "200811": {
+        "country_code": "ES",
+        "asn": "200811",
+        "description": "Free Technologies Excom S.L.",
+        "handle": "TLM"
+    },
+    "200845": {
+        "country_code": "ES",
+        "asn": "200845",
+        "description": "AVATEL TELECOM SA",
+        "handle": "AVATEL-AS"
+    },
+    "200867": {
+        "country_code": "ES",
+        "asn": "200867",
+        "description": "RGNET CLOUD S.L.",
+        "handle": "RGNET"
+    },
+    "200892": {
+        "country_code": "ES",
+        "asn": "200892",
+        "description": "Isotrol S.A.",
+        "handle": "ISOTROL"
+    },
+    "200908": {
+        "country_code": "ES",
+        "asn": "200908",
+        "description": "Invermae Solutions SL",
+        "handle": "INTERMANAGED"
+    },
+    "200937": {
+        "country_code": "ES",
+        "asn": "200937",
+        "description": "NOVATIO COMUNICACIONES AVANZADAS S.L.",
+        "handle": "AS-NOVATIO"
+    },
+    "200956": {
+        "country_code": "ES",
+        "asn": "200956",
+        "description": "DELOITTE AUDITORES SL",
+        "handle": "DTES"
+    },
+    "200960": {
+        "country_code": "ES",
+        "asn": "200960",
+        "description": "Soluciones web on line s.l.",
+        "handle": "PROFESIONALHOSTING"
+    },
+    "200992": {
+        "country_code": "ES",
+        "asn": "200992",
+        "description": "Carlos Martin Nieto",
+        "handle": "DWIM-AS"
+    },
+    "201099": {
+        "country_code": "ES",
+        "asn": "201099",
+        "description": "HAVAS MEDIA GROUP SPAIN SA",
+        "handle": "HAVAS-MG"
+    },
+    "201105": {
+        "country_code": "ES",
+        "asn": "201105",
+        "description": "WIFI INTERSUR S.L.",
+        "handle": "INTERSUR"
+    },
+    "201109": {
+        "country_code": "ES",
+        "asn": "201109",
+        "description": "BIVID TELECOM SL",
+        "handle": "NXT-TELECOM"
+    },
+    "201121": {
+        "country_code": "ES",
+        "asn": "201121",
+        "description": "Tamiza Digital S.L.",
+        "handle": "AS-TAMIZA"
+    },
+    "201136": {
+        "country_code": "ES",
+        "asn": "201136",
+        "description": "Agiliza Solutions SL",
+        "handle": "AGLZ"
+    },
+    "201152": {
+        "country_code": "ES",
+        "asn": "201152",
+        "description": "Area Project Solutions SL",
+        "handle": "AREAPROJECT-AS1"
+    },
+    "201232": {
+        "country_code": "ES",
+        "asn": "201232",
+        "description": "NEUTRALIA TELECOM SL",
+        "handle": "NEUTRATEL"
+    },
+    "201234": {
+        "country_code": "ES",
+        "asn": "201234",
+        "description": "Spotting Brands Technologies S.L",
+        "handle": "SBT"
+    },
+    "201252": {
+        "country_code": "ES",
+        "asn": "201252",
+        "description": "Ayuntamiento de Granada",
+        "handle": "GRANADAORG"
+    },
+    "201337": {
+        "country_code": "ES",
+        "asn": "201337",
+        "description": "AVATEL TELECOM SA",
+        "handle": "AVATELTELECOM"
+    },
+    "201343": {
+        "country_code": "ES",
+        "asn": "201343",
+        "description": "ONLYCABLE FIBRA SL",
+        "handle": "VALENCIACABLE"
+    },
+    "201346": {
+        "country_code": "ES",
+        "asn": "201346",
+        "description": "TODO EN CLOUD SL",
+        "handle": "TODOENCLOUD"
+    },
+    "201359": {
+        "country_code": "ES",
+        "asn": "201359",
+        "description": "IPROSPECT ADVERTISING S.A.",
+        "handle": "YMEDIANET"
+    },
+    "201361": {
+        "country_code": "ES",
+        "asn": "201361",
+        "description": "Adrian Gonzalez Notario",
+        "handle": "ADRNET"
+    },
+    "201426": {
+        "country_code": "ES",
+        "asn": "201426",
+        "description": "Soltia Consulting SL",
+        "handle": "HOSTINGSOLTIA"
+    },
+    "201446": {
+        "country_code": "ES",
+        "asn": "201446",
+        "description": "Soluciones web on line s.l.",
+        "handle": "PROFESIONALHOSTING"
+    },
+    "201453": {
+        "country_code": "ES",
+        "asn": "201453",
+        "description": "Nostravant S.L.L.",
+        "handle": "AKIWIFI"
+    },
+    "201466": {
+        "country_code": "ES",
+        "asn": "201466",
+        "description": "Xarxes de Telecomunicacions Alternatives SL",
+        "handle": "XTA-AS"
+    },
+    "201500": {
+        "country_code": "ES",
+        "asn": "201500",
+        "description": "Fibrasur Operadores S.L.",
+        "handle": "AS-CASARICHE"
+    },
+    "201553": {
+        "country_code": "ES",
+        "asn": "201553",
+        "description": "Vola los del Internet S.L.",
+        "handle": "VOLA"
+    },
+    "201569": {
+        "country_code": "ES",
+        "asn": "201569",
+        "description": "North Point Solution SL",
+        "handle": "NORTHPOINT"
+    },
+    "201619": {
+        "country_code": "ES",
+        "asn": "201619",
+        "description": "Wifitoons S.L.",
+        "handle": "WIFITOONS"
+    },
+    "201655": {
+        "country_code": "ES",
+        "asn": "201655",
+        "description": "DOBLENET Soluciones Tecnologicas S.L.",
+        "handle": "DOBLENET"
+    },
+    "201704": {
+        "country_code": "ES",
+        "asn": "201704",
+        "description": "VALL DE SOLLER TELECOMUNICACIONS SLU",
+        "handle": "ESVST-AS"
+    },
+    "201732": {
+        "country_code": "ES",
+        "asn": "201732",
+        "description": "Enric Aparisi Verdaguer",
+        "handle": "ENRIC-APARISI-VERDAGUER"
+    },
+    "201735": {
+        "country_code": "ES",
+        "asn": "201735",
+        "description": "PROPHASE ELECTRONICS S.L.",
+        "handle": "PROPHASE-AS"
+    },
+    "201746": {
+        "country_code": "ES",
+        "asn": "201746",
+        "description": "Olivenet Network S.L.",
+        "handle": "OLIVENET-AS"
+    },
+    "201748": {
+        "country_code": "ES",
+        "asn": "201748",
+        "description": "INFOTELECOM NETWORKS SL",
+        "handle": "INFOTELECOM"
+    },
+    "201843": {
+        "country_code": "ES",
+        "asn": "201843",
+        "description": "IBERSONTEL SOLUCIONES MOVILES S.L.",
+        "handle": "IBERSONTEL"
+    },
+    "201942": {
+        "country_code": "ES",
+        "asn": "201942",
+        "description": "Soltia Consulting SL",
+        "handle": "SOLTIA"
+    },
+    "201957": {
+        "country_code": "ES",
+        "asn": "201957",
+        "description": "Yoel Martinez Villalba",
+        "handle": "ETHERNALCLOUD"
+    },
+    "201976": {
+        "country_code": "ES",
+        "asn": "201976",
+        "description": "Mercadona S.A",
+        "handle": "ASMERCADONA"
+    },
+    "202005": {
+        "country_code": "ES",
+        "asn": "202005",
+        "description": "Corporacion Alimentaria Guissona S.A",
+        "handle": "ASBONAREA"
+    },
+    "202018": {
+        "country_code": "ES",
+        "asn": "202018",
+        "description": "Servinet Sistemas y Comunicacion S.L.",
+        "handle": "SERVINET"
+    },
+    "202025": {
+        "country_code": "ES",
+        "asn": "202025",
+        "description": "ONLYCABLE SL",
+        "handle": "ASN-WIWAI"
+    },
+    "202047": {
+        "country_code": "ES",
+        "asn": "202047",
+        "description": "BREAK FREE TELECOM SL",
+        "handle": "IPSECURITY"
+    },
+    "202054": {
+        "country_code": "ES",
+        "asn": "202054",
+        "description": "GRUPO SYS4NET S.L.",
+        "handle": "S4N-AS"
+    },
+    "202097": {
+        "country_code": "ES",
+        "asn": "202097",
+        "description": "IBERMUTUA",
+        "handle": "IBERMUTUA"
+    },
+    "202125": {
+        "country_code": "ES",
+        "asn": "202125",
+        "description": "ACACIO SERVICIOS TELEMATICOS S.L.",
+        "handle": "ACACIONET"
+    },
+    "202158": {
+        "country_code": "ES",
+        "asn": "202158",
+        "description": "Tele Satelite De Mazarron SL",
+        "handle": "TVMAZARRON"
+    },
+    "202169": {
+        "country_code": "ES",
+        "asn": "202169",
+        "description": "AVATEL TELECOM SA",
+        "handle": "SCANSAT-AS"
+    },
+    "202205": {
+        "country_code": "ES",
+        "asn": "202205",
+        "description": "FIBRA A LA PORTA S.L.",
+        "handle": "BIARTEL"
+    },
+    "202207": {
+        "country_code": "ES",
+        "asn": "202207",
+        "description": "ASPA CLOUD SL",
+        "handle": "EAM"
+    },
+    "202210": {
+        "country_code": "ES",
+        "asn": "202210",
+        "description": "RENTA 4 BANCO S.A.",
+        "handle": "RENTA4-AS"
+    },
+    "202211": {
+        "country_code": "ES",
+        "asn": "202211",
+        "description": "Manuel Mariposa Consulting SL",
+        "handle": "MARIPOSANET"
+    },
+    "202222": {
+        "country_code": "ES",
+        "asn": "202222",
+        "description": "Joan Cirer Capo",
+        "handle": "JOAN-CIRER"
+    },
+    "202227": {
+        "country_code": "ES",
+        "asn": "202227",
+        "description": "Nostravant S.L.L.",
+        "handle": "MONCOFA"
+    },
+    "202305": {
+        "country_code": "ES",
+        "asn": "202305",
+        "description": "JOAN GRAU FERRI trading as Wirered",
+        "handle": "WIRERED"
+    },
+    "202324": {
+        "country_code": "ES",
+        "asn": "202324",
+        "description": "CASVA SEGURIDAD S.L.",
+        "handle": "CASVA"
+    },
+    "202330": {
+        "country_code": "ES",
+        "asn": "202330",
+        "description": "ISP Gestion Provider SL",
+        "handle": "ISPGESTION"
+    },
+    "202334": {
+        "country_code": "ES",
+        "asn": "202334",
+        "description": "Free Technologies Excom S.L.",
+        "handle": "REDHELIO"
+    },
+    "202349": {
+        "country_code": "ES",
+        "asn": "202349",
+        "description": "Fibercli Proyectos e Innovacion S.L.",
+        "handle": "FIBRABOX"
+    },
+    "202352": {
+        "country_code": "ES",
+        "asn": "202352",
+        "description": "CONECTA 3 TELECOM S.L.",
+        "handle": "MIBIT-AS"
+    },
+    "202367": {
+        "country_code": "ES",
+        "asn": "202367",
+        "description": "NET PARTNER WIFINN S.L.",
+        "handle": "NETPARTNERWIFINN"
+    },
+    "202375": {
+        "country_code": "ES",
+        "asn": "202375",
+        "description": "Digital Albox SL",
+        "handle": "DIGITALBOX"
+    },
+    "202384": {
+        "country_code": "ES",
+        "asn": "202384",
+        "description": "Netfiber Conecta 2020 SLU",
+        "handle": "NETFIBER-AS"
+    },
+    "202421": {
+        "country_code": "ES",
+        "asn": "202421",
+        "description": "Wimaz S. L.",
+        "handle": "WIMAZ"
+    },
+    "202440": {
+        "country_code": "ES",
+        "asn": "202440",
+        "description": "Comunicaciones Opticas Waditel S.L.",
+        "handle": "WADITEL"
+    },
+    "202471": {
+        "country_code": "ES",
+        "asn": "202471",
+        "description": "Skydance Animation Madrid S.L.",
+        "handle": "SKYDANCE-ES"
+    },
+    "202484": {
+        "country_code": "ES",
+        "asn": "202484",
+        "description": "Azurita Store S. L.",
+        "handle": "AZURITA-STORE-AS"
+    },
+    "202491": {
+        "country_code": "ES",
+        "asn": "202491",
+        "description": "WINET TELECOM SL",
+        "handle": "WINET"
+    },
+    "202503": {
+        "country_code": "ES",
+        "asn": "202503",
+        "description": "DESIS INFORMATICA SL",
+        "handle": "XENET"
+    },
+    "202513": {
+        "country_code": "ES",
+        "asn": "202513",
+        "description": "Gestioniza Infraestructuras S.L.",
+        "handle": "FASTTOLEDO"
+    },
+    "202531": {
+        "country_code": "ES",
+        "asn": "202531",
+        "description": "GASTECOM SL",
+        "handle": "GASTECOM"
+    },
+    "202550": {
+        "country_code": "ES",
+        "asn": "202550",
+        "description": "GLU TECHNOLOGIES S.L.U",
+        "handle": "GLUTEC"
+    },
+    "202565": {
+        "country_code": "ES",
+        "asn": "202565",
+        "description": "7P SERVICIOS INTEGRADOS SLU",
+        "handle": "DARATEL"
+    },
+    "202583": {
+        "country_code": "ES",
+        "asn": "202583",
+        "description": "AVATEL TELECOM SA",
+        "handle": "AVATELTELECOM"
+    },
+    "202603": {
+        "country_code": "ES",
+        "asn": "202603",
+        "description": "EGONE CONSULTING SL",
+        "handle": "WIMOVIL"
+    },
+    "202608": {
+        "country_code": "ES",
+        "asn": "202608",
+        "description": "UNILAN TELECOM SL",
+        "handle": "UNILAN-AS"
+    },
+    "202609": {
+        "country_code": "ES",
+        "asn": "202609",
+        "description": "DKV Seguros y Reaseguros Sociedad Anonima Espanola S.A.U",
+        "handle": "DKV-SEGUROS"
+    },
+    "202636": {
+        "country_code": "ES",
+        "asn": "202636",
+        "description": "Invermae Solutions SL",
+        "handle": "ECHELON"
+    },
+    "202654": {
+        "country_code": "ES",
+        "asn": "202654",
+        "description": "Acerko Telecom S.L.",
+        "handle": "ASACERKO"
+    },
+    "202658": {
+        "country_code": "ES",
+        "asn": "202658",
+        "description": "CITY FIBER SL",
+        "handle": "CITYFIBER"
+    },
+    "202673": {
+        "country_code": "ES",
+        "asn": "202673",
+        "description": "Ohz Digital S.L.",
+        "handle": "OHZ"
+    },
+    "202686": {
+        "country_code": "ES",
+        "asn": "202686",
+        "description": "Sestaferia Digital Sociedad Cooperativa Asturiana",
+        "handle": "SESTAFERIA"
+    },
+    "202743": {
+        "country_code": "ES",
+        "asn": "202743",
+        "description": "Aplienfi S.L.",
+        "handle": "APLIENFI"
+    },
+    "202754": {
+        "country_code": "ES",
+        "asn": "202754",
+        "description": "Free Technologies Excom S.L.",
+        "handle": "INALNET"
+    },
+    "202765": {
+        "country_code": "ES",
+        "asn": "202765",
+        "description": "DATA CENTER EUSKADI SOCIEDAD LIMITADA",
+        "handle": "ES-DATACENTEREUSKADI"
+    },
+    "202766": {
+        "country_code": "ES",
+        "asn": "202766",
+        "description": "LYNTIA NETWORKS S.A.",
+        "handle": "AS-FORMER-CODINET"
+    },
+    "202767": {
+        "country_code": "ES",
+        "asn": "202767",
+        "description": "Futura Service Provider S.A.",
+        "handle": "FUTURASP"
+    },
+    "202813": {
+        "country_code": "ES",
+        "asn": "202813",
+        "description": "LIBERATEL COMUNICACIONES S.L.",
+        "handle": "ASLIBER"
+    },
+    "202814": {
+        "country_code": "ES",
+        "asn": "202814",
+        "description": "ELECTRICA FUSION DE VILLANUEVA DE CORDOBA S.L.",
+        "handle": "EVC"
+    },
+    "202825": {
+        "country_code": "ES",
+        "asn": "202825",
+        "description": "NEAR TELECOM S.L.",
+        "handle": "NEARTEL"
+    },
+    "202829": {
+        "country_code": "ES",
+        "asn": "202829",
+        "description": "Luis Sanchez Martin",
+        "handle": "WSP-AS1"
+    },
+    "202833": {
+        "country_code": "ES",
+        "asn": "202833",
+        "description": "Banco de Sabadell SA",
+        "handle": "BSABADELL2"
+    },
+    "202844": {
+        "country_code": "ES",
+        "asn": "202844",
+        "description": "Airsip Telecomunicaciones S.L.",
+        "handle": "AIRSIP-TELECOMUNICACIONES-ASN"
+    },
+    "202853": {
+        "country_code": "ES",
+        "asn": "202853",
+        "description": "GRUP KOUTEN COMUNICACIONS SL",
+        "handle": "KOUTEN"
+    },
+    "202883": {
+        "country_code": "ES",
+        "asn": "202883",
+        "description": "FATEN FACILITIES ENERGY TELECOM S.L.",
+        "handle": "COMUNITELIA"
+    },
+    "202913": {
+        "country_code": "ES",
+        "asn": "202913",
+        "description": "CLOUDWIFI SL",
+        "handle": "CLOUDWIFI"
+    },
+    "202915": {
+        "country_code": "ES",
+        "asn": "202915",
+        "description": "CUSTOS messium SLNE",
+        "handle": "CUSTOS-AS"
+    },
+    "202997": {
+        "country_code": "ES",
+        "asn": "202997",
+        "description": "Bankinter Global Services SA",
+        "handle": "ASBANKINTER"
+    },
+    "203012": {
+        "country_code": "ES",
+        "asn": "203012",
+        "description": "FIBRITEL TELECOMUNICACIONES SL",
+        "handle": "GESTIONIZA"
+    },
+    "203047": {
+        "country_code": "ES",
+        "asn": "203047",
+        "description": "ONDAFIBRA S.L.",
+        "handle": "ONDAFIBRA"
+    },
+    "203051": {
+        "country_code": "ES",
+        "asn": "203051",
+        "description": "DIPUTACION PROVINCIAL DE AVILA",
+        "handle": "DIPUAVILA"
+    },
+    "203068": {
+        "country_code": "ES",
+        "asn": "203068",
+        "description": "Bandalibre Comunicaciones S.L.",
+        "handle": "BANDALIBRE-AS"
+    },
+    "203099": {
+        "country_code": "ES",
+        "asn": "203099",
+        "description": "LoadFront S.L.",
+        "handle": "LOADFRONT"
+    },
+    "203115": {
+        "country_code": "ES",
+        "asn": "203115",
+        "description": "VyOS Networks Iberia S.L.U.",
+        "handle": "SENTRIUM"
+    },
+    "203119": {
+        "country_code": "ES",
+        "asn": "203119",
+        "description": "Servicios Tecnologicos TIM SL",
+        "handle": "TIMWE"
+    },
+    "203161": {
+        "country_code": "ES",
+        "asn": "203161",
+        "description": "Tomelloso Best Service S. L.",
+        "handle": "TOMELLOSO"
+    },
+    "203178": {
+        "country_code": "ES",
+        "asn": "203178",
+        "description": "AXARNET COMUNICACIONES S.L.",
+        "handle": "AXARNET-RESERVED"
+    },
+    "203183": {
+        "country_code": "ES",
+        "asn": "203183",
+        "description": "ARNOLD CALLE TELECOM S.L.",
+        "handle": "FOBOSTELECOM"
+    },
+    "203187": {
+        "country_code": "ES",
+        "asn": "203187",
+        "description": "WGR TELECOMUNICACIONES VALLE DE LOS PEDROCHES SA",
+        "handle": "WGR"
+    },
+    "203212": {
+        "country_code": "ES",
+        "asn": "203212",
+        "description": "Free Technologies Excom S.L.",
+        "handle": "WICO"
+    },
+    "203244": {
+        "country_code": "ES",
+        "asn": "203244",
+        "description": "TELEVISION TRUJILLO S.L.",
+        "handle": "WIFIPAL"
+    },
+    "203277": {
+        "country_code": "ES",
+        "asn": "203277",
+        "description": "VOIPING US SL",
+        "handle": "VOIPING-US"
+    },
+    "203280": {
+        "country_code": "ES",
+        "asn": "203280",
+        "description": "Jose Antonio Vazquez Quian",
+        "handle": "ANDAINA"
+    },
+    "203292": {
+        "country_code": "ES",
+        "asn": "203292",
+        "description": "Hostisoft S.L.",
+        "handle": "HOSTISOFT"
+    },
+    "203324": {
+        "country_code": "ES",
+        "asn": "203324",
+        "description": "JetTelecom sistemas S.L.",
+        "handle": "JETAS"
+    },
+    "203404": {
+        "country_code": "ES",
+        "asn": "203404",
+        "description": "Roca Sanitario S.A.",
+        "handle": "ROCA"
+    },
+    "203457": {
+        "country_code": "ES",
+        "asn": "203457",
+        "description": "Fundacio Institut de Ciencies Fotoniques (ICFO)",
+        "handle": "ICFO"
+    },
+    "203499": {
+        "country_code": "ES",
+        "asn": "203499",
+        "description": "Free Technologies Excom S.L.",
+        "handle": "WI-NET-SOLIS-AS"
+    },
+    "203503": {
+        "country_code": "ES",
+        "asn": "203503",
+        "description": "TICAE TELECOM S.L.",
+        "handle": "TICAE"
+    },
+    "203600": {
+        "country_code": "ES",
+        "asn": "203600",
+        "description": "VIVAFIBRA TELECOMUNICACIONES S.L.",
+        "handle": "TVLOJA"
+    },
+    "203603": {
+        "country_code": "ES",
+        "asn": "203603",
+        "description": "Antonio Lobato Trujillo",
+        "handle": "AS-INTERNETDIRECTO"
+    },
+    "203641": {
+        "country_code": "ES",
+        "asn": "203641",
+        "description": "Safety Capital S.L",
+        "handle": "GUILLENAWIFI"
+    },
+    "203709": {
+        "country_code": "ES",
+        "asn": "203709",
+        "description": "XFERA Moviles S.A.",
+        "handle": "SCHEDIA"
+    },
+    "203712": {
+        "country_code": "ES",
+        "asn": "203712",
+        "description": "Xarxes Esteses de Comunicacions SL",
+        "handle": "XARTIC-AS"
+    },
+    "203751": {
+        "country_code": "ES",
+        "asn": "203751",
+        "description": "GRUPO WIFIMAX S.L.",
+        "handle": "WIFIMAX"
+    },
+    "203835": {
+        "country_code": "ES",
+        "asn": "203835",
+        "description": "SAMBATEL CONSULTING SL",
+        "handle": "SAMBATEL"
+    },
+    "203874": {
+        "country_code": "ES",
+        "asn": "203874",
+        "description": "David Pujals Sans",
+        "handle": "DEVREX"
+    },
+    "203934": {
+        "country_code": "ES",
+        "asn": "203934",
+        "description": "DIGITAL GARAGE S.L.",
+        "handle": "GIGABYTESISTEMAS"
+    },
+    "203935": {
+        "country_code": "ES",
+        "asn": "203935",
+        "description": "7P SERVICIOS INTEGRADOS SLU",
+        "handle": "SONIMAR"
+    },
+    "203936": {
+        "country_code": "ES",
+        "asn": "203936",
+        "description": "AVATEL TELECOM SA",
+        "handle": "AS-MISMENET"
+    },
+    "203978": {
+        "country_code": "ES",
+        "asn": "203978",
+        "description": "Free Technologies Excom S.L.",
+        "handle": "RIOTELECOMM-SUR"
+    },
+    "204004": {
+        "country_code": "ES",
+        "asn": "204004",
+        "description": "Fibranet Tecnologia y Sistemas SL",
+        "handle": "AIREBULLAS"
+    },
+    "204042": {
+        "country_code": "ES",
+        "asn": "204042",
+        "description": "Networksland SL",
+        "handle": "NETWORKSLAND"
+    },
+    "204062": {
+        "country_code": "ES",
+        "asn": "204062",
+        "description": "ETELECOM SEGRIA SL",
+        "handle": "ETELECOM"
+    },
+    "204114": {
+        "country_code": "ES",
+        "asn": "204114",
+        "description": "IT ENCORE TECNOLOGIA SL",
+        "handle": "ITENCORE-TVR"
+    },
+    "204133": {
+        "country_code": "ES",
+        "asn": "204133",
+        "description": "GLOBEX TIC SERVICES S.L.",
+        "handle": "GLOBEX"
+    },
+    "204134": {
+        "country_code": "ES",
+        "asn": "204134",
+        "description": "Jose Socrates Reviejo Bermejo",
+        "handle": "INCSERVERS"
+    },
+    "204143": {
+        "country_code": "ES",
+        "asn": "204143",
+        "description": "Zeta Air S.L.",
+        "handle": "ASZETAAIR"
+    },
+    "204166": {
+        "country_code": "ES",
+        "asn": "204166",
+        "description": "7P SERVICIOS INTEGRADOS SLU",
+        "handle": "AYSDC"
+    },
+    "204175": {
+        "country_code": "ES",
+        "asn": "204175",
+        "description": "Nostravant S.L.L.",
+        "handle": "AKINOSTRA"
+    },
+    "204189": {
+        "country_code": "ES",
+        "asn": "204189",
+        "description": "VideoLuc S.A",
+        "handle": "VIDEOLUC"
+    },
+    "204234": {
+        "country_code": "ES",
+        "asn": "204234",
+        "description": "XFERA Moviles S.A.",
+        "handle": "TVA-ASN"
+    },
+    "204269": {
+        "country_code": "ES",
+        "asn": "204269",
+        "description": "Mateo De la Hoz",
+        "handle": "AS-MEOWNET"
+    },
+    "204286": {
+        "country_code": "ES",
+        "asn": "204286",
+        "description": "Invermae Solutions SL",
+        "handle": "CDN4YOU"
+    },
+    "204303": {
+        "country_code": "ES",
+        "asn": "204303",
+        "description": "Fibrasur Operadores S.L.",
+        "handle": "TRABUCOTV"
+    },
+    "204347": {
+        "country_code": "ES",
+        "asn": "204347",
+        "description": "Netfiber Conecta 2020 SLU",
+        "handle": "REDWIRELES-AS"
+    },
+    "204364": {
+        "country_code": "ES",
+        "asn": "204364",
+        "description": "Digital Resources Management S.L.",
+        "handle": "DIGITAL-RESOURCES-MANAGEMENT"
+    },
+    "204369": {
+        "country_code": "ES",
+        "asn": "204369",
+        "description": "Redcapac SL",
+        "handle": "REDCAPAC"
+    },
+    "204396": {
+        "country_code": "ES",
+        "asn": "204396",
+        "description": "OLVERA CA.T.V. S. COOP. AND.",
+        "handle": "TVOLVERA"
+    },
+    "204488": {
+        "country_code": "ES",
+        "asn": "204488",
+        "description": "CONNECTA-COMUNICACIONS INTEGRALS DE CATALUNYA S.L",
+        "handle": "CONNECT-SOLUTIONS"
+    },
+    "204513": {
+        "country_code": "ES",
+        "asn": "204513",
+        "description": "SERCOM INFORMATICA S.L",
+        "handle": "SERCOM"
+    },
+    "204542": {
+        "country_code": "ES",
+        "asn": "204542",
+        "description": "NUBIP TALK S.L.U.",
+        "handle": "NUBIP-TALK"
+    },
+    "204555": {
+        "country_code": "ES",
+        "asn": "204555",
+        "description": "DIGITAL MEDIA GROWING CLOUD SL",
+        "handle": "DMGCLOUD"
+    },
+    "204556": {
+        "country_code": "ES",
+        "asn": "204556",
+        "description": "SysAdminOK SL",
+        "handle": "SYSADMINOK"
+    },
+    "204557": {
+        "country_code": "ES",
+        "asn": "204557",
+        "description": "Cable Aireworld S.A.U.",
+        "handle": "CWAGOST-AS"
+    },
+    "204563": {
+        "country_code": "ES",
+        "asn": "204563",
+        "description": "NexTReT S.L.",
+        "handle": "TRT-MAD"
+    },
+    "204581": {
+        "country_code": "ES",
+        "asn": "204581",
+        "description": "MOVIMIENTO TELEVISIVO S.A.",
+        "handle": "MOVITEL"
+    },
+    "204602": {
+        "country_code": "ES",
+        "asn": "204602",
+        "description": "ONLYCABLE SL",
+        "handle": "ISPCABLE"
+    },
+    "204621": {
+        "country_code": "ES",
+        "asn": "204621",
+        "description": "WIRELESS LOGIC S.L.",
+        "handle": "WIRELESSLOGIC-ES"
+    },
+    "204628": {
+        "country_code": "ES",
+        "asn": "204628",
+        "description": "Valor Information Technologies S.L.",
+        "handle": "AS-NETWORK-SERVICE"
+    },
+    "204629": {
+        "country_code": "ES",
+        "asn": "204629",
+        "description": "Valor Information Technologies S.L.",
+        "handle": "QEMUGEN-CLOUD"
+    },
+    "204643": {
+        "country_code": "ES",
+        "asn": "204643",
+        "description": "El Corte Ingles S.A.",
+        "handle": "ECI-AS"
+    },
+    "204654": {
+        "country_code": "ES",
+        "asn": "204654",
+        "description": "AGRUPACION ESPANOLA DE ENTIDADES ASEGURADORAS DE LOS SEGUROS AGRARIOS COMBINADOS SA",
+        "handle": "ASAGROSEGURO"
+    },
+    "204667": {
+        "country_code": "ES",
+        "asn": "204667",
+        "description": "Juan Ramon Jerez Suarez",
+        "handle": "WIFIGOMERA"
+    },
+    "204683": {
+        "country_code": "ES",
+        "asn": "204683",
+        "description": "Sistemas de Seguridade A1 SL",
+        "handle": "SEGURIDADE-A1"
+    },
+    "204695": {
+        "country_code": "ES",
+        "asn": "204695",
+        "description": "MARIA JOSEFA SILVERO PARRA",
+        "handle": "ASSERVAN"
+    },
+    "204705": {
+        "country_code": "ES",
+        "asn": "204705",
+        "description": "Cetelem Servicios Informaticos AIE",
+        "handle": "ASCETELEM"
+    },
+    "204741": {
+        "country_code": "ES",
+        "asn": "204741",
+        "description": "AIRSAT COMUNICACIONES S.L.",
+        "handle": "ES-AIRSAT"
+    },
+    "204748": {
+        "country_code": "ES",
+        "asn": "204748",
+        "description": "INDUSTRIA DE DISENO TEXTIL SOCIEDAD ANONIMA",
+        "handle": "AS-INDITEX"
+    },
+    "204758": {
+        "country_code": "ES",
+        "asn": "204758",
+        "description": "CABINAS TELEFONICAS DEL SUR S.L.",
+        "handle": "CABISUR"
+    },
+    "204773": {
+        "country_code": "ES",
+        "asn": "204773",
+        "description": "Felipe Canizares Navarro trading as DMNTR NETWORK SOLUTIONS",
+        "handle": "DMNTR"
+    },
+    "204774": {
+        "country_code": "ES",
+        "asn": "204774",
+        "description": "SISTEL ALMANZORA S.L.",
+        "handle": "SISTEL"
+    },
+    "204810": {
+        "country_code": "ES",
+        "asn": "204810",
+        "description": "SERENAE SERVICIOS AVANZADOS SL",
+        "handle": "SERENAE"
+    },
+    "204811": {
+        "country_code": "ES",
+        "asn": "204811",
+        "description": "ZINNIA TELECOMUNICACIONES SL.",
+        "handle": "ZINNIA"
+    },
+    "204817": {
+        "country_code": "ES",
+        "asn": "204817",
+        "description": "Netcan Technologies S.L.",
+        "handle": "AS1-NETCAN"
+    },
+    "204845": {
+        "country_code": "ES",
+        "asn": "204845",
+        "description": "WGR TELECOMUNICACIONES VALLE DE LOS PEDROCHES SA",
+        "handle": "ES-TELVINOR"
+    },
+    "204854": {
+        "country_code": "ES",
+        "asn": "204854",
+        "description": "ACM IPNETWORK LA PALMA S.L.",
+        "handle": "ACMIPNETWORK-AS"
+    },
+    "204858": {
+        "country_code": "ES",
+        "asn": "204858",
+        "description": "VOIPMINIC S.L.",
+        "handle": "VOIPMINIC"
+    },
+    "204861": {
+        "country_code": "ES",
+        "asn": "204861",
+        "description": "Codisa Telco Solutions S.L.",
+        "handle": "CODISATS"
+    },
+    "204884": {
+        "country_code": "ES",
+        "asn": "204884",
+        "description": "Fundacion Universidad de Valladolid",
+        "handle": "FUNDACION-PARQUE-UVA"
+    },
+    "204993": {
+        "country_code": "ES",
+        "asn": "204993",
+        "description": "ATRESMEDIA CORPORACION DE MEDIOS DE COMUNICACION SA",
+        "handle": "ATRESMEDIA"
+    },
+    "204998": {
+        "country_code": "ES",
+        "asn": "204998",
+        "description": "Som Connexio SCCL",
+        "handle": "SOMCONNEXIO"
+    },
+    "205035": {
+        "country_code": "ES",
+        "asn": "205035",
+        "description": "LucusHost SL",
+        "handle": "LUCUSHOST"
+    },
+    "205057": {
+        "country_code": "ES",
+        "asn": "205057",
+        "description": "OKA Servicios Internet SL",
+        "handle": "OKA"
+    },
+    "205081": {
+        "country_code": "ES",
+        "asn": "205081",
+        "description": "EasyDataHost S.L.",
+        "handle": "EDH"
+    },
+    "205086": {
+        "country_code": "ES",
+        "asn": "205086",
+        "description": "IUKANET SERVEIS SL",
+        "handle": "IUKANET"
+    },
+    "205093": {
+        "country_code": "ES",
+        "asn": "205093",
+        "description": "BANDA ANCHA CANARIAS 3000 S.L.",
+        "handle": "ISLASTELECOM"
+    },
+    "205113": {
+        "country_code": "ES",
+        "asn": "205113",
+        "description": "OLYMPIC BROADCASTING SERVICES SL",
+        "handle": "OBS"
+    },
+    "205170": {
+        "country_code": "ES",
+        "asn": "205170",
+        "description": "Four Mirror Advisors S.L.",
+        "handle": "FOURMIRROR"
+    },
+    "205174": {
+        "country_code": "ES",
+        "asn": "205174",
+        "description": "XARXA DE NOVA GENERACIO DE NAVAS SL",
+        "handle": "XNGN"
+    },
+    "205179": {
+        "country_code": "ES",
+        "asn": "205179",
+        "description": "Virtualdeploy SL",
+        "handle": "VIRTUALDEPLOY"
+    },
+    "205191": {
+        "country_code": "ES",
+        "asn": "205191",
+        "description": "InstelNET Telecomunicaciones S.R.L.",
+        "handle": "INSTELNET"
+    },
+    "205193": {
+        "country_code": "ES",
+        "asn": "205193",
+        "description": "XNET CORE SL",
+        "handle": "VALDEHOST"
+    },
+    "205223": {
+        "country_code": "ES",
+        "asn": "205223",
+        "description": "Free Technologies Excom S.L.",
+        "handle": "FONE"
+    },
+    "205241": {
+        "country_code": "ES",
+        "asn": "205241",
+        "description": "VUNKERS IT EXPERTS S.L.",
+        "handle": "VUNKERS"
+    },
+    "205262": {
+        "country_code": "ES",
+        "asn": "205262",
+        "description": "Free Technologies Excom S.L.",
+        "handle": "CONRED-ES"
+    },
+    "205270": {
+        "country_code": "ES",
+        "asn": "205270",
+        "description": "FIBROPTIC CAT TELECOM SL",
+        "handle": "FIBROPTIC"
+    },
+    "205279": {
+        "country_code": "ES",
+        "asn": "205279",
+        "description": "Montel Telecom S.L.",
+        "handle": "MONTEL"
+    },
+    "205289": {
+        "country_code": "ES",
+        "asn": "205289",
+        "description": "FIBRA OPTICA FILABRES S.L",
+        "handle": "ES-FOFNET-AS"
+    },
+    "205295": {
+        "country_code": "ES",
+        "asn": "205295",
+        "description": "Accesscable S.L.",
+        "handle": "ACCESSCABLE"
+    },
+    "205334": {
+        "country_code": "ES",
+        "asn": "205334",
+        "description": "FIBERPLUS COMUNICATIONS SL",
+        "handle": "FIBERPLUS2AS"
+    },
+    "205341": {
+        "country_code": "ES",
+        "asn": "205341",
+        "description": "SEDE SISTEMAS Y COMUNICACIONES S.L.",
+        "handle": "SEDESISTEMAS"
+    },
+    "205375": {
+        "country_code": "ES",
+        "asn": "205375",
+        "description": "Jose Antonio Ruiz Zamore",
+        "handle": "INDALMOVIL"
+    },
+    "205386": {
+        "country_code": "ES",
+        "asn": "205386",
+        "description": "Zaragozana de Informatica y Telecomunicaciones S.L.",
+        "handle": "ZARAGOZANA"
+    },
+    "205408": {
+        "country_code": "ES",
+        "asn": "205408",
+        "description": "BB Phone Levante S.L.",
+        "handle": "LEMONVIL"
+    },
+    "205446": {
+        "country_code": "ES",
+        "asn": "205446",
+        "description": "Atlas Montajes e Ingenieria SL Unipersonal",
+        "handle": "ATLAS"
+    },
+    "205456": {
+        "country_code": "ES",
+        "asn": "205456",
+        "description": "XFERA Moviles S.A.",
+        "handle": "NETSERVICE"
+    },
+    "205457": {
+        "country_code": "ES",
+        "asn": "205457",
+        "description": "Valor Information Technologies S.L.",
+        "handle": "WISP-TACHIRA"
+    },
+    "205499": {
+        "country_code": "ES",
+        "asn": "205499",
+        "description": "Telecable Cartaya S.L.",
+        "handle": "ASMAIRENA"
+    },
+    "205501": {
+        "country_code": "ES",
+        "asn": "205501",
+        "description": "Telus Comunicaciones S.L.",
+        "handle": "TELUS"
+    },
+    "205506": {
+        "country_code": "ES",
+        "asn": "205506",
+        "description": "Seidor Soluciones Globales SL",
+        "handle": "AS-SAYTEL-01"
+    },
+    "205518": {
+        "country_code": "ES",
+        "asn": "205518",
+        "description": "Robert Michael Span",
+        "handle": "ASCHICLANAWIFI"
+    },
+    "205563": {
+        "country_code": "ES",
+        "asn": "205563",
+        "description": "Marc Gomez",
+        "handle": "ZGATO"
+    },
+    "205572": {
+        "country_code": "ES",
+        "asn": "205572",
+        "description": "Fibratown S.L.",
+        "handle": "FIBRATOWN-AS"
+    },
+    "205575": {
+        "country_code": "ES",
+        "asn": "205575",
+        "description": "Veo Telecomunicaciones SL",
+        "handle": "VEO-TV-ALAMEDA"
+    },
+    "205580": {
+        "country_code": "ES",
+        "asn": "205580",
+        "description": "European Fisheries Control Agency",
+        "handle": "EFCA-ASN"
+    },
+    "205596": {
+        "country_code": "ES",
+        "asn": "205596",
+        "description": "Maria Dolores Sanabria Briones",
+        "handle": "MARIADOLORES"
+    },
+    "205624": {
+        "country_code": "ES",
+        "asn": "205624",
+        "description": "Telecomunicaciones Publicas Andaluzas S.L.",
+        "handle": "TELECOANDALUZAS"
+    },
+    "205645": {
+        "country_code": "ES",
+        "asn": "205645",
+        "description": "MESWIFI SL",
+        "handle": "MESWIFI"
+    },
+    "205694": {
+        "country_code": "ES",
+        "asn": "205694",
+        "description": "Fibranet Telecomunicaciones Murcia S.L.",
+        "handle": "TELECOMUNICACION"
+    },
+    "205697": {
+        "country_code": "ES",
+        "asn": "205697",
+        "description": "ALOJALIA CLOUD S.L.",
+        "handle": "ALOJALIA"
+    },
+    "205715": {
+        "country_code": "ES",
+        "asn": "205715",
+        "description": "Fitel Network S.L.",
+        "handle": "AS-FITELNETWORK"
+    },
+    "205718": {
+        "country_code": "ES",
+        "asn": "205718",
+        "description": "ALCORT INGENIERIA Y ASESORIA S.L.",
+        "handle": "ALCORT"
+    },
+    "205744": {
+        "country_code": "ES",
+        "asn": "205744",
+        "description": "Vola los del Internet S.L.",
+        "handle": "VOLA"
+    },
+    "205751": {
+        "country_code": "ES",
+        "asn": "205751",
+        "description": "Plataforma Multimedia de Operadores SL.",
+        "handle": "PMO-ZAPI"
+    },
+    "205792": {
+        "country_code": "ES",
+        "asn": "205792",
+        "description": "Jose Leon Alvarez",
+        "handle": "ASJOSELEON"
+    },
+    "205796": {
+        "country_code": "ES",
+        "asn": "205796",
+        "description": "Brutalsys S.L.",
+        "handle": "BRUTALSYS"
+    },
+    "205823": {
+        "country_code": "ES",
+        "asn": "205823",
+        "description": "Iwi Telecom S.L",
+        "handle": "AS-IWITELECOM"
+    },
+    "205827": {
+        "country_code": "ES",
+        "asn": "205827",
+        "description": "ConectaT Servicios de Banda Ancha SL",
+        "handle": "CONECTAT-AS"
+    },
+    "205836": {
+        "country_code": "ES",
+        "asn": "205836",
+        "description": "DITT REDMOVIL SL",
+        "handle": "AZURITA"
+    },
+    "205898": {
+        "country_code": "ES",
+        "asn": "205898",
+        "description": "TELEVISION CABLE DIGITAL S.L.",
+        "handle": "TDCPALOS"
+    },
+    "205981": {
+        "country_code": "ES",
+        "asn": "205981",
+        "description": "FIBRAWORLD TELECOM S.A.U.",
+        "handle": "CWSANVICENTE-AS"
+    },
+    "206041": {
+        "country_code": "ES",
+        "asn": "206041",
+        "description": "Network Hero S.L.",
+        "handle": "NETWORKHERO"
+    },
+    "206043": {
+        "country_code": "ES",
+        "asn": "206043",
+        "description": "IRONTEC INTERNET Y SISTEMAS SOBRE GNU LINUX S.L",
+        "handle": "IRONTEC"
+    },
+    "206046": {
+        "country_code": "ES",
+        "asn": "206046",
+        "description": "Entidad Publica Empresarial ENAIRE",
+        "handle": "ENAIRE"
+    },
+    "206076": {
+        "country_code": "ES",
+        "asn": "206076",
+        "description": "Ingenieria y Suministros Profesionales S.L.",
+        "handle": "ISP"
+    },
+    "206077": {
+        "country_code": "ES",
+        "asn": "206077",
+        "description": "Lecrin Television S.L.",
+        "handle": "LECRINTV"
+    },
+    "206089": {
+        "country_code": "ES",
+        "asn": "206089",
+        "description": "TELECOLANZA S.L.",
+        "handle": "TELECOLANZA-AS"
+    },
+    "206101": {
+        "country_code": "ES",
+        "asn": "206101",
+        "description": "EPIC SOLUTIONS S.L.",
+        "handle": "EPIC-TELECOM"
+    },
+    "206102": {
+        "country_code": "ES",
+        "asn": "206102",
+        "description": "Advanced Software Production Line S.L.",
+        "handle": "ASPL"
+    },
+    "206109": {
+        "country_code": "ES",
+        "asn": "206109",
+        "description": "Securitas Seguridad Espana S.A.",
+        "handle": "TECHCO-SECURITY"
+    },
+    "206124": {
+        "country_code": "ES",
+        "asn": "206124",
+        "description": "TELE SATELITE DE MAZARRON SL",
+        "handle": "MAZARRON5G"
+    },
+    "206183": {
+        "country_code": "ES",
+        "asn": "206183",
+        "description": "Metacortex Software SL",
+        "handle": "METACORTEX"
+    },
+    "206189": {
+        "country_code": "ES",
+        "asn": "206189",
+        "description": "Cable Aireworld S.A.U.",
+        "handle": "CWELX-AS"
+    },
+    "206195": {
+        "country_code": "ES",
+        "asn": "206195",
+        "description": "BECONET FIBRA S.L.",
+        "handle": "BECONET-AS"
+    },
+    "206208": {
+        "country_code": "ES",
+        "asn": "206208",
+        "description": "Pusic Jurai",
+        "handle": "PUSIC-JURAJ-AS"
+    },
+    "206215": {
+        "country_code": "ES",
+        "asn": "206215",
+        "description": "KAERU Labs S.L.",
+        "handle": "AS-KAERULABS-ES"
+    },
+    "206252": {
+        "country_code": "ES",
+        "asn": "206252",
+        "description": "European ION Investment Group SL",
+        "handle": "EUROPEAN-AS"
+    },
+    "206265": {
+        "country_code": "ES",
+        "asn": "206265",
+        "description": "Xarxes Esteses de Comunicacions SL",
+        "handle": "TECNO-SO"
+    },
+    "206268": {
+        "country_code": "ES",
+        "asn": "206268",
+        "description": "Associacio Usuaris Guifibages",
+        "handle": "GUIFIBAGES"
+    },
+    "206276": {
+        "country_code": "ES",
+        "asn": "206276",
+        "description": "Citelia s.a.",
+        "handle": "CITELIA"
+    },
+    "206280": {
+        "country_code": "ES",
+        "asn": "206280",
+        "description": "Redes Telecomunicaciones Certificaciones Canarias S.L.",
+        "handle": "REDESNET"
+    },
+    "206318": {
+        "country_code": "ES",
+        "asn": "206318",
+        "description": "CAST-TELECOM SL",
+        "handle": "ASN-CASTTELECOM"
+    },
+    "206366": {
+        "country_code": "ES",
+        "asn": "206366",
+        "description": "Rural Telecom SL",
+        "handle": "RURALTELECOM"
+    },
+    "206404": {
+        "country_code": "ES",
+        "asn": "206404",
+        "description": "ALTERCOM-21 SL",
+        "handle": "ALTERCOM21"
+    },
+    "206430": {
+        "country_code": "ES",
+        "asn": "206430",
+        "description": "INFOTEC TECNOLOGIA INTEGRAL Y TELECOMUNICACIONES SL",
+        "handle": "INFOTEC"
+    },
+    "206451": {
+        "country_code": "ES",
+        "asn": "206451",
+        "description": "GPON Linea S.L.",
+        "handle": "GPONLINEA"
+    },
+    "206481": {
+        "country_code": "ES",
+        "asn": "206481",
+        "description": "Anmaguzcer Telecomunicaciones S.L.U",
+        "handle": "ANMAGUZCER-AS"
+    },
+    "206487": {
+        "country_code": "ES",
+        "asn": "206487",
+        "description": "NEXVOLMAR S.L.",
+        "handle": "NETVOZ"
+    },
+    "206488": {
+        "country_code": "ES",
+        "asn": "206488",
+        "description": "CELENETWORKS SL",
+        "handle": "AS1-SELECTASTERISCO"
+    },
+    "206496": {
+        "country_code": "ES",
+        "asn": "206496",
+        "description": "TDA COMUNICACIONES CONNECTIONS SLU",
+        "handle": "TDACOMUNICACIONES"
+    },
+    "206524": {
+        "country_code": "ES",
+        "asn": "206524",
+        "description": "TELCONET SISTEMAS S.L.",
+        "handle": "TELCONET"
+    },
+    "206565": {
+        "country_code": "ES",
+        "asn": "206565",
+        "description": "IKAI Tecnologias Avanzadas S.L.",
+        "handle": "IKAI"
+    },
+    "206602": {
+        "country_code": "ES",
+        "asn": "206602",
+        "description": "TVT TECNICENTRO SL UNIP",
+        "handle": "TVTCABLE"
+    },
+    "206642": {
+        "country_code": "ES",
+        "asn": "206642",
+        "description": "Quasar Soluciones Tecnologicas S.L.U.",
+        "handle": "QUASAR-ES"
+    },
+    "206654": {
+        "country_code": "ES",
+        "asn": "206654",
+        "description": "EMPRESA PROVINCIAL DE INFORMATICA S.A.",
+        "handle": "AS-EMPRESAPROVINCIALDEINFORMATICA"
+    },
+    "206657": {
+        "country_code": "ES",
+        "asn": "206657",
+        "description": "Jose Leon Alvarez",
+        "handle": "CABLEVISION"
+    },
+    "206702": {
+        "country_code": "ES",
+        "asn": "206702",
+        "description": "7P SERVICIOS INTEGRADOS SLU",
+        "handle": "CLIKO"
+    },
+    "206752": {
+        "country_code": "ES",
+        "asn": "206752",
+        "description": "RADIOCABLE INGENIEROS S.L.",
+        "handle": "FIBREKABLE-AS"
+    },
+    "206757": {
+        "country_code": "ES",
+        "asn": "206757",
+        "description": "FIBROPTIC CAT TELECOM SL",
+        "handle": "TECNOCOLOR"
+    },
+    "206772": {
+        "country_code": "ES",
+        "asn": "206772",
+        "description": "RJK Multimedia Shop S. L . U.",
+        "handle": "RJK"
+    },
+    "206807": {
+        "country_code": "ES",
+        "asn": "206807",
+        "description": "DEL-INTERNET TELECOM S.L.U",
+        "handle": "DEL-INTERNET-AS"
+    },
+    "206818": {
+        "country_code": "ES",
+        "asn": "206818",
+        "description": "Zilean Solutions SL",
+        "handle": "ZILEAN"
+    },
+    "206826": {
+        "country_code": "ES",
+        "asn": "206826",
+        "description": "ABERTIS AUTOPISTAS ESPANA S.A",
+        "handle": "ABERTISAUTOPISTAS"
+    },
+    "206828": {
+        "country_code": "ES",
+        "asn": "206828",
+        "description": "CONNECTA-COMUNICACIONS INTEGRALS DE CATALUNYA S.L",
+        "handle": "CONNECTA"
+    },
+    "206830": {
+        "country_code": "ES",
+        "asn": "206830",
+        "description": "DIGAMAX GESTION DE TELECOMUNICACIONES SL",
+        "handle": "DIGAMAX"
+    },
+    "206833": {
+        "country_code": "ES",
+        "asn": "206833",
+        "description": "Snell Cuenca Minera S.L",
+        "handle": "SNELL"
+    },
+    "206837": {
+        "country_code": "ES",
+        "asn": "206837",
+        "description": "Air Wifi S.L.",
+        "handle": "AIRWIFI"
+    },
+    "206853": {
+        "country_code": "ES",
+        "asn": "206853",
+        "description": "NOLU NETWORK S.L.",
+        "handle": "NOLU"
+    },
+    "206863": {
+        "country_code": "ES",
+        "asn": "206863",
+        "description": "EQUIPOS INFORMATICOS ERONET SL",
+        "handle": "CODIGO1"
+    },
+    "206866": {
+        "country_code": "ES",
+        "asn": "206866",
+        "description": "GARTEL TELEFONIA Y COMUNICACION S.L.",
+        "handle": "GARTEL"
+    },
+    "206882": {
+        "country_code": "ES",
+        "asn": "206882",
+        "description": "WIFILINKS SL",
+        "handle": "WIFILINKS"
+    },
+    "206886": {
+        "country_code": "ES",
+        "asn": "206886",
+        "description": "CYBERMAN INFORMATICA Y COMUNICACIONES SRLL",
+        "handle": "QPB"
+    },
+    "206930": {
+        "country_code": "ES",
+        "asn": "206930",
+        "description": "Valor Information Technologies S.L.",
+        "handle": "TUYO-INTERNET"
+    },
+    "206945": {
+        "country_code": "ES",
+        "asn": "206945",
+        "description": "Robert Michael Span",
+        "handle": "CO-FI"
+    },
+    "206954": {
+        "country_code": "ES",
+        "asn": "206954",
+        "description": "NexTReT S.L.",
+        "handle": "NEXTRET-AS"
+    },
+    "207008": {
+        "country_code": "ES",
+        "asn": "207008",
+        "description": "Fibra Nostra SL",
+        "handle": "FIBRANOSTRA"
+    },
+    "207026": {
+        "country_code": "ES",
+        "asn": "207026",
+        "description": "Quopiam Informatica SL",
+        "handle": "QUOPIAM"
+    },
+    "207030": {
+        "country_code": "ES",
+        "asn": "207030",
+        "description": "AVATEL TELECOM SA",
+        "handle": "AS1607"
+    },
+    "207040": {
+        "country_code": "ES",
+        "asn": "207040",
+        "description": "OBWAN NETWORK AND SERVICES S.L.",
+        "handle": "ASN-OBWAN"
+    },
+    "207046": {
+        "country_code": "ES",
+        "asn": "207046",
+        "description": "XNET CORE SL",
+        "handle": "REDSERVICIO"
+    },
+    "207050": {
+        "country_code": "ES",
+        "asn": "207050",
+        "description": "FIBRAWORLD TELECOM S.A.U.",
+        "handle": "AS-CABLEWORLDELDA"
+    },
+    "207058": {
+        "country_code": "ES",
+        "asn": "207058",
+        "description": "Dimatica Servicios informaticos Avanzados S.L",
+        "handle": "DIMATICA"
+    },
+    "207060": {
+        "country_code": "ES",
+        "asn": "207060",
+        "description": "E.J.I.E. - EUSKO JAURLARITZAREN INFORMATIKA ELKARTEA - SOCIEDAD INFORMATICA DEL GOBIERNO VASCO S.A.",
+        "handle": "EJIE"
+    },
+    "207122": {
+        "country_code": "ES",
+        "asn": "207122",
+        "description": "Partido Socialista Obrero Espanol (PSOE)",
+        "handle": "PSOE-CEF-AS"
+    },
+    "207136": {
+        "country_code": "ES",
+        "asn": "207136",
+        "description": "AUREA ENERGIA Y TELECOMUNICACIONES S.L.",
+        "handle": "AUREA"
+    },
+    "207174": {
+        "country_code": "ES",
+        "asn": "207174",
+        "description": "Jeyca Tecnologica Y Medio Ambiente SL",
+        "handle": "WIFIGUAY-JEYCA"
+    },
+    "207185": {
+        "country_code": "ES",
+        "asn": "207185",
+        "description": "Free Technologies Excom S.L.",
+        "handle": "AIRCONECT"
+    },
+    "207191": {
+        "country_code": "ES",
+        "asn": "207191",
+        "description": "T2O AD MEDIA SERVICES S.L.",
+        "handle": "T2OAS"
+    },
+    "207286": {
+        "country_code": "ES",
+        "asn": "207286",
+        "description": "RUEDA SISTEMAS S.L.",
+        "handle": "RUEDA-SISTEMAS-AS"
+    },
+    "207294": {
+        "country_code": "ES",
+        "asn": "207294",
+        "description": "TNS GRUPO OLIVA VALLEY SL",
+        "handle": "TNSGRUPO"
+    },
+    "207336": {
+        "country_code": "ES",
+        "asn": "207336",
+        "description": "Netassist SL",
+        "handle": "NETASSISTES"
+    },
+    "207363": {
+        "country_code": "ES",
+        "asn": "207363",
+        "description": "Manuel Antonio Seijo Bustamante",
+        "handle": "MANUEL-ANTONIO-SEIJO-BUSTAMANTE"
+    },
+    "207367": {
+        "country_code": "ES",
+        "asn": "207367",
+        "description": "Nippon Gases Euro-Holding S.L.U.",
+        "handle": "NIPPONGASES"
+    },
+    "207399": {
+        "country_code": "ES",
+        "asn": "207399",
+        "description": "Generacion Tecnologica De Comunicaciones Sociedad Limitada",
+        "handle": "GETECOM-IMPORT"
+    },
+    "207405": {
+        "country_code": "ES",
+        "asn": "207405",
+        "description": "Tetratel Comunicaciones SLU",
+        "handle": "ASN-TETRATEL"
+    },
+    "207412": {
+        "country_code": "ES",
+        "asn": "207412",
+        "description": "Free Technologies Excom S.L.",
+        "handle": "JUSTO-COMUNICACIONS"
+    },
+    "207415": {
+        "country_code": "ES",
+        "asn": "207415",
+        "description": "Nicepeopleatwork S.L.",
+        "handle": "NPAW"
+    },
+    "207495": {
+        "country_code": "ES",
+        "asn": "207495",
+        "description": "Safor Wifi SL",
+        "handle": "SAFORWIFI"
+    },
+    "207527": {
+        "country_code": "ES",
+        "asn": "207527",
+        "description": "Madern Trading Express S.L.U.",
+        "handle": "BEARVM"
+    },
+    "207579": {
+        "country_code": "ES",
+        "asn": "207579",
+        "description": "DITT REDMOVIL SL",
+        "handle": "NUMBERONE"
+    },
+    "207614": {
+        "country_code": "ES",
+        "asn": "207614",
+        "description": "Sistemas informaticos y Servicios de internet FuenLan SL",
+        "handle": "AS-FUENLAN"
+    },
+    "207628": {
+        "country_code": "ES",
+        "asn": "207628",
+        "description": "Eduardo Senin Herrero",
+        "handle": "ESTYA-AS"
+    },
+    "207702": {
+        "country_code": "ES",
+        "asn": "207702",
+        "description": "Nostravant S.L.L.",
+        "handle": "CUENCA"
+    },
+    "207714": {
+        "country_code": "ES",
+        "asn": "207714",
+        "description": "Fundacion Tecnalia Research and Innovation",
+        "handle": "TECNALIA"
+    },
+    "207717": {
+        "country_code": "ES",
+        "asn": "207717",
+        "description": "Icatel Network S.L.",
+        "handle": "ASICATEL"
+    },
+    "207747": {
+        "country_code": "ES",
+        "asn": "207747",
+        "description": "IAAS 365 SL",
+        "handle": "IAAS365"
+    },
+    "207815": {
+        "country_code": "ES",
+        "asn": "207815",
+        "description": "Luis Sanchez Martin",
+        "handle": "AS1-LSM"
+    },
+    "207904": {
+        "country_code": "ES",
+        "asn": "207904",
+        "description": "VEU I BITS SERVEIS EMPRESARIALS S.L.",
+        "handle": "VEUIBITS"
+    },
+    "207906": {
+        "country_code": "ES",
+        "asn": "207906",
+        "description": "VERITA NETWORKS SOCIEDAD LIMITADA",
+        "handle": "JVCM"
+    },
+    "207915": {
+        "country_code": "ES",
+        "asn": "207915",
+        "description": "Invermae Solutions SL",
+        "handle": "SYMEETRIC"
+    },
+    "207923": {
+        "country_code": "ES",
+        "asn": "207923",
+        "description": "AVATEL TELECOM SA",
+        "handle": "AIREON"
+    },
+    "207944": {
+        "country_code": "ES",
+        "asn": "207944",
+        "description": "CAPETA-SYSTEM S.L.",
+        "handle": "CAPETA-SYSTEM"
+    },
+    "207974": {
+        "country_code": "ES",
+        "asn": "207974",
+        "description": "FIBERPLUS COMUNICATIONS SL",
+        "handle": "FIBERPLUS"
+    },
+    "207975": {
+        "country_code": "ES",
+        "asn": "207975",
+        "description": "Meditel Network SL",
+        "handle": "MEDITEL"
+    },
+    "207987": {
+        "country_code": "ES",
+        "asn": "207987",
+        "description": "EM SISTEMAS INFORMATICOS Y TELECOMUNICACIONES DE MALLORCA SL",
+        "handle": "EMSYSTEMS"
+    },
+    "208027": {
+        "country_code": "ES",
+        "asn": "208027",
+        "description": "GESTAMP SERVICIOS S.A.",
+        "handle": "GESTAMP"
+    },
+    "208036": {
+        "country_code": "ES",
+        "asn": "208036",
+        "description": "Tecnocratica Centro de Datos S.L.",
+        "handle": "TECNOCRATICA-EXTRA"
+    },
+    "208070": {
+        "country_code": "ES",
+        "asn": "208070",
+        "description": "TILYTEL Business S.L.",
+        "handle": "TILYTEL"
+    },
+    "208103": {
+        "country_code": "ES",
+        "asn": "208103",
+        "description": "Cesar Maffini Martin",
+        "handle": "ZONAENERGIA"
+    },
+    "208109": {
+        "country_code": "ES",
+        "asn": "208109",
+        "description": "IDIADA Automotive Technology S.A.",
+        "handle": "IDIADA"
+    },
+    "208170": {
+        "country_code": "ES",
+        "asn": "208170",
+        "description": "FIBRESPEED S.L.",
+        "handle": "FIBRESPEED"
+    },
+    "208196": {
+        "country_code": "ES",
+        "asn": "208196",
+        "description": "Grupo Proveedor tecnologico Universal SL",
+        "handle": "GRUPOUNIVERSAL"
+    },
+    "208222": {
+        "country_code": "ES",
+        "asn": "208222",
+        "description": "Bullhost Cloud Services SL",
+        "handle": "BULLHOST"
+    },
+    "208248": {
+        "country_code": "ES",
+        "asn": "208248",
+        "description": "Innovative Business Software Iberia S.L.",
+        "handle": "SCS-AS"
+    },
+    "208253": {
+        "country_code": "ES",
+        "asn": "208253",
+        "description": "Associacio Expansio de la Xarxa Oberta",
+        "handle": "EXO"
+    },
+    "208257": {
+        "country_code": "ES",
+        "asn": "208257",
+        "description": "CELENETWORKS SL",
+        "handle": "CELENET-AS"
+    },
+    "208265": {
+        "country_code": "ES",
+        "asn": "208265",
+        "description": "CELENETWORKS SL",
+        "handle": "CELENET-AS"
+    },
+    "208269": {
+        "country_code": "ES",
+        "asn": "208269",
+        "description": "EMPRESA LINEAS TELEFONICAS S.A.",
+        "handle": "ELITESA-AS"
+    },
+    "208288": {
+        "country_code": "ES",
+        "asn": "208288",
+        "description": "Wiphone telecomunicaciones SL",
+        "handle": "WIPHONE"
+    },
+    "208297": {
+        "country_code": "ES",
+        "asn": "208297",
+        "description": "Invermae Solutions SL",
+        "handle": "PSJCLOUD"
+    },
+    "208313": {
+        "country_code": "ES",
+        "asn": "208313",
+        "description": "IBERNET FIBRA S.L.",
+        "handle": "IBERNET"
+    },
+    "208351": {
+        "country_code": "ES",
+        "asn": "208351",
+        "description": "Netfiber Conecta 2020 SLU",
+        "handle": "TERRA"
+    },
+    "208455": {
+        "country_code": "ES",
+        "asn": "208455",
+        "description": "TDA COMUNICACIONES CONNECTIONS SLU",
+        "handle": "FIBRA-TDA"
+    },
+    "208486": {
+        "country_code": "ES",
+        "asn": "208486",
+        "description": "IPARFIBRA SL",
+        "handle": "IPARFIBRA"
+    },
+    "208497": {
+        "country_code": "ES",
+        "asn": "208497",
+        "description": "SOCIEDAD PROVINCIAL DE INFORMATICA DE SEVILLA S.A.",
+        "handle": "DIPUSEVILLA"
+    },
+    "208569": {
+        "country_code": "ES",
+        "asn": "208569",
+        "description": "Norvoz Telecom S.L.",
+        "handle": "NORVOZ"
+    },
+    "208572": {
+        "country_code": "ES",
+        "asn": "208572",
+        "description": "Muba Online SL",
+        "handle": "MUBA"
+    },
+    "208586": {
+        "country_code": "ES",
+        "asn": "208586",
+        "description": "Neotel 2000 S.L",
+        "handle": "ES-NEOTEL-AS"
+    },
+    "208591": {
+        "country_code": "ES",
+        "asn": "208591",
+        "description": "Aitire S.L",
+        "handle": "AITIRE"
+    },
+    "208596": {
+        "country_code": "ES",
+        "asn": "208596",
+        "description": "Verimax Telecom SL",
+        "handle": "VERIMAX"
+    },
+    "208597": {
+        "country_code": "ES",
+        "asn": "208597",
+        "description": "NAVARRA DE SERVICIOS Y TECNOLOGIAS S.A.",
+        "handle": "ES-NASERTIC-AS"
+    },
+    "208616": {
+        "country_code": "ES",
+        "asn": "208616",
+        "description": "Ausarta Conecta SL",
+        "handle": "AUREA"
+    },
+    "208619": {
+        "country_code": "ES",
+        "asn": "208619",
+        "description": "Free Technologies Excom S.L.",
+        "handle": "BANDAWIFI"
+    },
+    "208635": {
+        "country_code": "ES",
+        "asn": "208635",
+        "description": "Diputacion Provincial Alicante",
+        "handle": "AS-DIPUTACION-ALICANTE"
+    },
+    "208695": {
+        "country_code": "ES",
+        "asn": "208695",
+        "description": "Valor Information Technologies S.L.",
+        "handle": "AS-COMFIBRA-INTERNET"
+    },
+    "208726": {
+        "country_code": "ES",
+        "asn": "208726",
+        "description": "FIATC MUTUA DE SEGUROS Y REASEGUROS",
+        "handle": "ASFIATC"
+    },
+    "208735": {
+        "country_code": "ES",
+        "asn": "208735",
+        "description": "BIWIFI TELECOMUNICACIONES S.L.",
+        "handle": "BIWIFI"
+    },
+    "208738": {
+        "country_code": "ES",
+        "asn": "208738",
+        "description": "Carcon Networks S.L.",
+        "handle": "CARCON"
+    },
+    "208767": {
+        "country_code": "ES",
+        "asn": "208767",
+        "description": "TELEVALENTIN S.L",
+        "handle": "ES-TELEVALENTIN2-AS"
+    },
+    "208769": {
+        "country_code": "ES",
+        "asn": "208769",
+        "description": "Nicalia Internet S.L.U",
+        "handle": "NICALIAINTERNET"
+    },
+    "208823": {
+        "country_code": "ES",
+        "asn": "208823",
+        "description": "Servei de Informatica Local de Menorca",
+        "handle": "SILME"
+    },
+    "208824": {
+        "country_code": "ES",
+        "asn": "208824",
+        "description": "Pau Cab",
+        "handle": "POLOPRO"
+    },
+    "208863": {
+        "country_code": "ES",
+        "asn": "208863",
+        "description": "MANGO MNG S.A.",
+        "handle": "MANGO-AS"
+    },
+    "208888": {
+        "country_code": "ES",
+        "asn": "208888",
+        "description": "Four Mirror Advisors S.L.",
+        "handle": "FRONTERA-TV"
+    },
+    "208897": {
+        "country_code": "ES",
+        "asn": "208897",
+        "description": "Lasarte Telecomunicaciones S.L.",
+        "handle": "AS-LASTEL"
+    },
+    "208909": {
+        "country_code": "ES",
+        "asn": "208909",
+        "description": "Gurbtec Iguana Telecom SL",
+        "handle": "AS-VERA"
+    },
+    "208910": {
+        "country_code": "ES",
+        "asn": "208910",
+        "description": "ODOWIFI S.L.U.",
+        "handle": "ASODOWIFI"
+    },
+    "208925": {
+        "country_code": "ES",
+        "asn": "208925",
+        "description": "NO LIMIT NETWORK SA",
+        "handle": "NOLIMITNET"
+    },
+    "208928": {
+        "country_code": "ES",
+        "asn": "208928",
+        "description": "MEGALAN TELECOM SL",
+        "handle": "MEGALAN"
+    },
+    "208931": {
+        "country_code": "ES",
+        "asn": "208931",
+        "description": "Redimer Comunicaciones S. L.",
+        "handle": "REDIMER"
+    },
+    "208939": {
+        "country_code": "ES",
+        "asn": "208939",
+        "description": "TELEDISTRIBUCIONES SERVITECNIC SL",
+        "handle": "SERVITECNIC"
+    },
+    "209023": {
+        "country_code": "ES",
+        "asn": "209023",
+        "description": "Ruben Lago Cabrera",
+        "handle": "TVLAGO"
+    },
+    "209031": {
+        "country_code": "ES",
+        "asn": "209031",
+        "description": "RACOMUR DIFUSION S.L.",
+        "handle": "AIRELINE"
+    },
+    "209087": {
+        "country_code": "ES",
+        "asn": "209087",
+        "description": "Oeste Digital S.L.",
+        "handle": "OD-AS"
+    },
+    "209143": {
+        "country_code": "ES",
+        "asn": "209143",
+        "description": "ITEGAL SERVICIOS TIC S.L.",
+        "handle": "TERRACHATECHNOLOGY"
+    },
+    "209170": {
+        "country_code": "ES",
+        "asn": "209170",
+        "description": "NOVATEL DIGITAL SL",
+        "handle": "NOVATELDIGITAL"
+    },
+    "209190": {
+        "country_code": "ES",
+        "asn": "209190",
+        "description": "Claranet S.A.U.",
+        "handle": "IDGRUP-AS"
+    },
+    "209195": {
+        "country_code": "ES",
+        "asn": "209195",
+        "description": "CAJA DE SEGUROS REUNIDOS COMPANIA DE SEGUROS Y REASEGUROS SA",
+        "handle": "ASCASER"
+    },
+    "209235": {
+        "country_code": "ES",
+        "asn": "209235",
+        "description": "Fibercli Proyectos e Innovacion S.L.",
+        "handle": "FIBERCLI"
+    },
+    "209259": {
+        "country_code": "ES",
+        "asn": "209259",
+        "description": "Corporacion Confidere SA",
+        "handle": "ASAENOR"
+    },
+    "209265": {
+        "country_code": "ES",
+        "asn": "209265",
+        "description": "INFINITY LOOP SLU",
+        "handle": "INFINITYLOOP"
+    },
+    "209281": {
+        "country_code": "ES",
+        "asn": "209281",
+        "description": "Generacion Tecnologica De Comunicaciones Sociedad Limitada",
+        "handle": "GETECOM"
+    },
+    "209287": {
+        "country_code": "ES",
+        "asn": "209287",
+        "description": "INNOVACION RIOJANA DE SOLUCIONES IT S.L.",
+        "handle": "IRSOL"
+    },
+    "209311": {
+        "country_code": "ES",
+        "asn": "209311",
+        "description": "VERITA NETWORKS SOCIEDAD LIMITADA",
+        "handle": "VERITA-NETWORKS"
+    },
+    "209344": {
+        "country_code": "ES",
+        "asn": "209344",
+        "description": "ENA Operador de Telecomunicaciones S.L.",
+        "handle": "ALAI-SECURE"
+    },
+    "209365": {
+        "country_code": "ES",
+        "asn": "209365",
+        "description": "Brutalsys S.L.",
+        "handle": "BRUTALSYS"
+    },
+    "209370": {
+        "country_code": "ES",
+        "asn": "209370",
+        "description": "TELCIA COMUNICACIONES S.L.",
+        "handle": "TELCIANX"
+    },
+    "209386": {
+        "country_code": "ES",
+        "asn": "209386",
+        "description": "Emsanet Maestrat S.L.",
+        "handle": "EMSANET-AS"
+    },
+    "209478": {
+        "country_code": "ES",
+        "asn": "209478",
+        "description": "Leyre Rivera Martin",
+        "handle": "SYSPROVIDER"
+    },
+    "209492": {
+        "country_code": "ES",
+        "asn": "209492",
+        "description": "INFORMATICA Y TELECOMUNICACIONES SARRIA S.L.",
+        "handle": "ITSARRIA"
+    },
+    "209521": {
+        "country_code": "ES",
+        "asn": "209521",
+        "description": "Cadena Energia Radio S.L.",
+        "handle": "CADENAENEREGIA"
+    },
+    "209535": {
+        "country_code": "ES",
+        "asn": "209535",
+        "description": "ITEGAL SERVICIOS TIC S.L.",
+        "handle": "ITEGAL"
+    },
+    "209543": {
+        "country_code": "ES",
+        "asn": "209543",
+        "description": "POINT TELECOM TELECOMUNICACIONES E INFRAESTRUCTURAS SL",
+        "handle": "POINTTELECOM"
+    },
+    "209581": {
+        "country_code": "ES",
+        "asn": "209581",
+        "description": "Xarxes Esteses de Comunicacions SL",
+        "handle": "GUARICO-AS"
+    },
+    "209589": {
+        "country_code": "ES",
+        "asn": "209589",
+        "description": "VOITIC SL",
+        "handle": "VOITICSL"
+    },
+    "209618": {
+        "country_code": "ES",
+        "asn": "209618",
+        "description": "Valor Information Technologies S.L.",
+        "handle": "AS-VALOR-IT"
+    },
+    "209662": {
+        "country_code": "ES",
+        "asn": "209662",
+        "description": "Corporacion de Radio y Television Espanola S.A.",
+        "handle": "RTVE"
+    },
+    "209672": {
+        "country_code": "ES",
+        "asn": "209672",
+        "description": "BINARITY SL",
+        "handle": "BINARITYES-NET"
+    },
+    "209674": {
+        "country_code": "ES",
+        "asn": "209674",
+        "description": "UANATACA SA",
+        "handle": "EVICERTIA"
+    },
+    "209688": {
+        "country_code": "ES",
+        "asn": "209688",
+        "description": "TELE RED S.A.",
+        "handle": "TELERED-AS"
+    },
+    "209690": {
+        "country_code": "ES",
+        "asn": "209690",
+        "description": "TELECOMUNICACIONES AVENIDA SL",
+        "handle": "TELECOMAVENIDA"
+    },
+    "209703": {
+        "country_code": "ES",
+        "asn": "209703",
+        "description": "Experientia Systems SL",
+        "handle": "XPERIENTIA"
+    },
+    "209774": {
+        "country_code": "ES",
+        "asn": "209774",
+        "description": "JUMBO TOURS ESPANA SL",
+        "handle": "JUMBO"
+    },
+    "209776": {
+        "country_code": "ES",
+        "asn": "209776",
+        "description": "ADVIENTIA TELECOMUNICACIONES SL",
+        "handle": "ADVIENTIA"
+    },
+    "209791": {
+        "country_code": "ES",
+        "asn": "209791",
+        "description": "BREAK FREE TELECOM SL",
+        "handle": "AREAWIFI"
+    },
+    "209803": {
+        "country_code": "ES",
+        "asn": "209803",
+        "description": "FIBER CITY NETWORKS SLU",
+        "handle": "FIBERCITY"
+    },
+    "209826": {
+        "country_code": "ES",
+        "asn": "209826",
+        "description": "Carlos Alberto Horowicz",
+        "handle": "AVASCLOUD"
+    },
+    "209835": {
+        "country_code": "ES",
+        "asn": "209835",
+        "description": "Despliegue de Redes de Telecomunicaciones S.L.",
+        "handle": "AVANZAFIBRA"
+    },
+    "209855": {
+        "country_code": "ES",
+        "asn": "209855",
+        "description": "CALPE NETWORKS SL",
+        "handle": "CALPENETWORKS1"
+    },
+    "209906": {
+        "country_code": "ES",
+        "asn": "209906",
+        "description": "Fibrasur Operadores S.L.",
+        "handle": "TELEGILENA"
+    },
+    "209909": {
+        "country_code": "ES",
+        "asn": "209909",
+        "description": "DITT REDMOVIL SL",
+        "handle": "ASN-ZARANDONA"
+    },
+    "209910": {
+        "country_code": "ES",
+        "asn": "209910",
+        "description": "DITT REDMOVIL SL",
+        "handle": "MARKETING"
+    },
+    "209919": {
+        "country_code": "ES",
+        "asn": "209919",
+        "description": "AMH Servicios Informaticos sc",
+        "handle": "AMHINFORMATICA"
+    },
+    "209923": {
+        "country_code": "ES",
+        "asn": "209923",
+        "description": "GRUPO INFORMATICA PACO SECILLA SL",
+        "handle": "SUBBETICAC"
+    },
+    "210007": {
+        "country_code": "ES",
+        "asn": "210007",
+        "description": "INSTITUCION FERIAL DE MADRID",
+        "handle": "IFEMA"
+    },
+    "210048": {
+        "country_code": "ES",
+        "asn": "210048",
+        "description": "Oficina Semat Data SL",
+        "handle": "SEMAT"
+    },
+    "210055": {
+        "country_code": "ES",
+        "asn": "210055",
+        "description": "FIBERPLUS COMUNICATIONS SL",
+        "handle": "ELECTROPUERTOSUR"
+    },
+    "210072": {
+        "country_code": "ES",
+        "asn": "210072",
+        "description": "INNOVA TELEKOM REDES Y SERVICIOS SLU",
+        "handle": "INNOVATELEKOM"
+    },
+    "210086": {
+        "country_code": "ES",
+        "asn": "210086",
+        "description": "CONNECTA 1876 SLU",
+        "handle": "NEXIA"
+    },
+    "210102": {
+        "country_code": "ES",
+        "asn": "210102",
+        "description": "ALCORES TELECOM S.L.",
+        "handle": "ALCORES-AS"
+    },
+    "210121": {
+        "country_code": "ES",
+        "asn": "210121",
+        "description": "PROPHASE ELECTRONICS S.L.",
+        "handle": "GUAITA"
+    },
+    "210123": {
+        "country_code": "ES",
+        "asn": "210123",
+        "description": "NUBBITEL TELECOM S.L.",
+        "handle": "NUBBITEL"
+    },
+    "210148": {
+        "country_code": "ES",
+        "asn": "210148",
+        "description": "ORVIS 360 SL",
+        "handle": "ASORVIS"
+    },
+    "210158": {
+        "country_code": "ES",
+        "asn": "210158",
+        "description": "AGENCIA PARA LA ADMINITRACION DIGITAL DE LA COMUNIDAD DE MADRID",
+        "handle": "MADRIDDIGITAL"
+    },
+    "210181": {
+        "country_code": "ES",
+        "asn": "210181",
+        "description": "Pablo Sarria Perez",
+        "handle": "OPEN6HOSTING"
+    },
+    "210189": {
+        "country_code": "ES",
+        "asn": "210189",
+        "description": "IGUALATORIO MEDICO QUIRURGICO S.A. DE SEGUROS Y REASEGUROS",
+        "handle": "AS-IGUALATORIOMEDICOQUIRURGICO"
+    },
+    "210219": {
+        "country_code": "ES",
+        "asn": "210219",
+        "description": "Invermae Solutions SL",
+        "handle": "SOLUTIONICS"
+    },
+    "210230": {
+        "country_code": "ES",
+        "asn": "210230",
+        "description": "LINK INTERNET COMUNICACIONES S.L.",
+        "handle": "LINKINTERNET"
+    },
+    "210257": {
+        "country_code": "ES",
+        "asn": "210257",
+        "description": "Cyberneticos Hosting SL",
+        "handle": "CYBERNET"
+    },
+    "210319": {
+        "country_code": "ES",
+        "asn": "210319",
+        "description": "Telecable Cartaya S.L.",
+        "handle": "ASTOMARES"
+    },
+    "210321": {
+        "country_code": "ES",
+        "asn": "210321",
+        "description": "Operadors Quilometre Zero S.L.",
+        "handle": "OPKM0"
+    },
+    "210324": {
+        "country_code": "ES",
+        "asn": "210324",
+        "description": "FUTURE SPACE SA",
+        "handle": "FUTURESPACE"
+    },
+    "210350": {
+        "country_code": "ES",
+        "asn": "210350",
+        "description": "Civicos Networking S.L.U.",
+        "handle": "CIVICOS"
+    },
+    "210395": {
+        "country_code": "ES",
+        "asn": "210395",
+        "description": "INTERNET MANTENIMIENTOS SL",
+        "handle": "INTERNET-MTOS"
+    },
+    "210423": {
+        "country_code": "ES",
+        "asn": "210423",
+        "description": "ATUAXANELA S.L.",
+        "handle": "AS-ATUAXANELA"
+    },
+    "210439": {
+        "country_code": "ES",
+        "asn": "210439",
+        "description": "Cloud Intelligence SL",
+        "handle": "CLOUD-INTELLIGENCE-SL"
+    },
+    "210469": {
+        "country_code": "ES",
+        "asn": "210469",
+        "description": "Carlos Latorre Sanchez",
+        "handle": "CARLOSL"
+    },
+    "210472": {
+        "country_code": "ES",
+        "asn": "210472",
+        "description": "Parlem Telecom Companyia de Telecomunicacions SA",
+        "handle": "PARLEM-AS-1"
+    },
+    "210505": {
+        "country_code": "ES",
+        "asn": "210505",
+        "description": "Fibercli Proyectos e Innovacion S.L.",
+        "handle": "LO0"
+    },
+    "210593": {
+        "country_code": "ES",
+        "asn": "210593",
+        "description": "APROOP TELECOM S.L.U",
+        "handle": "APROOP-TELECOM"
+    },
+    "210605": {
+        "country_code": "ES",
+        "asn": "210605",
+        "description": "IT ENCORE TECNOLOGIA SL",
+        "handle": "ITENCORE"
+    },
+    "210612": {
+        "country_code": "ES",
+        "asn": "210612",
+        "description": "Asteo Red Neutra SL",
+        "handle": "ASTEO-RED-NEUTRA"
+    },
+    "210670": {
+        "country_code": "ES",
+        "asn": "210670",
+        "description": "INFORMATICA Y NETWORKING COMPOSTELA SLU",
+        "handle": "CLOUDGAL"
+    },
+    "210692": {
+        "country_code": "ES",
+        "asn": "210692",
+        "description": "Soluciones y Asesoramiento en Telecomunicaciones S.L.",
+        "handle": "SOASTEL"
+    },
+    "210741": {
+        "country_code": "ES",
+        "asn": "210741",
+        "description": "Telnetia S.L. trading as ISR comunicaciones",
+        "handle": "ISRCOMUNICACIONES"
+    },
+    "210771": {
+        "country_code": "ES",
+        "asn": "210771",
+        "description": "SETEL CONECTA S.L.",
+        "handle": "SETEL-CONECTA"
+    },
+    "210790": {
+        "country_code": "ES",
+        "asn": "210790",
+        "description": "COLORIURIS S.L.",
+        "handle": "COLORIURIS"
+    },
+    "210791": {
+        "country_code": "ES",
+        "asn": "210791",
+        "description": "ASPWIFI S.L.",
+        "handle": "AIRCOM"
+    },
+    "210847": {
+        "country_code": "ES",
+        "asn": "210847",
+        "description": "Cesar Maffini Martin",
+        "handle": "ALCALA-WIFI"
+    },
+    "210876": {
+        "country_code": "ES",
+        "asn": "210876",
+        "description": "Invermae Solutions SL",
+        "handle": "SERPAIO"
+    },
+    "210904": {
+        "country_code": "ES",
+        "asn": "210904",
+        "description": "CHRISTIAN GARCIA LOZANO",
+        "handle": "CGL-AS"
+    },
+    "210944": {
+        "country_code": "ES",
+        "asn": "210944",
+        "description": "LA VOZ DE GALICIA S.A",
+        "handle": "LAVOZ-AS"
+    },
+    "210995": {
+        "country_code": "ES",
+        "asn": "210995",
+        "description": "TECNOLOGIAS DE LA INFORMACION Y REDES PARA LAS ENTIDADES ASEGURADORAS SA",
+        "handle": "AS-TIREA"
+    },
+    "211012": {
+        "country_code": "ES",
+        "asn": "211012",
+        "description": "Velorcios S.L.",
+        "handle": "VELORCIOS"
+    },
+    "211033": {
+        "country_code": "ES",
+        "asn": "211033",
+        "description": "Jose Poyato Prieto",
+        "handle": "ASCORIAWEB"
+    },
+    "211074": {
+        "country_code": "ES",
+        "asn": "211074",
+        "description": "ESPUBLICO SERVICIOS PARA LA ADMINISTRACION SA",
+        "handle": "ESPUBLICO"
+    },
+    "211141": {
+        "country_code": "ES",
+        "asn": "211141",
+        "description": "PINKBEAR SLU",
+        "handle": "PINKBEAR"
+    },
+    "211216": {
+        "country_code": "ES",
+        "asn": "211216",
+        "description": "Protese S.L.",
+        "handle": "PROTESE"
+    },
+    "211261": {
+        "country_code": "ES",
+        "asn": "211261",
+        "description": "Fibranet Tecnologia y Sistemas SL",
+        "handle": "FIBRANET"
+    },
+    "211262": {
+        "country_code": "ES",
+        "asn": "211262",
+        "description": "GP Limite Andamur SL",
+        "handle": "ANDAMUR"
+    },
+    "211300": {
+        "country_code": "ES",
+        "asn": "211300",
+        "description": "Angel Moreno trading as INTELMO C.B.",
+        "handle": "INTELMO-AS"
+    },
+    "211320": {
+        "country_code": "ES",
+        "asn": "211320",
+        "description": "Bonarea Energia SLU",
+        "handle": "BONAREAENERGIA"
+    },
+    "211345": {
+        "country_code": "ES",
+        "asn": "211345",
+        "description": "Toni Plana i Peris",
+        "handle": "VALLDIGNALIVE"
+    },
+    "211348": {
+        "country_code": "ES",
+        "asn": "211348",
+        "description": "FERCA TECNOLOGIES SL",
+        "handle": "FERCATEL"
+    },
+    "211359": {
+        "country_code": "ES",
+        "asn": "211359",
+        "description": "BINTER SISTEMAS SL",
+        "handle": "AS-BINTER-SISTEMAS"
+    },
+    "211361": {
+        "country_code": "ES",
+        "asn": "211361",
+        "description": "Telecable Extremadura S.L.",
+        "handle": "TPA-EXTREMADURA"
+    },
+    "211402": {
+        "country_code": "ES",
+        "asn": "211402",
+        "description": "Girowimax Wireless Solutions S.L.",
+        "handle": "GIROWIMAX"
+    },
+    "211441": {
+        "country_code": "ES",
+        "asn": "211441",
+        "description": "BYFITEL COMUNICACIONES SL",
+        "handle": "BYFICOM"
+    },
+    "211471": {
+        "country_code": "ES",
+        "asn": "211471",
+        "description": "iLoveFibra S.L.",
+        "handle": "ASILOVEFIBRA"
+    },
+    "211475": {
+        "country_code": "ES",
+        "asn": "211475",
+        "description": "VozFusion S.L.",
+        "handle": "VOZFUSION"
+    },
+    "211554": {
+        "country_code": "ES",
+        "asn": "211554",
+        "description": "ANA MARIA RODRIGUEZ SANTOS",
+        "handle": "AMR-ELCORONIL"
+    },
+    "211580": {
+        "country_code": "ES",
+        "asn": "211580",
+        "description": "Alt Urgell Fibra S.L",
+        "handle": "ALTURGELLFIBRA-AS"
+    },
+    "211596": {
+        "country_code": "ES",
+        "asn": "211596",
+        "description": "Nostravant S.L.L.",
+        "handle": "AKIWIFI-SALAMANCA-OFICINAS"
+    },
+    "211650": {
+        "country_code": "ES",
+        "asn": "211650",
+        "description": "CELENETWORKS SL",
+        "handle": "AS-CELENET"
+    },
+    "211653": {
+        "country_code": "ES",
+        "asn": "211653",
+        "description": "Cesar Maffini Martin",
+        "handle": "AS-RABITS-STORAGE"
+    },
+    "211654": {
+        "country_code": "ES",
+        "asn": "211654",
+        "description": "PC Mancha S.L.",
+        "handle": "PCMANCHA"
+    },
+    "211695": {
+        "country_code": "ES",
+        "asn": "211695",
+        "description": "Echedelle Lopez Romero",
+        "handle": "CUTIELAND"
+    },
+    "211699": {
+        "country_code": "ES",
+        "asn": "211699",
+        "description": "WICOR COMUNICACIONS SL.",
+        "handle": "WICOR"
+    },
+    "211717": {
+        "country_code": "ES",
+        "asn": "211717",
+        "description": "CORPORACION MENORQUINA DE CABLE SA",
+        "handle": "FIBRALINK-AS"
+    },
+    "211798": {
+        "country_code": "ES",
+        "asn": "211798",
+        "description": "Core Nextgen SL",
+        "handle": "QEMUGENCLOUD"
+    },
+    "211808": {
+        "country_code": "ES",
+        "asn": "211808",
+        "description": "APROOP TELECOM S.L.U",
+        "handle": "FIBROTEL"
+    },
+    "211811": {
+        "country_code": "ES",
+        "asn": "211811",
+        "description": "TM DIGITAL GRANADA S.L.",
+        "handle": "TMDIGITAL"
+    },
+    "211874": {
+        "country_code": "ES",
+        "asn": "211874",
+        "description": "Axarfusion S.L.",
+        "handle": "AXARFUSION-AS"
+    },
+    "211902": {
+        "country_code": "ES",
+        "asn": "211902",
+        "description": "CINCANETWORKS SL",
+        "handle": "PIRINEOS"
+    },
+    "211959": {
+        "country_code": "ES",
+        "asn": "211959",
+        "description": "Invermae Solutions SL",
+        "handle": "NBYTE"
+    },
+    "211962": {
+        "country_code": "ES",
+        "asn": "211962",
+        "description": "Ricardo Holguin Postigo",
+        "handle": "RICARDO"
+    },
+    "211974": {
+        "country_code": "ES",
+        "asn": "211974",
+        "description": "Airecom Internet S.L.",
+        "handle": "AIRECOM"
+    },
+    "212008": {
+        "country_code": "ES",
+        "asn": "212008",
+        "description": "Ruben Martinez",
+        "handle": "ES-ZONAUTAS-AS"
+    },
+    "212017": {
+        "country_code": "ES",
+        "asn": "212017",
+        "description": "Gerardo Cubillo Torralba Empresa Constructora S.L",
+        "handle": "CUBILLO"
+    },
+    "212052": {
+        "country_code": "ES",
+        "asn": "212052",
+        "description": "AMADO NEBOT FORES",
+        "handle": "ASNETEXPERIENCE"
+    },
+    "212059": {
+        "country_code": "ES",
+        "asn": "212059",
+        "description": "TESTIGOS CRISTIANOS DE JEHOVA",
+        "handle": "JWESP-AS"
+    },
+    "212078": {
+        "country_code": "ES",
+        "asn": "212078",
+        "description": "Xarxes Esteses de Comunicacions SL",
+        "handle": "AS820707"
+    },
+    "212087": {
+        "country_code": "ES",
+        "asn": "212087",
+        "description": "JOTELULU S.L.",
+        "handle": "JOTELULU"
+    },
+    "212097": {
+        "country_code": "ES",
+        "asn": "212097",
+        "description": "VIM TELECOMUNICACIONES SL",
+        "handle": "VIM"
+    },
+    "212107": {
+        "country_code": "ES",
+        "asn": "212107",
+        "description": "SINOPHOS GROUP LLORET SL.",
+        "handle": "SINOPHOS-AS"
+    },
+    "212116": {
+        "country_code": "ES",
+        "asn": "212116",
+        "description": "Vento Rede S.L.",
+        "handle": "VENTOREDE"
+    },
+    "212117": {
+        "country_code": "ES",
+        "asn": "212117",
+        "description": "CIBEREON SL",
+        "handle": "CIBEREON"
+    },
+    "212139": {
+        "country_code": "ES",
+        "asn": "212139",
+        "description": "Comunica't Valldigna S.L.",
+        "handle": "CVALLDIGNA"
+    },
+    "212186": {
+        "country_code": "ES",
+        "asn": "212186",
+        "description": "Goodser Sociedad Limitada",
+        "handle": "WIKILAN-AS"
+    },
+    "212190": {
+        "country_code": "ES",
+        "asn": "212190",
+        "description": "PISTA CERO S.L.",
+        "handle": "PISTACEROASN"
+    },
+    "212230": {
+        "country_code": "ES",
+        "asn": "212230",
+        "description": "VIESGO INFRAESTRUCTURAS ENERGETICAS S.L.",
+        "handle": "VIESGO"
+    },
+    "212235": {
+        "country_code": "ES",
+        "asn": "212235",
+        "description": "Juan Ramon Prieto Reyes",
+        "handle": "VCGELVES"
+    },
+    "212332": {
+        "country_code": "ES",
+        "asn": "212332",
+        "description": "Agustin Lorenzo Sempere trading as Thinco Telecom",
+        "handle": "THINCO-TELECOM-AS"
+    },
+    "212356": {
+        "country_code": "ES",
+        "asn": "212356",
+        "description": "Felipe Alcaraz Molina",
+        "handle": "VIDEOSAT1"
+    },
+    "212377": {
+        "country_code": "ES",
+        "asn": "212377",
+        "description": "Direccion General de la Guardia Civil",
+        "handle": "ASGUARDIACIVIL"
+    },
+    "212420": {
+        "country_code": "ES",
+        "asn": "212420",
+        "description": "Abaila Koop. S.Coop.",
+        "handle": "ABAILA"
+    },
+    "212450": {
+        "country_code": "ES",
+        "asn": "212450",
+        "description": "Juan Thielmann",
+        "handle": "OVERCLOCKHOST"
+    },
+    "212458": {
+        "country_code": "ES",
+        "asn": "212458",
+        "description": "IESE Universidad de Navarra",
+        "handle": "IESE"
+    },
+    "212462": {
+        "country_code": "ES",
+        "asn": "212462",
+        "description": "Wizon Telecom S.L.",
+        "handle": "WIZONTELECOM"
+    },
+    "212536": {
+        "country_code": "ES",
+        "asn": "212536",
+        "description": "Nexis Tecnologias de la Informacion S.L",
+        "handle": "ASNXS1"
+    },
+    "212564": {
+        "country_code": "ES",
+        "asn": "212564",
+        "description": "TDA COMUNICACIONES CONNECTIONS SLU",
+        "handle": "TDACOMUNICACIONES"
+    },
+    "212578": {
+        "country_code": "ES",
+        "asn": "212578",
+        "description": "SPECIES MEDIA MARKETING SL",
+        "handle": "SMEDIA"
+    },
+    "212714": {
+        "country_code": "ES",
+        "asn": "212714",
+        "description": "Canal Pozuelo S.L.",
+        "handle": "CANALPOZUELOASN"
+    },
+    "212721": {
+        "country_code": "ES",
+        "asn": "212721",
+        "description": "Francisco Javier Gordillo Perez",
+        "handle": "AXARWIFI"
+    },
+    "212755": {
+        "country_code": "ES",
+        "asn": "212755",
+        "description": "ExaCloud Factory S.L.",
+        "handle": "EXACLOUD"
+    },
+    "212763": {
+        "country_code": "ES",
+        "asn": "212763",
+        "description": "Nanobytes Informatica y Telecomunicaciones S.L.",
+        "handle": "AS-NANOBYTES"
+    },
+    "212812": {
+        "country_code": "ES",
+        "asn": "212812",
+        "description": "CUSTOS messium SLNE",
+        "handle": "IRIEPAL"
+    },
+    "212830": {
+        "country_code": "ES",
+        "asn": "212830",
+        "description": "Invermae Solutions SL",
+        "handle": "PSJCLOUD"
+    },
+    "212833": {
+        "country_code": "ES",
+        "asn": "212833",
+        "description": "FIBRAWORLD TELECOM S.A.U.",
+        "handle": "CWALCOY-AS"
+    },
+    "212849": {
+        "country_code": "ES",
+        "asn": "212849",
+        "description": "J.C. TECNICS S.L.",
+        "handle": "JCTECNICS"
+    },
+    "212861": {
+        "country_code": "ES",
+        "asn": "212861",
+        "description": "Invermae Solutions SL",
+        "handle": "INTERCOLO"
+    },
+    "212862": {
+        "country_code": "ES",
+        "asn": "212862",
+        "description": "Invermae Solutions SL",
+        "handle": "NETELSERVICES"
+    },
+    "212866": {
+        "country_code": "ES",
+        "asn": "212866",
+        "description": "Redes Opticas Salmantinas SL",
+        "handle": "ROSA"
+    },
+    "212900": {
+        "country_code": "ES",
+        "asn": "212900",
+        "description": "Pere Tuset-Peiro",
+        "handle": "AS212900"
+    },
+    "212918": {
+        "country_code": "ES",
+        "asn": "212918",
+        "description": "Clicktel SL",
+        "handle": "CLICKTEL"
+    },
+    "212932": {
+        "country_code": "ES",
+        "asn": "212932",
+        "description": "Wimax Redes de Nueva Generacion S.L.U",
+        "handle": "WIMAXRNG"
+    },
+    "212941": {
+        "country_code": "ES",
+        "asn": "212941",
+        "description": "AVATEL TELECOM SA",
+        "handle": "TELECASTRO"
+    },
+    "212942": {
+        "country_code": "ES",
+        "asn": "212942",
+        "description": "Nuracom Wimax Menorca SL",
+        "handle": "NURACOM"
+    },
+    "212957": {
+        "country_code": "ES",
+        "asn": "212957",
+        "description": "Hucame Telecom Networks SLU",
+        "handle": "HUCAME-AS"
+    },
+    "212963": {
+        "country_code": "ES",
+        "asn": "212963",
+        "description": "Sergio Bejarano Romero",
+        "handle": "SERGIOB"
+    },
+    "212988": {
+        "country_code": "ES",
+        "asn": "212988",
+        "description": "Nostravant S.L.L.",
+        "handle": "AKIWIFI-BARBANZA"
+    },
+    "212998": {
+        "country_code": "ES",
+        "asn": "212998",
+        "description": "Victor Roman Archidona",
+        "handle": "VICTORROMAN"
+    },
+    "213005": {
+        "country_code": "ES",
+        "asn": "213005",
+        "description": "Invermae Solutions SL",
+        "handle": "PROXYSEO"
+    },
+    "213006": {
+        "country_code": "ES",
+        "asn": "213006",
+        "description": "Invermae Solutions SL",
+        "handle": "NSFTELECOM"
+    },
+    "213031": {
+        "country_code": "ES",
+        "asn": "213031",
+        "description": "VVV BUSINESS SOFTWARE GROUP S.L.",
+        "handle": "SYNEXA-OOB-AS"
+    },
+    "213091": {
+        "country_code": "ES",
+        "asn": "213091",
+        "description": "WHOAMI TECHNOLOGIES SL",
+        "handle": "WHOAMI"
+    },
+    "213138": {
+        "country_code": "ES",
+        "asn": "213138",
+        "description": "Alfa Network SL",
+        "handle": "ALFANETWORK"
+    },
+    "213153": {
+        "country_code": "ES",
+        "asn": "213153",
+        "description": "Invermae Solutions SL",
+        "handle": "ECHELON"
+    },
+    "213177": {
+        "country_code": "ES",
+        "asn": "213177",
+        "description": "Nostravant S.L.L.",
+        "handle": "AKIWIFI-CASTELLON-ALCALATEN"
+    },
+    "213193": {
+        "country_code": "ES",
+        "asn": "213193",
+        "description": "Manca Telecom SL",
+        "handle": "MANCA"
+    },
+    "213336": {
+        "country_code": "ES",
+        "asn": "213336",
+        "description": "IT ENCORE TECNOLOGIA SL",
+        "handle": "ITENCORE"
+    },
+    "213362": {
+        "country_code": "ES",
+        "asn": "213362",
+        "description": "ENHANCED COMMUNICATIONS S.L.",
+        "handle": "ENHACED"
+    },
+    "213399": {
+        "country_code": "ES",
+        "asn": "213399",
+        "description": "Nostravant S.L.L.",
+        "handle": "AKIWIFI-TOLEDO"
+    },
+    "213475": {
+        "country_code": "ES",
+        "asn": "213475",
+        "description": "TRANSPORTS DE BARCELONA S.A.",
+        "handle": "TMB-AS"
+    },
+    "213556": {
+        "country_code": "ES",
+        "asn": "213556",
+        "description": "Levante Networks Telecom S.L.",
+        "handle": "LEVANTENET"
+    },
+    "213600": {
+        "country_code": "ES",
+        "asn": "213600",
+        "description": "VOICE CLOUD SL",
+        "handle": "VOICECLOUD"
+    },
+    "213615": {
+        "country_code": "ES",
+        "asn": "213615",
+        "description": "ON DIVERSITY CLOUD EUROPE S.L.",
+        "handle": "AS-ODCLOUD"
+    },
+    "213686": {
+        "country_code": "ES",
+        "asn": "213686",
+        "description": "AION QTAL ON FIBRA OPTICA S.L.",
+        "handle": "AION-QTAL-ON-FIBRA-OPTICA"
+    },
+    "213716": {
+        "country_code": "ES",
+        "asn": "213716",
+        "description": "Gonzalo Ferrera Borras",
+        "handle": "GONZALO-FERRERA-BORRAS"
+    },
+    "213742": {
+        "country_code": "ES",
+        "asn": "213742",
+        "description": "Gateway Global Telecom SLU",
+        "handle": "GATEWAYGLBL"
+    },
+    "213825": {
+        "country_code": "ES",
+        "asn": "213825",
+        "description": "NEORIS SPAIN SLU",
+        "handle": "ES-NEORIS"
+    },
+    "213899": {
+        "country_code": "ES",
+        "asn": "213899",
+        "description": "Premium Domain Names S.L.",
+        "handle": "PREMIUMDN"
+    },
+    "213909": {
+        "country_code": "ES",
+        "asn": "213909",
+        "description": "SERVYTEC NETWORKS S.L.U.",
+        "handle": "FUNCIONALIA"
+    },
+    "213942": {
+        "country_code": "ES",
+        "asn": "213942",
+        "description": "CITY FIBER SL",
+        "handle": "CITYFIBER"
+    },
+    "213950": {
+        "country_code": "ES",
+        "asn": "213950",
+        "description": "Gufo Sistems S.L.",
+        "handle": "BRONTO"
+    },
+    "213964": {
+        "country_code": "ES",
+        "asn": "213964",
+        "description": "INTERMAX TECHNOLOGY S.L.",
+        "handle": "INTERMAXES"
+    },
+    "214007": {
+        "country_code": "ES",
+        "asn": "214007",
+        "description": "Punt dAcces SCCL",
+        "handle": "PUNTDACCES"
+    },
+    "214043": {
+        "country_code": "ES",
+        "asn": "214043",
+        "description": "Christian Barba trading as Cloudfira",
+        "handle": "AS-CLOUDFIRA"
+    },
+    "214080": {
+        "country_code": "ES",
+        "asn": "214080",
+        "description": "Transparent Edge Services S.L.",
+        "handle": "TRANSPARENT-EDGE"
+    },
+    "214089": {
+        "country_code": "ES",
+        "asn": "214089",
+        "description": "YOUTEL NETWORK S.L.",
+        "handle": "YOUTEL-AS"
+    },
+    "214103": {
+        "country_code": "ES",
+        "asn": "214103",
+        "description": "DIGITAL MEDIA GROWING CLOUD SL",
+        "handle": "DMG-USA"
+    },
+    "214110": {
+        "country_code": "ES",
+        "asn": "214110",
+        "description": "Fibra Medios Telecom S.L.",
+        "handle": "FIBRAMEDIOS"
+    },
+    "214113": {
+        "country_code": "ES",
+        "asn": "214113",
+        "description": "TITAN DATA CENTER S.L",
+        "handle": "TITAN"
+    },
+    "214123": {
+        "country_code": "ES",
+        "asn": "214123",
+        "description": "Virtualizame SL",
+        "handle": "VIRTUALIZAME"
+    },
+    "214136": {
+        "country_code": "ES",
+        "asn": "214136",
+        "description": "NACION SOLAR SL",
+        "handle": "NACIONSOLAR"
+    },
+    "214153": {
+        "country_code": "ES",
+        "asn": "214153",
+        "description": "ORVIS 360 SL",
+        "handle": "ORVIS360-AS"
+    },
+    "214248": {
+        "country_code": "ES",
+        "asn": "214248",
+        "description": "ATM Broadcast SL",
+        "handle": "ATMBROADCAST"
+    },
+    "214286": {
+        "country_code": "ES",
+        "asn": "214286",
+        "description": "OPERADORA IBERICA DE REDES Y SERVICIOS DE TELECOMUNICACIONES S.L",
+        "handle": "IBERICADEREDES-AS"
+    },
+    "214340": {
+        "country_code": "ES",
+        "asn": "214340",
+        "description": "Eduardo Denis Tanase",
+        "handle": "AS-24RACKSCLOUD"
+    },
+    "214440": {
+        "country_code": "ES",
+        "asn": "214440",
+        "description": "EVOA REDES S.L.",
+        "handle": "EVOAREDES"
+    },
+    "214470": {
+        "country_code": "ES",
+        "asn": "214470",
+        "description": "Carmen Rocio Jimenez Pulido",
+        "handle": "DIFFERNET-AS"
+    },
+    "214522": {
+        "country_code": "ES",
+        "asn": "214522",
+        "description": "Arnau Barbero",
+        "handle": "ARNA13"
+    },
+    "214550": {
+        "country_code": "ES",
+        "asn": "214550",
+        "description": "Netsolutions Servicios de Telecomunicaciones SL",
+        "handle": "NETSOLUTIONS"
+    },
+    "214636": {
+        "country_code": "ES",
+        "asn": "214636",
+        "description": "Fibrasur Operadores S.L.",
+        "handle": "FIBRASUR"
+    },
+    "214662": {
+        "country_code": "ES",
+        "asn": "214662",
+        "description": "Seidor Soluciones Globales SL",
+        "handle": "AS-SAYTEL-02"
+    },
+    "214678": {
+        "country_code": "ES",
+        "asn": "214678",
+        "description": "Total WiFi SL",
+        "handle": "TOTALWIFI-AS"
+    },
+    "214779": {
+        "country_code": "ES",
+        "asn": "214779",
+        "description": "Be Free Networks SL",
+        "handle": "BEFREE"
+    },
+    "214782": {
+        "country_code": "ES",
+        "asn": "214782",
+        "description": "XARXES DE L'EBRE INTERNET I COMUNICACIONS S.L.",
+        "handle": "XEIC-IT"
+    },
+    "214855": {
+        "country_code": "ES",
+        "asn": "214855",
+        "description": "Robotstxt S.L",
+        "handle": "ROBOTSTXT"
+    },
+    "214859": {
+        "country_code": "ES",
+        "asn": "214859",
+        "description": "Congresos y Turismo de Sevilla S.A.",
+        "handle": "AS-CONTURSA"
+    },
+    "214930": {
+        "country_code": "ES",
+        "asn": "214930",
+        "description": "Alice Wyan Garcia Martin",
+        "handle": "ALICEWYAN-AS"
+    },
+    "214954": {
+        "country_code": "ES",
+        "asn": "214954",
+        "description": "CATALUNYA TELECOM S.L.",
+        "handle": "CATALUNYATELECOM"
+    },
+    "214986": {
+        "country_code": "ES",
+        "asn": "214986",
+        "description": "ENERI CLOUD SISTEMAS SL",
+        "handle": "ASNERI1"
+    },
+    "214994": {
+        "country_code": "ES",
+        "asn": "214994",
+        "description": "Hector Cuellar Verdet",
+        "handle": "HECTORCUELLARVERDET"
+    },
+    "215015": {
+        "country_code": "ES",
+        "asn": "215015",
+        "description": "Vibes Digital SL",
+        "handle": "VIBESDIGITALSL"
+    },
+    "215018": {
+        "country_code": "ES",
+        "asn": "215018",
+        "description": "CORTEX SP COMPUTER SL",
+        "handle": "CORTEX"
+    },
+    "215029": {
+        "country_code": "ES",
+        "asn": "215029",
+        "description": "OXIGEN Data Center S.L.",
+        "handle": "OXGDC-AS"
+    },
+    "215199": {
+        "country_code": "ES",
+        "asn": "215199",
+        "description": "Internet CLOUD Services SL",
+        "handle": "DOCLOUD"
+    },
+    "215203": {
+        "country_code": "ES",
+        "asn": "215203",
+        "description": "Aleksei Efimov",
+        "handle": "SNEP-AS"
+    },
+    "215235": {
+        "country_code": "ES",
+        "asn": "215235",
+        "description": "Cuvicbaga Informatica S.L.",
+        "handle": "CUVIC"
+    },
+    "215298": {
+        "country_code": "ES",
+        "asn": "215298",
+        "description": "ENTE PUBLICO DE RADIOTELEVISION DE LES ILLES BALEARS",
+        "handle": "ENTE-PUBLICO-DE-RADIOTELEVISION-DE-LES-ILLES-BALEARS"
+    },
+    "215317": {
+        "country_code": "ES",
+        "asn": "215317",
+        "description": "Marcos Vives Del Sol",
+        "handle": "ORCA-PET"
+    },
+    "215334": {
+        "country_code": "ES",
+        "asn": "215334",
+        "description": "CORREOMASTER SL",
+        "handle": "CORREOMASTER-AS"
+    },
+    "215396": {
+        "country_code": "ES",
+        "asn": "215396",
+        "description": "Orden Hospitalaria de San Juan de Dios Provincia de San Juan de Dios Espana",
+        "handle": "SJD"
+    },
+    "215424": {
+        "country_code": "ES",
+        "asn": "215424",
+        "description": "ASOCIACION ESPANIX",
+        "handle": "ESPANIX-AS"
+    },
+    "215488": {
+        "country_code": "ES",
+        "asn": "215488",
+        "description": "PARQUE TECNOLOGICO TEKNOLOGI ELKARTEGIA S.A.",
+        "handle": "PARKE"
+    },
+    "215573": {
+        "country_code": "ES",
+        "asn": "215573",
+        "description": "Fibra Almendralejo S.L.",
+        "handle": "FIBRAL"
+    },
+    "215656": {
+        "country_code": "ES",
+        "asn": "215656",
+        "description": "Servatica Technologies S.L.",
+        "handle": "SERVATICABCN"
+    },
+    "215691": {
+        "country_code": "ES",
+        "asn": "215691",
+        "description": "AP INTERACTIVE SOLUTIONS SL",
+        "handle": "HOSTEALO"
+    },
+    "215693": {
+        "country_code": "ES",
+        "asn": "215693",
+        "description": "Bruno Andres Sampedro Trujillo",
+        "handle": "PALMAHOST"
+    },
+    "215714": {
+        "country_code": "ES",
+        "asn": "215714",
+        "description": "CONTROL DIGITAL DE PROCESOS SL",
+        "handle": "CODIPRO"
+    },
+    "215736": {
+        "country_code": "ES",
+        "asn": "215736",
+        "description": "Ajuntament de Reus",
+        "handle": "AJREUS"
+    },
+    "215764": {
+        "country_code": "ES",
+        "asn": "215764",
+        "description": "Ismael Munoz Hernandez",
+        "handle": "V4GUARD"
+    },
+    "215856": {
+        "country_code": "ES",
+        "asn": "215856",
+        "description": "Fabertelecom SL",
+        "handle": "FABERTELECOM"
+    },
+    "215869": {
+        "country_code": "ES",
+        "asn": "215869",
+        "description": "DANIEL NAVAL ALCALA",
+        "handle": "NAVALCA"
+    },
+    "215894": {
+        "country_code": "ES",
+        "asn": "215894",
+        "description": "BLANCATEL S.L.",
+        "handle": "BLANCATEL"
+    },
+    "215927": {
+        "country_code": "ES",
+        "asn": "215927",
+        "description": "SURWITEL COMUNICACIONES S.L.",
+        "handle": "SURWITEL"
+    },
+    "215957": {
+        "country_code": "ES",
+        "asn": "215957",
+        "description": "VVV BUSINESS SOFTWARE GROUP S.L.",
+        "handle": "SYNEXA-AS"
+    },
+    "216003": {
+        "country_code": "ES",
+        "asn": "216003",
+        "description": "TELEVISION TRUJILLO S.L.",
+        "handle": "TVTRUJILLO"
+    },
+    "216015": {
+        "country_code": "ES",
+        "asn": "216015",
+        "description": "Propelin Realstate SLU",
+        "handle": "IAAS"
+    },
+    "216016": {
+        "country_code": "ES",
+        "asn": "216016",
+        "description": "Ayuntamiento de Murcia",
+        "handle": "AYTO-MURCIA"
+    },
+    "216034": {
+        "country_code": "ES",
+        "asn": "216034",
+        "description": "NETKIA SOLUCIONES S.L.",
+        "handle": "NETKIA-AS"
+    },
+    "216060": {
+        "country_code": "ES",
+        "asn": "216060",
+        "description": "Carino Servicios Empresariales SL",
+        "handle": "CARINO"
+    },
+    "216072": {
+        "country_code": "ES",
+        "asn": "216072",
+        "description": "Manuel Jesus Martin Mena",
+        "handle": "MJMM-AS"
+    },
+    "216135": {
+        "country_code": "ES",
+        "asn": "216135",
+        "description": "Fibrasur Operadores S.L.",
+        "handle": "PEDRERATELECOM"
+    },
+    "216166": {
+        "country_code": "ES",
+        "asn": "216166",
+        "description": "PUNTO NEUTRO DE GALICIA GALNIX S.L.",
+        "handle": "GALNIX"
+    },
+    "216171": {
+        "country_code": "ES",
+        "asn": "216171",
+        "description": "Dabbleam SL",
+        "handle": "DABBLEAM"
+    },
+    "216371": {
+        "country_code": "ES",
+        "asn": "216371",
+        "description": "IPGLOBAL S.L.",
+        "handle": "IPGLOBAL"
+    },
+    "216392": {
+        "country_code": "ES",
+        "asn": "216392",
+        "description": "SERGI GARCIA JIMENEZ",
+        "handle": "NETCLOUDIFY"
+    },
+    "216426": {
+        "country_code": "ES",
+        "asn": "216426",
+        "description": "Daratel TIC S.L",
+        "handle": "DARATEL"
+    }
+}

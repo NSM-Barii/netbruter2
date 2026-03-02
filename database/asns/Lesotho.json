@@ -1,0 +1,68 @@
+{
+    "25695": {
+        "country_code": "LS",
+        "asn": "25695",
+        "description": "Leo (PTY) LTD",
+        "handle": "LEO"
+    },
+    "33567": {
+        "country_code": "LS",
+        "asn": "33567",
+        "description": "Econet Telecom Lesotho (PTY) LTD",
+        "handle": "TELECOM-LESOTHO"
+    },
+    "33767": {
+        "country_code": "LS",
+        "asn": "33767",
+        "description": "Econet Telecom Lesotho (PTY) LTD",
+        "handle": "TELECOM-LESOTHO"
+    },
+    "37057": {
+        "country_code": "LS",
+        "asn": "37057",
+        "description": "Vodacom Lesotho (Pty) Ltd",
+        "handle": "VODACOM-LESOTHO"
+    },
+    "37299": {
+        "country_code": "LS",
+        "asn": "37299",
+        "description": "Internet Exchange Point Association of Lesotho",
+        "handle": "LIXP"
+    },
+    "37331": {
+        "country_code": "LS",
+        "asn": "37331",
+        "description": "National University of Lesotho",
+        "handle": "NUL"
+    },
+    "37505": {
+        "country_code": "LS",
+        "asn": "37505",
+        "description": "Lesotho Network Information Centre Proprietary",
+        "handle": "LESOTHO-NIC"
+    },
+    "37617": {
+        "country_code": "LS",
+        "asn": "37617",
+        "description": "Central Bank of Lesotho",
+        "handle": "CBOL"
+    },
+    "37642": {
+        "country_code": "LS",
+        "asn": "37642",
+        "description": "Comnet Pty Ltd",
+        "handle": "COMNET-LESOTHO-AS"
+    },
+    "328567": {
+        "country_code": "LS",
+        "asn": "328567",
+        "description": "LEC Communications (Pty) Ltd",
+        "handle": "LEC-COMMUNICATIONS"
+    },
+    "329681": {
+        "country_code": "LS",
+        "asn": "329681",
+        "description": "Ministry of Information Communications Science Technology and Innovation",
+        "handle": "MICSTI"
+    }
+}

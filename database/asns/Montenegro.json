@@ -1,0 +1,188 @@
+{
+    "8585": {
+        "country_code": "ME",
+        "asn": "8585",
+        "description": "Crnogorski Telekom a.d.Podgorica",
+        "handle": "INTERNET-CG"
+    },
+    "15397": {
+        "country_code": "ME",
+        "asn": "15397",
+        "description": "One Crna Gora DOO",
+        "handle": "TELENORMONTENEGRO"
+    },
+    "29453": {
+        "country_code": "ME",
+        "asn": "29453",
+        "description": "Crnogorski Telekom a.d.Podgorica",
+        "handle": "TELEKOM-MPLS"
+    },
+    "40981": {
+        "country_code": "ME",
+        "asn": "40981",
+        "description": "University of Montenegro",
+        "handle": "UNIVCG"
+    },
+    "42993": {
+        "country_code": "ME",
+        "asn": "42993",
+        "description": "DGTL CAPITAL ME D.O.O.",
+        "handle": "BANKSYS-AS"
+    },
+    "43846": {
+        "country_code": "ME",
+        "asn": "43846",
+        "description": "Telemach Montenegro d.o.o.",
+        "handle": "TELEMACH-AS"
+    },
+    "43940": {
+        "country_code": "ME",
+        "asn": "43940",
+        "description": "Drustvo za telekomunikacije MTEL DOO",
+        "handle": "MTEL-AS"
+    },
+    "47451": {
+        "country_code": "ME",
+        "asn": "47451",
+        "description": "D.O.O.Domen Drustvo za Proizvodnju Promet i Usluge - Podgorica",
+        "handle": "DOMEN"
+    },
+    "47881": {
+        "country_code": "ME",
+        "asn": "47881",
+        "description": "One Crna Gora DOO",
+        "handle": "MNNEWS-AS"
+    },
+    "51434": {
+        "country_code": "ME",
+        "asn": "51434",
+        "description": "MERCATOR-CG DOO Podgorica",
+        "handle": "MERCATOR-CG-AS"
+    },
+    "51924": {
+        "country_code": "ME",
+        "asn": "51924",
+        "description": "Adriatic Marinas d.o.o.",
+        "handle": "PORTOMONTENEGRO-AS"
+    },
+    "60861": {
+        "country_code": "ME",
+        "asn": "60861",
+        "description": "D.O.O. Redcat",
+        "handle": "ASREDCAT"
+    },
+    "62301": {
+        "country_code": "ME",
+        "asn": "62301",
+        "description": "IPMONT d.o.o. Podgorica",
+        "handle": "IPMONT-AS"
+    },
+    "200276": {
+        "country_code": "ME",
+        "asn": "200276",
+        "description": "ASP Co d.o.o",
+        "handle": "BEENET-AS"
+    },
+    "200608": {
+        "country_code": "ME",
+        "asn": "200608",
+        "description": "University of Montenegro",
+        "handle": "MIXP"
+    },
+    "201649": {
+        "country_code": "ME",
+        "asn": "201649",
+        "description": "Centralna Banka Crne Gore",
+        "handle": "CBCGME-AS"
+    },
+    "201777": {
+        "country_code": "ME",
+        "asn": "201777",
+        "description": "Drustvo za telekomunikacije MTEL DOO",
+        "handle": "ZAPADBANKA"
+    },
+    "202644": {
+        "country_code": "ME",
+        "asn": "202644",
+        "description": "Wireless Montenegro D.O.O.",
+        "handle": "MEWIRELESS"
+    },
+    "202799": {
+        "country_code": "ME",
+        "asn": "202799",
+        "description": "SYSECT D.O.O.",
+        "handle": "SYSECT"
+    },
+    "203506": {
+        "country_code": "ME",
+        "asn": "203506",
+        "description": "MINISTRY OF DEFENCE OF MONTENEGRO (MINISTARSTVO ODBRANE CRNE GORE)",
+        "handle": "MOD-ME"
+    },
+    "203824": {
+        "country_code": "ME",
+        "asn": "203824",
+        "description": "Info Sistemi d.o.o.",
+        "handle": "INFOSME-AS"
+    },
+    "203879": {
+        "country_code": "ME",
+        "asn": "203879",
+        "description": "Zapad banka akcionarsko drustvo - Podgorica",
+        "handle": "ZAPADBANKA"
+    },
+    "203959": {
+        "country_code": "ME",
+        "asn": "203959",
+        "description": "Stolitomson Company DOO",
+        "handle": "STOLITOMSON-AS"
+    },
+    "205942": {
+        "country_code": "ME",
+        "asn": "205942",
+        "description": "Stolitomson Company DOO",
+        "handle": "STOLITOMSON-ME-AS"
+    },
+    "208568": {
+        "country_code": "ME",
+        "asn": "208568",
+        "description": "Hipotekarna banka AD Podgorica",
+        "handle": "HIPO"
+    },
+    "208856": {
+        "country_code": "ME",
+        "asn": "208856",
+        "description": "FiberCom Ltd.",
+        "handle": "FIBERCOM"
+    },
+    "211211": {
+        "country_code": "ME",
+        "asn": "211211",
+        "description": "IT-Develop DOO",
+        "handle": "ITDEVELOP-AS"
+    },
+    "213859": {
+        "country_code": "ME",
+        "asn": "213859",
+        "description": "MonteOps d.o.o",
+        "handle": "MONTEOPS-SVC"
+    },
+    "214642": {
+        "country_code": "ME",
+        "asn": "214642",
+        "description": "Alex Yopp",
+        "handle": "WEB"
+    },
+    "214926": {
+        "country_code": "ME",
+        "asn": "214926",
+        "description": "ZHANNA KAMBIEVA",
+        "handle": "SVPS"
+    },
+    "215896": {
+        "country_code": "ME",
+        "asn": "215896",
+        "description": "Ystel D.O.O. Tivat",
+        "handle": "YSTEL-AS"
+    }
+}

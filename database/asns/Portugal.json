@@ -1,0 +1,986 @@
+{
+    "1897": {
+        "country_code": "PT",
+        "asn": "1897",
+        "description": "NOS COMUNICACOES S.A.",
+        "handle": "EUNETPT"
+    },
+    "1930": {
+        "country_code": "PT",
+        "asn": "1930",
+        "description": "Fundacao para a Ciencia e a Tecnologia I.P.",
+        "handle": "RCCN"
+    },
+    "2860": {
+        "country_code": "PT",
+        "asn": "2860",
+        "description": "NOS COMUNICACOES S.A.",
+        "handle": "NOS-COMUNICACOES"
+    },
+    "3243": {
+        "country_code": "PT",
+        "asn": "3243",
+        "description": "MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.",
+        "handle": "MEO-RESIDENCIAL"
+    },
+    "5516": {
+        "country_code": "PT",
+        "asn": "5516",
+        "description": "INESC - Instituto de Engenharia de Sistemas e Computadores PCUP",
+        "handle": "INESC"
+    },
+    "5533": {
+        "country_code": "PT",
+        "asn": "5533",
+        "description": "Claranet Portugal S.A",
+        "handle": "CLARANET-PT"
+    },
+    "5626": {
+        "country_code": "PT",
+        "asn": "5626",
+        "description": "ONITELECOM - INFOCOMUNICACOES S.A.",
+        "handle": "ONI"
+    },
+    "6424": {
+        "country_code": "PT",
+        "asn": "6424",
+        "description": "EDGOO NETWORKS UNIPESSOAL LDA",
+        "handle": "EDGOO"
+    },
+    "6773": {
+        "country_code": "PT",
+        "asn": "6773",
+        "description": "SIBS Forward Payment Solutions S.A.",
+        "handle": "SIBS-FORWARD-PAYMENT"
+    },
+    "8609": {
+        "country_code": "PT",
+        "asn": "8609",
+        "description": "Universidade Catolica Portuguesa",
+        "handle": "UNIVERSIDADE-CATOLICA-PORTUGUESA"
+    },
+    "8657": {
+        "country_code": "PT",
+        "asn": "8657",
+        "description": "MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.",
+        "handle": "MEO-INTERNACIONAL"
+    },
+    "9118": {
+        "country_code": "PT",
+        "asn": "9118",
+        "description": "Novo Banco S.A.",
+        "handle": "NOVO-BANCO-SA"
+    },
+    "9186": {
+        "country_code": "PT",
+        "asn": "9186",
+        "description": "ONITELECOM - INFOCOMUNICACOES S.A.",
+        "handle": "ONI"
+    },
+    "12305": {
+        "country_code": "PT",
+        "asn": "12305",
+        "description": "G9 S.A.",
+        "handle": "NORTENET"
+    },
+    "12353": {
+        "country_code": "PT",
+        "asn": "12353",
+        "description": "Vodafone Portugal - Communicacoes Pessoais S.A.",
+        "handle": "VODAFONE-PT"
+    },
+    "12527": {
+        "country_code": "PT",
+        "asn": "12527",
+        "description": "Millennium BCP-Prestacao de Servicos ACE",
+        "handle": "MILLENNIUMBCP-AS"
+    },
+    "12542": {
+        "country_code": "PT",
+        "asn": "12542",
+        "description": "NOS COMUNICACOES S.A.",
+        "handle": "TVCABO-AS"
+    },
+    "12833": {
+        "country_code": "PT",
+        "asn": "12833",
+        "description": "Fundacao para a Ciencia e a Tecnologia I.P.",
+        "handle": "GIGAPIX"
+    },
+    "12926": {
+        "country_code": "PT",
+        "asn": "12926",
+        "description": "AR TELECOM - Acessos e Redes de Telecomunicacoes S.A.",
+        "handle": "ARTELECOMPT"
+    },
+    "13134": {
+        "country_code": "PT",
+        "asn": "13134",
+        "description": "Instituto de Informatica IP - Ministerio da Solidariedade e Seguranca Social",
+        "handle": "INSTITUTO-DE-INFORMATICA"
+    },
+    "13156": {
+        "country_code": "PT",
+        "asn": "13156",
+        "description": "NOWO COMMUNICATIONS S.A.",
+        "handle": "AS13156"
+    },
+    "13200": {
+        "country_code": "PT",
+        "asn": "13200",
+        "description": "Banco BPI SA",
+        "handle": "BANCOBPI"
+    },
+    "15457": {
+        "country_code": "PT",
+        "asn": "15457",
+        "description": "NOS Madeira Comunicacoes S.A.",
+        "handle": "NOS-MADEIRA"
+    },
+    "15525": {
+        "country_code": "PT",
+        "asn": "15525",
+        "description": "MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.",
+        "handle": "MEO-EMPRESAS"
+    },
+    "24698": {
+        "country_code": "PT",
+        "asn": "24698",
+        "description": "NOS COMUNICACOES S.A.",
+        "handle": "OPTIMUS-AS"
+    },
+    "24768": {
+        "country_code": "PT",
+        "asn": "24768",
+        "description": "ALMOUROLTEC SERVICOS DE INFORMATICA E INTERNET LDA",
+        "handle": "ALMOUROLTEC"
+    },
+    "25005": {
+        "country_code": "PT",
+        "asn": "25005",
+        "description": "Montepio Investimento S.A.",
+        "handle": "FINIBANCO-AS"
+    },
+    "25060": {
+        "country_code": "PT",
+        "asn": "25060",
+        "description": "Instituto Nacional de Estatistica I.P.",
+        "handle": "INE-AS"
+    },
+    "25253": {
+        "country_code": "PT",
+        "asn": "25253",
+        "description": "CAIXA GERAL DE DEPOSITOS SA",
+        "handle": "CGDNET"
+    },
+    "28672": {
+        "country_code": "PT",
+        "asn": "28672",
+        "description": "BANCO BIC PORTUGUES SA",
+        "handle": "BPNNET-AS"
+    },
+    "28998": {
+        "country_code": "PT",
+        "asn": "28998",
+        "description": "Caixa Economica Montepio Geral",
+        "handle": "MONTEPIO-GERAL-PT-AS"
+    },
+    "29003": {
+        "country_code": "PT",
+        "asn": "29003",
+        "description": "IP TELECOM SERVICOS DE TELECOMUNICACOES S.A.",
+        "handle": "REFERTELECOM-AS"
+    },
+    "29615": {
+        "country_code": "PT",
+        "asn": "29615",
+        "description": "Associacao Porto Digital",
+        "handle": "PORTODIGITAL-AS"
+    },
+    "29673": {
+        "country_code": "PT",
+        "asn": "29673",
+        "description": "Imprensa Nacional-Casa da Moeda S.A.",
+        "handle": "IMPRENSANACIONAL-PT-AS"
+    },
+    "31401": {
+        "country_code": "PT",
+        "asn": "31401",
+        "description": "Credito Agricola Servicos - Centro de Servicos Partilhados ACE",
+        "handle": "SICAMSERV"
+    },
+    "31413": {
+        "country_code": "PT",
+        "asn": "31413",
+        "description": "Super Bock Bebidas S.A.",
+        "handle": "UNICER-AS"
+    },
+    "31497": {
+        "country_code": "PT",
+        "asn": "31497",
+        "description": "Comissao do Mercado de Valores Mobiliarios",
+        "handle": "CMVM-PT-AS"
+    },
+    "33813": {
+        "country_code": "PT",
+        "asn": "33813",
+        "description": "COFIDIS",
+        "handle": "COFIDIS-PT-AS"
+    },
+    "33876": {
+        "country_code": "PT",
+        "asn": "33876",
+        "description": "DMNS - DOMINIOS S.A.",
+        "handle": "FLESK-AS"
+    },
+    "34122": {
+        "country_code": "PT",
+        "asn": "34122",
+        "description": "IFAP - Instituto Financiamento Agricultura e Pescas",
+        "handle": "IFAP-AS"
+    },
+    "34425": {
+        "country_code": "PT",
+        "asn": "34425",
+        "description": "EDGOO NETWORKS UNIPESSOAL LDA",
+        "handle": "EDGOO-ANYCAST"
+    },
+    "34643": {
+        "country_code": "PT",
+        "asn": "34643",
+        "description": "ALMOUROLTEC SERVICOS DE INFORMATICA E INTERNET LDA",
+        "handle": "WPS-AS"
+    },
+    "34873": {
+        "country_code": "PT",
+        "asn": "34873",
+        "description": "ACSS - Administracao Central do Sistema de Saude I.P.",
+        "handle": "IGIF-AS"
+    },
+    "35038": {
+        "country_code": "PT",
+        "asn": "35038",
+        "description": "INESC TEC - INSTITUTO DE ENGENHARIA DE SISTEMAS E COMPUTADORES TECNOLOGIA E CIENCIA",
+        "handle": "INESCTEC"
+    },
+    "35757": {
+        "country_code": "PT",
+        "asn": "35757",
+        "description": "Gotelecom S.A.",
+        "handle": "GOCONTACT-PT"
+    },
+    "35822": {
+        "country_code": "PT",
+        "asn": "35822",
+        "description": "CEGER",
+        "handle": "CEGER-AS"
+    },
+    "38993": {
+        "country_code": "PT",
+        "asn": "38993",
+        "description": "Renova-Fabrica de Papel do Almonda S.A.",
+        "handle": "RENOVA-PT-AS"
+    },
+    "39384": {
+        "country_code": "PT",
+        "asn": "39384",
+        "description": "Dream Fusion - IT Services Lda",
+        "handle": "RACKFIBER"
+    },
+    "41058": {
+        "country_code": "PT",
+        "asn": "41058",
+        "description": "NEUTRALUPLINK LDA",
+        "handle": "CAPEDALE"
+    },
+    "41159": {
+        "country_code": "PT",
+        "asn": "41159",
+        "description": "INSTITUTO DA MOBILIDADE E DOS TRANSPORTES TERRESTRES I.P",
+        "handle": "DIRECCAO-GERAL"
+    },
+    "41345": {
+        "country_code": "PT",
+        "asn": "41345",
+        "description": "Visabeira Digital - Sistemas de Informacao e Multimedia SA",
+        "handle": "VISABEIRA-DIGITAL-ASN"
+    },
+    "41425": {
+        "country_code": "PT",
+        "asn": "41425",
+        "description": "NEUTRALUPLINK LDA",
+        "handle": "GLOBAL-DATA-NETWORKS-AS"
+    },
+    "41708": {
+        "country_code": "PT",
+        "asn": "41708",
+        "description": "Banco Credibom S.A.",
+        "handle": "CREDIBOM"
+    },
+    "41962": {
+        "country_code": "PT",
+        "asn": "41962",
+        "description": "MIGUEL GONCALVES UNIPESSOAL LDA",
+        "handle": "MGONCALVES"
+    },
+    "42580": {
+        "country_code": "PT",
+        "asn": "42580",
+        "description": "NOS ACORES COMUNICACOES S.A.",
+        "handle": "CABOTVA"
+    },
+    "42863": {
+        "country_code": "PT",
+        "asn": "42863",
+        "description": "MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.",
+        "handle": "MEO-MOVEL"
+    },
+    "43062": {
+        "country_code": "PT",
+        "asn": "43062",
+        "description": "Polska Agencja Prasowa SA",
+        "handle": "PAP-AS"
+    },
+    "43064": {
+        "country_code": "PT",
+        "asn": "43064",
+        "description": "Teixeira Duarte - Engenharia e Construcoes S.A.",
+        "handle": "TEIXEIRAEDUARTE-AS"
+    },
+    "43643": {
+        "country_code": "PT",
+        "asn": "43643",
+        "description": "Transportes Aereos Portugueses SA",
+        "handle": "TAP-AS"
+    },
+    "43652": {
+        "country_code": "PT",
+        "asn": "43652",
+        "description": "EDGOO NETWORKS UNIPESSOAL LDA",
+        "handle": "AS100LIMITE"
+    },
+    "43887": {
+        "country_code": "PT",
+        "asn": "43887",
+        "description": "IGFEJ INST GESTAO FINANCEIRA E EQUIPAMENTOS DA JUSTICA IP",
+        "handle": "MJ-PT-AS"
+    },
+    "43990": {
+        "country_code": "PT",
+        "asn": "43990",
+        "description": "Europ Assistance - Companhia Portuguesa de Seguros S.A",
+        "handle": "EUROP-ASSISTANCE"
+    },
+    "44055": {
+        "country_code": "PT",
+        "asn": "44055",
+        "description": "Gotelecom S.A.",
+        "handle": "GOCONTACT-ES"
+    },
+    "44222": {
+        "country_code": "PT",
+        "asn": "44222",
+        "description": "Nuno Felgueiras",
+        "handle": "AS-CLOUDITY"
+    },
+    "44785": {
+        "country_code": "PT",
+        "asn": "44785",
+        "description": "Robot Telecomunicacoes Projectos e Servicos Lda",
+        "handle": "RBT-AS"
+    },
+    "47202": {
+        "country_code": "PT",
+        "asn": "47202",
+        "description": "Lazer Telecomunicacoes S.A.",
+        "handle": "LAZER"
+    },
+    "47310": {
+        "country_code": "PT",
+        "asn": "47310",
+        "description": "CIMAL - Comunidade Intermunicipal do Alentejo Litoral",
+        "handle": "CIMAL"
+    },
+    "47784": {
+        "country_code": "PT",
+        "asn": "47784",
+        "description": "Entidade de Servicos Partilhados da Administracao Publica I.P.",
+        "handle": "INSTINF"
+    },
+    "47787": {
+        "country_code": "PT",
+        "asn": "47787",
+        "description": "EDGOO NETWORKS UNIPESSOAL LDA",
+        "handle": "EDGOO"
+    },
+    "47943": {
+        "country_code": "PT",
+        "asn": "47943",
+        "description": "EDGOO NETWORKS UNIPESSOAL LDA",
+        "handle": "EDGOO-OFFNET"
+    },
+    "49260": {
+        "country_code": "PT",
+        "asn": "49260",
+        "description": "EDGOO NETWORKS UNIPESSOAL LDA",
+        "handle": "EDGOO"
+    },
+    "49349": {
+        "country_code": "PT",
+        "asn": "49349",
+        "description": "DOTSI LDA",
+        "handle": "DOTSI"
+    },
+    "49941": {
+        "country_code": "PT",
+        "asn": "49941",
+        "description": "Eurotux Informatica SA",
+        "handle": "EUROTUX"
+    },
+    "50028": {
+        "country_code": "PT",
+        "asn": "50028",
+        "description": "EDGOO NETWORKS UNIPESSOAL LDA",
+        "handle": "EDGOO"
+    },
+    "50271": {
+        "country_code": "PT",
+        "asn": "50271",
+        "description": "Mota-engil Global-servicos Partilhados Administrativos E Tecnicos S.A.",
+        "handle": "MESP"
+    },
+    "50293": {
+        "country_code": "PT",
+        "asn": "50293",
+        "description": "Interfiber Networks LDA",
+        "handle": "INTERFIBER-PT"
+    },
+    "50666": {
+        "country_code": "PT",
+        "asn": "50666",
+        "description": "LigaT Telecom Sociedade Unipessoal LDA",
+        "handle": "LIGAT"
+    },
+    "51126": {
+        "country_code": "PT",
+        "asn": "51126",
+        "description": "Kew Solutions Unipessoal Lda",
+        "handle": "KEWAIICLOUD"
+    },
+    "51171": {
+        "country_code": "PT",
+        "asn": "51171",
+        "description": "MINHOCOM Gestao de Infraestuturas de Telecomunicacoes EIM",
+        "handle": "VALICOM-AS"
+    },
+    "51512": {
+        "country_code": "PT",
+        "asn": "51512",
+        "description": "DIGITALSIGN - CERTIFICADORA DIGITAL S.A.",
+        "handle": "DIGITALSIGN"
+    },
+    "52042": {
+        "country_code": "PT",
+        "asn": "52042",
+        "description": "Kew Solutions Unipessoal Lda",
+        "handle": "KEW"
+    },
+    "56849": {
+        "country_code": "PT",
+        "asn": "56849",
+        "description": "Kew Solutions Unipessoal Lda",
+        "handle": "KEW1"
+    },
+    "57350": {
+        "country_code": "PT",
+        "asn": "57350",
+        "description": "European Maritime Safety Agency",
+        "handle": "EUROPEAN-MARITIME-SAFETY-AGENCY-AS"
+    },
+    "59528": {
+        "country_code": "PT",
+        "asn": "59528",
+        "description": "EG PORTUGAL SOCIEDADE UNIPESSOAL LDA",
+        "handle": "EGP"
+    },
+    "59690": {
+        "country_code": "PT",
+        "asn": "59690",
+        "description": "Camara Municipal de Lisboa",
+        "handle": "CML-PT"
+    },
+    "59787": {
+        "country_code": "PT",
+        "asn": "59787",
+        "description": "WebSP - Comercio e Prestacao de Servicos Informaticos Lda",
+        "handle": "WEBHS"
+    },
+    "61017": {
+        "country_code": "PT",
+        "asn": "61017",
+        "description": "Xervers Unipessoal Lda.",
+        "handle": "AS-PLANETAVENTURA"
+    },
+    "61290": {
+        "country_code": "PT",
+        "asn": "61290",
+        "description": "EDGOO NETWORKS UNIPESSOAL LDA",
+        "handle": "EDGOO"
+    },
+    "62416": {
+        "country_code": "PT",
+        "asn": "62416",
+        "description": "SAMPLING LINE-SERVICOS E INTERNET LDA",
+        "handle": "PTSERVIDOR"
+    },
+    "64472": {
+        "country_code": "PT",
+        "asn": "64472",
+        "description": "RSIL Lda",
+        "handle": "RSIL"
+    },
+    "141193": {
+        "country_code": "PT",
+        "asn": "141193",
+        "description": "EDGOO NETWORKS UNIPESSOAL LDA",
+        "handle": "ENUL-AS-AP"
+    },
+    "197802": {
+        "country_code": "PT",
+        "asn": "197802",
+        "description": "Secretaria-Geral Ministerio da Administracao Interna",
+        "handle": "UTIS-AS"
+    },
+    "199016": {
+        "country_code": "PT",
+        "asn": "199016",
+        "description": "VISUALFORMA TECNOLOGIAS DE INFORMACAO SA",
+        "handle": "VISUALFORMA-AS"
+    },
+    "199130": {
+        "country_code": "PT",
+        "asn": "199130",
+        "description": "4Spiro - Sociedade de Consultoria LDA",
+        "handle": "FOURSPIRO"
+    },
+    "199155": {
+        "country_code": "PT",
+        "asn": "199155",
+        "description": "Direcao Geral de Estatisticas da Educacao e Ciencia",
+        "handle": "REDE-MEC"
+    },
+    "199667": {
+        "country_code": "PT",
+        "asn": "199667",
+        "description": "4Spiro - Sociedade de Consultoria LDA",
+        "handle": "MADCIX"
+    },
+    "199993": {
+        "country_code": "PT",
+        "asn": "199993",
+        "description": "Associacao DNS.PT",
+        "handle": "DNSPT"
+    },
+    "200454": {
+        "country_code": "PT",
+        "asn": "200454",
+        "description": "Tomas Oliveira Valente Leite de Castro",
+        "handle": "TOM-AS"
+    },
+    "200706": {
+        "country_code": "PT",
+        "asn": "200706",
+        "description": "AXIANSEU - DIGITAL SOLUTIONS S.A.",
+        "handle": "ONEIT"
+    },
+    "200859": {
+        "country_code": "PT",
+        "asn": "200859",
+        "description": "IDON Digital Solutions Unipessoal LDA",
+        "handle": "IDONCLOUD"
+    },
+    "200942": {
+        "country_code": "PT",
+        "asn": "200942",
+        "description": "ATEP - Amkor Technology Portugal S.A.",
+        "handle": "NANIUM-AS"
+    },
+    "200952": {
+        "country_code": "PT",
+        "asn": "200952",
+        "description": "Samuel Oliveira Barata",
+        "handle": "BARATA"
+    },
+    "201170": {
+        "country_code": "PT",
+        "asn": "201170",
+        "description": "ANA - Aeroportos de Portugal SA",
+        "handle": "ANA-AS"
+    },
+    "201238": {
+        "country_code": "PT",
+        "asn": "201238",
+        "description": "Antonio Carlos Correia da Silva",
+        "handle": "KARBUST"
+    },
+    "201449": {
+        "country_code": "PT",
+        "asn": "201449",
+        "description": "Digital Absolut Business - Servidor Virtualizacao Cluster Datacenters e Telecomunicacoes Lda",
+        "handle": "DAB-AS"
+    },
+    "201523": {
+        "country_code": "PT",
+        "asn": "201523",
+        "description": "EDP S.A.",
+        "handle": "EDP-AS"
+    },
+    "201782": {
+        "country_code": "PT",
+        "asn": "201782",
+        "description": "Make It Simple Consultoria Informatica Lda",
+        "handle": "MAKEITSIMPLE"
+    },
+    "201879": {
+        "country_code": "PT",
+        "asn": "201879",
+        "description": "VISUALFORMA - Tecnologias de Informacao S.A.",
+        "handle": "PT-VF"
+    },
+    "202170": {
+        "country_code": "PT",
+        "asn": "202170",
+        "description": "DSTELECOM S.A.",
+        "handle": "DSTELECOM-AS"
+    },
+    "202277": {
+        "country_code": "PT",
+        "asn": "202277",
+        "description": "Secretaria-Geral do Governo",
+        "handle": "PT-SGE-ASN"
+    },
+    "202341": {
+        "country_code": "PT",
+        "asn": "202341",
+        "description": "MY CLOUD UNIPESSOAL LDA",
+        "handle": "MYCLOUD-PT"
+    },
+    "202410": {
+        "country_code": "PT",
+        "asn": "202410",
+        "description": "FASCINATINGSEARCH - UNIPESSOAL LDA",
+        "handle": "ORG-PMFP1-RIPE"
+    },
+    "202904": {
+        "country_code": "PT",
+        "asn": "202904",
+        "description": "Softman S.A.",
+        "handle": "SOFTMAN"
+    },
+    "202981": {
+        "country_code": "PT",
+        "asn": "202981",
+        "description": "TOTALMOBRAND SA",
+        "handle": "TOTALMOBRAND-AS"
+    },
+    "203282": {
+        "country_code": "PT",
+        "asn": "203282",
+        "description": "Francisco Oliveira trading as Tenzix",
+        "handle": "TENZIX"
+    },
+    "203482": {
+        "country_code": "PT",
+        "asn": "203482",
+        "description": "Policia Judiciaria",
+        "handle": "PJ"
+    },
+    "203491": {
+        "country_code": "PT",
+        "asn": "203491",
+        "description": "Estoril Sol Digital Online Gaming Products And Services S.A.",
+        "handle": "ESTORIL"
+    },
+    "203529": {
+        "country_code": "PT",
+        "asn": "203529",
+        "description": "GETUPLINK - SYSTEM AND NETWORK SOLUTIONS LDA",
+        "handle": "GETUPLINK"
+    },
+    "204094": {
+        "country_code": "PT",
+        "asn": "204094",
+        "description": "I4W - Web Solutions Lda",
+        "handle": "I4W"
+    },
+    "205378": {
+        "country_code": "PT",
+        "asn": "205378",
+        "description": "Yellow Dinosaur Unip Lda",
+        "handle": "Y3D"
+    },
+    "205558": {
+        "country_code": "PT",
+        "asn": "205558",
+        "description": "Autoridade Nacional de Comunicacoes (Anacom)",
+        "handle": "ANACOM"
+    },
+    "206316": {
+        "country_code": "PT",
+        "asn": "206316",
+        "description": "Xervers Unipessoal Lda.",
+        "handle": "AS-XERVERS"
+    },
+    "207002": {
+        "country_code": "PT",
+        "asn": "207002",
+        "description": "Gallas Carvalho Internet Unipessoal Lda.",
+        "handle": "COPAHOST"
+    },
+    "207112": {
+        "country_code": "PT",
+        "asn": "207112",
+        "description": "REN - Rede Energeticas Nacionais S.A.",
+        "handle": "REN"
+    },
+    "207118": {
+        "country_code": "PT",
+        "asn": "207118",
+        "description": "Diogo Castro",
+        "handle": "DIOGO"
+    },
+    "207731": {
+        "country_code": "PT",
+        "asn": "207731",
+        "description": "DIAMWALL LDA",
+        "handle": "DIAMWALL"
+    },
+    "207969": {
+        "country_code": "PT",
+        "asn": "207969",
+        "description": "Fundacao para a Ciencia e a Tecnologia I.P.",
+        "handle": "POINTS"
+    },
+    "208158": {
+        "country_code": "PT",
+        "asn": "208158",
+        "description": "Lazer Telecomunicacoes S.A.",
+        "handle": "LAZER-SP"
+    },
+    "208277": {
+        "country_code": "PT",
+        "asn": "208277",
+        "description": "CiberConceito Informatica e Servicos Unipessoal Lda",
+        "handle": "CIBERCONCEITO"
+    },
+    "208457": {
+        "country_code": "PT",
+        "asn": "208457",
+        "description": "CLOUD Telecom Lda",
+        "handle": "CLOUD-TELECOM"
+    },
+    "209357": {
+        "country_code": "PT",
+        "asn": "209357",
+        "description": "Tiago Antunes Afonso Dias",
+        "handle": "TIAGO"
+    },
+    "209440": {
+        "country_code": "PT",
+        "asn": "209440",
+        "description": "Gabinete Nacional de Seguranca (GNS)",
+        "handle": "GNS-CNCS"
+    },
+    "209874": {
+        "country_code": "PT",
+        "asn": "209874",
+        "description": "Tech Tide Portugal Unipessoal LDA",
+        "handle": "TECHTIDE"
+    },
+    "209968": {
+        "country_code": "PT",
+        "asn": "209968",
+        "description": "Kew Solutions Unipessoal Lda",
+        "handle": "CREATIVE"
+    },
+    "210221": {
+        "country_code": "PT",
+        "asn": "210221",
+        "description": "HOVIONE FARMACIENCIA S.A.",
+        "handle": "ASNEW"
+    },
+    "210300": {
+        "country_code": "PT",
+        "asn": "210300",
+        "description": "FIDELIDADE COMPANHIA DE SEGUROS SA",
+        "handle": "FIDELIDADE"
+    },
+    "210313": {
+        "country_code": "PT",
+        "asn": "210313",
+        "description": "Digi Portugal Sociedade Unipessoal LDA",
+        "handle": "DIGI-PT"
+    },
+    "210374": {
+        "country_code": "PT",
+        "asn": "210374",
+        "description": "Pedro Direito",
+        "handle": "FINALSPACE"
+    },
+    "211259": {
+        "country_code": "PT",
+        "asn": "211259",
+        "description": "MBBLC NETWORKS LDA",
+        "handle": "MIZTEC"
+    },
+    "211680": {
+        "country_code": "PT",
+        "asn": "211680",
+        "description": "NSEC - Sistemas Informaticos S.A.",
+        "handle": "AS-BITSIGHT"
+    },
+    "212073": {
+        "country_code": "PT",
+        "asn": "212073",
+        "description": "Netureza Lda.",
+        "handle": "NETUREZA"
+    },
+    "212554": {
+        "country_code": "PT",
+        "asn": "212554",
+        "description": "SALAM - Exclusive Properties Lda",
+        "handle": "SALAM"
+    },
+    "212738": {
+        "country_code": "PT",
+        "asn": "212738",
+        "description": "LUSOVPS UNIPESSOAL LDA",
+        "handle": "LUSOVPS"
+    },
+    "212954": {
+        "country_code": "PT",
+        "asn": "212954",
+        "description": "LUSOALOJA SERVICOS DE ALOJAMENTO WEB LDA",
+        "handle": "LUSOALOJA"
+    },
+    "213277": {
+        "country_code": "PT",
+        "asn": "213277",
+        "description": "ALMOUROLTEC SERVICOS DE INFORMATICA E INTERNET LDA",
+        "handle": "ALOJARPT"
+    },
+    "213285": {
+        "country_code": "PT",
+        "asn": "213285",
+        "description": "Eventkey Lda",
+        "handle": "EVENTKEY"
+    },
+    "213367": {
+        "country_code": "PT",
+        "asn": "213367",
+        "description": "IGOR BISSOLI ZULCAO",
+        "handle": "IGOR-BISSOLI"
+    },
+    "213886": {
+        "country_code": "PT",
+        "asn": "213886",
+        "description": "Jose Pedro Barreiros e Silva de Albuquerque",
+        "handle": "ZR3SYSTEMS"
+    },
+    "213994": {
+        "country_code": "PT",
+        "asn": "213994",
+        "description": "DESTAKBUBBLE LDA",
+        "handle": "DESTAKBUBBLE"
+    },
+    "214212": {
+        "country_code": "PT",
+        "asn": "214212",
+        "description": "ZKZ Ventures Lda",
+        "handle": "WEBPLUG"
+    },
+    "214213": {
+        "country_code": "PT",
+        "asn": "214213",
+        "description": "START - Sines Transatlantic Renewable & Technology Campus S. A.",
+        "handle": "START"
+    },
+    "214448": {
+        "country_code": "PT",
+        "asn": "214448",
+        "description": "Sunny Moony Music Label Lda",
+        "handle": "SUNNYMOON"
+    },
+    "214479": {
+        "country_code": "PT",
+        "asn": "214479",
+        "description": "Rui Pedro Correia Caldeira",
+        "handle": "RPCNET"
+    },
+    "214531": {
+        "country_code": "PT",
+        "asn": "214531",
+        "description": "Vuln Seeker Unipessoal LDA",
+        "handle": "VULN-SEEKER"
+    },
+    "214868": {
+        "country_code": "PT",
+        "asn": "214868",
+        "description": "Ruben Guerreiro",
+        "handle": "RUBENGUERREIRO"
+    },
+    "214913": {
+        "country_code": "PT",
+        "asn": "214913",
+        "description": "Joel Reis da Conceicao trading as WebTejo",
+        "handle": "WEBTEJO-AS"
+    },
+    "214938": {
+        "country_code": "PT",
+        "asn": "214938",
+        "description": "Jose Miguel Dias Valdiviesso Alves",
+        "handle": "OXEDTECHNOLOGIES"
+    },
+    "215046": {
+        "country_code": "PT",
+        "asn": "215046",
+        "description": "LIMITBRAVITY - LDA",
+        "handle": "LTBY"
+    },
+    "215132": {
+        "country_code": "PT",
+        "asn": "215132",
+        "description": "CODAVEL S.A.",
+        "handle": "CODAVEL"
+    },
+    "215153": {
+        "country_code": "PT",
+        "asn": "215153",
+        "description": "Silvio Gabriel Neto da Silva",
+        "handle": "SILVIO-SILVA"
+    },
+    "215263": {
+        "country_code": "PT",
+        "asn": "215263",
+        "description": "Bruno Emanuel Pereira Pinto Silva",
+        "handle": "BRUNO-SILVA"
+    },
+    "215306": {
+        "country_code": "PT",
+        "asn": "215306",
+        "description": "GRUPO BEL - R&D LDA",
+        "handle": "BELPT"
+    },
+    "215446": {
+        "country_code": "PT",
+        "asn": "215446",
+        "description": "Sousa Pinheiro Telecomunicacoes Lda",
+        "handle": "SPTELECOM"
+    },
+    "216237": {
+        "country_code": "PT",
+        "asn": "216237",
+        "description": "PORTO EDITORA S.A.",
+        "handle": "AS-PORTOEDITORA"
+    }
+}

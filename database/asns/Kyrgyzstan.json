@@ -1,0 +1,386 @@
+{
+    "8449": {
+        "country_code": "KG",
+        "asn": "8449",
+        "description": "ElCat Ltd.",
+        "handle": "AS8449-ELCAT"
+    },
+    "8511": {
+        "country_code": "KG",
+        "asn": "8511",
+        "description": "ASIAINFO TE",
+        "handle": "AS8511-AI"
+    },
+    "12764": {
+        "country_code": "KG",
+        "asn": "12764",
+        "description": "AKNET Ltd.",
+        "handle": "AKNET-AS"
+    },
+    "12997": {
+        "country_code": "KG",
+        "asn": "12997",
+        "description": "OJSC Kyrgyztelecom",
+        "handle": "KTNET"
+    },
+    "25035": {
+        "country_code": "KG",
+        "asn": "25035",
+        "description": "Transfer Ltd",
+        "handle": "TRANSFER-AS"
+    },
+    "29061": {
+        "country_code": "KG",
+        "asn": "29061",
+        "description": "CJSC SAIMA TELECOM",
+        "handle": "SAIMANET-AS"
+    },
+    "39036": {
+        "country_code": "KG",
+        "asn": "39036",
+        "description": "SHORO CJSC",
+        "handle": "SHORO-AS"
+    },
+    "39160": {
+        "country_code": "KG",
+        "asn": "39160",
+        "description": "ElCat Ltd.",
+        "handle": "SR-IX"
+    },
+    "39214": {
+        "country_code": "KG",
+        "asn": "39214",
+        "description": "Kyrgys Russian Slavic University named after First President of Russia B.N. Yeltsin",
+        "handle": "COMINTECH"
+    },
+    "39659": {
+        "country_code": "KG",
+        "asn": "39659",
+        "description": "State institution Kyzmat under the Office of the President of the Kyrgyz Republic",
+        "handle": "INFOCOM"
+    },
+    "39819": {
+        "country_code": "KG",
+        "asn": "39819",
+        "description": "Optima Telecom Ltd.",
+        "handle": "PROHOSTKG"
+    },
+    "41271": {
+        "country_code": "KG",
+        "asn": "41271",
+        "description": "Eldik Bank OJSC",
+        "handle": "ELDIK-BANK-AS"
+    },
+    "41329": {
+        "country_code": "KG",
+        "asn": "41329",
+        "description": "Sky Mobile LLC",
+        "handle": "BITEL-AS-RIPE"
+    },
+    "41409": {
+        "country_code": "KG",
+        "asn": "41409",
+        "description": "Interbank Processing centre CJSC",
+        "handle": "IPC-KG-AS"
+    },
+    "41750": {
+        "country_code": "KG",
+        "asn": "41750",
+        "description": "Mega-Line Ltd.",
+        "handle": "AS-MEGALINE-KG"
+    },
+    "42581": {
+        "country_code": "KG",
+        "asn": "42581",
+        "description": "Inform Communications Ltd.",
+        "handle": "NEOTELECOM-AS"
+    },
+    "42837": {
+        "country_code": "KG",
+        "asn": "42837",
+        "description": "Extra Line LLC",
+        "handle": "EXTRALINE"
+    },
+    "43680": {
+        "country_code": "KG",
+        "asn": "43680",
+        "description": "CJSC Finca Bank",
+        "handle": "FINCA-BANK-AS"
+    },
+    "44343": {
+        "country_code": "KG",
+        "asn": "44343",
+        "description": "Optima Bank OJSC",
+        "handle": "OPTIMA-BANK-AS"
+    },
+    "44359": {
+        "country_code": "KG",
+        "asn": "44359",
+        "description": "Kyrgyzkommertsbank OJSC",
+        "handle": "BBK-AS"
+    },
+    "44536": {
+        "country_code": "KG",
+        "asn": "44536",
+        "description": "OJSC Dos-Credobank",
+        "handle": "DCOM-AS"
+    },
+    "44836": {
+        "country_code": "KG",
+        "asn": "44836",
+        "description": "Institution State Tax Service under the Cabinet of Ministers of the Kyrgyz Republic",
+        "handle": "GNS-AS"
+    },
+    "45001": {
+        "country_code": "KG",
+        "asn": "45001",
+        "description": "Commercial bank KYRGYZSTAN OJSC",
+        "handle": "KYRGYZSTAN-BANK-AS"
+    },
+    "47237": {
+        "country_code": "KG",
+        "asn": "47237",
+        "description": "NUR Telecom LLC",
+        "handle": "NURTELECOM-AS-RIPE"
+    },
+    "47782": {
+        "country_code": "KG",
+        "asn": "47782",
+        "description": "FastNet Ltd.",
+        "handle": "FAST-NET-AS"
+    },
+    "48271": {
+        "country_code": "KG",
+        "asn": "48271",
+        "description": "CJSC TELECOMMUNICATIONS COMPANY DUN",
+        "handle": "CITY-TELECOM-AS"
+    },
+    "50053": {
+        "country_code": "KG",
+        "asn": "50053",
+        "description": "Anton Levin",
+        "handle": "VDSKA-AS"
+    },
+    "50223": {
+        "country_code": "KG",
+        "asn": "50223",
+        "description": "Alfa Telecom CJSC",
+        "handle": "ALFA"
+    },
+    "50251": {
+        "country_code": "KG",
+        "asn": "50251",
+        "description": "NUR Telecom LLC",
+        "handle": "NURTELECOM-AS2"
+    },
+    "51787": {
+        "country_code": "KG",
+        "asn": "51787",
+        "description": "Gallery LLC",
+        "handle": "GALLERY-AS"
+    },
+    "51898": {
+        "country_code": "KG",
+        "asn": "51898",
+        "description": "Ak Bulut Soft LLC",
+        "handle": "BORNEO-BSK"
+    },
+    "56464": {
+        "country_code": "KG",
+        "asn": "56464",
+        "description": "OJSC BANK BAI-TUSHUM",
+        "handle": "BTB-20-21"
+    },
+    "56988": {
+        "country_code": "KG",
+        "asn": "56988",
+        "description": "Regional payment sistems LLC.",
+        "handle": "ASMOBILETELEVISIONKG"
+    },
+    "59430": {
+        "country_code": "KG",
+        "asn": "59430",
+        "description": "Kyrgyz Investment and Credit Bank CJSC",
+        "handle": "KICB-AS"
+    },
+    "59684": {
+        "country_code": "KG",
+        "asn": "59684",
+        "description": "Hoster kg Ltd.",
+        "handle": "ASHOSTERKG"
+    },
+    "60515": {
+        "country_code": "KG",
+        "asn": "60515",
+        "description": "OJSC Keremet Bank",
+        "handle": "KEREMETBANK-AS"
+    },
+    "60842": {
+        "country_code": "KG",
+        "asn": "60842",
+        "description": "Huize Holdings LLC",
+        "handle": "HUIZE-HOLDINGS-AS"
+    },
+    "61010": {
+        "country_code": "KG",
+        "asn": "61010",
+        "description": "IPNET OOO",
+        "handle": "IPNET-AS"
+    },
+    "61196": {
+        "country_code": "KG",
+        "asn": "61196",
+        "description": "Demir Kyrgyz International Bank CJSC",
+        "handle": "DEMIRBANK-AS"
+    },
+    "61399": {
+        "country_code": "KG",
+        "asn": "61399",
+        "description": "KG-IX LLC",
+        "handle": "KG-IX"
+    },
+    "197119": {
+        "country_code": "KG",
+        "asn": "197119",
+        "description": "KRENA - Kyrgyz research and education network association",
+        "handle": "ASKRENA"
+    },
+    "198629": {
+        "country_code": "KG",
+        "asn": "198629",
+        "description": "Elmoney LLC",
+        "handle": "ELMONEY-KG"
+    },
+    "199011": {
+        "country_code": "KG",
+        "asn": "199011",
+        "description": "CSI CJSC",
+        "handle": "ORG-CC992-RIPE"
+    },
+    "201591": {
+        "country_code": "KG",
+        "asn": "201591",
+        "description": "Aiyl Bank JSC",
+        "handle": "AIYL-BANK-AS"
+    },
+    "202773": {
+        "country_code": "KG",
+        "asn": "202773",
+        "description": "BM Technologies Ltd.",
+        "handle": "ASN-UMAI"
+    },
+    "204416": {
+        "country_code": "KG",
+        "asn": "204416",
+        "description": "Lukashkin Evgenii",
+        "handle": "AIRLINE-AS"
+    },
+    "204532": {
+        "country_code": "KG",
+        "asn": "204532",
+        "description": "Kompanion Bank CJSC",
+        "handle": "KOMPANION-BANK-AS"
+    },
+    "204674": {
+        "country_code": "KG",
+        "asn": "204674",
+        "description": "CJSC Bank of Asia",
+        "handle": "BANKASIA-AS"
+    },
+    "205204": {
+        "country_code": "KG",
+        "asn": "205204",
+        "description": "NT Lab Ltd",
+        "handle": "NTLAB-AS"
+    },
+    "205342": {
+        "country_code": "KG",
+        "asn": "205342",
+        "description": "LLC DATA CENTER",
+        "handle": "DC-NET"
+    },
+    "206351": {
+        "country_code": "KG",
+        "asn": "206351",
+        "description": "Institution American University of Central Asia",
+        "handle": "AUCA"
+    },
+    "207192": {
+        "country_code": "KG",
+        "asn": "207192",
+        "description": "Anfeya LLC",
+        "handle": "OPTINETWORKS"
+    },
+    "207250": {
+        "country_code": "KG",
+        "asn": "207250",
+        "description": "The National Bank of the Kyrgyz Republic",
+        "handle": "THENATIONALBANKOFTHEKYRGYZREPUBLICAS"
+    },
+    "207369": {
+        "country_code": "KG",
+        "asn": "207369",
+        "description": "Skynet Telecom LLC",
+        "handle": "SKYNET-TELECOM-AS"
+    },
+    "209918": {
+        "country_code": "KG",
+        "asn": "209918",
+        "description": "Pay 24 Ltd.",
+        "handle": "PAY24-AS"
+    },
+    "212243": {
+        "country_code": "KG",
+        "asn": "212243",
+        "description": "OJSC Capital Bank of Central Asia",
+        "handle": "CAPITALBANK"
+    },
+    "212409": {
+        "country_code": "KG",
+        "asn": "212409",
+        "description": "BAKAI BANK Open Joint Stock Company",
+        "handle": "BAKAI-BANK"
+    },
+    "213173": {
+        "country_code": "KG",
+        "asn": "213173",
+        "description": "NSP LLC",
+        "handle": "NSP-LLC"
+    },
+    "215326": {
+        "country_code": "KG",
+        "asn": "215326",
+        "description": "O! Bank OJSC",
+        "handle": "OBANK-AS"
+    },
+    "215490": {
+        "country_code": "KG",
+        "asn": "215490",
+        "description": "Microcredit Company M Bulak LLC",
+        "handle": "MBULAK-AS"
+    },
+    "215613": {
+        "country_code": "KG",
+        "asn": "215613",
+        "description": "Anton Levin",
+        "handle": "PE-LEVIN-AS"
+    },
+    "216007": {
+        "country_code": "KG",
+        "asn": "216007",
+        "description": "Ahead Co LLC",
+        "handle": "AHEAD-AS"
+    },
+    "216287": {
+        "country_code": "KG",
+        "asn": "216287",
+        "description": "BAKAI BANK Open Joint Stock Company",
+        "handle": "BAKAI-BANK"
+    },
+    "216358": {
+        "country_code": "KG",
+        "asn": "216358",
+        "description": "KSB CB CJSC",
+        "handle": "KSBC-AS"
+    }
+}

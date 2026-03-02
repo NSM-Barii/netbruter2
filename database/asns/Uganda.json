@@ -1,0 +1,392 @@
+{
+    "20294": {
+        "country_code": "UG",
+        "asn": "20294",
+        "description": "MTN Uganda",
+        "handle": "MTN-UG"
+    },
+    "21491": {
+        "country_code": "UG",
+        "asn": "21491",
+        "description": "Uganda Telecom",
+        "handle": "UGANDA-TELECOM"
+    },
+    "23549": {
+        "country_code": "UG",
+        "asn": "23549",
+        "description": "DATANET.COM LLC",
+        "handle": "DATA-IXP"
+    },
+    "29032": {
+        "country_code": "UG",
+        "asn": "29032",
+        "description": "DATANET LLC",
+        "handle": "DATANET-UG"
+    },
+    "29039": {
+        "country_code": "UG",
+        "asn": "29039",
+        "description": "ECHOTEL Proprietary Uganda",
+        "handle": "ECHOTEL-UG"
+    },
+    "36876": {
+        "country_code": "UG",
+        "asn": "36876",
+        "description": "Uganda Telecom Ltd",
+        "handle": "UG-TELECOM"
+    },
+    "36901": {
+        "country_code": "UG",
+        "asn": "36901",
+        "description": "DATANET.COM LLC",
+        "handle": "DATANET"
+    },
+    "36977": {
+        "country_code": "UG",
+        "asn": "36977",
+        "description": "Airtel Uganda Limited",
+        "handle": "AIRTEL-UG"
+    },
+    "36991": {
+        "country_code": "UG",
+        "asn": "36991",
+        "description": "Blue Crane Communications (U) Ltd",
+        "handle": "BLUE-CRANE-COMMUNICATIONS"
+    },
+    "36997": {
+        "country_code": "UG",
+        "asn": "36997",
+        "description": "Infocom ltd",
+        "handle": "INFOCOM-UG"
+    },
+    "37063": {
+        "country_code": "UG",
+        "asn": "37063",
+        "description": "Roke Investments International Ltd",
+        "handle": "RTL-AS"
+    },
+    "37075": {
+        "country_code": "UG",
+        "asn": "37075",
+        "description": "Airtel Uganda Limited",
+        "handle": "ZAINUGAS"
+    },
+    "37113": {
+        "country_code": "UG",
+        "asn": "37113",
+        "description": "Tangerine Limited",
+        "handle": "TANGERINE-UG-AS"
+    },
+    "37206": {
+        "country_code": "UG",
+        "asn": "37206",
+        "description": "Central Bank of Uganda",
+        "handle": "BOU"
+    },
+    "37273": {
+        "country_code": "UG",
+        "asn": "37273",
+        "description": "Bandwidth and Cloud Services Group Ltd",
+        "handle": "BCS"
+    },
+    "37386": {
+        "country_code": "UG",
+        "asn": "37386",
+        "description": "Uganda Internet eXchange Point",
+        "handle": "UIXP"
+    },
+    "37408": {
+        "country_code": "UG",
+        "asn": "37408",
+        "description": "National Water And Sewerage Corporation",
+        "handle": "NWSC"
+    },
+    "37610": {
+        "country_code": "UG",
+        "asn": "37610",
+        "description": "New Frontiers Technology Consult Limited",
+        "handle": "NTFC-ASN"
+    },
+    "37679": {
+        "country_code": "UG",
+        "asn": "37679",
+        "description": "Uganda Revenue Authority",
+        "handle": "URA1"
+    },
+    "37683": {
+        "country_code": "UG",
+        "asn": "37683",
+        "description": "Centenary Rural Development Bank",
+        "handle": "CRDB1-AS"
+    },
+    "37689": {
+        "country_code": "UG",
+        "asn": "37689",
+        "description": "SIMBANET (U) LIMITED",
+        "handle": "SNU-NET-AS"
+    },
+    "37809": {
+        "country_code": "UG",
+        "asn": "37809",
+        "description": "National Information Technology Authority Uganda",
+        "handle": "NIPPI-IX-UGANDA-PEERING"
+    },
+    "327687": {
+        "country_code": "UG",
+        "asn": "327687",
+        "description": "Research and Education Network for Uganda",
+        "handle": "RENU"
+    },
+    "327724": {
+        "country_code": "UG",
+        "asn": "327724",
+        "description": "National Information Technology Authority Uganda",
+        "handle": "NITA"
+    },
+    "327727": {
+        "country_code": "UG",
+        "asn": "327727",
+        "description": "C-Squared Limited",
+        "handle": "C-SQUARED"
+    },
+    "328015": {
+        "country_code": "UG",
+        "asn": "328015",
+        "description": "Sombha Solutions Store Limited",
+        "handle": "SOMBHA-SOLUTIONS"
+    },
+    "328102": {
+        "country_code": "UG",
+        "asn": "328102",
+        "description": "Uganda Communications Commission",
+        "handle": "UCC-AS"
+    },
+    "328118": {
+        "country_code": "UG",
+        "asn": "328118",
+        "description": "East African Broadband Services Limited",
+        "handle": "EAST-AFRICA-BROADBAND-SERVICES-AS"
+    },
+    "328198": {
+        "country_code": "UG",
+        "asn": "328198",
+        "description": "Blue Crane Communications (U) Ltd",
+        "handle": "BLUECRANE"
+    },
+    "328233": {
+        "country_code": "UG",
+        "asn": "328233",
+        "description": "DFCU Bank Limited",
+        "handle": "DFCU-BANK-AS"
+    },
+    "328292": {
+        "country_code": "UG",
+        "asn": "328292",
+        "description": "AGENT BANKING COMPANY OF UGANDA",
+        "handle": "AGENTBANKING-AS"
+    },
+    "328358": {
+        "country_code": "UG",
+        "asn": "328358",
+        "description": "Makerere University",
+        "handle": "MAKERERE-AS"
+    },
+    "328408": {
+        "country_code": "UG",
+        "asn": "328408",
+        "description": "HAMILTON TELECOM LIMITED",
+        "handle": "HAMILTON-TELECOM-AS"
+    },
+    "328462": {
+        "country_code": "UG",
+        "asn": "328462",
+        "description": "National Social Security Fund",
+        "handle": "NATIONAL-SOCIAL-SECURITY-FUND-AS"
+    },
+    "328616": {
+        "country_code": "UG",
+        "asn": "328616",
+        "description": "Spidd Africa Ltd",
+        "handle": "SPIDD-AFRICA"
+    },
+    "328634": {
+        "country_code": "UG",
+        "asn": "328634",
+        "description": "FINANCE TRUST BANK LIMITED",
+        "handle": "FINANCE-TRUST-BANK"
+    },
+    "328707": {
+        "country_code": "UG",
+        "asn": "328707",
+        "description": "Al Bayan Media Limited",
+        "handle": "AL-BAYAN-MEDIA"
+    },
+    "328727": {
+        "country_code": "UG",
+        "asn": "328727",
+        "description": "Simba Fiber Africa Limited",
+        "handle": "KAMPALA-SITI-CABLE"
+    },
+    "328754": {
+        "country_code": "UG",
+        "asn": "328754",
+        "description": "DIAMOND TRUST BANK UGANDA LIMITED",
+        "handle": "DIAMOND-TRUST-BANK"
+    },
+    "328813": {
+        "country_code": "UG",
+        "asn": "328813",
+        "description": "Uganda Christian University",
+        "handle": "UCU-AS"
+    },
+    "328821": {
+        "country_code": "UG",
+        "asn": "328821",
+        "description": "RAXIO DATA CENTRE SMC LIMITED",
+        "handle": "RAXIO-AS"
+    },
+    "328904": {
+        "country_code": "UG",
+        "asn": "328904",
+        "description": "UGANDA DEVELOPMENT BANK LIMITED",
+        "handle": "UDBL-AS"
+    },
+    "328939": {
+        "country_code": "UG",
+        "asn": "328939",
+        "description": "Sprint Internet Limited",
+        "handle": "SIL6-AS"
+    },
+    "328998": {
+        "country_code": "UG",
+        "asn": "328998",
+        "description": "Uganda Internet eXchange Point",
+        "handle": "UGANDAIXP-MGT"
+    },
+    "329000": {
+        "country_code": "UG",
+        "asn": "329000",
+        "description": "EQUITY BANK UGANDA LIMITED",
+        "handle": "EBUL1-AS"
+    },
+    "329005": {
+        "country_code": "UG",
+        "asn": "329005",
+        "description": "Crown Networks Limited",
+        "handle": "CNL4-AS"
+    },
+    "329128": {
+        "country_code": "UG",
+        "asn": "329128",
+        "description": "M/s Housing Finance Bank Limited",
+        "handle": "MHFB1-AS"
+    },
+    "329134": {
+        "country_code": "UG",
+        "asn": "329134",
+        "description": "Guaranty Trust Bank (Uganda) Ltd",
+        "handle": "GTBANK-UG-AS"
+    },
+    "329137": {
+        "country_code": "UG",
+        "asn": "329137",
+        "description": "Gigify Uganda Limited",
+        "handle": "GUL1-AS"
+    },
+    "329253": {
+        "country_code": "UG",
+        "asn": "329253",
+        "description": "Cheetahnet Solutions Limited",
+        "handle": "CSL5-AS"
+    },
+    "329374": {
+        "country_code": "UG",
+        "asn": "329374",
+        "description": "Post Bank (Uganda) Limited",
+        "handle": "POST-BANK-UGANDA-LIMITED"
+    },
+    "329377": {
+        "country_code": "UG",
+        "asn": "329377",
+        "description": "Hqzen tech solutions Ltd.",
+        "handle": "HQZEN-TECH"
+    },
+    "329396": {
+        "country_code": "UG",
+        "asn": "329396",
+        "description": "Uganda Electricity Transmission Company Limited",
+        "handle": "UGANDA-ELECTRICITY"
+    },
+    "329415": {
+        "country_code": "UG",
+        "asn": "329415",
+        "description": "Savanna Fibre Limited",
+        "handle": "SAVANNA-FIBRE-LIMITED"
+    },
+    "329464": {
+        "country_code": "UG",
+        "asn": "329464",
+        "description": "OGOS INNO-TECH LIMITED",
+        "handle": "OGOS-INNO-TECH"
+    },
+    "329531": {
+        "country_code": "UG",
+        "asn": "329531",
+        "description": "TALKIO MOBILE LTD",
+        "handle": "TALKIO-MOBILE-LTD"
+    },
+    "329551": {
+        "country_code": "UG",
+        "asn": "329551",
+        "description": "I&M Bank (Uganda) Limited",
+        "handle": "I-M-BANK-UGANDA"
+    },
+    "329569": {
+        "country_code": "UG",
+        "asn": "329569",
+        "description": "CFTS.CO (U) LIMITED",
+        "handle": "CFTS-CO"
+    },
+    "329617": {
+        "country_code": "UG",
+        "asn": "329617",
+        "description": "C-Squared Limited",
+        "handle": "C-SQUARED"
+    },
+    "329629": {
+        "country_code": "UG",
+        "asn": "329629",
+        "description": "KILIMANJARO TELECOM COMPANY LIMITED",
+        "handle": "KILIMANJARO-TELECOM-COMPANY-LIMITED"
+    },
+    "329669": {
+        "country_code": "UG",
+        "asn": "329669",
+        "description": "National Identification and Registration Authority",
+        "handle": "NATIONAL-IDENTIFICATION-AND-REGISTRATION-AUTHORITY"
+    },
+    "329679": {
+        "country_code": "UG",
+        "asn": "329679",
+        "description": "National Information Technology Authority Uganda",
+        "handle": "NIPPI-IX-UGANDA-MGMT"
+    },
+    "329684": {
+        "country_code": "UG",
+        "asn": "329684",
+        "description": "HYDE INNOVATIONS LTD",
+        "handle": "HYDE-INNOVATIONS-LTD"
+    },
+    "329688": {
+        "country_code": "UG",
+        "asn": "329688",
+        "description": "FASTPATH NETWORK (U) LTD",
+        "handle": "FASTPATH-NETWORK-LTD"
+    },
+    "329694": {
+        "country_code": "UG",
+        "asn": "329694",
+        "description": "Uganda Registration Services Bureau",
+        "handle": "UGANDA-REGISTRATION-SERVICES"
+    }
+}

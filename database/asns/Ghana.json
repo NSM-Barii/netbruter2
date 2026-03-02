@@ -1,0 +1,704 @@
+{
+    "15825": {
+        "country_code": "GH",
+        "asn": "15825",
+        "description": "Ghana Dot Com Ltd",
+        "handle": "GDC-ASN"
+    },
+    "29340": {
+        "country_code": "GH",
+        "asn": "29340",
+        "description": "SP ECHO GHANA LIMITED",
+        "handle": "SP-ECHO-GHANA-LIMITED"
+    },
+    "29614": {
+        "country_code": "GH",
+        "asn": "29614",
+        "description": "Ghana Telecommunications Company Limited",
+        "handle": "GHANATEL-AS"
+    },
+    "29674": {
+        "country_code": "GH",
+        "asn": "29674",
+        "description": "Vodacom Business (Ghana) Limited",
+        "handle": "GSTA-AS"
+    },
+    "30986": {
+        "country_code": "GH",
+        "asn": "30986",
+        "description": "Scancom Limited",
+        "handle": "SCANCOM"
+    },
+    "30997": {
+        "country_code": "GH",
+        "asn": "30997",
+        "description": "Ghana Internet Exchange Association",
+        "handle": "GIXA-AS"
+    },
+    "33786": {
+        "country_code": "GH",
+        "asn": "33786",
+        "description": "K-Net",
+        "handle": "KNET"
+    },
+    "35091": {
+        "country_code": "GH",
+        "asn": "35091",
+        "description": "Teledata Ghana",
+        "handle": "TELEDATA-AS"
+    },
+    "37012": {
+        "country_code": "GH",
+        "asn": "37012",
+        "description": "Comsys (GH) Limited",
+        "handle": "COMSYSGH-AS"
+    },
+    "37030": {
+        "country_code": "GH",
+        "asn": "37030",
+        "description": "Airtel Ghana Limited",
+        "handle": "AIRTEL-GHANA"
+    },
+    "37032": {
+        "country_code": "GH",
+        "asn": "37032",
+        "description": "Alink Telecom Ghana",
+        "handle": "ALINKGHANA-AS"
+    },
+    "37074": {
+        "country_code": "GH",
+        "asn": "37074",
+        "description": "University of Ghana",
+        "handle": "UG-AS"
+    },
+    "37087": {
+        "country_code": "GH",
+        "asn": "37087",
+        "description": "Super Tech STL Limited",
+        "handle": "STLGHANA"
+    },
+    "37140": {
+        "country_code": "GH",
+        "asn": "37140",
+        "description": "Airtel Ghana Limited",
+        "handle": "ZAIN-AS"
+    },
+    "37212": {
+        "country_code": "GH",
+        "asn": "37212",
+        "description": "Zenith Bank Ghana Ltd",
+        "handle": "ZENITH-BANK-GH"
+    },
+    "37232": {
+        "country_code": "GH",
+        "asn": "37232",
+        "description": "Certified Technology Services Ltd",
+        "handle": "CTS"
+    },
+    "37255": {
+        "country_code": "GH",
+        "asn": "37255",
+        "description": "Scancom Limited",
+        "handle": "SCANCOM2"
+    },
+    "37263": {
+        "country_code": "GH",
+        "asn": "37263",
+        "description": "University of Education Winneba",
+        "handle": "UNIVEDU"
+    },
+    "37289": {
+        "country_code": "GH",
+        "asn": "37289",
+        "description": "Ghana-India Kofi Annan Centre of Excellence in ICT",
+        "handle": "GKAC"
+    },
+    "37304": {
+        "country_code": "GH",
+        "asn": "37304",
+        "description": "Tullow Ghana Ltd",
+        "handle": "TULLOW"
+    },
+    "37313": {
+        "country_code": "GH",
+        "asn": "37313",
+        "description": "Ghana Government (Ministry of Communications)",
+        "handle": "GGOC1-AS"
+    },
+    "37350": {
+        "country_code": "GH",
+        "asn": "37350",
+        "description": "Dimension Data Ltd",
+        "handle": "DDS55"
+    },
+    "37373": {
+        "country_code": "GH",
+        "asn": "37373",
+        "description": "Ashesi University College",
+        "handle": "AUC-ASN"
+    },
+    "37392": {
+        "country_code": "GH",
+        "asn": "37392",
+        "description": "Social Security And National Insurance Trust",
+        "handle": "SSNIT"
+    },
+    "37478": {
+        "country_code": "GH",
+        "asn": "37478",
+        "description": "Mantrac Ghana ltd",
+        "handle": "MANTRAC-GH"
+    },
+    "37534": {
+        "country_code": "GH",
+        "asn": "37534",
+        "description": "Guaranty Trust Bank (Ghana) Limited",
+        "handle": "GH-GTBANK"
+    },
+    "37539": {
+        "country_code": "GH",
+        "asn": "37539",
+        "description": "MainOne Cable Company (Ghana) Ltd",
+        "handle": "MAINONE-GH"
+    },
+    "37570": {
+        "country_code": "GH",
+        "asn": "37570",
+        "description": "Fidelity Bank Limited",
+        "handle": "FIDELITY-AS"
+    },
+    "37613": {
+        "country_code": "GH",
+        "asn": "37613",
+        "description": "DOLPHIN TELECOMMUNICATION LIMITED",
+        "handle": "DOLPHIN-TELECOM-AS"
+    },
+    "37647": {
+        "country_code": "GH",
+        "asn": "37647",
+        "description": "Blue Cloud Networks Limited",
+        "handle": "BLUECLOUD-AS"
+    },
+    "37727": {
+        "country_code": "GH",
+        "asn": "37727",
+        "description": "iNET Communications Limited",
+        "handle": "INETCOM-AS37727"
+    },
+    "37806": {
+        "country_code": "GH",
+        "asn": "37806",
+        "description": "LINX-Internet Exchange Ghana LBG",
+        "handle": "LINX-GHANA-PEERING"
+    },
+    "327695": {
+        "country_code": "GH",
+        "asn": "327695",
+        "description": "Ghana-India Kofi Annan Centre of Excellence in ICT",
+        "handle": "AITI"
+    },
+    "327814": {
+        "country_code": "GH",
+        "asn": "327814",
+        "description": "Ecoband Ltd",
+        "handle": "ECOBAND"
+    },
+    "327845": {
+        "country_code": "GH",
+        "asn": "327845",
+        "description": "Sage petroleum- Ghana",
+        "handle": "SAGE-PETROLEUM"
+    },
+    "327848": {
+        "country_code": "GH",
+        "asn": "327848",
+        "description": "Republic Bank (Ghana) Ltd",
+        "handle": "HFC-BANK"
+    },
+    "327853": {
+        "country_code": "GH",
+        "asn": "327853",
+        "description": "China Europe International Business School(AFRICA Campus)",
+        "handle": "CEIB"
+    },
+    "327886": {
+        "country_code": "GH",
+        "asn": "327886",
+        "description": "Central University College",
+        "handle": "CENTRAL-UNIVERSITY-AS"
+    },
+    "327890": {
+        "country_code": "GH",
+        "asn": "327890",
+        "description": "Ghana Internet Exchange Association",
+        "handle": "GHANA-IXP-MNGNT"
+    },
+    "327928": {
+        "country_code": "GH",
+        "asn": "327928",
+        "description": "Consolidated Bank Ghana Limited",
+        "handle": "CONSOLIDATED-BANK-GHANA"
+    },
+    "327944": {
+        "country_code": "GH",
+        "asn": "327944",
+        "description": "African Institute for Mathematical Sciences Ghana",
+        "handle": "AIFM"
+    },
+    "327947": {
+        "country_code": "GH",
+        "asn": "327947",
+        "description": "Kwame Nkrumah University of Science and Technology",
+        "handle": "KNUST-GH"
+    },
+    "327965": {
+        "country_code": "GH",
+        "asn": "327965",
+        "description": "ARB APEX BANK LIMITED",
+        "handle": "ARB-APEX-BANK"
+    },
+    "327992": {
+        "country_code": "GH",
+        "asn": "327992",
+        "description": "Ghanaian Academic and Research Network",
+        "handle": "GHANAIAN-ACADEMIC-AND-RESEARCH-NETWORK"
+    },
+    "328054": {
+        "country_code": "GH",
+        "asn": "328054",
+        "description": "University for Development Studies",
+        "handle": "UNIV-DEVELOPMENT-AS"
+    },
+    "328076": {
+        "country_code": "GH",
+        "asn": "328076",
+        "description": "University of Mines and Technology",
+        "handle": "UNIVERSITY-OF-MINES-AND-TECHNOLOGY"
+    },
+    "328141": {
+        "country_code": "GH",
+        "asn": "328141",
+        "description": "Ostec limited",
+        "handle": "OSTEC-AS"
+    },
+    "328182": {
+        "country_code": "GH",
+        "asn": "328182",
+        "description": "Digital Arena Limited",
+        "handle": "DIGITAL-ARENA"
+    },
+    "328184": {
+        "country_code": "GH",
+        "asn": "328184",
+        "description": "UNIVERSITY OF HEALTH AND ALLIED SCIENCES",
+        "handle": "UNIV-HEALTH-SCIENCE"
+    },
+    "328185": {
+        "country_code": "GH",
+        "asn": "328185",
+        "description": "Consolidated Bank Ghana Limited",
+        "handle": "CONSOLIDATED-BANK-GHANA"
+    },
+    "328212": {
+        "country_code": "GH",
+        "asn": "328212",
+        "description": "THE UNIVERSITY OF CAPE COAST",
+        "handle": "THE-UNIVERSITY-OF-CAPE-COAST-AS"
+    },
+    "328213": {
+        "country_code": "GH",
+        "asn": "328213",
+        "description": "IT Consortium Limited",
+        "handle": "IT-CONSORTIUM-LIMITED-AS"
+    },
+    "328224": {
+        "country_code": "GH",
+        "asn": "328224",
+        "description": "University of Energy and Natural Resources",
+        "handle": "UNIVERSITY-OF-ENERGY-AND-NATURAL-RESOURC"
+    },
+    "328252": {
+        "country_code": "GH",
+        "asn": "328252",
+        "description": "eProcess International SA (Ecobank Group)",
+        "handle": "ECOBANK-GROUP"
+    },
+    "328261": {
+        "country_code": "GH",
+        "asn": "328261",
+        "description": "E-Connecta Limited",
+        "handle": "E-CONNECTA"
+    },
+    "328264": {
+        "country_code": "GH",
+        "asn": "328264",
+        "description": "University of Professional Studies Accra (UPSA)",
+        "handle": "UPSA-AS"
+    },
+    "328303": {
+        "country_code": "GH",
+        "asn": "328303",
+        "description": "iNET Communications Limited",
+        "handle": "INETCOM-AS328303"
+    },
+    "328353": {
+        "country_code": "GH",
+        "asn": "328353",
+        "description": "Methodist University College Ghana",
+        "handle": "METHODISTUNIVERSITY-AS"
+    },
+    "328367": {
+        "country_code": "GH",
+        "asn": "328367",
+        "description": "US Embassy Ghana",
+        "handle": "USEMBASSY-GHANA-AS"
+    },
+    "328372": {
+        "country_code": "GH",
+        "asn": "328372",
+        "description": "Etranzact Ghana Limited",
+        "handle": "ETRANZACT-AS"
+    },
+    "328439": {
+        "country_code": "GH",
+        "asn": "328439",
+        "description": "GHANA INSTITUTE OF MANAGEMENT AND PUBLIC ADMINISTRATION - GIMPA",
+        "handle": "GIMPA"
+    },
+    "328454": {
+        "country_code": "GH",
+        "asn": "328454",
+        "description": "Bank of Ghana",
+        "handle": "BANK-OF-GHANA-AS"
+    },
+    "328494": {
+        "country_code": "GH",
+        "asn": "328494",
+        "description": "3D WIRELESS PLUS LIMITED",
+        "handle": "WIRELESSPLUS-3D"
+    },
+    "328530": {
+        "country_code": "GH",
+        "asn": "328530",
+        "description": "Garden City University College",
+        "handle": "GARDENCITY-UNIVERSITY"
+    },
+    "328532": {
+        "country_code": "GH",
+        "asn": "328532",
+        "description": "Valley View University",
+        "handle": "VALLEY-VIEW-UNIVERSITY"
+    },
+    "328571": {
+        "country_code": "GH",
+        "asn": "328571",
+        "description": "Comsys (GH) Limited",
+        "handle": "TELESOL-GH"
+    },
+    "328574": {
+        "country_code": "GH",
+        "asn": "328574",
+        "description": "National Communications Authority",
+        "handle": "NCA-AS"
+    },
+    "328639": {
+        "country_code": "GH",
+        "asn": "328639",
+        "description": "Ghana National Petroleum Corporation",
+        "handle": "GHANA-NATIONAL-PETROLEUM"
+    },
+    "328647": {
+        "country_code": "GH",
+        "asn": "328647",
+        "description": "Koforidua Technical University",
+        "handle": "KOFORIDUA-TECHNICAL-UNIVERSITY"
+    },
+    "328648": {
+        "country_code": "GH",
+        "asn": "328648",
+        "description": "KUMASI TECHNICAL UNIVERSITY",
+        "handle": "KUMASHI-TECHNICAL-UNI-AS"
+    },
+    "328659": {
+        "country_code": "GH",
+        "asn": "328659",
+        "description": "Vobiss Solutions Limited",
+        "handle": "VOBISS-SOLUTIONS-LIMITED"
+    },
+    "328662": {
+        "country_code": "GH",
+        "asn": "328662",
+        "description": "Presbyterian University College Ghana",
+        "handle": "PRESBYTERIAN-UNIVERSITY"
+    },
+    "328663": {
+        "country_code": "GH",
+        "asn": "328663",
+        "description": "Catholic University of Ghana (Fiapre) (CUG)",
+        "handle": "CATHOLIC-UNIVERSITY-GHANA"
+    },
+    "328717": {
+        "country_code": "GH",
+        "asn": "328717",
+        "description": "Tizeti Network Ghana Limited",
+        "handle": "TIZETI-NETWORK-GHANA"
+    },
+    "328752": {
+        "country_code": "GH",
+        "asn": "328752",
+        "description": "Christian Service University College",
+        "handle": "CHRISTIAN-SERVICE-UNIVERSITY-AS"
+    },
+    "328769": {
+        "country_code": "GH",
+        "asn": "328769",
+        "description": "ARROW NETWORK SYSTEMS LIMITED",
+        "handle": "ARROW-NETWORK-SYSTEMS"
+    },
+    "328770": {
+        "country_code": "GH",
+        "asn": "328770",
+        "description": "SIMBA MEDIA GHANA LIMITED",
+        "handle": "SIMBA-MEDIA-GHANA"
+    },
+    "328797": {
+        "country_code": "GH",
+        "asn": "328797",
+        "description": "Broadspectrum Limited",
+        "handle": "BL26-AS"
+    },
+    "328827": {
+        "country_code": "GH",
+        "asn": "328827",
+        "description": "National Lottery Authority",
+        "handle": "NLA-AS"
+    },
+    "328842": {
+        "country_code": "GH",
+        "asn": "328842",
+        "description": "ProData Africa Limited",
+        "handle": "PRODATA-AS"
+    },
+    "328887": {
+        "country_code": "GH",
+        "asn": "328887",
+        "description": "Bluetown Ghana Ltd",
+        "handle": "BLUETOWNGHANA-AS"
+    },
+    "328890": {
+        "country_code": "GH",
+        "asn": "328890",
+        "description": "Calbank PLC",
+        "handle": "CAL-BANK-AS"
+    },
+    "328891": {
+        "country_code": "GH",
+        "asn": "328891",
+        "description": "EFANEST LIMITED",
+        "handle": "EFANEST-LIMITED-AS"
+    },
+    "328896": {
+        "country_code": "GH",
+        "asn": "328896",
+        "description": "UNIVERSITY OF ENVIRONMENT AND SUSTAINABLE DEVELOPMENT",
+        "handle": "UOEA-AS"
+    },
+    "328957": {
+        "country_code": "GH",
+        "asn": "328957",
+        "description": "CoLi Link Ghana Limited",
+        "handle": "CLGL1-AS"
+    },
+    "328983": {
+        "country_code": "GH",
+        "asn": "328983",
+        "description": "Comsys (GH) Limited",
+        "handle": "GROUPE-COMSYS-LIMITED-AS"
+    },
+    "328984": {
+        "country_code": "GH",
+        "asn": "328984",
+        "description": "Revabit Limited",
+        "handle": "RL4-AS"
+    },
+    "329009": {
+        "country_code": "GH",
+        "asn": "329009",
+        "description": "Spectrum Internet Service Ltd",
+        "handle": "SPECTRUM-INTERNET-SERVICE-AS"
+    },
+    "329066": {
+        "country_code": "GH",
+        "asn": "329066",
+        "description": "Datacom Telecommunication Limited",
+        "handle": "DTL5-AS"
+    },
+    "329154": {
+        "country_code": "GH",
+        "asn": "329154",
+        "description": "First Atlantic Bank Limited",
+        "handle": "FABL1-AS"
+    },
+    "329169": {
+        "country_code": "GH",
+        "asn": "329169",
+        "description": "Maxinet Broadband",
+        "handle": "MB1-AS"
+    },
+    "329176": {
+        "country_code": "GH",
+        "asn": "329176",
+        "description": "Future Technology Solutions Today Limited",
+        "handle": "FTST-AS"
+    },
+    "329180": {
+        "country_code": "GH",
+        "asn": "329180",
+        "description": "Akenten Appiah-Menka University of Skills Training and Entrepreneurial Development",
+        "handle": "AAUO-AS"
+    },
+    "329238": {
+        "country_code": "GH",
+        "asn": "329238",
+        "description": "Abex Interconnects Limited",
+        "handle": "ABEX-INTERCONNECTS-AS"
+    },
+    "329309": {
+        "country_code": "GH",
+        "asn": "329309",
+        "description": "West Africa Data Centres Limited",
+        "handle": "WEST-AFRICA-DATA-CENTRES-LIMITED"
+    },
+    "329326": {
+        "country_code": "GH",
+        "asn": "329326",
+        "description": "Accra Technical University",
+        "handle": "ACCRA-TECHNICAL-UNIVERSITY"
+    },
+    "329332": {
+        "country_code": "GH",
+        "asn": "329332",
+        "description": "Freedotel Communication Technologies Ltd",
+        "handle": "FREEDOTEL"
+    },
+    "329338": {
+        "country_code": "GH",
+        "asn": "329338",
+        "description": "Prudential Bank Limited",
+        "handle": "PRUDENTIAL-BANK-LIMITED"
+    },
+    "329389": {
+        "country_code": "GH",
+        "asn": "329389",
+        "description": "BigPay Ghana Limited",
+        "handle": "BIGPAY-GHANA"
+    },
+    "329410": {
+        "country_code": "GH",
+        "asn": "329410",
+        "description": "Sunyani Technical University",
+        "handle": "SUNYANI-TECHNICAL-UNIVERSITY"
+    },
+    "329416": {
+        "country_code": "GH",
+        "asn": "329416",
+        "description": "W.A.S.P LIMITED",
+        "handle": "WASP"
+    },
+    "329436": {
+        "country_code": "GH",
+        "asn": "329436",
+        "description": "Association of African Universities",
+        "handle": "AAU"
+    },
+    "329447": {
+        "country_code": "GH",
+        "asn": "329447",
+        "description": "Onix Data Centres Ghana Limited",
+        "handle": "ONIX-DATA-CENTRES"
+    },
+    "329449": {
+        "country_code": "GH",
+        "asn": "329449",
+        "description": "Regional Maritime University",
+        "handle": "REGIONAL-MARITIME-UNIVERSITY"
+    },
+    "329459": {
+        "country_code": "GH",
+        "asn": "329459",
+        "description": "UNITED BANK FOR AFRICA GHANA LIMITED",
+        "handle": "UBA-GHANA"
+    },
+    "329477": {
+        "country_code": "GH",
+        "asn": "329477",
+        "description": "Boldnet Internet Solutions",
+        "handle": "BOLDNET-INTERNET"
+    },
+    "329482": {
+        "country_code": "GH",
+        "asn": "329482",
+        "description": "OPIN TECHNOLOGIES GHANA LIMITED",
+        "handle": "OPIN-TECHNOLOGIES"
+    },
+    "329486": {
+        "country_code": "GH",
+        "asn": "329486",
+        "description": "GCB BANK PLC",
+        "handle": "GCB-BANK-PLC"
+    },
+    "329566": {
+        "country_code": "GH",
+        "asn": "329566",
+        "description": "LINX-Internet Exchange Ghana LBG",
+        "handle": "LINX-GHANA-MANAGEMENT"
+    },
+    "329580": {
+        "country_code": "GH",
+        "asn": "329580",
+        "description": "The Cloud Network Limited",
+        "handle": "CLOUD-NETWORK"
+    },
+    "329588": {
+        "country_code": "GH",
+        "asn": "329588",
+        "description": "Winners Co-operative Credit Union Limited",
+        "handle": "WINNERS-COOPERATIVE-CREDIT-UNION-LIMITED"
+    },
+    "329591": {
+        "country_code": "GH",
+        "asn": "329591",
+        "description": "Dynamic Data Solutions LTD",
+        "handle": "DYNAMIC-DATA-SOLUTIONS"
+    },
+    "329601": {
+        "country_code": "GH",
+        "asn": "329601",
+        "description": "University of Media Arts and Communications",
+        "handle": "UNIVERSITY-OF-MEDIA-ARTS-AND-COMMUNICATIONS"
+    },
+    "329624": {
+        "country_code": "GH",
+        "asn": "329624",
+        "description": "MONINET",
+        "handle": "MONINET"
+    },
+    "329645": {
+        "country_code": "GH",
+        "asn": "329645",
+        "description": "Electricity Company of Ghana Ltd",
+        "handle": "ELECTRICITY-COMPANY-OF-GHANA"
+    },
+    "329649": {
+        "country_code": "GH",
+        "asn": "329649",
+        "description": "Carl-Tech IT Solutions LTD",
+        "handle": "CARL-TECH-IT-SOLUTIONS-LTD"
+    },
+    "329687": {
+        "country_code": "GH",
+        "asn": "329687",
+        "description": "G2 Telecommunications Group Ltd",
+        "handle": "G2-TELECOMMUNICATIONS"
+    }
+}

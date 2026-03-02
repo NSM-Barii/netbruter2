@@ -1,0 +1,5234 @@
+{
+    "918": {
+        "country_code": "SE",
+        "asn": "918",
+        "description": "IP Excess AB",
+        "handle": "IPEX"
+    },
+    "1257": {
+        "country_code": "SE",
+        "asn": "1257",
+        "description": "Tele2 Sverige AB",
+        "handle": "SWIPNET"
+    },
+    "1299": {
+        "country_code": "SE",
+        "asn": "1299",
+        "description": "Arelion Sweden AB",
+        "handle": "TWELVE99"
+    },
+    "1653": {
+        "country_code": "SE",
+        "asn": "1653",
+        "description": "Vetenskapsradet / SUNET",
+        "handle": "SUNET"
+    },
+    "1729": {
+        "country_code": "SE",
+        "asn": "1729",
+        "description": "Telia Company AB",
+        "handle": "TELIA-TCN"
+    },
+    "1755": {
+        "country_code": "SE",
+        "asn": "1755",
+        "description": "Svensk Teleutveckling & Produktinnovation STUPI AB",
+        "handle": "AS1755"
+    },
+    "1833": {
+        "country_code": "SE",
+        "asn": "1833",
+        "description": "Arelion Sweden AB",
+        "handle": "TWELVE99-NA"
+    },
+    "1878": {
+        "country_code": "SE",
+        "asn": "1878",
+        "description": "Svensk Teleutveckling & Produktinnovation STUPI AB",
+        "handle": "STUPI"
+    },
+    "1879": {
+        "country_code": "SE",
+        "asn": "1879",
+        "description": "Svensk Teleutveckling & Produktinnovation STUPI AB",
+        "handle": "STUPI"
+    },
+    "1880": {
+        "country_code": "SE",
+        "asn": "1880",
+        "description": "Svensk Teleutveckling & Produktinnovation STUPI AB",
+        "handle": "STUPI"
+    },
+    "1881": {
+        "country_code": "SE",
+        "asn": "1881",
+        "description": "FMV",
+        "handle": "FMV"
+    },
+    "1882": {
+        "country_code": "SE",
+        "asn": "1882",
+        "description": "Svensk Teleutveckling & Produktinnovation STUPI AB",
+        "handle": "STUPI"
+    },
+    "1883": {
+        "country_code": "SE",
+        "asn": "1883",
+        "description": "Svensk Teleutveckling & Produktinnovation STUPI AB",
+        "handle": "STUPI"
+    },
+    "2799": {
+        "country_code": "SE",
+        "asn": "2799",
+        "description": "Polismyndigheten",
+        "handle": "POLISMYNDIGHETEN"
+    },
+    "2831": {
+        "country_code": "SE",
+        "asn": "2831",
+        "description": "Lulea Tekniska Universitet",
+        "handle": "LTUNET"
+    },
+    "2832": {
+        "country_code": "SE",
+        "asn": "2832",
+        "description": "Vetenskapsradet / SUNET",
+        "handle": "AS-SUNET-TESTBED"
+    },
+    "2833": {
+        "country_code": "SE",
+        "asn": "2833",
+        "description": "Umea University",
+        "handle": "SUNET-UMU"
+    },
+    "2834": {
+        "country_code": "SE",
+        "asn": "2834",
+        "description": "Uppsala University",
+        "handle": "UUNET"
+    },
+    "2835": {
+        "country_code": "SE",
+        "asn": "2835",
+        "description": "Vetenskapsradet / SUNET",
+        "handle": "AS-SUNET-TESTBED"
+    },
+    "2836": {
+        "country_code": "SE",
+        "asn": "2836",
+        "description": "Bengt Arne Gorden",
+        "handle": "BAGNET"
+    },
+    "2837": {
+        "country_code": "SE",
+        "asn": "2837",
+        "description": "Karolinska Institutet",
+        "handle": "SUNET-KI"
+    },
+    "2838": {
+        "country_code": "SE",
+        "asn": "2838",
+        "description": "Stockholm University",
+        "handle": "SUNT"
+    },
+    "2839": {
+        "country_code": "SE",
+        "asn": "2839",
+        "description": "Kungliga Tekniska Hogskolan",
+        "handle": "KUNGLIGA-TEKNISKA-HOGSKOLAN"
+    },
+    "2840": {
+        "country_code": "SE",
+        "asn": "2840",
+        "description": "Stiftelsen Goteborgs Studentbostader",
+        "handle": "GSIX"
+    },
+    "2841": {
+        "country_code": "SE",
+        "asn": "2841",
+        "description": "Chalmers University of Technology",
+        "handle": "CHALMERS"
+    },
+    "2842": {
+        "country_code": "SE",
+        "asn": "2842",
+        "description": "Goteborgs universitet",
+        "handle": "GOTEBORGS-UNIVERSITET"
+    },
+    "2843": {
+        "country_code": "SE",
+        "asn": "2843",
+        "description": "Linkopings universitet",
+        "handle": "LIUNET"
+    },
+    "2844": {
+        "country_code": "SE",
+        "asn": "2844",
+        "description": "Vetenskapsradet / SUNET",
+        "handle": "AS-DCO"
+    },
+    "2845": {
+        "country_code": "SE",
+        "asn": "2845",
+        "description": "Lund University",
+        "handle": "LUND-UNIVERSITY"
+    },
+    "2846": {
+        "country_code": "SE",
+        "asn": "2846",
+        "description": "Lund University",
+        "handle": "LUND-UNIVERSITY"
+    },
+    "2859": {
+        "country_code": "SE",
+        "asn": "2859",
+        "description": "Resilans AB",
+        "handle": "RESILANS-LAB"
+    },
+    "2863": {
+        "country_code": "SE",
+        "asn": "2863",
+        "description": "Centor AB",
+        "handle": "SPRITELINK"
+    },
+    "2865": {
+        "country_code": "SE",
+        "asn": "2865",
+        "description": "Vivicta Sweden AB",
+        "handle": "EVRY-ONE-NET"
+    },
+    "3166": {
+        "country_code": "SE",
+        "asn": "3166",
+        "description": "Orebro Kommun",
+        "handle": "OREBRO"
+    },
+    "3246": {
+        "country_code": "SE",
+        "asn": "3246",
+        "description": "Tele2 Sverige AB",
+        "handle": "TDCSONG"
+    },
+    "3301": {
+        "country_code": "SE",
+        "asn": "3301",
+        "description": "Telia Company AB",
+        "handle": "TELIANET-SWEDEN"
+    },
+    "3306": {
+        "country_code": "SE",
+        "asn": "3306",
+        "description": "Kilohertz AB",
+        "handle": "KILOHERTZ-NET"
+    },
+    "3308": {
+        "country_code": "SE",
+        "asn": "3308",
+        "description": "Telia Company AB",
+        "handle": "TELIANET-DENMARK"
+    },
+    "3309": {
+        "country_code": "SE",
+        "asn": "3309",
+        "description": "Telia Company AB",
+        "handle": "TELIANET-IPV6"
+    },
+    "3399": {
+        "country_code": "SE",
+        "asn": "3399",
+        "description": "Obenet AB",
+        "handle": "OBE-NET"
+    },
+    "5574": {
+        "country_code": "SE",
+        "asn": "5574",
+        "description": "Tele2 Sverige AB",
+        "handle": "TDC-SE"
+    },
+    "5601": {
+        "country_code": "SE",
+        "asn": "5601",
+        "description": "Kungliga Tekniska Hogskolan",
+        "handle": "KUNGLIGA-TEKNISKA-HOGSKOLAN"
+    },
+    "6780": {
+        "country_code": "SE",
+        "asn": "6780",
+        "description": "Swedavia AB",
+        "handle": "LFV-SE"
+    },
+    "6782": {
+        "country_code": "SE",
+        "asn": "6782",
+        "description": "InformationsTeknik i Norrbotten AB",
+        "handle": "BDNET"
+    },
+    "6797": {
+        "country_code": "SE",
+        "asn": "6797",
+        "description": "GlobalConnect AB",
+        "handle": "GLOBALCONNECT-NET"
+    },
+    "7589": {
+        "country_code": "SE",
+        "asn": "7589",
+        "description": "Arelion Sweden AB",
+        "handle": "TWELVE99-ENTERPRISE-SERVICES"
+    },
+    "8213": {
+        "country_code": "SE",
+        "asn": "8213",
+        "description": "Tele2 Sverige AB",
+        "handle": "TELE2-SVERIGE-AB"
+    },
+    "8233": {
+        "country_code": "SE",
+        "asn": "8233",
+        "description": "Arelion Sweden AB",
+        "handle": "TWELVE99-UK"
+    },
+    "8289": {
+        "country_code": "SE",
+        "asn": "8289",
+        "description": "DND Nordic AB",
+        "handle": "DND-GLOBAL-PEERING"
+    },
+    "8385": {
+        "country_code": "SE",
+        "asn": "8385",
+        "description": "Verizon Sweden AB",
+        "handle": "UUNET-SWEDEN-AS"
+    },
+    "8434": {
+        "country_code": "SE",
+        "asn": "8434",
+        "description": "Telenor Sverige AB",
+        "handle": "TELENOR-SE"
+    },
+    "8464": {
+        "country_code": "SE",
+        "asn": "8464",
+        "description": "Sierra Wireless Sweden AB",
+        "handle": "MAINGATE-AS"
+    },
+    "8473": {
+        "country_code": "SE",
+        "asn": "8473",
+        "description": "Bahnhof AB",
+        "handle": "BAHNHOF"
+    },
+    "8479": {
+        "country_code": "SE",
+        "asn": "8479",
+        "description": "Telefonaktiebolaget L M Ericsson",
+        "handle": "ERICSSON-UDN-CORE"
+    },
+    "8516": {
+        "country_code": "SE",
+        "asn": "8516",
+        "description": "Telia Company AB",
+        "handle": "TELIANET-LITHUANIA"
+    },
+    "8523": {
+        "country_code": "SE",
+        "asn": "8523",
+        "description": "Orange Business Digital Sweden AB",
+        "handle": "BASEFARM-SE-ASN"
+    },
+    "8532": {
+        "country_code": "SE",
+        "asn": "8532",
+        "description": "Arelion Sweden AB",
+        "handle": "TWELVE99"
+    },
+    "8642": {
+        "country_code": "SE",
+        "asn": "8642",
+        "description": "Telenor Sverige AB",
+        "handle": "TELENOR-SE"
+    },
+    "8674": {
+        "country_code": "SE",
+        "asn": "8674",
+        "description": "Netnod AB",
+        "handle": "NETNOD-IX"
+    },
+    "8748": {
+        "country_code": "SE",
+        "asn": "8748",
+        "description": "Blekinge Tekniska Hogskola",
+        "handle": "BLEKINGE-TEKNISKA-HOGSKOLA"
+    },
+    "8769": {
+        "country_code": "SE",
+        "asn": "8769",
+        "description": "IT-Total Sweden AB",
+        "handle": "ITTOTAL"
+    },
+    "8837": {
+        "country_code": "SE",
+        "asn": "8837",
+        "description": "Arelion Sweden AB",
+        "handle": "TWELVE99-IPX"
+    },
+    "8873": {
+        "country_code": "SE",
+        "asn": "8873",
+        "description": "Alexander Wagberg trading as Wberg Networks",
+        "handle": "WBERGNET"
+    },
+    "8949": {
+        "country_code": "SE",
+        "asn": "8949",
+        "description": "Johan Hedberg",
+        "handle": "JHEDBERG"
+    },
+    "8973": {
+        "country_code": "SE",
+        "asn": "8973",
+        "description": "Kungliga Tekniska Hogskolan",
+        "handle": "SSVL"
+    },
+    "8984": {
+        "country_code": "SE",
+        "asn": "8984",
+        "description": "Telenor Sverige AB",
+        "handle": "TELENOR-SE"
+    },
+    "8995": {
+        "country_code": "SE",
+        "asn": "8995",
+        "description": "LARS MICHAEL JOGBAECK",
+        "handle": "JOGBACK"
+    },
+    "8996": {
+        "country_code": "SE",
+        "asn": "8996",
+        "description": "Tele2 Sverige AB",
+        "handle": "TELE2-SVERIGE-AB"
+    },
+    "9045": {
+        "country_code": "SE",
+        "asn": "9045",
+        "description": "Tele2 Sverige AB",
+        "handle": "AS9045"
+    },
+    "9046": {
+        "country_code": "SE",
+        "asn": "9046",
+        "description": "Tele2 Sverige AB",
+        "handle": "AS9046"
+    },
+    "9047": {
+        "country_code": "SE",
+        "asn": "9047",
+        "description": "Tele2 Sverige AB",
+        "handle": "AS9047"
+    },
+    "9088": {
+        "country_code": "SE",
+        "asn": "9088",
+        "description": "Dalarna University",
+        "handle": "DALARNA-UNIVERSITY"
+    },
+    "9167": {
+        "country_code": "SE",
+        "asn": "9167",
+        "description": "Telia Company AB",
+        "handle": "WEBPARTNER"
+    },
+    "9201": {
+        "country_code": "SE",
+        "asn": "9201",
+        "description": "Swedish Armed Forces",
+        "handle": "SWAF"
+    },
+    "12381": {
+        "country_code": "SE",
+        "asn": "12381",
+        "description": "Resilans AB",
+        "handle": "RESILANS"
+    },
+    "12384": {
+        "country_code": "SE",
+        "asn": "12384",
+        "description": "Swedish University of Agricultural Sciences",
+        "handle": "SLU-UPPSALA"
+    },
+    "12435": {
+        "country_code": "SE",
+        "asn": "12435",
+        "description": "Telia Company AB",
+        "handle": "TELIAMOBILE-DK"
+    },
+    "12501": {
+        "country_code": "SE",
+        "asn": "12501",
+        "description": "UMDAC Umea University",
+        "handle": "NORRNOD"
+    },
+    "12552": {
+        "country_code": "SE",
+        "asn": "12552",
+        "description": "GlobalConnect AB",
+        "handle": "GLOBALCONNECT-AS12552"
+    },
+    "12597": {
+        "country_code": "SE",
+        "asn": "12597",
+        "description": "Gotalandsnatet AB",
+        "handle": "GOTANET"
+    },
+    "12740": {
+        "country_code": "SE",
+        "asn": "12740",
+        "description": "Nasdaq Technology AB",
+        "handle": "OMX-NASDAQ-NETS"
+    },
+    "12782": {
+        "country_code": "SE",
+        "asn": "12782",
+        "description": "Uppsala Lans Landsting",
+        "handle": "UPPSALA-LANS-LANDSTING"
+    },
+    "12805": {
+        "country_code": "SE",
+        "asn": "12805",
+        "description": "Region Jamtland Harjedalen",
+        "handle": "RJH"
+    },
+    "12935": {
+        "country_code": "SE",
+        "asn": "12935",
+        "description": "QD Sverige AB",
+        "handle": "QDSVERIGEAB"
+    },
+    "12939": {
+        "country_code": "SE",
+        "asn": "12939",
+        "description": "Hanse Holding AB",
+        "handle": "HANSE-AS"
+    },
+    "13063": {
+        "country_code": "SE",
+        "asn": "13063",
+        "description": "SKF Sverige AB",
+        "handle": "SKF-SVERIGE-AB"
+    },
+    "13116": {
+        "country_code": "SE",
+        "asn": "13116",
+        "description": "Tele2 Sverige AB",
+        "handle": "TELE2RU"
+    },
+    "13189": {
+        "country_code": "SE",
+        "asn": "13189",
+        "description": "Liden Data Internetwork AB",
+        "handle": "LIDERO"
+    },
+    "13214": {
+        "country_code": "SE",
+        "asn": "13214",
+        "description": "Hans Fredrik Lennart Neij",
+        "handle": "DCP-AS"
+    },
+    "13308": {
+        "country_code": "SE",
+        "asn": "13308",
+        "description": "Peter Olsson",
+        "handle": "CHORUS-AS"
+    },
+    "15519": {
+        "country_code": "SE",
+        "asn": "15519",
+        "description": "Oracle Svenska AB",
+        "handle": "IW-NET-AS"
+    },
+    "15782": {
+        "country_code": "SE",
+        "asn": "15782",
+        "description": "Bredband2 AB",
+        "handle": "TELECOM3-AS"
+    },
+    "15793": {
+        "country_code": "SE",
+        "asn": "15793",
+        "description": "Iver Sverige AB",
+        "handle": "IVER-SVERIGE-AB"
+    },
+    "15869": {
+        "country_code": "SE",
+        "asn": "15869",
+        "description": "Enterprise Services Sverige AB",
+        "handle": "EDS-SE"
+    },
+    "15912": {
+        "country_code": "SE",
+        "asn": "15912",
+        "description": "InfraCom Connect AB",
+        "handle": "CL-AS"
+    },
+    "15980": {
+        "country_code": "SE",
+        "asn": "15980",
+        "description": "Uppsala University",
+        "handle": "UPPSALA-UNIVERSITY"
+    },
+    "15991": {
+        "country_code": "SE",
+        "asn": "15991",
+        "description": "Swedish Tax Agency",
+        "handle": "SWEDISH-TAX-AGENCY"
+    },
+    "16037": {
+        "country_code": "SE",
+        "asn": "16037",
+        "description": "AB Tetra Pak",
+        "handle": "TETRAPAK-AS"
+    },
+    "16115": {
+        "country_code": "SE",
+        "asn": "16115",
+        "description": "Nasdaq Technology AB",
+        "handle": "NASDAQ-ASN"
+    },
+    "16117": {
+        "country_code": "SE",
+        "asn": "16117",
+        "description": "Gavle Energi AB",
+        "handle": "GAVLENET"
+    },
+    "16150": {
+        "country_code": "SE",
+        "asn": "16150",
+        "description": "GlobalConnect AB",
+        "handle": "PORT80-GLOBALTRANSIT"
+    },
+    "16251": {
+        "country_code": "SE",
+        "asn": "16251",
+        "description": "Hogskolan i Gavle",
+        "handle": "HOGSKOLAN-I-GAVLE"
+    },
+    "16253": {
+        "country_code": "SE",
+        "asn": "16253",
+        "description": "Primlight AB",
+        "handle": "PRIMLIGHT-AS"
+    },
+    "16261": {
+        "country_code": "SE",
+        "asn": "16261",
+        "description": "Bahnhof AB",
+        "handle": "BAHNHOF-AB"
+    },
+    "16312": {
+        "country_code": "SE",
+        "asn": "16312",
+        "description": "Internet Vikings International AB",
+        "handle": "SURFSAFE-AS"
+    },
+    "19399": {
+        "country_code": "SE",
+        "asn": "19399",
+        "description": "Region Stockholm",
+        "handle": "SLL"
+    },
+    "20513": {
+        "country_code": "SE",
+        "asn": "20513",
+        "description": "A.M.S. Carlzon",
+        "handle": "CREPUNDIA"
+    },
+    "20514": {
+        "country_code": "SE",
+        "asn": "20514",
+        "description": "Axians AB",
+        "handle": "QBRANCH"
+    },
+    "20574": {
+        "country_code": "SE",
+        "asn": "20574",
+        "description": "Knowit Connectivity AB",
+        "handle": "CSSHOSTING-AS"
+    },
+    "20625": {
+        "country_code": "SE",
+        "asn": "20625",
+        "description": "Bollnas energi AB",
+        "handle": "HELSINGENET"
+    },
+    "20626": {
+        "country_code": "SE",
+        "asn": "20626",
+        "description": "Sandviken Energi AB",
+        "handle": "SANDNET"
+    },
+    "20861": {
+        "country_code": "SE",
+        "asn": "20861",
+        "description": "Fujitsu Sweden AB",
+        "handle": "FUJITSU-SE-AS"
+    },
+    "20888": {
+        "country_code": "SE",
+        "asn": "20888",
+        "description": "Eniro Group AB",
+        "handle": "SCANDINAVIA-ONLINE-ASN"
+    },
+    "20943": {
+        "country_code": "SE",
+        "asn": "20943",
+        "description": "Netnod AB",
+        "handle": "NETNOD-LUL"
+    },
+    "21195": {
+        "country_code": "SE",
+        "asn": "21195",
+        "description": "Iver Sverige AB",
+        "handle": "DGCSYSTEMS"
+    },
+    "21200": {
+        "country_code": "SE",
+        "asn": "21200",
+        "description": "Livforsakringsbolaget Skandia Omsesidigt",
+        "handle": "SKANDIABANKEN"
+    },
+    "21201": {
+        "country_code": "SE",
+        "asn": "21201",
+        "description": "Nordnet Bank AB",
+        "handle": "NETFONDS-AS"
+    },
+    "21202": {
+        "country_code": "SE",
+        "asn": "21202",
+        "description": "Bredband2 AB",
+        "handle": "DCSNET-AS"
+    },
+    "21227": {
+        "country_code": "SE",
+        "asn": "21227",
+        "description": "OLiKA Networks",
+        "handle": "OLIKA"
+    },
+    "21250": {
+        "country_code": "SE",
+        "asn": "21250",
+        "description": "Bahnhof AB",
+        "handle": "BAHNHOF"
+    },
+    "21485": {
+        "country_code": "SE",
+        "asn": "21485",
+        "description": "IP Excess AB",
+        "handle": "FOILHAT"
+    },
+    "24605": {
+        "country_code": "SE",
+        "asn": "24605",
+        "description": "Fassberg Holding AB",
+        "handle": "FASSBERG"
+    },
+    "24668": {
+        "country_code": "SE",
+        "asn": "24668",
+        "description": "BinaryGrid Industries Sweden AB",
+        "handle": "BINARYGRID"
+    },
+    "24809": {
+        "country_code": "SE",
+        "asn": "24809",
+        "description": "If Skadeforsakring AB",
+        "handle": "IF-AS"
+    },
+    "24813": {
+        "country_code": "SE",
+        "asn": "24813",
+        "description": "CGI Sverige AB",
+        "handle": "LOGICA-GLOBAL-DATACENTER-NETWORK"
+    },
+    "24819": {
+        "country_code": "SE",
+        "asn": "24819",
+        "description": "Nordnet Bank AB",
+        "handle": "NORDNET-AS"
+    },
+    "25037": {
+        "country_code": "SE",
+        "asn": "25037",
+        "description": "EFG Sweden AB",
+        "handle": "DREAMHACK"
+    },
+    "25072": {
+        "country_code": "SE",
+        "asn": "25072",
+        "description": "Institutet for Rymdfysik",
+        "handle": "IRF-AS"
+    },
+    "25146": {
+        "country_code": "SE",
+        "asn": "25146",
+        "description": "Advania Sverige AB",
+        "handle": "ADVANIA-AS"
+    },
+    "25169": {
+        "country_code": "SE",
+        "asn": "25169",
+        "description": "Telenor Sverige AB",
+        "handle": "TELENOR-SE-AS"
+    },
+    "25172": {
+        "country_code": "SE",
+        "asn": "25172",
+        "description": "Liden Data Internetwork AB",
+        "handle": "SOLIX-AS"
+    },
+    "25176": {
+        "country_code": "SE",
+        "asn": "25176",
+        "description": "AC-Net AB",
+        "handle": "AC-NET"
+    },
+    "25223": {
+        "country_code": "SE",
+        "asn": "25223",
+        "description": "InfraCom Managed Services AB",
+        "handle": "PIN"
+    },
+    "25252": {
+        "country_code": "SE",
+        "asn": "25252",
+        "description": "Volvo Information Technology AB",
+        "handle": "VOLVOIT"
+    },
+    "25387": {
+        "country_code": "SE",
+        "asn": "25387",
+        "description": "Goteborg Kommun",
+        "handle": "ASN-GOTEBORG"
+    },
+    "25417": {
+        "country_code": "SE",
+        "asn": "25417",
+        "description": "Ljusnet AB",
+        "handle": "LJUSNET-AS"
+    },
+    "25466": {
+        "country_code": "SE",
+        "asn": "25466",
+        "description": "Liden Data Internetwork AB",
+        "handle": "LIDERONET"
+    },
+    "25473": {
+        "country_code": "SE",
+        "asn": "25473",
+        "description": "Vivicta Sweden AB",
+        "handle": "ASN-SYSTEAM"
+    },
+    "25545": {
+        "country_code": "SE",
+        "asn": "25545",
+        "description": "Avanza Bank AB",
+        "handle": "AVANZA-AS"
+    },
+    "28680": {
+        "country_code": "SE",
+        "asn": "28680",
+        "description": "IKEA IT AB",
+        "handle": "IKEA-AS"
+    },
+    "28726": {
+        "country_code": "SE",
+        "asn": "28726",
+        "description": "Vivicta AB",
+        "handle": "ASN-EVRY-UNIGRID"
+    },
+    "28847": {
+        "country_code": "SE",
+        "asn": "28847",
+        "description": "Soderhamn NARA AB",
+        "handle": "SE-TEKNIKPARK"
+    },
+    "28854": {
+        "country_code": "SE",
+        "asn": "28854",
+        "description": "SavMAN AB",
+        "handle": "HIGHLANDNET-SWEDEN"
+    },
+    "28908": {
+        "country_code": "SE",
+        "asn": "28908",
+        "description": "Bredband2 AB",
+        "handle": "T3"
+    },
+    "28931": {
+        "country_code": "SE",
+        "asn": "28931",
+        "description": "TriOptima AB",
+        "handle": "TRIOPTIMA"
+    },
+    "28954": {
+        "country_code": "SE",
+        "asn": "28954",
+        "description": "Fiberstaden AB",
+        "handle": "FIBERSTADEN-AS"
+    },
+    "29024": {
+        "country_code": "SE",
+        "asn": "29024",
+        "description": "Hostek AB",
+        "handle": "BALLOU-AS"
+    },
+    "29216": {
+        "country_code": "SE",
+        "asn": "29216",
+        "description": "Netnod AB",
+        "handle": "I-ROOT"
+    },
+    "29217": {
+        "country_code": "SE",
+        "asn": "29217",
+        "description": "CGI Sverige AB",
+        "handle": "WM-DATA"
+    },
+    "29344": {
+        "country_code": "SE",
+        "asn": "29344",
+        "description": "Jakob Hermansson Schlyter",
+        "handle": "SCHLYTER"
+    },
+    "29468": {
+        "country_code": "SE",
+        "asn": "29468",
+        "description": "InfraCom Managed Services AB",
+        "handle": "INFRACOM"
+    },
+    "29518": {
+        "country_code": "SE",
+        "asn": "29518",
+        "description": "Bredband2 AB",
+        "handle": "BREDBAND2"
+    },
+    "29602": {
+        "country_code": "SE",
+        "asn": "29602",
+        "description": "InfraCom Managed Services AB",
+        "handle": "PIN-SE-AS"
+    },
+    "29671": {
+        "country_code": "SE",
+        "asn": "29671",
+        "description": "Binero AB",
+        "handle": "SERVAGE"
+    },
+    "29672": {
+        "country_code": "SE",
+        "asn": "29672",
+        "description": "S:t Erik Kommunikation AB",
+        "handle": "STEK-AS"
+    },
+    "30795": {
+        "country_code": "SE",
+        "asn": "30795",
+        "description": "BRS Networks AB",
+        "handle": "BRS-NETWORKS-AS"
+    },
+    "30811": {
+        "country_code": "SE",
+        "asn": "30811",
+        "description": "Optimizely AB",
+        "handle": "EPISERVER-AS"
+    },
+    "30821": {
+        "country_code": "SE",
+        "asn": "30821",
+        "description": "H & M Hennes & Mauritz GBC AB",
+        "handle": "HM-AS"
+    },
+    "30880": {
+        "country_code": "SE",
+        "asn": "30880",
+        "description": "SpaceDump IT AB",
+        "handle": "SPACEDUMP-AS"
+    },
+    "30893": {
+        "country_code": "SE",
+        "asn": "30893",
+        "description": "No ACK Group Holding AB",
+        "handle": "NOACKHOSTING-AS"
+    },
+    "30921": {
+        "country_code": "SE",
+        "asn": "30921",
+        "description": "Telefonaktiebolaget L M Ericsson",
+        "handle": "ERICSSON-AS"
+    },
+    "31021": {
+        "country_code": "SE",
+        "asn": "31021",
+        "description": "Sinch AB",
+        "handle": "DIALOGUE-COMMUNICATIONS-AS"
+    },
+    "31331": {
+        "country_code": "SE",
+        "asn": "31331",
+        "description": "CGI Sverige AB",
+        "handle": "LINNEA"
+    },
+    "31337": {
+        "country_code": "SE",
+        "asn": "31337",
+        "description": "ELEET Networks",
+        "handle": "ELEET-AS"
+    },
+    "31507": {
+        "country_code": "SE",
+        "asn": "31507",
+        "description": "Servanet AB",
+        "handle": "SERVANET-AS"
+    },
+    "31568": {
+        "country_code": "SE",
+        "asn": "31568",
+        "description": "Alvsbyns Kommun",
+        "handle": "ALVNET"
+    },
+    "31574": {
+        "country_code": "SE",
+        "asn": "31574",
+        "description": "Bankgirocentralen BGC AB",
+        "handle": "SE-BGC-AS"
+    },
+    "31634": {
+        "country_code": "SE",
+        "asn": "31634",
+        "description": "Servanet AB",
+        "handle": "HEMAB"
+    },
+    "31642": {
+        "country_code": "SE",
+        "asn": "31642",
+        "description": "Varnamo Energi AB",
+        "handle": "VARNAMO-ENERGI"
+    },
+    "31644": {
+        "country_code": "SE",
+        "asn": "31644",
+        "description": "Norrtelje Energi Aktiebolag AB",
+        "handle": "NEAB-ETANET-AS"
+    },
+    "33837": {
+        "country_code": "SE",
+        "asn": "33837",
+        "description": "Fredrik Holmqvist",
+        "handle": "PRQ-AS"
+    },
+    "33885": {
+        "country_code": "SE",
+        "asn": "33885",
+        "description": "Telenor Sverige AB",
+        "handle": "OWNIT"
+    },
+    "33886": {
+        "country_code": "SE",
+        "asn": "33886",
+        "description": "Stockholm Internet eXchange AB",
+        "handle": "STOCKHOLMIX-AS"
+    },
+    "33907": {
+        "country_code": "SE",
+        "asn": "33907",
+        "description": "Ornus AB",
+        "handle": "ORNUS"
+    },
+    "33980": {
+        "country_code": "SE",
+        "asn": "33980",
+        "description": "PAFTECH AB",
+        "handle": "PAF"
+    },
+    "34025": {
+        "country_code": "SE",
+        "asn": "34025",
+        "description": "Ornus AB",
+        "handle": "PETABIT-AS"
+    },
+    "34133": {
+        "country_code": "SE",
+        "asn": "34133",
+        "description": "Hagloef & Nordkvist Internet AB",
+        "handle": "NETIT-AS"
+    },
+    "34234": {
+        "country_code": "SE",
+        "asn": "34234",
+        "description": "Atea Sverige AB",
+        "handle": "DEPENDIT-AS"
+    },
+    "34236": {
+        "country_code": "SE",
+        "asn": "34236",
+        "description": "Vaddo Media Information IS AB",
+        "handle": "IDEA-VMI"
+    },
+    "34244": {
+        "country_code": "SE",
+        "asn": "34244",
+        "description": "Teleservice Bredband Skane AB",
+        "handle": "TELESERVICE"
+    },
+    "34385": {
+        "country_code": "SE",
+        "asn": "34385",
+        "description": "Tripnet AB",
+        "handle": "TRIPNET"
+    },
+    "34576": {
+        "country_code": "SE",
+        "asn": "34576",
+        "description": "Skane Lans Landsting",
+        "handle": "REGIONSKANE-SE"
+    },
+    "34607": {
+        "country_code": "SE",
+        "asn": "34607",
+        "description": "Skelleftea Kraft Elnat AB",
+        "handle": "SKEKRAFT"
+    },
+    "34622": {
+        "country_code": "SE",
+        "asn": "34622",
+        "description": "Bredband i Kristianstad AB",
+        "handle": "BIK"
+    },
+    "34628": {
+        "country_code": "SE",
+        "asn": "34628",
+        "description": "Comprehensive Security Sweden AB",
+        "handle": "NTTCOMSECSE-AS"
+    },
+    "34652": {
+        "country_code": "SE",
+        "asn": "34652",
+        "description": "Comprehensive Security Sweden AB",
+        "handle": "NTTCOMSECNO-AS"
+    },
+    "34686": {
+        "country_code": "SE",
+        "asn": "34686",
+        "description": "Affarsverken Karlskrona AB",
+        "handle": "AFFV-AS"
+    },
+    "34941": {
+        "country_code": "SE",
+        "asn": "34941",
+        "description": "Cygrids Communications AB",
+        "handle": "CYBERCOM-AS"
+    },
+    "34946": {
+        "country_code": "SE",
+        "asn": "34946",
+        "description": "Jonkoping Energi AB",
+        "handle": "WETTERNET-AS"
+    },
+    "34950": {
+        "country_code": "SE",
+        "asn": "34950",
+        "description": "Vivicta Sweden AB",
+        "handle": "ASN-EVRY-ESN"
+    },
+    "34965": {
+        "country_code": "SE",
+        "asn": "34965",
+        "description": "WE2U AB",
+        "handle": "IDEON-AS"
+    },
+    "35041": {
+        "country_code": "SE",
+        "asn": "35041",
+        "description": "Binero AB",
+        "handle": "NET-BINERO-STHLM1"
+    },
+    "35073": {
+        "country_code": "SE",
+        "asn": "35073",
+        "description": "P.A Granlund kommunikation AB",
+        "handle": "PAKOM-AS"
+    },
+    "35100": {
+        "country_code": "SE",
+        "asn": "35100",
+        "description": "Patrik Lagerman",
+        "handle": "PATRIKWEB-CORE"
+    },
+    "35121": {
+        "country_code": "SE",
+        "asn": "35121",
+        "description": "Patrik Olsson",
+        "handle": "WEBKOM"
+    },
+    "35382": {
+        "country_code": "SE",
+        "asn": "35382",
+        "description": "Glesys AB",
+        "handle": "GLESYS-FI-2"
+    },
+    "35445": {
+        "country_code": "SE",
+        "asn": "35445",
+        "description": "Jonkoping Kommun",
+        "handle": "JKP-SE"
+    },
+    "35488": {
+        "country_code": "SE",
+        "asn": "35488",
+        "description": "Goteborg Energi GothNet AB",
+        "handle": "GOTHNET-AS"
+    },
+    "35542": {
+        "country_code": "SE",
+        "asn": "35542",
+        "description": "Swedish Space Corporation",
+        "handle": "SSC-AS"
+    },
+    "35543": {
+        "country_code": "SE",
+        "asn": "35543",
+        "description": "IP Excess AB",
+        "handle": "IPEX-NL"
+    },
+    "35565": {
+        "country_code": "SE",
+        "asn": "35565",
+        "description": "Infracom Trust-It",
+        "handle": "TRUST-IT-SWE-AS"
+    },
+    "35605": {
+        "country_code": "SE",
+        "asn": "35605",
+        "description": "Telefonaktiebolaget L M Ericsson",
+        "handle": "ERICSSON-AS-ITALY"
+    },
+    "35634": {
+        "country_code": "SE",
+        "asn": "35634",
+        "description": "No ACK Group Holding AB",
+        "handle": "BROADBAY-AS"
+    },
+    "35706": {
+        "country_code": "SE",
+        "asn": "35706",
+        "description": "Net at Once Sweden AB",
+        "handle": "NAO"
+    },
+    "35742": {
+        "country_code": "SE",
+        "asn": "35742",
+        "description": "Qbrick AB",
+        "handle": "QBRICK-AS"
+    },
+    "35790": {
+        "country_code": "SE",
+        "asn": "35790",
+        "description": "Aktiebolaget Sappa",
+        "handle": "SE-SAPPA"
+    },
+    "35814": {
+        "country_code": "SE",
+        "asn": "35814",
+        "description": "Resurs Bank AB",
+        "handle": "RESURS"
+    },
+    "38945": {
+        "country_code": "SE",
+        "asn": "38945",
+        "description": "Obenet AB",
+        "handle": "OBE-ANYCAST"
+    },
+    "38956": {
+        "country_code": "SE",
+        "asn": "38956",
+        "description": "Uppsala Kommun",
+        "handle": "ASN-UPPSALA"
+    },
+    "38982": {
+        "country_code": "SE",
+        "asn": "38982",
+        "description": "Sandvine Sweden AB",
+        "handle": "NETINTACT"
+    },
+    "39021": {
+        "country_code": "SE",
+        "asn": "39021",
+        "description": "Enkoeping Kommun",
+        "handle": "ENKKOM-AS"
+    },
+    "39052": {
+        "country_code": "SE",
+        "asn": "39052",
+        "description": "Skanska Sverige AB",
+        "handle": "SKANSKANET-AS"
+    },
+    "39078": {
+        "country_code": "SE",
+        "asn": "39078",
+        "description": "GDM Konsult AB",
+        "handle": "GDM"
+    },
+    "39137": {
+        "country_code": "SE",
+        "asn": "39137",
+        "description": "PostNord Stralfors AB",
+        "handle": "STRALF-AS"
+    },
+    "39204": {
+        "country_code": "SE",
+        "asn": "39204",
+        "description": "Axima AB",
+        "handle": "AXIMA"
+    },
+    "39301": {
+        "country_code": "SE",
+        "asn": "39301",
+        "description": "Tele2 Sverige AB",
+        "handle": "TELEVORK-AS"
+    },
+    "39351": {
+        "country_code": "SE",
+        "asn": "39351",
+        "description": "31173 Services AB",
+        "handle": "ESAB-AS"
+    },
+    "39362": {
+        "country_code": "SE",
+        "asn": "39362",
+        "description": "Sveriges Utbildningsradio Aktiebolag",
+        "handle": "UR"
+    },
+    "39369": {
+        "country_code": "SE",
+        "asn": "39369",
+        "description": "GlobalConnect AB",
+        "handle": "PORT80"
+    },
+    "39467": {
+        "country_code": "SE",
+        "asn": "39467",
+        "description": "Oracle Svenska AB",
+        "handle": "OCL-UK-OPC1"
+    },
+    "39490": {
+        "country_code": "SE",
+        "asn": "39490",
+        "description": "Swedish Civil Defence and Resilience Agency",
+        "handle": "KRISBEREDSKAPSMYNDIGHETEN-AS"
+    },
+    "39570": {
+        "country_code": "SE",
+        "asn": "39570",
+        "description": "Loopia AB",
+        "handle": "LOOPIA"
+    },
+    "39643": {
+        "country_code": "SE",
+        "asn": "39643",
+        "description": "Svenljunga kommun",
+        "handle": "SVENLJUNGA-AS"
+    },
+    "39648": {
+        "country_code": "SE",
+        "asn": "39648",
+        "description": "DataCom Group Nordic AB",
+        "handle": "WANTECH"
+    },
+    "39651": {
+        "country_code": "SE",
+        "asn": "39651",
+        "description": "Tele2 Sverige AB",
+        "handle": "TELE2-FIXED-SWEDEN"
+    },
+    "39656": {
+        "country_code": "SE",
+        "asn": "39656",
+        "description": "Securitas Direct AB",
+        "handle": "SECURITASDIRECT"
+    },
+    "39658": {
+        "country_code": "SE",
+        "asn": "39658",
+        "description": "Statistics Sweden",
+        "handle": "SCB-AS"
+    },
+    "39731": {
+        "country_code": "SE",
+        "asn": "39731",
+        "description": "Axis Communications AB",
+        "handle": "AXIS-AS"
+    },
+    "39778": {
+        "country_code": "SE",
+        "asn": "39778",
+        "description": "MySQL AB",
+        "handle": "MYSQL"
+    },
+    "39806": {
+        "country_code": "SE",
+        "asn": "39806",
+        "description": "Admax AB",
+        "handle": "ADMAX"
+    },
+    "39840": {
+        "country_code": "SE",
+        "asn": "39840",
+        "description": "Netnod AB",
+        "handle": "NETNOD-SVL"
+    },
+    "39870": {
+        "country_code": "SE",
+        "asn": "39870",
+        "description": "Netnod AB",
+        "handle": "NETNOD-MMO"
+    },
+    "39871": {
+        "country_code": "SE",
+        "asn": "39871",
+        "description": "Netnod AB",
+        "handle": "NETNOD-GBG"
+    },
+    "39889": {
+        "country_code": "SE",
+        "asn": "39889",
+        "description": "High Sec Hosting HSDC AB",
+        "handle": "DT-AS"
+    },
+    "39910": {
+        "country_code": "SE",
+        "asn": "39910",
+        "description": "Famco AB",
+        "handle": "ASPERIQ"
+    },
+    "41001": {
+        "country_code": "SE",
+        "asn": "41001",
+        "description": "Safespring AB",
+        "handle": "SAFESPRINGSE"
+    },
+    "41063": {
+        "country_code": "SE",
+        "asn": "41063",
+        "description": "MobilityGuard Services AB",
+        "handle": "INFOGUARD-AS"
+    },
+    "41136": {
+        "country_code": "SE",
+        "asn": "41136",
+        "description": "Wolters Kluwer Scandinavia AB",
+        "handle": "NJ-AS"
+    },
+    "41174": {
+        "country_code": "SE",
+        "asn": "41174",
+        "description": "SiteVision AB",
+        "handle": "SITEVISION-ASN"
+    },
+    "41175": {
+        "country_code": "SE",
+        "asn": "41175",
+        "description": "Iver Sverige AB",
+        "handle": "INTERNETBORDER"
+    },
+    "41216": {
+        "country_code": "SE",
+        "asn": "41216",
+        "description": "Advania Sverige AB",
+        "handle": "EXCANTO"
+    },
+    "41243": {
+        "country_code": "SE",
+        "asn": "41243",
+        "description": "Toyota Material Handling Europe AB",
+        "handle": "SE-BT-INDUSTRIES"
+    },
+    "41340": {
+        "country_code": "SE",
+        "asn": "41340",
+        "description": "Telia Company AB",
+        "handle": "SVENSKA-AS"
+    },
+    "41401": {
+        "country_code": "SE",
+        "asn": "41401",
+        "description": "RB Communication AB",
+        "handle": "RBCOM"
+    },
+    "41407": {
+        "country_code": "SE",
+        "asn": "41407",
+        "description": "Partner in Pet Food Nordics AB",
+        "handle": "DOGGY"
+    },
+    "41528": {
+        "country_code": "SE",
+        "asn": "41528",
+        "description": "Loopia AB",
+        "handle": "LOOPIA3"
+    },
+    "41545": {
+        "country_code": "SE",
+        "asn": "41545",
+        "description": "Forss IT AB",
+        "handle": "FORSSBREDBAND"
+    },
+    "41584": {
+        "country_code": "SE",
+        "asn": "41584",
+        "description": "Securitas Sverige AB",
+        "handle": "SECURITAS-SVERIGE-SE"
+    },
+    "41634": {
+        "country_code": "SE",
+        "asn": "41634",
+        "description": "Svea Hosting AB",
+        "handle": "SVEA"
+    },
+    "41753": {
+        "country_code": "SE",
+        "asn": "41753",
+        "description": "InfraCom QoS AB",
+        "handle": "TELELOCATION"
+    },
+    "41819": {
+        "country_code": "SE",
+        "asn": "41819",
+        "description": "Aceve Dox AB",
+        "handle": "CONCODE"
+    },
+    "41848": {
+        "country_code": "SE",
+        "asn": "41848",
+        "description": "Gavle kommun",
+        "handle": "GAVLE-KOMMUN"
+    },
+    "41884": {
+        "country_code": "SE",
+        "asn": "41884",
+        "description": "Swedish Civil Defence and Resilience Agency",
+        "handle": "CERT-SE-AS"
+    },
+    "41943": {
+        "country_code": "SE",
+        "asn": "41943",
+        "description": "Vaddo Media Information IS AB",
+        "handle": "VMI-KISTA"
+    },
+    "41980": {
+        "country_code": "SE",
+        "asn": "41980",
+        "description": "Webbkonsulterna i Jamtland AB",
+        "handle": "WEBBKONSULTERNA-AS"
+    },
+    "41992": {
+        "country_code": "SE",
+        "asn": "41992",
+        "description": "Si2 Datakonsult HB",
+        "handle": "SI2"
+    },
+    "42201": {
+        "country_code": "SE",
+        "asn": "42201",
+        "description": "PVDataNet AB",
+        "handle": "PVDATANET"
+    },
+    "42230": {
+        "country_code": "SE",
+        "asn": "42230",
+        "description": "ESBE AB",
+        "handle": "ESBE-AS"
+    },
+    "42251": {
+        "country_code": "SE",
+        "asn": "42251",
+        "description": "Lindesbergs Kommun",
+        "handle": "SE-LINDESBERG"
+    },
+    "42303": {
+        "country_code": "SE",
+        "asn": "42303",
+        "description": "LM Layer and Mesh AB",
+        "handle": "FIBERDIREKT"
+    },
+    "42307": {
+        "country_code": "SE",
+        "asn": "42307",
+        "description": "Sveriges Meteorologiska och Hydrologiska Institut",
+        "handle": "SMHI-AS"
+    },
+    "42309": {
+        "country_code": "SE",
+        "asn": "42309",
+        "description": "Bahnhof AB",
+        "handle": "STINGNET"
+    },
+    "42318": {
+        "country_code": "SE",
+        "asn": "42318",
+        "description": "FastBit AB",
+        "handle": "FASTBIT-AS"
+    },
+    "42523": {
+        "country_code": "SE",
+        "asn": "42523",
+        "description": "ISEC Group AB",
+        "handle": "ISECGROUP-AS"
+    },
+    "42595": {
+        "country_code": "SE",
+        "asn": "42595",
+        "description": "Iver Sverige AB",
+        "handle": "BDNC"
+    },
+    "42622": {
+        "country_code": "SE",
+        "asn": "42622",
+        "description": "Videnca AB",
+        "handle": "DCSTO-AS"
+    },
+    "42649": {
+        "country_code": "SE",
+        "asn": "42649",
+        "description": "Baffin Bay Networks AB",
+        "handle": "BBN"
+    },
+    "42675": {
+        "country_code": "SE",
+        "asn": "42675",
+        "description": "Obehosting AB",
+        "handle": "OBEHOSTING"
+    },
+    "42695": {
+        "country_code": "SE",
+        "asn": "42695",
+        "description": "Cleura AB",
+        "handle": "CLEURA"
+    },
+    "42708": {
+        "country_code": "SE",
+        "asn": "42708",
+        "description": "Glesys AB",
+        "handle": "GLESYS"
+    },
+    "43012": {
+        "country_code": "SE",
+        "asn": "43012",
+        "description": "Gastabudstaden AB",
+        "handle": "GASTABUD-SE"
+    },
+    "43018": {
+        "country_code": "SE",
+        "asn": "43018",
+        "description": "Verket for Innovationssystem",
+        "handle": "VINNOVA-ASN"
+    },
+    "43021": {
+        "country_code": "SE",
+        "asn": "43021",
+        "description": "Certit Hosting Handelsbolag",
+        "handle": "CERTIT-HOSTING"
+    },
+    "43036": {
+        "country_code": "SE",
+        "asn": "43036",
+        "description": "Hostnode AB",
+        "handle": "HNODE"
+    },
+    "43065": {
+        "country_code": "SE",
+        "asn": "43065",
+        "description": "Nordlo Sodra Norrland AB",
+        "handle": "AS-INTERLAN-SE"
+    },
+    "43071": {
+        "country_code": "SE",
+        "asn": "43071",
+        "description": "PCL Data AB",
+        "handle": "PCL"
+    },
+    "43096": {
+        "country_code": "SE",
+        "asn": "43096",
+        "description": "Diagonal Forlags AB",
+        "handle": "DIAF-DS02"
+    },
+    "43099": {
+        "country_code": "SE",
+        "asn": "43099",
+        "description": "Curie Point AB",
+        "handle": "NET-CPT"
+    },
+    "43101": {
+        "country_code": "SE",
+        "asn": "43101",
+        "description": "LMQ Kompetens AB",
+        "handle": "TRISEC"
+    },
+    "43504": {
+        "country_code": "SE",
+        "asn": "43504",
+        "description": "Centiro Solutions AB",
+        "handle": "CENTIRO-AS"
+    },
+    "43591": {
+        "country_code": "SE",
+        "asn": "43591",
+        "description": "AddSecure AB",
+        "handle": "MULTICOM"
+    },
+    "43645": {
+        "country_code": "SE",
+        "asn": "43645",
+        "description": "Kiruna kommun",
+        "handle": "KIRUNAKOMMUN"
+    },
+    "43665": {
+        "country_code": "SE",
+        "asn": "43665",
+        "description": "Hogskolan i Jonkoping",
+        "handle": "JTH"
+    },
+    "43770": {
+        "country_code": "SE",
+        "asn": "43770",
+        "description": "ITCONNECT Scandinavia AB",
+        "handle": "ITCONNECT-AS"
+    },
+    "43809": {
+        "country_code": "SE",
+        "asn": "43809",
+        "description": "Forss IT AB",
+        "handle": "FORSS"
+    },
+    "43844": {
+        "country_code": "SE",
+        "asn": "43844",
+        "description": "Uppsala Student Network",
+        "handle": "UPPSALA-STUDENT-NETWORK"
+    },
+    "43853": {
+        "country_code": "SE",
+        "asn": "43853",
+        "description": "AxByte Internet Services AB",
+        "handle": "FREPPA-AS"
+    },
+    "43893": {
+        "country_code": "SE",
+        "asn": "43893",
+        "description": "Mainloop AB",
+        "handle": "MAINLOOP-AS"
+    },
+    "43894": {
+        "country_code": "SE",
+        "asn": "43894",
+        "description": "Oracle Svenska AB",
+        "handle": "ORCL-LON-OPC1"
+    },
+    "43898": {
+        "country_code": "SE",
+        "asn": "43898",
+        "description": "Oracle Svenska AB",
+        "handle": "ORCL-AM-OCI1"
+    },
+    "43922": {
+        "country_code": "SE",
+        "asn": "43922",
+        "description": "City of Malmo",
+        "handle": "MALMO"
+    },
+    "43948": {
+        "country_code": "SE",
+        "asn": "43948",
+        "description": "Glesys AB",
+        "handle": "GLESYS-AS"
+    },
+    "43969": {
+        "country_code": "SE",
+        "asn": "43969",
+        "description": "Prinode AB",
+        "handle": "PRINODE"
+    },
+    "43974": {
+        "country_code": "SE",
+        "asn": "43974",
+        "description": "AddSecure Daedalos Solutions AB",
+        "handle": "LPA-AS"
+    },
+    "44013": {
+        "country_code": "SE",
+        "asn": "44013",
+        "description": "Sandvik IT Services AB",
+        "handle": "SANDVIK-AS"
+    },
+    "44034": {
+        "country_code": "SE",
+        "asn": "44034",
+        "description": "Hi3G Access AB",
+        "handle": "HI3G"
+    },
+    "44111": {
+        "country_code": "SE",
+        "asn": "44111",
+        "description": "CGI Sverige AB",
+        "handle": "CGI-NET"
+    },
+    "44123": {
+        "country_code": "SE",
+        "asn": "44123",
+        "description": "Telavox AB",
+        "handle": "TELAVOX"
+    },
+    "44136": {
+        "country_code": "SE",
+        "asn": "44136",
+        "description": "ODERLAND Webbhotell AB",
+        "handle": "ASODERLAND"
+    },
+    "44176": {
+        "country_code": "SE",
+        "asn": "44176",
+        "description": "VNext AB",
+        "handle": "ASVNEXT"
+    },
+    "44236": {
+        "country_code": "SE",
+        "asn": "44236",
+        "description": "Securitas Direct AB",
+        "handle": "SECURITASDIRECT-M"
+    },
+    "44320": {
+        "country_code": "SE",
+        "asn": "44320",
+        "description": "Skandinaviska Enskilda Banken AB",
+        "handle": "SEBNET-AS"
+    },
+    "44368": {
+        "country_code": "SE",
+        "asn": "44368",
+        "description": "Iver Sverige AB",
+        "handle": "ASDELTAMANAGEMENT"
+    },
+    "44394": {
+        "country_code": "SE",
+        "asn": "44394",
+        "description": "Obenet AB",
+        "handle": "OBENETWORK"
+    },
+    "44447": {
+        "country_code": "SE",
+        "asn": "44447",
+        "description": "Mirror Partner Utveckling AB",
+        "handle": "MIRROR-AS"
+    },
+    "44517": {
+        "country_code": "SE",
+        "asn": "44517",
+        "description": "Umea Energi Umenet AB",
+        "handle": "UMENET"
+    },
+    "44529": {
+        "country_code": "SE",
+        "asn": "44529",
+        "description": "Geely Europe Innovation and Collaboration AB",
+        "handle": "GEELY"
+    },
+    "44581": {
+        "country_code": "SE",
+        "asn": "44581",
+        "description": "Bredband2 AB",
+        "handle": "SE-ALLTELE"
+    },
+    "44743": {
+        "country_code": "SE",
+        "asn": "44743",
+        "description": "Naetkraft Boraas Infra AB",
+        "handle": "BORNET"
+    },
+    "44746": {
+        "country_code": "SE",
+        "asn": "44746",
+        "description": "Satellithuset i Limmared AB",
+        "handle": "SILA5-AS"
+    },
+    "44757": {
+        "country_code": "SE",
+        "asn": "44757",
+        "description": "Global Blue Holdings Aktiebolag",
+        "handle": "GLOBAL-BLUE-GROUP-AS"
+    },
+    "44769": {
+        "country_code": "SE",
+        "asn": "44769",
+        "description": "Bosnet Aktiebolag",
+        "handle": "BOSNET"
+    },
+    "44813": {
+        "country_code": "SE",
+        "asn": "44813",
+        "description": "InfraCom Managed Services AB",
+        "handle": "VIKINGTECH"
+    },
+    "44838": {
+        "country_code": "SE",
+        "asn": "44838",
+        "description": "Elastycloud AB",
+        "handle": "NET-SVEBUT-AS"
+    },
+    "44883": {
+        "country_code": "SE",
+        "asn": "44883",
+        "description": "Nossebroortens energi ekonomisk forening",
+        "handle": "NOSSEBRO-AS"
+    },
+    "45011": {
+        "country_code": "SE",
+        "asn": "45011",
+        "description": "Bredband2 AB",
+        "handle": "SE-A3"
+    },
+    "45036": {
+        "country_code": "SE",
+        "asn": "45036",
+        "description": "IP Excess AB",
+        "handle": "IPEX-NO"
+    },
+    "47155": {
+        "country_code": "SE",
+        "asn": "47155",
+        "description": "ViaEuropa Sverige AB",
+        "handle": "VIAE-AS"
+    },
+    "47234": {
+        "country_code": "SE",
+        "asn": "47234",
+        "description": "Olofstroms Kabel-TV AB",
+        "handle": "OKTV"
+    },
+    "47287": {
+        "country_code": "SE",
+        "asn": "47287",
+        "description": "Stardoll AB",
+        "handle": "STARDOLL"
+    },
+    "47467": {
+        "country_code": "SE",
+        "asn": "47467",
+        "description": "Griffel AB",
+        "handle": "GRIFFEL"
+    },
+    "47698": {
+        "country_code": "SE",
+        "asn": "47698",
+        "description": "Kirei AB",
+        "handle": "KIREI"
+    },
+    "47699": {
+        "country_code": "SE",
+        "asn": "47699",
+        "description": "Stiftelsen for Internetinfrastruktur",
+        "handle": "BBK-AS"
+    },
+    "47708": {
+        "country_code": "SE",
+        "asn": "47708",
+        "description": "Sveriges Radio AB",
+        "handle": "SVERIGES-RADIO"
+    },
+    "47859": {
+        "country_code": "SE",
+        "asn": "47859",
+        "description": "Geus Gruppen AB",
+        "handle": "GGAB"
+    },
+    "47953": {
+        "country_code": "SE",
+        "asn": "47953",
+        "description": "GNS Sweden AB",
+        "handle": "GNS-SE-AS"
+    },
+    "47970": {
+        "country_code": "SE",
+        "asn": "47970",
+        "description": "Nordlo Sodra Norrland AB",
+        "handle": "AS-GAVLIX-SE"
+    },
+    "48042": {
+        "country_code": "SE",
+        "asn": "48042",
+        "description": "Direct2Internet AB",
+        "handle": "D2I-AS"
+    },
+    "48093": {
+        "country_code": "SE",
+        "asn": "48093",
+        "description": "Webland AB",
+        "handle": "WEBLAND-CORE-NET"
+    },
+    "48116": {
+        "country_code": "SE",
+        "asn": "48116",
+        "description": "High Sec Hosting HSDC AB",
+        "handle": "HIGHSEC-AS"
+    },
+    "48171": {
+        "country_code": "SE",
+        "asn": "48171",
+        "description": "Atos IT Solutions and Services AB",
+        "handle": "ATOS"
+    },
+    "48220": {
+        "country_code": "SE",
+        "asn": "48220",
+        "description": "Fouredge AB",
+        "handle": "FOUREDGE-AS"
+    },
+    "48445": {
+        "country_code": "SE",
+        "asn": "48445",
+        "description": "Vivicta AB",
+        "handle": "ASN-EVRY-MPLS"
+    },
+    "48448": {
+        "country_code": "SE",
+        "asn": "48448",
+        "description": "Embark Studios AB",
+        "handle": "EMBARK-INFRA"
+    },
+    "48466": {
+        "country_code": "SE",
+        "asn": "48466",
+        "description": "1Access Sweden AB",
+        "handle": "XITE-AS"
+    },
+    "48514": {
+        "country_code": "SE",
+        "asn": "48514",
+        "description": "Stiftelsen Chalmers Studenthem",
+        "handle": "CSB"
+    },
+    "48579": {
+        "country_code": "SE",
+        "asn": "48579",
+        "description": "ELASTX AB",
+        "handle": "ELASTX"
+    },
+    "48657": {
+        "country_code": "SE",
+        "asn": "48657",
+        "description": "Premium System AB",
+        "handle": "PREMIUM-NET"
+    },
+    "48764": {
+        "country_code": "SE",
+        "asn": "48764",
+        "description": "Comdate AB",
+        "handle": "COMDATE-AS"
+    },
+    "48767": {
+        "country_code": "SE",
+        "asn": "48767",
+        "description": "Blycka AB",
+        "handle": "TOMBII-NET"
+    },
+    "48768": {
+        "country_code": "SE",
+        "asn": "48768",
+        "description": "GTECH SWEDEN INTERACTIVE AB",
+        "handle": "BMNETWORKS"
+    },
+    "48803": {
+        "country_code": "SE",
+        "asn": "48803",
+        "description": "Mediateknik i Varberg AB",
+        "handle": "MEDIATEKNIK"
+    },
+    "48833": {
+        "country_code": "SE",
+        "asn": "48833",
+        "description": "Apoteket AB",
+        "handle": "APOTEKET"
+    },
+    "48871": {
+        "country_code": "SE",
+        "asn": "48871",
+        "description": "Dustin Sverige AB",
+        "handle": "DUSTIN-MS-SE-MMA"
+    },
+    "48904": {
+        "country_code": "SE",
+        "asn": "48904",
+        "description": "Vaggeryds Energi AB",
+        "handle": "VAGGERYDENERGI"
+    },
+    "48942": {
+        "country_code": "SE",
+        "asn": "48942",
+        "description": "Daniel Eriksson Teknik AB",
+        "handle": "DENET-AS"
+    },
+    "48994": {
+        "country_code": "SE",
+        "asn": "48994",
+        "description": "Globalwire AB",
+        "handle": "GLOBALWIRE"
+    },
+    "49065": {
+        "country_code": "SE",
+        "asn": "49065",
+        "description": "Sectra Imaging IT Solutions AB",
+        "handle": "SECTRA"
+    },
+    "49079": {
+        "country_code": "SE",
+        "asn": "49079",
+        "description": "Conapto AB",
+        "handle": "CONAPTO"
+    },
+    "49172": {
+        "country_code": "SE",
+        "asn": "49172",
+        "description": "AB Svenska Spel",
+        "handle": "SVENSKASPEL"
+    },
+    "49222": {
+        "country_code": "SE",
+        "asn": "49222",
+        "description": "Telenor Connexion AB",
+        "handle": "CONNEXION"
+    },
+    "49232": {
+        "country_code": "SE",
+        "asn": "49232",
+        "description": "Rackfish AB",
+        "handle": "RACKFISH"
+    },
+    "49251": {
+        "country_code": "SE",
+        "asn": "49251",
+        "description": "Ulricehamns Energi AB",
+        "handle": "ULRICEHAMNS"
+    },
+    "49272": {
+        "country_code": "SE",
+        "asn": "49272",
+        "description": "Trafikverket",
+        "handle": "BANVERKET"
+    },
+    "49292": {
+        "country_code": "SE",
+        "asn": "49292",
+        "description": "Leissner Data AB",
+        "handle": "GOTANET-DK"
+    },
+    "49303": {
+        "country_code": "SE",
+        "asn": "49303",
+        "description": "Niscayah Group AB",
+        "handle": "NISCAYAH-GROUP"
+    },
+    "49329": {
+        "country_code": "SE",
+        "asn": "49329",
+        "description": "Nasdaq Technology AB",
+        "handle": "CINNOBER-FINANCIAL-TECHNOLOGY"
+    },
+    "49408": {
+        "country_code": "SE",
+        "asn": "49408",
+        "description": "Securitas AB",
+        "handle": "SECURITAS-AB-AS"
+    },
+    "49419": {
+        "country_code": "SE",
+        "asn": "49419",
+        "description": "Iver Sverige AB",
+        "handle": "CANDIDATOR-AB"
+    },
+    "49515": {
+        "country_code": "SE",
+        "asn": "49515",
+        "description": "DND Nordic AB",
+        "handle": "DNDSWEDEN"
+    },
+    "49769": {
+        "country_code": "SE",
+        "asn": "49769",
+        "description": "Teracom AB",
+        "handle": "TERACOM-AB"
+    },
+    "49770": {
+        "country_code": "SE",
+        "asn": "49770",
+        "description": "Internetport Sweden AB",
+        "handle": "INTERNETPORT-AS"
+    },
+    "49858": {
+        "country_code": "SE",
+        "asn": "49858",
+        "description": "Borje Josefsson trading as UNIMASTER Datakonsult",
+        "handle": "BJ-NET"
+    },
+    "49862": {
+        "country_code": "SE",
+        "asn": "49862",
+        "description": "Netilo AB",
+        "handle": "NETILO-NET"
+    },
+    "49949": {
+        "country_code": "SE",
+        "asn": "49949",
+        "description": "Complior AB",
+        "handle": "COMPLIOR"
+    },
+    "49959": {
+        "country_code": "SE",
+        "asn": "49959",
+        "description": "ReadSpeaker AB",
+        "handle": "READSPEAKER"
+    },
+    "49969": {
+        "country_code": "SE",
+        "asn": "49969",
+        "description": "Vivicta Sweden AB",
+        "handle": "EVRY-BORAS"
+    },
+    "50066": {
+        "country_code": "SE",
+        "asn": "50066",
+        "description": "Serious Tubes Networks",
+        "handle": "SRSTUBES-AS"
+    },
+    "50168": {
+        "country_code": "SE",
+        "asn": "50168",
+        "description": "Glesys AB",
+        "handle": "BOGALNET"
+    },
+    "50171": {
+        "country_code": "SE",
+        "asn": "50171",
+        "description": "Indicate IT AB",
+        "handle": "SE-INDICATE-AS"
+    },
+    "50273": {
+        "country_code": "SE",
+        "asn": "50273",
+        "description": "Post och Telestyrelsen",
+        "handle": "PTS-AS"
+    },
+    "50420": {
+        "country_code": "SE",
+        "asn": "50420",
+        "description": "Niscayah Group AB",
+        "handle": "NISCAYAH-GROUP-FI"
+    },
+    "50521": {
+        "country_code": "SE",
+        "asn": "50521",
+        "description": "Tele2 Sverige AB",
+        "handle": "TELE2-AS"
+    },
+    "50572": {
+        "country_code": "SE",
+        "asn": "50572",
+        "description": "Nordlo Improve AB",
+        "handle": "ZETUPNET"
+    },
+    "50650": {
+        "country_code": "SE",
+        "asn": "50650",
+        "description": "Internet Vikings International AB",
+        "handle": "ASHYPERHOSTING"
+    },
+    "50678": {
+        "country_code": "SE",
+        "asn": "50678",
+        "description": "Internet Vikings International AB",
+        "handle": "ASLEANDOMAINS"
+    },
+    "50683": {
+        "country_code": "SE",
+        "asn": "50683",
+        "description": "Fredrik Holmqvist",
+        "handle": "SITABINFRA-GLOBAL-AS"
+    },
+    "50764": {
+        "country_code": "SE",
+        "asn": "50764",
+        "description": "Vivicta Sweden AB",
+        "handle": "NEO-BACKBONE"
+    },
+    "50791": {
+        "country_code": "SE",
+        "asn": "50791",
+        "description": "Mysec Sweden AB",
+        "handle": "MYSEC-SE"
+    },
+    "50821": {
+        "country_code": "SE",
+        "asn": "50821",
+        "description": "Bredband2 Stockholms Stadsnaet AB",
+        "handle": "ASHPDC"
+    },
+    "50827": {
+        "country_code": "SE",
+        "asn": "50827",
+        "description": "SpaceDump IT AB",
+        "handle": "SPACEDUMP-SPLIT-AS"
+    },
+    "50904": {
+        "country_code": "SE",
+        "asn": "50904",
+        "description": "Nordlo Elevate AB",
+        "handle": "SE-NORDLO-ELEVATE-AS"
+    },
+    "50986": {
+        "country_code": "SE",
+        "asn": "50986",
+        "description": "Teleservice Bredband Skane AB",
+        "handle": "EXCELLENT-HOSTING"
+    },
+    "50989": {
+        "country_code": "SE",
+        "asn": "50989",
+        "description": "SITAB Infrastruktur",
+        "handle": "DCS-NETWORKS-AS"
+    },
+    "51040": {
+        "country_code": "SE",
+        "asn": "51040",
+        "description": "Piratpartiet",
+        "handle": "PIRATE-AS"
+    },
+    "51132": {
+        "country_code": "SE",
+        "asn": "51132",
+        "description": "Arkaden Konsult AB",
+        "handle": "ARKADEN"
+    },
+    "51149": {
+        "country_code": "SE",
+        "asn": "51149",
+        "description": "Sinch AB",
+        "handle": "SINCH-AS"
+    },
+    "51368": {
+        "country_code": "SE",
+        "asn": "51368",
+        "description": "Exertis CapTech Aktiebolag",
+        "handle": "CAPTECH"
+    },
+    "51422": {
+        "country_code": "SE",
+        "asn": "51422",
+        "description": "Sequitor Engineering AB",
+        "handle": "SEQUITOR-ENGINEERING-AS"
+    },
+    "51519": {
+        "country_code": "SE",
+        "asn": "51519",
+        "description": "Karabro AB",
+        "handle": "KARABRO"
+    },
+    "51546": {
+        "country_code": "SE",
+        "asn": "51546",
+        "description": "Qavat AB",
+        "handle": "QAVAT"
+    },
+    "51650": {
+        "country_code": "SE",
+        "asn": "51650",
+        "description": "Mekonomen AB",
+        "handle": "MEKONOMEN"
+    },
+    "51701": {
+        "country_code": "SE",
+        "asn": "51701",
+        "description": "Adminor Aktiebolag",
+        "handle": "ADMINOR"
+    },
+    "51747": {
+        "country_code": "SE",
+        "asn": "51747",
+        "description": "Internet Vikings International AB",
+        "handle": "INTERNETBOLAGET"
+    },
+    "51807": {
+        "country_code": "SE",
+        "asn": "51807",
+        "description": "Svea Hosting AB",
+        "handle": "SVEA"
+    },
+    "51815": {
+        "country_code": "SE",
+        "asn": "51815",
+        "description": "GlobalConnect AB",
+        "handle": "TEKNIKBYRAN"
+    },
+    "51821": {
+        "country_code": "SE",
+        "asn": "51821",
+        "description": "Cloudist AB",
+        "handle": "FORTLAX"
+    },
+    "51826": {
+        "country_code": "SE",
+        "asn": "51826",
+        "description": "evroc AB",
+        "handle": "EVROC"
+    },
+    "51899": {
+        "country_code": "SE",
+        "asn": "51899",
+        "description": "Hoglandsforbundet",
+        "handle": "HIT-NET"
+    },
+    "51913": {
+        "country_code": "SE",
+        "asn": "51913",
+        "description": "Internet Vikings International AB",
+        "handle": "ASPIXOYO"
+    },
+    "51929": {
+        "country_code": "SE",
+        "asn": "51929",
+        "description": "Advania Sverige AB",
+        "handle": "ITM-SE"
+    },
+    "51956": {
+        "country_code": "SE",
+        "asn": "51956",
+        "description": "ECIT Solutions AB",
+        "handle": "AS-QLOSRAB"
+    },
+    "52005": {
+        "country_code": "SE",
+        "asn": "52005",
+        "description": "Netnod AB",
+        "handle": "NETNOD-ROUTE-SERVER-1"
+    },
+    "52011": {
+        "country_code": "SE",
+        "asn": "52011",
+        "description": "Cleura AB",
+        "handle": "CLEURA-MIDDLEEAST"
+    },
+    "52019": {
+        "country_code": "SE",
+        "asn": "52019",
+        "description": "Oracle Svenska AB",
+        "handle": "ORCL-EMEA-AS"
+    },
+    "52177": {
+        "country_code": "SE",
+        "asn": "52177",
+        "description": "Resona Glecom AB",
+        "handle": "GLECOM"
+    },
+    "52192": {
+        "country_code": "SE",
+        "asn": "52192",
+        "description": "Hugo Blom",
+        "handle": "HUXNET"
+    },
+    "56266": {
+        "country_code": "SE",
+        "asn": "56266",
+        "description": "Netnod Internet Exchange",
+        "handle": "NETNOD-AP"
+    },
+    "56414": {
+        "country_code": "SE",
+        "asn": "56414",
+        "description": "Nessla AB",
+        "handle": "NESSLA"
+    },
+    "56531": {
+        "country_code": "SE",
+        "asn": "56531",
+        "description": "TUI Sverige AB",
+        "handle": "FRITIDSRESOR"
+    },
+    "56563": {
+        "country_code": "SE",
+        "asn": "56563",
+        "description": "Alexander Wagberg trading as Wberg Networks",
+        "handle": "WBERGNET"
+    },
+    "56625": {
+        "country_code": "SE",
+        "asn": "56625",
+        "description": "SOS Alarm Sverige AB",
+        "handle": "SOS-ALARM"
+    },
+    "56645": {
+        "country_code": "SE",
+        "asn": "56645",
+        "description": "Blycka AB",
+        "handle": "BLYCKA"
+    },
+    "56700": {
+        "country_code": "SE",
+        "asn": "56700",
+        "description": "Osterakers Kommun",
+        "handle": "OSTERAKER"
+    },
+    "56711": {
+        "country_code": "SE",
+        "asn": "56711",
+        "description": "Bluerange Sweden AB",
+        "handle": "BLUERANGE-AS"
+    },
+    "56734": {
+        "country_code": "SE",
+        "asn": "56734",
+        "description": "OCTN Networks AB",
+        "handle": "EIPI-AS"
+    },
+    "56735": {
+        "country_code": "SE",
+        "asn": "56735",
+        "description": "Kustbandet AB",
+        "handle": "KUSTBANDET-AS"
+    },
+    "56736": {
+        "country_code": "SE",
+        "asn": "56736",
+        "description": "VASTRA GOTALANDS LANS LANDSTING",
+        "handle": "VASTRAGOTALANDSREGIONEN"
+    },
+    "56848": {
+        "country_code": "SE",
+        "asn": "56848",
+        "description": "Emtorp IT & Media Solutions AB",
+        "handle": "EMTORP-AS"
+    },
+    "56883": {
+        "country_code": "SE",
+        "asn": "56883",
+        "description": "Airmass 1 AB",
+        "handle": "AIRMASS1-AS"
+    },
+    "56908": {
+        "country_code": "SE",
+        "asn": "56908",
+        "description": "Netnod AB",
+        "handle": "NETNOD-NDS"
+    },
+    "56961": {
+        "country_code": "SE",
+        "asn": "56961",
+        "description": "ESAB AB",
+        "handle": "ESAB"
+    },
+    "56976": {
+        "country_code": "SE",
+        "asn": "56976",
+        "description": "Core2u i Sverige AB",
+        "handle": "CORE2U"
+    },
+    "57021": {
+        "country_code": "SE",
+        "asn": "57021",
+        "description": "Netnod AB",
+        "handle": "NTP-SE"
+    },
+    "57083": {
+        "country_code": "SE",
+        "asn": "57083",
+        "description": "Bastads Kommun",
+        "handle": "BASTADS-KOMMUN"
+    },
+    "57084": {
+        "country_code": "SE",
+        "asn": "57084",
+        "description": "Bjare Kraft ekonomisk forening",
+        "handle": "BJAREKRAFT"
+    },
+    "57131": {
+        "country_code": "SE",
+        "asn": "57131",
+        "description": "IP Osteraker AB",
+        "handle": "IP-OSTERAKER"
+    },
+    "57151": {
+        "country_code": "SE",
+        "asn": "57151",
+        "description": "Stockholm Internet eXchange AB",
+        "handle": "STHIX-AS"
+    },
+    "57195": {
+        "country_code": "SE",
+        "asn": "57195",
+        "description": "Giesecke+Devrient Mobile Security Sweden AB",
+        "handle": "AUTO1"
+    },
+    "57208": {
+        "country_code": "SE",
+        "asn": "57208",
+        "description": "Advania Sverige AB",
+        "handle": "ADVANIA-IMP-SE"
+    },
+    "57220": {
+        "country_code": "SE",
+        "asn": "57220",
+        "description": "Invidi Technologies AB",
+        "handle": "VIDEOPLAZA-AS"
+    },
+    "57238": {
+        "country_code": "SE",
+        "asn": "57238",
+        "description": "Sheimo Scorpion Data AB",
+        "handle": "ASSCD"
+    },
+    "57327": {
+        "country_code": "SE",
+        "asn": "57327",
+        "description": "IP Excess AB",
+        "handle": "FOILHAT-ANYCAST"
+    },
+    "57597": {
+        "country_code": "SE",
+        "asn": "57597",
+        "description": "Pingdom AB",
+        "handle": "PINGDOM"
+    },
+    "57602": {
+        "country_code": "SE",
+        "asn": "57602",
+        "description": "Statens Jordbruksverk",
+        "handle": "STATENS-JORDBRUKSVERK-ASN"
+    },
+    "57630": {
+        "country_code": "SE",
+        "asn": "57630",
+        "description": "84 Grams AB",
+        "handle": "AS-84GRAMS"
+    },
+    "57748": {
+        "country_code": "SE",
+        "asn": "57748",
+        "description": "Oracle Svenska AB",
+        "handle": "ORCL-LONDON41"
+    },
+    "57773": {
+        "country_code": "SE",
+        "asn": "57773",
+        "description": "1Access Sweden AB",
+        "handle": "ONEA"
+    },
+    "57782": {
+        "country_code": "SE",
+        "asn": "57782",
+        "description": "Cynthia Maja Revstrom",
+        "handle": "CYNTHIA-AS"
+    },
+    "57851": {
+        "country_code": "SE",
+        "asn": "57851",
+        "description": "Kria Elinarbur",
+        "handle": "KRIATEL-ASN"
+    },
+    "57955": {
+        "country_code": "SE",
+        "asn": "57955",
+        "description": "atNorth HPC AB",
+        "handle": "GRIDCORE"
+    },
+    "57967": {
+        "country_code": "SE",
+        "asn": "57967",
+        "description": "IP Excess AB",
+        "handle": "SUPERVENIENT"
+    },
+    "58252": {
+        "country_code": "SE",
+        "asn": "58252",
+        "description": "ELASTX AB",
+        "handle": "ELASTX-CC"
+    },
+    "58317": {
+        "country_code": "SE",
+        "asn": "58317",
+        "description": "Embark Studios AB",
+        "handle": "EMBARK"
+    },
+    "58320": {
+        "country_code": "SE",
+        "asn": "58320",
+        "description": "Skogsstyrelsen",
+        "handle": "SKOGSTY"
+    },
+    "58343": {
+        "country_code": "SE",
+        "asn": "58343",
+        "description": "Advania Sverige AB",
+        "handle": "CORE-TELECOMPUTING-SE"
+    },
+    "59408": {
+        "country_code": "SE",
+        "asn": "59408",
+        "description": "Rule Communication - Nordic AB",
+        "handle": "RULE-AS"
+    },
+    "59586": {
+        "country_code": "SE",
+        "asn": "59586",
+        "description": "CAG Datastod AB",
+        "handle": "CAG-AS"
+    },
+    "59702": {
+        "country_code": "SE",
+        "asn": "59702",
+        "description": "Junet AB",
+        "handle": "JUNET"
+    },
+    "59727": {
+        "country_code": "SE",
+        "asn": "59727",
+        "description": "DND Nordic AB",
+        "handle": "NSC-USA"
+    },
+    "59750": {
+        "country_code": "SE",
+        "asn": "59750",
+        "description": "Anders Holck",
+        "handle": "HOLCK"
+    },
+    "59807": {
+        "country_code": "SE",
+        "asn": "59807",
+        "description": "Swedbank AB",
+        "handle": "SWEDBANK-AS"
+    },
+    "59835": {
+        "country_code": "SE",
+        "asn": "59835",
+        "description": "EFG Sweden AB",
+        "handle": "DREAMHACK"
+    },
+    "59913": {
+        "country_code": "SE",
+        "asn": "59913",
+        "description": "Aktiebolaget Sappa",
+        "handle": "SON"
+    },
+    "59951": {
+        "country_code": "SE",
+        "asn": "59951",
+        "description": "Falu Kommun",
+        "handle": "FK"
+    },
+    "60053": {
+        "country_code": "SE",
+        "asn": "60053",
+        "description": "Habo Kommun",
+        "handle": "SE-HABO-AS"
+    },
+    "60094": {
+        "country_code": "SE",
+        "asn": "60094",
+        "description": "Binero AB",
+        "handle": "REDBRIDGE"
+    },
+    "60133": {
+        "country_code": "SE",
+        "asn": "60133",
+        "description": "Xite Sweden AB",
+        "handle": "AS1O"
+    },
+    "60184": {
+        "country_code": "SE",
+        "asn": "60184",
+        "description": "OCTN Networks AB",
+        "handle": "OCTANS"
+    },
+    "60205": {
+        "country_code": "SE",
+        "asn": "60205",
+        "description": "Magine Pro AB",
+        "handle": "MAGINE-AS"
+    },
+    "60213": {
+        "country_code": "SE",
+        "asn": "60213",
+        "description": "Helsinge Net Ovanaker AB",
+        "handle": "HNET-OVAN"
+    },
+    "60238": {
+        "country_code": "SE",
+        "asn": "60238",
+        "description": "SCA FORESTPRODUCTS AB",
+        "handle": "SCAFP"
+    },
+    "60269": {
+        "country_code": "SE",
+        "asn": "60269",
+        "description": "XYLEM WATER SOLUTIONS GLOBAL SERVICES AB",
+        "handle": "XYLEMINC-AS"
+    },
+    "60285": {
+        "country_code": "SE",
+        "asn": "60285",
+        "description": "Oracle Svenska AB",
+        "handle": "MAXYMISER"
+    },
+    "60376": {
+        "country_code": "SE",
+        "asn": "60376",
+        "description": "Binero AB",
+        "handle": "NET-BINERO-KRM1"
+    },
+    "60396": {
+        "country_code": "SE",
+        "asn": "60396",
+        "description": "Wilhelm Wijkander",
+        "handle": "WW-AS"
+    },
+    "60433": {
+        "country_code": "SE",
+        "asn": "60433",
+        "description": "VMAR IT AB",
+        "handle": "VMAR"
+    },
+    "60582": {
+        "country_code": "SE",
+        "asn": "60582",
+        "description": "Winther Wireless AB",
+        "handle": "WINTHER-AS"
+    },
+    "60662": {
+        "country_code": "SE",
+        "asn": "60662",
+        "description": "DataCom Group Nordic AB",
+        "handle": "DATACOMM"
+    },
+    "61146": {
+        "country_code": "SE",
+        "asn": "61146",
+        "description": "Nordlo Sundsvall AB",
+        "handle": "N62-AS"
+    },
+    "61162": {
+        "country_code": "SE",
+        "asn": "61162",
+        "description": "Klarna Bank AB",
+        "handle": "KLARNA-BANK-AB"
+    },
+    "61207": {
+        "country_code": "SE",
+        "asn": "61207",
+        "description": "Hostek AB",
+        "handle": "ILAIT"
+    },
+    "61229": {
+        "country_code": "SE",
+        "asn": "61229",
+        "description": "Kamel Networks Association",
+        "handle": "SONIX"
+    },
+    "61282": {
+        "country_code": "SE",
+        "asn": "61282",
+        "description": "BrainMill AB",
+        "handle": "NEANET"
+    },
+    "61413": {
+        "country_code": "SE",
+        "asn": "61413",
+        "description": "Stralsakerhetsmyndigheten",
+        "handle": "SSM-NET"
+    },
+    "62001": {
+        "country_code": "SE",
+        "asn": "62001",
+        "description": "Aphelion Consulting AB",
+        "handle": "APHELION-AS"
+    },
+    "62020": {
+        "country_code": "SE",
+        "asn": "62020",
+        "description": "Net Sat AB",
+        "handle": "NETSAT"
+    },
+    "62094": {
+        "country_code": "SE",
+        "asn": "62094",
+        "description": "Midasplayer AB",
+        "handle": "MIDASPLAYER"
+    },
+    "62116": {
+        "country_code": "SE",
+        "asn": "62116",
+        "description": "Benders Sverige AB",
+        "handle": "BENDERS"
+    },
+    "62131": {
+        "country_code": "SE",
+        "asn": "62131",
+        "description": "Glesys AB",
+        "handle": "EGON-NET"
+    },
+    "62180": {
+        "country_code": "SE",
+        "asn": "62180",
+        "description": "Eskilstuna Kommun",
+        "handle": "ESKILSTUNA-KOMMUN-ASN"
+    },
+    "62183": {
+        "country_code": "SE",
+        "asn": "62183",
+        "description": "Bredband2 Bredbandsson AB",
+        "handle": "NORDICOM"
+    },
+    "62305": {
+        "country_code": "SE",
+        "asn": "62305",
+        "description": "Nordic Growth Market NGM AB",
+        "handle": "NGM-ASN"
+    },
+    "62355": {
+        "country_code": "SE",
+        "asn": "62355",
+        "description": "Bautec Services AB",
+        "handle": "BAUTEC"
+    },
+    "62395": {
+        "country_code": "SE",
+        "asn": "62395",
+        "description": "Internet Vikings International AB",
+        "handle": "ELNIC"
+    },
+    "62463": {
+        "country_code": "SE",
+        "asn": "62463",
+        "description": "Sundsvalls kommun",
+        "handle": "SUNDSVALL"
+    },
+    "64403": {
+        "country_code": "SE",
+        "asn": "64403",
+        "description": "Wireline AB",
+        "handle": "WIRELINE-AB"
+    },
+    "64449": {
+        "country_code": "SE",
+        "asn": "64449",
+        "description": "Datakonsult Magnus Sandberg",
+        "handle": "DATAKON1"
+    },
+    "134784": {
+        "country_code": "SE",
+        "asn": "134784",
+        "description": "NasdaqOMX",
+        "handle": "NASDAQOMX-AS-AP"
+    },
+    "135270": {
+        "country_code": "SE",
+        "asn": "135270",
+        "description": "NasdaqOMX",
+        "handle": "NASDAQOMX-AS-AP"
+    },
+    "196704": {
+        "country_code": "SE",
+        "asn": "196704",
+        "description": "Forss IT AB",
+        "handle": "KFVIT-AS"
+    },
+    "196793": {
+        "country_code": "SE",
+        "asn": "196793",
+        "description": "Cloudmore AB",
+        "handle": "CLOUDMORE-AS"
+    },
+    "196967": {
+        "country_code": "SE",
+        "asn": "196967",
+        "description": "N.Henulin",
+        "handle": "KONTEI"
+    },
+    "197116": {
+        "country_code": "SE",
+        "asn": "197116",
+        "description": "Compodium International AB",
+        "handle": "COMPODIUM-INTERNATIONAL-AB"
+    },
+    "197308": {
+        "country_code": "SE",
+        "asn": "197308",
+        "description": "Telia Cygate AB",
+        "handle": "CYGATEGROUP"
+    },
+    "197323": {
+        "country_code": "SE",
+        "asn": "197323",
+        "description": "B & P Fund Services AB",
+        "handle": "B-AND-P-FUND-SERVICE-AB"
+    },
+    "197332": {
+        "country_code": "SE",
+        "asn": "197332",
+        "description": "Vitec Software Group AB",
+        "handle": "SE-VITEC-AS"
+    },
+    "197425": {
+        "country_code": "SE",
+        "asn": "197425",
+        "description": "Saab AB",
+        "handle": "SAAB-ASN"
+    },
+    "197430": {
+        "country_code": "SE",
+        "asn": "197430",
+        "description": "AxByte Internet Services AB",
+        "handle": "AXBYTE-AS"
+    },
+    "197436": {
+        "country_code": "SE",
+        "asn": "197436",
+        "description": "ClearOn AB",
+        "handle": "KUPONGINLOSEN"
+    },
+    "197541": {
+        "country_code": "SE",
+        "asn": "197541",
+        "description": "Invidi Technologies AB",
+        "handle": "VIDEOPLAZA-AS"
+    },
+    "197557": {
+        "country_code": "SE",
+        "asn": "197557",
+        "description": "RUN Communications AB",
+        "handle": "RUNCOM"
+    },
+    "197564": {
+        "country_code": "SE",
+        "asn": "197564",
+        "description": "Stiftelsen for Internetinfrastruktur",
+        "handle": "INTERNETSTIFTELSEN"
+    },
+    "197581": {
+        "country_code": "SE",
+        "asn": "197581",
+        "description": "Conect networks and Information Technology i Jonkoping AB",
+        "handle": "CONECT"
+    },
+    "197603": {
+        "country_code": "SE",
+        "asn": "197603",
+        "description": "Transtema Network Services AB",
+        "handle": "BEARNET-AS"
+    },
+    "197617": {
+        "country_code": "SE",
+        "asn": "197617",
+        "description": "Scalability AB",
+        "handle": "MRFRIDAY"
+    },
+    "197623": {
+        "country_code": "SE",
+        "asn": "197623",
+        "description": "Kopings Kabel-TV AB",
+        "handle": "KOPINGS-KABEL-TV"
+    },
+    "197771": {
+        "country_code": "SE",
+        "asn": "197771",
+        "description": "OCTN Networks AB",
+        "handle": "OCTN-RAIN"
+    },
+    "197775": {
+        "country_code": "SE",
+        "asn": "197775",
+        "description": "OCTN Networks AB",
+        "handle": "MEDIAFRONTIERS"
+    },
+    "197784": {
+        "country_code": "SE",
+        "asn": "197784",
+        "description": "Gibon Ljungby AB",
+        "handle": "EDGEIP-AS"
+    },
+    "197799": {
+        "country_code": "SE",
+        "asn": "197799",
+        "description": "Molndals kommun",
+        "handle": "MOLNDAL-AS"
+    },
+    "197854": {
+        "country_code": "SE",
+        "asn": "197854",
+        "description": "Eisenia AB",
+        "handle": "EISENIA-AS"
+    },
+    "197855": {
+        "country_code": "SE",
+        "asn": "197855",
+        "description": "Bolagsverket",
+        "handle": "BOLAGSVERKET"
+    },
+    "197942": {
+        "country_code": "SE",
+        "asn": "197942",
+        "description": "Forsakringskassan",
+        "handle": "FSK"
+    },
+    "198008": {
+        "country_code": "SE",
+        "asn": "198008",
+        "description": "Regeringskansliet",
+        "handle": "RK"
+    },
+    "198054": {
+        "country_code": "SE",
+        "asn": "198054",
+        "description": "Nordlo Syd AB",
+        "handle": "NORDLO-SYD-ASN"
+    },
+    "198093": {
+        "country_code": "SE",
+        "asn": "198093",
+        "description": "Foreningen for digitala fri- och rattigheter",
+        "handle": "DFRI-AS"
+    },
+    "198217": {
+        "country_code": "SE",
+        "asn": "198217",
+        "description": "Nibe AB",
+        "handle": "NIBENET"
+    },
+    "198302": {
+        "country_code": "SE",
+        "asn": "198302",
+        "description": "Aphelion Consulting AB",
+        "handle": "APHELION-AS"
+    },
+    "198347": {
+        "country_code": "SE",
+        "asn": "198347",
+        "description": "Game-Hosting GH AB",
+        "handle": "GAME-HOSTING"
+    },
+    "198450": {
+        "country_code": "SE",
+        "asn": "198450",
+        "description": "Aptic Aktiebolag",
+        "handle": "APTIC-AS"
+    },
+    "198463": {
+        "country_code": "SE",
+        "asn": "198463",
+        "description": "On 1 Call Support AB",
+        "handle": "OCNET"
+    },
+    "198476": {
+        "country_code": "SE",
+        "asn": "198476",
+        "description": "Lansstyrelsen i Vastra Gotalands lan",
+        "handle": "LANSSTYRELSEN"
+    },
+    "198538": {
+        "country_code": "SE",
+        "asn": "198538",
+        "description": "Sony Mobile Communications AB",
+        "handle": "SE-SONYMOBILE"
+    },
+    "198549": {
+        "country_code": "SE",
+        "asn": "198549",
+        "description": "ECIT Solutions AB",
+        "handle": "LANASSISTANS-AS"
+    },
+    "198568": {
+        "country_code": "SE",
+        "asn": "198568",
+        "description": "ATEA Sverige AB",
+        "handle": "ATEA"
+    },
+    "198581": {
+        "country_code": "SE",
+        "asn": "198581",
+        "description": "EVRY Card Services AB",
+        "handle": "CEKAB-NET"
+    },
+    "198612": {
+        "country_code": "SE",
+        "asn": "198612",
+        "description": "Wekudata AB",
+        "handle": "WEKUDATA"
+    },
+    "198837": {
+        "country_code": "SE",
+        "asn": "198837",
+        "description": "Region Vastmanland",
+        "handle": "REGION-VASTMANLAND-ASN"
+    },
+    "198848": {
+        "country_code": "SE",
+        "asn": "198848",
+        "description": "Nynas AB",
+        "handle": "NYNASAB-AS"
+    },
+    "198866": {
+        "country_code": "SE",
+        "asn": "198866",
+        "description": "Crossnet AB",
+        "handle": "CROSSNET-AS"
+    },
+    "198902": {
+        "country_code": "SE",
+        "asn": "198902",
+        "description": "Reviro AB",
+        "handle": "REVIRO"
+    },
+    "198965": {
+        "country_code": "SE",
+        "asn": "198965",
+        "description": "itm8 Sverige AB",
+        "handle": "ADDPRO-AS"
+    },
+    "199150": {
+        "country_code": "SE",
+        "asn": "199150",
+        "description": "Excedo Networks AB",
+        "handle": "EXCEDONET"
+    },
+    "199215": {
+        "country_code": "SE",
+        "asn": "199215",
+        "description": "Ellos AB",
+        "handle": "ELLOS-AS"
+    },
+    "199345": {
+        "country_code": "SE",
+        "asn": "199345",
+        "description": "Peter Persson",
+        "handle": "WEBBACCESS-AS"
+    },
+    "199355": {
+        "country_code": "SE",
+        "asn": "199355",
+        "description": "Landstinget Dalarna",
+        "handle": "LANDSTINGET-DALARNA-AS"
+    },
+    "199443": {
+        "country_code": "SE",
+        "asn": "199443",
+        "description": "HCL Technologies Sweden AB",
+        "handle": "GSS-LYON"
+    },
+    "199470": {
+        "country_code": "SE",
+        "asn": "199470",
+        "description": "Orebro Lans Landsting",
+        "handle": "OREBRO-LANS-LANDSTING"
+    },
+    "199520": {
+        "country_code": "SE",
+        "asn": "199520",
+        "description": "Dustin Aktiebolag",
+        "handle": "DUSTINAB"
+    },
+    "199543": {
+        "country_code": "SE",
+        "asn": "199543",
+        "description": "TicMate AB",
+        "handle": "TICMATE-AS"
+    },
+    "199544": {
+        "country_code": "SE",
+        "asn": "199544",
+        "description": "Remote24 AB",
+        "handle": "REMOTE24-AS"
+    },
+    "199564": {
+        "country_code": "SE",
+        "asn": "199564",
+        "description": "Medical Products Agency",
+        "handle": "MPA-NET"
+    },
+    "199768": {
+        "country_code": "SE",
+        "asn": "199768",
+        "description": "Karlstads Kommun",
+        "handle": "KARLSTAD"
+    },
+    "199780": {
+        "country_code": "SE",
+        "asn": "199780",
+        "description": "Binero AB",
+        "handle": "NET-BINERO-STHLM2"
+    },
+    "199781": {
+        "country_code": "SE",
+        "asn": "199781",
+        "description": "IT-Total Sweden AB",
+        "handle": "ITTOTAL-LEGACY"
+    },
+    "199882": {
+        "country_code": "SE",
+        "asn": "199882",
+        "description": "Orkelljunga Kommun",
+        "handle": "ETTIT"
+    },
+    "199885": {
+        "country_code": "SE",
+        "asn": "199885",
+        "description": "Infracom Connect AB",
+        "handle": "INFRACOM-AS"
+    },
+    "199902": {
+        "country_code": "SE",
+        "asn": "199902",
+        "description": "Lantmateriet",
+        "handle": "SE-LM"
+    },
+    "199950": {
+        "country_code": "SE",
+        "asn": "199950",
+        "description": "HJELM ENTERPRISES AB",
+        "handle": "HJELM-ENTERPRISES-AB"
+    },
+    "199973": {
+        "country_code": "SE",
+        "asn": "199973",
+        "description": "Migrationsverket",
+        "handle": "MIGR-AS"
+    },
+    "199977": {
+        "country_code": "SE",
+        "asn": "199977",
+        "description": "Kantar Media Sweden AB",
+        "handle": "SE-SIFO-NET"
+    },
+    "200018": {
+        "country_code": "SE",
+        "asn": "200018",
+        "description": "Jonkopings lans landsting",
+        "handle": "JONKOPING-COUNTY-NET"
+    },
+    "200060": {
+        "country_code": "SE",
+        "asn": "200060",
+        "description": "Sjofartsverket",
+        "handle": "SMA-AS"
+    },
+    "200090": {
+        "country_code": "SE",
+        "asn": "200090",
+        "description": "Securitas Sverige AB",
+        "handle": "SECURITAS-SVERIGE-SE-ALERT"
+    },
+    "200144": {
+        "country_code": "SE",
+        "asn": "200144",
+        "description": "Kungsbacka Kommun",
+        "handle": "KUNGSBACKA"
+    },
+    "200150": {
+        "country_code": "SE",
+        "asn": "200150",
+        "description": "Ember AB",
+        "handle": "EMBER"
+    },
+    "200300": {
+        "country_code": "SE",
+        "asn": "200300",
+        "description": "NTI Gymnasiet Ellips AB",
+        "handle": "AS-NTISOD"
+    },
+    "200460": {
+        "country_code": "SE",
+        "asn": "200460",
+        "description": "Mikael Frykholm trading as Tranquillity",
+        "handle": "TRANQUILLITY"
+    },
+    "200550": {
+        "country_code": "SE",
+        "asn": "200550",
+        "description": "Fagerhult Group AB",
+        "handle": "FAGERHULT"
+    },
+    "200559": {
+        "country_code": "SE",
+        "asn": "200559",
+        "description": "Botkyrka Kommun",
+        "handle": "BOTKYRKA-KOMMUN-ASN"
+    },
+    "200588": {
+        "country_code": "SE",
+        "asn": "200588",
+        "description": "Pingdom AB",
+        "handle": "PINGDOM-VAS"
+    },
+    "200591": {
+        "country_code": "SE",
+        "asn": "200591",
+        "description": "Addmobile AB",
+        "handle": "ADDMOBILE"
+    },
+    "200606": {
+        "country_code": "SE",
+        "asn": "200606",
+        "description": "Viatel Sweden Aktiebolag",
+        "handle": "VIATEL-AS"
+    },
+    "200701": {
+        "country_code": "SE",
+        "asn": "200701",
+        "description": "Lyssna & Njut Fibernet AB",
+        "handle": "LYSSNA-NJUT-AB"
+    },
+    "200705": {
+        "country_code": "SE",
+        "asn": "200705",
+        "description": "Oracle Svenska AB",
+        "handle": "NETSUITE-EU"
+    },
+    "200712": {
+        "country_code": "SE",
+        "asn": "200712",
+        "description": "Outpost 24 AB",
+        "handle": "OUTPOST24"
+    },
+    "200719": {
+        "country_code": "SE",
+        "asn": "200719",
+        "description": "Miss Hosting AB",
+        "handle": "MISSDOMAIN"
+    },
+    "200765": {
+        "country_code": "SE",
+        "asn": "200765",
+        "description": "Orange Cyberdefense Sweden AB",
+        "handle": "ORANGECYBERDEFENSE-NET"
+    },
+    "200795": {
+        "country_code": "SE",
+        "asn": "200795",
+        "description": "HellsingeControl AB",
+        "handle": "HELCON"
+    },
+    "200820": {
+        "country_code": "SE",
+        "asn": "200820",
+        "description": "Benifex Sweden AB",
+        "handle": "BENIFY"
+    },
+    "200832": {
+        "country_code": "SE",
+        "asn": "200832",
+        "description": "Telefonaktiebolaget L M Ericsson",
+        "handle": "EBMS"
+    },
+    "200834": {
+        "country_code": "SE",
+        "asn": "200834",
+        "description": "Floatel International AB",
+        "handle": "SE-FLOATEL-FIAB"
+    },
+    "200881": {
+        "country_code": "SE",
+        "asn": "200881",
+        "description": "Norrkopings Kommun",
+        "handle": "NORRKOPING"
+    },
+    "200981": {
+        "country_code": "SE",
+        "asn": "200981",
+        "description": "Oracle Svenska AB",
+        "handle": "GRAPESHOT-UK-1"
+    },
+    "201013": {
+        "country_code": "SE",
+        "asn": "201013",
+        "description": "Micro Tec i Laholm AB",
+        "handle": "MICROTEC-ASN"
+    },
+    "201023": {
+        "country_code": "SE",
+        "asn": "201023",
+        "description": "VMAR IT AB",
+        "handle": "VMAR"
+    },
+    "201087": {
+        "country_code": "SE",
+        "asn": "201087",
+        "description": "Suzuki Garphyttan AB",
+        "handle": "SGIT-AS"
+    },
+    "201146": {
+        "country_code": "SE",
+        "asn": "201146",
+        "description": "lopnet AB",
+        "handle": "LOPNET"
+    },
+    "201154": {
+        "country_code": "SE",
+        "asn": "201154",
+        "description": "IKEA IT AB",
+        "handle": "IKEA-AS-AP"
+    },
+    "201171": {
+        "country_code": "SE",
+        "asn": "201171",
+        "description": "Forward Nine AB",
+        "handle": "FW9-AS"
+    },
+    "201216": {
+        "country_code": "SE",
+        "asn": "201216",
+        "description": "Lolo Company AB",
+        "handle": "LOLO-COMPANY"
+    },
+    "201317": {
+        "country_code": "SE",
+        "asn": "201317",
+        "description": "Nordlo Jonkoping AB",
+        "handle": "NORDLO-JONKOPING-AS"
+    },
+    "201456": {
+        "country_code": "SE",
+        "asn": "201456",
+        "description": "Avesta Kommun",
+        "handle": "AVESTA-KOMMUN-ASN"
+    },
+    "201604": {
+        "country_code": "SE",
+        "asn": "201604",
+        "description": "Worldline Sweden AB",
+        "handle": "DIGITALRIVER-SE-ASN01"
+    },
+    "201633": {
+        "country_code": "SE",
+        "asn": "201633",
+        "description": "Perfect Sense AB",
+        "handle": "PERFECTSENSE"
+    },
+    "201641": {
+        "country_code": "SE",
+        "asn": "201641",
+        "description": "Sveriges Television Aktiebolag",
+        "handle": "SVT"
+    },
+    "201816": {
+        "country_code": "SE",
+        "asn": "201816",
+        "description": "Region Kalmar Lan",
+        "handle": "KALMAR-AS"
+    },
+    "201869": {
+        "country_code": "SE",
+        "asn": "201869",
+        "description": "Statens Fastighetsverk",
+        "handle": "SFV-AS"
+    },
+    "201983": {
+        "country_code": "SE",
+        "asn": "201983",
+        "description": "Ansluten Hosting i Sverige AB",
+        "handle": "ANSLUTEN-AS"
+    },
+    "202064": {
+        "country_code": "SE",
+        "asn": "202064",
+        "description": "Vargarda Kommun",
+        "handle": "VARGARDA-NET"
+    },
+    "202093": {
+        "country_code": "SE",
+        "asn": "202093",
+        "description": "Viaplay Group Sweden AB",
+        "handle": "VIAPLAY"
+    },
+    "202111": {
+        "country_code": "SE",
+        "asn": "202111",
+        "description": "Transtema Network Services AB",
+        "handle": "FIBERDATANET"
+    },
+    "202116": {
+        "country_code": "SE",
+        "asn": "202116",
+        "description": "Scania CV AB",
+        "handle": "SCANIA-AS"
+    },
+    "202188": {
+        "country_code": "SE",
+        "asn": "202188",
+        "description": "Timra Kommun",
+        "handle": "TIMRA-AS"
+    },
+    "202218": {
+        "country_code": "SE",
+        "asn": "202218",
+        "description": "Stiftelsen for Internetinfrastruktur",
+        "handle": "INTERNETSTIFTELSEN-ANYCAST"
+    },
+    "202287": {
+        "country_code": "SE",
+        "asn": "202287",
+        "description": "Dathost AB",
+        "handle": "DATHOST"
+    },
+    "202296": {
+        "country_code": "SE",
+        "asn": "202296",
+        "description": "MicroGroup Europe AB",
+        "handle": "MICROGROUP"
+    },
+    "202314": {
+        "country_code": "SE",
+        "asn": "202314",
+        "description": "Cynthia Maja Revstrom",
+        "handle": "CATGIRL-AS"
+    },
+    "202395": {
+        "country_code": "SE",
+        "asn": "202395",
+        "description": "Fiberaccessbolaget i Sverige AB",
+        "handle": "FAB-NET"
+    },
+    "202474": {
+        "country_code": "SE",
+        "asn": "202474",
+        "description": "Generic Mobile Systems Sweden AB",
+        "handle": "SE-GENERIC-ASN"
+    },
+    "202646": {
+        "country_code": "SE",
+        "asn": "202646",
+        "description": "Luossavaara-Kiirunavaara AB",
+        "handle": "SE-LKAB"
+    },
+    "202671": {
+        "country_code": "SE",
+        "asn": "202671",
+        "description": "AID Solutions Vast AB",
+        "handle": "AID-SOLUTIONS-AS"
+    },
+    "202681": {
+        "country_code": "SE",
+        "asn": "202681",
+        "description": "Klarna Bank AB",
+        "handle": "PRICERUNNER"
+    },
+    "202687": {
+        "country_code": "SE",
+        "asn": "202687",
+        "description": "Mainloop AB",
+        "handle": "MAINLOOP-ANYCAST-AS"
+    },
+    "202738": {
+        "country_code": "SE",
+        "asn": "202738",
+        "description": "MittNat AB",
+        "handle": "MITTNAT"
+    },
+    "202780": {
+        "country_code": "SE",
+        "asn": "202780",
+        "description": "Advania Sverige AB",
+        "handle": "ADVANIA-AS"
+    },
+    "202812": {
+        "country_code": "SE",
+        "asn": "202812",
+        "description": "Iver Accelerate AB",
+        "handle": "ELITS-SERVICES"
+    },
+    "202837": {
+        "country_code": "SE",
+        "asn": "202837",
+        "description": "Finansiell ID-Teknik BID AB",
+        "handle": "BANKID-ASN"
+    },
+    "202866": {
+        "country_code": "SE",
+        "asn": "202866",
+        "description": "CGI Sverige AB",
+        "handle": "CGI-SE-NET"
+    },
+    "202891": {
+        "country_code": "SE",
+        "asn": "202891",
+        "description": "AddSecure AB",
+        "handle": "MULTICOM-IOT"
+    },
+    "202910": {
+        "country_code": "SE",
+        "asn": "202910",
+        "description": "Internet Vikings International AB",
+        "handle": "CHEETAH"
+    },
+    "202922": {
+        "country_code": "SE",
+        "asn": "202922",
+        "description": "Internet Vikings International AB",
+        "handle": "METALLGUTTEN"
+    },
+    "202967": {
+        "country_code": "SE",
+        "asn": "202967",
+        "description": "Kjell & Co Elektronik AB",
+        "handle": "KJELL-ASN"
+    },
+    "203052": {
+        "country_code": "SE",
+        "asn": "203052",
+        "description": "Centcom Sverige AB",
+        "handle": "TELETEK-ASN"
+    },
+    "203092": {
+        "country_code": "SE",
+        "asn": "203092",
+        "description": "Flightradar24 AB",
+        "handle": "FLIGHTRADAR24"
+    },
+    "203158": {
+        "country_code": "SE",
+        "asn": "203158",
+        "description": "Herrljunga Kommun",
+        "handle": "HJA-AS"
+    },
+    "203174": {
+        "country_code": "SE",
+        "asn": "203174",
+        "description": "Random Bits AB",
+        "handle": "RANDOM-BITS"
+    },
+    "203191": {
+        "country_code": "SE",
+        "asn": "203191",
+        "description": "Internet Vikings International AB",
+        "handle": "GULEBOJ"
+    },
+    "203192": {
+        "country_code": "SE",
+        "asn": "203192",
+        "description": "Internet Vikings International AB",
+        "handle": "KEMPETORSK"
+    },
+    "203193": {
+        "country_code": "SE",
+        "asn": "203193",
+        "description": "Internet Vikings International AB",
+        "handle": "DOMAWS"
+    },
+    "203194": {
+        "country_code": "SE",
+        "asn": "203194",
+        "description": "Internet Vikings International AB",
+        "handle": "GLOBALHOSTING"
+    },
+    "203213": {
+        "country_code": "SE",
+        "asn": "203213",
+        "description": "Internet Vikings International AB",
+        "handle": "FLEET"
+    },
+    "203240": {
+        "country_code": "SE",
+        "asn": "203240",
+        "description": "Internet Vikings International AB",
+        "handle": "ZBRIDGE"
+    },
+    "203241": {
+        "country_code": "SE",
+        "asn": "203241",
+        "description": "Internet Vikings International AB",
+        "handle": "QUICKD"
+    },
+    "203245": {
+        "country_code": "SE",
+        "asn": "203245",
+        "description": "Worldline Sweden AB",
+        "handle": "DIGITALRIVER-SE-ASN02"
+    },
+    "203249": {
+        "country_code": "SE",
+        "asn": "203249",
+        "description": "AB Trav och Galopp",
+        "handle": "ATG-AS"
+    },
+    "203267": {
+        "country_code": "SE",
+        "asn": "203267",
+        "description": "Oracle Svenska AB",
+        "handle": "ACONEX-EMEA"
+    },
+    "203295": {
+        "country_code": "SE",
+        "asn": "203295",
+        "description": "Internet Vikings International AB",
+        "handle": "GRABOTO"
+    },
+    "203297": {
+        "country_code": "SE",
+        "asn": "203297",
+        "description": "Internet Vikings International AB",
+        "handle": "CLOUDED"
+    },
+    "203298": {
+        "country_code": "SE",
+        "asn": "203298",
+        "description": "Internet Vikings International AB",
+        "handle": "WINGTOP"
+    },
+    "203300": {
+        "country_code": "SE",
+        "asn": "203300",
+        "description": "Internet Vikings International AB",
+        "handle": "SPEED"
+    },
+    "203383": {
+        "country_code": "SE",
+        "asn": "203383",
+        "description": "Stena Rederi AB",
+        "handle": "STENA-REDERI-ASN"
+    },
+    "203426": {
+        "country_code": "SE",
+        "asn": "203426",
+        "description": "Statens Skolverk",
+        "handle": "AS-SKOLVERKET"
+    },
+    "203428": {
+        "country_code": "SE",
+        "asn": "203428",
+        "description": "IT4U Sweden AB",
+        "handle": "IT4U-AS"
+    },
+    "203471": {
+        "country_code": "SE",
+        "asn": "203471",
+        "description": "MicroData Skandinavien AB",
+        "handle": "MDA-AS"
+    },
+    "203552": {
+        "country_code": "SE",
+        "asn": "203552",
+        "description": "Internet Vikings International AB",
+        "handle": "NOINTERNET"
+    },
+    "203605": {
+        "country_code": "SE",
+        "asn": "203605",
+        "description": "Synotio AB",
+        "handle": "SYNOTIO-AS"
+    },
+    "203610": {
+        "country_code": "SE",
+        "asn": "203610",
+        "description": "Internet Vikings International AB",
+        "handle": "DHOLD"
+    },
+    "203625": {
+        "country_code": "SE",
+        "asn": "203625",
+        "description": "Internet Vikings International AB",
+        "handle": "EDOMS"
+    },
+    "203736": {
+        "country_code": "SE",
+        "asn": "203736",
+        "description": "Afa Forsakring tjanstepensionsaktiebolag",
+        "handle": "AFA"
+    },
+    "203788": {
+        "country_code": "SE",
+        "asn": "203788",
+        "description": "Telnect AB",
+        "handle": "TELNECT-ASN"
+    },
+    "203800": {
+        "country_code": "SE",
+        "asn": "203800",
+        "description": "Internet Vikings International AB",
+        "handle": "CHEETAH"
+    },
+    "203814": {
+        "country_code": "SE",
+        "asn": "203814",
+        "description": "Internet Vikings International AB",
+        "handle": "GIDEV"
+    },
+    "203839": {
+        "country_code": "SE",
+        "asn": "203839",
+        "description": "Internet Vikings International AB",
+        "handle": "ALPHA"
+    },
+    "203909": {
+        "country_code": "SE",
+        "asn": "203909",
+        "description": "Christian Svensson",
+        "handle": "MAINFRAME-NET"
+    },
+    "203949": {
+        "country_code": "SE",
+        "asn": "203949",
+        "description": "Husqvarna AB",
+        "handle": "HUSQVARNA-ASN"
+    },
+    "204015": {
+        "country_code": "SE",
+        "asn": "204015",
+        "description": "Telefonaktiebolaget L M Ericsson",
+        "handle": "ERICSSON-EBMS-UAE"
+    },
+    "204068": {
+        "country_code": "SE",
+        "asn": "204068",
+        "description": "SIEF - Skanes Internetknutpunkts Ekonomiska Forening",
+        "handle": "IXOR-AS"
+    },
+    "204074": {
+        "country_code": "SE",
+        "asn": "204074",
+        "description": "Nordisk Media Utveckling AB",
+        "handle": "NMU-AS"
+    },
+    "204075": {
+        "country_code": "SE",
+        "asn": "204075",
+        "description": "Sinch Operator Software AB",
+        "handle": "SYMSOFT"
+    },
+    "204087": {
+        "country_code": "SE",
+        "asn": "204087",
+        "description": "Playstar",
+        "handle": "PLAYSTAR"
+    },
+    "204101": {
+        "country_code": "SE",
+        "asn": "204101",
+        "description": "Rely IT Norrtelje AB",
+        "handle": "RELYIT"
+    },
+    "204123": {
+        "country_code": "SE",
+        "asn": "204123",
+        "description": "Cuebid AB",
+        "handle": "CUEBID-ASN"
+    },
+    "204164": {
+        "country_code": "SE",
+        "asn": "204164",
+        "description": "Consulta Hosting Services AB",
+        "handle": "CNS"
+    },
+    "204179": {
+        "country_code": "SE",
+        "asn": "204179",
+        "description": "Lars Erik Reuterborg Larsson",
+        "handle": "ERIKLARSSON"
+    },
+    "204225": {
+        "country_code": "SE",
+        "asn": "204225",
+        "description": "Oma Gosh AB",
+        "handle": "OMA-SH"
+    },
+    "204302": {
+        "country_code": "SE",
+        "asn": "204302",
+        "description": "Monitor ERP System AB",
+        "handle": "AUTO1-RIPE"
+    },
+    "204334": {
+        "country_code": "SE",
+        "asn": "204334",
+        "description": "Vassbacks Fibernat ek. for.",
+        "handle": "VFN-AS"
+    },
+    "204398": {
+        "country_code": "SE",
+        "asn": "204398",
+        "description": "Lysekils Kommun",
+        "handle": "LYSEKIL-AS"
+    },
+    "204468": {
+        "country_code": "SE",
+        "asn": "204468",
+        "description": "Aixia AB",
+        "handle": "AIXIA"
+    },
+    "204475": {
+        "country_code": "SE",
+        "asn": "204475",
+        "description": "TMcIT i Sverige AB",
+        "handle": "SE-TMCIT"
+    },
+    "204521": {
+        "country_code": "SE",
+        "asn": "204521",
+        "description": "Geus Gruppen AB",
+        "handle": "GEUS-GRUPPEN-AB"
+    },
+    "204538": {
+        "country_code": "SE",
+        "asn": "204538",
+        "description": "Kareby Hosting AB",
+        "handle": "KHOSTING"
+    },
+    "204714": {
+        "country_code": "SE",
+        "asn": "204714",
+        "description": "ITsnillet AB",
+        "handle": "ITSNILLET"
+    },
+    "204847": {
+        "country_code": "SE",
+        "asn": "204847",
+        "description": "Borgholms Kommun",
+        "handle": "SE-BORGHOLM"
+    },
+    "204850": {
+        "country_code": "SE",
+        "asn": "204850",
+        "description": "Sodertalje Kommun",
+        "handle": "SODERTALJE-ASN"
+    },
+    "204863": {
+        "country_code": "SE",
+        "asn": "204863",
+        "description": "Coromatic AB",
+        "handle": "COROMATIC-ASN"
+    },
+    "204896": {
+        "country_code": "SE",
+        "asn": "204896",
+        "description": "Vaxjo Kommun",
+        "handle": "VAXJO-ASN"
+    },
+    "205016": {
+        "country_code": "SE",
+        "asn": "205016",
+        "description": "HERN Labs AB",
+        "handle": "HERNLABS"
+    },
+    "205078": {
+        "country_code": "SE",
+        "asn": "205078",
+        "description": "VA SYD",
+        "handle": "VASYD-AS"
+    },
+    "205151": {
+        "country_code": "SE",
+        "asn": "205151",
+        "description": "Fibra AB",
+        "handle": "FIBRA"
+    },
+    "205166": {
+        "country_code": "SE",
+        "asn": "205166",
+        "description": "Mobile Links Europe AB",
+        "handle": "MOBILELINKS-AS"
+    },
+    "205180": {
+        "country_code": "SE",
+        "asn": "205180",
+        "description": "Elon Group AB",
+        "handle": "ELONGROUP"
+    },
+    "205198": {
+        "country_code": "SE",
+        "asn": "205198",
+        "description": "Dustin Sverige AB",
+        "handle": "DUSTIN-MS-SE-STO"
+    },
+    "205199": {
+        "country_code": "SE",
+        "asn": "205199",
+        "description": "Bredbandig IT Communication i Goteborg AB",
+        "handle": "BITCOM"
+    },
+    "205332": {
+        "country_code": "SE",
+        "asn": "205332",
+        "description": "Broadridge Trading and Connectivity Solutions AB",
+        "handle": "ITIVITI-ASN"
+    },
+    "205339": {
+        "country_code": "SE",
+        "asn": "205339",
+        "description": "Steve Reinhold",
+        "handle": "STEVE-REINHOLD"
+    },
+    "205574": {
+        "country_code": "SE",
+        "asn": "205574",
+        "description": "Boras Kommun",
+        "handle": "BORAS-STAD-ASN"
+    },
+    "205658": {
+        "country_code": "SE",
+        "asn": "205658",
+        "description": "IT Industri Tjanster i Norr AB",
+        "handle": "IITN-AS"
+    },
+    "205664": {
+        "country_code": "SE",
+        "asn": "205664",
+        "description": "Vattenfall AB",
+        "handle": "VATTENFALL-AB"
+    },
+    "205788": {
+        "country_code": "SE",
+        "asn": "205788",
+        "description": "Iver Sverige AB",
+        "handle": "ITGARDEN"
+    },
+    "205834": {
+        "country_code": "SE",
+        "asn": "205834",
+        "description": "evolvit Solutions AB",
+        "handle": "DIANET"
+    },
+    "205841": {
+        "country_code": "SE",
+        "asn": "205841",
+        "description": "InfraCom Connect AB",
+        "handle": "INFRACOM-CONNECT-ASN"
+    },
+    "205875": {
+        "country_code": "SE",
+        "asn": "205875",
+        "description": "Sinch AB",
+        "handle": "SINCH"
+    },
+    "205916": {
+        "country_code": "SE",
+        "asn": "205916",
+        "description": "Freja eID Group AB",
+        "handle": "FREJAEID"
+    },
+    "205966": {
+        "country_code": "SE",
+        "asn": "205966",
+        "description": "Clearminds AB",
+        "handle": "CLEARMINDS"
+    },
+    "206013": {
+        "country_code": "SE",
+        "asn": "206013",
+        "description": "Pingday AB",
+        "handle": "PINGDAY-ASN"
+    },
+    "206040": {
+        "country_code": "SE",
+        "asn": "206040",
+        "description": "Expisoft AB",
+        "handle": "EXPI-AS1"
+    },
+    "206096": {
+        "country_code": "SE",
+        "asn": "206096",
+        "description": "Midasplayer AB",
+        "handle": "KINGCORP"
+    },
+    "206114": {
+        "country_code": "SE",
+        "asn": "206114",
+        "description": "Gavle Energi AB",
+        "handle": "HOFORS"
+    },
+    "206117": {
+        "country_code": "SE",
+        "asn": "206117",
+        "description": "Toxi Tech AB",
+        "handle": "TOXI-TECH-ASN"
+    },
+    "206170": {
+        "country_code": "SE",
+        "asn": "206170",
+        "description": "Yelles AB",
+        "handle": "INLEED"
+    },
+    "206209": {
+        "country_code": "SE",
+        "asn": "206209",
+        "description": "Oracle Svenska AB",
+        "handle": "ORCL-NL"
+    },
+    "206258": {
+        "country_code": "SE",
+        "asn": "206258",
+        "description": "Avoki Services AB",
+        "handle": "SE-OMICT"
+    },
+    "206279": {
+        "country_code": "SE",
+        "asn": "206279",
+        "description": "Aleksander Studzinski trading as Biruang IT KB",
+        "handle": "BIRUANG-AS"
+    },
+    "206288": {
+        "country_code": "SE",
+        "asn": "206288",
+        "description": "Vimmerby kommun",
+        "handle": "VIMMERBYKOMMUN-KH"
+    },
+    "206296": {
+        "country_code": "SE",
+        "asn": "206296",
+        "description": "Berget AI AB",
+        "handle": "BERGETAI"
+    },
+    "206312": {
+        "country_code": "SE",
+        "asn": "206312",
+        "description": "Netmore Group AB",
+        "handle": "REWICOM"
+    },
+    "206320": {
+        "country_code": "SE",
+        "asn": "206320",
+        "description": "Oversite AB",
+        "handle": "OVERSITE-ASN"
+    },
+    "206377": {
+        "country_code": "SE",
+        "asn": "206377",
+        "description": "Kommunalforbundet ITSAM",
+        "handle": "ITSAM"
+    },
+    "206387": {
+        "country_code": "SE",
+        "asn": "206387",
+        "description": "Region Blekinge",
+        "handle": "BLL-ASN"
+    },
+    "206393": {
+        "country_code": "SE",
+        "asn": "206393",
+        "description": "Umea Energi AB",
+        "handle": "UMEAENERI"
+    },
+    "206408": {
+        "country_code": "SE",
+        "asn": "206408",
+        "description": "Iver Sverige AB",
+        "handle": "BRITT"
+    },
+    "206482": {
+        "country_code": "SE",
+        "asn": "206482",
+        "description": "Boffins Technologies AB",
+        "handle": "BOFFINS-TECHNOLOGIES-ASN"
+    },
+    "206532": {
+        "country_code": "SE",
+        "asn": "206532",
+        "description": "Active IT Sweden AB",
+        "handle": "ACTIVE-IT-ASN"
+    },
+    "206593": {
+        "country_code": "SE",
+        "asn": "206593",
+        "description": "Profitbyte AB",
+        "handle": "PROFITBYTE"
+    },
+    "206627": {
+        "country_code": "SE",
+        "asn": "206627",
+        "description": "Nasdaq Technology AB",
+        "handle": "NASDAQ-ASN"
+    },
+    "206774": {
+        "country_code": "SE",
+        "asn": "206774",
+        "description": "Internetnord AB",
+        "handle": "INETBOLAGET"
+    },
+    "206799": {
+        "country_code": "SE",
+        "asn": "206799",
+        "description": "Nordlo Advance AB",
+        "handle": "EPM"
+    },
+    "206829": {
+        "country_code": "SE",
+        "asn": "206829",
+        "description": "CGI Sverige AB",
+        "handle": "CLOUD-FABRIC"
+    },
+    "206884": {
+        "country_code": "SE",
+        "asn": "206884",
+        "description": "Finansinspektionen",
+        "handle": "FI-AS"
+    },
+    "206889": {
+        "country_code": "SE",
+        "asn": "206889",
+        "description": "ICA Gruppen AB",
+        "handle": "ICA-AS"
+    },
+    "207074": {
+        "country_code": "SE",
+        "asn": "207074",
+        "description": "Rockan Data Center AB",
+        "handle": "ROCKAN01S"
+    },
+    "207090": {
+        "country_code": "SE",
+        "asn": "207090",
+        "description": "Telefonaktiebolaget L M Ericsson",
+        "handle": "ERICSSON-EBSTV"
+    },
+    "207099": {
+        "country_code": "SE",
+        "asn": "207099",
+        "description": "Rickard Andrinsson",
+        "handle": "RICKARDANDRI"
+    },
+    "207150": {
+        "country_code": "SE",
+        "asn": "207150",
+        "description": "Lars Erik Reuterborg Larsson",
+        "handle": "ERIKLARSSON-ANYCAST"
+    },
+    "207152": {
+        "country_code": "SE",
+        "asn": "207152",
+        "description": "Gardio AB",
+        "handle": "GARDIO-CUST"
+    },
+    "207166": {
+        "country_code": "SE",
+        "asn": "207166",
+        "description": "Systemair AB",
+        "handle": "SYSTEMAIR-ASN"
+    },
+    "207322": {
+        "country_code": "SE",
+        "asn": "207322",
+        "description": "Ornskoldsviks Kommun",
+        "handle": "SE-OVIKSKOMMUN"
+    },
+    "207374": {
+        "country_code": "SE",
+        "asn": "207374",
+        "description": "Advania Sverige AB",
+        "handle": "HI5"
+    },
+    "207396": {
+        "country_code": "SE",
+        "asn": "207396",
+        "description": "Fyrstads Teknik AB",
+        "handle": "FYRSTADTEKNIK"
+    },
+    "207448": {
+        "country_code": "SE",
+        "asn": "207448",
+        "description": "Pema Kommunikationer AB",
+        "handle": "PEMA-KOMMUNIKATIONER-AS"
+    },
+    "207470": {
+        "country_code": "SE",
+        "asn": "207470",
+        "description": "The Production Office in Stockholm AB",
+        "handle": "TPO"
+    },
+    "207494": {
+        "country_code": "SE",
+        "asn": "207494",
+        "description": "Jamtkraft AB",
+        "handle": "JAMTKRAFT-ASN"
+    },
+    "207538": {
+        "country_code": "SE",
+        "asn": "207538",
+        "description": "Roxtec International AB",
+        "handle": "SE-ROXTEC"
+    },
+    "207683": {
+        "country_code": "SE",
+        "asn": "207683",
+        "description": "Jonas Emilsson",
+        "handle": "JONASEM"
+    },
+    "207804": {
+        "country_code": "SE",
+        "asn": "207804",
+        "description": "DSS AB",
+        "handle": "DSS-AB"
+    },
+    "207814": {
+        "country_code": "SE",
+        "asn": "207814",
+        "description": "miniTel AB",
+        "handle": "MINITEL-AS"
+    },
+    "207825": {
+        "country_code": "SE",
+        "asn": "207825",
+        "description": "Datarymden Internet AB",
+        "handle": "DATARYMDEN-AS"
+    },
+    "207864": {
+        "country_code": "SE",
+        "asn": "207864",
+        "description": "OLiKA AB",
+        "handle": "OLIKA-SE"
+    },
+    "207919": {
+        "country_code": "SE",
+        "asn": "207919",
+        "description": "Molnstruktur IT Sverige AB",
+        "handle": "MOLNSTRUKTUR"
+    },
+    "207932": {
+        "country_code": "SE",
+        "asn": "207932",
+        "description": "NetNordic Sweden AB",
+        "handle": "NETNORDICSWEDENAB"
+    },
+    "207947": {
+        "country_code": "SE",
+        "asn": "207947",
+        "description": "Karl Unlimited AB",
+        "handle": "KARLUNLIMITED"
+    },
+    "208001": {
+        "country_code": "SE",
+        "asn": "208001",
+        "description": "Nordlo Vaxjo & Ljungby AB",
+        "handle": "NORDLOVXOLBY"
+    },
+    "208043": {
+        "country_code": "SE",
+        "asn": "208043",
+        "description": "Bredband2 AB",
+        "handle": "A3IT-AS"
+    },
+    "208159": {
+        "country_code": "SE",
+        "asn": "208159",
+        "description": "CA/Meme Forum",
+        "handle": "MEME-AS"
+    },
+    "208201": {
+        "country_code": "SE",
+        "asn": "208201",
+        "description": "Alleima EMEA AB",
+        "handle": "AS-ALLEIMA"
+    },
+    "208282": {
+        "country_code": "SE",
+        "asn": "208282",
+        "description": "Egonet AB",
+        "handle": "EGONET"
+    },
+    "208298": {
+        "country_code": "SE",
+        "asn": "208298",
+        "description": "Region Halland",
+        "handle": "REGIONHALLAND"
+    },
+    "208373": {
+        "country_code": "SE",
+        "asn": "208373",
+        "description": "Sodertorns Brandforsvarsforbund",
+        "handle": "SBFF-ASN"
+    },
+    "208453": {
+        "country_code": "SE",
+        "asn": "208453",
+        "description": "Johan Karlsson trading as SweHosting",
+        "handle": "SWEHOST-NET"
+    },
+    "208478": {
+        "country_code": "SE",
+        "asn": "208478",
+        "description": "Karabro AB",
+        "handle": "KARABRO-ANYCAST"
+    },
+    "208514": {
+        "country_code": "SE",
+        "asn": "208514",
+        "description": "Ascom (Sweden) AB",
+        "handle": "ASCOM-AS"
+    },
+    "208583": {
+        "country_code": "SE",
+        "asn": "208583",
+        "description": "Baffin Bay Networks AB",
+        "handle": "SHADOWFORCE"
+    },
+    "208639": {
+        "country_code": "SE",
+        "asn": "208639",
+        "description": "Bonnier News AB",
+        "handle": "BONNIER-NEWS-ASN"
+    },
+    "208662": {
+        "country_code": "SE",
+        "asn": "208662",
+        "description": "Kivra AB",
+        "handle": "KIVRA"
+    },
+    "208721": {
+        "country_code": "SE",
+        "asn": "208721",
+        "description": "COMCENTER I JKPG AB",
+        "handle": "COMCENTER"
+    },
+    "208760": {
+        "country_code": "SE",
+        "asn": "208760",
+        "description": "Fortlax AB",
+        "handle": "FORTLAX-AS"
+    },
+    "208822": {
+        "country_code": "SE",
+        "asn": "208822",
+        "description": "Eitech AB",
+        "handle": "EITECH"
+    },
+    "208933": {
+        "country_code": "SE",
+        "asn": "208933",
+        "description": "4C Group AB",
+        "handle": "FOURCS-AS"
+    },
+    "208947": {
+        "country_code": "SE",
+        "asn": "208947",
+        "description": "Transdev Sverige AB",
+        "handle": "TRANSDEV-AS"
+    },
+    "209020": {
+        "country_code": "SE",
+        "asn": "209020",
+        "description": "Rille Tech Solutions AB",
+        "handle": "RILLETECHSOLUTIONS"
+    },
+    "209041": {
+        "country_code": "SE",
+        "asn": "209041",
+        "description": "CoreIT AB",
+        "handle": "KARNIT"
+    },
+    "209075": {
+        "country_code": "SE",
+        "asn": "209075",
+        "description": "Klara Modin",
+        "handle": "MODIN"
+    },
+    "209159": {
+        "country_code": "SE",
+        "asn": "209159",
+        "description": "Securitas AB",
+        "handle": "SIS-AM4-AS"
+    },
+    "209236": {
+        "country_code": "SE",
+        "asn": "209236",
+        "description": "HCL Technologies Sweden AB",
+        "handle": "HCLTECHNOLOGIES-SE"
+    },
+    "209256": {
+        "country_code": "SE",
+        "asn": "209256",
+        "description": "Straznet AB",
+        "handle": "STRAZNET"
+    },
+    "209266": {
+        "country_code": "SE",
+        "asn": "209266",
+        "description": "Tekniska verken i Linkoping AB",
+        "handle": "TEKNISKAVERKEN"
+    },
+    "209315": {
+        "country_code": "SE",
+        "asn": "209315",
+        "description": "Trollhattan Energi AB",
+        "handle": "TROLLHATTAN-ENERGI-AS"
+    },
+    "209437": {
+        "country_code": "SE",
+        "asn": "209437",
+        "description": "Baffin Bay Networks AB",
+        "handle": "ENCEPT"
+    },
+    "209454": {
+        "country_code": "SE",
+        "asn": "209454",
+        "description": "The North Alliance Sverige AB",
+        "handle": "NOA-AS"
+    },
+    "209508": {
+        "country_code": "SE",
+        "asn": "209508",
+        "description": "BoreNet AB",
+        "handle": "BORENET-AS"
+    },
+    "209570": {
+        "country_code": "SE",
+        "asn": "209570",
+        "description": "Norrmejerier Ekonomisk Forening",
+        "handle": "NORRMEJERIER-ASN"
+    },
+    "209578": {
+        "country_code": "SE",
+        "asn": "209578",
+        "description": "Svea Internet AB",
+        "handle": "SVEANET"
+    },
+    "209659": {
+        "country_code": "SE",
+        "asn": "209659",
+        "description": "GetGeek AB",
+        "handle": "GETGEEK"
+    },
+    "209668": {
+        "country_code": "SE",
+        "asn": "209668",
+        "description": "HZ-HOSTING AB",
+        "handle": "HZ-HOSTING-AB"
+    },
+    "209705": {
+        "country_code": "SE",
+        "asn": "209705",
+        "description": "PayEx Sverige AB",
+        "handle": "PAYEX"
+    },
+    "209797": {
+        "country_code": "SE",
+        "asn": "209797",
+        "description": "Mangold Fondkommision AB",
+        "handle": "MANGOLD-AS"
+    },
+    "209840": {
+        "country_code": "SE",
+        "asn": "209840",
+        "description": "YMER Managed Services AB",
+        "handle": "YMER-AS"
+    },
+    "209960": {
+        "country_code": "SE",
+        "asn": "209960",
+        "description": "Fast Fiber Connection i Sverige AB",
+        "handle": "FFC"
+    },
+    "210089": {
+        "country_code": "SE",
+        "asn": "210089",
+        "description": "Cynthia Maja Revstrom",
+        "handle": "CYNTHIA-ACCESS-AS"
+    },
+    "210140": {
+        "country_code": "SE",
+        "asn": "210140",
+        "description": "GAVLEBORGS LANS LANDSTING",
+        "handle": "AS-REGION-GAVLEBORG"
+    },
+    "210317": {
+        "country_code": "SE",
+        "asn": "210317",
+        "description": "Municipality of Borlange",
+        "handle": "BORLANGE-KOMMUN"
+    },
+    "210365": {
+        "country_code": "SE",
+        "asn": "210365",
+        "description": "Fragnet Networks International AB",
+        "handle": "FRAGNET"
+    },
+    "210409": {
+        "country_code": "SE",
+        "asn": "210409",
+        "description": "Skylite AB",
+        "handle": "SKYLITE-AS"
+    },
+    "210422": {
+        "country_code": "SE",
+        "asn": "210422",
+        "description": "West Digital Management AB",
+        "handle": "WDM-AS"
+    },
+    "210466": {
+        "country_code": "SE",
+        "asn": "210466",
+        "description": "Andreas Bofjall",
+        "handle": "LING-AS"
+    },
+    "210483": {
+        "country_code": "SE",
+        "asn": "210483",
+        "description": "Netcoil AB",
+        "handle": "NETCOIL"
+    },
+    "210564": {
+        "country_code": "SE",
+        "asn": "210564",
+        "description": "Svante Bengtson trading as Swantzter",
+        "handle": "SWANTZTER-AS"
+    },
+    "210614": {
+        "country_code": "SE",
+        "asn": "210614",
+        "description": "Addici Security AB",
+        "handle": "ADDICILLC"
+    },
+    "210629": {
+        "country_code": "SE",
+        "asn": "210629",
+        "description": "Office Sverige AB",
+        "handle": "OFFICESVERIGE"
+    },
+    "210648": {
+        "country_code": "SE",
+        "asn": "210648",
+        "description": "Verkligen Data AB",
+        "handle": "VERKLIGENDATA"
+    },
+    "210679": {
+        "country_code": "SE",
+        "asn": "210679",
+        "description": "Varmdo kommun",
+        "handle": "VARMDO-KOMMUN-AS"
+    },
+    "210802": {
+        "country_code": "SE",
+        "asn": "210802",
+        "description": "Tekniska verken i Linkoping AB",
+        "handle": "TEKNISKA-VERKEN-ASN"
+    },
+    "210805": {
+        "country_code": "SE",
+        "asn": "210805",
+        "description": "Open Infra ISP Production International AB",
+        "handle": "OPENINFRA-ISP-PRODUCTION-UK"
+    },
+    "210901": {
+        "country_code": "SE",
+        "asn": "210901",
+        "description": "AB Piteenergi",
+        "handle": "SE-PE"
+    },
+    "210905": {
+        "country_code": "SE",
+        "asn": "210905",
+        "description": "Hallefors Kommun",
+        "handle": "HALLEFORSKOMMUN-AS"
+    },
+    "211039": {
+        "country_code": "SE",
+        "asn": "211039",
+        "description": "Opsio AB",
+        "handle": "OPSIO-AS"
+    },
+    "211168": {
+        "country_code": "SE",
+        "asn": "211168",
+        "description": "Martin Gotlund",
+        "handle": "GOTLUND-AS"
+    },
+    "211227": {
+        "country_code": "SE",
+        "asn": "211227",
+        "description": "atNorth HPC AB",
+        "handle": "ATNORTH"
+    },
+    "211231": {
+        "country_code": "SE",
+        "asn": "211231",
+        "description": "Matteus Westman trading as Tolfix",
+        "handle": "TOLFIX"
+    },
+    "211353": {
+        "country_code": "SE",
+        "asn": "211353",
+        "description": "Mjoback Overlida Fiber Ekonomisk forening",
+        "handle": "MJOBACK-OVERLIDA-FIBER-AS"
+    },
+    "211363": {
+        "country_code": "SE",
+        "asn": "211363",
+        "description": "Science IT Lund AB",
+        "handle": "SIT-NET"
+    },
+    "211434": {
+        "country_code": "SE",
+        "asn": "211434",
+        "description": "Norrlands Online AB (publ)",
+        "handle": "GASSECRYNET"
+    },
+    "211453": {
+        "country_code": "SE",
+        "asn": "211453",
+        "description": "Riksgaldskontoret",
+        "handle": "RIKSGALDEN-AS"
+    },
+    "211502": {
+        "country_code": "SE",
+        "asn": "211502",
+        "description": "Region Kronoberg",
+        "handle": "REGION-KRONOBERG-AS"
+    },
+    "211551": {
+        "country_code": "SE",
+        "asn": "211551",
+        "description": "Kodmyran AB",
+        "handle": "KODMYRAN"
+    },
+    "211564": {
+        "country_code": "SE",
+        "asn": "211564",
+        "description": "TeamNorr IT-Partner AB",
+        "handle": "TEAMNORR-AS"
+    },
+    "211899": {
+        "country_code": "SE",
+        "asn": "211899",
+        "description": "Svea Bank AB",
+        "handle": "SVEA"
+    },
+    "211927": {
+        "country_code": "SE",
+        "asn": "211927",
+        "description": "Artilect AB",
+        "handle": "ARTILECT"
+    },
+    "212021": {
+        "country_code": "SE",
+        "asn": "212021",
+        "description": "Bonnier News Local AB",
+        "handle": "SYDSVENSKAN-AS"
+    },
+    "212079": {
+        "country_code": "SE",
+        "asn": "212079",
+        "description": "Sweroam AB",
+        "handle": "SWEROAM-SE"
+    },
+    "212084": {
+        "country_code": "SE",
+        "asn": "212084",
+        "description": "MonoSecurity AB",
+        "handle": "MONOSECURITY"
+    },
+    "212155": {
+        "country_code": "SE",
+        "asn": "212155",
+        "description": "Kleer Group AB",
+        "handle": "KLEER"
+    },
+    "212220": {
+        "country_code": "SE",
+        "asn": "212220",
+        "description": "Kepler Technologies AB",
+        "handle": "KEPLER"
+    },
+    "212287": {
+        "country_code": "SE",
+        "asn": "212287",
+        "description": "Svenska Kraftnat",
+        "handle": "SVENSKA-KRAFTNAT"
+    },
+    "212309": {
+        "country_code": "SE",
+        "asn": "212309",
+        "description": "Yelles AB",
+        "handle": "INLEED"
+    },
+    "212515": {
+        "country_code": "SE",
+        "asn": "212515",
+        "description": "Blocka AB",
+        "handle": "BLOCKA"
+    },
+    "212632": {
+        "country_code": "SE",
+        "asn": "212632",
+        "description": "Alfa Laval Technologies AB",
+        "handle": "ALFALAVAL"
+    },
+    "212662": {
+        "country_code": "SE",
+        "asn": "212662",
+        "description": "Bonnier News Local AB",
+        "handle": "BONNIER-NEWS-ASN"
+    },
+    "212725": {
+        "country_code": "SE",
+        "asn": "212725",
+        "description": "Ovanakers kommun",
+        "handle": "AS-OVANAKER-SE"
+    },
+    "212804": {
+        "country_code": "SE",
+        "asn": "212804",
+        "description": "Open Infra ISP Production International AB",
+        "handle": "INETBOLAGET-SE-GBG"
+    },
+    "213015": {
+        "country_code": "SE",
+        "asn": "213015",
+        "description": "Daniel Neri",
+        "handle": "RB67NET"
+    },
+    "213072": {
+        "country_code": "SE",
+        "asn": "213072",
+        "description": "Mr. Jonas Henrik Alexandersson",
+        "handle": "GOAGEX"
+    },
+    "213113": {
+        "country_code": "SE",
+        "asn": "213113",
+        "description": "Kamel Networks Association",
+        "handle": "KAMEL"
+    },
+    "213170": {
+        "country_code": "SE",
+        "asn": "213170",
+        "description": "Alexander Hjelm",
+        "handle": "HJELM-NETWORK"
+    },
+    "213188": {
+        "country_code": "SE",
+        "asn": "213188",
+        "description": "Nora Kommun",
+        "handle": "NORAKOMMUN-AS"
+    },
+    "213195": {
+        "country_code": "SE",
+        "asn": "213195",
+        "description": "Teracom AB",
+        "handle": "ASN-TM-SE"
+    },
+    "213327": {
+        "country_code": "SE",
+        "asn": "213327",
+        "description": "Alessandro Verzicco",
+        "handle": "VERZICCO"
+    },
+    "213366": {
+        "country_code": "SE",
+        "asn": "213366",
+        "description": "Albin Hakanson",
+        "handle": "SWEPLOX"
+    },
+    "213540": {
+        "country_code": "SE",
+        "asn": "213540",
+        "description": "UXStream AB",
+        "handle": "UXSTREAM-ASN"
+    },
+    "213591": {
+        "country_code": "SE",
+        "asn": "213591",
+        "description": "Linn Dahlgren",
+        "handle": "LINN-AS"
+    },
+    "213593": {
+        "country_code": "SE",
+        "asn": "213593",
+        "description": "Nordic Fighter AB",
+        "handle": "NORDICFIGHTER-AS"
+    },
+    "213595": {
+        "country_code": "SE",
+        "asn": "213595",
+        "description": "Umea kommun",
+        "handle": "UMEAKOMMUN-AS"
+    },
+    "213688": {
+        "country_code": "SE",
+        "asn": "213688",
+        "description": "Expressen AB",
+        "handle": "EXPRESSEN-ASN"
+    },
+    "213701": {
+        "country_code": "SE",
+        "asn": "213701",
+        "description": "IT Kommuner i Skane AB",
+        "handle": "UNIKOM-AS"
+    },
+    "213723": {
+        "country_code": "SE",
+        "asn": "213723",
+        "description": "Transfer Networks Sweden AB",
+        "handle": "TRANSFER-AS"
+    },
+    "213923": {
+        "country_code": "SE",
+        "asn": "213923",
+        "description": "Ragn-Sells Recycling AB",
+        "handle": "RS-NET"
+    },
+    "213976": {
+        "country_code": "SE",
+        "asn": "213976",
+        "description": "Hufvudstaden AB",
+        "handle": "HUFVUDSTADEN-ASN"
+    },
+    "214020": {
+        "country_code": "SE",
+        "asn": "214020",
+        "description": "Region Ostergotland",
+        "handle": "OSTERGOTLAND"
+    },
+    "214046": {
+        "country_code": "SE",
+        "asn": "214046",
+        "description": "Sveriges Riksbank",
+        "handle": "SE-RIKSB"
+    },
+    "214097": {
+        "country_code": "SE",
+        "asn": "214097",
+        "description": "Fura Foreningen Umea Radioamatorer Ideella Foreningar",
+        "handle": "FURA"
+    },
+    "214202": {
+        "country_code": "SE",
+        "asn": "214202",
+        "description": "Hassleholms kommun",
+        "handle": "HASSLEHOLMS-KOMMUN-AS"
+    },
+    "214251": {
+        "country_code": "SE",
+        "asn": "214251",
+        "description": "Ellevio Sverige AB",
+        "handle": "ELLEVIO-AS"
+    },
+    "214256": {
+        "country_code": "SE",
+        "asn": "214256",
+        "description": "Valvea AB",
+        "handle": "VALVEA-AS"
+    },
+    "214302": {
+        "country_code": "SE",
+        "asn": "214302",
+        "description": "Loomis AB",
+        "handle": "AS-LOOMIS"
+    },
+    "214338": {
+        "country_code": "SE",
+        "asn": "214338",
+        "description": "Daturum AB",
+        "handle": "DATURUM-SWEDEN"
+    },
+    "214365": {
+        "country_code": "SE",
+        "asn": "214365",
+        "description": "Hypefox AB",
+        "handle": "HYPEFOXNET"
+    },
+    "214387": {
+        "country_code": "SE",
+        "asn": "214387",
+        "description": "LONNERBRO Anton",
+        "handle": "AKOL"
+    },
+    "214474": {
+        "country_code": "SE",
+        "asn": "214474",
+        "description": "Kamel Networks Association",
+        "handle": "SONIX-SVC"
+    },
+    "214503": {
+        "country_code": "SE",
+        "asn": "214503",
+        "description": "QuxLabs AB",
+        "handle": "R0CKET-CLOUD"
+    },
+    "214581": {
+        "country_code": "SE",
+        "asn": "214581",
+        "description": "High Performance Systems Svenska Aktiebolag",
+        "handle": "HIGHPERFROMANCE"
+    },
+    "214640": {
+        "country_code": "SE",
+        "asn": "214640",
+        "description": "Hostup AB",
+        "handle": "HOSTUP"
+    },
+    "214686": {
+        "country_code": "SE",
+        "asn": "214686",
+        "description": "FMV",
+        "handle": "SE-ITSTAB"
+    },
+    "214701": {
+        "country_code": "SE",
+        "asn": "214701",
+        "description": "Herman Andgart",
+        "handle": "NAHFE"
+    },
+    "214752": {
+        "country_code": "SE",
+        "asn": "214752",
+        "description": "Millistream Market Data AB",
+        "handle": "MILLISTREAM-ASN"
+    },
+    "214813": {
+        "country_code": "SE",
+        "asn": "214813",
+        "description": "31173 Services AB",
+        "handle": "ESAB-END-USERS-AS"
+    },
+    "214837": {
+        "country_code": "SE",
+        "asn": "214837",
+        "description": "Getswish AB",
+        "handle": "GETSWISH"
+    },
+    "214853": {
+        "country_code": "SE",
+        "asn": "214853",
+        "description": "Open Infra ISP Production International AB",
+        "handle": "FIBREWAVE-UK"
+    },
+    "215063": {
+        "country_code": "SE",
+        "asn": "215063",
+        "description": "Kungalv Energi AB",
+        "handle": "KUNGALVENERGI"
+    },
+    "215138": {
+        "country_code": "SE",
+        "asn": "215138",
+        "description": "Kristianstads Kommun",
+        "handle": "KRISTIANSTADS-KOMMUN-AS"
+    },
+    "215273": {
+        "country_code": "SE",
+        "asn": "215273",
+        "description": "Hexabyte AB",
+        "handle": "HEXABYTE"
+    },
+    "215331": {
+        "country_code": "SE",
+        "asn": "215331",
+        "description": "Vaddo Media Information IS AB",
+        "handle": "VMI-AMS"
+    },
+    "215335": {
+        "country_code": "SE",
+        "asn": "215335",
+        "description": "Sydantenn och Tele Aktiebolag",
+        "handle": "SE-SYDANTENN-AS"
+    },
+    "215393": {
+        "country_code": "SE",
+        "asn": "215393",
+        "description": "UC AB",
+        "handle": "UCAB"
+    },
+    "215395": {
+        "country_code": "SE",
+        "asn": "215395",
+        "description": "Hogia Infrastructure Services AB",
+        "handle": "HOGIA"
+    },
+    "215399": {
+        "country_code": "SE",
+        "asn": "215399",
+        "description": "Intility AB",
+        "handle": "ASN-INTILITY-AB"
+    },
+    "215403": {
+        "country_code": "SE",
+        "asn": "215403",
+        "description": "Finansiell ID-Teknik BID AB",
+        "handle": "BANKID-ASN"
+    },
+    "215449": {
+        "country_code": "SE",
+        "asn": "215449",
+        "description": "Avionero AB",
+        "handle": "AVIONERO-AS"
+    },
+    "215586": {
+        "country_code": "SE",
+        "asn": "215586",
+        "description": "Addsec AB",
+        "handle": "ADDSEC"
+    },
+    "215615": {
+        "country_code": "SE",
+        "asn": "215615",
+        "description": "David Svanlund",
+        "handle": "DAVID-SVANLUND"
+    },
+    "215616": {
+        "country_code": "SE",
+        "asn": "215616",
+        "description": "Volvo Personvagnar AB",
+        "handle": "VOLVOCARS"
+    },
+    "215783": {
+        "country_code": "SE",
+        "asn": "215783",
+        "description": "Scandinavian Hosting AB",
+        "handle": "SCANDINAVIAN-AS"
+    },
+    "215836": {
+        "country_code": "SE",
+        "asn": "215836",
+        "description": "Loopia AB",
+        "handle": "LOOPIA2"
+    },
+    "215855": {
+        "country_code": "SE",
+        "asn": "215855",
+        "description": "Tomas Jonsson",
+        "handle": "JONSSON-LABS"
+    },
+    "216025": {
+        "country_code": "SE",
+        "asn": "216025",
+        "description": "Mullvad VPN AB",
+        "handle": "MULLVAD-AS"
+    },
+    "216113": {
+        "country_code": "SE",
+        "asn": "216113",
+        "description": "Didrik Emil Andre Johannesson",
+        "handle": "DIAD-AS"
+    },
+    "216270": {
+        "country_code": "SE",
+        "asn": "216270",
+        "description": "Molnett Sweden AB",
+        "handle": "MOL-NETT"
+    },
+    "216347": {
+        "country_code": "SE",
+        "asn": "216347",
+        "description": "Bikupa Datacenter AB",
+        "handle": "AS-BIKUPA"
+    },
+    "216350": {
+        "country_code": "SE",
+        "asn": "216350",
+        "description": "Fortnox Aktiebolag",
+        "handle": "FORTNOX"
+    },
+    "216415": {
+        "country_code": "SE",
+        "asn": "216415",
+        "description": "AMIRMOHAMMAD FATEH",
+        "handle": "RATSE"
+    }
+}

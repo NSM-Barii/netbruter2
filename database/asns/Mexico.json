@@ -1,0 +1,4574 @@
+{
+    "278": {
+        "country_code": "MX",
+        "asn": "278",
+        "description": "Universidad Nacional Autonoma de Mexico",
+        "handle": "UNIVERSIDAD-NACIONAL-AUTONOMA"
+    },
+    "1292": {
+        "country_code": "MX",
+        "asn": "1292",
+        "description": "Instituto Tecnol\u00f3gico y de Estudios Superiores de Monterrey",
+        "handle": "INSTITUTO-TECNOLOGICO-ESTUDIOS"
+    },
+    "1831": {
+        "country_code": "MX",
+        "asn": "1831",
+        "description": "ITESO A.C.",
+        "handle": "ITESO-AC"
+    },
+    "1840": {
+        "country_code": "MX",
+        "asn": "1840",
+        "description": "Universidad de Las Americas-Puebla",
+        "handle": "UNIVERSIDAD-LAS-AMERICAS"
+    },
+    "2549": {
+        "country_code": "MX",
+        "asn": "2549",
+        "description": "Universidad de Guadalajara",
+        "handle": "UNIVERSIDAD-GUADALAJARA"
+    },
+    "2708": {
+        "country_code": "MX",
+        "asn": "2708",
+        "description": "Universidad de Guanajuato",
+        "handle": "UNIVERSIDAD-GUANAJUATO"
+    },
+    "2739": {
+        "country_code": "MX",
+        "asn": "2739",
+        "description": "Facultad de Ingenieria",
+        "handle": "FACULTAD-INGENIERIA"
+    },
+    "2904": {
+        "country_code": "MX",
+        "asn": "2904",
+        "description": "Universidad Autonoma De Ciudad Juarez",
+        "handle": "UNIVERSIDAD-AUTONOMA-CIUDAD"
+    },
+    "3141": {
+        "country_code": "MX",
+        "asn": "3141",
+        "description": "Benemerita Universidad Autonoma de Puebla",
+        "handle": "BENEMERITA-UNIVERSIDAD-AUTONOMA"
+    },
+    "3454": {
+        "country_code": "MX",
+        "asn": "3454",
+        "description": "Universidad Autonoma de Nuevo Leon",
+        "handle": "UNIVERSIDAD-AUTONOMA-NUEVO"
+    },
+    "3484": {
+        "country_code": "MX",
+        "asn": "3484",
+        "description": "Instituto Politecnico Nacional",
+        "handle": "INSTITUTO-POLITECNICO-NACIONAL"
+    },
+    "3548": {
+        "country_code": "MX",
+        "asn": "3548",
+        "description": "Centro de Investigaci\u00f3n y de Estudios Avanzados del Instituto Polit\u00e9cnico Nacional",
+        "handle": "CENTRO-INVESTIGACION-ESTUDIOS"
+    },
+    "3596": {
+        "country_code": "MX",
+        "asn": "3596",
+        "description": "Universidad Autonoma Metropolitana",
+        "handle": "UNIVERSIDAD-AUTONOMA-METROPOLITANA"
+    },
+    "3632": {
+        "country_code": "MX",
+        "asn": "3632",
+        "description": "Consejo Nacional de Ciencia y Tecnologia",
+        "handle": "CONSEJO-NACIONAL-CIENCIA"
+    },
+    "3640": {
+        "country_code": "MX",
+        "asn": "3640",
+        "description": "C I C E S E",
+        "handle": "CICESE"
+    },
+    "3905": {
+        "country_code": "MX",
+        "asn": "3905",
+        "description": "CONSORCIO REDUNO S.A. de C.V",
+        "handle": "CONSORCIO-REDUNO"
+    },
+    "3968": {
+        "country_code": "MX",
+        "asn": "3968",
+        "description": "El Colegio de Mexico A.C.",
+        "handle": "EL-COLEGIO-MEXICO-AC"
+    },
+    "4141": {
+        "country_code": "MX",
+        "asn": "4141",
+        "description": "GRUPO ICA S.A. DE C.V.",
+        "handle": "GRUPO-ICA"
+    },
+    "4242": {
+        "country_code": "MX",
+        "asn": "4242",
+        "description": "Soluciones Avanzadas de Redes",
+        "handle": "SOLUCIONES-AVANZADAS-REDES"
+    },
+    "4244": {
+        "country_code": "MX",
+        "asn": "4244",
+        "description": "INFOTEC CENTRO DE INVESTIGACION E INNOVACION EN TECNOLOGIAS DE LA INFORMACION Y COMUNICACION",
+        "handle": "INFOTEC-CENTRO-INVESTIGACION"
+    },
+    "4493": {
+        "country_code": "MX",
+        "asn": "4493",
+        "description": "Universidad de Sonora",
+        "handle": "UNIVERSIDAD-SONORA"
+    },
+    "5633": {
+        "country_code": "MX",
+        "asn": "5633",
+        "description": "Internet Online S.A. de C.V.",
+        "handle": "INTERNET-ONLINE"
+    },
+    "5708": {
+        "country_code": "MX",
+        "asn": "5708",
+        "description": "Universidad Autonoma de Guerrero",
+        "handle": "UNIVERSIDAD-AUTONOMA-GUERRERO"
+    },
+    "6063": {
+        "country_code": "MX",
+        "asn": "6063",
+        "description": "Internet Corporativo S.A. de C.V.",
+        "handle": "INTERNET-CORPORATIVO"
+    },
+    "6084": {
+        "country_code": "MX",
+        "asn": "6084",
+        "description": "Internet Corporativo S.A. de C.V.",
+        "handle": "INTERNET-CORPORATIVO"
+    },
+    "6332": {
+        "country_code": "MX",
+        "asn": "6332",
+        "description": "Telefonos del Noroeste S.A. de C.V.",
+        "handle": "TELEFONOS-NOROESTE"
+    },
+    "6342": {
+        "country_code": "MX",
+        "asn": "6342",
+        "description": "Instituto Tecnol\u00f3gico y de Estudios Superiores de Monterrey",
+        "handle": "INSTITUTO-TECNOLOGICO-ESTUDIOS"
+    },
+    "6495": {
+        "country_code": "MX",
+        "asn": "6495",
+        "description": "HSBC MEXICO SA INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO HSBC",
+        "handle": "HSBC-MEXICO"
+    },
+    "6503": {
+        "country_code": "MX",
+        "asn": "6503",
+        "description": "Axtel S.A.B. de C.V.",
+        "handle": "AXTEL"
+    },
+    "6590": {
+        "country_code": "MX",
+        "asn": "6590",
+        "description": "Supernet S.A. de C.V.",
+        "handle": "SUPERNET"
+    },
+    "6927": {
+        "country_code": "MX",
+        "asn": "6927",
+        "description": "Ternium Mexico S.A. de C.V.",
+        "handle": "TERNIUM-MEXICO"
+    },
+    "6957": {
+        "country_code": "MX",
+        "asn": "6957",
+        "description": "TECNOLOGIA UNO-CERO SA DE CV",
+        "handle": "TECNOLOGIA-UNO-CERO"
+    },
+    "7002": {
+        "country_code": "MX",
+        "asn": "7002",
+        "description": "Mexico Communicates S.C.",
+        "handle": "MEXICO-COMMUNICATES"
+    },
+    "7038": {
+        "country_code": "MX",
+        "asn": "7038",
+        "description": "Instituto Tecnol\u00f3gico y de Estudios Superiores de Monterrey",
+        "handle": "INSTITUTO-TECNOLOGICO-ESTUDIOS"
+    },
+    "7056": {
+        "country_code": "MX",
+        "asn": "7056",
+        "description": "Datanet S.A. de C.V.",
+        "handle": "DATANET"
+    },
+    "7080": {
+        "country_code": "MX",
+        "asn": "7080",
+        "description": "Electronica y Comunicaciones S. A.",
+        "handle": "ELECTRONICA-COMUNICACIONES-S-A"
+    },
+    "7120": {
+        "country_code": "MX",
+        "asn": "7120",
+        "description": "Corporacion en Investigacion Tecnologica e Informatica S.A. de C.V.",
+        "handle": "CORPORACION-INVESTIGACION-TECNOLOGICA"
+    },
+    "7125": {
+        "country_code": "MX",
+        "asn": "7125",
+        "description": "Universidad de Monterrey",
+        "handle": "UNIVERSIDAD-MONTERREY"
+    },
+    "7149": {
+        "country_code": "MX",
+        "asn": "7149",
+        "description": "Sistemas Aplicados de la C.P. S.A. de C.V.",
+        "handle": "SISTEMAS-APLICADOS-LA-CP"
+    },
+    "7173": {
+        "country_code": "MX",
+        "asn": "7173",
+        "description": "Instituto Nacional de Astrofisica Optica y Electronica",
+        "handle": "INSTITUTO-NACIONAL-ASTROFISICA"
+    },
+    "7184": {
+        "country_code": "MX",
+        "asn": "7184",
+        "description": "Universidad Veracruzana",
+        "handle": "UNIVERSIDAD-VERACRUZANA"
+    },
+    "7236": {
+        "country_code": "MX",
+        "asn": "7236",
+        "description": "Universidad Regiomontana S.C.",
+        "handle": "UNIVERSIDAD-REGIOMONTANA"
+    },
+    "7325": {
+        "country_code": "MX",
+        "asn": "7325",
+        "description": "UNIVERSIDAD AUTONOMA DE TAMAULIPAS",
+        "handle": "UNIVERSIDAD-AUTONOMA-TAMAULIPAS"
+    },
+    "7399": {
+        "country_code": "MX",
+        "asn": "7399",
+        "description": "Internet Cancun S.A. de C.V.",
+        "handle": "INTERNET-CANCUN"
+    },
+    "7408": {
+        "country_code": "MX",
+        "asn": "7408",
+        "description": "COMIMSA",
+        "handle": "COMIMSA"
+    },
+    "7438": {
+        "country_code": "MX",
+        "asn": "7438",
+        "description": "PEGASO PCS",
+        "handle": "PEGASO-PCS"
+    },
+    "7906": {
+        "country_code": "MX",
+        "asn": "7906",
+        "description": "Redes y Consultoria al Comercio Exterior S.A. de C.V.",
+        "handle": "REDES-CONSULTORIA-AL"
+    },
+    "7974": {
+        "country_code": "MX",
+        "asn": "7974",
+        "description": "Instituto Mexicano del Petroleo",
+        "handle": "INSTITUTO-MEXICANO-PETROLEO"
+    },
+    "7995": {
+        "country_code": "MX",
+        "asn": "7995",
+        "description": "Global One Mexico",
+        "handle": "GLOBAL-ONE-MEXICO"
+    },
+    "8007": {
+        "country_code": "MX",
+        "asn": "8007",
+        "description": "Servicios Administrados Mexis S.A. de C.V.",
+        "handle": "SERVICIOS-ADMINISTRADOS-MEXIS"
+    },
+    "8024": {
+        "country_code": "MX",
+        "asn": "8024",
+        "description": "Centro de Investigaciones Biologicas del Noroeste SC",
+        "handle": "CENTRO-INVESTIGACIONES-BIOLOGICAS"
+    },
+    "8140": {
+        "country_code": "MX",
+        "asn": "8140",
+        "description": "Instituto Federal Electoral",
+        "handle": "INSTITUTO-FEDERAL-ELECTORAL"
+    },
+    "8151": {
+        "country_code": "MX",
+        "asn": "8151",
+        "description": "UNINET",
+        "handle": "UNINET"
+    },
+    "10420": {
+        "country_code": "MX",
+        "asn": "10420",
+        "description": "Banco de Mexico",
+        "handle": "BANCO-MEXICO"
+    },
+    "10436": {
+        "country_code": "MX",
+        "asn": "10436",
+        "description": "Instituto Tecnol\u00f3gico y de Estudios Superiores de Monterrey",
+        "handle": "INSTITUTO-TECNOLOGICO-ESTUDIOS"
+    },
+    "10479": {
+        "country_code": "MX",
+        "asn": "10479",
+        "description": "Instituto Tecnol\u00f3gico y de Estudios Superiores de Monterrey",
+        "handle": "INSTITUTO-TECNOLOGICO-ESTUDIOS"
+    },
+    "10560": {
+        "country_code": "MX",
+        "asn": "10560",
+        "description": "Instituto Tecnol\u00f3gico y de Estudios Superiores de Monterrey",
+        "handle": "INSTITUTO-TECNOLOGICO-ESTUDIOS"
+    },
+    "10706": {
+        "country_code": "MX",
+        "asn": "10706",
+        "description": "YUVOX S.A DE C.V",
+        "handle": "YUVOX"
+    },
+    "10847": {
+        "country_code": "MX",
+        "asn": "10847",
+        "description": "Podernet S.A. de C.V.",
+        "handle": "PODERNET"
+    },
+    "11083": {
+        "country_code": "MX",
+        "asn": "11083",
+        "description": "Ocean Fund International Ltd.",
+        "handle": "OCEAN-FUND-INTERNATIONAL"
+    },
+    "11087": {
+        "country_code": "MX",
+        "asn": "11087",
+        "description": "Comision Federal de Electricidad",
+        "handle": "COMISION-FEDERAL-ELECTRICIDAD"
+    },
+    "11136": {
+        "country_code": "MX",
+        "asn": "11136",
+        "description": "Instituto Tecnol\u00f3gico y de Estudios Superiores de Monterrey",
+        "handle": "INSTITUTO-TECNOLOGICO-ESTUDIOS"
+    },
+    "11172": {
+        "country_code": "MX",
+        "asn": "11172",
+        "description": "Alestra S. de R.L. de C.V.",
+        "handle": "ALESTRA"
+    },
+    "11519": {
+        "country_code": "MX",
+        "asn": "11519",
+        "description": "Banco Mercantil del Norte S.A. Institucion de Banca Multiple Grupo Financiero Banorte",
+        "handle": "BANCO-MERCANTIL-NORTE"
+    },
+    "11617": {
+        "country_code": "MX",
+        "asn": "11617",
+        "description": "Sencinet Latam Mexico",
+        "handle": "SENCINET-LATAM-MEXICO"
+    },
+    "11677": {
+        "country_code": "MX",
+        "asn": "11677",
+        "description": "Instituto Tecnol\u00f3gico y de Estudios Superiores de Monterrey",
+        "handle": "INSTITUTO-TECNOLOGICO-ESTUDIOS"
+    },
+    "11888": {
+        "country_code": "MX",
+        "asn": "11888",
+        "description": "Television Internacional S.A. de C.V.",
+        "handle": "TELEVISION-INTERNACIONAL"
+    },
+    "12146": {
+        "country_code": "MX",
+        "asn": "12146",
+        "description": "MVS Net S.A. de C.V.",
+        "handle": "MVS-NET"
+    },
+    "13440": {
+        "country_code": "MX",
+        "asn": "13440",
+        "description": "Operbes S.A. de C.V.",
+        "handle": "OPERBES"
+    },
+    "13579": {
+        "country_code": "MX",
+        "asn": "13579",
+        "description": "INFOTEC CENTRO DE INVESTIGACION E INNOVACION EN TECNOLOGIAS DE LA INFORMACION Y COMUNICACION",
+        "handle": "INFOTEC-CENTRO-INVESTIGACION"
+    },
+    "13591": {
+        "country_code": "MX",
+        "asn": "13591",
+        "description": "Mexico Red de Telecomunicaciones S. de R.L. de C.V.",
+        "handle": "MEXICO-RED-TELECOMUNICACIONES"
+    },
+    "13679": {
+        "country_code": "MX",
+        "asn": "13679",
+        "description": "Centros Culturales de Mexico A.C.",
+        "handle": "CENTROS-CULTURALES-MEXICO-AC"
+    },
+    "13999": {
+        "country_code": "MX",
+        "asn": "13999",
+        "description": "Mega Cable S.A. de C.V.",
+        "handle": "MEGA-CABLE"
+    },
+    "14000": {
+        "country_code": "MX",
+        "asn": "14000",
+        "description": "Axtel S.A.B. de C.V.",
+        "handle": "AXTEL"
+    },
+    "14122": {
+        "country_code": "MX",
+        "asn": "14122",
+        "description": "Vector Casa de Bolsa SA de CV",
+        "handle": "VECTOR-CASA-BOLSA"
+    },
+    "14178": {
+        "country_code": "MX",
+        "asn": "14178",
+        "description": "Megacable Comunicaciones de Mexico S.A. de C.V.",
+        "handle": "MEGACABLE-COMUNICACIONES-MEXICO"
+    },
+    "14249": {
+        "country_code": "MX",
+        "asn": "14249",
+        "description": "Internet Engine S.A. de C.V.",
+        "handle": "INTERNET-ENGINE"
+    },
+    "15107": {
+        "country_code": "MX",
+        "asn": "15107",
+        "description": "Grupo Financiero Bancomer",
+        "handle": "GRUPO-FINANCIERO-BANCOMER"
+    },
+    "15236": {
+        "country_code": "MX",
+        "asn": "15236",
+        "description": "Universidad de Colima",
+        "handle": "UNIVERSIDAD-COLIMA"
+    },
+    "16531": {
+        "country_code": "MX",
+        "asn": "16531",
+        "description": "TOPNET SA de CV",
+        "handle": "TOPNET"
+    },
+    "16596": {
+        "country_code": "MX",
+        "asn": "16596",
+        "description": "Universidad Autonoma del Estado de Baja California",
+        "handle": "UNIVERSIDAD-AUTONOMA-BAJA"
+    },
+    "16689": {
+        "country_code": "MX",
+        "asn": "16689",
+        "description": "TV Azteca S.A.B. de C.V.",
+        "handle": "TV-AZTECA"
+    },
+    "16762": {
+        "country_code": "MX",
+        "asn": "16762",
+        "description": "Grupo Bimbo S.A.B. de C.V.",
+        "handle": "GRUPO-BIMBO"
+    },
+    "16960": {
+        "country_code": "MX",
+        "asn": "16960",
+        "description": "Television Internacional S.A. de C.V.",
+        "handle": "TELEVISION-INTERNACIONAL"
+    },
+    "17072": {
+        "country_code": "MX",
+        "asn": "17072",
+        "description": "TOTAL PLAY TELECOMUNICACIONES SA DE CV",
+        "handle": "TOTAL-PLAY-TELECOMUNICACIONES"
+    },
+    "17249": {
+        "country_code": "MX",
+        "asn": "17249",
+        "description": "BURSATEC S.A. DE C.V.",
+        "handle": "BURSATEC"
+    },
+    "17250": {
+        "country_code": "MX",
+        "asn": "17250",
+        "description": "ADETEL S.A. DE C.V.",
+        "handle": "ADETEL"
+    },
+    "18449": {
+        "country_code": "MX",
+        "asn": "18449",
+        "description": "MVS Net S.A. de C.V.",
+        "handle": "MVS-NET"
+    },
+    "18532": {
+        "country_code": "MX",
+        "asn": "18532",
+        "description": "Secretaria de Hacienda y Credito Publico",
+        "handle": "SECRETARIA-HACIENDA-CREDITO"
+    },
+    "18592": {
+        "country_code": "MX",
+        "asn": "18592",
+        "description": "Corporacion Universitaria para el Desarrollo de Internet A.C.",
+        "handle": "CORPORACION-UNIVERSITARIA-PARA"
+    },
+    "18734": {
+        "country_code": "MX",
+        "asn": "18734",
+        "description": "Operbes S.A. de C.V.",
+        "handle": "OPERBES"
+    },
+    "18846": {
+        "country_code": "MX",
+        "asn": "18846",
+        "description": "Petroleos Mexicanos",
+        "handle": "PETROLEOS-MEXICANOS"
+    },
+    "19038": {
+        "country_code": "MX",
+        "asn": "19038",
+        "description": "SCOTIABANK INVERLAT SA",
+        "handle": "SCOTIABANK-INVERLAT"
+    },
+    "19259": {
+        "country_code": "MX",
+        "asn": "19259",
+        "description": "Todito.com S.A. de C.V.",
+        "handle": "TODITOCOM"
+    },
+    "19332": {
+        "country_code": "MX",
+        "asn": "19332",
+        "description": "COORDINADORA DE CARRIER'S S.A. DE C.V.",
+        "handle": "COORDINADORA-CARRIER'S"
+    },
+    "19373": {
+        "country_code": "MX",
+        "asn": "19373",
+        "description": "Triara.com S.A. de C.V.",
+        "handle": "TRIARACOM"
+    },
+    "19688": {
+        "country_code": "MX",
+        "asn": "19688",
+        "description": "Banco Santander (Mexico) S.A. Institucion de Banca Multiple Grupo Financiero Santander",
+        "handle": "BANCO-SANTANDER"
+    },
+    "20032": {
+        "country_code": "MX",
+        "asn": "20032",
+        "description": "Grupo VITRO S.A. de C.V.",
+        "handle": "GRUPO-VITRO"
+    },
+    "20173": {
+        "country_code": "MX",
+        "asn": "20173",
+        "description": "Televisa S.A de C.V.",
+        "handle": "TELEVISA"
+    },
+    "21520": {
+        "country_code": "MX",
+        "asn": "21520",
+        "description": "Instituto Tecnologico Autonomo de Mexico(ITAM)",
+        "handle": "INSTITUTO-TECNOLOGICO-AUTONOMO"
+    },
+    "21603": {
+        "country_code": "MX",
+        "asn": "21603",
+        "description": "Universidad La Salle AC",
+        "handle": "UNIVERSIDAD-LA-SALLE-AC"
+    },
+    "21692": {
+        "country_code": "MX",
+        "asn": "21692",
+        "description": "SECRETARIA ANTICORRUPCION Y BUEN GOBIERNO",
+        "handle": "SECRETARIA-ANTICORRUPCION-BUEN"
+    },
+    "21768": {
+        "country_code": "MX",
+        "asn": "21768",
+        "description": "Promocion y Operacion SA de CV",
+        "handle": "PROMOCION-OPERACION"
+    },
+    "22011": {
+        "country_code": "MX",
+        "asn": "22011",
+        "description": "Sixsigma Networks Mexico S.A. de C.V.",
+        "handle": "SIXSIGMA-NETWORKS-MEXICO"
+    },
+    "22122": {
+        "country_code": "MX",
+        "asn": "22122",
+        "description": "UNIVERSIDAD AUTONOMA DE YUCATAN",
+        "handle": "UNIVERSIDAD-AUTONOMA-YUCATAN"
+    },
+    "22508": {
+        "country_code": "MX",
+        "asn": "22508",
+        "description": "Multimedios Estrellas de Oro S.A. de C.V.",
+        "handle": "MULTIMEDIOS-ESTRELLAS-ORO"
+    },
+    "22529": {
+        "country_code": "MX",
+        "asn": "22529",
+        "description": "SEIT",
+        "handle": "SEIT"
+    },
+    "22566": {
+        "country_code": "MX",
+        "asn": "22566",
+        "description": "IP Matrix S.A. de C.V.",
+        "handle": "IP-MATRIX"
+    },
+    "22882": {
+        "country_code": "MX",
+        "asn": "22882",
+        "description": "CEMEX Central S.A. de C.V.",
+        "handle": "CEMEX-CENTRAL"
+    },
+    "22884": {
+        "country_code": "MX",
+        "asn": "22884",
+        "description": "TOTAL PLAY TELECOMUNICACIONES SA DE CV",
+        "handle": "TOTAL-PLAY-TELECOMUNICACIONES"
+    },
+    "22889": {
+        "country_code": "MX",
+        "asn": "22889",
+        "description": "IP Matrix S.A. de C.V.",
+        "handle": "IP-MATRIX"
+    },
+    "22894": {
+        "country_code": "MX",
+        "asn": "22894",
+        "description": "Network Information Center M\u00e9xico",
+        "handle": "NETWORK-INFORMATION-CENTER"
+    },
+    "22908": {
+        "country_code": "MX",
+        "asn": "22908",
+        "description": "Sixsigma Networks Mexico S.A. de C.V.",
+        "handle": "SIXSIGMA-NETWORKS-MEXICO"
+    },
+    "23353": {
+        "country_code": "MX",
+        "asn": "23353",
+        "description": "Metro Net Hosting S. de R.L. de C.V.",
+        "handle": "METRO-NET-HOSTING"
+    },
+    "23382": {
+        "country_code": "MX",
+        "asn": "23382",
+        "description": "uServers Comunicaciones SC",
+        "handle": "USERVERS-COMUNICACIONES"
+    },
+    "23495": {
+        "country_code": "MX",
+        "asn": "23495",
+        "description": "Hewlett-Packard Mexico S. de R.L. de C.V.",
+        "handle": "HEWLETT-PACKARD-MEXICO"
+    },
+    "25812": {
+        "country_code": "MX",
+        "asn": "25812",
+        "description": "Estafeta Mexicana S.A. de C.V.",
+        "handle": "ESTAFETA-MEXICANA"
+    },
+    "26595": {
+        "country_code": "MX",
+        "asn": "26595",
+        "description": "Enlaces y Comunicaciones del Sureste SA de CV",
+        "handle": "ENLACES-COMUNICACIONES-SURESTE"
+    },
+    "26614": {
+        "country_code": "MX",
+        "asn": "26614",
+        "description": "ING Afore S.A. de C.V.",
+        "handle": "ING-AFORE"
+    },
+    "26618": {
+        "country_code": "MX",
+        "asn": "26618",
+        "description": "Banco Mercantil del Norte S.A. Institucion de Banca Multiple Grupo Financiero Banorte",
+        "handle": "BANCO-MERCANTIL-NORTE"
+    },
+    "26620": {
+        "country_code": "MX",
+        "asn": "26620",
+        "description": "BANCA AFIRME S.A.",
+        "handle": "BANCA-AFIRME"
+    },
+    "27661": {
+        "country_code": "MX",
+        "asn": "27661",
+        "description": "Network Information Center M\u00e9xico",
+        "handle": "NETWORK-INFORMATION-CENTER"
+    },
+    "27666": {
+        "country_code": "MX",
+        "asn": "27666",
+        "description": "INSTITUTO TECNOLOGICO DE TELEFONOS DE MEXICO",
+        "handle": "INSTITUTO-TECNOLOGICO-TELEFONOS"
+    },
+    "27667": {
+        "country_code": "MX",
+        "asn": "27667",
+        "description": "Universidad Autonoma de la Laguna",
+        "handle": "UNIVERSIDAD-AUTONOMA-LA-LAGUNA"
+    },
+    "27671": {
+        "country_code": "MX",
+        "asn": "27671",
+        "description": "SERVICIO Y EQUIPO EN TELEFON\u00cdA INTERNET Y TV S.A. DE C.V.",
+        "handle": "SERVICIO-EQUIPO-TELEFONIA"
+    },
+    "27672": {
+        "country_code": "MX",
+        "asn": "27672",
+        "description": "SERVICIO Y EQUIPO EN TELEFON\u00cdA INTERNET Y TV S.A. DE C.V.",
+        "handle": "SERVICIO-EQUIPO-TELEFONIA"
+    },
+    "27673": {
+        "country_code": "MX",
+        "asn": "27673",
+        "description": "Instituto Nacional de Estadistica Geografia e Info",
+        "handle": "INSTITUTO-NACIONAL-ESTADISTICA"
+    },
+    "27681": {
+        "country_code": "MX",
+        "asn": "27681",
+        "description": "Grupo Roche Syntex de Mexico S.A. de C.V.",
+        "handle": "GRUPO-ROCHE-SYNTEX"
+    },
+    "27683": {
+        "country_code": "MX",
+        "asn": "27683",
+        "description": "VPN de Mexico S.A. de C.V.",
+        "handle": "VPN-MEXICO"
+    },
+    "27689": {
+        "country_code": "MX",
+        "asn": "27689",
+        "description": "Laboratorio Nacional de Inform\u00e1tica Avanzada AC",
+        "handle": "LABORATORIO-NACIONAL-INFORMATICA"
+    },
+    "27704": {
+        "country_code": "MX",
+        "asn": "27704",
+        "description": "Tiendas Soriana S.A. de C.V.",
+        "handle": "TIENDAS-SORIANA"
+    },
+    "27705": {
+        "country_code": "MX",
+        "asn": "27705",
+        "description": "YUVOX S.A DE C.V",
+        "handle": "YUVOX"
+    },
+    "27780": {
+        "country_code": "MX",
+        "asn": "27780",
+        "description": "Aeropuertos y Servicios Auxiliares",
+        "handle": "AEROPUERTOS-SERVICIOS-AUXILIARES"
+    },
+    "28371": {
+        "country_code": "MX",
+        "asn": "28371",
+        "description": "Gobierno del Estado de Guanajuato",
+        "handle": "GOBIERNO-GUANAJUATO"
+    },
+    "28372": {
+        "country_code": "MX",
+        "asn": "28372",
+        "description": "Neoris de Mexico S.A. de C.V.",
+        "handle": "NEORIS-MEXICO"
+    },
+    "28373": {
+        "country_code": "MX",
+        "asn": "28373",
+        "description": "Bajanet Comunicaciones S.A. de C.V.",
+        "handle": "BAJANET-COMUNICACIONES"
+    },
+    "28374": {
+        "country_code": "MX",
+        "asn": "28374",
+        "description": "Expansion S.A. de C.V.",
+        "handle": "EXPANSION"
+    },
+    "28375": {
+        "country_code": "MX",
+        "asn": "28375",
+        "description": "Cydsa Corporativo S.A. de C.V.",
+        "handle": "CYDSA-CORPORATIVO"
+    },
+    "28376": {
+        "country_code": "MX",
+        "asn": "28376",
+        "description": "Gigacable de Aguascalientes S.A. de C.V.",
+        "handle": "GIGACABLE-AGUASCALIENTES"
+    },
+    "28377": {
+        "country_code": "MX",
+        "asn": "28377",
+        "description": "Network Information Center M\u00e9xico",
+        "handle": "NETWORK-INFORMATION-CENTER"
+    },
+    "28378": {
+        "country_code": "MX",
+        "asn": "28378",
+        "description": "TV Rey de Occidente S.A. de C.V.",
+        "handle": "TV-REY-OCCIDENTE"
+    },
+    "28381": {
+        "country_code": "MX",
+        "asn": "28381",
+        "description": "Grupo Hidalguense de Desarrollo S.A. de C.V.",
+        "handle": "GRUPO-HIDALGUENSE-DESARROLLO"
+    },
+    "28382": {
+        "country_code": "MX",
+        "asn": "28382",
+        "description": "Universidad Iberoamericana A.C.",
+        "handle": "UNIVERSIDAD-IBEROAMERICANA-AC"
+    },
+    "28383": {
+        "country_code": "MX",
+        "asn": "28383",
+        "description": "Instituto Jalisciense de Tecnologias de la Informacion A.C.",
+        "handle": "INSTITUTO-JALISCIENSE-TECNOLOGIAS"
+    },
+    "28384": {
+        "country_code": "MX",
+        "asn": "28384",
+        "description": "AT&T COMUNICACIONES DIGITALES S DE RL",
+        "handle": "AT-T-COMUNICACIONES"
+    },
+    "28385": {
+        "country_code": "MX",
+        "asn": "28385",
+        "description": "Consorcio para el Intercambio de Trafico de Internet A. C.",
+        "handle": "CONSORCIO-PARA-EL"
+    },
+    "28386": {
+        "country_code": "MX",
+        "asn": "28386",
+        "description": "Binbit Mexico SA de CV",
+        "handle": "BINBIT-MEXICO"
+    },
+    "28387": {
+        "country_code": "MX",
+        "asn": "28387",
+        "description": "Computadoras y Servicios Especiales SA de CV",
+        "handle": "COMPUTADORAS-SERVICIOS-ESPECIALES"
+    },
+    "28390": {
+        "country_code": "MX",
+        "asn": "28390",
+        "description": "Universidad Autonoma de Nayarit",
+        "handle": "UNIVERSIDAD-AUTONOMA-NAYARIT"
+    },
+    "28391": {
+        "country_code": "MX",
+        "asn": "28391",
+        "description": "Universidad Juarez Autonoma de Tabasco",
+        "handle": "UNIVERSIDAD-JUAREZ-AUTONOMA"
+    },
+    "28392": {
+        "country_code": "MX",
+        "asn": "28392",
+        "description": "Secretar\u00eda de la Hacienda P\u00fablica",
+        "handle": "SECRETARIA-LA-HACIENDA-PUBLICA"
+    },
+    "28393": {
+        "country_code": "MX",
+        "asn": "28393",
+        "description": "Integraci\u00f3n de Servicios y Tecnolog\u00eda SA de CV",
+        "handle": "INTEGRACION-SERVICIOS-TECNOLOGIA"
+    },
+    "28394": {
+        "country_code": "MX",
+        "asn": "28394",
+        "description": "Bicentel SA de CV",
+        "handle": "BICENTEL"
+    },
+    "28395": {
+        "country_code": "MX",
+        "asn": "28395",
+        "description": "UST GLOBAL DE MEXICO SA DE CV",
+        "handle": "UST-GLOBAL-MEXICO"
+    },
+    "28396": {
+        "country_code": "MX",
+        "asn": "28396",
+        "description": "AITelecom S.A. de C.V.",
+        "handle": "AITELECOM"
+    },
+    "28397": {
+        "country_code": "MX",
+        "asn": "28397",
+        "description": "Jobnetworks de M\u00e9xico S.A. de C.V.",
+        "handle": "JOBNETWORKS-MEXICO"
+    },
+    "28398": {
+        "country_code": "MX",
+        "asn": "28398",
+        "description": "INTERNET TELEFONIA Y TV DE MICHOACAN SA DE CV",
+        "handle": "INTERNET-TELEFONIA-TV"
+    },
+    "28399": {
+        "country_code": "MX",
+        "asn": "28399",
+        "description": "BTU COMUNICACION SA DE CV",
+        "handle": "BTU-COMUNICACION"
+    },
+    "28400": {
+        "country_code": "MX",
+        "asn": "28400",
+        "description": "SECRETARIA DE INFRAESTRUCTURA COMUNICACIONES Y TRANSPORTES DIRECCION GENERAL DE TECNOLOGIAS DE INFORMACION Y COMUNICACIONES",
+        "handle": "SECRETARIA-INFRAESTRUCTURA-COMUNICACIONES"
+    },
+    "28403": {
+        "country_code": "MX",
+        "asn": "28403",
+        "description": "RadioMovil Dipsa S.A. de C.V.",
+        "handle": "RADIOMOVIL-DIPSA"
+    },
+    "28404": {
+        "country_code": "MX",
+        "asn": "28404",
+        "description": "Telefonia por Cable S.A. de C.V.",
+        "handle": "TELEFONIA-POR-CABLE"
+    },
+    "28405": {
+        "country_code": "MX",
+        "asn": "28405",
+        "description": "Spectro Networks Telecomunicaciones S. de R.L. de C.V.",
+        "handle": "SPECTRO-NETWORKS-TELECOMUNICACIONES"
+    },
+    "28406": {
+        "country_code": "MX",
+        "asn": "28406",
+        "description": "Grupo Nacional Provincial S. A. B.",
+        "handle": "GRUPO-NACIONAL-PROVINCIAL-S-B"
+    },
+    "28407": {
+        "country_code": "MX",
+        "asn": "28407",
+        "description": "KBEST TECHNOLOGIES DE MEXICO",
+        "handle": "KBEST-TECHNOLOGIES-MEXICO"
+    },
+    "28408": {
+        "country_code": "MX",
+        "asn": "28408",
+        "description": "Gdlicanet S.A. de C.V.",
+        "handle": "GDLICANET"
+    },
+    "28409": {
+        "country_code": "MX",
+        "asn": "28409",
+        "description": "ENI NETWORKS SAPI de CV",
+        "handle": "ENI-NETWORKS"
+    },
+    "28410": {
+        "country_code": "MX",
+        "asn": "28410",
+        "description": "Next Telekom S.A.P.I. de C.V.",
+        "handle": "NEXT-TELEKOM"
+    },
+    "28411": {
+        "country_code": "MX",
+        "asn": "28411",
+        "description": "Aire Cable S.A. de C.V.",
+        "handle": "AIRE-CABLE"
+    },
+    "28412": {
+        "country_code": "MX",
+        "asn": "28412",
+        "description": "UNINET",
+        "handle": "UNINET"
+    },
+    "28413": {
+        "country_code": "MX",
+        "asn": "28413",
+        "description": "UNINET",
+        "handle": "UNINET"
+    },
+    "28414": {
+        "country_code": "MX",
+        "asn": "28414",
+        "description": "TOTAL PLAY TELECOMUNICACIONES SA DE CV",
+        "handle": "TOTAL-PLAY-TELECOMUNICACIONES"
+    },
+    "28415": {
+        "country_code": "MX",
+        "asn": "28415",
+        "description": "PEGASO PCS",
+        "handle": "PEGASO-PCS"
+    },
+    "28417": {
+        "country_code": "MX",
+        "asn": "28417",
+        "description": "Universidad Aut\u00f3noma de Chiapas",
+        "handle": "UNIVERSIDAD-AUTONOMA-CHIAPAS"
+    },
+    "28418": {
+        "country_code": "MX",
+        "asn": "28418",
+        "description": "NUEVA RED INTERNET DE MEXICO S DE RL DE CV",
+        "handle": "NUEVA-RED-INTERNET-MEXICO"
+    },
+    "28419": {
+        "country_code": "MX",
+        "asn": "28419",
+        "description": "Se\u00f1al Interactiva S.A De C.V",
+        "handle": "SENAL-INTERACTIVA"
+    },
+    "28420": {
+        "country_code": "MX",
+        "asn": "28420",
+        "description": "ULTRAVISION SA DE CV",
+        "handle": "ULTRAVISION"
+    },
+    "28421": {
+        "country_code": "MX",
+        "asn": "28421",
+        "description": "Farmacias de Similares S.A de C.V",
+        "handle": "FARMACIAS-SIMILARES"
+    },
+    "28422": {
+        "country_code": "MX",
+        "asn": "28422",
+        "description": "Comision Federal de Electricidad",
+        "handle": "COMISION-FEDERAL-ELECTRICIDAD"
+    },
+    "28423": {
+        "country_code": "MX",
+        "asn": "28423",
+        "description": "Truxgo S. de R.L de C.V",
+        "handle": "TRUXGO"
+    },
+    "28424": {
+        "country_code": "MX",
+        "asn": "28424",
+        "description": "DISTROKOM S DE RL DE CV",
+        "handle": "DISTROKOM"
+    },
+    "28425": {
+        "country_code": "MX",
+        "asn": "28425",
+        "description": "Convergencia Inal\u00e1mbrica S.A. de C.V.",
+        "handle": "CONVERGENCIA-INALAMBRICA"
+    },
+    "28428": {
+        "country_code": "MX",
+        "asn": "28428",
+        "description": "INTERPHONET TELECOM SA DE CV",
+        "handle": "INTERPHONET-TELECOM"
+    },
+    "28429": {
+        "country_code": "MX",
+        "asn": "28429",
+        "description": "Enlace de Datos y Redes SA de CV",
+        "handle": "ENLACE-DATOS-REDES"
+    },
+    "28431": {
+        "country_code": "MX",
+        "asn": "28431",
+        "description": "RAUL DUARTE URITA",
+        "handle": "RAUL-DUARTE-URITA"
+    },
+    "28432": {
+        "country_code": "MX",
+        "asn": "28432",
+        "description": "Telecable del Mineral S. A. de C.V.",
+        "handle": "TELECABLE-MINERAL"
+    },
+    "28433": {
+        "country_code": "MX",
+        "asn": "28433",
+        "description": "Doornet sa de cv",
+        "handle": "DOORNET"
+    },
+    "28434": {
+        "country_code": "MX",
+        "asn": "28434",
+        "description": "CEDSAMOVIL SA DE CV",
+        "handle": "CEDSAMOVIL"
+    },
+    "28435": {
+        "country_code": "MX",
+        "asn": "28435",
+        "description": "JAVIER TAMAYO GARCIA",
+        "handle": "JAVIER-TAMAYO-GARCIA"
+    },
+    "28436": {
+        "country_code": "MX",
+        "asn": "28436",
+        "description": "Konecta Sonora SA de CV",
+        "handle": "KONECTA-SONORA"
+    },
+    "28437": {
+        "country_code": "MX",
+        "asn": "28437",
+        "description": "DUPLICACION DIGITAL SA DE CV",
+        "handle": "DUPLICACION-DIGITAL"
+    },
+    "28438": {
+        "country_code": "MX",
+        "asn": "28438",
+        "description": "IP Matrix S.A. de C.V.",
+        "handle": "IP-MATRIX"
+    },
+    "28439": {
+        "country_code": "MX",
+        "asn": "28439",
+        "description": "Mediared Telecomunicaciones S.A de C.V.",
+        "handle": "MEDIARED-TELECOMUNICACIONES"
+    },
+    "28440": {
+        "country_code": "MX",
+        "asn": "28440",
+        "description": "INPRO TELECOM SA DE CV",
+        "handle": "INPRO-TELECOM"
+    },
+    "28441": {
+        "country_code": "MX",
+        "asn": "28441",
+        "description": "INTERNET EXCHANGE SERVICES YUCATAN",
+        "handle": "INTERNET-EXCHANGE-SERVICES"
+    },
+    "28442": {
+        "country_code": "MX",
+        "asn": "28442",
+        "description": "GLOBAL NETWORKS SOLUTIONS SA DE CV",
+        "handle": "GLOBAL-NETWORKS-SOLUTIONS"
+    },
+    "28443": {
+        "country_code": "MX",
+        "asn": "28443",
+        "description": "EDGEUNO MEXICO SA DE CV",
+        "handle": "EDGEUNO-MEXICO"
+    },
+    "28444": {
+        "country_code": "MX",
+        "asn": "28444",
+        "description": "Consorcio para el Intercambio de Trafico de Internet A. C.",
+        "handle": "CONSORCIO-PARA-EL"
+    },
+    "28445": {
+        "country_code": "MX",
+        "asn": "28445",
+        "description": "TECNOLOGIA EN TELECOMUNICACIONES DEL CENTRO S.A. DE C.V",
+        "handle": "TECNOLOGIA-TELECOMUNICACIONES-CENTRO"
+    },
+    "28446": {
+        "country_code": "MX",
+        "asn": "28446",
+        "description": "NUEVA WAL MART DE MEXICO",
+        "handle": "NUEVA-WAL-MART-MEXICO"
+    },
+    "28447": {
+        "country_code": "MX",
+        "asn": "28447",
+        "description": "ONFIBER SA DE CV",
+        "handle": "ONFIBER"
+    },
+    "28448": {
+        "country_code": "MX",
+        "asn": "28448",
+        "description": "FABRICA DE PAPEL SAN FRANCISCO S.A. DE C.V.",
+        "handle": "FABRICA-PAPEL-SAN"
+    },
+    "28449": {
+        "country_code": "MX",
+        "asn": "28449",
+        "description": "Home Interiors de Mexico S. de R.L. de C.V.",
+        "handle": "HOME-INTERIORS-MEXICO"
+    },
+    "28451": {
+        "country_code": "MX",
+        "asn": "28451",
+        "description": "ASESPRI ETHERNET",
+        "handle": "ASESPRI-ETHERNET"
+    },
+    "28452": {
+        "country_code": "MX",
+        "asn": "28452",
+        "description": "Radio Enlaces del Bajio",
+        "handle": "RADIO-ENLACES-BAJIO"
+    },
+    "28453": {
+        "country_code": "MX",
+        "asn": "28453",
+        "description": "GK TELECOMUNICACIONES",
+        "handle": "GK-TELECOMUNICACIONES"
+    },
+    "28454": {
+        "country_code": "MX",
+        "asn": "28454",
+        "description": "CYBOLT MANAGED SERVICES S.A. de C.V.",
+        "handle": "CYBOLT-MANAGED-SERVICES"
+    },
+    "28455": {
+        "country_code": "MX",
+        "asn": "28455",
+        "description": "Servicio Postal Mexicano",
+        "handle": "SERVICIO-POSTAL-MEXICANO"
+    },
+    "28456": {
+        "country_code": "MX",
+        "asn": "28456",
+        "description": "Colegio de Postgraduados",
+        "handle": "COLEGIO-POSTGRADUADOS"
+    },
+    "28457": {
+        "country_code": "MX",
+        "asn": "28457",
+        "description": "UNIVERSIDAD LATINOAMERICANA S.C.",
+        "handle": "UNIVERSIDAD-LATINOAMERICANA"
+    },
+    "28458": {
+        "country_code": "MX",
+        "asn": "28458",
+        "description": "IENTC S DE RL DE CV",
+        "handle": "IENTC"
+    },
+    "28459": {
+        "country_code": "MX",
+        "asn": "28459",
+        "description": "MICHELLE MORENO MORENO",
+        "handle": "MICHELLE-MORENO-MORENO"
+    },
+    "28460": {
+        "country_code": "MX",
+        "asn": "28460",
+        "description": "ASESORIA DE EMPRESAS S.A. DE C.V.",
+        "handle": "ASESORIA-EMPRESAS"
+    },
+    "28461": {
+        "country_code": "MX",
+        "asn": "28461",
+        "description": "GRUPO SURNET SA DE CV",
+        "handle": "GRUPO-SURNET"
+    },
+    "28462": {
+        "country_code": "MX",
+        "asn": "28462",
+        "description": "FRANCISCO GIOVANI CHESSANI TOBIAS",
+        "handle": "FRANCISCO-GIOVANI-CHESSANI"
+    },
+    "28463": {
+        "country_code": "MX",
+        "asn": "28463",
+        "description": "NUEVA WAL MART DE MEXICO",
+        "handle": "NUEVA-WAL-MART-MEXICO"
+    },
+    "28464": {
+        "country_code": "MX",
+        "asn": "28464",
+        "description": "Consorcio para el Intercambio de Trafico de Internet A. C.",
+        "handle": "CONSORCIO-PARA-EL"
+    },
+    "28465": {
+        "country_code": "MX",
+        "asn": "28465",
+        "description": "IX-NN Sociedad An\u00f3nima de Capital Variable",
+        "handle": "IX-NN-SOCIEDAD"
+    },
+    "28466": {
+        "country_code": "MX",
+        "asn": "28466",
+        "description": "La Torre del Vigia A.R.",
+        "handle": "LA-TORRE-VIGIA-AR"
+    },
+    "28467": {
+        "country_code": "MX",
+        "asn": "28467",
+        "description": "OPTICAL LINE TERMINAL SAS DE CV",
+        "handle": "OPTICAL-LINE-TERMINAL"
+    },
+    "28468": {
+        "country_code": "MX",
+        "asn": "28468",
+        "description": "Network Information Center M\u00e9xico",
+        "handle": "NETWORK-INFORMATION-CENTER"
+    },
+    "28469": {
+        "country_code": "MX",
+        "asn": "28469",
+        "description": "AT&T COMUNICACIONES DIGITALES S DE RL",
+        "handle": "AT-T-COMUNICACIONES"
+    },
+    "28472": {
+        "country_code": "MX",
+        "asn": "28472",
+        "description": "Universidad Autonoma del Estado de Hidalgo",
+        "handle": "UNIVERSIDAD-AUTONOMA-HIDALGO"
+    },
+    "28474": {
+        "country_code": "MX",
+        "asn": "28474",
+        "description": "Colegio de Postgraduados",
+        "handle": "COLEGIO-POSTGRADUADOS"
+    },
+    "28475": {
+        "country_code": "MX",
+        "asn": "28475",
+        "description": "Fomento Econ\u00f3mico Mexicano S. A. de C. V.",
+        "handle": "FOMENTO-ECONOMICO-MEXICANO"
+    },
+    "28476": {
+        "country_code": "MX",
+        "asn": "28476",
+        "description": "Aeropuerto Internacional de la Ciudad de Mexico S.A. de C.V.",
+        "handle": "AEROPUERTO-INTERNACIONAL"
+    },
+    "28477": {
+        "country_code": "MX",
+        "asn": "28477",
+        "description": "UNIVERSIDAD AUTONOMA DEL ESTADO DE MORELOS",
+        "handle": "UNIVERSIDAD-AUTONOMA-MORELOS"
+    },
+    "28478": {
+        "country_code": "MX",
+        "asn": "28478",
+        "description": "Escuela Bancaria y Comercial",
+        "handle": "ESCUELA-BANCARIA-COMERCIAL"
+    },
+    "28479": {
+        "country_code": "MX",
+        "asn": "28479",
+        "description": "PEGASO PCS",
+        "handle": "PEGASO-PCS"
+    },
+    "28480": {
+        "country_code": "MX",
+        "asn": "28480",
+        "description": "Industrias Xignux S.A. de C.V.",
+        "handle": "INDUSTRIAS-XIGNUX"
+    },
+    "28481": {
+        "country_code": "MX",
+        "asn": "28481",
+        "description": "SERVICIO Y EQUIPO EN TELEFON\u00cdA INTERNET Y TV S.A. DE C.V.",
+        "handle": "SERVICIO-EQUIPO-TELEFONIA"
+    },
+    "28482": {
+        "country_code": "MX",
+        "asn": "28482",
+        "description": "SERVICIO Y EQUIPO EN TELEFON\u00cdA INTERNET Y TV S.A. DE C.V.",
+        "handle": "SERVICIO-EQUIPO-TELEFONIA"
+    },
+    "28483": {
+        "country_code": "MX",
+        "asn": "28483",
+        "description": "SERVICIO Y EQUIPO EN TELEFON\u00cdA INTERNET Y TV S.A. DE C.V.",
+        "handle": "SERVICIO-EQUIPO-TELEFONIA"
+    },
+    "28484": {
+        "country_code": "MX",
+        "asn": "28484",
+        "description": "SERVICIO Y EQUIPO EN TELEFON\u00cdA INTERNET Y TV S.A. DE C.V.",
+        "handle": "SERVICIO-EQUIPO-TELEFONIA"
+    },
+    "28485": {
+        "country_code": "MX",
+        "asn": "28485",
+        "description": "SERVICIO Y EQUIPO EN TELEFON\u00cdA INTERNET Y TV S.A. DE C.V.",
+        "handle": "SERVICIO-EQUIPO-TELEFONIA"
+    },
+    "28486": {
+        "country_code": "MX",
+        "asn": "28486",
+        "description": "SERVICIO Y EQUIPO EN TELEFON\u00cdA INTERNET Y TV S.A. DE C.V.",
+        "handle": "SERVICIO-EQUIPO-TELEFONIA"
+    },
+    "28487": {
+        "country_code": "MX",
+        "asn": "28487",
+        "description": "SERVICIO Y EQUIPO EN TELEFON\u00cdA INTERNET Y TV S.A. DE C.V.",
+        "handle": "SERVICIO-EQUIPO-TELEFONIA"
+    },
+    "28488": {
+        "country_code": "MX",
+        "asn": "28488",
+        "description": "SERVICIO Y EQUIPO EN TELEFON\u00cdA INTERNET Y TV S.A. DE C.V.",
+        "handle": "SERVICIO-EQUIPO-TELEFONIA"
+    },
+    "28489": {
+        "country_code": "MX",
+        "asn": "28489",
+        "description": "SERVICIO Y EQUIPO EN TELEFON\u00cdA INTERNET Y TV S.A. DE C.V.",
+        "handle": "SERVICIO-EQUIPO-TELEFONIA"
+    },
+    "28490": {
+        "country_code": "MX",
+        "asn": "28490",
+        "description": "TELEVISION POR CABLE DEL NORTE DE SONORA S.A. DE C.V.",
+        "handle": "TELEVISION-POR-CABLE"
+    },
+    "28491": {
+        "country_code": "MX",
+        "asn": "28491",
+        "description": "INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA",
+        "handle": "INSTITUTO-NACIONAL-ESTADISTICA"
+    },
+    "28492": {
+        "country_code": "MX",
+        "asn": "28492",
+        "description": "Valores Corporativos Softtek S.A. de C.V.",
+        "handle": "VALORES-CORPORATIVOS-SOFTTEK"
+    },
+    "28493": {
+        "country_code": "MX",
+        "asn": "28493",
+        "description": "Universidad Pedagogica Nacional",
+        "handle": "UNIVERSIDAD-PEDAGOGICA-NACIONAL"
+    },
+    "28494": {
+        "country_code": "MX",
+        "asn": "28494",
+        "description": "Corporacion Nacional de Radiodeterminacion S.A. de C.V.",
+        "handle": "CORPORACION-NACIONAL-RADIODETERMINACION"
+    },
+    "28495": {
+        "country_code": "MX",
+        "asn": "28495",
+        "description": "Network Information Center M\u00e9xico",
+        "handle": "NETWORK-INFORMATION-CENTER"
+    },
+    "28496": {
+        "country_code": "MX",
+        "asn": "28496",
+        "description": "Network Information Center M\u00e9xico",
+        "handle": "NETWORK-INFORMATION-CENTER"
+    },
+    "28497": {
+        "country_code": "MX",
+        "asn": "28497",
+        "description": "Network Information Center M\u00e9xico",
+        "handle": "NETWORK-INFORMATION-CENTER"
+    },
+    "28498": {
+        "country_code": "MX",
+        "asn": "28498",
+        "description": "Network Information Center M\u00e9xico",
+        "handle": "NETWORK-INFORMATION-CENTER"
+    },
+    "28499": {
+        "country_code": "MX",
+        "asn": "28499",
+        "description": "Network Information Center M\u00e9xico",
+        "handle": "NETWORK-INFORMATION-CENTER"
+    },
+    "28500": {
+        "country_code": "MX",
+        "asn": "28500",
+        "description": "Network Information Center M\u00e9xico",
+        "handle": "NETWORK-INFORMATION-CENTER"
+    },
+    "28501": {
+        "country_code": "MX",
+        "asn": "28501",
+        "description": "GOBIERNO DEL ESTADO DE MICHOACAN",
+        "handle": "GOBIERNO-MICHOACAN"
+    },
+    "28502": {
+        "country_code": "MX",
+        "asn": "28502",
+        "description": "Axtel S.A.B. de C.V.",
+        "handle": "AXTEL"
+    },
+    "28503": {
+        "country_code": "MX",
+        "asn": "28503",
+        "description": "GSAT COMUNICACIONES SA DE CV",
+        "handle": "GSAT-COMUNICACIONES"
+    },
+    "28504": {
+        "country_code": "MX",
+        "asn": "28504",
+        "description": "Network Information Center M\u00e9xico",
+        "handle": "NETWORK-INFORMATION-CENTER"
+    },
+    "28505": {
+        "country_code": "MX",
+        "asn": "28505",
+        "description": "Universidad Regiomontana S.C.",
+        "handle": "UNIVERSIDAD-REGIOMONTANA"
+    },
+    "28506": {
+        "country_code": "MX",
+        "asn": "28506",
+        "description": "Sistemas de Communicacion GM S.A. de C.V.",
+        "handle": "SISTEMAS-COMMUNICACION-GM"
+    },
+    "28507": {
+        "country_code": "MX",
+        "asn": "28507",
+        "description": "TV Azteca S.A.B. de C.V.",
+        "handle": "TV-AZTECA"
+    },
+    "28508": {
+        "country_code": "MX",
+        "asn": "28508",
+        "description": "Desarollo Integral Administrativo S.A. de C.V.",
+        "handle": "DESAROLLO-INTEGRAL-ADMINISTRATIVO"
+    },
+    "28509": {
+        "country_code": "MX",
+        "asn": "28509",
+        "description": "Cablemas Telecomunicaciones SA de CV",
+        "handle": "CABLEMAS-TELECOMUNICACIONES"
+    },
+    "28510": {
+        "country_code": "MX",
+        "asn": "28510",
+        "description": "Network Information Center M\u00e9xico",
+        "handle": "NETWORK-INFORMATION-CENTER"
+    },
+    "28511": {
+        "country_code": "MX",
+        "asn": "28511",
+        "description": "Network Information Center M\u00e9xico",
+        "handle": "NETWORK-INFORMATION-CENTER"
+    },
+    "28512": {
+        "country_code": "MX",
+        "asn": "28512",
+        "description": "Cablemas Telecomunicaciones SA de CV",
+        "handle": "CABLEMAS-TELECOMUNICACIONES"
+    },
+    "28513": {
+        "country_code": "MX",
+        "asn": "28513",
+        "description": "UNINET",
+        "handle": "UNINET"
+    },
+    "28514": {
+        "country_code": "MX",
+        "asn": "28514",
+        "description": "Abastecedora de Conectividad S.A. de C.V.",
+        "handle": "ABASTECEDORA-CONECTIVIDAD"
+    },
+    "28515": {
+        "country_code": "MX",
+        "asn": "28515",
+        "description": "Servicios Electronicos Globales S.A. de C.V.",
+        "handle": "SERVICIOS-ELECTRONICOS-GLOBALES"
+    },
+    "28516": {
+        "country_code": "MX",
+        "asn": "28516",
+        "description": "Cablemas Telecomunicaciones SA de CV",
+        "handle": "CABLEMAS-TELECOMUNICACIONES"
+    },
+    "28517": {
+        "country_code": "MX",
+        "asn": "28517",
+        "description": "TV Azteca S.A.B. de C.V.",
+        "handle": "TV-AZTECA"
+    },
+    "28518": {
+        "country_code": "MX",
+        "asn": "28518",
+        "description": "Television Internacional S.A. de C.V.",
+        "handle": "TELEVISION-INTERNACIONAL"
+    },
+    "28519": {
+        "country_code": "MX",
+        "asn": "28519",
+        "description": "Universidad Autonoma de Guadalajara A.C.",
+        "handle": "UNIVERSIDAD-AUTONOMA-GUADALAJARA"
+    },
+    "28520": {
+        "country_code": "MX",
+        "asn": "28520",
+        "description": "Omnilife de Mexico S.A. de C.V.",
+        "handle": "OMNILIFE-MEXICO"
+    },
+    "28521": {
+        "country_code": "MX",
+        "asn": "28521",
+        "description": "AT&T COMUNICACIONES DIGITALES S DE RL",
+        "handle": "AT-T-COMUNICACIONES"
+    },
+    "28522": {
+        "country_code": "MX",
+        "asn": "28522",
+        "description": "JOSE MIGUEL MACIAS CONTRERAS",
+        "handle": "JOSE-MIGUEL-MACIAS-CONTRERAS"
+    },
+    "28523": {
+        "country_code": "MX",
+        "asn": "28523",
+        "description": "Television Internacional S.A. de C.V.",
+        "handle": "TELEVISION-INTERNACIONAL"
+    },
+    "28524": {
+        "country_code": "MX",
+        "asn": "28524",
+        "description": "Imatech Networks S.A. de C.V.",
+        "handle": "IMATECH-NETWORKS"
+    },
+    "28525": {
+        "country_code": "MX",
+        "asn": "28525",
+        "description": "Television Internacional S.A. de C.V.",
+        "handle": "TELEVISION-INTERNACIONAL"
+    },
+    "28526": {
+        "country_code": "MX",
+        "asn": "28526",
+        "description": "Universidad Autonoma del Estado de Mexico",
+        "handle": "UNIVERSIDAD-AUTONOMA-MEXICO"
+    },
+    "28529": {
+        "country_code": "MX",
+        "asn": "28529",
+        "description": "Red Five Two S.A. de C.V.",
+        "handle": "RED-FIVE-TWO"
+    },
+    "28530": {
+        "country_code": "MX",
+        "asn": "28530",
+        "description": "Mexico Red de Telecomunicaciones S. de R.L. de C.V.",
+        "handle": "MEXICO-RED-TELECOMUNICACIONES"
+    },
+    "28531": {
+        "country_code": "MX",
+        "asn": "28531",
+        "description": "Mexico Red de Telecomunicaciones S. de R.L. de C.V.",
+        "handle": "MEXICO-RED-TELECOMUNICACIONES"
+    },
+    "28532": {
+        "country_code": "MX",
+        "asn": "28532",
+        "description": "Mexico Red de Telecomunicaciones S. de R.L. de C.V.",
+        "handle": "MEXICO-RED-TELECOMUNICACIONES"
+    },
+    "28533": {
+        "country_code": "MX",
+        "asn": "28533",
+        "description": "Mexico Red de Telecomunicaciones S. de R.L. de C.V.",
+        "handle": "MEXICO-RED-TELECOMUNICACIONES"
+    },
+    "28534": {
+        "country_code": "MX",
+        "asn": "28534",
+        "description": "Mexico Red de Telecomunicaciones S. de R.L. de C.V.",
+        "handle": "MEXICO-RED-TELECOMUNICACIONES"
+    },
+    "28535": {
+        "country_code": "MX",
+        "asn": "28535",
+        "description": "Mexico Red de Telecomunicaciones S. de R.L. de C.V.",
+        "handle": "MEXICO-RED-TELECOMUNICACIONES"
+    },
+    "28536": {
+        "country_code": "MX",
+        "asn": "28536",
+        "description": "Mexico Red de Telecomunicaciones S. de R.L. de C.V.",
+        "handle": "MEXICO-RED-TELECOMUNICACIONES"
+    },
+    "28537": {
+        "country_code": "MX",
+        "asn": "28537",
+        "description": "Mexico Red de Telecomunicaciones S. de R.L. de C.V.",
+        "handle": "MEXICO-RED-TELECOMUNICACIONES"
+    },
+    "28538": {
+        "country_code": "MX",
+        "asn": "28538",
+        "description": "Cablemas Telecomunicaciones SA de CV",
+        "handle": "CABLEMAS-TELECOMUNICACIONES"
+    },
+    "28539": {
+        "country_code": "MX",
+        "asn": "28539",
+        "description": "JOSE MIGUEL MACIAS CONTRERAS",
+        "handle": "JOSE-MIGUEL-MACIAS-CONTRERAS"
+    },
+    "28540": {
+        "country_code": "MX",
+        "asn": "28540",
+        "description": "Network Information Center M\u00e9xico",
+        "handle": "NETWORK-INFORMATION-CENTER"
+    },
+    "28541": {
+        "country_code": "MX",
+        "asn": "28541",
+        "description": "Mega Cable S.A. de C.V.",
+        "handle": "MEGA-CABLE"
+    },
+    "28543": {
+        "country_code": "MX",
+        "asn": "28543",
+        "description": "Mexico Red de Telecomunicaciones S. de R.L. de C.V.",
+        "handle": "MEXICO-RED-TELECOMUNICACIONES"
+    },
+    "28544": {
+        "country_code": "MX",
+        "asn": "28544",
+        "description": "Mexico Red de Telecomunicaciones S. de R.L. de C.V.",
+        "handle": "MEXICO-RED-TELECOMUNICACIONES"
+    },
+    "28545": {
+        "country_code": "MX",
+        "asn": "28545",
+        "description": "Cablemas Telecomunicaciones SA de CV",
+        "handle": "CABLEMAS-TELECOMUNICACIONES"
+    },
+    "28546": {
+        "country_code": "MX",
+        "asn": "28546",
+        "description": "Servnet Mexico S.A. de C.V.",
+        "handle": "SERVNET-MEXICO"
+    },
+    "28547": {
+        "country_code": "MX",
+        "asn": "28547",
+        "description": "Home Depot Mexico S. de R.L. de C.V.",
+        "handle": "HOME-DEPOT-MEXICO"
+    },
+    "28548": {
+        "country_code": "MX",
+        "asn": "28548",
+        "description": "Cablevisi\u00f3n S.A. de C.V.",
+        "handle": "CABLEVISION"
+    },
+    "28549": {
+        "country_code": "MX",
+        "asn": "28549",
+        "description": "Cablemas Telecomunicaciones SA de CV",
+        "handle": "CABLEMAS-TELECOMUNICACIONES"
+    },
+    "28550": {
+        "country_code": "MX",
+        "asn": "28550",
+        "description": "UNINET",
+        "handle": "UNINET"
+    },
+    "28551": {
+        "country_code": "MX",
+        "asn": "28551",
+        "description": "NUEVA WAL MART DE MEXICO",
+        "handle": "NUEVA-WAL-MART-MEXICO"
+    },
+    "28552": {
+        "country_code": "MX",
+        "asn": "28552",
+        "description": "HISPASAT M\u00c9XICO S.A. de C.V.",
+        "handle": "HISPASAT-MEXICO"
+    },
+    "28553": {
+        "country_code": "MX",
+        "asn": "28553",
+        "description": "Mabe S.A. de C.V.",
+        "handle": "MABE"
+    },
+    "28554": {
+        "country_code": "MX",
+        "asn": "28554",
+        "description": "Cablemas Telecomunicaciones SA de CV",
+        "handle": "CABLEMAS-TELECOMUNICACIONES"
+    },
+    "28555": {
+        "country_code": "MX",
+        "asn": "28555",
+        "description": "Cablemas Telecomunicaciones SA de CV",
+        "handle": "CABLEMAS-TELECOMUNICACIONES"
+    },
+    "28556": {
+        "country_code": "MX",
+        "asn": "28556",
+        "description": "Cablemas Telecomunicaciones SA de CV",
+        "handle": "CABLEMAS-TELECOMUNICACIONES"
+    },
+    "28557": {
+        "country_code": "MX",
+        "asn": "28557",
+        "description": "Cablemas Telecomunicaciones SA de CV",
+        "handle": "CABLEMAS-TELECOMUNICACIONES"
+    },
+    "28558": {
+        "country_code": "MX",
+        "asn": "28558",
+        "description": "Cablemas Telecomunicaciones SA de CV",
+        "handle": "CABLEMAS-TELECOMUNICACIONES"
+    },
+    "28559": {
+        "country_code": "MX",
+        "asn": "28559",
+        "description": "Universidad Autonoma de Coahuila",
+        "handle": "UNIVERSIDAD-AUTONOMA-COAHUILA"
+    },
+    "28560": {
+        "country_code": "MX",
+        "asn": "28560",
+        "description": "Arnecom S.A. de C.V.",
+        "handle": "ARNECOM"
+    },
+    "28561": {
+        "country_code": "MX",
+        "asn": "28561",
+        "description": "Micronet de Mexico S.A. de C.V.",
+        "handle": "MICRONET-MEXICO"
+    },
+    "28563": {
+        "country_code": "MX",
+        "asn": "28563",
+        "description": "Instituto Nacional de Salud P\u00fablica",
+        "handle": "INSTITUTO-NACIONAL-SALUD"
+    },
+    "28564": {
+        "country_code": "MX",
+        "asn": "28564",
+        "description": "Network Information Center M\u00e9xico",
+        "handle": "NETWORK-INFORMATION-CENTER"
+    },
+    "28566": {
+        "country_code": "MX",
+        "asn": "28566",
+        "description": "Autotransportes Herradura de Plata S.A. de C.V.",
+        "handle": "AUTOTRANSPORTES-HERRADURA-PLATA"
+    },
+    "28567": {
+        "country_code": "MX",
+        "asn": "28567",
+        "description": "Operadora de Rastreos UDA S.A. de C.V.",
+        "handle": "OPERADORA-RASTREOS-UDA"
+    },
+    "28569": {
+        "country_code": "MX",
+        "asn": "28569",
+        "description": "Corporacion Universitaria para el Desarrollo de Internet A.C.",
+        "handle": "CORPORACION-UNIVERSITARIA-PARA"
+    },
+    "28570": {
+        "country_code": "MX",
+        "asn": "28570",
+        "description": "Ryder Capital S. de R.L. de C.V.",
+        "handle": "RYDER-CAPITAL"
+    },
+    "32069": {
+        "country_code": "MX",
+        "asn": "32069",
+        "description": "Dover Web Services Ltd.",
+        "handle": "ASN-DWSL1"
+    },
+    "40345": {
+        "country_code": "MX",
+        "asn": "40345",
+        "description": "IP-Com LLC",
+        "handle": "IP-COM"
+    },
+    "139235": {
+        "country_code": "MX",
+        "asn": "139235",
+        "description": "Truxgo S. R.L. de C.V.",
+        "handle": "TSRDC-AS-AP"
+    },
+    "199751": {
+        "country_code": "MX",
+        "asn": "199751",
+        "description": "GRUPO HOSTIT SAS",
+        "handle": "HOSTIT-AS"
+    },
+    "200335": {
+        "country_code": "MX",
+        "asn": "200335",
+        "description": "Esteban de Jesus Hernandez Angulo",
+        "handle": "ANGULO-AS"
+    },
+    "203626": {
+        "country_code": "MX",
+        "asn": "203626",
+        "description": "ANGEL MIZAEL SEGOVIA SANSORES",
+        "handle": "TERAMONT-HOST"
+    },
+    "209245": {
+        "country_code": "MX",
+        "asn": "209245",
+        "description": "Federico Martinez Fernandez",
+        "handle": "MTZFEDERICO-NET"
+    },
+    "213866": {
+        "country_code": "MX",
+        "asn": "213866",
+        "description": "Jose Patricio Rojas Alba",
+        "handle": "GRUPOROJASSILVA"
+    },
+    "262912": {
+        "country_code": "MX",
+        "asn": "262912",
+        "description": "Network Information Center M\u00e9xico",
+        "handle": "NETWORK-INFORMATION-CENTER"
+    },
+    "262913": {
+        "country_code": "MX",
+        "asn": "262913",
+        "description": "Konecta de Mexico S. de R.L. de C.V.",
+        "handle": "KONECTA-MEXICO"
+    },
+    "262914": {
+        "country_code": "MX",
+        "asn": "262914",
+        "description": "Comision Federal de Electricidad",
+        "handle": "COMISION-FEDERAL-ELECTRICIDAD"
+    },
+    "262916": {
+        "country_code": "MX",
+        "asn": "262916",
+        "description": "Mega Cable S.A. de C.V.",
+        "handle": "MEGA-CABLE"
+    },
+    "262920": {
+        "country_code": "MX",
+        "asn": "262920",
+        "description": "Comision Nacional para el Conocimiento y Uso de la",
+        "handle": "COMISION-NACIONAL-PARA"
+    },
+    "262921": {
+        "country_code": "MX",
+        "asn": "262921",
+        "description": "WL Comunicaciones S.A. de C.V.",
+        "handle": "WL-COMUNICACIONES"
+    },
+    "262922": {
+        "country_code": "MX",
+        "asn": "262922",
+        "description": "Gobierno del Estado de Mexico",
+        "handle": "GOBIERNO-MEXICO"
+    },
+    "262923": {
+        "country_code": "MX",
+        "asn": "262923",
+        "description": "SERVICIOS ADMINISTRATIVOS PENOLES S.A. DE C.V.",
+        "handle": "SERVICIOS-ADMINISTRATIVOS-PENOLES"
+    },
+    "262924": {
+        "country_code": "MX",
+        "asn": "262924",
+        "description": "Corporacion Universitaria para el Desarrollo de Internet A.C.",
+        "handle": "CORPORACION-UNIVERSITARIA-PARA"
+    },
+    "262925": {
+        "country_code": "MX",
+        "asn": "262925",
+        "description": "Electr\u00f3nica Steren S.A. de C.V.",
+        "handle": "ELECTRONICA-STEREN"
+    },
+    "262926": {
+        "country_code": "MX",
+        "asn": "262926",
+        "description": "BRADESCARD MEXICO S DE RL",
+        "handle": "BRADESCARD-MEXICO"
+    },
+    "262927": {
+        "country_code": "MX",
+        "asn": "262927",
+        "description": "ELARA COMUNICACIONES SAPI DE CV",
+        "handle": "ELARA-COMUNICACIONES"
+    },
+    "262936": {
+        "country_code": "MX",
+        "asn": "262936",
+        "description": "Instituto Nacional de Ecolog\u00eda y Cambio Clim\u00e1tico",
+        "handle": "INSTITUTO-NACIONAL-ECOLOGIA"
+    },
+    "262944": {
+        "country_code": "MX",
+        "asn": "262944",
+        "description": "Spectro Networks Telecomunicaciones S. de R.L. de C.V.",
+        "handle": "SPECTRO-NETWORKS-TELECOMUNICACIONES"
+    },
+    "263114": {
+        "country_code": "MX",
+        "asn": "263114",
+        "description": "Kiwi Networks",
+        "handle": "KIWI-NETWORKS"
+    },
+    "263115": {
+        "country_code": "MX",
+        "asn": "263115",
+        "description": "HOUSE OF FULLER S DE RL DE CV",
+        "handle": "HOUSE-OF-FULLER"
+    },
+    "263123": {
+        "country_code": "MX",
+        "asn": "263123",
+        "description": "HostDime.com.mx S.A. de C.V.",
+        "handle": "HOSTDIMECOMMX"
+    },
+    "263127": {
+        "country_code": "MX",
+        "asn": "263127",
+        "description": "Redes y Comunicaciones de Michoacan S.A. de C.V.",
+        "handle": "REDES-COMUNICACIONES-MICHOACAN"
+    },
+    "263134": {
+        "country_code": "MX",
+        "asn": "263134",
+        "description": "UNIVERSIDAD AUTONOMA DE QUERETARO",
+        "handle": "UNIVERSIDAD-AUTONOMA-QUERETARO"
+    },
+    "263138": {
+        "country_code": "MX",
+        "asn": "263138",
+        "description": "METALSA SAPI DE CV",
+        "handle": "METALSA"
+    },
+    "263141": {
+        "country_code": "MX",
+        "asn": "263141",
+        "description": "JAFRA COSMETICS INTERNATIONAL S.A. DE C.V.",
+        "handle": "JAFRA-COSMETICS-INTERNATIONAL"
+    },
+    "263148": {
+        "country_code": "MX",
+        "asn": "263148",
+        "description": "Universidad Autonoma de Campeche",
+        "handle": "UNIVERSIDAD-AUTONOMA-CAMPECHE"
+    },
+    "263149": {
+        "country_code": "MX",
+        "asn": "263149",
+        "description": "Centro de Ense\u00f1anza Tecnica Industrial",
+        "handle": "CENTRO-ENSENANZA-TECNICA"
+    },
+    "263150": {
+        "country_code": "MX",
+        "asn": "263150",
+        "description": "ANTONIO FRIAS SALAZAR",
+        "handle": "ANTONIO-FRIAS-SALAZAR"
+    },
+    "263157": {
+        "country_code": "MX",
+        "asn": "263157",
+        "description": "Tu Casa Inalambrica de Mexico",
+        "handle": "TU-CASA-INALAMBRICA-MEXICO"
+    },
+    "263158": {
+        "country_code": "MX",
+        "asn": "263158",
+        "description": "CREATIVE MULTILINGUAL STRATEGIES S. DE R.L. DE C.V.",
+        "handle": "CREATIVE-MULTILINGUAL-STRATEGIES"
+    },
+    "263167": {
+        "country_code": "MX",
+        "asn": "263167",
+        "description": "COMUNICALO DE MEXICO S.A. DE C.V",
+        "handle": "COMUNICALO-MEXICO"
+    },
+    "265400": {
+        "country_code": "MX",
+        "asn": "265400",
+        "description": "Aire Cable S.A. de C.V.",
+        "handle": "AIRE-CABLE-SA-DE-CV"
+    },
+    "265501": {
+        "country_code": "MX",
+        "asn": "265501",
+        "description": "CONVERGIA DE MEXICO S.A. DE C.V.",
+        "handle": "CONVERGIA-MEXICO"
+    },
+    "265502": {
+        "country_code": "MX",
+        "asn": "265502",
+        "description": "BOLSA INSTITUCIONAL DE VALORES",
+        "handle": "BOLSA-INSTITUCIONAL-VALORES"
+    },
+    "265503": {
+        "country_code": "MX",
+        "asn": "265503",
+        "description": "IQCLOUD S.A. DE C.V.",
+        "handle": "IQCLOUD"
+    },
+    "265504": {
+        "country_code": "MX",
+        "asn": "265504",
+        "description": "DIGITAL COMUNICATIONS DE MEXICO SA DE CV",
+        "handle": "DIGITAL-COMUNICATIONS-MEXICO"
+    },
+    "265505": {
+        "country_code": "MX",
+        "asn": "265505",
+        "description": "INTELVID S.A. DE C.V.",
+        "handle": "INTELVID"
+    },
+    "265506": {
+        "country_code": "MX",
+        "asn": "265506",
+        "description": "ISD NETWORKS S.A DE C.V",
+        "handle": "ISD-NETWORKS"
+    },
+    "265508": {
+        "country_code": "MX",
+        "asn": "265508",
+        "description": "Comercial City Fresko S de RL de CV",
+        "handle": "COMERCIAL-CITY-FRESKO"
+    },
+    "265509": {
+        "country_code": "MX",
+        "asn": "265509",
+        "description": "OPTOENLACES S.A. DE C.V.",
+        "handle": "OPTOENLACES"
+    },
+    "265510": {
+        "country_code": "MX",
+        "asn": "265510",
+        "description": "EJA TELECOMM S DE RL",
+        "handle": "EJA-TELECOMM"
+    },
+    "265511": {
+        "country_code": "MX",
+        "asn": "265511",
+        "description": "PLAMEX SA DE CV",
+        "handle": "PLAMEX"
+    },
+    "265512": {
+        "country_code": "MX",
+        "asn": "265512",
+        "description": "UNINET",
+        "handle": "UNINET"
+    },
+    "265513": {
+        "country_code": "MX",
+        "asn": "265513",
+        "description": "UNINET",
+        "handle": "UNINET"
+    },
+    "265514": {
+        "country_code": "MX",
+        "asn": "265514",
+        "description": "UNINET",
+        "handle": "UNINET"
+    },
+    "265515": {
+        "country_code": "MX",
+        "asn": "265515",
+        "description": "TELEVERA RED S. A. P. I. DE C.V.",
+        "handle": "TELEVERA-RED-S-P-I"
+    },
+    "265517": {
+        "country_code": "MX",
+        "asn": "265517",
+        "description": "SMARTNETT CARRIER SA DE CV",
+        "handle": "SMARTNETT-CARRIER"
+    },
+    "265518": {
+        "country_code": "MX",
+        "asn": "265518",
+        "description": "DIRECTO TELECOM S.A. DE C.V.",
+        "handle": "DIRECTO-TELECOM"
+    },
+    "265519": {
+        "country_code": "MX",
+        "asn": "265519",
+        "description": "INSTITUTO POTOSINO DE INVESTIGACION CIENTIFICA Y TECNOLOGICA",
+        "handle": "INSTITUTO-POTOSINO-INVESTIGACION"
+    },
+    "265520": {
+        "country_code": "MX",
+        "asn": "265520",
+        "description": "IAR Mexico",
+        "handle": "IAR-MEXICO"
+    },
+    "265521": {
+        "country_code": "MX",
+        "asn": "265521",
+        "description": "Supermercados Internacionales HEB SA de CV",
+        "handle": "SUPERMERCADOS-INTERNACIONALES-HEB"
+    },
+    "265523": {
+        "country_code": "MX",
+        "asn": "265523",
+        "description": "Sierra Madre Internet SA de CV",
+        "handle": "SIERRA-MADRE-INTERNET"
+    },
+    "265524": {
+        "country_code": "MX",
+        "asn": "265524",
+        "description": "COEFICIENTE COMUNICACIONES",
+        "handle": "COEFICIENTE-COMUNICACIONES"
+    },
+    "265525": {
+        "country_code": "MX",
+        "asn": "265525",
+        "description": "TV CABLE DEL GUADIANA S.A DE C.V.",
+        "handle": "TV-CABLE-GUADIANA"
+    },
+    "265526": {
+        "country_code": "MX",
+        "asn": "265526",
+        "description": "Evoluciona Comunicaciones SA de CV",
+        "handle": "EVOLUCIONA-COMUNICACIONES"
+    },
+    "265527": {
+        "country_code": "MX",
+        "asn": "265527",
+        "description": "POWER CLOUD AND HOSTING SA DE CV",
+        "handle": "POWER-CLOUD-AND-HOSTING"
+    },
+    "265529": {
+        "country_code": "MX",
+        "asn": "265529",
+        "description": "Miguel Angel Gonzalez Dobarganes",
+        "handle": "MIGUEL-ANGEL-GONZALEZ"
+    },
+    "265530": {
+        "country_code": "MX",
+        "asn": "265530",
+        "description": "FIBRATV SA DE CV",
+        "handle": "FIBRATV"
+    },
+    "265531": {
+        "country_code": "MX",
+        "asn": "265531",
+        "description": "LUMENET COMUNICACIONES S. DE R.L. DE C.V.",
+        "handle": "LUMENET-COMUNICACIONES"
+    },
+    "265533": {
+        "country_code": "MX",
+        "asn": "265533",
+        "description": "Dimex Capital SA de CV SOFOM ENR",
+        "handle": "DIMEX-CAPITAL"
+    },
+    "265534": {
+        "country_code": "MX",
+        "asn": "265534",
+        "description": "TELECOMUNICACIONES DIVERSIFICADAS S.A. DE C.V.",
+        "handle": "TELECOMUNICACIONES-DIVERSIFICADAS"
+    },
+    "265535": {
+        "country_code": "MX",
+        "asn": "265535",
+        "description": "Wibo SA de CV",
+        "handle": "WIBO"
+    },
+    "265538": {
+        "country_code": "MX",
+        "asn": "265538",
+        "description": "NDI.COM.MX SA DE CV",
+        "handle": "NDICOMMX"
+    },
+    "265539": {
+        "country_code": "MX",
+        "asn": "265539",
+        "description": "LIBERTY NETWORKS SOLUTIONS MEXICO",
+        "handle": "LIBERTY-NETWORKS-SOLUTIONS"
+    },
+    "265540": {
+        "country_code": "MX",
+        "asn": "265540",
+        "description": "ALTAN REDES S.A.P.I. de C. V.",
+        "handle": "ALTAN-REDES-SAPI-C-V"
+    },
+    "265541": {
+        "country_code": "MX",
+        "asn": "265541",
+        "description": "Operbes S.A. de C.V.",
+        "handle": "OPERBES"
+    },
+    "265542": {
+        "country_code": "MX",
+        "asn": "265542",
+        "description": "Servicios Corporativos BAL S.A. de C.V.",
+        "handle": "SERVICIOS-CORPORATIVOS-BAL"
+    },
+    "265545": {
+        "country_code": "MX",
+        "asn": "265545",
+        "description": "OPSICOME SA DE CV",
+        "handle": "OPSICOME"
+    },
+    "265546": {
+        "country_code": "MX",
+        "asn": "265546",
+        "description": "HYUNDAI AUTOEVER MEXICO S. DE R.L. DE CV",
+        "handle": "HYUNDAI-AUTOEVER-MEXICO"
+    },
+    "265547": {
+        "country_code": "MX",
+        "asn": "265547",
+        "description": "GigNet S.A. de C.V.",
+        "handle": "GIGNET"
+    },
+    "265548": {
+        "country_code": "MX",
+        "asn": "265548",
+        "description": "WCD S.A. DE C.V.",
+        "handle": "WCD"
+    },
+    "265549": {
+        "country_code": "MX",
+        "asn": "265549",
+        "description": "RBA CATV SA DE CV",
+        "handle": "RBA-CATV"
+    },
+    "265550": {
+        "country_code": "MX",
+        "asn": "265550",
+        "description": "YUCATAN FIBER PARTNERS",
+        "handle": "YUCATAN-FIBER-PARTNERS"
+    },
+    "265551": {
+        "country_code": "MX",
+        "asn": "265551",
+        "description": "TELEVISION POR CABLE TEPA S.A DE C.V",
+        "handle": "TELEVISION-POR-CABLE"
+    },
+    "265552": {
+        "country_code": "MX",
+        "asn": "265552",
+        "description": "Baja Datacenter SA de CV",
+        "handle": "BAJA-DATACENTER"
+    },
+    "265553": {
+        "country_code": "MX",
+        "asn": "265553",
+        "description": "Comisi\u00f3n Reguladora de Telecomunicaciones",
+        "handle": "INSTITUTO-FEDERAL-TELECOMUNICACIONES"
+    },
+    "265554": {
+        "country_code": "MX",
+        "asn": "265554",
+        "description": "HISPASAT M\u00c9XICO S.A. de C.V.",
+        "handle": "HISPASAT-MEXICO"
+    },
+    "265555": {
+        "country_code": "MX",
+        "asn": "265555",
+        "description": "Service Trends SA de CV",
+        "handle": "SERVICE-TRENDS"
+    },
+    "265556": {
+        "country_code": "MX",
+        "asn": "265556",
+        "description": "CONSORTIA TIC S. DE R.L. DE C.V.",
+        "handle": "CONSORTIA-TIC"
+    },
+    "265559": {
+        "country_code": "MX",
+        "asn": "265559",
+        "description": "Jos\u00e9 Homero Trevi\u00f1o Villase\u00f1or",
+        "handle": "JOSE-HOMERO-TREVINO-VILLASENOR"
+    },
+    "265560": {
+        "country_code": "MX",
+        "asn": "265560",
+        "description": "BANCO REGIONAL SA INSTITUCION DE BANCA MULTIPLE BANREGIO GRUPO FINANCIERO",
+        "handle": "BANCO-REGIONAL"
+    },
+    "265561": {
+        "country_code": "MX",
+        "asn": "265561",
+        "description": "LANTOINTERNET SA DE CV",
+        "handle": "LANTOINTERNET"
+    },
+    "265562": {
+        "country_code": "MX",
+        "asn": "265562",
+        "description": "Cosmored Puerto Vallarta S.A. de C.V.",
+        "handle": "COSMORED-PUERTO-VALLARTA"
+    },
+    "265564": {
+        "country_code": "MX",
+        "asn": "265564",
+        "description": "AG HOLDINGS",
+        "handle": "AG-HOLDINGS"
+    },
+    "265565": {
+        "country_code": "MX",
+        "asn": "265565",
+        "description": "QDS NETWORKS S.A. DE C.V.",
+        "handle": "QDS-NETWORKS"
+    },
+    "265566": {
+        "country_code": "MX",
+        "asn": "265566",
+        "description": "TELESISTEMAS PENINSULARES SA DE CV",
+        "handle": "TELESISTEMAS-PENINSULARES"
+    },
+    "265567": {
+        "country_code": "MX",
+        "asn": "265567",
+        "description": "Krolik Solutions S.A de C.V.",
+        "handle": "KROLIK-SOLUTIONS"
+    },
+    "265568": {
+        "country_code": "MX",
+        "asn": "265568",
+        "description": "Internacional de Digitalizacion SA de CV",
+        "handle": "INTERNACIONAL-DIGITALIZACION"
+    },
+    "265569": {
+        "country_code": "MX",
+        "asn": "265569",
+        "description": "QUANTATEL SA DE CV",
+        "handle": "QUANTATEL"
+    },
+    "265570": {
+        "country_code": "MX",
+        "asn": "265570",
+        "description": "INALAMBRICO DEDICADO S.A. DE C.V.",
+        "handle": "INALAMBRICO-DEDICADO"
+    },
+    "265571": {
+        "country_code": "MX",
+        "asn": "265571",
+        "description": "ENLACE INT S.A. DE C.V.",
+        "handle": "ENLACE-INT"
+    },
+    "265572": {
+        "country_code": "MX",
+        "asn": "265572",
+        "description": "ENRIQUE REYNOSO PEREZ",
+        "handle": "ENRIQUE-REYNOSO-PEREZ"
+    },
+    "265573": {
+        "country_code": "MX",
+        "asn": "265573",
+        "description": "NEUROTECH DE LA LAGUNA SA DE CV",
+        "handle": "NEUROTECH-LA-LAGUNA"
+    },
+    "265574": {
+        "country_code": "MX",
+        "asn": "265574",
+        "description": "IPTVTEL COMUNICACIONES S DE RL DE CV",
+        "handle": "IPTVTEL-COMUNICACIONES"
+    },
+    "265575": {
+        "country_code": "MX",
+        "asn": "265575",
+        "description": "Tecnologias Avanzadas S. de R.L. de C.V.",
+        "handle": "TECNOLOGIAS-AVANZADAS"
+    },
+    "265576": {
+        "country_code": "MX",
+        "asn": "265576",
+        "description": "Telecomunicaciones Aut\u00f3nomas Sin L\u00edmite S.A. de C.V.",
+        "handle": "TELECOMUNICACIONES-AUTONOMAS-SIN"
+    },
+    "265577": {
+        "country_code": "MX",
+        "asn": "265577",
+        "description": "INDEX DATACOM S.A. DE C.V.",
+        "handle": "INDEX-DATACOM"
+    },
+    "265578": {
+        "country_code": "MX",
+        "asn": "265578",
+        "description": "AZAHEL ENRIQUE GARCIA SALAZAR",
+        "handle": "AZAHEL-ENRIQUE-GARCIA-SALAZAR"
+    },
+    "265579": {
+        "country_code": "MX",
+        "asn": "265579",
+        "description": "TELECOMUNICACIONES OTOMIES",
+        "handle": "TELECOMUNICACIONES-OTOMIES"
+    },
+    "265580": {
+        "country_code": "MX",
+        "asn": "265580",
+        "description": "Digitcenter de M\u00e9xico S.A. de C.V.",
+        "handle": "DIGITCENTER-MEXICO"
+    },
+    "265581": {
+        "country_code": "MX",
+        "asn": "265581",
+        "description": "JOSE GONZALO OLIVARES MADRIGAL",
+        "handle": "JOSE-GONZALO-OLIVARES-MADRIGAL"
+    },
+    "265582": {
+        "country_code": "MX",
+        "asn": "265582",
+        "description": "Wifmax S.A de C.V.",
+        "handle": "WIFMAX"
+    },
+    "265583": {
+        "country_code": "MX",
+        "asn": "265583",
+        "description": "SISTEMAS Y SOLUCIONES DE CAMPECHE SAS DE CV",
+        "handle": "SISTEMAS-SOLUCIONES-CAMPECHE"
+    },
+    "265584": {
+        "country_code": "MX",
+        "asn": "265584",
+        "description": "YAHOO DE MEXICO S.A. DE C.V.",
+        "handle": "YAHOO-MEXICO"
+    },
+    "265585": {
+        "country_code": "MX",
+        "asn": "265585",
+        "description": "Alma Jessica Gallegos Gutierrez",
+        "handle": "ALMA-JESSICA-GALLEGOS"
+    },
+    "265586": {
+        "country_code": "MX",
+        "asn": "265586",
+        "description": "INBTEL SA DE CV",
+        "handle": "INBTEL"
+    },
+    "265587": {
+        "country_code": "MX",
+        "asn": "265587",
+        "description": "HULUX TELECOMUNICACIONES",
+        "handle": "HULUX-TELECOMUNICACIONES"
+    },
+    "265588": {
+        "country_code": "MX",
+        "asn": "265588",
+        "description": "AEROVIAS DE MEXICO S.A. DE C.V.",
+        "handle": "AEROVIAS-MEXICO"
+    },
+    "265589": {
+        "country_code": "MX",
+        "asn": "265589",
+        "description": "Gobierno del Estado de Morelos",
+        "handle": "GOBIERNO-MORELOS"
+    },
+    "265590": {
+        "country_code": "MX",
+        "asn": "265590",
+        "description": "ABIX TELECOMUNICACIONES S.A. DE C.V.",
+        "handle": "ABIX-TELECOMUNICACIONES"
+    },
+    "265591": {
+        "country_code": "MX",
+        "asn": "265591",
+        "description": "HNS DE MEXICO S.A. DE C.V.",
+        "handle": "HNS-MEXICO"
+    },
+    "265592": {
+        "country_code": "MX",
+        "asn": "265592",
+        "description": "KBLEX SA DE CV",
+        "handle": "KBLEX"
+    },
+    "265593": {
+        "country_code": "MX",
+        "asn": "265593",
+        "description": "TELECOMMERCE ACCES SERVICE S.A. DE C.V.",
+        "handle": "TELECOMMERCE-ACCES-SERVICE"
+    },
+    "265594": {
+        "country_code": "MX",
+        "asn": "265594",
+        "description": "Television Internacional S.A. de C.V.",
+        "handle": "TELEVISION-INTERNACIONAL"
+    },
+    "265595": {
+        "country_code": "MX",
+        "asn": "265595",
+        "description": "Natalia Chareeva",
+        "handle": "NATALIA-CHAREEVA"
+    },
+    "265596": {
+        "country_code": "MX",
+        "asn": "265596",
+        "description": "PROTOKOL TELECOMUNICACIONES SA DE CV",
+        "handle": "PROTOKOL-TELECOMUNICACIONES"
+    },
+    "265598": {
+        "country_code": "MX",
+        "asn": "265598",
+        "description": "Servicios y Asesoria Tecnobba S.A.S. de C.V.",
+        "handle": "SERVICIOS-ASESORIA-TECNOBBA"
+    },
+    "265599": {
+        "country_code": "MX",
+        "asn": "265599",
+        "description": "MANUEL GARCIA RAMIREZ",
+        "handle": "MANUEL-GARCIA-RAMIREZ"
+    },
+    "265600": {
+        "country_code": "MX",
+        "asn": "265600",
+        "description": "Grupo Velcom Telecomunicaciones SA de CV",
+        "handle": "GRUPO-VELCOM-TELECOMUNICACIONES"
+    },
+    "265601": {
+        "country_code": "MX",
+        "asn": "265601",
+        "description": "Networking Group 10 SA de CV",
+        "handle": "NETWORKING-GROUP-10"
+    },
+    "265602": {
+        "country_code": "MX",
+        "asn": "265602",
+        "description": "Administradora de Servicios de Internet Sandur S.A. de C.V.",
+        "handle": "ADMINISTRADORA-SERVICIOS-INTERNET"
+    },
+    "265603": {
+        "country_code": "MX",
+        "asn": "265603",
+        "description": "TCONECTA LATINO SA DE CV",
+        "handle": "TCONECTA-LATINO"
+    },
+    "265604": {
+        "country_code": "MX",
+        "asn": "265604",
+        "description": "MT NETWORKS S. DE R.L. DE C.V.",
+        "handle": "MT-NETWORKS"
+    },
+    "265605": {
+        "country_code": "MX",
+        "asn": "265605",
+        "description": "VELOCOM SA DE CV",
+        "handle": "VELOCOM"
+    },
+    "265606": {
+        "country_code": "MX",
+        "asn": "265606",
+        "description": "DIGY NETWORKS",
+        "handle": "DIGY-NETWORKS"
+    },
+    "265607": {
+        "country_code": "MX",
+        "asn": "265607",
+        "description": "CONECTARED SA DE CV",
+        "handle": "CONECTARED"
+    },
+    "265608": {
+        "country_code": "MX",
+        "asn": "265608",
+        "description": "ONT NETWORKS SA de CV",
+        "handle": "ONT-NETWORKS"
+    },
+    "265609": {
+        "country_code": "MX",
+        "asn": "265609",
+        "description": "TECNIANET S.A DE C.V.",
+        "handle": "TECNIANET"
+    },
+    "265610": {
+        "country_code": "MX",
+        "asn": "265610",
+        "description": "GRUPO OTERO INC SA DE CV",
+        "handle": "GRUPO-OTERO"
+    },
+    "265611": {
+        "country_code": "MX",
+        "asn": "265611",
+        "description": "EL PODER DE INTERNET",
+        "handle": "EL-PODER-INTERNET"
+    },
+    "265612": {
+        "country_code": "MX",
+        "asn": "265612",
+        "description": "Miguel Amado Escobar",
+        "handle": "MIGUEL-AMADO-ESCOBAR"
+    },
+    "265613": {
+        "country_code": "MX",
+        "asn": "265613",
+        "description": "TRACERED SA DE CV",
+        "handle": "TRACERED"
+    },
+    "265614": {
+        "country_code": "MX",
+        "asn": "265614",
+        "description": "META NETWORKS SA DE CV",
+        "handle": "META-NETWORKS"
+    },
+    "265615": {
+        "country_code": "MX",
+        "asn": "265615",
+        "description": "Assetel SA de CV",
+        "handle": "ASSETEL"
+    },
+    "265616": {
+        "country_code": "MX",
+        "asn": "265616",
+        "description": "BANCO INVEX SA INSTITUCION DE BANCA MULTIPLE INVEX GRUPO FINANCIERO",
+        "handle": "BANCO-INVEX"
+    },
+    "265617": {
+        "country_code": "MX",
+        "asn": "265617",
+        "description": "SUBETE A LA NUBE S.A. DE C.V.",
+        "handle": "SUBETE-LA-NUBE"
+    },
+    "265618": {
+        "country_code": "MX",
+        "asn": "265618",
+        "description": "DRP CLOUD MEXICO SAPI DE CV",
+        "handle": "DRP-CLOUD-MEXICO"
+    },
+    "265619": {
+        "country_code": "MX",
+        "asn": "265619",
+        "description": "XK NET S.A. DE C.V.",
+        "handle": "XK-NET"
+    },
+    "265620": {
+        "country_code": "MX",
+        "asn": "265620",
+        "description": "UFINET MEXICO S. DE R.L. DE C.V.",
+        "handle": "UFINET-MEXICO"
+    },
+    "265621": {
+        "country_code": "MX",
+        "asn": "265621",
+        "description": "COMUNICACION DIGITAL DE SINALOA SA DE CV",
+        "handle": "COMUNICACION-DIGITAL-SINALOA"
+    },
+    "265622": {
+        "country_code": "MX",
+        "asn": "265622",
+        "description": "WISTARIP S DE RL DE CV",
+        "handle": "WISTARIP"
+    },
+    "265623": {
+        "country_code": "MX",
+        "asn": "265623",
+        "description": "REDES Y ASESORIAS DEL MAYAB SA DE CV",
+        "handle": "REDES-ASESORIAS-MAYAB"
+    },
+    "265624": {
+        "country_code": "MX",
+        "asn": "265624",
+        "description": "TELTAN TELECOMUNICACIONES S. DE R.L. DE C.V.",
+        "handle": "TELTAN-TELECOMUNICACIONES"
+    },
+    "265625": {
+        "country_code": "MX",
+        "asn": "265625",
+        "description": "Jafica Telecomunicaciones",
+        "handle": "JAFICA-TELECOMUNICACIONES"
+    },
+    "265626": {
+        "country_code": "MX",
+        "asn": "265626",
+        "description": "SITE TELECOM",
+        "handle": "SITE-TELECOM"
+    },
+    "265627": {
+        "country_code": "MX",
+        "asn": "265627",
+        "description": "NIDIX NETWORKS S.A. DE C.V.",
+        "handle": "NIDIX-NETWORKS"
+    },
+    "265628": {
+        "country_code": "MX",
+        "asn": "265628",
+        "description": "JOSE MIGUEL MACIAS CONTRERAS",
+        "handle": "JOSE-MIGUEL-MACIAS-CONTRERAS"
+    },
+    "270109": {
+        "country_code": "MX",
+        "asn": "270109",
+        "description": "Luisa Lorenzo Armenta",
+        "handle": "LUISA-LORENZO-ARMENTA"
+    },
+    "270110": {
+        "country_code": "MX",
+        "asn": "270110",
+        "description": "FIBRA 360 SA de CV",
+        "handle": "FIBRA-360"
+    },
+    "270111": {
+        "country_code": "MX",
+        "asn": "270111",
+        "description": "Comunicaci\u00f3n por Fibra SA de CV",
+        "handle": "COMUNICACION-POR-FIBRA"
+    },
+    "270112": {
+        "country_code": "MX",
+        "asn": "270112",
+        "description": "Mexico Internet Exchange S. de R. L. de C.V.",
+        "handle": "MEXICO-INTERNET-EXCHANGE"
+    },
+    "270113": {
+        "country_code": "MX",
+        "asn": "270113",
+        "description": "ENLACES INALAMBRICOS DE CHIHUAHUA SAPI DE CV",
+        "handle": "ENLACES-INALAMBRICOS-CHIHUAHUA"
+    },
+    "270114": {
+        "country_code": "MX",
+        "asn": "270114",
+        "description": "SERVICIOS DE INFRAESTRUCTURA DE RADIOCOMUNICACION Y REDES PRIVADAS DE DATOS HYPERNET SC DE RL DE CV",
+        "handle": "SERVICIOS-INFRAESTRUCTURA-RADIOCOMUNICACION"
+    },
+    "270115": {
+        "country_code": "MX",
+        "asn": "270115",
+        "description": "HUNA SISTEMAS S. DE R.L. DE C.V.",
+        "handle": "HUNA-SISTEMAS"
+    },
+    "270116": {
+        "country_code": "MX",
+        "asn": "270116",
+        "description": "Ener Telecom SAPI de CV.",
+        "handle": "ENER-TELECOM"
+    },
+    "270117": {
+        "country_code": "MX",
+        "asn": "270117",
+        "description": "T1 CHIHUAHUA SA DE CV",
+        "handle": "T1-CHIHUAHUA"
+    },
+    "270118": {
+        "country_code": "MX",
+        "asn": "270118",
+        "description": "SOLUCIONES ANALITICOS Y SERVICIOS TEAM",
+        "handle": "SOLUCIONES-ANALITICOS-SERVICIOS"
+    },
+    "270119": {
+        "country_code": "MX",
+        "asn": "270119",
+        "description": "Equinix MX Services S.A. de C.V",
+        "handle": "EQUINIX-MX-SERVICES"
+    },
+    "270120": {
+        "country_code": "MX",
+        "asn": "270120",
+        "description": "VINOC S.A.P.I. DE C.V.",
+        "handle": "VINOC"
+    },
+    "270121": {
+        "country_code": "MX",
+        "asn": "270121",
+        "description": "HERFLOR TI SA DE CV",
+        "handle": "HERFLOR-TI"
+    },
+    "270122": {
+        "country_code": "MX",
+        "asn": "270122",
+        "description": "Eva Virginia Castillo Chan",
+        "handle": "EVA-VIRGINIA-CASTILLO-CHAN"
+    },
+    "270123": {
+        "country_code": "MX",
+        "asn": "270123",
+        "description": "GARSA HOLDING SA DE CV",
+        "handle": "GARSA-HOLDING"
+    },
+    "270124": {
+        "country_code": "MX",
+        "asn": "270124",
+        "description": "SCONTINUIDAD LATAM S.A. DE C.V.",
+        "handle": "SCONTINUIDAD-LATAM"
+    },
+    "270125": {
+        "country_code": "MX",
+        "asn": "270125",
+        "description": "NGX NETWORKS S. DE R.L. DE C.V.",
+        "handle": "NGX-NETWORKS"
+    },
+    "270126": {
+        "country_code": "MX",
+        "asn": "270126",
+        "description": "NEUTRAL NETWORKS S de RL de CV",
+        "handle": "NEUTRAL-NETWORKS"
+    },
+    "270127": {
+        "country_code": "MX",
+        "asn": "270127",
+        "description": "SECRETARIA DE ADMINISTRACION Y FINANZAS",
+        "handle": "SECRETARIA-ADMINISTRACION-FINANZAS"
+    },
+    "270128": {
+        "country_code": "MX",
+        "asn": "270128",
+        "description": "DANIEL RIVERA GONZALEZ",
+        "handle": "DANIEL-RIVERA-GONZALEZ"
+    },
+    "270129": {
+        "country_code": "MX",
+        "asn": "270129",
+        "description": "Municipio de San Pedro Garza Garcia",
+        "handle": "MUNICIPIO-SAN-PEDRO"
+    },
+    "270131": {
+        "country_code": "MX",
+        "asn": "270131",
+        "description": "FIBRA Y SOLUCIONES LATINOAMERICANO SA DE CV",
+        "handle": "FIBRA-SOLUCIONES-LATINOAMERICANO"
+    },
+    "270132": {
+        "country_code": "MX",
+        "asn": "270132",
+        "description": "Equinix MX Services S.A. de C.V",
+        "handle": "EQUINIX-MX-SERVICES"
+    },
+    "270133": {
+        "country_code": "MX",
+        "asn": "270133",
+        "description": "Fiberwifi SA de CV",
+        "handle": "FIBERWIFI"
+    },
+    "270134": {
+        "country_code": "MX",
+        "asn": "270134",
+        "description": "WI GO INTERNET SA DE CV",
+        "handle": "WI-GO-INTERNET"
+    },
+    "270135": {
+        "country_code": "MX",
+        "asn": "270135",
+        "description": "Mario Guerra Figueroa",
+        "handle": "MARIO-GUERRA-FIGUEROA"
+    },
+    "270136": {
+        "country_code": "MX",
+        "asn": "270136",
+        "description": "OPTOENLACES S.A. DE C.V.",
+        "handle": "OPTOENLACES"
+    },
+    "270137": {
+        "country_code": "MX",
+        "asn": "270137",
+        "description": "Telecable de Rioverde S.A. de C.V.",
+        "handle": "TELECABLE-RIOVERDE"
+    },
+    "270138": {
+        "country_code": "MX",
+        "asn": "270138",
+        "description": "Airfaster S.A. de C.V.",
+        "handle": "AIRFASTER"
+    },
+    "270139": {
+        "country_code": "MX",
+        "asn": "270139",
+        "description": "KIUBIX SA de CV",
+        "handle": "KIUBIX"
+    },
+    "270140": {
+        "country_code": "MX",
+        "asn": "270140",
+        "description": "OK HOSTING SC",
+        "handle": "OK-HOSTING"
+    },
+    "270141": {
+        "country_code": "MX",
+        "asn": "270141",
+        "description": "REHEDMEX S.A de C.V",
+        "handle": "REHEDMEX"
+    },
+    "270142": {
+        "country_code": "MX",
+        "asn": "270142",
+        "description": "Castor Networks Mexico",
+        "handle": "CASTOR-NETWORKS-MEXICO"
+    },
+    "270143": {
+        "country_code": "MX",
+        "asn": "270143",
+        "description": "MAYSNET SA DE CV",
+        "handle": "MAYSNET"
+    },
+    "270144": {
+        "country_code": "MX",
+        "asn": "270144",
+        "description": "Eii Telecom S.A de C.V.",
+        "handle": "EII-TELECOM"
+    },
+    "270145": {
+        "country_code": "MX",
+        "asn": "270145",
+        "description": "Gualberto Mis Caamal",
+        "handle": "GUALBERTO-MIS-CAAMAL"
+    },
+    "270146": {
+        "country_code": "MX",
+        "asn": "270146",
+        "description": "KANSAS CITY SOUTHERN DE MEXICO",
+        "handle": "KANSAS-CITY-SOUTHERN-MEXICO"
+    },
+    "270147": {
+        "country_code": "MX",
+        "asn": "270147",
+        "description": "Flynode de Mexico SA de CV",
+        "handle": "FLYNODE-MEXICO"
+    },
+    "270149": {
+        "country_code": "MX",
+        "asn": "270149",
+        "description": "CFE TELECOMUNICACIONES E INTERNET PARA TODOS",
+        "handle": "CFE-TELECOMUNICACIONES-INTERNET"
+    },
+    "270150": {
+        "country_code": "MX",
+        "asn": "270150",
+        "description": "EISIP SA DE CV",
+        "handle": "EISIP"
+    },
+    "270151": {
+        "country_code": "MX",
+        "asn": "270151",
+        "description": "Tecnologia Multransaccional Aplicada Al comercio SA de CV",
+        "handle": "TECNOLOGIA-MULTRANSACCIONAL-APLICADA"
+    },
+    "270152": {
+        "country_code": "MX",
+        "asn": "270152",
+        "description": "Comunicaci\u00f3n B15 S.A. de C.V.",
+        "handle": "COMUNICACION-B15"
+    },
+    "270153": {
+        "country_code": "MX",
+        "asn": "270153",
+        "description": "Luminet Wan S.A. de C.V.",
+        "handle": "LUMINET-WAN"
+    },
+    "270154": {
+        "country_code": "MX",
+        "asn": "270154",
+        "description": "Galaz Yamazaki Ruiz Urquiza S.C.",
+        "handle": "GALAZ-YAMAZAKI-RUIZ-URQUIZA"
+    },
+    "270155": {
+        "country_code": "MX",
+        "asn": "270155",
+        "description": "ENDTOEND MANAGEMENT S.A. DE CV.",
+        "handle": "ENDTOEND-MANAGEMENT"
+    },
+    "270156": {
+        "country_code": "MX",
+        "asn": "270156",
+        "description": "CONVERGIA DE MEXICO S.A. DE C.V.",
+        "handle": "CONVERGIA-MEXICO"
+    },
+    "270157": {
+        "country_code": "MX",
+        "asn": "270157",
+        "description": "EDUARDO SAENZ ROBLES",
+        "handle": "EDUARDO-SAENZ-ROBLES"
+    },
+    "270158": {
+        "country_code": "MX",
+        "asn": "270158",
+        "description": "Wantelco SAS de CV",
+        "handle": "WANTELCO"
+    },
+    "270159": {
+        "country_code": "MX",
+        "asn": "270159",
+        "description": "GENER HUMBERTO KUK CONCHA",
+        "handle": "GENER-HUMBERTO-KUK-CONCHA"
+    },
+    "270160": {
+        "country_code": "MX",
+        "asn": "270160",
+        "description": "MIZRAIM VALTIERRA ESPINO",
+        "handle": "MIZRAIM-VALTIERRA-ESPINO"
+    },
+    "270161": {
+        "country_code": "MX",
+        "asn": "270161",
+        "description": "Television Internacional S.A. de C.V.",
+        "handle": "TELEVISION-INTERNACIONAL"
+    },
+    "270162": {
+        "country_code": "MX",
+        "asn": "270162",
+        "description": "CESAR FLORES BARBOSA",
+        "handle": "CESAR-FLORES-BARBOSA"
+    },
+    "270163": {
+        "country_code": "MX",
+        "asn": "270163",
+        "description": "ELEAZAR ORTIZ CRUZ",
+        "handle": "ELEAZAR-ORTIZ-CRUZ"
+    },
+    "270164": {
+        "country_code": "MX",
+        "asn": "270164",
+        "description": "MATZANET SERVICIOS Y SISTEMAS DE COMUNICACION S.A DE C.V",
+        "handle": "MATZANET-SERVICIOS-SISTEMAS"
+    },
+    "270165": {
+        "country_code": "MX",
+        "asn": "270165",
+        "description": "Servicios Best CTC S.A. de C.V.",
+        "handle": "SERVICIOS-BEST-CTC"
+    },
+    "270166": {
+        "country_code": "MX",
+        "asn": "270166",
+        "description": "EOS E&P SA DE CV",
+        "handle": "EOS-P"
+    },
+    "270167": {
+        "country_code": "MX",
+        "asn": "270167",
+        "description": "Centro de Investigaci\u00f3n en Matem\u00e1ticas A.C.",
+        "handle": "CENTRO-INVESTIGACION-MATEMATICAS"
+    },
+    "270168": {
+        "country_code": "MX",
+        "asn": "270168",
+        "description": "Alejandro Uballe Montoya",
+        "handle": "ALEJANDRO-UBALLE-MONTOYA"
+    },
+    "270169": {
+        "country_code": "MX",
+        "asn": "270169",
+        "description": "SISTEMAS DE TELEVISION POR CABLE DE MICHOACAN",
+        "handle": "SISTEMAS-TELEVISION-POR"
+    },
+    "270170": {
+        "country_code": "MX",
+        "asn": "270170",
+        "description": "SECRETARIA DE INFRAESTRUCTURA COMUNICACIONES Y TRANSPORTES INSTITUTO MEXICANO DEL TRANSPORTE",
+        "handle": "SECRETARIA-INFRAESTRUCTURA-COMUNICACIONES"
+    },
+    "270171": {
+        "country_code": "MX",
+        "asn": "270171",
+        "description": "BANCO NACIONAL DE OBRAS Y SERVICIOS PUBLICOS SOCIEDAD NACIONAL DE CREDITO INSTITUCION DE BANCA DE DESARROLLO",
+        "handle": "BANCO-NACIONAL-OBRAS"
+    },
+    "270172": {
+        "country_code": "MX",
+        "asn": "270172",
+        "description": "Guillermo Robles Ramirez",
+        "handle": "GUILLERMO-ROBLES-RAMIREZ"
+    },
+    "270173": {
+        "country_code": "MX",
+        "asn": "270173",
+        "description": "INTERNET EXCHANGE SERVICES YUCATAN",
+        "handle": "INTERNET-EXCHANGE-SERVICES"
+    },
+    "270174": {
+        "country_code": "MX",
+        "asn": "270174",
+        "description": "Carlos Gabriel Martin del Campo Gonz\u00e1lez",
+        "handle": "CARLOS-GABRIEL-MARTIN"
+    },
+    "270175": {
+        "country_code": "MX",
+        "asn": "270175",
+        "description": "ICENTRAL SISTEMAS Y COMUNICACIONES S.A. DE C.V.",
+        "handle": "ICENTRAL-SISTEMAS-COMUNICACIONES"
+    },
+    "270176": {
+        "country_code": "MX",
+        "asn": "270176",
+        "description": "WIFIMAX CONNECTION S.A.S DE C.V",
+        "handle": "WIFIMAX-CONNECTION"
+    },
+    "270177": {
+        "country_code": "MX",
+        "asn": "270177",
+        "description": "CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS",
+        "handle": "CAMINOS-PUENTES-FEDERALES"
+    },
+    "270178": {
+        "country_code": "MX",
+        "asn": "270178",
+        "description": "El Colegio de la Frontera Sur",
+        "handle": "EL-COLEGIO-LA-FRONTERA-SUR"
+    },
+    "270179": {
+        "country_code": "MX",
+        "asn": "270179",
+        "description": "PC ONLINE",
+        "handle": "PC-ONLINE"
+    },
+    "270180": {
+        "country_code": "MX",
+        "asn": "270180",
+        "description": "Alejandro Agustin Monta\u00f1o",
+        "handle": "ALEJANDRO-AGUSTIN-MONTANO"
+    },
+    "270181": {
+        "country_code": "MX",
+        "asn": "270181",
+        "description": "Instituto Mexicano de la Propiedad Industrial",
+        "handle": "INSTITUTO-MEXICANO"
+    },
+    "270182": {
+        "country_code": "MX",
+        "asn": "270182",
+        "description": "GERARDO RAUL FUENTES MAAS",
+        "handle": "GERARDO-RAUL-FUENTES-MAAS"
+    },
+    "270183": {
+        "country_code": "MX",
+        "asn": "270183",
+        "description": "CONECTA Y USA ASESORES",
+        "handle": "CONECTA-USA-ASESORES"
+    },
+    "270184": {
+        "country_code": "MX",
+        "asn": "270184",
+        "description": "Instituto para Devolver al Pueblo lo Robado",
+        "handle": "INSTITUTO-PARA-DEVOLVER"
+    },
+    "270185": {
+        "country_code": "MX",
+        "asn": "270185",
+        "description": "Petroleos Mexicanos",
+        "handle": "PETROLEOS-MEXICANOS"
+    },
+    "270186": {
+        "country_code": "MX",
+        "asn": "270186",
+        "description": "Jorge Luis Torres Fernandez",
+        "handle": "JORGE-LUIS-TORRES-FERNANDEZ"
+    },
+    "270187": {
+        "country_code": "MX",
+        "asn": "270187",
+        "description": "2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES S.A. DE C.V.",
+        "handle": "2M-INGENIERIA-SERVICIOS"
+    },
+    "270188": {
+        "country_code": "MX",
+        "asn": "270188",
+        "description": "REGISTRO AGRARIO NACIONAL",
+        "handle": "REGISTRO-AGRARIO-NACIONAL"
+    },
+    "270189": {
+        "country_code": "MX",
+        "asn": "270189",
+        "description": "T-line Mexico S.A. de C.V.",
+        "handle": "T-LINE-MEXICO"
+    },
+    "270190": {
+        "country_code": "MX",
+        "asn": "270190",
+        "description": "QOS NET",
+        "handle": "QOS-NET"
+    },
+    "270191": {
+        "country_code": "MX",
+        "asn": "270191",
+        "description": "INSTITUTO NACIONAL DE REHABILITACION LUIS GUILLERMO IBARRA IBARRA",
+        "handle": "INSTITUTO-NACIONAL-REHABILITACION"
+    },
+    "270192": {
+        "country_code": "MX",
+        "asn": "270192",
+        "description": "Centro de Investigaciones Biologicas del Noroeste SC",
+        "handle": "CENTRO-INVESTIGACIONES-BIOLOGICAS"
+    },
+    "270193": {
+        "country_code": "MX",
+        "asn": "270193",
+        "description": "INSTITUTO NACIONAL DE NEUROLOGIA Y NEUROCIRUGIA MANUEL VELASCO SUAREZ",
+        "handle": "INSTITUTO-NACIONAL-NEUROLOGIA"
+    },
+    "270194": {
+        "country_code": "MX",
+        "asn": "270194",
+        "description": "INSTITUTO MEXICANO DEL SEGURO SOCIAL",
+        "handle": "INSTITUTO-MEXICANO-SEGURO"
+    },
+    "270195": {
+        "country_code": "MX",
+        "asn": "270195",
+        "description": "SPECTRUM BRIDGE MEXICO",
+        "handle": "SPECTRUM-BRIDGE-MEXICO"
+    },
+    "270196": {
+        "country_code": "MX",
+        "asn": "270196",
+        "description": "EXPORTADORA DE SAL SA DE CV",
+        "handle": "EXPORTADORA-SAL"
+    },
+    "270197": {
+        "country_code": "MX",
+        "asn": "270197",
+        "description": "CENTRO DE INVESTIGACION EN ALIMENTACION Y DESARROLLO",
+        "handle": "CENTRO-INVESTIGACION-ALIMENTACION"
+    },
+    "270198": {
+        "country_code": "MX",
+        "asn": "270198",
+        "description": "Instituto de Ecolog\u00eda A.C.",
+        "handle": "INSTITUTO-ECOLOGIA-AC"
+    },
+    "270199": {
+        "country_code": "MX",
+        "asn": "270199",
+        "description": "INSTITUTO PARA LA PROTECCION AL AHORRO BANCARIO",
+        "handle": "INSTITUTO-PARA"
+    },
+    "270200": {
+        "country_code": "MX",
+        "asn": "270200",
+        "description": "MEGABIT TELECOMUNICACIONES SA DE CV",
+        "handle": "MEGABIT-TELECOMUNICACIONES"
+    },
+    "270201": {
+        "country_code": "MX",
+        "asn": "270201",
+        "description": "Secretaria de Hacienda y Credito Publico",
+        "handle": "SECRETARIA-HACIENDA-CREDITO"
+    },
+    "270203": {
+        "country_code": "MX",
+        "asn": "270203",
+        "description": "Centro Nacional de Metrologia",
+        "handle": "CENTRO-NACIONAL-METROLOGIA"
+    },
+    "270204": {
+        "country_code": "MX",
+        "asn": "270204",
+        "description": "INSTITUTO MEXICANO DE LA RADIO",
+        "handle": "INSTITUTO-MEXICANO-LA-RADIO"
+    },
+    "270205": {
+        "country_code": "MX",
+        "asn": "270205",
+        "description": "COMISION NACIONAL DE SEGUROS Y FIANZAS",
+        "handle": "COMISION-NACIONAL-SEGUROS"
+    },
+    "270206": {
+        "country_code": "MX",
+        "asn": "270206",
+        "description": "COMISION NACIONAL DE LIBROS DE TEXTOS GRATUITOS",
+        "handle": "COMISION-NACIONAL-LIBROS"
+    },
+    "270207": {
+        "country_code": "MX",
+        "asn": "270207",
+        "description": "MULTICARRIER JE S. DE R.L. DE C.V.",
+        "handle": "MULTICARRIER-JE"
+    },
+    "270208": {
+        "country_code": "MX",
+        "asn": "270208",
+        "description": "Comision Nacional Bancaria y de Valores",
+        "handle": "COMISION-NACIONAL-BANCARIA"
+    },
+    "270209": {
+        "country_code": "MX",
+        "asn": "270209",
+        "description": "JESUS MANUEL OLGUIN GUZMAN",
+        "handle": "JESUS-MANUEL-OLGUIN-GUZMAN"
+    },
+    "270210": {
+        "country_code": "MX",
+        "asn": "270210",
+        "description": "COMISION NACIONAL DEL AGUA",
+        "handle": "COMISION-NACIONAL-AGUA"
+    },
+    "270211": {
+        "country_code": "MX",
+        "asn": "270211",
+        "description": "MARIO ELIEZER VILLAMIL ARGUELLES",
+        "handle": "MARIO-ELIEZER-VILLAMIL"
+    },
+    "270212": {
+        "country_code": "MX",
+        "asn": "270212",
+        "description": "Secretaria de Energia",
+        "handle": "SECRETARIA-ENERGIA"
+    },
+    "270213": {
+        "country_code": "MX",
+        "asn": "270213",
+        "description": "SECRETAR\u00cdA DE AGRICULTURA Y DESARROLLO RURAL",
+        "handle": "SECRETARIA-AGRICULTURA-DESARROLLO"
+    },
+    "270214": {
+        "country_code": "MX",
+        "asn": "270214",
+        "description": "EXTRAVISION COMUNICACI\u00d3N SAPI DE CV",
+        "handle": "EXTRAVISION-COMUNICACION"
+    },
+    "270215": {
+        "country_code": "MX",
+        "asn": "270215",
+        "description": "CM INTERNATIONAL M\u00c9XICO INFORMATION TECHNOLOGY S. DE R.L. DE C.V.",
+        "handle": "CM-INTERNATIONAL-MEXICO"
+    },
+    "270216": {
+        "country_code": "MX",
+        "asn": "270216",
+        "description": "ARGON TELECOMUNICACIONES SAPI DE CV",
+        "handle": "ARGON-TELECOMUNICACIONES"
+    },
+    "270217": {
+        "country_code": "MX",
+        "asn": "270217",
+        "description": "JAVIER ALEJANDRO OLVERA GRANADOS",
+        "handle": "JAVIER-ALEJANDRO-OLVERA"
+    },
+    "270218": {
+        "country_code": "MX",
+        "asn": "270218",
+        "description": "SERGIO HERNANDEZ CISNEROS",
+        "handle": "SERGIO-HERNANDEZ-CISNEROS"
+    },
+    "270219": {
+        "country_code": "MX",
+        "asn": "270219",
+        "description": "SECRETARIA DE DESARROLLO AGRARIO TERRITORIAL Y URBANO",
+        "handle": "SECRETARIA-DESARROLLO-AGRARIO"
+    },
+    "270220": {
+        "country_code": "MX",
+        "asn": "270220",
+        "description": "ITCOM DATA SERVICES",
+        "handle": "ITCOM-DATA-SERVICES"
+    },
+    "270221": {
+        "country_code": "MX",
+        "asn": "270221",
+        "description": "Rhino Telecom Sapi de CV",
+        "handle": "RHINO-TELECOM"
+    },
+    "270222": {
+        "country_code": "MX",
+        "asn": "270222",
+        "description": "ORION NETWORKS SA DE CV",
+        "handle": "ORION-NETWORKS"
+    },
+    "270223": {
+        "country_code": "MX",
+        "asn": "270223",
+        "description": "Ignacio Ocampo Millan",
+        "handle": "IGNACIO-OCAMPO-MILLAN"
+    },
+    "270224": {
+        "country_code": "MX",
+        "asn": "270224",
+        "description": "COMISION NACIONAL DE VIVIENDA",
+        "handle": "COMISION-NACIONAL-VIVIENDA"
+    },
+    "270226": {
+        "country_code": "MX",
+        "asn": "270226",
+        "description": "UGI INTERNET & TV S.A. de C.V.",
+        "handle": "UGI-INTERNET-TV"
+    },
+    "270227": {
+        "country_code": "MX",
+        "asn": "270227",
+        "description": "PROCURADURIA DE LA DEFENSA DEL CONTRIBUYENTE",
+        "handle": "PROCURADURIA-LA-DEFENSA"
+    },
+    "270228": {
+        "country_code": "MX",
+        "asn": "270228",
+        "description": "Centro de Investigaci\u00f3n en Ciencias de Informaci\u00f3n Geoespacial A.C.",
+        "handle": "CENTRO-INVESTIGACION-CIENCIAS"
+    },
+    "270229": {
+        "country_code": "MX",
+        "asn": "270229",
+        "description": "CONSEJO NACIONAL DE EVALUACION DE LA POLITICA DE DESARROLLO SOCIAL",
+        "handle": "CONSEJO-NACIONAL-EVALUACION"
+    },
+    "270230": {
+        "country_code": "MX",
+        "asn": "270230",
+        "description": "BANCO NACIONAL DE COMERCIO EXTERIOR",
+        "handle": "BANCO-NACIONAL-COMERCIO"
+    },
+    "270231": {
+        "country_code": "MX",
+        "asn": "270231",
+        "description": "INSTITUTO NACIONAL DE LENGUAS INDIGENAS",
+        "handle": "INSTITUTO-NACIONAL-LENGUAS"
+    },
+    "270232": {
+        "country_code": "MX",
+        "asn": "270232",
+        "description": "CIATEQ A.C.",
+        "handle": "CIATEQ-AC"
+    },
+    "270233": {
+        "country_code": "MX",
+        "asn": "270233",
+        "description": "Ciatec A.C.",
+        "handle": "CIATEC-AC"
+    },
+    "270234": {
+        "country_code": "MX",
+        "asn": "270234",
+        "description": "CENTRO DE INVESTIGACION EN MATERIALES AVANZADOS",
+        "handle": "CENTRO-INVESTIGACION-MATERIALES"
+    },
+    "270235": {
+        "country_code": "MX",
+        "asn": "270235",
+        "description": "AGROASEMEX SA",
+        "handle": "AGROASEMEX"
+    },
+    "270236": {
+        "country_code": "MX",
+        "asn": "270236",
+        "description": "OPTOENLACES S.A. DE C.V.",
+        "handle": "OPTOENLACES"
+    },
+    "272285": {
+        "country_code": "MX",
+        "asn": "272285",
+        "description": "HOSPITAL GENERAL DR. MANUEL GEA GONZALEZ",
+        "handle": "HOSPITAL-GENERAL-DR"
+    },
+    "272286": {
+        "country_code": "MX",
+        "asn": "272286",
+        "description": "LICONSA S.A. DE C.V.",
+        "handle": "LICONSA"
+    },
+    "272288": {
+        "country_code": "MX",
+        "asn": "272288",
+        "description": "SEGURIDAD ALIMENTARIA MEXICANA",
+        "handle": "SEGURIDAD-ALIMENTARIA-MEXICANA"
+    },
+    "272289": {
+        "country_code": "MX",
+        "asn": "272289",
+        "description": "Centro de Investigaci\u00f3n Cient\u00edfica de Yucat\u00e1n A.C.",
+        "handle": "CENTRO-INVESTIGACION-CIENTIFICA"
+    },
+    "272290": {
+        "country_code": "MX",
+        "asn": "272290",
+        "description": "COLEGIO NACIONAL DE EDUCACION PROFESIONAL TECNICA",
+        "handle": "COLEGIO-NACIONAL-EDUCACION"
+    },
+    "272291": {
+        "country_code": "MX",
+        "asn": "272291",
+        "description": "CENTRO DE INGENIERIA Y DESARROLLO INDUSTRIAL",
+        "handle": "CENTRO-INGENIERIA-DESARROLLO"
+    },
+    "272292": {
+        "country_code": "MX",
+        "asn": "272292",
+        "description": "ADMINISTRACION DEL SISTEMA PORTUARIO NACIONAL LAZARO CARDENAS S.A DE C.V",
+        "handle": "ADMINISTRACION-SISTEMA-PORTUARIO"
+    },
+    "272294": {
+        "country_code": "MX",
+        "asn": "272294",
+        "description": "INSTITUTO NACIONAL DE LAS MUJERES",
+        "handle": "INSTITUTO-NACIONAL-LAS-MUJERES"
+    },
+    "272295": {
+        "country_code": "MX",
+        "asn": "272295",
+        "description": "INSTITUTO MEXICANO DE INVESTIGACI\u00d3N EN PESCA Y ACUACULTURA SUSTENTABLES",
+        "handle": "INSTITUTO-MEXICANO-INVESTIGACION"
+    },
+    "272297": {
+        "country_code": "MX",
+        "asn": "272297",
+        "description": "INSTITUTO MEXICANO DE CINEMATOGRAFIA",
+        "handle": "INSTITUTO-MEXICANO-CINEMATOGRAFIA"
+    },
+    "272299": {
+        "country_code": "MX",
+        "asn": "272299",
+        "description": "Wolkit Soluciones de TI S.A. de C.V.",
+        "handle": "WOLKIT-SOLUCIONES-TI"
+    },
+    "272300": {
+        "country_code": "MX",
+        "asn": "272300",
+        "description": "ORGANISMO PROMOTOR DE INVERSIONES EN TELECOMUNICACIONES",
+        "handle": "ORGANISMO-PROMOTOR-INVERSIONES"
+    },
+    "272301": {
+        "country_code": "MX",
+        "asn": "272301",
+        "description": "Instituto Mexicano de la Juventud",
+        "handle": "INSTITUTO-MEXICANO-LA-JUVENTUD"
+    },
+    "272304": {
+        "country_code": "MX",
+        "asn": "272304",
+        "description": "INSTITUTO NACIONAL DE LA INFRAESTRUCTURA FISICA EDUCATIVA",
+        "handle": "INSTITUTO-NACIONAL"
+    },
+    "272305": {
+        "country_code": "MX",
+        "asn": "272305",
+        "description": "Centro de Investigaciones en Optica A.C.",
+        "handle": "CENTRO-INVESTIGACIONES-OPTICA"
+    },
+    "272309": {
+        "country_code": "MX",
+        "asn": "272309",
+        "description": "FONDO DE GARANTIA Y FOMENTO PARA LA AGRICULTURA GANADERIA Y AVICULTURA",
+        "handle": "FONDO-GARANTIA-FOMENTO"
+    },
+    "272310": {
+        "country_code": "MX",
+        "asn": "272310",
+        "description": "COMISION NACIONAL PARA LA MEJORA CONTINUA DE LA EDUCACION",
+        "handle": "COMISION-NACIONAL-PARA"
+    },
+    "272311": {
+        "country_code": "MX",
+        "asn": "272311",
+        "description": "Centro de Investigaci\u00f3n y de Estudios Avanzados del Instituto Polit\u00e9cnico Nacional",
+        "handle": "CENTRO-INVESTIGACION-ESTUDIOS"
+    },
+    "272312": {
+        "country_code": "MX",
+        "asn": "272312",
+        "description": "Instituto de Investigaciones Dr. Jose Maria Luis Mora",
+        "handle": "INSTITUTO-INVESTIGACIONES-DR"
+    },
+    "272313": {
+        "country_code": "MX",
+        "asn": "272313",
+        "description": "PULSAR TELECOMUNICACIONES SA DE CV",
+        "handle": "PULSAR-TELECOMUNICACIONES"
+    },
+    "272314": {
+        "country_code": "MX",
+        "asn": "272314",
+        "description": "WISPHUB SA DE CV",
+        "handle": "WISPHUB"
+    },
+    "272315": {
+        "country_code": "MX",
+        "asn": "272315",
+        "description": "Fondo de Cultura Econ\u00f3mica",
+        "handle": "FONDO-CULTURA-ECONOMICA"
+    },
+    "272316": {
+        "country_code": "MX",
+        "asn": "272316",
+        "description": "SPOT UNO SA DE CV",
+        "handle": "SPOT-UNO"
+    },
+    "272317": {
+        "country_code": "MX",
+        "asn": "272317",
+        "description": "INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO",
+        "handle": "INSTITUTO-SEGURIDAD-SERVICIOS"
+    },
+    "272318": {
+        "country_code": "MX",
+        "asn": "272318",
+        "description": "SECRETARIA DE EDUCACION PUBLICA ORGANO ADMINISTRATIVO DESCONCENTRADO COORDINACION NACIONAL DE BECAS PARA EL BIENESTAR BENITO JUAREZ",
+        "handle": "SECRETARIA-EDUCACION-PUBLICA"
+    },
+    "272319": {
+        "country_code": "MX",
+        "asn": "272319",
+        "description": "SECRETARIA DE SEGURIDAD Y PROTECCION CIUDADANA SERVICIO DE PROTECCION FEDERAL",
+        "handle": "SECRETARIA-SEGURIDAD-PROTECCION"
+    },
+    "272320": {
+        "country_code": "MX",
+        "asn": "272320",
+        "description": "SECRETARIA DE LA DEFENSA NACIONAL",
+        "handle": "SECRETARIA-LA-DEFENSA-NACIONAL"
+    },
+    "272321": {
+        "country_code": "MX",
+        "asn": "272321",
+        "description": "Sociedad Hipotecaria Federal S.N.C.",
+        "handle": "SOCIEDAD-HIPOTECARIA-FEDERAL"
+    },
+    "272322": {
+        "country_code": "MX",
+        "asn": "272322",
+        "description": "IRENE REZA FLORES",
+        "handle": "IRENE-REZA-FLORES"
+    },
+    "272323": {
+        "country_code": "MX",
+        "asn": "272323",
+        "description": "CFE TELECOMUNICACIONES E INTERNET PARA TODOS",
+        "handle": "CFE-TELECOMUNICACIONES-INTERNET"
+    },
+    "272324": {
+        "country_code": "MX",
+        "asn": "272324",
+        "description": "COMISION NACIONAL DE SEGURIDAD NUCLEAR Y SALVAGUARDIAS",
+        "handle": "COMISION-NACIONAL-SEGURIDAD"
+    },
+    "272325": {
+        "country_code": "MX",
+        "asn": "272325",
+        "description": "Instituto de Administracion y Avaluos de Bienes Nacionales",
+        "handle": "INSTITUTO-ADMINISTRACION-AVALUOS"
+    },
+    "272327": {
+        "country_code": "MX",
+        "asn": "272327",
+        "description": "SECRETAR\u00cdA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
+        "handle": "SECRETARIA-MEDIO-AMBIENTE"
+    },
+    "272328": {
+        "country_code": "MX",
+        "asn": "272328",
+        "description": "COMISION NACIONAL PARA LA PROTECCION Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS",
+        "handle": "COMISION-NACIONAL-PARA"
+    },
+    "272329": {
+        "country_code": "MX",
+        "asn": "272329",
+        "description": "Secretar\u00eda de Turismo",
+        "handle": "SECRETARIA-TURISMO"
+    },
+    "272330": {
+        "country_code": "MX",
+        "asn": "272330",
+        "description": "L & F TELECOMUNICACIONES",
+        "handle": "L-F-TELECOMUNICACIONES"
+    },
+    "272331": {
+        "country_code": "MX",
+        "asn": "272331",
+        "description": "SERVICIO GEOLOGICO MEXICANO",
+        "handle": "SERVICIO-GEOLOGICO-MEXICANO"
+    },
+    "272334": {
+        "country_code": "MX",
+        "asn": "272334",
+        "description": "DISE\u00d1O EN REDES DE DATOS VILLA WIRELESS",
+        "handle": "DISENO-REDES-DATOS"
+    },
+    "272335": {
+        "country_code": "MX",
+        "asn": "272335",
+        "description": "COLEGIO DE BACHILLERES",
+        "handle": "COLEGIO-BACHILLERES"
+    },
+    "272336": {
+        "country_code": "MX",
+        "asn": "272336",
+        "description": "Secretar\u00eda de Relaciones Exteriores",
+        "handle": "SECRETARIA-RELACIONES-EXTERIORES"
+    },
+    "272337": {
+        "country_code": "MX",
+        "asn": "272337",
+        "description": "NACIONAL FINANCIERA S.N.C.",
+        "handle": "NACIONAL-FINANCIERA-SNC"
+    },
+    "272338": {
+        "country_code": "MX",
+        "asn": "272338",
+        "description": "El Colegio de San Luis A.C.",
+        "handle": "EL-COLEGIO-SAN-LUIS-AC"
+    },
+    "272339": {
+        "country_code": "MX",
+        "asn": "272339",
+        "description": "GRUPO CONVERGENTE ARZOLA",
+        "handle": "GRUPO-CONVERGENTE-ARZOLA"
+    },
+    "272341": {
+        "country_code": "MX",
+        "asn": "272341",
+        "description": "Centro Nacional de Control del Gas Natural",
+        "handle": "CENTRO-NACIONAL-CONTROL"
+    },
+    "272343": {
+        "country_code": "MX",
+        "asn": "272343",
+        "description": "COMISION NACIONAL DE ACUACULTURA Y PESCA",
+        "handle": "COMISION-NACIONAL-ACUACULTURA"
+    },
+    "272344": {
+        "country_code": "MX",
+        "asn": "272344",
+        "description": "YABNET SA DE CV",
+        "handle": "YABNET"
+    },
+    "272345": {
+        "country_code": "MX",
+        "asn": "272345",
+        "description": "Isimac Internet S.A. de C.V.",
+        "handle": "ISIMAC-INTERNET"
+    },
+    "272346": {
+        "country_code": "MX",
+        "asn": "272346",
+        "description": "SECRETARIA DE ECONOMIA",
+        "handle": "SECRETARIA-ECONOMIA"
+    },
+    "272347": {
+        "country_code": "MX",
+        "asn": "272347",
+        "description": "Comisi\u00f3n Nacional de Energ\u00eda",
+        "handle": "COMISION-NACIONAL-ENERGIA"
+    },
+    "272348": {
+        "country_code": "MX",
+        "asn": "272348",
+        "description": "3T TECHNOLOGIES",
+        "handle": "3T-TECHNOLOGIES"
+    },
+    "272349": {
+        "country_code": "MX",
+        "asn": "272349",
+        "description": "BANCO NACIONAL DE OBRAS Y SERVICIOS PUBLICOS S.N.C. FIDEICOMISO PARA LA CINETECA NACIONAL",
+        "handle": "BANCO-NACIONAL-OBRAS"
+    },
+    "272350": {
+        "country_code": "MX",
+        "asn": "272350",
+        "description": "INSTITUTO NACIONAL DE ELECTRICIDAD Y ENERGIAS LIMPIAS",
+        "handle": "INSTITUTO-NACIONAL-ELECTRICIDAD"
+    },
+    "272352": {
+        "country_code": "MX",
+        "asn": "272352",
+        "description": "AGENCIA NACIONAL DE SEGURIDAD INDUSTRIAL Y DE PROTECCION AL MEDIO AMBIENTE DEL SECTOR HIDROCARBUROS",
+        "handle": "AGENCIA-NACIONAL-SEGURIDAD"
+    },
+    "272353": {
+        "country_code": "MX",
+        "asn": "272353",
+        "description": "INSTITUTO NACIONAL DE INVESTIGACIONES FORESTALES AGRICOLAS Y PECUARIAS",
+        "handle": "INSTITUTO-NACIONAL-INVESTIGACIONES"
+    },
+    "272355": {
+        "country_code": "MX",
+        "asn": "272355",
+        "description": "BMW SLP S.A. de C.V.",
+        "handle": "BMW-SLP"
+    },
+    "272356": {
+        "country_code": "MX",
+        "asn": "272356",
+        "description": "CENTRO DE INVESTIGACION Y DESARROLLO TECNOLOGICO EN ELECTROQUIMICA",
+        "handle": "CENTRO-INVESTIGACION-DESARROLLO"
+    },
+    "272358": {
+        "country_code": "MX",
+        "asn": "272358",
+        "description": "FIBRA SLP S.A. DE C.V",
+        "handle": "FIBRA-SLP"
+    },
+    "272359": {
+        "country_code": "MX",
+        "asn": "272359",
+        "description": "SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR",
+        "handle": "SERVICIOS-SALUD-INSTITUTO"
+    },
+    "272361": {
+        "country_code": "MX",
+        "asn": "272361",
+        "description": "TELE IMAGEN POR CABLE",
+        "handle": "TELE-IMAGEN-POR-CABLE"
+    },
+    "272362": {
+        "country_code": "MX",
+        "asn": "272362",
+        "description": "SISTEMAS DE COMUNICACION Y ALARMAS S.A. DE C.V.",
+        "handle": "SISTEMAS-COMUNICACION-ALARMAS"
+    },
+    "272363": {
+        "country_code": "MX",
+        "asn": "272363",
+        "description": "GYBO SOLUCIONES TECNOLOGICAS S.A. DE C.V.",
+        "handle": "GYBO-SOLUCIONES-TECNOLOGICAS"
+    },
+    "272364": {
+        "country_code": "MX",
+        "asn": "272364",
+        "description": "INSTITUTO NACIONAL DE CARDIOLOGIA IGNACIO CHAVEZ",
+        "handle": "INSTITUTO-NACIONAL-CARDIOLOGIA"
+    },
+    "272365": {
+        "country_code": "MX",
+        "asn": "272365",
+        "description": "LOTERIA NACIONAL",
+        "handle": "LOTERIA-NACIONAL"
+    },
+    "272366": {
+        "country_code": "MX",
+        "asn": "272366",
+        "description": "TDT DIGITAL SA DE CV",
+        "handle": "TDT-DIGITAL"
+    },
+    "272367": {
+        "country_code": "MX",
+        "asn": "272367",
+        "description": "GRIDNED S. DE R.L. DE C.V.",
+        "handle": "GRIDNED"
+    },
+    "272368": {
+        "country_code": "MX",
+        "asn": "272368",
+        "description": "ALEJANDRO PEREZ MACIAS",
+        "handle": "ALEJANDRO-PEREZ-MACIAS"
+    },
+    "272369": {
+        "country_code": "MX",
+        "asn": "272369",
+        "description": "NEULINK NETWORKS",
+        "handle": "NEULINK-NETWORKS"
+    },
+    "272370": {
+        "country_code": "MX",
+        "asn": "272370",
+        "description": "Stered Telecomunicaciones SA de CV",
+        "handle": "STERED-TELECOMUNICACIONES"
+    },
+    "272371": {
+        "country_code": "MX",
+        "asn": "272371",
+        "description": "CENTRO NACIONAL DE CONTROL DE ENERGIA",
+        "handle": "CENTRO-NACIONAL-CONTROL"
+    },
+    "272372": {
+        "country_code": "MX",
+        "asn": "272372",
+        "description": "Valor Agregado Digital SA de CV",
+        "handle": "VALOR-AGREGADO-DIGITAL"
+    },
+    "272373": {
+        "country_code": "MX",
+        "asn": "272373",
+        "description": "HOBOPS.IO S.A.S. DE C.V.",
+        "handle": "HOBOPSIO"
+    },
+    "272374": {
+        "country_code": "MX",
+        "asn": "272374",
+        "description": "SERVICIO NACIONAL DE SANIDAD INOCUIDAD Y CALIDAD AGROALIMENTARIA",
+        "handle": "SERVICIO-NACIONAL-SANIDAD"
+    },
+    "272375": {
+        "country_code": "MX",
+        "asn": "272375",
+        "description": "SECRETARIA DE GOBERNACION",
+        "handle": "SECRETARIA-GOBERNACION"
+    },
+    "272377": {
+        "country_code": "MX",
+        "asn": "272377",
+        "description": "Jose Guadalupe Candelas Ortiz",
+        "handle": "JOSE-GUADALUPE-CANDELAS-ORTIZ"
+    },
+    "272378": {
+        "country_code": "MX",
+        "asn": "272378",
+        "description": "ESTEVEZ.JOR SERVICIOS S.A. de C.V.",
+        "handle": "ESTEVEZJOR-SERVICIOS"
+    },
+    "272379": {
+        "country_code": "MX",
+        "asn": "272379",
+        "description": "ChiliCloud S.A. de C.V.",
+        "handle": "CHILICLOUD"
+    },
+    "272381": {
+        "country_code": "MX",
+        "asn": "272381",
+        "description": "FIBER NETWORK DEL SUR",
+        "handle": "FIBER-NETWORK-SUR"
+    },
+    "272383": {
+        "country_code": "MX",
+        "asn": "272383",
+        "description": "CASA DE MONEDA DE M\u00c9XICO",
+        "handle": "CASA-MONEDA-MEXICO"
+    },
+    "272384": {
+        "country_code": "MX",
+        "asn": "272384",
+        "description": "ISLIM TELCO SAPI DE CV",
+        "handle": "ISLIM-TELCO"
+    },
+    "272385": {
+        "country_code": "MX",
+        "asn": "272385",
+        "description": "NUONETWORKS SAPI DE CV",
+        "handle": "NUONETWORKS"
+    },
+    "272386": {
+        "country_code": "MX",
+        "asn": "272386",
+        "description": "ANGELICA AGUIRRE GUZMAN",
+        "handle": "ANGELICA-AGUIRRE-GUZMAN"
+    },
+    "272387": {
+        "country_code": "MX",
+        "asn": "272387",
+        "description": "WAVES LINKS SERVICIOS DE COMUNICACIONES E INFORMATICA SAS DE CV",
+        "handle": "WAVES-LINKS-SERVICIOS"
+    },
+    "272388": {
+        "country_code": "MX",
+        "asn": "272388",
+        "description": "FIDEICOMISO DE RIESGO COMPARTIDO",
+        "handle": "FIDEICOMISO-RIESGO-COMPARTIDO"
+    },
+    "272391": {
+        "country_code": "MX",
+        "asn": "272391",
+        "description": "RAUL AMADOR VAZQUEZ",
+        "handle": "RAUL-AMADOR-VAZQUEZ"
+    },
+    "272392": {
+        "country_code": "MX",
+        "asn": "272392",
+        "description": "BLZTELCO S. DE R.L. DE C.V.",
+        "handle": "BLZTELCO"
+    },
+    "272393": {
+        "country_code": "MX",
+        "asn": "272393",
+        "description": "CABLE OLIMPICA S.A. de C.V.",
+        "handle": "CABLE-OLIMPICA"
+    },
+    "272394": {
+        "country_code": "MX",
+        "asn": "272394",
+        "description": "DE-CIX INTERCONNECTION MEXICO S. DE R.L. DE C.V.",
+        "handle": "DE-CIX-INTERCONNECTION"
+    },
+    "272395": {
+        "country_code": "MX",
+        "asn": "272395",
+        "description": "DE-CIX INTERCONNECTION MEXICO S. DE R.L. DE C.V.",
+        "handle": "DE-CIX-INTERCONNECTION"
+    },
+    "272396": {
+        "country_code": "MX",
+        "asn": "272396",
+        "description": "EDGAR MANUEL MARISCAL PATI\u00d1O",
+        "handle": "EDGAR-MANUEL-MARISCAL-PATINO"
+    },
+    "272397": {
+        "country_code": "MX",
+        "asn": "272397",
+        "description": "PROCURADURIA FEDERAL DEL CONSUMIDOR",
+        "handle": "PROCURADURIA-FEDERAL-CONSUMIDOR"
+    },
+    "272398": {
+        "country_code": "MX",
+        "asn": "272398",
+        "description": "IX-NN Sociedad An\u00f3nima de Capital Variable",
+        "handle": "IX-NN-SOCIEDAD"
+    },
+    "272399": {
+        "country_code": "MX",
+        "asn": "272399",
+        "description": "BANCO ACTINVER S.A. INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO ACTINVER",
+        "handle": "BANCO-ACTINVER"
+    },
+    "272400": {
+        "country_code": "MX",
+        "asn": "272400",
+        "description": "BOOSTNET SA DE CV",
+        "handle": "BOOSTNET"
+    },
+    "272401": {
+        "country_code": "MX",
+        "asn": "272401",
+        "description": "MAGNOLIA MADRIGAL LEYVA",
+        "handle": "MAGNOLIA-MADRIGAL-LEYVA"
+    },
+    "272402": {
+        "country_code": "MX",
+        "asn": "272402",
+        "description": "ZOHOCORP MEXICO",
+        "handle": "ZOHOCORP-MEXICO"
+    },
+    "272403": {
+        "country_code": "MX",
+        "asn": "272403",
+        "description": "RAFAEL RIGOBERTO LOPEZ OROZCO",
+        "handle": "RAFAEL-RIGOBERTO-LOPEZ-OROZCO"
+    },
+    "272404": {
+        "country_code": "MX",
+        "asn": "272404",
+        "description": "SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES COMISION NACIONAL DE AREAS NATURALES PROTEGIDAS",
+        "handle": "SECRETARIA-MEDIO-AMBIENTE"
+    },
+    "272405": {
+        "country_code": "MX",
+        "asn": "272405",
+        "description": "Jair Lozano",
+        "handle": "JAIR-LOZANO"
+    },
+    "272406": {
+        "country_code": "MX",
+        "asn": "272406",
+        "description": "REHEDMAS INTERNET PARA TODOS S.A. DE C.V.",
+        "handle": "REHEDMAS-INTERNET-PARA"
+    },
+    "272407": {
+        "country_code": "MX",
+        "asn": "272407",
+        "description": "JAIME GONZALEZ GALVAN",
+        "handle": "JAIME-GONZALEZ-GALVAN"
+    },
+    "272408": {
+        "country_code": "MX",
+        "asn": "272408",
+        "description": "FIBRA A LA CASA",
+        "handle": "FIBRA-LA-CASA"
+    },
+    "272409": {
+        "country_code": "MX",
+        "asn": "272409",
+        "description": "Josue Romero Salazar",
+        "handle": "JOSUE-ROMERO-SALAZAR"
+    },
+    "272411": {
+        "country_code": "MX",
+        "asn": "272411",
+        "description": "INTERCONEXIONES INALAMBRICAS DE MEXICO SA DE CV",
+        "handle": "INTERCONEXIONES-INALAMBRICAS-MEXICO"
+    },
+    "272412": {
+        "country_code": "MX",
+        "asn": "272412",
+        "description": "Intercable del Mayab S DE RL DE CV",
+        "handle": "INTERCABLE-MAYAB"
+    },
+    "273245": {
+        "country_code": "MX",
+        "asn": "273245",
+        "description": "TERAMEG SA DE CV",
+        "handle": "TERAMEG"
+    },
+    "273246": {
+        "country_code": "MX",
+        "asn": "273246",
+        "description": "SITE MAX S.A. DE C.V.",
+        "handle": "SITE-MAX"
+    },
+    "273247": {
+        "country_code": "MX",
+        "asn": "273247",
+        "description": "FOREVERFLOW S DE RL DE CV",
+        "handle": "FOREVERFLOW"
+    },
+    "273248": {
+        "country_code": "MX",
+        "asn": "273248",
+        "description": "Rapsoda Mindstock",
+        "handle": "RAPSODA-MINDSTOCK"
+    },
+    "273249": {
+        "country_code": "MX",
+        "asn": "273249",
+        "description": "LUIS ALBERTO ROMERO REYES",
+        "handle": "LUIS-ALBERTO-ROMERO-REYES"
+    },
+    "273250": {
+        "country_code": "MX",
+        "asn": "273250",
+        "description": "SOLUCIONES DE TECNOLOGIA JAH SA DE CV",
+        "handle": "SOLUCIONES-TECNOLOGIA-JAH"
+    },
+    "273251": {
+        "country_code": "MX",
+        "asn": "273251",
+        "description": "MOTORED FIBRA",
+        "handle": "MOTORED-FIBRA"
+    },
+    "273252": {
+        "country_code": "MX",
+        "asn": "273252",
+        "description": "ASVA NETWORKS",
+        "handle": "ASVA-NETWORKS"
+    },
+    "273253": {
+        "country_code": "MX",
+        "asn": "273253",
+        "description": "LORENA LORENZA BA\u00d1UELOS RODRIGUEZ",
+        "handle": "LORENA-LORENZA-BANUELOS"
+    },
+    "273254": {
+        "country_code": "MX",
+        "asn": "273254",
+        "description": "SIGLO REDES DE MEXICO SAPI DE C.V",
+        "handle": "SIGLO-REDES-MEXICO"
+    },
+    "273255": {
+        "country_code": "MX",
+        "asn": "273255",
+        "description": "ISIDRO GONZALEZ VASQUEZ",
+        "handle": "ISIDRO-GONZALEZ-VASQUEZ"
+    },
+    "273256": {
+        "country_code": "MX",
+        "asn": "273256",
+        "description": "Netlink Telecom S.A. de C.V.",
+        "handle": "NETLINK-TELECOM"
+    },
+    "273257": {
+        "country_code": "MX",
+        "asn": "273257",
+        "description": "ITV PLAY SA DE CV",
+        "handle": "ITV-PLAY"
+    },
+    "273258": {
+        "country_code": "MX",
+        "asn": "273258",
+        "description": "TRANSNAGAR PACIFICO SUR SA DE CV",
+        "handle": "TRANSNAGAR-PACIFICO-SUR"
+    },
+    "273259": {
+        "country_code": "MX",
+        "asn": "273259",
+        "description": "DANIEL SANCHEZ SANTOS",
+        "handle": "DANIEL-SANCHEZ-SANTOS"
+    },
+    "273261": {
+        "country_code": "MX",
+        "asn": "273261",
+        "description": "UNIVERSIDAD AUTONOMA DE SAN LUIS POTOSI",
+        "handle": "UNIVERSIDAD-AUTONOMA-SAN"
+    },
+    "273262": {
+        "country_code": "MX",
+        "asn": "273262",
+        "description": "OSWALDO ERIVAN VALTIERRA ORNELAS",
+        "handle": "OSWALDO-ERIVAN-VALTIERRA"
+    },
+    "273263": {
+        "country_code": "MX",
+        "asn": "273263",
+        "description": "TOTALNET TELECOM",
+        "handle": "TOTALNET-TELECOM"
+    },
+    "273264": {
+        "country_code": "MX",
+        "asn": "273264",
+        "description": "ALTECVA SA DE CV",
+        "handle": "ALTECVA"
+    },
+    "273265": {
+        "country_code": "MX",
+        "asn": "273265",
+        "description": "ISGA COMUNICACIONES",
+        "handle": "ISGA-COMUNICACIONES"
+    },
+    "273266": {
+        "country_code": "MX",
+        "asn": "273266",
+        "description": "Apco Networks",
+        "handle": "APCO-NETWORKS"
+    },
+    "273267": {
+        "country_code": "MX",
+        "asn": "273267",
+        "description": "Rodrigo Mendoza Gutierrez",
+        "handle": "RODRIGO-MENDOZA-GUTIERREZ"
+    },
+    "273269": {
+        "country_code": "MX",
+        "asn": "273269",
+        "description": "ISP EBEN-EZER",
+        "handle": "ISP-EBEN-EZER"
+    },
+    "273270": {
+        "country_code": "MX",
+        "asn": "273270",
+        "description": "RADIOCOMUNICACIONES DE IXMIQUILPAN SA DE CV",
+        "handle": "RADIOCOMUNICACIONES-IXMIQUILPAN"
+    },
+    "273271": {
+        "country_code": "MX",
+        "asn": "273271",
+        "description": "MGD SOLTEC SA DE CV",
+        "handle": "MGD-SOLTEC"
+    },
+    "273272": {
+        "country_code": "MX",
+        "asn": "273272",
+        "description": "JESUS ANGEL ROSAS HERNANDEZ",
+        "handle": "JESUS-ANGEL-ROSAS-HERNANDEZ"
+    },
+    "273273": {
+        "country_code": "MX",
+        "asn": "273273",
+        "description": "ELIAS LOPEZ COLORADO",
+        "handle": "ELIAS-LOPEZ-COLORADO"
+    },
+    "273274": {
+        "country_code": "MX",
+        "asn": "273274",
+        "description": "MONICA HERNANDEZ SOLIS",
+        "handle": "MONICA-HERNANDEZ-SOLIS"
+    },
+    "273275": {
+        "country_code": "MX",
+        "asn": "273275",
+        "description": "GRUPO EMPRESARIAL DE TELECOMUNICACIONES ASA-VISION",
+        "handle": "GRUPO-EMPRESARIAL-TELECOMUNICACIONES"
+    },
+    "273276": {
+        "country_code": "MX",
+        "asn": "273276",
+        "description": "AKASH TELECOM SA DE CV",
+        "handle": "AKASH-TELECOM"
+    },
+    "273277": {
+        "country_code": "MX",
+        "asn": "273277",
+        "description": "SUPER CABLE DEL SURESTE",
+        "handle": "SUPER-CABLE-SURESTE"
+    },
+    "273278": {
+        "country_code": "MX",
+        "asn": "273278",
+        "description": "AD SOLUCIONES EN TELECOMUNICACIONES SA DE CV",
+        "handle": "AD-SOLUCIONES-TELECOMUNICACIONES"
+    },
+    "273279": {
+        "country_code": "MX",
+        "asn": "273279",
+        "description": "DAVID HERRERA ALMERAYA",
+        "handle": "DAVID-HERRERA-ALMERAYA"
+    },
+    "273280": {
+        "country_code": "MX",
+        "asn": "273280",
+        "description": "Jorge Juarez Luna",
+        "handle": "JORGE-JUAREZ-LUNA"
+    },
+    "273281": {
+        "country_code": "MX",
+        "asn": "273281",
+        "description": "Gobierno del Estado de Nuevo Leon",
+        "handle": "GOBIERNO-NUEVO-LEON"
+    },
+    "273282": {
+        "country_code": "MX",
+        "asn": "273282",
+        "description": "CUALLI TELECOMUNICACIONES",
+        "handle": "CUALLI-TELECOMUNICACIONES"
+    },
+    "273283": {
+        "country_code": "MX",
+        "asn": "273283",
+        "description": "WIFREE COMUNICACIONES SA DE CV",
+        "handle": "WIFREE-COMUNICACIONES"
+    },
+    "273284": {
+        "country_code": "MX",
+        "asn": "273284",
+        "description": "INTERNET SERVICIOS ENLACES Y COMUNICACIONES",
+        "handle": "INTERNET-SERVICIOS-ENLACES"
+    },
+    "273285": {
+        "country_code": "MX",
+        "asn": "273285",
+        "description": "GRU TELCOM SA DE CV",
+        "handle": "GRU-TELCOM"
+    },
+    "273286": {
+        "country_code": "MX",
+        "asn": "273286",
+        "description": "Luis Daniel Soto Ramirez",
+        "handle": "LUIS-DANIEL-SOTO-RAMIREZ"
+    },
+    "273287": {
+        "country_code": "MX",
+        "asn": "273287",
+        "description": "DAVID RICARDO LOPEZ ALDRET",
+        "handle": "DAVID-RICARDO-LOPEZ-ALDRET"
+    },
+    "273288": {
+        "country_code": "MX",
+        "asn": "273288",
+        "description": "NXS TELECOM",
+        "handle": "NXS-TELECOM"
+    },
+    "273289": {
+        "country_code": "MX",
+        "asn": "273289",
+        "description": "FRARED SOLUCIONES DIGITALES",
+        "handle": "FRARED-SOLUCIONES-DIGITALES"
+    },
+    "273290": {
+        "country_code": "MX",
+        "asn": "273290",
+        "description": "Fideicomiso de Fomento Minero",
+        "handle": "FIDEICOMISO-FOMENTO-MINERO"
+    },
+    "273291": {
+        "country_code": "MX",
+        "asn": "273291",
+        "description": "GRUPO SATELITAL LA MIXTECA",
+        "handle": "GRUPO-SATELITAL-LA-MIXTECA"
+    },
+    "273293": {
+        "country_code": "MX",
+        "asn": "273293",
+        "description": "Jorge Fernando Cruz trevi\u00f1o",
+        "handle": "JORGE-FERNANDO-CRUZ-TREVINO"
+    },
+    "273295": {
+        "country_code": "MX",
+        "asn": "273295",
+        "description": "Roger Edwin Monzon Mejia",
+        "handle": "ROGER-EDWIN-MONZON-MEJIA"
+    },
+    "273296": {
+        "country_code": "MX",
+        "asn": "273296",
+        "description": "CODY GARETT MILLS",
+        "handle": "CODY-GARETT-MILLS"
+    },
+    "273297": {
+        "country_code": "MX",
+        "asn": "273297",
+        "description": "MIKROWISP SA DE CV",
+        "handle": "MIKROWISP"
+    },
+    "273298": {
+        "country_code": "MX",
+        "asn": "273298",
+        "description": "JUAN FRANCISCO RAMIREZ CERVANTES",
+        "handle": "JUAN-FRANCISCO-RAMIREZ"
+    },
+    "273299": {
+        "country_code": "MX",
+        "asn": "273299",
+        "description": "TELECOM DISTRICT",
+        "handle": "TELECOM-DISTRICT"
+    },
+    "273300": {
+        "country_code": "MX",
+        "asn": "273300",
+        "description": "TECNOLOGIAS FEM",
+        "handle": "TECNOLOGIAS-FEM"
+    },
+    "273301": {
+        "country_code": "MX",
+        "asn": "273301",
+        "description": "SIZATEK SPECTRUM",
+        "handle": "SIZATEK-SPECTRUM"
+    },
+    "273302": {
+        "country_code": "MX",
+        "asn": "273302",
+        "description": "EDUARDO ZUBIETA SANCHEZ",
+        "handle": "EDUARDO-ZUBIETA-SANCHEZ"
+    },
+    "273303": {
+        "country_code": "MX",
+        "asn": "273303",
+        "description": "CHAMPI NETWORKS",
+        "handle": "CHAMPI-NETWORKS"
+    },
+    "273304": {
+        "country_code": "MX",
+        "asn": "273304",
+        "description": "Somnet de M\u00e9xico",
+        "handle": "SOMNET-MEXICO"
+    },
+    "273305": {
+        "country_code": "MX",
+        "asn": "273305",
+        "description": "ARNULFO ERICK PACHECO MARQUEZ",
+        "handle": "ARNULFO-ERICK-PACHECO-MARQUEZ"
+    },
+    "273306": {
+        "country_code": "MX",
+        "asn": "273306",
+        "description": "CABLE DIVERSION ELIGAMA",
+        "handle": "CABLE-DIVERSION-ELIGAMA"
+    },
+    "273307": {
+        "country_code": "MX",
+        "asn": "273307",
+        "description": "REDINET COMUNICACIONES",
+        "handle": "REDINET-COMUNICACIONES"
+    },
+    "273308": {
+        "country_code": "MX",
+        "asn": "273308",
+        "description": "Ernesto chable Palomeque",
+        "handle": "ERNESTO-CHABLE-PALOMEQUE"
+    },
+    "274398": {
+        "country_code": "MX",
+        "asn": "274398",
+        "description": "ANY DIGITAL MEXICO S. de R.L. de C.V.",
+        "handle": "ANY-DIGITAL-MEXICO"
+    },
+    "274399": {
+        "country_code": "MX",
+        "asn": "274399",
+        "description": "ENLACES INALAMBRICOS Y OPTICOS DEL SURESTE",
+        "handle": "ENLACES-INALAMBRICOS-OPTICOS"
+    },
+    "274400": {
+        "country_code": "MX",
+        "asn": "274400",
+        "description": "Robot Comunicaciones",
+        "handle": "ROBOT-COMUNICACIONES"
+    },
+    "274401": {
+        "country_code": "MX",
+        "asn": "274401",
+        "description": "NEXUS TELECOMUNICACIONES S.A.S. de C.V.",
+        "handle": "NEXUS-TELECOMUNICACIONES"
+    },
+    "274402": {
+        "country_code": "MX",
+        "asn": "274402",
+        "description": "ONE LINK COMUNICACIONES DEL GOLFO",
+        "handle": "ONE-LINK-COMUNICACIONES-GOLFO"
+    },
+    "274403": {
+        "country_code": "MX",
+        "asn": "274403",
+        "description": "Jose Antonio Luna Castillo",
+        "handle": "JOSE-ANTONIO-LUNA-CASTILLO"
+    },
+    "274404": {
+        "country_code": "MX",
+        "asn": "274404",
+        "description": "GOTV",
+        "handle": "GOTV"
+    },
+    "274409": {
+        "country_code": "MX",
+        "asn": "274409",
+        "description": "RIAGATECH SERVICIOS DE TELECOMUNICACIONES Y COMERCIALIZADORA SA DE CV",
+        "handle": "RIAGATECH-SERVICIOS-TELECOMUNICACIONES"
+    },
+    "292905": {
+        "country_code": "MX",
+        "asn": "292905",
+        "description": "Sixsigma Networks Mexico S.A. de C.V.",
+        "handle": "SIXSIGMA-NETWORKS-MEXICO"
+    },
+    "394187": {
+        "country_code": "MX",
+        "asn": "394187",
+        "description": "Meganet Telecomunicaciones S.A. de C.V",
+        "handle": "MEGANET-TELECOMUNICACIONES-SA"
+    }
+}

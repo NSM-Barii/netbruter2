@@ -1,0 +1,554 @@
+{
+    "2561": {
+        "country_code": "EG",
+        "asn": "2561",
+        "description": "Egyptian Universities Network (EUN)",
+        "handle": "EUN"
+    },
+    "6127": {
+        "country_code": "EG",
+        "asn": "6127",
+        "description": "IDSC",
+        "handle": "IDSC"
+    },
+    "6879": {
+        "country_code": "EG",
+        "asn": "6879",
+        "description": "ENSTINET",
+        "handle": "ENSTINET-EG"
+    },
+    "8452": {
+        "country_code": "EG",
+        "asn": "8452",
+        "description": "TE-AS",
+        "handle": "TE-AS"
+    },
+    "8524": {
+        "country_code": "EG",
+        "asn": "8524",
+        "description": "The American University in Cairo (AUC)",
+        "handle": "EG-AUC"
+    },
+    "15475": {
+        "country_code": "EG",
+        "asn": "15475",
+        "description": "Nile Online",
+        "handle": "NOL"
+    },
+    "20858": {
+        "country_code": "EG",
+        "asn": "20858",
+        "description": "EgyNet",
+        "handle": "EGYNET-AS"
+    },
+    "20928": {
+        "country_code": "EG",
+        "asn": "20928",
+        "description": "The Noor Group",
+        "handle": "NOOR-AS"
+    },
+    "24736": {
+        "country_code": "EG",
+        "asn": "24736",
+        "description": "Ministry of Communications and Information Technology",
+        "handle": "CAIX"
+    },
+    "24835": {
+        "country_code": "EG",
+        "asn": "24835",
+        "description": "Vodafone Data",
+        "handle": "RAYA-AS"
+    },
+    "24863": {
+        "country_code": "EG",
+        "asn": "24863",
+        "description": "Link Egypt (Link.NET)",
+        "handle": "LINKDOTNET-AS"
+    },
+    "24878": {
+        "country_code": "EG",
+        "asn": "24878",
+        "description": "Bibliotheca Alexandrina",
+        "handle": "BIBLIOTHECA-ALEXANDRINA"
+    },
+    "24987": {
+        "country_code": "EG",
+        "asn": "24987",
+        "description": "AFMIC",
+        "handle": "AFMIC"
+    },
+    "25364": {
+        "country_code": "EG",
+        "asn": "25364",
+        "description": "Egypt Cyber Center aka ECC Solutions",
+        "handle": "EGYPTCYBERCENTER-AS"
+    },
+    "25576": {
+        "country_code": "EG",
+        "asn": "25576",
+        "description": "AFMIC",
+        "handle": "AFMIC"
+    },
+    "29428": {
+        "country_code": "EG",
+        "asn": "29428",
+        "description": "CEQUENS TECHNOLOGIES-Egyptian Joint-Stock Company",
+        "handle": "EGYPTNETWORK-AS"
+    },
+    "30993": {
+        "country_code": "EG",
+        "asn": "30993",
+        "description": "Egypt Centers",
+        "handle": "EGYPT-CENTERS"
+    },
+    "30995": {
+        "country_code": "EG",
+        "asn": "30995",
+        "description": "Vodafone Data",
+        "handle": "CIBEG-AS"
+    },
+    "31065": {
+        "country_code": "EG",
+        "asn": "31065",
+        "description": "Ministry of Communications and Information Technology",
+        "handle": "MCIT"
+    },
+    "31619": {
+        "country_code": "EG",
+        "asn": "31619",
+        "description": "City Stars",
+        "handle": "CITYSTARS-AS"
+    },
+    "33777": {
+        "country_code": "EG",
+        "asn": "33777",
+        "description": "CEQUENS TECHNOLOGIES-Egyptian Joint-Stock Company",
+        "handle": "EGYPT-NETWORK"
+    },
+    "33778": {
+        "country_code": "EG",
+        "asn": "33778",
+        "description": "Mantrac Group",
+        "handle": "MANTRAC-GROUP-AS"
+    },
+    "33782": {
+        "country_code": "EG",
+        "asn": "33782",
+        "description": "Bibliotheca Alexandrina",
+        "handle": "BA-AS"
+    },
+    "33785": {
+        "country_code": "EG",
+        "asn": "33785",
+        "description": "City Net Telecom",
+        "handle": "CITYNET"
+    },
+    "33789": {
+        "country_code": "EG",
+        "asn": "33789",
+        "description": "Ministry of Communications and Information Technology",
+        "handle": "INTERNET2"
+    },
+    "36870": {
+        "country_code": "EG",
+        "asn": "36870",
+        "description": "ITWorx",
+        "handle": "IT-WORX"
+    },
+    "36885": {
+        "country_code": "EG",
+        "asn": "36885",
+        "description": "Ministry of Communications and Information Technology",
+        "handle": "INTERNET2"
+    },
+    "36906": {
+        "country_code": "EG",
+        "asn": "36906",
+        "description": "The Egyptian Operating Company for Natural Gas Liquefaction Projects SAE",
+        "handle": "ELNG"
+    },
+    "36929": {
+        "country_code": "EG",
+        "asn": "36929",
+        "description": "Central Bank of Egypt",
+        "handle": "ASCBE"
+    },
+    "36935": {
+        "country_code": "EG",
+        "asn": "36935",
+        "description": "Vodafone Data",
+        "handle": "VODAFONE-EG"
+    },
+    "36971": {
+        "country_code": "EG",
+        "asn": "36971",
+        "description": "GPX Egypt LTD",
+        "handle": "ASGPXEG"
+    },
+    "36978": {
+        "country_code": "EG",
+        "asn": "36978",
+        "description": "EFG Hermes Holding",
+        "handle": "EFG"
+    },
+    "36990": {
+        "country_code": "EG",
+        "asn": "36990",
+        "description": "ALKAN Telecom",
+        "handle": "ALKAN-AS"
+    },
+    "36992": {
+        "country_code": "EG",
+        "asn": "36992",
+        "description": "ETISALAT MISR",
+        "handle": "ETISALAT-MISR"
+    },
+    "37003": {
+        "country_code": "EG",
+        "asn": "37003",
+        "description": "Xceed Contact Center",
+        "handle": "XCEED-AS"
+    },
+    "37031": {
+        "country_code": "EG",
+        "asn": "37031",
+        "description": "MISR Information Services and Trading",
+        "handle": "MIST-EG"
+    },
+    "37066": {
+        "country_code": "EG",
+        "asn": "37066",
+        "description": "Ministry of Foreign Affairs",
+        "handle": "MFA-AS"
+    },
+    "37069": {
+        "country_code": "EG",
+        "asn": "37069",
+        "description": "The Egyptian Company for Mobile Services (Mobinil)",
+        "handle": "MOBINIL"
+    },
+    "37091": {
+        "country_code": "EG",
+        "asn": "37091",
+        "description": "Al Ahli Bank of Kuwait Egypt S.A.E",
+        "handle": "AL-AHLI-BANK"
+    },
+    "37112": {
+        "country_code": "EG",
+        "asn": "37112",
+        "description": "Dar Al-Handasah",
+        "handle": "DARCAIROAS"
+    },
+    "37191": {
+        "country_code": "EG",
+        "asn": "37191",
+        "description": "Raya Holding",
+        "handle": "RAYA-HOLDING"
+    },
+    "37193": {
+        "country_code": "EG",
+        "asn": "37193",
+        "description": "e-finance",
+        "handle": "E-FINANCE"
+    },
+    "37250": {
+        "country_code": "EG",
+        "asn": "37250",
+        "description": "Egyptair",
+        "handle": "EGYPTAIR"
+    },
+    "37252": {
+        "country_code": "EG",
+        "asn": "37252",
+        "description": "GB Auto",
+        "handle": "GBAUTO"
+    },
+    "37279": {
+        "country_code": "EG",
+        "asn": "37279",
+        "description": "Egyptian Banks Company",
+        "handle": "EGYPTIAN-BANK"
+    },
+    "37339": {
+        "country_code": "EG",
+        "asn": "37339",
+        "description": "Network International Payment Services",
+        "handle": "MSCC"
+    },
+    "37348": {
+        "country_code": "EG",
+        "asn": "37348",
+        "description": "Cairo American College",
+        "handle": "CAC"
+    },
+    "37437": {
+        "country_code": "EG",
+        "asn": "37437",
+        "description": "CI Capital Holding",
+        "handle": "CICH"
+    },
+    "37444": {
+        "country_code": "EG",
+        "asn": "37444",
+        "description": "SCCT",
+        "handle": "SCCT"
+    },
+    "37583": {
+        "country_code": "EG",
+        "asn": "37583",
+        "description": "Credit Agricole Egypt",
+        "handle": "CREDITAGRICOLEEGYPT"
+    },
+    "37585": {
+        "country_code": "EG",
+        "asn": "37585",
+        "description": "Qatar National Bank Al Ahli (QNB AA)",
+        "handle": "NSGB"
+    },
+    "37664": {
+        "country_code": "EG",
+        "asn": "37664",
+        "description": "Raya Contact Center",
+        "handle": "RAYACC"
+    },
+    "37726": {
+        "country_code": "EG",
+        "asn": "37726",
+        "description": "P.S extra for communication Network and information technology JSC",
+        "handle": "PS-EXTRA-AS"
+    },
+    "37728": {
+        "country_code": "EG",
+        "asn": "37728",
+        "description": "TE Data",
+        "handle": "EG-IX"
+    },
+    "207740": {
+        "country_code": "EG",
+        "asn": "207740",
+        "description": "Youssef Hamed",
+        "handle": "AMIRGT-AS"
+    },
+    "327838": {
+        "country_code": "EG",
+        "asn": "327838",
+        "description": "Egypt Linx for Communication Services",
+        "handle": "EGYPT-LINX"
+    },
+    "327846": {
+        "country_code": "EG",
+        "asn": "327846",
+        "description": "Wadi Degla Investments(WDI)",
+        "handle": "WADI-DEGLA-INVESTMENTS-WDI"
+    },
+    "328011": {
+        "country_code": "EG",
+        "asn": "328011",
+        "description": "Children Cancer Hospital - Foundation 57357",
+        "handle": "CHILDREN-CANCER-HOSPITAL"
+    },
+    "328052": {
+        "country_code": "EG",
+        "asn": "328052",
+        "description": "Orascom Construction",
+        "handle": "ORASCOM-CONSTRUCTION-AS"
+    },
+    "328062": {
+        "country_code": "EG",
+        "asn": "328062",
+        "description": "Audi Bank S.A.E.",
+        "handle": "AUDI-BANK-AS"
+    },
+    "328067": {
+        "country_code": "EG",
+        "asn": "328067",
+        "description": "E.G.I.T. for Technology Services",
+        "handle": "EGIT-TECHNOLOGY-AS"
+    },
+    "328105": {
+        "country_code": "EG",
+        "asn": "328105",
+        "description": "The International Educational Systems and its branch Modern English School Cairo",
+        "handle": "MES-AS"
+    },
+    "328299": {
+        "country_code": "EG",
+        "asn": "328299",
+        "description": "Attijariwafa Bank Egypt S.A.E",
+        "handle": "ATTIJARIWAFA-AS"
+    },
+    "328308": {
+        "country_code": "EG",
+        "asn": "328308",
+        "description": "L'Azurde Company For Jewelry",
+        "handle": "AZURDE-JEWELRY-AS"
+    },
+    "328405": {
+        "country_code": "EG",
+        "asn": "328405",
+        "description": "Link Datacenter For Data Circulation",
+        "handle": "LINK-DATACENTER-FOR-DATA-CIRCULATION"
+    },
+    "328430": {
+        "country_code": "EG",
+        "asn": "328430",
+        "description": "Fawry for Banking and Electronic Payment Technology Services (S.A.E)",
+        "handle": "FAWRY-BANKING-ELECTRONIC-PAYMENT-AS"
+    },
+    "328484": {
+        "country_code": "EG",
+        "asn": "328484",
+        "description": "TBE Egypt for Payment Solutions and Services S.A.E",
+        "handle": "TBE-EGYPT-AS"
+    },
+    "328553": {
+        "country_code": "EG",
+        "asn": "328553",
+        "description": "Bank Misr S.A.E",
+        "handle": "BANK-MISR"
+    },
+    "328587": {
+        "country_code": "EG",
+        "asn": "328587",
+        "description": "Ministry of Communications and Information Technology",
+        "handle": "MINISTRY-OF-INTERIOR-EG"
+    },
+    "328629": {
+        "country_code": "EG",
+        "asn": "328629",
+        "description": "Egyptian Credit Bureau Estealam S.A.E",
+        "handle": "EGYPTIAN-CREDIT-BUREAU"
+    },
+    "328645": {
+        "country_code": "EG",
+        "asn": "328645",
+        "description": "The Egyptian Stock Exchange",
+        "handle": "EGYPTIAN-STOCK-EXCHANGE"
+    },
+    "328654": {
+        "country_code": "EG",
+        "asn": "328654",
+        "description": "Fixed Solutions",
+        "handle": "FIXED-SOLUTIONS"
+    },
+    "328762": {
+        "country_code": "EG",
+        "asn": "328762",
+        "description": "Mansoura University",
+        "handle": "MANSOORA-UNIVERSITY"
+    },
+    "328786": {
+        "country_code": "EG",
+        "asn": "328786",
+        "description": "valU",
+        "handle": "VALU"
+    },
+    "328794": {
+        "country_code": "EG",
+        "asn": "328794",
+        "description": "Vodafone International Services L.L.C",
+        "handle": "VISL1-AS"
+    },
+    "328876": {
+        "country_code": "EG",
+        "asn": "328876",
+        "description": "Unipak Nile Ltd",
+        "handle": "UNIPAK-AS"
+    },
+    "328927": {
+        "country_code": "EG",
+        "asn": "328927",
+        "description": "Fixed Solutions",
+        "handle": "FIXEDMEA-TE"
+    },
+    "328969": {
+        "country_code": "EG",
+        "asn": "328969",
+        "description": "Albaraka Bank of Egypt",
+        "handle": "ABOE1-AS"
+    },
+    "328972": {
+        "country_code": "EG",
+        "asn": "328972",
+        "description": "Geidea Technology",
+        "handle": "GEIDEA-TECHNOLOGY-AS"
+    },
+    "329003": {
+        "country_code": "EG",
+        "asn": "329003",
+        "description": "TE Data",
+        "handle": "EG-IX-MANAGEMENT"
+    },
+    "329114": {
+        "country_code": "EG",
+        "asn": "329114",
+        "description": "Halan for technology and services",
+        "handle": "HFTA1-AS"
+    },
+    "329131": {
+        "country_code": "EG",
+        "asn": "329131",
+        "description": "National Bank of Kuwait (NBK) - Egypt - S.A.E",
+        "handle": "NBOK-AS"
+    },
+    "329132": {
+        "country_code": "EG",
+        "asn": "329132",
+        "description": "National Company for Telecommunication Services",
+        "handle": "NATIONAL-COMPANY-FOR-TELECOMMUNICATION-SERVICE"
+    },
+    "329325": {
+        "country_code": "EG",
+        "asn": "329325",
+        "description": "Maxko for Gaming Development",
+        "handle": "MAXKO-FOR-GAMING-DEVELOPMENT"
+    },
+    "329336": {
+        "country_code": "EG",
+        "asn": "329336",
+        "description": "WhiTech",
+        "handle": "WHITECH"
+    },
+    "329352": {
+        "country_code": "EG",
+        "asn": "329352",
+        "description": "IP4Solutions",
+        "handle": "IP4SOLUTIONS"
+    },
+    "329358": {
+        "country_code": "EG",
+        "asn": "329358",
+        "description": "VPSie Egypt for Information Technology",
+        "handle": "VPSIE-EGYPT-FOR-INFORMATION-TECHNOLOGY"
+    },
+    "329359": {
+        "country_code": "EG",
+        "asn": "329359",
+        "description": "Agility Infrastructure a limited liability company",
+        "handle": "AGILITY-INFRASTRUCTURE"
+    },
+    "329397": {
+        "country_code": "EG",
+        "asn": "329397",
+        "description": "GlobeMed Egypt",
+        "handle": "GLOBEMED"
+    },
+    "329431": {
+        "country_code": "EG",
+        "asn": "329431",
+        "description": "Redsea Sahara Travel",
+        "handle": "REDSEA-SAHARA-TRAVEL"
+    },
+    "329520": {
+        "country_code": "EG",
+        "asn": "329520",
+        "description": "Arpu Telecommunication Services S.A.E",
+        "handle": "ARPU-TELECOMMUNICATIONS"
+    },
+    "329642": {
+        "country_code": "EG",
+        "asn": "329642",
+        "description": "Ministry of Petroleum and Mineral Resources",
+        "handle": "MINISTRY-OF-PETROLEUM-AND-MINERAL-RESOURCES"
+    }
+}

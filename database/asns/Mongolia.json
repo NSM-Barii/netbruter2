@@ -1,0 +1,434 @@
+{
+    "4850": {
+        "country_code": "MN",
+        "asn": "4850",
+        "description": "DIGICOM LLC",
+        "handle": "DIGICOM-AS-AP"
+    },
+    "9484": {
+        "country_code": "MN",
+        "asn": "9484",
+        "description": "Mobinet LLC",
+        "handle": "MOBINET-AS-MN"
+    },
+    "9789": {
+        "country_code": "MN",
+        "asn": "9789",
+        "description": "DataCom Co. Ltd",
+        "handle": "ASN-DATACOM-AP"
+    },
+    "9934": {
+        "country_code": "MN",
+        "asn": "9934",
+        "description": "Mongolia Telecom",
+        "handle": "MICOM-MN-AS"
+    },
+    "10076": {
+        "country_code": "MN",
+        "asn": "10076",
+        "description": "Mongolian Technical University Computer Science Mgmt School",
+        "handle": "ASN-ERDEMNET"
+    },
+    "10109": {
+        "country_code": "MN",
+        "asn": "10109",
+        "description": "Topica Co. Ltd",
+        "handle": "TOPNET-AS-MN-AP"
+    },
+    "10219": {
+        "country_code": "MN",
+        "asn": "10219",
+        "description": "Skymedia Corporation",
+        "handle": "SKYMEDIA-AS-MAIN"
+    },
+    "17882": {
+        "country_code": "MN",
+        "asn": "17882",
+        "description": "MCS Com Co Ltd",
+        "handle": "UNIVISION-AS-AP"
+    },
+    "18172": {
+        "country_code": "MN",
+        "asn": "18172",
+        "description": "ITSYSTEM LLC",
+        "handle": "ITSYSTEM-LLC-AS"
+    },
+    "24064": {
+        "country_code": "MN",
+        "asn": "24064",
+        "description": "MISPA IXP",
+        "handle": "MISPA-IXP"
+    },
+    "24320": {
+        "country_code": "MN",
+        "asn": "24320",
+        "description": "RAILCOM",
+        "handle": "RAILCOM"
+    },
+    "24496": {
+        "country_code": "MN",
+        "asn": "24496",
+        "description": "GNET",
+        "handle": "GNET-AS-MN"
+    },
+    "24559": {
+        "country_code": "MN",
+        "asn": "24559",
+        "description": "G-Mobile Co. Ltd",
+        "handle": "GMOBILE-MN"
+    },
+    "38051": {
+        "country_code": "MN",
+        "asn": "38051",
+        "description": "OpenWaveX LLC",
+        "handle": "OPENWAVEX-AS-AP"
+    },
+    "38218": {
+        "country_code": "MN",
+        "asn": "38218",
+        "description": "MobiCom Corporation",
+        "handle": "MOBICOM-MN-AP"
+    },
+    "38273": {
+        "country_code": "MN",
+        "asn": "38273",
+        "description": "MCS Com Co Ltd",
+        "handle": "UNIVISION-AS-AP"
+    },
+    "38454": {
+        "country_code": "MN",
+        "asn": "38454",
+        "description": "G-Mobile Co. Ltd",
+        "handle": "GMOBILE-MN-AS-AP"
+    },
+    "38805": {
+        "country_code": "MN",
+        "asn": "38805",
+        "description": "STXCitinet LLC",
+        "handle": "CITINET-AS-MN-AP"
+    },
+    "38818": {
+        "country_code": "MN",
+        "asn": "38818",
+        "description": "YokozunaNET",
+        "handle": "YOKOUNANET-MN-AS-AP"
+    },
+    "38869": {
+        "country_code": "MN",
+        "asn": "38869",
+        "description": "Skynetworks LLC",
+        "handle": "SKYNET-AS-AP"
+    },
+    "45204": {
+        "country_code": "MN",
+        "asn": "45204",
+        "description": "Gemnet",
+        "handle": "GEMNET-MN"
+    },
+    "45237": {
+        "country_code": "MN",
+        "asn": "45237",
+        "description": "Magicnet LLC",
+        "handle": "GLOBAL-MG-AS-AP"
+    },
+    "45509": {
+        "country_code": "MN",
+        "asn": "45509",
+        "description": "BMD Inc",
+        "handle": "BMDNET-AS-MN-AP"
+    },
+    "55342": {
+        "country_code": "MN",
+        "asn": "55342",
+        "description": "Homenet",
+        "handle": "HOMENET6837-AS-AP"
+    },
+    "55408": {
+        "country_code": "MN",
+        "asn": "55408",
+        "description": "MCS Com Co Ltd",
+        "handle": "UNIVISION-AS-AP"
+    },
+    "55546": {
+        "country_code": "MN",
+        "asn": "55546",
+        "description": "Mobinet LLC",
+        "handle": "MOBINET-AS-MN"
+    },
+    "55805": {
+        "country_code": "MN",
+        "asn": "55805",
+        "description": "MobiCom Corporation",
+        "handle": "MOBICOM-AS-MN"
+    },
+    "56194": {
+        "country_code": "MN",
+        "asn": "56194",
+        "description": "Skymedia Corporation",
+        "handle": "SKYMEDIA-AS-MAIN"
+    },
+    "56293": {
+        "country_code": "MN",
+        "asn": "56293",
+        "description": "Kewiko LLC",
+        "handle": "KEWIKONET-AS-AP"
+    },
+    "56301": {
+        "country_code": "MN",
+        "asn": "56301",
+        "description": "National Data Center",
+        "handle": "MN-NDC-MN"
+    },
+    "58439": {
+        "country_code": "MN",
+        "asn": "58439",
+        "description": "ICNC LLC",
+        "handle": "ICNC-AS"
+    },
+    "58598": {
+        "country_code": "MN",
+        "asn": "58598",
+        "description": "Comtel Ltd",
+        "handle": "COMTEL-NET-AS"
+    },
+    "58625": {
+        "country_code": "MN",
+        "asn": "58625",
+        "description": "Gmobilenet Ltd",
+        "handle": "GMOBILENET-MN"
+    },
+    "58726": {
+        "country_code": "MN",
+        "asn": "58726",
+        "description": "Isatcom llc",
+        "handle": "ISATCOM-LLC-AS"
+    },
+    "63962": {
+        "country_code": "MN",
+        "asn": "63962",
+        "description": "Intelligent Tools",
+        "handle": "ITOOLS-AS"
+    },
+    "64057": {
+        "country_code": "MN",
+        "asn": "64057",
+        "description": "Intelligent Tools",
+        "handle": "ITOOLS-AS-AP"
+    },
+    "131240": {
+        "country_code": "MN",
+        "asn": "131240",
+        "description": "Ultranet Zone LLC",
+        "handle": "ULTRANETLLC-AS-AP"
+    },
+    "133177": {
+        "country_code": "MN",
+        "asn": "133177",
+        "description": "OpenWaveX LLC",
+        "handle": "OPENWAVEX-AS-AP"
+    },
+    "133453": {
+        "country_code": "MN",
+        "asn": "133453",
+        "description": "Mogul Service LLC",
+        "handle": "MOGULSS-AS-AP"
+    },
+    "133531": {
+        "country_code": "MN",
+        "asn": "133531",
+        "description": "Gemnet",
+        "handle": "GEMNET-AS-AP"
+    },
+    "133851": {
+        "country_code": "MN",
+        "asn": "133851",
+        "description": "Xacbank",
+        "handle": "XACBANK-AS-AP"
+    },
+    "134074": {
+        "country_code": "MN",
+        "asn": "134074",
+        "description": "Golomt Bank",
+        "handle": "GOLOMTBANK-AS-AP"
+    },
+    "134356": {
+        "country_code": "MN",
+        "asn": "134356",
+        "description": "NBC Co. Ltd",
+        "handle": "NBCCOLTD-AS-AP"
+    },
+    "134813": {
+        "country_code": "MN",
+        "asn": "134813",
+        "description": "E-Mongolia Academy",
+        "handle": "EMONGOLIAACADEMY-AS-AP"
+    },
+    "135033": {
+        "country_code": "MN",
+        "asn": "135033",
+        "description": "BodiSystems Co. Ltd",
+        "handle": "BODISYSTEMSLLC-AS-AP"
+    },
+    "136936": {
+        "country_code": "MN",
+        "asn": "136936",
+        "description": "ArigBank LLC",
+        "handle": "ARIGBANKLLC-AS-AP"
+    },
+    "137511": {
+        "country_code": "MN",
+        "asn": "137511",
+        "description": "Civil Aviation Authority of Mongolia",
+        "handle": "CAAM-AS-AP"
+    },
+    "137982": {
+        "country_code": "MN",
+        "asn": "137982",
+        "description": "BOW LLC",
+        "handle": "BOWLLC-AS-AP"
+    },
+    "138907": {
+        "country_code": "MN",
+        "asn": "138907",
+        "description": "KHAN BANK LLC",
+        "handle": "KHANBANK-AS-AP"
+    },
+    "139089": {
+        "country_code": "MN",
+        "asn": "139089",
+        "description": "MT Networks LLC",
+        "handle": "MTNETWORKS-AS-AP"
+    },
+    "139579": {
+        "country_code": "MN",
+        "asn": "139579",
+        "description": "Mongolsat Networks LLC",
+        "handle": "MNL-AS-AP"
+    },
+    "139650": {
+        "country_code": "MN",
+        "asn": "139650",
+        "description": "Virtual Link LLC",
+        "handle": "VIRTUALMONGOLIA-AS-AP"
+    },
+    "139837": {
+        "country_code": "MN",
+        "asn": "139837",
+        "description": "SHINE SANSAR CABLE LLC",
+        "handle": "NEWSANSARCATV-AS-AP"
+    },
+    "140931": {
+        "country_code": "MN",
+        "asn": "140931",
+        "description": "Fibo Global LLC",
+        "handle": "FIBOGLOBALLLC-AS-AP"
+    },
+    "141681": {
+        "country_code": "MN",
+        "asn": "141681",
+        "description": "ONDO LLC",
+        "handle": "IMNL-AS-AP"
+    },
+    "142023": {
+        "country_code": "MN",
+        "asn": "142023",
+        "description": "NEXUS",
+        "handle": "NEXUSMONGOLIA-AS-AP"
+    },
+    "142539": {
+        "country_code": "MN",
+        "asn": "142539",
+        "description": "Shunkhlai Group",
+        "handle": "SHUNKHLAIGROUP-AS-AP"
+    },
+    "150426": {
+        "country_code": "MN",
+        "asn": "150426",
+        "description": "ONDO Network LLC",
+        "handle": "ONDONETWORKLLC-AS-AP"
+    },
+    "150430": {
+        "country_code": "MN",
+        "asn": "150430",
+        "description": "CNET LLC",
+        "handle": "CNET3-AS-AP"
+    },
+    "150720": {
+        "country_code": "MN",
+        "asn": "150720",
+        "description": "STXCitinet LLC",
+        "handle": "CITINET-AS-AP"
+    },
+    "151355": {
+        "country_code": "MN",
+        "asn": "151355",
+        "description": "Generaltech LLC",
+        "handle": "GENERALTECH1-AS-AP"
+    },
+    "151367": {
+        "country_code": "MN",
+        "asn": "151367",
+        "description": "ONDO SALES LLC",
+        "handle": "ONDOSALES-AS-AP"
+    },
+    "151637": {
+        "country_code": "MN",
+        "asn": "151637",
+        "description": "Erdenet Mining Corporation",
+        "handle": "EMC-AS-AP"
+    },
+    "152116": {
+        "country_code": "MN",
+        "asn": "152116",
+        "description": "S Systems LLC",
+        "handle": "SSYSTEMSLLC-AS-AP"
+    },
+    "152299": {
+        "country_code": "MN",
+        "asn": "152299",
+        "description": "Statebank of Mongolia",
+        "handle": "SOM-AS-AP"
+    },
+    "152337": {
+        "country_code": "MN",
+        "asn": "152337",
+        "description": "National University of Mongolia",
+        "handle": "NUM-AS-AP"
+    },
+    "152338": {
+        "country_code": "MN",
+        "asn": "152338",
+        "description": "National Data Center",
+        "handle": "MN-NDC-AS-AP"
+    },
+    "152692": {
+        "country_code": "MN",
+        "asn": "152692",
+        "description": "Onlime Network LLC",
+        "handle": "ONLIMENETWORKLLC-AS-AP"
+    },
+    "152926": {
+        "country_code": "MN",
+        "asn": "152926",
+        "description": "Digital Development and Information Technology Department",
+        "handle": "ULAANBAATAR-AS-AP"
+    },
+    "154194": {
+        "country_code": "MN",
+        "asn": "154194",
+        "description": "Skytel LLC",
+        "handle": "SKYTELLLC-AS-AP"
+    },
+    "154290": {
+        "country_code": "MN",
+        "asn": "154290",
+        "description": "Newfund NBFI LLC",
+        "handle": "NEWFUNDNBFILLC-AS-AP"
+    },
+    "154359": {
+        "country_code": "MN",
+        "asn": "154359",
+        "description": "APU Company",
+        "handle": "APUCOMPANY-AS-AP"
+    }
+}

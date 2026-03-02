@@ -1,0 +1,1778 @@
+{
+    "1197": {
+        "country_code": "IE",
+        "asn": "1197",
+        "description": "Network Ability Limited",
+        "handle": "NETWORKABILITY"
+    },
+    "1213": {
+        "country_code": "IE",
+        "asn": "1213",
+        "description": "ASIERA TECHNOLOGY SERVICES CLG",
+        "handle": "HEANET"
+    },
+    "2110": {
+        "country_code": "IE",
+        "asn": "2110",
+        "description": "Enet Communications LIMITED",
+        "handle": "AS-BTIRE"
+    },
+    "2128": {
+        "country_code": "IE",
+        "asn": "2128",
+        "description": "Internet Neutral Exchange Association Company Limited By Guarantee",
+        "handle": "INEX"
+    },
+    "2647": {
+        "country_code": "IE",
+        "asn": "2647",
+        "description": "ORANGE BUSINESS COMMUNICATIONS TECHNOLOGY LIMITED",
+        "handle": "ORANGE-BUSINESS-NAM"
+    },
+    "2850": {
+        "country_code": "IE",
+        "asn": "2850",
+        "description": "University College Dublin",
+        "handle": "UNIVERSITY-COLLEGE-DUBLIN"
+    },
+    "3286": {
+        "country_code": "IE",
+        "asn": "3286",
+        "description": "Enet Communications LIMITED",
+        "handle": "IOL"
+    },
+    "5466": {
+        "country_code": "IE",
+        "asn": "5466",
+        "description": "Eircom Limited",
+        "handle": "EIRCOM"
+    },
+    "6812": {
+        "country_code": "IE",
+        "asn": "6812",
+        "description": "EMC Information Systems International PUC",
+        "handle": "VS-VGN-EMEA"
+    },
+    "8918": {
+        "country_code": "IE",
+        "asn": "8918",
+        "description": "Coolwave Communications Limited",
+        "handle": "CARRIER1-AS"
+    },
+    "8987": {
+        "country_code": "IE",
+        "asn": "8987",
+        "description": "Amazon Data Services Ireland Ltd",
+        "handle": "AWS-GOVCLOUD"
+    },
+    "9055": {
+        "country_code": "IE",
+        "asn": "9055",
+        "description": "Verizon Ireland Limited",
+        "handle": "VERIZON-IRELAND-LIMITED"
+    },
+    "9059": {
+        "country_code": "IE",
+        "asn": "9059",
+        "description": "Amazon Data Services Ireland Ltd",
+        "handle": "AWS-EU-AS"
+    },
+    "12372": {
+        "country_code": "IE",
+        "asn": "12372",
+        "description": "Cubic Telecom Limited",
+        "handle": "CUBIC-TELECOM"
+    },
+    "12388": {
+        "country_code": "IE",
+        "asn": "12388",
+        "description": "Virgin Media Ireland Limited",
+        "handle": "CABLESURF"
+    },
+    "13280": {
+        "country_code": "IE",
+        "asn": "13280",
+        "description": "Three Ireland (Hutchison) limited",
+        "handle": "H3GIE"
+    },
+    "15405": {
+        "country_code": "IE",
+        "asn": "15405",
+        "description": "East Cork Broadband Limited",
+        "handle": "EASTCORK-AS"
+    },
+    "15502": {
+        "country_code": "IE",
+        "asn": "15502",
+        "description": "Vodafone Ireland Limited",
+        "handle": "VODAFONE-IRELAND-ASN"
+    },
+    "15612": {
+        "country_code": "IE",
+        "asn": "15612",
+        "description": "ServeCentric Ltd.",
+        "handle": "SERVECENTRIC"
+    },
+    "15751": {
+        "country_code": "IE",
+        "asn": "15751",
+        "description": "Eircom Limited",
+        "handle": "METEORMOBILECOMMS-AS"
+    },
+    "15806": {
+        "country_code": "IE",
+        "asn": "15806",
+        "description": "Irish Government",
+        "handle": "ORG-IG30-RIPE"
+    },
+    "16171": {
+        "country_code": "IE",
+        "asn": "16171",
+        "description": "Fulnett Limited",
+        "handle": "STRENCOM"
+    },
+    "16282": {
+        "country_code": "IE",
+        "asn": "16282",
+        "description": "Allied Irish Banks PLC",
+        "handle": "AIB-AS-1"
+    },
+    "24622": {
+        "country_code": "IE",
+        "asn": "24622",
+        "description": "Enet Communications LIMITED",
+        "handle": "BT-BOI"
+    },
+    "24675": {
+        "country_code": "IE",
+        "asn": "24675",
+        "description": "Irish Government",
+        "handle": "LGCSB-AS"
+    },
+    "24784": {
+        "country_code": "IE",
+        "asn": "24784",
+        "description": "Payzone Group Unlimited Company",
+        "handle": "ALPHYRA"
+    },
+    "25441": {
+        "country_code": "IE",
+        "asn": "25441",
+        "description": "Imagine Communications Group Limited",
+        "handle": "IBIS-AS"
+    },
+    "28867": {
+        "country_code": "IE",
+        "asn": "28867",
+        "description": "ATOS IT SOLUTIONS AND SERVICES LIMITED",
+        "handle": "ATOS-IT-SOLUTIONS-AND-SERVICES-IRELAND-AS"
+    },
+    "29644": {
+        "country_code": "IE",
+        "asn": "29644",
+        "description": "AIRSPEED COMMUNICATIONS LIMITED",
+        "handle": "AIRSPEED-AS"
+    },
+    "29650": {
+        "country_code": "IE",
+        "asn": "29650",
+        "description": "Digiweb ltd",
+        "handle": "VIATELAS-AS"
+    },
+    "30864": {
+        "country_code": "IE",
+        "asn": "30864",
+        "description": "Elavon Financial Services DAC",
+        "handle": "ELAVON-FINANCIAL-SERVICES-DAC-AS"
+    },
+    "30900": {
+        "country_code": "IE",
+        "asn": "30900",
+        "description": "Sternforth Ltd. trading as WebWorld",
+        "handle": "WEBWORLD-AS"
+    },
+    "31122": {
+        "country_code": "IE",
+        "asn": "31122",
+        "description": "Digiweb ltd",
+        "handle": "DIGIWEB-AS"
+    },
+    "31128": {
+        "country_code": "IE",
+        "asn": "31128",
+        "description": "APPLE DISTRIBUTION INTERNATIONAL LTD.",
+        "handle": "SHAZAM-AS"
+    },
+    "31411": {
+        "country_code": "IE",
+        "asn": "31411",
+        "description": "Irish Continental Group Plc.",
+        "handle": "ORG-ICGP1-RIPE-AS"
+    },
+    "31458": {
+        "country_code": "IE",
+        "asn": "31458",
+        "description": "Digiweb ltd",
+        "handle": "SMARTTELECOM-AS"
+    },
+    "34218": {
+        "country_code": "IE",
+        "asn": "34218",
+        "description": "Three Ireland (Hutchison) limited",
+        "handle": "H3GIE"
+    },
+    "34245": {
+        "country_code": "IE",
+        "asn": "34245",
+        "description": "Magnet Networks Limited",
+        "handle": "MAGNET-AS"
+    },
+    "34778": {
+        "country_code": "IE",
+        "asn": "34778",
+        "description": "Siemens Industry Software Limited",
+        "handle": "SIEMENS-INDUSTRY-SOFTWARE-EGYPT"
+    },
+    "34815": {
+        "country_code": "IE",
+        "asn": "34815",
+        "description": "Dublin Enterprise & Technology Centre Limited",
+        "handle": "IE-GEC-AS"
+    },
+    "34912": {
+        "country_code": "IE",
+        "asn": "34912",
+        "description": "Vodafone Ireland Limited",
+        "handle": "IFN-AS"
+    },
+    "35068": {
+        "country_code": "IE",
+        "asn": "35068",
+        "description": "Virtu Financial Ireland Limited",
+        "handle": "VIRTU-FINANCIAL"
+    },
+    "35226": {
+        "country_code": "IE",
+        "asn": "35226",
+        "description": "Digiweb ltd",
+        "handle": "RIPPLECOM-AS"
+    },
+    "35262": {
+        "country_code": "IE",
+        "asn": "35262",
+        "description": "4L Communications Ltd",
+        "handle": "LLLL"
+    },
+    "35289": {
+        "country_code": "IE",
+        "asn": "35289",
+        "description": "NortonLifeLock Ireland Limited",
+        "handle": "SYMANTEC-CORP"
+    },
+    "35424": {
+        "country_code": "IE",
+        "asn": "35424",
+        "description": "FINTUA LIMITED",
+        "handle": "IE-TAXBACK-20190219"
+    },
+    "39093": {
+        "country_code": "IE",
+        "asn": "39093",
+        "description": "WESTNET BROADBAND MAYO LIMITED",
+        "handle": "WESTNET-IE"
+    },
+    "39111": {
+        "country_code": "IE",
+        "asn": "39111",
+        "description": "Amazon Data Services Ireland Ltd",
+        "handle": "ADSI-AS"
+    },
+    "39122": {
+        "country_code": "IE",
+        "asn": "39122",
+        "description": "Blacknight Internet Solutions Limited",
+        "handle": "BLACKNIGHT-AS"
+    },
+    "39157": {
+        "country_code": "IE",
+        "asn": "39157",
+        "description": "Western Union International Limited",
+        "handle": "WESTERNUNION-DUB-IE"
+    },
+    "39319": {
+        "country_code": "IE",
+        "asn": "39319",
+        "description": "QuestZones (Europe) Limited",
+        "handle": "QZE"
+    },
+    "39449": {
+        "country_code": "IE",
+        "asn": "39449",
+        "description": "Fastcom Broadband Limited",
+        "handle": "FASTCOM-AS"
+    },
+    "39485": {
+        "country_code": "IE",
+        "asn": "39485",
+        "description": "Northwest Broadband Connect Ltd.",
+        "handle": "NORTHWEST-AS"
+    },
+    "39849": {
+        "country_code": "IE",
+        "asn": "39849",
+        "description": "U.S. Bank Europe DAC",
+        "handle": "PTX-AS"
+    },
+    "41073": {
+        "country_code": "IE",
+        "asn": "41073",
+        "description": "Raidio Teilifis Eireann",
+        "handle": "RTE"
+    },
+    "41214": {
+        "country_code": "IE",
+        "asn": "41214",
+        "description": "EBS Limited",
+        "handle": "EBS"
+    },
+    "41238": {
+        "country_code": "IE",
+        "asn": "41238",
+        "description": "DAA PLC",
+        "handle": "DAA-AS-1"
+    },
+    "41602": {
+        "country_code": "IE",
+        "asn": "41602",
+        "description": "Nicholas William Hilliard",
+        "handle": "NH7-AS"
+    },
+    "41607": {
+        "country_code": "IE",
+        "asn": "41607",
+        "description": "PROJECT MANAGEMENT LIMITED",
+        "handle": "PMNET"
+    },
+    "41680": {
+        "country_code": "IE",
+        "asn": "41680",
+        "description": "8 WEST REVOLUTION TECHNOLOGIES LIMITED",
+        "handle": "DSI-CORK-AS"
+    },
+    "41736": {
+        "country_code": "IE",
+        "asn": "41736",
+        "description": "Digiweb ltd",
+        "handle": "NOVANETWORKS-AS"
+    },
+    "41883": {
+        "country_code": "IE",
+        "asn": "41883",
+        "description": "Vodafone Ireland Limited",
+        "handle": "CNT-AS"
+    },
+    "41973": {
+        "country_code": "IE",
+        "asn": "41973",
+        "description": "Vhi Healthcare DAC",
+        "handle": "VHI-AS"
+    },
+    "42090": {
+        "country_code": "IE",
+        "asn": "42090",
+        "description": "Rapid Broadband Ltd",
+        "handle": "RAPIDBB"
+    },
+    "42213": {
+        "country_code": "IE",
+        "asn": "42213",
+        "description": "Mallinckrodt Pharmaceuticals Ireland Ltd",
+        "handle": "MPIL-AS-1"
+    },
+    "42227": {
+        "country_code": "IE",
+        "asn": "42227",
+        "description": "Airwire Ltd",
+        "handle": "AIRWIRE-AS"
+    },
+    "42310": {
+        "country_code": "IE",
+        "asn": "42310",
+        "description": "IE Domain Registry CLG",
+        "handle": "IEDR"
+    },
+    "42326": {
+        "country_code": "IE",
+        "asn": "42326",
+        "description": "HERTZ EUROPE SERVICE CENTRE LIMITED",
+        "handle": "HERTZIRE-AS"
+    },
+    "42342": {
+        "country_code": "IE",
+        "asn": "42342",
+        "description": "Fiserv Solutions (Europe) Limited",
+        "handle": "FDI-DUB-IE"
+    },
+    "42953": {
+        "country_code": "IE",
+        "asn": "42953",
+        "description": "Internet Neutral Exchange Association Company Limited By Guarantee",
+        "handle": "INEX-CORK"
+    },
+    "43192": {
+        "country_code": "IE",
+        "asn": "43192",
+        "description": "Ajisko Ltd t/a Integrated Media Solutions",
+        "handle": "IMEDIA-AS"
+    },
+    "43406": {
+        "country_code": "IE",
+        "asn": "43406",
+        "description": "Lighthouse Networks Limited",
+        "handle": "LIGHTHOUSE-AS"
+    },
+    "43484": {
+        "country_code": "IE",
+        "asn": "43484",
+        "description": "Siemens Industry Software Limited",
+        "handle": "SIEMENS-INDUSTRY-SOFTWARE-LIMITED-EUROPE"
+    },
+    "43515": {
+        "country_code": "IE",
+        "asn": "43515",
+        "description": "Google Ireland Limited",
+        "handle": "YOUTUBE"
+    },
+    "43760": {
+        "country_code": "IE",
+        "asn": "43760",
+        "description": "Internet Neutral Exchange Association Company Limited By Guarantee",
+        "handle": "INEX-RS"
+    },
+    "43984": {
+        "country_code": "IE",
+        "asn": "43984",
+        "description": "Conscia Technologies LIMITED",
+        "handle": "THRPP-AS"
+    },
+    "44196": {
+        "country_code": "IE",
+        "asn": "44196",
+        "description": "Edward Campbell",
+        "handle": "ASN-AS44196"
+    },
+    "44212": {
+        "country_code": "IE",
+        "asn": "44212",
+        "description": "Adelphi Net1 Ltd",
+        "handle": "ADELPHINET1-AS"
+    },
+    "44348": {
+        "country_code": "IE",
+        "asn": "44348",
+        "description": "Orixcom Limited",
+        "handle": "ORIXCOM-UK"
+    },
+    "44384": {
+        "country_code": "IE",
+        "asn": "44384",
+        "description": "Crossan CableComm Ltd",
+        "handle": "CROSSAN"
+    },
+    "44451": {
+        "country_code": "IE",
+        "asn": "44451",
+        "description": "Digiweb ltd",
+        "handle": "SKYTEL-AS"
+    },
+    "44786": {
+        "country_code": "IE",
+        "asn": "44786",
+        "description": "Adobe Systems Software Ireland Ltd",
+        "handle": "ADOBE-IRELAND-AS"
+    },
+    "44815": {
+        "country_code": "IE",
+        "asn": "44815",
+        "description": "TSG INTERACTIVE SERVICES (IRELAND) LIMITED",
+        "handle": "POCKETKINGS-AS"
+    },
+    "47115": {
+        "country_code": "IE",
+        "asn": "47115",
+        "description": "HARVEY SOFTWARE SYSTEMS LTD",
+        "handle": "DEREK-CONNIFFE"
+    },
+    "47417": {
+        "country_code": "IE",
+        "asn": "47417",
+        "description": "Trane Technologies International Limited",
+        "handle": "CELTRAK-AS"
+    },
+    "47443": {
+        "country_code": "IE",
+        "asn": "47443",
+        "description": "Magnet Networks Limited",
+        "handle": "MAGNET-NEWORKS-UK"
+    },
+    "47446": {
+        "country_code": "IE",
+        "asn": "47446",
+        "description": "Barclays Bank lreland PLC",
+        "handle": "BCG-AS"
+    },
+    "47490": {
+        "country_code": "IE",
+        "asn": "47490",
+        "description": "TuxBox",
+        "handle": "TUXBOX-AS"
+    },
+    "47680": {
+        "country_code": "IE",
+        "asn": "47680",
+        "description": "EOBO Ltd T/A BBnet",
+        "handle": "NHCS"
+    },
+    "47720": {
+        "country_code": "IE",
+        "asn": "47720",
+        "description": "CORK INTERNET EXCHANGE LIMITED",
+        "handle": "CIX-AS"
+    },
+    "47870": {
+        "country_code": "IE",
+        "asn": "47870",
+        "description": "SYNCHRONOSS SOFTWARE IRELAND LTD",
+        "handle": "SNCR-ASN"
+    },
+    "47931": {
+        "country_code": "IE",
+        "asn": "47931",
+        "description": "Agora Publishing Services (Ireland) Limited",
+        "handle": "APSI-ASN1"
+    },
+    "47941": {
+        "country_code": "IE",
+        "asn": "47941",
+        "description": "Red Hat Ltd",
+        "handle": "REDHAT"
+    },
+    "47942": {
+        "country_code": "IE",
+        "asn": "47942",
+        "description": "Regional Telecom Ltd",
+        "handle": "REGB-AS"
+    },
+    "48255": {
+        "country_code": "IE",
+        "asn": "48255",
+        "description": "Abtran Limited",
+        "handle": "ABTRAN-AS"
+    },
+    "48305": {
+        "country_code": "IE",
+        "asn": "48305",
+        "description": "Noraina Ltd",
+        "handle": "NORAINA-EU"
+    },
+    "48342": {
+        "country_code": "IE",
+        "asn": "48342",
+        "description": "Deloitte & Touche",
+        "handle": "DELOITTE-AND-TOUCHE-IRL"
+    },
+    "48406": {
+        "country_code": "IE",
+        "asn": "48406",
+        "description": "Siemens Industry Software Limited",
+        "handle": "SIEMENS-INDUSTRY-SOFTWARE-ARMENIA"
+    },
+    "48970": {
+        "country_code": "IE",
+        "asn": "48970",
+        "description": "Natus Manufacturing Limited",
+        "handle": "NATUSIE"
+    },
+    "49221": {
+        "country_code": "IE",
+        "asn": "49221",
+        "description": "Atlantek Computers Teoranta Ltd",
+        "handle": "ATLANTEK"
+    },
+    "49406": {
+        "country_code": "IE",
+        "asn": "49406",
+        "description": "Fast Wireless Internet Ltd",
+        "handle": "FWI"
+    },
+    "49416": {
+        "country_code": "IE",
+        "asn": "49416",
+        "description": "Exchange West",
+        "handle": "EXWEST"
+    },
+    "49567": {
+        "country_code": "IE",
+        "asn": "49567",
+        "description": "Aptus Ltd",
+        "handle": "APTUS-AS"
+    },
+    "49766": {
+        "country_code": "IE",
+        "asn": "49766",
+        "description": "Virgin Media Ireland Limited",
+        "handle": "BITBUZZ-AS"
+    },
+    "50088": {
+        "country_code": "IE",
+        "asn": "50088",
+        "description": "Fort Information Technologies Ltd",
+        "handle": "FITL-IE"
+    },
+    "50326": {
+        "country_code": "IE",
+        "asn": "50326",
+        "description": "INTERNET PROTOCOL TELECOM LTD",
+        "handle": "IPTELECOM-AS"
+    },
+    "50883": {
+        "country_code": "IE",
+        "asn": "50883",
+        "description": "Ninetreehill Broadband Ltd",
+        "handle": "NTHILL-AS"
+    },
+    "51046": {
+        "country_code": "IE",
+        "asn": "51046",
+        "description": "Bringo Limited",
+        "handle": "BRINGOIE"
+    },
+    "51173": {
+        "country_code": "IE",
+        "asn": "51173",
+        "description": "Premier Data Networks LTD",
+        "handle": "PBB"
+    },
+    "51516": {
+        "country_code": "IE",
+        "asn": "51516",
+        "description": "Fexco Unlimited Company",
+        "handle": "FEXCO"
+    },
+    "51677": {
+        "country_code": "IE",
+        "asn": "51677",
+        "description": "Hibernia Services Limited",
+        "handle": "HETG-AS"
+    },
+    "51865": {
+        "country_code": "IE",
+        "asn": "51865",
+        "description": "DIDWW Ireland Limited",
+        "handle": "DIDWW-AS"
+    },
+    "56410": {
+        "country_code": "IE",
+        "asn": "56410",
+        "description": "Leeson Telecom Holdings Ltd",
+        "handle": "HOST-IRELAND-AS"
+    },
+    "56638": {
+        "country_code": "IE",
+        "asn": "56638",
+        "description": "j2 Global Ireland Limited",
+        "handle": "J2-IRE-AS"
+    },
+    "56767": {
+        "country_code": "IE",
+        "asn": "56767",
+        "description": "Zirdai Limited",
+        "handle": "ZIRDAI-AS"
+    },
+    "56778": {
+        "country_code": "IE",
+        "asn": "56778",
+        "description": "Pure Telecom Ltd",
+        "handle": "PURETELECOM-IE-NET"
+    },
+    "56878": {
+        "country_code": "IE",
+        "asn": "56878",
+        "description": "Orixcom Limited",
+        "handle": "ORIXCOM-IE"
+    },
+    "57052": {
+        "country_code": "IE",
+        "asn": "57052",
+        "description": "ELECTRONIC ARTS IRELAND LIMITED",
+        "handle": "BIOWAREONLINEEU1"
+    },
+    "57791": {
+        "country_code": "IE",
+        "asn": "57791",
+        "description": "Arden Broadband Ltd",
+        "handle": "ARDEN-AS"
+    },
+    "59915": {
+        "country_code": "IE",
+        "asn": "59915",
+        "description": "Dell Products (Private Unlimited With Share Capital)",
+        "handle": "DELL-SOFTWARE-BLK"
+    },
+    "60110": {
+        "country_code": "IE",
+        "asn": "60110",
+        "description": "Model Telecom Ltd",
+        "handle": "MODELTELECOM"
+    },
+    "60155": {
+        "country_code": "IE",
+        "asn": "60155",
+        "description": "Orion Digital Services Ltd.",
+        "handle": "ORIONDIGTALSERVICESAS"
+    },
+    "60229": {
+        "country_code": "IE",
+        "asn": "60229",
+        "description": "Demonware Limited",
+        "handle": "DEMONWARE"
+    },
+    "60277": {
+        "country_code": "IE",
+        "asn": "60277",
+        "description": "Agility Communications Limited",
+        "handle": "TELCOM-01"
+    },
+    "60499": {
+        "country_code": "IE",
+        "asn": "60499",
+        "description": "Opt1mize Technologies Limited",
+        "handle": "LINX"
+    },
+    "60888": {
+        "country_code": "IE",
+        "asn": "60888",
+        "description": "Titania Networks Limited",
+        "handle": "ASN-TITANIA"
+    },
+    "60924": {
+        "country_code": "IE",
+        "asn": "60924",
+        "description": "Orixcom Limited",
+        "handle": "ORIXCOM"
+    },
+    "61145": {
+        "country_code": "IE",
+        "asn": "61145",
+        "description": "Real Broadband Ltd",
+        "handle": "REALBROADBANDCOM"
+    },
+    "61186": {
+        "country_code": "IE",
+        "asn": "61186",
+        "description": "Zendesk International Limited",
+        "handle": "ZENDESK-INTL"
+    },
+    "61194": {
+        "country_code": "IE",
+        "asn": "61194",
+        "description": "EKCO CLOUD IRELAND LIMITED",
+        "handle": "CTIGLOBAL-IE"
+    },
+    "61314": {
+        "country_code": "IE",
+        "asn": "61314",
+        "description": "Central Bank of Ireland",
+        "handle": "CBOI-AS"
+    },
+    "62017": {
+        "country_code": "IE",
+        "asn": "62017",
+        "description": "Commercegate Ireland LTD",
+        "handle": "CGATE-AS"
+    },
+    "62129": {
+        "country_code": "IE",
+        "asn": "62129",
+        "description": "Wireless Connect Ltd.",
+        "handle": "WIRELESSCONNECT16"
+    },
+    "62168": {
+        "country_code": "IE",
+        "asn": "62168",
+        "description": "Broighter Networks Limited",
+        "handle": "BROIGHTER"
+    },
+    "62431": {
+        "country_code": "IE",
+        "asn": "62431",
+        "description": "National Cyber Security Centre",
+        "handle": "NCSC-IE-AS"
+    },
+    "62455": {
+        "country_code": "IE",
+        "asn": "62455",
+        "description": "Digiweb ltd",
+        "handle": "WBB-AS"
+    },
+    "135343": {
+        "country_code": "IE",
+        "asn": "135343",
+        "description": "Magic Particle Limited",
+        "handle": "MPL-AS-AP"
+    },
+    "196737": {
+        "country_code": "IE",
+        "asn": "196737",
+        "description": "Airwave Internet",
+        "handle": "AIRWAVE"
+    },
+    "197822": {
+        "country_code": "IE",
+        "asn": "197822",
+        "description": "Vmware International Unlimited Company",
+        "handle": "VMW-ROM01"
+    },
+    "197853": {
+        "country_code": "IE",
+        "asn": "197853",
+        "description": "Digiweb ltd",
+        "handle": "IRISHTELCOM"
+    },
+    "197953": {
+        "country_code": "IE",
+        "asn": "197953",
+        "description": "Vmware International Unlimited Company",
+        "handle": "VMW-IE"
+    },
+    "197957": {
+        "country_code": "IE",
+        "asn": "197957",
+        "description": "Ker Broadband Communications Ltd",
+        "handle": "KERBB"
+    },
+    "198046": {
+        "country_code": "IE",
+        "asn": "198046",
+        "description": "DIDWW Ireland Limited",
+        "handle": "DIDWW-AMS-AS"
+    },
+    "198260": {
+        "country_code": "IE",
+        "asn": "198260",
+        "description": "Identity Digital Limited",
+        "handle": "AFILIAS-AMS2"
+    },
+    "198301": {
+        "country_code": "IE",
+        "asn": "198301",
+        "description": "Workday Limited",
+        "handle": "WKD-AS"
+    },
+    "198528": {
+        "country_code": "IE",
+        "asn": "198528",
+        "description": "ORANGE BUSINESS COMMUNICATIONS TECHNOLOGY LIMITED",
+        "handle": "OGN-RU"
+    },
+    "198553": {
+        "country_code": "IE",
+        "asn": "198553",
+        "description": "Vmware International Unlimited Company",
+        "handle": "VMW-DXB01"
+    },
+    "198555": {
+        "country_code": "IE",
+        "asn": "198555",
+        "description": "Vmware International Unlimited Company",
+        "handle": "VMW-SVQ01"
+    },
+    "198625": {
+        "country_code": "IE",
+        "asn": "198625",
+        "description": "Vmware International Unlimited Company",
+        "handle": "VMW-EVN01"
+    },
+    "198812": {
+        "country_code": "IE",
+        "asn": "198812",
+        "description": "Whitelake Communications Limited",
+        "handle": "WHITELAKE"
+    },
+    "198836": {
+        "country_code": "IE",
+        "asn": "198836",
+        "description": "Smartbox Experience Limited",
+        "handle": "SMARTBOXEXPERIENCE"
+    },
+    "198993": {
+        "country_code": "IE",
+        "asn": "198993",
+        "description": "Workday Limited",
+        "handle": "WD-AMS"
+    },
+    "199027": {
+        "country_code": "IE",
+        "asn": "199027",
+        "description": "j2 Global Ireland Ltd",
+        "handle": "J2-GLOBAL-IRELAND"
+    },
+    "199170": {
+        "country_code": "IE",
+        "asn": "199170",
+        "description": "DIDWW Ireland Limited",
+        "handle": "DIDWW-MI-AS"
+    },
+    "199200": {
+        "country_code": "IE",
+        "asn": "199200",
+        "description": "Bauer Audio Ireland Limited trading as Bauer Media Audio Ireland LP",
+        "handle": "RADIOTWOTHOUSAND"
+    },
+    "199323": {
+        "country_code": "IE",
+        "asn": "199323",
+        "description": "Vmware International Unlimited Company",
+        "handle": "VMW-BCN01"
+    },
+    "199326": {
+        "country_code": "IE",
+        "asn": "199326",
+        "description": "Voice Engineer Ireland Limited",
+        "handle": "VEIGLOBAL"
+    },
+    "199336": {
+        "country_code": "IE",
+        "asn": "199336",
+        "description": "Vmware International Unlimited Company",
+        "handle": "ONECLOUD-DC"
+    },
+    "199346": {
+        "country_code": "IE",
+        "asn": "199346",
+        "description": "Kerry Broadband Ltd",
+        "handle": "KBB-AS"
+    },
+    "199368": {
+        "country_code": "IE",
+        "asn": "199368",
+        "description": "Vmware International Unlimited Company",
+        "handle": "VMW-MAD01"
+    },
+    "199373": {
+        "country_code": "IE",
+        "asn": "199373",
+        "description": "E-Search DAC",
+        "handle": "NW-AS"
+    },
+    "199559": {
+        "country_code": "IE",
+        "asn": "199559",
+        "description": "Bloomberg Data Management Services Limited",
+        "handle": "POLARLAKE"
+    },
+    "199588": {
+        "country_code": "IE",
+        "asn": "199588",
+        "description": "Digital Hub Development Agency",
+        "handle": "DHDA"
+    },
+    "199687": {
+        "country_code": "IE",
+        "asn": "199687",
+        "description": "8x8 Communications CX Solutions LIMITED",
+        "handle": "IN2TEL-DB3"
+    },
+    "199873": {
+        "country_code": "IE",
+        "asn": "199873",
+        "description": "Ezetop Unlimited Company ULC",
+        "handle": "EZETOP"
+    },
+    "200046": {
+        "country_code": "IE",
+        "asn": "200046",
+        "description": "Smyths Audio and Video Systems Ltd.",
+        "handle": "SMYTHCABLEVISION"
+    },
+    "200186": {
+        "country_code": "IE",
+        "asn": "200186",
+        "description": "SEITH IT CONSULTING LIMITED",
+        "handle": "SEITH-IT-HTZNR-DC1"
+    },
+    "200363": {
+        "country_code": "IE",
+        "asn": "200363",
+        "description": "Blacknight Internet Solutions Limited",
+        "handle": "BK-AS"
+    },
+    "200451": {
+        "country_code": "IE",
+        "asn": "200451",
+        "description": "Workday Limited",
+        "handle": "WD-DUBIT"
+    },
+    "200500": {
+        "country_code": "IE",
+        "asn": "200500",
+        "description": "Vesta Payment Solutions Limited",
+        "handle": "VESTA-DUB"
+    },
+    "200562": {
+        "country_code": "IE",
+        "asn": "200562",
+        "description": "Welltel (Ireland) Ltd",
+        "handle": "WELLTEL-IE"
+    },
+    "200565": {
+        "country_code": "IE",
+        "asn": "200565",
+        "description": "Ivertec Ltd",
+        "handle": "IVERTEC"
+    },
+    "200807": {
+        "country_code": "IE",
+        "asn": "200807",
+        "description": "Sleepless Server Solutions Ltd.",
+        "handle": "SLEEPLESS-IE-AS"
+    },
+    "200824": {
+        "country_code": "IE",
+        "asn": "200824",
+        "description": "Susquehanna International Group Ltd",
+        "handle": "SUSQ-IRE"
+    },
+    "200946": {
+        "country_code": "IE",
+        "asn": "200946",
+        "description": "EMC Information Systems International PUC",
+        "handle": "RSA-AS"
+    },
+    "200947": {
+        "country_code": "IE",
+        "asn": "200947",
+        "description": "Royal Dublin Society",
+        "handle": "IE-ROYALDUBLINSOCIETY-20141223"
+    },
+    "200948": {
+        "country_code": "IE",
+        "asn": "200948",
+        "description": "Rolbay ULC",
+        "handle": "LINESIGHT-PUBLIC"
+    },
+    "201000": {
+        "country_code": "IE",
+        "asn": "201000",
+        "description": "Js Whizzy Internet Limited",
+        "handle": "WHIZZY-FTTX"
+    },
+    "201111": {
+        "country_code": "IE",
+        "asn": "201111",
+        "description": "Planet Payment Group Holdings Limited",
+        "handle": "AS-FINTRAX"
+    },
+    "201255": {
+        "country_code": "IE",
+        "asn": "201255",
+        "description": "BS&B Safety Systems Limited",
+        "handle": "BSB-AS"
+    },
+    "201286": {
+        "country_code": "IE",
+        "asn": "201286",
+        "description": "Red Hat Ltd",
+        "handle": "REDHAT"
+    },
+    "201310": {
+        "country_code": "IE",
+        "asn": "201310",
+        "description": "Interlink Ireland Ltd",
+        "handle": "AS-DPD"
+    },
+    "201428": {
+        "country_code": "IE",
+        "asn": "201428",
+        "description": "Vmware International Unlimited Company",
+        "handle": "VMW-LHR01"
+    },
+    "201607": {
+        "country_code": "IE",
+        "asn": "201607",
+        "description": "Celtic Broadband Limited",
+        "handle": "CELTIC-AS"
+    },
+    "201614": {
+        "country_code": "IE",
+        "asn": "201614",
+        "description": "International Investment and Underwriting Unlimited Company",
+        "handle": "IIU-AS"
+    },
+    "201783": {
+        "country_code": "IE",
+        "asn": "201783",
+        "description": "DIDWW Ireland Limited",
+        "handle": "DIDWW-HK-AS"
+    },
+    "201918": {
+        "country_code": "IE",
+        "asn": "201918",
+        "description": "VMotion IT Solutions LTD",
+        "handle": "VMOTION"
+    },
+    "202148": {
+        "country_code": "IE",
+        "asn": "202148",
+        "description": "BoyleSports 2 Unlimited Company",
+        "handle": "BOYLESPORTS-AS"
+    },
+    "202823": {
+        "country_code": "IE",
+        "asn": "202823",
+        "description": "Office IT Ltd.",
+        "handle": "OFFICEIT"
+    },
+    "202899": {
+        "country_code": "IE",
+        "asn": "202899",
+        "description": "Guidewire Software (Ireland) Limited",
+        "handle": "GW-POL"
+    },
+    "203060": {
+        "country_code": "IE",
+        "asn": "203060",
+        "description": "Cimpress Ireland Limited",
+        "handle": "CIMPRESS"
+    },
+    "203239": {
+        "country_code": "IE",
+        "asn": "203239",
+        "description": "Vmware International Unlimited Company",
+        "handle": "VMW-BG"
+    },
+    "203262": {
+        "country_code": "IE",
+        "asn": "203262",
+        "description": "Innovate Business Technology Ltd",
+        "handle": "INNOVATEBT-AS"
+    },
+    "203366": {
+        "country_code": "IE",
+        "asn": "203366",
+        "description": "BMC Software Ireland Limited",
+        "handle": "BMCSAAS-AMS"
+    },
+    "203381": {
+        "country_code": "IE",
+        "asn": "203381",
+        "description": "Premier Data Networks LTD",
+        "handle": "VOIPANDIS"
+    },
+    "203754": {
+        "country_code": "IE",
+        "asn": "203754",
+        "description": "Phone Pulse Ltd",
+        "handle": "ASPHONEPULSE"
+    },
+    "204210": {
+        "country_code": "IE",
+        "asn": "204210",
+        "description": "Zeus Packaging Limited",
+        "handle": "ZEUSPACKAGINGLTD"
+    },
+    "204458": {
+        "country_code": "IE",
+        "asn": "204458",
+        "description": "Hispeed Wireless Broadband Ltd",
+        "handle": "TOTALWIRELESS-AS"
+    },
+    "204536": {
+        "country_code": "IE",
+        "asn": "204536",
+        "description": "TSFY Ltd",
+        "handle": "TSFY"
+    },
+    "204597": {
+        "country_code": "IE",
+        "asn": "204597",
+        "description": "Wayfair Stores Ltd",
+        "handle": "WAYFAIR"
+    },
+    "204882": {
+        "country_code": "IE",
+        "asn": "204882",
+        "description": "DENIS NOLAN",
+        "handle": "DNOLAN-AS"
+    },
+    "204990": {
+        "country_code": "IE",
+        "asn": "204990",
+        "description": "Dirk Webbeler Enterprises Limited trading as Blue Technologies Ltd. & Co. KG",
+        "handle": "BLUECLOUD"
+    },
+    "205088": {
+        "country_code": "IE",
+        "asn": "205088",
+        "description": "XIAOKANG WANG",
+        "handle": "SHELLNET"
+    },
+    "205189": {
+        "country_code": "IE",
+        "asn": "205189",
+        "description": "BANK OF IRELAND GROUP PUBLIC LIMITED COMPANY",
+        "handle": "BOIGROUP"
+    },
+    "205282": {
+        "country_code": "IE",
+        "asn": "205282",
+        "description": "Tilda Publishing Ltd.",
+        "handle": "IE-TILDAPUBLISHING-1"
+    },
+    "205437": {
+        "country_code": "IE",
+        "asn": "205437",
+        "description": "Dawn Meats Group Unlimited Company",
+        "handle": "DAWNMEATS"
+    },
+    "205481": {
+        "country_code": "IE",
+        "asn": "205481",
+        "description": "Clare Wifi Networks Limited",
+        "handle": "CLAREWIFI"
+    },
+    "205494": {
+        "country_code": "IE",
+        "asn": "205494",
+        "description": "Thomas John Bolger",
+        "handle": "THOMASBOLGER-AS"
+    },
+    "205587": {
+        "country_code": "IE",
+        "asn": "205587",
+        "description": "Sternforth Ltd. trading as WebWorld",
+        "handle": "WEBWORLD-BROADBAND-AS"
+    },
+    "205653": {
+        "country_code": "IE",
+        "asn": "205653",
+        "description": "NortonLifeLock Ireland Limited",
+        "handle": "JUMPSHOT"
+    },
+    "205743": {
+        "country_code": "IE",
+        "asn": "205743",
+        "description": "Munster Wireless Ltd.",
+        "handle": "MUNSTER"
+    },
+    "205789": {
+        "country_code": "IE",
+        "asn": "205789",
+        "description": "Eden Uhde",
+        "handle": "EDEN-NET"
+    },
+    "205967": {
+        "country_code": "IE",
+        "asn": "205967",
+        "description": "Sleepless Server Solutions Ltd.",
+        "handle": "TTS-IE-AS"
+    },
+    "206132": {
+        "country_code": "IE",
+        "asn": "206132",
+        "description": "ABBOTT RAPID DX INTERNATIONAL LIMITED",
+        "handle": "AIL-EDC-AS"
+    },
+    "206290": {
+        "country_code": "IE",
+        "asn": "206290",
+        "description": "Graham Hayes",
+        "handle": "GRAHAMHAYES"
+    },
+    "206309": {
+        "country_code": "IE",
+        "asn": "206309",
+        "description": "REGENERON IRELAND DESIGNATED ACTIVITY COMPANY",
+        "handle": "REGENERON-AS"
+    },
+    "206422": {
+        "country_code": "IE",
+        "asn": "206422",
+        "description": "8x8 Communications CX Solutions LIMITED",
+        "handle": "IN2TEL-BT"
+    },
+    "206514": {
+        "country_code": "IE",
+        "asn": "206514",
+        "description": "Freemesh",
+        "handle": "FREEMESH-IE"
+    },
+    "206577": {
+        "country_code": "IE",
+        "asn": "206577",
+        "description": "Cellusys IoT Limited",
+        "handle": "ZARIOT"
+    },
+    "206663": {
+        "country_code": "IE",
+        "asn": "206663",
+        "description": "MTS Media Ltd",
+        "handle": "MTS-MEDIA"
+    },
+    "206695": {
+        "country_code": "IE",
+        "asn": "206695",
+        "description": "AIRBNB IRELAND ULC",
+        "handle": "ADU3"
+    },
+    "206704": {
+        "country_code": "IE",
+        "asn": "206704",
+        "description": "AIRBNB IRELAND ULC",
+        "handle": "EDN1"
+    },
+    "206723": {
+        "country_code": "IE",
+        "asn": "206723",
+        "description": "Carnsore Broadband Limited",
+        "handle": "CARNSOREBROADBAND"
+    },
+    "206746": {
+        "country_code": "IE",
+        "asn": "206746",
+        "description": "SCC BROADBAND LIMITED",
+        "handle": "SCCBROADBAND-AS"
+    },
+    "206824": {
+        "country_code": "IE",
+        "asn": "206824",
+        "description": "Linhua Tang",
+        "handle": "LINHUA-TANG"
+    },
+    "206998": {
+        "country_code": "IE",
+        "asn": "206998",
+        "description": "NEW RELIC INTERNATIONAL LIMITED",
+        "handle": "NEW-2"
+    },
+    "207044": {
+        "country_code": "IE",
+        "asn": "207044",
+        "description": "Enet Telecommunications Networks Limited",
+        "handle": "ENET-AS"
+    },
+    "207127": {
+        "country_code": "IE",
+        "asn": "207127",
+        "description": "Intergraph Process Power and Marine Ireland Limited",
+        "handle": "IE-HSL-01"
+    },
+    "207266": {
+        "country_code": "IE",
+        "asn": "207266",
+        "description": "Identity Digital Limited",
+        "handle": "AFILIAS-SECONDARY-DNS"
+    },
+    "207319": {
+        "country_code": "IE",
+        "asn": "207319",
+        "description": "DIDWW Ireland Limited",
+        "handle": "DIDWW-SG-AS"
+    },
+    "207382": {
+        "country_code": "IE",
+        "asn": "207382",
+        "description": "JEREMIAH KEANE",
+        "handle": "JK-WIRELESS"
+    },
+    "207662": {
+        "country_code": "IE",
+        "asn": "207662",
+        "description": "Benjamin Chapman",
+        "handle": "KATIECHAPMAN"
+    },
+    "207726": {
+        "country_code": "IE",
+        "asn": "207726",
+        "description": "Vmware International Unlimited Company",
+        "handle": "VMW-AMS04"
+    },
+    "207738": {
+        "country_code": "IE",
+        "asn": "207738",
+        "description": "Colm O Hici",
+        "handle": "EALTA"
+    },
+    "207885": {
+        "country_code": "IE",
+        "asn": "207885",
+        "description": "Pui-Hin Vincent Lee",
+        "handle": "MALISSA"
+    },
+    "208116": {
+        "country_code": "IE",
+        "asn": "208116",
+        "description": "Athora Ireland Services Limited",
+        "handle": "ATHORA-IE"
+    },
+    "208539": {
+        "country_code": "IE",
+        "asn": "208539",
+        "description": "Vmware International Unlimited Company",
+        "handle": "VMW-TLV01"
+    },
+    "208737": {
+        "country_code": "IE",
+        "asn": "208737",
+        "description": "MYPOS LIMITED",
+        "handle": "MYPOSAS"
+    },
+    "208768": {
+        "country_code": "IE",
+        "asn": "208768",
+        "description": "Constantine Evans",
+        "handle": "CONSTV6"
+    },
+    "209285": {
+        "country_code": "IE",
+        "asn": "209285",
+        "description": "Electricity Supply Board",
+        "handle": "ESB"
+    },
+    "209312": {
+        "country_code": "IE",
+        "asn": "209312",
+        "description": "Compass Education Holdings Limited",
+        "handle": "COMPASS-AS"
+    },
+    "209449": {
+        "country_code": "IE",
+        "asn": "209449",
+        "description": "Vmware International Unlimited Company",
+        "handle": "VMW-LHR06"
+    },
+    "209504": {
+        "country_code": "IE",
+        "asn": "209504",
+        "description": "Google Cloud EMEA Ltd",
+        "handle": "REDTEC-TC-3"
+    },
+    "209506": {
+        "country_code": "IE",
+        "asn": "209506",
+        "description": "Stephen Cushen",
+        "handle": "CUSHNET"
+    },
+    "209519": {
+        "country_code": "IE",
+        "asn": "209519",
+        "description": "Google Cloud EMEA Ltd",
+        "handle": "REDTEC-TC-2"
+    },
+    "209539": {
+        "country_code": "IE",
+        "asn": "209539",
+        "description": "Google Cloud EMEA Ltd",
+        "handle": "REDTEC-TC-1"
+    },
+    "209542": {
+        "country_code": "IE",
+        "asn": "209542",
+        "description": "kevin gannon",
+        "handle": "KEVINGANNON"
+    },
+    "209676": {
+        "country_code": "IE",
+        "asn": "209676",
+        "description": "Vmware International Unlimited Company",
+        "handle": "VMW-MUC2"
+    },
+    "209924": {
+        "country_code": "IE",
+        "asn": "209924",
+        "description": "MLB Limited",
+        "handle": "MLBLTD-AS"
+    },
+    "209975": {
+        "country_code": "IE",
+        "asn": "209975",
+        "description": "Edward Campbell trading as INCA",
+        "handle": "INCA-AS"
+    },
+    "210045": {
+        "country_code": "IE",
+        "asn": "210045",
+        "description": "Blackrock Clinic Unlimited Company",
+        "handle": "BC-AS"
+    },
+    "210568": {
+        "country_code": "IE",
+        "asn": "210568",
+        "description": "Athora Ireland Services Limited",
+        "handle": "ATHORA-DE"
+    },
+    "210680": {
+        "country_code": "IE",
+        "asn": "210680",
+        "description": "Jurgita Jurgaitiene trading as LOCOTORPI",
+        "handle": "LOCOTORPI"
+    },
+    "210723": {
+        "country_code": "IE",
+        "asn": "210723",
+        "description": "AVA TRADE IRELAND LIMITED",
+        "handle": "AVATRADENET"
+    },
+    "211024": {
+        "country_code": "IE",
+        "asn": "211024",
+        "description": "Jack O'Sullivan",
+        "handle": "DEVPLAYER0"
+    },
+    "211054": {
+        "country_code": "IE",
+        "asn": "211054",
+        "description": "Arista Networks Limited",
+        "handle": "ARISTA-EU"
+    },
+    "211086": {
+        "country_code": "IE",
+        "asn": "211086",
+        "description": "Vmware International Unlimited Company",
+        "handle": "VMW-LIN02"
+    },
+    "211129": {
+        "country_code": "IE",
+        "asn": "211129",
+        "description": "Vmware International Unlimited Company",
+        "handle": "VMW-CDG1"
+    },
+    "211200": {
+        "country_code": "IE",
+        "asn": "211200",
+        "description": "Aptriva Ltd",
+        "handle": "APTRIVA"
+    },
+    "211232": {
+        "country_code": "IE",
+        "asn": "211232",
+        "description": "Lackabeha Services Ltd.",
+        "handle": "AIRWAVE2"
+    },
+    "211439": {
+        "country_code": "IE",
+        "asn": "211439",
+        "description": "Jurgita Jurgaitiene trading as LOCOTORPI",
+        "handle": "LOCOTORPI"
+    },
+    "211469": {
+        "country_code": "IE",
+        "asn": "211469",
+        "description": "BMC Software Ireland Limited",
+        "handle": "BMCSAAS-ZWL"
+    },
+    "211535": {
+        "country_code": "IE",
+        "asn": "211535",
+        "description": "Ilkari Ireland Company Limited",
+        "handle": "ASILKARI"
+    },
+    "211638": {
+        "country_code": "IE",
+        "asn": "211638",
+        "description": "David Freyne",
+        "handle": "DNW-AS"
+    },
+    "211771": {
+        "country_code": "IE",
+        "asn": "211771",
+        "description": "AVIA SOLUTIONS GROUP (ASG) PLC",
+        "handle": "ASG"
+    },
+    "212028": {
+        "country_code": "IE",
+        "asn": "212028",
+        "description": "Western Union International Limited",
+        "handle": "WU-LT"
+    },
+    "212312": {
+        "country_code": "IE",
+        "asn": "212312",
+        "description": "Exigent Network Integration Ltd",
+        "handle": "EXIGENT"
+    },
+    "212353": {
+        "country_code": "IE",
+        "asn": "212353",
+        "description": "Crelativity Limited",
+        "handle": "EUROSERVERS"
+    },
+    "212493": {
+        "country_code": "IE",
+        "asn": "212493",
+        "description": "ClearWave LTD",
+        "handle": "CLEARWAVE"
+    },
+    "212893": {
+        "country_code": "IE",
+        "asn": "212893",
+        "description": "DIDWW Ireland Limited",
+        "handle": "DIDWW-LA-AS"
+    },
+    "212925": {
+        "country_code": "IE",
+        "asn": "212925",
+        "description": "Miguel Landaeta",
+        "handle": "MIGUEL-LANDAETA"
+    },
+    "213040": {
+        "country_code": "IE",
+        "asn": "213040",
+        "description": "Keybus Ltd",
+        "handle": "KEYBUS-LTD"
+    },
+    "213128": {
+        "country_code": "IE",
+        "asn": "213128",
+        "description": "LINK Broadband Limited",
+        "handle": "LINK-BROADBAND-LTD"
+    },
+    "213231": {
+        "country_code": "IE",
+        "asn": "213231",
+        "description": "CELKO LIMITED",
+        "handle": "CELKO"
+    },
+    "213236": {
+        "country_code": "IE",
+        "asn": "213236",
+        "description": "Marco Grossi",
+        "handle": "MARCOGROSSI"
+    },
+    "213368": {
+        "country_code": "IE",
+        "asn": "213368",
+        "description": "Marco Ciotola",
+        "handle": "MARCOBOX"
+    },
+    "213463": {
+        "country_code": "IE",
+        "asn": "213463",
+        "description": "DP World Logistics Ireland ULC",
+        "handle": "DPWORLD"
+    },
+    "213483": {
+        "country_code": "IE",
+        "asn": "213483",
+        "description": "ASTRIVE X LTD",
+        "handle": "ASTRIVE-AS"
+    },
+    "213576": {
+        "country_code": "IE",
+        "asn": "213576",
+        "description": "Robert Weir",
+        "handle": "ERTIUS-NET"
+    },
+    "213849": {
+        "country_code": "IE",
+        "asn": "213849",
+        "description": "UPMC GLOBAL OPERATIONS CENTER LIMITED",
+        "handle": "UPMC-IRLSSC"
+    },
+    "213991": {
+        "country_code": "IE",
+        "asn": "213991",
+        "description": "Barclays Bank lreland PLC",
+        "handle": "BCG2-AS"
+    },
+    "214355": {
+        "country_code": "IE",
+        "asn": "214355",
+        "description": "MMSOFT Design Limited",
+        "handle": "MMSOFT-ASN"
+    },
+    "214609": {
+        "country_code": "IE",
+        "asn": "214609",
+        "description": "Google Cloud EMEA Ltd",
+        "handle": "REDTEC-2"
+    },
+    "214611": {
+        "country_code": "IE",
+        "asn": "214611",
+        "description": "Google Cloud EMEA Ltd",
+        "handle": "GCLOUD"
+    },
+    "214744": {
+        "country_code": "IE",
+        "asn": "214744",
+        "description": "Tilda Publishing Ltd.",
+        "handle": "TILDAPUBLISHING-KZ-1"
+    },
+    "214747": {
+        "country_code": "IE",
+        "asn": "214747",
+        "description": "MongoDB Limited",
+        "handle": "MONGODB"
+    },
+    "214973": {
+        "country_code": "IE",
+        "asn": "214973",
+        "description": "Apex Strata Ltd",
+        "handle": "AXST-IO"
+    },
+    "215045": {
+        "country_code": "IE",
+        "asn": "215045",
+        "description": "UPMC GLOBAL OPERATIONS CENTER LIMITED",
+        "handle": "UPMC-HRVZCC"
+    },
+    "215440": {
+        "country_code": "IE",
+        "asn": "215440",
+        "description": "Cellusys Limited",
+        "handle": "CELLUSYS"
+    },
+    "215477": {
+        "country_code": "IE",
+        "asn": "215477",
+        "description": "Western Union International Limited",
+        "handle": "WESTERNUNION-FRA-DE"
+    },
+    "215733": {
+        "country_code": "IE",
+        "asn": "215733",
+        "description": "Blacknight Internet Solutions Limited",
+        "handle": "BKBB"
+    },
+    "216133": {
+        "country_code": "IE",
+        "asn": "216133",
+        "description": "Cloud Communication & Networks LTD",
+        "handle": "CLOUDCN"
+    },
+    "216141": {
+        "country_code": "IE",
+        "asn": "216141",
+        "description": "LEATYON LIMITED",
+        "handle": "LEATYON-AS"
+    },
+    "216153": {
+        "country_code": "IE",
+        "asn": "216153",
+        "description": "NBI INFRASTRUCTURE DESIGNATED ACTIVITY COMPANY",
+        "handle": "AS-NBI-IRE"
+    },
+    "216302": {
+        "country_code": "IE",
+        "asn": "216302",
+        "description": "Kaminot Limited",
+        "handle": "KAMINOT"
+    },
+    "216414": {
+        "country_code": "IE",
+        "asn": "216414",
+        "description": "UPMC GLOBAL OPERATIONS CENTER LIMITED",
+        "handle": "UPMC-IRL-DC"
+    }
+}

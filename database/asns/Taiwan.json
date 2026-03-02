@@ -1,0 +1,2750 @@
+{
+    "1659": {
+        "country_code": "TW",
+        "asn": "1659",
+        "description": "Taiwan Academic Network (TANet) Information Center",
+        "handle": "ERX-TANET-ASN1"
+    },
+    "1768": {
+        "country_code": "TW",
+        "asn": "1768",
+        "description": "NCIC No.334 Sec. 1 Sichuan Rd. Banqiao Dist.",
+        "handle": "NCIC-BACKBONE2"
+    },
+    "1769": {
+        "country_code": "TW",
+        "asn": "1769",
+        "description": "NCIC No.334 Sec. 1 Sichuan Rd. Banqiao Dist.",
+        "handle": "NCIC-LAB"
+    },
+    "3462": {
+        "country_code": "TW",
+        "asn": "3462",
+        "description": "Chunghwa Telecom Co. Ltd.",
+        "handle": "HINET"
+    },
+    "4636": {
+        "country_code": "TW",
+        "asn": "4636",
+        "description": "Taiwan Fixed Network Co. LTD.",
+        "handle": "TFN-TW-GCN-1"
+    },
+    "4662": {
+        "country_code": "TW",
+        "asn": "4662",
+        "description": "GCNet (Reach & Range Inc.)",
+        "handle": "QTCN-ASN1"
+    },
+    "4747": {
+        "country_code": "TW",
+        "asn": "4747",
+        "description": "TTN ASN merged by TFN",
+        "handle": "TFN-TW-TTN"
+    },
+    "4780": {
+        "country_code": "TW",
+        "asn": "4780",
+        "description": "Digital United Inc.",
+        "handle": "SEEDNET"
+    },
+    "4781": {
+        "country_code": "TW",
+        "asn": "4781",
+        "description": "PAGIC.net INC.",
+        "handle": "PAGICNET-AS1"
+    },
+    "4782": {
+        "country_code": "TW",
+        "asn": "4782",
+        "description": "Data Communication Business Group",
+        "handle": "GSNET"
+    },
+    "4783": {
+        "country_code": "TW",
+        "asn": "4783",
+        "description": "SYSTEX CORPORATION",
+        "handle": "SYSNET-AS1"
+    },
+    "4845": {
+        "country_code": "TW",
+        "asn": "4845",
+        "description": "Singapore Telecom Taiwan Ltd",
+        "handle": "SINGTEL-TW"
+    },
+    "7478": {
+        "country_code": "TW",
+        "asn": "7478",
+        "description": "Mackay Telecommunication Inc.",
+        "handle": "MACKAY-AS-AP"
+    },
+    "7480": {
+        "country_code": "TW",
+        "asn": "7480",
+        "description": "Tsung-Yi Yu",
+        "handle": "STEVEYI-NETWORK"
+    },
+    "7481": {
+        "country_code": "TW",
+        "asn": "7481",
+        "description": "Data Communication Business Group",
+        "handle": "TWIX"
+    },
+    "7482": {
+        "country_code": "TW",
+        "asn": "7482",
+        "description": "Asia Pacific On-line Service Inc.",
+        "handle": "APOL-AS"
+    },
+    "7483": {
+        "country_code": "TW",
+        "asn": "7483",
+        "description": "Skycloud Computing co. Ltd.",
+        "handle": "SKYCLOUD-NET"
+    },
+    "7532": {
+        "country_code": "TW",
+        "asn": "7532",
+        "description": "Gamania CloudForce",
+        "handle": "GAMANIA-AS-TW"
+    },
+    "7533": {
+        "country_code": "TW",
+        "asn": "7533",
+        "description": "Savecom International Inc.",
+        "handle": "GLOBALTRANSIT-SC-TW"
+    },
+    "7534": {
+        "country_code": "TW",
+        "asn": "7534",
+        "description": "NEW SILKERA NETWORK",
+        "handle": "SILKERA-TW"
+    },
+    "7535": {
+        "country_code": "TW",
+        "asn": "7535",
+        "description": "TISNET Technology Inc.",
+        "handle": "TISNET"
+    },
+    "7536": {
+        "country_code": "TW",
+        "asn": "7536",
+        "description": "chiaochiao ltd.",
+        "handle": "CDNEXIS-NET"
+    },
+    "7537": {
+        "country_code": "TW",
+        "asn": "7537",
+        "description": "HostingInside LTD.",
+        "handle": "HOSTINGINSIDE-NET"
+    },
+    "7538": {
+        "country_code": "TW",
+        "asn": "7538",
+        "description": "10F No 33 Sec 2 Zhongshan Rd Zhonghe Dist",
+        "handle": "NORDA-NET"
+    },
+    "7539": {
+        "country_code": "TW",
+        "asn": "7539",
+        "description": "National Center for High-performance Computing",
+        "handle": "TWAREN-TW"
+    },
+    "7541": {
+        "country_code": "TW",
+        "asn": "7541",
+        "description": "FIC Network Service INC.",
+        "handle": "FICNET-AS-AP"
+    },
+    "7649": {
+        "country_code": "TW",
+        "asn": "7649",
+        "description": "SaveCom International Inc.",
+        "handle": "MAINT-TW-TWNAP"
+    },
+    "7655": {
+        "country_code": "TW",
+        "asn": "7655",
+        "description": "SaveCom International Inc.",
+        "handle": "TWNAP-ADMIN-AS-AP"
+    },
+    "7656": {
+        "country_code": "TW",
+        "asn": "7656",
+        "description": "SaveCom International Inc.",
+        "handle": "TWNAP-ADMIN-AS-AP"
+    },
+    "7708": {
+        "country_code": "TW",
+        "asn": "7708",
+        "description": "SaveCom International Inc.",
+        "handle": "TWNAP-AS-AP"
+    },
+    "7709": {
+        "country_code": "TW",
+        "asn": "7709",
+        "description": "SaveCom International Inc.",
+        "handle": "TWNAP-AS-AP"
+    },
+    "7710": {
+        "country_code": "TW",
+        "asn": "7710",
+        "description": "SaveCom International Inc.",
+        "handle": "MYNET-AS-AP"
+    },
+    "7711": {
+        "country_code": "TW",
+        "asn": "7711",
+        "description": "SaveCom International Inc.",
+        "handle": "TWNAP-TWIX-AP"
+    },
+    "9216": {
+        "country_code": "TW",
+        "asn": "9216",
+        "description": "Symphox Information Co. LTd.",
+        "handle": "PUNET-AP"
+    },
+    "9264": {
+        "country_code": "TW",
+        "asn": "9264",
+        "description": "Academia Sinica",
+        "handle": "ASNET"
+    },
+    "9267": {
+        "country_code": "TW",
+        "asn": "9267",
+        "description": "Pang-Wei Tsai",
+        "handle": "SDXPROJ-AS-AP"
+    },
+    "9311": {
+        "country_code": "TW",
+        "asn": "9311",
+        "description": "HITRON TECHNOLOGY INC.",
+        "handle": "HITRON-AS-AP"
+    },
+    "9346": {
+        "country_code": "TW",
+        "asn": "9346",
+        "description": "Cynex Communications Corporation",
+        "handle": "CYNEX-AS-AP"
+    },
+    "9416": {
+        "country_code": "TW",
+        "asn": "9416",
+        "description": "Hoshin Multimedia Center Inc.",
+        "handle": "MULTIMEDIA-AS-AP"
+    },
+    "9505": {
+        "country_code": "TW",
+        "asn": "9505",
+        "description": "Chunghwa Telecom Co. Ltd.",
+        "handle": "TWGATE-AP"
+    },
+    "9539": {
+        "country_code": "TW",
+        "asn": "9539",
+        "description": "Hoshin Multimedia Center Inc.",
+        "handle": "KOOS-AS-AP"
+    },
+    "9671": {
+        "country_code": "TW",
+        "asn": "9671",
+        "description": "Trade-Van Informaiton Services Co.",
+        "handle": "TRADEVAN-AS-AP"
+    },
+    "9674": {
+        "country_code": "TW",
+        "asn": "9674",
+        "description": "Far EastTone Telecommunication Co. Ltd.",
+        "handle": "FET-TW"
+    },
+    "9675": {
+        "country_code": "TW",
+        "asn": "9675",
+        "description": "DW Solutions Ltd.",
+        "handle": "ASN-DWSOLUTIONS-GLOBAL"
+    },
+    "9676": {
+        "country_code": "TW",
+        "asn": "9676",
+        "description": "SaveCom Internation Inc.",
+        "handle": "SAVECOM-TW"
+    },
+    "9677": {
+        "country_code": "TW",
+        "asn": "9677",
+        "description": "Carl Watch Corporation",
+        "handle": "CRNET"
+    },
+    "9678": {
+        "country_code": "TW",
+        "asn": "9678",
+        "description": "HostingInside LTD.",
+        "handle": "HOSTINGINSIDE"
+    },
+    "9679": {
+        "country_code": "TW",
+        "asn": "9679",
+        "description": "IONET Taiwan Co. Ltd.",
+        "handle": "IONET"
+    },
+    "9680": {
+        "country_code": "TW",
+        "asn": "9680",
+        "description": "HiNet Service Center in U.S.A",
+        "handle": "HINETUSA"
+    },
+    "9681": {
+        "country_code": "TW",
+        "asn": "9681",
+        "description": "Formosa Open eXchange(FOX)",
+        "handle": "FOX-TW"
+    },
+    "9831": {
+        "country_code": "TW",
+        "asn": "9831",
+        "description": "Unigate Telecom Inc.",
+        "handle": "UNIGATE-AS-AP"
+    },
+    "9915": {
+        "country_code": "TW",
+        "asn": "9915",
+        "description": "Leemon Professional Consultant",
+        "handle": "LEEMON-AS"
+    },
+    "9916": {
+        "country_code": "TW",
+        "asn": "9916",
+        "description": "National Yang Ming Chiao Tung University",
+        "handle": "NCTU-TW"
+    },
+    "9917": {
+        "country_code": "TW",
+        "asn": "9917",
+        "description": "Li Jing Info Limited",
+        "handle": "SIMPLECLOUD-AS-TW"
+    },
+    "9918": {
+        "country_code": "TW",
+        "asn": "9918",
+        "description": "TAI FU INTERNATIONAL NETWORK CO. LTD.",
+        "handle": "TAIFU-AS"
+    },
+    "9919": {
+        "country_code": "TW",
+        "asn": "9919",
+        "description": "New Century InfoComm Tech Co. Ltd.",
+        "handle": "NCIC-TW"
+    },
+    "9920": {
+        "country_code": "TW",
+        "asn": "9920",
+        "description": "IMPROVE SYSTEM TECHNOLOGY CO. LTD.",
+        "handle": "ISTVC-AS-TW"
+    },
+    "9921": {
+        "country_code": "TW",
+        "asn": "9921",
+        "description": "PCCW Hongkong Telecom Ltd. Taiwan Branch",
+        "handle": "HKT-PORTAL-TW"
+    },
+    "9922": {
+        "country_code": "TW",
+        "asn": "9922",
+        "description": "New Kaohsiung Broadband LTD.",
+        "handle": "NKB-AS-TW"
+    },
+    "9923": {
+        "country_code": "TW",
+        "asn": "9923",
+        "description": "Simple Information Inc.",
+        "handle": "AS-SIMPLE"
+    },
+    "9924": {
+        "country_code": "TW",
+        "asn": "9924",
+        "description": "Taiwan Fixed Network Telco and Network Service Provider",
+        "handle": "TFN-TW"
+    },
+    "10085": {
+        "country_code": "TW",
+        "asn": "10085",
+        "description": "Unigate Telecom Inc.",
+        "handle": "UNIGATE-OVERSEA-IX-AP"
+    },
+    "10126": {
+        "country_code": "TW",
+        "asn": "10126",
+        "description": "Chunghwa Telecom Co. Ltd.",
+        "handle": "CHTI-IP-AP"
+    },
+    "10133": {
+        "country_code": "TW",
+        "asn": "10133",
+        "description": "Chief Telecom Inc.",
+        "handle": "TPIX-AS-TW"
+    },
+    "10135": {
+        "country_code": "TW",
+        "asn": "10135",
+        "description": "EASPNET Inc.",
+        "handle": "EASPNET-AS-AP"
+    },
+    "10153": {
+        "country_code": "TW",
+        "asn": "10153",
+        "description": "Yuan Ze University Communications Research Center Network",
+        "handle": "YZUCRC-NET-AP"
+    },
+    "11467": {
+        "country_code": "TW",
+        "asn": "11467",
+        "description": "Universal Network Technology",
+        "handle": "ERX-UNET-TW-ST"
+    },
+    "17408": {
+        "country_code": "TW",
+        "asn": "17408",
+        "description": "AboveNet Communications Taiwan Co. Ltd",
+        "handle": "ABOVE-AS-AP"
+    },
+    "17413": {
+        "country_code": "TW",
+        "asn": "17413",
+        "description": "Dodo Ltd.",
+        "handle": "DODO-CORE-TW"
+    },
+    "17414": {
+        "country_code": "TW",
+        "asn": "17414",
+        "description": "Walks Cloud Inc.",
+        "handle": "WC-AS"
+    },
+    "17415": {
+        "country_code": "TW",
+        "asn": "17415",
+        "description": "Ming Yi Tea Farm",
+        "handle": "MINGYITEA-AS-TW"
+    },
+    "17416": {
+        "country_code": "TW",
+        "asn": "17416",
+        "description": "DWINS Digital Service Corp.",
+        "handle": "DWINS-TW"
+    },
+    "17417": {
+        "country_code": "TW",
+        "asn": "17417",
+        "description": "Diyixian.COM (TW) Ltd.",
+        "handle": "DYXNET-TW"
+    },
+    "17418": {
+        "country_code": "TW",
+        "asn": "17418",
+        "description": "Hong Da Storage Equipment Co. Ltd.",
+        "handle": "AS-FASTLINE"
+    },
+    "17419": {
+        "country_code": "TW",
+        "asn": "17419",
+        "description": "HiNet IPv6 Service Network",
+        "handle": "HINET-IPV6-TW"
+    },
+    "17420": {
+        "country_code": "TW",
+        "asn": "17420",
+        "description": "Acer e-Enabling Data Center Inc.",
+        "handle": "ACEREDC-TW"
+    },
+    "17421": {
+        "country_code": "TW",
+        "asn": "17421",
+        "description": "Mobile Business Group",
+        "handle": "EMOME-NET"
+    },
+    "17422": {
+        "country_code": "TW",
+        "asn": "17422",
+        "description": "Walks Cloud Inc.",
+        "handle": "WC-IT-AS"
+    },
+    "17502": {
+        "country_code": "TW",
+        "asn": "17502",
+        "description": "Kuang Shih International Ltd. Ltd",
+        "handle": "KSIL-AS-TW"
+    },
+    "17651": {
+        "country_code": "TW",
+        "asn": "17651",
+        "description": "AboveNet Communications Taiwan Co. Ltd",
+        "handle": "ABOVENET-AS-AP-2"
+    },
+    "17709": {
+        "country_code": "TW",
+        "asn": "17709",
+        "description": "Asia Pacific Telecom",
+        "handle": "APT"
+    },
+    "17710": {
+        "country_code": "TW",
+        "asn": "17710",
+        "description": "President Information Corp.",
+        "handle": "PIINET-TW"
+    },
+    "17711": {
+        "country_code": "TW",
+        "asn": "17711",
+        "description": "National Dong Hwa University",
+        "handle": "NDHU-TW"
+    },
+    "17712": {
+        "country_code": "TW",
+        "asn": "17712",
+        "description": "National Chung Cheng University",
+        "handle": "CCU-TW"
+    },
+    "17713": {
+        "country_code": "TW",
+        "asn": "17713",
+        "description": "Ministry of Education Computer Center",
+        "handle": "NSYSU-TW"
+    },
+    "17714": {
+        "country_code": "TW",
+        "asn": "17714",
+        "description": "Chunghwa Telecom Co. Ltd.",
+        "handle": "CHTI-DC"
+    },
+    "17715": {
+        "country_code": "TW",
+        "asn": "17715",
+        "description": "ChungHwa Telecom. Co. Telecommunication Lab.",
+        "handle": "CHTTL-TW"
+    },
+    "17716": {
+        "country_code": "TW",
+        "asn": "17716",
+        "description": "National Taiwan University",
+        "handle": "NTU-TW"
+    },
+    "17717": {
+        "country_code": "TW",
+        "asn": "17717",
+        "description": "Ministry of Education Computer Center Taipei Taiwan",
+        "handle": "MOECC-IPV6"
+    },
+    "17718": {
+        "country_code": "TW",
+        "asn": "17718",
+        "description": "Taiwan Network Information center",
+        "handle": "TWNIC"
+    },
+    "17809": {
+        "country_code": "TW",
+        "asn": "17809",
+        "description": "VEE TIME CORP.",
+        "handle": "VEETIME-TW-AP"
+    },
+    "18040": {
+        "country_code": "TW",
+        "asn": "18040",
+        "description": "Aoter Networks Co. Ltd",
+        "handle": "AOTERNET-AS-TW"
+    },
+    "18041": {
+        "country_code": "TW",
+        "asn": "18041",
+        "description": "Taiwna Digital Streaming Co.",
+        "handle": "TWDS-AS-TW"
+    },
+    "18042": {
+        "country_code": "TW",
+        "asn": "18042",
+        "description": "Koos Broadband Telecom",
+        "handle": "KBT"
+    },
+    "18043": {
+        "country_code": "TW",
+        "asn": "18043",
+        "description": "Department of Education Hsinchu City",
+        "handle": "HCCG-AS"
+    },
+    "18044": {
+        "country_code": "TW",
+        "asn": "18044",
+        "description": "Kanrays Technology Co. Ltd.",
+        "handle": "KANRAYS-AS-TW"
+    },
+    "18045": {
+        "country_code": "TW",
+        "asn": "18045",
+        "description": "SinoPac Holdings Corporate Network",
+        "handle": "SINOPAC"
+    },
+    "18046": {
+        "country_code": "TW",
+        "asn": "18046",
+        "description": "DongFong Technology Co. Ltd.",
+        "handle": "DONGFONG-TW"
+    },
+    "18047": {
+        "country_code": "TW",
+        "asn": "18047",
+        "description": "National Tsing-Hua University",
+        "handle": "NTHU-TW"
+    },
+    "18048": {
+        "country_code": "TW",
+        "asn": "18048",
+        "description": "Cyberterra Corporation",
+        "handle": "CYBERTERRA-TW"
+    },
+    "18049": {
+        "country_code": "TW",
+        "asn": "18049",
+        "description": "Taiwan Infrastructure Network Technologie",
+        "handle": "TINP-TW"
+    },
+    "18177": {
+        "country_code": "TW",
+        "asn": "18177",
+        "description": "National Cheng Kung University",
+        "handle": "NCKU-TW"
+    },
+    "18178": {
+        "country_code": "TW",
+        "asn": "18178",
+        "description": "Pittqiao Network Information Co. Ltd.",
+        "handle": "PITTQIAO-AS-TW"
+    },
+    "18179": {
+        "country_code": "TW",
+        "asn": "18179",
+        "description": "MiTAC Inc.",
+        "handle": "E2CENTER-TW"
+    },
+    "18180": {
+        "country_code": "TW",
+        "asn": "18180",
+        "description": "Taiwan Network Information Center",
+        "handle": "TWNIC-AS"
+    },
+    "18181": {
+        "country_code": "TW",
+        "asn": "18181",
+        "description": "National Health Research Institutes",
+        "handle": "NHRINET"
+    },
+    "18182": {
+        "country_code": "TW",
+        "asn": "18182",
+        "description": "Sony Network Taiwan Limited",
+        "handle": "SONET-TW"
+    },
+    "18183": {
+        "country_code": "TW",
+        "asn": "18183",
+        "description": "National Center for Research on Earthquake Engineering",
+        "handle": "NCREE"
+    },
+    "18184": {
+        "country_code": "TW",
+        "asn": "18184",
+        "description": "TWIX IPv6 Service Network.(TWIXv6)",
+        "handle": "TWIXV6-TW"
+    },
+    "18185": {
+        "country_code": "TW",
+        "asn": "18185",
+        "description": "4F No.114 Sec.1 Chung-Shiao W. Road",
+        "handle": "NTCU-AS-TW"
+    },
+    "18217": {
+        "country_code": "TW",
+        "asn": "18217",
+        "description": "Academia Sinica",
+        "handle": "ASNET"
+    },
+    "18248": {
+        "country_code": "TW",
+        "asn": "18248",
+        "description": "Taiwan Network Operators' Group (TWNOG)",
+        "handle": "TWNOG-AS-TW"
+    },
+    "18410": {
+        "country_code": "TW",
+        "asn": "18410",
+        "description": "104 Information Technology Co. Ltd.",
+        "handle": "TW-104IT-AS"
+    },
+    "18411": {
+        "country_code": "TW",
+        "asn": "18411",
+        "description": "EDT Network Services Limited Co Ltd.",
+        "handle": "EDTNS-AS-TW"
+    },
+    "18412": {
+        "country_code": "TW",
+        "asn": "18412",
+        "description": "Far EastTone Telecommunication Co. Ltd.",
+        "handle": "FEG-MPLS"
+    },
+    "18413": {
+        "country_code": "TW",
+        "asn": "18413",
+        "description": "Great Taipei Broadband Company Ltd.",
+        "handle": "GBTC-TW"
+    },
+    "18414": {
+        "country_code": "TW",
+        "asn": "18414",
+        "description": "National Center for High-performance Computing",
+        "handle": "TWAREN-AS-TW"
+    },
+    "18415": {
+        "country_code": "TW",
+        "asn": "18415",
+        "description": "B-WIZ Technology",
+        "handle": "BWIZ"
+    },
+    "18416": {
+        "country_code": "TW",
+        "asn": "18416",
+        "description": "CHIAOCHIAO Corporation",
+        "handle": "CHIAOCHIAO-NET"
+    },
+    "18417": {
+        "country_code": "TW",
+        "asn": "18417",
+        "description": "Taiwan Network Information Center",
+        "handle": "TWNIC-AS"
+    },
+    "18418": {
+        "country_code": "TW",
+        "asn": "18418",
+        "description": "Taiwan IPv6 Development Program",
+        "handle": "IPV6PO"
+    },
+    "18419": {
+        "country_code": "TW",
+        "asn": "18419",
+        "description": "DaDa Broadband LTD.",
+        "handle": "DADA-AS-TW"
+    },
+    "18420": {
+        "country_code": "TW",
+        "asn": "18420",
+        "description": "National Central University",
+        "handle": "NCU-TW"
+    },
+    "18421": {
+        "country_code": "TW",
+        "asn": "18421",
+        "description": "Taishin International Bank",
+        "handle": "TAISHINBANK-AS-T"
+    },
+    "18422": {
+        "country_code": "TW",
+        "asn": "18422",
+        "description": "Industrial Technology Research Institute",
+        "handle": "ITRINET-AS-TW"
+    },
+    "18423": {
+        "country_code": "TW",
+        "asn": "18423",
+        "description": "RAID Networks Co. Ltd.",
+        "handle": "RAID-AS-TW"
+    },
+    "18424": {
+        "country_code": "TW",
+        "asn": "18424",
+        "description": "CM Craft Aesthetic",
+        "handle": "ASN-CM-CRAFT-AESTHETIC-GLOBAL"
+    },
+    "18425": {
+        "country_code": "TW",
+        "asn": "18425",
+        "description": "NTT Taiwan Ltd.",
+        "handle": "NTTTW-AS-TW"
+    },
+    "18426": {
+        "country_code": "TW",
+        "asn": "18426",
+        "description": "National Applied Research Laboratories",
+        "handle": "STPI-AS-TW"
+    },
+    "18427": {
+        "country_code": "TW",
+        "asn": "18427",
+        "description": "SUSTAINATEGY LIMITED",
+        "handle": "WARNERLINK"
+    },
+    "18428": {
+        "country_code": "TW",
+        "asn": "18428",
+        "description": "Mercycat Network Inc.",
+        "handle": "MERCYCAT-NET"
+    },
+    "18429": {
+        "country_code": "TW",
+        "asn": "18429",
+        "description": "Extra-Lan Technologies Co. LTD",
+        "handle": "EXTRALAN-TW"
+    },
+    "23675": {
+        "country_code": "TW",
+        "asn": "23675",
+        "description": "Taiwan Semiconductor Manufacturing Company Ltd.",
+        "handle": "TSMCGDN-AS-AP"
+    },
+    "24153": {
+        "country_code": "TW",
+        "asn": "24153",
+        "description": "AY SHANG SHIANG MAU CO. LTD.",
+        "handle": "GENE-AS-TW"
+    },
+    "24154": {
+        "country_code": "TW",
+        "asn": "24154",
+        "description": "Asia Pacific Broadband Fixed Lines Co. Ltd.",
+        "handle": "APBT-AS-TW"
+    },
+    "24155": {
+        "country_code": "TW",
+        "asn": "24155",
+        "description": "Asia Pacific Broadband Wireless Communications Inc",
+        "handle": "APBW-AS-TW"
+    },
+    "24156": {
+        "country_code": "TW",
+        "asn": "24156",
+        "description": "Sony Taiwan Limited",
+        "handle": "SONY-TW-AS"
+    },
+    "24157": {
+        "country_code": "TW",
+        "asn": "24157",
+        "description": "Taiwan Star Telecom Corporation Limited.(Former Vibo Telecom Inc.)",
+        "handle": "VIBO-NET-AS"
+    },
+    "24158": {
+        "country_code": "TW",
+        "asn": "24158",
+        "description": "Taiwan Mobile Co. Ltd.",
+        "handle": "TAIWANMOBILE-AS"
+    },
+    "24159": {
+        "country_code": "TW",
+        "asn": "24159",
+        "description": "Tong Ya Cable T.V. Co.Ltd",
+        "handle": "TYCATV-AS"
+    },
+    "24160": {
+        "country_code": "TW",
+        "asn": "24160",
+        "description": "Chi Mei Corporation",
+        "handle": "CHIMEI-AS"
+    },
+    "24161": {
+        "country_code": "TW",
+        "asn": "24161",
+        "description": "New Century InfoComm Tech Co. Ltd.",
+        "handle": "NCIC-TW"
+    },
+    "24162": {
+        "country_code": "TW",
+        "asn": "24162",
+        "description": "Mingxi Technology Co. Ltd.",
+        "handle": "MINGXI-NET"
+    },
+    "24163": {
+        "country_code": "TW",
+        "asn": "24163",
+        "description": "UNION BROADBAND NETWORK",
+        "handle": "UBBNET-AS-TW"
+    },
+    "24164": {
+        "country_code": "TW",
+        "asn": "24164",
+        "description": "UNION BROADBAND NETWORK",
+        "handle": "UBBNET-AS-TW"
+    },
+    "24165": {
+        "country_code": "TW",
+        "asn": "24165",
+        "description": "UNION BROADBAND NETWORK",
+        "handle": "UBBNET-AS-TW"
+    },
+    "24166": {
+        "country_code": "TW",
+        "asn": "24166",
+        "description": "KE-ing Co Ltd",
+        "handle": "KE-ING-NET-AS"
+    },
+    "24167": {
+        "country_code": "TW",
+        "asn": "24167",
+        "description": "Academia Sinica",
+        "handle": "ASNET"
+    },
+    "24168": {
+        "country_code": "TW",
+        "asn": "24168",
+        "description": "Cloudmax Inc.",
+        "handle": "CLOUDMAX-AS-TW"
+    },
+    "24169": {
+        "country_code": "TW",
+        "asn": "24169",
+        "description": "Chuan Chan Co. Ltd.",
+        "handle": "CHUAN-CHAN-NET-A"
+    },
+    "24170": {
+        "country_code": "TW",
+        "asn": "24170",
+        "description": "New Century InfoComm Tech. Co. Ltd.",
+        "handle": "SPARQ-IDC-AS"
+    },
+    "24171": {
+        "country_code": "TW",
+        "asn": "24171",
+        "description": "Ming Yi Tea Farm",
+        "handle": "MINGYITEA-AS-TW"
+    },
+    "24172": {
+        "country_code": "TW",
+        "asn": "24172",
+        "description": "Chuan Chan Co. Ltd.",
+        "handle": "CHUAN-CHAN-NET-B"
+    },
+    "24235": {
+        "country_code": "TW",
+        "asn": "24235",
+        "description": "CHIEF Telecom Inc.",
+        "handle": "CHIEF-TW-AS-AP"
+    },
+    "24506": {
+        "country_code": "TW",
+        "asn": "24506",
+        "description": "Yahoo Global Holdings B.V. Taiwan Branch",
+        "handle": "YAHOOGLOBAL-AS-AP"
+    },
+    "38042": {
+        "country_code": "TW",
+        "asn": "38042",
+        "description": "Sky Digital Co. Ltd.",
+        "handle": "SDCL-AS-AP"
+    },
+    "38045": {
+        "country_code": "TW",
+        "asn": "38045",
+        "description": "Yahoo Global Holdings B.V. Taiwan Branch",
+        "handle": "YAHOOGLOBAL-AS-AP"
+    },
+    "38059": {
+        "country_code": "TW",
+        "asn": "38059",
+        "description": "Gamania CloudForce Co. Ltd",
+        "handle": "GAMANET-AS-AP"
+    },
+    "38187": {
+        "country_code": "TW",
+        "asn": "38187",
+        "description": "Gamania CloudForce Co. Ltd",
+        "handle": "GAMANET-AS-AP"
+    },
+    "38254": {
+        "country_code": "TW",
+        "asn": "38254",
+        "description": "Pang-Wei Tsai",
+        "handle": "ITLAB-AS-AP"
+    },
+    "38385": {
+        "country_code": "TW",
+        "asn": "38385",
+        "description": "Aldford Network Solutions Limited",
+        "handle": "ALDFORD-AS-AP"
+    },
+    "38797": {
+        "country_code": "TW",
+        "asn": "38797",
+        "description": "CNLink",
+        "handle": "CNLINK-TW-AS-AP"
+    },
+    "38837": {
+        "country_code": "TW",
+        "asn": "38837",
+        "description": "AION TECHNOLOGIES Inc.",
+        "handle": "GSNET"
+    },
+    "38838": {
+        "country_code": "TW",
+        "asn": "38838",
+        "description": "KE-ing Co Ltd",
+        "handle": "KE-ING-NET-AS"
+    },
+    "38839": {
+        "country_code": "TW",
+        "asn": "38839",
+        "description": "CSPTEK LTD. CO.",
+        "handle": "CSPTEK-AS-TW"
+    },
+    "38840": {
+        "country_code": "TW",
+        "asn": "38840",
+        "description": "Ming Yi Tea Farm",
+        "handle": "MINGYITEA-AS-TW"
+    },
+    "38841": {
+        "country_code": "TW",
+        "asn": "38841",
+        "description": "kbro CO. Ltd.",
+        "handle": "KBRO-AS-TW"
+    },
+    "38842": {
+        "country_code": "TW",
+        "asn": "38842",
+        "description": "DNS INTERNATIONAL",
+        "handle": "DNSNET"
+    },
+    "38843": {
+        "country_code": "TW",
+        "asn": "38843",
+        "description": "PUMO NETWORK DIGITAL TECHNOLOGY CO. LTD",
+        "handle": "PUMO-NET"
+    },
+    "38844": {
+        "country_code": "TW",
+        "asn": "38844",
+        "description": "National Taiwan Normal University",
+        "handle": "NTNU-TW"
+    },
+    "38845": {
+        "country_code": "TW",
+        "asn": "38845",
+        "description": "Fu Jen Catholic University",
+        "handle": "FJU-AS-TW"
+    },
+    "38846": {
+        "country_code": "TW",
+        "asn": "38846",
+        "description": "Wolf Feather Culture Information Co. Ltd.",
+        "handle": "WOLF-NET"
+    },
+    "38847": {
+        "country_code": "TW",
+        "asn": "38847",
+        "description": "National Chung Hsing University",
+        "handle": "NCHU-AS-TW"
+    },
+    "38848": {
+        "country_code": "TW",
+        "asn": "38848",
+        "description": "National Yang-Ming University",
+        "handle": "YMU-AS-TW"
+    },
+    "38849": {
+        "country_code": "TW",
+        "asn": "38849",
+        "description": "Shu-Te University No.59 Hengshan Rd. Yanchao Dist.",
+        "handle": "STU-AS-TW"
+    },
+    "38850": {
+        "country_code": "TW",
+        "asn": "38850",
+        "description": "Dodo Ltd.",
+        "handle": "RS-ASN-TW"
+    },
+    "38851": {
+        "country_code": "TW",
+        "asn": "38851",
+        "description": "TNET Communication Inc. 10F. No.78 Sec. 2 Chongxin Rd. Sanchong Dist. New Taipei City Taiwan (R.O.C Taiwan 241)",
+        "handle": "TNET-NET"
+    },
+    "38852": {
+        "country_code": "TW",
+        "asn": "38852",
+        "description": "Fun Finance Technology Co. Ltd.",
+        "handle": "HAPPYMONEY-TW"
+    },
+    "38853": {
+        "country_code": "TW",
+        "asn": "38853",
+        "description": "Paramita Digital Ltd.",
+        "handle": "PARAMITA-NET"
+    },
+    "38854": {
+        "country_code": "TW",
+        "asn": "38854",
+        "description": "Zenlayer",
+        "handle": "ZENLAYER-AS-TW"
+    },
+    "38855": {
+        "country_code": "TW",
+        "asn": "38855",
+        "description": "Taiwan Digital Streaming Co.",
+        "handle": "STUIX-AS-TW"
+    },
+    "38856": {
+        "country_code": "TW",
+        "asn": "38856",
+        "description": "Walks Cloud Inc.",
+        "handle": "WALKSCLOUD-AS"
+    },
+    "44937": {
+        "country_code": "TW",
+        "asn": "44937",
+        "description": "404 Network Information Co.",
+        "handle": "NRIX-AS"
+    },
+    "45125": {
+        "country_code": "TW",
+        "asn": "45125",
+        "description": "Sunbridge Worldwide Ltd",
+        "handle": "SUNBRIDGE-AS-AP"
+    },
+    "45342": {
+        "country_code": "TW",
+        "asn": "45342",
+        "description": "HanStrong Online Services",
+        "handle": "HANSTECH-AS-AP"
+    },
+    "45592": {
+        "country_code": "TW",
+        "asn": "45592",
+        "description": "Simex Limited",
+        "handle": "SIMEX-TW-AP"
+    },
+    "45599": {
+        "country_code": "TW",
+        "asn": "45599",
+        "description": "Equantech Corporation",
+        "handle": "EQUANTECH-TW-AP"
+    },
+    "45761": {
+        "country_code": "TW",
+        "asn": "45761",
+        "description": "Gamania CloudForce Co. Ltd",
+        "handle": "GAMANET-AS-AP"
+    },
+    "45930": {
+        "country_code": "TW",
+        "asn": "45930",
+        "description": "Neurv",
+        "handle": "NEURV-TW"
+    },
+    "49608": {
+        "country_code": "TW",
+        "asn": "49608",
+        "description": "CoChen Technology LTD.",
+        "handle": "COCHENTEK-AS-UK"
+    },
+    "51930": {
+        "country_code": "TW",
+        "asn": "51930",
+        "description": "Tsung-Yi Yu",
+        "handle": "LAMBDAIX-RS"
+    },
+    "55576": {
+        "country_code": "TW",
+        "asn": "55576",
+        "description": "Gamania CloudForce Co. Ltd",
+        "handle": "GAMANET-AS-AP"
+    },
+    "55789": {
+        "country_code": "TW",
+        "asn": "55789",
+        "description": "AsiaPacificNewTechnologies Co. Ltd",
+        "handle": "IDC-TW"
+    },
+    "56179": {
+        "country_code": "TW",
+        "asn": "56179",
+        "description": "Symphox Information Co. LTd.",
+        "handle": "PUNET-AS-AP"
+    },
+    "56913": {
+        "country_code": "TW",
+        "asn": "56913",
+        "description": "CoChen Technology LTD.",
+        "handle": "COCHENTEK-AS"
+    },
+    "57401": {
+        "country_code": "TW",
+        "asn": "57401",
+        "description": "TSAI PANG-WEI",
+        "handle": "OFTEIN-AS"
+    },
+    "57429": {
+        "country_code": "TW",
+        "asn": "57429",
+        "description": "Ming-Ray Hsu",
+        "handle": "HARAGUROICHA-AS"
+    },
+    "59268": {
+        "country_code": "TW",
+        "asn": "59268",
+        "description": "QLINKS",
+        "handle": "QLINKS-AS"
+    },
+    "63891": {
+        "country_code": "TW",
+        "asn": "63891",
+        "description": "Ming Ding Co. Ltd.",
+        "handle": "MINGDING"
+    },
+    "63892": {
+        "country_code": "TW",
+        "asn": "63892",
+        "description": "Ruike Creative Integrated Marketing Co. Ltd.",
+        "handle": "RUIKE"
+    },
+    "63893": {
+        "country_code": "TW",
+        "asn": "63893",
+        "description": "Chang Chun Petrochemical Co. Ltd.",
+        "handle": "CCPGP-TW"
+    },
+    "63894": {
+        "country_code": "TW",
+        "asn": "63894",
+        "description": "Super Micro Computer Inc.",
+        "handle": "SMCI-AS-TW"
+    },
+    "63895": {
+        "country_code": "TW",
+        "asn": "63895",
+        "description": "Charmway Limited",
+        "handle": "CDN"
+    },
+    "63896": {
+        "country_code": "TW",
+        "asn": "63896",
+        "description": "Taiwan Communications Technology Service Co. Ltd.",
+        "handle": "TAICOM-NET"
+    },
+    "63897": {
+        "country_code": "TW",
+        "asn": "63897",
+        "description": "vocom international telecom",
+        "handle": "VOCOM-TW"
+    },
+    "63898": {
+        "country_code": "TW",
+        "asn": "63898",
+        "description": "NSS eMarketing solutions Co. Ltd.",
+        "handle": "NSS-GROUP"
+    },
+    "63899": {
+        "country_code": "TW",
+        "asn": "63899",
+        "description": "National Taiwan University of Science and Technology",
+        "handle": "CHUAN-CHAN-NET-A"
+    },
+    "63900": {
+        "country_code": "TW",
+        "asn": "63900",
+        "description": "ZUSO Generation Co. Ltd.",
+        "handle": "ZUSO"
+    },
+    "63901": {
+        "country_code": "TW",
+        "asn": "63901",
+        "description": "CYCORE",
+        "handle": "CYCORE-AS"
+    },
+    "63902": {
+        "country_code": "TW",
+        "asn": "63902",
+        "description": "SHINE TELECOM CO. LTD.",
+        "handle": "SHINETEL-AS-TW"
+    },
+    "63903": {
+        "country_code": "TW",
+        "asn": "63903",
+        "description": "INIT RISE TECHNOLOGY CO. LTD",
+        "handle": "GLOBALTRANSIT-AS-IR"
+    },
+    "63904": {
+        "country_code": "TW",
+        "asn": "63904",
+        "description": "Hutchison Global Communications(Taiwan) Limited",
+        "handle": "HGC-AMS-IX-TW"
+    },
+    "63905": {
+        "country_code": "TW",
+        "asn": "63905",
+        "description": "Yuan-Jhen Info. Co. Ltd",
+        "handle": "YUANJHEN-AS-TW"
+    },
+    "63906": {
+        "country_code": "TW",
+        "asn": "63906",
+        "description": "FUYU Group Inc.",
+        "handle": "FUYU"
+    },
+    "63907": {
+        "country_code": "TW",
+        "asn": "63907",
+        "description": "TAI GUANG MEDICINES CO. LTD.",
+        "handle": "TGM-AS-TW"
+    },
+    "63908": {
+        "country_code": "TW",
+        "asn": "63908",
+        "description": "See Get Upstart Technology Co. Ltd.",
+        "handle": "SGU-NET"
+    },
+    "63909": {
+        "country_code": "TW",
+        "asn": "63909",
+        "description": "Skip Technologies Taiwan Limited",
+        "handle": "KRONOSTECH-AS-TW"
+    },
+    "63910": {
+        "country_code": "TW",
+        "asn": "63910",
+        "description": "Clark Technology Ltd.",
+        "handle": "CLARK-AS"
+    },
+    "63929": {
+        "country_code": "TW",
+        "asn": "63929",
+        "description": "TWT Digital Communication Inc.",
+        "handle": "TDCI-AP-AS"
+    },
+    "131142": {
+        "country_code": "TW",
+        "asn": "131142",
+        "description": "Asia Pacific On-Line Service Inc.",
+        "handle": "APOL-AS-TW"
+    },
+    "131143": {
+        "country_code": "TW",
+        "asn": "131143",
+        "description": "Chinatrust Commercial Bank",
+        "handle": "CHINATRUST-AS-TW"
+    },
+    "131144": {
+        "country_code": "TW",
+        "asn": "131144",
+        "description": "ASUSTek COMPUTER INC.",
+        "handle": "ASUS-AS-TW"
+    },
+    "131145": {
+        "country_code": "TW",
+        "asn": "131145",
+        "description": "e-MAX NETWORK CORP.",
+        "handle": "EMAX-NET"
+    },
+    "131146": {
+        "country_code": "TW",
+        "asn": "131146",
+        "description": "Chang Gung University",
+        "handle": "CGU-AS-TW"
+    },
+    "131147": {
+        "country_code": "TW",
+        "asn": "131147",
+        "description": "Taiwan Li Run Ltd.",
+        "handle": "LIRUN-AS"
+    },
+    "131148": {
+        "country_code": "TW",
+        "asn": "131148",
+        "description": "Bank Of Taiwan",
+        "handle": "BOT-AS-TW"
+    },
+    "131149": {
+        "country_code": "TW",
+        "asn": "131149",
+        "description": "Yuan-Jhen Info. Co. Ltd",
+        "handle": "YUANJHEN-AS-TW"
+    },
+    "131150": {
+        "country_code": "TW",
+        "asn": "131150",
+        "description": "Education Bureau Kaohsiung City Government Taiwan",
+        "handle": "KH-AS-TW"
+    },
+    "131151": {
+        "country_code": "TW",
+        "asn": "131151",
+        "description": "Imcloud Technology Co. Ltd.",
+        "handle": "IMCLOUD"
+    },
+    "131164": {
+        "country_code": "TW",
+        "asn": "131164",
+        "description": "Sinotech Int",
+        "handle": "SINOTECH-TW-AP"
+    },
+    "131273": {
+        "country_code": "TW",
+        "asn": "131273",
+        "description": "CORE WINNER CO. LIMITED",
+        "handle": "CWCTB-AS-AP"
+    },
+    "131584": {
+        "country_code": "TW",
+        "asn": "131584",
+        "description": "Taiwan Intelligent Fiber Optic Network Co. Ltd.",
+        "handle": "TAIFO-AS-TW"
+    },
+    "131585": {
+        "country_code": "TW",
+        "asn": "131585",
+        "description": "PUMO NETWORK DIGITAL TECHNOLOGY CO. LTD",
+        "handle": "PUMO-NET"
+    },
+    "131586": {
+        "country_code": "TW",
+        "asn": "131586",
+        "description": "New Century InfoComm Tech Co. Ltd.",
+        "handle": "NCIC-IDC-TW"
+    },
+    "131587": {
+        "country_code": "TW",
+        "asn": "131587",
+        "description": "Mega International Commercial Bank",
+        "handle": "MEGABANK-ASN"
+    },
+    "131588": {
+        "country_code": "TW",
+        "asn": "131588",
+        "description": "Financial Information Service Co. Ltd.",
+        "handle": "FISC-AS-TW"
+    },
+    "131589": {
+        "country_code": "TW",
+        "asn": "131589",
+        "description": "Foxconn Technology Group",
+        "handle": "FOXCONN-AS-TW"
+    },
+    "131590": {
+        "country_code": "TW",
+        "asn": "131590",
+        "description": "gambeson group co. ltd",
+        "handle": "GAMBESON"
+    },
+    "131591": {
+        "country_code": "TW",
+        "asn": "131591",
+        "description": "Ambit Microsystem Corporation",
+        "handle": "AMBIT-AS-TW"
+    },
+    "131592": {
+        "country_code": "TW",
+        "asn": "131592",
+        "description": "TWT Communication Inc.",
+        "handle": "TWT-NET"
+    },
+    "131593": {
+        "country_code": "TW",
+        "asn": "131593",
+        "description": "PEGATRON",
+        "handle": "PEGATRON-NET"
+    },
+    "131594": {
+        "country_code": "TW",
+        "asn": "131594",
+        "description": "Asia Pacific On-Line Service Inc.",
+        "handle": "YUSHANCLOUD-AS-T"
+    },
+    "131595": {
+        "country_code": "TW",
+        "asn": "131595",
+        "description": "Kingston Technology Fareast Corp.",
+        "handle": "KTCFE-NET"
+    },
+    "131596": {
+        "country_code": "TW",
+        "asn": "131596",
+        "description": "TBC",
+        "handle": "TBCOM-NET"
+    },
+    "131598": {
+        "country_code": "TW",
+        "asn": "131598",
+        "description": "CHTD Chunghwa Telecom Co. Ltd.",
+        "handle": "HILINK"
+    },
+    "131599": {
+        "country_code": "TW",
+        "asn": "131599",
+        "description": "Wistron Corporation",
+        "handle": "WISTRON"
+    },
+    "131600": {
+        "country_code": "TW",
+        "asn": "131600",
+        "description": "Chief Telecom Inc.",
+        "handle": "CHIEFANTIDDOS"
+    },
+    "131601": {
+        "country_code": "TW",
+        "asn": "131601",
+        "description": "Dynamic Computing Technology",
+        "handle": "DCT"
+    },
+    "131602": {
+        "country_code": "TW",
+        "asn": "131602",
+        "description": "Hsin Yeong An Cable TV Co. Ltd.",
+        "handle": "HYA"
+    },
+    "131603": {
+        "country_code": "TW",
+        "asn": "131603",
+        "description": "Skycloud Computing co. Ltd.",
+        "handle": "SKYCLOUD-TW-AS"
+    },
+    "131604": {
+        "country_code": "TW",
+        "asn": "131604",
+        "description": "Chaoyu Internetwork lnternational Corp",
+        "handle": "CATVISP"
+    },
+    "131605": {
+        "country_code": "TW",
+        "asn": "131605",
+        "description": "Inventec Besta CO. LTD",
+        "handle": "DRCLOUD"
+    },
+    "131606": {
+        "country_code": "TW",
+        "asn": "131606",
+        "description": "Chief Telecom Inc.",
+        "handle": "CHIEFCLOUDIAAS-A"
+    },
+    "131607": {
+        "country_code": "TW",
+        "asn": "131607",
+        "description": "Digidom CableTV Co. LTD.",
+        "handle": "DCTV-AS-TW"
+    },
+    "131608": {
+        "country_code": "TW",
+        "asn": "131608",
+        "description": "Chief Telecom Inc.",
+        "handle": "CHIEFCLOUDPAAS-A"
+    },
+    "131611": {
+        "country_code": "TW",
+        "asn": "131611",
+        "description": "San Da Cable TV Co. Ltd.",
+        "handle": "GLOBALTRANSIT-AS-SDTV"
+    },
+    "131612": {
+        "country_code": "TW",
+        "asn": "131612",
+        "description": "Internet Dept. Data Communication Group of CHT Ltd.",
+        "handle": "CHT-IDC"
+    },
+    "131613": {
+        "country_code": "TW",
+        "asn": "131613",
+        "description": "Sky Digital Co. Ltd.",
+        "handle": "ZENLENET-AS-TW"
+    },
+    "131614": {
+        "country_code": "TW",
+        "asn": "131614",
+        "description": "Taiwan Mobile Co. Ltd.",
+        "handle": "TAIWANMOBILE-AS"
+    },
+    "131615": {
+        "country_code": "TW",
+        "asn": "131615",
+        "description": "Chief Telecom Inc.",
+        "handle": "CHIEFCLOUDSAAS-AS-TW"
+    },
+    "131616": {
+        "country_code": "TW",
+        "asn": "131616",
+        "description": "Chief Telecom Inc.",
+        "handle": "CHIEFCLOUDHEALTH-AS-TW"
+    },
+    "131617": {
+        "country_code": "TW",
+        "asn": "131617",
+        "description": "Centroid Networking Co. Ltd. desc: 7F.-3 NO.119 SEC. 2 MINSHENG E. RD. ZHONGSHAN DIST.",
+        "handle": "CENTROID-NET"
+    },
+    "131618": {
+        "country_code": "TW",
+        "asn": "131618",
+        "description": "Carl International Information ltd.",
+        "handle": "CARL-NET"
+    },
+    "131619": {
+        "country_code": "TW",
+        "asn": "131619",
+        "description": "Jigentec CO. LTD.",
+        "handle": "JIGENTEC-NET"
+    },
+    "131620": {
+        "country_code": "TW",
+        "asn": "131620",
+        "description": "SERVCOMPUTING INC",
+        "handle": "SERVCOMP-AS-TW"
+    },
+    "131621": {
+        "country_code": "TW",
+        "asn": "131621",
+        "description": "Taiwan Network Information Center",
+        "handle": "TWNIC-NET-AS"
+    },
+    "131622": {
+        "country_code": "TW",
+        "asn": "131622",
+        "description": "DW Solutions Ltd.",
+        "handle": "ASN-DW-CLOUDEXCHANGE-NETWORK"
+    },
+    "131623": {
+        "country_code": "TW",
+        "asn": "131623",
+        "description": "SHOPEE (TAIWAN) CO. LTD.",
+        "handle": "SPETW-AS"
+    },
+    "131624": {
+        "country_code": "TW",
+        "asn": "131624",
+        "description": "AMATECH",
+        "handle": "AMATRANSIT-AS-TW"
+    },
+    "131625": {
+        "country_code": "TW",
+        "asn": "131625",
+        "description": "NETWAVE CABLE SYSTEM INC",
+        "handle": "NWCATV-ISP"
+    },
+    "131626": {
+        "country_code": "TW",
+        "asn": "131626",
+        "description": "NSS INT'L CO. LTD.",
+        "handle": "NSS-GROUP-AS-TW"
+    },
+    "131627": {
+        "country_code": "TW",
+        "asn": "131627",
+        "description": "Peicity Digital Cable Television. LTD",
+        "handle": "PEICITY-AS-TW"
+    },
+    "131628": {
+        "country_code": "TW",
+        "asn": "131628",
+        "description": "Tai-Fu Cloud Co. Ltd.",
+        "handle": "TAIFUCLOUD-AS-TW"
+    },
+    "131629": {
+        "country_code": "TW",
+        "asn": "131629",
+        "description": "CKMATES INTERNATIONAL CO. LTD",
+        "handle": "CKMATES-AS-TW"
+    },
+    "131631": {
+        "country_code": "TW",
+        "asn": "131631",
+        "description": "1033 Network Information LTD.",
+        "handle": "AS-1033-TW"
+    },
+    "131632": {
+        "country_code": "TW",
+        "asn": "131632",
+        "description": "GMI Cloud Phoenix LTD. Taiwan Branch (CAYMAN ISLANDS REPUBLIC)",
+        "handle": "GMICLOUD-ASN-PHOENIX"
+    },
+    "131633": {
+        "country_code": "TW",
+        "asn": "131633",
+        "description": "Sakura Internet Ltd.",
+        "handle": "SAKURAHOST-AS-TW"
+    },
+    "131634": {
+        "country_code": "TW",
+        "asn": "131634",
+        "description": "MOBA Private Limited Taiwan Branch",
+        "handle": "MOBATW-AS"
+    },
+    "131635": {
+        "country_code": "TW",
+        "asn": "131635",
+        "description": "Airpay TW",
+        "handle": "AIRPAYTW-AS"
+    },
+    "131636": {
+        "country_code": "TW",
+        "asn": "131636",
+        "description": "WANIN INTERNATIONAL CO. LTD.",
+        "handle": "WANIN"
+    },
+    "131637": {
+        "country_code": "TW",
+        "asn": "131637",
+        "description": "FastCould",
+        "handle": "FASTCLOUD-NET"
+    },
+    "131638": {
+        "country_code": "TW",
+        "asn": "131638",
+        "description": "ZUSO Generation Co. Ltd.",
+        "handle": "X32B535D8"
+    },
+    "131639": {
+        "country_code": "TW",
+        "asn": "131639",
+        "description": "Taiwan Intelligent Home Corp.",
+        "handle": "TIH-TW"
+    },
+    "131641": {
+        "country_code": "TW",
+        "asn": "131641",
+        "description": "DW Solutions Ltd.",
+        "handle": "DWT-AS-AP"
+    },
+    "131642": {
+        "country_code": "TW",
+        "asn": "131642",
+        "description": "Pittqiao Network Information Co. Ltd.",
+        "handle": "PNI-AS-TW"
+    },
+    "131643": {
+        "country_code": "TW",
+        "asn": "131643",
+        "description": "Chirue Technology Co. Ltd.",
+        "handle": "CHIRUE-NET"
+    },
+    "131644": {
+        "country_code": "TW",
+        "asn": "131644",
+        "description": "Taiwan Network Information Center",
+        "handle": "TWNIC-AS"
+    },
+    "131645": {
+        "country_code": "TW",
+        "asn": "131645",
+        "description": "KlickKlack Co. Ltd",
+        "handle": "KLICKKLACK-AS-TW"
+    },
+    "131646": {
+        "country_code": "TW",
+        "asn": "131646",
+        "description": "CORE WINNER CO. LIMITED TAIWAN BRANCH",
+        "handle": "COREWINNER-AS-TW"
+    },
+    "131647": {
+        "country_code": "TW",
+        "asn": "131647",
+        "description": "Taiwan Mobile Co. Ltd.",
+        "handle": "TAIWANMOBILE-AS"
+    },
+    "131648": {
+        "country_code": "TW",
+        "asn": "131648",
+        "description": "Taiwan Mobile Co. Ltd.",
+        "handle": "TAIWANMOBILE-AS"
+    },
+    "131649": {
+        "country_code": "TW",
+        "asn": "131649",
+        "description": "Taiwan Mobile Co. Ltd.",
+        "handle": "TAIWANMOBILE-AS"
+    },
+    "131650": {
+        "country_code": "TW",
+        "asn": "131650",
+        "description": "Taiwan Mobile Co. Ltd.",
+        "handle": "TAIWANMOBILE-AS"
+    },
+    "131651": {
+        "country_code": "TW",
+        "asn": "131651",
+        "description": "HCT Logistics Co. Ltd.",
+        "handle": "HCTSV-AS-TW"
+    },
+    "131652": {
+        "country_code": "TW",
+        "asn": "131652",
+        "description": "NETGUARD INTERNATIONAL",
+        "handle": "NETGUARD"
+    },
+    "131653": {
+        "country_code": "TW",
+        "asn": "131653",
+        "description": "Cloudbase Network CORP.",
+        "handle": "CCONNECTED-TW"
+    },
+    "131654": {
+        "country_code": "TW",
+        "asn": "131654",
+        "description": "Network Telecommunication Co. Ltd",
+        "handle": "NTCL-AS-TW"
+    },
+    "131655": {
+        "country_code": "TW",
+        "asn": "131655",
+        "description": "NAN YA PLASTICS CORPORATION",
+        "handle": "NANYA-AS-1"
+    },
+    "131656": {
+        "country_code": "TW",
+        "asn": "131656",
+        "description": "NAN YA PLASTICS CORPORATION",
+        "handle": "NANYA-AS-2"
+    },
+    "131657": {
+        "country_code": "TW",
+        "asn": "131657",
+        "description": "Hong Da Storage Equipment Co. Ltd.",
+        "handle": "AS-FASTLINE"
+    },
+    "131658": {
+        "country_code": "TW",
+        "asn": "131658",
+        "description": "Game Soul Technology Co. Ltd.",
+        "handle": "GAMESOUL-AS-TW"
+    },
+    "131659": {
+        "country_code": "TW",
+        "asn": "131659",
+        "description": "NETEASE",
+        "handle": "NETEASE-AS-TW"
+    },
+    "131660": {
+        "country_code": "TW",
+        "asn": "131660",
+        "description": "Data Communication Business Group",
+        "handle": "CHTCDN"
+    },
+    "131661": {
+        "country_code": "TW",
+        "asn": "131661",
+        "description": "Express2Internet",
+        "handle": "X2I"
+    },
+    "131662": {
+        "country_code": "TW",
+        "asn": "131662",
+        "description": "Denpa Ltd.",
+        "handle": "DENPAIO"
+    },
+    "131663": {
+        "country_code": "TW",
+        "asn": "131663",
+        "description": "GIGABYTE",
+        "handle": "GIGABYTE-AS-TW"
+    },
+    "131664": {
+        "country_code": "TW",
+        "asn": "131664",
+        "description": "NSS INTL CO. LTD.",
+        "handle": "NSS-GROUP"
+    },
+    "131665": {
+        "country_code": "TW",
+        "asn": "131665",
+        "description": "NSS INTL CO. LTD.",
+        "handle": "NSS-GROUP"
+    },
+    "131666": {
+        "country_code": "TW",
+        "asn": "131666",
+        "description": "Haosing Technology Co. Ltd.",
+        "handle": "HST-NET"
+    },
+    "131667": {
+        "country_code": "TW",
+        "asn": "131667",
+        "description": "GRONEXT CO. LTD.",
+        "handle": "GRONEXT-AS"
+    },
+    "131668": {
+        "country_code": "TW",
+        "asn": "131668",
+        "description": "Taiwan Digital Streaming Co.",
+        "handle": "TWDS-LEGACY-AS-TW"
+    },
+    "131669": {
+        "country_code": "TW",
+        "asn": "131669",
+        "description": "SIANG YU SCIENCE AND TECHNOLOGY CO. LTD",
+        "handle": "SY-ASN"
+    },
+    "131670": {
+        "country_code": "TW",
+        "asn": "131670",
+        "description": "WELL POWER Tech. Corp.",
+        "handle": "WELLSERVE-AS-NET"
+    },
+    "131671": {
+        "country_code": "TW",
+        "asn": "131671",
+        "description": "FANTASY TECHNOLOGY CO. LTD.",
+        "handle": "FANTASY"
+    },
+    "131672": {
+        "country_code": "TW",
+        "asn": "131672",
+        "description": "WantEasy Info. Co Ltd.",
+        "handle": "WANTEASY-AS-TW"
+    },
+    "131673": {
+        "country_code": "TW",
+        "asn": "131673",
+        "description": "unionisme tech. co.",
+        "handle": "UNIONISME-AS-TW"
+    },
+    "131674": {
+        "country_code": "TW",
+        "asn": "131674",
+        "description": "OpenRich Technologies Co. Ltd.",
+        "handle": "OPENRICH"
+    },
+    "131675": {
+        "country_code": "TW",
+        "asn": "131675",
+        "description": "GMI Computing International LTD. Taiwan Branch (CAYMAN ISLANDS REPUBLIC)",
+        "handle": "GMICLOUD-ASN2"
+    },
+    "131676": {
+        "country_code": "TW",
+        "asn": "131676",
+        "description": "GMI Computing International LTD. Taiwan Branch (CAYMAN ISLANDS REPUBLIC)",
+        "handle": "GMICLOUD"
+    },
+    "131677": {
+        "country_code": "TW",
+        "asn": "131677",
+        "description": "OpenFor Telecommunications Co. Ltd.",
+        "handle": "OPENFOR"
+    },
+    "131678": {
+        "country_code": "TW",
+        "asn": "131678",
+        "description": "DQWLIT",
+        "handle": "DQWL-AS"
+    },
+    "131679": {
+        "country_code": "TW",
+        "asn": "131679",
+        "description": "CORE WINNER CO. LIMITED TAIWAN BRANCH",
+        "handle": "COREWINNER-AS-TW"
+    },
+    "131680": {
+        "country_code": "TW",
+        "asn": "131680",
+        "description": "Compal Electronics",
+        "handle": "COMPAL-AS-TW"
+    },
+    "131681": {
+        "country_code": "TW",
+        "asn": "131681",
+        "description": "QISDA CORPORATION",
+        "handle": "QISDA-AS-TW"
+    },
+    "131682": {
+        "country_code": "TW",
+        "asn": "131682",
+        "description": "Ming Yi Tea Farm",
+        "handle": "MINGYITEA-AS-TW"
+    },
+    "131683": {
+        "country_code": "TW",
+        "asn": "131683",
+        "description": "InnoLux Display Corp.",
+        "handle": "INX-AS01"
+    },
+    "132157": {
+        "country_code": "TW",
+        "asn": "132157",
+        "description": "AboveNet Communications Taiwan Co. Ltd",
+        "handle": "TNET-CO-LTD"
+    },
+    "132737": {
+        "country_code": "TW",
+        "asn": "132737",
+        "description": "NetWave CATV Corporation",
+        "handle": "NETWAVE-AS-TW"
+    },
+    "132738": {
+        "country_code": "TW",
+        "asn": "132738",
+        "description": "Shih-Hsin Cable Television Corporation",
+        "handle": "SHIH-HSIN-AS-AP"
+    },
+    "133158": {
+        "country_code": "TW",
+        "asn": "133158",
+        "description": "WELL-POWER Tech Corp",
+        "handle": "WELLPOWER-AS-AP"
+    },
+    "133375": {
+        "country_code": "TW",
+        "asn": "133375",
+        "description": "CHUAN KAI INTERNATIONAL CO. LTD",
+        "handle": "CKICL-AS-AP"
+    },
+    "134094": {
+        "country_code": "TW",
+        "asn": "134094",
+        "description": "SERVERFIELD CO. LTD.",
+        "handle": "SERVERFIELD-AS"
+    },
+    "134522": {
+        "country_code": "TW",
+        "asn": "134522",
+        "description": "HostingInside LTD.",
+        "handle": "HOSTINGINSIDE"
+    },
+    "134823": {
+        "country_code": "TW",
+        "asn": "134823",
+        "description": "Sky Digital Co. Ltd.",
+        "handle": "SDCL-AS-AP"
+    },
+    "135387": {
+        "country_code": "TW",
+        "asn": "135387",
+        "description": "Magna Hosting Ltd",
+        "handle": "MAGNAHOSTINGLTD-TW"
+    },
+    "135561": {
+        "country_code": "TW",
+        "asn": "135561",
+        "description": "Ci Yuan Technology Co. Limited",
+        "handle": "CIYUANTEC-AS-AP"
+    },
+    "135596": {
+        "country_code": "TW",
+        "asn": "135596",
+        "description": "HanStrong Online Services",
+        "handle": "HANSTECH-AS-HK"
+    },
+    "135631": {
+        "country_code": "TW",
+        "asn": "135631",
+        "description": "Fast Distributed Cloud Computing-Technology Co. Ltd.",
+        "handle": "FDCCCL-TW"
+    },
+    "136378": {
+        "country_code": "TW",
+        "asn": "136378",
+        "description": "TWT Communication lnc",
+        "handle": "TWTCOMMUNICATIONINC-AS-TW"
+    },
+    "136444": {
+        "country_code": "TW",
+        "asn": "136444",
+        "description": "Chung Hwa Zi An International Co. Limited",
+        "handle": "CHTSECURITY-AS-AP"
+    },
+    "136462": {
+        "country_code": "TW",
+        "asn": "136462",
+        "description": "Mootech Asia",
+        "handle": "MOOTECHASIA-AS-AP"
+    },
+    "137524": {
+        "country_code": "TW",
+        "asn": "137524",
+        "description": "EXPERT WEB SERVICE CO. LTD.",
+        "handle": "EWSCL-AS-AP"
+    },
+    "138646": {
+        "country_code": "TW",
+        "asn": "138646",
+        "description": "SERVERFIELD CO. LTD.",
+        "handle": "SERVERFIELD-AS"
+    },
+    "139065": {
+        "country_code": "TW",
+        "asn": "139065",
+        "description": "Apeiro8 Technology Co. Ltd.",
+        "handle": "ATCL-AS-AP"
+    },
+    "139471": {
+        "country_code": "TW",
+        "asn": "139471",
+        "description": "HWA CENT TELECOMMUNICATIONS LIMITED",
+        "handle": "HWACENT-AS-AP"
+    },
+    "139903": {
+        "country_code": "TW",
+        "asn": "139903",
+        "description": "RETN Telecoms Ltd.",
+        "handle": "RETN-AS-AP"
+    },
+    "140682": {
+        "country_code": "TW",
+        "asn": "140682",
+        "description": "Yang Xuyao",
+        "handle": "MCDAWANJIA-AS-AP"
+    },
+    "140958": {
+        "country_code": "TW",
+        "asn": "140958",
+        "description": "Jehovah's Witnesses in Taiwan",
+        "handle": "JWIT-AS-AP"
+    },
+    "141742": {
+        "country_code": "TW",
+        "asn": "141742",
+        "description": "Magna Hosting Ltd",
+        "handle": "MAGNAHOSTINGLTD-AS-AP"
+    },
+    "141758": {
+        "country_code": "TW",
+        "asn": "141758",
+        "description": "CORE WINNER CO. LIMITED",
+        "handle": "CWCTB-AS-AP"
+    },
+    "142005": {
+        "country_code": "TW",
+        "asn": "142005",
+        "description": "NC Taiwan Co. Ltd.",
+        "handle": "NCTAIWANCOLTD-AS-AP"
+    },
+    "142046": {
+        "country_code": "TW",
+        "asn": "142046",
+        "description": "1033 Network Information Co.",
+        "handle": "M1033-INFO-AS-TW"
+    },
+    "142061": {
+        "country_code": "TW",
+        "asn": "142061",
+        "description": "CORE WINNER CO. LIMITED",
+        "handle": "CWCTB-AS-AP"
+    },
+    "142062": {
+        "country_code": "TW",
+        "asn": "142062",
+        "description": "qlhost",
+        "handle": "HQTC-AS-AP"
+    },
+    "149030": {
+        "country_code": "TW",
+        "asn": "149030",
+        "description": "Chris Chang's Network",
+        "handle": "CHRISNET-AS-AP"
+    },
+    "149423": {
+        "country_code": "TW",
+        "asn": "149423",
+        "description": "Yu-Shan Tsai",
+        "handle": "CHUMMY-AS-TW"
+    },
+    "149791": {
+        "country_code": "TW",
+        "asn": "149791",
+        "description": "StarVerse Network Ltd.",
+        "handle": "STARVERSE-AS-AP"
+    },
+    "150137": {
+        "country_code": "TW",
+        "asn": "150137",
+        "description": "Sky Wise International Limited Taiwan Branch",
+        "handle": "SWILTB-AS-AP"
+    },
+    "150754": {
+        "country_code": "TW",
+        "asn": "150754",
+        "description": "WUDIKING TECHNOLOGY CO. LTD.",
+        "handle": "WDKINGTECH-AS-TW"
+    },
+    "150755": {
+        "country_code": "TW",
+        "asn": "150755",
+        "description": "NUNLINE",
+        "handle": "NUNLINE-AS-TW"
+    },
+    "150756": {
+        "country_code": "TW",
+        "asn": "150756",
+        "description": "Floppy Ltd.",
+        "handle": "FLOPPY-AS-TW"
+    },
+    "150757": {
+        "country_code": "TW",
+        "asn": "150757",
+        "description": "Floppy Ltd.",
+        "handle": "FLOPPY-AS-TW"
+    },
+    "150758": {
+        "country_code": "TW",
+        "asn": "150758",
+        "description": "Beidou LTD.",
+        "handle": "BEIDOU-GATE"
+    },
+    "150759": {
+        "country_code": "TW",
+        "asn": "150759",
+        "description": "Wolf Feather Culture Information Co. Ltd.",
+        "handle": "WOLF-NET-TW"
+    },
+    "150760": {
+        "country_code": "TW",
+        "asn": "150760",
+        "description": "Jingzhi Technology Co. Ltd.",
+        "handle": "JGZ"
+    },
+    "150761": {
+        "country_code": "TW",
+        "asn": "150761",
+        "description": "Chief Telecom Inc.",
+        "handle": "CHIEFIPTCUS"
+    },
+    "150762": {
+        "country_code": "TW",
+        "asn": "150762",
+        "description": "Chief Telecom Inc.",
+        "handle": "CHIEFDIACUS"
+    },
+    "150763": {
+        "country_code": "TW",
+        "asn": "150763",
+        "description": "Chief Telecom Inc.",
+        "handle": "CHIEFCOLOCUS"
+    },
+    "150764": {
+        "country_code": "TW",
+        "asn": "150764",
+        "description": "Chief Telecom Inc.",
+        "handle": "CHIEFIPTRANSITCUS"
+    },
+    "150765": {
+        "country_code": "TW",
+        "asn": "150765",
+        "description": "Chief Telecom Inc.",
+        "handle": "CHIEFCOLOIPTCUS"
+    },
+    "150766": {
+        "country_code": "TW",
+        "asn": "150766",
+        "description": "CoCoDigit Ltd",
+        "handle": "COCODIGIT-LTD"
+    },
+    "150767": {
+        "country_code": "TW",
+        "asn": "150767",
+        "description": "Shi Ji Industrial Co. Ltd.",
+        "handle": "SHIJICOLTD-AS-TW"
+    },
+    "150768": {
+        "country_code": "TW",
+        "asn": "150768",
+        "description": "Cloud Walker Co. Ltd.",
+        "handle": "CW-AS-TW"
+    },
+    "150769": {
+        "country_code": "TW",
+        "asn": "150769",
+        "description": "Digital Explorer Technology",
+        "handle": "ASPIRAPPS"
+    },
+    "150770": {
+        "country_code": "TW",
+        "asn": "150770",
+        "description": "SHINE TECH INFORMATION COMPANY LIMITED",
+        "handle": "SHINENET"
+    },
+    "150771": {
+        "country_code": "TW",
+        "asn": "150771",
+        "description": "FUYU Group Inc.",
+        "handle": "FUYU-AS"
+    },
+    "150772": {
+        "country_code": "TW",
+        "asn": "150772",
+        "description": "National Credit Card Center of R.O.C.",
+        "handle": "NCCC-AS-TW"
+    },
+    "150773": {
+        "country_code": "TW",
+        "asn": "150773",
+        "description": "Topchina",
+        "handle": "TOPCHINA-NET"
+    },
+    "151188": {
+        "country_code": "TW",
+        "asn": "151188",
+        "description": "404 Network Information Co.",
+        "handle": "M4NIC-AS-AP"
+    },
+    "152609": {
+        "country_code": "TW",
+        "asn": "152609",
+        "description": "I A.M. Translation LTD.",
+        "handle": "KYNETUX"
+    },
+    "152610": {
+        "country_code": "TW",
+        "asn": "152610",
+        "description": "SAELW(TAIWAN) CO. LIMITED",
+        "handle": "AS-DIGIWOKER"
+    },
+    "152611": {
+        "country_code": "TW",
+        "asn": "152611",
+        "description": "Beidou LTD",
+        "handle": "BEIDOU"
+    },
+    "152612": {
+        "country_code": "TW",
+        "asn": "152612",
+        "description": "Aoter Networks Co. Ltd",
+        "handle": "AOTER-NETWORKS"
+    },
+    "152613": {
+        "country_code": "TW",
+        "asn": "152613",
+        "description": "Code Up Technology Ltd.",
+        "handle": "AS-CODEUPTECH-CLOUD"
+    },
+    "152614": {
+        "country_code": "TW",
+        "asn": "152614",
+        "description": "IMPROVE SYSTEM TECHNOLOGY CO. LTD.",
+        "handle": "ISTVC-TW"
+    },
+    "152615": {
+        "country_code": "TW",
+        "asn": "152615",
+        "description": "Chummy Technology Ltd.",
+        "handle": "CHUMMYMAIN-AS-TW"
+    },
+    "152616": {
+        "country_code": "TW",
+        "asn": "152616",
+        "description": "BHIS Ltd.",
+        "handle": "BHIS-AS-TW"
+    },
+    "152617": {
+        "country_code": "TW",
+        "asn": "152617",
+        "description": "PPTECH co. ltd.",
+        "handle": "PPTECH"
+    },
+    "152618": {
+        "country_code": "TW",
+        "asn": "152618",
+        "description": "NOT-TFN-CO",
+        "handle": "NOT-TFN-AS-TW"
+    },
+    "152619": {
+        "country_code": "TW",
+        "asn": "152619",
+        "description": "Very Fast Network LTD",
+        "handle": "VERYFAST-AS-TW"
+    },
+    "152620": {
+        "country_code": "TW",
+        "asn": "152620",
+        "description": "LINE Pay Taiwan Limited",
+        "handle": "AS-LINEPAY-TW"
+    },
+    "152621": {
+        "country_code": "TW",
+        "asn": "152621",
+        "description": "MORN MAPLE LTD.",
+        "handle": "AS-MORNMAPLE"
+    },
+    "152622": {
+        "country_code": "TW",
+        "asn": "152622",
+        "description": "Powerhouse Co. LTD",
+        "handle": "POWERHOUSE"
+    },
+    "152623": {
+        "country_code": "TW",
+        "asn": "152623",
+        "description": "Woquan Technology Co. Ltd.",
+        "handle": "AS-WOQUAN-TRANSIT"
+    },
+    "152624": {
+        "country_code": "TW",
+        "asn": "152624",
+        "description": "UWay Information Technology Inc.",
+        "handle": "UWAYIO"
+    },
+    "152625": {
+        "country_code": "TW",
+        "asn": "152625",
+        "description": "MewoKe Technology Ltd",
+        "handle": "MEOWKE-TECHNOLOGY-AS-TW"
+    },
+    "152626": {
+        "country_code": "TW",
+        "asn": "152626",
+        "description": "Cloudbase Network CORP.",
+        "handle": "CLOUDBASE"
+    },
+    "152627": {
+        "country_code": "TW",
+        "asn": "152627",
+        "description": "Hushengxin Co. Ltd.",
+        "handle": "HUSHENGXIN-AS-TW"
+    },
+    "152628": {
+        "country_code": "TW",
+        "asn": "152628",
+        "description": "DBS Bank (Taiwan) Ltd",
+        "handle": "DBS-NET-AS-TWNIC-01"
+    },
+    "152737": {
+        "country_code": "TW",
+        "asn": "152737",
+        "description": "Yahoo Global Holdings B.V. Taiwan Branch",
+        "handle": "YAHOOGLOBAL-AS-AP"
+    },
+    "153891": {
+        "country_code": "TW",
+        "asn": "153891",
+        "description": "CloudSIM Corporation Ltd.",
+        "handle": "CCL-AS-AP"
+    },
+    "198954": {
+        "country_code": "TW",
+        "asn": "198954",
+        "description": "JIAN HUI EN",
+        "handle": "CH-NETWORK"
+    },
+    "199203": {
+        "country_code": "TW",
+        "asn": "199203",
+        "description": "CHEN ZHI-HAN",
+        "handle": "MAYBOYNETWORK"
+    },
+    "201943": {
+        "country_code": "TW",
+        "asn": "201943",
+        "description": "HSIEH HUAN-YU",
+        "handle": "FISHBABY1011-NET"
+    },
+    "202178": {
+        "country_code": "TW",
+        "asn": "202178",
+        "description": "Sky Digital Co. Ltd.",
+        "handle": "SDNET"
+    },
+    "202820": {
+        "country_code": "TW",
+        "asn": "202820",
+        "description": "Chih-Jen CHENG",
+        "handle": "CHIN-JEN"
+    },
+    "202881": {
+        "country_code": "TW",
+        "asn": "202881",
+        "description": "Wen-Lung Chen",
+        "handle": "MTS-NETWORK"
+    },
+    "203405": {
+        "country_code": "TW",
+        "asn": "203405",
+        "description": "Lin Kai-Lun",
+        "handle": "DALUN-AS"
+    },
+    "203472": {
+        "country_code": "TW",
+        "asn": "203472",
+        "description": "PENG YUJEN",
+        "handle": "POEMA-AS-EU"
+    },
+    "203843": {
+        "country_code": "TW",
+        "asn": "203843",
+        "description": "WANG XING-KAI",
+        "handle": "AS-XINGKAI"
+    },
+    "204677": {
+        "country_code": "TW",
+        "asn": "204677",
+        "description": "Sky Digital Co. Ltd.",
+        "handle": "CNIX"
+    },
+    "204934": {
+        "country_code": "TW",
+        "asn": "204934",
+        "description": "InnoCrystal Co. Ltd.",
+        "handle": "ICN-DE"
+    },
+    "205013": {
+        "country_code": "TW",
+        "asn": "205013",
+        "description": "SHIH-CHIEH YU",
+        "handle": "JESSYU"
+    },
+    "205329": {
+        "country_code": "TW",
+        "asn": "205329",
+        "description": "Kai-Jung Chen",
+        "handle": "KAI-JUNG-CHEN"
+    },
+    "205417": {
+        "country_code": "TW",
+        "asn": "205417",
+        "description": "HSUAN-SHENG CHEN",
+        "handle": "TKNSZK-AS"
+    },
+    "205592": {
+        "country_code": "TW",
+        "asn": "205592",
+        "description": "HUANG CHI-HAN",
+        "handle": "SETSUNA-NETWORK"
+    },
+    "206434": {
+        "country_code": "TW",
+        "asn": "206434",
+        "description": "CHENG-CHIH TSAI",
+        "handle": "CHENG-CHIH-TSAI"
+    },
+    "207344": {
+        "country_code": "TW",
+        "asn": "207344",
+        "description": "Chao-Ju Chen",
+        "handle": "INFINIRC"
+    },
+    "207389": {
+        "country_code": "TW",
+        "asn": "207389",
+        "description": "JING-SHIUN-CHEN",
+        "handle": "PT-NETWORK"
+    },
+    "207468": {
+        "country_code": "TW",
+        "asn": "207468",
+        "description": "Li Heng Yu",
+        "handle": "LIHENGYU"
+    },
+    "207469": {
+        "country_code": "TW",
+        "asn": "207469",
+        "description": "Sung Yu Li",
+        "handle": "SUNGYULI"
+    },
+    "207705": {
+        "country_code": "TW",
+        "asn": "207705",
+        "description": "Jyun-Kai Hu",
+        "handle": "JK-NETWORK"
+    },
+    "208223": {
+        "country_code": "TW",
+        "asn": "208223",
+        "description": "SHU-HAO TUNG",
+        "handle": "FOXO-AS"
+    },
+    "209470": {
+        "country_code": "TW",
+        "asn": "209470",
+        "description": "CHIOU BO EN",
+        "handle": "XH-NETWORK"
+    },
+    "210384": {
+        "country_code": "TW",
+        "asn": "210384",
+        "description": "MAOLIN HUANG",
+        "handle": "KUDOS-AS"
+    },
+    "210445": {
+        "country_code": "TW",
+        "asn": "210445",
+        "description": "CHEN-YI WANG",
+        "handle": "CWANG-AS"
+    },
+    "210507": {
+        "country_code": "TW",
+        "asn": "210507",
+        "description": "Chiao Jen-Yung",
+        "handle": "CHIAO-JEN-YUNG"
+    },
+    "210932": {
+        "country_code": "TW",
+        "asn": "210932",
+        "description": "Yu-Cheng Kuo",
+        "handle": "CHESS-NETWORK-SERVICES"
+    },
+    "211042": {
+        "country_code": "TW",
+        "asn": "211042",
+        "description": "Frank Chang",
+        "handle": "FRANK-CHANG-NET"
+    },
+    "211749": {
+        "country_code": "TW",
+        "asn": "211749",
+        "description": "BO SIANG CHEN",
+        "handle": "BOB-NETWORK"
+    },
+    "212154": {
+        "country_code": "TW",
+        "asn": "212154",
+        "description": "Wei-Cheng Tsai",
+        "handle": "SARUNETWORK-AS"
+    },
+    "212279": {
+        "country_code": "TW",
+        "asn": "212279",
+        "description": "Yuna Lee",
+        "handle": "YUNA0X0-NETWORK"
+    },
+    "212331": {
+        "country_code": "TW",
+        "asn": "212331",
+        "description": "Ta-Li Lai",
+        "handle": "TW-TCSTUDIO-AS"
+    },
+    "212357": {
+        "country_code": "TW",
+        "asn": "212357",
+        "description": "Hung Yun Tseng",
+        "handle": "LEKO"
+    },
+    "212358": {
+        "country_code": "TW",
+        "asn": "212358",
+        "description": "WeiXuan Chang",
+        "handle": "TW-DANNY-AS"
+    },
+    "212359": {
+        "country_code": "TW",
+        "asn": "212359",
+        "description": "Ming-Ray Hsu",
+        "handle": "HARAGUROICHA-4B-AS"
+    },
+    "212360": {
+        "country_code": "TW",
+        "asn": "212360",
+        "description": "Jimmy Pan",
+        "handle": "JIMMY-PAN"
+    },
+    "212425": {
+        "country_code": "TW",
+        "asn": "212425",
+        "description": "Yuna Lee",
+        "handle": "FUBUKI-NETWORK"
+    },
+    "212969": {
+        "country_code": "TW",
+        "asn": "212969",
+        "description": "ChiaChin Tsai",
+        "handle": "NOOBTW-NET"
+    },
+    "213428": {
+        "country_code": "TW",
+        "asn": "213428",
+        "description": "CHIEH SHENG LIN",
+        "handle": "HACO"
+    },
+    "213430": {
+        "country_code": "TW",
+        "asn": "213430",
+        "description": "HSIANG-LI CHAN",
+        "handle": "CHAN-HSIANG-LI"
+    },
+    "213617": {
+        "country_code": "TW",
+        "asn": "213617",
+        "description": "KANG ZHENG OO",
+        "handle": "ORG-BN162-RIPE"
+    },
+    "214030": {
+        "country_code": "TW",
+        "asn": "214030",
+        "description": "Kai-Wen Zheng",
+        "handle": "AS-SFIREW"
+    },
+    "214084": {
+        "country_code": "TW",
+        "asn": "214084",
+        "description": "CHUN-HSIANG HSIEH",
+        "handle": "BANDI-NETWORK"
+    },
+    "214821": {
+        "country_code": "TW",
+        "asn": "214821",
+        "description": "Wen-Ju Chiang",
+        "handle": "N0B-NET"
+    },
+    "214841": {
+        "country_code": "TW",
+        "asn": "214841",
+        "description": "RUI PIN LAI",
+        "handle": "RAYNETWORK"
+    },
+    "215165": {
+        "country_code": "TW",
+        "asn": "215165",
+        "description": "Ye Zih Sian",
+        "handle": "KOYORICE"
+    },
+    "215191": {
+        "country_code": "TW",
+        "asn": "215191",
+        "description": "Dong-Han Yang",
+        "handle": "TONY-AS"
+    },
+    "215256": {
+        "country_code": "TW",
+        "asn": "215256",
+        "description": "Ming-Lin Yu",
+        "handle": "MING-LIN"
+    },
+    "215451": {
+        "country_code": "TW",
+        "asn": "215451",
+        "description": "Ping Chun Huang",
+        "handle": "PH-AS"
+    },
+    "215506": {
+        "country_code": "TW",
+        "asn": "215506",
+        "description": "Jui-Hsuan Chang",
+        "handle": "HSUAN-AS"
+    },
+    "215530": {
+        "country_code": "TW",
+        "asn": "215530",
+        "description": "CHANG SHIH HUNG",
+        "handle": "KEVINOWO-NETWORK"
+    },
+    "215934": {
+        "country_code": "TW",
+        "asn": "215934",
+        "description": "XU JIA QIAN",
+        "handle": "QIAN-NETWORK"
+    },
+    "215993": {
+        "country_code": "TW",
+        "asn": "215993",
+        "description": "LIU AN LUN",
+        "handle": "ALAN-NETWORK"
+    },
+    "216118": {
+        "country_code": "TW",
+        "asn": "216118",
+        "description": "Yu Chen Tsai",
+        "handle": "TYC4D-AS"
+    },
+    "216123": {
+        "country_code": "TW",
+        "asn": "216123",
+        "description": "ZHU-YUAN JIANG",
+        "handle": "ZHUYUANNETWORK"
+    },
+    "216198": {
+        "country_code": "TW",
+        "asn": "216198",
+        "description": "LIN ZE YANG",
+        "handle": "ORG-LZY1-RIPE"
+    },
+    "216432": {
+        "country_code": "TW",
+        "asn": "216432",
+        "description": "FENG SHENG YUAN",
+        "handle": "YUAN-NETWORK"
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "38077": {
+        "country_code": "TL",
+        "asn": "38077",
+        "description": "Timor Telecom SA",
+        "handle": "TIMOR-TELECOM-AS-AP"
+    },
+    "58731": {
+        "country_code": "TL",
+        "asn": "58731",
+        "description": "Telekomunikasi Indonesia International (T.L.) S.A.",
+        "handle": "TELINTLSA-AS"
+    },
+    "64055": {
+        "country_code": "TL",
+        "asn": "64055",
+        "description": "National Communications Authority of Timor-Leste",
+        "handle": "ANC-TL"
+    },
+    "133606": {
+        "country_code": "TL",
+        "asn": "133606",
+        "description": "Viettel Timor Leste",
+        "handle": "VIETTELTIMORLESTE-AS-AP"
+    },
+    "133631": {
+        "country_code": "TL",
+        "asn": "133631",
+        "description": "Vorakai Lda",
+        "handle": "VORAKAILDA-AS-AP"
+    },
+    "135065": {
+        "country_code": "TL",
+        "asn": "135065",
+        "description": "National Directorate of Information and Technology",
+        "handle": "NIDOM-AS-AP"
+    },
+    "136765": {
+        "country_code": "TL",
+        "asn": "136765",
+        "description": "Vanov Technology Unipessoal Lda",
+        "handle": "VANOV-AS-AP"
+    },
+    "136920": {
+        "country_code": "TL",
+        "asn": "136920",
+        "description": "Gardamor Lda",
+        "handle": "GARDAMORLDA-AS-AP"
+    },
+    "139687": {
+        "country_code": "TL",
+        "asn": "139687",
+        "description": "TIC TIMOR I.P.",
+        "handle": "TICTIMORIP-AS-AP"
+    },
+    "139688": {
+        "country_code": "TL",
+        "asn": "139688",
+        "description": "TIC TIMOR I.P.",
+        "handle": "TICTIMORIP-AS"
+    },
+    "140223": {
+        "country_code": "TL",
+        "asn": "140223",
+        "description": "METROLINK LDA.",
+        "handle": "METROLINK-AS-AP"
+    },
+    "142208": {
+        "country_code": "TL",
+        "asn": "142208",
+        "description": "Nerravi Networks Unipessoal Lda",
+        "handle": "NNUL-AS-AP"
+    },
+    "148989": {
+        "country_code": "TL",
+        "asn": "148989",
+        "description": "APURVA UNIPESSOAL LDA",
+        "handle": "APURVA-AS-AP"
+    },
+    "149004": {
+        "country_code": "TL",
+        "asn": "149004",
+        "description": "Morapido Net Unipessoal Lda.",
+        "handle": "MNUL-AS-AP"
+    },
+    "150439": {
+        "country_code": "TL",
+        "asn": "150439",
+        "description": "Banco Central de Timor-Leste",
+        "handle": "BCTL-AS-AP"
+    },
+    "151605": {
+        "country_code": "TL",
+        "asn": "151605",
+        "description": "Sacomtel Lda.",
+        "handle": "SACOMTELLDA-AS-AP"
+    },
+    "152899": {
+        "country_code": "TL",
+        "asn": "152899",
+        "description": "REDSTAR GLOBAL TIMOR LDA",
+        "handle": "RGTL-AS-AP"
+    },
+    "153183": {
+        "country_code": "TL",
+        "asn": "153183",
+        "description": "Gonsoa Unipessoal Lda.",
+        "handle": "GUL-AS-AP"
+    },
+    "153708": {
+        "country_code": "TL",
+        "asn": "153708",
+        "description": "CHILIASA LDA",
+        "handle": "CHILIASALDA-AS-AP"
+    }
+}

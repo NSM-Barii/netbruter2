@@ -1,0 +1,68 @@
+{
+    "37037": {
+        "country_code": "MG",
+        "asn": "37037",
+        "description": "Orange Madagascar",
+        "handle": "ORANGEMG-AS"
+    },
+    "37054": {
+        "country_code": "MG",
+        "asn": "37054",
+        "description": "Telecom Malagasy",
+        "handle": "TELECOM-MALAGASY"
+    },
+    "37303": {
+        "country_code": "MG",
+        "asn": "37303",
+        "description": "Airtel Madagascar",
+        "handle": "AIRTELMADA"
+    },
+    "37327": {
+        "country_code": "MG",
+        "asn": "37327",
+        "description": "Network Information Center Madagascar - NIC-MG",
+        "handle": "NICMG"
+    },
+    "37608": {
+        "country_code": "MG",
+        "asn": "37608",
+        "description": "iRENALA",
+        "handle": "IRENALA-AS"
+    },
+    "37887": {
+        "country_code": "MG",
+        "asn": "37887",
+        "description": "Madagascar Global Internet eXchange",
+        "handle": "MADAGASCAR-IX"
+    },
+    "327699": {
+        "country_code": "MG",
+        "asn": "327699",
+        "description": "Airtel Madagascar",
+        "handle": "AIRTELMADA"
+    },
+    "327866": {
+        "country_code": "MG",
+        "asn": "327866",
+        "description": "Madagascar Global Internet eXchange",
+        "handle": "MADAGASCAR-IX-MGMT"
+    },
+    "328411": {
+        "country_code": "MG",
+        "asn": "328411",
+        "description": "Gulfsat Madagascar",
+        "handle": "GULFSAT-MADAGASCAR-AS"
+    },
+    "329072": {
+        "country_code": "MG",
+        "asn": "329072",
+        "description": "MNDPT",
+        "handle": "MA32-AS"
+    },
+    "329314": {
+        "country_code": "MG",
+        "asn": "329314",
+        "description": "STELLAR-IX",
+        "handle": "STELLAR-IX"
+    }
+}

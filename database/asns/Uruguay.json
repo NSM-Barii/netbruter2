@@ -1,0 +1,314 @@
+{
+    "1797": {
+        "country_code": "UY",
+        "asn": "1797",
+        "description": "Uruguay",
+        "handle": "URUGUAY"
+    },
+    "6057": {
+        "country_code": "UY",
+        "asn": "6057",
+        "description": "Administracion Nacional de Telecomunicaciones",
+        "handle": "ADMINISTRACION-NACIONAL-TELECOMUNICACIONES"
+    },
+    "7167": {
+        "country_code": "UY",
+        "asn": "7167",
+        "description": "Administracion Nacional de Telecomunicaciones",
+        "handle": "ADMINISTRACION-NACIONAL-TELECOMUNICACIONES"
+    },
+    "14234": {
+        "country_code": "UY",
+        "asn": "14234",
+        "description": "ZONAMERICA",
+        "handle": "ZONAMERICA"
+    },
+    "16772": {
+        "country_code": "UY",
+        "asn": "16772",
+        "description": "Telefonica Data Uruguay",
+        "handle": "TELEFONICA-DATA-URUGUAY"
+    },
+    "17255": {
+        "country_code": "UY",
+        "asn": "17255",
+        "description": "Diveo Uruguay",
+        "handle": "DIVEO-URUGUAY"
+    },
+    "18579": {
+        "country_code": "UY",
+        "asn": "18579",
+        "description": "Dalinco",
+        "handle": "DALINCO"
+    },
+    "18667": {
+        "country_code": "UY",
+        "asn": "18667",
+        "description": "Web2mil S.A",
+        "handle": "WEB2MIL"
+    },
+    "19422": {
+        "country_code": "UY",
+        "asn": "19422",
+        "description": "Telefonica Moviles del Uruguay SA",
+        "handle": "TELEFONICA-MOVILES-URUGUAY"
+    },
+    "20002": {
+        "country_code": "UY",
+        "asn": "20002",
+        "description": "Telstar S.A.",
+        "handle": "TELSTAR"
+    },
+    "20255": {
+        "country_code": "UY",
+        "asn": "20255",
+        "description": "Tecnowind S.A.",
+        "handle": "TECNOWIND"
+    },
+    "27750": {
+        "country_code": "UY",
+        "asn": "27750",
+        "description": "Cooperaci\u00f3n Latino Americana de Redes Avanzadas",
+        "handle": "COOPERACION-LATINO-AMERICANA"
+    },
+    "27848": {
+        "country_code": "UY",
+        "asn": "27848",
+        "description": "Internet Systems Consortium",
+        "handle": "INTERNET-SYSTEMS-CONSORTIUM"
+    },
+    "27859": {
+        "country_code": "UY",
+        "asn": "27859",
+        "description": "Internet Systems Consortium",
+        "handle": "INTERNET-SYSTEMS-CONSORTIUM"
+    },
+    "27913": {
+        "country_code": "UY",
+        "asn": "27913",
+        "description": "Internet Systems Consortium",
+        "handle": "INTERNET-SYSTEMS-CONSORTIUM"
+    },
+    "27916": {
+        "country_code": "UY",
+        "asn": "27916",
+        "description": "Internet Systems Consortium",
+        "handle": "INTERNET-SYSTEMS-CONSORTIUM"
+    },
+    "28000": {
+        "country_code": "UY",
+        "asn": "28000",
+        "description": "LACNIC - Latin American and Caribbean IP address",
+        "handle": "LACNIC-LATIN-AMERICAN"
+    },
+    "28001": {
+        "country_code": "UY",
+        "asn": "28001",
+        "description": "LACNIC - Latin American and Caribbean IP address",
+        "handle": "LACNIC-LATIN-AMERICAN"
+    },
+    "28002": {
+        "country_code": "UY",
+        "asn": "28002",
+        "description": "LACNIC - Latin American and Caribbean IP address",
+        "handle": "LACNIC-LATIN-AMERICAN"
+    },
+    "28054": {
+        "country_code": "UY",
+        "asn": "28054",
+        "description": "Internet Systems Consortium",
+        "handle": "INTERNET-SYSTEMS-CONSORTIUM"
+    },
+    "28119": {
+        "country_code": "UY",
+        "asn": "28119",
+        "description": "LACNIC - Latin American and Caribbean IP address",
+        "handle": "LACNIC-LATIN-AMERICAN"
+    },
+    "52224": {
+        "country_code": "UY",
+        "asn": "52224",
+        "description": "LACNIC - Latin American and Caribbean IP address",
+        "handle": "LACNIC-LATIN-AMERICAN"
+    },
+    "52241": {
+        "country_code": "UY",
+        "asn": "52241",
+        "description": "Lunamen S.A.",
+        "handle": "LUNAMEN"
+    },
+    "52243": {
+        "country_code": "UY",
+        "asn": "52243",
+        "description": "Internet Systems Consortium",
+        "handle": "INTERNET-SYSTEMS-CONSORTIUM"
+    },
+    "52266": {
+        "country_code": "UY",
+        "asn": "52266",
+        "description": "OWNER PARA PRUEBAS DE LACNIC",
+        "handle": "OWNER-PARA-PRUEBAS-LACNIC"
+    },
+    "52289": {
+        "country_code": "UY",
+        "asn": "52289",
+        "description": "Internet Systems Consortium",
+        "handle": "INTERNET-SYSTEMS-CONSORTIUM"
+    },
+    "52366": {
+        "country_code": "UY",
+        "asn": "52366",
+        "description": "Lunamen S.A.",
+        "handle": "LUNAMEN"
+    },
+    "61442": {
+        "country_code": "UY",
+        "asn": "61442",
+        "description": "PASWER INTERNATIONAL S.A.",
+        "handle": "PASWER-INTERNATIONAL"
+    },
+    "61447": {
+        "country_code": "UY",
+        "asn": "61447",
+        "description": "Internet Systems Consortium",
+        "handle": "INTERNET-SYSTEMS-CONSORTIUM"
+    },
+    "61455": {
+        "country_code": "UY",
+        "asn": "61455",
+        "description": "LACTLD - LATIN AMERICAN AND CARIBBEAN TLD ASSOCIATION",
+        "handle": "LACTLD-LATIN-AMERICAN"
+    },
+    "64135": {
+        "country_code": "UY",
+        "asn": "64135",
+        "description": "Ni Co",
+        "handle": "NI-CO"
+    },
+    "64136": {
+        "country_code": "UY",
+        "asn": "64136",
+        "description": "Ni Co",
+        "handle": "NI-CO"
+    },
+    "264665": {
+        "country_code": "UY",
+        "asn": "264665",
+        "description": "Servicio Central de Informatica - UdelaR (ccTLD .uy)",
+        "handle": "SERVICIO-CENTRAL-INFORMATICA"
+    },
+    "264845": {
+        "country_code": "UY",
+        "asn": "264845",
+        "description": "LACNIC - Latin American and Caribbean IP address",
+        "handle": "LACNIC-LATIN-AMERICAN"
+    },
+    "264846": {
+        "country_code": "UY",
+        "asn": "264846",
+        "description": "LACNIC - Latin American and Caribbean IP address",
+        "handle": "LACNIC-LATIN-AMERICAN"
+    },
+    "266886": {
+        "country_code": "UY",
+        "asn": "266886",
+        "description": "HOSTING EN LA WEB S.A.S.",
+        "handle": "HOSTING-LA-WEB"
+    },
+    "267718": {
+        "country_code": "UY",
+        "asn": "267718",
+        "description": "Administracion Nacional de Telecomunicaciones",
+        "handle": "ADMINISTRACION-NACIONAL-TELECOMUNICACIONES"
+    },
+    "273002": {
+        "country_code": "UY",
+        "asn": "273002",
+        "description": "TRACTORAL SOCIEDAD ANONIMA",
+        "handle": "TRACTORAL-SOCIEDAD-ANONIMA"
+    },
+    "273004": {
+        "country_code": "UY",
+        "asn": "273004",
+        "description": "MONTE CABLEVIDEO S A",
+        "handle": "MONTE-CABLEVIDEO-S-A"
+    },
+    "273012": {
+        "country_code": "UY",
+        "asn": "273012",
+        "description": "RISELCO SOCIEDAD ANONIMA",
+        "handle": "RISELCO-SOCIEDAD-ANONIMA"
+    },
+    "273047": {
+        "country_code": "UY",
+        "asn": "273047",
+        "description": "MARTINEZ CAGNAZZO CARLOS MARCELO (LACNIC Labs)",
+        "handle": "MARTINEZ-CAGNAZZO-CARLOS"
+    },
+    "273105": {
+        "country_code": "UY",
+        "asn": "273105",
+        "description": "VCR VIDEO CABLE RIVERA S.A.",
+        "handle": "VCR-VIDEO-CABLE-RIVERA"
+    },
+    "273115": {
+        "country_code": "UY",
+        "asn": "273115",
+        "description": "PRAIAMAR SA",
+        "handle": "PRAIAMAR"
+    },
+    "273181": {
+        "country_code": "UY",
+        "asn": "273181",
+        "description": "Equital SA",
+        "handle": "EQUITAL"
+    },
+    "273854": {
+        "country_code": "UY",
+        "asn": "273854",
+        "description": "TELEMAS SOCIEDAD ANONIMA",
+        "handle": "TELEMAS-SOCIEDAD-ANONIMA"
+    },
+    "273892": {
+        "country_code": "UY",
+        "asn": "273892",
+        "description": "JORGE CANO PUENTE",
+        "handle": "JORGE-CANO-PUENTE"
+    },
+    "274012": {
+        "country_code": "UY",
+        "asn": "274012",
+        "description": "TIME TOWER S.A.",
+        "handle": "TIME-TOWER"
+    },
+    "274201": {
+        "country_code": "UY",
+        "asn": "274201",
+        "description": "PARQUE DE LAS CIENCIAS S.A.",
+        "handle": "PARQUE-LAS-CIENCIAS"
+    },
+    "274220": {
+        "country_code": "UY",
+        "asn": "274220",
+        "description": "Cable Color Maragato SA",
+        "handle": "CABLE-COLOR-MARAGATO"
+    },
+    "274238": {
+        "country_code": "UY",
+        "asn": "274238",
+        "description": "TEVECA S R L",
+        "handle": "TEVECA-S-R-L"
+    },
+    "274302": {
+        "country_code": "UY",
+        "asn": "274302",
+        "description": "Tecnowind S.A.",
+        "handle": "TECNOWIND"
+    },
+    "274313": {
+        "country_code": "UY",
+        "asn": "274313",
+        "description": "ENORAL S.A",
+        "handle": "ENORAL"
+    }
+}

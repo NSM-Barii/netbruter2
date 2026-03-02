@@ -1,0 +1,2648 @@
+{
+    "1296": {
+        "country_code": "CL",
+        "asn": "1296",
+        "description": "University of Chili",
+        "handle": "UNIVERSITY-OF-CHILI"
+    },
+    "4995": {
+        "country_code": "CL",
+        "asn": "4995",
+        "description": "Netup S.A.",
+        "handle": "NETUP"
+    },
+    "6240": {
+        "country_code": "CL",
+        "asn": "6240",
+        "description": "Chilenet Ltda.",
+        "handle": "CHILENET"
+    },
+    "6429": {
+        "country_code": "CL",
+        "asn": "6429",
+        "description": "Telmex Chile Internet S.A.",
+        "handle": "TELMEX-CHILE-INTERNET"
+    },
+    "6471": {
+        "country_code": "CL",
+        "asn": "6471",
+        "description": "ENTEL CHILE S.A.",
+        "handle": "ENTEL-CHILE"
+    },
+    "6535": {
+        "country_code": "CL",
+        "asn": "6535",
+        "description": "Telmex Servicios Empresariales S.A.",
+        "handle": "TELMEX-SERVICIOS-EMPRESARIALES"
+    },
+    "7004": {
+        "country_code": "CL",
+        "asn": "7004",
+        "description": "TELEF\u00d3NICA CHILE S.A.",
+        "handle": "TELEFONICA-CHILE"
+    },
+    "7418": {
+        "country_code": "CL",
+        "asn": "7418",
+        "description": "TELEF\u00d3NICA CHILE S.A.",
+        "handle": "TELEFONICA-CHILE"
+    },
+    "7993": {
+        "country_code": "CL",
+        "asn": "7993",
+        "description": "Global One Chile",
+        "handle": "GLOBAL-ONE-CHILE"
+    },
+    "10778": {
+        "country_code": "CL",
+        "asn": "10778",
+        "description": "MCL Internet",
+        "handle": "MCL-INTERNET"
+    },
+    "11340": {
+        "country_code": "CL",
+        "asn": "11340",
+        "description": "Red Universitaria Nacional",
+        "handle": "RED-UNIVERSITARIA-NACIONAL"
+    },
+    "13381": {
+        "country_code": "CL",
+        "asn": "13381",
+        "description": "COMPLEJO MANUFACTURERO DE EQUIPOS TELEF\u00d3NICOS S.A.C.I.",
+        "handle": "COMPLEJO-MANUFACTURERO-EQUIPOS"
+    },
+    "13424": {
+        "country_code": "CL",
+        "asn": "13424",
+        "description": "Intercity",
+        "handle": "INTERCITY"
+    },
+    "13643": {
+        "country_code": "CL",
+        "asn": "13643",
+        "description": "Universidad Catolica Corporacion de TV.",
+        "handle": "UNIVERSIDAD-CATOLICA-CORPORACION"
+    },
+    "13774": {
+        "country_code": "CL",
+        "asn": "13774",
+        "description": "BANCO ITAU CHILE",
+        "handle": "BANCO-ITAU-CHILE"
+    },
+    "14117": {
+        "country_code": "CL",
+        "asn": "14117",
+        "description": "Telefonica del Sur S.A.",
+        "handle": "TELEFONICA-SUR"
+    },
+    "14259": {
+        "country_code": "CL",
+        "asn": "14259",
+        "description": "Gtd Internet S.A.",
+        "handle": "GTD-INTERNET"
+    },
+    "14318": {
+        "country_code": "CL",
+        "asn": "14318",
+        "description": "PSINet Chile",
+        "handle": "PSINET-CHILE"
+    },
+    "14560": {
+        "country_code": "CL",
+        "asn": "14560",
+        "description": "Internet Holding S. A.",
+        "handle": "INTERNET-HOLDING-S-A"
+    },
+    "14708": {
+        "country_code": "CL",
+        "asn": "14708",
+        "description": "WebHost Chile S.A.",
+        "handle": "WEBHOST-CHILE"
+    },
+    "14795": {
+        "country_code": "CL",
+        "asn": "14795",
+        "description": "Banco de Credito e Inversiones",
+        "handle": "BANCO-CREDITO-INVERSIONES"
+    },
+    "14966": {
+        "country_code": "CL",
+        "asn": "14966",
+        "description": "Larrain Vial S.A",
+        "handle": "LARRAIN-VIAL"
+    },
+    "15208": {
+        "country_code": "CL",
+        "asn": "15208",
+        "description": "Servicio de Impuestos Internos",
+        "handle": "SERVICIO-IMPUESTOS-INTERNOS"
+    },
+    "15311": {
+        "country_code": "CL",
+        "asn": "15311",
+        "description": "TELEFONICA EMPRESAS CHILE SA",
+        "handle": "TELEFONICA-EMPRESAS-CHILE"
+    },
+    "16471": {
+        "country_code": "CL",
+        "asn": "16471",
+        "description": "Adexus S.A.",
+        "handle": "ADEXUS"
+    },
+    "16629": {
+        "country_code": "CL",
+        "asn": "16629",
+        "description": "CTC. CORP S.A. (TELEFONICA EMPRESAS)",
+        "handle": "CTC-CORP"
+    },
+    "16742": {
+        "country_code": "CL",
+        "asn": "16742",
+        "description": "Universidad Catolica de Valparaiso",
+        "handle": "UNIVERSIDAD-CATOLICA-VALPARAISO"
+    },
+    "16780": {
+        "country_code": "CL",
+        "asn": "16780",
+        "description": "Banco Santander",
+        "handle": "BANCO-SANTANDER"
+    },
+    "16847": {
+        "country_code": "CL",
+        "asn": "16847",
+        "description": "Servicios Informativos EMOL S.A.",
+        "handle": "SERVICIOS-INFORMATIVOS-EMOL"
+    },
+    "16849": {
+        "country_code": "CL",
+        "asn": "16849",
+        "description": "NewPlanet S.A",
+        "handle": "NEWPLANET"
+    },
+    "16874": {
+        "country_code": "CL",
+        "asn": "16874",
+        "description": "SONDA S.A.",
+        "handle": "SONDA"
+    },
+    "16990": {
+        "country_code": "CL",
+        "asn": "16990",
+        "description": "TRANSBANK S.A.",
+        "handle": "TRANSBANK"
+    },
+    "17126": {
+        "country_code": "CL",
+        "asn": "17126",
+        "description": "E-money",
+        "handle": "E-MONEY"
+    },
+    "17147": {
+        "country_code": "CL",
+        "asn": "17147",
+        "description": "Ministerio del Interior y de Seguridad Publica - Gobierno de Chile",
+        "handle": "MINISTERIO-INTERIOR-SEGURIDAD"
+    },
+    "17257": {
+        "country_code": "CL",
+        "asn": "17257",
+        "description": "Collective Mind Chile S.A.",
+        "handle": "COLLECTIVE-MIND-CHILE"
+    },
+    "18492": {
+        "country_code": "CL",
+        "asn": "18492",
+        "description": "Almacenes Paris Comercial S.A",
+        "handle": "ALMACENES-PARIS-COMERCIAL"
+    },
+    "18822": {
+        "country_code": "CL",
+        "asn": "18822",
+        "description": "Manquehuenet",
+        "handle": "MANQUEHUENET"
+    },
+    "18941": {
+        "country_code": "CL",
+        "asn": "18941",
+        "description": "El Mercurio S.A.P.",
+        "handle": "EL-MERCURIO"
+    },
+    "19077": {
+        "country_code": "CL",
+        "asn": "19077",
+        "description": "CYBERCENTER S.A.",
+        "handle": "CYBERCENTER"
+    },
+    "19196": {
+        "country_code": "CL",
+        "asn": "19196",
+        "description": "TELEFONICA MOVIL DE CHILE S.A.",
+        "handle": "TELEFONICA-MOVIL-CHILE"
+    },
+    "19228": {
+        "country_code": "CL",
+        "asn": "19228",
+        "description": "ENTEL CHILE S.A.",
+        "handle": "ENTEL-CHILE"
+    },
+    "19338": {
+        "country_code": "CL",
+        "asn": "19338",
+        "description": "Telmex Chile Internet S.A.",
+        "handle": "TELMEX-CHILE-INTERNET"
+    },
+    "19411": {
+        "country_code": "CL",
+        "asn": "19411",
+        "description": "Nap Chile",
+        "handle": "NAP-CHILE"
+    },
+    "19632": {
+        "country_code": "CL",
+        "asn": "19632",
+        "description": "VTR BANDA ANCHA S.A.",
+        "handle": "VTR-BANDA-ANCHA"
+    },
+    "20015": {
+        "country_code": "CL",
+        "asn": "20015",
+        "description": "FullCom S.A.",
+        "handle": "FULLCOM"
+    },
+    "20191": {
+        "country_code": "CL",
+        "asn": "20191",
+        "description": "Pontificia Universidad Catolica de Chile",
+        "handle": "PONTIFICIA-UNIVERSIDAD-CATOLICA"
+    },
+    "20256": {
+        "country_code": "CL",
+        "asn": "20256",
+        "description": "Ultramar Agencia Maratima",
+        "handle": "ULTRAMAR-AGENCIA-MARATIMA"
+    },
+    "20361": {
+        "country_code": "CL",
+        "asn": "20361",
+        "description": "Globalnet S.A.",
+        "handle": "GLOBALNET"
+    },
+    "21614": {
+        "country_code": "CL",
+        "asn": "21614",
+        "description": "LatLink.net S.A",
+        "handle": "LATLINKNET"
+    },
+    "21753": {
+        "country_code": "CL",
+        "asn": "21753",
+        "description": "Consorcio seguros Vida",
+        "handle": "CONSORCIO-SEGUROS-VIDA"
+    },
+    "21765": {
+        "country_code": "CL",
+        "asn": "21765",
+        "description": "VOISSNET S.A.",
+        "handle": "VOISSNET"
+    },
+    "21862": {
+        "country_code": "CL",
+        "asn": "21862",
+        "description": "SODIMAC SA",
+        "handle": "SODIMAC"
+    },
+    "22047": {
+        "country_code": "CL",
+        "asn": "22047",
+        "description": "VTR BANDA ANCHA S.A.",
+        "handle": "VTR-BANDA-ANCHA"
+    },
+    "22661": {
+        "country_code": "CL",
+        "asn": "22661",
+        "description": "Telex Chile S.A.",
+        "handle": "TELEX-CHILE"
+    },
+    "22860": {
+        "country_code": "CL",
+        "asn": "22860",
+        "description": "SERVICIOS INTERNET LTDA",
+        "handle": "SERVICIOS-INTERNET"
+    },
+    "22924": {
+        "country_code": "CL",
+        "asn": "22924",
+        "description": "SCOTIABANK CHILE (Banco del Desarrollo)",
+        "handle": "SCOTIABANK-CHILE"
+    },
+    "22975": {
+        "country_code": "CL",
+        "asn": "22975",
+        "description": "Banco de Chile",
+        "handle": "BANCO-CHILE"
+    },
+    "23140": {
+        "country_code": "CL",
+        "asn": "23140",
+        "description": "Universidad de Chile",
+        "handle": "UNIVERSIDAD-CHILE"
+    },
+    "23416": {
+        "country_code": "CL",
+        "asn": "23416",
+        "description": "TELEFONICA EMPRESAS CHILE SA",
+        "handle": "TELEFONICA-EMPRESAS-CHILE"
+    },
+    "23488": {
+        "country_code": "CL",
+        "asn": "23488",
+        "description": "GLOBALECBUSINESS S.A.",
+        "handle": "GLOBALECBUSINESS"
+    },
+    "25718": {
+        "country_code": "CL",
+        "asn": "25718",
+        "description": "Turismo Cocha S.A",
+        "handle": "TURISMO-COCHA"
+    },
+    "26048": {
+        "country_code": "CL",
+        "asn": "26048",
+        "description": "CHILENA CONSOLIDADA SEGUROS S.A.",
+        "handle": "CHILENA-CONSOLIDADA-SEGUROS"
+    },
+    "26119": {
+        "country_code": "CL",
+        "asn": "26119",
+        "description": "Orden S.A",
+        "handle": "ORDEN"
+    },
+    "26601": {
+        "country_code": "CL",
+        "asn": "26601",
+        "description": "Publigu\u00edas",
+        "handle": "PUBLIGUIAS"
+    },
+    "26604": {
+        "country_code": "CL",
+        "asn": "26604",
+        "description": "Euroamerica Seguros de Vida S.A",
+        "handle": "EUROAMERICA-SEGUROS-VIDA"
+    },
+    "26610": {
+        "country_code": "CL",
+        "asn": "26610",
+        "description": "Universidad Tecnica Federico Santa Maria",
+        "handle": "UNIVERSIDAD-TECNICA-FEDERICO"
+    },
+    "26623": {
+        "country_code": "CL",
+        "asn": "26623",
+        "description": "TECNOLOGIACHILE.COM LTDA (TCHILE.COM)",
+        "handle": "TECNOLOGIACHILECOM"
+    },
+    "27651": {
+        "country_code": "CL",
+        "asn": "27651",
+        "description": "ENTEL CHILE S.A.",
+        "handle": "ENTEL-CHILE"
+    },
+    "27659": {
+        "country_code": "CL",
+        "asn": "27659",
+        "description": "Ingenier\u00eda e Inform\u00e1tica Asociada Ltda (IIA Ltda)",
+        "handle": "INGENIERIA-INFORMATICA-ASOCIADA"
+    },
+    "27676": {
+        "country_code": "CL",
+        "asn": "27676",
+        "description": "ALMA - Atacama Large Millimeter Array",
+        "handle": "ALMA-ATACAMA-LARGE"
+    },
+    "27677": {
+        "country_code": "CL",
+        "asn": "27677",
+        "description": "AMDOCS CHILE SPA",
+        "handle": "AMDOCS-CHILE-SPA"
+    },
+    "27678": {
+        "country_code": "CL",
+        "asn": "27678",
+        "description": "NIC Chile",
+        "handle": "NIC-CHILE"
+    },
+    "27680": {
+        "country_code": "CL",
+        "asn": "27680",
+        "description": "TELEFONICA MOVIL DE CHILE S.A.",
+        "handle": "TELEFONICA-MOVIL-CHILE"
+    },
+    "27701": {
+        "country_code": "CL",
+        "asn": "27701",
+        "description": "Netline",
+        "handle": "NETLINE"
+    },
+    "27719": {
+        "country_code": "CL",
+        "asn": "27719",
+        "description": "Difarma Ltda",
+        "handle": "DIFARMA"
+    },
+    "27732": {
+        "country_code": "CL",
+        "asn": "27732",
+        "description": "A.F.P. Habitat S.A.",
+        "handle": "AFP-HABITAT"
+    },
+    "27735": {
+        "country_code": "CL",
+        "asn": "27735",
+        "description": "TIVIT CHILE TERCERIZACI\u00d3N DE PROCESOS SERVICIOS Y TECNOLOG\u00cdA SpA",
+        "handle": "TIVIT-CHILE-TERCERIZACION"
+    },
+    "27741": {
+        "country_code": "CL",
+        "asn": "27741",
+        "description": "Superintendencia de Valores y Seguros",
+        "handle": "SUPERINTENDENCIA-VALORES-SEGUROS"
+    },
+    "27746": {
+        "country_code": "CL",
+        "asn": "27746",
+        "description": "LAN CHILE (Lineas Aereas de Chile)",
+        "handle": "LAN-CHILE"
+    },
+    "27766": {
+        "country_code": "CL",
+        "asn": "27766",
+        "description": "LAN CHILE (Lineas Aereas de Chile)",
+        "handle": "LAN-CHILE"
+    },
+    "27776": {
+        "country_code": "CL",
+        "asn": "27776",
+        "description": "Inversiones y servicios EL BOLDO S.A",
+        "handle": "INVERSIONES-SERVICIOS-EL"
+    },
+    "27836": {
+        "country_code": "CL",
+        "asn": "27836",
+        "description": "Smartcom",
+        "handle": "SMARTCOM"
+    },
+    "27838": {
+        "country_code": "CL",
+        "asn": "27838",
+        "description": "Servibanca S.A.",
+        "handle": "SERVIBANCA"
+    },
+    "27853": {
+        "country_code": "CL",
+        "asn": "27853",
+        "description": "Administradora BANCHILE de Fondos Mutuos",
+        "handle": "ADMINISTRADORA-BANCHILE-FONDOS"
+    },
+    "27856": {
+        "country_code": "CL",
+        "asn": "27856",
+        "description": "UNIVERSIDAD UNIACC",
+        "handle": "UNIVERSIDAD-UNIACC"
+    },
+    "27874": {
+        "country_code": "CL",
+        "asn": "27874",
+        "description": "ENAP - Empresa Nacional del Petroleos Chile",
+        "handle": "ENAP-EMPRESA-NACIONAL"
+    },
+    "27880": {
+        "country_code": "CL",
+        "asn": "27880",
+        "description": "ATENTO CHILE S.A.",
+        "handle": "ATENTO-CHILE"
+    },
+    "27888": {
+        "country_code": "CL",
+        "asn": "27888",
+        "description": "Caja de Compensaci\u00f3n de Asignaci\u00f3n Familiar La Araucana",
+        "handle": "CAJA-COMPENSACION-ASIGNACION"
+    },
+    "27897": {
+        "country_code": "CL",
+        "asn": "27897",
+        "description": "UNIVERSIDAD DE SANTIAGO DE CHILE",
+        "handle": "UNIVERSIDAD-SANTIAGO-CHILE"
+    },
+    "27899": {
+        "country_code": "CL",
+        "asn": "27899",
+        "description": "QUINTEC CHILE S.A.",
+        "handle": "QUINTEC-CHILE"
+    },
+    "27901": {
+        "country_code": "CL",
+        "asn": "27901",
+        "description": "Pacifico Cable SPA.",
+        "handle": "PACIFICO-CABLE-SPA"
+    },
+    "27904": {
+        "country_code": "CL",
+        "asn": "27904",
+        "description": "Virutex Ilko S.A.",
+        "handle": "VIRUTEX-ILKO"
+    },
+    "27909": {
+        "country_code": "CL",
+        "asn": "27909",
+        "description": "Correos Chile",
+        "handle": "CORREOS-CHILE"
+    },
+    "27911": {
+        "country_code": "CL",
+        "asn": "27911",
+        "description": "Metlife Chile Seguros de Vida",
+        "handle": "METLIFE-CHILE-SEGUROS-VIDA"
+    },
+    "27918": {
+        "country_code": "CL",
+        "asn": "27918",
+        "description": "SISTEMA NACIONAL DE COMUNICACIONES FINANCIERAS S.A.",
+        "handle": "SISTEMA-NACIONAL-COMUNICACIONES"
+    },
+    "27925": {
+        "country_code": "CL",
+        "asn": "27925",
+        "description": "Entel PCS Telecomunicaciones S.A.",
+        "handle": "ENTEL-PCS-TELECOMUNICACIONES"
+    },
+    "27931": {
+        "country_code": "CL",
+        "asn": "27931",
+        "description": "Tecnolex Ltda.",
+        "handle": "TECNOLEX"
+    },
+    "27942": {
+        "country_code": "CL",
+        "asn": "27942",
+        "description": "BICE Vida Compa\u00f1\u00eda de Seguros de Vida S.A.",
+        "handle": "BICE-VIDA-COMPANIA"
+    },
+    "27943": {
+        "country_code": "CL",
+        "asn": "27943",
+        "description": "Laboratorios Recalcine S.A.",
+        "handle": "LABORATORIOS-RECALCINE"
+    },
+    "27946": {
+        "country_code": "CL",
+        "asn": "27946",
+        "description": "Direcci\u00f3n General del Territorio Mar\u00edtimo",
+        "handle": "DIRECCION-GENERAL-TERRITORIO"
+    },
+    "27952": {
+        "country_code": "CL",
+        "asn": "27952",
+        "description": "Banco Central de Chile",
+        "handle": "BANCO-CENTRAL-CHILE"
+    },
+    "27962": {
+        "country_code": "CL",
+        "asn": "27962",
+        "description": "AltaVoz S.A.",
+        "handle": "ALTAVOZ"
+    },
+    "27965": {
+        "country_code": "CL",
+        "asn": "27965",
+        "description": "Intcomex Chile S.A.",
+        "handle": "INTCOMEX-CHILE"
+    },
+    "27978": {
+        "country_code": "CL",
+        "asn": "27978",
+        "description": "Telmex Servicios Empresariales S.A.",
+        "handle": "TELMEX-SERVICIOS-EMPRESARIALES"
+    },
+    "27979": {
+        "country_code": "CL",
+        "asn": "27979",
+        "description": "Stel Chile S.A.",
+        "handle": "STEL-CHILE"
+    },
+    "27986": {
+        "country_code": "CL",
+        "asn": "27986",
+        "description": "ENTEL CHILE S.A.",
+        "handle": "ENTEL-CHILE"
+    },
+    "27995": {
+        "country_code": "CL",
+        "asn": "27995",
+        "description": "CLARO CHILE S.A.",
+        "handle": "CLARO-CHILE"
+    },
+    "28044": {
+        "country_code": "CL",
+        "asn": "28044",
+        "description": "ADT SECURITY SERVICES",
+        "handle": "ADT-SECURITY-SERVICES"
+    },
+    "28046": {
+        "country_code": "CL",
+        "asn": "28046",
+        "description": "Ingenieria Servicios y Comunicaciones S.A.",
+        "handle": "INGENIERIA-SERVICIOS-COMUNICACIONES"
+    },
+    "28047": {
+        "country_code": "CL",
+        "asn": "28047",
+        "description": "ENTEL CHILE S.A.",
+        "handle": "ENTEL-CHILE"
+    },
+    "28059": {
+        "country_code": "CL",
+        "asn": "28059",
+        "description": "Banco Hipotecario de Fomento",
+        "handle": "BANCO-HIPOTECARIO-FOMENTO"
+    },
+    "28060": {
+        "country_code": "CL",
+        "asn": "28060",
+        "description": "Pullman Cargo S.A",
+        "handle": "PULLMAN-CARGO"
+    },
+    "28077": {
+        "country_code": "CL",
+        "asn": "28077",
+        "description": "Informes Garantizados S.A.",
+        "handle": "INFORMES-GARANTIZADOS"
+    },
+    "28082": {
+        "country_code": "CL",
+        "asn": "28082",
+        "description": "MASISA S.A.",
+        "handle": "MASISA"
+    },
+    "28091": {
+        "country_code": "CL",
+        "asn": "28091",
+        "description": "SIXMANAGER TECNOLOGIAS SPA",
+        "handle": "SIXMANAGER-TECNOLOGIAS-SPA"
+    },
+    "28096": {
+        "country_code": "CL",
+        "asn": "28096",
+        "description": "Sociedad de Telecomunicaciones Geonet Ltda.",
+        "handle": "SOCIEDAD-TELECOMUNICACIONES-GEONET"
+    },
+    "28098": {
+        "country_code": "CL",
+        "asn": "28098",
+        "description": "ABGON COMUNICACIONES",
+        "handle": "ABGON-COMUNICACIONES"
+    },
+    "28099": {
+        "country_code": "CL",
+        "asn": "28099",
+        "description": "iHosting Servicios Internet Ltda.",
+        "handle": "IHOSTING-SERVICIOS-INTERNET"
+    },
+    "28116": {
+        "country_code": "CL",
+        "asn": "28116",
+        "description": "Universidad de Adolfo Iba\u00f1ez",
+        "handle": "UNIVERSIDAD-ADOLFO-IBANEZ"
+    },
+    "28120": {
+        "country_code": "CL",
+        "asn": "28120",
+        "description": "Arquicomp Ltda.",
+        "handle": "ARQUICOMP"
+    },
+    "28319": {
+        "country_code": "CL",
+        "asn": "28319",
+        "description": "WISP",
+        "handle": "WISP"
+    },
+    "52226": {
+        "country_code": "CL",
+        "asn": "52226",
+        "description": "CODELCO Chuquicamata",
+        "handle": "CODELCO-CHUQUICAMATA"
+    },
+    "52230": {
+        "country_code": "CL",
+        "asn": "52230",
+        "description": "Mapfre Compa\u00f1ia de Seguros",
+        "handle": "MAPFRE-COMPANIA-SEGUROS"
+    },
+    "52234": {
+        "country_code": "CL",
+        "asn": "52234",
+        "description": "NIC Chile",
+        "handle": "NIC-CHILE"
+    },
+    "52246": {
+        "country_code": "CL",
+        "asn": "52246",
+        "description": "INDEXA S A",
+        "handle": "INDEXA-S-A"
+    },
+    "52248": {
+        "country_code": "CL",
+        "asn": "52248",
+        "description": "Forum Servicios Financieros S.A.",
+        "handle": "FORUM-SERVICIOS-FINANCIEROS"
+    },
+    "52252": {
+        "country_code": "CL",
+        "asn": "52252",
+        "description": "Entel PCS Telecomunicaciones S.A. (Sis)",
+        "handle": "ENTEL-PCS-TELECOMUNICACIONES"
+    },
+    "52265": {
+        "country_code": "CL",
+        "asn": "52265",
+        "description": "NIC Chile",
+        "handle": "NIC-CHILE"
+    },
+    "52267": {
+        "country_code": "CL",
+        "asn": "52267",
+        "description": "BanChile Seguros de Vida S.A.",
+        "handle": "BANCHILE-SEGUROS-VIDA"
+    },
+    "52280": {
+        "country_code": "CL",
+        "asn": "52280",
+        "description": "INTERNEXA Chile S.A.",
+        "handle": "INTERNEXA-CHILE"
+    },
+    "52282": {
+        "country_code": "CL",
+        "asn": "52282",
+        "description": "Papeles Industriales S.A.",
+        "handle": "PAPELES-INDUSTRIALES"
+    },
+    "52304": {
+        "country_code": "CL",
+        "asn": "52304",
+        "description": "NIC Chile",
+        "handle": "NIC-CHILE"
+    },
+    "52305": {
+        "country_code": "CL",
+        "asn": "52305",
+        "description": "NIC Chile",
+        "handle": "NIC-CHILE"
+    },
+    "52306": {
+        "country_code": "CL",
+        "asn": "52306",
+        "description": "NIC Chile",
+        "handle": "NIC-CHILE"
+    },
+    "52310": {
+        "country_code": "CL",
+        "asn": "52310",
+        "description": "Derco SPA",
+        "handle": "DERCO-SPA"
+    },
+    "52313": {
+        "country_code": "CL",
+        "asn": "52313",
+        "description": "Luz Linares S.A.",
+        "handle": "LUZ-LINARES"
+    },
+    "52315": {
+        "country_code": "CL",
+        "asn": "52315",
+        "description": "Servicios de Administracion Previsional S.A.",
+        "handle": "SERVICIOS-ADMINISTRACION-PREVISIONAL"
+    },
+    "52341": {
+        "country_code": "CL",
+        "asn": "52341",
+        "description": "WOM S.A.",
+        "handle": "WOM"
+    },
+    "52353": {
+        "country_code": "CL",
+        "asn": "52353",
+        "description": "Celulosa Arauco y Constitucion S.A.",
+        "handle": "CELULOSA-ARAUCO-CONSTITUCION"
+    },
+    "52368": {
+        "country_code": "CL",
+        "asn": "52368",
+        "description": "ZAM LTDA.",
+        "handle": "ZAM"
+    },
+    "52396": {
+        "country_code": "CL",
+        "asn": "52396",
+        "description": "TELEF\u00d3NICA CHILE S.A. (MAYORISTAS)",
+        "handle": "TELEFONICA-CHILE"
+    },
+    "52407": {
+        "country_code": "CL",
+        "asn": "52407",
+        "description": "Comercializadora Y Asesoria Esteno Chile Limitada",
+        "handle": "COMERCIALIZADORA-ASESORIA-ESTENO"
+    },
+    "52411": {
+        "country_code": "CL",
+        "asn": "52411",
+        "description": "Universidad del Desarrollo",
+        "handle": "UNIVERSIDAD-DESARROLLO"
+    },
+    "52435": {
+        "country_code": "CL",
+        "asn": "52435",
+        "description": "Plug and play Net S.A.",
+        "handle": "PLUG-AND-PLAY-NET"
+    },
+    "52439": {
+        "country_code": "CL",
+        "asn": "52439",
+        "description": "OPTIC TELECOMUNICACIONES LIMITADA",
+        "handle": "OPTIC-TELECOMUNICACIONES-LIMITADA"
+    },
+    "52441": {
+        "country_code": "CL",
+        "asn": "52441",
+        "description": "SONDA S.A.",
+        "handle": "SONDA"
+    },
+    "52452": {
+        "country_code": "CL",
+        "asn": "52452",
+        "description": "COMPASS GROUP INVESMENTS ADVISORS (CGIA)",
+        "handle": "COMPASS-GROUP-INVESMENTS"
+    },
+    "52460": {
+        "country_code": "CL",
+        "asn": "52460",
+        "description": "CAPITAL S.A",
+        "handle": "CAPITAL"
+    },
+    "52478": {
+        "country_code": "CL",
+        "asn": "52478",
+        "description": "Servicios Informaticos Movix Chile Limitada",
+        "handle": "SERVICIOS-INFORMATICOS-MOVIX"
+    },
+    "52479": {
+        "country_code": "CL",
+        "asn": "52479",
+        "description": "HQB S.A.",
+        "handle": "HQB"
+    },
+    "52489": {
+        "country_code": "CL",
+        "asn": "52489",
+        "description": "TELEF\u00d3NICA CHILE S.A.",
+        "handle": "TELEFONICA-CHILE"
+    },
+    "52494": {
+        "country_code": "CL",
+        "asn": "52494",
+        "description": "MULTI ASSIST S.A.",
+        "handle": "MULTI-ASSIST"
+    },
+    "52497": {
+        "country_code": "CL",
+        "asn": "52497",
+        "description": "SERVICIOS EQUIFAX CHILE LIMITADA",
+        "handle": "SERVICIOS-EQUIFAX-CHILE"
+    },
+    "52510": {
+        "country_code": "CL",
+        "asn": "52510",
+        "description": "MI INTERNET SPA",
+        "handle": "MI-INTERNET-SPA"
+    },
+    "52511": {
+        "country_code": "CL",
+        "asn": "52511",
+        "description": "IRONSERVERS E.I.R.L",
+        "handle": "IRONSERVERS-EIRL"
+    },
+    "52512": {
+        "country_code": "CL",
+        "asn": "52512",
+        "description": "OPENCLOUD SpA",
+        "handle": "OPENCLOUD-SPA"
+    },
+    "61444": {
+        "country_code": "CL",
+        "asn": "61444",
+        "description": "Enlaces Regionales de Chile S.A.",
+        "handle": "ENLACES-REGIONALES-CHILE"
+    },
+    "61459": {
+        "country_code": "CL",
+        "asn": "61459",
+        "description": "Payroll S.A",
+        "handle": "PAYROLL"
+    },
+    "61460": {
+        "country_code": "CL",
+        "asn": "61460",
+        "description": "NETLAND CHILE S.A.",
+        "handle": "NETLAND-CHILE"
+    },
+    "61466": {
+        "country_code": "CL",
+        "asn": "61466",
+        "description": "TV Cable Loncomilla S.A.",
+        "handle": "TV-CABLE-LONCOMILLA"
+    },
+    "61483": {
+        "country_code": "CL",
+        "asn": "61483",
+        "description": "Convergia Telecom S.A.",
+        "handle": "CONVERGIA-TELECOM"
+    },
+    "61492": {
+        "country_code": "CL",
+        "asn": "61492",
+        "description": "SERVICIOS EQUIFAX CHILE LIMITADA",
+        "handle": "SERVICIOS-EQUIFAX-CHILE"
+    },
+    "61503": {
+        "country_code": "CL",
+        "asn": "61503",
+        "description": "SERVICIOS DE TELECOMUNICACIONES INTERCABLE LTDA.",
+        "handle": "SERVICIOS-TELECOMUNICACIONES-INTERCABLE"
+    },
+    "61506": {
+        "country_code": "CL",
+        "asn": "61506",
+        "description": "INSACOM SpA",
+        "handle": "INSACOM-SPA"
+    },
+    "61507": {
+        "country_code": "CL",
+        "asn": "61507",
+        "description": "ADMINISTRADORA DE FONDOS DE PENSIONES PROVIDA S.A.",
+        "handle": "ADMINISTRADORA-FONDOS-PENSIONES"
+    },
+    "61522": {
+        "country_code": "CL",
+        "asn": "61522",
+        "description": "PIT CHILE SP",
+        "handle": "PIT-CHILE-SP"
+    },
+    "61524": {
+        "country_code": "CL",
+        "asn": "61524",
+        "description": "PIT CHILE SP",
+        "handle": "PIT-CHILE-SP"
+    },
+    "61525": {
+        "country_code": "CL",
+        "asn": "61525",
+        "description": "PIT CHILE SP",
+        "handle": "PIT-CHILE-SP"
+    },
+    "61526": {
+        "country_code": "CL",
+        "asn": "61526",
+        "description": "PIT CHILE SP",
+        "handle": "PIT-CHILE-SP"
+    },
+    "61527": {
+        "country_code": "CL",
+        "asn": "61527",
+        "description": "PIT CHILE SP",
+        "handle": "PIT-CHILE-SP"
+    },
+    "64108": {
+        "country_code": "CL",
+        "asn": "64108",
+        "description": "GRUPO Z",
+        "handle": "GRUPO-Z"
+    },
+    "64111": {
+        "country_code": "CL",
+        "asn": "64111",
+        "description": "INFORMATICA BLUEHOSTING LIMITADA",
+        "handle": "INFORMATICA-BLUEHOSTING-LIMITADA"
+    },
+    "64112": {
+        "country_code": "CL",
+        "asn": "64112",
+        "description": "PIT CHILE SP",
+        "handle": "PIT-CHILE-SP"
+    },
+    "64113": {
+        "country_code": "CL",
+        "asn": "64113",
+        "description": "FALABELLA TECNOLOGIA CORPORATIVA LTDA",
+        "handle": "FALABELLA-TECNOLOGIA-CORPORATIVA"
+    },
+    "64121": {
+        "country_code": "CL",
+        "asn": "64121",
+        "description": "Virtualiza S.A",
+        "handle": "VIRTUALIZA"
+    },
+    "64127": {
+        "country_code": "CL",
+        "asn": "64127",
+        "description": "XCONNECT SPA",
+        "handle": "XCONNECT-SPA"
+    },
+    "64129": {
+        "country_code": "CL",
+        "asn": "64129",
+        "description": "SERVICIO DE INGENIERIA GOSUR SPA",
+        "handle": "SERVICIO-INGENIERIA-GOSUR-SPA"
+    },
+    "64131": {
+        "country_code": "CL",
+        "asn": "64131",
+        "description": "GLOBALCONNECT SPA",
+        "handle": "GLOBALCONNECT-SPA"
+    },
+    "64139": {
+        "country_code": "CL",
+        "asn": "64139",
+        "description": "GRUPO METROWAN TELECOM SPA",
+        "handle": "GRUPO-METROWAN-TELECOM-SPA"
+    },
+    "64152": {
+        "country_code": "CL",
+        "asn": "64152",
+        "description": "EDGEUNO SPA",
+        "handle": "EDGEUNO-SPA"
+    },
+    "64154": {
+        "country_code": "CL",
+        "asn": "64154",
+        "description": "PIT CHILE SP",
+        "handle": "PIT-CHILE-SP"
+    },
+    "64161": {
+        "country_code": "CL",
+        "asn": "64161",
+        "description": "GRUPO ZGH SPA",
+        "handle": "GRUPO-ZGH-SPA"
+    },
+    "64166": {
+        "country_code": "CL",
+        "asn": "64166",
+        "description": "PATAGONIAIX SPA",
+        "handle": "PATAGONIAIX-SPA"
+    },
+    "213606": {
+        "country_code": "CL",
+        "asn": "213606",
+        "description": "Jose Luis Monserrat Alburquenque",
+        "handle": "GAMER-HOST"
+    },
+    "262147": {
+        "country_code": "CL",
+        "asn": "262147",
+        "description": "NIC Chile",
+        "handle": "NIC-CHILE"
+    },
+    "262153": {
+        "country_code": "CL",
+        "asn": "262153",
+        "description": "Servicio Nacional de Aduanas de Chile",
+        "handle": "SERVICIO-NACIONAL-ADUANAS"
+    },
+    "262155": {
+        "country_code": "CL",
+        "asn": "262155",
+        "description": "Golder Associates S.A.",
+        "handle": "GOLDER-ASSOCIATES"
+    },
+    "262167": {
+        "country_code": "CL",
+        "asn": "262167",
+        "description": "Redcol S.A.",
+        "handle": "REDCOL"
+    },
+    "262213": {
+        "country_code": "CL",
+        "asn": "262213",
+        "description": "Comsat Limitada",
+        "handle": "COMSAT-LIMITADA"
+    },
+    "262224": {
+        "country_code": "CL",
+        "asn": "262224",
+        "description": "Central de Restaurantes Aramark Ltda.",
+        "handle": "CENTRAL-RESTAURANTES-ARAMARK"
+    },
+    "262228": {
+        "country_code": "CL",
+        "asn": "262228",
+        "description": "NTT Chile",
+        "handle": "NTT-CHILE"
+    },
+    "262233": {
+        "country_code": "CL",
+        "asn": "262233",
+        "description": "COORDINADOR INDEPENDIENTE DEL SISTEMA EL\u00c9CTRICO NACIONAL",
+        "handle": "COORDINADOR-INDEPENDIENTE-SISTEMA"
+    },
+    "262237": {
+        "country_code": "CL",
+        "asn": "262237",
+        "description": "Orbyta S.A.",
+        "handle": "ORBYTA"
+    },
+    "262240": {
+        "country_code": "CL",
+        "asn": "262240",
+        "description": "SILICA NETWORKS CHILE S.A.",
+        "handle": "SILICA-NETWORKS-CHILE"
+    },
+    "262256": {
+        "country_code": "CL",
+        "asn": "262256",
+        "description": "Servicios Inform\u00e1ticos Hostname Ltda",
+        "handle": "SERVICIOS-INFORMATICOS-HOSTNAME"
+    },
+    "263173": {
+        "country_code": "CL",
+        "asn": "263173",
+        "description": "Telmex Chile Internet S.A.",
+        "handle": "TELMEX-CHILE-INTERNET"
+    },
+    "263184": {
+        "country_code": "CL",
+        "asn": "263184",
+        "description": "Gtd Internet S.A.",
+        "handle": "GTD-INTERNET"
+    },
+    "263208": {
+        "country_code": "CL",
+        "asn": "263208",
+        "description": "CTC. CORP S.A. (TELEFONICA EMPRESAS)",
+        "handle": "CTC-CORP"
+    },
+    "263214": {
+        "country_code": "CL",
+        "asn": "263214",
+        "description": "UNIVERSIDAD SANTO TOMAS",
+        "handle": "UNIVERSIDAD-SANTO-TOMAS"
+    },
+    "263237": {
+        "country_code": "CL",
+        "asn": "263237",
+        "description": "PowerHost Telecom SPA",
+        "handle": "POWERHOST-TELECOM-SPA"
+    },
+    "263249": {
+        "country_code": "CL",
+        "asn": "263249",
+        "description": "Master Base SA",
+        "handle": "MASTER-BASE"
+    },
+    "263688": {
+        "country_code": "CL",
+        "asn": "263688",
+        "description": "INTESIS CHILE S.A",
+        "handle": "INTESIS-CHILE"
+    },
+    "263700": {
+        "country_code": "CL",
+        "asn": "263700",
+        "description": "GIGAS HOSTING CHILE SpA",
+        "handle": "GIGAS-HOSTING-CHILE-SPA"
+    },
+    "263702": {
+        "country_code": "CL",
+        "asn": "263702",
+        "description": "GRUPO ZGH SPA",
+        "handle": "GRUPO-ZGH-SPA"
+    },
+    "263711": {
+        "country_code": "CL",
+        "asn": "263711",
+        "description": "INFOLAX SERVICIOS INFORM\u00c1TICOS EIRL",
+        "handle": "INFOLAX-SERVICIOS-INFORMATICOS"
+    },
+    "263728": {
+        "country_code": "CL",
+        "asn": "263728",
+        "description": "Wimux EIRL",
+        "handle": "WIMUX-EIRL"
+    },
+    "263753": {
+        "country_code": "CL",
+        "asn": "263753",
+        "description": "SERVICIOS DE DATACENTER DATANETWORKS LIMITADA",
+        "handle": "SERVICIOS-DATACENTER-DATANETWORKS"
+    },
+    "263758": {
+        "country_code": "CL",
+        "asn": "263758",
+        "description": "Bolsa de Comercio de Santiago",
+        "handle": "BOLSA-COMERCIO-SANTIAGO"
+    },
+    "263773": {
+        "country_code": "CL",
+        "asn": "263773",
+        "description": "CEPAL Naciones Unidas",
+        "handle": "CEPAL-NACIONES-UNIDAS"
+    },
+    "263784": {
+        "country_code": "CL",
+        "asn": "263784",
+        "description": "BYNARYA SPA",
+        "handle": "BYNARYA-SPA"
+    },
+    "263807": {
+        "country_code": "CL",
+        "asn": "263807",
+        "description": "MEDIASTREAM SPA",
+        "handle": "MEDIASTREAM-SPA"
+    },
+    "263816": {
+        "country_code": "CL",
+        "asn": "263816",
+        "description": "Camara de Diputados de Chile",
+        "handle": "CAMARA-DIPUTADOS-CHILE"
+    },
+    "263826": {
+        "country_code": "CL",
+        "asn": "263826",
+        "description": "LINETS CHILE SPA",
+        "handle": "LINETS-CHILE-SPA"
+    },
+    "263835": {
+        "country_code": "CL",
+        "asn": "263835",
+        "description": "Devetel S.A.",
+        "handle": "DEVETEL"
+    },
+    "264620": {
+        "country_code": "CL",
+        "asn": "264620",
+        "description": "Payroll S.A",
+        "handle": "PAYROLL"
+    },
+    "264626": {
+        "country_code": "CL",
+        "asn": "264626",
+        "description": "Ingenier\u00eda e Inform\u00e1tica Asociada Ltda (IIA Ltda)",
+        "handle": "INGENIERIA-INFORMATICA-ASOCIADA"
+    },
+    "264636": {
+        "country_code": "CL",
+        "asn": "264636",
+        "description": "CUANTA CHILE SA",
+        "handle": "CUANTA-CHILE"
+    },
+    "264641": {
+        "country_code": "CL",
+        "asn": "264641",
+        "description": "LanProject SPA",
+        "handle": "LANPROJECT-SPA"
+    },
+    "264664": {
+        "country_code": "CL",
+        "asn": "264664",
+        "description": "UNIVERSIDAD CAT\u00d3LICA DEL MAULE",
+        "handle": "UNIVERSIDAD-CATOLICA-MAULE"
+    },
+    "264670": {
+        "country_code": "CL",
+        "asn": "264670",
+        "description": "Senado de la Republica de Chile",
+        "handle": "SENADO-LA-REPUBLICA-CHILE"
+    },
+    "264671": {
+        "country_code": "CL",
+        "asn": "264671",
+        "description": "Facultad de Ciencias F\u00edsicas y Matem\u00e1ticas de la Universidad de Chile",
+        "handle": "FACULTAD-CIENCIAS-FISICAS"
+    },
+    "264681": {
+        "country_code": "CL",
+        "asn": "264681",
+        "description": "Sociedad de Telecomunicaciones Netsouth SPA",
+        "handle": "SOCIEDAD-TELECOMUNICACIONES-NETSOUTH"
+    },
+    "264707": {
+        "country_code": "CL",
+        "asn": "264707",
+        "description": "Opciones S. A.",
+        "handle": "OPCIONES-S-A"
+    },
+    "264710": {
+        "country_code": "CL",
+        "asn": "264710",
+        "description": "TELEFONICA EMPRESAS CHILE SA",
+        "handle": "TELEFONICA-EMPRESAS-CHILE"
+    },
+    "264724": {
+        "country_code": "CL",
+        "asn": "264724",
+        "description": "Universidad Nacional Andres Bello",
+        "handle": "UNIVERSIDAD-NACIONAL-ANDRES"
+    },
+    "264729": {
+        "country_code": "CL",
+        "asn": "264729",
+        "description": "BANCO DEL ESTADO DE CHILE",
+        "handle": "BANCO-CHILE"
+    },
+    "264730": {
+        "country_code": "CL",
+        "asn": "264730",
+        "description": "BANCO DEL ESTADO DE CHILE",
+        "handle": "BANCO-CHILE"
+    },
+    "264735": {
+        "country_code": "CL",
+        "asn": "264735",
+        "description": "BBVA SEGUROS DE VIDA S.A",
+        "handle": "BBVA-SEGUROS-VIDA"
+    },
+    "264775": {
+        "country_code": "CL",
+        "asn": "264775",
+        "description": "IMPERIAL S.A",
+        "handle": "IMPERIAL"
+    },
+    "264780": {
+        "country_code": "CL",
+        "asn": "264780",
+        "description": "HomeNet LTDA",
+        "handle": "HOMENET"
+    },
+    "264802": {
+        "country_code": "CL",
+        "asn": "264802",
+        "description": "COMUNICACIONES NODONET CHILE Spa.",
+        "handle": "COMUNICACIONES-NODONET-CHILE"
+    },
+    "264806": {
+        "country_code": "CL",
+        "asn": "264806",
+        "description": "TNA Solutions SpA",
+        "handle": "TNA-SOLUTIONS-SPA"
+    },
+    "264814": {
+        "country_code": "CL",
+        "asn": "264814",
+        "description": "BITRED GROUP SPA",
+        "handle": "BITRED-GROUP-SPA"
+    },
+    "264827": {
+        "country_code": "CL",
+        "asn": "264827",
+        "description": "WIRCOM S.P.A.",
+        "handle": "WIRCOM-SPA"
+    },
+    "264838": {
+        "country_code": "CL",
+        "asn": "264838",
+        "description": "INVERSIONES MYJ LTDA",
+        "handle": "INVERSIONES-MYJ"
+    },
+    "264840": {
+        "country_code": "CL",
+        "asn": "264840",
+        "description": "VZION CONSULTORES EN INFORMATICA S.A.",
+        "handle": "VZION-CONSULTORES-INFORMATICA"
+    },
+    "264854": {
+        "country_code": "CL",
+        "asn": "264854",
+        "description": "PRONTO COMUNICACIONES LIMITADA",
+        "handle": "PRONTO-COMUNICACIONES-LIMITADA"
+    },
+    "264859": {
+        "country_code": "CL",
+        "asn": "264859",
+        "description": "Comunicaciones Cablevision Ltda.",
+        "handle": "COMUNICACIONES-CABLEVISION"
+    },
+    "265642": {
+        "country_code": "CL",
+        "asn": "265642",
+        "description": "INETAMERICAS COMUNICACIONES LIMITADA",
+        "handle": "INETAMERICAS-COMUNICACIONES-LIMITADA"
+    },
+    "265644": {
+        "country_code": "CL",
+        "asn": "265644",
+        "description": "VOIP ANALYSIS S.A",
+        "handle": "VOIP-ANALYSIS"
+    },
+    "265656": {
+        "country_code": "CL",
+        "asn": "265656",
+        "description": "ANACONDAWEB S.A.",
+        "handle": "ANACONDAWEB"
+    },
+    "265662": {
+        "country_code": "CL",
+        "asn": "265662",
+        "description": "TLINK SPA",
+        "handle": "TLINK-SPA"
+    },
+    "265672": {
+        "country_code": "CL",
+        "asn": "265672",
+        "description": "ALCOM SPA",
+        "handle": "ALCOM-SPA"
+    },
+    "265675": {
+        "country_code": "CL",
+        "asn": "265675",
+        "description": "ARTEC TELECOMUNICACIONES LIMITADA",
+        "handle": "ARTEC-TELECOMUNICACIONES-LIMITADA"
+    },
+    "265678": {
+        "country_code": "CL",
+        "asn": "265678",
+        "description": "W M Servicios y Gestiones Ltda.",
+        "handle": "W-M-SERVICIOS-GESTIONES"
+    },
+    "265703": {
+        "country_code": "CL",
+        "asn": "265703",
+        "description": "AUSTRO INTERNET S.A.",
+        "handle": "AUSTRO-INTERNET"
+    },
+    "265714": {
+        "country_code": "CL",
+        "asn": "265714",
+        "description": "TV CABLE DEL SUR LTDA",
+        "handle": "TV-CABLE-SUR"
+    },
+    "265743": {
+        "country_code": "CL",
+        "asn": "265743",
+        "description": "COMERCIAL WASHINGTON ERNESTO OYARCE SAZO E.I.R.L. (SE\u00d1ALMAX)",
+        "handle": "COMERCIAL-WASHINGTON-ERNESTO"
+    },
+    "265757": {
+        "country_code": "CL",
+        "asn": "265757",
+        "description": "Intersur Limitada",
+        "handle": "INTERSUR-LIMITADA"
+    },
+    "265769": {
+        "country_code": "CL",
+        "asn": "265769",
+        "description": "ALBANETWORK INGENIER\u00cdA S.A.",
+        "handle": "ALBANETWORK-INGENIERIA"
+    },
+    "265830": {
+        "country_code": "CL",
+        "asn": "265830",
+        "description": "FULL CONECTION LTDA",
+        "handle": "FULL-CONECTION"
+    },
+    "265831": {
+        "country_code": "CL",
+        "asn": "265831",
+        "description": "SOC. COMERCIAL WIRENET CHILE LTDA.",
+        "handle": "SOC-COMERCIAL-WIRENET"
+    },
+    "265839": {
+        "country_code": "CL",
+        "asn": "265839",
+        "description": "HOSTING.CL",
+        "handle": "HOSTINGCL"
+    },
+    "265851": {
+        "country_code": "CL",
+        "asn": "265851",
+        "description": "MJL NETWORK EIRL",
+        "handle": "MJL-NETWORK-EIRL"
+    },
+    "265858": {
+        "country_code": "CL",
+        "asn": "265858",
+        "description": "NETDELSUR TELECOMUNICACIONES SPA",
+        "handle": "NETDELSUR-TELECOMUNICACIONES-SPA"
+    },
+    "265871": {
+        "country_code": "CL",
+        "asn": "265871",
+        "description": "REDCALL SPA",
+        "handle": "REDCALL-SPA"
+    },
+    "266655": {
+        "country_code": "CL",
+        "asn": "266655",
+        "description": "SERVICIOS DE TELECOMUNICACIONES MAS CONECTADOS",
+        "handle": "SERVICIOS-TELECOMUNICACIONES-MAS"
+    },
+    "266662": {
+        "country_code": "CL",
+        "asn": "266662",
+        "description": "BANCO RIPLEY",
+        "handle": "BANCO-RIPLEY"
+    },
+    "266706": {
+        "country_code": "CL",
+        "asn": "266706",
+        "description": "VALMU COMUNICACIONES LTDA",
+        "handle": "VALMU-COMUNICACIONES"
+    },
+    "266711": {
+        "country_code": "CL",
+        "asn": "266711",
+        "description": "COMUNICACI\u00d3N Y TECNOLOG\u00cdA ARAOS LIMITADA",
+        "handle": "COMUNICACION-TECNOLOGIA-ARAOS"
+    },
+    "266713": {
+        "country_code": "CL",
+        "asn": "266713",
+        "description": "WMAX SpA",
+        "handle": "WMAX-SPA"
+    },
+    "266715": {
+        "country_code": "CL",
+        "asn": "266715",
+        "description": "Televisi\u00f3n Nacional de Chile",
+        "handle": "TELEVISION-NACIONAL-CHILE"
+    },
+    "266724": {
+        "country_code": "CL",
+        "asn": "266724",
+        "description": "MYRIAM PILAR ESCOBAR VEGA (DON SERVER)",
+        "handle": "MYRIAM-PILAR-ESCOBAR-VEGA"
+    },
+    "266726": {
+        "country_code": "CL",
+        "asn": "266726",
+        "description": "AGUAS NUEVAS S.A",
+        "handle": "AGUAS-NUEVAS"
+    },
+    "266731": {
+        "country_code": "CL",
+        "asn": "266731",
+        "description": "TELECOMUNICACIONES MAURICIO ANDRES KASENDRA LARENAS E.I.R.L.",
+        "handle": "TELECOMUNICACIONES-MAURICIO-ANDRES"
+    },
+    "266765": {
+        "country_code": "CL",
+        "asn": "266765",
+        "description": "INTELCOM TELECOMUNICACIONES CHILE LTDA",
+        "handle": "INTELCOM-TELECOMUNICACIONES-CHILE"
+    },
+    "266771": {
+        "country_code": "CL",
+        "asn": "266771",
+        "description": "MAKRONET CONSULTING TECNOLOGIA E INFORMATICA LIMITADA",
+        "handle": "MAKRONET-CONSULTING-TECNOLOGIA"
+    },
+    "266776": {
+        "country_code": "CL",
+        "asn": "266776",
+        "description": "SOCIEDAD CONSULTORES EN INFORMATICA VARGAS Y COMPA\u00d1IA LIMITADA",
+        "handle": "SOCIEDAD-CONSULTORES-INFORMATICA"
+    },
+    "266779": {
+        "country_code": "CL",
+        "asn": "266779",
+        "description": "ANMAX TELECOMUNICACIONES MAXIMILIANO BIONDI EIRL",
+        "handle": "ANMAX-TELECOMUNICACIONES-MAXIMILIANO"
+    },
+    "266789": {
+        "country_code": "CL",
+        "asn": "266789",
+        "description": "FIDELIZADOR SPA",
+        "handle": "FIDELIZADOR-SPA"
+    },
+    "266795": {
+        "country_code": "CL",
+        "asn": "266795",
+        "description": "EMPIREHOST LIMITADA",
+        "handle": "EMPIREHOST-LIMITADA"
+    },
+    "266801": {
+        "country_code": "CL",
+        "asn": "266801",
+        "description": "Wifispeed Servicios Limitada",
+        "handle": "WIFISPEED-SERVICIOS-LIMITADA"
+    },
+    "266803": {
+        "country_code": "CL",
+        "asn": "266803",
+        "description": "TIC CHILE COMUNICACIONES LIMITADA",
+        "handle": "TIC-CHILE-COMUNICACIONES"
+    },
+    "266818": {
+        "country_code": "CL",
+        "asn": "266818",
+        "description": "RODRIGUEZ Y HERRERA LTDA",
+        "handle": "RODRIGUEZ-HERRERA"
+    },
+    "266826": {
+        "country_code": "CL",
+        "asn": "266826",
+        "description": "SERVICIOS ALTERNATIVOS DE TELECOMUNICACIONES JP Y ASOCIADOS SPA (NB CONECTIVIDAD SPA)",
+        "handle": "SERVICIOS-ALTERNATIVOS-TELECOMUNICACIONES"
+    },
+    "266830": {
+        "country_code": "CL",
+        "asn": "266830",
+        "description": "AIRPOINT TELECOMUNICACIONES LIMITADA",
+        "handle": "AIRPOINT-TELECOMUNICACIONES-LIMITADA"
+    },
+    "266835": {
+        "country_code": "CL",
+        "asn": "266835",
+        "description": "ELECTRONET S.A.",
+        "handle": "ELECTRONET"
+    },
+    "266840": {
+        "country_code": "CL",
+        "asn": "266840",
+        "description": "CMP WILL TELECOMUNICACIONES SPA",
+        "handle": "CMP-WILL-TELECOMUNICACIONES"
+    },
+    "266844": {
+        "country_code": "CL",
+        "asn": "266844",
+        "description": "MELSAT TELECOMUNICACIONES SPA",
+        "handle": "MELSAT-TELECOMUNICACIONES-SPA"
+    },
+    "266846": {
+        "country_code": "CL",
+        "asn": "266846",
+        "description": "SOCIEDAD TF CONSULTING LIMITADA",
+        "handle": "SOCIEDAD-TF-CONSULTING"
+    },
+    "266851": {
+        "country_code": "CL",
+        "asn": "266851",
+        "description": "AVILA TELECOMUNICACIONES SPA",
+        "handle": "AVILA-TELECOMUNICACIONES-SPA"
+    },
+    "266852": {
+        "country_code": "CL",
+        "asn": "266852",
+        "description": "SOCIEDAD PIRQUE NET LIMITADA",
+        "handle": "SOCIEDAD-PIRQUE-NET-LIMITADA"
+    },
+    "266855": {
+        "country_code": "CL",
+        "asn": "266855",
+        "description": "ECOHOSTING INTERNET LIMITADA",
+        "handle": "ECOHOSTING-INTERNET-LIMITADA"
+    },
+    "266857": {
+        "country_code": "CL",
+        "asn": "266857",
+        "description": "SERVICIOS DE TELECOMUNICACIONES FULLTV LIMITADA",
+        "handle": "SERVICIOS-TELECOMUNICACIONES-FULLTV"
+    },
+    "266864": {
+        "country_code": "CL",
+        "asn": "266864",
+        "description": "INTERBIS TELECOMUNICACIONES SPA",
+        "handle": "INTERBIS-TELECOMUNICACIONES-SPA"
+    },
+    "266866": {
+        "country_code": "CL",
+        "asn": "266866",
+        "description": "CONECTIVIDAD Y REDES ROBERTO ROMULO CANDIA CANDIA EIRL",
+        "handle": "CONECTIVIDAD-REDES-ROBERTO"
+    },
+    "266870": {
+        "country_code": "CL",
+        "asn": "266870",
+        "description": "SERVICIO DE TELECOMUNICACIONES VEMOS MAS LTDA.",
+        "handle": "SERVICIO-TELECOMUNICACIONES-VEMOS"
+    },
+    "266878": {
+        "country_code": "CL",
+        "asn": "266878",
+        "description": "Besthost Spa",
+        "handle": "BESTHOST-SPA"
+    },
+    "266879": {
+        "country_code": "CL",
+        "asn": "266879",
+        "description": "Pluschile Internet Limitada",
+        "handle": "PLUSCHILE-INTERNET-LIMITADA"
+    },
+    "266881": {
+        "country_code": "CL",
+        "asn": "266881",
+        "description": "Telecomunicaciones y Servicios SpA",
+        "handle": "TELECOMUNICACIONES-SERVICIOS-SPA"
+    },
+    "266887": {
+        "country_code": "CL",
+        "asn": "266887",
+        "description": "SOCIEDAD GAMACON LIMITADA",
+        "handle": "SOCIEDAD-GAMACON-LIMITADA"
+    },
+    "266891": {
+        "country_code": "CL",
+        "asn": "266891",
+        "description": "SERVICIOS E INVERSIONES VILLASOLIS LTDA.",
+        "handle": "SERVICIOS-INVERSIONES-VILLASOLIS"
+    },
+    "266895": {
+        "country_code": "CL",
+        "asn": "266895",
+        "description": "COMUNICACIONES WAM LTDA.",
+        "handle": "COMUNICACIONES-WAM"
+    },
+    "266900": {
+        "country_code": "CL",
+        "asn": "266900",
+        "description": "SOC. TELEVISIVA CABLE SANTA JUANA LIMITADA",
+        "handle": "SOC-TELEVISIVA-CABLE"
+    },
+    "266901": {
+        "country_code": "CL",
+        "asn": "266901",
+        "description": "SERVICIOS INGENIERIA Y PRODUCTOS EN TELECOMUNICACIONES SpA (SIPTEL CHILE)",
+        "handle": "SERVICIOS-INGENIERIA-PRODUCTOS"
+    },
+    "266902": {
+        "country_code": "CL",
+        "asn": "266902",
+        "description": "CAJA DE COMPENSACI\u00d3N DE ASIGNACI\u00d3N FAMILIAR LOS H\u00c9ROES",
+        "handle": "CAJA-COMPENSACION-ASIGNACION"
+    },
+    "266910": {
+        "country_code": "CL",
+        "asn": "266910",
+        "description": "TELECOMUNICACIONES ROBERTO MARCELO FUENZALIDA VALDES EIRL",
+        "handle": "TELECOMUNICACIONES-ROBERTO-MARCELO"
+    },
+    "267677": {
+        "country_code": "CL",
+        "asn": "267677",
+        "description": "COMERCIALIZADORA E IMPORTADORA PRESTOM CHILE LTDA",
+        "handle": "COMERCIALIZADORA-IMPORTADORA-PRESTOM"
+    },
+    "267697": {
+        "country_code": "CL",
+        "asn": "267697",
+        "description": "CHILE TU TV POR CABLE LIMITADA",
+        "handle": "CHILE-TU-TV-POR-CABLE-LIMITADA"
+    },
+    "267717": {
+        "country_code": "CL",
+        "asn": "267717",
+        "description": "CS SPA",
+        "handle": "CS-SPA"
+    },
+    "267719": {
+        "country_code": "CL",
+        "asn": "267719",
+        "description": "SOCIEDAD DE TELECOMUNICACIONES ABARCA TORRES Y COMPA\u00d1IA LIMITADA",
+        "handle": "SOCIEDAD-TELECOMUNICACIONES-ABARCA"
+    },
+    "267724": {
+        "country_code": "CL",
+        "asn": "267724",
+        "description": "FULLSOLUTION S.P.A.",
+        "handle": "FULLSOLUTION-SPA"
+    },
+    "267728": {
+        "country_code": "CL",
+        "asn": "267728",
+        "description": "SOCIEDAD DE SERVICIOS TECNOL\u00d3GICOS Y TELECOMUNICACIONES TELCONOR LTDA.",
+        "handle": "SOCIEDAD-SERVICIOS-TECNOLOGICOS"
+    },
+    "267733": {
+        "country_code": "CL",
+        "asn": "267733",
+        "description": "SOCIEDAD SMARTNET LIMITADA",
+        "handle": "SOCIEDAD-SMARTNET-LIMITADA"
+    },
+    "267745": {
+        "country_code": "CL",
+        "asn": "267745",
+        "description": "TELECOMUNICACIONES WIFIRED LIMITADA",
+        "handle": "TELECOMUNICACIONES-WIFIRED-LIMITADA"
+    },
+    "267746": {
+        "country_code": "CL",
+        "asn": "267746",
+        "description": "TELECOMUNICACIONES PIXEL LTDA.",
+        "handle": "TELECOMUNICACIONES-PIXEL"
+    },
+    "267748": {
+        "country_code": "CL",
+        "asn": "267748",
+        "description": "TNS CHILE-TECHNETSECURITY S.A",
+        "handle": "TNS-CHILE-TECHNETSECURITY"
+    },
+    "267753": {
+        "country_code": "CL",
+        "asn": "267753",
+        "description": "Banco Bice",
+        "handle": "BANCO-BICE"
+    },
+    "267758": {
+        "country_code": "CL",
+        "asn": "267758",
+        "description": "FIBERNET CHILE TELECOMUNICACIONES SpA",
+        "handle": "FIBERNET-CHILE-TELECOMUNICACIONES"
+    },
+    "267775": {
+        "country_code": "CL",
+        "asn": "267775",
+        "description": "IWIMAX SPA",
+        "handle": "IWIMAX-SPA"
+    },
+    "267776": {
+        "country_code": "CL",
+        "asn": "267776",
+        "description": "OPTIWISP SPA",
+        "handle": "OPTIWISP-SPA"
+    },
+    "267818": {
+        "country_code": "CL",
+        "asn": "267818",
+        "description": "OPTVE TELECOMUNICACIONES SpA",
+        "handle": "OPTVE-TELECOMUNICACIONES-SPA"
+    },
+    "267826": {
+        "country_code": "CL",
+        "asn": "267826",
+        "description": "VPS GURU CHILE SPA",
+        "handle": "VPS-GURU-CHILE-SPA"
+    },
+    "267848": {
+        "country_code": "CL",
+        "asn": "267848",
+        "description": "Mainstreet Ltda",
+        "handle": "MAINSTREET"
+    },
+    "267851": {
+        "country_code": "CL",
+        "asn": "267851",
+        "description": "SERVICIOS INFORM\u00c1TICOS IGNACIO LIZANA CARRE\u00d1O E.I.R.L(INALTEC).",
+        "handle": "SERVICIOS-INFORMATICOS-IGNACIO"
+    },
+    "267859": {
+        "country_code": "CL",
+        "asn": "267859",
+        "description": "Comercial Netxtreme LTDA",
+        "handle": "COMERCIAL-NETXTREME"
+    },
+    "267863": {
+        "country_code": "CL",
+        "asn": "267863",
+        "description": "EVOLUCION WIFI TELECOMUNICACIONES LIMITADA",
+        "handle": "EVOLUCION-WIFI-TELECOMUNICACIONES"
+    },
+    "267868": {
+        "country_code": "CL",
+        "asn": "267868",
+        "description": "INGENIERIA Y ASESORIAS EN COMPUTACION Y COMUNICACION NEOSECURE S.A.",
+        "handle": "INGENIERIA-ASESORIAS-COMPUTACION"
+    },
+    "267894": {
+        "country_code": "CL",
+        "asn": "267894",
+        "description": "SOCIEDAD DE TELECOMUNICACIONES LIMITADA (SETEL LTDA)",
+        "handle": "SOCIEDAD-TELECOMUNICACIONES-LIMITADA"
+    },
+    "267906": {
+        "country_code": "CL",
+        "asn": "267906",
+        "description": "CVT TELECOMUNICACIONES LIMITADA",
+        "handle": "CVT-TELECOMUNICACIONES-LIMITADA"
+    },
+    "267908": {
+        "country_code": "CL",
+        "asn": "267908",
+        "description": "Mundonet S.p.A",
+        "handle": "MUNDONET-SPA"
+    },
+    "267926": {
+        "country_code": "CL",
+        "asn": "267926",
+        "description": "ROBERTO MENA OYARZUN COMUNICACIONES EIRL",
+        "handle": "ROBERTO-MENA-OYARZUN"
+    },
+    "269733": {
+        "country_code": "CL",
+        "asn": "269733",
+        "description": "REDCENTRAL TELECOMUNICACIONES LTDA",
+        "handle": "REDCENTRAL-TELECOMUNICACIONES"
+    },
+    "269774": {
+        "country_code": "CL",
+        "asn": "269774",
+        "description": "HOSTNET SPA",
+        "handle": "HOSTNET-SPA"
+    },
+    "269793": {
+        "country_code": "CL",
+        "asn": "269793",
+        "description": "INVERSIONES HEMALASS LIMITADA (HEMANET)",
+        "handle": "INVERSIONES-HEMALASS-LIMITADA"
+    },
+    "269828": {
+        "country_code": "CL",
+        "asn": "269828",
+        "description": "WI-PLUS SPA",
+        "handle": "WI-PLUS-SPA"
+    },
+    "269875": {
+        "country_code": "CL",
+        "asn": "269875",
+        "description": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL (BIBLIOREDES)",
+        "handle": "SERVICIO-NACIONAL-PATRIMONIO"
+    },
+    "269877": {
+        "country_code": "CL",
+        "asn": "269877",
+        "description": "SERVICIO DE TELECOMUNICACIONES 7NET LIMITADA",
+        "handle": "SERVICIO-TELECOMUNICACIONES-7NET"
+    },
+    "269925": {
+        "country_code": "CL",
+        "asn": "269925",
+        "description": "MEDIAWEB SPA",
+        "handle": "MEDIAWEB-SPA"
+    },
+    "269944": {
+        "country_code": "CL",
+        "asn": "269944",
+        "description": "CONNECTA TELECOMUNICACIONES SPA",
+        "handle": "CONNECTA-TELECOMUNICACIONES-SPA"
+    },
+    "269949": {
+        "country_code": "CL",
+        "asn": "269949",
+        "description": "NETXION SERVICIOS ARRIENDOS TECNOLOGIAS Y COMUNICACIONES HERNAN SOTO E.I.R.L.",
+        "handle": "NETXION-SERVICIOS-ARRIENDOS"
+    },
+    "269956": {
+        "country_code": "CL",
+        "asn": "269956",
+        "description": "HABLAIP SPA",
+        "handle": "HABLAIP-SPA"
+    },
+    "269963": {
+        "country_code": "CL",
+        "asn": "269963",
+        "description": "LATAM AIRLINES GROUP S.A.",
+        "handle": "LATAM-AIRLINES-GROUP"
+    },
+    "269967": {
+        "country_code": "CL",
+        "asn": "269967",
+        "description": "SONDA S.A.",
+        "handle": "SONDA"
+    },
+    "269988": {
+        "country_code": "CL",
+        "asn": "269988",
+        "description": "BINET NETWORKING DATA LIMITADA",
+        "handle": "BINET-NETWORKING-DATA-LIMITADA"
+    },
+    "269993": {
+        "country_code": "CL",
+        "asn": "269993",
+        "description": "COMPA\u00d1\u00cdA CHILENA DE COMUNICACIONES PARALLEL S.A.",
+        "handle": "COMPANIA-CHILENA-COMUNICACIONES"
+    },
+    "269998": {
+        "country_code": "CL",
+        "asn": "269998",
+        "description": "ARKAVIA NETWORKS SPA.",
+        "handle": "ARKAVIA-NETWORKS-SPA"
+    },
+    "270008": {
+        "country_code": "CL",
+        "asn": "270008",
+        "description": "SOCIEDAD COMERCIAL Y DE SERVICIOS DE INTERNET Y COMUNICACION CHILE SPA",
+        "handle": "SOCIEDAD-COMERCIAL-SERVICIOS"
+    },
+    "270013": {
+        "country_code": "CL",
+        "asn": "270013",
+        "description": "J AND J SPA (INFOFRACTAL)",
+        "handle": "J-AND-J-SPA"
+    },
+    "270014": {
+        "country_code": "CL",
+        "asn": "270014",
+        "description": "GRUPO CG LIMITADA",
+        "handle": "GRUPO-CG-LIMITADA"
+    },
+    "270024": {
+        "country_code": "CL",
+        "asn": "270024",
+        "description": "ICONEX SPA",
+        "handle": "ICONEX-SPA"
+    },
+    "270025": {
+        "country_code": "CL",
+        "asn": "270025",
+        "description": "SOCIEDAD DE TELECOMUNICACIONES WINET LIMITADA",
+        "handle": "SOCIEDAD-TELECOMUNICACIONES-WINET"
+    },
+    "270034": {
+        "country_code": "CL",
+        "asn": "270034",
+        "description": "AKY TELECOM SPA",
+        "handle": "AKY-TELECOM-SPA"
+    },
+    "270050": {
+        "country_code": "CL",
+        "asn": "270050",
+        "description": "OPTIMIZA SEGURIDAD SpA",
+        "handle": "OPTIMIZA-SEGURIDAD-SPA"
+    },
+    "270056": {
+        "country_code": "CL",
+        "asn": "270056",
+        "description": "JPR CONEXI\u00d3N DIGITAL SPA",
+        "handle": "JPR-CONEXION-DIGITAL-SPA"
+    },
+    "270059": {
+        "country_code": "CL",
+        "asn": "270059",
+        "description": "Gtd Internet S.A.",
+        "handle": "GTD-INTERNET"
+    },
+    "270064": {
+        "country_code": "CL",
+        "asn": "270064",
+        "description": "CONSULTORA E INVERSIONES BROADCASTING NET LIMITADA",
+        "handle": "CONSULTORA-INVERSIONES-BROADCASTING"
+    },
+    "270065": {
+        "country_code": "CL",
+        "asn": "270065",
+        "description": "CHILE TV CABLE S.A.",
+        "handle": "CHILE-TV-CABLE"
+    },
+    "270094": {
+        "country_code": "CL",
+        "asn": "270094",
+        "description": "CONEXIONES REDES Y TELECOMUNICACIONES SPA",
+        "handle": "CONEXIONES-REDES-TELECOMUNICACIONES"
+    },
+    "270102": {
+        "country_code": "CL",
+        "asn": "270102",
+        "description": "LINENET LIMITADA",
+        "handle": "LINENET-LIMITADA"
+    },
+    "270291": {
+        "country_code": "CL",
+        "asn": "270291",
+        "description": "MEDIAWEB SPA",
+        "handle": "MEDIAWEB-SPA"
+    },
+    "271777": {
+        "country_code": "CL",
+        "asn": "271777",
+        "description": "SITELCO SPA",
+        "handle": "SITELCO-SPA"
+    },
+    "271778": {
+        "country_code": "CL",
+        "asn": "271778",
+        "description": "INVERSIONES EN TECNOLOG\u00cdA PULSO SPA",
+        "handle": "INVERSIONES-TECNOLOGIA-PULSO"
+    },
+    "271783": {
+        "country_code": "CL",
+        "asn": "271783",
+        "description": "GRUPO ULLOA SpA",
+        "handle": "GRUPO-ULLOA-SPA"
+    },
+    "271788": {
+        "country_code": "CL",
+        "asn": "271788",
+        "description": "SOCIEDAD COMUNICACIONES PUNTA SUR LIMITADA",
+        "handle": "SOCIEDAD-COMUNICACIONES-PUNTA"
+    },
+    "271803": {
+        "country_code": "CL",
+        "asn": "271803",
+        "description": "SERVICIOS INTEGRALES DE INFORMATICA DIGITALPROSERVER SPA",
+        "handle": "SERVICIOS-INTEGRALES-INFORMATICA"
+    },
+    "271807": {
+        "country_code": "CL",
+        "asn": "271807",
+        "description": "EMPRESA NACIONAL DE ENERGIA ENEX S.A",
+        "handle": "EMPRESA-NACIONAL-ENERGIA"
+    },
+    "271817": {
+        "country_code": "CL",
+        "asn": "271817",
+        "description": "S.E.A. COMPUTACION SOLUCIONES TECNOLOGICAS SPA",
+        "handle": "SEA-COMPUTACION-SOLUCIONES"
+    },
+    "271836": {
+        "country_code": "CL",
+        "asn": "271836",
+        "description": "Compa\u00f1ia de Comunicaciones Coyhaique Ltda.",
+        "handle": "COMPANIA-COMUNICACIONES-COYHAIQUE"
+    },
+    "271839": {
+        "country_code": "CL",
+        "asn": "271839",
+        "description": "CARRASCO Y REYES SERVICIOS INFORM\u00c1TICOS LIMITADA",
+        "handle": "CARRASCO-REYES-SERVICIOS"
+    },
+    "271841": {
+        "country_code": "CL",
+        "asn": "271841",
+        "description": "SERVICIOS DE CONECTIVIDAD RURAL SpA",
+        "handle": "SERVICIOS-CONECTIVIDAD-RURAL"
+    },
+    "271843": {
+        "country_code": "CL",
+        "asn": "271843",
+        "description": "LARA INGENIERIA EN TECNOLOGIA Y TELECOMUNICACIONES LIMITADA (SOLUCIONES INTERLAN)",
+        "handle": "LARA-INGENIERIA-TECNOLOGIA"
+    },
+    "271846": {
+        "country_code": "CL",
+        "asn": "271846",
+        "description": "NANOTIK TELECOMUNICACIONES SPA",
+        "handle": "NANOTIK-TELECOMUNICACIONES-SPA"
+    },
+    "271849": {
+        "country_code": "CL",
+        "asn": "271849",
+        "description": "EQUIPOS ELECTRONICOS Y COMPUTACION S.A.",
+        "handle": "EQUIPOS-ELECTRONICOS-COMPUTACION"
+    },
+    "271854": {
+        "country_code": "CL",
+        "asn": "271854",
+        "description": "GRUPO NOREDZONE ISP SPA",
+        "handle": "GRUPO-NOREDZONE-ISP-SPA"
+    },
+    "271867": {
+        "country_code": "CL",
+        "asn": "271867",
+        "description": "MARIO BENAVIDES SERVICIO DE TELEVISION POR CABLE E.I.R.L (CABLEVISION DEL SUR)",
+        "handle": "MARIO-BENAVIDES-SERVICIO"
+    },
+    "271869": {
+        "country_code": "CL",
+        "asn": "271869",
+        "description": "SERVICIOS ZONALES DE INTERNET LIMITADA",
+        "handle": "SERVICIOS-ZONALES-INTERNET"
+    },
+    "271871": {
+        "country_code": "CL",
+        "asn": "271871",
+        "description": "ENGIE ENERGIA CHILE S.A.",
+        "handle": "ENGIE-ENERGIA-CHILE"
+    },
+    "271872": {
+        "country_code": "CL",
+        "asn": "271872",
+        "description": "TUMUNDO DIGITAL TELECOMUNICACIONES SPA",
+        "handle": "TUMUNDO-DIGITAL-TELECOMUNICACIONES"
+    },
+    "271893": {
+        "country_code": "CL",
+        "asn": "271893",
+        "description": "LATAM AIRLINES GROUP S.A.",
+        "handle": "LATAM-AIRLINES-GROUP"
+    },
+    "271894": {
+        "country_code": "CL",
+        "asn": "271894",
+        "description": "LATAM AIRLINES GROUP S.A.",
+        "handle": "LATAM-AIRLINES-GROUP"
+    },
+    "271895": {
+        "country_code": "CL",
+        "asn": "271895",
+        "description": "LATAM AIRLINES GROUP S.A.",
+        "handle": "LATAM-AIRLINES-GROUP"
+    },
+    "271896": {
+        "country_code": "CL",
+        "asn": "271896",
+        "description": "HENRIQUEZ TELECOMUNICACIONES LIMITADA (WILCOM)",
+        "handle": "HENRIQUEZ-TELECOMUNICACIONES-LIMITADA"
+    },
+    "271915": {
+        "country_code": "CL",
+        "asn": "271915",
+        "description": "TECNOLOGICA SIMEON COMPANY CHILE SPA",
+        "handle": "TECNOLOGICA-SIMEON-COMPANY"
+    },
+    "271921": {
+        "country_code": "CL",
+        "asn": "271921",
+        "description": "FULL NET LTDA.",
+        "handle": "FULL-NET"
+    },
+    "271937": {
+        "country_code": "CL",
+        "asn": "271937",
+        "description": "LINKSAT COMUNICACIONES SPA",
+        "handle": "LINKSAT-COMUNICACIONES-SPA"
+    },
+    "271993": {
+        "country_code": "CL",
+        "asn": "271993",
+        "description": "PHANTOM SERVER SPA",
+        "handle": "PHANTOM-SERVER-SPA"
+    },
+    "271997": {
+        "country_code": "CL",
+        "asn": "271997",
+        "description": "BIOCABLE SUR E I R L",
+        "handle": "BIOCABLE-SUR-I-R-L"
+    },
+    "272001": {
+        "country_code": "CL",
+        "asn": "272001",
+        "description": "TELTV SPA",
+        "handle": "TELTV-SPA"
+    },
+    "272014": {
+        "country_code": "CL",
+        "asn": "272014",
+        "description": "DCH COMPA\u00d1IA DE COMUNICACIONES E INMOBILIARIA LTDA",
+        "handle": "DCH-COMPANIA-COMUNICACIONES"
+    },
+    "272022": {
+        "country_code": "CL",
+        "asn": "272022",
+        "description": "ZAPPING SPA",
+        "handle": "ZAPPING-SPA"
+    },
+    "272025": {
+        "country_code": "CL",
+        "asn": "272025",
+        "description": "NETV SPA",
+        "handle": "NETV-SPA"
+    },
+    "272028": {
+        "country_code": "CL",
+        "asn": "272028",
+        "description": "COOPERATIVA AGRICOLA Y LECHERA DE LA UNION LIMITADA",
+        "handle": "COOPERATIVA-AGRICOLA-LECHERA"
+    },
+    "272031": {
+        "country_code": "CL",
+        "asn": "272031",
+        "description": "NETENMICASA SpA",
+        "handle": "NETENMICASA-SPA"
+    },
+    "272105": {
+        "country_code": "CL",
+        "asn": "272105",
+        "description": "Mevatel Limitada",
+        "handle": "MEVATEL-LIMITADA"
+    },
+    "272144": {
+        "country_code": "CL",
+        "asn": "272144",
+        "description": "TELECOMUNICACIONES HOSTINGNET SpA",
+        "handle": "TELECOMUNICACIONES-HOSTINGNET-SPA"
+    },
+    "272858": {
+        "country_code": "CL",
+        "asn": "272858",
+        "description": "OPERADORA DE TARJETAS DE CREDITO NEXUS S A",
+        "handle": "OPERADORA-TARJETAS-CREDITO"
+    },
+    "272891": {
+        "country_code": "CL",
+        "asn": "272891",
+        "description": "INVERSIONES TECNOLOGICAS UNO SPA",
+        "handle": "INVERSIONES-TECNOLOGICAS-UNO"
+    },
+    "272897": {
+        "country_code": "CL",
+        "asn": "272897",
+        "description": "SKARNET CHILE S.P.A.",
+        "handle": "SKARNET-CHILE-SPA"
+    },
+    "272957": {
+        "country_code": "CL",
+        "asn": "272957",
+        "description": "TELECOMUNICACIONES MARJORIE ANDREA MORI LAGOS E.I.R.L.",
+        "handle": "TELECOMUNICACIONES-MARJORIE-ANDREA"
+    },
+    "272981": {
+        "country_code": "CL",
+        "asn": "272981",
+        "description": "CREATTIVA INTERNET LTDA",
+        "handle": "CREATTIVA-INTERNET"
+    },
+    "273019": {
+        "country_code": "CL",
+        "asn": "273019",
+        "description": "DIRECTV CHILE TELEVISION LIMITADA",
+        "handle": "DIRECTV-CHILE-TELEVISION"
+    },
+    "273025": {
+        "country_code": "CL",
+        "asn": "273025",
+        "description": "Pacifico Cable SPA.",
+        "handle": "PACIFICO-CABLE-SPA"
+    },
+    "273028": {
+        "country_code": "CL",
+        "asn": "273028",
+        "description": "CONECTATE POR FIBRA SPA",
+        "handle": "CONECTATE-POR-FIBRA-SPA"
+    },
+    "273032": {
+        "country_code": "CL",
+        "asn": "273032",
+        "description": "EQUINIX CHILE ENTERPRISES SPA",
+        "handle": "EQUINIX-CHILE-ENTERPRISES-SPA"
+    },
+    "273073": {
+        "country_code": "CL",
+        "asn": "273073",
+        "description": "SERVICIOS DE TELECOMUNICACIONES DROPP LIMITADA",
+        "handle": "SERVICIOS-TELECOMUNICACIONES-DROPP"
+    },
+    "273091": {
+        "country_code": "CL",
+        "asn": "273091",
+        "description": "GRUPO INAN SPA",
+        "handle": "GRUPO-INAN-SPA"
+    },
+    "273097": {
+        "country_code": "CL",
+        "asn": "273097",
+        "description": "NETFULL FIBRA SpA",
+        "handle": "NETFULL-FIBRA-SPA"
+    },
+    "273148": {
+        "country_code": "CL",
+        "asn": "273148",
+        "description": "SMARTNET CHILE TELECOMUNICACIONES LIMITADA",
+        "handle": "SMARTNET-CHILE-TELECOMUNICACIONES"
+    },
+    "273178": {
+        "country_code": "CL",
+        "asn": "273178",
+        "description": "Redbanc SA",
+        "handle": "REDBANC"
+    },
+    "273179": {
+        "country_code": "CL",
+        "asn": "273179",
+        "description": "COMUNICACI\u00d3N Y TELEFONIA RURAL S.A.",
+        "handle": "COMUNICACION-TELEFONIA-RURAL"
+    },
+    "273223": {
+        "country_code": "CL",
+        "asn": "273223",
+        "description": "INGENIER\u00cdA EN INFORM\u00c1TICA MADENET SPA",
+        "handle": "INGENIERIA-INFORMATICA-MADENET"
+    },
+    "273236": {
+        "country_code": "CL",
+        "asn": "273236",
+        "description": "CAPITAL NET COMUNICACIONES LIMITADA",
+        "handle": "CAPITAL-NET-COMUNICACIONES"
+    },
+    "273237": {
+        "country_code": "CL",
+        "asn": "273237",
+        "description": "INGBELL CHILE SPA",
+        "handle": "INGBELL-CHILE-SPA"
+    },
+    "273822": {
+        "country_code": "CL",
+        "asn": "273822",
+        "description": "DIGEVO VIDEOGAME STREAMING SPA",
+        "handle": "DIGEVO-VIDEOGAME-STREAMING-SPA"
+    },
+    "273834": {
+        "country_code": "CL",
+        "asn": "273834",
+        "description": "GONZALO FARIAS GUERRA EIRL",
+        "handle": "GONZALO-FARIAS-GUERRA-EIRL"
+    },
+    "273853": {
+        "country_code": "CL",
+        "asn": "273853",
+        "description": "TELBROS SPA",
+        "handle": "TELBROS-SPA"
+    },
+    "273879": {
+        "country_code": "CL",
+        "asn": "273879",
+        "description": "CRONET TELECOM SPA",
+        "handle": "CRONET-TELECOM-SPA"
+    },
+    "273886": {
+        "country_code": "CL",
+        "asn": "273886",
+        "description": "NET GROUP-CHILE LTDA",
+        "handle": "NET-GROUP-CHILE"
+    },
+    "273920": {
+        "country_code": "CL",
+        "asn": "273920",
+        "description": "TU ESPACIO NET SPA",
+        "handle": "TU-ESPACIO-NET-SPA"
+    },
+    "273955": {
+        "country_code": "CL",
+        "asn": "273955",
+        "description": "PABLO ESTEBAN JA\u00d1A MARTINEZ SERVICIOS WEB Spa",
+        "handle": "PABLO-ESTEBAN-JANA"
+    },
+    "273963": {
+        "country_code": "CL",
+        "asn": "273963",
+        "description": "Servicios Integrales Maipo SPA",
+        "handle": "SERVICIOS-INTEGRALES-MAIPO-SPA"
+    },
+    "273973": {
+        "country_code": "CL",
+        "asn": "273973",
+        "description": "APOAPSIS SPA",
+        "handle": "APOAPSIS-SPA"
+    },
+    "273988": {
+        "country_code": "CL",
+        "asn": "273988",
+        "description": "VALLENET SPA",
+        "handle": "VALLENET-SPA"
+    },
+    "273997": {
+        "country_code": "CL",
+        "asn": "273997",
+        "description": "V2NETWORKS SPA",
+        "handle": "V2NETWORKS-SPA"
+    },
+    "274000": {
+        "country_code": "CL",
+        "asn": "274000",
+        "description": "CYBEWARD CL SPA",
+        "handle": "CYBEWARD-CL-SPA"
+    },
+    "274020": {
+        "country_code": "CL",
+        "asn": "274020",
+        "description": "FADANET SPA",
+        "handle": "FADANET-SPA"
+    },
+    "274024": {
+        "country_code": "CL",
+        "asn": "274024",
+        "description": "COOPERATIVA DE SERVICIOS DE TELECOMUNICACIONES Y TECNOLOG\u00cdA LIMITADA",
+        "handle": "COOPERATIVA-SERVICIOS-TELECOMUNICACIONES"
+    },
+    "274025": {
+        "country_code": "CL",
+        "asn": "274025",
+        "description": "SERVICIOS INTEGRALES METFY TELECOM SPA",
+        "handle": "SERVICIOS-INTEGRALES-METFY"
+    },
+    "274042": {
+        "country_code": "CL",
+        "asn": "274042",
+        "description": "INVERSIONES SB S.A. (SALCOBRAND)",
+        "handle": "INVERSIONES-SB"
+    },
+    "274073": {
+        "country_code": "CL",
+        "asn": "274073",
+        "description": "Texus Networks SpA",
+        "handle": "TEXUS-NETWORKS-SPA"
+    },
+    "274094": {
+        "country_code": "CL",
+        "asn": "274094",
+        "description": "VIALNET SPA",
+        "handle": "VIALNET-SPA"
+    },
+    "274099": {
+        "country_code": "CL",
+        "asn": "274099",
+        "description": "VALLENET SPA",
+        "handle": "VALLENET-SPA"
+    },
+    "274111": {
+        "country_code": "CL",
+        "asn": "274111",
+        "description": "SERVICIOS INFORMATICOS ALEJANDRO ENRIQUE ALIAGA VARGAS E.I.R.L. (INFRONET MAULE)",
+        "handle": "SERVICIOS-INFORMATICOS-ALEJANDRO"
+    },
+    "274136": {
+        "country_code": "CL",
+        "asn": "274136",
+        "description": "DB TERRA CHILE HOLDCO SpA",
+        "handle": "DB-TERRA-CHILE-HOLDCO-SPA"
+    },
+    "274139": {
+        "country_code": "CL",
+        "asn": "274139",
+        "description": "FIBRAMAX SPA",
+        "handle": "FIBRAMAX-SPA"
+    },
+    "274165": {
+        "country_code": "CL",
+        "asn": "274165",
+        "description": "SERVICIOS DE TELECOMUNICACIONES CNE IP SPA",
+        "handle": "SERVICIOS-TELECOMUNICACIONES-CNE"
+    },
+    "274177": {
+        "country_code": "CL",
+        "asn": "274177",
+        "description": "TELECOMUNICACIONES ORI\u00d3N LIMITADA",
+        "handle": "TELECOMUNICACIONES-ORION-LIMITADA"
+    },
+    "274199": {
+        "country_code": "CL",
+        "asn": "274199",
+        "description": "INGENIERIA INVERSIONES TECNOLOGIA Y CONSTRUCCION ENGINEERING SPA",
+        "handle": "INGENIERIA-INVERSIONES-TECNOLOGIA"
+    },
+    "274212": {
+        "country_code": "CL",
+        "asn": "274212",
+        "description": "Telacable SPA",
+        "handle": "TELACABLE-SPA"
+    },
+    "274216": {
+        "country_code": "CL",
+        "asn": "274216",
+        "description": "MOVILMAX CHILE TELECOMUNICACIONES SPA",
+        "handle": "MOVILMAX-CHILE-TELECOMUNICACIONES"
+    },
+    "274217": {
+        "country_code": "CL",
+        "asn": "274217",
+        "description": "INGENIERIA CALDERON Y FUENTES LIMITADA (PASCOM)",
+        "handle": "INGENIERIA-CALDERON-FUENTES"
+    },
+    "274219": {
+        "country_code": "CL",
+        "asn": "274219",
+        "description": "GRAFTELCOM TELECOMUNICACIONES Y TELEMETRIA LIMITADA",
+        "handle": "GRAFTELCOM-TELECOMUNICACIONES-TELEMETRIA"
+    },
+    "274225": {
+        "country_code": "CL",
+        "asn": "274225",
+        "description": "TELECOMUNICACIONES WIFINET RUPERTO TRONCOSO E.I.R.L.",
+        "handle": "TELECOMUNICACIONES-WIFINET-RUPERTO"
+    },
+    "274233": {
+        "country_code": "CL",
+        "asn": "274233",
+        "description": "HOSTING.CL",
+        "handle": "HOSTINGCL"
+    },
+    "274256": {
+        "country_code": "CL",
+        "asn": "274256",
+        "description": "INVERSIONES PROYECTOS Y SERVICIOS VILLANUEVA LIMITADA",
+        "handle": "INVERSIONES-PROYECTOS-SERVICIOS"
+    },
+    "274263": {
+        "country_code": "CL",
+        "asn": "274263",
+        "description": "WISPLAN SPA",
+        "handle": "WISPLAN-SPA"
+    },
+    "274281": {
+        "country_code": "CL",
+        "asn": "274281",
+        "description": "AFRO SpA",
+        "handle": "AFRO-SPA"
+    },
+    "274303": {
+        "country_code": "CL",
+        "asn": "274303",
+        "description": "TELEVISION CONTIVISION LIMITADA",
+        "handle": "TELEVISION-CONTIVISION-LIMITADA"
+    },
+    "274312": {
+        "country_code": "CL",
+        "asn": "274312",
+        "description": "TELYEXPRESS TELECOMUNICACIONES LIMITADA",
+        "handle": "TELYEXPRESS-TELECOMUNICACIONES-LIMITADA"
+    },
+    "274327": {
+        "country_code": "CL",
+        "asn": "274327",
+        "description": "TELECOMUNICACIONES M Y F LIMITADA",
+        "handle": "TELECOMUNICACIONES-M-F"
+    }
+}

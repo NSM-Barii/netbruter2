@@ -1,0 +1,80 @@
+{
+    "15706": {
+        "country_code": "SD",
+        "asn": "15706",
+        "description": "Sudatel (Sudan Telecom Co. Ltd)",
+        "handle": "SUDATEL"
+    },
+    "33788": {
+        "country_code": "SD",
+        "asn": "33788",
+        "description": "Kanar Telecommunication (Canar Telecom Co.Ltd)",
+        "handle": "KANARTEL"
+    },
+    "36972": {
+        "country_code": "SD",
+        "asn": "36972",
+        "description": "MTN SUDAN",
+        "handle": "MTNSD"
+    },
+    "36998": {
+        "country_code": "SD",
+        "asn": "36998",
+        "description": "Sudanese Mobile Telephone (ZAIN) Co Ltd",
+        "handle": "SDN-MOBITEL"
+    },
+    "37197": {
+        "country_code": "SD",
+        "asn": "37197",
+        "description": "Sudanese Research and Education Network",
+        "handle": "SUDREN"
+    },
+    "37211": {
+        "country_code": "SD",
+        "asn": "37211",
+        "description": "MAX NET FOR INTERNET SERVICES",
+        "handle": "MAX-NET-FOR-INTERNET-SERVICES"
+    },
+    "37256": {
+        "country_code": "SD",
+        "asn": "37256",
+        "description": "National Information Center (NIC)",
+        "handle": "NICSUDAN"
+    },
+    "327881": {
+        "country_code": "SD",
+        "asn": "327881",
+        "description": "National Information Center (NIC)",
+        "handle": "NICDC"
+    },
+    "328381": {
+        "country_code": "SD",
+        "asn": "328381",
+        "description": "Sudanese Internet Association",
+        "handle": "SUDANESE-INTERNET-AS"
+    },
+    "328421": {
+        "country_code": "SD",
+        "asn": "328421",
+        "description": "National Information Center (NIC)",
+        "handle": "NICSUDAN-AS-MGMT"
+    },
+    "328824": {
+        "country_code": "SD",
+        "asn": "328824",
+        "description": "Lulu Tech Advanced Technology",
+        "handle": "LULU-AS"
+    },
+    "328936": {
+        "country_code": "SD",
+        "asn": "328936",
+        "description": "DAL Group Co. Limited",
+        "handle": "DGCL1-AS"
+    },
+    "329344": {
+        "country_code": "SD",
+        "asn": "329344",
+        "description": "right advanced business co ltd",
+        "handle": "RIGHT-ADVANCED-BUSINESS-CO-LTD"
+    }
+}

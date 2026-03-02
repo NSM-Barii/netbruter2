@@ -1,0 +1,1706 @@
+{
+    "16284": {
+        "country_code": "NG",
+        "asn": "16284",
+        "description": "Inq. Digital Nigeria",
+        "handle": "INQ-DIGITAL-NIGERIA-AS"
+    },
+    "20598": {
+        "country_code": "NG",
+        "asn": "20598",
+        "description": "Autonomous System number for Cyber Space",
+        "handle": "CYBERSPACE-AS"
+    },
+    "25163": {
+        "country_code": "NG",
+        "asn": "25163",
+        "description": "21st Century Technologies Limited",
+        "handle": "NG-NIGERIA-AS"
+    },
+    "29091": {
+        "country_code": "NG",
+        "asn": "29091",
+        "description": "ipNX Nigeria Limited",
+        "handle": "IPNXNG"
+    },
+    "29465": {
+        "country_code": "NG",
+        "asn": "29465",
+        "description": "MTN NIGERIA Communication limited",
+        "handle": "VCG-AS"
+    },
+    "30984": {
+        "country_code": "NG",
+        "asn": "30984",
+        "description": "Main one Cable Company Nigeria Limited",
+        "handle": "MAINONE-AS"
+    },
+    "30988": {
+        "country_code": "NG",
+        "asn": "30988",
+        "description": "IS InternetSolutions Limited",
+        "handle": "ISINTERNETSOLUTIONS"
+    },
+    "30998": {
+        "country_code": "NG",
+        "asn": "30998",
+        "description": "Netcom Africa Limited",
+        "handle": "NAL-AS"
+    },
+    "35074": {
+        "country_code": "NG",
+        "asn": "35074",
+        "description": "Cobranet Limited",
+        "handle": "AS-COBRANETNG"
+    },
+    "36872": {
+        "country_code": "NG",
+        "asn": "36872",
+        "description": "Intercom Data Network Limited",
+        "handle": "IDN"
+    },
+    "36873": {
+        "country_code": "NG",
+        "asn": "36873",
+        "description": "Airtel Networks Limited",
+        "handle": "VNL1-AS"
+    },
+    "36920": {
+        "country_code": "NG",
+        "asn": "36920",
+        "description": "KKON Technologies Ltd",
+        "handle": "KKON"
+    },
+    "36922": {
+        "country_code": "NG",
+        "asn": "36922",
+        "description": "United Bank for Africa",
+        "handle": "UBA-AS"
+    },
+    "36923": {
+        "country_code": "NG",
+        "asn": "36923",
+        "description": "SWIFT NETWORKS LIMITED",
+        "handle": "SWIFTNG-ASN"
+    },
+    "36932": {
+        "country_code": "NG",
+        "asn": "36932",
+        "description": "Internet Exchange Point of Nigeria",
+        "handle": "IXPN-AS"
+    },
+    "36933": {
+        "country_code": "NG",
+        "asn": "36933",
+        "description": "MTN Nigeria",
+        "handle": "MTNNIGERIA"
+    },
+    "36938": {
+        "country_code": "NG",
+        "asn": "36938",
+        "description": "Nigeria Internet Registration Association",
+        "handle": "NIRA"
+    },
+    "36940": {
+        "country_code": "NG",
+        "asn": "36940",
+        "description": "Internet Exchange Point of Nigeria",
+        "handle": "IXPN-AS-MGMT"
+    },
+    "36957": {
+        "country_code": "NG",
+        "asn": "36957",
+        "description": "MICROACCESS LTD",
+        "handle": "MICROACCESS"
+    },
+    "36970": {
+        "country_code": "NG",
+        "asn": "36970",
+        "description": "IPARTNERS LIMITED",
+        "handle": "INTERSWITCH"
+    },
+    "36979": {
+        "country_code": "NG",
+        "asn": "36979",
+        "description": "First Bank of NG PLC",
+        "handle": "FBN-AS"
+    },
+    "36993": {
+        "country_code": "NG",
+        "asn": "36993",
+        "description": "First City Monument Bank PLC",
+        "handle": "FCMB"
+    },
+    "37001": {
+        "country_code": "NG",
+        "asn": "37001",
+        "description": "Guaranty Trust Bank Plc",
+        "handle": "GTB-AS"
+    },
+    "37004": {
+        "country_code": "NG",
+        "asn": "37004",
+        "description": "Suburban Broadband Ltd",
+        "handle": "SUBURBAN-BROADBAND-AS"
+    },
+    "37005": {
+        "country_code": "NG",
+        "asn": "37005",
+        "description": "ACCESS BANK PLC",
+        "handle": "ACCESSBK-AS"
+    },
+    "37018": {
+        "country_code": "NG",
+        "asn": "37018",
+        "description": "Galaxy Backbone PLC",
+        "handle": "GALAXYBB-AS"
+    },
+    "37025": {
+        "country_code": "NG",
+        "asn": "37025",
+        "description": "BANKPHB PLC",
+        "handle": "BANKPHB"
+    },
+    "37056": {
+        "country_code": "NG",
+        "asn": "37056",
+        "description": "Zenith Bank PLC",
+        "handle": "ZENITH-BANK"
+    },
+    "37058": {
+        "country_code": "NG",
+        "asn": "37058",
+        "description": "SKYE BANK PLC",
+        "handle": "SKYE-BANK"
+    },
+    "37076": {
+        "country_code": "NG",
+        "asn": "37076",
+        "description": "Emerging Markets Telecommunication Services (EMTS) Limited",
+        "handle": "EMTS-NIGERIA-AS"
+    },
+    "37077": {
+        "country_code": "NG",
+        "asn": "37077",
+        "description": "American University of Nigeria - AUN (formerly AAUN)",
+        "handle": "AAUN-NG"
+    },
+    "37088": {
+        "country_code": "NG",
+        "asn": "37088",
+        "description": "VDT COMMUNICATIONS LIMITED",
+        "handle": "VDT-AS"
+    },
+    "37104": {
+        "country_code": "NG",
+        "asn": "37104",
+        "description": "STANBIC IBTC BANK PLC",
+        "handle": "STANBIC-AS"
+    },
+    "37106": {
+        "country_code": "NG",
+        "asn": "37106",
+        "description": "ODUA TELECOMS LTD",
+        "handle": "ODUA-AS"
+    },
+    "37125": {
+        "country_code": "NG",
+        "asn": "37125",
+        "description": "Layer3 Limited",
+        "handle": "LAYER3-NG"
+    },
+    "37127": {
+        "country_code": "NG",
+        "asn": "37127",
+        "description": "Visafone Communications Limited",
+        "handle": "VISAFONE"
+    },
+    "37144": {
+        "country_code": "NG",
+        "asn": "37144",
+        "description": "Unified Payment Services Limited",
+        "handle": "VALUCARD-NG"
+    },
+    "37148": {
+        "country_code": "NG",
+        "asn": "37148",
+        "description": "Globacom Limited",
+        "handle": "GLOBACOM-AS"
+    },
+    "37170": {
+        "country_code": "NG",
+        "asn": "37170",
+        "description": "University of Lagos",
+        "handle": "UNILAG"
+    },
+    "37178": {
+        "country_code": "NG",
+        "asn": "37178",
+        "description": "ALPHA-BETA CONSULTING LIMITED LIABILITY PARTNERSHIP",
+        "handle": "ALPHA-BETA-CONSULTING"
+    },
+    "37192": {
+        "country_code": "NG",
+        "asn": "37192",
+        "description": "Electronic Connections Limitied",
+        "handle": "ECNX"
+    },
+    "37194": {
+        "country_code": "NG",
+        "asn": "37194",
+        "description": "Voix Networks Ltd",
+        "handle": "VOIX-NETWORKS"
+    },
+    "37200": {
+        "country_code": "NG",
+        "asn": "37200",
+        "description": "SimbaNET Nigeria Limited",
+        "handle": "SIMBANET-NIGERIA"
+    },
+    "37207": {
+        "country_code": "NG",
+        "asn": "37207",
+        "description": "Nigeria National Petroleum Corporation",
+        "handle": "NNPC"
+    },
+    "37209": {
+        "country_code": "NG",
+        "asn": "37209",
+        "description": "Hyperia Limited",
+        "handle": "HYPERIA"
+    },
+    "37222": {
+        "country_code": "NG",
+        "asn": "37222",
+        "description": "Interconnect Clearinghouse Nigeria Ltd",
+        "handle": "INTERCONNECT-NG"
+    },
+    "37230": {
+        "country_code": "NG",
+        "asn": "37230",
+        "description": "Swifttalk Limited",
+        "handle": "SWIFTTALK"
+    },
+    "37248": {
+        "country_code": "NG",
+        "asn": "37248",
+        "description": "Phase3 Telecom Limited",
+        "handle": "PHASE3TEL"
+    },
+    "37249": {
+        "country_code": "NG",
+        "asn": "37249",
+        "description": "Computer Warehouse group",
+        "handle": "CWHOUSE"
+    },
+    "37258": {
+        "country_code": "NG",
+        "asn": "37258",
+        "description": "Defence Intelligence Agency",
+        "handle": "DIANG"
+    },
+    "37269": {
+        "country_code": "NG",
+        "asn": "37269",
+        "description": "Information Connectivity Solutions Limited",
+        "handle": "ICSL"
+    },
+    "37280": {
+        "country_code": "NG",
+        "asn": "37280",
+        "description": "Broad Based Communications Limited",
+        "handle": "BCL"
+    },
+    "37282": {
+        "country_code": "NG",
+        "asn": "37282",
+        "description": "Main one Cable Company Nigeria Limited",
+        "handle": "MAINONE"
+    },
+    "37286": {
+        "country_code": "NG",
+        "asn": "37286",
+        "description": "Nigeria ICT Forum of Partnership Institutions",
+        "handle": "NG-ICT-FORUM"
+    },
+    "37296": {
+        "country_code": "NG",
+        "asn": "37296",
+        "description": "Afcom Satellite Networks Nigeria Limited",
+        "handle": "AFCOMSAT"
+    },
+    "37297": {
+        "country_code": "NG",
+        "asn": "37297",
+        "description": "Obafemi Awolowo University Ife",
+        "handle": "OAU-IFE"
+    },
+    "37308": {
+        "country_code": "NG",
+        "asn": "37308",
+        "description": "Steam Broadcasting and Communications Limited",
+        "handle": "COOLLINK"
+    },
+    "37328": {
+        "country_code": "NG",
+        "asn": "37328",
+        "description": "Wema Bank Plc",
+        "handle": "WEMABANK"
+    },
+    "37340": {
+        "country_code": "NG",
+        "asn": "37340",
+        "description": "SPECTRANET LIMITED",
+        "handle": "SPECTRANET"
+    },
+    "37345": {
+        "country_code": "NG",
+        "asn": "37345",
+        "description": "Medallion Communications",
+        "handle": "MEDAILLON"
+    },
+    "37347": {
+        "country_code": "NG",
+        "asn": "37347",
+        "description": "NGCOM",
+        "handle": "NGCOM"
+    },
+    "37369": {
+        "country_code": "NG",
+        "asn": "37369",
+        "description": "Nnamdi Azikiwe University",
+        "handle": "UNIZIK"
+    },
+    "37377": {
+        "country_code": "NG",
+        "asn": "37377",
+        "description": "FUTURECOM LIMITED",
+        "handle": "FUTURECOM"
+    },
+    "37398": {
+        "country_code": "NG",
+        "asn": "37398",
+        "description": "Juniper solutions Limited",
+        "handle": "JUNISAT"
+    },
+    "37404": {
+        "country_code": "NG",
+        "asn": "37404",
+        "description": "University of Ibadan",
+        "handle": "UNIVERSITY-OF-IBADAN"
+    },
+    "37405": {
+        "country_code": "NG",
+        "asn": "37405",
+        "description": "University of Nigeria",
+        "handle": "UNIV-NG-NSUKKA"
+    },
+    "37407": {
+        "country_code": "NG",
+        "asn": "37407",
+        "description": "Levant Pro Limited",
+        "handle": "LEVANT-NG"
+    },
+    "37420": {
+        "country_code": "NG",
+        "asn": "37420",
+        "description": "University of JOS",
+        "handle": "UNIV-JOS"
+    },
+    "37426": {
+        "country_code": "NG",
+        "asn": "37426",
+        "description": "ASSET MANAGEMENT CORPORATION OF NIGERIA",
+        "handle": "AMCON"
+    },
+    "37433": {
+        "country_code": "NG",
+        "asn": "37433",
+        "description": "KKON Technologies Ltd",
+        "handle": "KKON-ABUJA"
+    },
+    "37443": {
+        "country_code": "NG",
+        "asn": "37443",
+        "description": "Usmanu Danfodiyo University",
+        "handle": "USMANU"
+    },
+    "37445": {
+        "country_code": "NG",
+        "asn": "37445",
+        "description": "Etranzact Int'l Plc",
+        "handle": "ETRANZACT"
+    },
+    "37452": {
+        "country_code": "NG",
+        "asn": "37452",
+        "description": "Central Bank of Nigeria",
+        "handle": "CB-NIGERIA"
+    },
+    "37472": {
+        "country_code": "NG",
+        "asn": "37472",
+        "description": "Nigerian Communications Satellite Ltd",
+        "handle": "NIGCOMSAT"
+    },
+    "37480": {
+        "country_code": "NG",
+        "asn": "37480",
+        "description": "Cobranet Limited",
+        "handle": "COBRANET"
+    },
+    "37490": {
+        "country_code": "NG",
+        "asn": "37490",
+        "description": "ASO Savings & Loans PLC",
+        "handle": "ASO-SAVINGS"
+    },
+    "37495": {
+        "country_code": "NG",
+        "asn": "37495",
+        "description": "Eko-Konnect Research and Education Initiative",
+        "handle": "EKO-KONNECT"
+    },
+    "37506": {
+        "country_code": "NG",
+        "asn": "37506",
+        "description": "Zinox Telecommunications Limited",
+        "handle": "ZINOX"
+    },
+    "37521": {
+        "country_code": "NG",
+        "asn": "37521",
+        "description": "Internet Solutions Nigeria Limited",
+        "handle": "INTERNET-SOLUTIONS-NG"
+    },
+    "37522": {
+        "country_code": "NG",
+        "asn": "37522",
+        "description": "FLOURMILLS OF NIGERIA PLC",
+        "handle": "FLOURMILLS-NG"
+    },
+    "37528": {
+        "country_code": "NG",
+        "asn": "37528",
+        "description": "American International School Abuja",
+        "handle": "AISA"
+    },
+    "37540": {
+        "country_code": "NG",
+        "asn": "37540",
+        "description": "Winrock Nigeria Limited",
+        "handle": "WINROCK-NG"
+    },
+    "37565": {
+        "country_code": "NG",
+        "asn": "37565",
+        "description": "NIGERIAN STOCK EXCHANGE",
+        "handle": "NSE-AS"
+    },
+    "37567": {
+        "country_code": "NG",
+        "asn": "37567",
+        "description": "Nigeria Inter-Bank Settlement System Plc",
+        "handle": "NIBSS"
+    },
+    "37587": {
+        "country_code": "NG",
+        "asn": "37587",
+        "description": "UNION BANK OF NIGERIA PLC",
+        "handle": "UNION-BANK"
+    },
+    "37588": {
+        "country_code": "NG",
+        "asn": "37588",
+        "description": "ORLEAN INVEST AFRICA LIMITED",
+        "handle": "ORLEAN-INVEST-AFRICA-LIMITED"
+    },
+    "37605": {
+        "country_code": "NG",
+        "asn": "37605",
+        "description": "General Telecommunication Networks (NIG) Limited",
+        "handle": "GTNL1-AS"
+    },
+    "37629": {
+        "country_code": "NG",
+        "asn": "37629",
+        "description": "eStream Networks",
+        "handle": "ESTREAMNETWORKS-AS"
+    },
+    "37637": {
+        "country_code": "NG",
+        "asn": "37637",
+        "description": "Smile Communications Nigeria",
+        "handle": "SMILE-NIGERIA-AS"
+    },
+    "37657": {
+        "country_code": "NG",
+        "asn": "37657",
+        "description": "Lagos State Government",
+        "handle": "LASG-AS"
+    },
+    "37659": {
+        "country_code": "NG",
+        "asn": "37659",
+        "description": "BillyRonks Global Ltd",
+        "handle": "BILLYRONKS-GLOBAL-AS"
+    },
+    "37660": {
+        "country_code": "NG",
+        "asn": "37660",
+        "description": "Premier Lotto Limited",
+        "handle": "PREMIERLOTTO-AS"
+    },
+    "37661": {
+        "country_code": "NG",
+        "asn": "37661",
+        "description": "Nigerian Research and Education Network Limited by Guarantee",
+        "handle": "NRAE1-AS"
+    },
+    "37676": {
+        "country_code": "NG",
+        "asn": "37676",
+        "description": "Federal University Oye-EKiti",
+        "handle": "OYE-EKITI"
+    },
+    "37682": {
+        "country_code": "NG",
+        "asn": "37682",
+        "description": "Tizeti Network Limited",
+        "handle": "TIZETI-AS"
+    },
+    "37686": {
+        "country_code": "NG",
+        "asn": "37686",
+        "description": "Ahmadu Bello University Zaria Nigeria",
+        "handle": "ABUZ1-AS"
+    },
+    "37687": {
+        "country_code": "NG",
+        "asn": "37687",
+        "description": "Pan-Atlantic University",
+        "handle": "PAU-AS"
+    },
+    "37688": {
+        "country_code": "NG",
+        "asn": "37688",
+        "description": "BACKBONE CONNECTIVITY NETWORK (NIGERIA) LIMITED",
+        "handle": "BCNL1-AS"
+    },
+    "37714": {
+        "country_code": "NG",
+        "asn": "37714",
+        "description": "BITFLUX COMMUNICATIONS LIMITED",
+        "handle": "BITFLUX"
+    },
+    "37783": {
+        "country_code": "NG",
+        "asn": "37783",
+        "description": "Main one Cable Company Nigeria Limited",
+        "handle": "WAF-IX-AS-PEERING"
+    },
+    "37793": {
+        "country_code": "NG",
+        "asn": "37793",
+        "description": "AF-CIX Limited",
+        "handle": "AF-CIX"
+    },
+    "214354": {
+        "country_code": "NG",
+        "asn": "214354",
+        "description": "SiteHUB Agency Ltd",
+        "handle": "AS-SITEHUB"
+    },
+    "215340": {
+        "country_code": "NG",
+        "asn": "215340",
+        "description": "Huize Telecom Limited",
+        "handle": "MYSIM-NIGERIA"
+    },
+    "327684": {
+        "country_code": "NG",
+        "asn": "327684",
+        "description": "IPARTNERS LIMITED",
+        "handle": "IPARTNERS"
+    },
+    "327704": {
+        "country_code": "NG",
+        "asn": "327704",
+        "description": "Medallion Communications",
+        "handle": "MEDALLION"
+    },
+    "327705": {
+        "country_code": "NG",
+        "asn": "327705",
+        "description": "Federal University of Technology Akure(FUTA)",
+        "handle": "FUTA"
+    },
+    "327721": {
+        "country_code": "NG",
+        "asn": "327721",
+        "description": "Interswitch Limited",
+        "handle": "INTERSWITCH"
+    },
+    "327729": {
+        "country_code": "NG",
+        "asn": "327729",
+        "description": "Babcock University",
+        "handle": "BABCOCK-UNIV"
+    },
+    "327763": {
+        "country_code": "NG",
+        "asn": "327763",
+        "description": "BOWEN UNIVERSITY",
+        "handle": "BOWEN-UNIVERSITY"
+    },
+    "327784": {
+        "country_code": "NG",
+        "asn": "327784",
+        "description": "Fidelity Bank PLC",
+        "handle": "FIDELITY-BANK"
+    },
+    "327803": {
+        "country_code": "NG",
+        "asn": "327803",
+        "description": "Coscharis Technologies",
+        "handle": "COSCHARIS-TECHNOLOGIES"
+    },
+    "327810": {
+        "country_code": "NG",
+        "asn": "327810",
+        "description": "MERISTEM SECURITIES LIMITED",
+        "handle": "MERISTEM-SECURITIES"
+    },
+    "327843": {
+        "country_code": "NG",
+        "asn": "327843",
+        "description": "Pan Atlantic University",
+        "handle": "PAN-ATLANTIC-UNIVERSITY"
+    },
+    "327891": {
+        "country_code": "NG",
+        "asn": "327891",
+        "description": "Nanocom International Ltd",
+        "handle": "NANOCOM"
+    },
+    "327895": {
+        "country_code": "NG",
+        "asn": "327895",
+        "description": "Megafast Networks LTD",
+        "handle": "MEGAFAST-NETWORKS"
+    },
+    "327898": {
+        "country_code": "NG",
+        "asn": "327898",
+        "description": "CBC EMEA LTD",
+        "handle": "CBC-EMEA"
+    },
+    "327915": {
+        "country_code": "NG",
+        "asn": "327915",
+        "description": "University Of Port Harcourt Nigeria",
+        "handle": "AS-UPH"
+    },
+    "327924": {
+        "country_code": "NG",
+        "asn": "327924",
+        "description": "EXCELSIMO NETWORKS LIMITED",
+        "handle": "EXCELSIMO-NETWORKS"
+    },
+    "327942": {
+        "country_code": "NG",
+        "asn": "327942",
+        "description": "LANDMARK UNIVERSITY OMU-ARAN",
+        "handle": "LANDMARK-UNIVERSITY"
+    },
+    "327952": {
+        "country_code": "NG",
+        "asn": "327952",
+        "description": "NATCOM Development and Investment Limited",
+        "handle": "AS-NATCOM"
+    },
+    "327953": {
+        "country_code": "NG",
+        "asn": "327953",
+        "description": "ABUJA ELECTRICITY DISTRIBUTION PLC",
+        "handle": "ABUJA-ELECTRIC"
+    },
+    "327981": {
+        "country_code": "NG",
+        "asn": "327981",
+        "description": "Ekovolt Telco Limited",
+        "handle": "EKOVOLT-TELCO"
+    },
+    "327985": {
+        "country_code": "NG",
+        "asn": "327985",
+        "description": "IDS Africa Limited",
+        "handle": "IDS-AFRICA"
+    },
+    "327986": {
+        "country_code": "NG",
+        "asn": "327986",
+        "description": "GUTTI GLOBAL NETWORKS",
+        "handle": "GUTTI-GLOBAL-NETWORKS"
+    },
+    "328027": {
+        "country_code": "NG",
+        "asn": "328027",
+        "description": "Sahara Group Limited",
+        "handle": "SAHARA-GROUP"
+    },
+    "328034": {
+        "country_code": "NG",
+        "asn": "328034",
+        "description": "Bright Technologies",
+        "handle": "BRIGHT-TECH-AS"
+    },
+    "328035": {
+        "country_code": "NG",
+        "asn": "328035",
+        "description": "Zeta-web Nigeria Limited",
+        "handle": "ZETA-WEB-NIGERIA-AS"
+    },
+    "328053": {
+        "country_code": "NG",
+        "asn": "328053",
+        "description": "Sterling Bank Plc",
+        "handle": "STERLING-BANK-AS"
+    },
+    "328080": {
+        "country_code": "NG",
+        "asn": "328080",
+        "description": "Inview Technology Limited",
+        "handle": "INVIEW-TECH-AS"
+    },
+    "328081": {
+        "country_code": "NG",
+        "asn": "328081",
+        "description": "HollaTags Limited",
+        "handle": "HOLLATAGS-AS"
+    },
+    "328128": {
+        "country_code": "NG",
+        "asn": "328128",
+        "description": "Tehilah Base Digital LTD",
+        "handle": "TEHILAH-BASE-AS"
+    },
+    "328131": {
+        "country_code": "NG",
+        "asn": "328131",
+        "description": "Webb Fontaine Nigeria Limited",
+        "handle": "WEBB-FONTAINE-AS"
+    },
+    "328158": {
+        "country_code": "NG",
+        "asn": "328158",
+        "description": "EXCHANGE TELECOMMUNICATIONS LIMITED",
+        "handle": "EXCHANGE-TELECOMS-LIMITED"
+    },
+    "328160": {
+        "country_code": "NG",
+        "asn": "328160",
+        "description": "Dotmac Technologies Limited",
+        "handle": "DOTMAC-TECH"
+    },
+    "328171": {
+        "country_code": "NG",
+        "asn": "328171",
+        "description": "TREFOIL NETWORKS LTD",
+        "handle": "TREFOIL"
+    },
+    "328175": {
+        "country_code": "NG",
+        "asn": "328175",
+        "description": "Xpress Payment Solutions Limited",
+        "handle": "XPRESS-PAYMENT"
+    },
+    "328177": {
+        "country_code": "NG",
+        "asn": "328177",
+        "description": "University of Abuja",
+        "handle": "UNI-ABUJA"
+    },
+    "328183": {
+        "country_code": "NG",
+        "asn": "328183",
+        "description": "Nigerian Ports Authority",
+        "handle": "NIGERIAN-PORTS-AUTHORITY"
+    },
+    "328188": {
+        "country_code": "NG",
+        "asn": "328188",
+        "description": "Covenant University",
+        "handle": "COVENANT-UNIVERSITY-AS"
+    },
+    "328189": {
+        "country_code": "NG",
+        "asn": "328189",
+        "description": "ECOBANK NIGERIA LIMITED",
+        "handle": "ECOBANK-NIGERIA"
+    },
+    "328203": {
+        "country_code": "NG",
+        "asn": "328203",
+        "description": "Platinum Index Data Communications Ltd",
+        "handle": "PLATINUM-INDEX-AS"
+    },
+    "328221": {
+        "country_code": "NG",
+        "asn": "328221",
+        "description": "CORALPAY TECHNOLOGY (NIGERIA) LIMITED",
+        "handle": "CORALPAY"
+    },
+    "328240": {
+        "country_code": "NG",
+        "asn": "328240",
+        "description": "DANGOTE INDUSTRIES LIMITED",
+        "handle": "DANGOTE-AS"
+    },
+    "328256": {
+        "country_code": "NG",
+        "asn": "328256",
+        "description": "Skymax Integrated Network Ltd",
+        "handle": "SKYMAX-INTEGRATED-NETWORK-AS"
+    },
+    "328305": {
+        "country_code": "NG",
+        "asn": "328305",
+        "description": "Yappingo Nigeria Limited",
+        "handle": "YAPPINGO-AS"
+    },
+    "328309": {
+        "country_code": "NG",
+        "asn": "328309",
+        "description": "Globacom Limited",
+        "handle": "GLOBACOM-AS"
+    },
+    "328324": {
+        "country_code": "NG",
+        "asn": "328324",
+        "description": "Federal University of Agriculture",
+        "handle": "FEDERALUNIVERSITY-AS"
+    },
+    "328332": {
+        "country_code": "NG",
+        "asn": "328332",
+        "description": "First Exploration and Petroleum Development Company Limited",
+        "handle": "FEAP-AS"
+    },
+    "328357": {
+        "country_code": "NG",
+        "asn": "328357",
+        "description": "Castlenet Consulting Limited",
+        "handle": "CASTELNET-AS"
+    },
+    "328362": {
+        "country_code": "NG",
+        "asn": "328362",
+        "description": "University of Ilorin",
+        "handle": "UNIVERSITYILORIN-AS"
+    },
+    "328376": {
+        "country_code": "NG",
+        "asn": "328376",
+        "description": "ALFA O AND O VENTURES LTD",
+        "handle": "ALFA-O-AS"
+    },
+    "328387": {
+        "country_code": "NG",
+        "asn": "328387",
+        "description": "COZ Internet Ltd",
+        "handle": "COZ-INTERNET-AS"
+    },
+    "328395": {
+        "country_code": "NG",
+        "asn": "328395",
+        "description": "Main one Cable Company Nigeria Limited",
+        "handle": "WAF-IX-AS-MGMT"
+    },
+    "328401": {
+        "country_code": "NG",
+        "asn": "328401",
+        "description": "Soft Alliance and Resources Limited",
+        "handle": "SOFTALLIANCE-AS"
+    },
+    "328415": {
+        "country_code": "NG",
+        "asn": "328415",
+        "description": "ConnectFocus Technologies Limited",
+        "handle": "CONNECTFOCUS-AS"
+    },
+    "328419": {
+        "country_code": "NG",
+        "asn": "328419",
+        "description": "Bayero University",
+        "handle": "BAYERO-UNIVERSITY-AS"
+    },
+    "328447": {
+        "country_code": "NG",
+        "asn": "328447",
+        "description": "EKO Electricity Distribution PLC",
+        "handle": "EKO-ELECTRICITY-AS"
+    },
+    "328451": {
+        "country_code": "NG",
+        "asn": "328451",
+        "description": "IP Express Ltd",
+        "handle": "IP-EXPRESS-LTD-AS"
+    },
+    "328457": {
+        "country_code": "NG",
+        "asn": "328457",
+        "description": "Brainshare Technologies and Services Nigeria Limited",
+        "handle": "BRAINSHARE-TECHNOLOGIES-AS"
+    },
+    "328496": {
+        "country_code": "NG",
+        "asn": "328496",
+        "description": "CyberSOC Africa Limited",
+        "handle": "CYBERSOC-AFRICA-AS"
+    },
+    "328497": {
+        "country_code": "NG",
+        "asn": "328497",
+        "description": "Ibadan Electricity Distribution Company Plc",
+        "handle": "IBADAN-ELECTRICITY-AS"
+    },
+    "328503": {
+        "country_code": "NG",
+        "asn": "328503",
+        "description": "Living Faith Church WorldWide",
+        "handle": "LIVING-FAITH-CHURCH-WORLDWIDE-AS"
+    },
+    "328516": {
+        "country_code": "NG",
+        "asn": "328516",
+        "description": "Premium Pension Limited",
+        "handle": "PREMIUM-PENSION-LIMITED-AS"
+    },
+    "328522": {
+        "country_code": "NG",
+        "asn": "328522",
+        "description": "Cynox-IT Limited",
+        "handle": "CYNOX-IT"
+    },
+    "328527": {
+        "country_code": "NG",
+        "asn": "328527",
+        "description": "PDS Networks Nigeria Limited",
+        "handle": "PDS-NETWORKS"
+    },
+    "328528": {
+        "country_code": "NG",
+        "asn": "328528",
+        "description": "NetIT Solutions LTD",
+        "handle": "NETIT-SOLUTIONS"
+    },
+    "328555": {
+        "country_code": "NG",
+        "asn": "328555",
+        "description": "Timeless Network Services Ltd",
+        "handle": "TIMELESS-NETWORK-SERVICES-AS"
+    },
+    "328556": {
+        "country_code": "NG",
+        "asn": "328556",
+        "description": "SYSCODES COMMUNICATIONS LIMITED",
+        "handle": "SYSCODES-COMMUNICATIONS-AS"
+    },
+    "328580": {
+        "country_code": "NG",
+        "asn": "328580",
+        "description": "O'Play Digital Services Limited",
+        "handle": "OPLAY-DIGITAL-SERVICES"
+    },
+    "328585": {
+        "country_code": "NG",
+        "asn": "328585",
+        "description": "MegaMore Wireless Broadband Limited",
+        "handle": "MEGAMORE"
+    },
+    "328609": {
+        "country_code": "NG",
+        "asn": "328609",
+        "description": "Axa Mansard Insurance PLC",
+        "handle": "AXA-MANSARD"
+    },
+    "328613": {
+        "country_code": "NG",
+        "asn": "328613",
+        "description": "Trakatel Limited",
+        "handle": "TRAKATEL"
+    },
+    "328617": {
+        "country_code": "NG",
+        "asn": "328617",
+        "description": "Skystar Global Solutions Limited",
+        "handle": "SKYSTAR-GLOBAL-SOLUTIONS"
+    },
+    "328630": {
+        "country_code": "NG",
+        "asn": "328630",
+        "description": "Tizeti Network Limited",
+        "handle": "TIZETI-GH"
+    },
+    "328658": {
+        "country_code": "NG",
+        "asn": "328658",
+        "description": "De Choicetech Integrated Ltd",
+        "handle": "DE-CHOICETECH-INTEGRATED"
+    },
+    "328668": {
+        "country_code": "NG",
+        "asn": "328668",
+        "description": "Nkponani Limited",
+        "handle": "NKPONANI-AS"
+    },
+    "328696": {
+        "country_code": "NG",
+        "asn": "328696",
+        "description": "Tecpoint Global Solution limited",
+        "handle": "TECPOINT-GLOBAL-SOLUTIONS"
+    },
+    "328722": {
+        "country_code": "NG",
+        "asn": "328722",
+        "description": "Ciudad Infrastructure Limited",
+        "handle": "CIUDAD-AS"
+    },
+    "328742": {
+        "country_code": "NG",
+        "asn": "328742",
+        "description": "Simplifyd Systems Nigeria Limited",
+        "handle": "SIMPLIFYD-SYSTEMS-AS"
+    },
+    "328746": {
+        "country_code": "NG",
+        "asn": "328746",
+        "description": "Globus Bank Limited",
+        "handle": "GLOBUS-BANK-AS"
+    },
+    "328764": {
+        "country_code": "NG",
+        "asn": "328764",
+        "description": "Ekiti State University",
+        "handle": "EKITI-STATE-UNIVERSITY-AS"
+    },
+    "328776": {
+        "country_code": "NG",
+        "asn": "328776",
+        "description": "Evercare Hospital Lekki Limited",
+        "handle": "EVERCARE-HOSPITAL-LEKKI"
+    },
+    "328779": {
+        "country_code": "NG",
+        "asn": "328779",
+        "description": "Proline Technologies Limited",
+        "handle": "PROLINE-TECHNOLOGIES"
+    },
+    "328780": {
+        "country_code": "NG",
+        "asn": "328780",
+        "description": "IMBIL TELECOM SOLUTIONS NIG. LTD",
+        "handle": "IMBIL-TELECOM-AS"
+    },
+    "328789": {
+        "country_code": "NG",
+        "asn": "328789",
+        "description": "MAFAB Communications Limited",
+        "handle": "MCL"
+    },
+    "328823": {
+        "country_code": "NG",
+        "asn": "328823",
+        "description": "JAIZ BANK PLC",
+        "handle": "JAIZ-AS"
+    },
+    "328825": {
+        "country_code": "NG",
+        "asn": "328825",
+        "description": "Access and Content Ltd",
+        "handle": "AACL-AS"
+    },
+    "328833": {
+        "country_code": "NG",
+        "asn": "328833",
+        "description": "Flash Wireless ISP Enterprises",
+        "handle": "FW-AS"
+    },
+    "328834": {
+        "country_code": "NG",
+        "asn": "328834",
+        "description": "Winrock Nigeria Limited",
+        "handle": "WIN-FTTH-AS"
+    },
+    "328854": {
+        "country_code": "NG",
+        "asn": "328854",
+        "description": "CEFLIX-SCEPTER LIMITED",
+        "handle": "CEFLIXAS"
+    },
+    "328861": {
+        "country_code": "NG",
+        "asn": "328861",
+        "description": "National Identity Management Commission",
+        "handle": "NIMC-AS"
+    },
+    "328873": {
+        "country_code": "NG",
+        "asn": "328873",
+        "description": "National Assembly Abuja",
+        "handle": "NATIONALASSEMBLYABUJA"
+    },
+    "328875": {
+        "country_code": "NG",
+        "asn": "328875",
+        "description": "Upperlink Limited",
+        "handle": "UPPERLING-AS"
+    },
+    "328881": {
+        "country_code": "NG",
+        "asn": "328881",
+        "description": "Petroleum Equalisation Fund (Management) Board",
+        "handle": "PEFB-AS"
+    },
+    "328905": {
+        "country_code": "NG",
+        "asn": "328905",
+        "description": "Nigerian Communications Commission (NCC)",
+        "handle": "NCC-AS"
+    },
+    "328918": {
+        "country_code": "NG",
+        "asn": "328918",
+        "description": "Fibrehub Internetworking Services Ltd",
+        "handle": "FISL-AS"
+    },
+    "328938": {
+        "country_code": "NG",
+        "asn": "328938",
+        "description": "TELKO MANAGED SERVICES LIMITED",
+        "handle": "TMSL1-AS"
+    },
+    "328940": {
+        "country_code": "NG",
+        "asn": "328940",
+        "description": "Vovida Communications Ltd",
+        "handle": "VCL8-AS"
+    },
+    "328945": {
+        "country_code": "NG",
+        "asn": "328945",
+        "description": "Netaccess Systems Limited",
+        "handle": "NSL7-AS"
+    },
+    "328951": {
+        "country_code": "NG",
+        "asn": "328951",
+        "description": "Parallex Bank Limited",
+        "handle": "PBL2-AS"
+    },
+    "328976": {
+        "country_code": "NG",
+        "asn": "328976",
+        "description": "KAOPU CLOUD (NIGERIA) LIMITED",
+        "handle": "KCL2-AS"
+    },
+    "328999": {
+        "country_code": "NG",
+        "asn": "328999",
+        "description": "BrowsePoint Telecom Nigeria Limited",
+        "handle": "BROWSEPOINT"
+    },
+    "329001": {
+        "country_code": "NG",
+        "asn": "329001",
+        "description": "Kasi Cloud Limited",
+        "handle": "KCL3-AS"
+    },
+    "329015": {
+        "country_code": "NG",
+        "asn": "329015",
+        "description": "Epik Africa Limited",
+        "handle": "EAL1-AS"
+    },
+    "329019": {
+        "country_code": "NG",
+        "asn": "329019",
+        "description": "Tangerine Life Insurance Limited",
+        "handle": "TLIL1-AS"
+    },
+    "329022": {
+        "country_code": "NG",
+        "asn": "329022",
+        "description": "Gifra Wireless Network Limited",
+        "handle": "GWNL1-AS"
+    },
+    "329023": {
+        "country_code": "NG",
+        "asn": "329023",
+        "description": "Treten Networks Limited",
+        "handle": "TRETEN-NETWORKS-AS"
+    },
+    "329024": {
+        "country_code": "NG",
+        "asn": "329024",
+        "description": "LULI FIBRA CABLE SOLUTION LIMITED",
+        "handle": "LFCS1-AS"
+    },
+    "329031": {
+        "country_code": "NG",
+        "asn": "329031",
+        "description": "Routelink Integrated Systems Ltd",
+        "handle": "RISL1-AS"
+    },
+    "329050": {
+        "country_code": "NG",
+        "asn": "329050",
+        "description": "Julius Berger Nigeria PLC",
+        "handle": "JBNP1-AS"
+    },
+    "329051": {
+        "country_code": "NG",
+        "asn": "329051",
+        "description": "SPECTRANET LIMITED",
+        "handle": "SPECTRANET-LIMITED"
+    },
+    "329052": {
+        "country_code": "NG",
+        "asn": "329052",
+        "description": "N. E Diversified Limited",
+        "handle": "NEDL1-AS"
+    },
+    "329054": {
+        "country_code": "NG",
+        "asn": "329054",
+        "description": "9 Payment Service Bank Limited",
+        "handle": "PSBL1-AS"
+    },
+    "329057": {
+        "country_code": "NG",
+        "asn": "329057",
+        "description": "Smart City Technology Company Ltd",
+        "handle": "SMART-CITY-TECH"
+    },
+    "329083": {
+        "country_code": "NG",
+        "asn": "329083",
+        "description": "Watch Tower Society of Jehovah's Witnesses (LTD/GTE)",
+        "handle": "WTSO1-AS"
+    },
+    "329099": {
+        "country_code": "NG",
+        "asn": "329099",
+        "description": "MANGONET INTEGRATED TECHNOLOGIES LIMITED",
+        "handle": "MITL1-AS"
+    },
+    "329120": {
+        "country_code": "NG",
+        "asn": "329120",
+        "description": "Dearie Communication",
+        "handle": "DC4-AS"
+    },
+    "329123": {
+        "country_code": "NG",
+        "asn": "329123",
+        "description": "RATEL PLUS NIGERIA LIMITED",
+        "handle": "RPNL1-AS"
+    },
+    "329127": {
+        "country_code": "NG",
+        "asn": "329127",
+        "description": "Coquina Software Company Limited",
+        "handle": "CSCL1-AS"
+    },
+    "329142": {
+        "country_code": "NG",
+        "asn": "329142",
+        "description": "ITEX Integrated Services Limited",
+        "handle": "IISL1-AS"
+    },
+    "329145": {
+        "country_code": "NG",
+        "asn": "329145",
+        "description": "AF-CIX Limited",
+        "handle": "AF-CIX"
+    },
+    "329148": {
+        "country_code": "NG",
+        "asn": "329148",
+        "description": "Fibreworld Telecommunications Networks Limited",
+        "handle": "FTNL2-AS"
+    },
+    "329150": {
+        "country_code": "NG",
+        "asn": "329150",
+        "description": "Wave5Wireless Limited",
+        "handle": "WL10-AS"
+    },
+    "329171": {
+        "country_code": "NG",
+        "asn": "329171",
+        "description": "WOW Networks Limited",
+        "handle": "WNL3-AS"
+    },
+    "329182": {
+        "country_code": "NG",
+        "asn": "329182",
+        "description": "AMICS TECHNOLOGIES LIMITED",
+        "handle": "AMICS-TECHNOLOGIES-LIMITED"
+    },
+    "329191": {
+        "country_code": "NG",
+        "asn": "329191",
+        "description": "Nilmage Two4Seven Limited",
+        "handle": "NTL3-AS"
+    },
+    "329199": {
+        "country_code": "NG",
+        "asn": "329199",
+        "description": "STL FIBERCO LTD",
+        "handle": "SFL2-AS"
+    },
+    "329215": {
+        "country_code": "NG",
+        "asn": "329215",
+        "description": "LiFi.net Limited",
+        "handle": "LL4-AS"
+    },
+    "329218": {
+        "country_code": "NG",
+        "asn": "329218",
+        "description": "Qrios VAS Limited",
+        "handle": "QRIOS-VAS-AS"
+    },
+    "329230": {
+        "country_code": "NG",
+        "asn": "329230",
+        "description": "Pronto Broadband Solutions Limited",
+        "handle": "PRONTO-BROADBAND-SOLUTIONS"
+    },
+    "329233": {
+        "country_code": "NG",
+        "asn": "329233",
+        "description": "SABI NETWORKS LIMITED",
+        "handle": "SABI-NETWORKS-LIMITED"
+    },
+    "329235": {
+        "country_code": "NG",
+        "asn": "329235",
+        "description": "REXIFI TECHNOLOGIES LIMITED",
+        "handle": "REXIFI-TECHNOLOGIES-AS"
+    },
+    "329236": {
+        "country_code": "NG",
+        "asn": "329236",
+        "description": "Teltwine Networks Limited",
+        "handle": "TELTWINE-NETWORKS-LIMITED"
+    },
+    "329241": {
+        "country_code": "NG",
+        "asn": "329241",
+        "description": "Friends Wireless Limited",
+        "handle": "FRIENDS-WIRELESS-AS"
+    },
+    "329244": {
+        "country_code": "NG",
+        "asn": "329244",
+        "description": "Connect Surf and Smile Limited",
+        "handle": "CONNECT-SURF-AND-SMILE-LIMITED"
+    },
+    "329256": {
+        "country_code": "NG",
+        "asn": "329256",
+        "description": "Hakonix Technologies Limited",
+        "handle": "HAKONIX-TECHNOLOGIES-LIMITED"
+    },
+    "329258": {
+        "country_code": "NG",
+        "asn": "329258",
+        "description": "Nextgen Telcoms LTD",
+        "handle": "NEXTGEN-TELCOMS-LTD"
+    },
+    "329267": {
+        "country_code": "NG",
+        "asn": "329267",
+        "description": "FIBERONE BROADBAND LTD",
+        "handle": "FBL5-AS"
+    },
+    "329273": {
+        "country_code": "NG",
+        "asn": "329273",
+        "description": "Fastfeet Limited",
+        "handle": "FASTFEET-LIMITED"
+    },
+    "329275": {
+        "country_code": "NG",
+        "asn": "329275",
+        "description": "FBNQuest Capital Limited",
+        "handle": "FBNQUEST-CAPITAL-LIMITED"
+    },
+    "329285": {
+        "country_code": "NG",
+        "asn": "329285",
+        "description": "ARM Pension Managers (PFA) Ltd",
+        "handle": "ARM-PENSION-MANAGERS"
+    },
+    "329299": {
+        "country_code": "NG",
+        "asn": "329299",
+        "description": "NOVA Commercial Bank LTD",
+        "handle": "NOVA-COMMERCIAL-BANK-LTD"
+    },
+    "329307": {
+        "country_code": "NG",
+        "asn": "329307",
+        "description": "ITC Global Communication Technologies Limited",
+        "handle": "ITC-GLOBAL-COMMUNICATION-TECHNOLOGIES"
+    },
+    "329308": {
+        "country_code": "NG",
+        "asn": "329308",
+        "description": "Verse Telecom Limited",
+        "handle": "VERSE-TELECOM"
+    },
+    "329315": {
+        "country_code": "NG",
+        "asn": "329315",
+        "description": "TDS Hitech Solutions Limited",
+        "handle": "TDS-HITECH-SOLUTIONS"
+    },
+    "329347": {
+        "country_code": "NG",
+        "asn": "329347",
+        "description": "FREEPASS LTD",
+        "handle": "FREEPASS"
+    },
+    "329349": {
+        "country_code": "NG",
+        "asn": "329349",
+        "description": "Optimus Bank Limited",
+        "handle": "OPTIMUS-BANK-LIMITED"
+    },
+    "329361": {
+        "country_code": "NG",
+        "asn": "329361",
+        "description": "Nisi Technologies Ltd",
+        "handle": "NISI-TECHNOLOGIES"
+    },
+    "329365": {
+        "country_code": "NG",
+        "asn": "329365",
+        "description": "E-Lapariah Technologies Ltd",
+        "handle": "E-LAPARIAH-TECHNOLOGIES"
+    },
+    "329385": {
+        "country_code": "NG",
+        "asn": "329385",
+        "description": "Koncept Digital Integrated Services Limited",
+        "handle": "KONCEPT-DIGITAL"
+    },
+    "329404": {
+        "country_code": "NG",
+        "asn": "329404",
+        "description": "Providusbank PLC",
+        "handle": "PROVIDUSBANK-PLC"
+    },
+    "329441": {
+        "country_code": "NG",
+        "asn": "329441",
+        "description": "FZX Media Consulting Limited",
+        "handle": "FZX-MEDIA"
+    },
+    "329454": {
+        "country_code": "NG",
+        "asn": "329454",
+        "description": "Vitel Wireless Limited",
+        "handle": "VITEL-WIRELESS"
+    },
+    "329458": {
+        "country_code": "NG",
+        "asn": "329458",
+        "description": "FieldBase Services Limited",
+        "handle": "FIELDBASE-SERVICES"
+    },
+    "329460": {
+        "country_code": "NG",
+        "asn": "329460",
+        "description": "Linkorg Networks LTD",
+        "handle": "LINKORG-NETWORKS-LTD"
+    },
+    "329476": {
+        "country_code": "NG",
+        "asn": "329476",
+        "description": "TRADE MODERNISATION PROJECT LIMITED",
+        "handle": "TRADE-MODERNISATION-PROJECT-LIMITED"
+    },
+    "329484": {
+        "country_code": "NG",
+        "asn": "329484",
+        "description": "Genesis Intercellular Limited",
+        "handle": "GENESIS-INTERCELLULAR"
+    },
+    "329487": {
+        "country_code": "NG",
+        "asn": "329487",
+        "description": "Fibernet Broadband Ltd",
+        "handle": "FIBERNET-BROADBAND"
+    },
+    "329490": {
+        "country_code": "NG",
+        "asn": "329490",
+        "description": "Promethean Consulting Limited",
+        "handle": "PROMETHEAN-CONSULTING"
+    },
+    "329503": {
+        "country_code": "NG",
+        "asn": "329503",
+        "description": "NGCOM LASTMILE SOLUTION LTD",
+        "handle": "NGCOM-LASTMILE-SOLUTION-LTD"
+    },
+    "329511": {
+        "country_code": "NG",
+        "asn": "329511",
+        "description": "TeleWyz LTD",
+        "handle": "TELEWYZ-LTD"
+    },
+    "329514": {
+        "country_code": "NG",
+        "asn": "329514",
+        "description": "CAMBRIDGE BROADBAND NETWORKS NIGERIA LTD",
+        "handle": "CAMBRIDGE-BROADBAND-NETWORKS-NIGERIA-LTD"
+    },
+    "329519": {
+        "country_code": "NG",
+        "asn": "329519",
+        "description": "BAT Computer Technologies Limited",
+        "handle": "BAT-COMPUTER-TECHNOLOGIES"
+    },
+    "329534": {
+        "country_code": "NG",
+        "asn": "329534",
+        "description": "FBNQuest Merchant Bank Limited",
+        "handle": "FBNQUEST-MERCHANT-BANK-LIMITED"
+    },
+    "329547": {
+        "country_code": "NG",
+        "asn": "329547",
+        "description": "Alpha Morgan Bank Limited",
+        "handle": "ALPHA-MORGAN-BANK-LIMITED"
+    },
+    "329550": {
+        "country_code": "NG",
+        "asn": "329550",
+        "description": "Voisip Telecommunications Limited",
+        "handle": "VOISIP-TELECOMMUNICATIONS-LIMITED"
+    },
+    "329553": {
+        "country_code": "NG",
+        "asn": "329553",
+        "description": "Bluetel Communications Limited",
+        "handle": "BLUETEL-COMMUNICATIONS-LIMITED"
+    },
+    "329560": {
+        "country_code": "NG",
+        "asn": "329560",
+        "description": "Paribas Communications Limited",
+        "handle": "PARIBAS-COMMUNICATIONS-LIMITED"
+    },
+    "329567": {
+        "country_code": "NG",
+        "asn": "329567",
+        "description": "ENVIRONMENTAL EXPRESSIONS LIMITED",
+        "handle": "EEL1"
+    },
+    "329568": {
+        "country_code": "NG",
+        "asn": "329568",
+        "description": "Robert & John Limited",
+        "handle": "ROBERT-JOHN-LIMITED"
+    },
+    "329575": {
+        "country_code": "NG",
+        "asn": "329575",
+        "description": "SIU TELECOMMUNICATIONS NETWORK LTD",
+        "handle": "STNL2"
+    },
+    "329577": {
+        "country_code": "NG",
+        "asn": "329577",
+        "description": "Olla Systems Limited",
+        "handle": "OLLA-SYSTEMS-LIMITED"
+    },
+    "329579": {
+        "country_code": "NG",
+        "asn": "329579",
+        "description": "Nationwaves Telcom Nigeria Limited",
+        "handle": "NATIONWAVES-TELCOM-NIGERIA-LIMITED"
+    },
+    "329592": {
+        "country_code": "NG",
+        "asn": "329592",
+        "description": "Sitehub Agency Ltd",
+        "handle": "SITEHUB-AGENCY-LTD"
+    },
+    "329611": {
+        "country_code": "NG",
+        "asn": "329611",
+        "description": "Serverpulse Africa Ltd",
+        "handle": "SERVERPULSE-AFRICA-LTD"
+    },
+    "329613": {
+        "country_code": "NG",
+        "asn": "329613",
+        "description": "Iris Smart Technologies Limited",
+        "handle": "IRIS-SMART-TECHNOLOGIES"
+    },
+    "329614": {
+        "country_code": "NG",
+        "asn": "329614",
+        "description": "CORONA MANAGEMENT SYSTEMS LIMITED",
+        "handle": "CORONA-MANAGEMENT-SYSTEMS-LIMITED"
+    },
+    "329623": {
+        "country_code": "NG",
+        "asn": "329623",
+        "description": "NETWORK INTERNATIONAL PAYMENTS SERVICES NIGERIA LIMITED",
+        "handle": "NETWORK-INTERNATIONAL-PAYMENTS-SERVICES-NIGERIA-LIMITED"
+    },
+    "329652": {
+        "country_code": "NG",
+        "asn": "329652",
+        "description": "SUMMIT BANK LIMITED",
+        "handle": "SUMMIT-BANK-LIMITED"
+    },
+    "329653": {
+        "country_code": "NG",
+        "asn": "329653",
+        "description": "Premium Trust Bank Limited",
+        "handle": "PREMIUM-TRUST-BANK-LIMITED"
+    },
+    "329655": {
+        "country_code": "NG",
+        "asn": "329655",
+        "description": "FSDH Merchant Bank Limited",
+        "handle": "FSDH-BANK"
+    },
+    "329682": {
+        "country_code": "NG",
+        "asn": "329682",
+        "description": "OANDO Plc",
+        "handle": "OANDO-PLC"
+    },
+    "329685": {
+        "country_code": "NG",
+        "asn": "329685",
+        "description": "MONIEPOINT MICROFINANCE BANK LIMITED",
+        "handle": "MONIEPOINT-MICROFINANCE-BANK"
+    },
+    "329706": {
+        "country_code": "NG",
+        "asn": "329706",
+        "description": "VAS2NETS TECHNOLOGIES LIMITED",
+        "handle": "VAS2NETS-TECHNOLOGIES-LIMITED"
+    }
+}

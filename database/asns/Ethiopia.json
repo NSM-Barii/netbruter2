@@ -1,0 +1,62 @@
+{
+    "24757": {
+        "country_code": "ET",
+        "asn": "24757",
+        "description": "Ethio Telecom",
+        "handle": "ETHIONET-AS"
+    },
+    "37467": {
+        "country_code": "ET",
+        "asn": "37467",
+        "description": "Ethiopian Educational Research Network (EthERNet)",
+        "handle": "ETHERNET"
+    },
+    "37798": {
+        "country_code": "ET",
+        "asn": "37798",
+        "description": "AddIX Technology Solutions PLC",
+        "handle": "ADDIX-IXP-PEERING"
+    },
+    "328988": {
+        "country_code": "ET",
+        "asn": "328988",
+        "description": "SAFARICOM TELECOMMUNICATIONS ETHIOPIA PLC",
+        "handle": "SAFARICOM-TEL"
+    },
+    "329226": {
+        "country_code": "ET",
+        "asn": "329226",
+        "description": "AddIX Technology Solutions PLC",
+        "handle": "ADDIX-IXP-MGMT"
+    },
+    "329227": {
+        "country_code": "ET",
+        "asn": "329227",
+        "description": "WebSprix IT Solution PLC",
+        "handle": "WS-ASN"
+    },
+    "329265": {
+        "country_code": "ET",
+        "asn": "329265",
+        "description": "Commercial Bank of Ethiopia",
+        "handle": "CBOE3-AS"
+    },
+    "329327": {
+        "country_code": "ET",
+        "asn": "329327",
+        "description": "Bank of Abyssinia Share Company",
+        "handle": "BANK-OF-ABYSSINIA-SHARE-COMPANY"
+    },
+    "329456": {
+        "country_code": "ET",
+        "asn": "329456",
+        "description": "Two Five One Communications and Marketing PLC",
+        "handle": "TWO-FIVE-ONE-COMMUNICATIONS-AND-MARKETING-PLC"
+    },
+    "329625": {
+        "country_code": "ET",
+        "asn": "329625",
+        "description": "Wingu Africa Data Center Plc",
+        "handle": "WINGU-AFRICA-DATA-CENTER-PLC"
+    }
+}

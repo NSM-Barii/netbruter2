@@ -1,0 +1,74 @@
+{
+    "25250": {
+        "country_code": "GM",
+        "asn": "25250",
+        "description": "Gamtel Co.",
+        "handle": "GAMTEL-AS"
+    },
+    "37309": {
+        "country_code": "GM",
+        "asn": "37309",
+        "description": "QCell Limited",
+        "handle": "QCELL"
+    },
+    "37323": {
+        "country_code": "GM",
+        "asn": "37323",
+        "description": "Netpage Company Limited",
+        "handle": "NETPAGE"
+    },
+    "37503": {
+        "country_code": "GM",
+        "asn": "37503",
+        "description": "Unique Solutions Company Limited",
+        "handle": "UNIQUE-SOLUTIONS"
+    },
+    "37524": {
+        "country_code": "GM",
+        "asn": "37524",
+        "description": "Africell Gambia",
+        "handle": "AFRICELL-GM"
+    },
+    "37552": {
+        "country_code": "GM",
+        "asn": "37552",
+        "description": "Comium Gambia Ltd.",
+        "handle": "GAMTEL"
+    },
+    "37698": {
+        "country_code": "GM",
+        "asn": "37698",
+        "description": "Serekunda Internet Exchange Point",
+        "handle": "SEREKUNDA-IXP"
+    },
+    "327719": {
+        "country_code": "GM",
+        "asn": "327719",
+        "description": "Serekunda Internet Exchange Point",
+        "handle": "SIXP"
+    },
+    "328140": {
+        "country_code": "GM",
+        "asn": "328140",
+        "description": "INSIST NET Limited",
+        "handle": "INSIST-NET-AS"
+    },
+    "328488": {
+        "country_code": "GM",
+        "asn": "328488",
+        "description": "DK Telecom Ltd",
+        "handle": "DK-TELECOM"
+    },
+    "329179": {
+        "country_code": "GM",
+        "asn": "329179",
+        "description": "Sky Telecom Company Limited",
+        "handle": "SKY-TELECOM-AS"
+    },
+    "329329": {
+        "country_code": "GM",
+        "asn": "329329",
+        "description": "Giraffe Telecom Limited",
+        "handle": "GIRAFFE-TELECOM-LIMITED"
+    }
+}

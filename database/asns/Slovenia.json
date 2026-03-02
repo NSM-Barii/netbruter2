@@ -1,0 +1,1826 @@
+{
+    "1018": {
+        "country_code": "SI",
+        "asn": "1018",
+        "description": "Coneris d.o.o.",
+        "handle": "CONERIS"
+    },
+    "2107": {
+        "country_code": "SI",
+        "asn": "2107",
+        "description": "ARNES",
+        "handle": "ARNES-NET"
+    },
+    "3212": {
+        "country_code": "SI",
+        "asn": "3212",
+        "description": "Telemach Slovenija d.o.o.",
+        "handle": "TELEMACH"
+    },
+    "5435": {
+        "country_code": "SI",
+        "asn": "5435",
+        "description": "Velcom d.o.o",
+        "handle": "VELCOM-AS"
+    },
+    "5603": {
+        "country_code": "SI",
+        "asn": "5603",
+        "description": "Telekom Slovenije d.d.",
+        "handle": "SIOL-NET"
+    },
+    "6764": {
+        "country_code": "SI",
+        "asn": "6764",
+        "description": "PERFTECH podjetje za proizvodnjo in uvajanje novih tehnologij d.o.o.",
+        "handle": "PERFTECH-SLOVENIA-AS"
+    },
+    "8307": {
+        "country_code": "SI",
+        "asn": "8307",
+        "description": "Telekom Slovenije d.d.",
+        "handle": "TS"
+    },
+    "8558": {
+        "country_code": "SI",
+        "asn": "8558",
+        "description": "HTTPool d.o.o.",
+        "handle": "HTTPOOL-NET-AS"
+    },
+    "8591": {
+        "country_code": "SI",
+        "asn": "8591",
+        "description": "A1 Slovenija telekomunikacijske storitve d.d.",
+        "handle": "A1SLOVENIJA"
+    },
+    "8727": {
+        "country_code": "SI",
+        "asn": "8727",
+        "description": "BE-terna d.o.o.",
+        "handle": "ADACTA-AS"
+    },
+    "9001": {
+        "country_code": "SI",
+        "asn": "9001",
+        "description": "ZUPO D.O.O.",
+        "handle": "A1-SI-AS"
+    },
+    "9119": {
+        "country_code": "SI",
+        "asn": "9119",
+        "description": "SOFTNET d.o.o.",
+        "handle": "SOFTNET-AS"
+    },
+    "12644": {
+        "country_code": "SI",
+        "asn": "12644",
+        "description": "Telemach Slovenija d.o.o.",
+        "handle": "TELEMACH-PARKED"
+    },
+    "12778": {
+        "country_code": "SI",
+        "asn": "12778",
+        "description": "MEGA M d.o.o.",
+        "handle": "SGN"
+    },
+    "12785": {
+        "country_code": "SI",
+        "asn": "12785",
+        "description": "ZVD Zavod za varstvo pri delu d.d.",
+        "handle": "SI-ZVD"
+    },
+    "15393": {
+        "country_code": "SI",
+        "asn": "15393",
+        "description": "Velcom d.o.o",
+        "handle": "VELCOM-AS1"
+    },
+    "15664": {
+        "country_code": "SI",
+        "asn": "15664",
+        "description": "Business Solutions d.o.o.",
+        "handle": "SI-BUSINESS"
+    },
+    "15767": {
+        "country_code": "SI",
+        "asn": "15767",
+        "description": "SOFTNET d.o.o.",
+        "handle": "SOFTNET-AS15767"
+    },
+    "15822": {
+        "country_code": "SI",
+        "asn": "15822",
+        "description": "AGENCIJA ZA ENERGIJO",
+        "handle": "AGEN-AS"
+    },
+    "15889": {
+        "country_code": "SI",
+        "asn": "15889",
+        "description": "SRC sistemske integracije d.o.o.",
+        "handle": "SRC-SI-AS"
+    },
+    "15946": {
+        "country_code": "SI",
+        "asn": "15946",
+        "description": "Banka Intesa Sanpaolo d.d.",
+        "handle": "BANKA-INTESA-SANPAOLO-AS"
+    },
+    "16016": {
+        "country_code": "SI",
+        "asn": "16016",
+        "description": "Telemach Slovenija d.o.o.",
+        "handle": "EX-VOLJATEL-AS"
+    },
+    "16104": {
+        "country_code": "SI",
+        "asn": "16104",
+        "description": "SKB banka d.d. Ljubljana",
+        "handle": "SKB-AS"
+    },
+    "16184": {
+        "country_code": "SI",
+        "asn": "16184",
+        "description": "LUKA KOPER pristaniski in logisticni sistem delniska druzba",
+        "handle": "LUKAKP-AS"
+    },
+    "20526": {
+        "country_code": "SI",
+        "asn": "20526",
+        "description": "Intereuropa d.d.",
+        "handle": "INTEREUROPA-AS"
+    },
+    "20691": {
+        "country_code": "SI",
+        "asn": "20691",
+        "description": "General Logistics Systems logisticne storitve d.o.o.",
+        "handle": "GLS-SLO-AS"
+    },
+    "20892": {
+        "country_code": "SI",
+        "asn": "20892",
+        "description": "Nexi Slovenija d.o.o.",
+        "handle": "ACTIVA-SI-AS"
+    },
+    "21196": {
+        "country_code": "SI",
+        "asn": "21196",
+        "description": "SOFTNET d.o.o.",
+        "handle": "EPN-BA-AS"
+    },
+    "21283": {
+        "country_code": "SI",
+        "asn": "21283",
+        "description": "A1 Slovenija telekomunikacijske storitve d.d.",
+        "handle": "A1SI-AS"
+    },
+    "21401": {
+        "country_code": "SI",
+        "asn": "21401",
+        "description": "Borzen d.o.o.",
+        "handle": "BORZEN-AS"
+    },
+    "21441": {
+        "country_code": "SI",
+        "asn": "21441",
+        "description": "LJUBLJANSKA BORZA d.d. Ljubljana",
+        "handle": "LJSE-AS"
+    },
+    "24629": {
+        "country_code": "SI",
+        "asn": "24629",
+        "description": "NIL Data Communications Ltd.",
+        "handle": "NIL-AS"
+    },
+    "24728": {
+        "country_code": "SI",
+        "asn": "24728",
+        "description": "REDOX d.o.o. Portoroz",
+        "handle": "SI-REDOX"
+    },
+    "24747": {
+        "country_code": "SI",
+        "asn": "24747",
+        "description": "Triksera druzba za nove tehnologije d.o.o.",
+        "handle": "INLIFE-AS"
+    },
+    "24908": {
+        "country_code": "SI",
+        "asn": "24908",
+        "description": "LEK farmacevtska druzba d.d.",
+        "handle": "LEK-AS"
+    },
+    "25017": {
+        "country_code": "SI",
+        "asn": "25017",
+        "description": "Slovenski drzavni holding d.d. (SDH d.d.)",
+        "handle": "ASN-SDH-DD-SI"
+    },
+    "25020": {
+        "country_code": "SI",
+        "asn": "25020",
+        "description": "Slovenski drzavni holding d.d. (SDH d.d.)",
+        "handle": "ASN-SDH-DD-SI"
+    },
+    "25059": {
+        "country_code": "SI",
+        "asn": "25059",
+        "description": "Nova Ljubljanska Banka d.d.",
+        "handle": "NLB-SI-AS"
+    },
+    "25066": {
+        "country_code": "SI",
+        "asn": "25066",
+        "description": "Nova KBM d.d.",
+        "handle": "NKBM-AS"
+    },
+    "25149": {
+        "country_code": "SI",
+        "asn": "25149",
+        "description": "Atlantic Droga Kolinska d.o.o.",
+        "handle": "DROGA-AS"
+    },
+    "25173": {
+        "country_code": "SI",
+        "asn": "25173",
+        "description": "ISKRA d.o.o.",
+        "handle": "ISKRATR-AS"
+    },
+    "25303": {
+        "country_code": "SI",
+        "asn": "25303",
+        "description": "KDD d.d.",
+        "handle": "KDD"
+    },
+    "25467": {
+        "country_code": "SI",
+        "asn": "25467",
+        "description": "Akton d.o.o.",
+        "handle": "AKTON-AS"
+    },
+    "25499": {
+        "country_code": "SI",
+        "asn": "25499",
+        "description": "Zavarovalnica Triglav d.d.",
+        "handle": "ASN-TRIGLAV"
+    },
+    "25541": {
+        "country_code": "SI",
+        "asn": "25541",
+        "description": "MERKUR TRGOVINA D.O.O.",
+        "handle": "MERKUR-SI-AS"
+    },
+    "28682": {
+        "country_code": "SI",
+        "asn": "28682",
+        "description": "Posta Slovenije d.o.o.",
+        "handle": "ASN-POSTA"
+    },
+    "28850": {
+        "country_code": "SI",
+        "asn": "28850",
+        "description": "Zavod za zdravstveno zavarovanje Slovenije",
+        "handle": "ZZZS-SI-ASN"
+    },
+    "28933": {
+        "country_code": "SI",
+        "asn": "28933",
+        "description": "University of Ljubljana Faculty of Electrical Engineering",
+        "handle": "LTFE-AS"
+    },
+    "28951": {
+        "country_code": "SI",
+        "asn": "28951",
+        "description": "PANTEON GROUP Svetovanje in inzeniring d.o.o.",
+        "handle": "PANTEON-GROUP-AS"
+    },
+    "28984": {
+        "country_code": "SI",
+        "asn": "28984",
+        "description": "Dezelna Banka Slovenije d.d.",
+        "handle": "ZHKS-AS"
+    },
+    "28985": {
+        "country_code": "SI",
+        "asn": "28985",
+        "description": "HOLDING SLOVENSKE ELEKTRARNE d.o.o.",
+        "handle": "HSE-AS"
+    },
+    "29015": {
+        "country_code": "SI",
+        "asn": "29015",
+        "description": "KRKA d.d.Novo mesto",
+        "handle": "KRKA-ASN"
+    },
+    "29051": {
+        "country_code": "SI",
+        "asn": "29051",
+        "description": "ELES d.o.o.",
+        "handle": "ELES-AS"
+    },
+    "29121": {
+        "country_code": "SI",
+        "asn": "29121",
+        "description": "Cankarjev dom kulturni in kongresni center",
+        "handle": "CANKARJEVDOM-AS"
+    },
+    "29273": {
+        "country_code": "SI",
+        "asn": "29273",
+        "description": "LEXPERA d.o.o.",
+        "handle": "IUS-SW-ASN"
+    },
+    "29276": {
+        "country_code": "SI",
+        "asn": "29276",
+        "description": "Telekom Slovenije d.d.",
+        "handle": "MOBITEL-GPRS"
+    },
+    "29374": {
+        "country_code": "SI",
+        "asn": "29374",
+        "description": "GENERALI zavarovalnica d.d.",
+        "handle": "ADRIATIC-AS"
+    },
+    "31060": {
+        "country_code": "SI",
+        "asn": "31060",
+        "description": "DOBA Fakulteta",
+        "handle": "DOBA-AS"
+    },
+    "31134": {
+        "country_code": "SI",
+        "asn": "31134",
+        "description": "AMZS d.o.o.",
+        "handle": "AMZS-AS"
+    },
+    "31545": {
+        "country_code": "SI",
+        "asn": "31545",
+        "description": "GENERALI zavarovalnica d.d.",
+        "handle": "GENERALI-ZAVAROVALNICA-DD"
+    },
+    "31687": {
+        "country_code": "SI",
+        "asn": "31687",
+        "description": "Perutnina Ptuj d.d.",
+        "handle": "PPTUJ-AS"
+    },
+    "31711": {
+        "country_code": "SI",
+        "asn": "31711",
+        "description": "Addiko Bank d.d.",
+        "handle": "HYPO-SI-AS"
+    },
+    "33850": {
+        "country_code": "SI",
+        "asn": "33850",
+        "description": "UNIOR Kovaska industrija d.d. Zrece",
+        "handle": "UNIORSI-AS"
+    },
+    "33918": {
+        "country_code": "SI",
+        "asn": "33918",
+        "description": "PRIMORSKE NOVICE d.o.o. Koper s.r.l. Capodistria",
+        "handle": "PRIMORSKE-NOVICE-AS"
+    },
+    "34024": {
+        "country_code": "SI",
+        "asn": "34024",
+        "description": "Infohit Computers d.o.o. Ljubljana",
+        "handle": "INFOHIT-AS"
+    },
+    "34367": {
+        "country_code": "SI",
+        "asn": "34367",
+        "description": "Banka Slovenije",
+        "handle": "BSI-AS"
+    },
+    "34488": {
+        "country_code": "SI",
+        "asn": "34488",
+        "description": "UNICREDIT BANKA SLOVENIJA d.d.",
+        "handle": "UNICREDIT-BANKA-SLOVENIJA-AS"
+    },
+    "34717": {
+        "country_code": "SI",
+        "asn": "34717",
+        "description": "SID Bank d.d. Ljubljana",
+        "handle": "SID-AS"
+    },
+    "34779": {
+        "country_code": "SI",
+        "asn": "34779",
+        "description": "T-2 d.o.o.",
+        "handle": "T-2-AS"
+    },
+    "35023": {
+        "country_code": "SI",
+        "asn": "35023",
+        "description": "GORENJSKA BANKA D.D. KRANJ",
+        "handle": "GBKR-AS"
+    },
+    "35099": {
+        "country_code": "SI",
+        "asn": "35099",
+        "description": "Porsche Slovenija d.o.o.",
+        "handle": "PORSCHE-SLOVENIA-AS"
+    },
+    "35186": {
+        "country_code": "SI",
+        "asn": "35186",
+        "description": "DONET d.o.o.",
+        "handle": "DONET-SI-AS"
+    },
+    "35343": {
+        "country_code": "SI",
+        "asn": "35343",
+        "description": "Generali Investments d.o.o.",
+        "handle": "GENERALIINVESTMENTS-AS"
+    },
+    "35471": {
+        "country_code": "SI",
+        "asn": "35471",
+        "description": "D1 informacijske tehnologije d.o.o.",
+        "handle": "D1"
+    },
+    "35561": {
+        "country_code": "SI",
+        "asn": "35561",
+        "description": "SOFTNET d.o.o.",
+        "handle": "SOFTNET-AS-1"
+    },
+    "39187": {
+        "country_code": "SI",
+        "asn": "39187",
+        "description": "Trinet Informatika d.o.o.",
+        "handle": "TRINET-AS"
+    },
+    "39320": {
+        "country_code": "SI",
+        "asn": "39320",
+        "description": "ACTUAL I.T. d.d.",
+        "handle": "ACTUAL-IT-AS"
+    },
+    "39387": {
+        "country_code": "SI",
+        "asn": "39387",
+        "description": "DELO Casopisno Zaloznisko Podjetje d.o.o.",
+        "handle": "DELO-AS"
+    },
+    "39497": {
+        "country_code": "SI",
+        "asn": "39497",
+        "description": "Titus Lama proizvodnja in prodaja pohistvenega okovja d.o.o.",
+        "handle": "LAMA-NET-AS"
+    },
+    "39727": {
+        "country_code": "SI",
+        "asn": "39727",
+        "description": "ZZI d.o.o.",
+        "handle": "ZZI-AS"
+    },
+    "39872": {
+        "country_code": "SI",
+        "asn": "39872",
+        "description": "ELES d.o.o.",
+        "handle": "SODO-AS"
+    },
+    "41104": {
+        "country_code": "SI",
+        "asn": "41104",
+        "description": "PODRAVKA trgovsko podjetje d.o.o. Ljubljana",
+        "handle": "PODRAVKA-AS"
+    },
+    "41182": {
+        "country_code": "SI",
+        "asn": "41182",
+        "description": "Mladinska knjiga Zalozba d.d",
+        "handle": "MKNJIGA-AS"
+    },
+    "41427": {
+        "country_code": "SI",
+        "asn": "41427",
+        "description": "Datacenter d.o.o.",
+        "handle": "MARC-NET-AS"
+    },
+    "41505": {
+        "country_code": "SI",
+        "asn": "41505",
+        "description": "Delavska hranilnica d.d. Ljubljana",
+        "handle": "DELAVSKAHRANILNICA-SI"
+    },
+    "41543": {
+        "country_code": "SI",
+        "asn": "41543",
+        "description": "Salomon d.o.o.",
+        "handle": "SALOMON"
+    },
+    "41582": {
+        "country_code": "SI",
+        "asn": "41582",
+        "description": "Fraport Slovenija d.o.o.",
+        "handle": "LJU-AIRPORT-AS"
+    },
+    "41630": {
+        "country_code": "SI",
+        "asn": "41630",
+        "description": "Helios Domzale d.o.o.",
+        "handle": "HELIOS-AS"
+    },
+    "41640": {
+        "country_code": "SI",
+        "asn": "41640",
+        "description": "Halcom d.o.o.",
+        "handle": "HALCOM-AS"
+    },
+    "41716": {
+        "country_code": "SI",
+        "asn": "41716",
+        "description": "Ministry of foreign affairs of Republic of Slovenia",
+        "handle": "MZZ-AS"
+    },
+    "41828": {
+        "country_code": "SI",
+        "asn": "41828",
+        "description": "Telemach Slovenija d.o.o.",
+        "handle": "TELEMACH-HOSTING"
+    },
+    "41916": {
+        "country_code": "SI",
+        "asn": "41916",
+        "description": "Poslovni sistem Mercator d.d.",
+        "handle": "MERCATOR-SI-AS"
+    },
+    "41970": {
+        "country_code": "SI",
+        "asn": "41970",
+        "description": "Zavod za pokojninsko in invalidsko zavarovanje Slovenije - ZPIZ",
+        "handle": "ZPIZ-SI-AS"
+    },
+    "42207": {
+        "country_code": "SI",
+        "asn": "42207",
+        "description": "Agencija za komunikacijska omrezja in storitve republike Slovenije",
+        "handle": "AKOS"
+    },
+    "42273": {
+        "country_code": "SI",
+        "asn": "42273",
+        "description": "Sava d.d.",
+        "handle": "SAVA-SI-AS"
+    },
+    "42681": {
+        "country_code": "SI",
+        "asn": "42681",
+        "description": "Telekom Slovenije d.d.",
+        "handle": "TS"
+    },
+    "42700": {
+        "country_code": "SI",
+        "asn": "42700",
+        "description": "Realis Informacijske tehnologije d.o.o.",
+        "handle": "REALIS-AS"
+    },
+    "42757": {
+        "country_code": "SI",
+        "asn": "42757",
+        "description": "Banka Sparkasse d.d.",
+        "handle": "SPARKASSE-SI-AS"
+    },
+    "42791": {
+        "country_code": "SI",
+        "asn": "42791",
+        "description": "Loterija Slovenije",
+        "handle": "LOTERIJA-SI"
+    },
+    "42948": {
+        "country_code": "SI",
+        "asn": "42948",
+        "description": "Sportna loterija d.d.",
+        "handle": "SPORTNA-LOT-SI-AS"
+    },
+    "43034": {
+        "country_code": "SI",
+        "asn": "43034",
+        "description": "Cimos d.d. Avtomobilska Industrija",
+        "handle": "CIMOS-AS"
+    },
+    "43061": {
+        "country_code": "SI",
+        "asn": "43061",
+        "description": "Stelkom d.o.o.",
+        "handle": "SI-STELKOM"
+    },
+    "43128": {
+        "country_code": "SI",
+        "asn": "43128",
+        "description": "Webtasy d.o.o.",
+        "handle": "DHH-AS"
+    },
+    "43164": {
+        "country_code": "SI",
+        "asn": "43164",
+        "description": "Mikrocop d.o.o.",
+        "handle": "MIKROCOP-AS"
+    },
+    "43351": {
+        "country_code": "SI",
+        "asn": "43351",
+        "description": "Gorenje d.d.",
+        "handle": "GORENJE-SI-AS"
+    },
+    "43427": {
+        "country_code": "SI",
+        "asn": "43427",
+        "description": "Medis Intago d.o.o.",
+        "handle": "MEDIS"
+    },
+    "43462": {
+        "country_code": "SI",
+        "asn": "43462",
+        "description": "Smart Com d.o.o.",
+        "handle": "SMARTCOM-AS"
+    },
+    "43663": {
+        "country_code": "SI",
+        "asn": "43663",
+        "description": "Maksim trgovsko in storitveno podjetje d.o.o.",
+        "handle": "MAKSIM-AS"
+    },
+    "43854": {
+        "country_code": "SI",
+        "asn": "43854",
+        "description": "Studio Moderna d.o.o.",
+        "handle": "STUDIOMODERNA-AS"
+    },
+    "44073": {
+        "country_code": "SI",
+        "asn": "44073",
+        "description": "Zdravstveni Dom Ljubljana",
+        "handle": "ZDLJ-NET-AS"
+    },
+    "44085": {
+        "country_code": "SI",
+        "asn": "44085",
+        "description": "DARS d.d.",
+        "handle": "DARS-AS"
+    },
+    "44463": {
+        "country_code": "SI",
+        "asn": "44463",
+        "description": "Dinit d.o.o.",
+        "handle": "DINIT-AS"
+    },
+    "44524": {
+        "country_code": "SI",
+        "asn": "44524",
+        "description": "ADK d.o.o.",
+        "handle": "ADK-SI-AS"
+    },
+    "44549": {
+        "country_code": "SI",
+        "asn": "44549",
+        "description": "MEGA M d.o.o.",
+        "handle": "MEGA-M-AS"
+    },
+    "44615": {
+        "country_code": "SI",
+        "asn": "44615",
+        "description": "PRO PLUS d.o.o.",
+        "handle": "PROPLUS-SI-AS"
+    },
+    "44632": {
+        "country_code": "SI",
+        "asn": "44632",
+        "description": "KRONTRON d.o.o.",
+        "handle": "AS-KONTRON-1"
+    },
+    "44667": {
+        "country_code": "SI",
+        "asn": "44667",
+        "description": "Coneris d.o.o.",
+        "handle": "CONERIS"
+    },
+    "44730": {
+        "country_code": "SI",
+        "asn": "44730",
+        "description": "Vzajemna zdravstvena zavarovalnica d.d.",
+        "handle": "VZAJEMNA-SI-AS"
+    },
+    "44744": {
+        "country_code": "SI",
+        "asn": "44744",
+        "description": "FLINT-SI d.o.o.",
+        "handle": "FLINT-AS"
+    },
+    "44823": {
+        "country_code": "SI",
+        "asn": "44823",
+        "description": "Engrotus d.d.",
+        "handle": "ENGROTUS"
+    },
+    "44968": {
+        "country_code": "SI",
+        "asn": "44968",
+        "description": "IPROM d.o.o",
+        "handle": "IPROM-AS"
+    },
+    "44993": {
+        "country_code": "SI",
+        "asn": "44993",
+        "description": "Mobik d.o.o.",
+        "handle": "MOBIK-AS"
+    },
+    "45002": {
+        "country_code": "SI",
+        "asn": "45002",
+        "description": "JAVNI HOLDING Ljubljana d.o.o.",
+        "handle": "VOKA-AS"
+    },
+    "47336": {
+        "country_code": "SI",
+        "asn": "47336",
+        "description": "Soske Elektrarne Nova Gorica d.o.o.",
+        "handle": "SENG-AS"
+    },
+    "47360": {
+        "country_code": "SI",
+        "asn": "47360",
+        "description": "Casnik Finance d.o.o.",
+        "handle": "FINANCE-ON-NET"
+    },
+    "47676": {
+        "country_code": "SI",
+        "asn": "47676",
+        "description": "Vancas Hotel d.o.o.",
+        "handle": "VANCAS-HOTEL"
+    },
+    "47903": {
+        "country_code": "SI",
+        "asn": "47903",
+        "description": "JUB d.o.o.",
+        "handle": "JUB-AS"
+    },
+    "47904": {
+        "country_code": "SI",
+        "asn": "47904",
+        "description": "ARCTUR d.o.o.",
+        "handle": "SI-ARCTUR"
+    },
+    "47917": {
+        "country_code": "SI",
+        "asn": "47917",
+        "description": "RTV Slovenija",
+        "handle": "RTVSLO-ASN"
+    },
+    "47993": {
+        "country_code": "SI",
+        "asn": "47993",
+        "description": "Bankart procesiranje placilnih instrumentov d.o.o. Ljubljana",
+        "handle": "BANKART-SI-AS"
+    },
+    "48016": {
+        "country_code": "SI",
+        "asn": "48016",
+        "description": "Novatel druzba za informacijske tehnologije d.o.o.",
+        "handle": "NOVATEL-AS"
+    },
+    "48222": {
+        "country_code": "SI",
+        "asn": "48222",
+        "description": "ZAVAROVALNICA TRIGLAV d.d.",
+        "handle": "TRIGLAVZADRAVSTVENA-SI"
+    },
+    "48388": {
+        "country_code": "SI",
+        "asn": "48388",
+        "description": "Splosna Bolnisnica Izola",
+        "handle": "SB-IZOLA-AS"
+    },
+    "48398": {
+        "country_code": "SI",
+        "asn": "48398",
+        "description": "DINIT d.o.o.",
+        "handle": "DINERS-CLUB-IT-AS"
+    },
+    "48419": {
+        "country_code": "SI",
+        "asn": "48419",
+        "description": "SALUS Ljubljana d.d.",
+        "handle": "SI-SALUS"
+    },
+    "48573": {
+        "country_code": "SI",
+        "asn": "48573",
+        "description": "PHAETON PLUS d.o.o",
+        "handle": "VIDNOENET"
+    },
+    "48609": {
+        "country_code": "SI",
+        "asn": "48609",
+        "description": "KPMG SLOVENIJA podjetje za revidiranje d.o.o",
+        "handle": "KPMG-SI-AS"
+    },
+    "48653": {
+        "country_code": "SI",
+        "asn": "48653",
+        "description": "Slovenske zeleznice d.o.o.",
+        "handle": "SLO-ZELEZNICE"
+    },
+    "48772": {
+        "country_code": "SI",
+        "asn": "48772",
+        "description": "GLOBUS MARINE INTERNATIONAL d.o.o.",
+        "handle": "SI-GLOBUS-MARINE-INTERNATIONAL"
+    },
+    "48774": {
+        "country_code": "SI",
+        "asn": "48774",
+        "description": "Gen energija d.o.o.",
+        "handle": "GEN-ENERGIJA-SI-AS"
+    },
+    "48894": {
+        "country_code": "SI",
+        "asn": "48894",
+        "description": "Optimus IT d.o.o.",
+        "handle": "OPTIMUS-AS"
+    },
+    "49015": {
+        "country_code": "SI",
+        "asn": "49015",
+        "description": "SAVSKE-ELEKTRARNE-LJUBLJANA-DOO",
+        "handle": "SAVSKE-ELEKTRARNE-AS"
+    },
+    "49066": {
+        "country_code": "SI",
+        "asn": "49066",
+        "description": "PHAETON PLUS d.o.o",
+        "handle": "VIDNOENET"
+    },
+    "49402": {
+        "country_code": "SI",
+        "asn": "49402",
+        "description": "Comtrade nepremicnine d.o.o.",
+        "handle": "COMTRADE-AS"
+    },
+    "49407": {
+        "country_code": "SI",
+        "asn": "49407",
+        "description": "PharmaSwiss d.o.o. Ljubljana",
+        "handle": "PHARMASWISS"
+    },
+    "49590": {
+        "country_code": "SI",
+        "asn": "49590",
+        "description": "TRENDNET d.o.o.",
+        "handle": "SI-TRENDNET"
+    },
+    "49593": {
+        "country_code": "SI",
+        "asn": "49593",
+        "description": "ALPINA d.o.o.",
+        "handle": "ALPINA"
+    },
+    "49618": {
+        "country_code": "SI",
+        "asn": "49618",
+        "description": "ERA d.o.o.",
+        "handle": "SI-ERA"
+    },
+    "49636": {
+        "country_code": "SI",
+        "asn": "49636",
+        "description": "Ljubljanski urbanisticni zavod d.d.",
+        "handle": "LUZ"
+    },
+    "49754": {
+        "country_code": "SI",
+        "asn": "49754",
+        "description": "Sfera IT d.o.o.",
+        "handle": "SFERA-IT-AS"
+    },
+    "49853": {
+        "country_code": "SI",
+        "asn": "49853",
+        "description": "CETRTAPOT avtomatska identifikacija racunalnistvo in informatika d.o.o.",
+        "handle": "SI-CETRTAPOT"
+    },
+    "49896": {
+        "country_code": "SI",
+        "asn": "49896",
+        "description": "Japet d.o.o.",
+        "handle": "SI-JAPET"
+    },
+    "49927": {
+        "country_code": "SI",
+        "asn": "49927",
+        "description": "Mikrografija Trgovina d.o.o.",
+        "handle": "MIKROGRAFIJA"
+    },
+    "50093": {
+        "country_code": "SI",
+        "asn": "50093",
+        "description": "Epilog d.o.o.",
+        "handle": "EPILOG-AS"
+    },
+    "50195": {
+        "country_code": "SI",
+        "asn": "50195",
+        "description": "Univerza v Mariboru",
+        "handle": "UM"
+    },
+    "50344": {
+        "country_code": "SI",
+        "asn": "50344",
+        "description": "CDE IT informacijske resitve d.o.o.",
+        "handle": "SI-CDE-IT"
+    },
+    "50592": {
+        "country_code": "SI",
+        "asn": "50592",
+        "description": "Javni Zavod Lekrana Ljubljana",
+        "handle": "SI-LEKARNE-LJUBLJANA"
+    },
+    "50634": {
+        "country_code": "SI",
+        "asn": "50634",
+        "description": "Open Line Vitaly informacijske tehnologije d.o.o.",
+        "handle": "PPG-NET"
+    },
+    "50815": {
+        "country_code": "SI",
+        "asn": "50815",
+        "description": "TELPROM Informacijske tehnologije d.o.o.",
+        "handle": "BTC-AS"
+    },
+    "51143": {
+        "country_code": "SI",
+        "asn": "51143",
+        "description": "Informatika d.o.o.",
+        "handle": "INFORMATIKA"
+    },
+    "51509": {
+        "country_code": "SI",
+        "asn": "51509",
+        "description": "NEO IT d.o.o.",
+        "handle": "NEO-AS"
+    },
+    "51565": {
+        "country_code": "SI",
+        "asn": "51565",
+        "description": "HC CENTER druzba za informacijske tehnologije d.o.o.",
+        "handle": "SI-HC-CENTER"
+    },
+    "51573": {
+        "country_code": "SI",
+        "asn": "51573",
+        "description": "XLAB razvoj programske opreme in svetovanje d.o.o.",
+        "handle": "XLAB-AS"
+    },
+    "51615": {
+        "country_code": "SI",
+        "asn": "51615",
+        "description": "Zavod Kabelska televizija Nova gorica",
+        "handle": "KATENG-ASN"
+    },
+    "51644": {
+        "country_code": "SI",
+        "asn": "51644",
+        "description": "Datalab Tehnologije d.d.",
+        "handle": "SI-DATALAB"
+    },
+    "51735": {
+        "country_code": "SI",
+        "asn": "51735",
+        "description": "Pernod Ricard Slovenija Trgovina in storitve d.o.o.",
+        "handle": "PERNOD-RICARD-SLOVENIA-AS"
+    },
+    "51790": {
+        "country_code": "SI",
+        "asn": "51790",
+        "description": "SIEL d.o.o.",
+        "handle": "SIEL"
+    },
+    "51816": {
+        "country_code": "SI",
+        "asn": "51816",
+        "description": "ACTUAL I.T. d.d.",
+        "handle": "ASTEC-AS"
+    },
+    "51988": {
+        "country_code": "SI",
+        "asn": "51988",
+        "description": "ARNES",
+        "handle": "ARNES-SIX"
+    },
+    "52035": {
+        "country_code": "SI",
+        "asn": "52035",
+        "description": "D1 informacijske tehnologije d.o.o.",
+        "handle": "D1"
+    },
+    "56481": {
+        "country_code": "SI",
+        "asn": "56481",
+        "description": "MLINOTEST zivilska industrija d.d.",
+        "handle": "MLINOTEST-AS"
+    },
+    "56513": {
+        "country_code": "SI",
+        "asn": "56513",
+        "description": "Optisis d.o.o.",
+        "handle": "OPTISIS-AS"
+    },
+    "56635": {
+        "country_code": "SI",
+        "asn": "56635",
+        "description": "XENYA inzeniring proizvodnja in trgovina d.o.o. Ljubljana",
+        "handle": "XENYA"
+    },
+    "56651": {
+        "country_code": "SI",
+        "asn": "56651",
+        "description": "Javno podjetje uradni list Republike Slovenije d.o.o.",
+        "handle": "SI-URADNI-LIST-RS"
+    },
+    "56695": {
+        "country_code": "SI",
+        "asn": "56695",
+        "description": "RRC Racunalniske storitve d.o.o.",
+        "handle": "RRC"
+    },
+    "56993": {
+        "country_code": "SI",
+        "asn": "56993",
+        "description": "KONTROLA ZRACNEGA PROMETA SLOVENIJE d.o.o.",
+        "handle": "KZPS"
+    },
+    "57291": {
+        "country_code": "SI",
+        "asn": "57291",
+        "description": "AJM okna-vrata-sencila d.o.o.",
+        "handle": "AJM-DOO"
+    },
+    "57517": {
+        "country_code": "SI",
+        "asn": "57517",
+        "description": "Ministrstvo za notranje zadeve",
+        "handle": "POLICIJA-AS"
+    },
+    "57532": {
+        "country_code": "SI",
+        "asn": "57532",
+        "description": "Kabelska televizija Ravne d.o.o.",
+        "handle": "KTVRAVNE"
+    },
+    "57554": {
+        "country_code": "SI",
+        "asn": "57554",
+        "description": "Zavarovalnica Sava d.d.",
+        "handle": "ZAVMB-DD"
+    },
+    "57623": {
+        "country_code": "SI",
+        "asn": "57623",
+        "description": "AGENDA komunikacijski in informacijski inzeniring d.o.o.",
+        "handle": "AGENDA"
+    },
+    "57854": {
+        "country_code": "SI",
+        "asn": "57854",
+        "description": "ACTUAL I.T. d.d.",
+        "handle": "ALTERNA-AS"
+    },
+    "58046": {
+        "country_code": "SI",
+        "asn": "58046",
+        "description": "The Ministry of Digital Transformation",
+        "handle": "HKOM-AS"
+    },
+    "58056": {
+        "country_code": "SI",
+        "asn": "58056",
+        "description": "siaIT d.o.o.",
+        "handle": "KRS-NET-AS"
+    },
+    "58213": {
+        "country_code": "SI",
+        "asn": "58213",
+        "description": "TOTTER MIDI podjetje za proizvodnjo in raziskave razvoj in trgovino d.o.o. Menges",
+        "handle": "SI-TOTTER-MIDI"
+    },
+    "59449": {
+        "country_code": "SI",
+        "asn": "59449",
+        "description": "Mitja Herbaj",
+        "handle": "MITJA"
+    },
+    "59834": {
+        "country_code": "SI",
+        "asn": "59834",
+        "description": "Hitrost.com Internet Storitve d.o.o.",
+        "handle": "HITROST-AS"
+    },
+    "60114": {
+        "country_code": "SI",
+        "asn": "60114",
+        "description": "SIEL d.o.o.",
+        "handle": "SIEL-ANYCAST"
+    },
+    "60215": {
+        "country_code": "SI",
+        "asn": "60215",
+        "description": "Projekt IP d.o.o.",
+        "handle": "PROJEKTIP"
+    },
+    "60435": {
+        "country_code": "SI",
+        "asn": "60435",
+        "description": "Humanfrog d.o.o.",
+        "handle": "HUMANFROG-AS"
+    },
+    "60973": {
+        "country_code": "SI",
+        "asn": "60973",
+        "description": "ZUPO D.O.O.",
+        "handle": "ZUPO"
+    },
+    "62255": {
+        "country_code": "SI",
+        "asn": "62255",
+        "description": "BiMajLink d.o.o.",
+        "handle": "BEMYLINK"
+    },
+    "64465": {
+        "country_code": "SI",
+        "asn": "64465",
+        "description": "Comtron d.o.o.",
+        "handle": "COMTRON-AS"
+    },
+    "196772": {
+        "country_code": "SI",
+        "asn": "196772",
+        "description": "Nuklearna Elektrarna Krsko d.o.o.",
+        "handle": "NEK"
+    },
+    "196837": {
+        "country_code": "SI",
+        "asn": "196837",
+        "description": "ISTRABENZ TURIZEM d.d.",
+        "handle": "SI-ISTRABENZ-TURIZEM"
+    },
+    "196846": {
+        "country_code": "SI",
+        "asn": "196846",
+        "description": "A1 Slovenija telekomunikacijske storitve d.d.",
+        "handle": "ELKATV"
+    },
+    "196895": {
+        "country_code": "SI",
+        "asn": "196895",
+        "description": "Uprava Republike Slovenije za javna placila",
+        "handle": "UJP-SI"
+    },
+    "196912": {
+        "country_code": "SI",
+        "asn": "196912",
+        "description": "ACH Invest d.o.o.",
+        "handle": "ACH-AS"
+    },
+    "197045": {
+        "country_code": "SI",
+        "asn": "197045",
+        "description": "T-2 d.o.o.",
+        "handle": "AVISION-ALTERNET"
+    },
+    "197209": {
+        "country_code": "SI",
+        "asn": "197209",
+        "description": "STN STORITVE d.o.o.",
+        "handle": "STN-EU-AS"
+    },
+    "197266": {
+        "country_code": "SI",
+        "asn": "197266",
+        "description": "A-SOFT d.o.o.",
+        "handle": "A-SOFT"
+    },
+    "197326": {
+        "country_code": "SI",
+        "asn": "197326",
+        "description": "TRIMO arhitekturne resitve d.o.o.",
+        "handle": "TRIMO"
+    },
+    "197391": {
+        "country_code": "SI",
+        "asn": "197391",
+        "description": "Tobacna Ljubljana d.o.o.",
+        "handle": "TOBACNA-LJUBLJANA-SI-AS"
+    },
+    "197416": {
+        "country_code": "SI",
+        "asn": "197416",
+        "description": "Talpas d.o.o.",
+        "handle": "TALPAS-SI-AS"
+    },
+    "197441": {
+        "country_code": "SI",
+        "asn": "197441",
+        "description": "RETIP Informacijske Storitve d.o.o.",
+        "handle": "ABAK"
+    },
+    "197470": {
+        "country_code": "SI",
+        "asn": "197470",
+        "description": "TELE-TV d.o.o.",
+        "handle": "TELE-CABLE-NET"
+    },
+    "197511": {
+        "country_code": "SI",
+        "asn": "197511",
+        "description": "Telesistemi d.o.o.",
+        "handle": "TELESISTEMI"
+    },
+    "197514": {
+        "country_code": "SI",
+        "asn": "197514",
+        "description": "Nova Ljubljanska Banka d.d.",
+        "handle": "NBANKA"
+    },
+    "197536": {
+        "country_code": "SI",
+        "asn": "197536",
+        "description": "Kovintrade d.d. Celje",
+        "handle": "KOVINTRADE-SI-AS"
+    },
+    "197546": {
+        "country_code": "SI",
+        "asn": "197546",
+        "description": "HC Nalozbe d.o.o.",
+        "handle": "HC-NALOZBE"
+    },
+    "197579": {
+        "country_code": "SI",
+        "asn": "197579",
+        "description": "BASS d.o.o. Celje",
+        "handle": "BASS-SI"
+    },
+    "197635": {
+        "country_code": "SI",
+        "asn": "197635",
+        "description": "ETI Elektroelement d.d.",
+        "handle": "ETI-SI"
+    },
+    "197655": {
+        "country_code": "SI",
+        "asn": "197655",
+        "description": "GEN-I d.o.o.",
+        "handle": "GEN-I"
+    },
+    "197663": {
+        "country_code": "SI",
+        "asn": "197663",
+        "description": "POLANS telekomunikacijske storitve d.o.o.",
+        "handle": "POLANS"
+    },
+    "197679": {
+        "country_code": "SI",
+        "asn": "197679",
+        "description": "Kolektor Group d.o.o.",
+        "handle": "KOLEKTORGROUP"
+    },
+    "197796": {
+        "country_code": "SI",
+        "asn": "197796",
+        "description": "Termoelektrarna Brestanica d.o.o.",
+        "handle": "TEB-SI-AS"
+    },
+    "197843": {
+        "country_code": "SI",
+        "asn": "197843",
+        "description": "Alcad podjetje za projektiranje trgovino in storitve d.o.o.",
+        "handle": "ALCAD-SI"
+    },
+    "197864": {
+        "country_code": "SI",
+        "asn": "197864",
+        "description": "Infonet Media d.o.o.",
+        "handle": "IMD2-AS"
+    },
+    "197877": {
+        "country_code": "SI",
+        "asn": "197877",
+        "description": "ASSISTANCE CORIS d.o.o. Ljubljana",
+        "handle": "SI-CORIS"
+    },
+    "197881": {
+        "country_code": "SI",
+        "asn": "197881",
+        "description": "KRONTRON d.o.o.",
+        "handle": "AS-KONTRON"
+    },
+    "197907": {
+        "country_code": "SI",
+        "asn": "197907",
+        "description": "AKSON poslovno in informacijsko svetovanje d.o.o.",
+        "handle": "AKSON"
+    },
+    "197944": {
+        "country_code": "SI",
+        "asn": "197944",
+        "description": "Virtua IT d.o.o.",
+        "handle": "SI-VIRTUA"
+    },
+    "198061": {
+        "country_code": "SI",
+        "asn": "198061",
+        "description": "Valicon d.o.o.",
+        "handle": "SI-VALICON"
+    },
+    "198213": {
+        "country_code": "SI",
+        "asn": "198213",
+        "description": "FREENET internet d.o.o.",
+        "handle": "FREENET"
+    },
+    "198245": {
+        "country_code": "SI",
+        "asn": "198245",
+        "description": "Monolit d.o.o.",
+        "handle": "MONOLIT"
+    },
+    "198298": {
+        "country_code": "SI",
+        "asn": "198298",
+        "description": "Imovation d.o.o.",
+        "handle": "IMOVATION"
+    },
+    "198307": {
+        "country_code": "SI",
+        "asn": "198307",
+        "description": "TPV AUTOMOTIVE d.o.o.",
+        "handle": "TPV-SI-AS"
+    },
+    "198470": {
+        "country_code": "SI",
+        "asn": "198470",
+        "description": "RLS merilna tehnika d.o.o.",
+        "handle": "SI-RLS"
+    },
+    "198524": {
+        "country_code": "SI",
+        "asn": "198524",
+        "description": "iLOL d.o.o.",
+        "handle": "ILOL"
+    },
+    "198572": {
+        "country_code": "SI",
+        "asn": "198572",
+        "description": "Ika trgovsko podjetje Ziri d.o.o.",
+        "handle": "IKA"
+    },
+    "198644": {
+        "country_code": "SI",
+        "asn": "198644",
+        "description": "NET42 svetovanje in razvoj internetnih resitev d.o.o.",
+        "handle": "GO6"
+    },
+    "198827": {
+        "country_code": "SI",
+        "asn": "198827",
+        "description": "Elektro Gorenjska podjetje za distribucijo elektricne energije d.d.",
+        "handle": "ELEKTROGORENJSKA-SI"
+    },
+    "198841": {
+        "country_code": "SI",
+        "asn": "198841",
+        "description": "Repro-PRINT d.o.o.",
+        "handle": "REPRO-SI-AS"
+    },
+    "198923": {
+        "country_code": "SI",
+        "asn": "198923",
+        "description": "Mitja Herbaj",
+        "handle": "MH190"
+    },
+    "199050": {
+        "country_code": "SI",
+        "asn": "199050",
+        "description": "Squalo d.o.o.",
+        "handle": "ITARS-AS"
+    },
+    "199249": {
+        "country_code": "SI",
+        "asn": "199249",
+        "description": "Genis d.o.o.",
+        "handle": "GENIS-SI"
+    },
+    "199268": {
+        "country_code": "SI",
+        "asn": "199268",
+        "description": "LANCOM inzeniring racunalniskig sistemov d.o.o.",
+        "handle": "LANCOM-SI"
+    },
+    "199612": {
+        "country_code": "SI",
+        "asn": "199612",
+        "description": "Dun & Bradstreet d.o.o.",
+        "handle": "BISNODE"
+    },
+    "199638": {
+        "country_code": "SI",
+        "asn": "199638",
+        "description": "Rudis D.o.o.",
+        "handle": "RUDIS-SI-AS"
+    },
+    "199951": {
+        "country_code": "SI",
+        "asn": "199951",
+        "description": "K-NET kabelski sistemi d.o.o.",
+        "handle": "KNET-AS"
+    },
+    "199971": {
+        "country_code": "SI",
+        "asn": "199971",
+        "description": "Ixtlan Team d.o.o.",
+        "handle": "SI-IXTLANTEAM"
+    },
+    "200325": {
+        "country_code": "SI",
+        "asn": "200325",
+        "description": "BUNNYWAY informacijske storitve d.o.o.",
+        "handle": "BUNNYCDN"
+    },
+    "201395": {
+        "country_code": "SI",
+        "asn": "201395",
+        "description": "IT-TIM d.o.o.",
+        "handle": "IT-TIM-AS"
+    },
+    "201444": {
+        "country_code": "SI",
+        "asn": "201444",
+        "description": "Orange dog d.o.o.",
+        "handle": "ORANGE-DOG-2-AS"
+    },
+    "201522": {
+        "country_code": "SI",
+        "asn": "201522",
+        "description": "UB330.net d.o.o.",
+        "handle": "UB330-NET"
+    },
+    "201905": {
+        "country_code": "SI",
+        "asn": "201905",
+        "description": "Dspot d.o.o.",
+        "handle": "DSPOT"
+    },
+    "201985": {
+        "country_code": "SI",
+        "asn": "201985",
+        "description": "RETIP Informacijske Storitve d.o.o.",
+        "handle": "ABAK2"
+    },
+    "202137": {
+        "country_code": "SI",
+        "asn": "202137",
+        "description": "Ministrstvo za obrambo",
+        "handle": "MORS"
+    },
+    "202442": {
+        "country_code": "SI",
+        "asn": "202442",
+        "description": "Real Security d.o.o.",
+        "handle": "REALSEC"
+    },
+    "202456": {
+        "country_code": "SI",
+        "asn": "202456",
+        "description": "SILIKO PROIZVODNO PODJETJE STORITVE IN TRGOVINA D.O.O.",
+        "handle": "SILIKO"
+    },
+    "202547": {
+        "country_code": "SI",
+        "asn": "202547",
+        "description": "Hranilnica LON d.d. Kranj",
+        "handle": "LON-AS"
+    },
+    "202840": {
+        "country_code": "SI",
+        "asn": "202840",
+        "description": "ELMITEL d.o.o.",
+        "handle": "ELMITEL"
+    },
+    "202988": {
+        "country_code": "SI",
+        "asn": "202988",
+        "description": "Ziga Kralj",
+        "handle": "ZIGA-KRALJ"
+    },
+    "203330": {
+        "country_code": "SI",
+        "asn": "203330",
+        "description": "Incom Group d.o.o.",
+        "handle": "INCOMGROUP-AS"
+    },
+    "203466": {
+        "country_code": "SI",
+        "asn": "203466",
+        "description": "INTROSERV d.o.o",
+        "handle": "INTROSERV"
+    },
+    "203618": {
+        "country_code": "SI",
+        "asn": "203618",
+        "description": "UB330.net d.o.o.",
+        "handle": "UB330-NET2"
+    },
+    "203671": {
+        "country_code": "SI",
+        "asn": "203671",
+        "description": "Talum d.d. Kidricevo",
+        "handle": "TALUM-AS"
+    },
+    "203830": {
+        "country_code": "SI",
+        "asn": "203830",
+        "description": "PREMOGOVNIK VELENJE d.o.o.",
+        "handle": "RLV-AS"
+    },
+    "203970": {
+        "country_code": "SI",
+        "asn": "203970",
+        "description": "WEILER Abrasives d.o.o.",
+        "handle": "WEILERABRASIVES"
+    },
+    "204177": {
+        "country_code": "SI",
+        "asn": "204177",
+        "description": "CVS Mobile informacijske resitve d.d.",
+        "handle": "CVS"
+    },
+    "204500": {
+        "country_code": "SI",
+        "asn": "204500",
+        "description": "Arcont d.d.",
+        "handle": "ARCONT"
+    },
+    "204501": {
+        "country_code": "SI",
+        "asn": "204501",
+        "description": "LTH Castings d.o.o.",
+        "handle": "LTHCASTING"
+    },
+    "204771": {
+        "country_code": "SI",
+        "asn": "204771",
+        "description": "Sinergise d.o.o.",
+        "handle": "SI-SINERGISE"
+    },
+    "204984": {
+        "country_code": "SI",
+        "asn": "204984",
+        "description": "AJPES",
+        "handle": "AJPES-AS"
+    },
+    "205211": {
+        "country_code": "SI",
+        "asn": "205211",
+        "description": "Tilen Barbiric",
+        "handle": "TCLOUNET"
+    },
+    "205379": {
+        "country_code": "SI",
+        "asn": "205379",
+        "description": "Salonit Anhovo d.d.",
+        "handle": "SALONIT"
+    },
+    "205403": {
+        "country_code": "SI",
+        "asn": "205403",
+        "description": "ELRAD INTERNATIONAL d.o.o.",
+        "handle": "ELRAD"
+    },
+    "205404": {
+        "country_code": "SI",
+        "asn": "205404",
+        "description": "Arhides d.o.o.",
+        "handle": "ARHIDES"
+    },
+    "205405": {
+        "country_code": "SI",
+        "asn": "205405",
+        "description": "Kemofarmacija d.d.",
+        "handle": "KEMOFARMACIJA"
+    },
+    "205509": {
+        "country_code": "SI",
+        "asn": "205509",
+        "description": "Elektro Primorska podjetje za distribucijo elektricne energije d.d.",
+        "handle": "ELEKTRO-PRIMORSKA"
+    },
+    "205962": {
+        "country_code": "SI",
+        "asn": "205962",
+        "description": "Orange dog d.o.o.",
+        "handle": "ORANGE-DOG-AS"
+    },
+    "207318": {
+        "country_code": "SI",
+        "asn": "207318",
+        "description": "NGEN energetske resitve d.o.o.",
+        "handle": "NGEN"
+    },
+    "207746": {
+        "country_code": "SI",
+        "asn": "207746",
+        "description": "A1 Slovenija telekomunikacijske storitve d.d.",
+        "handle": "A1SI-AS"
+    },
+    "207774": {
+        "country_code": "SI",
+        "asn": "207774",
+        "description": "INNET SOLUTIONS d.o.o.",
+        "handle": "NETCOM"
+    },
+    "208243": {
+        "country_code": "SI",
+        "asn": "208243",
+        "description": "HSI doo",
+        "handle": "HSI"
+    },
+    "209009": {
+        "country_code": "SI",
+        "asn": "209009",
+        "description": "AVANT.SI d.o.o.",
+        "handle": "AVANT-SI"
+    },
+    "209411": {
+        "country_code": "SI",
+        "asn": "209411",
+        "description": "D1 informacijske tehnologije d.o.o.",
+        "handle": "D1-SI"
+    },
+    "209996": {
+        "country_code": "SI",
+        "asn": "209996",
+        "description": "Adacta d.o.o.",
+        "handle": "ADACTA"
+    },
+    "210119": {
+        "country_code": "SI",
+        "asn": "210119",
+        "description": "United Cloud Inovacijski Center d.o.o.",
+        "handle": "UNITEDCLOUD"
+    },
+    "210197": {
+        "country_code": "SI",
+        "asn": "210197",
+        "description": "ROK TAJZEL",
+        "handle": "RESITVE-AS"
+    },
+    "210715": {
+        "country_code": "SI",
+        "asn": "210715",
+        "description": "Nik Rozman",
+        "handle": "PISKOT-AS"
+    },
+    "210719": {
+        "country_code": "SI",
+        "asn": "210719",
+        "description": "ADRIA MOBIL d.o.o. Novo mesto",
+        "handle": "ADRIAMOBIL"
+    },
+    "210857": {
+        "country_code": "SI",
+        "asn": "210857",
+        "description": "PHAETON PLUS d.o.o",
+        "handle": "VIDNOENET"
+    },
+    "211237": {
+        "country_code": "SI",
+        "asn": "211237",
+        "description": "Urban Suhadolnik",
+        "handle": "URBAN-AS"
+    },
+    "211256": {
+        "country_code": "SI",
+        "asn": "211256",
+        "description": "ELTA TELEKOMUNIKACIJE d.o.o.",
+        "handle": "ELTA-SI"
+    },
+    "211606": {
+        "country_code": "SI",
+        "asn": "211606",
+        "description": "UNIJA ETL IT d.o.o. Ljubljana",
+        "handle": "UNIJA-AS"
+    },
+    "211776": {
+        "country_code": "SI",
+        "asn": "211776",
+        "description": "Anze Jensterle",
+        "handle": "CRAFTBYTE"
+    },
+    "211884": {
+        "country_code": "SI",
+        "asn": "211884",
+        "description": "CALCIT proizvodnja kalcitnih polnil d.o.o.",
+        "handle": "ASCALCIT"
+    },
+    "212170": {
+        "country_code": "SI",
+        "asn": "212170",
+        "description": "Rok Potocnik s.p.",
+        "handle": "RULA-AS"
+    },
+    "212405": {
+        "country_code": "SI",
+        "asn": "212405",
+        "description": "Kristjan Komlosi",
+        "handle": "KRISTJAN-KOMLOSI"
+    },
+    "212548": {
+        "country_code": "SI",
+        "asn": "212548",
+        "description": "Petrol d.d. Ljubljana",
+        "handle": "PETROL-AS"
+    },
+    "212563": {
+        "country_code": "SI",
+        "asn": "212563",
+        "description": "Mesta Obcina Celje",
+        "handle": "MOCELJE"
+    },
+    "212597": {
+        "country_code": "SI",
+        "asn": "212597",
+        "description": "Mariborska livarna Maribor d.d.",
+        "handle": "MLM"
+    },
+    "212979": {
+        "country_code": "SI",
+        "asn": "212979",
+        "description": "AP LJUBLJANA d.d.",
+        "handle": "AP-AS"
+    },
+    "213115": {
+        "country_code": "SI",
+        "asn": "213115",
+        "description": "MMITECH d.o.o.",
+        "handle": "MMITECH-AS"
+    },
+    "213706": {
+        "country_code": "SI",
+        "asn": "213706",
+        "description": "NJK d.o.o.",
+        "handle": "NJK-AS"
+    },
+    "214167": {
+        "country_code": "SI",
+        "asn": "214167",
+        "description": "Inel d.o.o.",
+        "handle": "INEL-AS"
+    },
+    "214499": {
+        "country_code": "SI",
+        "asn": "214499",
+        "description": "BASS d.o.o. Celje",
+        "handle": "BASS-2"
+    },
+    "214850": {
+        "country_code": "SI",
+        "asn": "214850",
+        "description": "Ales List",
+        "handle": "DC379-AS-01"
+    },
+    "215009": {
+        "country_code": "SI",
+        "asn": "215009",
+        "description": "BELERAFON razvoj in programiranje d.o.o.",
+        "handle": "BELEFRON"
+    },
+    "215472": {
+        "country_code": "SI",
+        "asn": "215472",
+        "description": "Jan Ferme",
+        "handle": "SL-JFERME"
+    },
+    "215844": {
+        "country_code": "SI",
+        "asn": "215844",
+        "description": "Primoz Pokerznik",
+        "handle": "XCS3COM"
+    },
+    "216372": {
+        "country_code": "SI",
+        "asn": "216372",
+        "description": "Republika Slovenija Ministrstvo za Infrastrukturo",
+        "handle": "RSMIZ-AS"
+    },
+    "216420": {
+        "country_code": "SI",
+        "asn": "216420",
+        "description": "Novatel druzba za informacijske tehnologije d.o.o.",
+        "handle": "NOVATEL-MOBIL-AS"
+    }
+}

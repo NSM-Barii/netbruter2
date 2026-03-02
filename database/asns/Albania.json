@@ -1,0 +1,782 @@
+{
+    "5414": {
+        "country_code": "AL",
+        "asn": "5414",
+        "description": "Banka e Shqiperise",
+        "handle": "BANK-OF-ALBANIA"
+    },
+    "5576": {
+        "country_code": "AL",
+        "asn": "5576",
+        "description": "Agjencia Kombetare Shoqerise se Informacionit",
+        "handle": "AKSHI"
+    },
+    "6843": {
+        "country_code": "AL",
+        "asn": "6843",
+        "description": "Diginet shpk",
+        "handle": "DIGINET"
+    },
+    "8661": {
+        "country_code": "AL",
+        "asn": "8661",
+        "description": "Telekomi i Kosoves SH.A.",
+        "handle": "PTK"
+    },
+    "12783": {
+        "country_code": "AL",
+        "asn": "12783",
+        "description": "ENET Shpk",
+        "handle": "ENET-AL-AS"
+    },
+    "21183": {
+        "country_code": "AL",
+        "asn": "21183",
+        "description": "Vodafone Albania Sh.A.",
+        "handle": "VODAFONE-FIX-AS"
+    },
+    "21246": {
+        "country_code": "AL",
+        "asn": "21246",
+        "description": "IPKO Telecommunications LLC",
+        "handle": "IPKO-AS"
+    },
+    "29170": {
+        "country_code": "AL",
+        "asn": "29170",
+        "description": "Kujtesa Net Sh.p.k.",
+        "handle": "KUJTESA-AS"
+    },
+    "29238": {
+        "country_code": "AL",
+        "asn": "29238",
+        "description": "Nisatel LTD",
+        "handle": "NISATEL"
+    },
+    "31130": {
+        "country_code": "AL",
+        "asn": "31130",
+        "description": "Albanian Hosting SH.P.K.",
+        "handle": "RAPIDSPACE"
+    },
+    "33924": {
+        "country_code": "AL",
+        "asn": "33924",
+        "description": "Pronet sh.p.k.",
+        "handle": "PRONET-AL-AS"
+    },
+    "33983": {
+        "country_code": "AL",
+        "asn": "33983",
+        "description": "ARTMOTION SH.P.K.",
+        "handle": "ARTMOTION-AS"
+    },
+    "35047": {
+        "country_code": "AL",
+        "asn": "35047",
+        "description": "Abissnet sh.a.",
+        "handle": "ABISSNET"
+    },
+    "35444": {
+        "country_code": "AL",
+        "asn": "35444",
+        "description": "Digicom SHPK",
+        "handle": "DIGICOMALBANIA-AS"
+    },
+    "38916": {
+        "country_code": "AL",
+        "asn": "38916",
+        "description": "FBD shpk",
+        "handle": "FBD-AL-AS"
+    },
+    "39237": {
+        "country_code": "AL",
+        "asn": "39237",
+        "description": "I.T.S. SH.P.K.",
+        "handle": "ITS-AS"
+    },
+    "39611": {
+        "country_code": "AL",
+        "asn": "39611",
+        "description": "TIBO COMMUNICATIONS SH.P.K",
+        "handle": "TIBO-AS"
+    },
+    "41439": {
+        "country_code": "AL",
+        "asn": "41439",
+        "description": "MAXCOM sh.p.k.",
+        "handle": "MAXCOM"
+    },
+    "42313": {
+        "country_code": "AL",
+        "asn": "42313",
+        "description": "ONE ALBANIA SH.A.",
+        "handle": "ONEALBANIA-AS"
+    },
+    "42409": {
+        "country_code": "AL",
+        "asn": "42409",
+        "description": "Autoriteti i Komunikimeve Elektronike dhe Postare - AKEP",
+        "handle": "AKEP-AS"
+    },
+    "42460": {
+        "country_code": "AL",
+        "asn": "42460",
+        "description": "Digicom SHPK",
+        "handle": "DIGICOM-BACKUP-ASN"
+    },
+    "43272": {
+        "country_code": "AL",
+        "asn": "43272",
+        "description": "DOTNET SH.P.K",
+        "handle": "DOTNET-AS"
+    },
+    "47394": {
+        "country_code": "AL",
+        "asn": "47394",
+        "description": "Albanian Satellite Communications sh.p.k.",
+        "handle": "ASC-AL-AS"
+    },
+    "47588": {
+        "country_code": "AL",
+        "asn": "47588",
+        "description": "TEL COMMUNICATIONS L.L.C.",
+        "handle": "TELCOMMUNICATIONS-AS"
+    },
+    "48014": {
+        "country_code": "AL",
+        "asn": "48014",
+        "description": "Albanian Hosting SH.P.K.",
+        "handle": "ALBHOST"
+    },
+    "48265": {
+        "country_code": "AL",
+        "asn": "48265",
+        "description": "NSolution sh.p.k",
+        "handle": "ITIRANA-AL-AS"
+    },
+    "48510": {
+        "country_code": "AL",
+        "asn": "48510",
+        "description": "ONE ALBANIA SH.A.",
+        "handle": "ONEALBANIA-AS"
+    },
+    "50091": {
+        "country_code": "AL",
+        "asn": "50091",
+        "description": "Ylli Zeka trading as N.T.SH. NEGENETI",
+        "handle": "NEGENET"
+    },
+    "50616": {
+        "country_code": "AL",
+        "asn": "50616",
+        "description": "ONE ALBANIA SH.A.",
+        "handle": "AMC"
+    },
+    "50973": {
+        "country_code": "AL",
+        "asn": "50973",
+        "description": "Vodafone Albania Sh.A.",
+        "handle": "VODAFONE-AL-ASN"
+    },
+    "56468": {
+        "country_code": "AL",
+        "asn": "56468",
+        "description": "MC NETWORKING Sh.p.k.",
+        "handle": "MCNET"
+    },
+    "56782": {
+        "country_code": "AL",
+        "asn": "56782",
+        "description": "ALBANIA MARKETING SERVICE Ltd",
+        "handle": "AMS-AS"
+    },
+    "57070": {
+        "country_code": "AL",
+        "asn": "57070",
+        "description": "ITCOM Shpk",
+        "handle": "ITCOM-SHKODER"
+    },
+    "57388": {
+        "country_code": "AL",
+        "asn": "57388",
+        "description": "I.B.C - Telecom Sh.p.k.",
+        "handle": "IBC-AS"
+    },
+    "57961": {
+        "country_code": "AL",
+        "asn": "57961",
+        "description": "RASH - Rrjeti Akademik Shqiptar",
+        "handle": "RASH-AS"
+    },
+    "58137": {
+        "country_code": "AL",
+        "asn": "58137",
+        "description": "RASH - Rrjeti Akademik Shqiptar",
+        "handle": "ROUTE-ANIX-IXP"
+    },
+    "58166": {
+        "country_code": "AL",
+        "asn": "58166",
+        "description": "Credins Bank Sh.A.",
+        "handle": "CREDINS-AS"
+    },
+    "60304": {
+        "country_code": "AL",
+        "asn": "60304",
+        "description": "Starnet Sh.p.k.",
+        "handle": "STARNET"
+    },
+    "60352": {
+        "country_code": "AL",
+        "asn": "60352",
+        "description": "S E L C O M SHPK",
+        "handle": "SELCOM-AL-AS"
+    },
+    "60471": {
+        "country_code": "AL",
+        "asn": "60471",
+        "description": "Mobitel sh.p.k.",
+        "handle": "MOBITEL-BGP"
+    },
+    "196838": {
+        "country_code": "AL",
+        "asn": "196838",
+        "description": "Albanian Satellite Communications sh.p.k.",
+        "handle": "ASC-AL-AS196838"
+    },
+    "197445": {
+        "country_code": "AL",
+        "asn": "197445",
+        "description": "NSC Sh.p.k",
+        "handle": "NSC"
+    },
+    "197706": {
+        "country_code": "AL",
+        "asn": "197706",
+        "description": "Keminet SHPK",
+        "handle": "KEMINET"
+    },
+    "198279": {
+        "country_code": "AL",
+        "asn": "198279",
+        "description": "Albanian Telecommunications Union SH. P.K.",
+        "handle": "ATU-AL-AS"
+    },
+    "198890": {
+        "country_code": "AL",
+        "asn": "198890",
+        "description": "Albanian Fiber Telecommunications SHPK",
+        "handle": "MADCOM-ASN"
+    },
+    "199276": {
+        "country_code": "AL",
+        "asn": "199276",
+        "description": "Tele.Co.Albania SHPK",
+        "handle": "ERMAL"
+    },
+    "201249": {
+        "country_code": "AL",
+        "asn": "201249",
+        "description": "IPRO Sh.p.k.",
+        "handle": "IPRO"
+    },
+    "201524": {
+        "country_code": "AL",
+        "asn": "201524",
+        "description": "Albania State Police",
+        "handle": "ASP"
+    },
+    "201708": {
+        "country_code": "AL",
+        "asn": "201708",
+        "description": "RAIFFEISEN BANK SH.A",
+        "handle": "RAIFFEISEN-AL-AS"
+    },
+    "201967": {
+        "country_code": "AL",
+        "asn": "201967",
+        "description": "Erlis Marku",
+        "handle": "ELINET"
+    },
+    "202080": {
+        "country_code": "AL",
+        "asn": "202080",
+        "description": "G net Sh.p.k",
+        "handle": "GIGANET"
+    },
+    "202179": {
+        "country_code": "AL",
+        "asn": "202179",
+        "description": "Intercom Data Service sh.p.k",
+        "handle": "IDS-AS"
+    },
+    "202433": {
+        "country_code": "AL",
+        "asn": "202433",
+        "description": "Acenet sh.p.k.",
+        "handle": "ACENET"
+    },
+    "202558": {
+        "country_code": "AL",
+        "asn": "202558",
+        "description": "M.R.M shpk",
+        "handle": "AS-SET-LOBINET"
+    },
+    "202710": {
+        "country_code": "AL",
+        "asn": "202710",
+        "description": "ABnet Sh.p.k",
+        "handle": "ABNET"
+    },
+    "202821": {
+        "country_code": "AL",
+        "asn": "202821",
+        "description": "ONE ALBANIA SH.A.",
+        "handle": "ONEALBANIA-IXP"
+    },
+    "202969": {
+        "country_code": "AL",
+        "asn": "202969",
+        "description": "TEB SH.A",
+        "handle": "TEBSHA"
+    },
+    "203063": {
+        "country_code": "AL",
+        "asn": "203063",
+        "description": "INTESA SANPAOLO BANK ALBANIA PJSC",
+        "handle": "ISPBA-ASN1"
+    },
+    "203675": {
+        "country_code": "AL",
+        "asn": "203675",
+        "description": "VISTA SH.P.K.",
+        "handle": "VISTA"
+    },
+    "204100": {
+        "country_code": "AL",
+        "asn": "204100",
+        "description": "ProCredit Bank Sh.a",
+        "handle": "PCBK"
+    },
+    "204285": {
+        "country_code": "AL",
+        "asn": "204285",
+        "description": "OPTIMUM Telecommunications LLC",
+        "handle": "OPTIMUM"
+    },
+    "204816": {
+        "country_code": "AL",
+        "asn": "204816",
+        "description": "VANI SHPK",
+        "handle": "VANI"
+    },
+    "204894": {
+        "country_code": "AL",
+        "asn": "204894",
+        "description": "Ezmir Kraja trading as StyleNet",
+        "handle": "STYLENET"
+    },
+    "205025": {
+        "country_code": "AL",
+        "asn": "205025",
+        "description": "Ilir Kurti",
+        "handle": "IREGISTER"
+    },
+    "205110": {
+        "country_code": "AL",
+        "asn": "205110",
+        "description": "NEXT-TV SHPK",
+        "handle": "NEXT-TV"
+    },
+    "205140": {
+        "country_code": "AL",
+        "asn": "205140",
+        "description": "RASH - Rrjeti Akademik Shqiptar",
+        "handle": "ANIX"
+    },
+    "205244": {
+        "country_code": "AL",
+        "asn": "205244",
+        "description": "NEXT-TV SHPK",
+        "handle": "FIRSTCOM"
+    },
+    "205278": {
+        "country_code": "AL",
+        "asn": "205278",
+        "description": "NetCom ISP Sh.p.k.",
+        "handle": "NETCOM"
+    },
+    "205832": {
+        "country_code": "AL",
+        "asn": "205832",
+        "description": "ULTRANET sh.p.k",
+        "handle": "ULTRANET"
+    },
+    "205923": {
+        "country_code": "AL",
+        "asn": "205923",
+        "description": "Optixcom sh.p.k.",
+        "handle": "OPTIXCOM-AS"
+    },
+    "206088": {
+        "country_code": "AL",
+        "asn": "206088",
+        "description": "shqiponjaisp.al LLC",
+        "handle": "SHQIPONJAISP"
+    },
+    "206262": {
+        "country_code": "AL",
+        "asn": "206262",
+        "description": "TelKos L.L.C",
+        "handle": "TELKOS"
+    },
+    "206358": {
+        "country_code": "AL",
+        "asn": "206358",
+        "description": "Qendrim Kryeziu trading as N.P.SH ISP - Broadcast",
+        "handle": "ISP-BROADCAST"
+    },
+    "207047": {
+        "country_code": "AL",
+        "asn": "207047",
+        "description": "Raiffeisen Bank Kosovo JSC",
+        "handle": "RAIFFEISEN-KS-AS"
+    },
+    "207330": {
+        "country_code": "AL",
+        "asn": "207330",
+        "description": "One Network L.L.C",
+        "handle": "ONE-NETWORK"
+    },
+    "207368": {
+        "country_code": "AL",
+        "asn": "207368",
+        "description": "Abissnet sh.a.",
+        "handle": "ABISSNET-SHA"
+    },
+    "207385": {
+        "country_code": "AL",
+        "asn": "207385",
+        "description": "Credins Bank Sh.A.",
+        "handle": "CREDINSBANK"
+    },
+    "207502": {
+        "country_code": "AL",
+        "asn": "207502",
+        "description": "SPEED LINE SHPK",
+        "handle": "SPEED-LINE"
+    },
+    "207876": {
+        "country_code": "AL",
+        "asn": "207876",
+        "description": "Roland Delia trading as NEWAVE",
+        "handle": "AS-SET-NEWAVE"
+    },
+    "208286": {
+        "country_code": "AL",
+        "asn": "208286",
+        "description": "Max tv SH. P. K",
+        "handle": "MAXTV"
+    },
+    "208630": {
+        "country_code": "AL",
+        "asn": "208630",
+        "description": "INFO-Telecom Shpk",
+        "handle": "INFOTELECOMALBANIA-AS"
+    },
+    "208734": {
+        "country_code": "AL",
+        "asn": "208734",
+        "description": "ELSA-TECH SH.P.K.",
+        "handle": "ELSA-TECH"
+    },
+    "209240": {
+        "country_code": "AL",
+        "asn": "209240",
+        "description": "ISA.NET Sh.p.k.",
+        "handle": "ISANET"
+    },
+    "209277": {
+        "country_code": "AL",
+        "asn": "209277",
+        "description": "APT CABLE SHPK",
+        "handle": "APT-CABLE-AS"
+    },
+    "209302": {
+        "country_code": "AL",
+        "asn": "209302",
+        "description": "Bujar Shimaj",
+        "handle": "SHIMAJ-NET-AS"
+    },
+    "209442": {
+        "country_code": "AL",
+        "asn": "209442",
+        "description": "FASTNET ALBANIA Sh.p.k",
+        "handle": "FASTNET-KORCE"
+    },
+    "209465": {
+        "country_code": "AL",
+        "asn": "209465",
+        "description": "VIG SERVICES SHQIPERI Sh.p.k.",
+        "handle": "VIGAL"
+    },
+    "209839": {
+        "country_code": "AL",
+        "asn": "209839",
+        "description": "Luva Group Sh.p.k.",
+        "handle": "LUVAGROUP"
+    },
+    "210003": {
+        "country_code": "AL",
+        "asn": "210003",
+        "description": "SKY ELBASAN sh.p.k",
+        "handle": "SKYELBASAN"
+    },
+    "210125": {
+        "country_code": "AL",
+        "asn": "210125",
+        "description": "PRIAM NET Sh.p.k.",
+        "handle": "PRIAMNET"
+    },
+    "210464": {
+        "country_code": "AL",
+        "asn": "210464",
+        "description": "ANDREW KRISTULI",
+        "handle": "AVSISP"
+    },
+    "210606": {
+        "country_code": "AL",
+        "asn": "210606",
+        "description": "ARKEP",
+        "handle": "KOSIX"
+    },
+    "210693": {
+        "country_code": "AL",
+        "asn": "210693",
+        "description": "Kamenicanet sh.p.k",
+        "handle": "KOSOVANET"
+    },
+    "210740": {
+        "country_code": "AL",
+        "asn": "210740",
+        "description": "ATM Fiber SH.P.K",
+        "handle": "ATMFIBER-AS"
+    },
+    "210748": {
+        "country_code": "AL",
+        "asn": "210748",
+        "description": "Edu Invest SH.P.K.",
+        "handle": "AAB-EDU"
+    },
+    "210964": {
+        "country_code": "AL",
+        "asn": "210964",
+        "description": "TV Kamenica sh.p.k",
+        "handle": "TVKAMENICA"
+    },
+    "211080": {
+        "country_code": "AL",
+        "asn": "211080",
+        "description": "Ministry of Economy of Republic of Kosovo",
+        "handle": "KREN-ASN"
+    },
+    "211098": {
+        "country_code": "AL",
+        "asn": "211098",
+        "description": "INFOGIS SH.P.K.",
+        "handle": "INFOGIS"
+    },
+    "211147": {
+        "country_code": "AL",
+        "asn": "211147",
+        "description": "INTERFIBER Sh.p.k",
+        "handle": "INTERFIBER"
+    },
+    "211210": {
+        "country_code": "AL",
+        "asn": "211210",
+        "description": "KORABI-NET SHPK",
+        "handle": "KORABI-NET"
+    },
+    "211356": {
+        "country_code": "AL",
+        "asn": "211356",
+        "description": "MyTv-Alb SH.P.K.",
+        "handle": "MYTVALB"
+    },
+    "211385": {
+        "country_code": "AL",
+        "asn": "211385",
+        "description": "NEXT-TV SHPK",
+        "handle": "DIGITEL"
+    },
+    "211458": {
+        "country_code": "AL",
+        "asn": "211458",
+        "description": "IH-NETWORK SHPK",
+        "handle": "IH-NET"
+    },
+    "211468": {
+        "country_code": "AL",
+        "asn": "211468",
+        "description": "KOSNET Telecommunications LLC",
+        "handle": "KOSNET"
+    },
+    "211470": {
+        "country_code": "AL",
+        "asn": "211470",
+        "description": "Kolegji Nderkombetar per Biznes dhe Teknologji - UBT SH.P.K",
+        "handle": "UBT"
+    },
+    "211555": {
+        "country_code": "AL",
+        "asn": "211555",
+        "description": "Kujtim Leku trading as N.T.SH. SKY - NET",
+        "handle": "SKYNETKS"
+    },
+    "212637": {
+        "country_code": "AL",
+        "asn": "212637",
+        "description": "Lightnet Sh.p.k.",
+        "handle": "LIGHTNET"
+    },
+    "212752": {
+        "country_code": "AL",
+        "asn": "212752",
+        "description": "Business Strategic Solution SHPK",
+        "handle": "NETBSS"
+    },
+    "212766": {
+        "country_code": "AL",
+        "asn": "212766",
+        "description": "Netsyscom sh.p.k",
+        "handle": "NETSYSCOM"
+    },
+    "212986": {
+        "country_code": "AL",
+        "asn": "212986",
+        "description": "MENOCOM Sh.p.k.",
+        "handle": "MENOCOM"
+    },
+    "213206": {
+        "country_code": "AL",
+        "asn": "213206",
+        "description": "Ministry of Internal Affairs (Kosovo)",
+        "handle": "MAP-ASHI"
+    },
+    "213295": {
+        "country_code": "AL",
+        "asn": "213295",
+        "description": "One Network L.L.C",
+        "handle": "ONE-NETWORK"
+    },
+    "213363": {
+        "country_code": "AL",
+        "asn": "213363",
+        "description": "FiberConn (SH.P.K)",
+        "handle": "FIBERCONN-AS"
+    },
+    "213612": {
+        "country_code": "AL",
+        "asn": "213612",
+        "description": "OTP Bank Albania Sh.A.",
+        "handle": "OBA"
+    },
+    "213683": {
+        "country_code": "AL",
+        "asn": "213683",
+        "description": "Host.AL Shpk",
+        "handle": "HOST-AL-ASN"
+    },
+    "213900": {
+        "country_code": "AL",
+        "asn": "213900",
+        "description": "RS Computers L.L.C",
+        "handle": "RS"
+    },
+    "214345": {
+        "country_code": "AL",
+        "asn": "214345",
+        "description": "Tech Expert SH.P.K",
+        "handle": "TECHNET"
+    },
+    "214469": {
+        "country_code": "AL",
+        "asn": "214469",
+        "description": "Click.al SHPK",
+        "handle": "CLICK-AL"
+    },
+    "215025": {
+        "country_code": "AL",
+        "asn": "215025",
+        "description": "NET.COM SHPK",
+        "handle": "NETCOM"
+    },
+    "215707": {
+        "country_code": "AL",
+        "asn": "215707",
+        "description": "Thimaq Strati trading as iHost.al",
+        "handle": "IHOSTAL"
+    },
+    "215773": {
+        "country_code": "AL",
+        "asn": "215773",
+        "description": "TX RX SHPK",
+        "handle": "TXRX"
+    },
+    "215883": {
+        "country_code": "AL",
+        "asn": "215883",
+        "description": "FastLink SHPK",
+        "handle": "FASTLINK"
+    },
+    "215885": {
+        "country_code": "AL",
+        "asn": "215885",
+        "description": "Habib Iseni Trading as BACI Enterprise",
+        "handle": "MASTERVM"
+    },
+    "215910": {
+        "country_code": "AL",
+        "asn": "215910",
+        "description": "Edmond Manja trading as MY NET-TV EDMA",
+        "handle": "MY-NET-TV-EDMA"
+    },
+    "215946": {
+        "country_code": "AL",
+        "asn": "215946",
+        "description": "NEXT Fiber SHPK",
+        "handle": "NEXTFIBER"
+    },
+    "216046": {
+        "country_code": "AL",
+        "asn": "216046",
+        "description": "Tele.Co.Albania SHPK",
+        "handle": "TELE-CO-TIRANA"
+    },
+    "216122": {
+        "country_code": "AL",
+        "asn": "216122",
+        "description": "Suhareka Broadband Comunication SH.P.K.",
+        "handle": "SBC-FIBER"
+    },
+    "216280": {
+        "country_code": "AL",
+        "asn": "216280",
+        "description": "Banka Kombetare Tregtare Sh.A.",
+        "handle": "BKT"
+    },
+    "216312": {
+        "country_code": "AL",
+        "asn": "216312",
+        "description": "Gezim Cerri",
+        "handle": "XHIMINET"
+    },
+    "216325": {
+        "country_code": "AL",
+        "asn": "216325",
+        "description": "NETWORKALBANIA Sh.p.k",
+        "handle": "NETWORK-ALBANIA"
+    }
+}

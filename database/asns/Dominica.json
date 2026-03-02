@@ -1,0 +1,50 @@
+{
+    "11139": {
+        "country_code": "DM",
+        "asn": "11139",
+        "description": "Cable & Wireless Dominica",
+        "handle": "CWC-ROC-11139"
+    },
+    "40546": {
+        "country_code": "DM",
+        "asn": "40546",
+        "description": "DANIX",
+        "handle": "DANIX"
+    },
+    "40945": {
+        "country_code": "DM",
+        "asn": "40945",
+        "description": "SAT TELECOMMUNICATIONS LTD",
+        "handle": "SATTEL"
+    },
+    "46243": {
+        "country_code": "DM",
+        "asn": "46243",
+        "description": "National Bank of Dominica Ltd.",
+        "handle": "AS-NBDL"
+    },
+    "46936": {
+        "country_code": "DM",
+        "asn": "46936",
+        "description": "Marpin2k4",
+        "handle": "MARPIN2K4"
+    },
+    "49447": {
+        "country_code": "DM",
+        "asn": "49447",
+        "description": "Nice IT Services Group Inc.",
+        "handle": "NICEIT"
+    },
+    "49656": {
+        "country_code": "DM",
+        "asn": "49656",
+        "description": "Imarto Inc.",
+        "handle": "IMARTO-INC"
+    },
+    "399915": {
+        "country_code": "DM",
+        "asn": "399915",
+        "description": "EPIC Communications Inc",
+        "handle": "EPIC-COMMUNICATIONS"
+    }
+}

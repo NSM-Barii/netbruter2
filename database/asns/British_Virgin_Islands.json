@@ -1,0 +1,308 @@
+{
+    "9142": {
+        "country_code": "VG",
+        "asn": "9142",
+        "description": "Internexus Networks Limited",
+        "handle": "INTERNEXUS-NETWORKS-LIMITED"
+    },
+    "14694": {
+        "country_code": "VG",
+        "asn": "14694",
+        "description": "Telecommunications Regulatory Commission",
+        "handle": "BVIX-SERVICES"
+    },
+    "22069": {
+        "country_code": "VG",
+        "asn": "22069",
+        "description": "CCT Global Communications",
+        "handle": "CARIB-23"
+    },
+    "22160": {
+        "country_code": "VG",
+        "asn": "22160",
+        "description": "INIsmart Technology Ltd.",
+        "handle": "INISMART-01"
+    },
+    "23511": {
+        "country_code": "VG",
+        "asn": "23511",
+        "description": "Grass DataCo (BVI) Ltd.",
+        "handle": "GRASS-DATA-24"
+    },
+    "25824": {
+        "country_code": "VG",
+        "asn": "25824",
+        "description": "WQRM Holdings Inc",
+        "handle": "WQRMHOLDINGS"
+    },
+    "32242": {
+        "country_code": "VG",
+        "asn": "32242",
+        "description": "Ultra Kings Limited",
+        "handle": "ULTRA-KING"
+    },
+    "33229": {
+        "country_code": "VG",
+        "asn": "33229",
+        "description": "Any2Cloud",
+        "handle": "ANY2CLOUD"
+    },
+    "36158": {
+        "country_code": "VG",
+        "asn": "36158",
+        "description": "Dev8 Entertainment",
+        "handle": "DEV8E"
+    },
+    "40034": {
+        "country_code": "VG",
+        "asn": "40034",
+        "description": "Confluence Networks Inc",
+        "handle": "CONFLUENCE-NETWORK-INC"
+    },
+    "44907": {
+        "country_code": "VG",
+        "asn": "44907",
+        "description": "Telegram Messenger Inc",
+        "handle": "TELEGRAM-MESSENGER-CDN"
+    },
+    "44918": {
+        "country_code": "VG",
+        "asn": "44918",
+        "description": "Firm Trade Corporation Ltd.",
+        "handle": "ITBOX"
+    },
+    "46088": {
+        "country_code": "VG",
+        "asn": "46088",
+        "description": "blue tech technology Co. Limited",
+        "handle": "BLUETECHWAF-ARIN"
+    },
+    "47191": {
+        "country_code": "VG",
+        "asn": "47191",
+        "description": "blue tech technology Co. Limited",
+        "handle": "BLUETECH-WAF"
+    },
+    "47804": {
+        "country_code": "VG",
+        "asn": "47804",
+        "description": "Market Intelligence Resource Solutions Ltd.",
+        "handle": "MARKETGID-AS"
+    },
+    "48095": {
+        "country_code": "VG",
+        "asn": "48095",
+        "description": "XT GLOBAL NETWORKS LTD.",
+        "handle": "XTGLOBAL"
+    },
+    "51910": {
+        "country_code": "VG",
+        "asn": "51910",
+        "description": "Teltac WorldWide INC",
+        "handle": "TWW-AS"
+    },
+    "54299": {
+        "country_code": "VG",
+        "asn": "54299",
+        "description": "Muscat Solutions Inc",
+        "handle": "MUSCAT"
+    },
+    "56647": {
+        "country_code": "VG",
+        "asn": "56647",
+        "description": "Fusion Media Limited",
+        "handle": "FUSIONMEDIA"
+    },
+    "58143": {
+        "country_code": "VG",
+        "asn": "58143",
+        "description": "MEDIABRIDGE UNITED LTD.",
+        "handle": "MEDIABRIDGE-AS"
+    },
+    "59454": {
+        "country_code": "VG",
+        "asn": "59454",
+        "description": "CONSORTIUM APPS LTD",
+        "handle": "CONSORTIUM"
+    },
+    "59930": {
+        "country_code": "VG",
+        "asn": "59930",
+        "description": "Telegram Messenger Inc",
+        "handle": "TELEGRAM-MESSENGER"
+    },
+    "60239": {
+        "country_code": "VG",
+        "asn": "60239",
+        "description": "Firm Trade Corporation Ltd.",
+        "handle": "FIRMTRADE-AS"
+    },
+    "62014": {
+        "country_code": "VG",
+        "asn": "62014",
+        "description": "Telegram Messenger Inc",
+        "handle": "TELEGRAM"
+    },
+    "62041": {
+        "country_code": "VG",
+        "asn": "62041",
+        "description": "Telegram Messenger Inc",
+        "handle": "TELEGRAM"
+    },
+    "132819": {
+        "country_code": "VG",
+        "asn": "132819",
+        "description": "Aldford Network Solutions Limited",
+        "handle": "ANSL-AS-AP"
+    },
+    "133886": {
+        "country_code": "VG",
+        "asn": "133886",
+        "description": "Sibasa Holdings Ltd.",
+        "handle": "SHL-AS-AP"
+    },
+    "136543": {
+        "country_code": "VG",
+        "asn": "136543",
+        "description": "Dolomite Finance Limited",
+        "handle": "DFL-AS-AP"
+    },
+    "139750": {
+        "country_code": "VG",
+        "asn": "139750",
+        "description": "IDCServices.net Inc",
+        "handle": "IDCSERVICESNETINC-AS-AP"
+    },
+    "140507": {
+        "country_code": "VG",
+        "asn": "140507",
+        "description": "Clarston Limited",
+        "handle": "CLARSTON-AS-AP"
+    },
+    "197730": {
+        "country_code": "VG",
+        "asn": "197730",
+        "description": "BWE CAPITAL LIMITED",
+        "handle": "BWE-CAPITAL"
+    },
+    "199925": {
+        "country_code": "VG",
+        "asn": "199925",
+        "description": "Phan Nhat Nghi",
+        "handle": "AZCOM-AS"
+    },
+    "200313": {
+        "country_code": "VG",
+        "asn": "200313",
+        "description": "IT WEB LTD",
+        "handle": "INTERNET-IT"
+    },
+    "200612": {
+        "country_code": "VG",
+        "asn": "200612",
+        "description": "Gulf Bridge International Inc.",
+        "handle": "GULFBRIDGEINTERNATIONAL"
+    },
+    "201196": {
+        "country_code": "VG",
+        "asn": "201196",
+        "description": "Bermond Management Ltd",
+        "handle": "BERMOND-AS"
+    },
+    "201775": {
+        "country_code": "VG",
+        "asn": "201775",
+        "description": "INTERNATIONAL PREMIUMS (Offshore) S.A.",
+        "handle": "INTERPREMS"
+    },
+    "202826": {
+        "country_code": "VG",
+        "asn": "202826",
+        "description": "Polbox Media Ltd",
+        "handle": "POLBOX"
+    },
+    "205556": {
+        "country_code": "VG",
+        "asn": "205556",
+        "description": "Antwork LTD",
+        "handle": "ANTWORK-AS"
+    },
+    "208361": {
+        "country_code": "VG",
+        "asn": "208361",
+        "description": "Internexus Networks Limited",
+        "handle": "IXW"
+    },
+    "209929": {
+        "country_code": "VG",
+        "asn": "209929",
+        "description": "AWM LAB LTD",
+        "handle": "AWMLT"
+    },
+    "211157": {
+        "country_code": "VG",
+        "asn": "211157",
+        "description": "Telegram Messenger Inc",
+        "handle": "TELEGRAM-AS"
+    },
+    "214916": {
+        "country_code": "VG",
+        "asn": "214916",
+        "description": "INIsmart Technology Ltd.",
+        "handle": "INISMART-TECHNOLOGY-LTD"
+    },
+    "215725": {
+        "country_code": "VG",
+        "asn": "215725",
+        "description": "3301 Services Ltd.",
+        "handle": "VG-3301"
+    },
+    "393430": {
+        "country_code": "VG",
+        "asn": "393430",
+        "description": "Telecommunications Regulatory Commission",
+        "handle": "BVIX-ROUTE-SERVERS"
+    },
+    "395692": {
+        "country_code": "VG",
+        "asn": "395692",
+        "description": "Fusion Media Limited",
+        "handle": "FUSIONMEDIA-US"
+    },
+    "396357": {
+        "country_code": "VG",
+        "asn": "396357",
+        "description": "Digicel BVI Limited",
+        "handle": "BVI-DIG"
+    },
+    "397636": {
+        "country_code": "VG",
+        "asn": "397636",
+        "description": "Pmmg",
+        "handle": "IMS-001"
+    },
+    "398273": {
+        "country_code": "VG",
+        "asn": "398273",
+        "description": "Firm Trade Corporation",
+        "handle": "FIRMTRADE-AS"
+    },
+    "401348": {
+        "country_code": "VG",
+        "asn": "401348",
+        "description": "DataMesh Networks Limited",
+        "handle": "DMNL-ASN-01"
+    },
+    "401383": {
+        "country_code": "VG",
+        "asn": "401383",
+        "description": "Orionsis Ltd",
+        "handle": "ORIONSIS"
+    },
+    "401753": {
+        "country_code": "VG",
+        "asn": "401753",
+        "description": "BIXCE Inc",
+        "handle": "BIXCE"
+    }
+}

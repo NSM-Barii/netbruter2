@@ -1,0 +1,44 @@
+{
+    "19863": {
+        "country_code": "GY",
+        "asn": "19863",
+        "description": "Guyana Telephone & Telegraph Co.",
+        "handle": "GUYANA-TELEPHONE-TELEGRAPH-CO"
+    },
+    "52253": {
+        "country_code": "GY",
+        "asn": "52253",
+        "description": "E-Networks Inc.",
+        "handle": "E-NETWORKS"
+    },
+    "52433": {
+        "country_code": "GY",
+        "asn": "52433",
+        "description": "U Mobile (Cellular) Inc.",
+        "handle": "U-MOBILE"
+    },
+    "263752": {
+        "country_code": "GY",
+        "asn": "263752",
+        "description": "University of Guyana",
+        "handle": "UNIVERSITY-OF-GUYANA"
+    },
+    "264694": {
+        "country_code": "GY",
+        "asn": "264694",
+        "description": "EGOVERNMENT UNIT",
+        "handle": "EGOVERNMENT-UNIT"
+    },
+    "270108": {
+        "country_code": "GY",
+        "asn": "270108",
+        "description": "XEN1 NETWORKS INC",
+        "handle": "XEN1-NETWORKS"
+    },
+    "271865": {
+        "country_code": "GY",
+        "asn": "271865",
+        "description": "Atlantic Wireless Network Inc.",
+        "handle": "ATLANTIC-WIRELESS-NETWORK"
+    }
+}

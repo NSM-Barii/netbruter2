@@ -1,0 +1,50 @@
+{
+    "37173": {
+        "country_code": "GQ",
+        "asn": "37173",
+        "description": "GETESA (Orange Equatorial Guinea)",
+        "handle": "GETESA"
+    },
+    "37337": {
+        "country_code": "GQ",
+        "asn": "37337",
+        "description": "MUNI S.A",
+        "handle": "MUNI-EG"
+    },
+    "37487": {
+        "country_code": "GQ",
+        "asn": "37487",
+        "description": "guineanet",
+        "handle": "GUINEANET"
+    },
+    "37512": {
+        "country_code": "GQ",
+        "asn": "37512",
+        "description": "IPX Equatorial Guinea S.A",
+        "handle": "IPXEG-AS"
+    },
+    "37529": {
+        "country_code": "GQ",
+        "asn": "37529",
+        "description": "Gestora de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial",
+        "handle": "GITGE"
+    },
+    "328207": {
+        "country_code": "GQ",
+        "asn": "328207",
+        "description": "OFFICE TECH",
+        "handle": "OFFICE-TECH"
+    },
+    "328311": {
+        "country_code": "GQ",
+        "asn": "328311",
+        "description": "Conexxia Guinea Equatorial S.L",
+        "handle": "CONEXXIA-AS"
+    },
+    "329219": {
+        "country_code": "GQ",
+        "asn": "329219",
+        "description": "Fenix S.L.",
+        "handle": "FENIX-EG"
+    }
+}

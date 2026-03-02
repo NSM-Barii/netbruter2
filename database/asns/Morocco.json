@@ -1,0 +1,224 @@
+{
+    "6713": {
+        "country_code": "MA",
+        "asn": "6713",
+        "description": "Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+        "handle": "IAM-AS"
+    },
+    "30983": {
+        "country_code": "MA",
+        "asn": "30983",
+        "description": "CNRST (Centre National pour la Recherche Scientifique et Technique)",
+        "handle": "MARWAN-AS"
+    },
+    "36884": {
+        "country_code": "MA",
+        "asn": "36884",
+        "description": "Wana Corporate",
+        "handle": "MAROCCONNECT"
+    },
+    "36903": {
+        "country_code": "MA",
+        "asn": "36903",
+        "description": "Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+        "handle": "MT-MPLS"
+    },
+    "36925": {
+        "country_code": "MA",
+        "asn": "36925",
+        "description": "MEDITELECOM",
+        "handle": "ASMEDI"
+    },
+    "36941": {
+        "country_code": "MA",
+        "asn": "36941",
+        "description": "MTDS",
+        "handle": "MTDS-AS"
+    },
+    "36956": {
+        "country_code": "MA",
+        "asn": "36956",
+        "description": "Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+        "handle": "MT-MPLS"
+    },
+    "37450": {
+        "country_code": "MA",
+        "asn": "37450",
+        "description": "Al'Akhawayn University",
+        "handle": "AL-AKHAWAYN"
+    },
+    "37738": {
+        "country_code": "MA",
+        "asn": "37738",
+        "description": "HOSTOWEB",
+        "handle": "HOSTOWEB"
+    },
+    "37787": {
+        "country_code": "MA",
+        "asn": "37787",
+        "description": "NPONE",
+        "handle": "CAS-IX"
+    },
+    "37801": {
+        "country_code": "MA",
+        "asn": "37801",
+        "description": "L'Agence Nationale de R\u00e9glementation des T\u00e9l\u00e9communications (ANRT)",
+        "handle": "MOROCCO-IXP"
+    },
+    "201129": {
+        "country_code": "MA",
+        "asn": "201129",
+        "description": "YASSINE BOU-ELBARAKA",
+        "handle": "LINCERIS"
+    },
+    "327917": {
+        "country_code": "MA",
+        "asn": "327917",
+        "description": "Direction Generale de la Securite des Systemes d'Information- DGSSI",
+        "handle": "DGSSI"
+    },
+    "327989": {
+        "country_code": "MA",
+        "asn": "327989",
+        "description": "Genious Communications",
+        "handle": "GENIOUSMOROCCO"
+    },
+    "328055": {
+        "country_code": "MA",
+        "asn": "328055",
+        "description": "NPONE",
+        "handle": "N-PLUS-ONE-AS"
+    },
+    "328066": {
+        "country_code": "MA",
+        "asn": "328066",
+        "description": "MEDAFRICA SYSTEMS",
+        "handle": "MEDASYS-AS"
+    },
+    "328268": {
+        "country_code": "MA",
+        "asn": "328268",
+        "description": "INSTITUT NATIONAL DES POSTES ET TELECOMMUNICATIONS - INPT",
+        "handle": "INPT-AS"
+    },
+    "328272": {
+        "country_code": "MA",
+        "asn": "328272",
+        "description": "CIE NATIONALE ROYAL AIR MAROC",
+        "handle": "CRNA1-AS"
+    },
+    "328280": {
+        "country_code": "MA",
+        "asn": "328280",
+        "description": "L'Agence Nationale de R\u00e9glementation des T\u00e9l\u00e9communications (ANRT)",
+        "handle": "LNDR1-AS"
+    },
+    "328493": {
+        "country_code": "MA",
+        "asn": "328493",
+        "description": "Societe d'Amenagement et de Developpement Vert (SADV)",
+        "handle": "SADV-AS"
+    },
+    "328541": {
+        "country_code": "MA",
+        "asn": "328541",
+        "description": "Direction G\u00e9n\u00e9rale des Imp\u00f4ts - Ministere de l'economie et des finances - MAROC",
+        "handle": "DIRECTION-GENERALE-DES-IMPOTS"
+    },
+    "328577": {
+        "country_code": "MA",
+        "asn": "328577",
+        "description": "Enterprise Services CDG",
+        "handle": "ENTERPRISE-SERVICES"
+    },
+    "328671": {
+        "country_code": "MA",
+        "asn": "328671",
+        "description": "Datapacket Maroc SARL",
+        "handle": "DATAPACKET-MAROC-AS"
+    },
+    "328709": {
+        "country_code": "MA",
+        "asn": "328709",
+        "description": "Universite Mohammed VI POLYTECHNIQUE - UM6P",
+        "handle": "UM6P-AS"
+    },
+    "328799": {
+        "country_code": "MA",
+        "asn": "328799",
+        "description": "PIXI MEDIA SARL",
+        "handle": "HOSTOWEB-AS"
+    },
+    "328867": {
+        "country_code": "MA",
+        "asn": "328867",
+        "description": "Corebach Backbone SARL",
+        "handle": "CBS-AS"
+    },
+    "328960": {
+        "country_code": "MA",
+        "asn": "328960",
+        "description": "Ministry of Foreign Affairs African Cooperation and Moroccan Expatriates",
+        "handle": "MOFA2-AS"
+    },
+    "329213": {
+        "country_code": "MA",
+        "asn": "329213",
+        "description": "CDN NETWORK",
+        "handle": "CDN-NETWORK"
+    },
+    "329280": {
+        "country_code": "MA",
+        "asn": "329280",
+        "description": "Centre Royal de T\u00e9l\u00e9d\u00e9tection Spatiale",
+        "handle": "CENTRE-ROYAL-DE-TELEDETECTION-SPATIALE"
+    },
+    "329337": {
+        "country_code": "MA",
+        "asn": "329337",
+        "description": "NPONE",
+        "handle": "CAS-IX-MGMNT"
+    },
+    "329442": {
+        "country_code": "MA",
+        "asn": "329442",
+        "description": "L'Agence Nationale de R\u00e9glementation des T\u00e9l\u00e9communications (ANRT)",
+        "handle": "MOROCCO-IXP"
+    },
+    "329461": {
+        "country_code": "MA",
+        "asn": "329461",
+        "description": "Maroc Datacenter MDC",
+        "handle": "MAROC-DATACENTER-MDC"
+    },
+    "329463": {
+        "country_code": "MA",
+        "asn": "329463",
+        "description": "Wana Corporate",
+        "handle": "INWI-ASN-MULTIHOMED"
+    },
+    "329605": {
+        "country_code": "MA",
+        "asn": "329605",
+        "description": "ATTIJARIWAFABANK",
+        "handle": "ATTIJARIWAFABANK"
+    },
+    "329612": {
+        "country_code": "MA",
+        "asn": "329612",
+        "description": "MTDS",
+        "handle": "MTDS-AS"
+    },
+    "329628": {
+        "country_code": "MA",
+        "asn": "329628",
+        "description": "AL BARID BANK",
+        "handle": "AL-BARID-BANK"
+    },
+    "329691": {
+        "country_code": "MA",
+        "asn": "329691",
+        "description": "AFRIQUIA S.M.D.C.",
+        "handle": "AFRIQUIA-SMDC"
+    }
+}

@@ -1,0 +1,206 @@
+{
+    "2638": {
+        "country_code": "NI",
+        "asn": "2638",
+        "description": "CENTRO DE ADMINISTRACION NIC.NI",
+        "handle": "CENTRO-ADMINISTRACION-NICNI"
+    },
+    "7137": {
+        "country_code": "NI",
+        "asn": "7137",
+        "description": "TELEMATIX/ ENITEL",
+        "handle": "TELEMATIX-ENITEL"
+    },
+    "18840": {
+        "country_code": "NI",
+        "asn": "18840",
+        "description": "EQUIPOS Y SISTEMAS S.A.",
+        "handle": "EQUIPOS-SISTEMAS"
+    },
+    "19447": {
+        "country_code": "NI",
+        "asn": "19447",
+        "description": "ALFANUMERIC",
+        "handle": "ALFANUMERIC"
+    },
+    "25607": {
+        "country_code": "NI",
+        "asn": "25607",
+        "description": "IBW Communications",
+        "handle": "IBW-COMMUNICATIONS"
+    },
+    "27742": {
+        "country_code": "NI",
+        "asn": "27742",
+        "description": "Amnet Telecomunicaciones S.A.",
+        "handle": "AMNET-TELECOMUNICACIONES"
+    },
+    "27761": {
+        "country_code": "NI",
+        "asn": "27761",
+        "description": "Cablenet S.A",
+        "handle": "CABLENET"
+    },
+    "27811": {
+        "country_code": "NI",
+        "asn": "27811",
+        "description": "Banco Avanz S.A.",
+        "handle": "BANCO-AVANZ"
+    },
+    "27905": {
+        "country_code": "NI",
+        "asn": "27905",
+        "description": "Banco de Finanzas",
+        "handle": "BANCO-FINANZAS"
+    },
+    "27999": {
+        "country_code": "NI",
+        "asn": "27999",
+        "description": "Banco de la Producci\u00f3n S.A.",
+        "handle": "BANCO-LA-PRODUCCION"
+    },
+    "28036": {
+        "country_code": "NI",
+        "asn": "28036",
+        "description": "Telefonia Celular de Nicaragua SA.",
+        "handle": "TELEFONIA-CELULAR-NICARAGUA"
+    },
+    "28072": {
+        "country_code": "NI",
+        "asn": "28072",
+        "description": "Instituto Nicaraguense de Seguridad Social (INSS)",
+        "handle": "INSTITUTO-NICARAGUENSE-SEGURIDAD"
+    },
+    "52242": {
+        "country_code": "NI",
+        "asn": "52242",
+        "description": "Yota De Nicaragua",
+        "handle": "YOTA-NICARAGUA"
+    },
+    "52298": {
+        "country_code": "NI",
+        "asn": "52298",
+        "description": "SINRIESGOS S.A.",
+        "handle": "SINRIESGOS"
+    },
+    "52501": {
+        "country_code": "NI",
+        "asn": "52501",
+        "description": "Telefonia Celular de Nicaragua SA.",
+        "handle": "TELEFONIA-CELULAR-NICARAGUA"
+    },
+    "61513": {
+        "country_code": "NI",
+        "asn": "61513",
+        "description": "BANCO DE FOMENTO A LA PRODUCCION",
+        "handle": "BANCO-FOMENTO-LA-PRODUCCION"
+    },
+    "214969": {
+        "country_code": "NI",
+        "asn": "214969",
+        "description": "Servicios Aplicaciones Moviles SA",
+        "handle": "SERVICIOS-APLICACIONES-MOVILES"
+    },
+    "262185": {
+        "country_code": "NI",
+        "asn": "262185",
+        "description": "BANCO LAFISE BANCENTRO S.A",
+        "handle": "BANCO-LAFISE-BANCENTRO"
+    },
+    "262243": {
+        "country_code": "NI",
+        "asn": "262243",
+        "description": "Ufinet Nicaragua S.A.",
+        "handle": "UFINET-NICARAGUA"
+    },
+    "263177": {
+        "country_code": "NI",
+        "asn": "263177",
+        "description": "METRONET S.A.",
+        "handle": "METRONET"
+    },
+    "263201": {
+        "country_code": "NI",
+        "asn": "263201",
+        "description": "AIRPAK INTERNACIONAL NICARAGUA S.A",
+        "handle": "AIRPAK-INTERNACIONAL-NICARAGUA"
+    },
+    "263751": {
+        "country_code": "NI",
+        "asn": "263751",
+        "description": "CASAVISION S.A.",
+        "handle": "CASAVISION"
+    },
+    "263760": {
+        "country_code": "NI",
+        "asn": "263760",
+        "description": "C\u00f3ndor Comunicaciones S.A.",
+        "handle": "CONDOR-COMUNICACIONES"
+    },
+    "263765": {
+        "country_code": "NI",
+        "asn": "263765",
+        "description": "XINWEI INTELCOM.NIC S.A.",
+        "handle": "XINWEI-INTELCOMNIC"
+    },
+    "263817": {
+        "country_code": "NI",
+        "asn": "263817",
+        "description": "REDCA - RED CENTROAMERICANA DE TELECOMUNICACIONES",
+        "handle": "REDCA-RED-CENTROAMERICANA"
+    },
+    "264609": {
+        "country_code": "NI",
+        "asn": "264609",
+        "description": "TECOMUNICA NICARAGUA",
+        "handle": "TECOMUNICA-NICARAGUA"
+    },
+    "264766": {
+        "country_code": "NI",
+        "asn": "264766",
+        "description": "AJA S.A.",
+        "handle": "AJA"
+    },
+    "266697": {
+        "country_code": "NI",
+        "asn": "266697",
+        "description": "TECOMUNICA NICARAGUA",
+        "handle": "TECOMUNICA-NICARAGUA"
+    },
+    "267797": {
+        "country_code": "NI",
+        "asn": "267797",
+        "description": "EMPRESA NACIONAL DE TRANSMISI\u00d3N EL\u00c9CTRICA (ENATREL)",
+        "handle": "EMPRESA-NACIONAL-TRANSMISION"
+    },
+    "269770": {
+        "country_code": "NI",
+        "asn": "269770",
+        "description": "SAYCEL R.P.W. COMPA\u00d1IA LIMITADA",
+        "handle": "SAYCEL-RPW-COMPANIA-LIMITADA"
+    },
+    "271852": {
+        "country_code": "NI",
+        "asn": "271852",
+        "description": "SISTEMAS WIFI DE NICARAGUA S.A.",
+        "handle": "SISTEMAS-WIFI-NICARAGUA"
+    },
+    "271938": {
+        "country_code": "NI",
+        "asn": "271938",
+        "description": "Gavarrete Guadamuz y Compa\u00f1\u00eda Limitada",
+        "handle": "GAVARRETE-GUADAMUZ-COMPANIA"
+    },
+    "274013": {
+        "country_code": "NI",
+        "asn": "274013",
+        "description": "SERVICIOS DE INTERNET Y TELECOMUNICACIONES SOCIEDAD ANONIMA",
+        "handle": "SERVICIOS-INTERNET-TELECOMUNICACIONES"
+    },
+    "274264": {
+        "country_code": "NI",
+        "asn": "274264",
+        "description": "CONECTEMONOS SOCIEDAD ANONIMA",
+        "handle": "CONECTEMONOS-SOCIEDAD-ANONIMA"
+    }
+}

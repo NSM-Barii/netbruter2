@@ -1,0 +1,80 @@
+{
+    "15433": {
+        "country_code": "SM",
+        "asn": "15433",
+        "description": "Telecom Italia San Marino S.p.A",
+        "handle": "TISM"
+    },
+    "34468": {
+        "country_code": "SM",
+        "asn": "34468",
+        "description": "S.P.A. Societa' Servizi Informatici Sammarinesi - S.S.I.S.",
+        "handle": "SM-SSIS"
+    },
+    "39759": {
+        "country_code": "SM",
+        "asn": "39759",
+        "description": "Passepartout s.p.a.",
+        "handle": "PASSEPARTOUT"
+    },
+    "48345": {
+        "country_code": "SM",
+        "asn": "48345",
+        "description": "Abavia S.r.l.",
+        "handle": "AS-ABAVIA"
+    },
+    "62171": {
+        "country_code": "SM",
+        "asn": "62171",
+        "description": "Telecom Italia San Marino S.p.A",
+        "handle": "VPWR"
+    },
+    "196874": {
+        "country_code": "SM",
+        "asn": "196874",
+        "description": "Telenet S.r.l.",
+        "handle": "TELENET-RSM"
+    },
+    "197699": {
+        "country_code": "SM",
+        "asn": "197699",
+        "description": "Titano Technologies Srl",
+        "handle": "TITANO"
+    },
+    "198446": {
+        "country_code": "SM",
+        "asn": "198446",
+        "description": "Abavia S.r.l.",
+        "handle": "AS-ABAVIA"
+    },
+    "199325": {
+        "country_code": "SM",
+        "asn": "199325",
+        "description": "Semplify Srl",
+        "handle": "SEMPLIFY"
+    },
+    "201852": {
+        "country_code": "SM",
+        "asn": "201852",
+        "description": "Bluindaco S.R.L.",
+        "handle": "BLUINDACO-AS"
+    },
+    "212841": {
+        "country_code": "SM",
+        "asn": "212841",
+        "description": "AZIENDA AUTONOMA DI STATO PER I SERVIZI PUBBLICI",
+        "handle": "SM-AASS"
+    },
+    "213557": {
+        "country_code": "SM",
+        "asn": "213557",
+        "description": "Underscore S.r.l.",
+        "handle": "UNDERSCORE"
+    },
+    "215511": {
+        "country_code": "SM",
+        "asn": "215511",
+        "description": "Underscore S.r.l.",
+        "handle": "SA-CONSULTING-SPA-SORG"
+    }
+}

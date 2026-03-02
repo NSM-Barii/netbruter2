@@ -1,0 +1,5096 @@
+{
+    "1228": {
+        "country_code": "ZA",
+        "asn": "1228",
+        "description": "TENET (The UNINET Project)",
+        "handle": "UNINET-ASNBLOCK"
+    },
+    "1229": {
+        "country_code": "ZA",
+        "asn": "1229",
+        "description": "TENET (The UNINET Project)",
+        "handle": "UNINET-ASNBLOCK"
+    },
+    "1230": {
+        "country_code": "ZA",
+        "asn": "1230",
+        "description": "TENET (The UNINET Project)",
+        "handle": "UNINET-ASNBLOCK"
+    },
+    "1231": {
+        "country_code": "ZA",
+        "asn": "1231",
+        "description": "TENET (The UNINET Project)",
+        "handle": "UNINET-ASNBLOCK"
+    },
+    "1232": {
+        "country_code": "ZA",
+        "asn": "1232",
+        "description": "TENET (The UNINET Project)",
+        "handle": "UNINET-ASNBLOCK"
+    },
+    "2018": {
+        "country_code": "ZA",
+        "asn": "2018",
+        "description": "TENET (The UNINET Project)",
+        "handle": "TENET-1"
+    },
+    "2905": {
+        "country_code": "ZA",
+        "asn": "2905",
+        "description": "MTN SA",
+        "handle": "TICSA-ASN"
+    },
+    "3067": {
+        "country_code": "ZA",
+        "asn": "3067",
+        "description": "Gijima Holdings (PTY) Limited",
+        "handle": "DENINF-IPLAN"
+    },
+    "3068": {
+        "country_code": "ZA",
+        "asn": "3068",
+        "description": "Gijima Holdings (PTY) Limited",
+        "handle": "DENINF-IVAN"
+    },
+    "3741": {
+        "country_code": "ZA",
+        "asn": "3741",
+        "description": "Dimension Data",
+        "handle": "NTT-DATA-INC"
+    },
+    "4178": {
+        "country_code": "ZA",
+        "asn": "4178",
+        "description": "MTN SA",
+        "handle": "AZTEC"
+    },
+    "4571": {
+        "country_code": "ZA",
+        "asn": "4571",
+        "description": "MTN SA",
+        "handle": "UUNET-SA"
+    },
+    "5713": {
+        "country_code": "ZA",
+        "asn": "5713",
+        "description": "Telkom SA Ltd.",
+        "handle": "SAIX-NET"
+    },
+    "5734": {
+        "country_code": "ZA",
+        "asn": "5734",
+        "description": "Telkom SA Ltd.",
+        "handle": "TIENET"
+    },
+    "6083": {
+        "country_code": "ZA",
+        "asn": "6083",
+        "description": "Posix Systems (Pty) Ltd",
+        "handle": "POSIX-AFRICA"
+    },
+    "6089": {
+        "country_code": "ZA",
+        "asn": "6089",
+        "description": "Dimension Data",
+        "handle": "NTT-DATA-INC"
+    },
+    "6149": {
+        "country_code": "ZA",
+        "asn": "6149",
+        "description": "TENET (The UNINET Project)",
+        "handle": "TENET-2"
+    },
+    "6180": {
+        "country_code": "ZA",
+        "asn": "6180",
+        "description": "Network Information Services",
+        "handle": "NIS-CT"
+    },
+    "6187": {
+        "country_code": "ZA",
+        "asn": "6187",
+        "description": "Sprint Communications South Africa (Pty)",
+        "handle": "SPRINT-ZA"
+    },
+    "6351": {
+        "country_code": "ZA",
+        "asn": "6351",
+        "description": "Dimension Data",
+        "handle": "NTT-DATA-INC"
+    },
+    "6529": {
+        "country_code": "ZA",
+        "asn": "6529",
+        "description": "Planet Internet (Pty) Ltd",
+        "handle": "PLAN-B"
+    },
+    "6560": {
+        "country_code": "ZA",
+        "asn": "6560",
+        "description": "GEM Internet Company (Pty) LTD",
+        "handle": "GEM"
+    },
+    "6968": {
+        "country_code": "ZA",
+        "asn": "6968",
+        "description": "ZA CENTRAL REGISTRY NPC",
+        "handle": "ZACR"
+    },
+    "7020": {
+        "country_code": "ZA",
+        "asn": "7020",
+        "description": "Business Connexion Communications",
+        "handle": "QDATA-AS"
+    },
+    "7154": {
+        "country_code": "ZA",
+        "asn": "7154",
+        "description": "FastLight Data Distribution cc",
+        "handle": "FDDNET-ASN"
+    },
+    "7231": {
+        "country_code": "ZA",
+        "asn": "7231",
+        "description": "ISP (Internet Service Providers)",
+        "handle": "ISP-ZA"
+    },
+    "7390": {
+        "country_code": "ZA",
+        "asn": "7390",
+        "description": "National Lan Suppliers",
+        "handle": "NLSLAN"
+    },
+    "7460": {
+        "country_code": "ZA",
+        "asn": "7460",
+        "description": "LIA Internet Access",
+        "handle": "LIA-NET"
+    },
+    "7971": {
+        "country_code": "ZA",
+        "asn": "7971",
+        "description": "InterWeb Technical Trading (Pty) Ltd",
+        "handle": "IWEBTT"
+    },
+    "7972": {
+        "country_code": "ZA",
+        "asn": "7972",
+        "description": "The Gauteng Provincial Government[GPG.gov.za]",
+        "handle": "GPG"
+    },
+    "8094": {
+        "country_code": "ZA",
+        "asn": "8094",
+        "description": "North West University",
+        "handle": "PUKNET"
+    },
+    "9129": {
+        "country_code": "ZA",
+        "asn": "9129",
+        "description": "MTN SA",
+        "handle": "KE-NET2000"
+    },
+    "10247": {
+        "country_code": "ZA",
+        "asn": "10247",
+        "description": "Netline (Pty) Ltd.",
+        "handle": "NETLINE"
+    },
+    "10262": {
+        "country_code": "ZA",
+        "asn": "10262",
+        "description": "Improtech",
+        "handle": "IMPROTECH"
+    },
+    "10331": {
+        "country_code": "ZA",
+        "asn": "10331",
+        "description": "Metropolitan Health Corporate Ltd",
+        "handle": "MHG"
+    },
+    "10393": {
+        "country_code": "ZA",
+        "asn": "10393",
+        "description": "Dimension Data",
+        "handle": "NTT-DATA-INC"
+    },
+    "10474": {
+        "country_code": "ZA",
+        "asn": "10474",
+        "description": "Dimension Data",
+        "handle": "NTT-DATA-INC"
+    },
+    "10505": {
+        "country_code": "ZA",
+        "asn": "10505",
+        "description": "Dockside Internet (PTY) Ltd",
+        "handle": "DOCKSIDE"
+    },
+    "10540": {
+        "country_code": "ZA",
+        "asn": "10540",
+        "description": "InfoDOOR Pty Ltd",
+        "handle": "INFODOOR"
+    },
+    "10575": {
+        "country_code": "ZA",
+        "asn": "10575",
+        "description": "Connectivity Internet",
+        "handle": "CISP-AS"
+    },
+    "10798": {
+        "country_code": "ZA",
+        "asn": "10798",
+        "description": "The Standard Bank of South Africa (Proprietary) Limited",
+        "handle": "SBICSA"
+    },
+    "10898": {
+        "country_code": "ZA",
+        "asn": "10898",
+        "description": "Bandwidth International (Pty) Ltd",
+        "handle": "BI-NET-SA"
+    },
+    "11125": {
+        "country_code": "ZA",
+        "asn": "11125",
+        "description": "Sanlam Life Insurance Limited",
+        "handle": "EBIZ"
+    },
+    "11157": {
+        "country_code": "ZA",
+        "asn": "11157",
+        "description": "Electronic laboratory Services Pty Ltd",
+        "handle": "ELAB"
+    },
+    "11569": {
+        "country_code": "ZA",
+        "asn": "11569",
+        "description": "MTN SA",
+        "handle": "TICSA-ASN"
+    },
+    "11645": {
+        "country_code": "ZA",
+        "asn": "11645",
+        "description": "Naspers",
+        "handle": "NASPERS"
+    },
+    "11744": {
+        "country_code": "ZA",
+        "asn": "11744",
+        "description": "Investec Bank Ltd",
+        "handle": "INVESTEC"
+    },
+    "11845": {
+        "country_code": "ZA",
+        "asn": "11845",
+        "description": "Vox Telecom Ltd",
+        "handle": "VOX-TELECOM"
+    },
+    "12091": {
+        "country_code": "ZA",
+        "asn": "12091",
+        "description": "MTN SA",
+        "handle": "MTNNS-1"
+    },
+    "12258": {
+        "country_code": "ZA",
+        "asn": "12258",
+        "description": "Dimension Data",
+        "handle": "NTT-DATA-INC"
+    },
+    "13854": {
+        "country_code": "ZA",
+        "asn": "13854",
+        "description": "The Johannesburg Stock Exchange (JSE Limited)",
+        "handle": "JSE"
+    },
+    "14115": {
+        "country_code": "ZA",
+        "asn": "14115",
+        "description": "ABSA (Amalgamated Banks of South Africa)",
+        "handle": "AMALGAMATED-BSA"
+    },
+    "14331": {
+        "country_code": "ZA",
+        "asn": "14331",
+        "description": "TCM",
+        "handle": "TCM-NETWORKS-0098"
+    },
+    "14516": {
+        "country_code": "ZA",
+        "asn": "14516",
+        "description": "Investec Bank Ltd",
+        "handle": "INVESTEC-2"
+    },
+    "15022": {
+        "country_code": "ZA",
+        "asn": "15022",
+        "description": "Adept Internet (Pty) Ltd CT",
+        "handle": "ADEPT-ZA"
+    },
+    "16637": {
+        "country_code": "ZA",
+        "asn": "16637",
+        "description": "MTN SA",
+        "handle": "MTNNS-AS"
+    },
+    "16800": {
+        "country_code": "ZA",
+        "asn": "16800",
+        "description": "Nedbank Limited",
+        "handle": "NBS90"
+    },
+    "17148": {
+        "country_code": "ZA",
+        "asn": "17148",
+        "description": "First Rand Bank Limited",
+        "handle": "FIRST-NATIONAL"
+    },
+    "18931": {
+        "country_code": "ZA",
+        "asn": "18931",
+        "description": "SEACOM KZN (Pty) Ltd",
+        "handle": "SEACOM-AS"
+    },
+    "19232": {
+        "country_code": "ZA",
+        "asn": "19232",
+        "description": "The Independent Institute of Education (Pty) Ltd",
+        "handle": "ADVTECH"
+    },
+    "19832": {
+        "country_code": "ZA",
+        "asn": "19832",
+        "description": "Link Data Group",
+        "handle": "FTB"
+    },
+    "20011": {
+        "country_code": "ZA",
+        "asn": "20011",
+        "description": "Dimension Data",
+        "handle": "NTT-DATA-INC"
+    },
+    "21739": {
+        "country_code": "ZA",
+        "asn": "21739",
+        "description": "MAJUBA TECHNOLOGIES(PTY) Limited t/a T-SOL",
+        "handle": "T-SOL"
+    },
+    "22355": {
+        "country_code": "ZA",
+        "asn": "22355",
+        "description": "Frogfoot Networks",
+        "handle": "FROGFOOT"
+    },
+    "22386": {
+        "country_code": "ZA",
+        "asn": "22386",
+        "description": "South Africa Reserve Bank",
+        "handle": "SARB"
+    },
+    "22572": {
+        "country_code": "ZA",
+        "asn": "22572",
+        "description": "Sentech SOC Ltd",
+        "handle": "INFOSAT-IP"
+    },
+    "22750": {
+        "country_code": "ZA",
+        "asn": "22750",
+        "description": "BCS Group (BCSNet)",
+        "handle": "BCSNET"
+    },
+    "23058": {
+        "country_code": "ZA",
+        "asn": "23058",
+        "description": "Discovery Health",
+        "handle": "DHN-BGP-AS2002"
+    },
+    "24788": {
+        "country_code": "ZA",
+        "asn": "24788",
+        "description": "MTN SA",
+        "handle": "UUNET-AFRICA"
+    },
+    "25726": {
+        "country_code": "ZA",
+        "asn": "25726",
+        "description": "China Telecom South Africa (Pty) Ltd.",
+        "handle": "CHINA-TELECOM"
+    },
+    "25793": {
+        "country_code": "ZA",
+        "asn": "25793",
+        "description": "DXC Technology South Africa (Pty) Ltd",
+        "handle": "DXC-TECHNOLOGY"
+    },
+    "25818": {
+        "country_code": "ZA",
+        "asn": "25818",
+        "description": "cmcnetworks",
+        "handle": "CMCNETWORKS"
+    },
+    "26422": {
+        "country_code": "ZA",
+        "asn": "26422",
+        "description": "ICTGlobe Management (Pty) Ltd",
+        "handle": "ICTGLOBAL-MANAGEMENT-AS"
+    },
+    "27598": {
+        "country_code": "ZA",
+        "asn": "27598",
+        "description": "Dimension Data",
+        "handle": "NTT-DATA-INC"
+    },
+    "28698": {
+        "country_code": "ZA",
+        "asn": "28698",
+        "description": "MTN SA",
+        "handle": "UUNETZM-AS"
+    },
+    "29918": {
+        "country_code": "ZA",
+        "asn": "29918",
+        "description": "Imperial IT a division of Imperial Group Ltd",
+        "handle": "IMPOL-ASN"
+    },
+    "29975": {
+        "country_code": "ZA",
+        "asn": "29975",
+        "description": "Vodacom",
+        "handle": "VODACOM-ZA"
+    },
+    "32437": {
+        "country_code": "ZA",
+        "asn": "32437",
+        "description": "Webdev CC T/A Cybertek",
+        "handle": "EDGECONNECT-LEGACY"
+    },
+    "32653": {
+        "country_code": "ZA",
+        "asn": "32653",
+        "description": "eNetworks cc",
+        "handle": "ENETWORKS"
+    },
+    "32714": {
+        "country_code": "ZA",
+        "asn": "32714",
+        "description": "Compute Corporate Technology Solutions",
+        "handle": "COMPUTE"
+    },
+    "33579": {
+        "country_code": "ZA",
+        "asn": "33579",
+        "description": "Imperial IT a division of Imperial Group Ltd",
+        "handle": "IMPERIAL-ONLINE"
+    },
+    "33762": {
+        "country_code": "ZA",
+        "asn": "33762",
+        "description": "RAIN GROUP HOLDINGS (PTY) LTD",
+        "handle": "RAIN-GROUP-HOLDINGS"
+    },
+    "33766": {
+        "country_code": "ZA",
+        "asn": "33766",
+        "description": "Cybersmart",
+        "handle": "CYBERSMART-20071029"
+    },
+    "33769": {
+        "country_code": "ZA",
+        "asn": "33769",
+        "description": "IT Dynamics",
+        "handle": "IMANAFOODS"
+    },
+    "34672": {
+        "country_code": "ZA",
+        "asn": "34672",
+        "description": "D2CLOUD NETWORK SERVICES (PTY) LTD",
+        "handle": "RU-IIL-AS"
+    },
+    "35624": {
+        "country_code": "ZA",
+        "asn": "35624",
+        "description": "Fast Servers (Pty) Ltd",
+        "handle": "SILVERSTAR-AS"
+    },
+    "35830": {
+        "country_code": "ZA",
+        "asn": "35830",
+        "description": "Fast Servers (Pty) Ltd",
+        "handle": "BTTGROUP-AS"
+    },
+    "36874": {
+        "country_code": "ZA",
+        "asn": "36874",
+        "description": "Cybersmart",
+        "handle": "CYBERSMART"
+    },
+    "36875": {
+        "country_code": "ZA",
+        "asn": "36875",
+        "description": "Ensync Business Solutions (PTY)Ltd",
+        "handle": "ENSYNC-AS"
+    },
+    "36889": {
+        "country_code": "ZA",
+        "asn": "36889",
+        "description": "Liberty Holdings Limited",
+        "handle": "LIBERTY-HOLDINGS-AS"
+    },
+    "36898": {
+        "country_code": "ZA",
+        "asn": "36898",
+        "description": "Black Currant Consultant cc",
+        "handle": "CURRANT"
+    },
+    "36910": {
+        "country_code": "ZA",
+        "asn": "36910",
+        "description": "Electronic Communications Network (PTY) LTD",
+        "handle": "ECN-AS2"
+    },
+    "36916": {
+        "country_code": "ZA",
+        "asn": "36916",
+        "description": "X-DSL Networking Solutions",
+        "handle": "X-DSL-NET1"
+    },
+    "36937": {
+        "country_code": "ZA",
+        "asn": "36937",
+        "description": "Liquid Telecommunications South Africa (Pty) Ltd",
+        "handle": "NEOTEL-AS"
+    },
+    "36943": {
+        "country_code": "ZA",
+        "asn": "36943",
+        "description": "1 GRID (PTY) LTD",
+        "handle": "ZA-1-GRID"
+    },
+    "36951": {
+        "country_code": "ZA",
+        "asn": "36951",
+        "description": "Derivco",
+        "handle": "DERIVCO"
+    },
+    "36953": {
+        "country_code": "ZA",
+        "asn": "36953",
+        "description": "HERO TELECOMS (PTY) LTD",
+        "handle": "HERO-TELECOMS"
+    },
+    "36960": {
+        "country_code": "ZA",
+        "asn": "36960",
+        "description": "Cell C (Pty) Ltd",
+        "handle": "CELLC"
+    },
+    "36968": {
+        "country_code": "ZA",
+        "asn": "36968",
+        "description": "Electronic Communications Network (PTY) LTD",
+        "handle": "ECN-AS1"
+    },
+    "36980": {
+        "country_code": "ZA",
+        "asn": "36980",
+        "description": "John Holt Plc",
+        "handle": "JOHNHOLT-ASN"
+    },
+    "36982": {
+        "country_code": "ZA",
+        "asn": "36982",
+        "description": "University of Cape Town",
+        "handle": "UCT"
+    },
+    "36983": {
+        "country_code": "ZA",
+        "asn": "36983",
+        "description": "Osiris Trading (PTY) LTD",
+        "handle": "OTR-A"
+    },
+    "36985": {
+        "country_code": "ZA",
+        "asn": "36985",
+        "description": "Global Micro Solutions",
+        "handle": "GMS"
+    },
+    "36994": {
+        "country_code": "ZA",
+        "asn": "36994",
+        "description": "Vodacom",
+        "handle": "VODACOM-VB"
+    },
+    "37007": {
+        "country_code": "ZA",
+        "asn": "37007",
+        "description": "Liberty Group Limited",
+        "handle": "LIBERTY-HOLDINGS"
+    },
+    "37016": {
+        "country_code": "ZA",
+        "asn": "37016",
+        "description": "Ethekwini Municipality",
+        "handle": "ETHEKWINI-METRO"
+    },
+    "37017": {
+        "country_code": "ZA",
+        "asn": "37017",
+        "description": "Edge connect (pty) Ltd",
+        "handle": "EDGE-CONNECT"
+    },
+    "37028": {
+        "country_code": "ZA",
+        "asn": "37028",
+        "description": "First Rand Bank Limited",
+        "handle": "FNBCONNECT"
+    },
+    "37049": {
+        "country_code": "ZA",
+        "asn": "37049",
+        "description": "SADV (Pty) Ltd",
+        "handle": "SADV"
+    },
+    "37053": {
+        "country_code": "ZA",
+        "asn": "37053",
+        "description": "RSAWEB (PTY) LTD",
+        "handle": "RSAWEB-AS"
+    },
+    "37055": {
+        "country_code": "ZA",
+        "asn": "37055",
+        "description": "IOCO Infrastructure Services (Pty) Ltd",
+        "handle": "EMID"
+    },
+    "37060": {
+        "country_code": "ZA",
+        "asn": "37060",
+        "description": "University of the Witwatersrand",
+        "handle": "WITS"
+    },
+    "37070": {
+        "country_code": "ZA",
+        "asn": "37070",
+        "description": "RAIN GROUP HOLDINGS (PTY) LTD",
+        "handle": "RAIN-GROUP-HOLDINGS"
+    },
+    "37072": {
+        "country_code": "ZA",
+        "asn": "37072",
+        "description": "cmcnetworks",
+        "handle": "CMCNETWORKS"
+    },
+    "37078": {
+        "country_code": "ZA",
+        "asn": "37078",
+        "description": "Discovery Health",
+        "handle": "PRU-HEALTH"
+    },
+    "37105": {
+        "country_code": "ZA",
+        "asn": "37105",
+        "description": "RAIN GROUP HOLDINGS (PTY) LTD",
+        "handle": "RAIN-GROUP-HOLDINGS"
+    },
+    "37114": {
+        "country_code": "ZA",
+        "asn": "37114",
+        "description": "Vodacom Business Africa Group (PTY) Ltd",
+        "handle": "VODACOM-BUSINESS"
+    },
+    "37116": {
+        "country_code": "ZA",
+        "asn": "37116",
+        "description": "Coega Development Corporation",
+        "handle": "COEGA-AS"
+    },
+    "37118": {
+        "country_code": "ZA",
+        "asn": "37118",
+        "description": "Telkom SA Ltd.",
+        "handle": "TELKOM-AS"
+    },
+    "37121": {
+        "country_code": "ZA",
+        "asn": "37121",
+        "description": "Eskom Holdings SOC Ltd",
+        "handle": "ESKOM-HOLDINGS-SOC-LTD"
+    },
+    "37130": {
+        "country_code": "ZA",
+        "asn": "37130",
+        "description": "State Information Technology Agency SOC Ltd",
+        "handle": "SITA-AS"
+    },
+    "37137": {
+        "country_code": "ZA",
+        "asn": "37137",
+        "description": "Vodacom Business Africa Group (PTY) Ltd",
+        "handle": "VODACOM-BUSINESS-AFRICA"
+    },
+    "37138": {
+        "country_code": "ZA",
+        "asn": "37138",
+        "description": "Gateway Communications (Pty) Ltd",
+        "handle": "GATEWAY"
+    },
+    "37145": {
+        "country_code": "ZA",
+        "asn": "37145",
+        "description": "Umoya Networks",
+        "handle": "UMOYA-AS"
+    },
+    "37150": {
+        "country_code": "ZA",
+        "asn": "37150",
+        "description": "Xnet Internet Services (Pty) Ltd",
+        "handle": "XISASN"
+    },
+    "37153": {
+        "country_code": "ZA",
+        "asn": "37153",
+        "description": "Xneelo (Pty) Ltd",
+        "handle": "XNEELO"
+    },
+    "37157": {
+        "country_code": "ZA",
+        "asn": "37157",
+        "description": "Benwest Internet Services ta Imagine IPS",
+        "handle": "IMAGINE"
+    },
+    "37159": {
+        "country_code": "ZA",
+        "asn": "37159",
+        "description": "Alexandre Miller cc t/a Imaginet",
+        "handle": "IMAGINET"
+    },
+    "37160": {
+        "country_code": "ZA",
+        "asn": "37160",
+        "description": "Grindrod Management Services (Pty) Ltd",
+        "handle": "GRINDROD"
+    },
+    "37167": {
+        "country_code": "ZA",
+        "asn": "37167",
+        "description": "Telkom SA Ltd.",
+        "handle": "CYBERNEST"
+    },
+    "37168": {
+        "country_code": "ZA",
+        "asn": "37168",
+        "description": "Cell C (Pty) Ltd",
+        "handle": "CELL-C"
+    },
+    "37172": {
+        "country_code": "ZA",
+        "asn": "37172",
+        "description": "Mitsol (Pty) Ltd",
+        "handle": "MITSOL"
+    },
+    "37175": {
+        "country_code": "ZA",
+        "asn": "37175",
+        "description": "ZA CENTRAL REGISTRY NPC",
+        "handle": "UNIFORUM-SA-ANYCAST"
+    },
+    "37179": {
+        "country_code": "ZA",
+        "asn": "37179",
+        "description": "Africa Independent Network Exchange (Pty) LTD (AfricaINX)",
+        "handle": "AFRICAINX"
+    },
+    "37180": {
+        "country_code": "ZA",
+        "asn": "37180",
+        "description": "South African Airways",
+        "handle": "SAA"
+    },
+    "37186": {
+        "country_code": "ZA",
+        "asn": "37186",
+        "description": "NAPAfrica",
+        "handle": "NAPAFRICA"
+    },
+    "37188": {
+        "country_code": "ZA",
+        "asn": "37188",
+        "description": "Altron TMT (Pty) Ltd",
+        "handle": "BYTESNET"
+    },
+    "37195": {
+        "country_code": "ZA",
+        "asn": "37195",
+        "description": "NAPAfrica",
+        "handle": "NAPAFRICA"
+    },
+    "37199": {
+        "country_code": "ZA",
+        "asn": "37199",
+        "description": "Vanilla",
+        "handle": "VANILLA"
+    },
+    "37225": {
+        "country_code": "ZA",
+        "asn": "37225",
+        "description": "Netwide Internet Services cc",
+        "handle": "NETWIDE"
+    },
+    "37231": {
+        "country_code": "ZA",
+        "asn": "37231",
+        "description": "RSAWEB (PTY) LTD",
+        "handle": "RSAWEB"
+    },
+    "37235": {
+        "country_code": "ZA",
+        "asn": "37235",
+        "description": "Mimecast South Africa",
+        "handle": "MIMECASTSA"
+    },
+    "37236": {
+        "country_code": "ZA",
+        "asn": "37236",
+        "description": "Reflex Solutions",
+        "handle": "REFLEX-SOLUTIONS"
+    },
+    "37239": {
+        "country_code": "ZA",
+        "asn": "37239",
+        "description": "ICTGlobe Management (Pty) Ltd",
+        "handle": "ICTGLOBE"
+    },
+    "37251": {
+        "country_code": "ZA",
+        "asn": "37251",
+        "description": "Telkom SA Ltd.",
+        "handle": "TELKOMMOBILE"
+    },
+    "37253": {
+        "country_code": "ZA",
+        "asn": "37253",
+        "description": "Altron TMT (Pty) Ltd",
+        "handle": "ATC"
+    },
+    "37254": {
+        "country_code": "ZA",
+        "asn": "37254",
+        "description": "Green Flash Trading",
+        "handle": "GREENFLASH"
+    },
+    "37266": {
+        "country_code": "ZA",
+        "asn": "37266",
+        "description": "Amobia Communications",
+        "handle": "AMOBIA-ASN"
+    },
+    "37271": {
+        "country_code": "ZA",
+        "asn": "37271",
+        "description": "Workonline Communications(Pty) Ltd",
+        "handle": "WORKONLINE"
+    },
+    "37275": {
+        "country_code": "ZA",
+        "asn": "37275",
+        "description": "ETC (Pty) Ltd",
+        "handle": "ETC"
+    },
+    "37276": {
+        "country_code": "ZA",
+        "asn": "37276",
+        "description": "VOffice Solutions",
+        "handle": "VOFFICE"
+    },
+    "37277": {
+        "country_code": "ZA",
+        "asn": "37277",
+        "description": "Limelight Networks",
+        "handle": "LIMENET"
+    },
+    "37302": {
+        "country_code": "ZA",
+        "asn": "37302",
+        "description": "Dube TradePort",
+        "handle": "DUBETRADEPORT"
+    },
+    "37310": {
+        "country_code": "ZA",
+        "asn": "37310",
+        "description": "BCS Group (BCSNet)",
+        "handle": "BWIRED"
+    },
+    "37311": {
+        "country_code": "ZA",
+        "asn": "37311",
+        "description": "Vodacom",
+        "handle": "VODACOM"
+    },
+    "37312": {
+        "country_code": "ZA",
+        "asn": "37312",
+        "description": "Clickatell PTY(LTD)",
+        "handle": "CLICKATELL"
+    },
+    "37314": {
+        "country_code": "ZA",
+        "asn": "37314",
+        "description": "Inq Digital South Africa (Pty) Ltd",
+        "handle": "SYREX-PTY-LTD"
+    },
+    "37315": {
+        "country_code": "ZA",
+        "asn": "37315",
+        "description": "Cipherwave",
+        "handle": "CIPHERWAVE"
+    },
+    "37316": {
+        "country_code": "ZA",
+        "asn": "37316",
+        "description": "Direct Transact (Pty) Ltd",
+        "handle": "DTASN"
+    },
+    "37317": {
+        "country_code": "ZA",
+        "asn": "37317",
+        "description": "AccessGlobal Communication (Pty) Ltd",
+        "handle": "ACCESSGLOBAL-AS"
+    },
+    "37333": {
+        "country_code": "ZA",
+        "asn": "37333",
+        "description": "Comtel Communications",
+        "handle": "COMTEL"
+    },
+    "37334": {
+        "country_code": "ZA",
+        "asn": "37334",
+        "description": "JASCO CONVERGED SOLUTIONS (Pty) Ltd",
+        "handle": "REFLEX-SOLUTIONS"
+    },
+    "37352": {
+        "country_code": "ZA",
+        "asn": "37352",
+        "description": "CloudAfrica Hosting (PTY) LTD",
+        "handle": "CLOUDAFRICA"
+    },
+    "37353": {
+        "country_code": "ZA",
+        "asn": "37353",
+        "description": "Seacom Western Cape (Pty) Ltd",
+        "handle": "SEACOM-AS"
+    },
+    "37356": {
+        "country_code": "ZA",
+        "asn": "37356",
+        "description": "Huge Networks (Pty) Ltd",
+        "handle": "HUGE-NETWORKS"
+    },
+    "37357": {
+        "country_code": "ZA",
+        "asn": "37357",
+        "description": "Huge Networks (Pty) Ltd",
+        "handle": "SAINET"
+    },
+    "37358": {
+        "country_code": "ZA",
+        "asn": "37358",
+        "description": "BitCo",
+        "handle": "BITCO"
+    },
+    "37363": {
+        "country_code": "ZA",
+        "asn": "37363",
+        "description": "Faircape",
+        "handle": "FAIRCAPE"
+    },
+    "37368": {
+        "country_code": "ZA",
+        "asn": "37368",
+        "description": "Bluedust Wireless",
+        "handle": "BLUEDUST"
+    },
+    "37387": {
+        "country_code": "ZA",
+        "asn": "37387",
+        "description": "Platformity CC",
+        "handle": "PLATFORMITY"
+    },
+    "37394": {
+        "country_code": "ZA",
+        "asn": "37394",
+        "description": "eNetworks cc",
+        "handle": "ENETWORKS-ANYCAST"
+    },
+    "37399": {
+        "country_code": "ZA",
+        "asn": "37399",
+        "description": "Switch Telecom",
+        "handle": "SWITCHTEL"
+    },
+    "37402": {
+        "country_code": "ZA",
+        "asn": "37402",
+        "description": "Telesure Group Services",
+        "handle": "TELESURE"
+    },
+    "37403": {
+        "country_code": "ZA",
+        "asn": "37403",
+        "description": "Info-Gro (PTY) Ltd",
+        "handle": "INFOGRO"
+    },
+    "37411": {
+        "country_code": "ZA",
+        "asn": "37411",
+        "description": "First in Business Solutions",
+        "handle": "STORAGE"
+    },
+    "37412": {
+        "country_code": "ZA",
+        "asn": "37412",
+        "description": "The Packet Hub",
+        "handle": "PACKET-HUB"
+    },
+    "37413": {
+        "country_code": "ZA",
+        "asn": "37413",
+        "description": "Hymax Talking Solutions",
+        "handle": "HYMAX"
+    },
+    "37417": {
+        "country_code": "ZA",
+        "asn": "37417",
+        "description": "HERO TELECOMS (PTY) LTD",
+        "handle": "HERO-TELECOMS"
+    },
+    "37428": {
+        "country_code": "ZA",
+        "asn": "37428",
+        "description": "Africanbank",
+        "handle": "AFRICANBANK"
+    },
+    "37438": {
+        "country_code": "ZA",
+        "asn": "37438",
+        "description": "Gijima Holdings (PTY) Limited",
+        "handle": "GIJIMA"
+    },
+    "37439": {
+        "country_code": "ZA",
+        "asn": "37439",
+        "description": "HERO TELECOMS (PTY) LTD",
+        "handle": "HERO-TELECOMS"
+    },
+    "37441": {
+        "country_code": "ZA",
+        "asn": "37441",
+        "description": "Digicore Electronics (Pty) Ltd",
+        "handle": "DIGICORE"
+    },
+    "37457": {
+        "country_code": "ZA",
+        "asn": "37457",
+        "description": "Telkom SA Ltd.",
+        "handle": "TELKOM-INTERNET"
+    },
+    "37459": {
+        "country_code": "ZA",
+        "asn": "37459",
+        "description": "IOCO Infrastructure Services (Pty) Ltd",
+        "handle": "EMID"
+    },
+    "37474": {
+        "country_code": "ZA",
+        "asn": "37474",
+        "description": "ISPA SA",
+        "handle": "JINX"
+    },
+    "37479": {
+        "country_code": "ZA",
+        "asn": "37479",
+        "description": "Telviva (Pty) Ltd",
+        "handle": "TELVIVA-AS"
+    },
+    "37482": {
+        "country_code": "ZA",
+        "asn": "37482",
+        "description": "Broadband Innovations",
+        "handle": "BI"
+    },
+    "37484": {
+        "country_code": "ZA",
+        "asn": "37484",
+        "description": "Lasernet (Pty) Ltd",
+        "handle": "LASERNET"
+    },
+    "37488": {
+        "country_code": "ZA",
+        "asn": "37488",
+        "description": "Secure Conekt (Pty) Ltd",
+        "handle": "SECURE-CONEKT"
+    },
+    "37491": {
+        "country_code": "ZA",
+        "asn": "37491",
+        "description": "Gigs Broadband Pty Ltd",
+        "handle": "GIGS-BROADBAND"
+    },
+    "37497": {
+        "country_code": "ZA",
+        "asn": "37497",
+        "description": "Network Platforms (PTY) LTD",
+        "handle": "NETWORK-PLATFORMS"
+    },
+    "37501": {
+        "country_code": "ZA",
+        "asn": "37501",
+        "description": "University of the Free State",
+        "handle": "UOFS"
+    },
+    "37511": {
+        "country_code": "ZA",
+        "asn": "37511",
+        "description": "The Cloud Crew (Pty) Ltd",
+        "handle": "WIZEFLY"
+    },
+    "37515": {
+        "country_code": "ZA",
+        "asn": "37515",
+        "description": "iConnectSA (Pty) Ltd",
+        "handle": "ICONNECT"
+    },
+    "37519": {
+        "country_code": "ZA",
+        "asn": "37519",
+        "description": "Xtranet",
+        "handle": "XTRANET"
+    },
+    "37520": {
+        "country_code": "ZA",
+        "asn": "37520",
+        "description": "Rhodes University",
+        "handle": "RHODES-UNIV"
+    },
+    "37523": {
+        "country_code": "ZA",
+        "asn": "37523",
+        "description": "AVOXI (PTY) LTD",
+        "handle": "DOW-NETWORKS"
+    },
+    "37525": {
+        "country_code": "ZA",
+        "asn": "37525",
+        "description": "Altron TMT (Pty) Ltd",
+        "handle": "BYTES-CON-1"
+    },
+    "37527": {
+        "country_code": "ZA",
+        "asn": "37527",
+        "description": "JIREH Technologies (PTY) Ltd.",
+        "handle": "JIREH-TECHNOLOGIES"
+    },
+    "37542": {
+        "country_code": "ZA",
+        "asn": "37542",
+        "description": "Iclix (PTY) Ltd",
+        "handle": "ICLIX-CC"
+    },
+    "37546": {
+        "country_code": "ZA",
+        "asn": "37546",
+        "description": "MIA Telecoms",
+        "handle": "MIA-TELECOMS"
+    },
+    "37549": {
+        "country_code": "ZA",
+        "asn": "37549",
+        "description": "Triponza Trading 376 CC",
+        "handle": "INNOVATIVE-NETWORKS"
+    },
+    "37561": {
+        "country_code": "ZA",
+        "asn": "37561",
+        "description": "Domain Name Services",
+        "handle": "DOMAIN-NAME-SERVICES"
+    },
+    "37564": {
+        "country_code": "ZA",
+        "asn": "37564",
+        "description": "Wirulink Pty Ltd",
+        "handle": "WIRULINK"
+    },
+    "37589": {
+        "country_code": "ZA",
+        "asn": "37589",
+        "description": "It Is Internet Pty Ltd",
+        "handle": "ITISINTERNET"
+    },
+    "37596": {
+        "country_code": "ZA",
+        "asn": "37596",
+        "description": "HERO TELECOMS (PTY) LTD",
+        "handle": "HERO-TELECOMS"
+    },
+    "37597": {
+        "country_code": "ZA",
+        "asn": "37597",
+        "description": "RAIN GROUP HOLDINGS (PTY) LTD",
+        "handle": "RAIN-GROUP-HOLDINGS"
+    },
+    "37599": {
+        "country_code": "ZA",
+        "asn": "37599",
+        "description": "Teraco Data Environments (PTY) LTD",
+        "handle": "TERACO"
+    },
+    "37611": {
+        "country_code": "ZA",
+        "asn": "37611",
+        "description": "AFRIHOST SP (PTY) LTD",
+        "handle": "AFRIHOST-SP"
+    },
+    "37618": {
+        "country_code": "ZA",
+        "asn": "37618",
+        "description": "Telemedia (PTY) Ltd",
+        "handle": "TELEMEDIA-AS"
+    },
+    "37621": {
+        "country_code": "ZA",
+        "asn": "37621",
+        "description": "Cipherwave",
+        "handle": "CIPHERWAVE"
+    },
+    "37627": {
+        "country_code": "ZA",
+        "asn": "37627",
+        "description": "Equation Business Solutions",
+        "handle": "EQUATION-BUSINESS-AS"
+    },
+    "37628": {
+        "country_code": "ZA",
+        "asn": "37628",
+        "description": "KAB Technologies",
+        "handle": "KAB-TECH-AS"
+    },
+    "37630": {
+        "country_code": "ZA",
+        "asn": "37630",
+        "description": "Ernst and Young Services Limited",
+        "handle": "EY-JHB-AS"
+    },
+    "37634": {
+        "country_code": "ZA",
+        "asn": "37634",
+        "description": "ITEC INTEGRATE PTY LTD",
+        "handle": "ITEC-COMMS"
+    },
+    "37639": {
+        "country_code": "ZA",
+        "asn": "37639",
+        "description": "Platoon trade and Invest 149 PTy",
+        "handle": "WANATEL"
+    },
+    "37640": {
+        "country_code": "ZA",
+        "asn": "37640",
+        "description": "Cape Connect Internet",
+        "handle": "CAPE-CONNECT-AS"
+    },
+    "37650": {
+        "country_code": "ZA",
+        "asn": "37650",
+        "description": "CM Value Added Services (Pty) Ltd",
+        "handle": "CM-VALUE-AS"
+    },
+    "37652": {
+        "country_code": "ZA",
+        "asn": "37652",
+        "description": "PCN IT MANAGEMENT CC",
+        "handle": "AS37652"
+    },
+    "37653": {
+        "country_code": "ZA",
+        "asn": "37653",
+        "description": "ZINIA ISP (PTY) LTD",
+        "handle": "ZINIA-ISP-AS"
+    },
+    "37656": {
+        "country_code": "ZA",
+        "asn": "37656",
+        "description": "Activest Twenty Six PTY LTD",
+        "handle": "SOTERIA-AS"
+    },
+    "37658": {
+        "country_code": "ZA",
+        "asn": "37658",
+        "description": "Smart Technology Centre (PTY) LTD",
+        "handle": "SMART-TECHNOLOGY-CENTRE"
+    },
+    "37663": {
+        "country_code": "ZA",
+        "asn": "37663",
+        "description": "ISPA SA",
+        "handle": "ISPA-SA-JINX"
+    },
+    "37667": {
+        "country_code": "ZA",
+        "asn": "37667",
+        "description": "IRESS South Africa (AUSTRALIA) (PTY) LTD",
+        "handle": "IRESS-SOUTHAFRICA"
+    },
+    "37668": {
+        "country_code": "ZA",
+        "asn": "37668",
+        "description": "ISPA SA",
+        "handle": "DINX"
+    },
+    "37670": {
+        "country_code": "ZA",
+        "asn": "37670",
+        "description": "Smart Technology Centre (PTY) LTD",
+        "handle": "SMART-AS"
+    },
+    "37673": {
+        "country_code": "ZA",
+        "asn": "37673",
+        "description": "Telemasters",
+        "handle": "TELEMASTERS"
+    },
+    "37675": {
+        "country_code": "ZA",
+        "asn": "37675",
+        "description": "SkyWire (PTY) LTD",
+        "handle": "SKYWIRE"
+    },
+    "37680": {
+        "country_code": "ZA",
+        "asn": "37680",
+        "description": "Cool Ideas Service Provider (Pty) Ltd",
+        "handle": "COOL-IDEAS"
+    },
+    "37691": {
+        "country_code": "ZA",
+        "asn": "37691",
+        "description": "Thought Express Semantic Technology",
+        "handle": "THOUGHTEXPRESS-AS"
+    },
+    "37692": {
+        "country_code": "ZA",
+        "asn": "37692",
+        "description": "NetStack Ltd",
+        "handle": "NETSTACK-AS"
+    },
+    "37699": {
+        "country_code": "ZA",
+        "asn": "37699",
+        "description": "ISPA SA",
+        "handle": "DINX-ROUTESRV"
+    },
+    "37700": {
+        "country_code": "ZA",
+        "asn": "37700",
+        "description": "ISPA SA",
+        "handle": "DINX"
+    },
+    "37701": {
+        "country_code": "ZA",
+        "asn": "37701",
+        "description": "ISPA SA",
+        "handle": "CINX"
+    },
+    "37720": {
+        "country_code": "ZA",
+        "asn": "37720",
+        "description": "Alsatia Networking (PTY) LTD",
+        "handle": "ALSATIA-AS"
+    },
+    "37724": {
+        "country_code": "ZA",
+        "asn": "37724",
+        "description": "TFyreIT (PTY) LTD",
+        "handle": "TFYREIT-PTY-LTD"
+    },
+    "37731": {
+        "country_code": "ZA",
+        "asn": "37731",
+        "description": "Web Squad Connect (Pty) Ltd",
+        "handle": "AS-WECOM"
+    },
+    "37735": {
+        "country_code": "ZA",
+        "asn": "37735",
+        "description": "ISPA SA",
+        "handle": "NMBIX-PEERING"
+    },
+    "37739": {
+        "country_code": "ZA",
+        "asn": "37739",
+        "description": "Abantu Cloud Africa (Pty) Ltd",
+        "handle": "ABANTU-CLOUD"
+    },
+    "41033": {
+        "country_code": "ZA",
+        "asn": "41033",
+        "description": "D2CLOUD NETWORK SERVICES (PTY) LTD",
+        "handle": "D2-AS"
+    },
+    "43444": {
+        "country_code": "ZA",
+        "asn": "43444",
+        "description": "Fast Servers (Pty) Ltd",
+        "handle": "BNS-AS"
+    },
+    "44167": {
+        "country_code": "ZA",
+        "asn": "44167",
+        "description": "D2CLOUD NETWORK SERVICES (PTY) LTD",
+        "handle": "DE-IIL-AS"
+    },
+    "56453": {
+        "country_code": "ZA",
+        "asn": "56453",
+        "description": "D2CLOUD NETWORK SERVICES (PTY) LTD",
+        "handle": "SPAIN-IIL-AS"
+    },
+    "56708": {
+        "country_code": "ZA",
+        "asn": "56708",
+        "description": "D2CLOUD NETWORK SERVICES (PTY) LTD",
+        "handle": "GB-IIL-AS"
+    },
+    "59870": {
+        "country_code": "ZA",
+        "asn": "59870",
+        "description": "Osiris Trading PTY LTD",
+        "handle": "BOLDHORIZONS-EU-AS"
+    },
+    "61092": {
+        "country_code": "ZA",
+        "asn": "61092",
+        "description": "123 NET CPT (PTY) LTD",
+        "handle": "SA123NET"
+    },
+    "204300": {
+        "country_code": "ZA",
+        "asn": "204300",
+        "description": "D2CLOUD NETWORK SERVICES (PTY) LTD",
+        "handle": "IIL-NET"
+    },
+    "208809": {
+        "country_code": "ZA",
+        "asn": "208809",
+        "description": "Agile Solutions Provider (PTY) LTD",
+        "handle": "AGILE-GLOBAL"
+    },
+    "209167": {
+        "country_code": "ZA",
+        "asn": "209167",
+        "description": "TERACOM COMMUNICATIONS (PTY) LTD",
+        "handle": "TCC"
+    },
+    "209425": {
+        "country_code": "ZA",
+        "asn": "209425",
+        "description": "KOI CLOUD SERVICES (Pty) Ltd",
+        "handle": "KOI-AS"
+    },
+    "210555": {
+        "country_code": "ZA",
+        "asn": "210555",
+        "description": "D2CLOUD NETWORK SERVICES (PTY) LTD",
+        "handle": "D2CLOUD-ZA-AS"
+    },
+    "211869": {
+        "country_code": "ZA",
+        "asn": "211869",
+        "description": "Nicholis du Toit",
+        "handle": "NDT3-AS"
+    },
+    "213481": {
+        "country_code": "ZA",
+        "asn": "213481",
+        "description": "Hevis Co Systems PTY LTD",
+        "handle": "ENVISAGE-CLOUD-SOLUTIONS"
+    },
+    "213975": {
+        "country_code": "ZA",
+        "asn": "213975",
+        "description": "Warwick Ward-Cox",
+        "handle": "COMPUTER-POWER"
+    },
+    "214209": {
+        "country_code": "ZA",
+        "asn": "214209",
+        "description": "Internet Magnate (Pty) Ltd",
+        "handle": "INTERNET-MAGNATE"
+    },
+    "214564": {
+        "country_code": "ZA",
+        "asn": "214564",
+        "description": "Bruce Moriarty",
+        "handle": "FROSTBYTE-NETWORKS"
+    },
+    "216409": {
+        "country_code": "ZA",
+        "asn": "216409",
+        "description": "ENDGAME RESEARCH (PTY) LTD",
+        "handle": "ENDGAME"
+    },
+    "327683": {
+        "country_code": "ZA",
+        "asn": "327683",
+        "description": "Posix Systems (Pty) Ltd",
+        "handle": "POSIX-AFRICA"
+    },
+    "327685": {
+        "country_code": "ZA",
+        "asn": "327685",
+        "description": "RAIN GROUP HOLDINGS (PTY) LTD",
+        "handle": "RAIN-GROUP-HOLDINGS"
+    },
+    "327688": {
+        "country_code": "ZA",
+        "asn": "327688",
+        "description": "Screamer Telecommunications",
+        "handle": "SCREAMER"
+    },
+    "327693": {
+        "country_code": "ZA",
+        "asn": "327693",
+        "description": "Echotel Pty Ltd",
+        "handle": "ECHO-SP"
+    },
+    "327698": {
+        "country_code": "ZA",
+        "asn": "327698",
+        "description": "Broadband Infraco",
+        "handle": "BINFRACO"
+    },
+    "327701": {
+        "country_code": "ZA",
+        "asn": "327701",
+        "description": "Sabinet Gateway",
+        "handle": "SABINET"
+    },
+    "327703": {
+        "country_code": "ZA",
+        "asn": "327703",
+        "description": "Adept Internet (Pty) Ltd CT",
+        "handle": "ADEPT"
+    },
+    "327715": {
+        "country_code": "ZA",
+        "asn": "327715",
+        "description": "HERO TELECOMS (PTY) LTD",
+        "handle": "HERO-TELECOMS"
+    },
+    "327726": {
+        "country_code": "ZA",
+        "asn": "327726",
+        "description": "New telco South Africa Pty Ltd.",
+        "handle": "NEWTELCO"
+    },
+    "327733": {
+        "country_code": "ZA",
+        "asn": "327733",
+        "description": "Saicom Voice Services",
+        "handle": "SAICOM"
+    },
+    "327737": {
+        "country_code": "ZA",
+        "asn": "327737",
+        "description": "Custom Solutions Business Trust",
+        "handle": "CSBT"
+    },
+    "327745": {
+        "country_code": "ZA",
+        "asn": "327745",
+        "description": "WiFibre Pty Ltd",
+        "handle": "WIFIBRE"
+    },
+    "327749": {
+        "country_code": "ZA",
+        "asn": "327749",
+        "description": "Digital Outsource Services Ltd",
+        "handle": "DIGI-OUTSOURCE"
+    },
+    "327750": {
+        "country_code": "ZA",
+        "asn": "327750",
+        "description": "JENNY INTERNET (PTY) LTD",
+        "handle": "JENNY-INTERNET"
+    },
+    "327751": {
+        "country_code": "ZA",
+        "asn": "327751",
+        "description": "LanDynamix",
+        "handle": "LANDYNAMIX"
+    },
+    "327754": {
+        "country_code": "ZA",
+        "asn": "327754",
+        "description": "RMS Powertronics CC",
+        "handle": "RMS-POWERTRONICS"
+    },
+    "327761": {
+        "country_code": "ZA",
+        "asn": "327761",
+        "description": "Oxygn ISP (PTY) LTD",
+        "handle": "OXYGN-ISP"
+    },
+    "327767": {
+        "country_code": "ZA",
+        "asn": "327767",
+        "description": "Ultimate Linux Solutions (Pty) Ltd",
+        "handle": "ULTIMATE-LINUX"
+    },
+    "327772": {
+        "country_code": "ZA",
+        "asn": "327772",
+        "description": "Fulloutput 1086 cc",
+        "handle": "FULLOUTPUT-1086CC"
+    },
+    "327777": {
+        "country_code": "ZA",
+        "asn": "327777",
+        "description": "The Cloud Crew (Pty) Ltd",
+        "handle": "LIQUIDCLOUD"
+    },
+    "327781": {
+        "country_code": "ZA",
+        "asn": "327781",
+        "description": "HERO TELECOMS (PTY) LTD",
+        "handle": "HERO-TELECOMS"
+    },
+    "327782": {
+        "country_code": "ZA",
+        "asn": "327782",
+        "description": "Metrofibre Networx",
+        "handle": "METROFIBRE-NETWORX"
+    },
+    "327787": {
+        "country_code": "ZA",
+        "asn": "327787",
+        "description": "Ampath",
+        "handle": "AMPATH"
+    },
+    "327790": {
+        "country_code": "ZA",
+        "asn": "327790",
+        "description": "Wirels Connect (PTY) Ltd",
+        "handle": "WIRELS-CONNECT"
+    },
+    "327791": {
+        "country_code": "ZA",
+        "asn": "327791",
+        "description": "Centracom",
+        "handle": "CENTRACOM"
+    },
+    "327794": {
+        "country_code": "ZA",
+        "asn": "327794",
+        "description": "Clear Access (Pty) Ltd",
+        "handle": "CLEAR-ACCESS"
+    },
+    "327804": {
+        "country_code": "ZA",
+        "asn": "327804",
+        "description": "Municipal Network Services",
+        "handle": "TRUSC"
+    },
+    "327805": {
+        "country_code": "ZA",
+        "asn": "327805",
+        "description": "Bundu NetworX",
+        "handle": "BUNDU-NETWORX"
+    },
+    "327808": {
+        "country_code": "ZA",
+        "asn": "327808",
+        "description": "TESUCO TELECOMMUNICATIONS (PTY) LTD",
+        "handle": "TESUCO-TELECOMMUNICATIONS"
+    },
+    "327812": {
+        "country_code": "ZA",
+        "asn": "327812",
+        "description": "Metacom (Pty) Limited",
+        "handle": "METACOM"
+    },
+    "327813": {
+        "country_code": "ZA",
+        "asn": "327813",
+        "description": "Host Africa (Pty) Ltd",
+        "handle": "HA-VPS-NET"
+    },
+    "327817": {
+        "country_code": "ZA",
+        "asn": "327817",
+        "description": "Ladysmith Wireless Solutions",
+        "handle": "LADYSMITH-WIRELESS-SOLUTIONS"
+    },
+    "327822": {
+        "country_code": "ZA",
+        "asn": "327822",
+        "description": "Airpark Beaufort West CC",
+        "handle": "AIRPARK-BEAUFORT-WEST"
+    },
+    "327824": {
+        "country_code": "ZA",
+        "asn": "327824",
+        "description": "Converged Telecoms",
+        "handle": "CONVERGED-TELECOMS"
+    },
+    "327826": {
+        "country_code": "ZA",
+        "asn": "327826",
+        "description": "HERO TELECOMS (PTY) LTD",
+        "handle": "SAFRICOM"
+    },
+    "327832": {
+        "country_code": "ZA",
+        "asn": "327832",
+        "description": "Safcor Freight (Pty) Ltd",
+        "handle": "SAFCOR-FREIGHT"
+    },
+    "327839": {
+        "country_code": "ZA",
+        "asn": "327839",
+        "description": "Woolworths(Proprietary) Ltd",
+        "handle": "WOOLWORTHS"
+    },
+    "327840": {
+        "country_code": "ZA",
+        "asn": "327840",
+        "description": "RAIN GROUP HOLDINGS (PTY) LTD",
+        "handle": "RAIN-GROUP-HOLDINGS"
+    },
+    "327849": {
+        "country_code": "ZA",
+        "asn": "327849",
+        "description": "DIRECTEL COMMUNICATIONS (PTY) LTD",
+        "handle": "ROCKETNET"
+    },
+    "327850": {
+        "country_code": "ZA",
+        "asn": "327850",
+        "description": "NEC XON SYSTEMS (PTY) LTD",
+        "handle": "XON-SYSTEMS"
+    },
+    "327851": {
+        "country_code": "ZA",
+        "asn": "327851",
+        "description": "Prepaid Utilities World CC",
+        "handle": "PREPAID-UTILITIES-WORLD"
+    },
+    "327858": {
+        "country_code": "ZA",
+        "asn": "327858",
+        "description": "HERO TELECOMS (PTY) LTD",
+        "handle": "CLOUDCONNECT-NETWORKS"
+    },
+    "327867": {
+        "country_code": "ZA",
+        "asn": "327867",
+        "description": "The Independent Institute of Education (Pty) Ltd",
+        "handle": "ADVTECH"
+    },
+    "327872": {
+        "country_code": "ZA",
+        "asn": "327872",
+        "description": "IBITS Internet (pty) Ltd",
+        "handle": "IBITS-INTERNET"
+    },
+    "327880": {
+        "country_code": "ZA",
+        "asn": "327880",
+        "description": "Multichoice Support Services (Pty) Ltd",
+        "handle": "SHOWMAX"
+    },
+    "327889": {
+        "country_code": "ZA",
+        "asn": "327889",
+        "description": "Watchtower Bible and Tract Society of South Africa",
+        "handle": "WATCHTOWER-RSA"
+    },
+    "327892": {
+        "country_code": "ZA",
+        "asn": "327892",
+        "description": "BETHNET cc",
+        "handle": "BETHNET-CC"
+    },
+    "327893": {
+        "country_code": "ZA",
+        "asn": "327893",
+        "description": "Legends Connect Pty Ltd",
+        "handle": "LEGENDS-CONNECT"
+    },
+    "327894": {
+        "country_code": "ZA",
+        "asn": "327894",
+        "description": "Desktop Network Solutions",
+        "handle": "DESKTOP-NETWORK-SOLUTIONS"
+    },
+    "327896": {
+        "country_code": "ZA",
+        "asn": "327896",
+        "description": "BIZVOIP",
+        "handle": "BIZVOIP"
+    },
+    "327897": {
+        "country_code": "ZA",
+        "asn": "327897",
+        "description": "ATEC Systems and Technologies PTY LTD",
+        "handle": "ATEC-SYSTEMS"
+    },
+    "327901": {
+        "country_code": "ZA",
+        "asn": "327901",
+        "description": "Level 7 Wireless (Pty) Ltd",
+        "handle": "LEVEL7-AS"
+    },
+    "327907": {
+        "country_code": "ZA",
+        "asn": "327907",
+        "description": "Session Telecoms(PTY) Ltd",
+        "handle": "PAW-PAW-WIRELESS"
+    },
+    "327908": {
+        "country_code": "ZA",
+        "asn": "327908",
+        "description": "ECOTECH Converge PTY Ltd",
+        "handle": "ECOTECH-CONVERGE"
+    },
+    "327909": {
+        "country_code": "ZA",
+        "asn": "327909",
+        "description": "iONLINE INTERNET SERVICE PROVIDER",
+        "handle": "IONLINE-ISP"
+    },
+    "327910": {
+        "country_code": "ZA",
+        "asn": "327910",
+        "description": "Tarsus On Demand (Pty) Ltd",
+        "handle": "CLOUD-ON-DEMAND"
+    },
+    "327922": {
+        "country_code": "ZA",
+        "asn": "327922",
+        "description": "Perlcom CC T/A iSPOT",
+        "handle": "PERLCOM-ISPOT"
+    },
+    "327923": {
+        "country_code": "ZA",
+        "asn": "327923",
+        "description": "South African Bankers Services Company Limited",
+        "handle": "PAYINC-SA"
+    },
+    "327926": {
+        "country_code": "ZA",
+        "asn": "327926",
+        "description": "Technolutions Pty Ltd",
+        "handle": "TECHNOLUTIONS-PTY-LTD"
+    },
+    "327935": {
+        "country_code": "ZA",
+        "asn": "327935",
+        "description": "iSPACE (PTY) LTD",
+        "handle": "ISPACE"
+    },
+    "327936": {
+        "country_code": "ZA",
+        "asn": "327936",
+        "description": "Kibo Connect",
+        "handle": "KIBOCONNECT"
+    },
+    "327943": {
+        "country_code": "ZA",
+        "asn": "327943",
+        "description": "Mezobyte (Pty) LTD",
+        "handle": "MEZOBYTE"
+    },
+    "327946": {
+        "country_code": "ZA",
+        "asn": "327946",
+        "description": "Mesh Telecom Pty Ltd",
+        "handle": "MESH-TELECOM"
+    },
+    "327949": {
+        "country_code": "ZA",
+        "asn": "327949",
+        "description": "Hollard Insurance",
+        "handle": "AS-HOLLARD"
+    },
+    "327950": {
+        "country_code": "ZA",
+        "asn": "327950",
+        "description": "Izwi Technology Group (Pty) Ltd",
+        "handle": "AS-IZWI"
+    },
+    "327954": {
+        "country_code": "ZA",
+        "asn": "327954",
+        "description": "Smart Technology Centre (PTY) LTD",
+        "handle": "SMART-TECHNOLOGY-ANYCAST"
+    },
+    "327957": {
+        "country_code": "ZA",
+        "asn": "327957",
+        "description": "HERO TELECOMS (PTY) LTD",
+        "handle": "HERO-TELECOMS"
+    },
+    "327958": {
+        "country_code": "ZA",
+        "asn": "327958",
+        "description": "Airlink (Pty) Limited",
+        "handle": "SA-AIRLINK"
+    },
+    "327960": {
+        "country_code": "ZA",
+        "asn": "327960",
+        "description": "PC Maniacs (Pty) Ltd",
+        "handle": "PC-MANIACS"
+    },
+    "327961": {
+        "country_code": "ZA",
+        "asn": "327961",
+        "description": "Speer Management Services (PTY)LTD",
+        "handle": "SPEER-MANAGEMENT-SERVICES"
+    },
+    "327962": {
+        "country_code": "ZA",
+        "asn": "327962",
+        "description": "Magnalec (Pty) Ltd t/a PacketSky",
+        "handle": "PACKETSKY"
+    },
+    "327966": {
+        "country_code": "ZA",
+        "asn": "327966",
+        "description": "FJ Wiese CC",
+        "handle": "FJ-WIESE-CC"
+    },
+    "327968": {
+        "country_code": "ZA",
+        "asn": "327968",
+        "description": "Digicall Solutions (Pty) Ltd",
+        "handle": "DIGICALL-SOLUTIONS"
+    },
+    "327979": {
+        "country_code": "ZA",
+        "asn": "327979",
+        "description": "DIAMATRIX C.C",
+        "handle": "DIAMATRIX"
+    },
+    "327980": {
+        "country_code": "ZA",
+        "asn": "327980",
+        "description": "FASTHOSTING (PTY) LTD",
+        "handle": "FASTHOSTING"
+    },
+    "327982": {
+        "country_code": "ZA",
+        "asn": "327982",
+        "description": "Sithabile Technology Services (Py) Ltd",
+        "handle": "SITHABILE-TECHNOLOGY-SERVICES"
+    },
+    "327983": {
+        "country_code": "ZA",
+        "asn": "327983",
+        "description": "Interworks Wireless Solutions",
+        "handle": "INTERWORKS-WIRELESS-SOLUTIONS"
+    },
+    "327984": {
+        "country_code": "ZA",
+        "asn": "327984",
+        "description": "The Ribeiro Group",
+        "handle": "TRG1"
+    },
+    "327987": {
+        "country_code": "ZA",
+        "asn": "327987",
+        "description": "Webstorm (Pty) LTD",
+        "handle": "WEBSTORM"
+    },
+    "327988": {
+        "country_code": "ZA",
+        "asn": "327988",
+        "description": "CAPITEC BANK LIMITED",
+        "handle": "CAPITEC-BANK-LIMITED"
+    },
+    "327991": {
+        "country_code": "ZA",
+        "asn": "327991",
+        "description": "Megasurf Wireless Internet CC",
+        "handle": "MEGASURF-WIRELESS-INTERNET"
+    },
+    "327996": {
+        "country_code": "ZA",
+        "asn": "327996",
+        "description": "Accelerit Technologies PTY LTD",
+        "handle": "ACCELERIT"
+    },
+    "328001": {
+        "country_code": "ZA",
+        "asn": "328001",
+        "description": "Satsoft cc",
+        "handle": "SATSOFT"
+    },
+    "328006": {
+        "country_code": "ZA",
+        "asn": "328006",
+        "description": "Ekurhuleni Metropolitan Municipality",
+        "handle": "EKURHULENI-METROPOLITAN-MUNICIPALITY"
+    },
+    "328009": {
+        "country_code": "ZA",
+        "asn": "328009",
+        "description": "BEONLINE TWENTY FOUR SEVEN INTERNET GROUP",
+        "handle": "BEONLINE"
+    },
+    "328013": {
+        "country_code": "ZA",
+        "asn": "328013",
+        "description": "The Cloud Crew (Pty) Ltd",
+        "handle": "ISPAFRIKA"
+    },
+    "328016": {
+        "country_code": "ZA",
+        "asn": "328016",
+        "description": "Netdirect Wireless Technology (Pty) Ltd",
+        "handle": "NETDIRECT"
+    },
+    "328020": {
+        "country_code": "ZA",
+        "asn": "328020",
+        "description": "Gardale Solutions",
+        "handle": "GARDALE-SOLUTIONS"
+    },
+    "328024": {
+        "country_code": "ZA",
+        "asn": "328024",
+        "description": "JACQCO MANAGEMENT CC",
+        "handle": "JACQCO-MANAGEMENT"
+    },
+    "328028": {
+        "country_code": "ZA",
+        "asn": "328028",
+        "description": "Telkom SA Ltd.",
+        "handle": "AS-TELKOM-RETAIL"
+    },
+    "328029": {
+        "country_code": "ZA",
+        "asn": "328029",
+        "description": "Web Telecom Services (PTY) Ltd",
+        "handle": "WEB-TELECOM-SERVICES"
+    },
+    "328030": {
+        "country_code": "ZA",
+        "asn": "328030",
+        "description": "THREE6FIVE NETWORK TECHNOLOGIES (PTY) LTD",
+        "handle": "THREE6FIVE"
+    },
+    "328032": {
+        "country_code": "ZA",
+        "asn": "328032",
+        "description": "Routed Hosting (PTY) LTD",
+        "handle": "ROUTED-HOSTING"
+    },
+    "328036": {
+        "country_code": "ZA",
+        "asn": "328036",
+        "description": "Wifi-Resources (Pty) Ltd",
+        "handle": "WIFI-RESOURCES-AFRINIC"
+    },
+    "328037": {
+        "country_code": "ZA",
+        "asn": "328037",
+        "description": "Optify Systems (Pty) Ltd",
+        "handle": "ELITEHOST"
+    },
+    "328038": {
+        "country_code": "ZA",
+        "asn": "328038",
+        "description": "Hitec Sure cc",
+        "handle": "HITEC-SURE-AS"
+    },
+    "328039": {
+        "country_code": "ZA",
+        "asn": "328039",
+        "description": "JSDAAV ZA Telecoms (Pty) Ltd",
+        "handle": "JSDAAV"
+    },
+    "328041": {
+        "country_code": "ZA",
+        "asn": "328041",
+        "description": "Hollywood Sportsbook Holdings (PTY) Ltd",
+        "handle": "HOLLYWOOD-SPORTSBOOKS-AS"
+    },
+    "328043": {
+        "country_code": "ZA",
+        "asn": "328043",
+        "description": "Clickatell PTY(LTD)",
+        "handle": "CLICKATELL-AS"
+    },
+    "328045": {
+        "country_code": "ZA",
+        "asn": "328045",
+        "description": "Multichoice Support Services (Pty) Ltd",
+        "handle": "MULTICHOICE-SUPPORT-SERVICES-AS"
+    },
+    "328047": {
+        "country_code": "ZA",
+        "asn": "328047",
+        "description": "JENNY INTERNET (PTY) LTD",
+        "handle": "JENNY"
+    },
+    "328049": {
+        "country_code": "ZA",
+        "asn": "328049",
+        "description": "Haupt Online (Pty) Ltd",
+        "handle": "HAUPT-ONLINE-AS"
+    },
+    "328051": {
+        "country_code": "ZA",
+        "asn": "328051",
+        "description": "Go Communications Network (Pty) LTD",
+        "handle": "GO-COMMUNICATIONS-NET-AS"
+    },
+    "328057": {
+        "country_code": "ZA",
+        "asn": "328057",
+        "description": "D and D Tactical (Pty) Ltd",
+        "handle": "DAD-TACTICAL-AS"
+    },
+    "328059": {
+        "country_code": "ZA",
+        "asn": "328059",
+        "description": "Bubblestorm Management (Pty) Ltd",
+        "handle": "BUBBLESTORM-MGMT-AS"
+    },
+    "328063": {
+        "country_code": "ZA",
+        "asn": "328063",
+        "description": "E-Com Cloud Solution Co. Ltd",
+        "handle": "E-COM-CLOUD-AS"
+    },
+    "328064": {
+        "country_code": "ZA",
+        "asn": "328064",
+        "description": "HERO TELECOMS (PTY) LTD",
+        "handle": "LCOM-AS"
+    },
+    "328068": {
+        "country_code": "ZA",
+        "asn": "328068",
+        "description": "Beginning 2 End Technologies",
+        "handle": "ACTIVE-FIBRE"
+    },
+    "328072": {
+        "country_code": "ZA",
+        "asn": "328072",
+        "description": "Axxess DSL (PTY) Ltd",
+        "handle": "AXXESS-DSL-AS"
+    },
+    "328074": {
+        "country_code": "ZA",
+        "asn": "328074",
+        "description": "KLIQ (Pty) Ltd",
+        "handle": "KLIQ-LTD-AS"
+    },
+    "328086": {
+        "country_code": "ZA",
+        "asn": "328086",
+        "description": "WiseTech Global Ltd",
+        "handle": "WISETECH-GLOBAL-AS"
+    },
+    "328095": {
+        "country_code": "ZA",
+        "asn": "328095",
+        "description": "BLUEGATE EXCHANGE",
+        "handle": "BLUEGATE-EXCHANGE-AS"
+    },
+    "328101": {
+        "country_code": "ZA",
+        "asn": "328101",
+        "description": "JENNY INTERNET (PTY) LTD",
+        "handle": "PETPROPS-AS"
+    },
+    "328106": {
+        "country_code": "ZA",
+        "asn": "328106",
+        "description": "UNIWISP",
+        "handle": "UNIWISP-AS"
+    },
+    "328109": {
+        "country_code": "ZA",
+        "asn": "328109",
+        "description": "City of Cape Town",
+        "handle": "CITY-OF-CAPE-TOWN-AS"
+    },
+    "328112": {
+        "country_code": "ZA",
+        "asn": "328112",
+        "description": "Linux Based Systems Design SA (Pty) Ltd",
+        "handle": "LINUX-BASED-SYSTEMS-DESIGN-AS"
+    },
+    "328113": {
+        "country_code": "ZA",
+        "asn": "328113",
+        "description": "Ocular Technologies (PTY) Ltd",
+        "handle": "OCULAR-TECHNOLOGIES-AS"
+    },
+    "328114": {
+        "country_code": "ZA",
+        "asn": "328114",
+        "description": "Comsol Networks (PTY) Ltd",
+        "handle": "COMSOL-NETWORKS-AS"
+    },
+    "328119": {
+        "country_code": "ZA",
+        "asn": "328119",
+        "description": "BUI Medical & Technology Suppliers (pty) Ltd",
+        "handle": "BUI-MEDICAL-TECHNOLOGY-AS"
+    },
+    "328120": {
+        "country_code": "ZA",
+        "asn": "328120",
+        "description": "SMS Cellular Services",
+        "handle": "SMS-CELLULAR-SERVICES-AS"
+    },
+    "328122": {
+        "country_code": "ZA",
+        "asn": "328122",
+        "description": "Business Connexion (PTY) LTD",
+        "handle": "BUSINESS-CONNEXION-PTY"
+    },
+    "328125": {
+        "country_code": "ZA",
+        "asn": "328125",
+        "description": "Forbtech",
+        "handle": "FORBTECH-AS"
+    },
+    "328130": {
+        "country_code": "ZA",
+        "asn": "328130",
+        "description": "HERO TELECOMS (PTY) LTD",
+        "handle": "KOSH-COMMUNICATION-AS"
+    },
+    "328135": {
+        "country_code": "ZA",
+        "asn": "328135",
+        "description": "AVBOB Mutual Assurance Society",
+        "handle": "AVBOB-AS"
+    },
+    "328137": {
+        "country_code": "ZA",
+        "asn": "328137",
+        "description": "Web Squad Connect (Pty) Ltd",
+        "handle": "WEB-SQUAD-CONNECT-AS"
+    },
+    "328146": {
+        "country_code": "ZA",
+        "asn": "328146",
+        "description": "SAINT ICT CONSULTANTS (PTY) LTD",
+        "handle": "SAINT-ICT-AS"
+    },
+    "328150": {
+        "country_code": "ZA",
+        "asn": "328150",
+        "description": "Metrofibre Networx",
+        "handle": "METROFIBRE-NETWORX-AS2"
+    },
+    "328151": {
+        "country_code": "ZA",
+        "asn": "328151",
+        "description": "Metrofibre Networx",
+        "handle": "METROFIBRE-NETWORX-AS3"
+    },
+    "328153": {
+        "country_code": "ZA",
+        "asn": "328153",
+        "description": "Psychz Networks ZA",
+        "handle": "PSYCHZ-NETWORKS-ZA-AS"
+    },
+    "328155": {
+        "country_code": "ZA",
+        "asn": "328155",
+        "description": "Blue Sky Satellite Communications CC",
+        "handle": "BLUESKY"
+    },
+    "328156": {
+        "country_code": "ZA",
+        "asn": "328156",
+        "description": "Korbitec (PTY) LTD",
+        "handle": "KORBITEC"
+    },
+    "328157": {
+        "country_code": "ZA",
+        "asn": "328157",
+        "description": "VirtualComms (Pty) Ltd",
+        "handle": "VIRTUALCOMMS"
+    },
+    "328161": {
+        "country_code": "ZA",
+        "asn": "328161",
+        "description": "PayCorp Group (Pty) Ltd",
+        "handle": "PAYCORP-GROUP-AS"
+    },
+    "328163": {
+        "country_code": "ZA",
+        "asn": "328163",
+        "description": "A 2 X (Pty) Ltd",
+        "handle": "A2X"
+    },
+    "328164": {
+        "country_code": "ZA",
+        "asn": "328164",
+        "description": "PYROCA 3cc T/A Net Hog Internet Solutions",
+        "handle": "NET-HOG-AS"
+    },
+    "328167": {
+        "country_code": "ZA",
+        "asn": "328167",
+        "description": "TWK Communications",
+        "handle": "TWK-COMMUNICATIONS"
+    },
+    "328170": {
+        "country_code": "ZA",
+        "asn": "328170",
+        "description": "DataKeepers (Pty) Ltd",
+        "handle": "DATAKEEPERS"
+    },
+    "328172": {
+        "country_code": "ZA",
+        "asn": "328172",
+        "description": "Jasper Consultants Pty Ltd",
+        "handle": "JASPER-CONSULTANTS"
+    },
+    "328173": {
+        "country_code": "ZA",
+        "asn": "328173",
+        "description": "Weltel",
+        "handle": "WELTEL"
+    },
+    "328174": {
+        "country_code": "ZA",
+        "asn": "328174",
+        "description": "HomeFind24 (Pty) Ltd t/a Property24",
+        "handle": "HOMEFIND24"
+    },
+    "328176": {
+        "country_code": "ZA",
+        "asn": "328176",
+        "description": "ITTX Telecoms (Pty) Ltd",
+        "handle": "ITTX-TELECOMS"
+    },
+    "328178": {
+        "country_code": "ZA",
+        "asn": "328178",
+        "description": "The Computer Hut cc",
+        "handle": "THE-COMPUTER-HUT-AS"
+    },
+    "328179": {
+        "country_code": "ZA",
+        "asn": "328179",
+        "description": "Singa Tel",
+        "handle": "SINGA-TEL-AS"
+    },
+    "328186": {
+        "country_code": "ZA",
+        "asn": "328186",
+        "description": "NEWSHELF 1315 (PTY) LTD",
+        "handle": "NEWSHELF-1315"
+    },
+    "328197": {
+        "country_code": "ZA",
+        "asn": "328197",
+        "description": "Telstream Telecoms Pty Ltd",
+        "handle": "TELSTREAM"
+    },
+    "328199": {
+        "country_code": "ZA",
+        "asn": "328199",
+        "description": "Voimar (Pty) Ltd",
+        "handle": "VOIMAR-PTY"
+    },
+    "328205": {
+        "country_code": "ZA",
+        "asn": "328205",
+        "description": "Outsurance Insurance Company Ltd",
+        "handle": "OUTSURANCE-INSURANCE-COMPANY"
+    },
+    "328206": {
+        "country_code": "ZA",
+        "asn": "328206",
+        "description": "Johannesburg Area Wireless User Group (JAWUG)",
+        "handle": "JAWUG"
+    },
+    "328209": {
+        "country_code": "ZA",
+        "asn": "328209",
+        "description": "Velocity Trade Financial Services (Pty) Ltd",
+        "handle": "ELOCITY-TRADE-FINANCIAL-SERVICES"
+    },
+    "328210": {
+        "country_code": "ZA",
+        "asn": "328210",
+        "description": "TENACIT SOLUTIONS (PTY) LTD",
+        "handle": "TENACIT-SOLUTIONS"
+    },
+    "328214": {
+        "country_code": "ZA",
+        "asn": "328214",
+        "description": "Bioniq (Pty) Ltd",
+        "handle": "BIONIQ-LTD-AS"
+    },
+    "328216": {
+        "country_code": "ZA",
+        "asn": "328216",
+        "description": "Firestream (PTY) LTD",
+        "handle": "FIRESTREAM-AS"
+    },
+    "328218": {
+        "country_code": "ZA",
+        "asn": "328218",
+        "description": "Wireless Associate Service Providers CC",
+        "handle": "WASP-AS"
+    },
+    "328220": {
+        "country_code": "ZA",
+        "asn": "328220",
+        "description": "Sentiv (Pty) Ltd",
+        "handle": "SENTIV"
+    },
+    "328222": {
+        "country_code": "ZA",
+        "asn": "328222",
+        "description": "NETLAYER (PTY) LTD",
+        "handle": "NETLAYER"
+    },
+    "328227": {
+        "country_code": "ZA",
+        "asn": "328227",
+        "description": "TELECLOUD (PTY) LTD",
+        "handle": "TELECLOUD-PTY-LTD"
+    },
+    "328232": {
+        "country_code": "ZA",
+        "asn": "328232",
+        "description": "HERO TELECOMS (PTY) LTD",
+        "handle": "HX-SYSTEMS-AS"
+    },
+    "328234": {
+        "country_code": "ZA",
+        "asn": "328234",
+        "description": "Southey Holdings (Pty ) Ltd",
+        "handle": "SOUTHEY-HOLDINGS-AS"
+    },
+    "328237": {
+        "country_code": "ZA",
+        "asn": "328237",
+        "description": "Mega Max Distributors",
+        "handle": "MEGA-MAX-AS"
+    },
+    "328239": {
+        "country_code": "ZA",
+        "asn": "328239",
+        "description": "Crystal Web (Pty) Ltd",
+        "handle": "EVONET-AS"
+    },
+    "328241": {
+        "country_code": "ZA",
+        "asn": "328241",
+        "description": "EXMILE TECHNOLOGIES (PTY) LTD",
+        "handle": "EXMILE-AS"
+    },
+    "328242": {
+        "country_code": "ZA",
+        "asn": "328242",
+        "description": "IP Labs Communications (Pty) Ltd",
+        "handle": "IP-LABS-AS"
+    },
+    "328243": {
+        "country_code": "ZA",
+        "asn": "328243",
+        "description": "Root Technologies Of SA (PTY) LTD",
+        "handle": "ROOT-TECHNOLOGIES-AS"
+    },
+    "328246": {
+        "country_code": "ZA",
+        "asn": "328246",
+        "description": "Foschini Retail Group (Pty) Ltd",
+        "handle": "FOSCHINI-RETAIL-GROUP-AS"
+    },
+    "328254": {
+        "country_code": "ZA",
+        "asn": "328254",
+        "description": "Verdana Group Pty Ltd",
+        "handle": "VERDANA-GROUP-AS"
+    },
+    "328255": {
+        "country_code": "ZA",
+        "asn": "328255",
+        "description": "Infraplex (Pty) Ltd",
+        "handle": "INFRAPLEX-AS"
+    },
+    "328257": {
+        "country_code": "ZA",
+        "asn": "328257",
+        "description": "ASK Internet Technologies CC",
+        "handle": "ASK-INTERNET-TECHNOLOGIES"
+    },
+    "328260": {
+        "country_code": "ZA",
+        "asn": "328260",
+        "description": "Sportpesa [PTY] LTD",
+        "handle": "SPORTPESA"
+    },
+    "328262": {
+        "country_code": "ZA",
+        "asn": "328262",
+        "description": "Internet Uncapped",
+        "handle": "INTERNET-UNCAPPED"
+    },
+    "328266": {
+        "country_code": "ZA",
+        "asn": "328266",
+        "description": "Atomic (Pty) Ltd",
+        "handle": "ATOMIC-AS"
+    },
+    "328270": {
+        "country_code": "ZA",
+        "asn": "328270",
+        "description": "WTTX Communications (PTY) LTD",
+        "handle": "WTTX-COMMUNICATIONS-AS"
+    },
+    "328275": {
+        "country_code": "ZA",
+        "asn": "328275",
+        "description": "BDC Wireless Solutions CC",
+        "handle": "BWSC1-AS"
+    },
+    "328278": {
+        "country_code": "ZA",
+        "asn": "328278",
+        "description": "WiberSolutions (Pty) Ltd",
+        "handle": "WIBERSOLUTIONS-AS"
+    },
+    "328281": {
+        "country_code": "ZA",
+        "asn": "328281",
+        "description": "Audatex SA (Proprietary) Limited",
+        "handle": "AUDATEX-AS"
+    },
+    "328285": {
+        "country_code": "ZA",
+        "asn": "328285",
+        "description": "EDELNET CC",
+        "handle": "EDELNET-AS"
+    },
+    "328287": {
+        "country_code": "ZA",
+        "asn": "328287",
+        "description": "ALICOM (PTY) LTD",
+        "handle": "ALICOM-AS"
+    },
+    "328288": {
+        "country_code": "ZA",
+        "asn": "328288",
+        "description": "Belanet cc",
+        "handle": "BELANET-AS"
+    },
+    "328306": {
+        "country_code": "ZA",
+        "asn": "328306",
+        "description": "Avanti Communications South Africa (Pty) Ltd",
+        "handle": "AVANTI-AS"
+    },
+    "328312": {
+        "country_code": "ZA",
+        "asn": "328312",
+        "description": "Deloitte & Touche South Africa",
+        "handle": "DELOITTE-AS"
+    },
+    "328313": {
+        "country_code": "ZA",
+        "asn": "328313",
+        "description": "GVSC Communications (SA) (Pty) Ltd",
+        "handle": "GVSC-AS"
+    },
+    "328314": {
+        "country_code": "ZA",
+        "asn": "328314",
+        "description": "SMS Cellular Services",
+        "handle": "SMS-CELLULAR-AS"
+    },
+    "328315": {
+        "country_code": "ZA",
+        "asn": "328315",
+        "description": "Crisp Fibre (Pty) Ltd",
+        "handle": "CRISP-FIBRE"
+    },
+    "328317": {
+        "country_code": "ZA",
+        "asn": "328317",
+        "description": "AEROCOM BROADBAND SERVICES",
+        "handle": "AEROCOM-AS"
+    },
+    "328320": {
+        "country_code": "ZA",
+        "asn": "328320",
+        "description": "Kurlec Wireless (PTY) Ltd",
+        "handle": "KURLEC-AS"
+    },
+    "328323": {
+        "country_code": "ZA",
+        "asn": "328323",
+        "description": "Brilliant Telecommunications (Pty) Ltd",
+        "handle": "BRILLIANT-TELCO-AS"
+    },
+    "328327": {
+        "country_code": "ZA",
+        "asn": "328327",
+        "description": "ASAP Internet (Pty) LTD",
+        "handle": "ASAP-AS"
+    },
+    "328333": {
+        "country_code": "ZA",
+        "asn": "328333",
+        "description": "Fixed Mobile Telecommunications (Pty) LTD",
+        "handle": "FIXEDMOBILETELCO-AS"
+    },
+    "328334": {
+        "country_code": "ZA",
+        "asn": "328334",
+        "description": "The Phoenix Quest II cc",
+        "handle": "PHOENIXQUEST-AS"
+    },
+    "328335": {
+        "country_code": "ZA",
+        "asn": "328335",
+        "description": "Harmony Gold Mining Company Limited",
+        "handle": "HARMONYGOLD-AS"
+    },
+    "328336": {
+        "country_code": "ZA",
+        "asn": "328336",
+        "description": "Rosewill Trading 324",
+        "handle": "ROSEWILL-TRADING-AS"
+    },
+    "328337": {
+        "country_code": "ZA",
+        "asn": "328337",
+        "description": "Viva Telecoms cc",
+        "handle": "VIVATELECOMS-AS"
+    },
+    "328339": {
+        "country_code": "ZA",
+        "asn": "328339",
+        "description": "WANT THE FIBRE INTERNET",
+        "handle": "AS-2MINTERNETSOLUTIONS"
+    },
+    "328341": {
+        "country_code": "ZA",
+        "asn": "328341",
+        "description": "Capricom Networks",
+        "handle": "CAPRICOM-AS"
+    },
+    "328342": {
+        "country_code": "ZA",
+        "asn": "328342",
+        "description": "Naafi Help Desk",
+        "handle": "NAAFIHELPDESK-AS"
+    },
+    "328345": {
+        "country_code": "ZA",
+        "asn": "328345",
+        "description": "Dark Fibre Africa (Pty) Ltd",
+        "handle": "DARKFIBREAFRICA-AS"
+    },
+    "328346": {
+        "country_code": "ZA",
+        "asn": "328346",
+        "description": "Airtelecom",
+        "handle": "AIRTELECOM-AS"
+    },
+    "328347": {
+        "country_code": "ZA",
+        "asn": "328347",
+        "description": "No Barrier Communications",
+        "handle": "NOBARRIERCOMM-AS"
+    },
+    "328349": {
+        "country_code": "ZA",
+        "asn": "328349",
+        "description": "Nuwcom Wireless",
+        "handle": "LIDINOTRADING-AS"
+    },
+    "328350": {
+        "country_code": "ZA",
+        "asn": "328350",
+        "description": "Network & Computing Consultants (Pty) Ltd",
+        "handle": "NETWORKCOMPUTING-AS"
+    },
+    "328351": {
+        "country_code": "ZA",
+        "asn": "328351",
+        "description": "DK Wireless Internet (Pty) Ltd",
+        "handle": "DKWIRELESS-AS"
+    },
+    "328356": {
+        "country_code": "ZA",
+        "asn": "328356",
+        "description": "Intelys Technology Africa (Pty) Ltd",
+        "handle": "INTELYS-AS"
+    },
+    "328359": {
+        "country_code": "ZA",
+        "asn": "328359",
+        "description": "Gironet (PTY) LTD",
+        "handle": "GIRONET-AS"
+    },
+    "328360": {
+        "country_code": "ZA",
+        "asn": "328360",
+        "description": "Huge Connect (Pty) Ltd",
+        "handle": "HUGECONNECT-AS"
+    },
+    "328361": {
+        "country_code": "ZA",
+        "asn": "328361",
+        "description": "VOIZACOM (PTY) LTD",
+        "handle": "AXNET"
+    },
+    "328364": {
+        "country_code": "ZA",
+        "asn": "328364",
+        "description": "Host Africa (Pty) Ltd",
+        "handle": "HOST-AFRICA-AS"
+    },
+    "328365": {
+        "country_code": "ZA",
+        "asn": "328365",
+        "description": "Edge connect (pty) Ltd",
+        "handle": "EDGE-CONNECT"
+    },
+    "328366": {
+        "country_code": "ZA",
+        "asn": "328366",
+        "description": "FIRSTNET TECHNOLOGY SERVICES (PTY) LTD",
+        "handle": "FIRSTNETTECHNOLOGY-AS"
+    },
+    "328370": {
+        "country_code": "ZA",
+        "asn": "328370",
+        "description": "Blue Label Distribution (Pty) Ltd",
+        "handle": "BLUELABEL-AS"
+    },
+    "328371": {
+        "country_code": "ZA",
+        "asn": "328371",
+        "description": "PerfectWorx Consulting (Pty) Ltd",
+        "handle": "PERFECTWORX-AS"
+    },
+    "328373": {
+        "country_code": "ZA",
+        "asn": "328373",
+        "description": "Village Operator",
+        "handle": "VILLAGE-OPERATOR-AS"
+    },
+    "328374": {
+        "country_code": "ZA",
+        "asn": "328374",
+        "description": "The SPAR Group Ltd",
+        "handle": "SPAR-AS"
+    },
+    "328375": {
+        "country_code": "ZA",
+        "asn": "328375",
+        "description": "Vlocity Communications (pty) Ltd",
+        "handle": "VLOCITY-COMMUNICATIONS"
+    },
+    "328377": {
+        "country_code": "ZA",
+        "asn": "328377",
+        "description": "Internet Utilities Africa (PTY) LTD",
+        "handle": "INTERNET-UTILITIES-AFRICA-PTY-LTD"
+    },
+    "328384": {
+        "country_code": "ZA",
+        "asn": "328384",
+        "description": "ComX Networks (PTY) LTD",
+        "handle": "COMX-NETWORKS-AS"
+    },
+    "328386": {
+        "country_code": "ZA",
+        "asn": "328386",
+        "description": "Adnexus Celerity Networks (Proprietary) Limited",
+        "handle": "ADNEXUS-AS"
+    },
+    "328388": {
+        "country_code": "ZA",
+        "asn": "328388",
+        "description": "Internet NS (Pty) Ltd",
+        "handle": "INTERNET-SA"
+    },
+    "328391": {
+        "country_code": "ZA",
+        "asn": "328391",
+        "description": "Rocking Connect PTY (LTD)",
+        "handle": "ROCKING-CONNECT"
+    },
+    "328397": {
+        "country_code": "ZA",
+        "asn": "328397",
+        "description": "LUCKY CONNECT TECHNOLOGIES (PTY) LTD",
+        "handle": "LUCKY-CONNECT"
+    },
+    "328399": {
+        "country_code": "ZA",
+        "asn": "328399",
+        "description": "Vaal Networking Consultants (PTY) LTD",
+        "handle": "VAAL-NETWORKING-AS"
+    },
+    "328400": {
+        "country_code": "ZA",
+        "asn": "328400",
+        "description": "PowerCloud SP (PTY) LTD",
+        "handle": "POWERCLOUD-AS"
+    },
+    "328404": {
+        "country_code": "ZA",
+        "asn": "328404",
+        "description": "Multichoice Support Services (Pty) Ltd",
+        "handle": "MULTICHOICE-SUPPORT-SERVICES-AS"
+    },
+    "328409": {
+        "country_code": "ZA",
+        "asn": "328409",
+        "description": "HERO TELECOMS (PTY) LTD",
+        "handle": "ATCOMM-AS"
+    },
+    "328410": {
+        "country_code": "ZA",
+        "asn": "328410",
+        "description": "Frogfoot Networks",
+        "handle": "FROGFOOT-AS"
+    },
+    "328417": {
+        "country_code": "ZA",
+        "asn": "328417",
+        "description": "Tracker Connect (Pty) Ltd",
+        "handle": "TRACKER-CONNECT-AS"
+    },
+    "328418": {
+        "country_code": "ZA",
+        "asn": "328418",
+        "description": "Olena Trading cc",
+        "handle": "OLENA-TRADING-AS"
+    },
+    "328422": {
+        "country_code": "ZA",
+        "asn": "328422",
+        "description": "FFG Connection CC",
+        "handle": "FFG-CONNECTION"
+    },
+    "328423": {
+        "country_code": "ZA",
+        "asn": "328423",
+        "description": "Linux Tech",
+        "handle": "LINUX-TECH-AS"
+    },
+    "328426": {
+        "country_code": "ZA",
+        "asn": "328426",
+        "description": "Zonke Wifi Private Company",
+        "handle": "ZONKE-WIFI-AS"
+    },
+    "328431": {
+        "country_code": "ZA",
+        "asn": "328431",
+        "description": "Connected Space cc",
+        "handle": "CONNECTED-SPACE-AS"
+    },
+    "328434": {
+        "country_code": "ZA",
+        "asn": "328434",
+        "description": "Netovate (PTY) LTD",
+        "handle": "NETOVATE-LTD-AS"
+    },
+    "328437": {
+        "country_code": "ZA",
+        "asn": "328437",
+        "description": "Link-Up Wireless Pty Ltd",
+        "handle": "LINK-UP-WIRELESS-AS"
+    },
+    "328441": {
+        "country_code": "ZA",
+        "asn": "328441",
+        "description": "Your Communications Pty Ltd",
+        "handle": "YOUR-COMMUNICATIONS"
+    },
+    "328444": {
+        "country_code": "ZA",
+        "asn": "328444",
+        "description": "Wirelexx (Pty) Ltd",
+        "handle": "WIRELEXX-AS"
+    },
+    "328446": {
+        "country_code": "ZA",
+        "asn": "328446",
+        "description": "Open Access Technologies (Pty) Ltd",
+        "handle": "OPEN-ACCESS-TECHNOLOGIES-AS"
+    },
+    "328449": {
+        "country_code": "ZA",
+        "asn": "328449",
+        "description": "Teracom Communications",
+        "handle": "TERACOM-COMMUNICATIONS-AS"
+    },
+    "328450": {
+        "country_code": "ZA",
+        "asn": "328450",
+        "description": "F & G Telecommunications cc",
+        "handle": "FG-TELECOMMUNICATIONS-AS"
+    },
+    "328453": {
+        "country_code": "ZA",
+        "asn": "328453",
+        "description": "Web Africa Networks (Pty) Ltd",
+        "handle": "WEB-AFRICA-NETWORKS-AS"
+    },
+    "328456": {
+        "country_code": "ZA",
+        "asn": "328456",
+        "description": "Pattern Matched Technologies (Pty) Ltd",
+        "handle": "PATTERN-MATCHED-TECHNOLOGIES-AS"
+    },
+    "328461": {
+        "country_code": "ZA",
+        "asn": "328461",
+        "description": "Mossnet cc",
+        "handle": "MOSSNET-AS"
+    },
+    "328464": {
+        "country_code": "ZA",
+        "asn": "328464",
+        "description": "The Computer Shop Plett",
+        "handle": "TCS-WI-FI"
+    },
+    "328467": {
+        "country_code": "ZA",
+        "asn": "328467",
+        "description": "Suretel CC",
+        "handle": "SURETEL-AS"
+    },
+    "328468": {
+        "country_code": "ZA",
+        "asn": "328468",
+        "description": "Sunset Rose Investments (PTY) LTD",
+        "handle": "SUNSET-ROSE-INVESTMENTS-AS"
+    },
+    "328471": {
+        "country_code": "ZA",
+        "asn": "328471",
+        "description": "HERO TELECOMS (PTY) LTD",
+        "handle": "HERO-TELECOMS"
+    },
+    "328473": {
+        "country_code": "ZA",
+        "asn": "328473",
+        "description": "Be Broadband (PTY) LTD",
+        "handle": "BE-BROADBAND-AS"
+    },
+    "328474": {
+        "country_code": "ZA",
+        "asn": "328474",
+        "description": "Jebo Connect Pty Ltd",
+        "handle": "JEBO-CONNECT-AS"
+    },
+    "328480": {
+        "country_code": "ZA",
+        "asn": "328480",
+        "description": "Too Much Wifi",
+        "handle": "TOOMUCHWIFI"
+    },
+    "328483": {
+        "country_code": "ZA",
+        "asn": "328483",
+        "description": "Comput8 IT (Pty) Ltd",
+        "handle": "COMPUT8-IT-AS"
+    },
+    "328486": {
+        "country_code": "ZA",
+        "asn": "328486",
+        "description": "Old Mutual Life Assurance Company (South Africa) Limited",
+        "handle": "OLD-MUTUAL-LIFE-ASSURANCE"
+    },
+    "328487": {
+        "country_code": "ZA",
+        "asn": "328487",
+        "description": "BitCo Home Pty Ltd",
+        "handle": "BITCOHOME-AS"
+    },
+    "328492": {
+        "country_code": "ZA",
+        "asn": "328492",
+        "description": "Cartrack Technologies (Pty) Ltd",
+        "handle": "CARTRACK-TECHNOLOGIES-LTD-AS"
+    },
+    "328498": {
+        "country_code": "ZA",
+        "asn": "328498",
+        "description": "Enabling ICT Solutions (Pty) Ltd",
+        "handle": "ENABLING-ICT-SOLUTIONS"
+    },
+    "328501": {
+        "country_code": "ZA",
+        "asn": "328501",
+        "description": "PAYFAST (PTY) LTD",
+        "handle": "PAYGATE-AS"
+    },
+    "328505": {
+        "country_code": "ZA",
+        "asn": "328505",
+        "description": "City Lodge Hotels (Proprietary) Limited",
+        "handle": "CITY-LODGE-HOTELS"
+    },
+    "328507": {
+        "country_code": "ZA",
+        "asn": "328507",
+        "description": "Open Link Communications",
+        "handle": "OPEN-LINK-COMMUNICATION"
+    },
+    "328510": {
+        "country_code": "ZA",
+        "asn": "328510",
+        "description": "Ikeja Wireless (Pty) Ltd",
+        "handle": "IKEJA"
+    },
+    "328511": {
+        "country_code": "ZA",
+        "asn": "328511",
+        "description": "Shoprite Checkers (PTY) Ltd",
+        "handle": "SHOPRITE-CHECKERS"
+    },
+    "328512": {
+        "country_code": "ZA",
+        "asn": "328512",
+        "description": "Backspace Technologies (Pty) Ltd",
+        "handle": "BACKSPACE-TECHNOLOGIES"
+    },
+    "328513": {
+        "country_code": "ZA",
+        "asn": "328513",
+        "description": "KFML Holdings (PTY) Ltd",
+        "handle": "KFML-HOLDINGS"
+    },
+    "328517": {
+        "country_code": "ZA",
+        "asn": "328517",
+        "description": "Infinity Wireless",
+        "handle": "INFINITY-WIRELESS-AS"
+    },
+    "328518": {
+        "country_code": "ZA",
+        "asn": "328518",
+        "description": "FONTEL (PTY) LTD",
+        "handle": "FONTEL-LTD"
+    },
+    "328519": {
+        "country_code": "ZA",
+        "asn": "328519",
+        "description": "Globe com (Pty) Ltd",
+        "handle": "GLOBE-COM-PTY-LTD"
+    },
+    "328521": {
+        "country_code": "ZA",
+        "asn": "328521",
+        "description": "Wiselink Broadband",
+        "handle": "WISELINK-BROADBAND"
+    },
+    "328523": {
+        "country_code": "ZA",
+        "asn": "328523",
+        "description": "Enterprise Outsourcing Operations (Pty) Ltd",
+        "handle": "ENTERPRISE-OUTSOURCING"
+    },
+    "328524": {
+        "country_code": "ZA",
+        "asn": "328524",
+        "description": "Trackmatic Solutions (Pty) Ltd",
+        "handle": "TRACKMATIC-SOLUTIONS"
+    },
+    "328526": {
+        "country_code": "ZA",
+        "asn": "328526",
+        "description": "CloudFace Pty Ltd",
+        "handle": "CLOUDFACE-AS"
+    },
+    "328533": {
+        "country_code": "ZA",
+        "asn": "328533",
+        "description": "Fliber (Pty) Ltd",
+        "handle": "FLIBER-LTD"
+    },
+    "328536": {
+        "country_code": "ZA",
+        "asn": "328536",
+        "description": "Redstor Africa (PTY) Ltd",
+        "handle": "ATTIX5-AFRICA-LTD"
+    },
+    "328537": {
+        "country_code": "ZA",
+        "asn": "328537",
+        "description": "Super Group Trading (Pty) Limited",
+        "handle": "SUPER-GROUP-TRADING"
+    },
+    "328538": {
+        "country_code": "ZA",
+        "asn": "328538",
+        "description": "OCTOPI SMART SOLUTIONS (PTY) LTD",
+        "handle": "OCTOP-SMART-SOLUTIONS-AS"
+    },
+    "328544": {
+        "country_code": "ZA",
+        "asn": "328544",
+        "description": "Technical Support Solutions (Pty) Ltd",
+        "handle": "TECHNICAL-SUPPORT-SOLUTIONS-AS"
+    },
+    "328547": {
+        "country_code": "ZA",
+        "asn": "328547",
+        "description": "Devinity Trading PTY LTD",
+        "handle": "DEVINITY-AS"
+    },
+    "328548": {
+        "country_code": "ZA",
+        "asn": "328548",
+        "description": "TOUCHNET TELECOMMUNICATIONS CC",
+        "handle": "TOUCHNET-TELECOMMUNICATIONS-AS"
+    },
+    "328554": {
+        "country_code": "ZA",
+        "asn": "328554",
+        "description": "FAST SERVERS PTY LIMITED",
+        "handle": "FAST-SERVERS"
+    },
+    "328561": {
+        "country_code": "ZA",
+        "asn": "328561",
+        "description": "SIBANYE GOLD LTD",
+        "handle": "SIBANYE"
+    },
+    "328562": {
+        "country_code": "ZA",
+        "asn": "328562",
+        "description": "Swift Connect Private Company",
+        "handle": "SWIFT-CONNECT"
+    },
+    "328568": {
+        "country_code": "ZA",
+        "asn": "328568",
+        "description": "I-TEAM (Pty) Ltd",
+        "handle": "ITEAM"
+    },
+    "328575": {
+        "country_code": "ZA",
+        "asn": "328575",
+        "description": "SA Domain Internet Services cc",
+        "handle": "SA-DOMAIN-INTERNETSERVICES"
+    },
+    "328576": {
+        "country_code": "ZA",
+        "asn": "328576",
+        "description": "Surf4Life Pty (LTD)",
+        "handle": "TELCOEXCHANGE"
+    },
+    "328583": {
+        "country_code": "ZA",
+        "asn": "328583",
+        "description": "CRAZYWEB TECH (PTY) LTD",
+        "handle": "CRAZYWEB-TECH"
+    },
+    "328589": {
+        "country_code": "ZA",
+        "asn": "328589",
+        "description": "IP Telecom SA (PTY) Ltd",
+        "handle": "IPTELECOM-AS"
+    },
+    "328596": {
+        "country_code": "ZA",
+        "asn": "328596",
+        "description": "Mind the Speed (PTY) Ltd",
+        "handle": "MIND-THE-SPEED-AS"
+    },
+    "328598": {
+        "country_code": "ZA",
+        "asn": "328598",
+        "description": "Ingululu Communications",
+        "handle": "INGULULU-COMMUNICATIONS"
+    },
+    "328608": {
+        "country_code": "ZA",
+        "asn": "328608",
+        "description": "Africa on Cloud",
+        "handle": "AFRICA-ON-CLOUD-AS"
+    },
+    "328612": {
+        "country_code": "ZA",
+        "asn": "328612",
+        "description": "Zarclear (Pty) Ltd",
+        "handle": "ZARCLEAR-LTD"
+    },
+    "328622": {
+        "country_code": "ZA",
+        "asn": "328622",
+        "description": "MHYAS HOLDINGS (PTY) LTD",
+        "handle": "MHYAS-HOLDINGS-AS"
+    },
+    "328624": {
+        "country_code": "ZA",
+        "asn": "328624",
+        "description": "VDB Communications (Pty) Ltd",
+        "handle": "VDB-COMMUNICATIONS-LTD"
+    },
+    "328631": {
+        "country_code": "ZA",
+        "asn": "328631",
+        "description": "TWC Hosting CC",
+        "handle": "BALLITOISP"
+    },
+    "328632": {
+        "country_code": "ZA",
+        "asn": "328632",
+        "description": "RTS Net Pty Ltd",
+        "handle": "RTS-NET"
+    },
+    "328633": {
+        "country_code": "ZA",
+        "asn": "328633",
+        "description": "MikroTikSA Networks CC",
+        "handle": "MIKROTIKSA-NETWORKS"
+    },
+    "328638": {
+        "country_code": "ZA",
+        "asn": "328638",
+        "description": "Letaba Networks (Pty) Ltd",
+        "handle": "LETABANETWORKS"
+    },
+    "328640": {
+        "country_code": "ZA",
+        "asn": "328640",
+        "description": "Kaltrade 470 (Pty) Ltd",
+        "handle": "KALTRADE-470-AS"
+    },
+    "328641": {
+        "country_code": "ZA",
+        "asn": "328641",
+        "description": "Open Fibre (Pty) Ltd",
+        "handle": "OPEN-FIBRE"
+    },
+    "328643": {
+        "country_code": "ZA",
+        "asn": "328643",
+        "description": "Masstores (Proprietary) Limited",
+        "handle": "MASSTORES-AS"
+    },
+    "328644": {
+        "country_code": "ZA",
+        "asn": "328644",
+        "description": "World Sports Betting Services (Pty) Ltd",
+        "handle": "WORLD-SPORTS-BETTING"
+    },
+    "328651": {
+        "country_code": "ZA",
+        "asn": "328651",
+        "description": "iVeri Payment Technologies (Pty) Ltd",
+        "handle": "IVERIPAYMENTTECHNOLOGIES"
+    },
+    "328656": {
+        "country_code": "ZA",
+        "asn": "328656",
+        "description": "Emalangeni Technologies (Pty) Ltd",
+        "handle": "EMALANGENI-TECHNOLOGIES-AS"
+    },
+    "328657": {
+        "country_code": "ZA",
+        "asn": "328657",
+        "description": "Old Mutual Insure Limited",
+        "handle": "OLD-MUTUAL-INSURE-AS"
+    },
+    "328660": {
+        "country_code": "ZA",
+        "asn": "328660",
+        "description": "Davo Corp CC",
+        "handle": "DAVOCORP-AS"
+    },
+    "328661": {
+        "country_code": "ZA",
+        "asn": "328661",
+        "description": "C-Way Computers CC",
+        "handle": "C-WAY-COMPUTERS"
+    },
+    "328670": {
+        "country_code": "ZA",
+        "asn": "328670",
+        "description": "Nowtech PTY Ltd",
+        "handle": "NOWTECH-PTY"
+    },
+    "328672": {
+        "country_code": "ZA",
+        "asn": "328672",
+        "description": "Silicon Sky Consulting (PTY) LTD",
+        "handle": "SILICON-SKY-CONSULTING-AS"
+    },
+    "328674": {
+        "country_code": "ZA",
+        "asn": "328674",
+        "description": "Mzansi ComNet",
+        "handle": "MZANSICOMNET"
+    },
+    "328675": {
+        "country_code": "ZA",
+        "asn": "328675",
+        "description": "Product Merchandiser",
+        "handle": "PRODUCT-MERCHANDISER"
+    },
+    "328677": {
+        "country_code": "ZA",
+        "asn": "328677",
+        "description": "KorCom (Pty) Ltd",
+        "handle": "KORCOM-AS"
+    },
+    "328691": {
+        "country_code": "ZA",
+        "asn": "328691",
+        "description": "Global Network Systems (PTY) LTD",
+        "handle": "GLOBAL-NETWORK-SYSTEMS"
+    },
+    "328693": {
+        "country_code": "ZA",
+        "asn": "328693",
+        "description": "Ifowuni (PTY) Ltd",
+        "handle": "IFOWUNI-PTY"
+    },
+    "328694": {
+        "country_code": "ZA",
+        "asn": "328694",
+        "description": "IMS Ventures",
+        "handle": "IMS-VENTURES"
+    },
+    "328695": {
+        "country_code": "ZA",
+        "asn": "328695",
+        "description": "Witronics Pty Ltd",
+        "handle": "WITRONICS-PTY"
+    },
+    "328698": {
+        "country_code": "ZA",
+        "asn": "328698",
+        "description": "ZA Gas CC",
+        "handle": "ZA-GAS-CC"
+    },
+    "328704": {
+        "country_code": "ZA",
+        "asn": "328704",
+        "description": "Wifiza Telecoms cc",
+        "handle": "WIFIZA-TELECOMS"
+    },
+    "328706": {
+        "country_code": "ZA",
+        "asn": "328706",
+        "description": "IO Tech Manufacturing (Pty) Ltd",
+        "handle": "IO-TECH"
+    },
+    "328710": {
+        "country_code": "ZA",
+        "asn": "328710",
+        "description": "Orbicom pty ltd",
+        "handle": "ORBICOM-AS"
+    },
+    "328711": {
+        "country_code": "ZA",
+        "asn": "328711",
+        "description": "Intaweb (Pty) Ltd.",
+        "handle": "INTAWEB"
+    },
+    "328712": {
+        "country_code": "ZA",
+        "asn": "328712",
+        "description": "Keter Technologies (Pty) Ltd",
+        "handle": "KETER-TECHNOLOGIES"
+    },
+    "328713": {
+        "country_code": "ZA",
+        "asn": "328713",
+        "description": "Tele Internet (PTY) LTD",
+        "handle": "TELE-INTERNET"
+    },
+    "328714": {
+        "country_code": "ZA",
+        "asn": "328714",
+        "description": "Lucert Technologies Pty Ltd.",
+        "handle": "LUCERT-TECH"
+    },
+    "328715": {
+        "country_code": "ZA",
+        "asn": "328715",
+        "description": "ZIPHER WIFI (PTY) LTD",
+        "handle": "ZIPHER-WIFI-AS"
+    },
+    "328719": {
+        "country_code": "ZA",
+        "asn": "328719",
+        "description": "Wired Tech Pty Ltd",
+        "handle": "WIRED-TECH-AS"
+    },
+    "328720": {
+        "country_code": "ZA",
+        "asn": "328720",
+        "description": "Xpedite Systems (Pty) Ltd",
+        "handle": "NEROSPEC-NETWORKS"
+    },
+    "328723": {
+        "country_code": "ZA",
+        "asn": "328723",
+        "description": "Telasera Technologies PTY LTD",
+        "handle": "TELASERA-TECHNOLOGIES"
+    },
+    "328730": {
+        "country_code": "ZA",
+        "asn": "328730",
+        "description": "Dimension 5 Internet Solutions (Pty) Ltd",
+        "handle": "DIMENSION-5-AS"
+    },
+    "328732": {
+        "country_code": "ZA",
+        "asn": "328732",
+        "description": "Krypton Web (Pty) Ltd",
+        "handle": "KRYPTON-WEB"
+    },
+    "328735": {
+        "country_code": "ZA",
+        "asn": "328735",
+        "description": "Fibre Geeks Pty Ltd",
+        "handle": "FIBRE-GEEKS-AS"
+    },
+    "328736": {
+        "country_code": "ZA",
+        "asn": "328736",
+        "description": "MPACT OPERATIONS (PTY) LTD.",
+        "handle": "MPACT-OPERATIONS"
+    },
+    "328744": {
+        "country_code": "ZA",
+        "asn": "328744",
+        "description": "Platinum Broadband",
+        "handle": "PLATINUM-BROADBAND-AS"
+    },
+    "328745": {
+        "country_code": "ZA",
+        "asn": "328745",
+        "description": "URBAN WAVE INTERNET SOLUTIONS",
+        "handle": "URBAN-WAVE-INTERNET-SOLUTIONS"
+    },
+    "328747": {
+        "country_code": "ZA",
+        "asn": "328747",
+        "description": "WAN 4 U cc",
+        "handle": "WAN4U"
+    },
+    "328748": {
+        "country_code": "ZA",
+        "asn": "328748",
+        "description": "Agile Solutions Provider (PTY) LTD",
+        "handle": "AGILE-SOLUTIONS-AS"
+    },
+    "328749": {
+        "country_code": "ZA",
+        "asn": "328749",
+        "description": "Triqa Wifi",
+        "handle": "TRIQA-WIFI"
+    },
+    "328750": {
+        "country_code": "ZA",
+        "asn": "328750",
+        "description": "Access Technology Consultants (PTY) LTD",
+        "handle": "ACCESS-TECHNOLOGY-CONSULTANTS"
+    },
+    "328760": {
+        "country_code": "ZA",
+        "asn": "328760",
+        "description": "ZTEL PTY LTD",
+        "handle": "ZTEL-AS"
+    },
+    "328761": {
+        "country_code": "ZA",
+        "asn": "328761",
+        "description": "Garnaal Beleggings CC",
+        "handle": "GARNAAL-AS"
+    },
+    "328763": {
+        "country_code": "ZA",
+        "asn": "328763",
+        "description": "Crimson Moon Trading",
+        "handle": "CRIMSON-MOON-TRADING"
+    },
+    "328767": {
+        "country_code": "ZA",
+        "asn": "328767",
+        "description": "Wiza Solutions Pty Ltd",
+        "handle": "WIZA-SOLUTIONS"
+    },
+    "328772": {
+        "country_code": "ZA",
+        "asn": "328772",
+        "description": "Momentum Metropolitan Life Ltd",
+        "handle": "MOMENTUM-METROPOLITAN-LIFE-AS"
+    },
+    "328774": {
+        "country_code": "ZA",
+        "asn": "328774",
+        "description": "VOIZACOM (PTY) LTD",
+        "handle": "VOIZACOM-ISP"
+    },
+    "328777": {
+        "country_code": "ZA",
+        "asn": "328777",
+        "description": "LIMPO WIFI (PTY) LTD",
+        "handle": "LIMPO-WIFI"
+    },
+    "328778": {
+        "country_code": "ZA",
+        "asn": "328778",
+        "description": "Star Network Marketing Services Company (Proprietary) Limited",
+        "handle": "STAR-NETWORK-MARKETING"
+    },
+    "328785": {
+        "country_code": "ZA",
+        "asn": "328785",
+        "description": "Gigawave Solutions PTY LTD",
+        "handle": "GIGAWAVE-SOLUTIONS"
+    },
+    "328787": {
+        "country_code": "ZA",
+        "asn": "328787",
+        "description": "China Mobile International South Africa (Pty) Ltd",
+        "handle": "CHINA-MOBILE-INTERNATIONAL"
+    },
+    "328788": {
+        "country_code": "ZA",
+        "asn": "328788",
+        "description": "Q-Kon PTY LTD",
+        "handle": "Q-KON"
+    },
+    "328790": {
+        "country_code": "ZA",
+        "asn": "328790",
+        "description": "Opentel Technologies (PTY) LTD",
+        "handle": "OTL-AS"
+    },
+    "328791": {
+        "country_code": "ZA",
+        "asn": "328791",
+        "description": "Mr. Price Group Limited",
+        "handle": "MR-PRICE-GROUP"
+    },
+    "328795": {
+        "country_code": "ZA",
+        "asn": "328795",
+        "description": "AdNotes (Pty) Ltd",
+        "handle": "ADNOTES"
+    },
+    "328798": {
+        "country_code": "ZA",
+        "asn": "328798",
+        "description": "InsideData PTY (Ltd)",
+        "handle": "INSIDEDATA-AS"
+    },
+    "328802": {
+        "country_code": "ZA",
+        "asn": "328802",
+        "description": "Khula Tech Solutions",
+        "handle": "KHULA-TECH-AS"
+    },
+    "328803": {
+        "country_code": "ZA",
+        "asn": "328803",
+        "description": "Radiospoor Welkom (Pty) Ltd",
+        "handle": "RW-AS"
+    },
+    "328806": {
+        "country_code": "ZA",
+        "asn": "328806",
+        "description": "We Do Wireless (Pty) Ltd",
+        "handle": "WDWL-AS"
+    },
+    "328807": {
+        "country_code": "ZA",
+        "asn": "328807",
+        "description": "FedEx Express South Africa (Pty) Ltd",
+        "handle": "FEDEX-AS"
+    },
+    "328810": {
+        "country_code": "ZA",
+        "asn": "328810",
+        "description": "Techwood Trading (Pty) Ltd.",
+        "handle": "TECHWOOD-AS"
+    },
+    "328816": {
+        "country_code": "ZA",
+        "asn": "328816",
+        "description": "ATS All Technology Solutions (Pty) Ltd",
+        "handle": "ATS-AS"
+    },
+    "328818": {
+        "country_code": "ZA",
+        "asn": "328818",
+        "description": "CASTLEROCK MANAGED IT SERVICES COMPANY (PTY) LTD",
+        "handle": "CASTLEROCK-AS"
+    },
+    "328819": {
+        "country_code": "ZA",
+        "asn": "328819",
+        "description": "Bluecentrix PTY LTD",
+        "handle": "BPL-AS"
+    },
+    "328820": {
+        "country_code": "ZA",
+        "asn": "328820",
+        "description": "TF TELECOMS",
+        "handle": "TF-TELECOM-AS"
+    },
+    "328822": {
+        "country_code": "ZA",
+        "asn": "328822",
+        "description": "Yooko Technologies",
+        "handle": "YT-AS"
+    },
+    "328826": {
+        "country_code": "ZA",
+        "asn": "328826",
+        "description": "Jumbo Technologies PTY LTD",
+        "handle": "JUMBO-TECHNOLOGIES"
+    },
+    "328829": {
+        "country_code": "ZA",
+        "asn": "328829",
+        "description": "Vumatel Pty Ltd",
+        "handle": "VUMATEL-AS"
+    },
+    "328830": {
+        "country_code": "ZA",
+        "asn": "328830",
+        "description": "Xpand IT (Pty) Ltd",
+        "handle": "XPAND-AS"
+    },
+    "328832": {
+        "country_code": "ZA",
+        "asn": "328832",
+        "description": "Network Platforms (PTY) LTD",
+        "handle": "NETWORK-PLATFORMS-INTERNATIONAL"
+    },
+    "328837": {
+        "country_code": "ZA",
+        "asn": "328837",
+        "description": "VTS Connect Pty Ltd",
+        "handle": "VTS-CONNECT"
+    },
+    "328839": {
+        "country_code": "ZA",
+        "asn": "328839",
+        "description": "Silver Solutions 1234",
+        "handle": "SILVER-SOLUTIONS"
+    },
+    "328841": {
+        "country_code": "ZA",
+        "asn": "328841",
+        "description": "Coleso Legal Technologies (Pty) Ltd",
+        "handle": "COLESO"
+    },
+    "328843": {
+        "country_code": "ZA",
+        "asn": "328843",
+        "description": "South Coast Fibre (pty) LTD",
+        "handle": "SOUTHCOAST-AS"
+    },
+    "328848": {
+        "country_code": "ZA",
+        "asn": "328848",
+        "description": "Soepa Soap Vervaardigers CC",
+        "handle": "SSVC-AS"
+    },
+    "328855": {
+        "country_code": "ZA",
+        "asn": "328855",
+        "description": "NCW (Pty) Ltd",
+        "handle": "NCW-LTD"
+    },
+    "328863": {
+        "country_code": "ZA",
+        "asn": "328863",
+        "description": "Virtual Spot Internet cafe cc",
+        "handle": "VSIC-AS"
+    },
+    "328868": {
+        "country_code": "ZA",
+        "asn": "328868",
+        "description": "Spearhead Sales (Pty) Ltd",
+        "handle": "SSL-AS"
+    },
+    "328870": {
+        "country_code": "ZA",
+        "asn": "328870",
+        "description": "SynBurst (Pty) Ltd",
+        "handle": "SYNBURST-AS"
+    },
+    "328871": {
+        "country_code": "ZA",
+        "asn": "328871",
+        "description": "AFRIHOST SP (PTY) LTD",
+        "handle": "AFRIHOST-SP"
+    },
+    "328872": {
+        "country_code": "ZA",
+        "asn": "328872",
+        "description": "Sonke Telecommunications (Pty) Ltd",
+        "handle": "SONKE-TEL-AS"
+    },
+    "328874": {
+        "country_code": "ZA",
+        "asn": "328874",
+        "description": "GXQ IT Solutions (Pty) Ltd",
+        "handle": "GTSL-AS"
+    },
+    "328882": {
+        "country_code": "ZA",
+        "asn": "328882",
+        "description": "Sahdsoft Technologies CC",
+        "handle": "SAHDSOFT-AS"
+    },
+    "328884": {
+        "country_code": "ZA",
+        "asn": "328884",
+        "description": "BLUE ITS BUSINESS SOLUTIONS (PTY) LTD",
+        "handle": "BIBS-AS"
+    },
+    "328888": {
+        "country_code": "ZA",
+        "asn": "328888",
+        "description": "ORCA TECHNOLOGIES (PTY) LTD",
+        "handle": "ORCA-TECHNOLOGIES-AS"
+    },
+    "328889": {
+        "country_code": "ZA",
+        "asn": "328889",
+        "description": "MODEM COMPUTER SERVICES (PTY) LTD",
+        "handle": "MCS-ITNT-AS"
+    },
+    "328894": {
+        "country_code": "ZA",
+        "asn": "328894",
+        "description": "C Steinweg Bridge Pty Ltd",
+        "handle": "CSBP-AS"
+    },
+    "328900": {
+        "country_code": "ZA",
+        "asn": "328900",
+        "description": "Takealot Online RF (Pty) Ltd",
+        "handle": "TORL-AS"
+    },
+    "328902": {
+        "country_code": "ZA",
+        "asn": "328902",
+        "description": "Q LINK Holdings (Pty) Ltd",
+        "handle": "QLHL-AS"
+    },
+    "328910": {
+        "country_code": "ZA",
+        "asn": "328910",
+        "description": "Devboks",
+        "handle": "DEVBOKS-AS"
+    },
+    "328911": {
+        "country_code": "ZA",
+        "asn": "328911",
+        "description": "Net4 Telecoms",
+        "handle": "NET4TELECOM-AS"
+    },
+    "328912": {
+        "country_code": "ZA",
+        "asn": "328912",
+        "description": "Mpu Communications (Pty) Ltd",
+        "handle": "MCL-AS"
+    },
+    "328915": {
+        "country_code": "ZA",
+        "asn": "328915",
+        "description": "MANN IT (PTY) LTD",
+        "handle": "MANN-IT-AS"
+    },
+    "328916": {
+        "country_code": "ZA",
+        "asn": "328916",
+        "description": "MUBVUMELA CORPORATION PTY LTD",
+        "handle": "MCPL-AS"
+    },
+    "328917": {
+        "country_code": "ZA",
+        "asn": "328917",
+        "description": "Sonic Computers & Wi-Fi cc",
+        "handle": "SONIC"
+    },
+    "328925": {
+        "country_code": "ZA",
+        "asn": "328925",
+        "description": "VENTURE INTERNET HOLDINGS",
+        "handle": "VENTURE-INTERNET"
+    },
+    "328929": {
+        "country_code": "ZA",
+        "asn": "328929",
+        "description": "Global Sense Pty Ltd",
+        "handle": "GSPL-AS"
+    },
+    "328931": {
+        "country_code": "ZA",
+        "asn": "328931",
+        "description": "WirelessONE",
+        "handle": "WIRELESSONE"
+    },
+    "328933": {
+        "country_code": "ZA",
+        "asn": "328933",
+        "description": "Intrasurf Broadband cc",
+        "handle": "IBC-AS"
+    },
+    "328934": {
+        "country_code": "ZA",
+        "asn": "328934",
+        "description": "Silkway Solutions (Pty) Ltd",
+        "handle": "SSL6-AS"
+    },
+    "328935": {
+        "country_code": "ZA",
+        "asn": "328935",
+        "description": "Pres Connect",
+        "handle": "PC6-AS"
+    },
+    "328942": {
+        "country_code": "ZA",
+        "asn": "328942",
+        "description": "IMVULA ITECHNOLOGIES (PTY) LTD",
+        "handle": "IIL3-AS"
+    },
+    "328946": {
+        "country_code": "ZA",
+        "asn": "328946",
+        "description": "Firmlinx (Pty) Ltd",
+        "handle": "FL8-AS"
+    },
+    "328947": {
+        "country_code": "ZA",
+        "asn": "328947",
+        "description": "Elu Investments Limited (Incorporated in Ireland) External Profit Company",
+        "handle": "ACORN-BROADBAND"
+    },
+    "328948": {
+        "country_code": "ZA",
+        "asn": "328948",
+        "description": "NETELLIGENT CONSULTING cc",
+        "handle": "NCC3-AS"
+    },
+    "328952": {
+        "country_code": "ZA",
+        "asn": "328952",
+        "description": "Bitconnect Pty Ltd",
+        "handle": "BITCONNECT"
+    },
+    "328961": {
+        "country_code": "ZA",
+        "asn": "328961",
+        "description": "NET99 (PTY) LTD",
+        "handle": "NET99"
+    },
+    "328962": {
+        "country_code": "ZA",
+        "asn": "328962",
+        "description": "Watchtower Bible and Tract Society of South Africa",
+        "handle": "JWAFRINIC-AS"
+    },
+    "328963": {
+        "country_code": "ZA",
+        "asn": "328963",
+        "description": "Werners World of Wireless",
+        "handle": "WOW"
+    },
+    "328964": {
+        "country_code": "ZA",
+        "asn": "328964",
+        "description": "Insight Actuarial Solutions (Pty) Ltd",
+        "handle": "INSIGHTZA-AS"
+    },
+    "328966": {
+        "country_code": "ZA",
+        "asn": "328966",
+        "description": "Echo 45 Trading (Pty) Ltd",
+        "handle": "SOFTPHONEVIP-AS"
+    },
+    "328968": {
+        "country_code": "ZA",
+        "asn": "328968",
+        "description": "Deloitte & Touche South Africa",
+        "handle": "DELOITTE-AS"
+    },
+    "328970": {
+        "country_code": "ZA",
+        "asn": "328970",
+        "description": "CloudGistics",
+        "handle": "CLOUDGISTICS"
+    },
+    "328973": {
+        "country_code": "ZA",
+        "asn": "328973",
+        "description": "Future Fibre Installations (Pty) Ltd",
+        "handle": "FUTUREFIBRE-INSTALLATIONS-AS"
+    },
+    "328974": {
+        "country_code": "ZA",
+        "asn": "328974",
+        "description": "Datonet (Pty) Ltd",
+        "handle": "DATONET-AS"
+    },
+    "328985": {
+        "country_code": "ZA",
+        "asn": "328985",
+        "description": "Khulani Office Solutions (Pty) Ltd",
+        "handle": "KOSL1-AS"
+    },
+    "328991": {
+        "country_code": "ZA",
+        "asn": "328991",
+        "description": "IronTree Internet Services",
+        "handle": "IRONTREE"
+    },
+    "329012": {
+        "country_code": "ZA",
+        "asn": "329012",
+        "description": "Motus Corporation (Pty) Ltd",
+        "handle": "MCL8-AS"
+    },
+    "329016": {
+        "country_code": "ZA",
+        "asn": "329016",
+        "description": "Adumo Technologies (Pty) Ltd",
+        "handle": "IPAP1-AS"
+    },
+    "329018": {
+        "country_code": "ZA",
+        "asn": "329018",
+        "description": "ONEX SA (PTY) LTD",
+        "handle": "ONEX-SA"
+    },
+    "329028": {
+        "country_code": "ZA",
+        "asn": "329028",
+        "description": "Rapid Networks (Pty) Ltd",
+        "handle": "RNL1-AS"
+    },
+    "329032": {
+        "country_code": "ZA",
+        "asn": "329032",
+        "description": "Mdantsane Mobile",
+        "handle": "MM1-AS"
+    },
+    "329036": {
+        "country_code": "ZA",
+        "asn": "329036",
+        "description": "The Expert Company (Pty) Ltd",
+        "handle": "TECL1-AS"
+    },
+    "329038": {
+        "country_code": "ZA",
+        "asn": "329038",
+        "description": "WELINK HOLDINGS (PTY) LTD",
+        "handle": "WHL1-AS"
+    },
+    "329039": {
+        "country_code": "ZA",
+        "asn": "329039",
+        "description": "LINK CONNECT SERVICES (PTY) LTD",
+        "handle": "LINK-CONNECT-SERVICES-PTY-LTD"
+    },
+    "329042": {
+        "country_code": "ZA",
+        "asn": "329042",
+        "description": "VAIMO ECOMMERCE SERVICES (PTY) LTD",
+        "handle": "VAIMOSA-AS"
+    },
+    "329043": {
+        "country_code": "ZA",
+        "asn": "329043",
+        "description": "NetSat Communications (PTY) LTD",
+        "handle": "NCL5-AS"
+    },
+    "329045": {
+        "country_code": "ZA",
+        "asn": "329045",
+        "description": "Ilitha Infrastructure (Pty) Ltd",
+        "handle": "ILITHA-INFRASTRUCTURE"
+    },
+    "329046": {
+        "country_code": "ZA",
+        "asn": "329046",
+        "description": "CFM WIRELESS (PTY) LTD",
+        "handle": "CFM-WIRELESS"
+    },
+    "329047": {
+        "country_code": "ZA",
+        "asn": "329047",
+        "description": "Poynting Delta",
+        "handle": "PD1-AS"
+    },
+    "329049": {
+        "country_code": "ZA",
+        "asn": "329049",
+        "description": "Ring a Nerd cc",
+        "handle": "RINGO-AS"
+    },
+    "329053": {
+        "country_code": "ZA",
+        "asn": "329053",
+        "description": "QSupport Cloud (Pty) Ltd",
+        "handle": "QCL1-AS"
+    },
+    "329058": {
+        "country_code": "ZA",
+        "asn": "329058",
+        "description": "INFINITY CONNECT (PTY) LTD",
+        "handle": "ICL7-AS"
+    },
+    "329061": {
+        "country_code": "ZA",
+        "asn": "329061",
+        "description": "LIGHTHOUSE FIBRE (PTY) LTD",
+        "handle": "LFL1-AS"
+    },
+    "329062": {
+        "country_code": "ZA",
+        "asn": "329062",
+        "description": "Baremetal Computer Traders",
+        "handle": "BCT2-AS"
+    },
+    "329063": {
+        "country_code": "ZA",
+        "asn": "329063",
+        "description": "Flex Serve IT (Pty) Ltd",
+        "handle": "FSIL1-AS"
+    },
+    "329064": {
+        "country_code": "ZA",
+        "asn": "329064",
+        "description": "Maru T (PTY) LTD",
+        "handle": "MTL11-AS"
+    },
+    "329068": {
+        "country_code": "ZA",
+        "asn": "329068",
+        "description": "BET Software (Pty) Ltd",
+        "handle": "BSL1-AS"
+    },
+    "329070": {
+        "country_code": "ZA",
+        "asn": "329070",
+        "description": "DIPLOMAT COMMUNICATIONS (PTY) LTD",
+        "handle": "DCL9-AS"
+    },
+    "329075": {
+        "country_code": "ZA",
+        "asn": "329075",
+        "description": "Transnet Limited",
+        "handle": "TL16-AS"
+    },
+    "329080": {
+        "country_code": "ZA",
+        "asn": "329080",
+        "description": "Centracom",
+        "handle": "CENTRACOM-2"
+    },
+    "329081": {
+        "country_code": "ZA",
+        "asn": "329081",
+        "description": "Centracom",
+        "handle": "CENTRACOM-2"
+    },
+    "329084": {
+        "country_code": "ZA",
+        "asn": "329084",
+        "description": "Global Platinum Solutions (Pty) Ltd",
+        "handle": "GPSL2-AS"
+    },
+    "329089": {
+        "country_code": "ZA",
+        "asn": "329089",
+        "description": "Boost Networks",
+        "handle": "BN2-AS"
+    },
+    "329091": {
+        "country_code": "ZA",
+        "asn": "329091",
+        "description": "Experian South Africa (Proprietary) Limited",
+        "handle": "EXPERIAN-JHB"
+    },
+    "329097": {
+        "country_code": "ZA",
+        "asn": "329097",
+        "description": "SI Futures (Pty) Ltd",
+        "handle": "SFL1-AS"
+    },
+    "329098": {
+        "country_code": "ZA",
+        "asn": "329098",
+        "description": "Intech Business Solutions (Pty) Ltd",
+        "handle": "INTECH-BUSINESS-SOLUTIONS"
+    },
+    "329102": {
+        "country_code": "ZA",
+        "asn": "329102",
+        "description": "Intellicomms Pty Limited",
+        "handle": "IPL5-AS"
+    },
+    "329106": {
+        "country_code": "ZA",
+        "asn": "329106",
+        "description": "CCI SOUTH AFRICA (PTY) LTD",
+        "handle": "CSAL2-AS"
+    },
+    "329112": {
+        "country_code": "ZA",
+        "asn": "329112",
+        "description": "Upstream Connect (Pty) Ltd",
+        "handle": "UPSTREAM-CONNECT"
+    },
+    "329113": {
+        "country_code": "ZA",
+        "asn": "329113",
+        "description": "ARC International Telecoms",
+        "handle": "AIT1-AS"
+    },
+    "329117": {
+        "country_code": "ZA",
+        "asn": "329117",
+        "description": "Apex Fund Services South Africa Limited",
+        "handle": "MAITLAND"
+    },
+    "329121": {
+        "country_code": "ZA",
+        "asn": "329121",
+        "description": "Mzanzi Lisetta Media and Printing (Pty) Ltd",
+        "handle": "MLMA1-AS"
+    },
+    "329122": {
+        "country_code": "ZA",
+        "asn": "329122",
+        "description": "FiberFly PTY Ltd",
+        "handle": "FIBERFLY"
+    },
+    "329124": {
+        "country_code": "ZA",
+        "asn": "329124",
+        "description": "True Technologies cc",
+        "handle": "TTC3-AS"
+    },
+    "329125": {
+        "country_code": "ZA",
+        "asn": "329125",
+        "description": "Netmetrix",
+        "handle": "NA31-AS"
+    },
+    "329126": {
+        "country_code": "ZA",
+        "asn": "329126",
+        "description": "IIP1 Pty Ltd",
+        "handle": "IIP-AS"
+    },
+    "329133": {
+        "country_code": "ZA",
+        "asn": "329133",
+        "description": "East London Industrial Development Zone SOC LTD",
+        "handle": "ELID1-AS"
+    },
+    "329136": {
+        "country_code": "ZA",
+        "asn": "329136",
+        "description": "TRADESWITCH (PTY) LTD",
+        "handle": "TL17-AS"
+    },
+    "329139": {
+        "country_code": "ZA",
+        "asn": "329139",
+        "description": "Mthinte Communication Pty Ltd",
+        "handle": "MCPL2-AS"
+    },
+    "329143": {
+        "country_code": "ZA",
+        "asn": "329143",
+        "description": "Limpopo Connexion SOC Ltd",
+        "handle": "LCSL2-AS"
+    },
+    "329144": {
+        "country_code": "ZA",
+        "asn": "329144",
+        "description": "EDGETECHIT CC",
+        "handle": "EDGETECH"
+    },
+    "329147": {
+        "country_code": "ZA",
+        "asn": "329147",
+        "description": "WIDE WEBHOSTING NETWORK (PTY) LTD",
+        "handle": "WWNL2-AS"
+    },
+    "329149": {
+        "country_code": "ZA",
+        "asn": "329149",
+        "description": "Zecaspace (PTY) Ltd",
+        "handle": "ZL6-AS"
+    },
+    "329151": {
+        "country_code": "ZA",
+        "asn": "329151",
+        "description": "MR Price Group Limited",
+        "handle": "MR-PRICE-GROUP"
+    },
+    "329153": {
+        "country_code": "ZA",
+        "asn": "329153",
+        "description": "ISWCORP (PTY) LTD",
+        "handle": "SWDCONNECT-AS"
+    },
+    "329159": {
+        "country_code": "ZA",
+        "asn": "329159",
+        "description": "TechTribe IT (Pty) Ltd",
+        "handle": "TIL3-AS"
+    },
+    "329165": {
+        "country_code": "ZA",
+        "asn": "329165",
+        "description": "Wild Peach Trading 52 (PTY) LTD",
+        "handle": "WPTL-AS"
+    },
+    "329166": {
+        "country_code": "ZA",
+        "asn": "329166",
+        "description": "Absolute Hosting (Pty) Ltd",
+        "handle": "ABSOLUTE-HOSTING-PTY-LTD-AS"
+    },
+    "329175": {
+        "country_code": "ZA",
+        "asn": "329175",
+        "description": "AddPay (Pty) Ltd",
+        "handle": "ADDPAY-AS"
+    },
+    "329181": {
+        "country_code": "ZA",
+        "asn": "329181",
+        "description": "Bluedog Technology",
+        "handle": "AS-OPNAXS"
+    },
+    "329184": {
+        "country_code": "ZA",
+        "asn": "329184",
+        "description": "Host Africa (Pty) Ltd",
+        "handle": "HOST-AFRICA-AS2"
+    },
+    "329188": {
+        "country_code": "ZA",
+        "asn": "329188",
+        "description": "Tourvest Travel Services",
+        "handle": "TTS2-AS"
+    },
+    "329193": {
+        "country_code": "ZA",
+        "asn": "329193",
+        "description": "Register Domain SA (Pty) Ltd",
+        "handle": "REGISTER-DOMAIN-SA"
+    },
+    "329195": {
+        "country_code": "ZA",
+        "asn": "329195",
+        "description": "PLASMA TELECOM SOUTH AFRICA PTY LTD",
+        "handle": "PTSA1-AS"
+    },
+    "329196": {
+        "country_code": "ZA",
+        "asn": "329196",
+        "description": "iSquared Technologies (Pty) Ltd",
+        "handle": "ITL3-AS"
+    },
+    "329197": {
+        "country_code": "ZA",
+        "asn": "329197",
+        "description": "TForge (Pty) Ltd",
+        "handle": "TFORGE"
+    },
+    "329202": {
+        "country_code": "ZA",
+        "asn": "329202",
+        "description": "VEZA ICT",
+        "handle": "VEZA-ICT"
+    },
+    "329206": {
+        "country_code": "ZA",
+        "asn": "329206",
+        "description": "Rackzar (Pty) Ltd",
+        "handle": "RL5-AS"
+    },
+    "329208": {
+        "country_code": "ZA",
+        "asn": "329208",
+        "description": "BullTech Group (Pty) Ltd",
+        "handle": "BULLTECH-GROUP"
+    },
+    "329212": {
+        "country_code": "ZA",
+        "asn": "329212",
+        "description": "TIRISAN TECH SOLUTIONS (PTY) LTD",
+        "handle": "TIRISAN-TECH-SOLUTIONS-PTY-LTD"
+    },
+    "329214": {
+        "country_code": "ZA",
+        "asn": "329214",
+        "description": "MASTERCARD SOUTHERN AFRICA (PTY) LTD",
+        "handle": "MSAL1-ASN"
+    },
+    "329216": {
+        "country_code": "ZA",
+        "asn": "329216",
+        "description": "Lwayo Communication",
+        "handle": "LC1-AS"
+    },
+    "329222": {
+        "country_code": "ZA",
+        "asn": "329222",
+        "description": "Ndende Technologies (Pty) Limited",
+        "handle": "NDENDE-TECHNOLOGIES"
+    },
+    "329228": {
+        "country_code": "ZA",
+        "asn": "329228",
+        "description": "Experian South Africa (Proprietary) Limited",
+        "handle": "EXPERIAN-CPT"
+    },
+    "329229": {
+        "country_code": "ZA",
+        "asn": "329229",
+        "description": "Stellar Technology Solutions (Pty) Ltd",
+        "handle": "STELLAR-TECHNOLOGY-SOLUTIONS"
+    },
+    "329231": {
+        "country_code": "ZA",
+        "asn": "329231",
+        "description": "Digitegrity",
+        "handle": "DIGITEGRITY-AS"
+    },
+    "329234": {
+        "country_code": "ZA",
+        "asn": "329234",
+        "description": "ISPA SA",
+        "handle": "NMBIX-MGMT"
+    },
+    "329237": {
+        "country_code": "ZA",
+        "asn": "329237",
+        "description": "Snowvalley Communications",
+        "handle": "SNOWVALLEY-COMMUNICATIONS"
+    },
+    "329240": {
+        "country_code": "ZA",
+        "asn": "329240",
+        "description": "Techseeds Telecommunications",
+        "handle": "TECHSEEDS-TELECOMMUNICATIONS-AS"
+    },
+    "329243": {
+        "country_code": "ZA",
+        "asn": "329243",
+        "description": "One Mile Telecoms (Pty) Ltd.",
+        "handle": "ONE-MILE-TELECOMS-PTY-LTD"
+    },
+    "329247": {
+        "country_code": "ZA",
+        "asn": "329247",
+        "description": "Swift Fibre",
+        "handle": "SWIFT-FIBRE-AS"
+    },
+    "329248": {
+        "country_code": "ZA",
+        "asn": "329248",
+        "description": "Simtel ISP",
+        "handle": "SIMTEL-ISP-AS"
+    },
+    "329249": {
+        "country_code": "ZA",
+        "asn": "329249",
+        "description": "Dolphin Coast Wireless Pty Ltd",
+        "handle": "DOLPHIN-COAST-WIRELESS-PTY-LTD"
+    },
+    "329259": {
+        "country_code": "ZA",
+        "asn": "329259",
+        "description": "Omicron IT (Pty) Ltd",
+        "handle": "OMICRON-IT-AS"
+    },
+    "329264": {
+        "country_code": "ZA",
+        "asn": "329264",
+        "description": "African Development Bank",
+        "handle": "AFRICAN-DEVELOPMENT-BANK"
+    },
+    "329266": {
+        "country_code": "ZA",
+        "asn": "329266",
+        "description": "Intdev Internet Technologies (Pty) Ltd",
+        "handle": "IITL1-AS"
+    },
+    "329276": {
+        "country_code": "ZA",
+        "asn": "329276",
+        "description": "LNX Solutions (Pty) Ltd",
+        "handle": "LNX-SOLUTIONS-PTY-LTD"
+    },
+    "329277": {
+        "country_code": "ZA",
+        "asn": "329277",
+        "description": "e-centric Switch (Proprietary) Limited",
+        "handle": "E-CENTRIC-SWITCH-PROPRIETARY-LIMITED"
+    },
+    "329279": {
+        "country_code": "ZA",
+        "asn": "329279",
+        "description": "N W Internet Service",
+        "handle": "N-W-INTERNET-SERVICE"
+    },
+    "329282": {
+        "country_code": "ZA",
+        "asn": "329282",
+        "description": "Hayo Telecom (Pty) Ltd",
+        "handle": "HAYO-TELECOM"
+    },
+    "329283": {
+        "country_code": "ZA",
+        "asn": "329283",
+        "description": "Ore & Metal Company",
+        "handle": "ORE-AND-METAL-COMPANY"
+    },
+    "329284": {
+        "country_code": "ZA",
+        "asn": "329284",
+        "description": "Invisible Waves",
+        "handle": "INVISIBLE-WAVES"
+    },
+    "329289": {
+        "country_code": "ZA",
+        "asn": "329289",
+        "description": "Novasys IT (Pty) Ltd",
+        "handle": "NOVASYS-IT-PTY-LTD"
+    },
+    "329290": {
+        "country_code": "ZA",
+        "asn": "329290",
+        "description": "Vumacam (Pty) Ltd",
+        "handle": "VUMACAM-PTY-LTD"
+    },
+    "329291": {
+        "country_code": "ZA",
+        "asn": "329291",
+        "description": "Euphoria Telecom (PTY) LTD",
+        "handle": "EUPHORIA-TELECOM"
+    },
+    "329294": {
+        "country_code": "ZA",
+        "asn": "329294",
+        "description": "SOUTHERN CROSS SOLUTIONS (PTY) LTD",
+        "handle": "SOUTHERN-CROSS-SOLUTIONS-PTY-LTD"
+    },
+    "329295": {
+        "country_code": "ZA",
+        "asn": "329295",
+        "description": "Pepkor Trading (Pty) Ltd",
+        "handle": "PEPKOR-TRADING"
+    },
+    "329296": {
+        "country_code": "ZA",
+        "asn": "329296",
+        "description": "INDEPENDENT NEWSPAPERS (PTY) LTD",
+        "handle": "INDEPENDANT-NEWSPAPERS"
+    },
+    "329298": {
+        "country_code": "ZA",
+        "asn": "329298",
+        "description": "Sive Setfu ICT Solutions (Pty) Ltd",
+        "handle": "SIVE-SETFU-ICT-SOLUTIONS-PTY-LTD"
+    },
+    "329300": {
+        "country_code": "ZA",
+        "asn": "329300",
+        "description": "HEROTEL BUSINESS (PTY) LTD",
+        "handle": "VALOSTAR-139-PTY-LTD"
+    },
+    "329303": {
+        "country_code": "ZA",
+        "asn": "329303",
+        "description": "Splizr Networks (Pty) Ltd",
+        "handle": "SPLIZR-NETWORKS-PTY-LTD"
+    },
+    "329305": {
+        "country_code": "ZA",
+        "asn": "329305",
+        "description": "GLOBAL CLOUD INFRASTRUCTURE SOLUTIONS (PTY) LTD",
+        "handle": "GLOBAL-CLOUD-INFRASTRUCTURE-SOLUTIONS"
+    },
+    "329316": {
+        "country_code": "ZA",
+        "asn": "329316",
+        "description": "REALTIME COMMUNICATIONS (PTY) LTD",
+        "handle": "REALTIME-COMMUNICATIONS"
+    },
+    "329317": {
+        "country_code": "ZA",
+        "asn": "329317",
+        "description": "Minntech (Pty) Limited",
+        "handle": "MINNTECH-PTY-LIMITED"
+    },
+    "329318": {
+        "country_code": "ZA",
+        "asn": "329318",
+        "description": "Surf4Life Pty (LTD)",
+        "handle": "INTERSTELLIO"
+    },
+    "329319": {
+        "country_code": "ZA",
+        "asn": "329319",
+        "description": "Discovery Bank LTD",
+        "handle": "DISCOVERY-BANK-LTD"
+    },
+    "329323": {
+        "country_code": "ZA",
+        "asn": "329323",
+        "description": "Bravoscan 252 (PTY) LTD",
+        "handle": "BRAVOSCAN-252"
+    },
+    "329328": {
+        "country_code": "ZA",
+        "asn": "329328",
+        "description": "Lunafibre Pty Ltd",
+        "handle": "LUNAFIBRE-PTY-LTD"
+    },
+    "329331": {
+        "country_code": "ZA",
+        "asn": "329331",
+        "description": "Flash Mobile Vending (Pty) Ltd",
+        "handle": "FLASH-MOBILE-VENDING-PTY-LTD"
+    },
+    "329334": {
+        "country_code": "ZA",
+        "asn": "329334",
+        "description": "Ndiza Information Systems",
+        "handle": "NDIZA-INFORMATION-SYSTEM"
+    },
+    "329340": {
+        "country_code": "ZA",
+        "asn": "329340",
+        "description": "LINKAFRICA (PTY) LTD",
+        "handle": "LINKAFRICA-PTY-LTD"
+    },
+    "329345": {
+        "country_code": "ZA",
+        "asn": "329345",
+        "description": "Bkonnect(PTY) LTD",
+        "handle": "BKONNECT-PTY-LTD"
+    },
+    "329346": {
+        "country_code": "ZA",
+        "asn": "329346",
+        "description": "Light Bridge Internet (Pty) Ltd",
+        "handle": "LIGHT-BRIDGE"
+    },
+    "329348": {
+        "country_code": "ZA",
+        "asn": "329348",
+        "description": "Calmex Mobile",
+        "handle": "CALMEX-MOBILE"
+    },
+    "329350": {
+        "country_code": "ZA",
+        "asn": "329350",
+        "description": "MTD Networx",
+        "handle": "MTD-NETWORX"
+    },
+    "329351": {
+        "country_code": "ZA",
+        "asn": "329351",
+        "description": "Tradepage (Pty) Ltd",
+        "handle": "TRADEPAGE-PTY-LTD"
+    },
+    "329355": {
+        "country_code": "ZA",
+        "asn": "329355",
+        "description": "Glidepath Group of Companies (Pty) Ltd",
+        "handle": "GLIDEPATH"
+    },
+    "329360": {
+        "country_code": "ZA",
+        "asn": "329360",
+        "description": "iiNet Connect Pty Ltd",
+        "handle": "IINET-CONNECT-PTY-LTD"
+    },
+    "329363": {
+        "country_code": "ZA",
+        "asn": "329363",
+        "description": "LTX Omega Mushrooms",
+        "handle": "LTX-OMEGA-MUSHROOMS"
+    },
+    "329366": {
+        "country_code": "ZA",
+        "asn": "329366",
+        "description": "ABT Telecoms (Pty) Ltd",
+        "handle": "ABT-TELECOMS"
+    },
+    "329368": {
+        "country_code": "ZA",
+        "asn": "329368",
+        "description": "CALNET FIBRE (PTY) LTD",
+        "handle": "CALNET-FIBRE"
+    },
+    "329369": {
+        "country_code": "ZA",
+        "asn": "329369",
+        "description": "JNCS PTY LTD",
+        "handle": "JNCS-PTY"
+    },
+    "329371": {
+        "country_code": "ZA",
+        "asn": "329371",
+        "description": "Afrieta",
+        "handle": "AFRIETA"
+    },
+    "329384": {
+        "country_code": "ZA",
+        "asn": "329384",
+        "description": "Bakwena Entertainment and Production Services (PTY) Ltd",
+        "handle": "BAKWENA"
+    },
+    "329386": {
+        "country_code": "ZA",
+        "asn": "329386",
+        "description": "Neurotel Communications",
+        "handle": "NEUROTEL-COMMUNICATIONS"
+    },
+    "329388": {
+        "country_code": "ZA",
+        "asn": "329388",
+        "description": "Cube ICT Solutions (Pty) Ltd",
+        "handle": "CUBE-ICT-SOLUTIONS-PTY-LTD"
+    },
+    "329391": {
+        "country_code": "ZA",
+        "asn": "329391",
+        "description": "Cosmiq Broadband",
+        "handle": "COSMIQ-BROADBAND"
+    },
+    "329392": {
+        "country_code": "ZA",
+        "asn": "329392",
+        "description": "TekSupport (Pty) Ltd",
+        "handle": "TEKSUPPORT-PTY-LTD"
+    },
+    "329401": {
+        "country_code": "ZA",
+        "asn": "329401",
+        "description": "Fastr Connect (Pty) Ltd",
+        "handle": "FASTR-CONNECT"
+    },
+    "329402": {
+        "country_code": "ZA",
+        "asn": "329402",
+        "description": "Mavoni Telecoms (Pty) Ltd",
+        "handle": "MAVONI-TELECOMS"
+    },
+    "329408": {
+        "country_code": "ZA",
+        "asn": "329408",
+        "description": "Marveltec",
+        "handle": "MARVELTEC"
+    },
+    "329414": {
+        "country_code": "ZA",
+        "asn": "329414",
+        "description": "Umbrella Corporation ZA",
+        "handle": "UMBRELLA-CORPORATION"
+    },
+    "329429": {
+        "country_code": "ZA",
+        "asn": "329429",
+        "description": "Data Sciences Corporation Pty Ltd",
+        "handle": "DSCP1"
+    },
+    "329433": {
+        "country_code": "ZA",
+        "asn": "329433",
+        "description": "Develop Net (PTY) LTD",
+        "handle": "DEVELOP-NET-PTY-LTD"
+    },
+    "329438": {
+        "country_code": "ZA",
+        "asn": "329438",
+        "description": "HotFibre Pty (Ltd)",
+        "handle": "HOTFIBRE-PTY-LTD"
+    },
+    "329443": {
+        "country_code": "ZA",
+        "asn": "329443",
+        "description": "iMobility (Pty) ltd",
+        "handle": "IMOBILITY-PTY-LTD"
+    },
+    "329445": {
+        "country_code": "ZA",
+        "asn": "329445",
+        "description": "In2IT (PTY) Ltd.",
+        "handle": "IN2IT"
+    },
+    "329455": {
+        "country_code": "ZA",
+        "asn": "329455",
+        "description": "ONE Carrier",
+        "handle": "ONE-CARRIER"
+    },
+    "329462": {
+        "country_code": "ZA",
+        "asn": "329462",
+        "description": "V Dot Net Pty Ltd",
+        "handle": "V-DOT-NET"
+    },
+    "329465": {
+        "country_code": "ZA",
+        "asn": "329465",
+        "description": "Betta Technologies",
+        "handle": "BETTA-TECHNOLOGIES"
+    },
+    "329467": {
+        "country_code": "ZA",
+        "asn": "329467",
+        "description": "PAN AFRICA TELECOM (PTY) LTD",
+        "handle": "PAN-AFRICA-TELECOM-PTY-LTD"
+    },
+    "329471": {
+        "country_code": "ZA",
+        "asn": "329471",
+        "description": "Kyrascene (Pty) Ltd",
+        "handle": "KYRASCENE"
+    },
+    "329474": {
+        "country_code": "ZA",
+        "asn": "329474",
+        "description": "Nymbis Cloud Solutions Pty Ltd",
+        "handle": "NYMBIS-CLOUD-SOLUTIONS"
+    },
+    "329478": {
+        "country_code": "ZA",
+        "asn": "329478",
+        "description": "Skyworks Telecoms",
+        "handle": "SKYWORKS-TELECOMS"
+    },
+    "329479": {
+        "country_code": "ZA",
+        "asn": "329479",
+        "description": "HOLLYWOOD CONNECT (PTY) LTD",
+        "handle": "HOLLYWOOD-CONNECT"
+    },
+    "329480": {
+        "country_code": "ZA",
+        "asn": "329480",
+        "description": "Bongani Connects",
+        "handle": "BONGANI-CONNECTS"
+    },
+    "329481": {
+        "country_code": "ZA",
+        "asn": "329481",
+        "description": "Lightstruck Connect",
+        "handle": "LIGHTSTRUCK-CONNECT"
+    },
+    "329501": {
+        "country_code": "ZA",
+        "asn": "329501",
+        "description": "Old Mutual Investment Group (PTY) Ltd",
+        "handle": "OLD-MUTUAL-INVESTMENT-GROUP"
+    },
+    "329502": {
+        "country_code": "ZA",
+        "asn": "329502",
+        "description": "INDEPENDENT MONITORING SERVICES (PTY) LTD",
+        "handle": "INDEPENDENT-MONITORING-SERVICES-PTY-LTD"
+    },
+    "329505": {
+        "country_code": "ZA",
+        "asn": "329505",
+        "description": "FLICKSWITCH (PROPRIETARY) LIMITED",
+        "handle": "FLICKSWITCH-PROPRIETARY-LIMITED"
+    },
+    "329510": {
+        "country_code": "ZA",
+        "asn": "329510",
+        "description": "Fire-IT (Pty) Ltd",
+        "handle": "FIRE-IT-PTY-LTD"
+    },
+    "329513": {
+        "country_code": "ZA",
+        "asn": "329513",
+        "description": "Cellfind (Pty) Ltd",
+        "handle": "CALLFINDASN"
+    },
+    "329515": {
+        "country_code": "ZA",
+        "asn": "329515",
+        "description": "Hubtech Investments",
+        "handle": "HUBTECH-INVESTMENTS"
+    },
+    "329522": {
+        "country_code": "ZA",
+        "asn": "329522",
+        "description": "South African National Space Agency (SANSA)",
+        "handle": "SANSA"
+    },
+    "329523": {
+        "country_code": "ZA",
+        "asn": "329523",
+        "description": "Echotel Pty Ltd",
+        "handle": "ECHOSP-KE"
+    },
+    "329527": {
+        "country_code": "ZA",
+        "asn": "329527",
+        "description": "Blue-Diamond Trading 226",
+        "handle": "BLUE-DIAMOND-TRADING-226"
+    },
+    "329532": {
+        "country_code": "ZA",
+        "asn": "329532",
+        "description": "HEVIS CO SYSTEMS (PTY) LTD",
+        "handle": "HEVIS-CO-SYSTEMS-PTY-LTD"
+    },
+    "329541": {
+        "country_code": "ZA",
+        "asn": "329541",
+        "description": "zing fibre (pty) Ltd",
+        "handle": "ZING-FIBRE-PTY-LTD"
+    },
+    "329543": {
+        "country_code": "ZA",
+        "asn": "329543",
+        "description": "Kerridge Commercial Systems (South Africa) Proprietary Limited",
+        "handle": "KERRIDGE"
+    },
+    "329546": {
+        "country_code": "ZA",
+        "asn": "329546",
+        "description": "Akesa Technologies (Pty) Ltd",
+        "handle": "AKESA-TECHNOLOGIES"
+    },
+    "329549": {
+        "country_code": "ZA",
+        "asn": "329549",
+        "description": "Connexion Link",
+        "handle": "CONNEXION-LINK"
+    },
+    "329554": {
+        "country_code": "ZA",
+        "asn": "329554",
+        "description": "CHEAPCALLS",
+        "handle": "CHEAPCALLS"
+    },
+    "329557": {
+        "country_code": "ZA",
+        "asn": "329557",
+        "description": "RISE TELECOMMS (PTY) LTD",
+        "handle": "RISE-TELECOMMS-PTY-LTD"
+    },
+    "329558": {
+        "country_code": "ZA",
+        "asn": "329558",
+        "description": "SMSPortal (Pty) Ltd",
+        "handle": "SMSPORTAL"
+    },
+    "329559": {
+        "country_code": "ZA",
+        "asn": "329559",
+        "description": "ACE TELECOMMUNICATIONS TECHNOLOGY",
+        "handle": "ACE-TELECOMMUNICATIONS-ATT3-MNTTECHNOLOGY"
+    },
+    "329565": {
+        "country_code": "ZA",
+        "asn": "329565",
+        "description": "NexGen Fibre",
+        "handle": "NEXGEN-FIBRE"
+    },
+    "329570": {
+        "country_code": "ZA",
+        "asn": "329570",
+        "description": "CCD Couriers (Pty) Ltd",
+        "handle": "CCD-COURIERS"
+    },
+    "329571": {
+        "country_code": "ZA",
+        "asn": "329571",
+        "description": "Italtile Ceramics (PTY) LTD",
+        "handle": "ITALTILE-CERAMICS"
+    },
+    "329572": {
+        "country_code": "ZA",
+        "asn": "329572",
+        "description": "AFROCENTRIC INTELLECTUAL PROPERTY PTY LTD",
+        "handle": "AFROCENTRIC"
+    },
+    "329576": {
+        "country_code": "ZA",
+        "asn": "329576",
+        "description": "Interstellio IO (PTY) LTD",
+        "handle": "INTERSTELLIO"
+    },
+    "329578": {
+        "country_code": "ZA",
+        "asn": "329578",
+        "description": "URBANXCONNECT (PTY) LTD",
+        "handle": "URBANXCONNECT"
+    },
+    "329585": {
+        "country_code": "ZA",
+        "asn": "329585",
+        "description": "Solid Fibre Pty Ltd",
+        "handle": "SOLID-FIBRE"
+    },
+    "329587": {
+        "country_code": "ZA",
+        "asn": "329587",
+        "description": "KayaReach (Pty) Ltd",
+        "handle": "KAYAREACH-PTY-LTD"
+    },
+    "329597": {
+        "country_code": "ZA",
+        "asn": "329597",
+        "description": "Microweb Pty Ltd",
+        "handle": "MICROWEB"
+    },
+    "329599": {
+        "country_code": "ZA",
+        "asn": "329599",
+        "description": "Megin Cloud (PTY) Ltd",
+        "handle": "MEGIN-CLOUD"
+    },
+    "329606": {
+        "country_code": "ZA",
+        "asn": "329606",
+        "description": "Blue Turtle Technologies (Pty) Ltd",
+        "handle": "BLUE-TURTLE-TECHNOLOGIES"
+    },
+    "329608": {
+        "country_code": "ZA",
+        "asn": "329608",
+        "description": "NetClick",
+        "handle": "NETCLICK"
+    },
+    "329619": {
+        "country_code": "ZA",
+        "asn": "329619",
+        "description": "Green G Technologies",
+        "handle": "GREEN-G-TECHNOLOGIES"
+    },
+    "329620": {
+        "country_code": "ZA",
+        "asn": "329620",
+        "description": "JHL Mynhardt Rekenaars (PTY) LTD",
+        "handle": "JHL-MYNHARDT-REKENAARS"
+    },
+    "329639": {
+        "country_code": "ZA",
+        "asn": "329639",
+        "description": "JFSWISP (PTY) LTD",
+        "handle": "JFSWISP-PTY-LTD"
+    },
+    "329641": {
+        "country_code": "ZA",
+        "asn": "329641",
+        "description": "APT Digital (Pty) Ltd",
+        "handle": "APT-DIGITAL-PTY-LTD"
+    },
+    "329643": {
+        "country_code": "ZA",
+        "asn": "329643",
+        "description": "IO FROM AFRICA (PTY) LTD",
+        "handle": "IO-FROM-AFRICA-PTY-LTD"
+    },
+    "329644": {
+        "country_code": "ZA",
+        "asn": "329644",
+        "description": "HBD SOUTH AFRICA (PTY) LTD",
+        "handle": "HBD-SOUTH-AFRICA-PTY-LTD"
+    },
+    "329648": {
+        "country_code": "ZA",
+        "asn": "329648",
+        "description": "CSSi South Africa (Pty) Ltd.",
+        "handle": "CSSI-AS"
+    },
+    "329661": {
+        "country_code": "ZA",
+        "asn": "329661",
+        "description": "Milani Fibre Pty Ltd",
+        "handle": "MILANI-FIBRE"
+    },
+    "329668": {
+        "country_code": "ZA",
+        "asn": "329668",
+        "description": "INFINITY CD'S (PTY) LTD",
+        "handle": "INFINITY-CDS-PTY-LTD"
+    },
+    "329676": {
+        "country_code": "ZA",
+        "asn": "329676",
+        "description": "Checksum Network Security Services (PTY) LTD",
+        "handle": "CHECKSUM-NETWORK-SECURITY-SERVICES-PTY-LTD"
+    },
+    "329690": {
+        "country_code": "ZA",
+        "asn": "329690",
+        "description": "Fibre to the Apartment (Pty)Ltd",
+        "handle": "FIBRE-TO-THE-APARTMENT"
+    },
+    "329700": {
+        "country_code": "ZA",
+        "asn": "329700",
+        "description": "SiFi Net",
+        "handle": "SIFI"
+    },
+    "329705": {
+        "country_code": "ZA",
+        "asn": "329705",
+        "description": "Simplicity Internet Solutions",
+        "handle": "SIMPLICITY-INTERNET-SOLUTIONS"
+    },
+    "329708": {
+        "country_code": "ZA",
+        "asn": "329708",
+        "description": "Comsol Networks (PTY) Ltd",
+        "handle": "COMSOL-ASN-02"
+    },
+    "394939": {
+        "country_code": "ZA",
+        "asn": "394939",
+        "description": "Satellite Data Networks",
+        "handle": "SATELLITE-DATA-NETWORKS"
+    }
+}

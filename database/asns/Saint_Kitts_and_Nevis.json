@@ -1,0 +1,56 @@
+{
+    "36290": {
+        "country_code": "KN",
+        "asn": "36290",
+        "description": "The Cable of St. Kitts",
+        "handle": "THECABLE-STKITTS-01"
+    },
+    "40249": {
+        "country_code": "KN",
+        "asn": "40249",
+        "description": "The Government of Saint Kitts and Nevis",
+        "handle": "GOSKN-ICT"
+    },
+    "54990": {
+        "country_code": "KN",
+        "asn": "54990",
+        "description": "1337 Services LLC",
+        "handle": "AS-1337"
+    },
+    "201784": {
+        "country_code": "KN",
+        "asn": "201784",
+        "description": "NETVERSE Limited",
+        "handle": "DDOSWARD"
+    },
+    "211673": {
+        "country_code": "KN",
+        "asn": "211673",
+        "description": "Mynymbox Hosting LLC",
+        "handle": "MYNYMBOX"
+    },
+    "396416": {
+        "country_code": "KN",
+        "asn": "396416",
+        "description": "The Government of Saint Kitts and Nevis",
+        "handle": "SKNIX-SERVICES"
+    },
+    "397382": {
+        "country_code": "KN",
+        "asn": "397382",
+        "description": "Eastern Caribbean Central Bank",
+        "handle": "ECCB-CENTRALBANK"
+    },
+    "399188": {
+        "country_code": "KN",
+        "asn": "399188",
+        "description": "City Wi-Fi Inc",
+        "handle": "CITY-WI-FI-INC"
+    },
+    "400547": {
+        "country_code": "KN",
+        "asn": "400547",
+        "description": "The Government of Saint Kitts and Nevis",
+        "handle": "SKNIX-AS-ROUTE-SERVERS"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "36939": {
+        "country_code": "KM",
+        "asn": "36939",
+        "description": "Comores Telecom",
+        "handle": "COMORESTELECOM"
+    },
+    "328061": {
+        "country_code": "KM",
+        "asn": "328061",
+        "description": "TELECOM COMORES S.A (TELCO S.A)",
+        "handle": "TELCO-SA-AS"
+    },
+    "329646": {
+        "country_code": "KM",
+        "asn": "329646",
+        "description": "Comores Cables",
+        "handle": "COMORES-CABLES"
+    }
+}

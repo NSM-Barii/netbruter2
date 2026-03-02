@@ -1,0 +1,236 @@
+{
+    "8847": {
+        "country_code": "TJ",
+        "asn": "8847",
+        "description": "CJSC Telecomm Technology",
+        "handle": "TTL-AS"
+    },
+    "24722": {
+        "country_code": "TJ",
+        "asn": "24722",
+        "description": "LLC Babilon-T",
+        "handle": "BABILON-AS"
+    },
+    "34557": {
+        "country_code": "TJ",
+        "asn": "34557",
+        "description": "Tacom LLC",
+        "handle": "TACOM-AS"
+    },
+    "42713": {
+        "country_code": "TJ",
+        "asn": "42713",
+        "description": "INTERCOM LTD",
+        "handle": "INTERCOM"
+    },
+    "43030": {
+        "country_code": "TJ",
+        "asn": "43030",
+        "description": "Tajik Academician Research and Educational Network Association",
+        "handle": "TARENA-AS"
+    },
+    "43077": {
+        "country_code": "TJ",
+        "asn": "43077",
+        "description": "CJSC International Bank of Tajikistan",
+        "handle": "INTERNATIONAL-BANK-OF-TAJIKISTAN-AS"
+    },
+    "43197": {
+        "country_code": "TJ",
+        "asn": "43197",
+        "description": "Closed Joint Stock Company TT mobile",
+        "handle": "TT-MOBILE-AS"
+    },
+    "44027": {
+        "country_code": "TJ",
+        "asn": "44027",
+        "description": "Spitamen Alexander Internet LLC.",
+        "handle": "SPITAMEN-ALEXANDER-INTERNET-AS"
+    },
+    "44961": {
+        "country_code": "TJ",
+        "asn": "44961",
+        "description": "Open Joint-Stock Company Commerce Bank of Tajikistan",
+        "handle": "CBT"
+    },
+    "47139": {
+        "country_code": "TJ",
+        "asn": "47139",
+        "description": "CJSC INDIGO TAJIKISTAN",
+        "handle": "INDIGO-TAJIKISTAN-AS"
+    },
+    "48001": {
+        "country_code": "TJ",
+        "asn": "48001",
+        "description": "Investment and production company Orien Invest LLC",
+        "handle": "SHABAKAI-OSMONI-AS"
+    },
+    "48184": {
+        "country_code": "TJ",
+        "asn": "48184",
+        "description": "Tax Committee under the Government of the Republic of Tajikistan",
+        "handle": "ANDOZ-AS"
+    },
+    "48887": {
+        "country_code": "TJ",
+        "asn": "48887",
+        "description": "CJSC INDIGO TAJIKISTAN",
+        "handle": "SOMONCOM-AS"
+    },
+    "49472": {
+        "country_code": "TJ",
+        "asn": "49472",
+        "description": "Eastera LLC",
+        "handle": "EASTERA-AS"
+    },
+    "49945": {
+        "country_code": "TJ",
+        "asn": "49945",
+        "description": "OJSC Alif Bank",
+        "handle": "ALIF-AS"
+    },
+    "51346": {
+        "country_code": "TJ",
+        "asn": "51346",
+        "description": "Opened Joint Stock Company Tojiktelecom",
+        "handle": "TOJIKTELECOM-AS"
+    },
+    "57443": {
+        "country_code": "TJ",
+        "asn": "57443",
+        "description": "Oshno group LLC",
+        "handle": "OSHNOGROUP-AS"
+    },
+    "60101": {
+        "country_code": "TJ",
+        "asn": "60101",
+        "description": "Dushanbe City Bank CJSC",
+        "handle": "DCB-AS"
+    },
+    "196854": {
+        "country_code": "TJ",
+        "asn": "196854",
+        "description": "LLC Isatel Tajikistan",
+        "handle": "AS-ISATELTJ"
+    },
+    "199303": {
+        "country_code": "TJ",
+        "asn": "199303",
+        "description": "CJSC Spitamen Bank",
+        "handle": "SPB-TJ"
+    },
+    "199793": {
+        "country_code": "TJ",
+        "asn": "199793",
+        "description": "Bank Eskhata OJSC",
+        "handle": "BANKESKHATA"
+    },
+    "202331": {
+        "country_code": "TJ",
+        "asn": "202331",
+        "description": "Dushanbe City Bank CJSC",
+        "handle": "DCB-AS"
+    },
+    "202726": {
+        "country_code": "TJ",
+        "asn": "202726",
+        "description": "Shabakai oson LLC",
+        "handle": "SHABAKAI-OSON-AS"
+    },
+    "203523": {
+        "country_code": "TJ",
+        "asn": "203523",
+        "description": "SayhunNet LLC",
+        "handle": "SAYHUNNET-AS"
+    },
+    "204106": {
+        "country_code": "TJ",
+        "asn": "204106",
+        "description": "CJSC Babilon-Mobile",
+        "handle": "BABILON-MOBILE"
+    },
+    "205507": {
+        "country_code": "TJ",
+        "asn": "205507",
+        "description": "NURI KOINOT LLC",
+        "handle": "NURIKOINOT-AS"
+    },
+    "206107": {
+        "country_code": "TJ",
+        "asn": "206107",
+        "description": "Smart Grupp Ltd.",
+        "handle": "ASSMART"
+    },
+    "206691": {
+        "country_code": "TJ",
+        "asn": "206691",
+        "description": "Opened Joint Stock Company Tojiktelecom",
+        "handle": "TAJIX-AS"
+    },
+    "208536": {
+        "country_code": "TJ",
+        "asn": "208536",
+        "description": "CJSC MDO IMON INTERNATIONAL",
+        "handle": "IMON"
+    },
+    "208592": {
+        "country_code": "TJ",
+        "asn": "208592",
+        "description": "LLC NET SOLUTIONS",
+        "handle": "AS-AVESTONET"
+    },
+    "208885": {
+        "country_code": "TJ",
+        "asn": "208885",
+        "description": "Noyobzoda Faridduni Saidilhom",
+        "handle": "NFS-AS"
+    },
+    "210053": {
+        "country_code": "TJ",
+        "asn": "210053",
+        "description": "CJSC Humo Bank",
+        "handle": "HUMO-AS"
+    },
+    "211203": {
+        "country_code": "TJ",
+        "asn": "211203",
+        "description": "State unitary enterprise Savings bank of the Republic of Tajikistan Amonatbonk",
+        "handle": "AMONATBONK-AS"
+    },
+    "213631": {
+        "country_code": "TJ",
+        "asn": "213631",
+        "description": "LLC KOINOT INNOVATION AND TECHNOLOGY",
+        "handle": "K-TECH"
+    },
+    "214157": {
+        "country_code": "TJ",
+        "asn": "214157",
+        "description": "Customs service under the Government of the Republic of Tajikistan",
+        "handle": "CUSTOMSTJ"
+    },
+    "214582": {
+        "country_code": "TJ",
+        "asn": "214582",
+        "description": "CJSC INVESTMENT CREDIT BANK TAJIKISTAN",
+        "handle": "FMFBT"
+    },
+    "215095": {
+        "country_code": "TJ",
+        "asn": "215095",
+        "description": "Seganj LLC",
+        "handle": "SEGANJ"
+    },
+    "215533": {
+        "country_code": "TJ",
+        "asn": "215533",
+        "description": "LLC Zaitoon technology",
+        "handle": "ZAITOONTECH"
+    },
+    "215814": {
+        "country_code": "TJ",
+        "asn": "215814",
+        "description": "Sinamo 2017 LLC",
+        "handle": "AS-SINAMONET"
+    }
+}

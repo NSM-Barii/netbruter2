@@ -1,0 +1,176 @@
+{
+    "2609": {
+        "country_code": "TN",
+        "asn": "2609",
+        "description": "Tunisia BackBone AS",
+        "handle": "TN-BB-AS"
+    },
+    "5438": {
+        "country_code": "TN",
+        "asn": "5438",
+        "description": "Agence Tunisienne d'Internet",
+        "handle": "ATI-TN"
+    },
+    "31245": {
+        "country_code": "TN",
+        "asn": "31245",
+        "description": "ATI - Agence Tunisienne Internet",
+        "handle": "ATI-ISP"
+    },
+    "37107": {
+        "country_code": "TN",
+        "asn": "37107",
+        "description": "ATI - Agence Tunisienne Internet",
+        "handle": "ATI-AS"
+    },
+    "37351": {
+        "country_code": "TN",
+        "asn": "37351",
+        "description": "African Development Bank - AFDB",
+        "handle": "AFDB"
+    },
+    "37492": {
+        "country_code": "TN",
+        "asn": "37492",
+        "description": "Orange Tunisie",
+        "handle": "ORANGE-TN"
+    },
+    "37504": {
+        "country_code": "TN",
+        "asn": "37504",
+        "description": "EO Data Center",
+        "handle": "EODATACENTER"
+    },
+    "37551": {
+        "country_code": "TN",
+        "asn": "37551",
+        "description": "ATI - Agence Tunisienne Internet",
+        "handle": "ATI-TUNIXP"
+    },
+    "37671": {
+        "country_code": "TN",
+        "asn": "37671",
+        "description": "3S INF",
+        "handle": "GLOBALNET-AS"
+    },
+    "37693": {
+        "country_code": "TN",
+        "asn": "37693",
+        "description": "OOREDOO TUNISIE SA",
+        "handle": "TUNISIANA"
+    },
+    "37705": {
+        "country_code": "TN",
+        "asn": "37705",
+        "description": "TOPNET",
+        "handle": "TOPNET"
+    },
+    "37709": {
+        "country_code": "TN",
+        "asn": "37709",
+        "description": "Cloud Temple Tunisia",
+        "handle": "CLOUD-TEMPLE"
+    },
+    "37717": {
+        "country_code": "TN",
+        "asn": "37717",
+        "description": "Centre de Calcul El Khawarizmi",
+        "handle": "EL-KHAWARIZMI"
+    },
+    "37719": {
+        "country_code": "TN",
+        "asn": "37719",
+        "description": "Hexabyte",
+        "handle": "HEXABYTE-AS"
+    },
+    "327718": {
+        "country_code": "TN",
+        "asn": "327718",
+        "description": "ATI - Agence Tunisienne Internet",
+        "handle": "ATI-DNS"
+    },
+    "327934": {
+        "country_code": "TN",
+        "asn": "327934",
+        "description": "SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)",
+        "handle": "TUNISIE-TELECOM"
+    },
+    "327969": {
+        "country_code": "TN",
+        "asn": "327969",
+        "description": "Arab Tunisian Bank",
+        "handle": "ARAB-TUNIS-BANK"
+    },
+    "328048": {
+        "country_code": "TN",
+        "asn": "328048",
+        "description": "Office National De Poste(La Poste Tunisienne)",
+        "handle": "LA-POSTE-TUNISIENNE-AS"
+    },
+    "328126": {
+        "country_code": "TN",
+        "asn": "328126",
+        "description": "Orange Tunisie",
+        "handle": "ORANGE-CDN-AS"
+    },
+    "328307": {
+        "country_code": "TN",
+        "asn": "328307",
+        "description": "UNIPACK",
+        "handle": "UNIPACK-AS"
+    },
+    "328394": {
+        "country_code": "TN",
+        "asn": "328394",
+        "description": "STE RESEAUX FORMATION CONSEIL",
+        "handle": "STE-RESEAUX-FORMATION"
+    },
+    "328414": {
+        "country_code": "TN",
+        "asn": "328414",
+        "description": "STE NEXT STEP IT",
+        "handle": "NEXT-STEP-IT-AS"
+    },
+    "328853": {
+        "country_code": "TN",
+        "asn": "328853",
+        "description": "OXAHOST",
+        "handle": "OXAHOST-AS"
+    },
+    "328880": {
+        "country_code": "TN",
+        "asn": "328880",
+        "description": "STE INTERNET SMART SOLUTIONS",
+        "handle": "STE-INTERNET-SMART-SOLUTIONS-AS"
+    },
+    "328897": {
+        "country_code": "TN",
+        "asn": "328897",
+        "description": "VOLUS SOLUTION TECHNOLOGIE",
+        "handle": "VOLUS-AS"
+    },
+    "329071": {
+        "country_code": "TN",
+        "asn": "329071",
+        "description": "Majda Smart Solutions",
+        "handle": "MSS3-AS"
+    },
+    "329186": {
+        "country_code": "TN",
+        "asn": "329186",
+        "description": "FOCUS TECHNOLOGY SOLUTIONS",
+        "handle": "FOCUS-TECHNOLOGY-SOLUTIONS"
+    },
+    "329268": {
+        "country_code": "TN",
+        "asn": "329268",
+        "description": "STE SAFOZI",
+        "handle": "SS7-AS"
+    },
+    "329563": {
+        "country_code": "TN",
+        "asn": "329563",
+        "description": "STE CHIFCO",
+        "handle": "STE-CHIFCO"
+    }
+}

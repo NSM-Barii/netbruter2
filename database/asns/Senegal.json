@@ -1,0 +1,134 @@
+{
+    "8346": {
+        "country_code": "SN",
+        "asn": "8346",
+        "description": "SONATEL-AS Autonomous System",
+        "handle": "SONATEL"
+    },
+    "37196": {
+        "country_code": "SN",
+        "asn": "37196",
+        "description": "Sudatel Senegal",
+        "handle": "SUDATEL-SENEGAL"
+    },
+    "37288": {
+        "country_code": "SN",
+        "asn": "37288",
+        "description": "West and Central African Research Network",
+        "handle": "WACREN"
+    },
+    "37649": {
+        "country_code": "SN",
+        "asn": "37649",
+        "description": "SAGA AFRICA HOLDINGS LIMITED",
+        "handle": "TIGO"
+    },
+    "37773": {
+        "country_code": "SN",
+        "asn": "37773",
+        "description": "Agence De l'Informatique de l'Etat",
+        "handle": "SENIX-PEERING-AS"
+    },
+    "37803": {
+        "country_code": "SN",
+        "asn": "37803",
+        "description": "HUBSIX SASU",
+        "handle": "HUBSIX-PEERING"
+    },
+    "327809": {
+        "country_code": "SN",
+        "asn": "327809",
+        "description": "ARC Informatique",
+        "handle": "ARC-INFORMATIQUE"
+    },
+    "328099": {
+        "country_code": "SN",
+        "asn": "328099",
+        "description": "HAYO SA",
+        "handle": "HAYO-AS"
+    },
+    "328147": {
+        "country_code": "SN",
+        "asn": "328147",
+        "description": "Agence De l'Informatique de l'Etat",
+        "handle": "SENIX-MGMT-AS"
+    },
+    "328148": {
+        "country_code": "SN",
+        "asn": "328148",
+        "description": "Agence De l'Informatique de l'Etat",
+        "handle": "ADIE-AS"
+    },
+    "328159": {
+        "country_code": "SN",
+        "asn": "328159",
+        "description": "ARC Informatique",
+        "handle": "ARC-INFORMATIQUE"
+    },
+    "328259": {
+        "country_code": "SN",
+        "asn": "328259",
+        "description": "WAW SAS",
+        "handle": "WAW-SAS"
+    },
+    "328558": {
+        "country_code": "SN",
+        "asn": "328558",
+        "description": "Senelec SA",
+        "handle": "SENELEC-AS"
+    },
+    "328650": {
+        "country_code": "SN",
+        "asn": "328650",
+        "description": "Universite numerique Cheikh Hamidou KANE (UN-CHK)",
+        "handle": "UNIVERSITE-NUMERIQUE-CHEIKH-HAMIDOU-KANE"
+    },
+    "329161": {
+        "country_code": "SN",
+        "asn": "329161",
+        "description": "Accel Technologies - Suarl",
+        "handle": "ATS6-AS"
+    },
+    "329398": {
+        "country_code": "SN",
+        "asn": "329398",
+        "description": "Ecole Sup\u00e9rieure Multinationale des T\u00e9l\u00e9communications (ESMT)",
+        "handle": "ESMT"
+    },
+    "329407": {
+        "country_code": "SN",
+        "asn": "329407",
+        "description": "Universite Cheikh Anta DIOP de DAKAR",
+        "handle": "UCAD1"
+    },
+    "329507": {
+        "country_code": "SN",
+        "asn": "329507",
+        "description": "HUBSIX SASU",
+        "handle": "HUBSIX-MGMT"
+    },
+    "329517": {
+        "country_code": "SN",
+        "asn": "329517",
+        "description": "LA DIRECTION GENERALE DES DOUANES",
+        "handle": "LA-DIRECTION-GENERALE-DES-DOUANES"
+    },
+    "329650": {
+        "country_code": "SN",
+        "asn": "329650",
+        "description": "CINERI",
+        "handle": "CINERI"
+    },
+    "329672": {
+        "country_code": "SN",
+        "asn": "329672",
+        "description": "SYSTALINK SENEGAL SASU",
+        "handle": "SYSTALINK-SENEGAL"
+    },
+    "329704": {
+        "country_code": "SN",
+        "asn": "329704",
+        "description": "STELLAR IX SAU",
+        "handle": "STELLAR-IX-SAU"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "23917": {
+        "country_code": "TV",
+        "asn": "23917",
+        "description": "Tuvalu Telecommunications Corporation",
+        "handle": "TTC-AS-AP"
+    },
+    "133117": {
+        "country_code": "TV",
+        "asn": "133117",
+        "description": "Tuvalu Telecommunications Corporation",
+        "handle": "TTC-AS-AP"
+    },
+    "142573": {
+        "country_code": "TV",
+        "asn": "142573",
+        "description": "Government of Tuvalu",
+        "handle": "TUVALU-AS-AP"
+    }
+}

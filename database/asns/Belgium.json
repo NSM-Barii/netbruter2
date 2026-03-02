@@ -1,0 +1,2336 @@
+{
+    "1837": {
+        "country_code": "BE",
+        "asn": "1837",
+        "description": "The North Atlantic Treaty Organization",
+        "handle": "NCIA"
+    },
+    "2611": {
+        "country_code": "BE",
+        "asn": "2611",
+        "description": "BELNET",
+        "handle": "BELNET"
+    },
+    "3304": {
+        "country_code": "BE",
+        "asn": "3304",
+        "description": "Proximus NV",
+        "handle": "SCARLET"
+    },
+    "5406": {
+        "country_code": "BE",
+        "asn": "5406",
+        "description": "BELNET",
+        "handle": "BNIX"
+    },
+    "5432": {
+        "country_code": "BE",
+        "asn": "5432",
+        "description": "Proximus NV",
+        "handle": "PROXIMUS-ISP-AS"
+    },
+    "5463": {
+        "country_code": "BE",
+        "asn": "5463",
+        "description": "Perceval S.A.",
+        "handle": "PERCEVAL"
+    },
+    "5488": {
+        "country_code": "BE",
+        "asn": "5488",
+        "description": "Proximus NV",
+        "handle": "BELGACOM"
+    },
+    "5560": {
+        "country_code": "BE",
+        "asn": "5560",
+        "description": "Belgacom International Carrier Services SA",
+        "handle": "AS-BICS-INSTANT-PEERING"
+    },
+    "6085": {
+        "country_code": "BE",
+        "asn": "6085",
+        "description": "Societe Internationale de Telecommunications Aeronautiques",
+        "handle": "SITA-GPOP-EXT"
+    },
+    "6696": {
+        "country_code": "BE",
+        "asn": "6696",
+        "description": "VERIXI SA",
+        "handle": "VERIXI"
+    },
+    "6716": {
+        "country_code": "BE",
+        "asn": "6716",
+        "description": "Worldline NV",
+        "handle": "TUNZ"
+    },
+    "6774": {
+        "country_code": "BE",
+        "asn": "6774",
+        "description": "Belgacom International Carrier Services SA",
+        "handle": "ASN-BICS"
+    },
+    "6848": {
+        "country_code": "BE",
+        "asn": "6848",
+        "description": "Telenet BV",
+        "handle": "TELENET-AS"
+    },
+    "8201": {
+        "country_code": "BE",
+        "asn": "8201",
+        "description": "Dstny BE N.V.",
+        "handle": "DSTNY-EVONET"
+    },
+    "8221": {
+        "country_code": "BE",
+        "asn": "8221",
+        "description": "ISABEL N.V.",
+        "handle": "ISABEL"
+    },
+    "8227": {
+        "country_code": "BE",
+        "asn": "8227",
+        "description": "Telenet BV",
+        "handle": "CODENET-AS"
+    },
+    "8368": {
+        "country_code": "BE",
+        "asn": "8368",
+        "description": "Dstny BE N.V.",
+        "handle": "DSTNY-BACKBONE"
+    },
+    "9031": {
+        "country_code": "BE",
+        "asn": "9031",
+        "description": "EDPNET Belgium BV",
+        "handle": "EDPNETAPP"
+    },
+    "9166": {
+        "country_code": "BE",
+        "asn": "9166",
+        "description": "Cegeka NV",
+        "handle": "CEGEKA-HASSELT"
+    },
+    "9208": {
+        "country_code": "BE",
+        "asn": "9208",
+        "description": "WIN S.A.",
+        "handle": "WIN"
+    },
+    "9907": {
+        "country_code": "BE",
+        "asn": "9907",
+        "description": "Localitel bvba",
+        "handle": "LOCALITEL"
+    },
+    "12392": {
+        "country_code": "BE",
+        "asn": "12392",
+        "description": "VOO S.A.",
+        "handle": "ASVOO"
+    },
+    "12493": {
+        "country_code": "BE",
+        "asn": "12493",
+        "description": "Orange Belgium SA",
+        "handle": "AS12493"
+    },
+    "12763": {
+        "country_code": "BE",
+        "asn": "12763",
+        "description": "Honda Motor Europe Logistics NV",
+        "handle": "HONDA-MOTOR-EUROPE"
+    },
+    "12942": {
+        "country_code": "BE",
+        "asn": "12942",
+        "description": "Network Research Belgium S.A.",
+        "handle": "NRB-AS"
+    },
+    "13226": {
+        "country_code": "BE",
+        "asn": "13226",
+        "description": "CYBERNET SA",
+        "handle": "CYBERNET"
+    },
+    "15383": {
+        "country_code": "BE",
+        "asn": "15383",
+        "description": "Paradigm",
+        "handle": "PARADIGM"
+    },
+    "15776": {
+        "country_code": "BE",
+        "asn": "15776",
+        "description": "International Business Machines of Belgium Ltd",
+        "handle": "INTERNATIONAL-BUSINESS-MACHINES"
+    },
+    "15953": {
+        "country_code": "BE",
+        "asn": "15953",
+        "description": "KBC GLOBAL SERVICES NV",
+        "handle": "AS-KBCGS-CEDC"
+    },
+    "16194": {
+        "country_code": "BE",
+        "asn": "16194",
+        "description": "Inetum Belgium NV",
+        "handle": "REALDOLMEN"
+    },
+    "16294": {
+        "country_code": "BE",
+        "asn": "16294",
+        "description": "Descartes Systems (Belgium) NV",
+        "handle": "DSG-EMEA"
+    },
+    "16326": {
+        "country_code": "BE",
+        "asn": "16326",
+        "description": "SmalS vzw",
+        "handle": "SMALS-MVM"
+    },
+    "20650": {
+        "country_code": "BE",
+        "asn": "20650",
+        "description": "IP NEXIA N.V.",
+        "handle": "IPNEXIA-AS"
+    },
+    "21108": {
+        "country_code": "BE",
+        "asn": "21108",
+        "description": "Atos Belgium BV",
+        "handle": "ATOS-BELGIUM-AS"
+    },
+    "21239": {
+        "country_code": "BE",
+        "asn": "21239",
+        "description": "DNS-Belgium VZW",
+        "handle": "DNS-BELGIUM"
+    },
+    "21373": {
+        "country_code": "BE",
+        "asn": "21373",
+        "description": "Banque Nationale de Belgique",
+        "handle": "NBB-AS"
+    },
+    "21474": {
+        "country_code": "BE",
+        "asn": "21474",
+        "description": "SD WORX People Solutions",
+        "handle": "SD-WORX"
+    },
+    "21489": {
+        "country_code": "BE",
+        "asn": "21489",
+        "description": "The North Atlantic Treaty Organization",
+        "handle": "SHAPE-AS"
+    },
+    "25024": {
+        "country_code": "BE",
+        "asn": "25024",
+        "description": "Deceuninck NV",
+        "handle": "DECEUNINCK-PLASTICS"
+    },
+    "25065": {
+        "country_code": "BE",
+        "asn": "25065",
+        "description": "Cegeka NV",
+        "handle": "CEGEKA-CLOUD"
+    },
+    "25114": {
+        "country_code": "BE",
+        "asn": "25114",
+        "description": "GraydonCreditsafe Belgium NV",
+        "handle": "GRAYDON"
+    },
+    "25136": {
+        "country_code": "BE",
+        "asn": "25136",
+        "description": "Portima",
+        "handle": "PORTIMA-AS"
+    },
+    "25194": {
+        "country_code": "BE",
+        "asn": "25194",
+        "description": "AGC Glass Europe",
+        "handle": "GLAVERBEL-AS"
+    },
+    "25344": {
+        "country_code": "BE",
+        "asn": "25344",
+        "description": "Technofutur TIC ASBL",
+        "handle": "TECHNOFUTUR-AS"
+    },
+    "25395": {
+        "country_code": "BE",
+        "asn": "25395",
+        "description": "Gateway Communications",
+        "handle": "GATEWAYCOMMS"
+    },
+    "25428": {
+        "country_code": "BE",
+        "asn": "25428",
+        "description": "Colruyt Group NV",
+        "handle": "INFOCO-COLRUYT-AS"
+    },
+    "25450": {
+        "country_code": "BE",
+        "asn": "25450",
+        "description": "Toyota Boshoku Europe N.V.",
+        "handle": "AS-TBEU"
+    },
+    "28704": {
+        "country_code": "BE",
+        "asn": "28704",
+        "description": "Proximus NV",
+        "handle": "BELGACOM-AS"
+    },
+    "28707": {
+        "country_code": "BE",
+        "asn": "28707",
+        "description": "Dstny BE N.V.",
+        "handle": "DSTNY-STUART"
+    },
+    "28747": {
+        "country_code": "BE",
+        "asn": "28747",
+        "description": "Easyhost BVBA",
+        "handle": "EASYHOST-COLO-AS"
+    },
+    "28827": {
+        "country_code": "BE",
+        "asn": "28827",
+        "description": "BNP Paribas Fortis NV",
+        "handle": "FORTIS-INTERNET-AS"
+    },
+    "28988": {
+        "country_code": "BE",
+        "asn": "28988",
+        "description": "Fluxys Belgium sa",
+        "handle": "FLUXYS-AS"
+    },
+    "29005": {
+        "country_code": "BE",
+        "asn": "29005",
+        "description": "Proximus NV",
+        "handle": "PROXIMUS-AS"
+    },
+    "29435": {
+        "country_code": "BE",
+        "asn": "29435",
+        "description": "@iPower N.V.",
+        "handle": "IPOWER-AS"
+    },
+    "29462": {
+        "country_code": "BE",
+        "asn": "29462",
+        "description": "Dstny BE N.V.",
+        "handle": "DSTNY-NL"
+    },
+    "29529": {
+        "country_code": "BE",
+        "asn": "29529",
+        "description": "iTecom bv",
+        "handle": "ITECOM-ASN"
+    },
+    "29533": {
+        "country_code": "BE",
+        "asn": "29533",
+        "description": "Bart Champagne",
+        "handle": "FREEBIX"
+    },
+    "29587": {
+        "country_code": "BE",
+        "asn": "29587",
+        "description": "Hermes Telecom BVBA",
+        "handle": "FRI3DCAMPNET-BY-HERMES-TELECOM"
+    },
+    "29595": {
+        "country_code": "BE",
+        "asn": "29595",
+        "description": "WEngage N.V.",
+        "handle": "WENGAGE"
+    },
+    "30961": {
+        "country_code": "BE",
+        "asn": "30961",
+        "description": "Combell NV",
+        "handle": "OPENMINDS-AS"
+    },
+    "31154": {
+        "country_code": "BE",
+        "asn": "31154",
+        "description": "Toyota Motor Europe SA",
+        "handle": "TMME-AS"
+    },
+    "31241": {
+        "country_code": "BE",
+        "asn": "31241",
+        "description": "ASP SA",
+        "handle": "ASP-BE-AS"
+    },
+    "31449": {
+        "country_code": "BE",
+        "asn": "31449",
+        "description": "BELCENTER SA",
+        "handle": "AS31449"
+    },
+    "31511": {
+        "country_code": "BE",
+        "asn": "31511",
+        "description": "Infrabel NV",
+        "handle": "B-RAIL-BE-AS"
+    },
+    "31553": {
+        "country_code": "BE",
+        "asn": "31553",
+        "description": "Talessa SPRL",
+        "handle": "EDPNETRU-AS"
+    },
+    "31612": {
+        "country_code": "BE",
+        "asn": "31612",
+        "description": "Agfa Gevaert NV",
+        "handle": "AGFA-AS"
+    },
+    "31651": {
+        "country_code": "BE",
+        "asn": "31651",
+        "description": "Interxion Belgium B.V.",
+        "handle": "INTERXION-BE-TRANSIT-AS"
+    },
+    "31713": {
+        "country_code": "BE",
+        "asn": "31713",
+        "description": "Gateway Communications",
+        "handle": "GWCOMMS-MPLS"
+    },
+    "33864": {
+        "country_code": "BE",
+        "asn": "33864",
+        "description": "Wallonie Data Center SA",
+        "handle": "WDC-AS"
+    },
+    "34106": {
+        "country_code": "BE",
+        "asn": "34106",
+        "description": "Mediahuis Technology & Product Studio NV",
+        "handle": "TELEGRAAF-AS"
+    },
+    "34144": {
+        "country_code": "BE",
+        "asn": "34144",
+        "description": "EUSIP bvba",
+        "handle": "EUSIP-RACK66"
+    },
+    "34196": {
+        "country_code": "BE",
+        "asn": "34196",
+        "description": "Pratobornum bv",
+        "handle": "AS-PRATOBORNUM"
+    },
+    "34641": {
+        "country_code": "BE",
+        "asn": "34641",
+        "description": "Sarah Rossius trading as Servperso Systems",
+        "handle": "SERVPERSO-SYSTEMS-CORP"
+    },
+    "34762": {
+        "country_code": "BE",
+        "asn": "34762",
+        "description": "Combell NV",
+        "handle": "COMBELL-AS"
+    },
+    "34872": {
+        "country_code": "BE",
+        "asn": "34872",
+        "description": "Sarah Rossius trading as Servperso Systems",
+        "handle": "SERVPERSO-SYSTEMS"
+    },
+    "35001": {
+        "country_code": "BE",
+        "asn": "35001",
+        "description": "MyOwn sprl",
+        "handle": "MYOWN-AS"
+    },
+    "35056": {
+        "country_code": "BE",
+        "asn": "35056",
+        "description": "AG Insurance N.V.",
+        "handle": "FORTISAG-AS"
+    },
+    "35084": {
+        "country_code": "BE",
+        "asn": "35084",
+        "description": "Euroclear SA",
+        "handle": "EUROCLEAR"
+    },
+    "35137": {
+        "country_code": "BE",
+        "asn": "35137",
+        "description": "Localitel bvba",
+        "handle": "BELGIUMIX"
+    },
+    "35219": {
+        "country_code": "BE",
+        "asn": "35219",
+        "description": "VERIXI SA",
+        "handle": "VERIXI-BELGIUM"
+    },
+    "35350": {
+        "country_code": "BE",
+        "asn": "35350",
+        "description": "UCB Pharma S.A.",
+        "handle": "AS-SCHWARZ-PHARMA-AG"
+    },
+    "35593": {
+        "country_code": "BE",
+        "asn": "35593",
+        "description": "UniWeb bvba",
+        "handle": "UNIWEB-AS"
+    },
+    "35627": {
+        "country_code": "BE",
+        "asn": "35627",
+        "description": "Tom Laermans",
+        "handle": "PHYXIA"
+    },
+    "35660": {
+        "country_code": "BE",
+        "asn": "35660",
+        "description": "SA EASI",
+        "handle": "EASI-AS"
+    },
+    "35701": {
+        "country_code": "BE",
+        "asn": "35701",
+        "description": "Bart Champagne",
+        "handle": "BCH-AS"
+    },
+    "35733": {
+        "country_code": "BE",
+        "asn": "35733",
+        "description": "EURid vzw",
+        "handle": "EURID"
+    },
+    "39436": {
+        "country_code": "BE",
+        "asn": "39436",
+        "description": "Amonis OFP",
+        "handle": "AMONIS"
+    },
+    "39579": {
+        "country_code": "BE",
+        "asn": "39579",
+        "description": "Rockwool Belgium NV",
+        "handle": "CHICAGO-METALLIC-AS"
+    },
+    "39628": {
+        "country_code": "BE",
+        "asn": "39628",
+        "description": "Cu.be Solutions B.V.",
+        "handle": "FIRSTLINK-AS"
+    },
+    "39641": {
+        "country_code": "BE",
+        "asn": "39641",
+        "description": "WILLUX.be N.V.",
+        "handle": "ASN-WILLUX"
+    },
+    "39721": {
+        "country_code": "BE",
+        "asn": "39721",
+        "description": "Dstny BE N.V.",
+        "handle": "DSTNY-ELEVEN"
+    },
+    "39804": {
+        "country_code": "BE",
+        "asn": "39804",
+        "description": "Vlaamse Dienst voor Arbeidsbemiddelling en Beroepsopleiding",
+        "handle": "VDAB"
+    },
+    "39842": {
+        "country_code": "BE",
+        "asn": "39842",
+        "description": "COMPAGNIE D'ENTREPRISES CFE S.A.",
+        "handle": "CFE"
+    },
+    "39905": {
+        "country_code": "BE",
+        "asn": "39905",
+        "description": "ACTITO S.A.",
+        "handle": "ACTITO"
+    },
+    "39923": {
+        "country_code": "BE",
+        "asn": "39923",
+        "description": "Unix-Solutions BV",
+        "handle": "AS-UNIXSOLUTIONS"
+    },
+    "41008": {
+        "country_code": "BE",
+        "asn": "41008",
+        "description": "Cegeka NV",
+        "handle": "CEGEKA-GELEEN"
+    },
+    "41035": {
+        "country_code": "BE",
+        "asn": "41035",
+        "description": "Banque CPH SC",
+        "handle": "CPH-AS"
+    },
+    "41135": {
+        "country_code": "BE",
+        "asn": "41135",
+        "description": "Voxbone SA",
+        "handle": "VOXBONE-AS"
+    },
+    "41471": {
+        "country_code": "BE",
+        "asn": "41471",
+        "description": "Massive Media Match NV",
+        "handle": "NETLOG"
+    },
+    "41991": {
+        "country_code": "BE",
+        "asn": "41991",
+        "description": "Baloise Belgium NV",
+        "handle": "BALOISE-AS"
+    },
+    "42018": {
+        "country_code": "BE",
+        "asn": "42018",
+        "description": "Telenet BV",
+        "handle": "HOSTBASKET-BACKBONE"
+    },
+    "42160": {
+        "country_code": "BE",
+        "asn": "42160",
+        "description": "DC STAR nv",
+        "handle": "LCPDCO"
+    },
+    "42165": {
+        "country_code": "BE",
+        "asn": "42165",
+        "description": "European Commission - Directorate General - Joint Research Centre",
+        "handle": "JRC"
+    },
+    "42744": {
+        "country_code": "BE",
+        "asn": "42744",
+        "description": "AZ ST-JAN Brugge-Oostende A.V.",
+        "handle": "AZSTJAN"
+    },
+    "42851": {
+        "country_code": "BE",
+        "asn": "42851",
+        "description": "Elia Asset N.V",
+        "handle": "ELIABE-AS"
+    },
+    "43324": {
+        "country_code": "BE",
+        "asn": "43324",
+        "description": "Dstny BE N.V.",
+        "handle": "DESTINY-FAROYA"
+    },
+    "43640": {
+        "country_code": "BE",
+        "asn": "43640",
+        "description": "S103 BVBA",
+        "handle": "QBONE-NET-2"
+    },
+    "44140": {
+        "country_code": "BE",
+        "asn": "44140",
+        "description": "Winlin BVBA",
+        "handle": "WINLIN"
+    },
+    "44216": {
+        "country_code": "BE",
+        "asn": "44216",
+        "description": "Telenet BV",
+        "handle": "CODITEL"
+    },
+    "44311": {
+        "country_code": "BE",
+        "asn": "44311",
+        "description": "Alliance Nationale des Mutualites Chretiennes",
+        "handle": "CM-MC-ASNUMBER"
+    },
+    "44312": {
+        "country_code": "BE",
+        "asn": "44312",
+        "description": "Moving Art Studio ASBL",
+        "handle": "MAS-ALL2ALL"
+    },
+    "44641": {
+        "country_code": "BE",
+        "asn": "44641",
+        "description": "Agisko BV",
+        "handle": "AGISKO"
+    },
+    "44806": {
+        "country_code": "BE",
+        "asn": "44806",
+        "description": "Kinamo N.V.",
+        "handle": "KINAMO-BACKBONE"
+    },
+    "44862": {
+        "country_code": "BE",
+        "asn": "44862",
+        "description": "LCR Telecom BV",
+        "handle": "LCRTELE"
+    },
+    "44944": {
+        "country_code": "BE",
+        "asn": "44944",
+        "description": "Telenet BV",
+        "handle": "BASE-AS"
+    },
+    "45049": {
+        "country_code": "BE",
+        "asn": "45049",
+        "description": "Mohamed El Bouddunti",
+        "handle": "WAN4YOU"
+    },
+    "47346": {
+        "country_code": "BE",
+        "asn": "47346",
+        "description": "Interfone Belgium SRL",
+        "handle": "INTERFONE"
+    },
+    "47377": {
+        "country_code": "BE",
+        "asn": "47377",
+        "description": "Orange Belgium SA",
+        "handle": "ORANGE-BELGIUM-SA"
+    },
+    "47504": {
+        "country_code": "BE",
+        "asn": "47504",
+        "description": "Mario Cnockaert",
+        "handle": "MCNOCKAERT-SERVICES"
+    },
+    "47555": {
+        "country_code": "BE",
+        "asn": "47555",
+        "description": "Diogenius SPRL",
+        "handle": "THGNET-VLB"
+    },
+    "47630": {
+        "country_code": "BE",
+        "asn": "47630",
+        "description": "TeleVoIP bv",
+        "handle": "TELEVOIP-AS"
+    },
+    "47688": {
+        "country_code": "BE",
+        "asn": "47688",
+        "description": "Localitel bvba",
+        "handle": "FASTIC-AS"
+    },
+    "47780": {
+        "country_code": "BE",
+        "asn": "47780",
+        "description": "Cebeo NV",
+        "handle": "CEBEO-BE01"
+    },
+    "47861": {
+        "country_code": "BE",
+        "asn": "47861",
+        "description": "Peter E. J. Durieux",
+        "handle": "DIGILEUVEN"
+    },
+    "48075": {
+        "country_code": "BE",
+        "asn": "48075",
+        "description": "S.W.I.F.T. SC",
+        "handle": "SWIFTASN"
+    },
+    "48137": {
+        "country_code": "BE",
+        "asn": "48137",
+        "description": "PI-GROUP BV",
+        "handle": "PI-GROUP"
+    },
+    "48185": {
+        "country_code": "BE",
+        "asn": "48185",
+        "description": "team.blue NV",
+        "handle": "TEAM-BLUE"
+    },
+    "48192": {
+        "country_code": "BE",
+        "asn": "48192",
+        "description": "ECS corporate NV",
+        "handle": "ECS"
+    },
+    "48260": {
+        "country_code": "BE",
+        "asn": "48260",
+        "description": "TELEWEB bvba",
+        "handle": "TELEWEB"
+    },
+    "48408": {
+        "country_code": "BE",
+        "asn": "48408",
+        "description": "Localitel bvba",
+        "handle": "LOCALITEL-AS"
+    },
+    "48517": {
+        "country_code": "BE",
+        "asn": "48517",
+        "description": "Dstny BE N.V.",
+        "handle": "DSTNY-BELGIUM"
+    },
+    "48638": {
+        "country_code": "BE",
+        "asn": "48638",
+        "description": "Cronos NV",
+        "handle": "CRONOS"
+    },
+    "48647": {
+        "country_code": "BE",
+        "asn": "48647",
+        "description": "Solvay SA",
+        "handle": "SOLVAY"
+    },
+    "48977": {
+        "country_code": "BE",
+        "asn": "48977",
+        "description": "Descartes Systems (Belgium) NV",
+        "handle": "STEPCOM"
+    },
+    "49046": {
+        "country_code": "BE",
+        "asn": "49046",
+        "description": "De Vlaamse Radio- en Televisieomroeporganisatie NV",
+        "handle": "VRT-AS"
+    },
+    "49268": {
+        "country_code": "BE",
+        "asn": "49268",
+        "description": "Hermes Telecom BVBA",
+        "handle": "AMPR-BE"
+    },
+    "49285": {
+        "country_code": "BE",
+        "asn": "49285",
+        "description": "ITAF BV",
+        "handle": "ITAF"
+    },
+    "49333": {
+        "country_code": "BE",
+        "asn": "49333",
+        "description": "Roularta Media Group SA",
+        "handle": "ROULARTA-MEDIA-GROUP-AS"
+    },
+    "49399": {
+        "country_code": "BE",
+        "asn": "49399",
+        "description": "Dstny BE N.V.",
+        "handle": "STUART-NL-AS"
+    },
+    "49405": {
+        "country_code": "BE",
+        "asn": "49405",
+        "description": "Dstny Global Infra Services NV",
+        "handle": "MOTTO-VOIP-AS"
+    },
+    "49621": {
+        "country_code": "BE",
+        "asn": "49621",
+        "description": "Thinfactory N.V",
+        "handle": "THINFACTORY"
+    },
+    "49677": {
+        "country_code": "BE",
+        "asn": "49677",
+        "description": "MAEHDROS S.A.",
+        "handle": "MAEHDROS-AS"
+    },
+    "49703": {
+        "country_code": "BE",
+        "asn": "49703",
+        "description": "CONSULTIC SRL",
+        "handle": "CONSULTIC"
+    },
+    "49752": {
+        "country_code": "BE",
+        "asn": "49752",
+        "description": "Hackerspace Brussels",
+        "handle": "SQUIRRELCO-AS"
+    },
+    "49884": {
+        "country_code": "BE",
+        "asn": "49884",
+        "description": "SmartEye B.V",
+        "handle": "IXSTAR"
+    },
+    "49935": {
+        "country_code": "BE",
+        "asn": "49935",
+        "description": "SmartEye B.V",
+        "handle": "SMARTEYE"
+    },
+    "49964": {
+        "country_code": "BE",
+        "asn": "49964",
+        "description": "TORNADO TELECOM S.R.L.",
+        "handle": "TORNADO"
+    },
+    "50083": {
+        "country_code": "BE",
+        "asn": "50083",
+        "description": "Hermes Telecom BVBA",
+        "handle": "HERMES-TELECOM-BACKBONE"
+    },
+    "50309": {
+        "country_code": "BE",
+        "asn": "50309",
+        "description": "Arcadiz Telecom NV",
+        "handle": "ARCADIZ"
+    },
+    "50675": {
+        "country_code": "BE",
+        "asn": "50675",
+        "description": "Dstny BE N.V.",
+        "handle": "DSTNY-FINLAND"
+    },
+    "50838": {
+        "country_code": "BE",
+        "asn": "50838",
+        "description": "Sandro Mastronardi",
+        "handle": "MASTRONARDI"
+    },
+    "50857": {
+        "country_code": "BE",
+        "asn": "50857",
+        "description": "Citymesh Integrator NV",
+        "handle": "MACTELECOM-AS"
+    },
+    "50906": {
+        "country_code": "BE",
+        "asn": "50906",
+        "description": "Luciad NV",
+        "handle": "LUCIAD"
+    },
+    "50998": {
+        "country_code": "BE",
+        "asn": "50998",
+        "description": "Dstny BE N.V.",
+        "handle": "DSTNY-ULYSSE"
+    },
+    "51006": {
+        "country_code": "BE",
+        "asn": "51006",
+        "description": "Antwerp DC bvba",
+        "handle": "ANTDC"
+    },
+    "51345": {
+        "country_code": "BE",
+        "asn": "51345",
+        "description": "Hugo Regibo",
+        "handle": "AS-HREGIBO"
+    },
+    "51462": {
+        "country_code": "BE",
+        "asn": "51462",
+        "description": "RTL Belgium SA",
+        "handle": "RTL-BELGIUM-SA-AS"
+    },
+    "51466": {
+        "country_code": "BE",
+        "asn": "51466",
+        "description": "Bridgestone Europe NV",
+        "handle": "BRIDGESTONE-EUROPE-AS"
+    },
+    "51696": {
+        "country_code": "BE",
+        "asn": "51696",
+        "description": "Arcadiz Telecom NV",
+        "handle": "ARCADIZ"
+    },
+    "51736": {
+        "country_code": "BE",
+        "asn": "51736",
+        "description": "ServUnit Technologies BV",
+        "handle": "SERVUNIT"
+    },
+    "51796": {
+        "country_code": "BE",
+        "asn": "51796",
+        "description": "nexperteam bv",
+        "handle": "NEXPERTEAM"
+    },
+    "56369": {
+        "country_code": "BE",
+        "asn": "56369",
+        "description": "Orange Belgium SA",
+        "handle": "ORANGEBE"
+    },
+    "56501": {
+        "country_code": "BE",
+        "asn": "56501",
+        "description": "Diogenius SPRL",
+        "handle": "BEHOSTINGS-L1"
+    },
+    "56675": {
+        "country_code": "BE",
+        "asn": "56675",
+        "description": "O.A.C. bvba",
+        "handle": "OAC"
+    },
+    "56837": {
+        "country_code": "BE",
+        "asn": "56837",
+        "description": "Tigron bv",
+        "handle": "TIGRON-AS"
+    },
+    "57225": {
+        "country_code": "BE",
+        "asn": "57225",
+        "description": "Floris van der Krieken",
+        "handle": "FLORISVDK"
+    },
+    "57265": {
+        "country_code": "BE",
+        "asn": "57265",
+        "description": "STORYBEL SNC",
+        "handle": "STORYBEL"
+    },
+    "57402": {
+        "country_code": "BE",
+        "asn": "57402",
+        "description": "Gateway Communications",
+        "handle": "GWCOMMS-EU-BB"
+    },
+    "57909": {
+        "country_code": "BE",
+        "asn": "57909",
+        "description": "The Last Mile vzw",
+        "handle": "TLM"
+    },
+    "57933": {
+        "country_code": "BE",
+        "asn": "57933",
+        "description": "IRISnet SCRL",
+        "handle": "IRISNET"
+    },
+    "57948": {
+        "country_code": "BE",
+        "asn": "57948",
+        "description": "Cobalt Group BV",
+        "handle": "COBALT"
+    },
+    "58122": {
+        "country_code": "BE",
+        "asn": "58122",
+        "description": "NorthgateArinso Belgium BV",
+        "handle": "NORTHGATEARINSO-EU"
+    },
+    "58123": {
+        "country_code": "BE",
+        "asn": "58123",
+        "description": "NG Communications BV",
+        "handle": "NGCOMMUNICATIONS"
+    },
+    "59505": {
+        "country_code": "BE",
+        "asn": "59505",
+        "description": "Intellinet BV",
+        "handle": "AS3535"
+    },
+    "59827": {
+        "country_code": "BE",
+        "asn": "59827",
+        "description": "Futureweb BVBA",
+        "handle": "FUTUREWEB-AS"
+    },
+    "59943": {
+        "country_code": "BE",
+        "asn": "59943",
+        "description": "Level 27 BVBA",
+        "handle": "LEVEL27-AS"
+    },
+    "60342": {
+        "country_code": "BE",
+        "asn": "60342",
+        "description": "team.blue NV",
+        "handle": "TOPHOST-SPARE"
+    },
+    "60436": {
+        "country_code": "BE",
+        "asn": "60436",
+        "description": "KBC GLOBAL SERVICES NV",
+        "handle": "AS-KBCGROUP-DCBE"
+    },
+    "60650": {
+        "country_code": "BE",
+        "asn": "60650",
+        "description": "Nethys S.A",
+        "handle": "ITTECTEO"
+    },
+    "60853": {
+        "country_code": "BE",
+        "asn": "60853",
+        "description": "CAPGEMINI BELGIUM NV",
+        "handle": "SOGETI"
+    },
+    "61023": {
+        "country_code": "BE",
+        "asn": "61023",
+        "description": "WORLDCALL TELECOM BV",
+        "handle": "WORLDCALL-AS"
+    },
+    "62058": {
+        "country_code": "BE",
+        "asn": "62058",
+        "description": "ETSPUBLI RADIO-TELEVISION BELGE DE LA COMMUNAUTE FRANCAISE",
+        "handle": "RTBF"
+    },
+    "62098": {
+        "country_code": "BE",
+        "asn": "62098",
+        "description": "Espix Network SPRL",
+        "handle": "ESPIX"
+    },
+    "62383": {
+        "country_code": "BE",
+        "asn": "62383",
+        "description": "Lambrechts Data Services VOF",
+        "handle": "LDS-AS"
+    },
+    "62392": {
+        "country_code": "BE",
+        "asn": "62392",
+        "description": "FOSDEM VZW",
+        "handle": "FOSDEM"
+    },
+    "62437": {
+        "country_code": "BE",
+        "asn": "62437",
+        "description": "Unix-Solutions BV",
+        "handle": "AS-UNIXSOLUTIONS2"
+    },
+    "64478": {
+        "country_code": "BE",
+        "asn": "64478",
+        "description": "Fabien Schenkels",
+        "handle": "SKSGROUP"
+    },
+    "196755": {
+        "country_code": "BE",
+        "asn": "196755",
+        "description": "Sewan Belgium SA",
+        "handle": "NET-3STARS-AS"
+    },
+    "196987": {
+        "country_code": "BE",
+        "asn": "196987",
+        "description": "Inetum Belgium NV",
+        "handle": "REALDOLMEN-DC-AS"
+    },
+    "197429": {
+        "country_code": "BE",
+        "asn": "197429",
+        "description": "Cerence B.V.",
+        "handle": "NUANINTL-AS"
+    },
+    "197690": {
+        "country_code": "BE",
+        "asn": "197690",
+        "description": "CBlue SPRL",
+        "handle": "CBLUE-AS"
+    },
+    "197949": {
+        "country_code": "BE",
+        "asn": "197949",
+        "description": "DPG Media Group NV",
+        "handle": "VMMA"
+    },
+    "198011": {
+        "country_code": "BE",
+        "asn": "198011",
+        "description": "Weserve Belgium B.V.",
+        "handle": "WESERVE-BELGIUM"
+    },
+    "198148": {
+        "country_code": "BE",
+        "asn": "198148",
+        "description": "Gateway Communications",
+        "handle": "GWCOMMS-EU-BACKBONE"
+    },
+    "198559": {
+        "country_code": "BE",
+        "asn": "198559",
+        "description": "BELNET",
+        "handle": "AS-BNIX"
+    },
+    "198664": {
+        "country_code": "BE",
+        "asn": "198664",
+        "description": "SPIE ICS Cloud Solutions SA",
+        "handle": "SYSTEMAT-DIGITAL-HUB"
+    },
+    "198708": {
+        "country_code": "BE",
+        "asn": "198708",
+        "description": "NameWeb BVBA",
+        "handle": "NAMEWEB"
+    },
+    "198847": {
+        "country_code": "BE",
+        "asn": "198847",
+        "description": "EXXOSS SPRL",
+        "handle": "EXXOSS-AS"
+    },
+    "198912": {
+        "country_code": "BE",
+        "asn": "198912",
+        "description": "Societe Internationale de Telecommunications Aeronautiques",
+        "handle": "SITA-SPC-CLOUD-FRA"
+    },
+    "199095": {
+        "country_code": "BE",
+        "asn": "199095",
+        "description": "Citymesh Integrator NV",
+        "handle": "CITYMESH-AS"
+    },
+    "199207": {
+        "country_code": "BE",
+        "asn": "199207",
+        "description": "EURid vzw",
+        "handle": "EURID-ANYCAST"
+    },
+    "199246": {
+        "country_code": "BE",
+        "asn": "199246",
+        "description": "team.blue NV",
+        "handle": "TOPHOST"
+    },
+    "199541": {
+        "country_code": "BE",
+        "asn": "199541",
+        "description": "EUROCONTROL the European Organisation for the Safety of Air Navigation",
+        "handle": "EUROCONTROL-AS"
+    },
+    "199670": {
+        "country_code": "BE",
+        "asn": "199670",
+        "description": "DNS-Belgium VZW",
+        "handle": "DNS-ANYCAST"
+    },
+    "199756": {
+        "country_code": "BE",
+        "asn": "199756",
+        "description": "DP World Antwerp Holding NV",
+        "handle": "DPWORLDBE"
+    },
+    "199796": {
+        "country_code": "BE",
+        "asn": "199796",
+        "description": "Mediahuis Technology & Product Studio NV",
+        "handle": "MEDIAHUIS"
+    },
+    "199839": {
+        "country_code": "BE",
+        "asn": "199839",
+        "description": "Mike Marchal",
+        "handle": "MIKENETWORKS-AS"
+    },
+    "199942": {
+        "country_code": "BE",
+        "asn": "199942",
+        "description": "Cheops Technology NV",
+        "handle": "CHEOPS"
+    },
+    "199998": {
+        "country_code": "BE",
+        "asn": "199998",
+        "description": "Dstny BE N.V.",
+        "handle": "DESTINY-SWEDEN"
+    },
+    "200057": {
+        "country_code": "BE",
+        "asn": "200057",
+        "description": "Bogdan ION",
+        "handle": "BOGDAN-ION"
+    },
+    "200133": {
+        "country_code": "BE",
+        "asn": "200133",
+        "description": "HUmani Society",
+        "handle": "CHU-AS"
+    },
+    "200353": {
+        "country_code": "BE",
+        "asn": "200353",
+        "description": "Opgroeien regie",
+        "handle": "ASKENG"
+    },
+    "200510": {
+        "country_code": "BE",
+        "asn": "200510",
+        "description": "Kiwazo CommV",
+        "handle": "ASFL"
+    },
+    "200585": {
+        "country_code": "BE",
+        "asn": "200585",
+        "description": "PSA Antwerp NV",
+        "handle": "PSA-BE-ASN1"
+    },
+    "200869": {
+        "country_code": "BE",
+        "asn": "200869",
+        "description": "Techno1 SRL",
+        "handle": "GAMING1"
+    },
+    "200882": {
+        "country_code": "BE",
+        "asn": "200882",
+        "description": "DC Innovations BV",
+        "handle": "DC-INNOVATIONS-BV"
+    },
+    "200884": {
+        "country_code": "BE",
+        "asn": "200884",
+        "description": "Effix Holding BV",
+        "handle": "EFFIX-BE"
+    },
+    "200911": {
+        "country_code": "BE",
+        "asn": "200911",
+        "description": "H. Essers en Zonen International Transport N.V.",
+        "handle": "ESSERS-AS"
+    },
+    "201004": {
+        "country_code": "BE",
+        "asn": "201004",
+        "description": "Global Telephone & Telecommunication S.A. (GT&T)",
+        "handle": "GLOBALTT-AS"
+    },
+    "201042": {
+        "country_code": "BE",
+        "asn": "201042",
+        "description": "SD1-Telecom SRL",
+        "handle": "SD1-TELECOM"
+    },
+    "201050": {
+        "country_code": "BE",
+        "asn": "201050",
+        "description": "S103 BVBA",
+        "handle": "QBONE-NET"
+    },
+    "201067": {
+        "country_code": "BE",
+        "asn": "201067",
+        "description": "Immoweb S.A.",
+        "handle": "IMMOWEB-BE"
+    },
+    "201168": {
+        "country_code": "BE",
+        "asn": "201168",
+        "description": "YMLP BVBA",
+        "handle": "YMLP-NETWORK"
+    },
+    "201189": {
+        "country_code": "BE",
+        "asn": "201189",
+        "description": "IRC Engineering NV",
+        "handle": "IRC"
+    },
+    "201205": {
+        "country_code": "BE",
+        "asn": "201205",
+        "description": "Fluvius System Operator CV",
+        "handle": "ASN-FLUVIUS-SP"
+    },
+    "201338": {
+        "country_code": "BE",
+        "asn": "201338",
+        "description": "DAMOVO BELGIUM SA",
+        "handle": "DAMOVO-BE"
+    },
+    "201366": {
+        "country_code": "BE",
+        "asn": "201366",
+        "description": "Localitel bvba",
+        "handle": "TMP-AS"
+    },
+    "201671": {
+        "country_code": "BE",
+        "asn": "201671",
+        "description": "Argenta Spaarbank NV",
+        "handle": "ARGENTA"
+    },
+    "201859": {
+        "country_code": "BE",
+        "asn": "201859",
+        "description": "Ministeries van de Vlaamse Gemeenschap",
+        "handle": "NEW-AS"
+    },
+    "201887": {
+        "country_code": "BE",
+        "asn": "201887",
+        "description": "SAVACO NV",
+        "handle": "SAVACOAS"
+    },
+    "201894": {
+        "country_code": "BE",
+        "asn": "201894",
+        "description": "FLEXIMUS BVBA",
+        "handle": "FLEXIMUS-AS"
+    },
+    "201984": {
+        "country_code": "BE",
+        "asn": "201984",
+        "description": "E-Solutions BV",
+        "handle": "ESOLUTIONS-AS"
+    },
+    "202191": {
+        "country_code": "BE",
+        "asn": "202191",
+        "description": "SERVICE ORGANISATIE NASCHOLING JOINT VENTURE EN ADMINISTRATIE NV",
+        "handle": "SONJA"
+    },
+    "202272": {
+        "country_code": "BE",
+        "asn": "202272",
+        "description": "William Gathoye",
+        "handle": "WGET-AS"
+    },
+    "202380": {
+        "country_code": "BE",
+        "asn": "202380",
+        "description": "Single Resolution Board",
+        "handle": "SRB"
+    },
+    "202389": {
+        "country_code": "BE",
+        "asn": "202389",
+        "description": "AEROSPACELAB SA",
+        "handle": "AEROSPACELAB"
+    },
+    "202495": {
+        "country_code": "BE",
+        "asn": "202495",
+        "description": "Jan De Nul Dredging NV",
+        "handle": "JDN"
+    },
+    "202598": {
+        "country_code": "BE",
+        "asn": "202598",
+        "description": "Sopra Steria Belgium SA",
+        "handle": "SOPRASTERIABE"
+    },
+    "202688": {
+        "country_code": "BE",
+        "asn": "202688",
+        "description": "SpotIT BVBA",
+        "handle": "SPOTIT"
+    },
+    "202708": {
+        "country_code": "BE",
+        "asn": "202708",
+        "description": "Radionomy SA",
+        "handle": "RNGROUP"
+    },
+    "202713": {
+        "country_code": "BE",
+        "asn": "202713",
+        "description": "Stadsbader Contractors BV",
+        "handle": "AS-BAMBE"
+    },
+    "202830": {
+        "country_code": "BE",
+        "asn": "202830",
+        "description": "KBC GLOBAL SERVICES NV",
+        "handle": "AS-KBCGROUP-DCSK"
+    },
+    "202964": {
+        "country_code": "BE",
+        "asn": "202964",
+        "description": "Cloudalize NV",
+        "handle": "RADIANARCEUROPE"
+    },
+    "203148": {
+        "country_code": "BE",
+        "asn": "203148",
+        "description": "Xenius BVBA",
+        "handle": "XENIUS"
+    },
+    "203225": {
+        "country_code": "BE",
+        "asn": "203225",
+        "description": "Societe Liegeoise de Micro Informatique",
+        "handle": "COMPUTERLAND-AS"
+    },
+    "203260": {
+        "country_code": "BE",
+        "asn": "203260",
+        "description": "Exmar nv",
+        "handle": "EXMAR"
+    },
+    "203338": {
+        "country_code": "BE",
+        "asn": "203338",
+        "description": "NTT Belgium SA",
+        "handle": "DDBE-INTERNET"
+    },
+    "203630": {
+        "country_code": "BE",
+        "asn": "203630",
+        "description": "Netflow Software BV",
+        "handle": "ACCEL-ADC"
+    },
+    "203640": {
+        "country_code": "BE",
+        "asn": "203640",
+        "description": "EDPNET Belgium BV",
+        "handle": "ALLIP"
+    },
+    "203849": {
+        "country_code": "BE",
+        "asn": "203849",
+        "description": "Umicore NV",
+        "handle": "UMICORE"
+    },
+    "203857": {
+        "country_code": "BE",
+        "asn": "203857",
+        "description": "LOCINOX N.V.",
+        "handle": "LOCINOX"
+    },
+    "204013": {
+        "country_code": "BE",
+        "asn": "204013",
+        "description": "Network Research Belgium S.A.",
+        "handle": "NRB"
+    },
+    "204059": {
+        "country_code": "BE",
+        "asn": "204059",
+        "description": "Neutrinet ASBL",
+        "handle": "NEUTRINET"
+    },
+    "204120": {
+        "country_code": "BE",
+        "asn": "204120",
+        "description": "Colibri Consulting B.V.B.A.",
+        "handle": "COLIBRI-CONSULTING-AS"
+    },
+    "204182": {
+        "country_code": "BE",
+        "asn": "204182",
+        "description": "Ministeries van de Vlaamse Gemeenschap",
+        "handle": "AWV-TELEMATICA"
+    },
+    "204363": {
+        "country_code": "BE",
+        "asn": "204363",
+        "description": "Frank Meeusen",
+        "handle": "BLOXIO-AS"
+    },
+    "204561": {
+        "country_code": "BE",
+        "asn": "204561",
+        "description": "Diogenius SPRL",
+        "handle": "EURASERV-L2"
+    },
+    "204951": {
+        "country_code": "BE",
+        "asn": "204951",
+        "description": "Ubicum BVBA",
+        "handle": "UBICUM"
+    },
+    "204959": {
+        "country_code": "BE",
+        "asn": "204959",
+        "description": "Ontex Group NV",
+        "handle": "ONTEX"
+    },
+    "205080": {
+        "country_code": "BE",
+        "asn": "205080",
+        "description": "Societe Internationale de Telecommunications Aeronautiques",
+        "handle": "SITA-CORPORATE"
+    },
+    "205233": {
+        "country_code": "BE",
+        "asn": "205233",
+        "description": "KBC GLOBAL SERVICES NV",
+        "handle": "AS-KBCGROUP-CSOBCZ"
+    },
+    "205333": {
+        "country_code": "BE",
+        "asn": "205333",
+        "description": "Arcadiz Telecom NV",
+        "handle": "ARCADIZ-NL"
+    },
+    "205361": {
+        "country_code": "BE",
+        "asn": "205361",
+        "description": "Brain2 PLC",
+        "handle": "BRAINSQUARE"
+    },
+    "205401": {
+        "country_code": "BE",
+        "asn": "205401",
+        "description": "Ion Beam Applications SA",
+        "handle": "IBA-AS"
+    },
+    "205409": {
+        "country_code": "BE",
+        "asn": "205409",
+        "description": "Embuild VZW",
+        "handle": "BE-CONFBOUW"
+    },
+    "205476": {
+        "country_code": "BE",
+        "asn": "205476",
+        "description": "Orange Cyberdefense Belgium nv",
+        "handle": "SECURELINK-AS"
+    },
+    "205561": {
+        "country_code": "BE",
+        "asn": "205561",
+        "description": "Fluvius System Operator CV",
+        "handle": "ASN-FLUVIUS-IT"
+    },
+    "205583": {
+        "country_code": "BE",
+        "asn": "205583",
+        "description": "PC Yellow bv",
+        "handle": "PC-YELLOW"
+    },
+    "205812": {
+        "country_code": "BE",
+        "asn": "205812",
+        "description": "Fabien Schenkels",
+        "handle": "FABIEN"
+    },
+    "205924": {
+        "country_code": "BE",
+        "asn": "205924",
+        "description": "Limoengroen BV",
+        "handle": "LIMOENGROEN"
+    },
+    "206038": {
+        "country_code": "BE",
+        "asn": "206038",
+        "description": "team.blue NV",
+        "handle": "ENARTIA"
+    },
+    "206051": {
+        "country_code": "BE",
+        "asn": "206051",
+        "description": "ARAMARK N.V",
+        "handle": "ARAMARK-IE"
+    },
+    "206235": {
+        "country_code": "BE",
+        "asn": "206235",
+        "description": "stow International nv",
+        "handle": "STOWGROUP"
+    },
+    "206254": {
+        "country_code": "BE",
+        "asn": "206254",
+        "description": "GIG.tech N.V.",
+        "handle": "GIG"
+    },
+    "206255": {
+        "country_code": "BE",
+        "asn": "206255",
+        "description": "Effortel Technologies S.A.",
+        "handle": "E4T"
+    },
+    "206284": {
+        "country_code": "BE",
+        "asn": "206284",
+        "description": "BV THINK AGAIN",
+        "handle": "THINK-AGAIN"
+    },
+    "206458": {
+        "country_code": "BE",
+        "asn": "206458",
+        "description": "Het Vlaams Parlement",
+        "handle": "VP"
+    },
+    "206537": {
+        "country_code": "BE",
+        "asn": "206537",
+        "description": "Fit IT NV",
+        "handle": "FIT-IT-BE"
+    },
+    "206562": {
+        "country_code": "BE",
+        "asn": "206562",
+        "description": "Telenet BV",
+        "handle": "NXTBE"
+    },
+    "206665": {
+        "country_code": "BE",
+        "asn": "206665",
+        "description": "BOLT BVBA",
+        "handle": "NETRIK"
+    },
+    "206677": {
+        "country_code": "BE",
+        "asn": "206677",
+        "description": "EMG Belgium NV",
+        "handle": "VIDEOHOUSE"
+    },
+    "206883": {
+        "country_code": "BE",
+        "asn": "206883",
+        "description": "Brussels Expo Association",
+        "handle": "BRUSSELSEXPO-AS"
+    },
+    "206960": {
+        "country_code": "BE",
+        "asn": "206960",
+        "description": "NET COMPUTER GROUP S.A.",
+        "handle": "NETCSA"
+    },
+    "207232": {
+        "country_code": "BE",
+        "asn": "207232",
+        "description": "CHIREC asbl",
+        "handle": "BE-CHIREC-D"
+    },
+    "207290": {
+        "country_code": "BE",
+        "asn": "207290",
+        "description": "Mediterranean Shipping Company Belgium N.V.",
+        "handle": "MSC-BELGIUM"
+    },
+    "207424": {
+        "country_code": "BE",
+        "asn": "207424",
+        "description": "Max Ouwens",
+        "handle": "HYNET"
+    },
+    "207467": {
+        "country_code": "BE",
+        "asn": "207467",
+        "description": "Orange Belgium SA",
+        "handle": "AS-BKM"
+    },
+    "207537": {
+        "country_code": "BE",
+        "asn": "207537",
+        "description": "Stefan Blomme",
+        "handle": "AS-BLOMME"
+    },
+    "207562": {
+        "country_code": "BE",
+        "asn": "207562",
+        "description": "ZOLBIZZ vzw",
+        "handle": "ZOLBIZZ"
+    },
+    "207574": {
+        "country_code": "BE",
+        "asn": "207574",
+        "description": "Alexandre Olemans",
+        "handle": "MIKENETWORKS-UK-AS"
+    },
+    "207644": {
+        "country_code": "BE",
+        "asn": "207644",
+        "description": "Sciensano OI",
+        "handle": "SCIENSANO"
+    },
+    "207650": {
+        "country_code": "BE",
+        "asn": "207650",
+        "description": "Koen De Wit",
+        "handle": "KOEN"
+    },
+    "207664": {
+        "country_code": "BE",
+        "asn": "207664",
+        "description": "Ascoo-ITS BV",
+        "handle": "ASCOO-IT-SOLUTIONS"
+    },
+    "207730": {
+        "country_code": "BE",
+        "asn": "207730",
+        "description": "Sappi Europe S.A.",
+        "handle": "ASSAPPIAT"
+    },
+    "207750": {
+        "country_code": "BE",
+        "asn": "207750",
+        "description": "Erbacom bvba",
+        "handle": "ERBACOM"
+    },
+    "207994": {
+        "country_code": "BE",
+        "asn": "207994",
+        "description": "Blockchain Creek B.V.",
+        "handle": "BLOCKCHAIN-CREEK"
+    },
+    "208168": {
+        "country_code": "BE",
+        "asn": "208168",
+        "description": "STEL bvba",
+        "handle": "BE-CONNECT4"
+    },
+    "208210": {
+        "country_code": "BE",
+        "asn": "208210",
+        "description": "Sarah Rossius trading as Servperso Systems",
+        "handle": "SERVPERSO-SYSTEMS"
+    },
+    "208214": {
+        "country_code": "BE",
+        "asn": "208214",
+        "description": "Link2Link SA",
+        "handle": "LINK2LINK-CUSTOMER"
+    },
+    "208270": {
+        "country_code": "BE",
+        "asn": "208270",
+        "description": "Synamedia Vividtec Europe BVBA",
+        "handle": "SYNAMEDIA-BELGIUM"
+    },
+    "208396": {
+        "country_code": "BE",
+        "asn": "208396",
+        "description": "Mohawk International Services PLC",
+        "handle": "UNILIN-BE-AS"
+    },
+    "208406": {
+        "country_code": "BE",
+        "asn": "208406",
+        "description": "BANK DEGROOF PETERCAM SA",
+        "handle": "ASBDP"
+    },
+    "208416": {
+        "country_code": "BE",
+        "asn": "208416",
+        "description": "LCL BELGIUM NV",
+        "handle": "LCL-AS"
+    },
+    "208479": {
+        "country_code": "BE",
+        "asn": "208479",
+        "description": "Connectis S.A.",
+        "handle": "CONNECTIS"
+    },
+    "208620": {
+        "country_code": "BE",
+        "asn": "208620",
+        "description": "Delen Private Bank NV",
+        "handle": "DELEN"
+    },
+    "208655": {
+        "country_code": "BE",
+        "asn": "208655",
+        "description": "Bank J. Van Breda & Co NV",
+        "handle": "BANKJVANBREDA-BE"
+    },
+    "208725": {
+        "country_code": "BE",
+        "asn": "208725",
+        "description": "Devrandom.be BV",
+        "handle": "DEVRANDOM"
+    },
+    "208792": {
+        "country_code": "BE",
+        "asn": "208792",
+        "description": "Core ICT N.V.",
+        "handle": "COREICT"
+    },
+    "209203": {
+        "country_code": "BE",
+        "asn": "209203",
+        "description": "WHAT IF CommV",
+        "handle": "WHATIF"
+    },
+    "209226": {
+        "country_code": "BE",
+        "asn": "209226",
+        "description": "Centre hospitalier universitaire de Tivoli - Institut medical des Mutualites socialistes",
+        "handle": "CHU-TIVOLI"
+    },
+    "209383": {
+        "country_code": "BE",
+        "asn": "209383",
+        "description": "Securitas N.V.",
+        "handle": "SECURITAS"
+    },
+    "209547": {
+        "country_code": "BE",
+        "asn": "209547",
+        "description": "Atlas Copco support Services NV",
+        "handle": "ATLASCOPCO"
+    },
+    "209550": {
+        "country_code": "BE",
+        "asn": "209550",
+        "description": "European External Action Service",
+        "handle": "EEAS"
+    },
+    "209552": {
+        "country_code": "BE",
+        "asn": "209552",
+        "description": "Jan Siroky",
+        "handle": "JAN"
+    },
+    "209643": {
+        "country_code": "BE",
+        "asn": "209643",
+        "description": "Sarah Rossius trading as Servperso Systems",
+        "handle": "NLOCIX-INTERNET-EXCHANGE"
+    },
+    "209649": {
+        "country_code": "BE",
+        "asn": "209649",
+        "description": "Alain Crispiels trading as AutoConfig",
+        "handle": "AUTOCONFIG"
+    },
+    "209704": {
+        "country_code": "BE",
+        "asn": "209704",
+        "description": "NV OR NATIONALE MAATSCHAPPIJ DER BELGISCHE SPOORWEGEN",
+        "handle": "NMBS-SNCB"
+    },
+    "209718": {
+        "country_code": "BE",
+        "asn": "209718",
+        "description": "Jori Vanneste",
+        "handle": "REDPANDA-DNS-AS"
+    },
+    "209725": {
+        "country_code": "BE",
+        "asn": "209725",
+        "description": "Localitel bvba",
+        "handle": "FASTFIBER"
+    },
+    "209768": {
+        "country_code": "BE",
+        "asn": "209768",
+        "description": "white2net Srl",
+        "handle": "WHITE2NET"
+    },
+    "209897": {
+        "country_code": "BE",
+        "asn": "209897",
+        "description": "Partena Business Solutions sa",
+        "handle": "PARTENA-BE"
+    },
+    "209958": {
+        "country_code": "BE",
+        "asn": "209958",
+        "description": "Mike Marchal",
+        "handle": "MIKE-AS2"
+    },
+    "210017": {
+        "country_code": "BE",
+        "asn": "210017",
+        "description": "STEL bvba",
+        "handle": "DCHASSELT"
+    },
+    "210088": {
+        "country_code": "BE",
+        "asn": "210088",
+        "description": "Securitas N.V.",
+        "handle": "BE-SECURITAS-TECHNOLOGY"
+    },
+    "210196": {
+        "country_code": "BE",
+        "asn": "210196",
+        "description": "Jan De Nul Dredging NV",
+        "handle": "DMM"
+    },
+    "210227": {
+        "country_code": "BE",
+        "asn": "210227",
+        "description": "Jessa Ziekenhuis vzw",
+        "handle": "JESSAZH"
+    },
+    "210233": {
+        "country_code": "BE",
+        "asn": "210233",
+        "description": "Pixinko SARL",
+        "handle": "PIXINKO"
+    },
+    "210349": {
+        "country_code": "BE",
+        "asn": "210349",
+        "description": "Lurot Alexis",
+        "handle": "ALEXIS-LUROT"
+    },
+    "210358": {
+        "country_code": "BE",
+        "asn": "210358",
+        "description": "IMEC (Interuniversitair Micro-Electronica Centrum) VZW",
+        "handle": "IMEC"
+    },
+    "210444": {
+        "country_code": "BE",
+        "asn": "210444",
+        "description": "TVH Parts Holding NV",
+        "handle": "TVH"
+    },
+    "210689": {
+        "country_code": "BE",
+        "asn": "210689",
+        "description": "SECUTEC BV",
+        "handle": "SECUTECEU"
+    },
+    "210821": {
+        "country_code": "BE",
+        "asn": "210821",
+        "description": "Creasa VOF",
+        "handle": "AS-CREASA"
+    },
+    "210890": {
+        "country_code": "BE",
+        "asn": "210890",
+        "description": "ROKR Services BV",
+        "handle": "AS-ROKRSERVICES"
+    },
+    "210900": {
+        "country_code": "BE",
+        "asn": "210900",
+        "description": "MSC PSA European Terminal NV",
+        "handle": "MPET"
+    },
+    "211037": {
+        "country_code": "BE",
+        "asn": "211037",
+        "description": "1Ago CommV",
+        "handle": "ONEAGO"
+    },
+    "211070": {
+        "country_code": "BE",
+        "asn": "211070",
+        "description": "iSea NV",
+        "handle": "ISEA"
+    },
+    "211079": {
+        "country_code": "BE",
+        "asn": "211079",
+        "description": "E.S.I. Informatique S.P.R.L.",
+        "handle": "ESI-INFORMATIQUE-AS"
+    },
+    "211106": {
+        "country_code": "BE",
+        "asn": "211106",
+        "description": "L'Entreprise Publique des Technologies Numeriques de l'Information et de la Communication de la Communaute Francaise",
+        "handle": "ETNIC-AS"
+    },
+    "211136": {
+        "country_code": "BE",
+        "asn": "211136",
+        "description": "CERT-EU",
+        "handle": "CERT-EU"
+    },
+    "211184": {
+        "country_code": "BE",
+        "asn": "211184",
+        "description": "Unitix BV",
+        "handle": "UNITIX"
+    },
+    "211268": {
+        "country_code": "BE",
+        "asn": "211268",
+        "description": "Smartbit CommV",
+        "handle": "SMARTBIT"
+    },
+    "211304": {
+        "country_code": "BE",
+        "asn": "211304",
+        "description": "SECURITY MONITORING CENTRE BVBA",
+        "handle": "SMC-BVBA"
+    },
+    "211398": {
+        "country_code": "BE",
+        "asn": "211398",
+        "description": "Mike Marchal",
+        "handle": "MIKE-AS"
+    },
+    "211601": {
+        "country_code": "BE",
+        "asn": "211601",
+        "description": "Syntax Bvba",
+        "handle": "CLOUDPOS"
+    },
+    "211602": {
+        "country_code": "BE",
+        "asn": "211602",
+        "description": "Ziekenhuisnetwerk aan de Stroom (ZAS) vzw",
+        "handle": "ZAS"
+    },
+    "211683": {
+        "country_code": "BE",
+        "asn": "211683",
+        "description": "DC STAR nv",
+        "handle": "DCUNITED"
+    },
+    "211945": {
+        "country_code": "BE",
+        "asn": "211945",
+        "description": "Radionomy SA",
+        "handle": "TARGETSPOT"
+    },
+    "212123": {
+        "country_code": "BE",
+        "asn": "212123",
+        "description": "Jori Vanneste",
+        "handle": "REDPANDA-AS"
+    },
+    "212223": {
+        "country_code": "BE",
+        "asn": "212223",
+        "description": "Buy Way Personal Finance SA trading as BUY WAY SERVICES GEIE",
+        "handle": "BUYWAY-BE-AS"
+    },
+    "212241": {
+        "country_code": "BE",
+        "asn": "212241",
+        "description": "TF Tech NV",
+        "handle": "THREEFOLD"
+    },
+    "212430": {
+        "country_code": "BE",
+        "asn": "212430",
+        "description": "CITEXAR SA",
+        "handle": "CITEXAR"
+    },
+    "212518": {
+        "country_code": "BE",
+        "asn": "212518",
+        "description": "Robin Boucquet",
+        "handle": "RBMNET-AS"
+    },
+    "212526": {
+        "country_code": "BE",
+        "asn": "212526",
+        "description": "Freedelity SA",
+        "handle": "FREEDELITY"
+    },
+    "212528": {
+        "country_code": "BE",
+        "asn": "212528",
+        "description": "Riley Neyt",
+        "handle": "ALTHEA-DIGITAL"
+    },
+    "212626": {
+        "country_code": "BE",
+        "asn": "212626",
+        "description": "E-Solutions BV",
+        "handle": "CLOUDENABLER"
+    },
+    "212627": {
+        "country_code": "BE",
+        "asn": "212627",
+        "description": "E-Solutions BV",
+        "handle": "LORINDUS"
+    },
+    "212687": {
+        "country_code": "BE",
+        "asn": "212687",
+        "description": "Aritno Comm. V.",
+        "handle": "ARITNO-AS"
+    },
+    "212767": {
+        "country_code": "BE",
+        "asn": "212767",
+        "description": "Sigfried Seldeslachts",
+        "handle": "SIGFRIEDSELDESLACHTS"
+    },
+    "212878": {
+        "country_code": "BE",
+        "asn": "212878",
+        "description": "YZY CLICK SPRL",
+        "handle": "YZYCLICK"
+    },
+    "212923": {
+        "country_code": "BE",
+        "asn": "212923",
+        "description": "ASBL CHU Helora",
+        "handle": "GR-JOLIMONT"
+    },
+    "213045": {
+        "country_code": "BE",
+        "asn": "213045",
+        "description": "Alex Delporte",
+        "handle": "DED3L-NETWORK"
+    },
+    "213109": {
+        "country_code": "BE",
+        "asn": "213109",
+        "description": "Thomas De Proost",
+        "handle": "BEAR"
+    },
+    "213130": {
+        "country_code": "BE",
+        "asn": "213130",
+        "description": "M-Cube Belgium",
+        "handle": "STOREVER"
+    },
+    "213160": {
+        "country_code": "BE",
+        "asn": "213160",
+        "description": "Council of the EU General Secretariat",
+        "handle": "EUCOUNCIL"
+    },
+    "213241": {
+        "country_code": "BE",
+        "asn": "213241",
+        "description": "TECHIT.BE SRL",
+        "handle": "TECHIT"
+    },
+    "213331": {
+        "country_code": "BE",
+        "asn": "213331",
+        "description": "Belgian Ministry of Defence",
+        "handle": "BEMINDEF"
+    },
+    "213345": {
+        "country_code": "BE",
+        "asn": "213345",
+        "description": "service administratif a comptabilite autonome charge de la gestion des cartes d identite et du registre national",
+        "handle": "RRN"
+    },
+    "213818": {
+        "country_code": "BE",
+        "asn": "213818",
+        "description": "TESSENDERLO GROUP PLC",
+        "handle": "AS702"
+    },
+    "213965": {
+        "country_code": "BE",
+        "asn": "213965",
+        "description": "zendzend B.V.",
+        "handle": "ZNDZND"
+    },
+    "214006": {
+        "country_code": "BE",
+        "asn": "214006",
+        "description": "Maartje Eyskens",
+        "handle": "MAARTJE-EYSKENS"
+    },
+    "214034": {
+        "country_code": "BE",
+        "asn": "214034",
+        "description": "KirieLABS CommV",
+        "handle": "KIRIELABS"
+    },
+    "214130": {
+        "country_code": "BE",
+        "asn": "214130",
+        "description": "Tiebe Seynhaeve",
+        "handle": "DIGITALINFRA"
+    },
+    "214161": {
+        "country_code": "BE",
+        "asn": "214161",
+        "description": "Rafael Perzaada",
+        "handle": "RAFO"
+    },
+    "214255": {
+        "country_code": "BE",
+        "asn": "214255",
+        "description": "Venn SA",
+        "handle": "ASN-VENN"
+    },
+    "214327": {
+        "country_code": "BE",
+        "asn": "214327",
+        "description": "neXat SA",
+        "handle": "NEXAT"
+    },
+    "214350": {
+        "country_code": "BE",
+        "asn": "214350",
+        "description": "Sukur BELCE",
+        "handle": "TWENTYFOURHDUMANCHE"
+    },
+    "214445": {
+        "country_code": "BE",
+        "asn": "214445",
+        "description": "The North Atlantic Treaty Organization",
+        "handle": "N-RESEARCH"
+    },
+    "214508": {
+        "country_code": "BE",
+        "asn": "214508",
+        "description": "Manu Braibant",
+        "handle": "MANUBRAIBANT"
+    },
+    "214545": {
+        "country_code": "BE",
+        "asn": "214545",
+        "description": "INTERCARE NV",
+        "handle": "INTERCARE"
+    },
+    "214878": {
+        "country_code": "BE",
+        "asn": "214878",
+        "description": "Workflow en Information Control Engineering BV",
+        "handle": "ASWICE"
+    },
+    "215079": {
+        "country_code": "BE",
+        "asn": "215079",
+        "description": "Italique SRL",
+        "handle": "ANCALAGON"
+    },
+    "215475": {
+        "country_code": "BE",
+        "asn": "215475",
+        "description": "Kiwazo CommV",
+        "handle": "ASDGSVC"
+    },
+    "215694": {
+        "country_code": "BE",
+        "asn": "215694",
+        "description": "Amptec B.V.",
+        "handle": "AMPTECNTWRX-AS"
+    },
+    "215956": {
+        "country_code": "BE",
+        "asn": "215956",
+        "description": "Dennis de Houx trading as All In One",
+        "handle": "MYIP-AS"
+    },
+    "215990": {
+        "country_code": "BE",
+        "asn": "215990",
+        "description": "Jelle Leenaert",
+        "handle": "JELL"
+    },
+    "216066": {
+        "country_code": "BE",
+        "asn": "216066",
+        "description": "X2com Belgie B.V.",
+        "handle": "X2COMBE"
+    },
+    "216252": {
+        "country_code": "BE",
+        "asn": "216252",
+        "description": "Gregoire Neve de Mevergnies",
+        "handle": "GREGOIRE-NEVE"
+    },
+    "216319": {
+        "country_code": "BE",
+        "asn": "216319",
+        "description": "SD1-Telecom SRL",
+        "handle": "VIRMA-CONSULTING"
+    },
+    "216471": {
+        "country_code": "BE",
+        "asn": "216471",
+        "description": "Devout BV",
+        "handle": "DEVOUT"
+    }
+}

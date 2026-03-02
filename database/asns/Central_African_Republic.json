@@ -1,0 +1,26 @@
+{
+    "37460": {
+        "country_code": "CF",
+        "asn": "37460",
+        "description": "Orange Centreafrique",
+        "handle": "ORANGE-CA"
+    },
+    "328079": {
+        "country_code": "CF",
+        "asn": "328079",
+        "description": "TELECEL CENTRAFRIQUE",
+        "handle": "TELECEL-CENTRAFRIQUE-AS"
+    },
+    "329274": {
+        "country_code": "CF",
+        "asn": "329274",
+        "description": "Atlantique TELECOM CAR",
+        "handle": "MOOVAFRICACENTRAFRIQUE"
+    },
+    "329590": {
+        "country_code": "CF",
+        "asn": "329590",
+        "description": "NETCOM SERVICES",
+        "handle": "NETCOM-SERVICES"
+    }
+}

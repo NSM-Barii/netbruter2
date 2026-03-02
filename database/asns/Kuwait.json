@@ -1,0 +1,506 @@
+{
+    "3225": {
+        "country_code": "KW",
+        "asn": "3225",
+        "description": "GULFNET COMMUNICATIONS CO. WLL",
+        "handle": "GULFNET-KUWAIT"
+    },
+    "6412": {
+        "country_code": "KW",
+        "asn": "6412",
+        "description": "Gulfnet International KEMS LLC",
+        "handle": "KW"
+    },
+    "9155": {
+        "country_code": "KW",
+        "asn": "9155",
+        "description": "Quality Net General Trading & Contracting Company",
+        "handle": "QNET"
+    },
+    "16060": {
+        "country_code": "KW",
+        "asn": "16060",
+        "description": "Kuwait Ministry of Finance",
+        "handle": "KUWAIT-MOF-AS"
+    },
+    "21050": {
+        "country_code": "KW",
+        "asn": "21050",
+        "description": "Fast Communication Company Ltd",
+        "handle": "FAST-TELCO"
+    },
+    "24627": {
+        "country_code": "KW",
+        "asn": "24627",
+        "description": "GULFSATCOMMUNICATIONS COMPANY K.S.C.",
+        "handle": "SHOWNET-KW-AS"
+    },
+    "25122": {
+        "country_code": "KW",
+        "asn": "25122",
+        "description": "GULFSATCOMMUNICATIONS COMPANY K.S.C.",
+        "handle": "GULFSAT-COMMUNICATIONS-AS"
+    },
+    "25242": {
+        "country_code": "KW",
+        "asn": "25242",
+        "description": "KUWAIT UNIVERSITY",
+        "handle": "KUWAIT-UNIVERSITY"
+    },
+    "25370": {
+        "country_code": "KW",
+        "asn": "25370",
+        "description": "Zajil International Telecom Company KSCC",
+        "handle": "BOUBYAN-AS"
+    },
+    "29029": {
+        "country_code": "KW",
+        "asn": "29029",
+        "description": "Kuwait National Petroleum Company",
+        "handle": "KNPC-AS"
+    },
+    "29237": {
+        "country_code": "KW",
+        "asn": "29237",
+        "description": "Kuwait Foreign Petroleum Exploration Co. K.S.C.C.",
+        "handle": "KUFASN"
+    },
+    "29357": {
+        "country_code": "KW",
+        "asn": "29357",
+        "description": "NATIONAL MOBILE TELECOMMUNICATIONS COMPANY K.S.C.P.",
+        "handle": "WATANIYATELECOM-AS"
+    },
+    "35181": {
+        "country_code": "KW",
+        "asn": "35181",
+        "description": "Agility Public Warehousing Company K.S.C.P.",
+        "handle": "PWC"
+    },
+    "35512": {
+        "country_code": "KW",
+        "asn": "35512",
+        "description": "Zajil International Telecom Company KSCC",
+        "handle": "TELEMEDIA-AS"
+    },
+    "39504": {
+        "country_code": "KW",
+        "asn": "39504",
+        "description": "KEO International Consultants",
+        "handle": "KEOIC"
+    },
+    "39682": {
+        "country_code": "KW",
+        "asn": "39682",
+        "description": "Kuwait and Middle-East Financial Investment Co.",
+        "handle": "KMEFIC"
+    },
+    "41576": {
+        "country_code": "KW",
+        "asn": "41576",
+        "description": "KFIC invest Company KSC",
+        "handle": "KFIC"
+    },
+    "41669": {
+        "country_code": "KW",
+        "asn": "41669",
+        "description": "Kalaam Telecom Kuwait Closed Joint Stock Company",
+        "handle": "TAWASUL"
+    },
+    "41890": {
+        "country_code": "KW",
+        "asn": "41890",
+        "description": "Public Authority for Civil Information",
+        "handle": "PACI"
+    },
+    "42606": {
+        "country_code": "KW",
+        "asn": "42606",
+        "description": "Al-Jarida Company for Press Publishing and Distribution LLC",
+        "handle": "AL-JAREEDA"
+    },
+    "42642": {
+        "country_code": "KW",
+        "asn": "42642",
+        "description": "Gulf Investment Corporation",
+        "handle": "ASGIC"
+    },
+    "42781": {
+        "country_code": "KW",
+        "asn": "42781",
+        "description": "Zajil International Telecom Company KSCC",
+        "handle": "ZNETAS-KW"
+    },
+    "42961": {
+        "country_code": "KW",
+        "asn": "42961",
+        "description": "Mobile Telecommunications Company K.S.C.P.",
+        "handle": "GPRS-AS"
+    },
+    "43080": {
+        "country_code": "KW",
+        "asn": "43080",
+        "description": "Kuwait Oil Company (K.S.C.)",
+        "handle": "KOCAS-KW"
+    },
+    "43158": {
+        "country_code": "KW",
+        "asn": "43158",
+        "description": "Kuwait Industrial Bank KSC",
+        "handle": "INDUSTRIAL-BANK-OF-KUWAIT"
+    },
+    "43184": {
+        "country_code": "KW",
+        "asn": "43184",
+        "description": "National Investment Company KSC Closed",
+        "handle": "NATIONAL-INVESTMENTS-CO"
+    },
+    "43216": {
+        "country_code": "KW",
+        "asn": "43216",
+        "description": "Zajil International Telecom Company KSCC",
+        "handle": "KNET-AS"
+    },
+    "43852": {
+        "country_code": "KW",
+        "asn": "43852",
+        "description": "Fast Communication Company Ltd",
+        "handle": "KUWAIT-DATA-CENTER"
+    },
+    "47316": {
+        "country_code": "KW",
+        "asn": "47316",
+        "description": "Zajil International Telecom Company KSCC",
+        "handle": "AS47316"
+    },
+    "47442": {
+        "country_code": "KW",
+        "asn": "47442",
+        "description": "Mada Communications CJSC",
+        "handle": "MADA-AS"
+    },
+    "47519": {
+        "country_code": "KW",
+        "asn": "47519",
+        "description": "Kuwait Ministry of Defense",
+        "handle": "KUWAIT-MOD"
+    },
+    "47589": {
+        "country_code": "KW",
+        "asn": "47589",
+        "description": "Kuwait Telecommunications Company K.S.C.C.",
+        "handle": "KTC3G"
+    },
+    "49104": {
+        "country_code": "KW",
+        "asn": "49104",
+        "description": "Boursa Kuwait Stock Exchange",
+        "handle": "BOURSA-KUWAIT-AS"
+    },
+    "49205": {
+        "country_code": "KW",
+        "asn": "49205",
+        "description": "Kuwait Petroleum Corporation",
+        "handle": "KPC-AS"
+    },
+    "50475": {
+        "country_code": "KW",
+        "asn": "50475",
+        "description": "Point of Trade Co. General Trading LLC",
+        "handle": "CCD-ARENA"
+    },
+    "50774": {
+        "country_code": "KW",
+        "asn": "50774",
+        "description": "NCM Investment Company KSCC",
+        "handle": "NCM"
+    },
+    "51080": {
+        "country_code": "KW",
+        "asn": "51080",
+        "description": "Watani Investment Company KSC (closed)",
+        "handle": "NCAP-KW"
+    },
+    "51914": {
+        "country_code": "KW",
+        "asn": "51914",
+        "description": "Kuwait Investment Authority",
+        "handle": "KIA"
+    },
+    "52081": {
+        "country_code": "KW",
+        "asn": "52081",
+        "description": "The Commercial Real Estate Co. K.S.C.C",
+        "handle": "CRE"
+    },
+    "56680": {
+        "country_code": "KW",
+        "asn": "56680",
+        "description": "The Shared Electronic Banking Services Company (Knet) LLC",
+        "handle": "KNET"
+    },
+    "56753": {
+        "country_code": "KW",
+        "asn": "56753",
+        "description": "Zakat-House",
+        "handle": "ZAKATAS"
+    },
+    "57278": {
+        "country_code": "KW",
+        "asn": "57278",
+        "description": "Global Investment House K.S.C.C",
+        "handle": "GIH-AS"
+    },
+    "57714": {
+        "country_code": "KW",
+        "asn": "57714",
+        "description": "Gulf Bank Public Shareholding",
+        "handle": "GULF-BANK"
+    },
+    "57719": {
+        "country_code": "KW",
+        "asn": "57719",
+        "description": "Kuwait Oil Tanker Company S.A.K.",
+        "handle": "KOTC-AS"
+    },
+    "60661": {
+        "country_code": "KW",
+        "asn": "60661",
+        "description": "Kuwait Awqaf Public Foundation",
+        "handle": "KAPF-AS"
+    },
+    "60992": {
+        "country_code": "KW",
+        "asn": "60992",
+        "description": "Kuwait Gulf Oil Company",
+        "handle": "KGOC-AS"
+    },
+    "61089": {
+        "country_code": "KW",
+        "asn": "61089",
+        "description": "Kuwait Finance House KSCP",
+        "handle": "AHLIUNITED-AS"
+    },
+    "196659": {
+        "country_code": "KW",
+        "asn": "196659",
+        "description": "NATIONAL BANK OF KUWAIT S.A.K.P",
+        "handle": "NBK-KW"
+    },
+    "196820": {
+        "country_code": "KW",
+        "asn": "196820",
+        "description": "CENTRAL AGENCY OF INFORMATION TECHNOLOGY KUWAIT",
+        "handle": "CAIT-KW"
+    },
+    "196921": {
+        "country_code": "KW",
+        "asn": "196921",
+        "description": "Wireless Mobile Data Company KSCC",
+        "handle": "BWIRELESS-KUWAIT"
+    },
+    "197456": {
+        "country_code": "KW",
+        "asn": "197456",
+        "description": "Ministry Of Communication",
+        "handle": "MOC-KW"
+    },
+    "198019": {
+        "country_code": "KW",
+        "asn": "198019",
+        "description": "WARBA BANK PUBLIC SHAREHOLDING",
+        "handle": "WARBA-AS"
+    },
+    "198392": {
+        "country_code": "KW",
+        "asn": "198392",
+        "description": "Petrochemical Industries Co. /Shareholding Public",
+        "handle": "PICAS-KW"
+    },
+    "199526": {
+        "country_code": "KW",
+        "asn": "199526",
+        "description": "Mohammed Hamoud Alshaya Co. W.L.L",
+        "handle": "ALSHAYA-AS"
+    },
+    "199616": {
+        "country_code": "KW",
+        "asn": "199616",
+        "description": "PWC Technology for Computers Co. WLL",
+        "handle": "PWC-TECH-AS"
+    },
+    "199729": {
+        "country_code": "KW",
+        "asn": "199729",
+        "description": "Ministry of Education",
+        "handle": "MOE"
+    },
+    "199869": {
+        "country_code": "KW",
+        "asn": "199869",
+        "description": "Diyar United Trading & Contracting Company LLC / Mohammed Marouf & Co.",
+        "handle": "DUCAS1"
+    },
+    "201378": {
+        "country_code": "KW",
+        "asn": "201378",
+        "description": "Zajil International Telecom Company KSCC",
+        "handle": "ZAJIL02"
+    },
+    "201756": {
+        "country_code": "KW",
+        "asn": "201756",
+        "description": "American University of Middle East",
+        "handle": "AUM"
+    },
+    "202414": {
+        "country_code": "KW",
+        "asn": "202414",
+        "description": "Communications and Information Technology Regulatory Authority",
+        "handle": "CITRA"
+    },
+    "203147": {
+        "country_code": "KW",
+        "asn": "203147",
+        "description": "Ministry Of Interior - Kuwait",
+        "handle": "MOI"
+    },
+    "203308": {
+        "country_code": "KW",
+        "asn": "203308",
+        "description": "Public Authority for Civil Information",
+        "handle": "PACI-DR-SITE"
+    },
+    "204245": {
+        "country_code": "KW",
+        "asn": "204245",
+        "description": "mohammad nayef",
+        "handle": "MITIGATED-NETWORK"
+    },
+    "204367": {
+        "country_code": "KW",
+        "asn": "204367",
+        "description": "Commercial Bank of kuwait",
+        "handle": "CBK"
+    },
+    "204638": {
+        "country_code": "KW",
+        "asn": "204638",
+        "description": "Gulf Insurance and Reinsurance Company Shareholding Closed",
+        "handle": "GULFINS"
+    },
+    "205554": {
+        "country_code": "KW",
+        "asn": "205554",
+        "description": "Kuwait Airways KSC",
+        "handle": "KAC"
+    },
+    "205780": {
+        "country_code": "KW",
+        "asn": "205780",
+        "description": "EQUATE PETROCHEMICAL COMPANY K.S.C.C.",
+        "handle": "EQUATEKW"
+    },
+    "206879": {
+        "country_code": "KW",
+        "asn": "206879",
+        "description": "Ministry of Electricity and Water",
+        "handle": "MEW-KW-ASN"
+    },
+    "207450": {
+        "country_code": "KW",
+        "asn": "207450",
+        "description": "Lean Company for Rental and Services of Information Systems and Computer Limited Liability Company",
+        "handle": "LEAN"
+    },
+    "208125": {
+        "country_code": "KW",
+        "asn": "208125",
+        "description": "GULFNET COMMUNICATIONS CO. WLL",
+        "handle": "BONLINEKW"
+    },
+    "208233": {
+        "country_code": "KW",
+        "asn": "208233",
+        "description": "Al Ahli Bank of Kuwait K.S.C.P",
+        "handle": "ABKUWAIT"
+    },
+    "208710": {
+        "country_code": "KW",
+        "asn": "208710",
+        "description": "Ministry of Foreign Affairs",
+        "handle": "MOFA"
+    },
+    "208899": {
+        "country_code": "KW",
+        "asn": "208899",
+        "description": "Kuwait Integrated Petroleum Industries Company (KIPIC) C.S.C",
+        "handle": "KIPIC"
+    },
+    "209068": {
+        "country_code": "KW",
+        "asn": "209068",
+        "description": "Bukhamseen Group Holding Co",
+        "handle": "BKGHC"
+    },
+    "210245": {
+        "country_code": "KW",
+        "asn": "210245",
+        "description": "Kuwait National Guard",
+        "handle": "KNG-AS"
+    },
+    "210270": {
+        "country_code": "KW",
+        "asn": "210270",
+        "description": "Yousef Ahmed Alghanim & Sons LTD",
+        "handle": "KW-YAAS-AS"
+    },
+    "211372": {
+        "country_code": "KW",
+        "asn": "211372",
+        "description": "Quality Net General Trading & Contracting Company",
+        "handle": "IRAQ-QUALITYNET"
+    },
+    "211394": {
+        "country_code": "KW",
+        "asn": "211394",
+        "description": "Kuwait Credit Bank - KCB",
+        "handle": "KCB-AS"
+    },
+    "212090": {
+        "country_code": "KW",
+        "asn": "212090",
+        "description": "Casheer for Electronic Payment and Settlement Systems Company WLL",
+        "handle": "ASN-OG"
+    },
+    "213397": {
+        "country_code": "KW",
+        "asn": "213397",
+        "description": "AL MULLA GROUP HOLDING CO. KSCC",
+        "handle": "ALMULLAGROUP"
+    },
+    "213749": {
+        "country_code": "KW",
+        "asn": "213749",
+        "description": "Burgan Bank K.P.S.C",
+        "handle": "BBG-AS"
+    },
+    "215053": {
+        "country_code": "KW",
+        "asn": "215053",
+        "description": "Diwan of H.H. the Crown Prince",
+        "handle": "CPD"
+    },
+    "215696": {
+        "country_code": "KW",
+        "asn": "215696",
+        "description": "KFH Capital Investment Company Closed Joint Stock Company",
+        "handle": "KFHC"
+    },
+    "215713": {
+        "country_code": "KW",
+        "asn": "215713",
+        "description": "United Education Company CJSC",
+        "handle": "UEC-AUK"
+    }
+}

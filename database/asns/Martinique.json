@@ -1,0 +1,50 @@
+{
+    "20776": {
+        "country_code": "MQ",
+        "asn": "20776",
+        "description": "Outremer Telecom SAS",
+        "handle": "OUTREMER-AS"
+    },
+    "47798": {
+        "country_code": "MQ",
+        "asn": "47798",
+        "description": "Martinique TV Cable SAS",
+        "handle": "FR-MTVC"
+    },
+    "48252": {
+        "country_code": "MQ",
+        "asn": "48252",
+        "description": "DIGICEL ANTILLES FRANCAISES GUYANE SA",
+        "handle": "DIGICELFWI"
+    },
+    "51110": {
+        "country_code": "MQ",
+        "asn": "51110",
+        "description": "IDOM TECHNOLOGIES SAS",
+        "handle": "IDOMTECHNOLOGIES-AS"
+    },
+    "60046": {
+        "country_code": "MQ",
+        "asn": "60046",
+        "description": "Collectivite Territoriale de Martinique",
+        "handle": "CT-MARTINIQUE"
+    },
+    "203002": {
+        "country_code": "MQ",
+        "asn": "203002",
+        "description": "ANVOLE SAS",
+        "handle": "ANVOLE-AS"
+    },
+    "394873": {
+        "country_code": "MQ",
+        "asn": "394873",
+        "description": "DOMSPOT",
+        "handle": "DOMSPOT"
+    },
+    "401295": {
+        "country_code": "MQ",
+        "asn": "401295",
+        "description": "Virtuava",
+        "handle": "VRTVNET"
+    }
+}

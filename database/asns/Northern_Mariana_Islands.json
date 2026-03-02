@@ -1,0 +1,14 @@
+{
+    "7131": {
+        "country_code": "MP",
+        "asn": "7131",
+        "description": "PTI Pacifica Inc.",
+        "handle": "PTIPACIFICAINC-AS-AP"
+    },
+    "9839": {
+        "country_code": "MP",
+        "asn": "9839",
+        "description": "GTE Pacifica",
+        "handle": "MTC-GTEPACIFICA-AS"
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "4609": {
+        "country_code": "MO",
+        "asn": "4609",
+        "description": "Companhia de Telecomunicacoes de Macau",
+        "handle": "CTM-MO"
+    },
+    "7582": {
+        "country_code": "MO",
+        "asn": "7582",
+        "description": "University of Macau",
+        "handle": "UMAC-AS-AP"
+    },
+    "7617": {
+        "country_code": "MO",
+        "asn": "7617",
+        "description": "Companhia de Telecomunicacoes de Macau",
+        "handle": "CTM-HK"
+    },
+    "24335": {
+        "country_code": "MO",
+        "asn": "24335",
+        "description": "Companhia de Telecomunicacoes de Macau",
+        "handle": "CTM-CUST-AS-AP"
+    },
+    "45918": {
+        "country_code": "MO",
+        "asn": "45918",
+        "description": "SmarTone Mobile Communications (Macau) Limited",
+        "handle": "SMARTONE-AS-AP"
+    },
+    "47674": {
+        "country_code": "MO",
+        "asn": "47674",
+        "description": "Net Solutions - Consultoria Em Tecnologias De Informacao Sociedade Unipessoal LDA",
+        "handle": "NETSOLUTIONS"
+    },
+    "61284": {
+        "country_code": "MO",
+        "asn": "61284",
+        "description": "BlazingFast - A.S.A.S.S.U. Lda.",
+        "handle": "BLAZINGFASTMO"
+    },
+    "64061": {
+        "country_code": "MO",
+        "asn": "64061",
+        "description": "MACAO VICTORY INTELLECTUAL PROPERTY AGENT CO. LTD.",
+        "handle": "MT-TRANSIT"
+    },
+    "132088": {
+        "country_code": "MO",
+        "asn": "132088",
+        "description": "Wind Cloud Network Technology Co Ltd",
+        "handle": "WINDCLOUDNETWORK-MO"
+    },
+    "133613": {
+        "country_code": "MO",
+        "asn": "133613",
+        "description": "MTel telecommunication company ltd.",
+        "handle": "MTEL-AS"
+    },
+    "134550": {
+        "country_code": "MO",
+        "asn": "134550",
+        "description": "Centro de Informacoes Tecnologia de Macau",
+        "handle": "CITM-NGIA-MRC-MO"
+    },
+    "136167": {
+        "country_code": "MO",
+        "asn": "136167",
+        "description": "CHINA TELECOM (MACAU) COMPANY LIMITED",
+        "handle": "CHINATELECOM-AS-AP"
+    },
+    "136793": {
+        "country_code": "MO",
+        "asn": "136793",
+        "description": "MACAU COMMUNICATION NETWORKS COMPANY LIMITED",
+        "handle": "MCN-AS-AP"
+    },
+    "137538": {
+        "country_code": "MO",
+        "asn": "137538",
+        "description": "Caldawin Software Technology Company Limited",
+        "handle": "CSTCL-AS-AP"
+    },
+    "138164": {
+        "country_code": "MO",
+        "asn": "138164",
+        "description": "Macau University of Science and Technology",
+        "handle": "MUST-AS-AP"
+    },
+    "138986": {
+        "country_code": "MO",
+        "asn": "138986",
+        "description": "Wind Cloud Network Technology Co Ltd",
+        "handle": "WINDCLOUDNETWORK-MO"
+    },
+    "153335": {
+        "country_code": "MO",
+        "asn": "153335",
+        "description": "STARFAX TELECOMMUNICATIONS",
+        "handle": "STARFAXTELECOMMUNICATIONS-AS-MO"
+    },
+    "201763": {
+        "country_code": "MO",
+        "asn": "201763",
+        "description": "U FAI CHAN",
+        "handle": "DAYHLTD-AS"
+    }
+}

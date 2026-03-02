@@ -1,0 +1,44 @@
+{
+    "27775": {
+        "country_code": "SR",
+        "asn": "27775",
+        "description": "Telecommunicationcompany Suriname - TeleSur",
+        "handle": "TELECOMMUNICATIONCOMPANY-SURINAME-TELESUR"
+    },
+    "52398": {
+        "country_code": "SR",
+        "asn": "52398",
+        "description": "Digicel Suriname NV",
+        "handle": "DIGICEL-SURINAME-NV"
+    },
+    "263240": {
+        "country_code": "SR",
+        "asn": "263240",
+        "description": "Telecommunicationcompany Suriname - TeleSur",
+        "handle": "TELECOMMUNICATIONCOMPANY-SURINAME-TELESUR"
+    },
+    "263799": {
+        "country_code": "SR",
+        "asn": "263799",
+        "description": "CARIBBEAN COMMUNICATION SERVICES",
+        "handle": "CARIBBEAN-COMMUNICATION-SERVICES"
+    },
+    "265822": {
+        "country_code": "SR",
+        "asn": "265822",
+        "description": "PARBONET N.V.",
+        "handle": "PARBONET-NV"
+    },
+    "272136": {
+        "country_code": "SR",
+        "asn": "272136",
+        "description": "SURINAME INTERNET EXCHANGE (SUR-IX)",
+        "handle": "SURINAME-INTERNET-EXCHANGE"
+    },
+    "272852": {
+        "country_code": "SR",
+        "asn": "272852",
+        "description": "SURINAME INTERNET EXCHANGE (SUR-IX)",
+        "handle": "SURINAME-INTERNET-EXCHANGE"
+    }
+}

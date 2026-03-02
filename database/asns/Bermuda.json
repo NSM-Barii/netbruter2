@@ -1,0 +1,146 @@
+{
+    "3855": {
+        "country_code": "BM",
+        "asn": "3855",
+        "description": "Logic Communications Ltd",
+        "handle": "LOGIC-3855"
+    },
+    "10388": {
+        "country_code": "BM",
+        "asn": "10388",
+        "description": "NETinc",
+        "handle": "ONEUNIFIED"
+    },
+    "11269": {
+        "country_code": "BM",
+        "asn": "11269",
+        "description": "LinkBermuda LTD",
+        "handle": "LINKBERMUDA"
+    },
+    "13802": {
+        "country_code": "BM",
+        "asn": "13802",
+        "description": "Logic Communications Ltd",
+        "handle": "LOGIC-BDA-NRC"
+    },
+    "16413": {
+        "country_code": "BM",
+        "asn": "16413",
+        "description": "Telebermuda International Limited",
+        "handle": "TELEBERMUDA"
+    },
+    "19626": {
+        "country_code": "BM",
+        "asn": "19626",
+        "description": "QuoVadis Services Limited",
+        "handle": "EVC-AS"
+    },
+    "21958": {
+        "country_code": "BM",
+        "asn": "21958",
+        "description": "Nobel Ltd",
+        "handle": "NL-820-21958"
+    },
+    "23021": {
+        "country_code": "BM",
+        "asn": "23021",
+        "description": "King Fahd University of Petroleum and Minerals",
+        "handle": "KING-FAHD-UNIVERSITY"
+    },
+    "23313": {
+        "country_code": "BM",
+        "asn": "23313",
+        "description": "Hamilton Insurance group",
+        "handle": "ASN-HIG"
+    },
+    "26559": {
+        "country_code": "BM",
+        "asn": "26559",
+        "description": "Bermuda Digital Communications Ltd.",
+        "handle": "BERMUDA-DIGITAL-COMMS"
+    },
+    "32020": {
+        "country_code": "BM",
+        "asn": "32020",
+        "description": "Transact Ltd.",
+        "handle": "TRANSACT-BM-ASN"
+    },
+    "45355": {
+        "country_code": "BM",
+        "asn": "45355",
+        "description": "Digicel Pacific Ltd",
+        "handle": "DIGICELPACIFIC-1-AP"
+    },
+    "47053": {
+        "country_code": "BM",
+        "asn": "47053",
+        "description": "Bermuda Government",
+        "handle": "INFORMATION-TECHNOLOGY-OFFICE"
+    },
+    "47060": {
+        "country_code": "BM",
+        "asn": "47060",
+        "description": "Bermuda Monetary Authority",
+        "handle": "BMA"
+    },
+    "55159": {
+        "country_code": "BM",
+        "asn": "55159",
+        "description": "Paradise Mobile Ltd.",
+        "handle": "PARADISE-MOBILE-ASN-01"
+    },
+    "206154": {
+        "country_code": "BM",
+        "asn": "206154",
+        "description": "ABS Global Ltd",
+        "handle": "ABS-ME"
+    },
+    "393440": {
+        "country_code": "BM",
+        "asn": "393440",
+        "description": "Logic Communications Ltd",
+        "handle": "BCV-BM"
+    },
+    "394478": {
+        "country_code": "BM",
+        "asn": "394478",
+        "description": "Fire Minds Ltd.",
+        "handle": "FIREMINDS-BERMUDA"
+    },
+    "395705": {
+        "country_code": "BM",
+        "asn": "395705",
+        "description": "CCS Group",
+        "handle": "CCS-GROUP-LTD"
+    },
+    "395838": {
+        "country_code": "BM",
+        "asn": "395838",
+        "description": "Clarien Bank Limited",
+        "handle": "CBL"
+    },
+    "399084": {
+        "country_code": "BM",
+        "asn": "399084",
+        "description": "Wave Bermuda Ltd.",
+        "handle": "HRZN-BDA-01"
+    },
+    "399926": {
+        "country_code": "BM",
+        "asn": "399926",
+        "description": "Bermuda College",
+        "handle": "BERMUDA-COLLEGE-AS"
+    },
+    "401184": {
+        "country_code": "BM",
+        "asn": "401184",
+        "description": "The Global Atlantic Financial Group LLC",
+        "handle": "GAFG-ASN-01"
+    },
+    "402081": {
+        "country_code": "BM",
+        "asn": "402081",
+        "description": "RIZE TECHNOLOGIES",
+        "handle": "RIZE"
+    }
+}

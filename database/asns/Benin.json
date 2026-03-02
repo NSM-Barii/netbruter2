@@ -1,0 +1,122 @@
+{
+    "28683": {
+        "country_code": "BJ",
+        "asn": "28683",
+        "description": "SOCIETE BENINOISE D'INFRASTRUCTURES NUMERIQUES",
+        "handle": "SBIN"
+    },
+    "37090": {
+        "country_code": "BJ",
+        "asn": "37090",
+        "description": "ISOCEL SA",
+        "handle": "ISOCEL"
+    },
+    "37136": {
+        "country_code": "BJ",
+        "asn": "37136",
+        "description": "ETISALAT BENIN",
+        "handle": "ETISALAT-AS"
+    },
+    "37292": {
+        "country_code": "BJ",
+        "asn": "37292",
+        "description": "Omnium des Telecom et de l'Internet (OTI Telecom)",
+        "handle": "OTI-AS"
+    },
+    "37424": {
+        "country_code": "BJ",
+        "asn": "37424",
+        "description": "SPACETEL BENIN SA",
+        "handle": "SPACETEL"
+    },
+    "37805": {
+        "country_code": "BJ",
+        "asn": "37805",
+        "description": "CHAPITRE BENINOIS DE L'INTERNET SOCIETY",
+        "handle": "CHAPITRE-BENINOIS-DE-L-INTERNET-SOCIETY-PEERING"
+    },
+    "327818": {
+        "country_code": "BJ",
+        "asn": "327818",
+        "description": "ISOCEL SA",
+        "handle": "BENIN-IX"
+    },
+    "328092": {
+        "country_code": "BJ",
+        "asn": "328092",
+        "description": "SUD TELECOM SOLUTIONS",
+        "handle": "SUD-TELCOM-AS"
+    },
+    "328098": {
+        "country_code": "BJ",
+        "asn": "328098",
+        "description": "JENY SAS",
+        "handle": "JENY-SAS-AS"
+    },
+    "328133": {
+        "country_code": "BJ",
+        "asn": "328133",
+        "description": "ABC Corporation SARL",
+        "handle": "ABC-CORPORATION-AS"
+    },
+    "328228": {
+        "country_code": "BJ",
+        "asn": "328228",
+        "description": "SOCIETE BENINOISE D'INFRASTRUCTURES NUMERIQUES",
+        "handle": "SBIN-AS"
+    },
+    "328653": {
+        "country_code": "BJ",
+        "asn": "328653",
+        "description": "Universite Abomey-Calavi",
+        "handle": "UACNET"
+    },
+    "328702": {
+        "country_code": "BJ",
+        "asn": "328702",
+        "description": "Agence pour le Developpement du Num\u00e9rique",
+        "handle": "ADN-AS"
+    },
+    "329085": {
+        "country_code": "BJ",
+        "asn": "329085",
+        "description": "AXETAG",
+        "handle": "AA99-AS"
+    },
+    "329086": {
+        "country_code": "BJ",
+        "asn": "329086",
+        "description": "FIRSTNET SA",
+        "handle": "FIRSTNET"
+    },
+    "329107": {
+        "country_code": "BJ",
+        "asn": "329107",
+        "description": "TECHNODATA SOLUTIONS",
+        "handle": "TS8-AS"
+    },
+    "329156": {
+        "country_code": "BJ",
+        "asn": "329156",
+        "description": "DEGNON-GROUP",
+        "handle": "DA11-AS"
+    },
+    "329217": {
+        "country_code": "BJ",
+        "asn": "329217",
+        "description": "EUPHORBIA SARL",
+        "handle": "EUPHORBIA-SARL"
+    },
+    "329512": {
+        "country_code": "BJ",
+        "asn": "329512",
+        "description": "AD Solutions",
+        "handle": "AD-SOLUTIONS"
+    },
+    "329544": {
+        "country_code": "BJ",
+        "asn": "329544",
+        "description": "CHAPITRE BENINOIS DE L'INTERNET SOCIETY",
+        "handle": "CHAPITRE-BENINOIS-DE-L-INTERNET-SOCIETY-MGMT"
+    }
+}

@@ -1,0 +1,1526 @@
+{
+    "1241": {
+        "country_code": "GR",
+        "asn": "1241",
+        "description": "Nova Telecommunications & Media Single Member S.A",
+        "handle": "FORTHNET-GR"
+    },
+    "2546": {
+        "country_code": "GR",
+        "asn": "2546",
+        "description": "National Center of Scientific Research DEMOKRITOS",
+        "handle": "ARIADNE-T"
+    },
+    "3260": {
+        "country_code": "GR",
+        "asn": "3260",
+        "description": "INTRACOM S.A. TELECOM SOLUTIONS",
+        "handle": "INTRACOM"
+    },
+    "3323": {
+        "country_code": "GR",
+        "asn": "3323",
+        "description": "National Technical University of Athens",
+        "handle": "NTUA"
+    },
+    "3329": {
+        "country_code": "GR",
+        "asn": "3329",
+        "description": "VODAFONE-PANAFON HELLENIC TELECOMMUNICATIONS COMPANY SA",
+        "handle": "HOL-GR"
+    },
+    "4492": {
+        "country_code": "GR",
+        "asn": "4492",
+        "description": "Antonios A. Chariton",
+        "handle": "ANTONIS"
+    },
+    "4601": {
+        "country_code": "GR",
+        "asn": "4601",
+        "description": "Antonios A. Chariton",
+        "handle": "DNET"
+    },
+    "5408": {
+        "country_code": "GR",
+        "asn": "5408",
+        "description": "National Infrastructures for Research and Technology S.A.",
+        "handle": "GR-NET"
+    },
+    "5470": {
+        "country_code": "GR",
+        "asn": "5470",
+        "description": "Aristotle University of Thessaloniki",
+        "handle": "ASAUTHNET"
+    },
+    "5489": {
+        "country_code": "GR",
+        "asn": "5489",
+        "description": "International Hellenic University",
+        "handle": "TEI-THES"
+    },
+    "6674": {
+        "country_code": "GR",
+        "asn": "6674",
+        "description": "NATIONAL BANK OF GREECE S.A.",
+        "handle": "NATIONAL-BANK-OF-GREECE"
+    },
+    "6744": {
+        "country_code": "GR",
+        "asn": "6744",
+        "description": "Computer Technology Institute and Press Diophantus",
+        "handle": "RACTI-NET"
+    },
+    "6799": {
+        "country_code": "GR",
+        "asn": "6799",
+        "description": "Ote SA (Hellenic Telecommunications Organisation)",
+        "handle": "OTENET-GR"
+    },
+    "6867": {
+        "country_code": "GR",
+        "asn": "6867",
+        "description": "University of Crete",
+        "handle": "UCNET"
+    },
+    "8248": {
+        "country_code": "GR",
+        "asn": "8248",
+        "description": "Computer Technology Institute and Press Diophantus",
+        "handle": "GR-EDUNET"
+    },
+    "8253": {
+        "country_code": "GR",
+        "asn": "8253",
+        "description": "Democritus University of Thrace",
+        "handle": "DUTHNET-AS"
+    },
+    "8278": {
+        "country_code": "GR",
+        "asn": "8278",
+        "description": "Technical University of Crete",
+        "handle": "TUC-AS"
+    },
+    "8280": {
+        "country_code": "GR",
+        "asn": "8280",
+        "description": "SYNAPSECOM S.A. Provider of Telecommunications and Internet Services",
+        "handle": "SYNAPSECOM-AS"
+    },
+    "8388": {
+        "country_code": "GR",
+        "asn": "8388",
+        "description": "ALTER EGO MEDIA S.A.",
+        "handle": "DOLNET"
+    },
+    "8396": {
+        "country_code": "GR",
+        "asn": "8396",
+        "description": "Technical Chamber of Greece",
+        "handle": "TEE-GR"
+    },
+    "8499": {
+        "country_code": "GR",
+        "asn": "8499",
+        "description": "Space Hellas S.A.",
+        "handle": "SPACE-HELLAS-AS8499"
+    },
+    "8522": {
+        "country_code": "GR",
+        "asn": "8522",
+        "description": "Foundation of Research and Technology Hellas",
+        "handle": "FORTH-AS"
+    },
+    "8581": {
+        "country_code": "GR",
+        "asn": "8581",
+        "description": "University Of Ioannina",
+        "handle": "UOI"
+    },
+    "8611": {
+        "country_code": "GR",
+        "asn": "8611",
+        "description": "Athens University of Economics and Business",
+        "handle": "ATHENS-UNIVERSITY-OF"
+    },
+    "8617": {
+        "country_code": "GR",
+        "asn": "8617",
+        "description": "University of the Aegean",
+        "handle": "UNIVERSITY-OF-THE-AEGEAN"
+    },
+    "8618": {
+        "country_code": "GR",
+        "asn": "8618",
+        "description": "Ionion University",
+        "handle": "IONION-UNIVERSITY"
+    },
+    "8643": {
+        "country_code": "GR",
+        "asn": "8643",
+        "description": "NATIONAL AND KAPODISTRIAN UNIVERSITY OF ATHENS",
+        "handle": "ATHENANET"
+    },
+    "8762": {
+        "country_code": "GR",
+        "asn": "8762",
+        "description": "Hellenic Mediterranean University",
+        "handle": "TEI-OF-CRETE-AS"
+    },
+    "8951": {
+        "country_code": "GR",
+        "asn": "8951",
+        "description": "Nova Telecommunications & Media Single Member S.A",
+        "handle": "HELLASNET-GR"
+    },
+    "8991": {
+        "country_code": "GR",
+        "asn": "8991",
+        "description": "Hellenic Centre for Marine Research",
+        "handle": "HCMR-NET"
+    },
+    "9069": {
+        "country_code": "GR",
+        "asn": "9069",
+        "description": "UNIWA",
+        "handle": "UNIWA"
+    },
+    "9128": {
+        "country_code": "GR",
+        "asn": "9128",
+        "description": "Alpha Bank SA",
+        "handle": "ALPHA-BANK-SA"
+    },
+    "12361": {
+        "country_code": "GR",
+        "asn": "12361",
+        "description": "VODAFONE-PANAFON HELLENIC TELECOMMUNICATIONS COMPANY SA",
+        "handle": "PANAFONET-AS"
+    },
+    "12364": {
+        "country_code": "GR",
+        "asn": "12364",
+        "description": "University of Macedonia Economic and Social Sciences",
+        "handle": "UOM"
+    },
+    "12402": {
+        "country_code": "GR",
+        "asn": "12402",
+        "description": "University of Piraeus",
+        "handle": "UOPIRAEUS"
+    },
+    "12713": {
+        "country_code": "GR",
+        "asn": "12713",
+        "description": "Ote SA (Hellenic Telecommunications Organisation)",
+        "handle": "OTEGLOBE"
+    },
+    "13038": {
+        "country_code": "GR",
+        "asn": "13038",
+        "description": "HELLENIC EXCHANGES-ATHENS STOCK EXCHANGE S.A.",
+        "handle": "HELEX-RP"
+    },
+    "13153": {
+        "country_code": "GR",
+        "asn": "13153",
+        "description": "SingularLogic S.A.",
+        "handle": "SINGULARLOGIC-INTEGRATOR"
+    },
+    "15430": {
+        "country_code": "GR",
+        "asn": "15430",
+        "description": "European Dynamics S.A.",
+        "handle": "EUROPEAN-DYNAMICS-SA"
+    },
+    "15439": {
+        "country_code": "GR",
+        "asn": "15439",
+        "description": "Eurobank S.A.",
+        "handle": "EUROBANK-EFG"
+    },
+    "15536": {
+        "country_code": "GR",
+        "asn": "15536",
+        "description": "European Centre for the Development of Vocational Training (CEDEFOP)",
+        "handle": "CEDEFOP-AS"
+    },
+    "15544": {
+        "country_code": "GR",
+        "asn": "15544",
+        "description": "Dataways S.A.",
+        "handle": "DATAWAYS"
+    },
+    "15617": {
+        "country_code": "GR",
+        "asn": "15617",
+        "description": "Nova Telecommunications & Media Single Member S.A",
+        "handle": "WIND-HELLAS"
+    },
+    "15690": {
+        "country_code": "GR",
+        "asn": "15690",
+        "description": "NATIONAL OBSERVATORY OF ATHENS",
+        "handle": "NOANET"
+    },
+    "15853": {
+        "country_code": "GR",
+        "asn": "15853",
+        "description": "NBG Securities SA",
+        "handle": "NATSEC"
+    },
+    "15948": {
+        "country_code": "GR",
+        "asn": "15948",
+        "description": "ICE/HT fundamental and technological research",
+        "handle": "ICEHT-FUNDAMENTAL"
+    },
+    "16013": {
+        "country_code": "GR",
+        "asn": "16013",
+        "description": "Unisystems SA",
+        "handle": "UNISYSTEMSASP"
+    },
+    "16200": {
+        "country_code": "GR",
+        "asn": "16200",
+        "description": "GeniusMind S.A.",
+        "handle": "BAHARNET"
+    },
+    "20506": {
+        "country_code": "GR",
+        "asn": "20506",
+        "description": "SingularLogic S.A.",
+        "handle": "SINGULAR-SOFTWARE"
+    },
+    "20813": {
+        "country_code": "GR",
+        "asn": "20813",
+        "description": "Hellenic Open University",
+        "handle": "HOU-AS"
+    },
+    "20962": {
+        "country_code": "GR",
+        "asn": "20962",
+        "description": "Ote SA (Hellenic Telecommunications Organisation)",
+        "handle": "OTE-AS"
+    },
+    "24849": {
+        "country_code": "GR",
+        "asn": "24849",
+        "description": "DELTA FOODS Single Member SA.",
+        "handle": "DELTA"
+    },
+    "25472": {
+        "country_code": "GR",
+        "asn": "25472",
+        "description": "Nova Telecommunications & Media Single Member S.A",
+        "handle": "WIND-AS"
+    },
+    "28953": {
+        "country_code": "GR",
+        "asn": "28953",
+        "description": "Piraeus Financial Holdings SA",
+        "handle": "PIRAEUSBANK"
+    },
+    "28969": {
+        "country_code": "GR",
+        "asn": "28969",
+        "description": "AB VASSILOPOULOS S.A.",
+        "handle": "AB-VASSILOPOULOS-AS"
+    },
+    "29162": {
+        "country_code": "GR",
+        "asn": "29162",
+        "description": "Technopolis SA",
+        "handle": "TEXNOPOLIS"
+    },
+    "29229": {
+        "country_code": "GR",
+        "asn": "29229",
+        "description": "Anaptiksiakos Sindesmos Ditikis Athinas",
+        "handle": "ASDA-AS"
+    },
+    "29241": {
+        "country_code": "GR",
+        "asn": "29241",
+        "description": "DIAS SA",
+        "handle": "DIAS-AS"
+    },
+    "29247": {
+        "country_code": "GR",
+        "asn": "29247",
+        "description": "Ote SA (Hellenic Telecommunications Organisation)",
+        "handle": "COSMOTE-GR"
+    },
+    "29353": {
+        "country_code": "GR",
+        "asn": "29353",
+        "description": "TITAN CEMENT COMPANY S.A.",
+        "handle": "TITAN"
+    },
+    "30850": {
+        "country_code": "GR",
+        "asn": "30850",
+        "description": "INDEPENDENT POWER TRANSMISSION OPERATOR - AMIE",
+        "handle": "ADMIE-AS"
+    },
+    "31563": {
+        "country_code": "GR",
+        "asn": "31563",
+        "description": "Hellenic National Meteorological Service",
+        "handle": "HNMS-AS"
+    },
+    "31579": {
+        "country_code": "GR",
+        "asn": "31579",
+        "description": "IMERYS INDUSTRIAL MINERALS GREECE SINGLE MEMBER S.A.",
+        "handle": "SANDB-AS"
+    },
+    "34239": {
+        "country_code": "GR",
+        "asn": "34239",
+        "description": "Interamerican Hellenic Life Insurance Company SA",
+        "handle": "INTERAMERICAN"
+    },
+    "34516": {
+        "country_code": "GR",
+        "asn": "34516",
+        "description": "ARX-NET SA",
+        "handle": "ARX-NET"
+    },
+    "34780": {
+        "country_code": "GR",
+        "asn": "34780",
+        "description": "Village Roadshow Operations Ellas S.A.",
+        "handle": "VILLAGE-ROADSHOW-AS"
+    },
+    "35372": {
+        "country_code": "GR",
+        "asn": "35372",
+        "description": "GeniusMind S.A.",
+        "handle": "DATACOM"
+    },
+    "35459": {
+        "country_code": "GR",
+        "asn": "35459",
+        "description": "KOSMOCAR S.A.",
+        "handle": "KOSMOCAR-AS"
+    },
+    "35472": {
+        "country_code": "GR",
+        "asn": "35472",
+        "description": "MYTILINAIOS A.E.",
+        "handle": "ADG-AS"
+    },
+    "35499": {
+        "country_code": "GR",
+        "asn": "35499",
+        "description": "VASILEIOY GEORGIOS KAI SIA E.E. ERMISWISP",
+        "handle": "GR-ERMIS"
+    },
+    "35506": {
+        "country_code": "GR",
+        "asn": "35506",
+        "description": "INFORMATION SOCIETY S.A.",
+        "handle": "SYZEFXIS"
+    },
+    "39062": {
+        "country_code": "GR",
+        "asn": "39062",
+        "description": "Eurobank S.A.",
+        "handle": "EUROBANK-CARDS"
+    },
+    "39481": {
+        "country_code": "GR",
+        "asn": "39481",
+        "description": "Saracakis Brother AEVME",
+        "handle": "SARACAKIS-AS"
+    },
+    "39867": {
+        "country_code": "GR",
+        "asn": "39867",
+        "description": "Interconnect Ltd.",
+        "handle": "IC-AS"
+    },
+    "40990": {
+        "country_code": "GR",
+        "asn": "40990",
+        "description": "First Telecom Ltd.",
+        "handle": "FIRST-GR-AS"
+    },
+    "41125": {
+        "country_code": "GR",
+        "asn": "41125",
+        "description": "BANK OF GREECE",
+        "handle": "BANK-OF-GREECE"
+    },
+    "41372": {
+        "country_code": "GR",
+        "asn": "41372",
+        "description": "VELTI SINGLE MEMBER S.A. Software Products and Services",
+        "handle": "VELTI-AS"
+    },
+    "41579": {
+        "country_code": "GR",
+        "asn": "41579",
+        "description": "CREDIABANK S.A.",
+        "handle": "ATTICA-BANK"
+    },
+    "42070": {
+        "country_code": "GR",
+        "asn": "42070",
+        "description": "Info-Quest S.A. Commercial and Industrial Company of IT & Telecommunications Products and Services",
+        "handle": "IQ-AS"
+    },
+    "42680": {
+        "country_code": "GR",
+        "asn": "42680",
+        "description": "PIRAEUS SECURITIES SA",
+        "handle": "PIRAEUS-SECURITIES-SA"
+    },
+    "42817": {
+        "country_code": "GR",
+        "asn": "42817",
+        "description": "Euronet Card Services S.A.",
+        "handle": "EURONET-ECSG-AS"
+    },
+    "44036": {
+        "country_code": "GR",
+        "asn": "44036",
+        "description": "Optima Bank S.A.",
+        "handle": "MEB-AS"
+    },
+    "47180": {
+        "country_code": "GR",
+        "asn": "47180",
+        "description": "Fibergrid - Dei Optikes Epikoinonies Monoprosopi AE",
+        "handle": "FIBERGRID-AS"
+    },
+    "47521": {
+        "country_code": "GR",
+        "asn": "47521",
+        "description": "IpHost P.C.",
+        "handle": "IPHOST"
+    },
+    "47616": {
+        "country_code": "GR",
+        "asn": "47616",
+        "description": "Center for Research and Technology Hellas (CERTH)",
+        "handle": "CERTH"
+    },
+    "48053": {
+        "country_code": "GR",
+        "asn": "48053",
+        "description": "Foundation of Research and Technology Hellas",
+        "handle": "GR-ANYCAST-DNS-CLOUD"
+    },
+    "48172": {
+        "country_code": "GR",
+        "asn": "48172",
+        "description": "Inter Telecom O.E.",
+        "handle": "INTERTELECOM-GR-AS"
+    },
+    "48380": {
+        "country_code": "GR",
+        "asn": "48380",
+        "description": "ATTIKI ODOS S.A.",
+        "handle": "ATTIKI-ODOS-SA"
+    },
+    "48449": {
+        "country_code": "GR",
+        "asn": "48449",
+        "description": "SMARTNET I.K.E.",
+        "handle": "SMARTNETIKE-GR-AS"
+    },
+    "48489": {
+        "country_code": "GR",
+        "asn": "48489",
+        "description": "EUROCORP AEPEY",
+        "handle": "EUROCORP-SA"
+    },
+    "49582": {
+        "country_code": "GR",
+        "asn": "49582",
+        "description": "UPSTREAM TELECOMMUNICATIONS AND SOFTWARE SYSTEMS S.M.S.A",
+        "handle": "UPSTREAM-AS"
+    },
+    "49968": {
+        "country_code": "GR",
+        "asn": "49968",
+        "description": "FASTPATH IKE",
+        "handle": "FASTPATH-TRANSIT"
+    },
+    "50148": {
+        "country_code": "GR",
+        "asn": "50148",
+        "description": "Elliniki Radiofonia Tileorasi (ERT) SA",
+        "handle": "ERT"
+    },
+    "50311": {
+        "country_code": "GR",
+        "asn": "50311",
+        "description": "Gloman SA",
+        "handle": "GLOMAN"
+    },
+    "50501": {
+        "country_code": "GR",
+        "asn": "50501",
+        "description": "HELLENIC CADASTRE",
+        "handle": "KTIMATOLOGIO-AS"
+    },
+    "50520": {
+        "country_code": "GR",
+        "asn": "50520",
+        "description": "HOSTMEIN IKE",
+        "handle": "HOSTMEIN-GRIX"
+    },
+    "50745": {
+        "country_code": "GR",
+        "asn": "50745",
+        "description": "National Infrastructures for Research and Technology S.A.",
+        "handle": "GR-IX-RS"
+    },
+    "50919": {
+        "country_code": "GR",
+        "asn": "50919",
+        "description": "INTERWORKS Single Member S.A.",
+        "handle": "INTERWORKS-AS"
+    },
+    "51505": {
+        "country_code": "GR",
+        "asn": "51505",
+        "description": "Dimosia Epicheirisi Ilektrismou Anonymi Etaireia",
+        "handle": "DEI-AS"
+    },
+    "51537": {
+        "country_code": "GR",
+        "asn": "51537",
+        "description": "Aegean Airlines S.A.",
+        "handle": "A3-AS"
+    },
+    "51574": {
+        "country_code": "GR",
+        "asn": "51574",
+        "description": "FASTPATH IKE",
+        "handle": "FASTPATH-TESTNET"
+    },
+    "51810": {
+        "country_code": "GR",
+        "asn": "51810",
+        "description": "MOREAS S.A.",
+        "handle": "MOREAS-AS"
+    },
+    "51900": {
+        "country_code": "GR",
+        "asn": "51900",
+        "description": "Ioannis Roditis trading as Greekstream Networks",
+        "handle": "THESS-IX"
+    },
+    "56457": {
+        "country_code": "GR",
+        "asn": "56457",
+        "description": "FASTPATH IKE",
+        "handle": "FASTPATH"
+    },
+    "56815": {
+        "country_code": "GR",
+        "asn": "56815",
+        "description": "GeniusMind S.A.",
+        "handle": "OLKA"
+    },
+    "56858": {
+        "country_code": "GR",
+        "asn": "56858",
+        "description": "Digital Realty Hellas Single Member S.A",
+        "handle": "SEECIX"
+    },
+    "56910": {
+        "country_code": "GR",
+        "asn": "56910",
+        "description": "Digital Realty Hellas Single Member S.A",
+        "handle": "LAMDAHELLIX"
+    },
+    "57794": {
+        "country_code": "GR",
+        "asn": "57794",
+        "description": "ELLINIKA DIKTIA KALODION MEPE",
+        "handle": "HCN-01"
+    },
+    "60325": {
+        "country_code": "GR",
+        "asn": "60325",
+        "description": "Optiland Telecommunications I.K.E.",
+        "handle": "SERRESNET-AS"
+    },
+    "60597": {
+        "country_code": "GR",
+        "asn": "60597",
+        "description": "S. CHRISTOFOROU & SIA O.E.",
+        "handle": "SODIUM-GR"
+    },
+    "60723": {
+        "country_code": "GR",
+        "asn": "60723",
+        "description": "NEUROPUBLIC SA",
+        "handle": "NEUROPUBLIC"
+    },
+    "60911": {
+        "country_code": "GR",
+        "asn": "60911",
+        "description": "Lancom Ltd.",
+        "handle": "LANCOM-DR"
+    },
+    "62061": {
+        "country_code": "GR",
+        "asn": "62061",
+        "description": "Ioannis Roditis trading as Greekstream Networks",
+        "handle": "GREEKSTREAMNET-AS"
+    },
+    "196945": {
+        "country_code": "GR",
+        "asn": "196945",
+        "description": "Microbase PC",
+        "handle": "MICROBASE-AS"
+    },
+    "197389": {
+        "country_code": "GR",
+        "asn": "197389",
+        "description": "CBS-LAN S.A.",
+        "handle": "CBS-LAN-ASN"
+    },
+    "197515": {
+        "country_code": "GR",
+        "asn": "197515",
+        "description": "ORIZON TELECOM S.A",
+        "handle": "CELLMOBILE"
+    },
+    "197534": {
+        "country_code": "GR",
+        "asn": "197534",
+        "description": "ICAP CRIF A.E.",
+        "handle": "ICAP-GROUP-AS"
+    },
+    "197580": {
+        "country_code": "GR",
+        "asn": "197580",
+        "description": "Connecticore Telecommunications Information Technology S.A",
+        "handle": "AS-CONNECTICORE"
+    },
+    "197746": {
+        "country_code": "GR",
+        "asn": "197746",
+        "description": "Georgios Vardikos trading as HYPERHOSTING",
+        "handle": "HYPERHOSTING"
+    },
+    "197899": {
+        "country_code": "GR",
+        "asn": "197899",
+        "description": "LAN SINGLE MEMBER P.C.",
+        "handle": "LANMIKEASN"
+    },
+    "197980": {
+        "country_code": "GR",
+        "asn": "197980",
+        "description": "Lancom Ltd.",
+        "handle": "BALKAN-GATE-ASN"
+    },
+    "198188": {
+        "country_code": "GR",
+        "asn": "198188",
+        "description": "Ventzislav Nikolov Trading as MTEL",
+        "handle": "MTEL-AS"
+    },
+    "198477": {
+        "country_code": "GR",
+        "asn": "198477",
+        "description": "TI SPARKLE GREECE SA",
+        "handle": "TISGR-NET"
+    },
+    "199081": {
+        "country_code": "GR",
+        "asn": "199081",
+        "description": "Lancom Ltd.",
+        "handle": "LANCOM"
+    },
+    "199141": {
+        "country_code": "GR",
+        "asn": "199141",
+        "description": "IRIS PRINTING SA",
+        "handle": "IRISPRINTING"
+    },
+    "199370": {
+        "country_code": "GR",
+        "asn": "199370",
+        "description": "Athens International Airport SA",
+        "handle": "AIA-ASN1"
+    },
+    "199375": {
+        "country_code": "GR",
+        "asn": "199375",
+        "description": "Service 800 Teleperformance Single Member S.A.",
+        "handle": "TPG-AS"
+    },
+    "199382": {
+        "country_code": "GR",
+        "asn": "199382",
+        "description": "Regency Entertainment S.A.",
+        "handle": "REGENCY-GR"
+    },
+    "199399": {
+        "country_code": "GR",
+        "asn": "199399",
+        "description": "National Infrastructures for Research and Technology S.A.",
+        "handle": "GR-IX-AS"
+    },
+    "200128": {
+        "country_code": "GR",
+        "asn": "200128",
+        "description": "DNHOST IKE",
+        "handle": "DNHOST"
+    },
+    "200314": {
+        "country_code": "GR",
+        "asn": "200314",
+        "description": "Algosystems S.A.",
+        "handle": "ALGOSYSTEMS-DR-GR"
+    },
+    "200368": {
+        "country_code": "GR",
+        "asn": "200368",
+        "description": "Abnormal Frequency Single Member P.C.",
+        "handle": "ABNORMALFREQUENCY-AS"
+    },
+    "200736": {
+        "country_code": "GR",
+        "asn": "200736",
+        "description": "MEDIANET INVEST AE",
+        "handle": "INALAN"
+    },
+    "201293": {
+        "country_code": "GR",
+        "asn": "201293",
+        "description": "OPAP S.A",
+        "handle": "OPAP"
+    },
+    "201321": {
+        "country_code": "GR",
+        "asn": "201321",
+        "description": "ITQS IKE",
+        "handle": "ITQS"
+    },
+    "201374": {
+        "country_code": "GR",
+        "asn": "201374",
+        "description": "Hellenic Parliament",
+        "handle": "GREEK-PARLIAMENT-AS"
+    },
+    "201494": {
+        "country_code": "GR",
+        "asn": "201494",
+        "description": "MODULUS A.E.",
+        "handle": "MODULUS"
+    },
+    "201827": {
+        "country_code": "GR",
+        "asn": "201827",
+        "description": "Spartan LTD",
+        "handle": "SPARTAN-GR"
+    },
+    "202042": {
+        "country_code": "GR",
+        "asn": "202042",
+        "description": "Skroutz Internet Services S.A.",
+        "handle": "SKROUTZ-GR"
+    },
+    "202112": {
+        "country_code": "GR",
+        "asn": "202112",
+        "description": "TELMACO S.A",
+        "handle": "TELMACO"
+    },
+    "202224": {
+        "country_code": "GR",
+        "asn": "202224",
+        "description": "Giannis Kontos",
+        "handle": "DARKNET"
+    },
+    "202506": {
+        "country_code": "GR",
+        "asn": "202506",
+        "description": "CREDIABANK S.A.",
+        "handle": "PANCRETABANK"
+    },
+    "202640": {
+        "country_code": "GR",
+        "asn": "202640",
+        "description": "KENTRO POLITISMOU IDRYMA STAVROS NIARCHOS MONOPROSOPI A.E.",
+        "handle": "SNFCC"
+    },
+    "202849": {
+        "country_code": "GR",
+        "asn": "202849",
+        "description": "Greek Ministry of Education and Religious Affairs",
+        "handle": "GREEK-MINISTRY-OF-EDUCATION"
+    },
+    "202903": {
+        "country_code": "GR",
+        "asn": "202903",
+        "description": "PE Nikos Antonakis - PRONETWORKS",
+        "handle": "PRONETWORKS-AS"
+    },
+    "202949": {
+        "country_code": "GR",
+        "asn": "202949",
+        "description": "Fraport Regional Airports of Greece Management Company S.A.",
+        "handle": "FRAPORTGREECE"
+    },
+    "203079": {
+        "country_code": "GR",
+        "asn": "203079",
+        "description": "Europlanet GP",
+        "handle": "EUROPLANET"
+    },
+    "203101": {
+        "country_code": "GR",
+        "asn": "203101",
+        "description": "Navarino Single Member S.A.",
+        "handle": "NAVARINO-POP"
+    },
+    "203340": {
+        "country_code": "GR",
+        "asn": "203340",
+        "description": "STATHMOS EMPOREVMATOKIVOTION PEIRAIA MONOPROSOPI AE",
+        "handle": "SEP-AS"
+    },
+    "203348": {
+        "country_code": "GR",
+        "asn": "203348",
+        "description": "Hellenic Telecommunications and Post Commision",
+        "handle": "EETT-AS"
+    },
+    "203635": {
+        "country_code": "GR",
+        "asn": "203635",
+        "description": "Agiopoulos Agioploudis",
+        "handle": "EXANDAS"
+    },
+    "203704": {
+        "country_code": "GR",
+        "asn": "203704",
+        "description": "Spyridon Rafail Panagiotopoulos",
+        "handle": "SPANAGIOT"
+    },
+    "203780": {
+        "country_code": "GR",
+        "asn": "203780",
+        "description": "Diamantis Masoutis S.A. - Super Market",
+        "handle": "MASOUTIS"
+    },
+    "203878": {
+        "country_code": "GR",
+        "asn": "203878",
+        "description": "ELECTRONIC DATA PROCESSING SOURCE MONOPROSOPI S.A.",
+        "handle": "EDPS-AS"
+    },
+    "204399": {
+        "country_code": "GR",
+        "asn": "204399",
+        "description": "Stavros Charos",
+        "handle": "ASTROLAVOS"
+    },
+    "204462": {
+        "country_code": "GR",
+        "asn": "204462",
+        "description": "Algosystems S.A.",
+        "handle": "ALGOSYSTEMS-GR"
+    },
+    "204618": {
+        "country_code": "GR",
+        "asn": "204618",
+        "description": "DIMOS NIKAIAS - AGIOU IOANNI RENTI - MUNICIPALITY",
+        "handle": "CONR-AS"
+    },
+    "204932": {
+        "country_code": "GR",
+        "asn": "204932",
+        "description": "George Sgouridis trading as Friktoria.com - Data Center Services",
+        "handle": "FRIKTORIANET"
+    },
+    "205053": {
+        "country_code": "GR",
+        "asn": "205053",
+        "description": "Asimia Damaskou",
+        "handle": "AWEB-ASN"
+    },
+    "205298": {
+        "country_code": "GR",
+        "asn": "205298",
+        "description": "MARIOS ANGELOS SARDIS trading as SARDIS MARIOS-ANGELOS TOU MARKOU",
+        "handle": "HERMES-SOLUTIONS-GR"
+    },
+    "205904": {
+        "country_code": "GR",
+        "asn": "205904",
+        "description": "VOICELAND SA",
+        "handle": "VOICELANDGR"
+    },
+    "206349": {
+        "country_code": "GR",
+        "asn": "206349",
+        "description": "Helleniq Energy Digital Monoprosopi SA",
+        "handle": "HELPE-GR"
+    },
+    "206425": {
+        "country_code": "GR",
+        "asn": "206425",
+        "description": "METRO Anonymi Emporiki kai Viomichaniki Etaireia Eidon Diatrofis kai Oikiakis Chrisis AE",
+        "handle": "METRO"
+    },
+    "206456": {
+        "country_code": "GR",
+        "asn": "206456",
+        "description": "Citiwave Systems Ltd.",
+        "handle": "FIBAIR"
+    },
+    "206529": {
+        "country_code": "GR",
+        "asn": "206529",
+        "description": "Metadosis SA",
+        "handle": "METADOSIS"
+    },
+    "206652": {
+        "country_code": "GR",
+        "asn": "206652",
+        "description": "Ioannis Roditis trading as Greekstream Networks",
+        "handle": "GREEKSTREAM-AS"
+    },
+    "206697": {
+        "country_code": "GR",
+        "asn": "206697",
+        "description": "Eurolife ERB General Insurance SA",
+        "handle": "EUROLIFE-ERB"
+    },
+    "206735": {
+        "country_code": "GR",
+        "asn": "206735",
+        "description": "Novelcomm LP",
+        "handle": "NOVELCOMM-AS"
+    },
+    "207034": {
+        "country_code": "GR",
+        "asn": "207034",
+        "description": "KLEEMANN HELLAS SA",
+        "handle": "KLEEMANN-ASN"
+    },
+    "207062": {
+        "country_code": "GR",
+        "asn": "207062",
+        "description": "VELTIO Greece LTD",
+        "handle": "VELTIO"
+    },
+    "207492": {
+        "country_code": "GR",
+        "asn": "207492",
+        "description": "Christodoulou Christos trading as Wicon",
+        "handle": "WICON"
+    },
+    "207540": {
+        "country_code": "GR",
+        "asn": "207540",
+        "description": "Cloud Concept S.A.",
+        "handle": "CLOUDCONCEPT"
+    },
+    "207585": {
+        "country_code": "GR",
+        "asn": "207585",
+        "description": "DC ELECTRONICS EE",
+        "handle": "DCE"
+    },
+    "207639": {
+        "country_code": "GR",
+        "asn": "207639",
+        "description": "HOSTMEIN IKE",
+        "handle": "CUS1183"
+    },
+    "207767": {
+        "country_code": "GR",
+        "asn": "207767",
+        "description": "FERMORITE Systems Applications and Services on IT and Technology IKE",
+        "handle": "AS-FERMORITE"
+    },
+    "207953": {
+        "country_code": "GR",
+        "asn": "207953",
+        "description": "DEVOQ Technology I.K.E.",
+        "handle": "DEVOQ"
+    },
+    "207955": {
+        "country_code": "GR",
+        "asn": "207955",
+        "description": "Orbyt Global S.A.",
+        "handle": "OG-GR"
+    },
+    "208078": {
+        "country_code": "GR",
+        "asn": "208078",
+        "description": "Smart TV Data Single Member P.C.",
+        "handle": "SMART-TV-DATA"
+    },
+    "208108": {
+        "country_code": "GR",
+        "asn": "208108",
+        "description": "Ioannis Roditis trading as Greekstream Networks",
+        "handle": "GREECE-TELECOM-AS"
+    },
+    "208149": {
+        "country_code": "GR",
+        "asn": "208149",
+        "description": "SKYTELECOM & SIA E.E.",
+        "handle": "SKYTELECOM-AS"
+    },
+    "208552": {
+        "country_code": "GR",
+        "asn": "208552",
+        "description": "PROCESSING SERVICES SIA GREECE S.A.",
+        "handle": "NEWSIAGR-GR"
+    },
+    "208785": {
+        "country_code": "GR",
+        "asn": "208785",
+        "description": "FTN Tilepikoinonies MEPE",
+        "handle": "FTN"
+    },
+    "208829": {
+        "country_code": "GR",
+        "asn": "208829",
+        "description": "MELLON TECHNOLOGIES SA",
+        "handle": "MT"
+    },
+    "208837": {
+        "country_code": "GR",
+        "asn": "208837",
+        "description": "INTERCONNECT SM LLC",
+        "handle": "INTERCONNECT-AS"
+    },
+    "208858": {
+        "country_code": "GR",
+        "asn": "208858",
+        "description": "HOLY GREAT MONASTERY OF VATOPEDI",
+        "handle": "VATOPEDI-ASN"
+    },
+    "209111": {
+        "country_code": "GR",
+        "asn": "209111",
+        "description": "PEOPLECERT GLOBAL SERVICES AE",
+        "handle": "PEOPLECERT-ORG"
+    },
+    "209128": {
+        "country_code": "GR",
+        "asn": "209128",
+        "description": "Evresis SA",
+        "handle": "EVRESIS"
+    },
+    "209147": {
+        "country_code": "GR",
+        "asn": "209147",
+        "description": "IPGLOBAL IKE",
+        "handle": "IPGR-ASN"
+    },
+    "209150": {
+        "country_code": "GR",
+        "asn": "209150",
+        "description": "TH.PAPAMICHAIL VAINAS - G.PSALTAKIS G.P",
+        "handle": "POINTER"
+    },
+    "209162": {
+        "country_code": "GR",
+        "asn": "209162",
+        "description": "INTERNET HELLAS LP",
+        "handle": "INTERNETHELLAS-ASN"
+    },
+    "209515": {
+        "country_code": "GR",
+        "asn": "209515",
+        "description": "MOTOR OIL (HELLAS) CORINTH REFINERIES S.A.",
+        "handle": "MOHGROUP-AS"
+    },
+    "209608": {
+        "country_code": "GR",
+        "asn": "209608",
+        "description": "Municipality of Athens",
+        "handle": "CITYOFATHENS"
+    },
+    "209872": {
+        "country_code": "GR",
+        "asn": "209872",
+        "description": "EASY SYSTEMS S.A.",
+        "handle": "EASYSYSTEMS"
+    },
+    "209914": {
+        "country_code": "GR",
+        "asn": "209914",
+        "description": "ANDROULAKIS THEODOROS-KOUNTOURAKI ATHANASIA 0.E. - WLAN O.E.",
+        "handle": "WLANGR-ASN"
+    },
+    "210046": {
+        "country_code": "GR",
+        "asn": "210046",
+        "description": "GIOVANIS I. GKOUMASI X. E.E. trading as BEEASY Solutions",
+        "handle": "BEEASY"
+    },
+    "210312": {
+        "country_code": "GR",
+        "asn": "210312",
+        "description": "Antonios A. Chariton",
+        "handle": "BGP-CLOCK"
+    },
+    "210473": {
+        "country_code": "GR",
+        "asn": "210473",
+        "description": "PANTELIS SPYRIDON trading as NOWIRE",
+        "handle": "NOWIRE"
+    },
+    "210477": {
+        "country_code": "GR",
+        "asn": "210477",
+        "description": "Genco Power AE",
+        "handle": "SUPERVOICE"
+    },
+    "210697": {
+        "country_code": "GR",
+        "asn": "210697",
+        "description": "SOMETHING SINGLE MEMBER P.C.",
+        "handle": "SOMETHINGHOST"
+    },
+    "210768": {
+        "country_code": "GR",
+        "asn": "210768",
+        "description": "Megabyte IKE",
+        "handle": "MEGABYTE-AS"
+    },
+    "211053": {
+        "country_code": "GR",
+        "asn": "211053",
+        "description": "Steelmet S.A.",
+        "handle": "VIONET-GR"
+    },
+    "211064": {
+        "country_code": "GR",
+        "asn": "211064",
+        "description": "Cosmos Business Systems S.A.",
+        "handle": "COSMOS-ASN"
+    },
+    "211065": {
+        "country_code": "GR",
+        "asn": "211065",
+        "description": "ANIXE.NET SINGLE MEMBER PRIVATE COMPANY",
+        "handle": "ANIXE-NET"
+    },
+    "211094": {
+        "country_code": "GR",
+        "asn": "211094",
+        "description": "ADVANCED TECH SOLUTIONS LP",
+        "handle": "ADVANCED-TECH-SOLUTIONS"
+    },
+    "211109": {
+        "country_code": "GR",
+        "asn": "211109",
+        "description": "CRS Liknoss Monoprosopi SA",
+        "handle": "LIKNOSS"
+    },
+    "211110": {
+        "country_code": "GR",
+        "asn": "211110",
+        "description": "HTELCO TILEPIKOINONIAKES YPIRESIES MONOPROSOPI A.E.",
+        "handle": "HTELCO-AS"
+    },
+    "211186": {
+        "country_code": "GR",
+        "asn": "211186",
+        "description": "FAST TELECOM SINGLE MEMBER P.C.",
+        "handle": "FASTTELECOMGR"
+    },
+    "211214": {
+        "country_code": "GR",
+        "asn": "211214",
+        "description": "DORINA CVETKOVA PAUNOVA trading as CABLENET SERVICES S.M.P.S.",
+        "handle": "CABLENET-AS"
+    },
+    "211275": {
+        "country_code": "GR",
+        "asn": "211275",
+        "description": "Thomas Rogdakis",
+        "handle": "MAKNET"
+    },
+    "211677": {
+        "country_code": "GR",
+        "asn": "211677",
+        "description": "ICAP OUTSOURCING SOLUTIONS ANONYMI ETAIRIA PAROXIS YPIRESION",
+        "handle": "ICAP-OS-ASN"
+    },
+    "211726": {
+        "country_code": "GR",
+        "asn": "211726",
+        "description": "Wifiber IKE",
+        "handle": "WIFIBER"
+    },
+    "211761": {
+        "country_code": "GR",
+        "asn": "211761",
+        "description": "HELLAS SAT SINGLE MEMBER SOCIETE ANONYME SATELLITE SYSTEMS AND COMMUNICATIONS SERVICES",
+        "handle": "HELLASSATGR-ASN"
+    },
+    "211809": {
+        "country_code": "GR",
+        "asn": "211809",
+        "description": "VALITY SA",
+        "handle": "VALITY-AS"
+    },
+    "211949": {
+        "country_code": "GR",
+        "asn": "211949",
+        "description": "GSNET Private Capital Company I.K.E.",
+        "handle": "GSNET"
+    },
+    "212043": {
+        "country_code": "GR",
+        "asn": "212043",
+        "description": "Nektarios Dimos",
+        "handle": "AS365"
+    },
+    "212274": {
+        "country_code": "GR",
+        "asn": "212274",
+        "description": "IEltrak S.A.",
+        "handle": "ELTRAKSA-AS"
+    },
+    "212326": {
+        "country_code": "GR",
+        "asn": "212326",
+        "description": "Skylink Single Member Ltd.",
+        "handle": "SKYLINK"
+    },
+    "212337": {
+        "country_code": "GR",
+        "asn": "212337",
+        "description": "Andreas Andrianopoulos trading as Patras Broadband Wireless ISP",
+        "handle": "PATRASBROADBAND"
+    },
+    "212347": {
+        "country_code": "GR",
+        "asn": "212347",
+        "description": "Novelcomm LP",
+        "handle": "NVL-IX"
+    },
+    "212433": {
+        "country_code": "GR",
+        "asn": "212433",
+        "description": "NICTECH I.K.E.",
+        "handle": "NICTECH-ASN"
+    },
+    "212442": {
+        "country_code": "GR",
+        "asn": "212442",
+        "description": "Mechmet CHATIP MEMET trading as SpeedNet",
+        "handle": "SPEEDNET-AS"
+    },
+    "212485": {
+        "country_code": "GR",
+        "asn": "212485",
+        "description": "MENELAOS KATAKIS KAI SIA LP",
+        "handle": "SMARTSUPPORT"
+    },
+    "212498": {
+        "country_code": "GR",
+        "asn": "212498",
+        "description": "QUALCO SA",
+        "handle": "QUALCO-NET"
+    },
+    "212699": {
+        "country_code": "GR",
+        "asn": "212699",
+        "description": "Yuboto LTD",
+        "handle": "YUBOTO"
+    },
+    "212984": {
+        "country_code": "GR",
+        "asn": "212984",
+        "description": "ENISA",
+        "handle": "ENISA-AS"
+    },
+    "212994": {
+        "country_code": "GR",
+        "asn": "212994",
+        "description": "IOT SYNDESI I.K.E.",
+        "handle": "EUROLINK"
+    },
+    "213218": {
+        "country_code": "GR",
+        "asn": "213218",
+        "description": "Minoan Lines Shipping S.A.",
+        "handle": "MINOAN-ORG"
+    },
+    "213835": {
+        "country_code": "GR",
+        "asn": "213835",
+        "description": "Solidity Technology Services SA",
+        "handle": "SOLIDITY"
+    },
+    "213930": {
+        "country_code": "GR",
+        "asn": "213930",
+        "description": "Georgios Methymakis trading as FLEXTELECOMS",
+        "handle": "FLEXTELECOM-ASN"
+    },
+    "213974": {
+        "country_code": "GR",
+        "asn": "213974",
+        "description": "DIGITAL SIMA INFORMATIC GOODS TRADING SA",
+        "handle": "DIGISIMA"
+    },
+    "214010": {
+        "country_code": "GR",
+        "asn": "214010",
+        "description": "WISPNET TELECOMMUNICATIONS IKE",
+        "handle": "WISPNET-AS"
+    },
+    "214254": {
+        "country_code": "GR",
+        "asn": "214254",
+        "description": "KYRKOS - ALAFODIMOS (MARPOINT) P.C.",
+        "handle": "MPNT"
+    },
+    "214261": {
+        "country_code": "GR",
+        "asn": "214261",
+        "description": "AUTOHELLAS TOURIST AND TRADING SOCIETE ANONYME",
+        "handle": "GR-AUTOHELLAS-ASN01"
+    },
+    "214298": {
+        "country_code": "GR",
+        "asn": "214298",
+        "description": "DATAPLEX SA",
+        "handle": "DATAPLEX"
+    },
+    "214452": {
+        "country_code": "GR",
+        "asn": "214452",
+        "description": "ORGANISMOS LIMENOS THESSALONIKIS ANONYMI ETAIRIA",
+        "handle": "THPA-ASN"
+    },
+    "214791": {
+        "country_code": "GR",
+        "asn": "214791",
+        "description": "Aegean Baltic Bank A.T.E.",
+        "handle": "AEGEAN-BALTIC-BANK"
+    },
+    "214885": {
+        "country_code": "GR",
+        "asn": "214885",
+        "description": "Genco Power AE",
+        "handle": "SUPERVOICE"
+    },
+    "214914": {
+        "country_code": "GR",
+        "asn": "214914",
+        "description": "Dimitrios Papadopoulos trading as Data Networks",
+        "handle": "DATANET-ASN"
+    },
+    "214948": {
+        "country_code": "GR",
+        "asn": "214948",
+        "description": "CH.STAMOULIS-TH.CHRISTODOULOPOULOS TECHNOLOGICAL LLC",
+        "handle": "ARCUS"
+    },
+    "215036": {
+        "country_code": "GR",
+        "asn": "215036",
+        "description": "NIKOLOPOULOS D. & Co G.P.",
+        "handle": "COMPUGEN"
+    },
+    "215161": {
+        "country_code": "GR",
+        "asn": "215161",
+        "description": "Michael Vassileiou trading as DATAHOST",
+        "handle": "DATAHOST"
+    },
+    "215213": {
+        "country_code": "GR",
+        "asn": "215213",
+        "description": "IDIOTIKI EPIXEIRISI PAROXIS YPIRESION ASFALEIAS KARATZAS A. KAI SIA OE",
+        "handle": "KNETPRO-ASN"
+    },
+    "215405": {
+        "country_code": "GR",
+        "asn": "215405",
+        "description": "Antonios A. Chariton",
+        "handle": "FREEIX-GR"
+    },
+    "215414": {
+        "country_code": "GR",
+        "asn": "215414",
+        "description": "Public Retail S.A.",
+        "handle": "PUBLIC-RETAIL"
+    },
+    "215492": {
+        "country_code": "GR",
+        "asn": "215492",
+        "description": "BUTLER CHAT I.K.E.",
+        "handle": "BUTLER"
+    },
+    "215583": {
+        "country_code": "GR",
+        "asn": "215583",
+        "description": "ESPORTS HELLAS I.K.E",
+        "handle": "ESPORTS-HELLAS-ASN"
+    },
+    "215684": {
+        "country_code": "GR",
+        "asn": "215684",
+        "description": "BLUE FIBER IKE",
+        "handle": "BLUEF-ASN"
+    },
+    "215734": {
+        "country_code": "GR",
+        "asn": "215734",
+        "description": "Georgios Karampitsakis",
+        "handle": "KARAMPITSAKIS-AS"
+    },
+    "215795": {
+        "country_code": "GR",
+        "asn": "215795",
+        "description": "Antonios Damigos",
+        "handle": "DAMINET"
+    },
+    "215804": {
+        "country_code": "GR",
+        "asn": "215804",
+        "description": "GRID TELECOM SINGLE MEMBER S.A",
+        "handle": "GRIDGR"
+    },
+    "215980": {
+        "country_code": "GR",
+        "asn": "215980",
+        "description": "Eleftherios Touloumtzidis",
+        "handle": "TOULOUMTZIDIS"
+    },
+    "216028": {
+        "country_code": "GR",
+        "asn": "216028",
+        "description": "Ellaktor S.A.",
+        "handle": "ELLAKTOR-GR"
+    },
+    "216285": {
+        "country_code": "GR",
+        "asn": "216285",
+        "description": "MYIP NETWORKS G.P.",
+        "handle": "MYIPGR"
+    },
+    "216470": {
+        "country_code": "GR",
+        "asn": "216470",
+        "description": "DIMOS ATHINAION ANONIMI ANAPTIXIAKI ETAIRIA MICHANOGRAFISIS KAI EPICHIRISIAKON MONADON OTA",
+        "handle": "DAEM-SA"
+    }
+}

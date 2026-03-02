@@ -1,0 +1,5996 @@
+{
+    "7552": {
+        "country_code": "VN",
+        "asn": "7552",
+        "description": "Viettel Group",
+        "handle": "VIETEL-AS-AP"
+    },
+    "7602": {
+        "country_code": "VN",
+        "asn": "7602",
+        "description": "Sai gon Postel Corporation",
+        "handle": "SPT-AS-VN"
+    },
+    "7643": {
+        "country_code": "VN",
+        "asn": "7643",
+        "description": "Vietnam Posts and Telecommunications (VNPT)",
+        "handle": "VNPT-AS-VN"
+    },
+    "18403": {
+        "country_code": "VN",
+        "asn": "18403",
+        "description": "FPT Telecom Company",
+        "handle": "FPT-AS-AP"
+    },
+    "22553": {
+        "country_code": "VN",
+        "asn": "22553",
+        "description": "BLATE NETWORK LLC",
+        "handle": "BLATE-NETWORK-99"
+    },
+    "22640": {
+        "country_code": "VN",
+        "asn": "22640",
+        "description": "DOIX NET LLC",
+        "handle": "DOIX-NET-79"
+    },
+    "23378": {
+        "country_code": "VN",
+        "asn": "23378",
+        "description": "Sign Solutions LLC",
+        "handle": "SIGNSOLU"
+    },
+    "23899": {
+        "country_code": "VN",
+        "asn": "23899",
+        "description": "Vietnam Internet network information center (VNNIC)",
+        "handle": "VNIX-AS-VN"
+    },
+    "23902": {
+        "country_code": "VN",
+        "asn": "23902",
+        "description": "Vietnam Internet network information center (VNNIC)",
+        "handle": "VNNIC-AS-VN"
+    },
+    "23962": {
+        "country_code": "VN",
+        "asn": "23962",
+        "description": "Vietnam Internet Network Information Center",
+        "handle": "VNIX-AS-VN"
+    },
+    "23999": {
+        "country_code": "VN",
+        "asn": "23999",
+        "description": "Vietnam News Agency",
+        "handle": "VNA-AS-VN"
+    },
+    "24035": {
+        "country_code": "VN",
+        "asn": "24035",
+        "description": "Ministry of Foreign Affairs of Vietnam - MOFA",
+        "handle": "MOFA-AS-VN"
+    },
+    "24066": {
+        "country_code": "VN",
+        "asn": "24066",
+        "description": "Vietnam Internet Network Information Center",
+        "handle": "VNNIC-AS-VN"
+    },
+    "24085": {
+        "country_code": "VN",
+        "asn": "24085",
+        "description": "Quang Trung Software City Development Company",
+        "handle": "QTSC-AS-VN"
+    },
+    "24086": {
+        "country_code": "VN",
+        "asn": "24086",
+        "description": "Viettel Corporation",
+        "handle": "VIETTEL-AS-VN"
+    },
+    "24087": {
+        "country_code": "VN",
+        "asn": "24087",
+        "description": "VIETBRANDS COMPANY LIMITED",
+        "handle": "VIETBRANDS-VN"
+    },
+    "24088": {
+        "country_code": "VN",
+        "asn": "24088",
+        "description": "Hanoi Telecom Joint Stock Company - HCMC Branch",
+        "handle": "HTCHCMC-AS-VN"
+    },
+    "24089": {
+        "country_code": "VN",
+        "asn": "24089",
+        "description": "Vietnam Internet Network Information Center",
+        "handle": "VNNIC-AS-AP"
+    },
+    "24173": {
+        "country_code": "VN",
+        "asn": "24173",
+        "description": "Netnam Company",
+        "handle": "NETNAM-AS-AP"
+    },
+    "24174": {
+        "country_code": "VN",
+        "asn": "24174",
+        "description": "Vikki Digital Bank Limited",
+        "handle": "VKB-VN"
+    },
+    "24175": {
+        "country_code": "VN",
+        "asn": "24175",
+        "description": "National Agency for Scientific and Technological Information",
+        "handle": "VINAREN-AS-AP"
+    },
+    "24176": {
+        "country_code": "VN",
+        "asn": "24176",
+        "description": "Branch of Netnam Company in Ho Chi Minh City",
+        "handle": "NETNAMHCMC-AS-AP"
+    },
+    "24177": {
+        "country_code": "VN",
+        "asn": "24177",
+        "description": "iNET Media Company Ltd",
+        "handle": "INET-AS-AP"
+    },
+    "38244": {
+        "country_code": "VN",
+        "asn": "38244",
+        "description": "VNG Corporation",
+        "handle": "VINAGAME-AS-VN"
+    },
+    "38245": {
+        "country_code": "VN",
+        "asn": "38245",
+        "description": "VIETBRANDS COMPANY LIMITED",
+        "handle": "VIETBRANDS-AS-VN"
+    },
+    "38246": {
+        "country_code": "VN",
+        "asn": "38246",
+        "description": "CDMA Mobile Phone Center S-Telecom",
+        "handle": "SFONE-AS-VN"
+    },
+    "38247": {
+        "country_code": "VN",
+        "asn": "38247",
+        "description": "Vietnamobile Telecommunications Joint Stock Company",
+        "handle": "VIETNAMOBILE-AS-VN"
+    },
+    "38248": {
+        "country_code": "VN",
+        "asn": "38248",
+        "description": "VTC-VN",
+        "handle": "VTC-AS-VN"
+    },
+    "38249": {
+        "country_code": "VN",
+        "asn": "38249",
+        "description": "KIS Viet Nam Securities Corporations",
+        "handle": "KIS-AS-VN"
+    },
+    "38250": {
+        "country_code": "VN",
+        "asn": "38250",
+        "description": "VSERVER EQUIPMENT TECHNOLOGY COMPANY LIMITED",
+        "handle": "VSERVER-AS-VN"
+    },
+    "38251": {
+        "country_code": "VN",
+        "asn": "38251",
+        "description": "VNDirect Securities Corporation",
+        "handle": "VNDIRECT-AS-VN"
+    },
+    "38253": {
+        "country_code": "VN",
+        "asn": "38253",
+        "description": "Hanoi Telecom JSC",
+        "handle": "HANOITELECOM-AS-VN"
+    },
+    "38725": {
+        "country_code": "VN",
+        "asn": "38725",
+        "description": "Inet software one member company limited",
+        "handle": "INETSOFT-AS-VN"
+    },
+    "38726": {
+        "country_code": "VN",
+        "asn": "38726",
+        "description": "VTC DIGICOM",
+        "handle": "VTCDIGICOM-AS-VN"
+    },
+    "38727": {
+        "country_code": "VN",
+        "asn": "38727",
+        "description": "HaNoi University of science and technology",
+        "handle": "HUT-AS-VN"
+    },
+    "38729": {
+        "country_code": "VN",
+        "asn": "38729",
+        "description": "Kien Cuong International JSC",
+        "handle": "KCC-AS-VN"
+    },
+    "38730": {
+        "country_code": "VN",
+        "asn": "38730",
+        "description": "VIETINBANK-VN",
+        "handle": "VIETINBANK-AS-VN"
+    },
+    "38731": {
+        "country_code": "VN",
+        "asn": "38731",
+        "description": "Vietel - CHT Compamy Ltd",
+        "handle": "VTDC-AS-VN"
+    },
+    "38732": {
+        "country_code": "VN",
+        "asn": "38732",
+        "description": "CMC Telecom Infrastructure Company",
+        "handle": "CMCTELECOM-VN"
+    },
+    "38733": {
+        "country_code": "VN",
+        "asn": "38733",
+        "description": "CMC Telecom Infrastructure Company",
+        "handle": "CMCTELECOM-VN"
+    },
+    "38734": {
+        "country_code": "VN",
+        "asn": "38734",
+        "description": "ENCAPITAL FINANCIAL TECHNOLOGY JOINT STOCK COMPANY",
+        "handle": "ENCAPITAL-AS-VN"
+    },
+    "38735": {
+        "country_code": "VN",
+        "asn": "38735",
+        "description": "Global Data Service Joint Stock Company",
+        "handle": "GDS-AS-VN"
+    },
+    "38736": {
+        "country_code": "VN",
+        "asn": "38736",
+        "description": "Vietnam Internet network information center (VNNIC)",
+        "handle": "VNNIC-AS-VN"
+    },
+    "38737": {
+        "country_code": "VN",
+        "asn": "38737",
+        "description": "Vietnam Internet network information center (VNNIC)",
+        "handle": "VNNIC-AS-VN"
+    },
+    "38738": {
+        "country_code": "VN",
+        "asn": "38738",
+        "description": "L.C.S Company. ltd",
+        "handle": "LCS-AS-VN"
+    },
+    "38739": {
+        "country_code": "VN",
+        "asn": "38739",
+        "description": "Vietnam Internet network information center (VNNIC)",
+        "handle": "VNIX-AS-VN"
+    },
+    "45538": {
+        "country_code": "VN",
+        "asn": "45538",
+        "description": "ODS Joint Stock Company",
+        "handle": "ODSJSC-AS-VN"
+    },
+    "45539": {
+        "country_code": "VN",
+        "asn": "45539",
+        "description": "VTCWLB-VN",
+        "handle": "VTCWLB-AS-VN"
+    },
+    "45541": {
+        "country_code": "VN",
+        "asn": "45541",
+        "description": "Information Technology Center - Joint Stock Commercial Bank for Investment and Development of Vietnam",
+        "handle": "BIDV-AS-VN"
+    },
+    "45542": {
+        "country_code": "VN",
+        "asn": "45542",
+        "description": "VietNam National University Ha Noi",
+        "handle": "VNU-AS-VN"
+    },
+    "45543": {
+        "country_code": "VN",
+        "asn": "45543",
+        "description": "SaiGon Tourist cable Televition Company",
+        "handle": "SCTV-AS-VN"
+    },
+    "45544": {
+        "country_code": "VN",
+        "asn": "45544",
+        "description": "SUPERDATA-VN",
+        "handle": "SUPERDATA-AS-VN"
+    },
+    "45545": {
+        "country_code": "VN",
+        "asn": "45545",
+        "description": "Sai Gon Telecommunication and Technology Corp",
+        "handle": "SAIGONTEL-AS-VN"
+    },
+    "45546": {
+        "country_code": "VN",
+        "asn": "45546",
+        "description": "Gtel Mobile Joint Stock Company",
+        "handle": "GTELMOBILE-VN"
+    },
+    "45547": {
+        "country_code": "VN",
+        "asn": "45547",
+        "description": "SPT Telecommunications Service Center",
+        "handle": "STS-AS-VN"
+    },
+    "45548": {
+        "country_code": "VN",
+        "asn": "45548",
+        "description": "Artex Securities Joint Stock Company",
+        "handle": "ARTEXSECURITIES-AS-VN"
+    },
+    "45549": {
+        "country_code": "VN",
+        "asn": "45549",
+        "description": "Hiep Nhat Company Limited",
+        "handle": "HIEPNHAT-AS-VN"
+    },
+    "45551": {
+        "country_code": "VN",
+        "asn": "45551",
+        "description": "HEINEKEN VIETNAM BREWERY LIMITED COMPANY",
+        "handle": "VBL-AS-VN"
+    },
+    "45552": {
+        "country_code": "VN",
+        "asn": "45552",
+        "description": "METASERV COMPANY LIMITED",
+        "handle": "METASERV-VN"
+    },
+    "45553": {
+        "country_code": "VN",
+        "asn": "45553",
+        "description": "BAO VIET HOLDINGS INFORMATION TECHNOLOGY CENTER BRANCH",
+        "handle": "BAOVIET-AS-VN"
+    },
+    "45554": {
+        "country_code": "VN",
+        "asn": "45554",
+        "description": "Vietnam Internet network information center (VNNIC)",
+        "handle": "VNNICANYCASTDNS-AS-VN"
+    },
+    "45556": {
+        "country_code": "VN",
+        "asn": "45556",
+        "description": "Scancom Vietnam Ltd",
+        "handle": "SCANCOM-AS-VN"
+    },
+    "45557": {
+        "country_code": "VN",
+        "asn": "45557",
+        "description": "Vietnam Technology and Telecommunication JSC",
+        "handle": "VNTT-AS-VN"
+    },
+    "45894": {
+        "country_code": "VN",
+        "asn": "45894",
+        "description": "FPT Online JSC",
+        "handle": "FPTONLINE-AS-VN"
+    },
+    "45895": {
+        "country_code": "VN",
+        "asn": "45895",
+        "description": "Mobifone Global JSC",
+        "handle": "MOBIFONEGLOBAL-AS-VN"
+    },
+    "45896": {
+        "country_code": "VN",
+        "asn": "45896",
+        "description": "Mobifone Global JSC",
+        "handle": "MOBIFONEGLOBAL-AS-VN"
+    },
+    "45897": {
+        "country_code": "VN",
+        "asn": "45897",
+        "description": "Mobifone Global JSC",
+        "handle": "MOBIFONEGLOBAL-AS-VN"
+    },
+    "45898": {
+        "country_code": "VN",
+        "asn": "45898",
+        "description": "VNPT Corp",
+        "handle": "VNPT-AS-VN"
+    },
+    "45899": {
+        "country_code": "VN",
+        "asn": "45899",
+        "description": "VNPT Corp",
+        "handle": "VNPT-AS-VN"
+    },
+    "45900": {
+        "country_code": "VN",
+        "asn": "45900",
+        "description": "Department of Infomatic - The State Bank of Viet Nam",
+        "handle": "SBV-AS-VN"
+    },
+    "45901": {
+        "country_code": "VN",
+        "asn": "45901",
+        "description": "Vietnam Export Import Commercial JSC",
+        "handle": "EXIMBANK-AS-VN"
+    },
+    "45902": {
+        "country_code": "VN",
+        "asn": "45902",
+        "description": "Hai Phong Securities Company",
+        "handle": "HASECO-AS-VN"
+    },
+    "45903": {
+        "country_code": "VN",
+        "asn": "45903",
+        "description": "CMC Telecom Infrastructure Company",
+        "handle": "CMCTELECOM-VN"
+    },
+    "55305": {
+        "country_code": "VN",
+        "asn": "55305",
+        "description": "ODS Joint Stock Company",
+        "handle": "ODSJSC-VN"
+    },
+    "55306": {
+        "country_code": "VN",
+        "asn": "55306",
+        "description": "Vietnam bank for Agriculture anh Rural Development",
+        "handle": "AGRIBANK-AS-VN"
+    },
+    "55307": {
+        "country_code": "VN",
+        "asn": "55307",
+        "description": "Asian Pacific Securitis Joint Stock Company",
+        "handle": "APEC-AS-VN"
+    },
+    "55308": {
+        "country_code": "VN",
+        "asn": "55308",
+        "description": "Department of Information Technology and Digital Transformation - Ministry of Finance",
+        "handle": "MOF-VN"
+    },
+    "55309": {
+        "country_code": "VN",
+        "asn": "55309",
+        "description": "Minh Tu Telecom Limited Company",
+        "handle": "MTT-AS-VN"
+    },
+    "55310": {
+        "country_code": "VN",
+        "asn": "55310",
+        "description": "KCS VIETNAM COMPANY LIMITED",
+        "handle": "KCS-AS-VN"
+    },
+    "55311": {
+        "country_code": "VN",
+        "asn": "55311",
+        "description": "Loc Phat Vietnam Joint Stock Commercial Bank",
+        "handle": "LPBANK-VN"
+    },
+    "55312": {
+        "country_code": "VN",
+        "asn": "55312",
+        "description": "Golden Dragon Company",
+        "handle": "HOANGLONG-AS-VN"
+    },
+    "55313": {
+        "country_code": "VN",
+        "asn": "55313",
+        "description": "Hanel Communication JSC",
+        "handle": "HANELCOM-AS-VN"
+    },
+    "55314": {
+        "country_code": "VN",
+        "asn": "55314",
+        "description": "NEWLIFE COMPANY",
+        "handle": "NEWLIFE-AS-VN"
+    },
+    "55315": {
+        "country_code": "VN",
+        "asn": "55315",
+        "description": "SSI Securities Incorporation",
+        "handle": "SSI-AS-VN"
+    },
+    "55316": {
+        "country_code": "VN",
+        "asn": "55316",
+        "description": "Saigon - Hanoi Commercial Joint Stock Bank",
+        "handle": "SHB-AS-VN"
+    },
+    "55317": {
+        "country_code": "VN",
+        "asn": "55317",
+        "description": "170 Hai Ba Trung DaKao Ward District 1 Hochiminh City",
+        "handle": "ABBANK-AS-VN"
+    },
+    "55318": {
+        "country_code": "VN",
+        "asn": "55318",
+        "description": "Asia Commercial Bank",
+        "handle": "ACB-AS-VN"
+    },
+    "55319": {
+        "country_code": "VN",
+        "asn": "55319",
+        "description": "VietNam Prosperity Joint Stock Commercial Bank",
+        "handle": "VPBANK-AS-VN"
+    },
+    "55320": {
+        "country_code": "VN",
+        "asn": "55320",
+        "description": "KNODE TECHNOLOGY COMPANY LIMITED",
+        "handle": "KNODE-AS-VN"
+    },
+    "55321": {
+        "country_code": "VN",
+        "asn": "55321",
+        "description": "Saigontourist securities corporation",
+        "handle": "STSC-AS-VN"
+    },
+    "55322": {
+        "country_code": "VN",
+        "asn": "55322",
+        "description": "North Power Company",
+        "handle": "NPC-AS-VN"
+    },
+    "55323": {
+        "country_code": "VN",
+        "asn": "55323",
+        "description": "Viet Nam Bank for Industry and Trade Securities JSC",
+        "handle": "VIETINBANKSC-AS-VN"
+    },
+    "55324": {
+        "country_code": "VN",
+        "asn": "55324",
+        "description": "Premier Oil Viet Nam Offshore B.V",
+        "handle": "POVO-AS-VN"
+    },
+    "56141": {
+        "country_code": "VN",
+        "asn": "56141",
+        "description": "Danang ICT Infrastructure Development Center",
+        "handle": "DSP-AS-VN"
+    },
+    "56142": {
+        "country_code": "VN",
+        "asn": "56142",
+        "description": "ZARUBEZHNEFT EP VIETNAM B.V.",
+        "handle": "ZNEPVN-VN"
+    },
+    "56143": {
+        "country_code": "VN",
+        "asn": "56143",
+        "description": "VDATA-VN",
+        "handle": "VDATA-AS-VN"
+    },
+    "56144": {
+        "country_code": "VN",
+        "asn": "56144",
+        "description": "AIA Life Insurance Company limited",
+        "handle": "AIAVN-AS-VN"
+    },
+    "56145": {
+        "country_code": "VN",
+        "asn": "56145",
+        "description": "Thanh Nien Net Telecom JSC",
+        "handle": "TTN-AS-VN"
+    },
+    "56146": {
+        "country_code": "VN",
+        "asn": "56146",
+        "description": "Global informatics solution corporation",
+        "handle": "GLOBALCORP-AS-VN"
+    },
+    "56147": {
+        "country_code": "VN",
+        "asn": "56147",
+        "description": "Creative Communication Vietnam Joint Stock Company",
+        "handle": "CCVN-AS-VN"
+    },
+    "56148": {
+        "country_code": "VN",
+        "asn": "56148",
+        "description": "PVcombank",
+        "handle": "PVCOMBANK-VN"
+    },
+    "56149": {
+        "country_code": "VN",
+        "asn": "56149",
+        "description": "Cong ty CP Truyen thong quoc te Incom",
+        "handle": "INCOM-AS-VN"
+    },
+    "56150": {
+        "country_code": "VN",
+        "asn": "56150",
+        "description": "Viet Solutions Services Trading Company Limited",
+        "handle": "VHOST-AS-VN"
+    },
+    "56151": {
+        "country_code": "VN",
+        "asn": "56151",
+        "description": "DigiStar Company Limited",
+        "handle": "DIGISTAR-VN"
+    },
+    "56152": {
+        "country_code": "VN",
+        "asn": "56152",
+        "description": "BStar Joint Stock Company",
+        "handle": "BSTAR-AS-VN"
+    },
+    "56153": {
+        "country_code": "VN",
+        "asn": "56153",
+        "description": "Digital Storage Company Limited",
+        "handle": "LUUTRUSO-AS-VN"
+    },
+    "56154": {
+        "country_code": "VN",
+        "asn": "56154",
+        "description": "THEGIOISO-VN",
+        "handle": "THEGIOISO-AS-VN"
+    },
+    "56155": {
+        "country_code": "VN",
+        "asn": "56155",
+        "description": "Tuong Minh Software Solutions Company Limited",
+        "handle": "TMASOLUTIONS-AS-VN"
+    },
+    "56156": {
+        "country_code": "VN",
+        "asn": "56156",
+        "description": "Vietnam Internet Network Information Center",
+        "handle": "VNNIC-AS-AP"
+    },
+    "56157": {
+        "country_code": "VN",
+        "asn": "56157",
+        "description": "One Vision Investment Trading Service Corporation",
+        "handle": "ONEVISION-AS-VN"
+    },
+    "56158": {
+        "country_code": "VN",
+        "asn": "56158",
+        "description": "Digital world data online company",
+        "handle": "THEGIOISO-AS-VN"
+    },
+    "56159": {
+        "country_code": "VN",
+        "asn": "56159",
+        "description": "Sai Gon Join stock commercial Bank",
+        "handle": "SCB-AS-VN"
+    },
+    "56160": {
+        "country_code": "VN",
+        "asn": "56160",
+        "description": "VIETNIX Solution and Technology Joint Stock Company",
+        "handle": "VIETNIX-AS-VN"
+    },
+    "63730": {
+        "country_code": "VN",
+        "asn": "63730",
+        "description": "VNSO TECHNOLOGY COMPANY",
+        "handle": "VNSO-AS-VN"
+    },
+    "63731": {
+        "country_code": "VN",
+        "asn": "63731",
+        "description": "TIEN PHAT TECHNOLOGY CORPORATION",
+        "handle": "TPTECO-AS-VN"
+    },
+    "63732": {
+        "country_code": "VN",
+        "asn": "63732",
+        "description": "GALAXY PLAY JOINT STOCK COMPANY",
+        "handle": "GALAXYPLAY-AS-VN"
+    },
+    "63733": {
+        "country_code": "VN",
+        "asn": "63733",
+        "description": "Hoa Thai Software Services Company Limited",
+        "handle": "HOATHAI-VN"
+    },
+    "63734": {
+        "country_code": "VN",
+        "asn": "63734",
+        "description": "365 Online technology joint stock company",
+        "handle": "GREENCLOUDVPS-AS-VN"
+    },
+    "63735": {
+        "country_code": "VN",
+        "asn": "63735",
+        "description": "Hoatoc company limited",
+        "handle": "HOATOC-AS-VN"
+    },
+    "63736": {
+        "country_code": "VN",
+        "asn": "63736",
+        "description": "Nam A Commercial Joint Stock Bank",
+        "handle": "NAMABANK-AS-VN"
+    },
+    "63737": {
+        "country_code": "VN",
+        "asn": "63737",
+        "description": "VIETSERVER SERVICES TECHNOLOGY COMPANY LIMITED",
+        "handle": "VIETSERVER-AS-VN"
+    },
+    "63738": {
+        "country_code": "VN",
+        "asn": "63738",
+        "description": "GLTEC-VN",
+        "handle": "GLTEC-AS-VN"
+    },
+    "63739": {
+        "country_code": "VN",
+        "asn": "63739",
+        "description": "VIETPN Company Limited",
+        "handle": "VIETPN-AS-VN"
+    },
+    "63740": {
+        "country_code": "VN",
+        "asn": "63740",
+        "description": "TOCDOSOVN-VN",
+        "handle": "TOCDOSOVN-AS-VN"
+    },
+    "63741": {
+        "country_code": "VN",
+        "asn": "63741",
+        "description": "DCNET TELECOM",
+        "handle": "DCNET-AS-VN"
+    },
+    "63742": {
+        "country_code": "VN",
+        "asn": "63742",
+        "description": "BIDV Securities joint stock company",
+        "handle": "BSC-AS-VN"
+    },
+    "63743": {
+        "country_code": "VN",
+        "asn": "63743",
+        "description": "VietNam payment solution joint stock company",
+        "handle": "VNPAY-AS-VN"
+    },
+    "63744": {
+        "country_code": "VN",
+        "asn": "63744",
+        "description": "DNSE Securities Joint Stock Company",
+        "handle": "DNSE-VN"
+    },
+    "63745": {
+        "country_code": "VN",
+        "asn": "63745",
+        "description": "NTT VietNam Communication Company Limited",
+        "handle": "NTT-AS-VN"
+    },
+    "63746": {
+        "country_code": "VN",
+        "asn": "63746",
+        "description": "Institute of Information Technology (IOIT)",
+        "handle": "IOIT-AS-VN"
+    },
+    "63747": {
+        "country_code": "VN",
+        "asn": "63747",
+        "description": "Central Post and Telecommunication (CPT)",
+        "handle": "CPT-AS-VN"
+    },
+    "63748": {
+        "country_code": "VN",
+        "asn": "63748",
+        "description": "Department of Cyber \u00e2\u0080\u008b\u00e2\u0080\u008bSecurity and High-Tech Crime Prevention",
+        "handle": "CUCA05BCA-VN"
+    },
+    "63749": {
+        "country_code": "VN",
+        "asn": "63749",
+        "description": "Luxoft VietNam Company LTD",
+        "handle": "LUXOFT-AS-VN"
+    },
+    "63750": {
+        "country_code": "VN",
+        "asn": "63750",
+        "description": "18 Nguyen Du Hai Ba Trung Hanoi",
+        "handle": "THUHOI-AS-VN"
+    },
+    "63751": {
+        "country_code": "VN",
+        "asn": "63751",
+        "description": "Vietcombank securities Company limited",
+        "handle": "VCBS-AS-VN"
+    },
+    "63752": {
+        "country_code": "VN",
+        "asn": "63752",
+        "description": "Department of Science and Technology of Phu Tho province",
+        "handle": "PTO-KHCN-VN"
+    },
+    "63753": {
+        "country_code": "VN",
+        "asn": "63753",
+        "description": "Viet Nam Lottery One Member Company Limited",
+        "handle": "VIETLOTT-AS-VN"
+    },
+    "63754": {
+        "country_code": "VN",
+        "asn": "63754",
+        "description": "VMG MEDIA JOINT STOCK COMPANY",
+        "handle": "VMG-AS-VN"
+    },
+    "63755": {
+        "country_code": "VN",
+        "asn": "63755",
+        "description": "VietNam - Russia joint venture bank",
+        "handle": "VRB-AS-VN"
+    },
+    "63756": {
+        "country_code": "VN",
+        "asn": "63756",
+        "description": "VSTV-VN",
+        "handle": "VSTV-AS-VN"
+    },
+    "63757": {
+        "country_code": "VN",
+        "asn": "63757",
+        "description": "Pacific Technology Development and Communication joint stock company",
+        "handle": "PACIFIC-AS-VN"
+    },
+    "63758": {
+        "country_code": "VN",
+        "asn": "63758",
+        "description": "VETC Corporation",
+        "handle": "VETC-AS-VN"
+    },
+    "63759": {
+        "country_code": "VN",
+        "asn": "63759",
+        "description": "TaDu Joint Stock Company",
+        "handle": "TADU-AS-VN"
+    },
+    "63760": {
+        "country_code": "VN",
+        "asn": "63760",
+        "description": "AZDIGI Corporation",
+        "handle": "AZDIGI-AS-VN"
+    },
+    "63761": {
+        "country_code": "VN",
+        "asn": "63761",
+        "description": "Cong ty TNHH Dich vu truc tuyen Maxdata",
+        "handle": "MAXDATA-VN"
+    },
+    "63762": {
+        "country_code": "VN",
+        "asn": "63762",
+        "description": "VietNam Booking corporation",
+        "handle": "VNBOOKING-AS-VN"
+    },
+    "63763": {
+        "country_code": "VN",
+        "asn": "63763",
+        "description": "VCCORP-VN",
+        "handle": "VCCORP-AS-VN"
+    },
+    "63764": {
+        "country_code": "VN",
+        "asn": "63764",
+        "description": "INCOM SAI GON JOINT STOCK COMPANY",
+        "handle": "INCOMSG-AS-VN"
+    },
+    "63765": {
+        "country_code": "VN",
+        "asn": "63765",
+        "description": "HOSTVN Technology Solutions Joint Stock Company",
+        "handle": "HOSTVN-VN"
+    },
+    "63766": {
+        "country_code": "VN",
+        "asn": "63766",
+        "description": "VEGAGAME-VN",
+        "handle": "VEGAGAME-AS-VN"
+    },
+    "63767": {
+        "country_code": "VN",
+        "asn": "63767",
+        "description": "1st Floor Machinci Tower 444 Hoang Hoa Tham Thuy Khue Tay Ho HaNoi",
+        "handle": "GCAFE-AS-VN"
+    },
+    "63768": {
+        "country_code": "VN",
+        "asn": "63768",
+        "description": "Thien Binh Software Service Company Limited",
+        "handle": "THIENBINH-AS-VN"
+    },
+    "63769": {
+        "country_code": "VN",
+        "asn": "63769",
+        "description": "Information and Communication Technology Center of Bac Kan Province",
+        "handle": "CICTBKN-AS-VN"
+    },
+    "131122": {
+        "country_code": "VN",
+        "asn": "131122",
+        "description": "Vietnam Internet network information center (VNNIC)",
+        "handle": "VNNIC-4-BYTE-AS-VN"
+    },
+    "131123": {
+        "country_code": "VN",
+        "asn": "131123",
+        "description": "Vietnam Internet network information center (VNNIC)",
+        "handle": "VNNIC-4-BYTE-AS-VN"
+    },
+    "131124": {
+        "country_code": "VN",
+        "asn": "131124",
+        "description": "Vietnam Bank For Social Policies",
+        "handle": "NHCSXH-AS-VN"
+    },
+    "131125": {
+        "country_code": "VN",
+        "asn": "131125",
+        "description": "TVSI-VN",
+        "handle": "TVSI-AS-VN"
+    },
+    "131126": {
+        "country_code": "VN",
+        "asn": "131126",
+        "description": "Vietnam Airlines Corp",
+        "handle": "VNAIR-AS-VN"
+    },
+    "131127": {
+        "country_code": "VN",
+        "asn": "131127",
+        "description": "GLOBAL TECHNOLOGY - TELECOMMUNICATIONS CORPORATION",
+        "handle": "GTEL-VN"
+    },
+    "131128": {
+        "country_code": "VN",
+        "asn": "131128",
+        "description": "Onepay Online Service and Commercial Joint Stock Company",
+        "handle": "ONEPAY-VN"
+    },
+    "131129": {
+        "country_code": "VN",
+        "asn": "131129",
+        "description": "Hochiminh Stock Exchange",
+        "handle": "HSX-AS-VN"
+    },
+    "131130": {
+        "country_code": "VN",
+        "asn": "131130",
+        "description": "MB securities joint stock company",
+        "handle": "TLS-AS-VN"
+    },
+    "131131": {
+        "country_code": "VN",
+        "asn": "131131",
+        "description": "VNNIC-AS-VN",
+        "handle": "VNNIC-AS-VN"
+    },
+    "131342": {
+        "country_code": "VN",
+        "asn": "131342",
+        "description": "Vietnam Technological and Commercial Joint-stock Bank - Techcombank",
+        "handle": "TECHCOMBANK-AS-VN"
+    },
+    "131343": {
+        "country_code": "VN",
+        "asn": "131343",
+        "description": "Vietnam Internationl commercial joint stock bank",
+        "handle": "VIB-AS-VN"
+    },
+    "131344": {
+        "country_code": "VN",
+        "asn": "131344",
+        "description": "TH Food Chain Joint Stock Company",
+        "handle": "THMILK-AS-VN"
+    },
+    "131345": {
+        "country_code": "VN",
+        "asn": "131345",
+        "description": "KienLong commercial joint stock bank",
+        "handle": "KIENLONGBANK-AS-VN"
+    },
+    "131346": {
+        "country_code": "VN",
+        "asn": "131346",
+        "description": "FLYCLOUD Company Limited",
+        "handle": "FLYCLOUD-AS-VN"
+    },
+    "131347": {
+        "country_code": "VN",
+        "asn": "131347",
+        "description": "Shinhan Viet Nam Bank Limited",
+        "handle": "SHINHANBANK-AS-VN"
+    },
+    "131348": {
+        "country_code": "VN",
+        "asn": "131348",
+        "description": "Joint stock Commercial Bank for Foreign Trade of Viet Nam",
+        "handle": "VIETCOMBANK-AS-VN"
+    },
+    "131349": {
+        "country_code": "VN",
+        "asn": "131349",
+        "description": "Digital telecomminication service joint stock",
+        "handle": "DIGINET-AS-VN"
+    },
+    "131350": {
+        "country_code": "VN",
+        "asn": "131350",
+        "description": "Dak Nong Department of Information and Communications",
+        "handle": "ICTDAKNONG-AS-VN"
+    },
+    "131351": {
+        "country_code": "VN",
+        "asn": "131351",
+        "description": "Orient commercial joint stock bank",
+        "handle": "OCB-AS-VN"
+    },
+    "131352": {
+        "country_code": "VN",
+        "asn": "131352",
+        "description": "Vietnam Cybersecurity Emergency Response Teams/Coordination Center",
+        "handle": "VNCERT-AS-VN"
+    },
+    "131353": {
+        "country_code": "VN",
+        "asn": "131353",
+        "description": "NhanHoa Software company",
+        "handle": "NHANHOA-AS-VN"
+    },
+    "131354": {
+        "country_code": "VN",
+        "asn": "131354",
+        "description": "Prudential Vietnam Assurance Private limited",
+        "handle": "PRUDENTIAL-AS-VN"
+    },
+    "131357": {
+        "country_code": "VN",
+        "asn": "131357",
+        "description": "Duy Tan University",
+        "handle": "DUYTAN-AS-VN"
+    },
+    "131358": {
+        "country_code": "VN",
+        "asn": "131358",
+        "description": "Telehouse international corporation of vietnam",
+        "handle": "TELEHOUSE-VN"
+    },
+    "131359": {
+        "country_code": "VN",
+        "asn": "131359",
+        "description": "ACB Securities Co. Ltd",
+        "handle": "ACBS-AS-VN"
+    },
+    "131360": {
+        "country_code": "VN",
+        "asn": "131360",
+        "description": "NATIONAL PAYMENT CORPORATION OF VIET NAM",
+        "handle": "NAPAS-VN"
+    },
+    "131361": {
+        "country_code": "VN",
+        "asn": "131361",
+        "description": "GSS Investment Corporation",
+        "handle": "SUNSOFT-AS-VN"
+    },
+    "131362": {
+        "country_code": "VN",
+        "asn": "131362",
+        "description": "HaNoi Stock Exchange",
+        "handle": "HNX-AS-VN"
+    },
+    "131363": {
+        "country_code": "VN",
+        "asn": "131363",
+        "description": "Department of Information Technology - General Department of Taxation",
+        "handle": "GDT-AS-VN"
+    },
+    "131364": {
+        "country_code": "VN",
+        "asn": "131364",
+        "description": "Military commercial join stock bank",
+        "handle": "MBBANK-AS-VN"
+    },
+    "131365": {
+        "country_code": "VN",
+        "asn": "131365",
+        "description": "Digital Infrastructure Center - Digital Transformation Department - Ministry of Agriculture and Environment",
+        "handle": "BNNMT-VN"
+    },
+    "131366": {
+        "country_code": "VN",
+        "asn": "131366",
+        "description": "Lanit Technology and Communication Joint Stock Company",
+        "handle": "LANIT-AS-VN"
+    },
+    "131367": {
+        "country_code": "VN",
+        "asn": "131367",
+        "description": "Viet Online trading service corporation",
+        "handle": "VONLINE-AS-VN"
+    },
+    "131368": {
+        "country_code": "VN",
+        "asn": "131368",
+        "description": "Petro Viet Nam Oil Corporation",
+        "handle": "PVOIL-AS-VN"
+    },
+    "131369": {
+        "country_code": "VN",
+        "asn": "131369",
+        "description": "Digital Infrastructure Center - Digital Transformation Department - Ministry of Agriculture and Environment",
+        "handle": "BNNMT-VN"
+    },
+    "131370": {
+        "country_code": "VN",
+        "asn": "131370",
+        "description": "NETNAM Company",
+        "handle": "NETNAM-AS-VN"
+    },
+    "131371": {
+        "country_code": "VN",
+        "asn": "131371",
+        "description": "BaoMinh securities company",
+        "handle": "BMSC-AS-VN"
+    },
+    "131372": {
+        "country_code": "VN",
+        "asn": "131372",
+        "description": "VIVAS-VN",
+        "handle": "VIVAS-AS-VN"
+    },
+    "131373": {
+        "country_code": "VN",
+        "asn": "131373",
+        "description": "Information Technology Center - Ministry of Science and Technology",
+        "handle": "MST-AS-VN"
+    },
+    "131374": {
+        "country_code": "VN",
+        "asn": "131374",
+        "description": "HQG Technology Solutions Joint Stock Company",
+        "handle": "HQG-AS-VN"
+    },
+    "131375": {
+        "country_code": "VN",
+        "asn": "131375",
+        "description": "Information Technology Center - Ministry of Science and Technology",
+        "handle": "MST-AS-VN"
+    },
+    "131376": {
+        "country_code": "VN",
+        "asn": "131376",
+        "description": "KB Securities Vietnam Joint Stock Company",
+        "handle": "KBSV-AS-VN"
+    },
+    "131377": {
+        "country_code": "VN",
+        "asn": "131377",
+        "description": "DIGIPOWER CO. LTD",
+        "handle": "DIGIPOWER-AS-VN"
+    },
+    "131378": {
+        "country_code": "VN",
+        "asn": "131378",
+        "description": "Cloud Viet Technology Company Limited",
+        "handle": "CLOUDVIET-AS-VN"
+    },
+    "131379": {
+        "country_code": "VN",
+        "asn": "131379",
+        "description": "Modern Bank of Vietnam Limited",
+        "handle": "MBV-VN"
+    },
+    "131380": {
+        "country_code": "VN",
+        "asn": "131380",
+        "description": "Niteco VN",
+        "handle": "NITECO-AS-VN"
+    },
+    "131381": {
+        "country_code": "VN",
+        "asn": "131381",
+        "description": "Department of Information Technology and Customs Statistics",
+        "handle": "TCHQ-VN"
+    },
+    "131382": {
+        "country_code": "VN",
+        "asn": "131382",
+        "description": "CFOX TECH COMPANY LIMITED",
+        "handle": "CFOX-VN"
+    },
+    "131383": {
+        "country_code": "VN",
+        "asn": "131383",
+        "description": "PVI Holdings",
+        "handle": "PVI-AS-VN"
+    },
+    "131384": {
+        "country_code": "VN",
+        "asn": "131384",
+        "description": "Viet Solutions Services Trading Company Limited",
+        "handle": "VHOST-AS-VN"
+    },
+    "131385": {
+        "country_code": "VN",
+        "asn": "131385",
+        "description": "VTV-VN",
+        "handle": "VTV-AS-VN"
+    },
+    "131386": {
+        "country_code": "VN",
+        "asn": "131386",
+        "description": "Long Van System Solution JSC",
+        "handle": "LVSS-AS-VN"
+    },
+    "131387": {
+        "country_code": "VN",
+        "asn": "131387",
+        "description": "Sun Life Vietnam Insurance Company Limited",
+        "handle": "PVISL-AS-VN"
+    },
+    "131388": {
+        "country_code": "VN",
+        "asn": "131388",
+        "description": "VIET NAM HT GROUP JOINT STOCK COMPANY",
+        "handle": "HTS-AS-VN"
+    },
+    "131389": {
+        "country_code": "VN",
+        "asn": "131389",
+        "description": "SeABank",
+        "handle": "SEABANK-AS-VN"
+    },
+    "131390": {
+        "country_code": "VN",
+        "asn": "131390",
+        "description": "Center for E-commerce and Digital Technology Development",
+        "handle": "ECOMDX-VN"
+    },
+    "131391": {
+        "country_code": "VN",
+        "asn": "131391",
+        "description": "Vietnam-Asia Commercial Joint Stock Bank",
+        "handle": "VAB-AS-VN"
+    },
+    "131392": {
+        "country_code": "VN",
+        "asn": "131392",
+        "description": "GMO-Z.com Runsystem Joint Stock Company",
+        "handle": "RUNSYSTEM-AS-VN"
+    },
+    "131393": {
+        "country_code": "VN",
+        "asn": "131393",
+        "description": "Minh Phat Telecomunication service Company Limited",
+        "handle": "MINHPHAT-AS-VN"
+    },
+    "131395": {
+        "country_code": "VN",
+        "asn": "131395",
+        "description": "Van phong Dieu phoi Nong thong moi Trung uong",
+        "handle": "VPDPTW-AS-VN"
+    },
+    "131396": {
+        "country_code": "VN",
+        "asn": "131396",
+        "description": "Rmit International University Vietnam",
+        "handle": "RUVN-AS-VN"
+    },
+    "131397": {
+        "country_code": "VN",
+        "asn": "131397",
+        "description": "Hanoi Medical University",
+        "handle": "HMU-AS-VN"
+    },
+    "131398": {
+        "country_code": "VN",
+        "asn": "131398",
+        "description": "LOTTE INNOVATE VIETNAM COMPANY LIMITED",
+        "handle": "LDCC-AS-VN"
+    },
+    "131399": {
+        "country_code": "VN",
+        "asn": "131399",
+        "description": "AI-Solutions Company Limited",
+        "handle": "AI-SOL-AS-VN"
+    },
+    "131400": {
+        "country_code": "VN",
+        "asn": "131400",
+        "description": "Global Data Joint Stock Company",
+        "handle": "GDATA-AS-VN"
+    },
+    "131401": {
+        "country_code": "VN",
+        "asn": "131401",
+        "description": "Department of Science and Technology of Vinh Phuc province",
+        "handle": "SOTTTTVP-VN"
+    },
+    "131402": {
+        "country_code": "VN",
+        "asn": "131402",
+        "description": "FPT Software Company limited",
+        "handle": "FPTSOFTWARE-AS-VN"
+    },
+    "131403": {
+        "country_code": "VN",
+        "asn": "131403",
+        "description": "ICSOFT Joint Stock Company",
+        "handle": "ICSOFT-AS-VN"
+    },
+    "131404": {
+        "country_code": "VN",
+        "asn": "131404",
+        "description": "Masters Technology Corporation",
+        "handle": "VIETNAMHOST-AS-VN"
+    },
+    "131405": {
+        "country_code": "VN",
+        "asn": "131405",
+        "description": "Saigon Newport",
+        "handle": "TANCANGSG-AS-VN"
+    },
+    "131406": {
+        "country_code": "VN",
+        "asn": "131406",
+        "description": "CTC Media Technology Apply Joint Stock Company",
+        "handle": "CTC-AS-VN"
+    },
+    "131407": {
+        "country_code": "VN",
+        "asn": "131407",
+        "description": "Sai Gon CTT",
+        "handle": "SGCTT-AS-VN"
+    },
+    "131408": {
+        "country_code": "VN",
+        "asn": "131408",
+        "description": "TPBANK-VN",
+        "handle": "TPBANK-AS-VN"
+    },
+    "131409": {
+        "country_code": "VN",
+        "asn": "131409",
+        "description": "ACT Telecomunication Joint Stock Company",
+        "handle": "ACT-AS-VN"
+    },
+    "131410": {
+        "country_code": "VN",
+        "asn": "131410",
+        "description": "Vietnam Cable Television Corporation Joint Stock Company",
+        "handle": "VTVCAB-AS-VN"
+    },
+    "131411": {
+        "country_code": "VN",
+        "asn": "131411",
+        "description": "VietNamNet",
+        "handle": "VIETNAMNET-AS-VN"
+    },
+    "131412": {
+        "country_code": "VN",
+        "asn": "131412",
+        "description": "State Audit Office of Vietnam",
+        "handle": "SAV-AS-VN"
+    },
+    "131413": {
+        "country_code": "VN",
+        "asn": "131413",
+        "description": "VINGROUP JOINT STOCK COMPANY",
+        "handle": "VINGROUP-AS-VN"
+    },
+    "131414": {
+        "country_code": "VN",
+        "asn": "131414",
+        "description": "Long Van Soft Solution JSC",
+        "handle": "LVSOFT-AS-VN"
+    },
+    "131415": {
+        "country_code": "VN",
+        "asn": "131415",
+        "description": "Vietnam Internet network information center (VNNIC)",
+        "handle": "VNNIC-AS-VN"
+    },
+    "131416": {
+        "country_code": "VN",
+        "asn": "131416",
+        "description": "Cloudone Technology Company Limited",
+        "handle": "CLOUDONE-AS-VN"
+    },
+    "131417": {
+        "country_code": "VN",
+        "asn": "131417",
+        "description": "Vietnam National Coaland Mineral Industries Holding Corporation Limited",
+        "handle": "VINACOMIN-AS-VN"
+    },
+    "131418": {
+        "country_code": "VN",
+        "asn": "131418",
+        "description": "SHOPEEPAY JOINT STOCK COMPANY",
+        "handle": "SHOPEEPAY-VN"
+    },
+    "131419": {
+        "country_code": "VN",
+        "asn": "131419",
+        "description": "NATIONAL PAYMENT CORPORATION OF VIET NAM",
+        "handle": "NAPAS-VN"
+    },
+    "131421": {
+        "country_code": "VN",
+        "asn": "131421",
+        "description": "Intercom Telecom. JSC",
+        "handle": "INTERCOM-VN"
+    },
+    "131422": {
+        "country_code": "VN",
+        "asn": "131422",
+        "description": "Center for Digital Transformation of Culture Sports and Tourism - Ministry of Culture Sports and Tourism",
+        "handle": "DTCCST-MCST-VN"
+    },
+    "131423": {
+        "country_code": "VN",
+        "asn": "131423",
+        "description": "Branch of Long Van System Solution JSC - Hanoi",
+        "handle": "LVHN-AS-VN"
+    },
+    "131424": {
+        "country_code": "VN",
+        "asn": "131424",
+        "description": "Online Solution Company Limited",
+        "handle": "ESC-AS-VN"
+    },
+    "131425": {
+        "country_code": "VN",
+        "asn": "131425",
+        "description": "The gioi di dong jsc",
+        "handle": "TGDD-AS-VN"
+    },
+    "131426": {
+        "country_code": "VN",
+        "asn": "131426",
+        "description": "MISA-VN",
+        "handle": "MISA-VN-AS"
+    },
+    "131427": {
+        "country_code": "VN",
+        "asn": "131427",
+        "description": "AOHOAVIET-VN",
+        "handle": "AOHOAVIET-VN-AS"
+    },
+    "131428": {
+        "country_code": "VN",
+        "asn": "131428",
+        "description": "Rainbow E-Commerce Company Limited",
+        "handle": "BIZMAC-VN-AS"
+    },
+    "131429": {
+        "country_code": "VN",
+        "asn": "131429",
+        "description": "MOBIFONE Corporation",
+        "handle": "MOBIFONE-AS-VN"
+    },
+    "131430": {
+        "country_code": "VN",
+        "asn": "131430",
+        "description": "Bao Viet Commercial Joint Stock Bank",
+        "handle": "BAOVIETBANK-VN"
+    },
+    "131432": {
+        "country_code": "VN",
+        "asn": "131432",
+        "description": "Cyber Link Service Trading Corporation",
+        "handle": "ASIACOM-AS-VN"
+    },
+    "131434": {
+        "country_code": "VN",
+        "asn": "131434",
+        "description": "Scom Technology Join stock company",
+        "handle": "SCOM-AS-VN"
+    },
+    "131435": {
+        "country_code": "VN",
+        "asn": "131435",
+        "description": "Vietnam Esports and Entertainment Joint Stock Company",
+        "handle": "HOABINH-VN"
+    },
+    "131436": {
+        "country_code": "VN",
+        "asn": "131436",
+        "description": "Information Technology and Digital Transformation Center - Vietnam Social Security",
+        "handle": "VSSIC-VN"
+    },
+    "131437": {
+        "country_code": "VN",
+        "asn": "131437",
+        "description": "Van Gia Technology Company Limited",
+        "handle": "VANGIATECH-VN"
+    },
+    "131438": {
+        "country_code": "VN",
+        "asn": "131438",
+        "description": "VIETNAM POST",
+        "handle": "VNPOST-AS-VN"
+    },
+    "131439": {
+        "country_code": "VN",
+        "asn": "131439",
+        "description": "VietNam credit information joint stock company",
+        "handle": "PCB-AS-VN"
+    },
+    "131440": {
+        "country_code": "VN",
+        "asn": "131440",
+        "description": "ZINGPLAY VIETNAM COMPANY LIMITED",
+        "handle": "ZINGPLAY-VN"
+    },
+    "131441": {
+        "country_code": "VN",
+        "asn": "131441",
+        "description": "May Chu Viet Company Limited",
+        "handle": "VIETHOSTING-AS-VN"
+    },
+    "132301": {
+        "country_code": "VN",
+        "asn": "132301",
+        "description": "TVL Service Technology Company Limited",
+        "handle": "TVL-VN"
+    },
+    "133935": {
+        "country_code": "VN",
+        "asn": "133935",
+        "description": "CMC Telecom for BBIX",
+        "handle": "CMCTELECOM-VN"
+    },
+    "134481": {
+        "country_code": "VN",
+        "asn": "134481",
+        "description": "CMC Telecom Infrastructure Company",
+        "handle": "CMCTELECOM-VN"
+    },
+    "135665": {
+        "country_code": "VN",
+        "asn": "135665",
+        "description": "Vietnam Internet Development Company Limited",
+        "handle": "VNNET-VN"
+    },
+    "135900": {
+        "country_code": "VN",
+        "asn": "135900",
+        "description": "State Data Center - Hanoi Department of Science and Technology",
+        "handle": "HNSDC-AS-VN"
+    },
+    "135901": {
+        "country_code": "VN",
+        "asn": "135901",
+        "description": "Phuong Dong technology solution company limited",
+        "handle": "MAYCHUNHO-AS-VN"
+    },
+    "135902": {
+        "country_code": "VN",
+        "asn": "135902",
+        "description": "Hahalolo Travel Social Network Joint Stock Company",
+        "handle": "HAHALOLO-AS-VN"
+    },
+    "135903": {
+        "country_code": "VN",
+        "asn": "135903",
+        "description": "FFC joint stock company",
+        "handle": "FFC-AS-VN"
+    },
+    "135904": {
+        "country_code": "VN",
+        "asn": "135904",
+        "description": "VINID PAY JOINT STOCK COMPANY",
+        "handle": "VINIDPAY-AS-VN"
+    },
+    "135905": {
+        "country_code": "VN",
+        "asn": "135905",
+        "description": "VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",
+        "handle": "VNPT-AS-VN"
+    },
+    "135906": {
+        "country_code": "VN",
+        "asn": "135906",
+        "description": "BOOKING247 COMPANY LIMITED",
+        "handle": "BOOKING247-AS-VN"
+    },
+    "135907": {
+        "country_code": "VN",
+        "asn": "135907",
+        "description": "VI NA Host Co. ltd",
+        "handle": "VINAHOST-AS-VN"
+    },
+    "135908": {
+        "country_code": "VN",
+        "asn": "135908",
+        "description": "ECONET VIETNAM CORPORATION",
+        "handle": "ECONET-AS-VN"
+    },
+    "135909": {
+        "country_code": "VN",
+        "asn": "135909",
+        "description": "Information Technology Park - Vietnam National University Ho Chi Minh City",
+        "handle": "VNUHCM-AS-VN"
+    },
+    "135910": {
+        "country_code": "VN",
+        "asn": "135910",
+        "description": "INTELLIGENCE INFORMATION SYSTEM CO LTD",
+        "handle": "ISYSTEM-AS-VN"
+    },
+    "135911": {
+        "country_code": "VN",
+        "asn": "135911",
+        "description": "VietNam maritime commercial joint stock bank",
+        "handle": "MSB-AS-VN"
+    },
+    "135912": {
+        "country_code": "VN",
+        "asn": "135912",
+        "description": "VNETWORK Joint Stock Company",
+        "handle": "VNETWORK-AS-VN"
+    },
+    "135913": {
+        "country_code": "VN",
+        "asn": "135913",
+        "description": "MB Ages life insurance company limited",
+        "handle": "MBAGEAS-AS-VN"
+    },
+    "135914": {
+        "country_code": "VN",
+        "asn": "135914",
+        "description": "Quang Trung Software City Development Company",
+        "handle": "QTSC-AS-VN"
+    },
+    "135915": {
+        "country_code": "VN",
+        "asn": "135915",
+        "description": "8 Floor 96-98 Dao Duy Anh Phu Nhuan HCMC",
+        "handle": "TLSOFT-AS-VN"
+    },
+    "135916": {
+        "country_code": "VN",
+        "asn": "135916",
+        "description": "descr: No. 14 256 Bach Dang Chuong Duong Hoan Kiem Hanoi",
+        "handle": "KIENPHONGITS-AS-VN"
+    },
+    "135917": {
+        "country_code": "VN",
+        "asn": "135917",
+        "description": "Cong ty TNHH Web Panda",
+        "handle": "WEBPANDA-AS-VN"
+    },
+    "135918": {
+        "country_code": "VN",
+        "asn": "135918",
+        "description": "VIET DIGITAL TECHNOLOGY LIABILITY COMPANY",
+        "handle": "DVS-AS-VN"
+    },
+    "135919": {
+        "country_code": "VN",
+        "asn": "135919",
+        "description": "MB SHINSEI Finance Limited Liability Company",
+        "handle": "MCREDIT-AS-VN"
+    },
+    "135920": {
+        "country_code": "VN",
+        "asn": "135920",
+        "description": "Ehost software company limited",
+        "handle": "EHOST-VN"
+    },
+    "135921": {
+        "country_code": "VN",
+        "asn": "135921",
+        "description": "Maxserver Company Limited",
+        "handle": "MAXSERVER-AS-VN"
+    },
+    "135922": {
+        "country_code": "VN",
+        "asn": "135922",
+        "description": "Clearsky Service Solutions Company Limited",
+        "handle": "CLEARSKY-AS-VN"
+    },
+    "135923": {
+        "country_code": "VN",
+        "asn": "135923",
+        "description": "SCTV INFRASTRUCTURE BUSINESS INVESMENT COMPANY LIMITED",
+        "handle": "SCTVIBI-AS-VN"
+    },
+    "135924": {
+        "country_code": "VN",
+        "asn": "135924",
+        "description": "FWD Vietnam Life Insurance Company Limited",
+        "handle": "FWD-AS-VN"
+    },
+    "135925": {
+        "country_code": "VN",
+        "asn": "135925",
+        "description": "16 Au Co Tan Son Nhi Ward Tan Phu District Ho Chi Minh city (EVNSPC Building)",
+        "handle": "EVNSPC-AS-VN"
+    },
+    "135926": {
+        "country_code": "VN",
+        "asn": "135926",
+        "description": "Phu Nhuan Jewelry Joint Stock Company",
+        "handle": "PNJ-AS-VN"
+    },
+    "135927": {
+        "country_code": "VN",
+        "asn": "135927",
+        "description": "Phu Quoc Petroleum Operating Company",
+        "handle": "PQPOC-AS-VN"
+    },
+    "135928": {
+        "country_code": "VN",
+        "asn": "135928",
+        "description": "Digital Convergence Technology Solutions Company Limited",
+        "handle": "HOITUSO-AS-VN"
+    },
+    "135929": {
+        "country_code": "VN",
+        "asn": "135929",
+        "description": "International Education Corporation",
+        "handle": "COGNITA-AS-VN"
+    },
+    "135930": {
+        "country_code": "VN",
+        "asn": "135930",
+        "description": "Anycast Networks (VN)",
+        "handle": "HST-AS-VN"
+    },
+    "135932": {
+        "country_code": "VN",
+        "asn": "135932",
+        "description": "Viet Storage Technology Joint Stock Company",
+        "handle": "VNDATA-AS-VN"
+    },
+    "135933": {
+        "country_code": "VN",
+        "asn": "135933",
+        "description": "Bac A Commercial Joint Stock Bank",
+        "handle": "BACABANK-AS-VN"
+    },
+    "135934": {
+        "country_code": "VN",
+        "asn": "135934",
+        "description": "Dong Thap Provincial Digital Transformation Center",
+        "handle": "ICTDONGTHAP-AS-VN"
+    },
+    "135935": {
+        "country_code": "VN",
+        "asn": "135935",
+        "description": "Binh Minh Software Service Company Limited",
+        "handle": "BINHMINH-VN"
+    },
+    "135936": {
+        "country_code": "VN",
+        "asn": "135936",
+        "description": "LABO A&B Joint Stock Company",
+        "handle": "AIPACIFIC-AS-VN"
+    },
+    "135937": {
+        "country_code": "VN",
+        "asn": "135937",
+        "description": "Next Technology Investment and Development Company Limited",
+        "handle": "NEXTTECH-AS-VN"
+    },
+    "135938": {
+        "country_code": "VN",
+        "asn": "135938",
+        "description": "Home Credit Viet nam Finance Company Limited",
+        "handle": "HOMECREDIT-AS-VN"
+    },
+    "135939": {
+        "country_code": "VN",
+        "asn": "135939",
+        "description": "VNPT Electronic Payment Joint Stock Company",
+        "handle": "VNPTEPAY-AS-VN"
+    },
+    "135940": {
+        "country_code": "VN",
+        "asn": "135940",
+        "description": "Nice Tech Center Vietnam Limited Company",
+        "handle": "NICETECHCENTER-AS-VN"
+    },
+    "135942": {
+        "country_code": "VN",
+        "asn": "135942",
+        "description": "Adsota Corporation",
+        "handle": "ADSOTA-AS-VN"
+    },
+    "135943": {
+        "country_code": "VN",
+        "asn": "135943",
+        "description": "TRUONG MINH THINH TECHNOLOGY JOINT STOCK COMPANY",
+        "handle": "TMT-VN"
+    },
+    "135944": {
+        "country_code": "VN",
+        "asn": "135944",
+        "description": "VinhNam Commercial informatics service corporation",
+        "handle": "VINACIS-AS-VN"
+    },
+    "135945": {
+        "country_code": "VN",
+        "asn": "135945",
+        "description": "VTC Online Joint Stock Company",
+        "handle": "VTCONLINE-AS-VN"
+    },
+    "135946": {
+        "country_code": "VN",
+        "asn": "135946",
+        "description": "Long An Department of Information and Communications",
+        "handle": "STTTTLA-AS-VN"
+    },
+    "135947": {
+        "country_code": "VN",
+        "asn": "135947",
+        "description": "Shopee Company Limited",
+        "handle": "SHOPEE-VN"
+    },
+    "135948": {
+        "country_code": "VN",
+        "asn": "135948",
+        "description": "S-Trading Company Limited",
+        "handle": "S-TRADING-AS-VN"
+    },
+    "135949": {
+        "country_code": "VN",
+        "asn": "135949",
+        "description": "Cloudfone Viet Nam Joint Stock Company",
+        "handle": "CLOUDFONE-AS-VN"
+    },
+    "135950": {
+        "country_code": "VN",
+        "asn": "135950",
+        "description": "Binh Duong E-Government Information Center",
+        "handle": "ICTBINHDUONG-AS-VN"
+    },
+    "135951": {
+        "country_code": "VN",
+        "asn": "135951",
+        "description": "Webico Company Limited",
+        "handle": "WEBICO-AS-VN"
+    },
+    "135952": {
+        "country_code": "VN",
+        "asn": "135952",
+        "description": "VPS Securities Joint Stock Company",
+        "handle": "VPS-AS-VN"
+    },
+    "135953": {
+        "country_code": "VN",
+        "asn": "135953",
+        "description": "Vietnam Online Network Solution Joint Stock Compnay",
+        "handle": "BKHOST-AS-VN"
+    },
+    "135954": {
+        "country_code": "VN",
+        "asn": "135954",
+        "description": "TNU Service Consulting Company Limited",
+        "handle": "TVTNU-VN"
+    },
+    "135955": {
+        "country_code": "VN",
+        "asn": "135955",
+        "description": "Data integration and digital transformation center of Lam Dong province",
+        "handle": "LAMDONGPORTAL-AS-VN"
+    },
+    "135956": {
+        "country_code": "VN",
+        "asn": "135956",
+        "description": "The Authority of Information Technology - Ministry of Health",
+        "handle": "MOH-AS-VN"
+    },
+    "135957": {
+        "country_code": "VN",
+        "asn": "135957",
+        "description": "Hue City Smart Urban Monitoring and Operation Center",
+        "handle": "EDIC-AS-VN"
+    },
+    "135958": {
+        "country_code": "VN",
+        "asn": "135958",
+        "description": "Teko Vietnam Technology Joint Stock Company",
+        "handle": "TEKO-AS-VN"
+    },
+    "135959": {
+        "country_code": "VN",
+        "asn": "135959",
+        "description": "Onebim Vietnam Limited Company",
+        "handle": "ONEBIM-AS-VN"
+    },
+    "135961": {
+        "country_code": "VN",
+        "asn": "135961",
+        "description": "Viet Nam Data Online Joint Stock Company",
+        "handle": "VDO-AS-VN"
+    },
+    "135962": {
+        "country_code": "VN",
+        "asn": "135962",
+        "description": "AIS Securitites Joint Stock Company",
+        "handle": "AIS-AS-VN"
+    },
+    "135963": {
+        "country_code": "VN",
+        "asn": "135963",
+        "description": "Information Technology Center - Ministry of Home Affairs",
+        "handle": "MOHA-VN"
+    },
+    "135964": {
+        "country_code": "VN",
+        "asn": "135964",
+        "description": "RVC Rong Viet Trade Service Telecom Company Limited",
+        "handle": "RVC-AS-VN"
+    },
+    "135965": {
+        "country_code": "VN",
+        "asn": "135965",
+        "description": "VNPT Net Corporation - VNPT Group",
+        "handle": "VNPT-NET-AS-VN"
+    },
+    "135967": {
+        "country_code": "VN",
+        "asn": "135967",
+        "description": "Bach Kim Network solutions Join stock company",
+        "handle": "BKNS-AS-VN"
+    },
+    "135968": {
+        "country_code": "VN",
+        "asn": "135968",
+        "description": "Early Start Joint Stock Company",
+        "handle": "EARLYSTART-AS-VN"
+    },
+    "135969": {
+        "country_code": "VN",
+        "asn": "135969",
+        "description": "Sen Do Technology Joint Stock Company",
+        "handle": "SENDO-AS-VN"
+    },
+    "135971": {
+        "country_code": "VN",
+        "asn": "135971",
+        "description": "PetroVietNam Securities Joint Stock Company",
+        "handle": "PSI-AS-VN"
+    },
+    "135972": {
+        "country_code": "VN",
+        "asn": "135972",
+        "description": "Quang Nam Department of Information and Communications",
+        "handle": "ICTQUANGNAM-AS-VN"
+    },
+    "135973": {
+        "country_code": "VN",
+        "asn": "135973",
+        "description": "Bamboo Airways Company Limited",
+        "handle": "BAV-AS-VN"
+    },
+    "135974": {
+        "country_code": "VN",
+        "asn": "135974",
+        "description": "National Power Transmission Corporation",
+        "handle": "NPT-AS-VN"
+    },
+    "135975": {
+        "country_code": "VN",
+        "asn": "135975",
+        "description": "Sea Gem Company Limited",
+        "handle": "SEAGEM-AS-VN"
+    },
+    "135976": {
+        "country_code": "VN",
+        "asn": "135976",
+        "description": "CLO Technology Limited Company",
+        "handle": "CLO-AS-VN"
+    },
+    "135977": {
+        "country_code": "VN",
+        "asn": "135977",
+        "description": "Vietnam BDA technology and communication joint stock company",
+        "handle": "BDA-CORP-AS-VN"
+    },
+    "135978": {
+        "country_code": "VN",
+        "asn": "135978",
+        "description": "Hanoi University of Industry",
+        "handle": "HAUI-AS-VN"
+    },
+    "135979": {
+        "country_code": "VN",
+        "asn": "135979",
+        "description": "QI TECHNOLOGIES CORPORATION",
+        "handle": "QINET-AS-VN"
+    },
+    "135980": {
+        "country_code": "VN",
+        "asn": "135980",
+        "description": "Information and Communication Technology Center of Quang Ninh",
+        "handle": "ICTQUANGNINH-AS-VN"
+    },
+    "135981": {
+        "country_code": "VN",
+        "asn": "135981",
+        "description": "VisualViet Company Limited",
+        "handle": "VISUALVIET-AS-VN"
+    },
+    "135982": {
+        "country_code": "VN",
+        "asn": "135982",
+        "description": "Hoi An South Development Ltd",
+        "handle": "HASD-AS-VN"
+    },
+    "135983": {
+        "country_code": "VN",
+        "asn": "135983",
+        "description": "Tino Group Joint Stock Company",
+        "handle": "TINO-AS-VN"
+    },
+    "135985": {
+        "country_code": "VN",
+        "asn": "135985",
+        "description": "BCALL Viet Nam Company Limited",
+        "handle": "BCALLVINA-AS-VN"
+    },
+    "135986": {
+        "country_code": "VN",
+        "asn": "135986",
+        "description": "Turbo Technology Solution Joint Stock Company",
+        "handle": "ECOCLOUD-AS-VN"
+    },
+    "135987": {
+        "country_code": "VN",
+        "asn": "135987",
+        "description": "Reload Company Limited",
+        "handle": "INDRA-RELOAD-AS-VN"
+    },
+    "135988": {
+        "country_code": "VN",
+        "asn": "135988",
+        "description": "Sun Group Corporation",
+        "handle": "SUNGROUP-AS-VN"
+    },
+    "135989": {
+        "country_code": "VN",
+        "asn": "135989",
+        "description": "Tay Ninh Department of Information and Communications",
+        "handle": "TAYNINH-AS-VN"
+    },
+    "135990": {
+        "country_code": "VN",
+        "asn": "135990",
+        "description": "Everest Global Joint Stock Company",
+        "handle": "EVG-AS-VN"
+    },
+    "135991": {
+        "country_code": "VN",
+        "asn": "135991",
+        "description": "Green Network Solutions LTD.",
+        "handle": "GREENNET-AS-VN"
+    },
+    "135992": {
+        "country_code": "VN",
+        "asn": "135992",
+        "description": "Department of Domestic Market Management and Development - Ministry of Industry and Trade",
+        "handle": "DMS-VN"
+    },
+    "135993": {
+        "country_code": "VN",
+        "asn": "135993",
+        "description": "IPTP Networks Company Limited",
+        "handle": "IPTP-AS-VN"
+    },
+    "135994": {
+        "country_code": "VN",
+        "asn": "135994",
+        "description": "IDC Online Technology and Solutions Corporation",
+        "handle": "IDCONLINE-AS-VN"
+    },
+    "135995": {
+        "country_code": "VN",
+        "asn": "135995",
+        "description": "TLINKVN Technology Connection Joint Stock Company",
+        "handle": "TLINK-AS-VN"
+    },
+    "135996": {
+        "country_code": "VN",
+        "asn": "135996",
+        "description": "Be Group Joint Stock Company",
+        "handle": "BEGROUP-AS-VN"
+    },
+    "135997": {
+        "country_code": "VN",
+        "asn": "135997",
+        "description": "EVN Finance Joint Stock Company",
+        "handle": "EASYCREDIT-AS-VN"
+    },
+    "135998": {
+        "country_code": "VN",
+        "asn": "135998",
+        "description": "International Distribution Corporation",
+        "handle": "IDBVIETNAM-AS-VN"
+    },
+    "135999": {
+        "country_code": "VN",
+        "asn": "135999",
+        "description": "ITCPLUS Vietnam Joint Stock Company",
+        "handle": "ITCPLUS-AS-VN"
+    },
+    "137463": {
+        "country_code": "VN",
+        "asn": "137463",
+        "description": "ANM Website Design Service Company Limited",
+        "handle": "ANM-DESIGN-VN"
+    },
+    "137892": {
+        "country_code": "VN",
+        "asn": "137892",
+        "description": "TOAN MY SERVICE BUSINESS LLC",
+        "handle": "TMSBL-AS-AP"
+    },
+    "139796": {
+        "country_code": "VN",
+        "asn": "139796",
+        "description": "Gia Phu Technology Infrastructure Company Limited",
+        "handle": "GIAPHUCLOUD-VN"
+    },
+    "140737": {
+        "country_code": "VN",
+        "asn": "140737",
+        "description": "Viva social network Joint Stock Company",
+        "handle": "VIVA-AS-VN"
+    },
+    "140738": {
+        "country_code": "VN",
+        "asn": "140738",
+        "description": "VESNET JOINT STOCK COMPANY",
+        "handle": "WEALLNET-AS-VN"
+    },
+    "140739": {
+        "country_code": "VN",
+        "asn": "140739",
+        "description": "USDC TECHNOLOGY JSC",
+        "handle": "USDC-AS-VN"
+    },
+    "140740": {
+        "country_code": "VN",
+        "asn": "140740",
+        "description": "HA CUONG TRADING INVESTMENT COMPANY LIMITED",
+        "handle": "HACUONG-AS-VN"
+    },
+    "140742": {
+        "country_code": "VN",
+        "asn": "140742",
+        "description": "DZOGAME COMPANY LIMITED",
+        "handle": "DZOGAME-AS-VN"
+    },
+    "140743": {
+        "country_code": "VN",
+        "asn": "140743",
+        "description": "Vietnam Cloud Technology and Services Joint Stock Company",
+        "handle": "ZHOST-VN"
+    },
+    "140744": {
+        "country_code": "VN",
+        "asn": "140744",
+        "description": "Hanoi Technology and Equipment Joint Stock Company",
+        "handle": "MAT-HN-AS-VN"
+    },
+    "140745": {
+        "country_code": "VN",
+        "asn": "140745",
+        "description": "VINTEK VIET NAM TECHNOLOGY TELECOM COMPANY LIMITED",
+        "handle": "VINTEK-AS-VN"
+    },
+    "140746": {
+        "country_code": "VN",
+        "asn": "140746",
+        "description": "MCT Technology Solution Joint Stock Company",
+        "handle": "MCT-AS-VN"
+    },
+    "140747": {
+        "country_code": "VN",
+        "asn": "140747",
+        "description": "Department of Science and Technology of Dong Nai province",
+        "handle": "DONGNAI-VN"
+    },
+    "140748": {
+        "country_code": "VN",
+        "asn": "140748",
+        "description": "Department of Science and Technology of Vinh Long province",
+        "handle": "ICTVL-AS-VN"
+    },
+    "140749": {
+        "country_code": "VN",
+        "asn": "140749",
+        "description": "NSTECH VIET NAM JOINT STOCK COMPANY",
+        "handle": "NSTECH-AS-VN"
+    },
+    "140750": {
+        "country_code": "VN",
+        "asn": "140750",
+        "description": "Viet Nam Telecommunications Authority",
+        "handle": "VNTA-AS-VN"
+    },
+    "140751": {
+        "country_code": "VN",
+        "asn": "140751",
+        "description": "Information Technology and Communication Center of Binh Thuan Department of Information and Communications",
+        "handle": "ICTBT-AS-VN"
+    },
+    "140752": {
+        "country_code": "VN",
+        "asn": "140752",
+        "description": "Kien Phong Trading Service Telecommunication Company Limited",
+        "handle": "KIENPHONG-AS-VN"
+    },
+    "140753": {
+        "country_code": "VN",
+        "asn": "140753",
+        "description": "Representative Office in Hanoi of Vinahost Company Limited",
+        "handle": "VINAHOST-HN-AS-VN"
+    },
+    "140754": {
+        "country_code": "VN",
+        "asn": "140754",
+        "description": "SPR Viet Nam Joint Stock Company",
+        "handle": "SPRVIETNAM-AS-VN"
+    },
+    "140755": {
+        "country_code": "VN",
+        "asn": "140755",
+        "description": "Ha Tuyet Trading and Services Company Limited",
+        "handle": "HATUYETTECH-VN"
+    },
+    "140756": {
+        "country_code": "VN",
+        "asn": "140756",
+        "description": "SAIGON TELECOMMUNICATIONS TECHNOLOGY SOLUTIONS COMPANY",
+        "handle": "SAIGONTECHSOLUTIONS-AS-VN"
+    },
+    "140757": {
+        "country_code": "VN",
+        "asn": "140757",
+        "description": "K2F Information Technology Company Limited",
+        "handle": "FISYS-AS-VN"
+    },
+    "140758": {
+        "country_code": "VN",
+        "asn": "140758",
+        "description": "Department of Science and Technology of Ca Mau province",
+        "handle": "CAMAU-AS-VN"
+    },
+    "140759": {
+        "country_code": "VN",
+        "asn": "140759",
+        "description": "Dak Lak Provincial Department of Science and Technology",
+        "handle": "SKHCN-DAKLAK-VN"
+    },
+    "140760": {
+        "country_code": "VN",
+        "asn": "140760",
+        "description": "INFINITY SOFTWARE CORPORATION",
+        "handle": "INFINITY-AS-VN"
+    },
+    "140761": {
+        "country_code": "VN",
+        "asn": "140761",
+        "description": "ALLIEX VIETNAM JOINT STOCK COMPANY",
+        "handle": "ALLIEX-AS-VN"
+    },
+    "140762": {
+        "country_code": "VN",
+        "asn": "140762",
+        "description": "Vinh Railway Signalling - Telecom Joint Stock Company",
+        "handle": "VISITEC-AS-VN"
+    },
+    "140763": {
+        "country_code": "VN",
+        "asn": "140763",
+        "description": "ITEXPERT Viet Nam Joint Stock Company",
+        "handle": "ITEXPERT-AS-VN"
+    },
+    "140764": {
+        "country_code": "VN",
+        "asn": "140764",
+        "description": "CSD Group Technology JSC.",
+        "handle": "CSDGROUP-AS-VN"
+    },
+    "140765": {
+        "country_code": "VN",
+        "asn": "140765",
+        "description": "VINANET Services Joint Stock Company",
+        "handle": "VINANET-AS-VN"
+    },
+    "140766": {
+        "country_code": "VN",
+        "asn": "140766",
+        "description": "FPT Smart Cloud Company Limited",
+        "handle": "FPTCLOUD-AS-VN"
+    },
+    "140767": {
+        "country_code": "VN",
+        "asn": "140767",
+        "description": "VINASOFT One Member Limited Company",
+        "handle": "VINASOFT-AS-VN"
+    },
+    "140768": {
+        "country_code": "VN",
+        "asn": "140768",
+        "description": "Department of Science and Technology Gia Lai",
+        "handle": "GIALAI-VN"
+    },
+    "140769": {
+        "country_code": "VN",
+        "asn": "140769",
+        "description": "INFORMATICS SOLUTION COMPANY LIMITED",
+        "handle": "IFISOLUTION-AS-VN"
+    },
+    "140770": {
+        "country_code": "VN",
+        "asn": "140770",
+        "description": "Digilife Vietnam Digital Services Company Limited",
+        "handle": "DIGILIFE-AS-VN"
+    },
+    "140771": {
+        "country_code": "VN",
+        "asn": "140771",
+        "description": "MXGROUP TECHNOLOGY JOINT STOCK COMPANY",
+        "handle": "MXGROUP-AS-VN"
+    },
+    "140772": {
+        "country_code": "VN",
+        "asn": "140772",
+        "description": "MXGROUP MEDICINE COMPANY LIMITED",
+        "handle": "MEITC-AS-VN"
+    },
+    "140773": {
+        "country_code": "VN",
+        "asn": "140773",
+        "description": "THIEN CO MANUFACTURING TRADING SERVICES JOINT STOCK COMPANY",
+        "handle": "THIENCO-AS-VN"
+    },
+    "140774": {
+        "country_code": "VN",
+        "asn": "140774",
+        "description": "VIET NAM UNIFIED COMMUNICATIONS CORPORATION",
+        "handle": "UCCORP-VN"
+    },
+    "140775": {
+        "country_code": "VN",
+        "asn": "140775",
+        "description": "GLOBAL INFORMATICS TELECOMMUNICATIONS JOINT STOCK COMPANY",
+        "handle": "ITCGLOBAL-AS-VN"
+    },
+    "140776": {
+        "country_code": "VN",
+        "asn": "140776",
+        "description": "247 SCRAP TRADE JOINT STOCK COMPANY",
+        "handle": "PHELIEU247-AS-VN"
+    },
+    "140777": {
+        "country_code": "VN",
+        "asn": "140777",
+        "description": "VNCOIN247 CORPORATION",
+        "handle": "VNCOIN247-AS-VN"
+    },
+    "140778": {
+        "country_code": "VN",
+        "asn": "140778",
+        "description": "MINH HIEN SOLUTIONS COMPANY LIMITED",
+        "handle": "MINHHIEN-VN"
+    },
+    "140779": {
+        "country_code": "VN",
+        "asn": "140779",
+        "description": "VINA-BISON INTERNATIONAL TRADING COMPANY LIMITED",
+        "handle": "VINABISON-AS-VN"
+    },
+    "140780": {
+        "country_code": "VN",
+        "asn": "140780",
+        "description": "THAI AN INFORMATION TECHNOLOGY JOINT STOCK COMPANY",
+        "handle": "THAIAN-AS-VN"
+    },
+    "140781": {
+        "country_code": "VN",
+        "asn": "140781",
+        "description": "VIET HOSTING COMPANY LIMITED",
+        "handle": "VIETHOSTINGCO-AS-VN"
+    },
+    "140782": {
+        "country_code": "VN",
+        "asn": "140782",
+        "description": "424 De La Thanh O Cho Dua Ward Dong Da District Ha Noi City",
+        "handle": "TOANTHANG-VN"
+    },
+    "140783": {
+        "country_code": "VN",
+        "asn": "140783",
+        "description": "NAMEDIA INTERNATIONAL TECHNOLOGY COMPANY LIMITED",
+        "handle": "NAMEDIA-AS-VN"
+    },
+    "140784": {
+        "country_code": "VN",
+        "asn": "140784",
+        "description": "VIET DIGITAL SOLUTIONS JOINT STOCK COMPANY",
+        "handle": "GIAIPHAPSOVIET-VN"
+    },
+    "140785": {
+        "country_code": "VN",
+        "asn": "140785",
+        "description": "WINCOMMERCE GENERAL COMMERCIAL SERVICES JOINT STOCK COMPANY",
+        "handle": "DCWINCOMERCE-VN"
+    },
+    "140786": {
+        "country_code": "VN",
+        "asn": "140786",
+        "description": "Department of Information and Communications of Thai Binh Province",
+        "handle": "ICTTHAIBINH-AS-VN"
+    },
+    "140787": {
+        "country_code": "VN",
+        "asn": "140787",
+        "description": "LAM A ARCHITECTURE CONSTRUCTION COMPANY LIMITED",
+        "handle": "LAMA-AS-VN"
+    },
+    "140788": {
+        "country_code": "VN",
+        "asn": "140788",
+        "description": "Catiedu Online Training Academy Company Limited",
+        "handle": "CATIEDU-AS-VN"
+    },
+    "140789": {
+        "country_code": "VN",
+        "asn": "140789",
+        "description": "DIGITAL TELECOMMUNICATIONS INFRASTRUCTURE JOINT STOCK COMPANY",
+        "handle": "DIGITEL-AS-VN"
+    },
+    "140790": {
+        "country_code": "VN",
+        "asn": "140790",
+        "description": "CLOUDCORE JOINT STOCK COMPANY",
+        "handle": "CLOUDCOREJSC-AS-VN"
+    },
+    "140791": {
+        "country_code": "VN",
+        "asn": "140791",
+        "description": "BKHOST TECHNOLOGY VIETNAM JOINT STOCK COMPANY",
+        "handle": "BKH-AS-VN"
+    },
+    "140792": {
+        "country_code": "VN",
+        "asn": "140792",
+        "description": "IT VILAS VIET NAM JOINT STOCK COMPANY",
+        "handle": "VILAS-AS-VN"
+    },
+    "140793": {
+        "country_code": "VN",
+        "asn": "140793",
+        "description": "VIET NAM GALAXY DIGITAL TECHNOLOGY COMPANY LIMITED",
+        "handle": "GALAXYCLOUD-AS-VN"
+    },
+    "140794": {
+        "country_code": "VN",
+        "asn": "140794",
+        "description": "Department of Science and Technology of Ha Tinh province",
+        "handle": "ICTHATINH-VN"
+    },
+    "140796": {
+        "country_code": "VN",
+        "asn": "140796",
+        "description": "U14b-16a 22 street Tan Thuan Tan Thuan Dong Ward 7 District HCM City",
+        "handle": "SBDTELECOM-AS-VN"
+    },
+    "140797": {
+        "country_code": "VN",
+        "asn": "140797",
+        "description": "EXA COMPANY LIMITED",
+        "handle": "EXA-AS-VN"
+    },
+    "140798": {
+        "country_code": "VN",
+        "asn": "140798",
+        "description": "BAO NAM HOLDINGS. JSC",
+        "handle": "BAONAMHOLDINGS-AS-VN"
+    },
+    "140799": {
+        "country_code": "VN",
+        "asn": "140799",
+        "description": "VIET NAM CLOUD TECHNOLOGY JOINT STOCK COMPANY",
+        "handle": "VNCLOUDTECH-AS-VN"
+    },
+    "140800": {
+        "country_code": "VN",
+        "asn": "140800",
+        "description": "Floor 1 vimeco E9 Pham Hung Yen Hoa Ward Cau Giay District Ha Noi City",
+        "handle": "VNCLOUDTECH-VN"
+    },
+    "140801": {
+        "country_code": "VN",
+        "asn": "140801",
+        "description": "HARAVAN TECHNOLOGY CORPORATION",
+        "handle": "HARAVAN-AS-VN"
+    },
+    "140802": {
+        "country_code": "VN",
+        "asn": "140802",
+        "description": "07-02A Floor 7 Prime Center 53 Quang Trung Nguyen Du Ward. Hai Ba Trung District HN",
+        "handle": "UNINATION-AS-VN"
+    },
+    "140803": {
+        "country_code": "VN",
+        "asn": "140803",
+        "description": "Telecommunications Company Limited A",
+        "handle": "VTA-VN"
+    },
+    "140804": {
+        "country_code": "VN",
+        "asn": "140804",
+        "description": "JOBKEY JOINT STOCK COMPANY",
+        "handle": "JOBKEY-AS-VN"
+    },
+    "140805": {
+        "country_code": "VN",
+        "asn": "140805",
+        "description": "TIN VIET TECHNOLOGY ENGINEERING COMPANY LIMITED",
+        "handle": "TINVIETTECH-AS-VN"
+    },
+    "140806": {
+        "country_code": "VN",
+        "asn": "140806",
+        "description": "PVS TELECOM CO.LTD.",
+        "handle": "PVS-AS-VN"
+    },
+    "140807": {
+        "country_code": "VN",
+        "asn": "140807",
+        "description": "Nguyen Ngoc Thanh Trading Limited Company",
+        "handle": "TND-AS-VN"
+    },
+    "140808": {
+        "country_code": "VN",
+        "asn": "140808",
+        "description": "ONE PLUS INTERNATIONAL CORPORATION",
+        "handle": "ONEPLUS-AS-VN"
+    },
+    "140809": {
+        "country_code": "VN",
+        "asn": "140809",
+        "description": "Information Technology Center - Ministry of Home Affairs",
+        "handle": "MOHA-VN"
+    },
+    "140810": {
+        "country_code": "VN",
+        "asn": "140810",
+        "description": "Megacore Technology Company Limited",
+        "handle": "MEGACORE-AS-VN"
+    },
+    "140811": {
+        "country_code": "VN",
+        "asn": "140811",
+        "description": "VIET NAM INTERACTIVE TELEVISION JOINT STOCK COMPANY",
+        "handle": "VTVLIVE-AS-VN"
+    },
+    "140812": {
+        "country_code": "VN",
+        "asn": "140812",
+        "description": "22B Alley 57 Hoa Binh Group 14 yen Nghia Ward Ha Dong District Ha Noi",
+        "handle": "WEON-AS-VN"
+    },
+    "140813": {
+        "country_code": "VN",
+        "asn": "140813",
+        "description": "DIGITAL SOLUTION AND TELECOMMUNICATIONS SERVICE JOINT STOCK COMPANY",
+        "handle": "DSTEL-AS-VN"
+    },
+    "140814": {
+        "country_code": "VN",
+        "asn": "140814",
+        "description": "Floor 5 255 Tran Dang Ninh Dich Vong Cau Giay District Ha Noi City",
+        "handle": "TECHCITYGROUP-AS-VN"
+    },
+    "140815": {
+        "country_code": "VN",
+        "asn": "140815",
+        "description": "HTTVSERVER TECHNOLOGY COMPANY LIMITED",
+        "handle": "HTTVSERVER-VN"
+    },
+    "140816": {
+        "country_code": "VN",
+        "asn": "140816",
+        "description": "Internet Khong Trung Company",
+        "handle": "INTERNETVENO-AS-VN"
+    },
+    "140817": {
+        "country_code": "VN",
+        "asn": "140817",
+        "description": "ODS ONLINE DATA SOLUTION JOINT STOCK COMPANY",
+        "handle": "ODSONLINE-AS-VN"
+    },
+    "140818": {
+        "country_code": "VN",
+        "asn": "140818",
+        "description": "D.I.C Viet Nam Technology Joint Stock Company",
+        "handle": "VNDIC-AS-VN"
+    },
+    "140819": {
+        "country_code": "VN",
+        "asn": "140819",
+        "description": "4/2 Dinh Bo Linh Group 6 Phu Cuong Ward Thu Dau Mot City Binh Duong",
+        "handle": "HANA-AS-VN"
+    },
+    "140820": {
+        "country_code": "VN",
+        "asn": "140820",
+        "description": "P2702 A3 Ecolife Capitol - 58 To Huu Me Tri Ward Nam Tu Liem Distrct Ha Noi City",
+        "handle": "HEL-AS-VN"
+    },
+    "140821": {
+        "country_code": "VN",
+        "asn": "140821",
+        "description": "Nihao Data Management Co. Ltd",
+        "handle": "CNCNIHAO-VN"
+    },
+    "140822": {
+        "country_code": "VN",
+        "asn": "140822",
+        "description": "ANPHATIDC",
+        "handle": "ANPHATIDC-VSIS-AS-VN"
+    },
+    "140823": {
+        "country_code": "VN",
+        "asn": "140823",
+        "description": "Group 7 THieu Khanh Ward Thanh Hoa City Thanh Hoa Viet Nam",
+        "handle": "VNCDATA-AS-VN"
+    },
+    "140824": {
+        "country_code": "VN",
+        "asn": "140824",
+        "description": "VNIDC TECHNOLOGY COMPANY LIMITED",
+        "handle": "VNIDC-AS-VN"
+    },
+    "140825": {
+        "country_code": "VN",
+        "asn": "140825",
+        "description": "Thien Quang Digital technology joint stock company",
+        "handle": "HOSTINGVIET-AS-VN"
+    },
+    "140826": {
+        "country_code": "VN",
+        "asn": "140826",
+        "description": "INTER GROUP VIET NAM JOINT STOCK COMPANY",
+        "handle": "INTERDATA-AS-VN"
+    },
+    "140827": {
+        "country_code": "VN",
+        "asn": "140827",
+        "description": "AZ VIET NAM COMMUNICATIONS TECHNOLOGY COMPANY LIMITED",
+        "handle": "DULIEUAZ-AS-VN"
+    },
+    "140828": {
+        "country_code": "VN",
+        "asn": "140828",
+        "description": "Teknix Technology Joint Stock Company",
+        "handle": "TEKNIX-AS-VN"
+    },
+    "140830": {
+        "country_code": "VN",
+        "asn": "140830",
+        "description": "IDS VIET NAM SOLUTION CORPORATION",
+        "handle": "IDS-CLOUDBASE-VN"
+    },
+    "140831": {
+        "country_code": "VN",
+        "asn": "140831",
+        "description": "Data Center of Vietnam National University Ho Chi Minh City",
+        "handle": "VNUDC-AS-VN"
+    },
+    "140832": {
+        "country_code": "VN",
+        "asn": "140832",
+        "description": "Vietnam F Tech. JSC",
+        "handle": "FTECH-AS-VN"
+    },
+    "140833": {
+        "country_code": "VN",
+        "asn": "140833",
+        "description": "INTERDATA JOINT STOCK COMPANY",
+        "handle": "INTERCLOUD-AS-VN"
+    },
+    "140834": {
+        "country_code": "VN",
+        "asn": "140834",
+        "description": "SAIGON TRAVEL SERVICE TRADING JOINT STOCK COMPANY",
+        "handle": "SAIGONDATANET-AS-VN"
+    },
+    "140835": {
+        "country_code": "VN",
+        "asn": "140835",
+        "description": "VAN TRANG PHARMACEUTICAL SUPPLY JOINT STOCK COMPANY",
+        "handle": "VTPHAR-AS-VN"
+    },
+    "140836": {
+        "country_code": "VN",
+        "asn": "140836",
+        "description": "PVS SOFTWARE JOINT STOCK COMPANY",
+        "handle": "PVSSW-AS-VN"
+    },
+    "142025": {
+        "country_code": "VN",
+        "asn": "142025",
+        "description": "VINFAST Production and Trading Joint Stock Company",
+        "handle": "VINFAST-VN"
+    },
+    "142211": {
+        "country_code": "VN",
+        "asn": "142211",
+        "description": "DCNET Telecommunication joint stock company",
+        "handle": "DCNET-VN"
+    },
+    "142241": {
+        "country_code": "VN",
+        "asn": "142241",
+        "description": "TEPAYLINK JOINT STOCK COMPANY",
+        "handle": "TPL-VN"
+    },
+    "142260": {
+        "country_code": "VN",
+        "asn": "142260",
+        "description": "Skydome Technology Co. Ltd.",
+        "handle": "SKYDOME-VN"
+    },
+    "142277": {
+        "country_code": "VN",
+        "asn": "142277",
+        "description": "Phong Phu Technology Infrastructure Company Limited",
+        "handle": "PHONGPHUCLOUD-VN"
+    },
+    "142284": {
+        "country_code": "VN",
+        "asn": "142284",
+        "description": "Phoenix Inferno Technology Co. Ltd",
+        "handle": "PHOENIXCLOUD-VN"
+    },
+    "142294": {
+        "country_code": "VN",
+        "asn": "142294",
+        "description": "TELECOM TRADE AND SERVER LLC",
+        "handle": "TTASL-AS-AP"
+    },
+    "142549": {
+        "country_code": "VN",
+        "asn": "142549",
+        "description": "Thanh Huyen Technology Company Limited",
+        "handle": "THANHHUYENCLOUD-VN"
+    },
+    "149007": {
+        "country_code": "VN",
+        "asn": "149007",
+        "description": "DIGITOT COMPANY LIMITED",
+        "handle": "DIGITOT-VN"
+    },
+    "149062": {
+        "country_code": "VN",
+        "asn": "149062",
+        "description": "TECHNOLOGY SOLUTION DATA ONLINE COMPANY LIMITED",
+        "handle": "DATAONLINE247-AS-VN"
+    },
+    "149063": {
+        "country_code": "VN",
+        "asn": "149063",
+        "description": "Information center - Ministry of Construction",
+        "handle": "MOC-AS-VN"
+    },
+    "149064": {
+        "country_code": "VN",
+        "asn": "149064",
+        "description": "CLOUDSTACK COMPANY LIMITED",
+        "handle": "CLOUDSTACK-AS-VN"
+    },
+    "149065": {
+        "country_code": "VN",
+        "asn": "149065",
+        "description": "MT GROUP COMPANY LIMITED",
+        "handle": "MTGROUP-VN"
+    },
+    "149066": {
+        "country_code": "VN",
+        "asn": "149066",
+        "description": "ADNS CO. LTD",
+        "handle": "ADNS-AS-VN"
+    },
+    "149067": {
+        "country_code": "VN",
+        "asn": "149067",
+        "description": "AZ Clean Trading and Manufacturing Joint Stock Company",
+        "handle": "AZCLEAN-AS-VN"
+    },
+    "149068": {
+        "country_code": "VN",
+        "asn": "149068",
+        "description": "iNET software one member company limited",
+        "handle": "INETSOFT-AS-VN"
+    },
+    "149069": {
+        "country_code": "VN",
+        "asn": "149069",
+        "description": "Information and Communications Technology Company of Vietnam Electricity",
+        "handle": "EVNICT-AS-VN"
+    },
+    "149070": {
+        "country_code": "VN",
+        "asn": "149070",
+        "description": "Da Thanh Service and Trade Company Limited",
+        "handle": "DATHANH-AS-VN"
+    },
+    "149071": {
+        "country_code": "VN",
+        "asn": "149071",
+        "description": "Phuong Tran Co. Ltd",
+        "handle": "PHUONGTRAN-AS-VN"
+    },
+    "149072": {
+        "country_code": "VN",
+        "asn": "149072",
+        "description": "VPSTTT Technology Company Limited",
+        "handle": "VPSTTT-AS-VN"
+    },
+    "149073": {
+        "country_code": "VN",
+        "asn": "149073",
+        "description": "Hunasoft Technology Solution Consulting Co. Ltd",
+        "handle": "HUNASOFT-AS-VN"
+    },
+    "149074": {
+        "country_code": "VN",
+        "asn": "149074",
+        "description": "University of Medicine and Pharmacy at Ho Chi Minh City",
+        "handle": "UMP-AS-VN"
+    },
+    "149075": {
+        "country_code": "VN",
+        "asn": "149075",
+        "description": "Tan Hoang ViNa Company Limited",
+        "handle": "TANHOANGVINA-AS-VN"
+    },
+    "149076": {
+        "country_code": "VN",
+        "asn": "149076",
+        "description": "Cloud Computing Server Solutions Co. Ltd",
+        "handle": "CLOUDCOMPUTING-AS-VN"
+    },
+    "149077": {
+        "country_code": "VN",
+        "asn": "149077",
+        "description": "Yen Viet Tourist Company Limited",
+        "handle": "DULICHYENVIET-AS-VN"
+    },
+    "149078": {
+        "country_code": "VN",
+        "asn": "149078",
+        "description": "VPSMMO TECHNOLOGY COMPANY LIMITED",
+        "handle": "VPSMMO-AS-VN"
+    },
+    "149079": {
+        "country_code": "VN",
+        "asn": "149079",
+        "description": "CUONG KHANG INFORMATICS COMPANY LIMITED",
+        "handle": "CUONGKHANG-AS-VN"
+    },
+    "149080": {
+        "country_code": "VN",
+        "asn": "149080",
+        "description": "SHINHAN LIFE VIETNAM INSURANCE CO. LTD",
+        "handle": "SHINHANLIFE-VN"
+    },
+    "149081": {
+        "country_code": "VN",
+        "asn": "149081",
+        "description": "Eco Green Transport and Construction Investment Joint Stock Company",
+        "handle": "GRCITY-VN"
+    },
+    "149082": {
+        "country_code": "VN",
+        "asn": "149082",
+        "description": "NGOC MINH TECHNOLOGY JOINT STOCK COMPANY",
+        "handle": "VOICECLOUD-VN"
+    },
+    "149083": {
+        "country_code": "VN",
+        "asn": "149083",
+        "description": "VPSCLOUD 24H TECHNOLOGY AND SERVICES COMPANY LIMITED",
+        "handle": "VPSCLOUD-AS-VN"
+    },
+    "149084": {
+        "country_code": "VN",
+        "asn": "149084",
+        "description": "KBG VIET NAM REFRIGERATION ELECTRICAL ENGINEERING TRADING COMPANY LIMITED",
+        "handle": "KBGVIETNAM-AS-VN"
+    },
+    "149085": {
+        "country_code": "VN",
+        "asn": "149085",
+        "description": "E-DATA TECHNOLOGY SERVICE COMPANY LIMITED",
+        "handle": "EDATA-AS-VN"
+    },
+    "149086": {
+        "country_code": "VN",
+        "asn": "149086",
+        "description": "Digital Era Software Company Limited",
+        "handle": "DERASOFT-AS-VN"
+    },
+    "149087": {
+        "country_code": "VN",
+        "asn": "149087",
+        "description": "Hanoi University",
+        "handle": "HANU-AS-VN"
+    },
+    "149088": {
+        "country_code": "VN",
+        "asn": "149088",
+        "description": "INET Solution Corporation",
+        "handle": "INETSOLUTION-AS-VN"
+    },
+    "149089": {
+        "country_code": "VN",
+        "asn": "149089",
+        "description": "CLOUDFLY CORPORATION",
+        "handle": "CLOUDFLY-VN"
+    },
+    "149090": {
+        "country_code": "VN",
+        "asn": "149090",
+        "description": "ZOZO SOFTWARE COMPANY LIMITED",
+        "handle": "ZOZO-VN"
+    },
+    "149091": {
+        "country_code": "VN",
+        "asn": "149091",
+        "description": "Ecofly Joint Stock Company",
+        "handle": "ECOFLY-VN"
+    },
+    "149092": {
+        "country_code": "VN",
+        "asn": "149092",
+        "description": "UNICA ACADEMY JOINT STOCK COMPANY",
+        "handle": "UNICA-VN"
+    },
+    "149093": {
+        "country_code": "VN",
+        "asn": "149093",
+        "description": "VPS VIET NAM COMPANY LIMITED",
+        "handle": "VPSVIETNAM-VN"
+    },
+    "149094": {
+        "country_code": "VN",
+        "asn": "149094",
+        "description": "THM REFRIGERATION TECHNICIANS COMPANY LIMITED",
+        "handle": "THMREFRIGERATION-VN"
+    },
+    "149095": {
+        "country_code": "VN",
+        "asn": "149095",
+        "description": "TRINH VIET DIGITAL TECHNOLOGY COMPANY LIMITED",
+        "handle": "TRINHVIET-VN"
+    },
+    "149096": {
+        "country_code": "VN",
+        "asn": "149096",
+        "description": "INVESTMENT AND DEVELOPMENT OF NATIONAL E-PROCUREMENT SYSTEM COMPANY LIMITED",
+        "handle": "IDNES-VN"
+    },
+    "149097": {
+        "country_code": "VN",
+        "asn": "149097",
+        "description": "FASTLY NETWORK SOLUTION COMPANY LIMITED",
+        "handle": "FASTLY-VN"
+    },
+    "149098": {
+        "country_code": "VN",
+        "asn": "149098",
+        "description": "VIETNAM DIGITAL INFRASTRUCTURE JOINT STOCK COMPANY",
+        "handle": "HATANGSO-VN"
+    },
+    "149099": {
+        "country_code": "VN",
+        "asn": "149099",
+        "description": "HUNG THINH GROUP CORPORATION",
+        "handle": "HUNGTHINH-VN"
+    },
+    "149100": {
+        "country_code": "VN",
+        "asn": "149100",
+        "description": "SMARTMIND SECURITIES JOINT STOCK COMPANY",
+        "handle": "SMDS-VN"
+    },
+    "149101": {
+        "country_code": "VN",
+        "asn": "149101",
+        "description": "BKCLOUD COMPANY LIMITED",
+        "handle": "BKCLOUDCSKH-VN"
+    },
+    "149102": {
+        "country_code": "VN",
+        "asn": "149102",
+        "description": "KHANH CHI ICT COMPANY LIMITED",
+        "handle": "KHANHCHIICT-VN"
+    },
+    "149103": {
+        "country_code": "VN",
+        "asn": "149103",
+        "description": "BACH KIM HNT COMPANY LIMITED",
+        "handle": "BKHNT-VN"
+    },
+    "149104": {
+        "country_code": "VN",
+        "asn": "149104",
+        "description": "UNI JOINT STOCK COMPANY",
+        "handle": "UNI-VN"
+    },
+    "149105": {
+        "country_code": "VN",
+        "asn": "149105",
+        "description": "IPTP NETWORKS DA NANG COMPANY LIMITED",
+        "handle": "IPTP-VN"
+    },
+    "149106": {
+        "country_code": "VN",
+        "asn": "149106",
+        "description": "VIETNAM SERVER SOLUTION COMPANY LIMITED",
+        "handle": "VNVPSVN-VN"
+    },
+    "149107": {
+        "country_code": "VN",
+        "asn": "149107",
+        "description": "TRUMVPS COMPANY LIMITED",
+        "handle": "TRUMVPS-VN"
+    },
+    "149108": {
+        "country_code": "VN",
+        "asn": "149108",
+        "description": "BAO LONG MANAGEMENT CONSULTANT COMPANY LIMITED",
+        "handle": "BSSVIET-VN"
+    },
+    "149109": {
+        "country_code": "VN",
+        "asn": "149109",
+        "description": "GIAO HANG TIET KIEM JOINT STOCK COMPANY",
+        "handle": "GHTK-VN"
+    },
+    "149110": {
+        "country_code": "VN",
+        "asn": "149110",
+        "description": "CLOUD4VN DIGITAL TECHNOLOGY COMPANY LIMITED",
+        "handle": "CLOUD4VN-VN"
+    },
+    "149111": {
+        "country_code": "VN",
+        "asn": "149111",
+        "description": "TEDEV TECHNOLOGICAL DEVELOPMENT COMPANY LIMITED",
+        "handle": "TEDEV-VN"
+    },
+    "149112": {
+        "country_code": "VN",
+        "asn": "149112",
+        "description": "TTK VIET NAM EDUCATION TECHNOLOGY JOINT STOCK COMPANY",
+        "handle": "MCLASSVN-VN"
+    },
+    "149113": {
+        "country_code": "VN",
+        "asn": "149113",
+        "description": "ODB VIET NAM COMPANY LIMITED",
+        "handle": "ODB-VN"
+    },
+    "149114": {
+        "country_code": "VN",
+        "asn": "149114",
+        "description": "NVK TECHNOLOGY AND SERVICES COMPANY LIMITED",
+        "handle": "NVK-VN"
+    },
+    "149115": {
+        "country_code": "VN",
+        "asn": "149115",
+        "description": "KINGBOND MIEN TRUNG COMPANY LIMITED",
+        "handle": "KINGBOND-VN"
+    },
+    "149116": {
+        "country_code": "VN",
+        "asn": "149116",
+        "description": "National Hospital of Tropical Diseases",
+        "handle": "NHIETDOI-HOSPITAL-VN"
+    },
+    "149117": {
+        "country_code": "VN",
+        "asn": "149117",
+        "description": "VTC MOBILE SERVICES JOINT STOCK COMPANY",
+        "handle": "VTCMOBILE-VN"
+    },
+    "149118": {
+        "country_code": "VN",
+        "asn": "149118",
+        "description": "3S Viet Nam Technology Joint Stock Company",
+        "handle": "THREESTECH-VN"
+    },
+    "149119": {
+        "country_code": "VN",
+        "asn": "149119",
+        "description": "DHD TELECOM COMPANY LIMITED",
+        "handle": "DHDTELECOM-VN"
+    },
+    "149120": {
+        "country_code": "VN",
+        "asn": "149120",
+        "description": "BLUE TECHNOLOGY AND INVESTMENT COMPANY LIMITED",
+        "handle": "BLUETECH-VN"
+    },
+    "149121": {
+        "country_code": "VN",
+        "asn": "149121",
+        "description": "Department of Science and Technology of Lai Chau province",
+        "handle": "LAICHAU-VN"
+    },
+    "149122": {
+        "country_code": "VN",
+        "asn": "149122",
+        "description": "3T SYSTEM SOLUTIONS COMPANY LIMITED",
+        "handle": "THREETSS-VN"
+    },
+    "149123": {
+        "country_code": "VN",
+        "asn": "149123",
+        "description": "VU GIA TECHNOLOGY INVESTMENT JOINT STOCK COMPANY",
+        "handle": "ITCLOUD-VN"
+    },
+    "149124": {
+        "country_code": "VN",
+        "asn": "149124",
+        "description": "WEBPX SOFTWARE COMPANY LIMITED",
+        "handle": "THANHPHAT-VN"
+    },
+    "149125": {
+        "country_code": "VN",
+        "asn": "149125",
+        "description": "4S TECHNOLOGY TRADING SERVICES COMPANY LIMITED",
+        "handle": "DV4S-VN"
+    },
+    "149127": {
+        "country_code": "VN",
+        "asn": "149127",
+        "description": "Bac Giang Department of Information and Communications",
+        "handle": "BACGIANG-VN"
+    },
+    "149128": {
+        "country_code": "VN",
+        "asn": "149128",
+        "description": "Prosperity and Development Joint Stock Commercial Bank",
+        "handle": "PGBANK-VN"
+    },
+    "149129": {
+        "country_code": "VN",
+        "asn": "149129",
+        "description": "Vietnam Government Portal",
+        "handle": "CPVN-VN"
+    },
+    "149130": {
+        "country_code": "VN",
+        "asn": "149130",
+        "description": "TEKNIX CLOUD TECHNOLOGY INFRASTRUCTURE JOINT STOCK COMPANY",
+        "handle": "TEKNIXCLOUD-VN"
+    },
+    "149131": {
+        "country_code": "VN",
+        "asn": "149131",
+        "description": "Optimal Agency LLC",
+        "handle": "SOCLUA-VN"
+    },
+    "149132": {
+        "country_code": "VN",
+        "asn": "149132",
+        "description": "GREENCLOUD LIMITED LIABILITY COMPANY",
+        "handle": "GREENCLOUD-VN"
+    },
+    "149133": {
+        "country_code": "VN",
+        "asn": "149133",
+        "description": "MOC LAM TRADING AND SERVICES JOINT STOCK COMPANY",
+        "handle": "MOCLAMESOUL-VN"
+    },
+    "149134": {
+        "country_code": "VN",
+        "asn": "149134",
+        "description": "FUTE COMMERCIAL AND SERVICES COMPANY LIMITED",
+        "handle": "FUTE-VN"
+    },
+    "149135": {
+        "country_code": "VN",
+        "asn": "149135",
+        "description": "SAPO TECHNOLOGY JOINT STOCK COMPANY",
+        "handle": "SAPO-VN"
+    },
+    "149136": {
+        "country_code": "VN",
+        "asn": "149136",
+        "description": "AALO.VN DIGITAL TECHNOLOGY JOINT STOCK COMPANY",
+        "handle": "AALO-VN"
+    },
+    "149137": {
+        "country_code": "VN",
+        "asn": "149137",
+        "description": "TAN THANH AN INTERNATIONAL TRADE DEVELOPMENT COMPANY LIMITED",
+        "handle": "TANTHANHAN-VN"
+    },
+    "149138": {
+        "country_code": "VN",
+        "asn": "149138",
+        "description": "RUBIK Trading Consultancy Service One Member Co. Ltd",
+        "handle": "RUBIK-VN"
+    },
+    "149139": {
+        "country_code": "VN",
+        "asn": "149139",
+        "description": "VGP JOINT STOCK COMPANY",
+        "handle": "VGP-VN"
+    },
+    "149140": {
+        "country_code": "VN",
+        "asn": "149140",
+        "description": "VIETSPEED SERVICE COMPANY LIMITED",
+        "handle": "VIETSPEED-VN"
+    },
+    "149141": {
+        "country_code": "VN",
+        "asn": "149141",
+        "description": "VAN ARCHITECTURE AND CONSTRUCTION COMPANY LIMITED",
+        "handle": "VAN-VN"
+    },
+    "149142": {
+        "country_code": "VN",
+        "asn": "149142",
+        "description": "Vina Securities Joint Stock Company",
+        "handle": "VNSC-VN"
+    },
+    "149143": {
+        "country_code": "VN",
+        "asn": "149143",
+        "description": "MONA MEDIA COMPANY",
+        "handle": "MONA-MEDIA-VN"
+    },
+    "149144": {
+        "country_code": "VN",
+        "asn": "149144",
+        "description": "VIHAT TECHNOLOGY COMPANY LIMITED",
+        "handle": "VIHAT-VN"
+    },
+    "149145": {
+        "country_code": "VN",
+        "asn": "149145",
+        "description": "VNETWORK TELECOMMUNICATION SERVICES COMPANY LIMITED",
+        "handle": "VNETWORK-TELECOM-VN"
+    },
+    "149146": {
+        "country_code": "VN",
+        "asn": "149146",
+        "description": "VNETKIWON SECURITY CO. LTD",
+        "handle": "VNETKIWON-VN"
+    },
+    "149147": {
+        "country_code": "VN",
+        "asn": "149147",
+        "description": "GOFIBER SOFTWARE TECHNOLOGY COMPANY LIMITED",
+        "handle": "GOFIBER-SOFTWARE-VN"
+    },
+    "149148": {
+        "country_code": "VN",
+        "asn": "149148",
+        "description": "Phu Hai Computer Co. Ltd",
+        "handle": "PHUHAIPC-VN"
+    },
+    "149149": {
+        "country_code": "VN",
+        "asn": "149149",
+        "description": "INTER BOOKING247 LIMITED COMPANY",
+        "handle": "INTERBOOKING247-VN"
+    },
+    "149150": {
+        "country_code": "VN",
+        "asn": "149150",
+        "description": "THDATA COMPANY LIMITED",
+        "handle": "THDATA-VN"
+    },
+    "149151": {
+        "country_code": "VN",
+        "asn": "149151",
+        "description": "VNSUN CLOUD COMPANY LIMITED",
+        "handle": "VNSUNCLOUD-VN"
+    },
+    "149152": {
+        "country_code": "VN",
+        "asn": "149152",
+        "description": "Onet IDC Company",
+        "handle": "ONETIDC-VN"
+    },
+    "149153": {
+        "country_code": "VN",
+        "asn": "149153",
+        "description": "Thanh Hoa Information and Communication Technology Center",
+        "handle": "TTCNTT-THANHHOA-VN"
+    },
+    "149154": {
+        "country_code": "VN",
+        "asn": "149154",
+        "description": "Department of Science and Technology of Lao Cai province",
+        "handle": "LAOCAI-VN"
+    },
+    "149155": {
+        "country_code": "VN",
+        "asn": "149155",
+        "description": "SUNCLOUD TECHNOLOGY INFRASTRUCTURE JOINT STOCK COMPANY",
+        "handle": "SUNCLOUD-VN"
+    },
+    "149156": {
+        "country_code": "VN",
+        "asn": "149156",
+        "description": "Bac Ninh Department of Information and Communications",
+        "handle": "BACNINH-VN"
+    },
+    "149157": {
+        "country_code": "VN",
+        "asn": "149157",
+        "description": "Digital Transformation Center - An Giang Department of Science and Technology",
+        "handle": "DXAG-VN"
+    },
+    "149158": {
+        "country_code": "VN",
+        "asn": "149158",
+        "description": "VietNam Eastern Sun Joint Stock Company",
+        "handle": "ESVN-VN"
+    },
+    "149159": {
+        "country_code": "VN",
+        "asn": "149159",
+        "description": "Viet Nam Academy of Science and Technology",
+        "handle": "VAST-VN"
+    },
+    "149160": {
+        "country_code": "VN",
+        "asn": "149160",
+        "description": "Department of Science and Technology of Can Tho City",
+        "handle": "CANTHO-VN"
+    },
+    "149161": {
+        "country_code": "VN",
+        "asn": "149161",
+        "description": "MEGA TECHNOLOGY COMPANY LIMITED",
+        "handle": "MEGA-VN"
+    },
+    "150323": {
+        "country_code": "VN",
+        "asn": "150323",
+        "description": "Dak Lak Province Smart City Monitoring and Operation Center",
+        "handle": "IOCDAKLAK-VN"
+    },
+    "150344": {
+        "country_code": "VN",
+        "asn": "150344",
+        "description": "FPT Wallet Company Limited",
+        "handle": "VIFPT-VN"
+    },
+    "150813": {
+        "country_code": "VN",
+        "asn": "150813",
+        "description": "Thoi MMO Company Limited",
+        "handle": "MINHTHOIPC-VN"
+    },
+    "150814": {
+        "country_code": "VN",
+        "asn": "150814",
+        "description": "VNIS JOINT STOCK COMPANY",
+        "handle": "TVAN-VN"
+    },
+    "150815": {
+        "country_code": "VN",
+        "asn": "150815",
+        "description": "VUONG THANG VTDIGITAL COMPANY LIMITED",
+        "handle": "VTDIGITAL-VN"
+    },
+    "150816": {
+        "country_code": "VN",
+        "asn": "150816",
+        "description": "CAMERA-VIET TECHNOLOGY SOLUTIONS COMPANY LIMITED",
+        "handle": "CVCO-VN"
+    },
+    "150817": {
+        "country_code": "VN",
+        "asn": "150817",
+        "description": "MIND TECHNOLOGY LIMITED LIABILITY COMPANY",
+        "handle": "MIND-VN"
+    },
+    "150818": {
+        "country_code": "VN",
+        "asn": "150818",
+        "description": "HYPERCORE TECHNOLOGY JOINT STOCK COMPANY",
+        "handle": "HYPERCORE-VN"
+    },
+    "150819": {
+        "country_code": "VN",
+        "asn": "150819",
+        "description": "ALGOGLOBAL COMPANY LIMITED",
+        "handle": "ALGOGLOBAL-VN"
+    },
+    "150820": {
+        "country_code": "VN",
+        "asn": "150820",
+        "description": "LIENVPS TECHNOLOGY COMPANY LIMITED",
+        "handle": "LIENVPS-VN"
+    },
+    "150821": {
+        "country_code": "VN",
+        "asn": "150821",
+        "description": "HD TECHNICAL INFRASTRUCTURE CONSTRUCTION COMPANY LIMITED",
+        "handle": "CTKYTHUATHD-VN"
+    },
+    "150822": {
+        "country_code": "VN",
+        "asn": "150822",
+        "description": "Department of Science and Technology of Tuyen Quang province",
+        "handle": "TUYENQUANG-VN"
+    },
+    "150823": {
+        "country_code": "VN",
+        "asn": "150823",
+        "description": "FAST SOFTWARE JOINT STOCK COMPANY",
+        "handle": "FAST-VN"
+    },
+    "150824": {
+        "country_code": "VN",
+        "asn": "150824",
+        "description": "Premier Oil Viet Nam Offshore B.V",
+        "handle": "POVO-VN"
+    },
+    "150825": {
+        "country_code": "VN",
+        "asn": "150825",
+        "description": "CODETAY SOFTWARE LIMITED LIABILITY COMPANY",
+        "handle": "CODETAY-VN"
+    },
+    "150826": {
+        "country_code": "VN",
+        "asn": "150826",
+        "description": "VR VIET NAM COMPANY LIMITED",
+        "handle": "VR-VN"
+    },
+    "150827": {
+        "country_code": "VN",
+        "asn": "150827",
+        "description": "MUOI LONG COMPANY LIMITED",
+        "handle": "MUOILONG-VN"
+    },
+    "150828": {
+        "country_code": "VN",
+        "asn": "150828",
+        "description": "VMON CLOUD COMPANY LIMITED",
+        "handle": "VMONCLOUD-VN"
+    },
+    "150829": {
+        "country_code": "VN",
+        "asn": "150829",
+        "description": "DIGITAL NETWORK CLOUD COMPANY LIMITED",
+        "handle": "DNCLOUD-VN"
+    },
+    "150830": {
+        "country_code": "VN",
+        "asn": "150830",
+        "description": "CHIEU MINH COMPANY LIMITED",
+        "handle": "CMINH-VN"
+    },
+    "150831": {
+        "country_code": "VN",
+        "asn": "150831",
+        "description": "JACCS international vietnam finance company limited",
+        "handle": "JIVF-VN"
+    },
+    "150832": {
+        "country_code": "VN",
+        "asn": "150832",
+        "description": "NTNT COMPANY LIMITED",
+        "handle": "NTNT-VN"
+    },
+    "150833": {
+        "country_code": "VN",
+        "asn": "150833",
+        "description": "TUAN LINH 88 COMPANY LIMITED",
+        "handle": "CTTUANLINH88-VN"
+    },
+    "150834": {
+        "country_code": "VN",
+        "asn": "150834",
+        "description": "IDATA TECHNOLOGY SOLUTIONS COMPANY LIMITED",
+        "handle": "IDATA-VN"
+    },
+    "150835": {
+        "country_code": "VN",
+        "asn": "150835",
+        "description": "MAY CHU SAI GON SERVICE TRADING COMPANY LIMITED",
+        "handle": "MCSG-VN"
+    },
+    "150836": {
+        "country_code": "VN",
+        "asn": "150836",
+        "description": "EPAY SERVICES JOINT STOCK COMPANY",
+        "handle": "EPAYJSCNET-VN"
+    },
+    "150837": {
+        "country_code": "VN",
+        "asn": "150837",
+        "description": "SAOVANG TELECOMMUNICATION INFRASTRUCTURE JOINT STOCK COMPANY",
+        "handle": "SVTELECOM-VN"
+    },
+    "150838": {
+        "country_code": "VN",
+        "asn": "150838",
+        "description": "HA SON TECHNOLOGY ONE MEMBER LIMITED COMPANY",
+        "handle": "HASONTECH-VN"
+    },
+    "150839": {
+        "country_code": "VN",
+        "asn": "150839",
+        "description": "THIEN TUAN SOLUTION AND TECHNOLOGY COMPANY LIMITED",
+        "handle": "THIENTUANSTECH-VN"
+    },
+    "150840": {
+        "country_code": "VN",
+        "asn": "150840",
+        "description": "HVT TM AND XNK COMPANY LIMITED",
+        "handle": "HVT-VN"
+    },
+    "150841": {
+        "country_code": "VN",
+        "asn": "150841",
+        "description": "Department of Science and Technology of Quang Ngai province",
+        "handle": "ICTQUANGNGAI-VN"
+    },
+    "150842": {
+        "country_code": "VN",
+        "asn": "150842",
+        "description": "VIMEDIMEX GROUP PHARMACY CORPORATION",
+        "handle": "VMD-VN"
+    },
+    "150843": {
+        "country_code": "VN",
+        "asn": "150843",
+        "description": "PHU MINH TECHNICAL SERVICE TRADING COMPANY",
+        "handle": "PHUMINH-VN"
+    },
+    "150844": {
+        "country_code": "VN",
+        "asn": "150844",
+        "description": "VIN8 TECHNOLOGY INVESTMENT COMPANY LIMITED",
+        "handle": "VIN8-VN"
+    },
+    "150845": {
+        "country_code": "VN",
+        "asn": "150845",
+        "description": "DIDOTEK COMPANY LIMITED",
+        "handle": "DIDOTEK-VN"
+    },
+    "150846": {
+        "country_code": "VN",
+        "asn": "150846",
+        "description": "Room 1508 15th Floor Vincom Center Building 72 Le Thanh Ton Ben Nghe Ward District 1 Ho Chi Minh City Vietnam",
+        "handle": "AXYS-VN"
+    },
+    "150847": {
+        "country_code": "VN",
+        "asn": "150847",
+        "description": "DIGITAL SERVER COMPANY LIMITED",
+        "handle": "MAYCHUSO-VN"
+    },
+    "150848": {
+        "country_code": "VN",
+        "asn": "150848",
+        "description": "VINAF GLOBAL COMPANY LIMITED",
+        "handle": "VINAG-VN"
+    },
+    "150849": {
+        "country_code": "VN",
+        "asn": "150849",
+        "description": "Pho Web Technology Joint Stock Company",
+        "handle": "PHOWEB-VN"
+    },
+    "150850": {
+        "country_code": "VN",
+        "asn": "150850",
+        "description": "ZINVPS COMPANY LIMITED",
+        "handle": "ZINVPS-VN"
+    },
+    "150851": {
+        "country_code": "VN",
+        "asn": "150851",
+        "description": "DXT DIGITAL TRANSFORMATION TECHNOLOGY JOINT STOCK COMPANY",
+        "handle": "DXT-VN"
+    },
+    "150852": {
+        "country_code": "VN",
+        "asn": "150852",
+        "description": "BIGZ TECHNOLOGY JOINT STOCK COMPANY",
+        "handle": "BIGZ-VN"
+    },
+    "150853": {
+        "country_code": "VN",
+        "asn": "150853",
+        "description": "CLOUD VIET ONE MEMBER COMPANY LIMITED",
+        "handle": "CLOVIET-VN"
+    },
+    "150854": {
+        "country_code": "VN",
+        "asn": "150854",
+        "description": "Diginext Group Joint Stock Company",
+        "handle": "DIGINEXT-VN"
+    },
+    "150855": {
+        "country_code": "VN",
+        "asn": "150855",
+        "description": "MAY SOC COMPANY LIMITED",
+        "handle": "MAYSOC-VN"
+    },
+    "150856": {
+        "country_code": "VN",
+        "asn": "150856",
+        "description": "VNG DATA CENTER CO. LTD",
+        "handle": "VNGDC-VN"
+    },
+    "150857": {
+        "country_code": "VN",
+        "asn": "150857",
+        "description": "JB SECURITIES VIETNAM COMPANY LIMITED",
+        "handle": "JBSV-VN"
+    },
+    "150858": {
+        "country_code": "VN",
+        "asn": "150858",
+        "description": "VIET SERVER TECHNOLOGY SOLUTIONS CO. LTD",
+        "handle": "VIETMAYCHU-VN"
+    },
+    "150859": {
+        "country_code": "VN",
+        "asn": "150859",
+        "description": "SANDCLOCK SERVICE TRADING COMPANY LIMITED",
+        "handle": "SANDCLOCK-VN"
+    },
+    "150860": {
+        "country_code": "VN",
+        "asn": "150860",
+        "description": "JETCLOUD TECHNOLOGY CO. LTD",
+        "handle": "JETCLOUD-VN"
+    },
+    "150861": {
+        "country_code": "VN",
+        "asn": "150861",
+        "description": "POWERNET COMPANY LIMITED",
+        "handle": "POWERNET-VN"
+    },
+    "150862": {
+        "country_code": "VN",
+        "asn": "150862",
+        "description": "VPSTTT COMPUTER COMPANY LIMITED",
+        "handle": "MAYTINHVPSTTT-VN"
+    },
+    "150863": {
+        "country_code": "VN",
+        "asn": "150863",
+        "description": "HUY NGUYEN TECHNOLOGY SOLUTION JOINT STOCK COMPANY",
+        "handle": "HNS-VN"
+    },
+    "150864": {
+        "country_code": "VN",
+        "asn": "150864",
+        "description": "VIET NAM VNNS TECHNOLOGIES JOINT STOCK COMPANY",
+        "handle": "VNNS-VN"
+    },
+    "150865": {
+        "country_code": "VN",
+        "asn": "150865",
+        "description": "MMO VIET NAM SOFTWARE COMPANY LIMITED",
+        "handle": "MMOSOFT-VN"
+    },
+    "150866": {
+        "country_code": "VN",
+        "asn": "150866",
+        "description": "FINTECH VIETNAM CREDIT INFORMATION JOINT STOCK COMPANY",
+        "handle": "FCBV-VN"
+    },
+    "150867": {
+        "country_code": "VN",
+        "asn": "150867",
+        "description": "LP TECHNOLOGY ELECTRONIC COMMERCE COMPANY LIMITED",
+        "handle": "LPTECH-VN"
+    },
+    "150868": {
+        "country_code": "VN",
+        "asn": "150868",
+        "description": "ADVIETNAM ADVERTISEMENT MEDIA COMPANY LIMITED",
+        "handle": "ADVIETNAM-VN"
+    },
+    "150869": {
+        "country_code": "VN",
+        "asn": "150869",
+        "description": "National Citizen Commercial Joint stock bank",
+        "handle": "NCB-VN"
+    },
+    "150870": {
+        "country_code": "VN",
+        "asn": "150870",
+        "description": "KIM NGAN TECHNOLOGY TRADING SERVICES CO. LTD",
+        "handle": "KIMNGAN-VN"
+    },
+    "150871": {
+        "country_code": "VN",
+        "asn": "150871",
+        "description": "N C T CORPORATION",
+        "handle": "VNETWORKK-NCT-VN"
+    },
+    "150872": {
+        "country_code": "VN",
+        "asn": "150872",
+        "description": "TECHCLOUD SOLUTION JOINT STOCK COMPANY",
+        "handle": "TECHCLOUD-VN"
+    },
+    "150873": {
+        "country_code": "VN",
+        "asn": "150873",
+        "description": "THUONGCLOUD COMPANY LIMITED",
+        "handle": "TCTH-VN"
+    },
+    "150874": {
+        "country_code": "VN",
+        "asn": "150874",
+        "description": "XOR BPO JOINT STOCK COMPANY",
+        "handle": "XOR-CLOUD-VN"
+    },
+    "150875": {
+        "country_code": "VN",
+        "asn": "150875",
+        "description": "XOR BPO JOINT STOCK COMPANY",
+        "handle": "XOR-BPO-VN"
+    },
+    "150876": {
+        "country_code": "VN",
+        "asn": "150876",
+        "description": "MAILAND TECHNOLOGY TRADING SERVICES COMPANY LIMITED",
+        "handle": "MAILAN-VN"
+    },
+    "150877": {
+        "country_code": "VN",
+        "asn": "150877",
+        "description": "HOI LOC TRADE SERVICES COMPANY LIMITED",
+        "handle": "HOILOC-VN"
+    },
+    "150878": {
+        "country_code": "VN",
+        "asn": "150878",
+        "description": "V9 TECHNOLOGY JOINT STOCK COMPANY",
+        "handle": "V9-VN"
+    },
+    "150879": {
+        "country_code": "VN",
+        "asn": "150879",
+        "description": "WIX CLOUD COMPANY LIMITED",
+        "handle": "WIXCLOUD-VN"
+    },
+    "150880": {
+        "country_code": "VN",
+        "asn": "150880",
+        "description": "FAST BYTE FAST DATA COMPANY LIMITED",
+        "handle": "FASTBYTE-VN"
+    },
+    "150881": {
+        "country_code": "VN",
+        "asn": "150881",
+        "description": "INTERSTELLAR DIGITAL TECHNOLOGY COMPANY LIMITED",
+        "handle": "IDT-NET-VN"
+    },
+    "150882": {
+        "country_code": "VN",
+        "asn": "150882",
+        "description": "XKA TECHNOLOGY MTV COMPANY LIMITED",
+        "handle": "XKA-VN"
+    },
+    "150883": {
+        "country_code": "VN",
+        "asn": "150883",
+        "description": "Department of Information and Communication of Gia Lai province",
+        "handle": "ICTGIALAI-VN"
+    },
+    "150884": {
+        "country_code": "VN",
+        "asn": "150884",
+        "description": "ANZIX Joint Stock Company",
+        "handle": "NEWVINA-VN"
+    },
+    "150885": {
+        "country_code": "VN",
+        "asn": "150885",
+        "description": "DA THANH TELECOMMUNICATION COMPANY LIMITED",
+        "handle": "VTDT-VN"
+    },
+    "150886": {
+        "country_code": "VN",
+        "asn": "150886",
+        "description": "VN CLOUD ONE MEMBER COMPANY LIMITED",
+        "handle": "VNCLOUD-VN"
+    },
+    "150887": {
+        "country_code": "VN",
+        "asn": "150887",
+        "description": "NGOC HA TECHNOLOGY SERVICES CO. LTD",
+        "handle": "NGOCHACLOUD-VN"
+    },
+    "150888": {
+        "country_code": "VN",
+        "asn": "150888",
+        "description": "CENTER FOR INFORMATION AND COMMUNICATION TECHNOLOGY Thai Nguyen Department of Information and Communications",
+        "handle": "ICT-THAINGUYEN"
+    },
+    "150889": {
+        "country_code": "VN",
+        "asn": "150889",
+        "description": "MONA HOST LIMITED",
+        "handle": "MONA-HOST-VN"
+    },
+    "150890": {
+        "country_code": "VN",
+        "asn": "150890",
+        "description": "VETC ELECTRONIC TOLL COLLECTION COMPANY LIMITED",
+        "handle": "VECTN-VN"
+    },
+    "150891": {
+        "country_code": "VN",
+        "asn": "150891",
+        "description": "INFOGATE TECHNOLOGY COMPANY LIMITED",
+        "handle": "INFOGATE-VN"
+    },
+    "150892": {
+        "country_code": "VN",
+        "asn": "150892",
+        "description": "GOLD VPS LIMITED",
+        "handle": "THUTRANPC-VN"
+    },
+    "150893": {
+        "country_code": "VN",
+        "asn": "150893",
+        "description": "Department of Information and Communications of Nghe An province",
+        "handle": "NGHEAN-VN"
+    },
+    "150894": {
+        "country_code": "VN",
+        "asn": "150894",
+        "description": "SON NGUYEN GROUP CORPORATION",
+        "handle": "SONNGUYEN-VN"
+    },
+    "150895": {
+        "country_code": "VN",
+        "asn": "150895",
+        "description": "EZ TECHNOLOGY COMPANY LIMITED",
+        "handle": "EZTECH-VN"
+    },
+    "150896": {
+        "country_code": "VN",
+        "asn": "150896",
+        "description": "HUNGCLOUD COMPANY LIMITED",
+        "handle": "HUNGCL-VN"
+    },
+    "150897": {
+        "country_code": "VN",
+        "asn": "150897",
+        "description": "AZPLAY TECHNOLOGY COMPANY LIMITED",
+        "handle": "AZPLAY-VN"
+    },
+    "150898": {
+        "country_code": "VN",
+        "asn": "150898",
+        "description": "VINASITE VIET NAM COMPANY LIMITED",
+        "handle": "VINASITE-VN"
+    },
+    "150899": {
+        "country_code": "VN",
+        "asn": "150899",
+        "description": "HTSG HIGH TECHNOLOGY SERVICES AND MEDIA JOINT STOCK COMPANY",
+        "handle": "HTSG-VN"
+    },
+    "150900": {
+        "country_code": "VN",
+        "asn": "150900",
+        "description": "VPSMMO COMPANY LIMITED",
+        "handle": "VPSMMOCLOUD-VN"
+    },
+    "150901": {
+        "country_code": "VN",
+        "asn": "150901",
+        "description": "NEXTPAY DIGITAL TRANSFORMATION GROUP JOINT STOCK COMPANY",
+        "handle": "NEXTPAY-VN"
+    },
+    "150902": {
+        "country_code": "VN",
+        "asn": "150902",
+        "description": "BIDATA MEDIA AND TECHNOLOGY JOINT STOCK COMPANY",
+        "handle": "BIDATA-VN"
+    },
+    "150903": {
+        "country_code": "VN",
+        "asn": "150903",
+        "description": "ROYAL TECHNOLOGY MEDIA JOINT STOCK COMPANY",
+        "handle": "HG-VN"
+    },
+    "150904": {
+        "country_code": "VN",
+        "asn": "150904",
+        "description": "BWF Technology Company Limited",
+        "handle": "BWF-VN"
+    },
+    "150905": {
+        "country_code": "VN",
+        "asn": "150905",
+        "description": "CENTRAL ELECTRICITY INFORMATION TECHNOLOGY COMPANY - CENTRAL REGIONAL ELECTRICITY CORPORATION",
+        "handle": "EVNCPC-VN"
+    },
+    "150906": {
+        "country_code": "VN",
+        "asn": "150906",
+        "description": "NOVA SQUARE LIMITED",
+        "handle": "NVSQ-VN"
+    },
+    "150907": {
+        "country_code": "VN",
+        "asn": "150907",
+        "description": "GREEN SYSTEM SOLUTIONS COMPANY LIMITED",
+        "handle": "GRS-VN"
+    },
+    "150908": {
+        "country_code": "VN",
+        "asn": "150908",
+        "description": "LAM TRAN SOFTWARE DEVELOPMENT COMPANY LIMITED",
+        "handle": "LTSD-VN"
+    },
+    "150909": {
+        "country_code": "VN",
+        "asn": "150909",
+        "description": "BTT TECHNOLOGY SERVICES COMPANY LIMITED",
+        "handle": "BTTHOST-VN"
+    },
+    "150910": {
+        "country_code": "VN",
+        "asn": "150910",
+        "description": "MODATEK LIMITED COMPANY",
+        "handle": "MODATEK-VN"
+    },
+    "150911": {
+        "country_code": "VN",
+        "asn": "150911",
+        "description": "Travelaire Limited Liability Company",
+        "handle": "TRAVELAIRE-VN"
+    },
+    "150912": {
+        "country_code": "VN",
+        "asn": "150912",
+        "description": "TEKAWAY LIMITED COMPANY",
+        "handle": "TEKAWAY-VN"
+    },
+    "151677": {
+        "country_code": "VN",
+        "asn": "151677",
+        "description": "SAFE365 JOINT STOCK COMPANY",
+        "handle": "SAFE365NET-VN"
+    },
+    "151851": {
+        "country_code": "VN",
+        "asn": "151851",
+        "description": "V9 ENTERPRISE SOLUTION JOINT STOCK COMPANY",
+        "handle": "V9ERP-VN"
+    },
+    "151852": {
+        "country_code": "VN",
+        "asn": "151852",
+        "description": "FUTE JOINT STOCK COMPANY",
+        "handle": "WEB2M-VN"
+    },
+    "151853": {
+        "country_code": "VN",
+        "asn": "151853",
+        "description": "GIZA NETWORK LIMITED",
+        "handle": "GIZANETWORK-VN"
+    },
+    "151854": {
+        "country_code": "VN",
+        "asn": "151854",
+        "description": "AHOST COMPANY LIMITED",
+        "handle": "AHOST-VN"
+    },
+    "151855": {
+        "country_code": "VN",
+        "asn": "151855",
+        "description": "SOUTH TELECOMMUNICATIONS SOFTWARE JOINT STOCK COMPANY",
+        "handle": "SOUTH-VN"
+    },
+    "151856": {
+        "country_code": "VN",
+        "asn": "151856",
+        "description": "LITESPEED TECHNOLOGY COMPANY LIMITED",
+        "handle": "LITESPEED-COM-VN"
+    },
+    "151857": {
+        "country_code": "VN",
+        "asn": "151857",
+        "description": "NIVA GROUP JONT STOCK COMPANY",
+        "handle": "NIVACLOUD-VN"
+    },
+    "151858": {
+        "country_code": "VN",
+        "asn": "151858",
+        "description": "INTERDIGI JOINT STOCK COMPANY",
+        "handle": "INTERDIGI-VN"
+    },
+    "151859": {
+        "country_code": "VN",
+        "asn": "151859",
+        "description": "CLOUDVIET COMPANY LIMITED",
+        "handle": "CLOUDVIETNAMVN-VN"
+    },
+    "151860": {
+        "country_code": "VN",
+        "asn": "151860",
+        "description": "Department of Information and Communications of Hai Duong province",
+        "handle": "HAIDUONG-VN"
+    },
+    "151861": {
+        "country_code": "VN",
+        "asn": "151861",
+        "description": "STB TECHNOLOGY COMPANY LIMITED",
+        "handle": "STBCLOUDZ-VN"
+    },
+    "151862": {
+        "country_code": "VN",
+        "asn": "151862",
+        "description": "NGOC TU NETWORK SOLUTIONS AND TECHNOLOGY COMPANY LIMITED",
+        "handle": "NGOCTU-VN"
+    },
+    "151863": {
+        "country_code": "VN",
+        "asn": "151863",
+        "description": "PSG JOINT STOCK COMPANY",
+        "handle": "PSG-VN"
+    },
+    "151864": {
+        "country_code": "VN",
+        "asn": "151864",
+        "description": "TUAN VU SERVICES TECHNOLOGY COMPANY LIMITED",
+        "handle": "TUANVU-VN"
+    },
+    "151865": {
+        "country_code": "VN",
+        "asn": "151865",
+        "description": "ZENTECH Technology Solutions Co. Ltd",
+        "handle": "ZENTECH-VN"
+    },
+    "151866": {
+        "country_code": "VN",
+        "asn": "151866",
+        "description": "DAI HUU SERVICE AND TRADING MECHANICAL COMPANY LIMITED",
+        "handle": "DAIHUU-VN"
+    },
+    "151867": {
+        "country_code": "VN",
+        "asn": "151867",
+        "description": "Department of Science and Technology of Dong Nai province",
+        "handle": "DONGNAI-VN"
+    },
+    "151869": {
+        "country_code": "VN",
+        "asn": "151869",
+        "description": "DLC DIGITAL TECHNOLOGY SOLUTION INVESTMENT LIMITED LIABILITY COMPANY",
+        "handle": "DLC-VN"
+    },
+    "151870": {
+        "country_code": "VN",
+        "asn": "151870",
+        "description": "Department of Radio Frequency - Ministry of Information and Communications",
+        "handle": "CUCTANSO-BTTTT-VN"
+    },
+    "151871": {
+        "country_code": "VN",
+        "asn": "151871",
+        "description": "DANH TUAN TECHNOLOGY COMPANY LIMITED",
+        "handle": "DANHTUAN-VN"
+    },
+    "151872": {
+        "country_code": "VN",
+        "asn": "151872",
+        "description": "CLOUD DATA TECHNOLOGY AND COMMUNICATION COMPANY LIMITED",
+        "handle": "EDIGI-VN"
+    },
+    "151873": {
+        "country_code": "VN",
+        "asn": "151873",
+        "description": "TOTHOST SOLUTIONS AND TECHNOLOGIES COMPANY LIMITED",
+        "handle": "TOTHOST-VN"
+    },
+    "151874": {
+        "country_code": "VN",
+        "asn": "151874",
+        "description": "BIM VIETNAM COMMUNITY COMPANY LIMITED",
+        "handle": "CDB-VN"
+    },
+    "151875": {
+        "country_code": "VN",
+        "asn": "151875",
+        "description": "TAFU ENERGY COMPANY LIMITED",
+        "handle": "TAFUVPS-VN"
+    },
+    "151876": {
+        "country_code": "VN",
+        "asn": "151876",
+        "description": "BLUE SKY NETWORK INFRASTRUCTURE SOLUTIONS CO. LTD",
+        "handle": "BNIX-VN"
+    },
+    "151877": {
+        "country_code": "VN",
+        "asn": "151877",
+        "description": "ANH SAO TECHNOLOGY TRAINING CONSULTANT JOINT STOCK COMPANY",
+        "handle": "ANHSAO-VN"
+    },
+    "151878": {
+        "country_code": "VN",
+        "asn": "151878",
+        "description": "EDC INTERNATIONAL TRADING COMPANY LIMITED",
+        "handle": "EDC-VN"
+    },
+    "151879": {
+        "country_code": "VN",
+        "asn": "151879",
+        "description": "GLOBAL TECHNOLOGY SOLUTIONS VIETNAM JOINT STOCK COMPANY",
+        "handle": "GTSVN-VN"
+    },
+    "151880": {
+        "country_code": "VN",
+        "asn": "151880",
+        "description": "BCONNECT TECHNOLOGY AND SOLUTION JOINT STOCK COMPANY",
+        "handle": "BCONNECT-VN"
+    },
+    "151881": {
+        "country_code": "VN",
+        "asn": "151881",
+        "description": "GREEN LIGHT TECHNOLOGY SOLUTIONS COMPANY LIMITED",
+        "handle": "SANGXANH-VN"
+    },
+    "151882": {
+        "country_code": "VN",
+        "asn": "151882",
+        "description": "CLOUDME COMPANY LIMITED",
+        "handle": "CLOUDME-VN"
+    },
+    "151883": {
+        "country_code": "VN",
+        "asn": "151883",
+        "description": "LIEN CLOUD TECHNOLOGY COMPANY LIMITED",
+        "handle": "LIENCLOUD-VN"
+    },
+    "151884": {
+        "country_code": "VN",
+        "asn": "151884",
+        "description": "STNC SERVICE CONSULTANCE COMPANY LIMITED",
+        "handle": "STNC-VN"
+    },
+    "151885": {
+        "country_code": "VN",
+        "asn": "151885",
+        "description": "DATA SECURITY SOLUTIONS LIMITED",
+        "handle": "ANTOANDULIEU-VN"
+    },
+    "151886": {
+        "country_code": "VN",
+        "asn": "151886",
+        "description": "Department of Science and Technology of Vinh Long province",
+        "handle": "ICTVL-VN"
+    },
+    "151887": {
+        "country_code": "VN",
+        "asn": "151887",
+        "description": "VCORE COMPANY LIMITED",
+        "handle": "VCOREINFO-VN"
+    },
+    "151888": {
+        "country_code": "VN",
+        "asn": "151888",
+        "description": "SWIFT INVESTMENT AND TECHNOLOGY COMPANY LIMITED",
+        "handle": "SWIFTTECH-VN"
+    },
+    "151889": {
+        "country_code": "VN",
+        "asn": "151889",
+        "description": "HAI NAM TECH JOINT STOCK COMPANY",
+        "handle": "HAINAMTECH-VN"
+    },
+    "151890": {
+        "country_code": "VN",
+        "asn": "151890",
+        "description": "HAWK HOST COMPANY LIMITED",
+        "handle": "UCOM-VN"
+    },
+    "151891": {
+        "country_code": "VN",
+        "asn": "151891",
+        "description": "K-SERVER NETWORK SERVICES COMPANY LIMITED",
+        "handle": "KSERVER-VN"
+    },
+    "151892": {
+        "country_code": "VN",
+        "asn": "151892",
+        "description": "NEWCLOUD DIGITAL TECHNOLOGY COMPANY LIMITED",
+        "handle": "NEWCLOUD-VN"
+    },
+    "151893": {
+        "country_code": "VN",
+        "asn": "151893",
+        "description": "DIGI SUCCESS SERVICE COMPANY LIMITED",
+        "handle": "SUCCESS-VN"
+    },
+    "151894": {
+        "country_code": "VN",
+        "asn": "151894",
+        "description": "Department of Science and Technology of Hai Phong City",
+        "handle": "ICTHAIPHONG-VN"
+    },
+    "151895": {
+        "country_code": "VN",
+        "asn": "151895",
+        "description": "MYVPS TECHNOLOGY COMPANY LIMITED",
+        "handle": "MYVPS-VN"
+    },
+    "151896": {
+        "country_code": "VN",
+        "asn": "151896",
+        "description": "ETEL TECHNOLOGY COMPANY LIMITED",
+        "handle": "ETEL-VN"
+    },
+    "151897": {
+        "country_code": "VN",
+        "asn": "151897",
+        "description": "QUOC VUONG TECHNOLOGY COMPANY LIMITED",
+        "handle": "QCV-VN"
+    },
+    "151898": {
+        "country_code": "VN",
+        "asn": "151898",
+        "description": "MEGAHOST TECHNOLOGY COMPANY LIMITED",
+        "handle": "MEGAHOSTBIZ-VN"
+    },
+    "151899": {
+        "country_code": "VN",
+        "asn": "151899",
+        "description": "EDC TECHNOLOGY JOINT STOCK COMPANY",
+        "handle": "EDCTECH-VN"
+    },
+    "151900": {
+        "country_code": "VN",
+        "asn": "151900",
+        "description": "METECH TECHNOLOGY AND SERVICES COMPANY LIMITED",
+        "handle": "METECH-VN"
+    },
+    "151901": {
+        "country_code": "VN",
+        "asn": "151901",
+        "description": "HAO QUANG VIET SOFTWARE COMPANY LIMITED",
+        "handle": "HQV-VN"
+    },
+    "151902": {
+        "country_code": "VN",
+        "asn": "151902",
+        "description": "Center for Information Technology Application - Vietnam Academy of Social Sciences",
+        "handle": "VASS-VN"
+    },
+    "151903": {
+        "country_code": "VN",
+        "asn": "151903",
+        "description": "epartment of Science and Technology of Quang Tri province",
+        "handle": "ICTQUANGTRI-VN"
+    },
+    "151904": {
+        "country_code": "VN",
+        "asn": "151904",
+        "description": "TRAN PHAT CONSTRUCTION EQUIPMENT COMPANY LIMITED",
+        "handle": "EZTTP-VN"
+    },
+    "151905": {
+        "country_code": "VN",
+        "asn": "151905",
+        "description": "PHO TUE SOFTWARE AND TECHNOLOGY SOLUTIONS JOINT STOCK COMPANY",
+        "handle": "PHOTUESOFTWARE-VN"
+    },
+    "151906": {
+        "country_code": "VN",
+        "asn": "151906",
+        "description": "ICODE DIGITAL DATA COMPANY LIMITED",
+        "handle": "ICODEVN-VN"
+    },
+    "151907": {
+        "country_code": "VN",
+        "asn": "151907",
+        "description": "ECOSTA LIMITED",
+        "handle": "ECOSTA-VN"
+    },
+    "151908": {
+        "country_code": "VN",
+        "asn": "151908",
+        "description": "MAY CHU VIET SOLUTIONS CORPORATION",
+        "handle": "MAYCHUVIET-VN"
+    },
+    "151909": {
+        "country_code": "VN",
+        "asn": "151909",
+        "description": "NGUYEN HAU TP COMPANY LIMITED",
+        "handle": "NGUYENHAU-VN"
+    },
+    "151910": {
+        "country_code": "VN",
+        "asn": "151910",
+        "description": "VIETNAM TELECOMMUNICATION COMPUTING JOINT STOCK COMPANY",
+        "handle": "VTVN-VN"
+    },
+    "151911": {
+        "country_code": "VN",
+        "asn": "151911",
+        "description": "VERICHAINS LIMITED",
+        "handle": "VERICHAINS-VN"
+    },
+    "151912": {
+        "country_code": "VN",
+        "asn": "151912",
+        "description": "Tranco Technology Company Limited",
+        "handle": "TRANCO-VN"
+    },
+    "151913": {
+        "country_code": "VN",
+        "asn": "151913",
+        "description": "Ha Giang province Department of Information and Communications",
+        "handle": "HAGIANG-VN"
+    },
+    "151914": {
+        "country_code": "VN",
+        "asn": "151914",
+        "description": "Quoc Tin Cyber Technology Company Limited",
+        "handle": "CLOUDJ-NET-VN"
+    },
+    "151915": {
+        "country_code": "VN",
+        "asn": "151915",
+        "description": "Tran Thi Data and Technology Company Limited",
+        "handle": "TRANTHI-VN"
+    },
+    "151916": {
+        "country_code": "VN",
+        "asn": "151916",
+        "description": "TPT Technology and Electronics Company Limited",
+        "handle": "DIENTUTPT-VN"
+    },
+    "151917": {
+        "country_code": "VN",
+        "asn": "151917",
+        "description": "Jupiter Media Joint Stock Company",
+        "handle": "JUPITERMEDIA-VN"
+    },
+    "151918": {
+        "country_code": "VN",
+        "asn": "151918",
+        "description": "VPS PA Company Limited",
+        "handle": "VPSPA-VN"
+    },
+    "151919": {
+        "country_code": "VN",
+        "asn": "151919",
+        "description": "CLOUD WP Technology One Member LLC",
+        "handle": "CLOUDWP-VN"
+    },
+    "151920": {
+        "country_code": "VN",
+        "asn": "151920",
+        "description": "DDL Digital Technology Solutions Company Limited",
+        "handle": "MOBITENET-VN"
+    },
+    "151921": {
+        "country_code": "VN",
+        "asn": "151921",
+        "description": "DIGI GROUP CO. LTD",
+        "handle": "DIGIDATA-VN"
+    },
+    "151922": {
+        "country_code": "VN",
+        "asn": "151922",
+        "description": "Vietnam National Credit Information",
+        "handle": "CICB-VN"
+    },
+    "151923": {
+        "country_code": "VN",
+        "asn": "151923",
+        "description": "BC CARD Vietnam Company Limited",
+        "handle": "BCCARD-VN"
+    },
+    "151924": {
+        "country_code": "VN",
+        "asn": "151924",
+        "description": "NDD Digital Technology Company Limited",
+        "handle": "NDD-VN"
+    },
+    "151925": {
+        "country_code": "VN",
+        "asn": "151925",
+        "description": "Technology NHD Co. Ltd",
+        "handle": "NHD-VN"
+    },
+    "151926": {
+        "country_code": "VN",
+        "asn": "151926",
+        "description": "TH Technology and Data Mining Company Limited",
+        "handle": "THCLOUD-VN"
+    },
+    "151927": {
+        "country_code": "VN",
+        "asn": "151927",
+        "description": "Truong Dai Digital Technology Company Limited",
+        "handle": "TRDAI-VN"
+    },
+    "151928": {
+        "country_code": "VN",
+        "asn": "151928",
+        "description": "ROSTEK CO . JSC",
+        "handle": "ROSTEK-VN"
+    },
+    "151929": {
+        "country_code": "VN",
+        "asn": "151929",
+        "description": "PRIMITIVE AI LLC",
+        "handle": "PRIMITIVE-VN"
+    },
+    "151930": {
+        "country_code": "VN",
+        "asn": "151930",
+        "description": "Ung Dung Development Technology Company Limited",
+        "handle": "TRALL-NET-VN"
+    },
+    "151931": {
+        "country_code": "VN",
+        "asn": "151931",
+        "description": "Cloud Era LLC",
+        "handle": "ERACLOUD-VN"
+    },
+    "151932": {
+        "country_code": "VN",
+        "asn": "151932",
+        "description": "Tan VPS Company Limited",
+        "handle": "TANTHOIVPS-VN"
+    },
+    "151933": {
+        "country_code": "VN",
+        "asn": "151933",
+        "description": "HOA FRUITS LLC",
+        "handle": "HOAVPS-VN"
+    },
+    "151934": {
+        "country_code": "VN",
+        "asn": "151934",
+        "description": "Thanh Trang Cloud Computing and Technology Company Limited",
+        "handle": "THANHTRANG-VN"
+    },
+    "151935": {
+        "country_code": "VN",
+        "asn": "151935",
+        "description": "Minh Nhat Paper General Company Limited",
+        "handle": "GIAYMINHNHAT-VN"
+    },
+    "151936": {
+        "country_code": "VN",
+        "asn": "151936",
+        "description": "ASAP Software Solutions Company Limited",
+        "handle": "VNETWORK-ASAP-VN"
+    },
+    "151937": {
+        "country_code": "VN",
+        "asn": "151937",
+        "description": "MEKONGNET LLC",
+        "handle": "MEKONGNET-VN"
+    },
+    "151938": {
+        "country_code": "VN",
+        "asn": "151938",
+        "description": "CLOUDY One Member LLC",
+        "handle": "CLOUDY-VN"
+    },
+    "151939": {
+        "country_code": "VN",
+        "asn": "151939",
+        "description": "ASIA TECHNOLOGY COMMUNICATIONS JOINT STOCK COMPANY",
+        "handle": "ACOMM-VN"
+    },
+    "151940": {
+        "country_code": "VN",
+        "asn": "151940",
+        "description": "TTT Data Encryption and Technology Co. LTD",
+        "handle": "TTTDATA-VN"
+    },
+    "151941": {
+        "country_code": "VN",
+        "asn": "151941",
+        "description": "Vietnam Online Entertainment Joint Stock Company OnPlay",
+        "handle": "ONPLAY-VN"
+    },
+    "151942": {
+        "country_code": "VN",
+        "asn": "151942",
+        "description": "PHAN HUU BAO DIGITAL TECHNOLOGY SOLUTIONS COMPANY LIMITED",
+        "handle": "PHANHUUBAOSOLUTIONS-VN"
+    },
+    "151945": {
+        "country_code": "VN",
+        "asn": "151945",
+        "description": "OI AGENCY MEDIA LIMITED",
+        "handle": "OIA-VN"
+    },
+    "151946": {
+        "country_code": "VN",
+        "asn": "151946",
+        "description": "DANG DINH LUONG DIGITAL TECHNOLOGY SOLUTIONS COMPANY LIMITED",
+        "handle": "CLEMAX-VN"
+    },
+    "151948": {
+        "country_code": "VN",
+        "asn": "151948",
+        "description": "IONSITE SOFTWARE ONE MEMBER COMPANY LIMITED",
+        "handle": "IONSITE-VN"
+    },
+    "151949": {
+        "country_code": "VN",
+        "asn": "151949",
+        "description": "MHI WHEREVER JOINT STOCK COMPANY",
+        "handle": "MHI-VN"
+    },
+    "151950": {
+        "country_code": "VN",
+        "asn": "151950",
+        "description": "RTLINK INDUSTRIAL EQUIPMENT AND TECHNOLOGY COMPANY LIMITED",
+        "handle": "RTLINK-VN"
+    },
+    "152933": {
+        "country_code": "VN",
+        "asn": "152933",
+        "description": "ZONECLOUD TECHNOLOGY JOINT STOCK COMPANY",
+        "handle": "ZONECLOUD-VN"
+    },
+    "152934": {
+        "country_code": "VN",
+        "asn": "152934",
+        "description": "DUC DUY HIGH TECHNOLOGY COMPANY LIMITED",
+        "handle": "DUCDUY-VN"
+    },
+    "152935": {
+        "country_code": "VN",
+        "asn": "152935",
+        "description": "PROXY VN TECHNOLOGY COMPANY LIMITED",
+        "handle": "CLOUDPROXY-VN"
+    },
+    "152936": {
+        "country_code": "VN",
+        "asn": "152936",
+        "description": "LIEN LIEN ELECTRONIC WAVE TECHNOLOGY COMPANY LIMITED",
+        "handle": "CNSDTLL-VN"
+    },
+    "152937": {
+        "country_code": "VN",
+        "asn": "152937",
+        "description": "NNK INFORMATION TECHNOLOGY COMPANY LIMITED",
+        "handle": "VPSX-VN"
+    },
+    "152938": {
+        "country_code": "VN",
+        "asn": "152938",
+        "description": "TRI VIET COMMERCIAL AND SYSTEM INTEGRATION COMPANY LIMITED",
+        "handle": "TVSICO-VN"
+    },
+    "152939": {
+        "country_code": "VN",
+        "asn": "152939",
+        "description": "NNK INFORMATION TECHNOLOGY COMPANY LIMITED",
+        "handle": "NNKVPS-VN"
+    },
+    "152940": {
+        "country_code": "VN",
+        "asn": "152940",
+        "description": "TTC TELECOM SERVICE TRADING INVESTMENT COMPANY LIMITED",
+        "handle": "TTC-VN"
+    },
+    "152941": {
+        "country_code": "VN",
+        "asn": "152941",
+        "description": "HYPERNODE ONE MEMBER COMPANY LIMITED",
+        "handle": "HYPERNODE-VN"
+    },
+    "152942": {
+        "country_code": "VN",
+        "asn": "152942",
+        "description": "BigData Network Technology Company Limited",
+        "handle": "BIGDATA-VN"
+    },
+    "152943": {
+        "country_code": "VN",
+        "asn": "152943",
+        "description": "FASTVT Network Technology Company Limited",
+        "handle": "FASTVT-VN"
+    },
+    "152944": {
+        "country_code": "VN",
+        "asn": "152944",
+        "description": "TIEN TRUNG SOFTWARE COMPANY LIMITED",
+        "handle": "TIENTRUNG-VN"
+    },
+    "152945": {
+        "country_code": "VN",
+        "asn": "152945",
+        "description": "DAINTY CLOUD INC",
+        "handle": "DMX-VN"
+    },
+    "152946": {
+        "country_code": "VN",
+        "asn": "152946",
+        "description": "TUAN TU TECHNOLOGY COMPANY LIMITED",
+        "handle": "TUANTU-VN"
+    },
+    "152947": {
+        "country_code": "VN",
+        "asn": "152947",
+        "description": "Center for Statistical Data Processing and Integration General Statistics Office",
+        "handle": "TTXL-VN"
+    },
+    "152948": {
+        "country_code": "VN",
+        "asn": "152948",
+        "description": "APAC Technology Engineering Company Limited",
+        "handle": "APATECH-VN"
+    },
+    "152949": {
+        "country_code": "VN",
+        "asn": "152949",
+        "description": "AZ VIETNAM TECHNOLOGY JOINT STOCK COMPANY",
+        "handle": "AZTECH-VN"
+    },
+    "152950": {
+        "country_code": "VN",
+        "asn": "152950",
+        "description": "Interserver LLC",
+        "handle": "INTERSERVER-VN"
+    },
+    "152951": {
+        "country_code": "VN",
+        "asn": "152951",
+        "description": "NDH Hosting Company Limited",
+        "handle": "HOSTINGNDH-VN"
+    },
+    "152952": {
+        "country_code": "VN",
+        "asn": "152952",
+        "description": "LAM ANH TM TECHNOLOGY COMPANY LIMITED",
+        "handle": "LATECH-VN"
+    },
+    "152953": {
+        "country_code": "VN",
+        "asn": "152953",
+        "description": "NORTH WIND SOFTWARE COMPANY LIMITED",
+        "handle": "NORTHWIND-VN"
+    },
+    "152954": {
+        "country_code": "VN",
+        "asn": "152954",
+        "description": "Technology DVT Company Limited",
+        "handle": "DVT-VN"
+    },
+    "152955": {
+        "country_code": "VN",
+        "asn": "152955",
+        "description": "CLOUDACE COMPANY LIMITED",
+        "handle": "CLOUDACE-VN"
+    },
+    "152956": {
+        "country_code": "VN",
+        "asn": "152956",
+        "description": "Duc Kien Technology Company Limited",
+        "handle": "DPTCLOUD-VN"
+    },
+    "152957": {
+        "country_code": "VN",
+        "asn": "152957",
+        "description": "ETC Computer Trading and Services Company Limited",
+        "handle": "ETCNETWORK-VN"
+    },
+    "152958": {
+        "country_code": "VN",
+        "asn": "152958",
+        "description": "IPXO Technology Company Limited",
+        "handle": "IPXO-VN"
+    },
+    "152959": {
+        "country_code": "VN",
+        "asn": "152959",
+        "description": "GKIN COMPANY LIMITED",
+        "handle": "GKIN-VN"
+    },
+    "152960": {
+        "country_code": "VN",
+        "asn": "152960",
+        "description": "CloudTTT Hosting Services LLC",
+        "handle": "LUUTRUDATA-VN"
+    },
+    "152961": {
+        "country_code": "VN",
+        "asn": "152961",
+        "description": "DEVTTT Website Design Company Limited",
+        "handle": "DEVTTT-VN"
+    },
+    "152963": {
+        "country_code": "VN",
+        "asn": "152963",
+        "description": "Phuong Nam Company Limited",
+        "handle": "PHUONGNAM-VN"
+    },
+    "152964": {
+        "country_code": "VN",
+        "asn": "152964",
+        "description": "Sehan Hosting Company Limited",
+        "handle": "SEHAN-VN"
+    },
+    "152965": {
+        "country_code": "VN",
+        "asn": "152965",
+        "description": "Green VPS Company Limitedx",
+        "handle": "VXANH-VN"
+    },
+    "152966": {
+        "country_code": "VN",
+        "asn": "152966",
+        "description": "ALGO DATA SERVICES COMPANY LIMITED",
+        "handle": "ALGO-VN"
+    },
+    "152967": {
+        "country_code": "VN",
+        "asn": "152967",
+        "description": "A2T TECHNOLOGY JOINT STOCK COMPANY",
+        "handle": "A2TTECH-VN"
+    },
+    "152968": {
+        "country_code": "VN",
+        "asn": "152968",
+        "description": "LPBank Insurance Joint Stock Corporation",
+        "handle": "LPBANK-BAOHIEM-VN"
+    },
+    "152969": {
+        "country_code": "VN",
+        "asn": "152969",
+        "description": "Kim Ky Nam Digital Technology Solutions Company Limited",
+        "handle": "MAXERA-VN"
+    },
+    "152970": {
+        "country_code": "VN",
+        "asn": "152970",
+        "description": "Hoa Lac Cloud Company Limited",
+        "handle": "HOALACCLOUD-VN"
+    },
+    "152971": {
+        "country_code": "VN",
+        "asn": "152971",
+        "description": "Digital Transformation Center - An Giang Department of Science and Technology",
+        "handle": "DXAG-VN"
+    },
+    "152972": {
+        "country_code": "VN",
+        "asn": "152972",
+        "description": "Technology NewVPS Company Limited",
+        "handle": "NEWVPS-VN"
+    },
+    "152973": {
+        "country_code": "VN",
+        "asn": "152973",
+        "description": "MAY CHU MANG TECHNOLOGY JOINT STOCK COMPANY",
+        "handle": "MAYCHUMANG-VN"
+    },
+    "152974": {
+        "country_code": "VN",
+        "asn": "152974",
+        "description": "AMZ CLOUD COMPANY LIMITED",
+        "handle": "AMZCLOUD-VN"
+    },
+    "152975": {
+        "country_code": "VN",
+        "asn": "152975",
+        "description": "DATAZ TECHNOLOGY COMPANY LIMITED",
+        "handle": "DATAZ-VN"
+    },
+    "152976": {
+        "country_code": "VN",
+        "asn": "152976",
+        "description": "Thanh Loan Fashion Company Limited",
+        "handle": "ONJI-VN"
+    },
+    "152977": {
+        "country_code": "VN",
+        "asn": "152977",
+        "description": "TrumCloud LLC",
+        "handle": "TRUMCLOUDDATA-VN"
+    },
+    "152978": {
+        "country_code": "VN",
+        "asn": "152978",
+        "description": "PHB Digital Technology Solutions Company Limited",
+        "handle": "PHBTECH-VN"
+    },
+    "152979": {
+        "country_code": "VN",
+        "asn": "152979",
+        "description": "Vietservice Technology Company Limited",
+        "handle": "VIETSERVICE-VN"
+    },
+    "152980": {
+        "country_code": "VN",
+        "asn": "152980",
+        "description": "KHANH CHI IDC COMPANY LIMITED",
+        "handle": "KHANHCHIIDC-VN"
+    },
+    "152981": {
+        "country_code": "VN",
+        "asn": "152981",
+        "description": "VNC NIX COMPANY LIMITED",
+        "handle": "VNCNIX-VN"
+    },
+    "152982": {
+        "country_code": "VN",
+        "asn": "152982",
+        "description": "Ho Chi Minh City University of Medicine and Pharmacy Hospital",
+        "handle": "UMCHCMC-VN"
+    },
+    "152983": {
+        "country_code": "VN",
+        "asn": "152983",
+        "description": "Cao Hoang Hai Technology Company Limited",
+        "handle": "HOANGHAI-VN"
+    },
+    "152984": {
+        "country_code": "VN",
+        "asn": "152984",
+        "description": "PVH Technology and Solutions Company Limited",
+        "handle": "PVH-VN"
+    },
+    "152985": {
+        "country_code": "VN",
+        "asn": "152985",
+        "description": "Cloud247 LLC",
+        "handle": "CLOUD247-VN"
+    },
+    "152986": {
+        "country_code": "VN",
+        "asn": "152986",
+        "description": "VPSMMOCLOUD LLC",
+        "handle": "VPSMMOCP-VN"
+    },
+    "152987": {
+        "country_code": "VN",
+        "asn": "152987",
+        "description": "Phan Lien Creative Technology Development Company Limited",
+        "handle": "PHANLIENVPS-VN"
+    },
+    "152988": {
+        "country_code": "VN",
+        "asn": "152988",
+        "description": "TVC Information Technology Company Limited",
+        "handle": "TVC-VN"
+    },
+    "152989": {
+        "country_code": "VN",
+        "asn": "152989",
+        "description": "System 443 Company Limited",
+        "handle": "SYSTEM443-VN"
+    },
+    "152990": {
+        "country_code": "VN",
+        "asn": "152990",
+        "description": "FOXAI TECHNOLOGY JOINT STOCK COMPANY",
+        "handle": "FOXAI-VN"
+    },
+    "152991": {
+        "country_code": "VN",
+        "asn": "152991",
+        "description": "Ngan Doan Cloud Company Limited",
+        "handle": "NGANDOANCLOUD-VN"
+    },
+    "152992": {
+        "country_code": "VN",
+        "asn": "152992",
+        "description": "ONLINE DATA COMPANY LIMITED",
+        "handle": "DATAONLINE-VN"
+    },
+    "152993": {
+        "country_code": "VN",
+        "asn": "152993",
+        "description": "Gemz Land Trading and Service Company Limited",
+        "handle": "PROON-VN"
+    },
+    "152994": {
+        "country_code": "VN",
+        "asn": "152994",
+        "description": "EB Services LLC",
+        "handle": "CRVIT-VN"
+    },
+    "152995": {
+        "country_code": "VN",
+        "asn": "152995",
+        "description": "The Phong Telecommunications Technology Service & Trading Company Limited",
+        "handle": "VTTHEPHONG-VN"
+    },
+    "152996": {
+        "country_code": "VN",
+        "asn": "152996",
+        "description": "Information and Communications Technology Center - Phu Tho Department of Information and Communications",
+        "handle": "PTO-S4T-VN"
+    },
+    "152997": {
+        "country_code": "VN",
+        "asn": "152997",
+        "description": "Nguyen Dinh IDC Company Limited",
+        "handle": "NGUYENDINHIDC-VN"
+    },
+    "152998": {
+        "country_code": "VN",
+        "asn": "152998",
+        "description": "Huong Nam Server Company Limited",
+        "handle": "HUONGNAMSERVER26-VN"
+    },
+    "152999": {
+        "country_code": "VN",
+        "asn": "152999",
+        "description": "Smart IP Company Limited",
+        "handle": "SIP-VN"
+    },
+    "153000": {
+        "country_code": "VN",
+        "asn": "153000",
+        "description": "Thao Tran Beauty Academy Company Limited",
+        "handle": "THAOTRAN-VN"
+    },
+    "153001": {
+        "country_code": "VN",
+        "asn": "153001",
+        "description": "VPS9T Technology Company Limited",
+        "handle": "VPS9THMC-VN"
+    },
+    "153002": {
+        "country_code": "VN",
+        "asn": "153002",
+        "description": "Fastvm Company Limited",
+        "handle": "FASTVM-VN"
+    },
+    "153003": {
+        "country_code": "VN",
+        "asn": "153003",
+        "description": "Digital Shield Technology Company Limited",
+        "handle": "LACHANSO-VN"
+    },
+    "153004": {
+        "country_code": "VN",
+        "asn": "153004",
+        "description": "NH SECURITIES VIETNAM CO. LTD",
+        "handle": "NHSV-VN"
+    },
+    "153005": {
+        "country_code": "VN",
+        "asn": "153005",
+        "description": "PHU THANH CLOUD COMPANY LIMITED",
+        "handle": "PTCLOUD-VN"
+    },
+    "153006": {
+        "country_code": "VN",
+        "asn": "153006",
+        "description": "Thuong Tin Cloud Company Limited",
+        "handle": "THUONGTINCLOUD-VN"
+    },
+    "153007": {
+        "country_code": "VN",
+        "asn": "153007",
+        "description": "Dac Tin VPS Company Limited",
+        "handle": "DACTINCLOUD-VN"
+    },
+    "153008": {
+        "country_code": "VN",
+        "asn": "153008",
+        "description": "NETVN Software Company Limited",
+        "handle": "NETVNSOFT-VN"
+    },
+    "153009": {
+        "country_code": "VN",
+        "asn": "153009",
+        "description": "Phu An IDC Company Limited",
+        "handle": "PHUANIDC-VN"
+    },
+    "153010": {
+        "country_code": "VN",
+        "asn": "153010",
+        "description": "HTCN One Member LLC",
+        "handle": "HTCNCOM-VN"
+    },
+    "153011": {
+        "country_code": "VN",
+        "asn": "153011",
+        "description": "DVDVN Technology Company Limited",
+        "handle": "DVDVN-VN"
+    },
+    "153012": {
+        "country_code": "VN",
+        "asn": "153012",
+        "description": "SERVER VIET NAM CO. LTD",
+        "handle": "MAYCHUVINA-VN"
+    },
+    "153013": {
+        "country_code": "VN",
+        "asn": "153013",
+        "description": "GTSC VIETNAM TECHNOLOGY SERVICES AND COMMERCIAL JOINT STOCK COMPANY",
+        "handle": "GTSC-DC1-VN"
+    },
+    "153014": {
+        "country_code": "VN",
+        "asn": "153014",
+        "description": "Technology Sky Company Limited",
+        "handle": "TSKY-VN"
+    },
+    "153015": {
+        "country_code": "VN",
+        "asn": "153015",
+        "description": "08 Future Cloud Company Limited",
+        "handle": "FUTURECLOUDVN-VN"
+    },
+    "153016": {
+        "country_code": "VN",
+        "asn": "153016",
+        "description": "VN Change Digital Ltd.",
+        "handle": "CHANGEDIGITAL-VN"
+    },
+    "153017": {
+        "country_code": "VN",
+        "asn": "153017",
+        "description": "TIDADIGI COMPANY LIMITED",
+        "handle": "TIDADIGI-VN"
+    },
+    "153018": {
+        "country_code": "VN",
+        "asn": "153018",
+        "description": "COHOTA JOINT STOCK COMPANY",
+        "handle": "COHOTA-VN"
+    },
+    "153019": {
+        "country_code": "VN",
+        "asn": "153019",
+        "description": "T-Star Company Limited",
+        "handle": "TSTAR-VN"
+    },
+    "153020": {
+        "country_code": "VN",
+        "asn": "153020",
+        "description": "Totdata Data and Digital Services Company Limited",
+        "handle": "TOTDATA-VN"
+    },
+    "153021": {
+        "country_code": "VN",
+        "asn": "153021",
+        "description": "VPS VN Company Limitedc",
+        "handle": "VPSTHTH-VN"
+    },
+    "153022": {
+        "country_code": "VN",
+        "asn": "153022",
+        "description": "ADM TECHNOLOGY JOINT STOCK COMPANY",
+        "handle": "ADM-VN"
+    },
+    "153023": {
+        "country_code": "VN",
+        "asn": "153023",
+        "description": "Shopvps Technology Company Limited",
+        "handle": "SHOPVPS-VN"
+    },
+    "153024": {
+        "country_code": "VN",
+        "asn": "153024",
+        "description": "GOLDEN EGG MARKETING COMPANY LIMITED",
+        "handle": "GOLDEN-VN"
+    },
+    "153025": {
+        "country_code": "VN",
+        "asn": "153025",
+        "description": "Nam Son Group Technology and Services Company Limited",
+        "handle": "NAMSONTECH-VN"
+    },
+    "153026": {
+        "country_code": "VN",
+        "asn": "153026",
+        "description": "Techpay Technology and Services Company Limited",
+        "handle": "TECHPAYCO-VN"
+    },
+    "153027": {
+        "country_code": "VN",
+        "asn": "153027",
+        "description": "Sunsight Technology and Tourism Company Limited",
+        "handle": "SUNSIGHT-VN"
+    },
+    "153028": {
+        "country_code": "VN",
+        "asn": "153028",
+        "description": "Hong Lam Consulting Company Limited",
+        "handle": "HONGLAMLAW-VN"
+    },
+    "153029": {
+        "country_code": "VN",
+        "asn": "153029",
+        "description": "Ngan Ha Galaxy Company Limited",
+        "handle": "NGANHAGALAXYVN-VN"
+    },
+    "153030": {
+        "country_code": "VN",
+        "asn": "153030",
+        "description": "Datvps Information Technology Company Limited",
+        "handle": "DATVPS-VN"
+    },
+    "153031": {
+        "country_code": "VN",
+        "asn": "153031",
+        "description": "Huy Hoang Phat Telecommunications Company Limited",
+        "handle": "HUYHOANGPHATVNVN-VN"
+    },
+    "153032": {
+        "country_code": "VN",
+        "asn": "153032",
+        "description": "An Phat Viet Trading and Services Company Limited",
+        "handle": "DOIX-NET-VN"
+    },
+    "153320": {
+        "country_code": "VN",
+        "asn": "153320",
+        "description": "SANDCLOCK SERVICE TRADING COMPANY LIMITED",
+        "handle": "SSTCL-AS-AP"
+    },
+    "153341": {
+        "country_code": "VN",
+        "asn": "153341",
+        "description": "CLOUDERA ASIA COMPANY LIMITED",
+        "handle": "CACL-AS-AP"
+    },
+    "153353": {
+        "country_code": "VN",
+        "asn": "153353",
+        "description": "REAL SOLUTION HOANG GIA LAND",
+        "handle": "RSHGL-AS-AP"
+    },
+    "153380": {
+        "country_code": "VN",
+        "asn": "153380",
+        "description": "ASIA BQT CYBER TECHNOLOGY LLC",
+        "handle": "ABCTL-AS-AP"
+    },
+    "153401": {
+        "country_code": "VN",
+        "asn": "153401",
+        "description": "Huu Dien High Technology Company Limited",
+        "handle": "CAOHUUDIEN-VN"
+    },
+    "153402": {
+        "country_code": "VN",
+        "asn": "153402",
+        "description": "Tuan Linh High Technology Company Limited",
+        "handle": "TUANLINHVNVN-VN"
+    },
+    "153403": {
+        "country_code": "VN",
+        "asn": "153403",
+        "description": "Huy Hoang Electronics and Telecommunications Company Limited",
+        "handle": "NEFONET-VN"
+    },
+    "153404": {
+        "country_code": "VN",
+        "asn": "153404",
+        "description": "Vietnam Physical Server Company Limited",
+        "handle": "VNMCVLVNCLOUD-VN"
+    },
+    "153405": {
+        "country_code": "VN",
+        "asn": "153405",
+        "description": "Hoa My Distribution Technology Company Limited",
+        "handle": "HOAMYLOGIS-VN"
+    },
+    "153406": {
+        "country_code": "VN",
+        "asn": "153406",
+        "description": "Hung Anh JSC Technology Company Limited",
+        "handle": "HUNGANHJSC-VN"
+    },
+    "153407": {
+        "country_code": "VN",
+        "asn": "153407",
+        "description": "Sava Meta Technology Joint Stock Company",
+        "handle": "BAV-VN"
+    },
+    "153408": {
+        "country_code": "VN",
+        "asn": "153408",
+        "description": "Phu Yen Physical Server Company Limited",
+        "handle": "VNMCVLPYCLOUD-VN"
+    },
+    "153409": {
+        "country_code": "VN",
+        "asn": "153409",
+        "description": "VTXK Trading and Services Company Limited",
+        "handle": "VTXKVN-VN"
+    },
+    "153410": {
+        "country_code": "VN",
+        "asn": "153410",
+        "description": "NEXT STEP TECHNOLOGY JOINT STOCK COMPANY",
+        "handle": "NEXTSTEP-VN"
+    },
+    "153411": {
+        "country_code": "VN",
+        "asn": "153411",
+        "description": "VPSDO Company Limited",
+        "handle": "VPSDO-VN"
+    },
+    "153412": {
+        "country_code": "VN",
+        "asn": "153412",
+        "description": "Ibtech Trading & Service Company Limited",
+        "handle": "IBTECH-VN"
+    },
+    "153413": {
+        "country_code": "VN",
+        "asn": "153413",
+        "description": "HT3 VIETNAM TECHNOLOGY INVESTMENT AND DEVELOPMENT JOINT STOCK COMPANY",
+        "handle": "HT3VIETNAM-VN"
+    },
+    "153414": {
+        "country_code": "VN",
+        "asn": "153414",
+        "description": "Top Proxy LLC",
+        "handle": "VNTOPPROXYCLOUD-VN"
+    },
+    "153415": {
+        "country_code": "VN",
+        "asn": "153415",
+        "description": "Hoang Dieu Physical Server Company Limited",
+        "handle": "HOANGDIEUVNCLOUD-VN"
+    },
+    "153416": {
+        "country_code": "VN",
+        "asn": "153416",
+        "description": "Hoang Dieu Cloud Computing Company Limited",
+        "handle": "DTDMVNCLOUD-VN"
+    },
+    "153417": {
+        "country_code": "VN",
+        "asn": "153417",
+        "description": "Zenhub Trading & Service Company Limited",
+        "handle": "ZENHUB-VN"
+    },
+    "153418": {
+        "country_code": "VN",
+        "asn": "153418",
+        "description": "Dgon Technology and Solution Company Limited",
+        "handle": "DGON-VN"
+    },
+    "153419": {
+        "country_code": "VN",
+        "asn": "153419",
+        "description": "Thang Manh TTN Company Limited",
+        "handle": "THANGMANHTTN-VN"
+    },
+    "153420": {
+        "country_code": "VN",
+        "asn": "153420",
+        "description": "Nguyen Gia IDC Company Limited",
+        "handle": "NGUYENGIAIDCVN-VN"
+    },
+    "153421": {
+        "country_code": "VN",
+        "asn": "153421",
+        "description": "REALTECH TECHNOLOGY COMPANY LIMITED",
+        "handle": "REALTECHNETVN-VN"
+    },
+    "153422": {
+        "country_code": "VN",
+        "asn": "153422",
+        "description": "HND Green Agricultural Technology Company Limited",
+        "handle": "AGRIHND-VN"
+    },
+    "153423": {
+        "country_code": "VN",
+        "asn": "153423",
+        "description": "HDATA COMPANY LIMITED",
+        "handle": "HDATA-VN"
+    },
+    "153424": {
+        "country_code": "VN",
+        "asn": "153424",
+        "description": "Nam Dien Technology Company Limited",
+        "handle": "NAMDIEN-VN"
+    },
+    "153425": {
+        "country_code": "VN",
+        "asn": "153425",
+        "description": "Vu Gia Technology and Services Company Limited",
+        "handle": "VUGIATECHVN-VN"
+    },
+    "153426": {
+        "country_code": "VN",
+        "asn": "153426",
+        "description": "HT Proxy Company Limited",
+        "handle": "PROXYHTCLOUD-VN"
+    },
+    "153427": {
+        "country_code": "VN",
+        "asn": "153427",
+        "description": "KDATA Company Limited",
+        "handle": "KDATA-VN"
+    },
+    "153428": {
+        "country_code": "VN",
+        "asn": "153428",
+        "description": "TTP GROUP TECHNOLOGY TELECOMMUNICATION JOINT STOCK COMPANY",
+        "handle": "TTPTELECOM-VN"
+    },
+    "153429": {
+        "country_code": "VN",
+        "asn": "153429",
+        "description": "Le Quang Telecommunications Technology Company Limited",
+        "handle": "BLATE-VN"
+    },
+    "153430": {
+        "country_code": "VN",
+        "asn": "153430",
+        "description": "Quang Kim Digital Technology Investment and Development Company Limited",
+        "handle": "TELEUPNET-VN"
+    },
+    "153431": {
+        "country_code": "VN",
+        "asn": "153431",
+        "description": "LTL Digital Technology Company Limited",
+        "handle": "LTL-VN"
+    },
+    "153433": {
+        "country_code": "VN",
+        "asn": "153433",
+        "description": "IPA TECHNOLOGY SOLUTION JOINT STOCK COMPANY",
+        "handle": "IPA-SOLUTIONS-VN"
+    },
+    "153434": {
+        "country_code": "VN",
+        "asn": "153434",
+        "description": "S GLOBAL TECHNOLOGY JOINT STOCK COMPANY",
+        "handle": "BAV-VN"
+    },
+    "153435": {
+        "country_code": "VN",
+        "asn": "153435",
+        "description": "Center for Information Technology and Cyber Security Monitoring",
+        "handle": "KHG-VN"
+    },
+    "153436": {
+        "country_code": "VN",
+        "asn": "153436",
+        "description": "Future AI LLC",
+        "handle": "AITUONGLAI-VN"
+    },
+    "153438": {
+        "country_code": "VN",
+        "asn": "153438",
+        "description": "PHUONG NGA MY SUPPLY COMPANY LIMITED",
+        "handle": "PNM-VN"
+    },
+    "153439": {
+        "country_code": "VN",
+        "asn": "153439",
+        "description": "VPS4U TECHNOLOGY COMPANY LIMITED",
+        "handle": "VPS4U-VN"
+    },
+    "153440": {
+        "country_code": "VN",
+        "asn": "153440",
+        "description": "BSTECH COMPANY LIMITED",
+        "handle": "BSTECHCLOUD-VN"
+    },
+    "153441": {
+        "country_code": "VN",
+        "asn": "153441",
+        "description": "LNS Technology Company Limited",
+        "handle": "LNS-VN"
+    },
+    "153442": {
+        "country_code": "VN",
+        "asn": "153442",
+        "description": "TYU Website Management Company Limited",
+        "handle": "CNCTYU-VN"
+    },
+    "153443": {
+        "country_code": "VN",
+        "asn": "153443",
+        "description": "VPSRE.NET LLC",
+        "handle": "VPSRE-NET-VN"
+    },
+    "153444": {
+        "country_code": "VN",
+        "asn": "153444",
+        "description": "H2 Service Consulting Company Limited",
+        "handle": "DVH2VN-VN"
+    },
+    "153445": {
+        "country_code": "VN",
+        "asn": "153445",
+        "description": "Somi 168 Group International Joint Stock Company",
+        "handle": "QTSOMIVN-VN"
+    },
+    "153446": {
+        "country_code": "VN",
+        "asn": "153446",
+        "description": "VNONE Vietnam Company Limited",
+        "handle": "VNONE-VN"
+    },
+    "153447": {
+        "country_code": "VN",
+        "asn": "153447",
+        "description": "360 Technology and Services Company Limited",
+        "handle": "CLOUD360-VN"
+    },
+    "153448": {
+        "country_code": "VN",
+        "asn": "153448",
+        "description": "Nam Son Development Joint Stock Company",
+        "handle": "NAMSONVN-VN"
+    },
+    "153449": {
+        "country_code": "VN",
+        "asn": "153449",
+        "description": "Golden Key Solutions LLC",
+        "handle": "GDKEY-VN"
+    },
+    "153450": {
+        "country_code": "VN",
+        "asn": "153450",
+        "description": "STEP TECHNOLOGY INVESTMENT JOINT STOCK COMPANY",
+        "handle": "CNSTEP-VN"
+    },
+    "153498": {
+        "country_code": "VN",
+        "asn": "153498",
+        "description": "Tuyet San Trading Company Limited",
+        "handle": "TUYETSAN-VN"
+    },
+    "153499": {
+        "country_code": "VN",
+        "asn": "153499",
+        "description": "CLOUDX JOINT STOCK COMPANY",
+        "handle": "CTCLOUDX-VN"
+    },
+    "153500": {
+        "country_code": "VN",
+        "asn": "153500",
+        "description": "1School Education Technology and Solutions Company Limited",
+        "handle": "ONESCHOOL-VN"
+    },
+    "153501": {
+        "country_code": "VN",
+        "asn": "153501",
+        "description": "Pal Vietnam Technology and Trading Joint Stock Company",
+        "handle": "PALVIETNAM-VN"
+    },
+    "153502": {
+        "country_code": "VN",
+        "asn": "153502",
+        "description": "Specialized Web Company Limited",
+        "handle": "WEBCHUYEN-VN"
+    },
+    "153503": {
+        "country_code": "VN",
+        "asn": "153503",
+        "description": "MK Technology Trading Company Limited",
+        "handle": "MK-VN"
+    },
+    "153504": {
+        "country_code": "VN",
+        "asn": "153504",
+        "description": "HTH Technology Development Company Limited",
+        "handle": "HTH-VN"
+    },
+    "153505": {
+        "country_code": "VN",
+        "asn": "153505",
+        "description": "DichvuDark LLC",
+        "handle": "DICHVUDARK-VN"
+    },
+    "153506": {
+        "country_code": "VN",
+        "asn": "153506",
+        "description": "Pow Pow LLC",
+        "handle": "POWCLOUD-VN"
+    },
+    "153507": {
+        "country_code": "VN",
+        "asn": "153507",
+        "description": "VPBANK SECURITIES JSC",
+        "handle": "VPBANKS-VN"
+    },
+    "153532": {
+        "country_code": "VN",
+        "asn": "153532",
+        "description": "Trung Tin Iron and Aluminum Company Limited",
+        "handle": "TRUNGTINVPS-VN"
+    },
+    "153540": {
+        "country_code": "VN",
+        "asn": "153540",
+        "description": "PITC Investment Joint Stock Company",
+        "handle": "PITC-VN"
+    },
+    "153585": {
+        "country_code": "VN",
+        "asn": "153585",
+        "description": "Gold Key Real Estate Investment Company Limited",
+        "handle": "COMTER-VN"
+    },
+    "153586": {
+        "country_code": "VN",
+        "asn": "153586",
+        "description": "BNIX CLOUD COMPANY LIMITED",
+        "handle": "BXCLOUD-VN"
+    },
+    "153591": {
+        "country_code": "VN",
+        "asn": "153591",
+        "description": "LEEON TECHNOLOGY COMPANY LIMITED",
+        "handle": "SKYX-VN"
+    },
+    "153592": {
+        "country_code": "VN",
+        "asn": "153592",
+        "description": "TQT CLOUD SERVER ONE MEMBER COMPANY LIMITED",
+        "handle": "TQT-VN"
+    },
+    "153616": {
+        "country_code": "VN",
+        "asn": "153616",
+        "description": "Technology Bluesky Company Limited",
+        "handle": "BLUESKY-VN"
+    },
+    "153617": {
+        "country_code": "VN",
+        "asn": "153617",
+        "description": "MANH BANG ONE MEMBER COMPANY LIMITED",
+        "handle": "MBC-VN"
+    },
+    "153635": {
+        "country_code": "VN",
+        "asn": "153635",
+        "description": "URANUS TECHNOLOGY COMPANY LIMITED",
+        "handle": "URANUS-VN"
+    },
+    "153647": {
+        "country_code": "VN",
+        "asn": "153647",
+        "description": "Viet Homes Furniture Manufacturing Company Limited",
+        "handle": "OSERVER-VN"
+    },
+    "153649": {
+        "country_code": "VN",
+        "asn": "153649",
+        "description": "Nguyenphonglong One Member Company Limited",
+        "handle": "NPL-VN"
+    },
+    "153650": {
+        "country_code": "VN",
+        "asn": "153650",
+        "description": "MEGAMAX VIET NAM TECHNOLOGY JOINT STOCK COMPANY",
+        "handle": "MEGAMAX-VN"
+    },
+    "153651": {
+        "country_code": "VN",
+        "asn": "153651",
+        "description": "QPPF Company Limited",
+        "handle": "QPPF-VN"
+    },
+    "153652": {
+        "country_code": "VN",
+        "asn": "153652",
+        "description": "Duyen Tran Digital Technology Consulting Company Limited",
+        "handle": "CNSDTND-VN"
+    },
+    "153653": {
+        "country_code": "VN",
+        "asn": "153653",
+        "description": "TVQ Technology Trading & Services Company Limited",
+        "handle": "CNTVQND-VN"
+    },
+    "153683": {
+        "country_code": "VN",
+        "asn": "153683",
+        "description": "VIETNAM V2 INFORMATION SECURE JOINT STOCK COMPANY",
+        "handle": "V2SECURE-VN"
+    },
+    "153713": {
+        "country_code": "VN",
+        "asn": "153713",
+        "description": "AGRIBANK SECURITIES CORPORATION",
+        "handle": "AGRISECO-VN"
+    },
+    "153732": {
+        "country_code": "VN",
+        "asn": "153732",
+        "description": "Ho Chi Minh National Academy of Politics",
+        "handle": "HCMA-VN"
+    },
+    "153741": {
+        "country_code": "VN",
+        "asn": "153741",
+        "description": "Lewu Tech Co. Ltd.",
+        "handle": "LEWUTECH-VN"
+    },
+    "153743": {
+        "country_code": "VN",
+        "asn": "153743",
+        "description": "Anh Dao Phuc Technology Company Limited",
+        "handle": "ADPTECH-VN"
+    },
+    "153750": {
+        "country_code": "VN",
+        "asn": "153750",
+        "description": "GZ CORE COMPANY LIMITED",
+        "handle": "GZCOREVN-VN"
+    },
+    "153752": {
+        "country_code": "VN",
+        "asn": "153752",
+        "description": "Le Gia Technology Company Limited",
+        "handle": "LEGIA-VN"
+    },
+    "153762": {
+        "country_code": "VN",
+        "asn": "153762",
+        "description": "TIEN DUNG INVESTMENT AND COMMERCE SERVICE COMPANY LIMITED",
+        "handle": "TMDVDTTIENDUNG-VN"
+    },
+    "153763": {
+        "country_code": "VN",
+        "asn": "153763",
+        "description": "DATA 360 TECHNOLOGY JOINT STOCK COMPANY",
+        "handle": "CONGNGHEDATA360-VN"
+    },
+    "153780": {
+        "country_code": "VN",
+        "asn": "153780",
+        "description": "PAYX Payment Company Limited",
+        "handle": "PAYX-VN"
+    },
+    "153808": {
+        "country_code": "VN",
+        "asn": "153808",
+        "description": "VNG CLOUD COMPANY LIMITED",
+        "handle": "VNGCLOUD-VN"
+    },
+    "153828": {
+        "country_code": "VN",
+        "asn": "153828",
+        "description": "DTH CLOUD COMPUTING TECHNOLOGY COMPANY LIMITED",
+        "handle": "DTHCLOUD-VN"
+    },
+    "153829": {
+        "country_code": "VN",
+        "asn": "153829",
+        "description": "Le Hong Technology Company Limited",
+        "handle": "LEHONGCLOUD-VN"
+    },
+    "153830": {
+        "country_code": "VN",
+        "asn": "153830",
+        "description": "Upnet Technology Solutions Company Limited",
+        "handle": "UPNET-VN"
+    },
+    "153831": {
+        "country_code": "VN",
+        "asn": "153831",
+        "description": "Bao Khanh ICT Company Limited",
+        "handle": "BAOKHANHICT-VN"
+    },
+    "153859": {
+        "country_code": "VN",
+        "asn": "153859",
+        "description": "BIGSERVER COMPANY LIMITED",
+        "handle": "BIGSERVER-VN"
+    },
+    "153860": {
+        "country_code": "VN",
+        "asn": "153860",
+        "description": "Onepay Online Service and Commercial Joint Stock Company",
+        "handle": "ONEPAY-VN"
+    },
+    "153872": {
+        "country_code": "VN",
+        "asn": "153872",
+        "description": "AZVPS TECHNOLOGY COMPANY LIMITED",
+        "handle": "AZVPS-VN"
+    },
+    "153873": {
+        "country_code": "VN",
+        "asn": "153873",
+        "description": "Comi Website Design Company Limited",
+        "handle": "COMI-VN"
+    },
+    "153941": {
+        "country_code": "VN",
+        "asn": "153941",
+        "description": "ESECURE SOLUTION LIMITED COMPANY",
+        "handle": "ESSNET-VN"
+    },
+    "153958": {
+        "country_code": "VN",
+        "asn": "153958",
+        "description": "WEB SERVER COMPANY LIMITED",
+        "handle": "WEBSERVER-VN"
+    },
+    "153959": {
+        "country_code": "VN",
+        "asn": "153959",
+        "description": "VMON Service Technology Company Limited",
+        "handle": "VMON-VN"
+    },
+    "153976": {
+        "country_code": "VN",
+        "asn": "153976",
+        "description": "Le Vu Technology Infrastructure Services Company Limited",
+        "handle": "LEVUCLOUD-VN"
+    },
+    "153982": {
+        "country_code": "VN",
+        "asn": "153982",
+        "description": "Huong Ly Technology Company Limited",
+        "handle": "HUONGLYCLOUD-VN"
+    },
+    "153983": {
+        "country_code": "VN",
+        "asn": "153983",
+        "description": "HIEUVPS TECHNOLOGY COMPANY LIMITED",
+        "handle": "HIEUVPSCLOUD-VN"
+    },
+    "154003": {
+        "country_code": "VN",
+        "asn": "154003",
+        "description": "NOBIDEV COMPANY LIMITED",
+        "handle": "NOBIDEV-VN"
+    },
+    "154004": {
+        "country_code": "VN",
+        "asn": "154004",
+        "description": "Olahost Technology Co. Ltd.",
+        "handle": "OLAHOST-VN"
+    },
+    "154016": {
+        "country_code": "VN",
+        "asn": "154016",
+        "description": "AI APPLICATION SOFTWARE COMPANY LIMITED",
+        "handle": "PHANMEMUNGDUNGAI-VN"
+    },
+    "154017": {
+        "country_code": "VN",
+        "asn": "154017",
+        "description": "AI WEBSITE DESIGN SERVICES COMPANY LIMITED",
+        "handle": "TKWEBSITEAI-VN"
+    },
+    "154042": {
+        "country_code": "VN",
+        "asn": "154042",
+        "description": "NEXTZEN TECHNOLOGY JOIN STOCK COMPANY",
+        "handle": "NEXTZEN-IDC-VN"
+    },
+    "154053": {
+        "country_code": "VN",
+        "asn": "154053",
+        "description": "Hanoi National University of Education",
+        "handle": "HNUE-VN"
+    },
+    "154070": {
+        "country_code": "VN",
+        "asn": "154070",
+        "description": "TOTBRAIN COMPANY LIMITED",
+        "handle": "TOTBRAIN-VN"
+    },
+    "154082": {
+        "country_code": "VN",
+        "asn": "154082",
+        "description": "Cloud247 Tech Co. Ltd.",
+        "handle": "TECH247-VN"
+    },
+    "154091": {
+        "country_code": "VN",
+        "asn": "154091",
+        "description": "SAVING SOLUTION TECHNOLOGY CORPORATION",
+        "handle": "SASOLTECH-VN"
+    },
+    "154105": {
+        "country_code": "VN",
+        "asn": "154105",
+        "description": "ZALO PLATFORMS COMPANY LIMITED",
+        "handle": "ZALOPLATFORMS-VN"
+    },
+    "154106": {
+        "country_code": "VN",
+        "asn": "154106",
+        "description": "VNG ONLINE COMPANY LIMITED",
+        "handle": "VNGONLINE-VN"
+    },
+    "154134": {
+        "country_code": "VN",
+        "asn": "154134",
+        "description": "COMMERCIAL MOBILE INFORMATION TECHNOLOGY JOINT STOCK COMPANY",
+        "handle": "CONEK-VN"
+    },
+    "154135": {
+        "country_code": "VN",
+        "asn": "154135",
+        "description": "Contabo Company Limited",
+        "handle": "CONTABO-VN"
+    },
+    "154144": {
+        "country_code": "VN",
+        "asn": "154144",
+        "description": "MOBIFONE DIGITAL PAYMENT JOINT STOCK COMPANY",
+        "handle": "MDPC-VN"
+    },
+    "154247": {
+        "country_code": "VN",
+        "asn": "154247",
+        "description": "MCO HA NOI TECHNOLOGY COMPANY LIMITED",
+        "handle": "MCO-VN"
+    },
+    "154339": {
+        "country_code": "VN",
+        "asn": "154339",
+        "description": "Zyn Data Technology Solutions Co. Ltd.",
+        "handle": "ZYNDATA-VN"
+    },
+    "154350": {
+        "country_code": "VN",
+        "asn": "154350",
+        "description": "ATZ CORP JOINT STOCK COMPANY",
+        "handle": "ATZCORP-VN"
+    },
+    "154364": {
+        "country_code": "VN",
+        "asn": "154364",
+        "description": "DCConnect Vietnam Company Limited",
+        "handle": "DVCL-AS-AP"
+    },
+    "154388": {
+        "country_code": "VN",
+        "asn": "154388",
+        "description": "ETC Technology System Joint Stock Company",
+        "handle": "ETCJSC-VN"
+    },
+    "154389": {
+        "country_code": "VN",
+        "asn": "154389",
+        "description": "N Group Investment Joint Stock Company",
+        "handle": "NGROUP-VN"
+    },
+    "154406": {
+        "country_code": "VN",
+        "asn": "154406",
+        "description": "VIETNAM MARITIME COMMUNICATION AND ELECTRONICS SINGLE-MEMBER LIMITED LIABILITY COMPANY",
+        "handle": "VISHIPEL-VN"
+    },
+    "154431": {
+        "country_code": "VN",
+        "asn": "154431",
+        "description": "TICK PLATFORM JOINT STOCK COMPANY",
+        "handle": "TICK-VN"
+    },
+    "154460": {
+        "country_code": "VN",
+        "asn": "154460",
+        "description": "DHD TECHNOLOGY JOINT STOCK COMPANY",
+        "handle": "DHD-VN"
+    },
+    "154491": {
+        "country_code": "VN",
+        "asn": "154491",
+        "description": "NETCORE COMPANY LIMITED",
+        "handle": "NETCORE-VN"
+    },
+    "200250": {
+        "country_code": "VN",
+        "asn": "200250",
+        "description": "Hoang Phi Hai",
+        "handle": "HOANG-PHI-HAI"
+    },
+    "202602": {
+        "country_code": "VN",
+        "asn": "202602",
+        "description": "Greencloud LLC",
+        "handle": "GREENCLOUD"
+    },
+    "205927": {
+        "country_code": "VN",
+        "asn": "205927",
+        "description": "HA VAN HOANG",
+        "handle": "PROXY-HUB"
+    },
+    "206098": {
+        "country_code": "VN",
+        "asn": "206098",
+        "description": "Minh Duc Vo",
+        "handle": "CC1-ROSE-NET"
+    },
+    "206586": {
+        "country_code": "VN",
+        "asn": "206586",
+        "description": "NobiDev Company Limited",
+        "handle": "NOBIDEV"
+    },
+    "209988": {
+        "country_code": "VN",
+        "asn": "209988",
+        "description": "Thi Huyen Tran",
+        "handle": "EVERLIFE-NET"
+    },
+    "211017": {
+        "country_code": "VN",
+        "asn": "211017",
+        "description": "LAM ANH TRAN",
+        "handle": "LAT-AS"
+    },
+    "213443": {
+        "country_code": "VN",
+        "asn": "213443",
+        "description": "Anh Do",
+        "handle": "ANHDO"
+    },
+    "398016": {
+        "country_code": "VN",
+        "asn": "398016",
+        "description": "OSERVER LLC",
+        "handle": "OSERVER-NET"
+    },
+    "398047": {
+        "country_code": "VN",
+        "asn": "398047",
+        "description": "TELE UP LLC",
+        "handle": "TELEUP-AS-01"
+    },
+    "401580": {
+        "country_code": "VN",
+        "asn": "401580",
+        "description": "Technology Sherpas LLC",
+        "handle": "SHERPAS"
+    },
+    "401825": {
+        "country_code": "VN",
+        "asn": "401825",
+        "description": "LOCATION POWELL LLC",
+        "handle": "LPHOST"
+    }
+}

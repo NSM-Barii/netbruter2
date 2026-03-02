@@ -1,0 +1,206 @@
+{
+    "18922": {
+        "country_code": "ZW",
+        "asn": "18922",
+        "description": "AFRICA ONLINE ZIMBABWE",
+        "handle": "AFOL-ZW-AS-2"
+    },
+    "27576": {
+        "country_code": "ZW",
+        "asn": "27576",
+        "description": "AFRICA ONLINE ZIMBABWE",
+        "handle": "AFOL-ZW-NET"
+    },
+    "31856": {
+        "country_code": "ZW",
+        "asn": "31856",
+        "description": "YoAfrica (Pvt) Ltd",
+        "handle": "CABS"
+    },
+    "36986": {
+        "country_code": "ZW",
+        "asn": "36986",
+        "description": "Africom Pvt Ltd",
+        "handle": "AINET"
+    },
+    "37024": {
+        "country_code": "ZW",
+        "asn": "37024",
+        "description": "YoAfrica (Pvt) Ltd",
+        "handle": "YOPROV"
+    },
+    "37123": {
+        "country_code": "ZW",
+        "asn": "37123",
+        "description": "Telecontract Pvt Ltd",
+        "handle": "TELCO-ZW"
+    },
+    "37183": {
+        "country_code": "ZW",
+        "asn": "37183",
+        "description": "Utande Internet Services (Pvt) Ltd",
+        "handle": "UTANDE"
+    },
+    "37184": {
+        "country_code": "ZW",
+        "asn": "37184",
+        "description": "Powertel Communications",
+        "handle": "POWERTEL"
+    },
+    "37189": {
+        "country_code": "ZW",
+        "asn": "37189",
+        "description": "YoAfrica (Pvt) Ltd",
+        "handle": "YOAFRICA3"
+    },
+    "37204": {
+        "country_code": "ZW",
+        "asn": "37204",
+        "description": "Telone PVT Ltd",
+        "handle": "TELONE"
+    },
+    "37329": {
+        "country_code": "ZW",
+        "asn": "37329",
+        "description": "Frampol Investments",
+        "handle": "FRAMPOL"
+    },
+    "37332": {
+        "country_code": "ZW",
+        "asn": "37332",
+        "description": "Zimbabwe Online",
+        "handle": "ZOL"
+    },
+    "37344": {
+        "country_code": "ZW",
+        "asn": "37344",
+        "description": "ZIMBABWE OPEN UNIVERSITY",
+        "handle": "ZOU"
+    },
+    "37355": {
+        "country_code": "ZW",
+        "asn": "37355",
+        "description": "Zimbabwe Internet Exchange",
+        "handle": "ZINX"
+    },
+    "37391": {
+        "country_code": "ZW",
+        "asn": "37391",
+        "description": "Esmalo Enterprises",
+        "handle": "ESMALO"
+    },
+    "37485": {
+        "country_code": "ZW",
+        "asn": "37485",
+        "description": "Data Control and Systems",
+        "handle": "LIQUID-ZW"
+    },
+    "37568": {
+        "country_code": "ZW",
+        "asn": "37568",
+        "description": "National University of Science and Technology",
+        "handle": "NUOS-ASN"
+    },
+    "207184": {
+        "country_code": "ZW",
+        "asn": "207184",
+        "description": "TELCHAK GOLD VENTURES (PRIVATE) LIMITED",
+        "handle": "TELCHAK-AS"
+    },
+    "327770": {
+        "country_code": "ZW",
+        "asn": "327770",
+        "description": "Telecel Zimbabwe",
+        "handle": "TELECEL"
+    },
+    "327863": {
+        "country_code": "ZW",
+        "asn": "327863",
+        "description": "University of Zimbabwe",
+        "handle": "UNIVERSITY-OF-ZIMBABWE"
+    },
+    "327971": {
+        "country_code": "ZW",
+        "asn": "327971",
+        "description": "FBC Holdings",
+        "handle": "FBC-HOLDINGS"
+    },
+    "328088": {
+        "country_code": "ZW",
+        "asn": "328088",
+        "description": "NetOne Cellular (Private) Limited",
+        "handle": "NETONE-CELLULAR-AS"
+    },
+    "328230": {
+        "country_code": "ZW",
+        "asn": "328230",
+        "description": "Hammer and Tongues Africa Holdings (Private) Limited",
+        "handle": "HAMMER-AND-TONGUES-AS"
+    },
+    "328235": {
+        "country_code": "ZW",
+        "asn": "328235",
+        "description": "Zimbabwe Internet Exchange",
+        "handle": "ZINX-MGMT"
+    },
+    "328269": {
+        "country_code": "ZW",
+        "asn": "328269",
+        "description": "IT Anywhere (Private) Limited",
+        "handle": "IT-ANYWHERE-AS"
+    },
+    "328291": {
+        "country_code": "ZW",
+        "asn": "328291",
+        "description": "Veritran (Private) Limited",
+        "handle": "VERITRAN-AS"
+    },
+    "329006": {
+        "country_code": "ZW",
+        "asn": "329006",
+        "description": "DFA Zimbabwe (Private) Limited",
+        "handle": "DZL1-AS"
+    },
+    "329232": {
+        "country_code": "ZW",
+        "asn": "329232",
+        "description": "Women's University in Africa",
+        "handle": "WOMEN-S-UNIVERSITY-AS"
+    },
+    "329271": {
+        "country_code": "ZW",
+        "asn": "329271",
+        "description": "Intramech Enterprises (Private) Limited",
+        "handle": "IEL2-AS"
+    },
+    "329376": {
+        "country_code": "ZW",
+        "asn": "329376",
+        "description": "Zimbabwe Research & Education Network",
+        "handle": "ZIMBABWE-RESEARCH-AND-EDUCATION-NETWORK"
+    },
+    "329425": {
+        "country_code": "ZW",
+        "asn": "329425",
+        "description": "Tagtel Communications (Pvt) Ltd",
+        "handle": "TAGTEL-COMMUNICATIONS"
+    },
+    "329540": {
+        "country_code": "ZW",
+        "asn": "329540",
+        "description": "African Banking Corporation of Zimbabwe Limited",
+        "handle": "AFRICAN-BANKING-CORPORATION-ZIMBABWE"
+    },
+    "329638": {
+        "country_code": "ZW",
+        "asn": "329638",
+        "description": "Bindura University of Science Education",
+        "handle": "BINDURA-UNIVERSITY-OF-SCIENCE-EDUCATION"
+    },
+    "329699": {
+        "country_code": "ZW",
+        "asn": "329699",
+        "description": "Fibrehood Private Limited",
+        "handle": "FIBREHOOD-PRIVATE"
+    }
+}

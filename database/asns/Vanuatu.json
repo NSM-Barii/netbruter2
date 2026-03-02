@@ -1,0 +1,86 @@
+{
+    "9249": {
+        "country_code": "VU",
+        "asn": "9249",
+        "description": "Telecom Vanuatu Limited",
+        "handle": "VUTELECOM-AS01-VU-AP"
+    },
+    "23959": {
+        "country_code": "VU",
+        "asn": "23959",
+        "description": "Owl Limited",
+        "handle": "OWL-AS-AP"
+    },
+    "43357": {
+        "country_code": "VU",
+        "asn": "43357",
+        "description": "Owl Limited",
+        "handle": "OWL"
+    },
+    "45495": {
+        "country_code": "VU",
+        "asn": "45495",
+        "description": "Interchange Limited",
+        "handle": "INTERCHANGE-AS-VU-AP"
+    },
+    "45935": {
+        "country_code": "VU",
+        "asn": "45935",
+        "description": "Wantok Network Limited",
+        "handle": "WNL-AS-AP"
+    },
+    "131166": {
+        "country_code": "VU",
+        "asn": "131166",
+        "description": "Wantok Network Limited",
+        "handle": "WNL-AS-AP"
+    },
+    "132228": {
+        "country_code": "VU",
+        "asn": "132228",
+        "description": "Vanuatu Government",
+        "handle": "VANGOV-AS-AP"
+    },
+    "132254": {
+        "country_code": "VU",
+        "asn": "132254",
+        "description": "PRIMA DC LIMITED",
+        "handle": "PRIMADC-AS-AP"
+    },
+    "132429": {
+        "country_code": "VU",
+        "asn": "132429",
+        "description": "Digicel Vanuatu Ltd",
+        "handle": "DIGICELVANUATU-VU"
+    },
+    "132548": {
+        "country_code": "VU",
+        "asn": "132548",
+        "description": "SPIM",
+        "handle": "SPIM-AS-AP"
+    },
+    "132797": {
+        "country_code": "VU",
+        "asn": "132797",
+        "description": "Vanuatu Internet Exchange (VIX)",
+        "handle": "VANUATU-AS-AP"
+    },
+    "133383": {
+        "country_code": "VU",
+        "asn": "133383",
+        "description": "Vanuatu Government",
+        "handle": "VANGOV-AS-AP"
+    },
+    "136949": {
+        "country_code": "VU",
+        "asn": "136949",
+        "description": "Engineering Business Services Limited",
+        "handle": "EBS-AS-AP"
+    },
+    "136996": {
+        "country_code": "VU",
+        "asn": "136996",
+        "description": "Pacific Networks",
+        "handle": "PACIFICNETWORKS-AS-AP"
+    }
+}

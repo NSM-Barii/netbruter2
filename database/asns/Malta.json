@@ -1,0 +1,308 @@
+{
+    "5532": {
+        "country_code": "MT",
+        "asn": "5532",
+        "description": "GO p.l.c.",
+        "handle": "TERRANETMALTA"
+    },
+    "8889": {
+        "country_code": "MT",
+        "asn": "8889",
+        "description": "GO p.l.c.",
+        "handle": "INNOVATE-AS"
+    },
+    "12046": {
+        "country_code": "MT",
+        "asn": "12046",
+        "description": "Malta Internet Foundation",
+        "handle": "ASN-CSC-UOM"
+    },
+    "12709": {
+        "country_code": "MT",
+        "asn": "12709",
+        "description": "Melita Limited",
+        "handle": "MELITACABLE"
+    },
+    "15735": {
+        "country_code": "MT",
+        "asn": "15735",
+        "description": "GO p.l.c.",
+        "handle": "DATASTREAM-NET"
+    },
+    "15892": {
+        "country_code": "MT",
+        "asn": "15892",
+        "description": "Malta Information Technology Agency (MITA)",
+        "handle": "MITTS-NET"
+    },
+    "20521": {
+        "country_code": "MT",
+        "asn": "20521",
+        "description": "Bellnet Limited",
+        "handle": "ASN-BELLNET"
+    },
+    "28763": {
+        "country_code": "MT",
+        "asn": "28763",
+        "description": "Nobel Group Limited",
+        "handle": "NOBEL"
+    },
+    "28776": {
+        "country_code": "MT",
+        "asn": "28776",
+        "description": "ISV TECH LIMITED",
+        "handle": "SOFTSERVE-AS"
+    },
+    "29387": {
+        "country_code": "MT",
+        "asn": "29387",
+        "description": "GO p.l.c.",
+        "handle": "EUROWEBMALTA"
+    },
+    "29480": {
+        "country_code": "MT",
+        "asn": "29480",
+        "description": "CC NETWORK LIMITED",
+        "handle": "ASN-CCN"
+    },
+    "33874": {
+        "country_code": "MT",
+        "asn": "33874",
+        "description": "Epic Communications Limited",
+        "handle": "VFM-AS"
+    },
+    "34410": {
+        "country_code": "MT",
+        "asn": "34410",
+        "description": "Vanilla Telecoms Ltd.",
+        "handle": "VANILLA-TELECOMS-LTD-MALTA-AS"
+    },
+    "34558": {
+        "country_code": "MT",
+        "asn": "34558",
+        "description": "Melita Limited",
+        "handle": "TELEMAIL"
+    },
+    "35356": {
+        "country_code": "MT",
+        "asn": "35356",
+        "description": "GO p.l.c.",
+        "handle": "MT-GOMOBILE-AS"
+    },
+    "42108": {
+        "country_code": "MT",
+        "asn": "42108",
+        "description": "Melita Limited",
+        "handle": "SIS-AS"
+    },
+    "43439": {
+        "country_code": "MT",
+        "asn": "43439",
+        "description": "Relax Gaming Ltd",
+        "handle": "RELAXGAMING"
+    },
+    "43916": {
+        "country_code": "MT",
+        "asn": "43916",
+        "description": "Interwetten Gaming Limited",
+        "handle": "INTERWETTEN-AT-AS"
+    },
+    "47171": {
+        "country_code": "MT",
+        "asn": "47171",
+        "description": "Kindred IP Limited",
+        "handle": "UNIBET-AS"
+    },
+    "51166": {
+        "country_code": "MT",
+        "asn": "51166",
+        "description": "Ixaris Systems (Malta) Limited",
+        "handle": "IXARIS-MT-AS"
+    },
+    "51840": {
+        "country_code": "MT",
+        "asn": "51840",
+        "description": "CSL Data Centre Services Limited",
+        "handle": "CSL-AS"
+    },
+    "56805": {
+        "country_code": "MT",
+        "asn": "56805",
+        "description": "Global Technology & Sports Ltd",
+        "handle": "KAMBI"
+    },
+    "57150": {
+        "country_code": "MT",
+        "asn": "57150",
+        "description": "Transactium Ltd.",
+        "handle": "TRANSACTIUM"
+    },
+    "57322": {
+        "country_code": "MT",
+        "asn": "57322",
+        "description": "Nobel Group Limited",
+        "handle": "RO-YOUWOWME"
+    },
+    "57435": {
+        "country_code": "MT",
+        "asn": "57435",
+        "description": "APS Bank P.L.C.",
+        "handle": "APS-AS"
+    },
+    "60765": {
+        "country_code": "MT",
+        "asn": "60765",
+        "description": "ASPIDER SOLUTIONS INTERNATIONAL HOLDINGS LIMITED",
+        "handle": "NEXTGENINNO"
+    },
+    "61355": {
+        "country_code": "MT",
+        "asn": "61355",
+        "description": "Odeon Tourism International Malta Limited",
+        "handle": "ODEONTOURS-AS"
+    },
+    "62070": {
+        "country_code": "MT",
+        "asn": "62070",
+        "description": "Odeon Tourism International Malta Limited",
+        "handle": "ODEONTOURS-AS"
+    },
+    "133409": {
+        "country_code": "MT",
+        "asn": "133409",
+        "description": "Kindred IP Limited",
+        "handle": "KINDREDIPLIMITED-AS-AP"
+    },
+    "196640": {
+        "country_code": "MT",
+        "asn": "196640",
+        "description": "ASPIDER SOLUTIONS INTERNATIONAL HOLDINGS LIMITED",
+        "handle": "ASPIDER"
+    },
+    "197103": {
+        "country_code": "MT",
+        "asn": "197103",
+        "description": "Ixaris Systems (Malta) Limited",
+        "handle": "IXARIS-UK-AS"
+    },
+    "200127": {
+        "country_code": "MT",
+        "asn": "200127",
+        "description": "Smart IP (SIP) Limited",
+        "handle": "SIP"
+    },
+    "200295": {
+        "country_code": "MT",
+        "asn": "200295",
+        "description": "Skoed Limited",
+        "handle": "MT-SKOED"
+    },
+    "200805": {
+        "country_code": "MT",
+        "asn": "200805",
+        "description": "Melita Limited",
+        "handle": "MELITACABLE"
+    },
+    "200932": {
+        "country_code": "MT",
+        "asn": "200932",
+        "description": "bet-at-home.com International Ltd.",
+        "handle": "BAH-AS"
+    },
+    "201821": {
+        "country_code": "MT",
+        "asn": "201821",
+        "description": "BML Group Ltd",
+        "handle": "BMLGROUP-NET"
+    },
+    "203221": {
+        "country_code": "MT",
+        "asn": "203221",
+        "description": "iGamingCloud Limited",
+        "handle": "GAMING-INNOVATION-GROUP"
+    },
+    "204090": {
+        "country_code": "MT",
+        "asn": "204090",
+        "description": "Blackberry Holding LTD",
+        "handle": "MT-PRONETGAMING"
+    },
+    "204732": {
+        "country_code": "MT",
+        "asn": "204732",
+        "description": "Betsson Services Ltd",
+        "handle": "BETSSON-ASN"
+    },
+    "207406": {
+        "country_code": "MT",
+        "asn": "207406",
+        "description": "Messaggio Ltd",
+        "handle": "MESSAGGIO"
+    },
+    "207892": {
+        "country_code": "MT",
+        "asn": "207892",
+        "description": "Red Acre Ltd",
+        "handle": "REDACRELTD"
+    },
+    "208136": {
+        "country_code": "MT",
+        "asn": "208136",
+        "description": "CCBill EU Limited",
+        "handle": "PHOENIXNAP-BG"
+    },
+    "208346": {
+        "country_code": "MT",
+        "asn": "208346",
+        "description": "KAIZEN GAMING INTERNATIONAL LIMITED",
+        "handle": "KAIZENGAMING"
+    },
+    "209045": {
+        "country_code": "MT",
+        "asn": "209045",
+        "description": "Genesis Cloud Limited",
+        "handle": "GENESIS-CLOUD-AS"
+    },
+    "209485": {
+        "country_code": "MT",
+        "asn": "209485",
+        "description": "CCBill EU Limited",
+        "handle": "PHOENIXNAP-IT"
+    },
+    "211213": {
+        "country_code": "MT",
+        "asn": "211213",
+        "description": "3P Solutions Ltd",
+        "handle": "ASN-3P-SOLUTIONS"
+    },
+    "212668": {
+        "country_code": "MT",
+        "asn": "212668",
+        "description": "European Union Agency for Asylum",
+        "handle": "EASO-MT"
+    },
+    "212769": {
+        "country_code": "MT",
+        "asn": "212769",
+        "description": "MeDirect Tech Limited",
+        "handle": "MEFIN"
+    },
+    "212962": {
+        "country_code": "MT",
+        "asn": "212962",
+        "description": "Quality Area Ltd.",
+        "handle": "ASQAREA"
+    },
+    "213246": {
+        "country_code": "MT",
+        "asn": "213246",
+        "description": "CCBill EU Limited",
+        "handle": "PHOENIXNAP-HE"
+    },
+    "215609": {
+        "country_code": "MT",
+        "asn": "215609",
+        "description": "Seo Hosting Ltd",
+        "handle": "SHMT"
+    }
+}

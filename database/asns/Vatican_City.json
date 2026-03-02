@@ -1,0 +1,20 @@
+{
+    "8978": {
+        "country_code": "VA",
+        "asn": "8978",
+        "description": "Holy See - Vatican City State",
+        "handle": "ASN-HOLYSEE"
+    },
+    "61160": {
+        "country_code": "VA",
+        "asn": "61160",
+        "description": "Biblioteca Apostolica Vaticana",
+        "handle": "ASN-VATLIB"
+    },
+    "202865": {
+        "country_code": "VA",
+        "asn": "202865",
+        "description": "Dicastero per la Comunicazione",
+        "handle": "SPC"
+    }
+}

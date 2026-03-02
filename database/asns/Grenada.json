@@ -1,0 +1,68 @@
+{
+    "10307": {
+        "country_code": "GD",
+        "asn": "10307",
+        "description": "LIME",
+        "handle": "ASN10307-GND"
+    },
+    "14432": {
+        "country_code": "GD",
+        "asn": "14432",
+        "description": "NTRC-Grenada",
+        "handle": "GREX"
+    },
+    "19303": {
+        "country_code": "GD",
+        "asn": "19303",
+        "description": "St. George's University",
+        "handle": "ASN-SGU"
+    },
+    "30272": {
+        "country_code": "GD",
+        "asn": "30272",
+        "description": "Government of Grenada",
+        "handle": "GOG-ASN1-GND"
+    },
+    "40701": {
+        "country_code": "GD",
+        "asn": "40701",
+        "description": "Government of Grenada",
+        "handle": "GND-DC"
+    },
+    "46650": {
+        "country_code": "GD",
+        "asn": "46650",
+        "description": "Columbus Communications Grenada Ltd.",
+        "handle": "ASN46650-CCGL"
+    },
+    "393629": {
+        "country_code": "GD",
+        "asn": "393629",
+        "description": "Green Dot Grenada Ltd",
+        "handle": "GDGR"
+    },
+    "393682": {
+        "country_code": "GD",
+        "asn": "393682",
+        "description": "AIsleCom",
+        "handle": "AICASNREQ10232014"
+    },
+    "397547": {
+        "country_code": "GD",
+        "asn": "397547",
+        "description": "Systems Integration Solutions Inc",
+        "handle": "SIS-WIRELESS-ASN-GRD-01"
+    },
+    "399273": {
+        "country_code": "GD",
+        "asn": "399273",
+        "description": "Grenada Co-operative Bank Limited",
+        "handle": "GCB-ASN01"
+    },
+    "401400": {
+        "country_code": "GD",
+        "asn": "401400",
+        "description": "MCNET-SOLUTIONS",
+        "handle": "MCNET-SOLUTIONS-GD"
+    }
+}

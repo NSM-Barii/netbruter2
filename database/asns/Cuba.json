@@ -1,0 +1,44 @@
+{
+    "10569": {
+        "country_code": "CU",
+        "asn": "10569",
+        "description": "Red CENIAInternet",
+        "handle": "RED-CENIAINTERNET"
+    },
+    "11960": {
+        "country_code": "CU",
+        "asn": "11960",
+        "description": "EMPRESA DE TELECOMUNICACIONES DE CUBA S.A. (IXP CUBA)",
+        "handle": "EMPRESA-TELECOMUNICACIONES-CUBA"
+    },
+    "15151": {
+        "country_code": "CU",
+        "asn": "15151",
+        "description": "Center for Genetic Engineering andBiotechnology",
+        "handle": "CENTER-FOR-GENETIC"
+    },
+    "27725": {
+        "country_code": "CU",
+        "asn": "27725",
+        "description": "Empresa de Telecomunicaciones de Cuba S.A.",
+        "handle": "EMPRESA-TELECOMUNICACIONES-CUBA"
+    },
+    "27834": {
+        "country_code": "CU",
+        "asn": "27834",
+        "description": "Infomed",
+        "handle": "INFOMED"
+    },
+    "27835": {
+        "country_code": "CU",
+        "asn": "27835",
+        "description": "Ministerio de Educacion Superior",
+        "handle": "MINISTERIO-EDUCACION-SUPERIOR"
+    },
+    "264713": {
+        "country_code": "CU",
+        "asn": "264713",
+        "description": "Empresa de Telecomunicaciones de Cuba S.A.",
+        "handle": "EMPRESA-TELECOMUNICACIONES-CUBA"
+    }
+}

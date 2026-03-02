@@ -1,0 +1,32 @@
+{
+    "32055": {
+        "country_code": "VC",
+        "asn": "32055",
+        "description": "National Telecommunications Regulatory Commission",
+        "handle": "SVGIX-ROUTE-SERVER"
+    },
+    "36110": {
+        "country_code": "VC",
+        "asn": "36110",
+        "description": "PieTV Limited",
+        "handle": "PIETV-NET"
+    },
+    "46408": {
+        "country_code": "VC",
+        "asn": "46408",
+        "description": "Columbus Communication St. Vincent and the Grenadines Ltd.",
+        "handle": "COLUMBUS-COMMUNICATION-SVG"
+    },
+    "57104": {
+        "country_code": "VC",
+        "asn": "57104",
+        "description": "Forex Club International LLC",
+        "handle": "ASMABT"
+    },
+    "398901": {
+        "country_code": "VC",
+        "asn": "398901",
+        "description": "Government of Saint Vincent and the Grenadines - Information Technology Services Division",
+        "handle": "ITSD-VC-01"
+    }
+}

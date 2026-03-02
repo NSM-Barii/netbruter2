@@ -1,0 +1,344 @@
+{
+    "37020": {
+        "country_code": "CD",
+        "asn": "37020",
+        "description": "CELTEL DRC",
+        "handle": "CELTEL-DRC"
+    },
+    "37102": {
+        "country_code": "CD",
+        "asn": "37102",
+        "description": "CIELUX TELECOM RDC",
+        "handle": "CIELUX-RDC"
+    },
+    "37414": {
+        "country_code": "CD",
+        "asn": "37414",
+        "description": "Microcom Sprl",
+        "handle": "MICROCOM-SPRL"
+    },
+    "37415": {
+        "country_code": "CD",
+        "asn": "37415",
+        "description": "AFRINET SA",
+        "handle": "AFRINET"
+    },
+    "37431": {
+        "country_code": "CD",
+        "asn": "37431",
+        "description": "Internet service provider association - DRC",
+        "handle": "ISPA-DRC"
+    },
+    "37447": {
+        "country_code": "CD",
+        "asn": "37447",
+        "description": "ORANGE RDC",
+        "handle": "ORANGE-RDC"
+    },
+    "37453": {
+        "country_code": "CD",
+        "asn": "37453",
+        "description": "Vodacom Congo",
+        "handle": "VODACOM-CONGO"
+    },
+    "37483": {
+        "country_code": "CD",
+        "asn": "37483",
+        "description": "ORANGE RDC",
+        "handle": "CONGO-CHINE"
+    },
+    "37571": {
+        "country_code": "CD",
+        "asn": "37571",
+        "description": "ITM",
+        "handle": "ITM-DRC"
+    },
+    "37598": {
+        "country_code": "CD",
+        "asn": "37598",
+        "description": "Eb@le",
+        "handle": "EBALE"
+    },
+    "37638": {
+        "country_code": "CD",
+        "asn": "37638",
+        "description": "Orioncom SPRL",
+        "handle": "ORIONCOM"
+    },
+    "37677": {
+        "country_code": "CD",
+        "asn": "37677",
+        "description": "Societe Congolaise des Postes et Telecommunications (SCPT)",
+        "handle": "SCPT"
+    },
+    "37785": {
+        "country_code": "CD",
+        "asn": "37785",
+        "description": "Internet service provider association - DRC",
+        "handle": "ISPA-RDC-LUBUX-PEERING"
+    },
+    "37788": {
+        "country_code": "CD",
+        "asn": "37788",
+        "description": "Internet service provider association - DRC",
+        "handle": "ISPA-DRC-GOMIX-PEERING"
+    },
+    "37799": {
+        "country_code": "CD",
+        "asn": "37799",
+        "description": "United SA",
+        "handle": "ACIX-PEERING"
+    },
+    "327738": {
+        "country_code": "CD",
+        "asn": "327738",
+        "description": "STE AFRICELL RDC SPRL",
+        "handle": "AFRICELL-DRC"
+    },
+    "327797": {
+        "country_code": "CD",
+        "asn": "327797",
+        "description": "ITM",
+        "handle": "COWS"
+    },
+    "327870": {
+        "country_code": "CD",
+        "asn": "327870",
+        "description": "Global Broadband Solution",
+        "handle": "GBS-DRC"
+    },
+    "327875": {
+        "country_code": "CD",
+        "asn": "327875",
+        "description": "Internet service provider association - DRC",
+        "handle": "ISPA-DRC-CONTENT"
+    },
+    "327879": {
+        "country_code": "CD",
+        "asn": "327879",
+        "description": "AJYWA TELECOM",
+        "handle": "AJYWA-TELECOM"
+    },
+    "327937": {
+        "country_code": "CD",
+        "asn": "327937",
+        "description": "Smile Communication DRC",
+        "handle": "SMILE-COMMUNICATION-DRC"
+    },
+    "327978": {
+        "country_code": "CD",
+        "asn": "327978",
+        "description": "INTERNATIONAL SYSTEMS SARL",
+        "handle": "ISS"
+    },
+    "328000": {
+        "country_code": "CD",
+        "asn": "328000",
+        "description": "Equity Banque Commerciale Du Congo SA",
+        "handle": "BANQUE-COMMERCIALE-DU-CONGO"
+    },
+    "328003": {
+        "country_code": "CD",
+        "asn": "328003",
+        "description": "STANDARD TELECOM CONGO SARL- STC SA",
+        "handle": "STANDARD-TELECOM-CONGO"
+    },
+    "328004": {
+        "country_code": "CD",
+        "asn": "328004",
+        "description": "ICTSI DR CONGO SA",
+        "handle": "ICTSI-DR-CONGO"
+    },
+    "328238": {
+        "country_code": "CD",
+        "asn": "328238",
+        "description": "INFOSET SARL",
+        "handle": "INFOSET-AS"
+    },
+    "328249": {
+        "country_code": "CD",
+        "asn": "328249",
+        "description": "Kinshasa Wireless SARL (KIWI SARL)",
+        "handle": "KINSHASA-WIRELESS-AS"
+    },
+    "328344": {
+        "country_code": "CD",
+        "asn": "328344",
+        "description": "STE Techplus SARL",
+        "handle": "STETECHPLUS-AS"
+    },
+    "328442": {
+        "country_code": "CD",
+        "asn": "328442",
+        "description": "United SA",
+        "handle": "UNITED-SA"
+    },
+    "328443": {
+        "country_code": "CD",
+        "asn": "328443",
+        "description": "Societe Datco",
+        "handle": "SOCIETE-DATCO-AS"
+    },
+    "328445": {
+        "country_code": "CD",
+        "asn": "328445",
+        "description": "UNLIMITED SARL",
+        "handle": "UNLIMITED-SARL-AS"
+    },
+    "328452": {
+        "country_code": "CD",
+        "asn": "328452",
+        "description": "Internet service provider association - DRC",
+        "handle": "ISPA-RDC-LUBUX-MGMT"
+    },
+    "328470": {
+        "country_code": "CD",
+        "asn": "328470",
+        "description": "HOLOGRAM IDENTIFICATION SERVICES S.A.R.L",
+        "handle": "HOLOGRAM-IDENTIFICATION-SERVICES-AS"
+    },
+    "328542": {
+        "country_code": "CD",
+        "asn": "328542",
+        "description": "Mulangane Information Technology Consult SARL - MITC SARL",
+        "handle": "MITC-SARL"
+    },
+    "328551": {
+        "country_code": "CD",
+        "asn": "328551",
+        "description": "Baraka Broadband Solutions Sarl",
+        "handle": "BARAKA-BROADBAND-AS"
+    },
+    "328552": {
+        "country_code": "CD",
+        "asn": "328552",
+        "description": "STE MDICIS SAS",
+        "handle": "STE-MDICIS"
+    },
+    "328566": {
+        "country_code": "CD",
+        "asn": "328566",
+        "description": "STE ELITE NETWORKS SARL",
+        "handle": "ELITE-NETWORKS-AS"
+    },
+    "328569": {
+        "country_code": "CD",
+        "asn": "328569",
+        "description": "BANQUE CENTRALE DU CONGO",
+        "handle": "BANQUE-CENTRAL-CONGO"
+    },
+    "328601": {
+        "country_code": "CD",
+        "asn": "328601",
+        "description": "Compagnie Financiere du Congo S.a.r.l.",
+        "handle": "COMPAGNIE-FINANCIERE-DU-CONGO-AS"
+    },
+    "328618": {
+        "country_code": "CD",
+        "asn": "328618",
+        "description": "Ets OliverSoft",
+        "handle": "OLIVERSOFT"
+    },
+    "328796": {
+        "country_code": "CD",
+        "asn": "328796",
+        "description": "Internet service provider association - DRC",
+        "handle": "GOMIX-MGT"
+    },
+    "328928": {
+        "country_code": "CD",
+        "asn": "328928",
+        "description": "CEDESURK ASBL",
+        "handle": "CEDESURK"
+    },
+    "328981": {
+        "country_code": "CD",
+        "asn": "328981",
+        "description": "Signal HD",
+        "handle": "SIGNAL-HD"
+    },
+    "329017": {
+        "country_code": "CD",
+        "asn": "329017",
+        "description": "RAGA NET SARL",
+        "handle": "RAGA-NET"
+    },
+    "329096": {
+        "country_code": "CD",
+        "asn": "329096",
+        "description": "Societe Congolaise des Postes et Telecommunications (SCPT)",
+        "handle": "CCTLD-CD-REGISTRY"
+    },
+    "329269": {
+        "country_code": "CD",
+        "asn": "329269",
+        "description": "STE LEYA TECH + SOLUTION SARL (L.T.S SARL)",
+        "handle": "SLTS1-AS"
+    },
+    "329287": {
+        "country_code": "CD",
+        "asn": "329287",
+        "description": "Connectis SA",
+        "handle": "CONNECTIS-SA"
+    },
+    "329342": {
+        "country_code": "CD",
+        "asn": "329342",
+        "description": "DIRECTION GENERALE DES DOUANES ET ACCISES",
+        "handle": "DIRECTION-GENERALE-DES-DOUANES-ET-ACCISES"
+    },
+    "329362": {
+        "country_code": "CD",
+        "asn": "329362",
+        "description": "Minist\u00e8re du Num\u00e9rique",
+        "handle": "MINISTERE-DU-NUMERIQUE"
+    },
+    "329364": {
+        "country_code": "CD",
+        "asn": "329364",
+        "description": "GECAMINES",
+        "handle": "GECAMINES"
+    },
+    "329430": {
+        "country_code": "CD",
+        "asn": "329430",
+        "description": "GVA RDC",
+        "handle": "GVA-RDC"
+    },
+    "329489": {
+        "country_code": "CD",
+        "asn": "329489",
+        "description": "Castor Networks RDC SA",
+        "handle": "CASTOR-NETWORKS"
+    },
+    "329500": {
+        "country_code": "CD",
+        "asn": "329500",
+        "description": "OPTIMIZED NETWORKS SARL",
+        "handle": "OPTIMIZED-NETWORKS-SARL"
+    },
+    "329526": {
+        "country_code": "CD",
+        "asn": "329526",
+        "description": "AUTORITE DE REGULATION DE LA POSTE ET DES TELECOMMUNICATIONS DU CONGO",
+        "handle": "ADRD5-AS"
+    },
+    "329542": {
+        "country_code": "CD",
+        "asn": "329542",
+        "description": "MAGE",
+        "handle": "MAGE"
+    },
+    "329573": {
+        "country_code": "CD",
+        "asn": "329573",
+        "description": "SOCIETE FINANCIERE DE BANQUE",
+        "handle": "SOCIETE-FINANCIERE-DE-BANQUE"
+    },
+    "329634": {
+        "country_code": "CD",
+        "asn": "329634",
+        "description": "STE PLANTATIONS ET HUILERIES DU CONGO S.A.",
+        "handle": "PLANTATIONS-ET-HUILERIES-DU-CONGO"
+    }
+}

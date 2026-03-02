@@ -1,0 +1,44 @@
+{
+    "27675": {
+        "country_code": "GF",
+        "asn": "27675",
+        "description": "ARIASNET",
+        "handle": "ARIASNET"
+    },
+    "27806": {
+        "country_code": "GF",
+        "asn": "27806",
+        "description": "WAYSCOM",
+        "handle": "WAYSCOM"
+    },
+    "262190": {
+        "country_code": "GF",
+        "asn": "262190",
+        "description": "Guyane Numerique",
+        "handle": "GUYANE-NUMERIQUE"
+    },
+    "263175": {
+        "country_code": "GF",
+        "asn": "263175",
+        "description": "GUYACOM",
+        "handle": "GUYACOM"
+    },
+    "264728": {
+        "country_code": "GF",
+        "asn": "264728",
+        "description": "DAUPHIN TELECOM GUYANE",
+        "handle": "DAUPHIN-TELECOM-GUYANE"
+    },
+    "265745": {
+        "country_code": "GF",
+        "asn": "265745",
+        "description": "SOCIETE PUBLIC LOCALE POUR LAMENAGEMENT NUMERIQUE DE LA GUYANE",
+        "handle": "SOCIETE-PUBLIC-LOCALE"
+    },
+    "272128": {
+        "country_code": "GF",
+        "asn": "272128",
+        "description": "DIGICEL ANTILLES FRANCAISES GUYANE",
+        "handle": "DIGICEL-ANTILLES-FRANCAISES"
+    }
+}

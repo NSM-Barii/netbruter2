@@ -1,0 +1,2426 @@
+{
+    "224": {
+        "country_code": "NO",
+        "asn": "224",
+        "description": "SIKT - KUNNSKAPSSEKTORENS TJENESTELEVERANDOR",
+        "handle": "UNINETT"
+    },
+    "1771": {
+        "country_code": "NO",
+        "asn": "1771",
+        "description": "X.25 Holding AS",
+        "handle": "SOLBERG-CORE-NET"
+    },
+    "2116": {
+        "country_code": "NO",
+        "asn": "2116",
+        "description": "GLOBALCONNECT AS",
+        "handle": "GLOBALCONNECT-AS2116"
+    },
+    "2119": {
+        "country_code": "NO",
+        "asn": "2119",
+        "description": "Telenor Norge AS",
+        "handle": "TELENOR-NEXTEL"
+    },
+    "3307": {
+        "country_code": "NO",
+        "asn": "3307",
+        "description": "GLOBALCONNECT AS",
+        "handle": "GLOBALCONNECT-AS"
+    },
+    "5377": {
+        "country_code": "NO",
+        "asn": "5377",
+        "description": "Marlink AS",
+        "handle": "MARLINK-EMEA"
+    },
+    "5381": {
+        "country_code": "NO",
+        "asn": "5381",
+        "description": "GLOBALCONNECT AS",
+        "handle": "POWTECH-AS"
+    },
+    "5485": {
+        "country_code": "NO",
+        "asn": "5485",
+        "description": "SMARTHELP AS",
+        "handle": "SMARTHELP"
+    },
+    "5619": {
+        "country_code": "NO",
+        "asn": "5619",
+        "description": "Tietoevry Norway AS",
+        "handle": "NO-TTSN-ASN1"
+    },
+    "6709": {
+        "country_code": "NO",
+        "asn": "6709",
+        "description": "GLOBALCONNECT AS",
+        "handle": "BGNETT"
+    },
+    "6829": {
+        "country_code": "NO",
+        "asn": "6829",
+        "description": "Vestland Fylkeskommune",
+        "handle": "NO-SOGNFJORDFYLKE"
+    },
+    "8210": {
+        "country_code": "NO",
+        "asn": "8210",
+        "description": "Telenor Norge AS",
+        "handle": "TELENOR"
+    },
+    "8264": {
+        "country_code": "NO",
+        "asn": "8264",
+        "description": "Marlink AS",
+        "handle": "MARLINK-SK"
+    },
+    "8394": {
+        "country_code": "NO",
+        "asn": "8394",
+        "description": "Telenor Norge AS",
+        "handle": "ALFANETT"
+    },
+    "8478": {
+        "country_code": "NO",
+        "asn": "8478",
+        "description": "GIG Networks AS",
+        "handle": "ASN-GIGNETWORKS"
+    },
+    "8542": {
+        "country_code": "NO",
+        "asn": "8542",
+        "description": "Eviny Fiber AS",
+        "handle": "EVINY-AS8542"
+    },
+    "8786": {
+        "country_code": "NO",
+        "asn": "8786",
+        "description": "Telenor Norge AS",
+        "handle": "TELENOR-MOBIL"
+    },
+    "8841": {
+        "country_code": "NO",
+        "asn": "8841",
+        "description": "Marlink AS",
+        "handle": "US-NYC-MARLINK-MSS"
+    },
+    "8896": {
+        "country_code": "NO",
+        "asn": "8896",
+        "description": "GLOBALCONNECT AS",
+        "handle": "XFIBER-AS"
+    },
+    "9173": {
+        "country_code": "NO",
+        "asn": "9173",
+        "description": "GLOBALCONNECT AS",
+        "handle": "WHITEBIRD"
+    },
+    "9207": {
+        "country_code": "NO",
+        "asn": "9207",
+        "description": "Marlink AS",
+        "handle": "MARLINK-MPLS"
+    },
+    "12929": {
+        "country_code": "NO",
+        "asn": "12929",
+        "description": "Telia Norge AS",
+        "handle": "NETCOM-AS"
+    },
+    "12996": {
+        "country_code": "NO",
+        "asn": "12996",
+        "description": "Domeneshop AS",
+        "handle": "DOMENESHOP"
+    },
+    "13052": {
+        "country_code": "NO",
+        "asn": "13052",
+        "description": "GLOBALCONNECT AS",
+        "handle": "BROADNET"
+    },
+    "13069": {
+        "country_code": "NO",
+        "asn": "13069",
+        "description": "GLOBALCONNECT AS",
+        "handle": "DATAGUARD"
+    },
+    "13212": {
+        "country_code": "NO",
+        "asn": "13212",
+        "description": "GLOBALCONNECT AS",
+        "handle": "VENTELO-COMNET-ASN"
+    },
+    "13243": {
+        "country_code": "NO",
+        "asn": "13243",
+        "description": "Tietoevry Norway AS",
+        "handle": "NO-TTSN-ASN2"
+    },
+    "15659": {
+        "country_code": "NO",
+        "asn": "15659",
+        "description": "NextGenTel AS",
+        "handle": "NEXTGENTEL"
+    },
+    "15688": {
+        "country_code": "NO",
+        "asn": "15688",
+        "description": "Tietoevry Norway AS",
+        "handle": "NO-TTSN-ASN3"
+    },
+    "15765": {
+        "country_code": "NO",
+        "asn": "15765",
+        "description": "Tafjord Connect AS",
+        "handle": "MIMER"
+    },
+    "15932": {
+        "country_code": "NO",
+        "asn": "15932",
+        "description": "TELENOR LINX AS",
+        "handle": "TGS-INT-NETWORK"
+    },
+    "16065": {
+        "country_code": "NO",
+        "asn": "16065",
+        "description": "Bryhni.com AS",
+        "handle": "SIMULAMET-CRNA"
+    },
+    "16175": {
+        "country_code": "NO",
+        "asn": "16175",
+        "description": "Signal Bredband AS",
+        "handle": "SIGNAL"
+    },
+    "16185": {
+        "country_code": "NO",
+        "asn": "16185",
+        "description": "MODUM KABEL-TV AS",
+        "handle": "RINGNETT-NORWAY"
+    },
+    "16186": {
+        "country_code": "NO",
+        "asn": "16186",
+        "description": "IP Group AS",
+        "handle": "ASN-SSC"
+    },
+    "16234": {
+        "country_code": "NO",
+        "asn": "16234",
+        "description": "Tafjord Connect AS",
+        "handle": "STAYON"
+    },
+    "20741": {
+        "country_code": "NO",
+        "asn": "20741",
+        "description": "Administrator Systems AS",
+        "handle": "ADMINISTRATOR"
+    },
+    "21067": {
+        "country_code": "NO",
+        "asn": "21067",
+        "description": "KANDU",
+        "handle": "KANDU-AS"
+    },
+    "21119": {
+        "country_code": "NO",
+        "asn": "21119",
+        "description": "iteam Braathe AS",
+        "handle": "WAN-NO"
+    },
+    "21171": {
+        "country_code": "NO",
+        "asn": "21171",
+        "description": "Schibsted Media AS",
+        "handle": "SCHIBSTED"
+    },
+    "21293": {
+        "country_code": "NO",
+        "asn": "21293",
+        "description": "Norsk Rikskringkasting AS",
+        "handle": "ASN-NRK"
+    },
+    "21297": {
+        "country_code": "NO",
+        "asn": "21297",
+        "description": "Oslo Bors ASA",
+        "handle": "OSE-AS"
+    },
+    "21331": {
+        "country_code": "NO",
+        "asn": "21331",
+        "description": "Oslo kommune Utviklings- og kompetanseetaten",
+        "handle": "OKDN-AS"
+    },
+    "24039": {
+        "country_code": "NO",
+        "asn": "24039",
+        "description": "Marlink AS",
+        "handle": "MARLINK-AS-NET-AP"
+    },
+    "24959": {
+        "country_code": "NO",
+        "asn": "24959",
+        "description": "Schenker AS",
+        "handle": "LINJEGODS-AS"
+    },
+    "25016": {
+        "country_code": "NO",
+        "asn": "25016",
+        "description": "Utenriksdepartementet",
+        "handle": "ASN-MFA"
+    },
+    "25148": {
+        "country_code": "NO",
+        "asn": "25148",
+        "description": "Orange Business Digital Norway AS",
+        "handle": "BASEFARM-ASN"
+    },
+    "25201": {
+        "country_code": "NO",
+        "asn": "25201",
+        "description": "Peder Christian Bach",
+        "handle": "PCB-AS"
+    },
+    "25225": {
+        "country_code": "NO",
+        "asn": "25225",
+        "description": "CGI Norge AS",
+        "handle": "LOGNO-AS"
+    },
+    "25351": {
+        "country_code": "NO",
+        "asn": "25351",
+        "description": "GLOBALCONNECT AS",
+        "handle": "BROADNET-NO-AS"
+    },
+    "25400": {
+        "country_code": "NO",
+        "asn": "25400",
+        "description": "Telia Norge AS",
+        "handle": "TELIA-NORWAY-AS"
+    },
+    "28795": {
+        "country_code": "NO",
+        "asn": "28795",
+        "description": "ELKEM AS",
+        "handle": "ELKEM-AS"
+    },
+    "28824": {
+        "country_code": "NO",
+        "asn": "28824",
+        "description": "EMP SECURE AS",
+        "handle": "ASN-EMPSECURE"
+    },
+    "29065": {
+        "country_code": "NO",
+        "asn": "29065",
+        "description": "Tietoevry Norway AS",
+        "handle": "NO-TTSN-ASN4"
+    },
+    "29300": {
+        "country_code": "NO",
+        "asn": "29300",
+        "description": "BAHNHOF AS",
+        "handle": "AS-DIRECTCONNECT"
+    },
+    "29458": {
+        "country_code": "NO",
+        "asn": "29458",
+        "description": "Itslearning AS",
+        "handle": "FRONTER"
+    },
+    "29479": {
+        "country_code": "NO",
+        "asn": "29479",
+        "description": "Transdata AS",
+        "handle": "TRANSDATA"
+    },
+    "29486": {
+        "country_code": "NO",
+        "asn": "29486",
+        "description": "Webhuset AS",
+        "handle": "WEBHUSET-AS"
+    },
+    "29492": {
+        "country_code": "NO",
+        "asn": "29492",
+        "description": "EIDSIVA DIGITAL AS",
+        "handle": "EIDSIVA-ASN"
+    },
+    "29607": {
+        "country_code": "NO",
+        "asn": "29607",
+        "description": "Henning Solberg",
+        "handle": "SYSTEMNET-NO-AS"
+    },
+    "29695": {
+        "country_code": "NO",
+        "asn": "29695",
+        "description": "Lyse Tele AS",
+        "handle": "ALTIBOX-AS"
+    },
+    "30737": {
+        "country_code": "NO",
+        "asn": "30737",
+        "description": "Safety Computing AS",
+        "handle": "SAFETY-AS"
+    },
+    "30950": {
+        "country_code": "NO",
+        "asn": "30950",
+        "description": "Eviny Fiber AS",
+        "handle": "EVINY-AS30950"
+    },
+    "31020": {
+        "country_code": "NO",
+        "asn": "31020",
+        "description": "NTE TELEKOM AS",
+        "handle": "NEANETT-AS"
+    },
+    "31096": {
+        "country_code": "NO",
+        "asn": "31096",
+        "description": "Bandit Holding AS",
+        "handle": "SECURE-AS"
+    },
+    "31169": {
+        "country_code": "NO",
+        "asn": "31169",
+        "description": "Sognenett AS",
+        "handle": "SOGNENETT-AS"
+    },
+    "31264": {
+        "country_code": "NO",
+        "asn": "31264",
+        "description": "ADVANIA NORGE AS",
+        "handle": "STIM-COMPUTING-AS"
+    },
+    "31726": {
+        "country_code": "NO",
+        "asn": "31726",
+        "description": "Telefiber AS",
+        "handle": "TELEFIBER"
+    },
+    "33976": {
+        "country_code": "NO",
+        "asn": "33976",
+        "description": "Schibsted Media AS",
+        "handle": "SCH-SE"
+    },
+    "34087": {
+        "country_code": "NO",
+        "asn": "34087",
+        "description": "NTE TELEKOM AS",
+        "handle": "NTE-BREDBAND"
+    },
+    "34100": {
+        "country_code": "NO",
+        "asn": "34100",
+        "description": "Stortinget",
+        "handle": "STORTINGET-AS"
+    },
+    "34822": {
+        "country_code": "NO",
+        "asn": "34822",
+        "description": "NEP Norway AS",
+        "handle": "MEDIANETWERK"
+    },
+    "34989": {
+        "country_code": "NO",
+        "asn": "34989",
+        "description": "ServeTheWorld AS",
+        "handle": "SERVETHEWORLD-AS"
+    },
+    "35094": {
+        "country_code": "NO",
+        "asn": "35094",
+        "description": "GLOBALCONNECT AS",
+        "handle": "PRONEA"
+    },
+    "35120": {
+        "country_code": "NO",
+        "asn": "35120",
+        "description": "WORKING GROUP TWO AS",
+        "handle": "WGTWO"
+    },
+    "35132": {
+        "country_code": "NO",
+        "asn": "35132",
+        "description": "Enivest AS",
+        "handle": "ENIVEST-AS"
+    },
+    "35157": {
+        "country_code": "NO",
+        "asn": "35157",
+        "description": "TELECOM HOLDING 3 AS",
+        "handle": "TELIO-AS"
+    },
+    "35703": {
+        "country_code": "NO",
+        "asn": "35703",
+        "description": "TV 2 AS",
+        "handle": "NO-TV2-AS"
+    },
+    "35754": {
+        "country_code": "NO",
+        "asn": "35754",
+        "description": "IMC AS",
+        "handle": "IMCAS-AS"
+    },
+    "35763": {
+        "country_code": "NO",
+        "asn": "35763",
+        "description": "Lindbak IT AS",
+        "handle": "IOPS-AS"
+    },
+    "38990": {
+        "country_code": "NO",
+        "asn": "38990",
+        "description": "Agnitio AS",
+        "handle": "AGNITIO-AS"
+    },
+    "39029": {
+        "country_code": "NO",
+        "asn": "39029",
+        "description": "Redpill Linpro AS",
+        "handle": "REDPILL-LINPRO"
+    },
+    "39197": {
+        "country_code": "NO",
+        "asn": "39197",
+        "description": "Telenor Norge AS",
+        "handle": "TELENOR-NORGE"
+    },
+    "39236": {
+        "country_code": "NO",
+        "asn": "39236",
+        "description": "Nedre Romerike vann- og avlopsselskap IKS",
+        "handle": "NO-NRA"
+    },
+    "39783": {
+        "country_code": "NO",
+        "asn": "39783",
+        "description": "Webhuset AS",
+        "handle": "WEBHUSET-AS"
+    },
+    "39787": {
+        "country_code": "NO",
+        "asn": "39787",
+        "description": "TV 2 AS",
+        "handle": "TV2-NORWAY"
+    },
+    "39832": {
+        "country_code": "NO",
+        "asn": "39832",
+        "description": "Opera Norway AS",
+        "handle": "NO-OPERA"
+    },
+    "41049": {
+        "country_code": "NO",
+        "asn": "41049",
+        "description": "Xait AS",
+        "handle": "XAIT"
+    },
+    "41164": {
+        "country_code": "NO",
+        "asn": "41164",
+        "description": "Telia Norge AS",
+        "handle": "GET-NO"
+    },
+    "41483": {
+        "country_code": "NO",
+        "asn": "41483",
+        "description": "Telia Norge AS",
+        "handle": "NWN-AS"
+    },
+    "41572": {
+        "country_code": "NO",
+        "asn": "41572",
+        "description": "GLOBALCONNECT AS",
+        "handle": "HAFSLUND"
+    },
+    "41729": {
+        "country_code": "NO",
+        "asn": "41729",
+        "description": "Atea AS",
+        "handle": "ATEA-AOS-AS"
+    },
+    "41869": {
+        "country_code": "NO",
+        "asn": "41869",
+        "description": "Blix Group AS",
+        "handle": "BLIXFIBER-AS"
+    },
+    "41949": {
+        "country_code": "NO",
+        "asn": "41949",
+        "description": "X Treme AS",
+        "handle": "XTREME"
+    },
+    "42022": {
+        "country_code": "NO",
+        "asn": "42022",
+        "description": "Digitale Gardermoen IS",
+        "handle": "DGI-AS"
+    },
+    "42029": {
+        "country_code": "NO",
+        "asn": "42029",
+        "description": "SECTOR ALARM TECH AS",
+        "handle": "SA-NORWAY-AS"
+    },
+    "42175": {
+        "country_code": "NO",
+        "asn": "42175",
+        "description": "Equinor ASA",
+        "handle": "EQUINOR-AS"
+    },
+    "42400": {
+        "country_code": "NO",
+        "asn": "42400",
+        "description": "Nexthop AS",
+        "handle": "MULTIHOST"
+    },
+    "42980": {
+        "country_code": "NO",
+        "asn": "42980",
+        "description": "TELENOR MARITIME AS",
+        "handle": "MCP-AS"
+    },
+    "43200": {
+        "country_code": "NO",
+        "asn": "43200",
+        "description": "TUSSA IKT AS",
+        "handle": "PCSUPPORT"
+    },
+    "43516": {
+        "country_code": "NO",
+        "asn": "43516",
+        "description": "Felleskjopet Agri SA",
+        "handle": "FELLESKJOPET-AS"
+    },
+    "43568": {
+        "country_code": "NO",
+        "asn": "43568",
+        "description": "VEV Romerike AS",
+        "handle": "VEV-ALO1"
+    },
+    "43905": {
+        "country_code": "NO",
+        "asn": "43905",
+        "description": "SPACE NORWAY SATCOM AS",
+        "handle": "SPN-AS"
+    },
+    "44381": {
+        "country_code": "NO",
+        "asn": "44381",
+        "description": "ITsjefen AS",
+        "handle": "ITSJEFEN-AS"
+    },
+    "44457": {
+        "country_code": "NO",
+        "asn": "44457",
+        "description": "Lovenskiold Handel AS",
+        "handle": "LOVENSKIOLD-AS"
+    },
+    "44511": {
+        "country_code": "NO",
+        "asn": "44511",
+        "description": "PE SLAEN SYGARD",
+        "handle": "SYGARD"
+    },
+    "44654": {
+        "country_code": "NO",
+        "asn": "44654",
+        "description": "VIXLY AS",
+        "handle": "MNS-AS"
+    },
+    "44763": {
+        "country_code": "NO",
+        "asn": "44763",
+        "description": "NATIONAL OILWELL NORWAY AS",
+        "handle": "NON"
+    },
+    "44764": {
+        "country_code": "NO",
+        "asn": "44764",
+        "description": "Bitpro",
+        "handle": "BITPRO"
+    },
+    "44808": {
+        "country_code": "NO",
+        "asn": "44808",
+        "description": "EG Norge AS",
+        "handle": "EGNORGE"
+    },
+    "44933": {
+        "country_code": "NO",
+        "asn": "44933",
+        "description": "Marlink AS",
+        "handle": "NL-AMS-MARLINK-MSS"
+    },
+    "44997": {
+        "country_code": "NO",
+        "asn": "44997",
+        "description": "University of Oslo",
+        "handle": "NIX"
+    },
+    "47405": {
+        "country_code": "NO",
+        "asn": "47405",
+        "description": "NASJONAL SIKKERHETSMYNDIGHET",
+        "handle": "NSM"
+    },
+    "47753": {
+        "country_code": "NO",
+        "asn": "47753",
+        "description": "ONIT AS",
+        "handle": "ONIT-AS"
+    },
+    "47853": {
+        "country_code": "NO",
+        "asn": "47853",
+        "description": "Telia Norge AS",
+        "handle": "STARNORDIC"
+    },
+    "48144": {
+        "country_code": "NO",
+        "asn": "48144",
+        "description": "Network Technology Harald Firing Karlsen",
+        "handle": "NETWORKTECH"
+    },
+    "48335": {
+        "country_code": "NO",
+        "asn": "48335",
+        "description": "Thales Norway AS",
+        "handle": "NO-THALES"
+    },
+    "48376": {
+        "country_code": "NO",
+        "asn": "48376",
+        "description": "Bryhni.com AS",
+        "handle": "NUNATAK"
+    },
+    "48469": {
+        "country_code": "NO",
+        "asn": "48469",
+        "description": "mnemonic AS",
+        "handle": "MNEMONIC-OSL"
+    },
+    "48630": {
+        "country_code": "NO",
+        "asn": "48630",
+        "description": "Thomas Eriksen",
+        "handle": "ERIKSEN-AS"
+    },
+    "48680": {
+        "country_code": "NO",
+        "asn": "48680",
+        "description": "Netpower IT Solutions AS",
+        "handle": "NETPOWER-AS"
+    },
+    "48863": {
+        "country_code": "NO",
+        "asn": "48863",
+        "description": "NEAS ENERGI TELEKOM AS",
+        "handle": "RENROROSAKSESS"
+    },
+    "48908": {
+        "country_code": "NO",
+        "asn": "48908",
+        "description": "Steinar H. Gunderson",
+        "handle": "SESSE-AS"
+    },
+    "49082": {
+        "country_code": "NO",
+        "asn": "49082",
+        "description": "ZONES AS",
+        "handle": "ZONES-AS"
+    },
+    "49193": {
+        "country_code": "NO",
+        "asn": "49193",
+        "description": "Unifon AS",
+        "handle": "AS-UNIFON"
+    },
+    "49214": {
+        "country_code": "NO",
+        "asn": "49214",
+        "description": "MIDT ENERGI AS",
+        "handle": "GAULDALIKT-AS"
+    },
+    "49219": {
+        "country_code": "NO",
+        "asn": "49219",
+        "description": "AVUR AS",
+        "handle": "AVUR-TRANSIT"
+    },
+    "49271": {
+        "country_code": "NO",
+        "asn": "49271",
+        "description": "Qloud AS",
+        "handle": "NO-BITBAKERS"
+    },
+    "49278": {
+        "country_code": "NO",
+        "asn": "49278",
+        "description": "IKT-KAPASITETER",
+        "handle": "NORDEF"
+    },
+    "49409": {
+        "country_code": "NO",
+        "asn": "49409",
+        "description": "IVER NORGE AS",
+        "handle": "IVERNORGE"
+    },
+    "49455": {
+        "country_code": "NO",
+        "asn": "49455",
+        "description": "Telia Norge AS",
+        "handle": "UPC-AS"
+    },
+    "49574": {
+        "country_code": "NO",
+        "asn": "49574",
+        "description": "ECIT SOLUTIONS AS",
+        "handle": "ECITNO-AS"
+    },
+    "49586": {
+        "country_code": "NO",
+        "asn": "49586",
+        "description": "Intility AS",
+        "handle": "ASN-INTILITY"
+    },
+    "49788": {
+        "country_code": "NO",
+        "asn": "49788",
+        "description": "Nexthop AS",
+        "handle": "NEXTHOP"
+    },
+    "49952": {
+        "country_code": "NO",
+        "asn": "49952",
+        "description": "Bluestone AS",
+        "handle": "BLUESTONE"
+    },
+    "50033": {
+        "country_code": "NO",
+        "asn": "50033",
+        "description": "EG Norge AS",
+        "handle": "PATIENTSKY"
+    },
+    "50213": {
+        "country_code": "NO",
+        "asn": "50213",
+        "description": "Underworld",
+        "handle": "UNDERWORLD-AS"
+    },
+    "50217": {
+        "country_code": "NO",
+        "asn": "50217",
+        "description": "Vestland Fylkeskommune",
+        "handle": "HFK-ASN"
+    },
+    "50229": {
+        "country_code": "NO",
+        "asn": "50229",
+        "description": "Rignet AS",
+        "handle": "RIGNET-SOIL-AS"
+    },
+    "50270": {
+        "country_code": "NO",
+        "asn": "50270",
+        "description": "Nasjonal kommunikasjonsmyndighet",
+        "handle": "NPT"
+    },
+    "50272": {
+        "country_code": "NO",
+        "asn": "50272",
+        "description": "AVUR AS",
+        "handle": "AVUR"
+    },
+    "50304": {
+        "country_code": "NO",
+        "asn": "50304",
+        "description": "Blix Solutions AS",
+        "handle": "BLIX"
+    },
+    "50531": {
+        "country_code": "NO",
+        "asn": "50531",
+        "description": "ABAX as",
+        "handle": "ABAX"
+    },
+    "50562": {
+        "country_code": "NO",
+        "asn": "50562",
+        "description": "IT PAYS AS",
+        "handle": "ITPAYS-AS"
+    },
+    "50582": {
+        "country_code": "NO",
+        "asn": "50582",
+        "description": "Bent Oystein Bostad",
+        "handle": "NO-BENTOYSTEIN"
+    },
+    "51135": {
+        "country_code": "NO",
+        "asn": "51135",
+        "description": "Telia Norge AS",
+        "handle": "UPC-AS"
+    },
+    "51850": {
+        "country_code": "NO",
+        "asn": "51850",
+        "description": "NAME UNIT LIMITED",
+        "handle": "NAMEUNIT-AS"
+    },
+    "52157": {
+        "country_code": "NO",
+        "asn": "52157",
+        "description": "NEAS ENERGI TELEKOM AS",
+        "handle": "NONEAS-AS"
+    },
+    "55434": {
+        "country_code": "NO",
+        "asn": "55434",
+        "description": "Airbus Defence and Space AS",
+        "handle": "ADS-AS-EAST-AP"
+    },
+    "55784": {
+        "country_code": "NO",
+        "asn": "55784",
+        "description": "Marlink AS",
+        "handle": "AU-SYD-MARLINK-MSS"
+    },
+    "56334": {
+        "country_code": "NO",
+        "asn": "56334",
+        "description": "ManpowerGroup AS",
+        "handle": "MANPOWER-AS"
+    },
+    "56538": {
+        "country_code": "NO",
+        "asn": "56538",
+        "description": "Blix Group AS",
+        "handle": "ASN-NETACCESS"
+    },
+    "56589": {
+        "country_code": "NO",
+        "asn": "56589",
+        "description": "NASJONAL SIKKERHETSMYNDIGHET",
+        "handle": "NSXN"
+    },
+    "56655": {
+        "country_code": "NO",
+        "asn": "56655",
+        "description": "Gigahost AS",
+        "handle": "GIGAHOST"
+    },
+    "56809": {
+        "country_code": "NO",
+        "asn": "56809",
+        "description": "Isokron AS",
+        "handle": "KARSTENSEN"
+    },
+    "56828": {
+        "country_code": "NO",
+        "asn": "56828",
+        "description": "Norsk Helsenett SF",
+        "handle": "NORWEGIANHEALTHNETWORK"
+    },
+    "56867": {
+        "country_code": "NO",
+        "asn": "56867",
+        "description": "Upheads AS",
+        "handle": "NO-UPHEADS-OSL"
+    },
+    "57280": {
+        "country_code": "NO",
+        "asn": "57280",
+        "description": "Lindbak IT AS",
+        "handle": "IOPS-AS"
+    },
+    "57381": {
+        "country_code": "NO",
+        "asn": "57381",
+        "description": "Daniel Husand",
+        "handle": "FNUTT"
+    },
+    "57423": {
+        "country_code": "NO",
+        "asn": "57423",
+        "description": "Sigterm AS",
+        "handle": "NEXTNETWORKS-AS"
+    },
+    "57506": {
+        "country_code": "NO",
+        "asn": "57506",
+        "description": "POLITIETS IT-ENHET",
+        "handle": "ASN-PDMT"
+    },
+    "57522": {
+        "country_code": "NO",
+        "asn": "57522",
+        "description": "BAHNHOF AS",
+        "handle": "ASN-NEXTNET"
+    },
+    "57660": {
+        "country_code": "NO",
+        "asn": "57660",
+        "description": "Com4 AS",
+        "handle": "COM4-AS"
+    },
+    "57775": {
+        "country_code": "NO",
+        "asn": "57775",
+        "description": "Gigahost AS",
+        "handle": "FSIX-AS"
+    },
+    "57829": {
+        "country_code": "NO",
+        "asn": "57829",
+        "description": "IVER NORGE AS",
+        "handle": "IVER"
+    },
+    "57963": {
+        "country_code": "NO",
+        "asn": "57963",
+        "description": "GLOBALCONNECT AS",
+        "handle": "LYNET-INTERNETT-AS"
+    },
+    "57997": {
+        "country_code": "NO",
+        "asn": "57997",
+        "description": "Nexthop AS",
+        "handle": "NEXTHOP"
+    },
+    "58005": {
+        "country_code": "NO",
+        "asn": "58005",
+        "description": "F24 NORDICS AS",
+        "handle": "ONEVOICE-AS"
+    },
+    "58264": {
+        "country_code": "NO",
+        "asn": "58264",
+        "description": "Austevoll Kraftlag BA",
+        "handle": "LYSGLIMT"
+    },
+    "58298": {
+        "country_code": "NO",
+        "asn": "58298",
+        "description": "Cisco Systems Norway AS",
+        "handle": "AVVID"
+    },
+    "58302": {
+        "country_code": "NO",
+        "asn": "58302",
+        "description": "Studentersamfundet i Trondhjem",
+        "handle": "SAMFUNDET-AS"
+    },
+    "59438": {
+        "country_code": "NO",
+        "asn": "59438",
+        "description": "Increo AS",
+        "handle": "INCREO-AS"
+    },
+    "59562": {
+        "country_code": "NO",
+        "asn": "59562",
+        "description": "Sensio AS",
+        "handle": "SENSIO-AS"
+    },
+    "59720": {
+        "country_code": "NO",
+        "asn": "59720",
+        "description": "Bofiber AS",
+        "handle": "BOFIBER"
+    },
+    "59767": {
+        "country_code": "NO",
+        "asn": "59767",
+        "description": "Netnordic Group AS",
+        "handle": "NETNORDIC"
+    },
+    "59863": {
+        "country_code": "NO",
+        "asn": "59863",
+        "description": "Norsk Regnesentral",
+        "handle": "NORSKREGNESENTRAL"
+    },
+    "59978": {
+        "country_code": "NO",
+        "asn": "59978",
+        "description": "Hafslund Kraft AS",
+        "handle": "E-CO"
+    },
+    "60052": {
+        "country_code": "NO",
+        "asn": "60052",
+        "description": "Forsvarsdepartementet",
+        "handle": "ASN-FD"
+    },
+    "60130": {
+        "country_code": "NO",
+        "asn": "60130",
+        "description": "Nexthop AS",
+        "handle": "ZETTAIO"
+    },
+    "60163": {
+        "country_code": "NO",
+        "asn": "60163",
+        "description": "KEKLOLWTF AS",
+        "handle": "KEKLOLWTF-AS"
+    },
+    "60270": {
+        "country_code": "NO",
+        "asn": "60270",
+        "description": "Justis- og beredskapsdepartementet",
+        "handle": "ASN-JUSTIS"
+    },
+    "60278": {
+        "country_code": "NO",
+        "asn": "60278",
+        "description": "Helse Vest IKT AS",
+        "handle": "HELSE-VEST-IKT"
+    },
+    "60586": {
+        "country_code": "NO",
+        "asn": "60586",
+        "description": "Securitas AS",
+        "handle": "SECURITAS-AS-NORWAY"
+    },
+    "60717": {
+        "country_code": "NO",
+        "asn": "60717",
+        "description": "Nexthop AS",
+        "handle": "BAYONETTE"
+    },
+    "60745": {
+        "country_code": "NO",
+        "asn": "60745",
+        "description": "Elvia AS",
+        "handle": "HAFSLUND-AS"
+    },
+    "60848": {
+        "country_code": "NO",
+        "asn": "60848",
+        "description": "mnemonic AS",
+        "handle": "MNEMONIC-SVG"
+    },
+    "60908": {
+        "country_code": "NO",
+        "asn": "60908",
+        "description": "Sucom AS",
+        "handle": "SUCOM-AS"
+    },
+    "61006": {
+        "country_code": "NO",
+        "asn": "61006",
+        "description": "Bredbandsfylket AS",
+        "handle": "BREDBANDSFYLKET-TROMS"
+    },
+    "61122": {
+        "country_code": "NO",
+        "asn": "61122",
+        "description": "Blix Group AS",
+        "handle": "NO-BLIXGROUP-AS"
+    },
+    "61188": {
+        "country_code": "NO",
+        "asn": "61188",
+        "description": "Blix Group AS",
+        "handle": "ASN-HOTWIRE"
+    },
+    "61213": {
+        "country_code": "NO",
+        "asn": "61213",
+        "description": "Visma Software International AS",
+        "handle": "VISMA-AS"
+    },
+    "61227": {
+        "country_code": "NO",
+        "asn": "61227",
+        "description": "Nexthop AS",
+        "handle": "NEXTHOP-ANYCAST"
+    },
+    "61238": {
+        "country_code": "NO",
+        "asn": "61238",
+        "description": "Blackbird AS",
+        "handle": "BLACKBIRD"
+    },
+    "61275": {
+        "country_code": "NO",
+        "asn": "61275",
+        "description": "NEAS ENERGI TELEKOM AS",
+        "handle": "ASN-NEAS"
+    },
+    "61292": {
+        "country_code": "NO",
+        "asn": "61292",
+        "description": "Blix Group AS",
+        "handle": "BLXGRP"
+    },
+    "61300": {
+        "country_code": "NO",
+        "asn": "61300",
+        "description": "Blix Group AS",
+        "handle": "FIXO"
+    },
+    "62002": {
+        "country_code": "NO",
+        "asn": "62002",
+        "description": "Rissa Kraftlag SA",
+        "handle": "RISSAKRAFTLAG-AS"
+    },
+    "62186": {
+        "country_code": "NO",
+        "asn": "62186",
+        "description": "Gjovik Kommune",
+        "handle": "GJOVIK-KOMMUNE"
+    },
+    "62225": {
+        "country_code": "NO",
+        "asn": "62225",
+        "description": "Viken Fiber AS",
+        "handle": "HALDENDATASERVICE"
+    },
+    "62271": {
+        "country_code": "NO",
+        "asn": "62271",
+        "description": "Blix Group AS",
+        "handle": "BLIXCOLO"
+    },
+    "64401": {
+        "country_code": "NO",
+        "asn": "64401",
+        "description": "Rignet AS",
+        "handle": "RIGNET-GB-AS"
+    },
+    "64424": {
+        "country_code": "NO",
+        "asn": "64424",
+        "description": "NETSECURITY AS",
+        "handle": "ASN-NETSECURITY"
+    },
+    "64440": {
+        "country_code": "NO",
+        "asn": "64440",
+        "description": "Kongsberg Aviation Maintenance Services AS",
+        "handle": "ASN-KAMS"
+    },
+    "196788": {
+        "country_code": "NO",
+        "asn": "196788",
+        "description": "Aker ASA",
+        "handle": "AKER-ASA"
+    },
+    "197090": {
+        "country_code": "NO",
+        "asn": "197090",
+        "description": "Avinor AS",
+        "handle": "OSL-AS"
+    },
+    "197212": {
+        "country_code": "NO",
+        "asn": "197212",
+        "description": "Ardalsnett AS",
+        "handle": "AARDALSNETT-AS"
+    },
+    "197475": {
+        "country_code": "NO",
+        "asn": "197475",
+        "description": "Petabit AS",
+        "handle": "ZNETT"
+    },
+    "197519": {
+        "country_code": "NO",
+        "asn": "197519",
+        "description": "ADVANIA NORGE AS",
+        "handle": "NETSCENARIO"
+    },
+    "197943": {
+        "country_code": "NO",
+        "asn": "197943",
+        "description": "Telenor Norge AS",
+        "handle": "NMN-NO-AS"
+    },
+    "198204": {
+        "country_code": "NO",
+        "asn": "198204",
+        "description": "Samlerhuset Norge AS",
+        "handle": "SAMLERHUSET-AS"
+    },
+    "198309": {
+        "country_code": "NO",
+        "asn": "198309",
+        "description": "Telia Norge AS",
+        "handle": "PHONERO"
+    },
+    "198368": {
+        "country_code": "NO",
+        "asn": "198368",
+        "description": "EPROVIDER AS",
+        "handle": "ASN-EPROVIDER"
+    },
+    "198869": {
+        "country_code": "NO",
+        "asn": "198869",
+        "description": "iteam Braathe AS",
+        "handle": "ITET-AS"
+    },
+    "198931": {
+        "country_code": "NO",
+        "asn": "198931",
+        "description": "ADVANIA NORGE AS",
+        "handle": "KEYSTEP-AS"
+    },
+    "198992": {
+        "country_code": "NO",
+        "asn": "198992",
+        "description": "Opera Software International AS",
+        "handle": "PL-OPERA"
+    },
+    "199169": {
+        "country_code": "NO",
+        "asn": "199169",
+        "description": "SECTOR ALARM TECH AS",
+        "handle": "SA-FINLAND-OY"
+    },
+    "199339": {
+        "country_code": "NO",
+        "asn": "199339",
+        "description": "Bulk Infrastructure Holding AS",
+        "handle": "INFRAGREEN"
+    },
+    "199655": {
+        "country_code": "NO",
+        "asn": "199655",
+        "description": "VikingMUD",
+        "handle": "VIKINGMUD"
+    },
+    "199672": {
+        "country_code": "NO",
+        "asn": "199672",
+        "description": "Eidsiva Energi AS",
+        "handle": "EIDSIVAENERGI"
+    },
+    "199791": {
+        "country_code": "NO",
+        "asn": "199791",
+        "description": "Embriq AS",
+        "handle": "EMBRIQ-NO"
+    },
+    "199821": {
+        "country_code": "NO",
+        "asn": "199821",
+        "description": "ITsjefen AS",
+        "handle": "ITSJEFEN-SE"
+    },
+    "199852": {
+        "country_code": "NO",
+        "asn": "199852",
+        "description": "Joachim Tingvold",
+        "handle": "JOCKE-AS"
+    },
+    "199900": {
+        "country_code": "NO",
+        "asn": "199900",
+        "description": "Bedriftssystemer AS",
+        "handle": "ASN-BEDSYS"
+    },
+    "199990": {
+        "country_code": "NO",
+        "asn": "199990",
+        "description": "LOCALHOST AS",
+        "handle": "LOCALHOST-AS"
+    },
+    "199999": {
+        "country_code": "NO",
+        "asn": "199999",
+        "description": "AKVA group ASA",
+        "handle": "BNNIT"
+    },
+    "200037": {
+        "country_code": "NO",
+        "asn": "200037",
+        "description": "Otrobanda AS",
+        "handle": "NO-OSSELLE-AS"
+    },
+    "200042": {
+        "country_code": "NO",
+        "asn": "200042",
+        "description": "Netcenter AS",
+        "handle": "NC-NW-NO"
+    },
+    "200139": {
+        "country_code": "NO",
+        "asn": "200139",
+        "description": "Statens Vegvesen",
+        "handle": "STATENS-VEGVESEN"
+    },
+    "200163": {
+        "country_code": "NO",
+        "asn": "200163",
+        "description": "Move AS",
+        "handle": "NO-ITERANETWORKS"
+    },
+    "200168": {
+        "country_code": "NO",
+        "asn": "200168",
+        "description": "Telenor Norge AS",
+        "handle": "TELENOR-CNX-DC"
+    },
+    "200665": {
+        "country_code": "NO",
+        "asn": "200665",
+        "description": "Hammerfest Energi Bredbaand AS",
+        "handle": "HFESTENERGI"
+    },
+    "200693": {
+        "country_code": "NO",
+        "asn": "200693",
+        "description": "Kongsberg Satellite Services AS",
+        "handle": "KSAT"
+    },
+    "200781": {
+        "country_code": "NO",
+        "asn": "200781",
+        "description": "Tampnet AS",
+        "handle": "TAMPNET-AS"
+    },
+    "200782": {
+        "country_code": "NO",
+        "asn": "200782",
+        "description": "Yinson Production AS",
+        "handle": "YINSON-PRODUCTION-AS"
+    },
+    "200915": {
+        "country_code": "NO",
+        "asn": "200915",
+        "description": "More og Romsdal fylkeskommune",
+        "handle": "MRFK"
+    },
+    "201074": {
+        "country_code": "NO",
+        "asn": "201074",
+        "description": "Helse Nord RHF",
+        "handle": "HELSENORD-AS"
+    },
+    "201098": {
+        "country_code": "NO",
+        "asn": "201098",
+        "description": "IKT NORDFJORD",
+        "handle": "NORDFJORDNETT"
+    },
+    "201165": {
+        "country_code": "NO",
+        "asn": "201165",
+        "description": "BAHNHOF AS",
+        "handle": "ASDN"
+    },
+    "201322": {
+        "country_code": "NO",
+        "asn": "201322",
+        "description": "Helse Sor-Ost RHF",
+        "handle": "SYKEHUSPARTNER-AS"
+    },
+    "201419": {
+        "country_code": "NO",
+        "asn": "201419",
+        "description": "Buypass AS",
+        "handle": "BP2-AS"
+    },
+    "201454": {
+        "country_code": "NO",
+        "asn": "201454",
+        "description": "Upheads AS",
+        "handle": "UPHEADS"
+    },
+    "201577": {
+        "country_code": "NO",
+        "asn": "201577",
+        "description": "Monsternett AS",
+        "handle": "MONSTERNETT"
+    },
+    "201596": {
+        "country_code": "NO",
+        "asn": "201596",
+        "description": "3NET AS",
+        "handle": "THREENETAS"
+    },
+    "201627": {
+        "country_code": "NO",
+        "asn": "201627",
+        "description": "DNB BANK ASA",
+        "handle": "DNBASA"
+    },
+    "201656": {
+        "country_code": "NO",
+        "asn": "201656",
+        "description": "Helgeland Kraft AS",
+        "handle": "HKIT"
+    },
+    "201822": {
+        "country_code": "NO",
+        "asn": "201822",
+        "description": "Buypass AS",
+        "handle": "BP-AS"
+    },
+    "201888": {
+        "country_code": "NO",
+        "asn": "201888",
+        "description": "Cegal AS",
+        "handle": "CEGAL"
+    },
+    "201895": {
+        "country_code": "NO",
+        "asn": "201895",
+        "description": "EG Norge AS",
+        "handle": "PATIENTSKY"
+    },
+    "202008": {
+        "country_code": "NO",
+        "asn": "202008",
+        "description": "DATEK INSTALLASJON AS",
+        "handle": "DATEK-INST"
+    },
+    "202039": {
+        "country_code": "NO",
+        "asn": "202039",
+        "description": "Bjorn Ludvig Langaas Johansen",
+        "handle": "BJOLAB"
+    },
+    "202057": {
+        "country_code": "NO",
+        "asn": "202057",
+        "description": "Moelven Modus AS",
+        "handle": "MOELVEN-NORDIA"
+    },
+    "202059": {
+        "country_code": "NO",
+        "asn": "202059",
+        "description": "Oyvind Monslop",
+        "handle": "MNSLP-AS"
+    },
+    "202060": {
+        "country_code": "NO",
+        "asn": "202060",
+        "description": "viddy Networks - Marius Eikenes",
+        "handle": "VIDDY-AS"
+    },
+    "202068": {
+        "country_code": "NO",
+        "asn": "202068",
+        "description": "ROY SINDRE NORANGSHOL",
+        "handle": "ROCKJ-AS"
+    },
+    "202128": {
+        "country_code": "NO",
+        "asn": "202128",
+        "description": "ITEAM 10 AS",
+        "handle": "FJORDANE-IT"
+    },
+    "202174": {
+        "country_code": "NO",
+        "asn": "202174",
+        "description": "FLOW RETAIL AS",
+        "handle": "EMSP-AS"
+    },
+    "202204": {
+        "country_code": "NO",
+        "asn": "202204",
+        "description": "Trollfjord Bredband AS",
+        "handle": "TROLLFJORD"
+    },
+    "202230": {
+        "country_code": "NO",
+        "asn": "202230",
+        "description": "Norsk Tipping AS",
+        "handle": "NORSK-TIPPING"
+    },
+    "202311": {
+        "country_code": "NO",
+        "asn": "202311",
+        "description": "Noki Eiendom AS",
+        "handle": "AEDB-AS-01"
+    },
+    "202875": {
+        "country_code": "NO",
+        "asn": "202875",
+        "description": "Sticos AS",
+        "handle": "STICOS"
+    },
+    "202992": {
+        "country_code": "NO",
+        "asn": "202992",
+        "description": "Erik Nilsen trading as Nilsen Konsult",
+        "handle": "NILSEN-KONSULT"
+    },
+    "203033": {
+        "country_code": "NO",
+        "asn": "203033",
+        "description": "RAUMA ENERGI AS",
+        "handle": "RAUMA"
+    },
+    "203238": {
+        "country_code": "NO",
+        "asn": "203238",
+        "description": "Viken Fiber AS",
+        "handle": "DATASERVICE-2"
+    },
+    "203343": {
+        "country_code": "NO",
+        "asn": "203343",
+        "description": "StormGeo AS",
+        "handle": "STORMGEO-EU"
+    },
+    "203415": {
+        "country_code": "NO",
+        "asn": "203415",
+        "description": "Jorgen Sovik",
+        "handle": "SOVIK"
+    },
+    "203424": {
+        "country_code": "NO",
+        "asn": "203424",
+        "description": "TUSSA IKT AS",
+        "handle": "TIKT"
+    },
+    "203430": {
+        "country_code": "NO",
+        "asn": "203430",
+        "description": "BS TRADING & MEV AS",
+        "handle": "BSTRADING-AS"
+    },
+    "203515": {
+        "country_code": "NO",
+        "asn": "203515",
+        "description": "University of Oslo",
+        "handle": "NIX"
+    },
+    "203580": {
+        "country_code": "NO",
+        "asn": "203580",
+        "description": "NORDLAND FYLKESKOMMUNE",
+        "handle": "NFK"
+    },
+    "203650": {
+        "country_code": "NO",
+        "asn": "203650",
+        "description": "ITEAM 1 AS",
+        "handle": "FUNN-NO"
+    },
+    "203659": {
+        "country_code": "NO",
+        "asn": "203659",
+        "description": "Provendo AS",
+        "handle": "PROVENDO"
+    },
+    "203673": {
+        "country_code": "NO",
+        "asn": "203673",
+        "description": "Alesund Kommune",
+        "handle": "AALESUND-ASN"
+    },
+    "203733": {
+        "country_code": "NO",
+        "asn": "203733",
+        "description": "BINERO TROMSO AS",
+        "handle": "ITPARTNER-NO"
+    },
+    "203779": {
+        "country_code": "NO",
+        "asn": "203779",
+        "description": "NORDFIBER AS",
+        "handle": "NORDFIBER"
+    },
+    "203823": {
+        "country_code": "NO",
+        "asn": "203823",
+        "description": "ITEAM 10 AS",
+        "handle": "FJORDANEIT-ITEAM10"
+    },
+    "203863": {
+        "country_code": "NO",
+        "asn": "203863",
+        "description": "ONIT AS",
+        "handle": "NORDIX-RS"
+    },
+    "203995": {
+        "country_code": "NO",
+        "asn": "203995",
+        "description": "Lyse Tele AS",
+        "handle": "ICENET"
+    },
+    "204027": {
+        "country_code": "NO",
+        "asn": "204027",
+        "description": "Registerenheten i Bronnoysund",
+        "handle": "NO-BRREG"
+    },
+    "204224": {
+        "country_code": "NO",
+        "asn": "204224",
+        "description": "Heimnett AS",
+        "handle": "HEIMNETT-AS"
+    },
+    "204228": {
+        "country_code": "NO",
+        "asn": "204228",
+        "description": "Jan Egil Vestbo",
+        "handle": "JANEGIL-AS"
+    },
+    "204503": {
+        "country_code": "NO",
+        "asn": "204503",
+        "description": "INFRANORD SA",
+        "handle": "LUOSTEJOK"
+    },
+    "204511": {
+        "country_code": "NO",
+        "asn": "204511",
+        "description": "Upheads AS",
+        "handle": "NO-UPHEADS-INT"
+    },
+    "204712": {
+        "country_code": "NO",
+        "asn": "204712",
+        "description": "Duett AS",
+        "handle": "DUETT"
+    },
+    "204734": {
+        "country_code": "NO",
+        "asn": "204734",
+        "description": "Hvaler kommune",
+        "handle": "HVALERBREDBAND"
+    },
+    "204785": {
+        "country_code": "NO",
+        "asn": "204785",
+        "description": "Raul Ghita trading as 'Ghita Telekom'",
+        "handle": "TAKEHOST"
+    },
+    "204901": {
+        "country_code": "NO",
+        "asn": "204901",
+        "description": "Christoffer Aasum Unes",
+        "handle": "FRIENDLYPEERING-AS"
+    },
+    "204956": {
+        "country_code": "NO",
+        "asn": "204956",
+        "description": "Puzzel AS",
+        "handle": "PUZZEL-AS"
+    },
+    "204996": {
+        "country_code": "NO",
+        "asn": "204996",
+        "description": "Telemix AS",
+        "handle": "TMNET"
+    },
+    "205043": {
+        "country_code": "NO",
+        "asn": "205043",
+        "description": "Andreas Martin Steiro",
+        "handle": "SKTTYNET"
+    },
+    "205101": {
+        "country_code": "NO",
+        "asn": "205101",
+        "description": "STAVANGER KOMMUNE",
+        "handle": "STAVANGER-KOMMUNE"
+    },
+    "205190": {
+        "country_code": "NO",
+        "asn": "205190",
+        "description": "AKSA HJEM AS",
+        "handle": "ALTAKRAFTLAG"
+    },
+    "205238": {
+        "country_code": "NO",
+        "asn": "205238",
+        "description": "TIMEIT AS",
+        "handle": "TIMEIT"
+    },
+    "205639": {
+        "country_code": "NO",
+        "asn": "205639",
+        "description": "Altidata AS",
+        "handle": "TELSYS-NORWAY"
+    },
+    "205851": {
+        "country_code": "NO",
+        "asn": "205851",
+        "description": "Inventum Ost AS",
+        "handle": "INVENTUM"
+    },
+    "205945": {
+        "country_code": "NO",
+        "asn": "205945",
+        "description": "BASIS.NO AS",
+        "handle": "BASIS"
+    },
+    "205976": {
+        "country_code": "NO",
+        "asn": "205976",
+        "description": "Arribatec Cloud AS",
+        "handle": "INNIT"
+    },
+    "206133": {
+        "country_code": "NO",
+        "asn": "206133",
+        "description": "Circle K AS",
+        "handle": "CKE-AS"
+    },
+    "206145": {
+        "country_code": "NO",
+        "asn": "206145",
+        "description": "Sunndal kommune",
+        "handle": "IKTORKIDE"
+    },
+    "206220": {
+        "country_code": "NO",
+        "asn": "206220",
+        "description": "IT DATA AS",
+        "handle": "ADCOM"
+    },
+    "206260": {
+        "country_code": "NO",
+        "asn": "206260",
+        "description": "Svorka AS",
+        "handle": "SVORKA"
+    },
+    "206263": {
+        "country_code": "NO",
+        "asn": "206263",
+        "description": "Nasjonalt kommunesamarbeid for 110-sentralene IKS",
+        "handle": "NKS110"
+    },
+    "206416": {
+        "country_code": "NO",
+        "asn": "206416",
+        "description": "Sparebank 1 Sogn og Fjordane",
+        "handle": "SSFNO"
+    },
+    "206557": {
+        "country_code": "NO",
+        "asn": "206557",
+        "description": "Eltele AS",
+        "handle": "ELTELE"
+    },
+    "206667": {
+        "country_code": "NO",
+        "asn": "206667",
+        "description": "JOTTA GROUP AS",
+        "handle": "JOTTA-AS"
+    },
+    "206711": {
+        "country_code": "NO",
+        "asn": "206711",
+        "description": "ECIT SOLUTIONS AS",
+        "handle": "DPIT"
+    },
+    "206725": {
+        "country_code": "NO",
+        "asn": "206725",
+        "description": "LOTTERI OG STIFTELSESTILSYNET",
+        "handle": "LOTTSTIFT"
+    },
+    "206897": {
+        "country_code": "NO",
+        "asn": "206897",
+        "description": "SOPRA STERIA AS",
+        "handle": "ASN-NO-STERIA"
+    },
+    "206993": {
+        "country_code": "NO",
+        "asn": "206993",
+        "description": "A ENERGI AS",
+        "handle": "AGDER-ENERGI-NORWAY"
+    },
+    "207031": {
+        "country_code": "NO",
+        "asn": "207031",
+        "description": "Nexthop AS",
+        "handle": "V-HOSTING-AS"
+    },
+    "207189": {
+        "country_code": "NO",
+        "asn": "207189",
+        "description": "SANDEFJORD LUFTHAVN DRIFT AS",
+        "handle": "SANDEFJORD-LUFTHAVN"
+    },
+    "207307": {
+        "country_code": "NO",
+        "asn": "207307",
+        "description": "Viken Fiber AS",
+        "handle": "SKIPVETDIGITAL"
+    },
+    "207346": {
+        "country_code": "NO",
+        "asn": "207346",
+        "description": "Dustin Norway AS",
+        "handle": "DUSTIN-MS-NO"
+    },
+    "207441": {
+        "country_code": "NO",
+        "asn": "207441",
+        "description": "NORSK HYDRO ASA",
+        "handle": "HYDRO-12345"
+    },
+    "207464": {
+        "country_code": "NO",
+        "asn": "207464",
+        "description": "Varanger KraftFiber AS",
+        "handle": "VARANGERKRAFTUTVIKLING"
+    },
+    "207564": {
+        "country_code": "NO",
+        "asn": "207564",
+        "description": "Anders Hansen",
+        "handle": "AS207564"
+    },
+    "207659": {
+        "country_code": "NO",
+        "asn": "207659",
+        "description": "Cegal AS",
+        "handle": "CEGAL-NL"
+    },
+    "207674": {
+        "country_code": "NO",
+        "asn": "207674",
+        "description": "STO AS",
+        "handle": "VIPPS-AS"
+    },
+    "207788": {
+        "country_code": "NO",
+        "asn": "207788",
+        "description": "YOLO COLO AS",
+        "handle": "YOLO-AS"
+    },
+    "207824": {
+        "country_code": "NO",
+        "asn": "207824",
+        "description": "KNUT PETTER OLBERG",
+        "handle": "FLUXXX"
+    },
+    "207851": {
+        "country_code": "NO",
+        "asn": "207851",
+        "description": "Fara AS",
+        "handle": "FARA"
+    },
+    "208004": {
+        "country_code": "NO",
+        "asn": "208004",
+        "description": "RSCS AS",
+        "handle": "KONICAMINOLTA"
+    },
+    "208042": {
+        "country_code": "NO",
+        "asn": "208042",
+        "description": "Netsolution Vestfold og Telemark AS",
+        "handle": "NETSOLUTION-BUSKERUD"
+    },
+    "208045": {
+        "country_code": "NO",
+        "asn": "208045",
+        "description": "Domeneshop AS",
+        "handle": "GRUNERNETT"
+    },
+    "208086": {
+        "country_code": "NO",
+        "asn": "208086",
+        "description": "Digitaliseringsdirektoratet",
+        "handle": "DIGDIR-AS"
+    },
+    "208202": {
+        "country_code": "NO",
+        "asn": "208202",
+        "description": "Fiberverket AS",
+        "handle": "FIBERVERKET"
+    },
+    "208263": {
+        "country_code": "NO",
+        "asn": "208263",
+        "description": "Harstad Kommune",
+        "handle": "HARSTAD-KOMMUNE"
+    },
+    "208512": {
+        "country_code": "NO",
+        "asn": "208512",
+        "description": "RF Nett AS",
+        "handle": "RFNETT"
+    },
+    "208686": {
+        "country_code": "NO",
+        "asn": "208686",
+        "description": "Nordic Servers AS",
+        "handle": "NORDIC-SERVERS"
+    },
+    "208692": {
+        "country_code": "NO",
+        "asn": "208692",
+        "description": "Kripos",
+        "handle": "ASN-NCIS"
+    },
+    "208835": {
+        "country_code": "NO",
+        "asn": "208835",
+        "description": "InfraNord Fiber AS",
+        "handle": "INFRANORD"
+    },
+    "208869": {
+        "country_code": "NO",
+        "asn": "208869",
+        "description": "sharptech DA",
+        "handle": "SHARPTECH"
+    },
+    "208966": {
+        "country_code": "NO",
+        "asn": "208966",
+        "description": "Sortland Elektro AS",
+        "handle": "SKTV"
+    },
+    "209293": {
+        "country_code": "NO",
+        "asn": "209293",
+        "description": "AKER BP ASA",
+        "handle": "ASN-NO-AKERBP"
+    },
+    "209404": {
+        "country_code": "NO",
+        "asn": "209404",
+        "description": "Cyberon Security AS",
+        "handle": "CYBERON"
+    },
+    "209512": {
+        "country_code": "NO",
+        "asn": "209512",
+        "description": "Alex Thomassen",
+        "handle": "THOMASSEN-AS"
+    },
+    "209568": {
+        "country_code": "NO",
+        "asn": "209568",
+        "description": "F24 NORDICS AS",
+        "handle": "ONEVOICE-UK"
+    },
+    "209861": {
+        "country_code": "NO",
+        "asn": "209861",
+        "description": "Christoffer Aasum Unes",
+        "handle": "AS-CHRISTOFFERUNES"
+    },
+    "209903": {
+        "country_code": "NO",
+        "asn": "209903",
+        "description": "Conscia Norge AS",
+        "handle": "CONSCIA-NO"
+    },
+    "209965": {
+        "country_code": "NO",
+        "asn": "209965",
+        "description": "MULTINETT AS",
+        "handle": "MULTINETT"
+    },
+    "209980": {
+        "country_code": "NO",
+        "asn": "209980",
+        "description": "Marlink AS",
+        "handle": "MARLINK-EU-OMNIACCESS"
+    },
+    "210150": {
+        "country_code": "NO",
+        "asn": "210150",
+        "description": "Voss Fiber AS",
+        "handle": "VOSSFIBER"
+    },
+    "210152": {
+        "country_code": "NO",
+        "asn": "210152",
+        "description": "Jon Vanvik trading as Vanvik Internet",
+        "handle": "VANVIK-INTERNET"
+    },
+    "210307": {
+        "country_code": "NO",
+        "asn": "210307",
+        "description": "NAGRAVISION AS",
+        "handle": "EU-OSL-CONAX"
+    },
+    "210314": {
+        "country_code": "NO",
+        "asn": "210314",
+        "description": "Marlink AS",
+        "handle": "ITC-EU"
+    },
+    "210475": {
+        "country_code": "NO",
+        "asn": "210475",
+        "description": "Jon Vanvik trading as Vanvik Internet",
+        "handle": "VANVIK-DC"
+    },
+    "210615": {
+        "country_code": "NO",
+        "asn": "210615",
+        "description": "Alta kommune",
+        "handle": "ALTA-KOMMUNE"
+    },
+    "210794": {
+        "country_code": "NO",
+        "asn": "210794",
+        "description": "Eivind Haldorsen",
+        "handle": "EIVIND-HALDORSEN"
+    },
+    "210942": {
+        "country_code": "NO",
+        "asn": "210942",
+        "description": "SECTOR ALARM TECH AS",
+        "handle": "SA-SWEDEN-AB"
+    },
+    "211119": {
+        "country_code": "NO",
+        "asn": "211119",
+        "description": "Rignet AS",
+        "handle": "RIGNET-NG-AS"
+    },
+    "211309": {
+        "country_code": "NO",
+        "asn": "211309",
+        "description": "Obos Nett AS",
+        "handle": "OBOSOPENNET-NO"
+    },
+    "211383": {
+        "country_code": "NO",
+        "asn": "211383",
+        "description": "Bykle Breiband AS",
+        "handle": "ASN-BYKLE"
+    },
+    "211474": {
+        "country_code": "NO",
+        "asn": "211474",
+        "description": "Safey AS",
+        "handle": "SAFEY"
+    },
+    "211684": {
+        "country_code": "NO",
+        "asn": "211684",
+        "description": "Cermaq Norway AS",
+        "handle": "CERMAQNORWAY"
+    },
+    "211685": {
+        "country_code": "NO",
+        "asn": "211685",
+        "description": "Kim-Eirik Karlsen",
+        "handle": "GUILTYSPARK"
+    },
+    "211753": {
+        "country_code": "NO",
+        "asn": "211753",
+        "description": "IMC AS",
+        "handle": "PELIAS"
+    },
+    "211767": {
+        "country_code": "NO",
+        "asn": "211767",
+        "description": "Haavard Ose Nordstrand",
+        "handle": "HON"
+    },
+    "212064": {
+        "country_code": "NO",
+        "asn": "212064",
+        "description": "Tolletaten ORGL",
+        "handle": "TOLL-NO"
+    },
+    "212106": {
+        "country_code": "NO",
+        "asn": "212106",
+        "description": "Departementenes Digitaliseringsorganisasjon (DIO)",
+        "handle": "DEPARTEMENTENES-DIGITALISERINGSORGANISASJON"
+    },
+    "212252": {
+        "country_code": "NO",
+        "asn": "212252",
+        "description": "VIDAR TESSEM trading as VT KONSULENT TESSEM",
+        "handle": "FUCKMYLIFE"
+    },
+    "212334": {
+        "country_code": "NO",
+        "asn": "212334",
+        "description": "JIIT AS",
+        "handle": "JIIT-AS"
+    },
+    "212449": {
+        "country_code": "NO",
+        "asn": "212449",
+        "description": "Erate AS",
+        "handle": "ERATE"
+    },
+    "212500": {
+        "country_code": "NO",
+        "asn": "212500",
+        "description": "Surfnett AS",
+        "handle": "SURFNET"
+    },
+    "212502": {
+        "country_code": "NO",
+        "asn": "212502",
+        "description": "Trondheim kommune",
+        "handle": "TK2020"
+    },
+    "212514": {
+        "country_code": "NO",
+        "asn": "212514",
+        "description": "SpanningNetworks AS",
+        "handle": "SPANNINGNETWORKS-AS"
+    },
+    "212642": {
+        "country_code": "NO",
+        "asn": "212642",
+        "description": "Runnane Jon Tungland",
+        "handle": "RUNNANE"
+    },
+    "212665": {
+        "country_code": "NO",
+        "asn": "212665",
+        "description": "Sandefjord Fiber AS",
+        "handle": "SANDEFJORD-FIBER"
+    },
+    "212765": {
+        "country_code": "NO",
+        "asn": "212765",
+        "description": "Obos Nett AS",
+        "handle": "OBOSOPENNET-PEERING-NO"
+    },
+    "213043": {
+        "country_code": "NO",
+        "asn": "213043",
+        "description": "Asyncronous Transfer Mode Communication AS",
+        "handle": "ATMCOM"
+    },
+    "213148": {
+        "country_code": "NO",
+        "asn": "213148",
+        "description": "Harbour Energy Norge AS",
+        "handle": "WINTERSHALLDEANORGE"
+    },
+    "213156": {
+        "country_code": "NO",
+        "asn": "213156",
+        "description": "Bent Oystein Bostad",
+        "handle": "NO-BENTOYSTEIN"
+    },
+    "213158": {
+        "country_code": "NO",
+        "asn": "213158",
+        "description": "Nittedal Kommune",
+        "handle": "AS-NITTDAL"
+    },
+    "213464": {
+        "country_code": "NO",
+        "asn": "213464",
+        "description": "Salten Kraftsamband AS",
+        "handle": "SKS"
+    },
+    "213469": {
+        "country_code": "NO",
+        "asn": "213469",
+        "description": "Asker Kommune",
+        "handle": "ASKER-KOMMUNE"
+    },
+    "213715": {
+        "country_code": "NO",
+        "asn": "213715",
+        "description": "Oris Dental Holding AS",
+        "handle": "ODH-ASN"
+    },
+    "213839": {
+        "country_code": "NO",
+        "asn": "213839",
+        "description": "FRANK SOLLI",
+        "handle": "FRANK-SOLLI"
+    },
+    "213919": {
+        "country_code": "NO",
+        "asn": "213919",
+        "description": "Robert Lund",
+        "handle": "ROBERT-LUND"
+    },
+    "213957": {
+        "country_code": "NO",
+        "asn": "213957",
+        "description": "LILLESTROM KOMMUNE ORGANISASJON OG NYSKAPING",
+        "handle": "LILLESTROM-KOMMUNE"
+    },
+    "213978": {
+        "country_code": "NO",
+        "asn": "213978",
+        "description": "Benjamin Clement Sebastian",
+        "handle": "BSEB"
+    },
+    "213988": {
+        "country_code": "NO",
+        "asn": "213988",
+        "description": "Lars Strandos",
+        "handle": "NEROX"
+    },
+    "213998": {
+        "country_code": "NO",
+        "asn": "213998",
+        "description": "Piotr R. Antos trading as EQUITIA",
+        "handle": "EQUITIA"
+    },
+    "214372": {
+        "country_code": "NO",
+        "asn": "214372",
+        "description": "Bjorn-Vegar Borge",
+        "handle": "BORGERMEISTER"
+    },
+    "214486": {
+        "country_code": "NO",
+        "asn": "214486",
+        "description": "Jo Christian Skrede Buvarp",
+        "handle": "CYBERHAWK"
+    },
+    "214615": {
+        "country_code": "NO",
+        "asn": "214615",
+        "description": "TECHHEDGE LABS ANS",
+        "handle": "TECHHEDGE"
+    },
+    "214639": {
+        "country_code": "NO",
+        "asn": "214639",
+        "description": "Raul Ghita trading as 'Ghita Telekom'",
+        "handle": "TAKEHOST-AS"
+    },
+    "214645": {
+        "country_code": "NO",
+        "asn": "214645",
+        "description": "Bjarne Nilsson",
+        "handle": "BJARNE-NILSSON"
+    },
+    "214659": {
+        "country_code": "NO",
+        "asn": "214659",
+        "description": "Nscale Glomfjord AS",
+        "handle": "NSCALE-NO-PUBLIC"
+    },
+    "214667": {
+        "country_code": "NO",
+        "asn": "214667",
+        "description": "IXT AS",
+        "handle": "IXT-GLOBAL"
+    },
+    "214710": {
+        "country_code": "NO",
+        "asn": "214710",
+        "description": "nLogic AS",
+        "handle": "NLOGIC-AS"
+    },
+    "214761": {
+        "country_code": "NO",
+        "asn": "214761",
+        "description": "Foreach AS",
+        "handle": "FOREACH"
+    },
+    "214909": {
+        "country_code": "NO",
+        "asn": "214909",
+        "description": "Sverre Sognnaes",
+        "handle": "SVERRES-AS"
+    },
+    "214917": {
+        "country_code": "NO",
+        "asn": "214917",
+        "description": "Zeroize",
+        "handle": "ZEROIZE"
+    },
+    "215215": {
+        "country_code": "NO",
+        "asn": "215215",
+        "description": "Bergen kommune",
+        "handle": "BERGENKOMMUNE-AS"
+    },
+    "215295": {
+        "country_code": "NO",
+        "asn": "215295",
+        "description": "Skyfritt AS",
+        "handle": "SKYFRITT"
+    },
+    "215336": {
+        "country_code": "NO",
+        "asn": "215336",
+        "description": "Hovedkvarteret IT AS",
+        "handle": "HOVEDKVARTERETIT"
+    },
+    "215382": {
+        "country_code": "NO",
+        "asn": "215382",
+        "description": "Rokas Pettersen",
+        "handle": "STRX"
+    },
+    "215542": {
+        "country_code": "NO",
+        "asn": "215542",
+        "description": "NOVA SPEKTRUM AS",
+        "handle": "NOVA-SPEKTRUM-01"
+    },
+    "215574": {
+        "country_code": "NO",
+        "asn": "215574",
+        "description": "Kjetil Pettersen",
+        "handle": "KJETIL-PETTERSEN"
+    },
+    "215682": {
+        "country_code": "NO",
+        "asn": "215682",
+        "description": "Nscale Glomfjord AS",
+        "handle": "NSCALE-STAV-PUBLIC"
+    },
+    "215769": {
+        "country_code": "NO",
+        "asn": "215769",
+        "description": "Eigil Obrestad",
+        "handle": "OBRENET"
+    },
+    "215901": {
+        "country_code": "NO",
+        "asn": "215901",
+        "description": "Option AS",
+        "handle": "OPTION-AS"
+    },
+    "216091": {
+        "country_code": "NO",
+        "asn": "216091",
+        "description": "eth0 AS",
+        "handle": "ETH0-AS"
+    },
+    "216352": {
+        "country_code": "NO",
+        "asn": "216352",
+        "description": "Casual Gaming",
+        "handle": "CASUALGAMING"
+    },
+    "216374": {
+        "country_code": "NO",
+        "asn": "216374",
+        "description": "Hardanger Breiband AS",
+        "handle": "HARDANGERBREIBAND"
+    },
+    "216448": {
+        "country_code": "NO",
+        "asn": "216448",
+        "description": "Bane NOR SF",
+        "handle": "BANENOR"
+    }
+}

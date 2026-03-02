@@ -1,0 +1,6440 @@
+{
+    "1885": {
+        "country_code": "TR",
+        "asn": "1885",
+        "description": "Seker Sigorta AS",
+        "handle": "SBN-AS"
+    },
+    "2592": {
+        "country_code": "TR",
+        "asn": "2592",
+        "description": "Ege University",
+        "handle": "EGE-AS"
+    },
+    "2600": {
+        "country_code": "TR",
+        "asn": "2600",
+        "description": "ICBC TURKEY BANK A.S",
+        "handle": "ICBC-TURKEY-BANK-AS"
+    },
+    "2872": {
+        "country_code": "TR",
+        "asn": "2872",
+        "description": "Netcity Bilisim Teknolojileri Yazilim Internet Ve Iletisim Hizmetleri A.S",
+        "handle": "NCTY"
+    },
+    "3188": {
+        "country_code": "TR",
+        "asn": "3188",
+        "description": "Alastyr Telekomunikasyon A.S.",
+        "handle": "ALASTYR"
+    },
+    "5422": {
+        "country_code": "TR",
+        "asn": "5422",
+        "description": "Superonline Iletisim Hizmetleri A.S.",
+        "handle": "SUPERONLINE-ILETISIM-HIZMETLERI"
+    },
+    "5458": {
+        "country_code": "TR",
+        "asn": "5458",
+        "description": "QNB Finans Yatirim Menkul Degerler A.S.",
+        "handle": "FNV"
+    },
+    "5474": {
+        "country_code": "TR",
+        "asn": "5474",
+        "description": "TOBB Economics and Technology University",
+        "handle": "TOBBETU-NET"
+    },
+    "6205": {
+        "country_code": "TR",
+        "asn": "6205",
+        "description": "HizliNet Teknoloji A.S.",
+        "handle": "HIZLINET-TEKNOLOJI"
+    },
+    "6707": {
+        "country_code": "TR",
+        "asn": "6707",
+        "description": "D-Market Elektronik Hizmetler Tic. A.S.",
+        "handle": "HEPSI-BURADA-AS"
+    },
+    "6822": {
+        "country_code": "TR",
+        "asn": "6822",
+        "description": "Superonline Iletisim Hizmetleri A.S.",
+        "handle": "SUPERONLINE-AS"
+    },
+    "6823": {
+        "country_code": "TR",
+        "asn": "6823",
+        "description": "3C1B Telekomunikasyon ve Internet Hiz. San. ve Tic. A.S.",
+        "handle": "TR-3C1B-TELEKOM"
+    },
+    "7768": {
+        "country_code": "TR",
+        "asn": "7768",
+        "description": "Nuh Ahmet Firat trading as TEKNET YAZILIM VE BILGISAYAR TEKNOLOJILERI",
+        "handle": "TEKNET"
+    },
+    "8363": {
+        "country_code": "TR",
+        "asn": "8363",
+        "description": "KOC UNIVERSITY",
+        "handle": "KOCUNIV-AS"
+    },
+    "8386": {
+        "country_code": "TR",
+        "asn": "8386",
+        "description": "Vodafone Net Iletisim Hizmetler AS",
+        "handle": "KOCNET"
+    },
+    "8456": {
+        "country_code": "TR",
+        "asn": "8456",
+        "description": "Bogazici University",
+        "handle": "ASBOUN"
+    },
+    "8466": {
+        "country_code": "TR",
+        "asn": "8466",
+        "description": "Ihsan Dogramaci Bilkent University",
+        "handle": "BILKENT"
+    },
+    "8467": {
+        "country_code": "TR",
+        "asn": "8467",
+        "description": "Ihsan Dogramaci Bilkent University",
+        "handle": "BILKENT"
+    },
+    "8517": {
+        "country_code": "TR",
+        "asn": "8517",
+        "description": "National Academic Network and Information Center",
+        "handle": "ULAKNET"
+    },
+    "8678": {
+        "country_code": "TR",
+        "asn": "8678",
+        "description": "Ankara Universitesi Rektorlugu",
+        "handle": "ANKARA-NET"
+    },
+    "8685": {
+        "country_code": "TR",
+        "asn": "8685",
+        "description": "Doruk Iletisim ve Otomasyon Sanayi ve Ticaret A.S.",
+        "handle": "DORUKNET"
+    },
+    "8705": {
+        "country_code": "TR",
+        "asn": "8705",
+        "description": "Superonline Iletisim Hizmetleri A.S.",
+        "handle": "TNN"
+    },
+    "8721": {
+        "country_code": "TR",
+        "asn": "8721",
+        "description": "Hurriyet Gazetecilik & Matbacilik A.S.",
+        "handle": "HURRIYET-GAZETECILIK-MATBACILIK"
+    },
+    "8831": {
+        "country_code": "TR",
+        "asn": "8831",
+        "description": "QNB Finansbank A.S.",
+        "handle": "FINANSBANK"
+    },
+    "8869": {
+        "country_code": "TR",
+        "asn": "8869",
+        "description": "ATOS BILISIM DANISMANLIK VE MUSTERI HIZMETLERI SANAYI VE TICARET A.S.",
+        "handle": "SBS-AS2"
+    },
+    "8947": {
+        "country_code": "TR",
+        "asn": "8947",
+        "description": "Anadolubank A.S.",
+        "handle": "ANADOLUBANK-AS"
+    },
+    "9000": {
+        "country_code": "TR",
+        "asn": "9000",
+        "description": "Eser Telekom Sanayi ve Ticaret A.S.",
+        "handle": "ESER-ASN"
+    },
+    "9021": {
+        "country_code": "TR",
+        "asn": "9021",
+        "description": "Is Net Elektonik Bilgi Uretim Dagitim Ticaret ve Iletisim Hizmetleri A.S.",
+        "handle": "ISNET"
+    },
+    "9074": {
+        "country_code": "TR",
+        "asn": "9074",
+        "description": "KOC SISTEM BILGI VE ILETISIM HIZMETLERI ANONIM SIRKETI",
+        "handle": "KOCSISTEM"
+    },
+    "9095": {
+        "country_code": "TR",
+        "asn": "9095",
+        "description": "Istanbul Teknik Universitesi",
+        "handle": "ISTANBUL-TEKNIK-UNIVERSITESI"
+    },
+    "9121": {
+        "country_code": "TR",
+        "asn": "9121",
+        "description": "Turk Telekomunikasyon Anonim Sirketi",
+        "handle": "TTNET"
+    },
+    "9215": {
+        "country_code": "TR",
+        "asn": "9215",
+        "description": "Vmind Bilgi Teknolojileri Anonim Sirketi",
+        "handle": "VMIND"
+    },
+    "12296": {
+        "country_code": "TR",
+        "asn": "12296",
+        "description": "ADA-NET Internet ve Iletisim Hizmetleri Tic. A.S.",
+        "handle": "ADANET-TR"
+    },
+    "12444": {
+        "country_code": "TR",
+        "asn": "12444",
+        "description": "TELNET TELEKOM HIZMETLERI ANONIM SIRKETI",
+        "handle": "TURPRO-AS"
+    },
+    "12599": {
+        "country_code": "TR",
+        "asn": "12599",
+        "description": "Atlas On-Line Iletisim Sistemleri ve Tic. A.S.",
+        "handle": "ATLAS-AS"
+    },
+    "12729": {
+        "country_code": "TR",
+        "asn": "12729",
+        "description": "HSBC BANK ANONIM SIRKETI",
+        "handle": "HSBC-TR-BANK-INTERNET"
+    },
+    "12735": {
+        "country_code": "TR",
+        "asn": "12735",
+        "description": "TurkNet Iletisim Hizmetleri A.S.",
+        "handle": "ASTURKNET"
+    },
+    "12777": {
+        "country_code": "TR",
+        "asn": "12777",
+        "description": "Eser Telekom Sanayi ve Ticaret A.S.",
+        "handle": "OTHER"
+    },
+    "12794": {
+        "country_code": "TR",
+        "asn": "12794",
+        "description": "AKBANK TAS",
+        "handle": "AKNET-AKBANK"
+    },
+    "12840": {
+        "country_code": "TR",
+        "asn": "12840",
+        "description": "ATP YAZILIM VE TEKNOLOJI A.S.",
+        "handle": "TICARETNET"
+    },
+    "12858": {
+        "country_code": "TR",
+        "asn": "12858",
+        "description": "MYNET INTERNET TEKNOLOJI ANONIM SIRKETI",
+        "handle": "MYNET"
+    },
+    "12861": {
+        "country_code": "TR",
+        "asn": "12861",
+        "description": "Vestel Elektronik Sanayi ve Ticaret A.S.",
+        "handle": "DEKSAR"
+    },
+    "12873": {
+        "country_code": "TR",
+        "asn": "12873",
+        "description": "Strateji Menkul Degerler A.S.",
+        "handle": "STRATEJI-MENKUL-DEGERLER-AS"
+    },
+    "12891": {
+        "country_code": "TR",
+        "asn": "12891",
+        "description": "Genel Kurmay Baskanligi",
+        "handle": "TSK-NET"
+    },
+    "12903": {
+        "country_code": "TR",
+        "asn": "12903",
+        "description": "Turkiye Garanti Bankasi A.S.",
+        "handle": "GARANTI-TECH"
+    },
+    "12908": {
+        "country_code": "TR",
+        "asn": "12908",
+        "description": "Sabanci University",
+        "handle": "SABANCIUNIV"
+    },
+    "12978": {
+        "country_code": "TR",
+        "asn": "12978",
+        "description": "ANDROMEDA TV DIGITAL PLATFORM ISLETMECILIGI A.S.",
+        "handle": "DSMART"
+    },
+    "13102": {
+        "country_code": "TR",
+        "asn": "13102",
+        "description": "Istanbul Bilgi Universitesi",
+        "handle": "BILGIEDU"
+    },
+    "13138": {
+        "country_code": "TR",
+        "asn": "13138",
+        "description": "Turk Ekonomi Bankasi Anonim Sirketi",
+        "handle": "TEBBANKA"
+    },
+    "13204": {
+        "country_code": "TR",
+        "asn": "13204",
+        "description": "TERA YATIRIM MENKUL DEGERLER A.S.",
+        "handle": "TERAMENKUL"
+    },
+    "13278": {
+        "country_code": "TR",
+        "asn": "13278",
+        "description": "TEI(TUSAS MOTOR SANAYI A.S.)",
+        "handle": "ASN-TEITR"
+    },
+    "15460": {
+        "country_code": "TR",
+        "asn": "15460",
+        "description": "TURKIYE HALKBANKASI A.S.",
+        "handle": "TURKIYE-HALKBANKASI-AS"
+    },
+    "15464": {
+        "country_code": "TR",
+        "asn": "15464",
+        "description": "Ihlas Net A.S.",
+        "handle": "IHLASNET"
+    },
+    "15656": {
+        "country_code": "TR",
+        "asn": "15656",
+        "description": "Nano Iletisim Bilisim Hizmetleri Teknoloji Sistemleri Sanayi ve Ticaret Ltd Sirketi",
+        "handle": "NANO"
+    },
+    "15755": {
+        "country_code": "TR",
+        "asn": "15755",
+        "description": "Veriteknik Bilisim Basin Ve Yayin Limited Sirketi",
+        "handle": "VERITEKNIK"
+    },
+    "15819": {
+        "country_code": "TR",
+        "asn": "15819",
+        "description": "Global Menkul Degerler SA",
+        "handle": "GLOBALMENKUL-NET"
+    },
+    "15843": {
+        "country_code": "TR",
+        "asn": "15843",
+        "description": "Galatasaray Universitesi",
+        "handle": "GALATASARAY-UNIVERSITESI"
+    },
+    "15897": {
+        "country_code": "TR",
+        "asn": "15897",
+        "description": "Vodafone Telekomunikasyon A.S.",
+        "handle": "VODAFONETURKEY"
+    },
+    "15924": {
+        "country_code": "TR",
+        "asn": "15924",
+        "description": "Vodafone Net Iletisim Hizmetler AS",
+        "handle": "BORUSANTELEKOM-AS"
+    },
+    "16135": {
+        "country_code": "TR",
+        "asn": "16135",
+        "description": "TURKCELL ILETISIM HIZMETLERI A.S.",
+        "handle": "TURKCELL-AS"
+    },
+    "20649": {
+        "country_code": "TR",
+        "asn": "20649",
+        "description": "FS Veri Merkezi Internet Teknolojileri Limited Sirketi",
+        "handle": "ASFIBERSUNUCU"
+    },
+    "20864": {
+        "country_code": "TR",
+        "asn": "20864",
+        "description": "Turkiye Sise ve Cam Fabrikalari A.S.",
+        "handle": "SISECAM-AS"
+    },
+    "20907": {
+        "country_code": "TR",
+        "asn": "20907",
+        "description": "AKS TELEVIZYON REKLAMCILIK VE FILMCILIK SAN VE TIC A.S.",
+        "handle": "SHOW-TV-AUTONOMOUS-SYSTEM"
+    },
+    "20967": {
+        "country_code": "TR",
+        "asn": "20967",
+        "description": "TURKIYE HALKBANKASI A.S.",
+        "handle": "HALKBANK-AS"
+    },
+    "20978": {
+        "country_code": "TR",
+        "asn": "20978",
+        "description": "TT Mobil Iletisim Hizmetleri A.S",
+        "handle": "TT-MOBIL"
+    },
+    "21245": {
+        "country_code": "TR",
+        "asn": "21245",
+        "description": "MEDIANOVA INTERNET HIZMETLERI VE TICARET ANONIM SIRKETI",
+        "handle": "MEDIANOVA-CDN"
+    },
+    "24614": {
+        "country_code": "TR",
+        "asn": "24614",
+        "description": "Sakarya University",
+        "handle": "SAKARYA-NET-AS"
+    },
+    "24667": {
+        "country_code": "TR",
+        "asn": "24667",
+        "description": "Petrol Ofisi AS",
+        "handle": "POAS-AS"
+    },
+    "24891": {
+        "country_code": "TR",
+        "asn": "24891",
+        "description": "ORDU YARDIMLASMA KURUMU",
+        "handle": "OYAK-NET"
+    },
+    "24922": {
+        "country_code": "TR",
+        "asn": "24922",
+        "description": "Hacettepe Universitesi",
+        "handle": "HACETTEPE"
+    },
+    "24944": {
+        "country_code": "TR",
+        "asn": "24944",
+        "description": "Arena Bilgisayar San. ve Tic A.S",
+        "handle": "ARENA-AS"
+    },
+    "25145": {
+        "country_code": "TR",
+        "asn": "25145",
+        "description": "TEKNOTEL TELEKOMUNIKASYON SANAYI VE TICARET A.S.",
+        "handle": "AS-TEKNOTEL"
+    },
+    "25323": {
+        "country_code": "TR",
+        "asn": "25323",
+        "description": "YAPI VE KREDI BANKASI A.S.",
+        "handle": "ASN-YKB"
+    },
+    "25566": {
+        "country_code": "TR",
+        "asn": "25566",
+        "description": "Sosyal Guvenlik Kurumu(SGK)",
+        "handle": "SSK-AS"
+    },
+    "25594": {
+        "country_code": "TR",
+        "asn": "25594",
+        "description": "Calik Holding A.S",
+        "handle": "ASCALIK"
+    },
+    "28746": {
+        "country_code": "TR",
+        "asn": "28746",
+        "description": "TELCOROUTE TELEKOMUNIKASYON A.S.",
+        "handle": "TELCOROUTE"
+    },
+    "28781": {
+        "country_code": "TR",
+        "asn": "28781",
+        "description": "PAYTEN TEKNOLOJI ANONIM SIRKETI",
+        "handle": "EST-AS"
+    },
+    "28865": {
+        "country_code": "TR",
+        "asn": "28865",
+        "description": "Sekerbank T.A.S.",
+        "handle": "ASN-SEKERBANK"
+    },
+    "28967": {
+        "country_code": "TR",
+        "asn": "28967",
+        "description": "FIBABANKA ANONIM SIRKETI",
+        "handle": "FIBABANKA-AS"
+    },
+    "29060": {
+        "country_code": "TR",
+        "asn": "29060",
+        "description": "ALKIM BASIN YAYIN ILETISIM LTD. STI.",
+        "handle": "ALKIM-AS"
+    },
+    "29144": {
+        "country_code": "TR",
+        "asn": "29144",
+        "description": "Borsa Istanbul A.S.",
+        "handle": "BIST-TR"
+    },
+    "29189": {
+        "country_code": "TR",
+        "asn": "29189",
+        "description": "AXA Holding A.S.",
+        "handle": "AXAOYAK-TR-AS"
+    },
+    "29221": {
+        "country_code": "TR",
+        "asn": "29221",
+        "description": "AGESA HAYAT VE EMEKLILIK ANONIM SIRKETI",
+        "handle": "CUHE-AS"
+    },
+    "29262": {
+        "country_code": "TR",
+        "asn": "29262",
+        "description": "Ideal Hosting Teknoloji A.S.",
+        "handle": "IDEALHOSTING"
+    },
+    "29399": {
+        "country_code": "TR",
+        "asn": "29399",
+        "description": "Ramtek Telekomunikasyon Hizmetleri Sanayi Ve Ticaret Limited Sirketi",
+        "handle": "RAMTEK-AS"
+    },
+    "29434": {
+        "country_code": "TR",
+        "asn": "29434",
+        "description": "Denizbank A.S.",
+        "handle": "DENIZBANK"
+    },
+    "29483": {
+        "country_code": "TR",
+        "asn": "29483",
+        "description": "Turk Bankasi Ltd",
+        "handle": "TURKISHBANK"
+    },
+    "29549": {
+        "country_code": "TR",
+        "asn": "29549",
+        "description": "T.C. Ziraat Bankasi A.S.",
+        "handle": "ZIRAATBANK-AS"
+    },
+    "30734": {
+        "country_code": "TR",
+        "asn": "30734",
+        "description": "METIS BILGISAYAR SISTEMLERI SANAYI VE TICARET A.S.",
+        "handle": "METISBILG-AS"
+    },
+    "30758": {
+        "country_code": "TR",
+        "asn": "30758",
+        "description": "DT Iletisim Hizmetleri A.S.",
+        "handle": "CTURK-POP-PEERING"
+    },
+    "30840": {
+        "country_code": "TR",
+        "asn": "30840",
+        "description": "NETAS BILISIM TEKNOLOJILERI ANONIM A.S.",
+        "handle": "PROBIL-AS"
+    },
+    "31085": {
+        "country_code": "TR",
+        "asn": "31085",
+        "description": "Viking Turizm ve Ticaret AS",
+        "handle": "VIKINGNET-AS"
+    },
+    "31307": {
+        "country_code": "TR",
+        "asn": "31307",
+        "description": "Yapi Kredi Yatirim Menkul Degerler A.S.",
+        "handle": "YKYATIRIM"
+    },
+    "31471": {
+        "country_code": "TR",
+        "asn": "31471",
+        "description": "Ziraat Teknoloji AS.",
+        "handle": "FINTEK-AS"
+    },
+    "31486": {
+        "country_code": "TR",
+        "asn": "31486",
+        "description": "Veriteknik Bilisim Basin Ve Yayin Limited Sirketi",
+        "handle": "VERITEKNIK"
+    },
+    "31541": {
+        "country_code": "TR",
+        "asn": "31541",
+        "description": "Krea Icerik Hizmetleri ve Produksiyon A.S",
+        "handle": "DIGITURK"
+    },
+    "31645": {
+        "country_code": "TR",
+        "asn": "31645",
+        "description": "Burgan Bank A.S.",
+        "handle": "TEKFENBANK-AS"
+    },
+    "31654": {
+        "country_code": "TR",
+        "asn": "31654",
+        "description": "Vodafone Net Iletisim Hizmetler AS",
+        "handle": "VODAFONE-NET-INTERNATIONAL-AS"
+    },
+    "31674": {
+        "country_code": "TR",
+        "asn": "31674",
+        "description": "T.C. Maliye Bakanligi Gelirler Genel Mudurlugu",
+        "handle": "VEDOP-II"
+    },
+    "31689": {
+        "country_code": "TR",
+        "asn": "31689",
+        "description": "Eastern Mediterranean University",
+        "handle": "EMU-AS"
+    },
+    "31704": {
+        "country_code": "TR",
+        "asn": "31704",
+        "description": "Private American Robert College",
+        "handle": "ROBERTCOLLEGE-AS"
+    },
+    "33830": {
+        "country_code": "TR",
+        "asn": "33830",
+        "description": "Bankalararasi Kart Merkezi AS",
+        "handle": "BKM-AS"
+    },
+    "33856": {
+        "country_code": "TR",
+        "asn": "33856",
+        "description": "Turkiye Cumhuriyet Merkez Bankasi Anonim Sirketi",
+        "handle": "TCMB"
+    },
+    "33910": {
+        "country_code": "TR",
+        "asn": "33910",
+        "description": "SIGORTA BILGI VE GOZETIM MERKEZI",
+        "handle": "TRAMER-AS"
+    },
+    "33960": {
+        "country_code": "TR",
+        "asn": "33960",
+        "description": "Asya Katilim Bankasi A.S.",
+        "handle": "ASYAFINANS-AS"
+    },
+    "34104": {
+        "country_code": "TR",
+        "asn": "34104",
+        "description": "Superonline Iletisim Hizmetleri A.S.",
+        "handle": "GLOBAL-AS"
+    },
+    "34117": {
+        "country_code": "TR",
+        "asn": "34117",
+        "description": "Oyak Yatirim Menkul Degerler A.S.",
+        "handle": "OYAKYATIRIM"
+    },
+    "34162": {
+        "country_code": "TR",
+        "asn": "34162",
+        "description": "Arkas Holding A.S.",
+        "handle": "ARKAS-TR"
+    },
+    "34296": {
+        "country_code": "TR",
+        "asn": "34296",
+        "description": "Millenicom Telekomunikasyon Hizmetleri Anonim Sirketi",
+        "handle": "MILLENICOM-AS"
+    },
+    "34388": {
+        "country_code": "TR",
+        "asn": "34388",
+        "description": "Netinternet Bilisim Teknolojileri AS",
+        "handle": "TR-IX"
+    },
+    "34398": {
+        "country_code": "TR",
+        "asn": "34398",
+        "description": "ETS Ersoy Turistik Servisleri A.S.",
+        "handle": "ETSTUR-AS"
+    },
+    "34403": {
+        "country_code": "TR",
+        "asn": "34403",
+        "description": "ING BANK ANONIM SIRKETI",
+        "handle": "INGBANKTR-AS"
+    },
+    "34418": {
+        "country_code": "TR",
+        "asn": "34418",
+        "description": "GLOBAL BILGI PAZARLAMA DANISMANLIK VE CAGRI SERVISI HIZMETLERI A.S.",
+        "handle": "GLOBAL-NET-AS"
+    },
+    "34476": {
+        "country_code": "TR",
+        "asn": "34476",
+        "description": "Vayfi Bilgi Teknolojileri A.S.",
+        "handle": "VAYFI"
+    },
+    "34478": {
+        "country_code": "TR",
+        "asn": "34478",
+        "description": "TUBITAK Ulusal Elektronik ve Kriptoloji Arastirrma Enstitusu",
+        "handle": "UEKAE-AS"
+    },
+    "34593": {
+        "country_code": "TR",
+        "asn": "34593",
+        "description": "ISTANBUL TAKAS VE SAKLAMA BANKASI A.S.",
+        "handle": "TR-TAKASBANK"
+    },
+    "34595": {
+        "country_code": "TR",
+        "asn": "34595",
+        "description": "Superonline Iletisim Hizmetleri A.S.",
+        "handle": "GLOBAL-AS2"
+    },
+    "34619": {
+        "country_code": "TR",
+        "asn": "34619",
+        "description": "CIZGI TELEKOMUNIKASYON ANONIM SIRKETI",
+        "handle": "CIZGI"
+    },
+    "34684": {
+        "country_code": "TR",
+        "asn": "34684",
+        "description": "Allianz Sigorta A.S.",
+        "handle": "YKS-AS"
+    },
+    "34736": {
+        "country_code": "TR",
+        "asn": "34736",
+        "description": "TOYOTA OTOMOTIV SANAYI TURKIYE A.S.",
+        "handle": "TOYOTA-TR"
+    },
+    "34755": {
+        "country_code": "TR",
+        "asn": "34755",
+        "description": "Turkiye Odalar ve Borsalar Birligi",
+        "handle": "TOBB"
+    },
+    "34828": {
+        "country_code": "TR",
+        "asn": "34828",
+        "description": "DH Bulut Bilisim Anonim Sirketi",
+        "handle": "DOMAINHIZMETLERI-COM"
+    },
+    "34984": {
+        "country_code": "TR",
+        "asn": "34984",
+        "description": "Superonline Iletisim Hizmetleri A.S.",
+        "handle": "TELLCOM-AS"
+    },
+    "34987": {
+        "country_code": "TR",
+        "asn": "34987",
+        "description": "eva bilgi teknolojileri san ve tic ltd sti",
+        "handle": "BAFISTAAS1"
+    },
+    "34996": {
+        "country_code": "TR",
+        "asn": "34996",
+        "description": "Anadolu Anonim Turk Sigorta Sirketi",
+        "handle": "ANADOLUSIGORTA-AS"
+    },
+    "35079": {
+        "country_code": "TR",
+        "asn": "35079",
+        "description": "Mapfre Sigorta AS",
+        "handle": "T-GENEL-SIGORTA-AS"
+    },
+    "35080": {
+        "country_code": "TR",
+        "asn": "35080",
+        "description": "Vodafone Net Iletisim Hizmetler AS",
+        "handle": "OYAK-INDISOL-AS"
+    },
+    "35185": {
+        "country_code": "TR",
+        "asn": "35185",
+        "description": "Kuveyt Turk Katilim Bankasi A.S.",
+        "handle": "KUVEYTTURK-ASN"
+    },
+    "35331": {
+        "country_code": "TR",
+        "asn": "35331",
+        "description": "BILGI BIRIKIM SISTEMLERI ELEKTRONIK VE BILGISAYAR ENDUSTRISI MUHENDISLIK HIZ.SAN.VE TIC.LTD.STI.",
+        "handle": "BILGIBIRIKIM"
+    },
+    "35367": {
+        "country_code": "TR",
+        "asn": "35367",
+        "description": "BILESIM FINANSAL TEKNOLOJILER VE ODEME SISTEMLERI A.S.",
+        "handle": "BILESIM"
+    },
+    "35474": {
+        "country_code": "TR",
+        "asn": "35474",
+        "description": "METRO GROSMARKET BAKIRKOY ALV. HIZ. TIC. LTD. STI.",
+        "handle": "MGI-TR-AS"
+    },
+    "35509": {
+        "country_code": "TR",
+        "asn": "35509",
+        "description": "Superonline Iletisim Hizmetleri A.S.",
+        "handle": "TURKCELL-DIGITAL-SERVICES"
+    },
+    "38920": {
+        "country_code": "TR",
+        "asn": "38920",
+        "description": "Turkland Bank A.s.",
+        "handle": "TURKLANDBANK-TR"
+    },
+    "39095": {
+        "country_code": "TR",
+        "asn": "39095",
+        "description": "TURKIYE VAKIFLAR BANKASI TAO",
+        "handle": "VAKIFBANK-AS"
+    },
+    "39172": {
+        "country_code": "TR",
+        "asn": "39172",
+        "description": "Merkezi Kayit Kurulusu Anonim Sirketi",
+        "handle": "MERKEZ-AS"
+    },
+    "39253": {
+        "country_code": "TR",
+        "asn": "39253",
+        "description": "Coskunoz Holding A.S.",
+        "handle": "COSKUNOZ-HOLDING-ASN"
+    },
+    "39298": {
+        "country_code": "TR",
+        "asn": "39298",
+        "description": "SERI BILGI TEKNOLOJILERI DESTEK HIZMETLERI VE TICARET LIMITED SIRKETI",
+        "handle": "SERI"
+    },
+    "39582": {
+        "country_code": "TR",
+        "asn": "39582",
+        "description": "Vaultr Veri Merkezi Hizmetleri Anonim Sirketi",
+        "handle": "VAULTR"
+    },
+    "39615": {
+        "country_code": "TR",
+        "asn": "39615",
+        "description": "DURU INTERNET VE BILISIM TEKNOLOJILERI SANAYI TICARET LIMITED SIRKETI",
+        "handle": "XREALNET"
+    },
+    "39841": {
+        "country_code": "TR",
+        "asn": "39841",
+        "description": "NETGSM Iletisim ve Bilgi Teknolojileri A.S.",
+        "handle": "NETGSM"
+    },
+    "40987": {
+        "country_code": "TR",
+        "asn": "40987",
+        "description": "BANQ TECH BILGI VE ILETISIM TEKNOLOJILERI LIMITED SIRKETI",
+        "handle": "BANQTECH-AS"
+    },
+    "41077": {
+        "country_code": "TR",
+        "asn": "41077",
+        "description": "Pegasus Hava Tasimaciligi A.S.",
+        "handle": "PEGASUS-ASN"
+    },
+    "41155": {
+        "country_code": "TR",
+        "asn": "41155",
+        "description": "Orbit Telekom Sanayi ve Ticaret Limited Sirketi",
+        "handle": "ORBITDC"
+    },
+    "41296": {
+        "country_code": "TR",
+        "asn": "41296",
+        "description": "Anadolu Bilisim Hizmetleri A.S.",
+        "handle": "ABH"
+    },
+    "41324": {
+        "country_code": "TR",
+        "asn": "41324",
+        "description": "TEMSA SKODA SABANCI ULASIM ARACLARI A.S.",
+        "handle": "TEMSA"
+    },
+    "41417": {
+        "country_code": "TR",
+        "asn": "41417",
+        "description": "TURKIYE JOKEY KULUBU DERNEGI AT YETISTIRICILIGI VE YARISLARI IKTISADI ISLETMESI",
+        "handle": "TJK-AS"
+    },
+    "41683": {
+        "country_code": "TR",
+        "asn": "41683",
+        "description": "Earth Telekomunikasyon Bilisim Internet Arge Yazilim Hizmetleri Tic. Ltd. Sti.",
+        "handle": "TR-EARTH-TELEKOM"
+    },
+    "41686": {
+        "country_code": "TR",
+        "asn": "41686",
+        "description": "Aras Kargo Yurtici Yurdisi Tasimacilik",
+        "handle": "ARAS-AS"
+    },
+    "41735": {
+        "country_code": "TR",
+        "asn": "41735",
+        "description": "Albaraka Turk Katilim Bankasi A.S.",
+        "handle": "ALBARATURK-AS"
+    },
+    "41755": {
+        "country_code": "TR",
+        "asn": "41755",
+        "description": "EMEKLILIK GOZETIM MERKEZI A.S.",
+        "handle": "EGM-TR"
+    },
+    "41801": {
+        "country_code": "TR",
+        "asn": "41801",
+        "description": "Datafon Teknoloji San.Tic.Ltd.Sti.",
+        "handle": "DATAFON-ASN"
+    },
+    "41902": {
+        "country_code": "TR",
+        "asn": "41902",
+        "description": "TURKUVAZ HABERLESME VE YAYINCILIK A.S.",
+        "handle": "SABAH-AS"
+    },
+    "41933": {
+        "country_code": "TR",
+        "asn": "41933",
+        "description": "IPRAGAZ A.S.",
+        "handle": "IPRAGAZ-AS"
+    },
+    "42055": {
+        "country_code": "TR",
+        "asn": "42055",
+        "description": "Tamer Telekom Telekomunikasyon Bilgisayar Elektronik Yazilim Donanim San. ve Tic. Ltd. Sti.",
+        "handle": "ADEOXTECHNOLOGIES"
+    },
+    "42075": {
+        "country_code": "TR",
+        "asn": "42075",
+        "description": "Netdirekt A.S.",
+        "handle": "NETIN"
+    },
+    "42083": {
+        "country_code": "TR",
+        "asn": "42083",
+        "description": "Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.",
+        "handle": "GUNEYDOGUTELEKOM"
+    },
+    "42193": {
+        "country_code": "TR",
+        "asn": "42193",
+        "description": "Hayat Kimya A.S.",
+        "handle": "ASHAYAT"
+    },
+    "42216": {
+        "country_code": "TR",
+        "asn": "42216",
+        "description": "Yasar Sen trading as Alapli Teknoloji",
+        "handle": "NETVISER"
+    },
+    "42287": {
+        "country_code": "TR",
+        "asn": "42287",
+        "description": "KKTC Merkez Bankasi",
+        "handle": "KKTCMB-AS"
+    },
+    "42321": {
+        "country_code": "TR",
+        "asn": "42321",
+        "description": "SHAYA MAGAZACILIK A.S.",
+        "handle": "SHAYA-MAGAZACILIK-AS"
+    },
+    "42338": {
+        "country_code": "TR",
+        "asn": "42338",
+        "description": "Veriteknik Bilisim Basin Ve Yayin Limited Sirketi",
+        "handle": "VERITEKNIK-AMSTERDAM"
+    },
+    "42421": {
+        "country_code": "TR",
+        "asn": "42421",
+        "description": "Turkiye Finans Katilim Bankasi A.S",
+        "handle": "TURKIYEFINANS"
+    },
+    "42494": {
+        "country_code": "TR",
+        "asn": "42494",
+        "description": "Equinix Turkey Data Merkezi Uretim insaat Sanayi ve Ticaret Anonim Sirketi",
+        "handle": "EQUINIX-CLOUD-EXCHANGE-ISTANBUL-ASN"
+    },
+    "42584": {
+        "country_code": "TR",
+        "asn": "42584",
+        "description": "NGN Bilgi Teknolojileri Veri Merkezi ve Danismanlik Hizmetleri A.S.",
+        "handle": "TR-NGNCLOUD"
+    },
+    "42626": {
+        "country_code": "TR",
+        "asn": "42626",
+        "description": "ATATURK-UNIVERSITESI",
+        "handle": "ATAUNI-AS"
+    },
+    "42701": {
+        "country_code": "TR",
+        "asn": "42701",
+        "description": "Deutsche Bank - TR",
+        "handle": "DEUTSCHEBANK-TR"
+    },
+    "42716": {
+        "country_code": "TR",
+        "asn": "42716",
+        "description": "Assan Bilisim A.S.",
+        "handle": "ASSAN-BILISIM-ASN"
+    },
+    "42724": {
+        "country_code": "TR",
+        "asn": "42724",
+        "description": "TALIDO Bilisim Teknolojileri Sanayi ve Ticaret Anonim Sirketi",
+        "handle": "TALIDO"
+    },
+    "42736": {
+        "country_code": "TR",
+        "asn": "42736",
+        "description": "AKPET AKARYAKIT DAGITIM A.S.",
+        "handle": "AKPET-AKARYAKIT"
+    },
+    "42807": {
+        "country_code": "TR",
+        "asn": "42807",
+        "description": "CIZGI TELEKOMUNIKASYON ANONIM SIRKETI",
+        "handle": "AEROTEK-AS"
+    },
+    "42846": {
+        "country_code": "TR",
+        "asn": "42846",
+        "description": "GNET Internet Telekomunikasyon A.S.",
+        "handle": "GUZELHOSTING"
+    },
+    "42868": {
+        "country_code": "TR",
+        "asn": "42868",
+        "description": "Niobe Bilisim Ltd. Sti.",
+        "handle": "NIOBEBILISIMHIZMETLERI"
+    },
+    "42910": {
+        "country_code": "TR",
+        "asn": "42910",
+        "description": "PremierDC Veri Merkezi Anonim Sirketi",
+        "handle": "PREMIERDC-VERI-MERKEZI-ANONIM-SIRKETI"
+    },
+    "42926": {
+        "country_code": "TR",
+        "asn": "42926",
+        "description": "Radore Veri Merkezi Hizmetleri A.S.",
+        "handle": "RADORE"
+    },
+    "42967": {
+        "country_code": "TR",
+        "asn": "42967",
+        "description": "ABDI IBRAHIM ILAC SAN.VE TIC.A.S.",
+        "handle": "ABDI-IBRAHIM-ILAC"
+    },
+    "42999": {
+        "country_code": "TR",
+        "asn": "42999",
+        "description": "Ekol Lojistik AS",
+        "handle": "EKOL"
+    },
+    "43116": {
+        "country_code": "TR",
+        "asn": "43116",
+        "description": "Istanbul Ticaret Odasi",
+        "handle": "ITO-AS"
+    },
+    "43210": {
+        "country_code": "TR",
+        "asn": "43210",
+        "description": "Bankpozitif Kredi Ve Kalkinma Bankasi A.S.",
+        "handle": "BANKPOZITIF"
+    },
+    "43231": {
+        "country_code": "TR",
+        "asn": "43231",
+        "description": "KARBIL YAZILIM VE BILISIM TEKNOLOJILERI TIC. A.S.",
+        "handle": "CARDTEK"
+    },
+    "43242": {
+        "country_code": "TR",
+        "asn": "43242",
+        "description": "ARINET SECURITY & INTERNET CONSULTANCY LTD",
+        "handle": "EXTEND"
+    },
+    "43260": {
+        "country_code": "TR",
+        "asn": "43260",
+        "description": "DGN TEKNOLOJI A.S.",
+        "handle": "AS43260"
+    },
+    "43300": {
+        "country_code": "TR",
+        "asn": "43300",
+        "description": "Mars Lojistik Grup A.S.",
+        "handle": "MARS-AS"
+    },
+    "43322": {
+        "country_code": "TR",
+        "asn": "43322",
+        "description": "BELBIM ELEKTRONIK PARA VE ODEME HIZMETLERI AS",
+        "handle": "BELBIM-ASN"
+    },
+    "43331": {
+        "country_code": "TR",
+        "asn": "43331",
+        "description": "KOC SISTEM BILGI VE ILETISIM HIZMETLERI ANONIM SIRKETI",
+        "handle": "KOCSISTEM"
+    },
+    "43352": {
+        "country_code": "TR",
+        "asn": "43352",
+        "description": "Teletek Bulut Bilisim ve Iletisim Hizmetleri A.S.",
+        "handle": "TELETEK-CLOUD"
+    },
+    "43356": {
+        "country_code": "TR",
+        "asn": "43356",
+        "description": "Comtech Ticaret LTD.",
+        "handle": "COMTECH-AS"
+    },
+    "43391": {
+        "country_code": "TR",
+        "asn": "43391",
+        "description": "Netdirekt A.S.",
+        "handle": "NETDIREKT-AS"
+    },
+    "43417": {
+        "country_code": "TR",
+        "asn": "43417",
+        "description": "Borusan Holding A.S.",
+        "handle": "BORUSAN-HOLDING"
+    },
+    "43425": {
+        "country_code": "TR",
+        "asn": "43425",
+        "description": "KURYENET MOTORLU KURYECILIK VE DAGITIM HIZMETLERI A.S.",
+        "handle": "KURYENET-TR"
+    },
+    "43479": {
+        "country_code": "TR",
+        "asn": "43479",
+        "description": "TELCOBT BILGI TEKNOLOJILERI SAN. VE TIC. LTD. STI.",
+        "handle": "TELCOBT"
+    },
+    "43488": {
+        "country_code": "TR",
+        "asn": "43488",
+        "description": "DILER HOLDING AS",
+        "handle": "DILER-HOLDING"
+    },
+    "43562": {
+        "country_code": "TR",
+        "asn": "43562",
+        "description": "Superonline Iletisim Hizmetleri A.S.",
+        "handle": "GLOBAL-ILETISIM-OSTIM"
+    },
+    "43582": {
+        "country_code": "TR",
+        "asn": "43582",
+        "description": "ABY Plastik Ambalaj ve Enerji SAN.VE TIC.A.S.",
+        "handle": "ABY-AS"
+    },
+    "43677": {
+        "country_code": "TR",
+        "asn": "43677",
+        "description": "MOKA UNITED ODEME HIZMETLERI VE ELEKTRONIK PARA KURULUSU A.S",
+        "handle": "TR-BIRLESIK-20161228"
+    },
+    "43716": {
+        "country_code": "TR",
+        "asn": "43716",
+        "description": "Istanbul Deniz Otobusleri San.Tic.A.S",
+        "handle": "TR-IDO"
+    },
+    "43725": {
+        "country_code": "TR",
+        "asn": "43725",
+        "description": "Soyak Holding A.S",
+        "handle": "SOYAK"
+    },
+    "43856": {
+        "country_code": "TR",
+        "asn": "43856",
+        "description": "HDI Sigorta AS",
+        "handle": "ERGOISVICRE-ASN"
+    },
+    "43945": {
+        "country_code": "TR",
+        "asn": "43945",
+        "description": "Mustafa Enes Akdeniz trading as OYUN CEVHERI",
+        "handle": "OYUNCEVHERI"
+    },
+    "44028": {
+        "country_code": "TR",
+        "asn": "44028",
+        "description": "Sestek Ses ve Iletisim Bilgisayar Teknolojileri San. ve Tic. A.S.",
+        "handle": "SESTEK"
+    },
+    "44261": {
+        "country_code": "TR",
+        "asn": "44261",
+        "description": "HDI Sigorta AS",
+        "handle": "HDISIGORTA-ASN"
+    },
+    "44274": {
+        "country_code": "TR",
+        "asn": "44274",
+        "description": "CINER YAYIN HOLDING A.S.",
+        "handle": "CINER-YAYIN-HOLDING"
+    },
+    "44319": {
+        "country_code": "TR",
+        "asn": "44319",
+        "description": "Sef Bilisim Hizmetleri A.S.",
+        "handle": "PLUSCLOUDS"
+    },
+    "44389": {
+        "country_code": "TR",
+        "asn": "44389",
+        "description": "Fine Otel Turizm Isletmecilik A.S.",
+        "handle": "RIXOS-HOTEL"
+    },
+    "44547": {
+        "country_code": "TR",
+        "asn": "44547",
+        "description": "NETUNDWEB TELEKOMUNIKASYON TICARET LIMITED SIRKETI",
+        "handle": "NETUNDWEB"
+    },
+    "44558": {
+        "country_code": "TR",
+        "asn": "44558",
+        "description": "Netonline Bilisim Sirketi LTD",
+        "handle": "NETONLINE"
+    },
+    "44565": {
+        "country_code": "TR",
+        "asn": "44565",
+        "description": "VITAL TEKNOLOJI TELEKOMUNIKASYON BILGISAYAR HIZMETLERI VE SANAYI TICARET LTD SIRKETI",
+        "handle": "VITAL"
+    },
+    "44620": {
+        "country_code": "TR",
+        "asn": "44620",
+        "description": "Netlen Internet Hizmetleri Ltd. Sti.",
+        "handle": "NETLEN"
+    },
+    "44637": {
+        "country_code": "TR",
+        "asn": "44637",
+        "description": "KPMG Bagimsiz Denetim ve SMMM A.S.",
+        "handle": "AKIS-AS"
+    },
+    "44639": {
+        "country_code": "TR",
+        "asn": "44639",
+        "description": "Isik University",
+        "handle": "ISIKUN"
+    },
+    "44713": {
+        "country_code": "TR",
+        "asn": "44713",
+        "description": "Teknoser Bilgisayar Teknik Hizmetler Sanayi Ve Dis Ticaret A.S",
+        "handle": "TEKNOSER-AS"
+    },
+    "44714": {
+        "country_code": "TR",
+        "asn": "44714",
+        "description": "SERVUDC VERI MERKEZI A.S.",
+        "handle": "SERVUDC"
+    },
+    "44766": {
+        "country_code": "TR",
+        "asn": "44766",
+        "description": "Akdeniz Insaat ve Egitim Hizmetleri A.S",
+        "handle": "AGAOGLU-AS"
+    },
+    "44922": {
+        "country_code": "TR",
+        "asn": "44922",
+        "description": "Emre Erim trading as Medyabim Datacenter",
+        "handle": "MEDYABIM-AS"
+    },
+    "47123": {
+        "country_code": "TR",
+        "asn": "47123",
+        "description": "TI Sparkle Turkey Telekomunukasyon A.S",
+        "handle": "MEDNAUTILUS"
+    },
+    "47134": {
+        "country_code": "TR",
+        "asn": "47134",
+        "description": "Eczacibasi Bilisim San.ve Tic. A.S.",
+        "handle": "ECZ-NET"
+    },
+    "47185": {
+        "country_code": "TR",
+        "asn": "47185",
+        "description": "Havaalani Isletme ve Havacilik Endustrileri",
+        "handle": "SABIHAGOKCEN-TR"
+    },
+    "47190": {
+        "country_code": "TR",
+        "asn": "47190",
+        "description": "GUZEL ENERJI AKARYAKIT A.S.",
+        "handle": "TOTAL-OIL"
+    },
+    "47276": {
+        "country_code": "TR",
+        "asn": "47276",
+        "description": "HDI Sigorta AS",
+        "handle": "ERGOHAYAT-ASN"
+    },
+    "47288": {
+        "country_code": "TR",
+        "asn": "47288",
+        "description": "FIXNET Telekomunikasyon Limited Sirketi",
+        "handle": "FIXNET"
+    },
+    "47331": {
+        "country_code": "TR",
+        "asn": "47331",
+        "description": "TTNet A.S.",
+        "handle": "TTNET"
+    },
+    "47387": {
+        "country_code": "TR",
+        "asn": "47387",
+        "description": "TURKIYE HAYAT VE EMEKLILIK A.S.",
+        "handle": "TURKIYE-HAYAT-VE-EMEKLILIK-NET"
+    },
+    "47516": {
+        "country_code": "TR",
+        "asn": "47516",
+        "description": "DEHOST INTERNET VE BILISIM TEKNOLOJILERI SANAYI TICARET LIMITED SIRKETI",
+        "handle": "DEHOST"
+    },
+    "47524": {
+        "country_code": "TR",
+        "asn": "47524",
+        "description": "Turksat Uydu Haberlesme ve Kablo TV Isletme A.S.",
+        "handle": "AS-TURKSAT"
+    },
+    "47585": {
+        "country_code": "TR",
+        "asn": "47585",
+        "description": "Yigit Hosting Bilisim E-Ticaret Gida Sanayi Ticaret Limited Sirketi",
+        "handle": "YIGITHOSTING"
+    },
+    "47607": {
+        "country_code": "TR",
+        "asn": "47607",
+        "description": "Sinirli Sorumlu Taris Zeytin Ve Zeytinyagi Tarim Satis Kooperatifleri Birligi - Kisa Adi Taris Zeytin Ve Zeytinyagi Birligi",
+        "handle": "TARIS-AS"
+    },
+    "47721": {
+        "country_code": "TR",
+        "asn": "47721",
+        "description": "Verilink Bilisim Teknolojileri Anonim Sirketi",
+        "handle": "BILGE-AS"
+    },
+    "47757": {
+        "country_code": "TR",
+        "asn": "47757",
+        "description": "KORP YAZILIM VE BILGI TEKNOLOJILERI LTD. STI.",
+        "handle": "KORP-NET"
+    },
+    "47773": {
+        "country_code": "TR",
+        "asn": "47773",
+        "description": "Binet Telekomunikasyon LTD. STI.",
+        "handle": "BINET"
+    },
+    "47803": {
+        "country_code": "TR",
+        "asn": "47803",
+        "description": "BUKA TEKNOLOJI HIZMETLERI A.S.",
+        "handle": "BUKA"
+    },
+    "47883": {
+        "country_code": "TR",
+        "asn": "47883",
+        "description": "KIBRIS MOBILE TELEKOMUNIKASYON LTD.",
+        "handle": "KKTCELL-AS"
+    },
+    "47894": {
+        "country_code": "TR",
+        "asn": "47894",
+        "description": "Veriteknik Bilisim Basin Ve Yayin Limited Sirketi",
+        "handle": "VERITEKNIK"
+    },
+    "47930": {
+        "country_code": "TR",
+        "asn": "47930",
+        "description": "BRANDEFENSE BILISIM DANISMANLIK SANAYI VE TICARET ANONIM SIRKETI",
+        "handle": "PRISMACSI"
+    },
+    "47951": {
+        "country_code": "TR",
+        "asn": "47951",
+        "description": "Armeva Yazilim ve Danismanlik Anonim Sirketi",
+        "handle": "ARMEVA"
+    },
+    "47952": {
+        "country_code": "TR",
+        "asn": "47952",
+        "description": "ICT BULUT BILISIM A.S.",
+        "handle": "ICTBULUT"
+    },
+    "48011": {
+        "country_code": "TR",
+        "asn": "48011",
+        "description": "Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi",
+        "handle": "DIGITURUNC"
+    },
+    "48207": {
+        "country_code": "TR",
+        "asn": "48207",
+        "description": "GLB Bulut Teknolojisi Limited Sirketi",
+        "handle": "GLBBULUTTEKNOLOJISI-AS"
+    },
+    "48215": {
+        "country_code": "TR",
+        "asn": "48215",
+        "description": "Duhan Berk Bal",
+        "handle": "BALHOST-AS"
+    },
+    "48286": {
+        "country_code": "TR",
+        "asn": "48286",
+        "description": "Mavi Net Elektronik iletisim Bil.Hizm.San.ve Tic.Ltd.Sti.",
+        "handle": "MAVINET"
+    },
+    "48292": {
+        "country_code": "TR",
+        "asn": "48292",
+        "description": "Ciklet Tasarim Iletisim ve Org. Tic. Ltd. Sti.",
+        "handle": "INTIBU"
+    },
+    "48313": {
+        "country_code": "TR",
+        "asn": "48313",
+        "description": "Aksigorta Anonim Sirketi",
+        "handle": "AKSIGORTA"
+    },
+    "48319": {
+        "country_code": "TR",
+        "asn": "48319",
+        "description": "TUVTURK Kuzey Tasit Muayene Istasyonlari Yapim ve Isletim A.S.",
+        "handle": "TUVTURK-AS"
+    },
+    "48660": {
+        "country_code": "TR",
+        "asn": "48660",
+        "description": "VERIUP Bulut Internet Hizmetleri A.S.",
+        "handle": "VERIUP"
+    },
+    "48678": {
+        "country_code": "TR",
+        "asn": "48678",
+        "description": "PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi",
+        "handle": "TR-PENTECH-AS"
+    },
+    "48737": {
+        "country_code": "TR",
+        "asn": "48737",
+        "description": "Dorabase Veri Merkezi Hizmetleri A.S.",
+        "handle": "DORATELEKOM"
+    },
+    "48779": {
+        "country_code": "TR",
+        "asn": "48779",
+        "description": "Bizim Bulut Bilgi ve Iletisim Hizmetleri San. ve Tic. A. S.",
+        "handle": "BIZIMBULUT"
+    },
+    "48811": {
+        "country_code": "TR",
+        "asn": "48811",
+        "description": "Atilim Universitesi",
+        "handle": "ATILIM-AS"
+    },
+    "48814": {
+        "country_code": "TR",
+        "asn": "48814",
+        "description": "Netbone Telekomunikasyon A.S.",
+        "handle": "NETBONE"
+    },
+    "48895": {
+        "country_code": "TR",
+        "asn": "48895",
+        "description": "Alternatifbank A.S.",
+        "handle": "ABANK"
+    },
+    "49027": {
+        "country_code": "TR",
+        "asn": "49027",
+        "description": "Turkiye Sinai Kalkinma Bankasi Anonim Sirketi",
+        "handle": "TSKB"
+    },
+    "49029": {
+        "country_code": "TR",
+        "asn": "49029",
+        "description": "IZMAD BILISIM INTERNET HIZ. BILGI TEKN. ITH. IHR. SAN. TIC. LTD. STI.",
+        "handle": "WAAYNET"
+    },
+    "49067": {
+        "country_code": "TR",
+        "asn": "49067",
+        "description": "10LINE TELEKOMUNIKASYON INTERNET VE ILETISIM HIZ A.S.",
+        "handle": "TR"
+    },
+    "49094": {
+        "country_code": "TR",
+        "asn": "49094",
+        "description": "Omer GOLGELI",
+        "handle": "CHRONOS"
+    },
+    "49126": {
+        "country_code": "TR",
+        "asn": "49126",
+        "description": "IHS Kurumsal Teknoloji Hizmetleri A.S",
+        "handle": "AS49126"
+    },
+    "49175": {
+        "country_code": "TR",
+        "asn": "49175",
+        "description": "Gedik Yatirim Menkul Degerler A.S.",
+        "handle": "GEDIK"
+    },
+    "49177": {
+        "country_code": "TR",
+        "asn": "49177",
+        "description": "AXA SIGORTA A.S.",
+        "handle": "TR-GROUPAMA"
+    },
+    "49334": {
+        "country_code": "TR",
+        "asn": "49334",
+        "description": "SH ONLINE ILETISIM ANONIM SIRKETI",
+        "handle": "SH-COM-TR"
+    },
+    "49467": {
+        "country_code": "TR",
+        "asn": "49467",
+        "description": "INETMAR INTERNET HIZMETLERI BILISM TEKNOLOJILERI SANAYI VE TICARET LIMITED",
+        "handle": "EUROTA-ASN"
+    },
+    "49534": {
+        "country_code": "TR",
+        "asn": "49534",
+        "description": "BANQ TECH BILGI VE ILETISIM TEKNOLOJILERI LIMITED SIRKETI",
+        "handle": "BANQTECH-AS"
+    },
+    "49563": {
+        "country_code": "TR",
+        "asn": "49563",
+        "description": "Multinet Kurumsal Hizmetler Anonim Sirketi",
+        "handle": "MULTINET-ASN"
+    },
+    "49565": {
+        "country_code": "TR",
+        "asn": "49565",
+        "description": "Pole Telekomunikasyon Sanayi ve Ticaret Anonim Sirketi",
+        "handle": "POLE-TELEKOM"
+    },
+    "49614": {
+        "country_code": "TR",
+        "asn": "49614",
+        "description": "Cenuta Telekomunikasyon Anonim Sirketi",
+        "handle": "ISVEAY"
+    },
+    "49632": {
+        "country_code": "TR",
+        "asn": "49632",
+        "description": "Datatelekom Bilgisayar Internet Bilisim Yazilim ve Telekomunikasyon Hizmetleri San ve Dis Tic Ltd Sti",
+        "handle": "DATATELEKOM"
+    },
+    "49672": {
+        "country_code": "TR",
+        "asn": "49672",
+        "description": "CELEBI HOLDING A.S.",
+        "handle": "CH-AS"
+    },
+    "49805": {
+        "country_code": "TR",
+        "asn": "49805",
+        "description": "Berke FINCANCI",
+        "handle": "ANKSOFT"
+    },
+    "49840": {
+        "country_code": "TR",
+        "asn": "49840",
+        "description": "Enson Net Ltd",
+        "handle": "XREALNET"
+    },
+    "49843": {
+        "country_code": "TR",
+        "asn": "49843",
+        "description": "Kardem Tekstil Sanayi Ve Ticaret A.S.",
+        "handle": "KARDEM"
+    },
+    "49861": {
+        "country_code": "TR",
+        "asn": "49861",
+        "description": "SAHSUVAROGLU MARINA GAYRIMENKUL TURIZM YATIRIMLARI ANONIM SIRKETI",
+        "handle": "SAHSUVAROGLU-AS"
+    },
+    "49875": {
+        "country_code": "TR",
+        "asn": "49875",
+        "description": "Edenred Kurumsal Cozumler A.S.",
+        "handle": "EDENREDTR"
+    },
+    "49879": {
+        "country_code": "TR",
+        "asn": "49879",
+        "description": "Dincer Isik trading as ISIK Bilgisayar Internet ve Yayincilik Hizmetleri",
+        "handle": "HOSTHANE"
+    },
+    "49887": {
+        "country_code": "TR",
+        "asn": "49887",
+        "description": "Demirer Kablo Tesisleri Sanayi ve Ticaret A.S.",
+        "handle": "DEMIRER-KABLO-ASN"
+    },
+    "50019": {
+        "country_code": "TR",
+        "asn": "50019",
+        "description": "TURKLOKASYON TELEKOM VE BILISIM TEKNOLOJILERI",
+        "handle": "DYNET-AS"
+    },
+    "50055": {
+        "country_code": "TR",
+        "asn": "50055",
+        "description": "HURKUS HAVAYOLU TASIMACILIK VE TICARET A.S.",
+        "handle": "FREEBIRD-ASN"
+    },
+    "50090": {
+        "country_code": "TR",
+        "asn": "50090",
+        "description": "D ELEKTRONIK SANS OYUNLARI VE YAYINCILIK A.S.",
+        "handle": "DSANS"
+    },
+    "50111": {
+        "country_code": "TR",
+        "asn": "50111",
+        "description": "Seker Yatirim Menkul Degerler AS",
+        "handle": "SYMD"
+    },
+    "50135": {
+        "country_code": "TR",
+        "asn": "50135",
+        "description": "Enerji Piyasalari Isletme A.S.",
+        "handle": "EPIAS"
+    },
+    "50139": {
+        "country_code": "TR",
+        "asn": "50139",
+        "description": "Enforus Bilgi Ve Operasyon Teknolojileri Anonim Sirketi",
+        "handle": "ENFORUSAS1"
+    },
+    "50225": {
+        "country_code": "TR",
+        "asn": "50225",
+        "description": "OMER AY",
+        "handle": "TECHNOX"
+    },
+    "50264": {
+        "country_code": "TR",
+        "asn": "50264",
+        "description": "LC WAIKIKI MAGAZACILIK HIZMETLERI TICARET",
+        "handle": "TEMA-AS"
+    },
+    "50528": {
+        "country_code": "TR",
+        "asn": "50528",
+        "description": "Turkiye Buyuk Millet Meclisi",
+        "handle": "TBMM"
+    },
+    "50540": {
+        "country_code": "TR",
+        "asn": "50540",
+        "description": "DT Iletisim Hizmetleri A.S.",
+        "handle": "DT-EU-SOUTHEAST-2A"
+    },
+    "50565": {
+        "country_code": "TR",
+        "asn": "50565",
+        "description": "Muzaffer Guler",
+        "handle": "MUZAFFERGULER"
+    },
+    "50875": {
+        "country_code": "TR",
+        "asn": "50875",
+        "description": "Ness Telekom Hizmetleri Sanayi ve Ticaret Anonim Sirketi",
+        "handle": "NESS"
+    },
+    "50913": {
+        "country_code": "TR",
+        "asn": "50913",
+        "description": "Sittnak Uluslararasi Nakliyat A.S.",
+        "handle": "SITTNAK-AS"
+    },
+    "50941": {
+        "country_code": "TR",
+        "asn": "50941",
+        "description": "Eclit Bilisim Hizmetleri A.S",
+        "handle": "VARGONEN"
+    },
+    "51021": {
+        "country_code": "TR",
+        "asn": "51021",
+        "description": "Mavi Giyim San.Tic.A.S.",
+        "handle": "MAVI"
+    },
+    "51174": {
+        "country_code": "TR",
+        "asn": "51174",
+        "description": "ENERJISA ENERJI URETIM A.S",
+        "handle": "ENERJISA-AS"
+    },
+    "51206": {
+        "country_code": "TR",
+        "asn": "51206",
+        "description": "Turk Hava Yollari Technic A.S.",
+        "handle": "THY"
+    },
+    "51321": {
+        "country_code": "TR",
+        "asn": "51321",
+        "description": "ALB YATIRIM MENKUL DEGERLER AS",
+        "handle": "ALB"
+    },
+    "51361": {
+        "country_code": "TR",
+        "asn": "51361",
+        "description": "ALARMNET GUVENLIK HIZMETLERI ANONIM SIRKETI",
+        "handle": "ALARMNET-ASN"
+    },
+    "51435": {
+        "country_code": "TR",
+        "asn": "51435",
+        "description": "Turkish Yatirim Menkul Degerler A.S",
+        "handle": "TURKISHYATIRIM"
+    },
+    "51476": {
+        "country_code": "TR",
+        "asn": "51476",
+        "description": "Talem Yatirim Insaat ve Ticaret AS.",
+        "handle": "RASEN"
+    },
+    "51533": {
+        "country_code": "TR",
+        "asn": "51533",
+        "description": "Turkish Bank A.S.",
+        "handle": "TURKISHBANK"
+    },
+    "51540": {
+        "country_code": "TR",
+        "asn": "51540",
+        "description": "DAL Bilgi Teknolojileri ve Bilisim Sistemleri Ticaret A.S.",
+        "handle": "DALNET-ASN"
+    },
+    "51557": {
+        "country_code": "TR",
+        "asn": "51557",
+        "description": "Isimtescil Bilisim A.S.",
+        "handle": "TR-ISIMTESCIL-20201202"
+    },
+    "51559": {
+        "country_code": "TR",
+        "asn": "51559",
+        "description": "Netinternet Bilisim Teknolojileri AS",
+        "handle": "NETINTERNET"
+    },
+    "51566": {
+        "country_code": "TR",
+        "asn": "51566",
+        "description": "TURK PATENT ENSTITUSU",
+        "handle": "TURKPATENT-AS"
+    },
+    "51575": {
+        "country_code": "TR",
+        "asn": "51575",
+        "description": "Yurtici kargo servisi a.s.",
+        "handle": "YURTICI-KARGO-NET"
+    },
+    "51585": {
+        "country_code": "TR",
+        "asn": "51585",
+        "description": "Acibadem Saglik Hizmet ve Ticaret A.S",
+        "handle": "ACIBADEM-ASN"
+    },
+    "51625": {
+        "country_code": "TR",
+        "asn": "51625",
+        "description": "Turkish Airlines Inc.",
+        "handle": "THY-AS"
+    },
+    "51683": {
+        "country_code": "TR",
+        "asn": "51683",
+        "description": "Protahub Telekomunikasyon ve Bilisim Teknolojileri AS",
+        "handle": "ASN-PROTAHUB"
+    },
+    "51695": {
+        "country_code": "TR",
+        "asn": "51695",
+        "description": "NETAS TELEKOMUNIKASYON A.S.",
+        "handle": "NETAS-AS"
+    },
+    "51703": {
+        "country_code": "TR",
+        "asn": "51703",
+        "description": "ERCIYES ANADOLU HOLDING A.S.",
+        "handle": "BOYDAK"
+    },
+    "51722": {
+        "country_code": "TR",
+        "asn": "51722",
+        "description": "PIXOOF TEKNOLOJI ANONIM SIRKETI",
+        "handle": "AS-PIXOOF"
+    },
+    "51729": {
+        "country_code": "TR",
+        "asn": "51729",
+        "description": "Air Ties Kablosuz iletisim San. ve Dis Tic. A.S.",
+        "handle": "AIRTIES"
+    },
+    "51739": {
+        "country_code": "TR",
+        "asn": "51739",
+        "description": "Is Yatirim Menkul Degerler A.S.",
+        "handle": "ISYATIRIM-MD"
+    },
+    "51791": {
+        "country_code": "TR",
+        "asn": "51791",
+        "description": "CRESTU TEKNOLOJI DIJITAL HIZMETLER LIMITED SIRKETI",
+        "handle": "VENTURES-DC"
+    },
+    "51801": {
+        "country_code": "TR",
+        "asn": "51801",
+        "description": "INTERNET KUTUSU TELEKOMUNIKASYON BILISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI",
+        "handle": "IK"
+    },
+    "51814": {
+        "country_code": "TR",
+        "asn": "51814",
+        "description": "Yeninet Fiber internet Limited Sirketi",
+        "handle": "YENINET"
+    },
+    "51915": {
+        "country_code": "TR",
+        "asn": "51915",
+        "description": "ECLIT BILISIM HIZMETLERI ANONIM SIRKETI",
+        "handle": "NETLOJISTIK-AS"
+    },
+    "52033": {
+        "country_code": "TR",
+        "asn": "52033",
+        "description": "AA TELEKOMUNIKASYON BILISIM TEKNOLOJI SISTEMLERI SANAYI VE TICARET LIMITED SIRKETI",
+        "handle": "AA-TELEKOM"
+    },
+    "52093": {
+        "country_code": "TR",
+        "asn": "52093",
+        "description": "ETHICA SIGORTA A.S.",
+        "handle": "ETHICA"
+    },
+    "52117": {
+        "country_code": "TR",
+        "asn": "52117",
+        "description": "HOBIM ARSIVLEME VE BASIM HIZMETLERI A.S.",
+        "handle": "HOBIM-AS"
+    },
+    "56325": {
+        "country_code": "TR",
+        "asn": "56325",
+        "description": "Markahost Telekomunikasyon Ve Ticaret Limited Sirketi",
+        "handle": "ENDCLIENT"
+    },
+    "56509": {
+        "country_code": "TR",
+        "asn": "56509",
+        "description": "ALNUS YATIRIM MENKUL DEGERLER A.S.",
+        "handle": "ALNUS"
+    },
+    "56579": {
+        "country_code": "TR",
+        "asn": "56579",
+        "description": "OSMANLI YATIRIM MENKUL DEGERLER A.S",
+        "handle": "TR-OSMANLIYATIRIM"
+    },
+    "56582": {
+        "country_code": "TR",
+        "asn": "56582",
+        "description": "Netfactor Telekominikasyon ve Teknoloji Hizmetleri San. ve Tic. A.S.",
+        "handle": "NETFACTOR-ASN"
+    },
+    "56643": {
+        "country_code": "TR",
+        "asn": "56643",
+        "description": "Uzak Yazilim Ve Bilisim Sistemleri Tic. Ltd. Sti",
+        "handle": "UZAKNET"
+    },
+    "56650": {
+        "country_code": "TR",
+        "asn": "56650",
+        "description": "TAV Bilisim Hizmetleri A.S.",
+        "handle": "TAVBILISIM-AUTONOMOUS-SYSTEM"
+    },
+    "56715": {
+        "country_code": "TR",
+        "asn": "56715",
+        "description": "Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi",
+        "handle": "DIGITURUNC"
+    },
+    "56727": {
+        "country_code": "TR",
+        "asn": "56727",
+        "description": "Ozyegin University",
+        "handle": "OZYUNI"
+    },
+    "56841": {
+        "country_code": "TR",
+        "asn": "56841",
+        "description": "Ozkan TOPAL",
+        "handle": "OZKAN"
+    },
+    "56980": {
+        "country_code": "TR",
+        "asn": "56980",
+        "description": "Veganet Teknolojileri ve Hizmetleri LTD STI",
+        "handle": "VEGANETIX"
+    },
+    "56998": {
+        "country_code": "TR",
+        "asn": "56998",
+        "description": "Info Yatirim Menkul Degerler A.S.",
+        "handle": "INFOYATIRIM-AS"
+    },
+    "57152": {
+        "country_code": "TR",
+        "asn": "57152",
+        "description": "Nuh Ahmet Firat trading as TEKNET YAZILIM VE BILGISAYAR TEKNOLOJILERI",
+        "handle": "TEKNET"
+    },
+    "57302": {
+        "country_code": "TR",
+        "asn": "57302",
+        "description": "mernet internet hizmetleri elektronik esya ithalat ihracat sanayi ve ticaret limited sirketi",
+        "handle": "MERNET"
+    },
+    "57397": {
+        "country_code": "TR",
+        "asn": "57397",
+        "description": "SPEX YAZILIM VE SIBER GUVENLIK HIZMETLERI ANONIM SIRKETI",
+        "handle": "SPEX"
+    },
+    "57419": {
+        "country_code": "TR",
+        "asn": "57419",
+        "description": "FLEX TR Bilisim Sanayi Ticaret Ltd. Sti.",
+        "handle": "LLCFLEX-AS-TR"
+    },
+    "57447": {
+        "country_code": "TR",
+        "asn": "57447",
+        "description": "DLL TEKNOLOJI VERI MERKEZI HIZMETLERI ANONIM SIRKETI",
+        "handle": "DLLTEKNOLOJI"
+    },
+    "57598": {
+        "country_code": "TR",
+        "asn": "57598",
+        "description": "ALKIM BASIN YAYIN ILETISIM LTD. STI.",
+        "handle": "XXX-ASN"
+    },
+    "57610": {
+        "country_code": "TR",
+        "asn": "57610",
+        "description": "YSR Bilisim Teknolojileri Telekomunikasyon Internet ve Danismanlik Hizmetleri Tic. Ltd. Sti.",
+        "handle": "ASN-LNWSERVERS"
+    },
+    "57621": {
+        "country_code": "TR",
+        "asn": "57621",
+        "description": "Bursabil Teknoloji A.S.",
+        "handle": "BURSABIL"
+    },
+    "57669": {
+        "country_code": "TR",
+        "asn": "57669",
+        "description": "Nrp Teknoloji Limited Sirketi",
+        "handle": "NRP-TEKNOLOJI-DDOS-PROTECTION"
+    },
+    "57834": {
+        "country_code": "TR",
+        "asn": "57834",
+        "description": "Petrol Ofisi A.S.",
+        "handle": "BPPETROLLERI"
+    },
+    "57844": {
+        "country_code": "TR",
+        "asn": "57844",
+        "description": "SPDNet Telekomunikasyon Hizmetleri Bilgi Teknolojileri Taahhut Sanayi Ve Ticaret A.S.",
+        "handle": "SPD-NET"
+    },
+    "57886": {
+        "country_code": "TR",
+        "asn": "57886",
+        "description": "HAVELSAN HAVA ELEKTRONIK SANAYI VE TICARET A.S.",
+        "handle": "HAVELSAN-NET"
+    },
+    "57922": {
+        "country_code": "TR",
+        "asn": "57922",
+        "description": "Virtara Group Bilisim Teknolojileri Ticaret Limited Sirketi",
+        "handle": "VIRTARA-GROUP"
+    },
+    "57935": {
+        "country_code": "TR",
+        "asn": "57935",
+        "description": "Nrp Teknoloji Limited Sirketi",
+        "handle": "NRP-TEKNOLOJI"
+    },
+    "58018": {
+        "country_code": "TR",
+        "asn": "58018",
+        "description": "Mustafa Enes Akdeniz trading as OYUN CEVHERI",
+        "handle": "CENTERIUM"
+    },
+    "58059": {
+        "country_code": "TR",
+        "asn": "58059",
+        "description": "IZMAD BILISIM INTERNET HIZ. BILGI TEKN. ITH. IHR. SAN. TIC. LTD. STI.",
+        "handle": "WIFIBER"
+    },
+    "58109": {
+        "country_code": "TR",
+        "asn": "58109",
+        "description": "STARCARD BANKA KARTLARI MERKEZI LTD",
+        "handle": "SBKM"
+    },
+    "58127": {
+        "country_code": "TR",
+        "asn": "58127",
+        "description": "Cdnbt Bilgi Teknolojileri ve Hizmetleri Limited Sirketi",
+        "handle": "CDNTELEKOM"
+    },
+    "58151": {
+        "country_code": "TR",
+        "asn": "58151",
+        "description": "National Library of Turkey",
+        "handle": "MKUTUP-MAIN-AS"
+    },
+    "58156": {
+        "country_code": "TR",
+        "asn": "58156",
+        "description": "HALK YATIRIM MENKUL DEGERLER A.S",
+        "handle": "HALK-YATIRIM"
+    },
+    "58183": {
+        "country_code": "TR",
+        "asn": "58183",
+        "description": "BANVIT BANDIRMA VITAMINLI YEM SANAYI A.S",
+        "handle": "BANVIT"
+    },
+    "58203": {
+        "country_code": "TR",
+        "asn": "58203",
+        "description": "Turk Traktor Ve Ziraat Makinalari A.S.",
+        "handle": "TURKTRAKTOR-AS"
+    },
+    "58261": {
+        "country_code": "TR",
+        "asn": "58261",
+        "description": "SALIHLI WIFI TELEKOMUNIKASYON ILETISIM HIZ SAN TIC LTD STI",
+        "handle": "SALIHLIWIFI"
+    },
+    "58293": {
+        "country_code": "TR",
+        "asn": "58293",
+        "description": "ALFA ILETISIM HIZMETLERI PAZARLAMA TICARET A.S.",
+        "handle": "ALFAILETISIM"
+    },
+    "58295": {
+        "country_code": "TR",
+        "asn": "58295",
+        "description": "Integral Menkul Degerler Anonim Sirketi",
+        "handle": "INTEGRALMENKUL-GROUP-AS"
+    },
+    "58348": {
+        "country_code": "TR",
+        "asn": "58348",
+        "description": "BAYER TURK KIMYA SANAYI LIMITED SIRKETI",
+        "handle": "BAYER-GROUP-AS"
+    },
+    "59489": {
+        "country_code": "TR",
+        "asn": "59489",
+        "description": "Anadolu Bilisim Hizmetleri A.S.",
+        "handle": "ABH2"
+    },
+    "59490": {
+        "country_code": "TR",
+        "asn": "59490",
+        "description": "MNG Havayollari ve Tasimacilik A.S.",
+        "handle": "MNGAIRLINES"
+    },
+    "59510": {
+        "country_code": "TR",
+        "asn": "59510",
+        "description": "GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI",
+        "handle": "GIBIRIX-TR"
+    },
+    "59674": {
+        "country_code": "TR",
+        "asn": "59674",
+        "description": "Erhan Mahmut trading as Aysima Bilisim Teknolojileri",
+        "handle": "AYSIMA"
+    },
+    "59886": {
+        "country_code": "TR",
+        "asn": "59886",
+        "description": "Layer Sistem tic. ltd. sti.",
+        "handle": "LAYERSISTEM"
+    },
+    "59887": {
+        "country_code": "TR",
+        "asn": "59887",
+        "description": "DT Iletisim Hizmetleri A.S.",
+        "handle": "ETCBASE-POP-PEERING"
+    },
+    "60027": {
+        "country_code": "TR",
+        "asn": "60027",
+        "description": "DTV Haber ve Gorsel Yayincilik A.S.",
+        "handle": "DTV-AS"
+    },
+    "60056": {
+        "country_code": "TR",
+        "asn": "60056",
+        "description": "YATIRIM FINANSMAN MENKUL DEGERLER ANONIM SIRKETI",
+        "handle": "YF-AS"
+    },
+    "60083": {
+        "country_code": "TR",
+        "asn": "60083",
+        "description": "ASYA KATILIM BANKASI A.S",
+        "handle": "BANKASYA-AS"
+    },
+    "60093": {
+        "country_code": "TR",
+        "asn": "60093",
+        "description": "Bupa Acibadem Sigorta A.S.",
+        "handle": "BUPAACIBADEM-AS"
+    },
+    "60096": {
+        "country_code": "TR",
+        "asn": "60096",
+        "description": "Kyndryl Global Services Is ve Teknoloji Hizmetleri ve Ticaret Limited Sirketi",
+        "handle": "IBM-TR"
+    },
+    "60146": {
+        "country_code": "TR",
+        "asn": "60146",
+        "description": "Konya Organize Sanayi",
+        "handle": "KOSB-AS"
+    },
+    "60232": {
+        "country_code": "TR",
+        "asn": "60232",
+        "description": "Euronet Telekomunikasyon A.S.",
+        "handle": "SAGLAYICI"
+    },
+    "60250": {
+        "country_code": "TR",
+        "asn": "60250",
+        "description": "INVEST-AZ YATIRIM MENKUL DEGERLER ANONIM SIRKETI",
+        "handle": "INVEST-AZ"
+    },
+    "60289": {
+        "country_code": "TR",
+        "asn": "60289",
+        "description": "Koru Sigorta AS",
+        "handle": "KORUSIGORTA-GW"
+    },
+    "60369": {
+        "country_code": "TR",
+        "asn": "60369",
+        "description": "Teletek Bulut Bilisim ve Iletisim Hizmetleri A.S.",
+        "handle": "TLT-INTL"
+    },
+    "60442": {
+        "country_code": "TR",
+        "asn": "60442",
+        "description": "DT Teknoloji Anonim Sirketi",
+        "handle": "DT-FINCLOUD-KKB"
+    },
+    "60446": {
+        "country_code": "TR",
+        "asn": "60446",
+        "description": "Datema Bilisim Ticaret Anonim Sirketi",
+        "handle": "DATEMA"
+    },
+    "60596": {
+        "country_code": "TR",
+        "asn": "60596",
+        "description": "KIBRIS TURK KOOPERATIF MERKEZ BANKASI LTD.",
+        "handle": "KOOPBANK"
+    },
+    "60607": {
+        "country_code": "TR",
+        "asn": "60607",
+        "description": "ICENET TELEKOM HIZMETLERI ANONIM SIRKETI",
+        "handle": "ICENET-AS"
+    },
+    "60647": {
+        "country_code": "TR",
+        "asn": "60647",
+        "description": "MERT TURKOGLU trading as DATAHOST INTERNET VE BILISIM TEKNOLOJILERI",
+        "handle": "MERT-TURKOGLU-DATAHOST-INTERNET-VE-BILISIM-TEKNOLOJILERI"
+    },
+    "60652": {
+        "country_code": "TR",
+        "asn": "60652",
+        "description": "SOMPO SIGORTA A.S.",
+        "handle": "TR-SOMPO"
+    },
+    "60659": {
+        "country_code": "TR",
+        "asn": "60659",
+        "description": "TURKIYE IHRACAT KREDI BANKASI A.S.",
+        "handle": "EXIM-AS"
+    },
+    "60683": {
+        "country_code": "TR",
+        "asn": "60683",
+        "description": "Geo Teknoloji A.S",
+        "handle": "GEO-TEKNOLOJI-AS"
+    },
+    "60707": {
+        "country_code": "TR",
+        "asn": "60707",
+        "description": "Kapteyan Bilisim Teknolojileri Sanayi ve Ticaret A.S",
+        "handle": "KAPTEYANAS"
+    },
+    "60721": {
+        "country_code": "TR",
+        "asn": "60721",
+        "description": "Bursabil Teknoloji A.S.",
+        "handle": "BURSABIL"
+    },
+    "60847": {
+        "country_code": "TR",
+        "asn": "60847",
+        "description": "Karel Iletisim Hizmetleri A.S.",
+        "handle": "AUTO-1"
+    },
+    "60881": {
+        "country_code": "TR",
+        "asn": "60881",
+        "description": "T.C. Basbakanlik Afet ve Acil Durum Yonetim Baskanligi",
+        "handle": "AFAD-NET"
+    },
+    "60896": {
+        "country_code": "TR",
+        "asn": "60896",
+        "description": "Sistem Network Company Ltd.",
+        "handle": "ASN-SISTEM"
+    },
+    "60946": {
+        "country_code": "TR",
+        "asn": "60946",
+        "description": "A1 CAPITAL YATIRIM MENKUL DEGERLER ANONIM SIRKETI",
+        "handle": "CREDITAGRICOLECHEUVREUX-AS"
+    },
+    "60993": {
+        "country_code": "TR",
+        "asn": "60993",
+        "description": "Total Soft SA",
+        "handle": "TOTALSOFT-NET"
+    },
+    "61080": {
+        "country_code": "TR",
+        "asn": "61080",
+        "description": "Netbone Telekomunikasyon A.S.",
+        "handle": "NBN-IX"
+    },
+    "61084": {
+        "country_code": "TR",
+        "asn": "61084",
+        "description": "Mehmet Selim Sahin",
+        "handle": "SIBERDC"
+    },
+    "61132": {
+        "country_code": "TR",
+        "asn": "61132",
+        "description": "TGS YER HIZMETLERI A.S.",
+        "handle": "TGS-ASN"
+    },
+    "61148": {
+        "country_code": "TR",
+        "asn": "61148",
+        "description": "DT Teknoloji Anonim Sirketi",
+        "handle": "DT-TELECOM-AS"
+    },
+    "61220": {
+        "country_code": "TR",
+        "asn": "61220",
+        "description": "NETBUDUR TELEKOMUNIKASYON LIMITED SIRKETI",
+        "handle": "CORENIQ"
+    },
+    "61345": {
+        "country_code": "TR",
+        "asn": "61345",
+        "description": "FLYTOM NETWORKS LTD",
+        "handle": "FLYNET-AS"
+    },
+    "61347": {
+        "country_code": "TR",
+        "asn": "61347",
+        "description": "KAREL ELEKTRONIK SANAYI VE TICARET A. S.",
+        "handle": "KAREL"
+    },
+    "61418": {
+        "country_code": "TR",
+        "asn": "61418",
+        "description": "Glasshouse Bilgi Sistemleri Ticaret Anonim Sirketi",
+        "handle": "GLASSHOUSE"
+    },
+    "61420": {
+        "country_code": "TR",
+        "asn": "61420",
+        "description": "Dogus Planet Elektronik Ticaret ve Bilisim Hizm A.S",
+        "handle": "DPPLANET-AS"
+    },
+    "62026": {
+        "country_code": "TR",
+        "asn": "62026",
+        "description": "FINK TELEKOMUNIKASYON HIZMETLERI TICARET LIMITED SIRKETI",
+        "handle": "FTS-TURKEY"
+    },
+    "62077": {
+        "country_code": "TR",
+        "asn": "62077",
+        "description": "DT Iletisim Hizmetleri A.S.",
+        "handle": "DTI-DC-PEERING"
+    },
+    "62085": {
+        "country_code": "TR",
+        "asn": "62085",
+        "description": "KURESEL BETA TEKNOLOJI TELEKOMUNIKASYON SANAYI TICARET LTD STI",
+        "handle": "KURESELBETA-NETWORKS"
+    },
+    "62095": {
+        "country_code": "TR",
+        "asn": "62095",
+        "description": "DT Iletisim Hizmetleri A.S.",
+        "handle": "AS-DT-SYSTEMS"
+    },
+    "62158": {
+        "country_code": "TR",
+        "asn": "62158",
+        "description": "SUMER VARLIK YONETIM A.S.",
+        "handle": "SUMERVARLIK"
+    },
+    "62211": {
+        "country_code": "TR",
+        "asn": "62211",
+        "description": "VODAFONE MOBILE OPERATIONS LTD.",
+        "handle": "KKTCTELSIM"
+    },
+    "62274": {
+        "country_code": "TR",
+        "asn": "62274",
+        "description": "KIBRIS IKTISAT BANKASI LIMITED (CYPRUS ECONOMY BANK LIMITED)",
+        "handle": "IKTISAT-AS"
+    },
+    "62369": {
+        "country_code": "TR",
+        "asn": "62369",
+        "description": "Quick Sigorta A.S.",
+        "handle": "TR-QUICK"
+    },
+    "62425": {
+        "country_code": "TR",
+        "asn": "62425",
+        "description": "Mailbox Internet Hizmetleri Ltd. Sti.",
+        "handle": "KUZEYDC"
+    },
+    "62433": {
+        "country_code": "TR",
+        "asn": "62433",
+        "description": "ZURICH YASAM VE EMEKLILIK ANONIM SIRKETI",
+        "handle": "INGEMEK-AS"
+    },
+    "62456": {
+        "country_code": "TR",
+        "asn": "62456",
+        "description": "WEBHANE Bilisim Teknolojileri Ticaret Limited Sirketi",
+        "handle": "WEBHANE"
+    },
+    "64447": {
+        "country_code": "TR",
+        "asn": "64447",
+        "description": "Fiba Holding A.S.",
+        "handle": "FIBAHOLDING"
+    },
+    "65593": {
+        "country_code": "TR",
+        "asn": "65593",
+        "description": "Vodafone Net Iletisim Hizmetler AS",
+        "handle": "VODAFONE-NET-ILETISIM"
+    },
+    "65989": {
+        "country_code": "TR",
+        "asn": "65989",
+        "description": "Vodafone Telekomunikasyon A.S.",
+        "handle": "VODAFONE-TELEKOMUNIKASYON-AS"
+    },
+    "196627": {
+        "country_code": "TR",
+        "asn": "196627",
+        "description": "HEDEF GRUP SATIS DAGITIM SAN.VE TIC.A.S.",
+        "handle": "HEDEFGRUP-AS"
+    },
+    "196733": {
+        "country_code": "TR",
+        "asn": "196733",
+        "description": "Eskisehir Bilisim Iletisim San. ve Tic. A.S.",
+        "handle": "ESOESNET"
+    },
+    "196971": {
+        "country_code": "TR",
+        "asn": "196971",
+        "description": "BEYKOZ BELEDIYESI",
+        "handle": "BEYKOZ-BELEDIYESI-AS"
+    },
+    "197042": {
+        "country_code": "TR",
+        "asn": "197042",
+        "description": "AKTIF YATIRIM BANKASI ANONIM SIRKETI",
+        "handle": "AKTIFBANK"
+    },
+    "197130": {
+        "country_code": "TR",
+        "asn": "197130",
+        "description": "SOLMAZ GUMRUK MUSAVIRLIGI A.S",
+        "handle": "SOLMAZ"
+    },
+    "197143": {
+        "country_code": "TR",
+        "asn": "197143",
+        "description": "Netcen Teknoloji Ltd. Sti",
+        "handle": "NETCEN"
+    },
+    "197386": {
+        "country_code": "TR",
+        "asn": "197386",
+        "description": "ARAP TURK BANKASI ANONIM SIRKETI",
+        "handle": "ATBANK"
+    },
+    "197428": {
+        "country_code": "TR",
+        "asn": "197428",
+        "description": "ROKO GAME TEKNOLOJI ANONIM SIRKETI",
+        "handle": "ROKOGAME"
+    },
+    "197450": {
+        "country_code": "TR",
+        "asn": "197450",
+        "description": "Sunucun Bilgi Iletisim Teknolojileri ve Ticaret Ltd. Sti.",
+        "handle": "SUNUCUN"
+    },
+    "197597": {
+        "country_code": "TR",
+        "asn": "197597",
+        "description": "AYTEMIZ AKARYAKIT DAGITIM A.S",
+        "handle": "AYTEMIZ-AS"
+    },
+    "197633": {
+        "country_code": "TR",
+        "asn": "197633",
+        "description": "Superonline Iletisim Hizmetleri A.S.",
+        "handle": "METRONET-AS"
+    },
+    "197654": {
+        "country_code": "TR",
+        "asn": "197654",
+        "description": "Eczacibasi Bilisim San.ve Tic. A.S.",
+        "handle": "EBI-NET"
+    },
+    "197720": {
+        "country_code": "TR",
+        "asn": "197720",
+        "description": "TURKTICARET.NET YAZILIM HIZMETLERI SAN. ve TIC. A.S.",
+        "handle": "TURKTICARET-AS1"
+    },
+    "197748": {
+        "country_code": "TR",
+        "asn": "197748",
+        "description": "MERCAN NET BILISIM TEKNOLOJILERI TIC. LTD.STI.",
+        "handle": "MERCANNET-WI-CENTRAL"
+    },
+    "197851": {
+        "country_code": "TR",
+        "asn": "197851",
+        "description": "BURGAN YATIRIM MENKUL DEGERLER ANONIM SIRKETI",
+        "handle": "BURGAN-YATIRIM-MENKUL-DEGERLER-AS"
+    },
+    "197894": {
+        "country_code": "TR",
+        "asn": "197894",
+        "description": "PRONET GUVENLIK HIZMETLERI ANONIM SIRKETI",
+        "handle": "PRONET-GUVENLIK-AS"
+    },
+    "197912": {
+        "country_code": "TR",
+        "asn": "197912",
+        "description": "Aktek Bilgi Iletisim Teknolojisi Sanayi Ve Ticaret AS",
+        "handle": "AKTEK-BGP"
+    },
+    "197916": {
+        "country_code": "TR",
+        "asn": "197916",
+        "description": "BIL-TIM BILGISAYAR HIZMETLERI ANONIM SIRKETI",
+        "handle": "BIL-TIM-BILGISAYAR-AS"
+    },
+    "197941": {
+        "country_code": "TR",
+        "asn": "197941",
+        "description": "MENGERLER TICARET TURK ANONIM SIRKETI",
+        "handle": "AVM-MENGERLER-AS"
+    },
+    "198107": {
+        "country_code": "TR",
+        "asn": "198107",
+        "description": "2B YALI DAGITIM PAZARLAMA GIDA SANAYI VE DIS TICARET LIMITED SIRKETI",
+        "handle": "YALI-DAGITIM-PAZARLAMA"
+    },
+    "198208": {
+        "country_code": "TR",
+        "asn": "198208",
+        "description": "KKTC Telekom",
+        "handle": "KKTCTELEKOMDAIRESI"
+    },
+    "198234": {
+        "country_code": "TR",
+        "asn": "198234",
+        "description": "SOLFIKS INTERNET Hizmetleri ve Danismanlik Tic. Ltd. Sti.",
+        "handle": "SOLFIKS-GRUP-AS"
+    },
+    "198236": {
+        "country_code": "TR",
+        "asn": "198236",
+        "description": "BILYONER INTERAKTIF HIZMETLER ANONIM SIRKETI",
+        "handle": "TR-BILYONER"
+    },
+    "198325": {
+        "country_code": "TR",
+        "asn": "198325",
+        "description": "Yeni Telekom Internet Hizmetleri Ltd. Sirketi",
+        "handle": "YENITELEKOM"
+    },
+    "198417": {
+        "country_code": "TR",
+        "asn": "198417",
+        "description": "DSM Grup Danismanlik Iletisim ve Satis Ticaret Anonim Sirketi",
+        "handle": "DSM-AS"
+    },
+    "198436": {
+        "country_code": "TR",
+        "asn": "198436",
+        "description": "GOLDSURF INTERNET LTD",
+        "handle": "GOLDSURF"
+    },
+    "198497": {
+        "country_code": "TR",
+        "asn": "198497",
+        "description": "Sipay Elektronik Para ve Odeme Hizmetleri A.S.",
+        "handle": "SIPAY"
+    },
+    "198511": {
+        "country_code": "TR",
+        "asn": "198511",
+        "description": "Arvento Mobil Sistemler A.S.",
+        "handle": "ASN-ARVENTO"
+    },
+    "198520": {
+        "country_code": "TR",
+        "asn": "198520",
+        "description": "SahilNET Telekomunikasyon Hizmetleri Ltd. Sti.",
+        "handle": "SAHILNET"
+    },
+    "198659": {
+        "country_code": "TR",
+        "asn": "198659",
+        "description": "Tera Yatirim Bankasi A.S",
+        "handle": "TERABANK"
+    },
+    "198662": {
+        "country_code": "TR",
+        "asn": "198662",
+        "description": "IREMNET TELEKOMUNIKASYON TEKNOLOJI SAN ve TIC LTD STI",
+        "handle": "IREMNET"
+    },
+    "198970": {
+        "country_code": "TR",
+        "asn": "198970",
+        "description": "VERIMOR TELEKOMUNIKASYON A.S.",
+        "handle": "VERIMOR"
+    },
+    "199038": {
+        "country_code": "TR",
+        "asn": "199038",
+        "description": "Inter Partner Assistance Yardim ve Destek Hizmetleri Ticaret Limited Sirketi",
+        "handle": "IPA-TURKIYE"
+    },
+    "199100": {
+        "country_code": "TR",
+        "asn": "199100",
+        "description": "YUEM GRUP TELEKOMUNIKASYON TICARET LIMITED SIRKETI",
+        "handle": "SABITNET-TR-YUEM"
+    },
+    "199198": {
+        "country_code": "TR",
+        "asn": "199198",
+        "description": "LINKSA YAZILIM GELISTIRME VE TICARET ANONIM SIRKETI",
+        "handle": "LINKSA"
+    },
+    "199333": {
+        "country_code": "TR",
+        "asn": "199333",
+        "description": "Yapi ve Kredi Bankasi Genel Mudurluk",
+        "handle": "YKB-AS"
+    },
+    "199366": {
+        "country_code": "TR",
+        "asn": "199366",
+        "description": "Yesilbir Bilisim Teknolojileri Bilgisayar Yayincilik Sanayi ve Ticaret Ltd. Sti.",
+        "handle": "TTNETDC"
+    },
+    "199402": {
+        "country_code": "TR",
+        "asn": "199402",
+        "description": "SIAFLEX Bilisim Anonim Sirketi",
+        "handle": "SIAFLEX"
+    },
+    "199419": {
+        "country_code": "TR",
+        "asn": "199419",
+        "description": "LIMON BILGI TEKNOLOJILERI ANONIM SIRKETI",
+        "handle": "LIMONHOST"
+    },
+    "199484": {
+        "country_code": "TR",
+        "asn": "199484",
+        "description": "Euronet Telekomunikasyon A.S.",
+        "handle": "SAGLAYICI"
+    },
+    "199505": {
+        "country_code": "TR",
+        "asn": "199505",
+        "description": "T.C. Aile ve Sosyal Politikalar Bakanligi",
+        "handle": "AILEBAKANLIGI"
+    },
+    "199515": {
+        "country_code": "TR",
+        "asn": "199515",
+        "description": "PAYTEN TEKNOLOJI ANONIM SIRKETI",
+        "handle": "ASSECOSEETR-AS"
+    },
+    "199608": {
+        "country_code": "TR",
+        "asn": "199608",
+        "description": "Birbir Internet Teknolojileri Sanayi ve Ticaret Limited Sirketi",
+        "handle": "BIRBIR"
+    },
+    "199724": {
+        "country_code": "TR",
+        "asn": "199724",
+        "description": "TeknoDC Bilisim Teknolojileri A.S.",
+        "handle": "TEKNODC"
+    },
+    "199797": {
+        "country_code": "TR",
+        "asn": "199797",
+        "description": "Sentreva Internet Hizmetleri Anonim Sirketi",
+        "handle": "SENTREVA"
+    },
+    "199812": {
+        "country_code": "TR",
+        "asn": "199812",
+        "description": "KKB KREDI KAYIT BUROSU A.S.",
+        "handle": "KKB-AS"
+    },
+    "199907": {
+        "country_code": "TR",
+        "asn": "199907",
+        "description": "RADE Bilisim Anonim Sirketi",
+        "handle": "RADENETWORK"
+    },
+    "199964": {
+        "country_code": "TR",
+        "asn": "199964",
+        "description": "Mehmet Yaradanakul trading as Iris Yazilim ve Bilisim Hizmetleri",
+        "handle": "IRISYAZILIM"
+    },
+    "200002": {
+        "country_code": "TR",
+        "asn": "200002",
+        "description": "Verimek Telekomunikasyon San Ve Tic. Ltd. Sti.",
+        "handle": "VERIMEK"
+    },
+    "200006": {
+        "country_code": "TR",
+        "asn": "200006",
+        "description": "Efinans Elektronik Ticaret ve Bilisim Hizmetleri A.S.",
+        "handle": "EFNNS-AS"
+    },
+    "200010": {
+        "country_code": "TR",
+        "asn": "200010",
+        "description": "AE Olfe Teknoloji ve Ticaret Limited Sirketi",
+        "handle": "VISLOM"
+    },
+    "200016": {
+        "country_code": "TR",
+        "asn": "200016",
+        "description": "Iyzi Odeme ve Elektronik Para Hizmetleri A.S.",
+        "handle": "IYZI"
+    },
+    "200040": {
+        "country_code": "TR",
+        "asn": "200040",
+        "description": "Netgigabit Iletisim Hizmetleri Ltd. Sti.",
+        "handle": "NETGIGABIT"
+    },
+    "200075": {
+        "country_code": "TR",
+        "asn": "200075",
+        "description": "ULTRANET INTERNET ILETISIM TEKNOLOJILERI SAN.VE TIC.LTD.STI.",
+        "handle": "ULTRANET-TURKIYE"
+    },
+    "200091": {
+        "country_code": "TR",
+        "asn": "200091",
+        "description": "Osnet Internet Hizmetleri A.S.",
+        "handle": "OSNET"
+    },
+    "200106": {
+        "country_code": "TR",
+        "asn": "200106",
+        "description": "HATFIBER TELEKOMUNIKASYON BILISIM HIZMETLERI SANAYI VE TICARET A.S.",
+        "handle": "HATFIBER"
+    },
+    "200190": {
+        "country_code": "TR",
+        "asn": "200190",
+        "description": "Owligo Bilisim Sistemleri A.S",
+        "handle": "OWLIGO"
+    },
+    "200193": {
+        "country_code": "TR",
+        "asn": "200193",
+        "description": "ITM Yazilim Bilgisayar Sistemleri ve Danismanlik Tic. Ltd. Sti",
+        "handle": "ITMNET"
+    },
+    "200194": {
+        "country_code": "TR",
+        "asn": "200194",
+        "description": "NECEN TEKNOLOJI ANONIM SIRKETI",
+        "handle": "NECENTEKNOLOJI"
+    },
+    "200231": {
+        "country_code": "TR",
+        "asn": "200231",
+        "description": "TE BILISIM YAZILIM INTERNET KIRALAMA HIZMETLERI SAN. VE TIC. LTD. STI.",
+        "handle": "TE-BILISIM"
+    },
+    "200239": {
+        "country_code": "TR",
+        "asn": "200239",
+        "description": "Bogahost Bilisim ve Telekomunikasyon Hiz San ve Tic. Ltd. Sti",
+        "handle": "BOGAHOST"
+    },
+    "200334": {
+        "country_code": "TR",
+        "asn": "200334",
+        "description": "Alptekin Sunnetci",
+        "handle": "NETOPS-TR"
+    },
+    "200385": {
+        "country_code": "TR",
+        "asn": "200385",
+        "description": "KORP YAZILIM VE BILGI TEKNOLOJILERI LTD. STI.",
+        "handle": "KORP"
+    },
+    "200404": {
+        "country_code": "TR",
+        "asn": "200404",
+        "description": "Jetnet Telekom Int. Bil.Hiz. San and Tic. LTD",
+        "handle": "JETNET"
+    },
+    "200443": {
+        "country_code": "TR",
+        "asn": "200443",
+        "description": "ALTINSOFT BILISIM TEKNOLOJILERI TICARET LIMITED SIRKETI",
+        "handle": "ALTINSOFT"
+    },
+    "200456": {
+        "country_code": "TR",
+        "asn": "200456",
+        "description": "VG Telekomunikasyon Ticaret Limited Sirketi",
+        "handle": "VERIGOM"
+    },
+    "200571": {
+        "country_code": "TR",
+        "asn": "200571",
+        "description": "Forinvest Yazilim Ve Teknoloji Hizmetleri Anonim Sirketi",
+        "handle": "FOREKSBILGI"
+    },
+    "200572": {
+        "country_code": "TR",
+        "asn": "200572",
+        "description": "SUKNET TELEKOM KABLOSUZ INTERNET HIZMETLERI LTD STI",
+        "handle": "SUKNET"
+    },
+    "200673": {
+        "country_code": "TR",
+        "asn": "200673",
+        "description": "PAKA TEKNOLOJI DANISMANLIK EGITIM HIZ. TIC. LTD. STI.",
+        "handle": "PAKA"
+    },
+    "200684": {
+        "country_code": "TR",
+        "asn": "200684",
+        "description": "Bida Teknoloji Hizmetleri A.S.",
+        "handle": "BIDA-TR2"
+    },
+    "200691": {
+        "country_code": "TR",
+        "asn": "200691",
+        "description": "Tacirler Yatirim Menkul Degerler A.S",
+        "handle": "TACIRLER"
+    },
+    "200710": {
+        "country_code": "TR",
+        "asn": "200710",
+        "description": "Alfa Net Telekomunikasyon Limited Sirketi",
+        "handle": "ALFANET"
+    },
+    "200791": {
+        "country_code": "TR",
+        "asn": "200791",
+        "description": "Serdar Selahattin Kekik",
+        "handle": "TENGIG-AS"
+    },
+    "200817": {
+        "country_code": "TR",
+        "asn": "200817",
+        "description": "TRE TEKNOLOJI SANAYI VE TICARET LIMITED SIRKETI",
+        "handle": "TRE"
+    },
+    "200830": {
+        "country_code": "TR",
+        "asn": "200830",
+        "description": "Turk Akreditasyon Kurumu",
+        "handle": "TURKAK-AS"
+    },
+    "200833": {
+        "country_code": "TR",
+        "asn": "200833",
+        "description": "FURKAN AYDINLI",
+        "handle": "NODE-CATCH"
+    },
+    "200875": {
+        "country_code": "TR",
+        "asn": "200875",
+        "description": "Oben Teknoloji LTD STI",
+        "handle": "OBENTEKNOLOJI"
+    },
+    "200972": {
+        "country_code": "TR",
+        "asn": "200972",
+        "description": "Emin Net Telekomunikasyon Sanayi Ve Ticaret Limited Sirketi",
+        "handle": "EMINNET"
+    },
+    "200977": {
+        "country_code": "TR",
+        "asn": "200977",
+        "description": "Sunucuyeri Internet Bilgisayar Turizm Sanayi Ve Dis Ticaret Limited Sirketi",
+        "handle": "ASSUNUCUYERI"
+    },
+    "201021": {
+        "country_code": "TR",
+        "asn": "201021",
+        "description": "Ahmet Onur Guney trading as Onur Bilisim Ve Yazilim Hizmetleri",
+        "handle": "ONURBILISIM-AS"
+    },
+    "201030": {
+        "country_code": "TR",
+        "asn": "201030",
+        "description": "HOSTGEB BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETI",
+        "handle": "HOSTGEB-ASN"
+    },
+    "201032": {
+        "country_code": "TR",
+        "asn": "201032",
+        "description": "PASIFIK TELEKOM ILETISIM SANAYI TICARET LTD STI",
+        "handle": "ASPASIFIK"
+    },
+    "201064": {
+        "country_code": "TR",
+        "asn": "201064",
+        "description": "Ideal Hosting Teknoloji A.S.",
+        "handle": "IDEALHOSTING"
+    },
+    "201079": {
+        "country_code": "TR",
+        "asn": "201079",
+        "description": "AKA Bilisim Yazilim Arge Ins. Taah. San. Tic. A.S.",
+        "handle": "GARANTISERVER-COM"
+    },
+    "201086": {
+        "country_code": "TR",
+        "asn": "201086",
+        "description": "Mahsum Celik trading as ServerPlusInternet Sunucu Hizmetleri",
+        "handle": "SERVERPLUS"
+    },
+    "201128": {
+        "country_code": "TR",
+        "asn": "201128",
+        "description": "Bilintel Bilisim Ticaret Limited Sirketi",
+        "handle": "TR-BILINTEL"
+    },
+    "201160": {
+        "country_code": "TR",
+        "asn": "201160",
+        "description": "Dogus Bilgi Islem ve Teknoloji Hizmetleri A.S",
+        "handle": "D-TEK"
+    },
+    "201178": {
+        "country_code": "TR",
+        "asn": "201178",
+        "description": "Euronet Telekomunikasyon A.S.",
+        "handle": "EURONET"
+    },
+    "201218": {
+        "country_code": "TR",
+        "asn": "201218",
+        "description": "Kazanbel Net Iletisim Bilgi Teknoloji Tic Ltd Sti",
+        "handle": "KAZANBELNET"
+    },
+    "201233": {
+        "country_code": "TR",
+        "asn": "201233",
+        "description": "YONCA DURAN",
+        "handle": "DHS"
+    },
+    "201241": {
+        "country_code": "TR",
+        "asn": "201241",
+        "description": "Cypking Network & Communication Ltd",
+        "handle": "CYPKING"
+    },
+    "201272": {
+        "country_code": "TR",
+        "asn": "201272",
+        "description": "HIKMET CENKER AYDINBEK",
+        "handle": "CENAYBILISIM"
+    },
+    "201274": {
+        "country_code": "TR",
+        "asn": "201274",
+        "description": "Andrei Bukharov",
+        "handle": "TELEMATIKASOUTH-AS"
+    },
+    "201283": {
+        "country_code": "TR",
+        "asn": "201283",
+        "description": "Veli Sonmez",
+        "handle": "HOSTGAME"
+    },
+    "201325": {
+        "country_code": "TR",
+        "asn": "201325",
+        "description": "MENSEL ILETISIM TICARET LIMITED SIRKETI",
+        "handle": "MENSEL-CORE"
+    },
+    "201331": {
+        "country_code": "TR",
+        "asn": "201331",
+        "description": "GOKTURKNET INTERNET TELEKOMUNIKASYON BILISIM TEKNOLOJILERI SANAYI VE TICARET ANONIM SIRKETI",
+        "handle": "GOKTURKNET"
+    },
+    "201336": {
+        "country_code": "TR",
+        "asn": "201336",
+        "description": "IGA HAVALIMANI ISLETMESI A S",
+        "handle": "IGA-ASN01"
+    },
+    "201364": {
+        "country_code": "TR",
+        "asn": "201364",
+        "description": "TEKNOBOSS TEKNOLOJI VE DANISMANLIK HIZMETLERI LIMITED SIRKETI",
+        "handle": "ASTEKNOBOSS"
+    },
+    "201407": {
+        "country_code": "TR",
+        "asn": "201407",
+        "description": "Cagri Topuz",
+        "handle": "SERVERORA"
+    },
+    "201411": {
+        "country_code": "TR",
+        "asn": "201411",
+        "description": "GOKNET iletisim A.S.",
+        "handle": "GOKNET"
+    },
+    "201473": {
+        "country_code": "TR",
+        "asn": "201473",
+        "description": "ERK PAZARLAMA VE GIYIM SANAYI TIC.A.S.",
+        "handle": "EROGLU"
+    },
+    "201520": {
+        "country_code": "TR",
+        "asn": "201520",
+        "description": "Dedicated Telekomunikasyon Teknoloji Hiz. Tic. San. LTD. STI.",
+        "handle": "DEDICATEDTELECOM"
+    },
+    "201534": {
+        "country_code": "TR",
+        "asn": "201534",
+        "description": "VG Telekomunikasyon Ticaret Limited Sirketi",
+        "handle": "SSDHOSTING"
+    },
+    "201584": {
+        "country_code": "TR",
+        "asn": "201584",
+        "description": "SUPERPAY TEKNOLOJI ANONIM SIRKETI",
+        "handle": "SUPERPAY"
+    },
+    "201618": {
+        "country_code": "TR",
+        "asn": "201618",
+        "description": "Istanbul Metropolitan Municipality",
+        "handle": "IBB"
+    },
+    "201632": {
+        "country_code": "TR",
+        "asn": "201632",
+        "description": "Anadolu University AS",
+        "handle": "ANADOLU-EDU-AS"
+    },
+    "201658": {
+        "country_code": "TR",
+        "asn": "201658",
+        "description": "OTO CAM TICARET A.S.",
+        "handle": "CARGLASS-TURKEY"
+    },
+    "201688": {
+        "country_code": "TR",
+        "asn": "201688",
+        "description": "Bilgi Teknolojileri ve iletisim Kurumu",
+        "handle": "BTKBTD"
+    },
+    "201707": {
+        "country_code": "TR",
+        "asn": "201707",
+        "description": "Netcen Teknoloji Ltd. Sti",
+        "handle": "GOSTREAM"
+    },
+    "201713": {
+        "country_code": "TR",
+        "asn": "201713",
+        "description": "Veganet Teknolojileri ve Hizmetleri LTD STI",
+        "handle": "GAZIANTEPDC"
+    },
+    "201741": {
+        "country_code": "TR",
+        "asn": "201741",
+        "description": "Burak GULDOGAN",
+        "handle": "NETY"
+    },
+    "201751": {
+        "country_code": "TR",
+        "asn": "201751",
+        "description": "IYI NET ILETISIM HIZMETLERI LTD.STI.",
+        "handle": "DAHAONLINE"
+    },
+    "201760": {
+        "country_code": "TR",
+        "asn": "201760",
+        "description": "BULLS YATIRIM MENKUL DEGERLER A.S.",
+        "handle": "BULLS"
+    },
+    "201863": {
+        "country_code": "TR",
+        "asn": "201863",
+        "description": "Star of Bosphorus Bilgi Teknolojiler San ve Tic A.S.",
+        "handle": "TR-SOBDATACENTER"
+    },
+    "201880": {
+        "country_code": "TR",
+        "asn": "201880",
+        "description": "FIPEK BILISIM ANONIM SIRKETI",
+        "handle": "FIPEK-BILISIM"
+    },
+    "201928": {
+        "country_code": "TR",
+        "asn": "201928",
+        "description": "NETIYI TELEKOMUNIKASYON INTERNET. BILG. HIZ. TIC. SAN. LTD. STI.",
+        "handle": "ASNETIYI"
+    },
+    "202033": {
+        "country_code": "TR",
+        "asn": "202033",
+        "description": "Halk Elektronik Para ve Odeme Hizmetleri Anonim Sirketi",
+        "handle": "HALKODE-ASN1"
+    },
+    "202048": {
+        "country_code": "TR",
+        "asn": "202048",
+        "description": "Cloud Teknoloji Bilisim Hizmetleri ve Ticaret A.S.",
+        "handle": "CLOUDTEKNOLOJI"
+    },
+    "202106": {
+        "country_code": "TR",
+        "asn": "202106",
+        "description": "GAMETECH DIJITAL TEKNOLOJI ANONIM SIRKETI",
+        "handle": "GAMETECH"
+    },
+    "202124": {
+        "country_code": "TR",
+        "asn": "202124",
+        "description": "Haypem Iletisim Limited",
+        "handle": "HAYPEM"
+    },
+    "202130": {
+        "country_code": "TR",
+        "asn": "202130",
+        "description": "Bida Teknoloji Hizmetleri A.S.",
+        "handle": "BIDA-TR1"
+    },
+    "202155": {
+        "country_code": "TR",
+        "asn": "202155",
+        "description": "ALONE SOFTWARE TEKNOLOJI LIMITED SIRKETI",
+        "handle": "ALONEGROUP"
+    },
+    "202159": {
+        "country_code": "TR",
+        "asn": "202159",
+        "description": "Sky Atlas Iletisim Sanayi ve Ticaret Anonim Sirketi",
+        "handle": "SKYATLAS"
+    },
+    "202233": {
+        "country_code": "TR",
+        "asn": "202233",
+        "description": "4GNET FATIH ELEKTRONIK DONANIM YAZILIM TELEKOMUNIKASYON SANAYI VE TICARET LIMITED SIRKETI",
+        "handle": "DORTGNET"
+    },
+    "202254": {
+        "country_code": "TR",
+        "asn": "202254",
+        "description": "LIFECELL DIGITAL LTD",
+        "handle": "LDL"
+    },
+    "202294": {
+        "country_code": "TR",
+        "asn": "202294",
+        "description": "Netlojik Bilgi Teknolojileri Sanayi ve Ticaret Limited Sirketi",
+        "handle": "NETLOJIK-BT"
+    },
+    "202303": {
+        "country_code": "TR",
+        "asn": "202303",
+        "description": "TRENDNET TELEKOMUNIKASYON BILISIM HIZMETLERI TICARET LIMITED SIRKETI",
+        "handle": "ISP-TRENDNET-AS202303"
+    },
+    "202365": {
+        "country_code": "TR",
+        "asn": "202365",
+        "description": "Omer GOLGELI",
+        "handle": "CHRONOS"
+    },
+    "202444": {
+        "country_code": "TR",
+        "asn": "202444",
+        "description": "KOC HOLDING A.S.",
+        "handle": "KOCHOLDING"
+    },
+    "202494": {
+        "country_code": "TR",
+        "asn": "202494",
+        "description": "Turkiye Petrol Rafinerileri Anonim Sirketi TUPRAS",
+        "handle": "TUPRAS"
+    },
+    "202505": {
+        "country_code": "TR",
+        "asn": "202505",
+        "description": "NETBUDUR TELEKOMUNIKASYON LIMITED SIRKETI",
+        "handle": "NETBUDUR-DATACENTER-ISTANBUL"
+    },
+    "202512": {
+        "country_code": "TR",
+        "asn": "202512",
+        "description": "Aramis A Eraslan",
+        "handle": "AS-202512"
+    },
+    "202518": {
+        "country_code": "TR",
+        "asn": "202518",
+        "description": "FIXNET Telekomunikasyon Limited Sirketi",
+        "handle": "SISTEM"
+    },
+    "202536": {
+        "country_code": "TR",
+        "asn": "202536",
+        "description": "Kadir Kurt trading as Isim Kayit Bilisim",
+        "handle": "ISIMKAYITBILISIM"
+    },
+    "202557": {
+        "country_code": "TR",
+        "asn": "202557",
+        "description": "MIGROS TICARET ANONIM SIRKETI",
+        "handle": "MIGROS"
+    },
+    "202561": {
+        "country_code": "TR",
+        "asn": "202561",
+        "description": "High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.",
+        "handle": "HIGHSPEED"
+    },
+    "202588": {
+        "country_code": "TR",
+        "asn": "202588",
+        "description": "Nurol Yatirim Bankasi Anonim Sirketi",
+        "handle": "NUROLBANK"
+    },
+    "202620": {
+        "country_code": "TR",
+        "asn": "202620",
+        "description": "Alastyr Telekomunikasyon A.S.",
+        "handle": "HOSTNG"
+    },
+    "202678": {
+        "country_code": "TR",
+        "asn": "202678",
+        "description": "SPEX TEKNOLOJI ANONIM SIRKETI",
+        "handle": "PINABI-ASN"
+    },
+    "202685": {
+        "country_code": "TR",
+        "asn": "202685",
+        "description": "Arkel Elektrik Elektronik San ve Tic A.S",
+        "handle": "TR-ARKEL"
+    },
+    "202711": {
+        "country_code": "TR",
+        "asn": "202711",
+        "description": "Veganet Teknolojileri ve Hizmetleri LTD STI",
+        "handle": "VEGANET"
+    },
+    "202790": {
+        "country_code": "TR",
+        "asn": "202790",
+        "description": "Netwifi Iletisim Hizmetleri Ltd. Sti.",
+        "handle": "NETWIFI"
+    },
+    "202859": {
+        "country_code": "TR",
+        "asn": "202859",
+        "description": "VAKIF KATILIM BANKASI A.S.",
+        "handle": "VAKIFKATILIM"
+    },
+    "202900": {
+        "country_code": "TR",
+        "asn": "202900",
+        "description": "ITS Iletisim Teknoloji Sistem Yazilim Danismanlik Hizmetleri Anonim Sirketi",
+        "handle": "GRID"
+    },
+    "202924": {
+        "country_code": "TR",
+        "asn": "202924",
+        "description": "SABANCI DIJITAL TEKNOLOJI HIZMETLERI ANONIM SIRKETI",
+        "handle": "BIMSA-ASN"
+    },
+    "202973": {
+        "country_code": "TR",
+        "asn": "202973",
+        "description": "Remedy Bilisim Teknolojileri A.S.",
+        "handle": "RMDY-AS"
+    },
+    "202976": {
+        "country_code": "TR",
+        "asn": "202976",
+        "description": "KIRNET BILISIM VE TELEKOMUNIKASYON HIZMETLERI SANAYI TICARET LIMITED SIRKETI",
+        "handle": "TR-KIRNET-BILISIM"
+    },
+    "202983": {
+        "country_code": "TR",
+        "asn": "202983",
+        "description": "Craftgate Teknoloji A.S.",
+        "handle": "CRAFTGATE-AS"
+    },
+    "202991": {
+        "country_code": "TR",
+        "asn": "202991",
+        "description": "Netdirekt A.S.",
+        "handle": "NETIN"
+    },
+    "203114": {
+        "country_code": "TR",
+        "asn": "203114",
+        "description": "Eray Maden trading as Etkin Host Bilisim ve Internet Hizmetleri",
+        "handle": "ETKINHOST"
+    },
+    "203216": {
+        "country_code": "TR",
+        "asn": "203216",
+        "description": "Sonet Internet Erisim Hizmetleri San. ve Tic. LTD. STI",
+        "handle": "SONET"
+    },
+    "203248": {
+        "country_code": "TR",
+        "asn": "203248",
+        "description": "BNET BULUT Bilisim Hizmetleri Tic. Ltd. Sti.",
+        "handle": "BURTINET"
+    },
+    "203259": {
+        "country_code": "TR",
+        "asn": "203259",
+        "description": "Zero Veri Merkezi Teknolojileri A.S",
+        "handle": "ZERONET"
+    },
+    "203285": {
+        "country_code": "TR",
+        "asn": "203285",
+        "description": "GESNET ILETISIM BILESIM HIZMETLERI BILGISAYER YAZILIM TELEKOMUNIKASYON SAN. VE TIC. LTD. STI.",
+        "handle": "GESNET"
+    },
+    "203289": {
+        "country_code": "TR",
+        "asn": "203289",
+        "description": "TRT Yeni Medya Kanal Koordinatorlugu",
+        "handle": "AS-TRTWORLD"
+    },
+    "203321": {
+        "country_code": "TR",
+        "asn": "203321",
+        "description": "100 DERECE BILISIM A.S.",
+        "handle": "RETVO"
+    },
+    "203377": {
+        "country_code": "TR",
+        "asn": "203377",
+        "description": "Mehmet Uzunca",
+        "handle": "FIBERNET-TEKNOLOJI-LTD"
+    },
+    "203393": {
+        "country_code": "TR",
+        "asn": "203393",
+        "description": "Onetra Bilisim Teknolojileri San. Tic. LTD. STI.",
+        "handle": "ONETRA"
+    },
+    "203399": {
+        "country_code": "TR",
+        "asn": "203399",
+        "description": "Extranet Iletisim Hizmetleri A.S.",
+        "handle": "EXTRANET"
+    },
+    "203445": {
+        "country_code": "TR",
+        "asn": "203445",
+        "description": "Elektronik Bilgi Guvenligi AS",
+        "handle": "E-GUVEN"
+    },
+    "203458": {
+        "country_code": "TR",
+        "asn": "203458",
+        "description": "HACI OKKES COLAK",
+        "handle": "HOSTPRISE"
+    },
+    "203468": {
+        "country_code": "TR",
+        "asn": "203468",
+        "description": "THY DO&CO Ikram Hizmetleri A.S.",
+        "handle": "DOCOTR"
+    },
+    "203494": {
+        "country_code": "TR",
+        "asn": "203494",
+        "description": "Huriye Coban",
+        "handle": "LEPSOR"
+    },
+    "203511": {
+        "country_code": "TR",
+        "asn": "203511",
+        "description": "OZBAY BILISIM INTERNET HIZMETLERI LIMITED SIRKETI",
+        "handle": "AS-OZBAY"
+    },
+    "203516": {
+        "country_code": "TR",
+        "asn": "203516",
+        "description": "Enescan Tas",
+        "handle": "ALTUNHOST"
+    },
+    "203519": {
+        "country_code": "TR",
+        "asn": "203519",
+        "description": "TURK FINANSAL TEKNOLOJI A.S.",
+        "handle": "TFTASN1"
+    },
+    "203543": {
+        "country_code": "TR",
+        "asn": "203543",
+        "description": "TBTNET TELEKOM LTD. STI.",
+        "handle": "TBTNET-BACKUP"
+    },
+    "203545": {
+        "country_code": "TR",
+        "asn": "203545",
+        "description": "Savas Anac",
+        "handle": "NERZEN-BILISIM-TEKNOLOJILERI"
+    },
+    "203555": {
+        "country_code": "TR",
+        "asn": "203555",
+        "description": "Emre Erim trading as Medyabim Datacenter",
+        "handle": "MEDYABIM-02"
+    },
+    "203576": {
+        "country_code": "TR",
+        "asn": "203576",
+        "description": "Onur Ekren",
+        "handle": "INTERNETBILISIM"
+    },
+    "203587": {
+        "country_code": "TR",
+        "asn": "203587",
+        "description": "Antvvifi Bilisim ve Telekomunikasyon Hiz. San. ve Ticaret LTD STI",
+        "handle": "ANTWIFI"
+    },
+    "203606": {
+        "country_code": "TR",
+        "asn": "203606",
+        "description": "Sigortaladim Sigorta ve Reasurans Brokerlik AS",
+        "handle": "TDBSIGORTA"
+    },
+    "203611": {
+        "country_code": "TR",
+        "asn": "203611",
+        "description": "Yapi Kredi Yatirim Menkul Degerler A.S.",
+        "handle": "ASYAPIKREDIYATIRIM"
+    },
+    "203634": {
+        "country_code": "TR",
+        "asn": "203634",
+        "description": "Baskent Elektrik Dagitim A.S.",
+        "handle": "ASBASKENT"
+    },
+    "203657": {
+        "country_code": "TR",
+        "asn": "203657",
+        "description": "SAKNET BILISIM TELEKOMUNIKASYON SAN. TIC. LTD.STI.",
+        "handle": "SAKNET-TR"
+    },
+    "203678": {
+        "country_code": "TR",
+        "asn": "203678",
+        "description": "ISTANIFY TEKNOLOJI ANONIM SIRKETI",
+        "handle": "ISTANIFY"
+    },
+    "203711": {
+        "country_code": "TR",
+        "asn": "203711",
+        "description": "Tulip Group Internet Erisim Hizmetleri Sanayi Ticaret Limited Sirketi",
+        "handle": "TULIPGROUP-SY"
+    },
+    "203771": {
+        "country_code": "TR",
+        "asn": "203771",
+        "description": "SERVERVIA BILISIM YAZILIM VE TELEKOMUNIKASYON HIZMETLERI LIMITED SIRKETI",
+        "handle": "SERVERVIA"
+    },
+    "203796": {
+        "country_code": "TR",
+        "asn": "203796",
+        "description": "Incinet internet ve iletisim hizmetleri ticaret limited sirketi",
+        "handle": "INCINET"
+    },
+    "203804": {
+        "country_code": "TR",
+        "asn": "203804",
+        "description": "VDS GLOBAL YAZILIM ARGE GELISTIRME LIMITED SIRKETI",
+        "handle": "VDSGLOBAL"
+    },
+    "203810": {
+        "country_code": "TR",
+        "asn": "203810",
+        "description": "CND Medya Reklam ve Internet Hizmetleri Tic. Ltd. Sti.",
+        "handle": "HOSTTURKA"
+    },
+    "203925": {
+        "country_code": "TR",
+        "asn": "203925",
+        "description": "Ziraat Katilim Bankasi AS",
+        "handle": "ZKB"
+    },
+    "203963": {
+        "country_code": "TR",
+        "asn": "203963",
+        "description": "SPDNet Telekomunikasyon Hizmetleri Bilgi Teknolojileri Taahhut Sanayi Ve Ticaret A.S.",
+        "handle": "RUBIKDC"
+    },
+    "203979": {
+        "country_code": "TR",
+        "asn": "203979",
+        "description": "Bizim Bulut Bilgi ve Iletisim Hizmetleri San. ve Tic. A. S.",
+        "handle": "BIZIMBULUT-TR"
+    },
+    "204036": {
+        "country_code": "TR",
+        "asn": "204036",
+        "description": "Ennova Telekom limited sirketi",
+        "handle": "NOVA"
+    },
+    "204054": {
+        "country_code": "TR",
+        "asn": "204054",
+        "description": "Dogus Yayin Grubu A.S",
+        "handle": "DOGUS-AS"
+    },
+    "204132": {
+        "country_code": "TR",
+        "asn": "204132",
+        "description": "DSM TURKEY TEKNOLOJI HIZMETLERI ANONIM SIRKETI",
+        "handle": "TY-FINANS-BAAS"
+    },
+    "204205": {
+        "country_code": "TR",
+        "asn": "204205",
+        "description": "NODE INTERNET VE BILISIM HIZMETLERI LTD. STI.",
+        "handle": "NODE"
+    },
+    "204209": {
+        "country_code": "TR",
+        "asn": "204209",
+        "description": "BIZIM INTERNET VE BILISIM TEKNOLOJILERI SAN. VE TIC.LTD.STI.",
+        "handle": "BIZIMINTERNET"
+    },
+    "204223": {
+        "country_code": "TR",
+        "asn": "204223",
+        "description": "Serverplance Bilisim Ve Telekomunikasyon Hizm. Ltd. Sti.",
+        "handle": "SERVERPLANCE"
+    },
+    "204240": {
+        "country_code": "TR",
+        "asn": "204240",
+        "description": "REXE Teknoloji A.S",
+        "handle": "REXE"
+    },
+    "204292": {
+        "country_code": "TR",
+        "asn": "204292",
+        "description": "ANTALYA BUYUKSEHIR BELEDIYESI",
+        "handle": "ABB"
+    },
+    "204324": {
+        "country_code": "TR",
+        "asn": "204324",
+        "description": "ADNET INTERNET VE ILETISIM HIZM.TIC.LTD.STI.",
+        "handle": "ADNET"
+    },
+    "204348": {
+        "country_code": "TR",
+        "asn": "204348",
+        "description": "Rekornet Telekomunikasyon Ve Bilisim Hizmetleri Ltd. Sirketi",
+        "handle": "REKORNET"
+    },
+    "204422": {
+        "country_code": "TR",
+        "asn": "204422",
+        "description": "Gelecek Varlik Yonetimi A.S.",
+        "handle": "GELECEK-VARLIK-DEGERLEME"
+    },
+    "204457": {
+        "country_code": "TR",
+        "asn": "204457",
+        "description": "Atlantis Telekomunikasyon Bilisim Hizmetleri San. Tic. Ltd",
+        "handle": "ATLANTIS-CENTRAL"
+    },
+    "204529": {
+        "country_code": "TR",
+        "asn": "204529",
+        "description": "TOFAS TURK OTOMOBIL FABRIKASI A.S.",
+        "handle": "TOFAS"
+    },
+    "204580": {
+        "country_code": "TR",
+        "asn": "204580",
+        "description": "Can Berkay Dalgic",
+        "handle": "CAN-BERKAY-DALGIC"
+    },
+    "204647": {
+        "country_code": "TR",
+        "asn": "204647",
+        "description": "MIXNET TELEKOMUNIKASYON HIZMETLERI AS",
+        "handle": "MIXNET-AS"
+    },
+    "204726": {
+        "country_code": "TR",
+        "asn": "204726",
+        "description": "A Teknoloji Yatirim ve Gelistirme Limited Sirketi",
+        "handle": "ATEKNOLOJI"
+    },
+    "204736": {
+        "country_code": "TR",
+        "asn": "204736",
+        "description": "Nida Telekomunikasyon Hizmetleri A.S.",
+        "handle": "NIDATLKM"
+    },
+    "204815": {
+        "country_code": "TR",
+        "asn": "204815",
+        "description": "Ahlatci Teknoloji A.S",
+        "handle": "AHLK"
+    },
+    "204843": {
+        "country_code": "TR",
+        "asn": "204843",
+        "description": "STERLY VERI MERKEZI YAZILIM VE SIBER GUVENLIK HIZMETLERI A.S.",
+        "handle": "TR-STERLY-VERI-MERKEZI-YAZILIM-VE-SIBER-GUVENLIK-HIZMETLERI-ANONIM-SIRKETI"
+    },
+    "204855": {
+        "country_code": "TR",
+        "asn": "204855",
+        "description": "MHZ TELEKOMUNIKASYON DANISMANLIK HIZMETLERI LIMITED SIRKETI",
+        "handle": "MHZ-TELEKOMUNIKASYON-DANISMANLIK-HIZMETLERI-LIMITED-SIRKETI"
+    },
+    "204876": {
+        "country_code": "TR",
+        "asn": "204876",
+        "description": "BGZ BILISIM TEKNOLOJILERI LIMITED SIRKETI",
+        "handle": "BGZBILISIM"
+    },
+    "204912": {
+        "country_code": "TR",
+        "asn": "204912",
+        "description": "Turkiye Kizilay Dernegi",
+        "handle": "KIZILAY"
+    },
+    "204918": {
+        "country_code": "TR",
+        "asn": "204918",
+        "description": "ARINET SECURITY & INTERNET CONSULTANCY LTD",
+        "handle": "ARINET"
+    },
+    "205054": {
+        "country_code": "TR",
+        "asn": "205054",
+        "description": "GURHAN TEMIZ",
+        "handle": "GURHAN-TEMIZ"
+    },
+    "205059": {
+        "country_code": "TR",
+        "asn": "205059",
+        "description": "Netviser Bilisim Teknolojileri San. Ve Tic. Ltd. Sti.",
+        "handle": "NETVISER"
+    },
+    "205192": {
+        "country_code": "TR",
+        "asn": "205192",
+        "description": "Pole Telekomunikasyon Sanayi ve Ticaret Anonim Sirketi",
+        "handle": "OMURTECH"
+    },
+    "205230": {
+        "country_code": "TR",
+        "asn": "205230",
+        "description": "DESTANNET TELEKOMUNIKASYON ILETISIM SANAYI TICARET LIMITED SIRKETI",
+        "handle": "DESTANNET"
+    },
+    "205323": {
+        "country_code": "TR",
+        "asn": "205323",
+        "description": "Eliptik Yazilim ve Ticaret A.S.",
+        "handle": "ELIPTIK"
+    },
+    "205335": {
+        "country_code": "TR",
+        "asn": "205335",
+        "description": "Posta ve Telgraf Teskilati Anonim Sirketi",
+        "handle": "ASN-PTT"
+    },
+    "205340": {
+        "country_code": "TR",
+        "asn": "205340",
+        "description": "MARIN YATIRIM BANKASI ANONIM SIRKETI",
+        "handle": "MARINBANK"
+    },
+    "205351": {
+        "country_code": "TR",
+        "asn": "205351",
+        "description": "Liberyum Danismanlik Bilgi Tek. Tic. A.S.",
+        "handle": "LIBERYUM"
+    },
+    "205381": {
+        "country_code": "TR",
+        "asn": "205381",
+        "description": "Mitues Global Teknolojiler Ltd. Sti.",
+        "handle": "MITUES"
+    },
+    "205416": {
+        "country_code": "TR",
+        "asn": "205416",
+        "description": "AYTEMIZ AKARYAKIT DAGITIM A.S",
+        "handle": "AYTEMIZ"
+    },
+    "205424": {
+        "country_code": "TR",
+        "asn": "205424",
+        "description": "Ulunet Internet ve Iletisim Hizmetleri San. ve Tic. Ltd. Sti.",
+        "handle": "ULUNET"
+    },
+    "205463": {
+        "country_code": "TR",
+        "asn": "205463",
+        "description": "Pembe Gul Isguzar Karagoz",
+        "handle": "PEMBEGULISG"
+    },
+    "205469": {
+        "country_code": "TR",
+        "asn": "205469",
+        "description": "Muhammed Ali Memis",
+        "handle": "MUHAMMED-ALI-MEMIS"
+    },
+    "205531": {
+        "country_code": "TR",
+        "asn": "205531",
+        "description": "AKAT TEKNOLOJI TICARET LIMITED SIRKETI",
+        "handle": "AKAT-TEKNOLOJI"
+    },
+    "205570": {
+        "country_code": "TR",
+        "asn": "205570",
+        "description": "SIBANET TELEKOM LIMITED SIRKETI",
+        "handle": "SIBANET"
+    },
+    "205725": {
+        "country_code": "TR",
+        "asn": "205725",
+        "description": "Selcuk Ecza Deposu Ticaret ve Sanayi Anonim Sirketi",
+        "handle": "SELCUKECZAHOLDING"
+    },
+    "205733": {
+        "country_code": "TR",
+        "asn": "205733",
+        "description": "HOSTIFOX INTERNET VE BILISIM HIZMETLERI TICARET SANAYI LIMITED SIRKETI",
+        "handle": "AS-HOSTIFOX"
+    },
+    "205757": {
+        "country_code": "TR",
+        "asn": "205757",
+        "description": "The Walt Disney Company Medya Eglence Ve Ticaret Limited Sirketi",
+        "handle": "TWDC-TURKEY-01"
+    },
+    "205768": {
+        "country_code": "TR",
+        "asn": "205768",
+        "description": "FIBERIX ILETISIM HIZMETLERI LTD. STI.",
+        "handle": "FIBERIX"
+    },
+    "205782": {
+        "country_code": "TR",
+        "asn": "205782",
+        "description": "TUBITAK NATIONAL METROLOGY INSTITUTE",
+        "handle": "TUBITAK-UME-AS"
+    },
+    "205795": {
+        "country_code": "TR",
+        "asn": "205795",
+        "description": "Furkan Denizhan",
+        "handle": "FURKAN-DENIZHAN"
+    },
+    "205829": {
+        "country_code": "TR",
+        "asn": "205829",
+        "description": "Logo Yazilim Sanayi ve Ticaret Anonim Sirketi",
+        "handle": "ASLOGOTR100"
+    },
+    "205852": {
+        "country_code": "TR",
+        "asn": "205852",
+        "description": "ISTTELKOM ISTANBUL ELEKTRONIK HABERLESME VE ALTYAPI HIZMETLERI SANAYI VE TICARET ANONIM SIRKETI",
+        "handle": "ISTTELKOM"
+    },
+    "205877": {
+        "country_code": "TR",
+        "asn": "205877",
+        "description": "TURUNCUNET ILETISIM SAN. ve TIC. LTD. STI.",
+        "handle": "TURUNCUNET"
+    },
+    "205888": {
+        "country_code": "TR",
+        "asn": "205888",
+        "description": "Cozumtek Bilgi Teknolojileri A.S.",
+        "handle": "COZUMTEK"
+    },
+    "205893": {
+        "country_code": "TR",
+        "asn": "205893",
+        "description": "Wifi Telekom Bilisim Sanayi ve Ticaret A.S",
+        "handle": "WIFITELEKOM-AS"
+    },
+    "205935": {
+        "country_code": "TR",
+        "asn": "205935",
+        "description": "Farknet Telekomunikasyon ve Bilisim Hizmetleri Ltd. Sti.",
+        "handle": "FARKNET"
+    },
+    "205953": {
+        "country_code": "TR",
+        "asn": "205953",
+        "description": "NAZNET Bilisim ve Telekomunikasyon Elektronik Haberlesme Hiz. ith. ihr. San. ve Tic. Ltd. sti.",
+        "handle": "NAZNET-CORE"
+    },
+    "205961": {
+        "country_code": "TR",
+        "asn": "205961",
+        "description": "EREEY GRUP BILISIM TEKNOLOJILERI TIC. LTD. STI.",
+        "handle": "EREEY"
+    },
+    "206008": {
+        "country_code": "TR",
+        "asn": "206008",
+        "description": "Basefiks Bilisim Teknolojileri Ithalat Ihracat Taahhut Ticaret Limited Sirketi",
+        "handle": "BASEFIX"
+    },
+    "206030": {
+        "country_code": "TR",
+        "asn": "206030",
+        "description": "SERVER TESCIL INTERNET BILISIM DANISMANLIK TICARET LIMITED SIRKETI",
+        "handle": "TR-SERVERTESCIL"
+    },
+    "206050": {
+        "country_code": "TR",
+        "asn": "206050",
+        "description": "ELITNET TELEKOMUNIKASYON INTERNET VE ILETISIM HIZ.TIC LTD.STI.",
+        "handle": "ELITNET-TR"
+    },
+    "206064": {
+        "country_code": "TR",
+        "asn": "206064",
+        "description": "VDF FAKTORING ANONIM SIRKETI",
+        "handle": "VDFFAKTORING"
+    },
+    "206115": {
+        "country_code": "TR",
+        "asn": "206115",
+        "description": "Mehmet UGURLU",
+        "handle": "MIKRON-BILISIM"
+    },
+    "206119": {
+        "country_code": "TR",
+        "asn": "206119",
+        "description": "Veganet Teknolojileri ve Hizmetleri LTD STI",
+        "handle": "VEGANET-TELEKOM"
+    },
+    "206163": {
+        "country_code": "TR",
+        "asn": "206163",
+        "description": "TBTNET TELEKOM LTD. STI.",
+        "handle": "TBTNET-TELEKOM"
+    },
+    "206192": {
+        "country_code": "TR",
+        "asn": "206192",
+        "description": "Eclit Bilisim Hizmetleri A.S",
+        "handle": "NETLOJISTIK"
+    },
+    "206199": {
+        "country_code": "TR",
+        "asn": "206199",
+        "description": "Ozan Elektronik Para A.S",
+        "handle": "OZAN"
+    },
+    "206271": {
+        "country_code": "TR",
+        "asn": "206271",
+        "description": "Fatih Unlu",
+        "handle": "FATIHUNLU-TR"
+    },
+    "206328": {
+        "country_code": "TR",
+        "asn": "206328",
+        "description": "Nitro internet ticaret limited sirketi",
+        "handle": "NITRONET"
+    },
+    "206354": {
+        "country_code": "TR",
+        "asn": "206354",
+        "description": "Hipodrom Sans Oyunlari Anonim Sirketi",
+        "handle": "HPD"
+    },
+    "206375": {
+        "country_code": "TR",
+        "asn": "206375",
+        "description": "NETSPEED INTERNET A.S.",
+        "handle": "NETSPEED"
+    },
+    "206409": {
+        "country_code": "TR",
+        "asn": "206409",
+        "description": "Ingenico Odeme Sistem Cozumleri AS",
+        "handle": "INGENICOTR"
+    },
+    "206449": {
+        "country_code": "TR",
+        "asn": "206449",
+        "description": "Gunes Express Havacilik A.S",
+        "handle": "TR-GUNES"
+    },
+    "206461": {
+        "country_code": "TR",
+        "asn": "206461",
+        "description": "INTER-TECH BiLGi iSLEM VE PAZARLAMA TiCARET ANONiM SiRKETi",
+        "handle": "INTERTECH"
+    },
+    "206469": {
+        "country_code": "TR",
+        "asn": "206469",
+        "description": "SOLVELINE TELEKOMUNIKASYON ILETISIM HIZM.TIC.LTD.STI.",
+        "handle": "SOLVE"
+    },
+    "206505": {
+        "country_code": "TR",
+        "asn": "206505",
+        "description": "MELIH BINBASI trading as HOSTILOX SUNUCU HIZMETLERI",
+        "handle": "HOSTILOX"
+    },
+    "206556": {
+        "country_code": "TR",
+        "asn": "206556",
+        "description": "Izmir Buyuksehir Belediyesi",
+        "handle": "IZMIRBB"
+    },
+    "206558": {
+        "country_code": "TR",
+        "asn": "206558",
+        "description": "KDSL TELEKOMN. INTRN. BIL. HIZMET. ELEKT. SAN TIC. LTD. STI.",
+        "handle": "KDSL"
+    },
+    "206561": {
+        "country_code": "TR",
+        "asn": "206561",
+        "description": "AirMax Communication Ltd",
+        "handle": "AIRMAX-FIBER-INTERNET"
+    },
+    "206592": {
+        "country_code": "TR",
+        "asn": "206592",
+        "description": "Antreta Bilgisayar Sanayi ve Ticaret Limited Sirketi",
+        "handle": "ANTRETA"
+    },
+    "206595": {
+        "country_code": "TR",
+        "asn": "206595",
+        "description": "SUTAS SUT URUNLERI A.S.",
+        "handle": "SUTAS"
+    },
+    "206603": {
+        "country_code": "TR",
+        "asn": "206603",
+        "description": "MONOVM BILGI VE TEKNOLOJI LIMITED SIRKETI",
+        "handle": "MONOVM-TR"
+    },
+    "206648": {
+        "country_code": "TR",
+        "asn": "206648",
+        "description": "Netdirekt A.S.",
+        "handle": "NETDIREKT"
+    },
+    "206668": {
+        "country_code": "TR",
+        "asn": "206668",
+        "description": "Bayram Coskun",
+        "handle": "GAMINGVDS"
+    },
+    "206670": {
+        "country_code": "TR",
+        "asn": "206670",
+        "description": "MIRCOM BILISIM TELEKOMUNIKASYON SANAYI TICARET LTD. STI.",
+        "handle": "KAYINET"
+    },
+    "206716": {
+        "country_code": "TR",
+        "asn": "206716",
+        "description": "BEST TELEKOM SANAYI VE TICARET LIMITED SIRKETI",
+        "handle": "BESTTELEKOM"
+    },
+    "206739": {
+        "country_code": "TR",
+        "asn": "206739",
+        "description": "Bilintel Bilisim Ticaret Limited Sirketi",
+        "handle": "TR-BILINTEL"
+    },
+    "206806": {
+        "country_code": "TR",
+        "asn": "206806",
+        "description": "TACIRLER YATIRIM MENKUL DEGERLER.A.S.",
+        "handle": "TACIRLER"
+    },
+    "206832": {
+        "country_code": "TR",
+        "asn": "206832",
+        "description": "Kolektif Ithalat Ihracat Ticaret Ltd. Sti.",
+        "handle": "KOLEKTIF"
+    },
+    "206839": {
+        "country_code": "TR",
+        "asn": "206839",
+        "description": "VOLKSWAGEN DOGUS FINANSMAN ANONIM SIRKETI",
+        "handle": "VDFFINANS"
+    },
+    "206849": {
+        "country_code": "TR",
+        "asn": "206849",
+        "description": "OyunYoneticisi Marketing LTD",
+        "handle": "OYUNYONETICISI"
+    },
+    "206887": {
+        "country_code": "TR",
+        "asn": "206887",
+        "description": "Istanbul Medeniyet Universitesi",
+        "handle": "MEDENIYET-EDU-NET"
+    },
+    "206938": {
+        "country_code": "TR",
+        "asn": "206938",
+        "description": "Nesildc Bilisim Cozumleri Sanayi Ve Ticaret Limited Sirketi",
+        "handle": "NESILDC"
+    },
+    "206959": {
+        "country_code": "TR",
+        "asn": "206959",
+        "description": "Hitit Bilgisayar Hizmetleri Anonim Sirketi",
+        "handle": "HITITCS-AS"
+    },
+    "206991": {
+        "country_code": "TR",
+        "asn": "206991",
+        "description": "Iksir Internet Hizmetleri A.S.",
+        "handle": "IXIR"
+    },
+    "207024": {
+        "country_code": "TR",
+        "asn": "207024",
+        "description": "CLOUDCELL TELEKOMUNIKASYON A.S.",
+        "handle": "CLOUDCELL"
+    },
+    "207211": {
+        "country_code": "TR",
+        "asn": "207211",
+        "description": "Uskudar Belediyesi",
+        "handle": "USKUDAR-BELEDIYESI"
+    },
+    "207263": {
+        "country_code": "TR",
+        "asn": "207263",
+        "description": "TUBITAK-BILGEM",
+        "handle": "TUBITAK-BILGEM"
+    },
+    "207267": {
+        "country_code": "TR",
+        "asn": "207267",
+        "description": "IBRAHIM POYRAZOGLU",
+        "handle": "BIRSUNUCUM-ASN"
+    },
+    "207279": {
+        "country_code": "TR",
+        "asn": "207279",
+        "description": "Markahost Telekomunikasyon Ve Ticaret Limited Sirketi",
+        "handle": "MARKAHOST-TELEKOMUNIKASYON-LIMITED-SIRKETI"
+    },
+    "207326": {
+        "country_code": "TR",
+        "asn": "207326",
+        "description": "HostLAB Bilisim Teknolojileri A.S.",
+        "handle": "HOSTLAB"
+    },
+    "207341": {
+        "country_code": "TR",
+        "asn": "207341",
+        "description": "Necmi Taban",
+        "handle": "HAZALHOST"
+    },
+    "207386": {
+        "country_code": "TR",
+        "asn": "207386",
+        "description": "Agesa Hayat Ve Emeklilik AS",
+        "handle": "AVIVASA"
+    },
+    "207429": {
+        "country_code": "TR",
+        "asn": "207429",
+        "description": "Kapteyan Bilisim Teknolojileri Sanayi ve Ticaret A.S",
+        "handle": "KAPTEYAN"
+    },
+    "207459": {
+        "country_code": "TR",
+        "asn": "207459",
+        "description": "TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI.",
+        "handle": "AS-TEKNOSOS-INT"
+    },
+    "207474": {
+        "country_code": "TR",
+        "asn": "207474",
+        "description": "Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi",
+        "handle": "HATNET"
+    },
+    "207483": {
+        "country_code": "TR",
+        "asn": "207483",
+        "description": "Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.",
+        "handle": "NETVIA"
+    },
+    "207497": {
+        "country_code": "TR",
+        "asn": "207497",
+        "description": "Cesrey Bilisim Teknolojileri Anonim Sirketi",
+        "handle": "CESREY"
+    },
+    "207508": {
+        "country_code": "TR",
+        "asn": "207508",
+        "description": "Mehmet Uzunca",
+        "handle": "SKYVDS"
+    },
+    "207519": {
+        "country_code": "TR",
+        "asn": "207519",
+        "description": "TEPENET INTERNET TELEKOMUNiKASYON iLETiSiM LiMiTED SiRKETi",
+        "handle": "TEPENET"
+    },
+    "207553": {
+        "country_code": "TR",
+        "asn": "207553",
+        "description": "Vuhuv Telekomunikasyon A.S.",
+        "handle": "VUHUV"
+    },
+    "207582": {
+        "country_code": "TR",
+        "asn": "207582",
+        "description": "Emre Mert Delidere trading as Buuldy Bilisim",
+        "handle": "BUULDY"
+    },
+    "207617": {
+        "country_code": "TR",
+        "asn": "207617",
+        "description": "ELMA TELEKOMUNIKASYON SAN.TIC.LTD.STI.",
+        "handle": "ELMA-TELEKOM"
+    },
+    "207620": {
+        "country_code": "TR",
+        "asn": "207620",
+        "description": "Kentwifi Iletisim Hizmetleri LTD Sirketi",
+        "handle": "KENTWIFI-PLAYNET"
+    },
+    "207629": {
+        "country_code": "TR",
+        "asn": "207629",
+        "description": "Idebil Teknoloji Limited Sirketi",
+        "handle": "IDEBIL"
+    },
+    "207633": {
+        "country_code": "TR",
+        "asn": "207633",
+        "description": "KADIR HUSEYIN TEZCAN NOSSPEED INTERNET TEKNOLOJILERI",
+        "handle": "NOSSPEED"
+    },
+    "207643": {
+        "country_code": "TR",
+        "asn": "207643",
+        "description": "HOSTINGET TELEKOMUNIKASYON TICARET LTD. STI.",
+        "handle": "ISMET"
+    },
+    "207681": {
+        "country_code": "TR",
+        "asn": "207681",
+        "description": "KKB KREDI KAYIT BUROSU ANONIM SIRKETI",
+        "handle": "KKB-CLOUD"
+    },
+    "207709": {
+        "country_code": "TR",
+        "asn": "207709",
+        "description": "CNC BILISIM HIZMETLERI INSAAT SANAYI VE TICARET LIMITED SIRKETI",
+        "handle": "HIZHOSTING"
+    },
+    "207723": {
+        "country_code": "TR",
+        "asn": "207723",
+        "description": "Netwifi Iletisim Hizmetleri Ltd. Sti.",
+        "handle": "TRDAMLA"
+    },
+    "207782": {
+        "country_code": "TR",
+        "asn": "207782",
+        "description": "ALFA ILETISIM HIZMETLERI PAZARLAMA TICARET A.S.",
+        "handle": "CNVL"
+    },
+    "207805": {
+        "country_code": "TR",
+        "asn": "207805",
+        "description": "Ercan Alacam",
+        "handle": "ERCAN-ALCAM"
+    },
+    "207835": {
+        "country_code": "TR",
+        "asn": "207835",
+        "description": "CREART TEKNOLOJI ANONIM SIRKETI",
+        "handle": "CREART-TEKNOLOJI"
+    },
+    "207837": {
+        "country_code": "TR",
+        "asn": "207837",
+        "description": "Yusuf Ulusoy",
+        "handle": "YUSUF"
+    },
+    "207983": {
+        "country_code": "TR",
+        "asn": "207983",
+        "description": "Codit Teknoloji Tic. Ltd. Sti.",
+        "handle": "CODIT-GW"
+    },
+    "208002": {
+        "country_code": "TR",
+        "asn": "208002",
+        "description": "HizliNet Teknoloji A.S.",
+        "handle": "NGTEK"
+    },
+    "208012": {
+        "country_code": "TR",
+        "asn": "208012",
+        "description": "Hayalnet Telekomunikasyon Iletisim Ticaret Limited Sirketi",
+        "handle": "HAYALNET"
+    },
+    "208022": {
+        "country_code": "TR",
+        "asn": "208022",
+        "description": "Mehmet Ali Kilic",
+        "handle": "TNEX"
+    },
+    "208049": {
+        "country_code": "TR",
+        "asn": "208049",
+        "description": "SUPERPAY TEKNOLOJI ANONIM SIRKETI",
+        "handle": "SUPERPAY-2"
+    },
+    "208073": {
+        "country_code": "TR",
+        "asn": "208073",
+        "description": "ODEAL TEKNOLOJI A.S",
+        "handle": "ODEAL-TEKNOLOJI"
+    },
+    "208095": {
+        "country_code": "TR",
+        "asn": "208095",
+        "description": "Internetten Teknoloji Bilisim Sanayi ve Ticaret Ltd. Sti.",
+        "handle": "INTERNETTEN-TEKNOLOJI"
+    },
+    "208130": {
+        "country_code": "TR",
+        "asn": "208130",
+        "description": "Zed Bulut Teknolojileri ve Sistem Yonetim Hizmetleri A.S.",
+        "handle": "ZEDTECH"
+    },
+    "208138": {
+        "country_code": "TR",
+        "asn": "208138",
+        "description": "Toprak Mahsulleri Ofisi Genel Mudurlugu",
+        "handle": "AS8540050958"
+    },
+    "208198": {
+        "country_code": "TR",
+        "asn": "208198",
+        "description": "Nese Mala trading as Moon Dc",
+        "handle": "EYLUL-NET"
+    },
+    "208359": {
+        "country_code": "TR",
+        "asn": "208359",
+        "description": "BMC Otomotiv Sanayi ve Ticaret A.S",
+        "handle": "BMCOTOMOTIV"
+    },
+    "208487": {
+        "country_code": "TR",
+        "asn": "208487",
+        "description": "HASAN CAGRI AKSU",
+        "handle": "SHAPESHIFTER"
+    },
+    "208553": {
+        "country_code": "TR",
+        "asn": "208553",
+        "description": "WECHIP ODEME TEKNOLOJILERI ANONIM SIRKETI",
+        "handle": "WECHIP"
+    },
+    "208594": {
+        "country_code": "TR",
+        "asn": "208594",
+        "description": "Netbone Telekomunikasyon A.S.",
+        "handle": "NETBONE"
+    },
+    "208624": {
+        "country_code": "TR",
+        "asn": "208624",
+        "description": "GAMEBRELLA BILISIM ANONIM SIRKETI",
+        "handle": "GAMEBRELLA"
+    },
+    "208745": {
+        "country_code": "TR",
+        "asn": "208745",
+        "description": "Sakans Yazilim Teknolojileri Limited Sirketi trading as Sakans Yazilim",
+        "handle": "SAKANS"
+    },
+    "208799": {
+        "country_code": "TR",
+        "asn": "208799",
+        "description": "Carrefoursa Carrefour Sabanci Ticaret Merkezi Anonim Sirketi",
+        "handle": "CARREFOURSA"
+    },
+    "208806": {
+        "country_code": "TR",
+        "asn": "208806",
+        "description": "Osnet Telekomunikasyon Dis Ticaret Limited Sirketi",
+        "handle": "OSNET-DATACENTER-DE"
+    },
+    "208821": {
+        "country_code": "TR",
+        "asn": "208821",
+        "description": "DURU INTERNET VE BILISIM TEKNOLOJILERI SANAYI TICARET LIMITED SIRKETI",
+        "handle": "DURUNET"
+    },
+    "208855": {
+        "country_code": "TR",
+        "asn": "208855",
+        "description": "MYWIFI TELEKOMUNIKASYON SANAYI TICARET LIMITED SIRKETI",
+        "handle": "TR-MYWIFI"
+    },
+    "208880": {
+        "country_code": "TR",
+        "asn": "208880",
+        "description": "YAPI VE KREDI BANKASI A.S.",
+        "handle": "YAPIVEKREDIBANKASI"
+    },
+    "208901": {
+        "country_code": "TR",
+        "asn": "208901",
+        "description": "Sabanci Dijital Teknoloji Hizmetleri A.S.",
+        "handle": "SABANCI-DIJITAL-TEKNOLOJI-HIZMETLERI"
+    },
+    "208913": {
+        "country_code": "TR",
+        "asn": "208913",
+        "description": "Kitsune Bilisim Sistemleri Bilgi Teknolojileri Yazilim ve Danismanlik Ticaret Limited Sirketi",
+        "handle": "KITSUNE-HOSTING"
+    },
+    "208916": {
+        "country_code": "TR",
+        "asn": "208916",
+        "description": "Pasha Yatirim Bankasi A.S.",
+        "handle": "PASHABANK"
+    },
+    "208952": {
+        "country_code": "TR",
+        "asn": "208952",
+        "description": "Park Holding A.S.",
+        "handle": "PARKHOLDING"
+    },
+    "208961": {
+        "country_code": "TR",
+        "asn": "208961",
+        "description": "IGDAS ISTANBUL GAZ DAGITIM SAN. VE TIC. A.S.",
+        "handle": "IGDAS"
+    },
+    "208972": {
+        "country_code": "TR",
+        "asn": "208972",
+        "description": "GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI",
+        "handle": "GIBIRNET-TR"
+    },
+    "208999": {
+        "country_code": "TR",
+        "asn": "208999",
+        "description": "TELSAM TELEKOMUNIKASYON YAZILIM SANAYI VE TICARET LTD STI",
+        "handle": "TELSAM"
+    },
+    "209007": {
+        "country_code": "TR",
+        "asn": "209007",
+        "description": "Wifi Telekom Bilisim Sanayi ve Ticaret A.S",
+        "handle": "WIFITELEKOM"
+    },
+    "209088": {
+        "country_code": "TR",
+        "asn": "209088",
+        "description": "Enerjisa Uretim Santralleri A.S.",
+        "handle": "ENERJISA-URETIM"
+    },
+    "209127": {
+        "country_code": "TR",
+        "asn": "209127",
+        "description": "BULUTFON TELEKOMUNIKASYON SAN ve TIC AS",
+        "handle": "BULUTFON"
+    },
+    "209140": {
+        "country_code": "TR",
+        "asn": "209140",
+        "description": "ICDAS CELIK ENRJI TERSANE VE ULASIM SANAYI AS",
+        "handle": "ICDASAS"
+    },
+    "209154": {
+        "country_code": "TR",
+        "asn": "209154",
+        "description": "GEBZE ORGANIZE SANAYI BOLGESI",
+        "handle": "DESTEK"
+    },
+    "209171": {
+        "country_code": "TR",
+        "asn": "209171",
+        "description": "Turkiye Cumhuriyeti Icisleri Bakanligi",
+        "handle": "ICISLERI"
+    },
+    "209189": {
+        "country_code": "TR",
+        "asn": "209189",
+        "description": "Antalya Ticaret ve Sanayi Odasi",
+        "handle": "ATSO"
+    },
+    "209192": {
+        "country_code": "TR",
+        "asn": "209192",
+        "description": "SARNET TELEKOMUNIKASYON A.S.",
+        "handle": "SARNET-TELEKOMUNIKASYON"
+    },
+    "209275": {
+        "country_code": "TR",
+        "asn": "209275",
+        "description": "NETMAX TELEKOMUNIKASYON ILETISIM HIZMETLERI TICARET LIMITED SIRKETI",
+        "handle": "NETMAX"
+    },
+    "209286": {
+        "country_code": "TR",
+        "asn": "209286",
+        "description": "NETPLUS TELEKOMUNIKASYON VE BILISIM HIZMETLERI LTD. STI",
+        "handle": "NETPLUSGLOBAL"
+    },
+    "209317": {
+        "country_code": "TR",
+        "asn": "209317",
+        "description": "Samet Girginer",
+        "handle": "SUNUCUMBURADA-ASN"
+    },
+    "209359": {
+        "country_code": "TR",
+        "asn": "209359",
+        "description": "Nuh Ahmet Firat trading as TEKNET YAZILIM VE BILGISAYAR TEKNOLOJILERI",
+        "handle": "TEKNET"
+    },
+    "209371": {
+        "country_code": "TR",
+        "asn": "209371",
+        "description": "Enes Senturk trading as Online Sunucu",
+        "handle": "AS209371"
+    },
+    "209380": {
+        "country_code": "TR",
+        "asn": "209380",
+        "description": "Arat Telekominikasyon Tek. Bil.Hiz.San. ve Tic. Ltd.Sti",
+        "handle": "ARATTELEKOM"
+    },
+    "209422": {
+        "country_code": "TR",
+        "asn": "209422",
+        "description": "AYDINLI HAZIR GIYIM SANAYI VE TICARET ANONIM SIRKETI",
+        "handle": "AYDINLI"
+    },
+    "209435": {
+        "country_code": "TR",
+        "asn": "209435",
+        "description": "Agdas Adapazari Gaz Dagitim A.S.",
+        "handle": "AGDAS"
+    },
+    "209441": {
+        "country_code": "TR",
+        "asn": "209441",
+        "description": "Tekfen Holding Anonim Sirketi",
+        "handle": "TEKFEN"
+    },
+    "209451": {
+        "country_code": "TR",
+        "asn": "209451",
+        "description": "ROUTEFENCE NETWORK TELEKOMUNIKASYON LIMITED SIRKETI",
+        "handle": "ROUTEFENCE"
+    },
+    "209456": {
+        "country_code": "TR",
+        "asn": "209456",
+        "description": "METRO FIBERNET BILISIM VE TELEKOMINIKASYON HIZ. SAN. TIC. LTD. STI",
+        "handle": "ISP-METROFIBERNET-AS209456"
+    },
+    "209474": {
+        "country_code": "TR",
+        "asn": "209474",
+        "description": "EKIPHOST BILISIM TEKNOLOJILERI TICARET VE SANAYI LIMITED SIRKETI",
+        "handle": "EKIPHOST"
+    },
+    "209490": {
+        "country_code": "TR",
+        "asn": "209490",
+        "description": "TURKIYE EMLAK KATILIM BANKASI ANONIM SIRKETI",
+        "handle": "EMLAKBANK"
+    },
+    "209500": {
+        "country_code": "TR",
+        "asn": "209500",
+        "description": "WARPIRIS BILISIM TEKNOLOJILERI ANONIM SIRKETI",
+        "handle": "WARPIRIS-NET"
+    },
+    "209604": {
+        "country_code": "TR",
+        "asn": "209604",
+        "description": "2E TELEKOMUNIKASYON LTD STI",
+        "handle": "TWO-E-TELEKOM"
+    },
+    "209658": {
+        "country_code": "TR",
+        "asn": "209658",
+        "description": "MEOHOST VERI MERKEZI ve YAZILIM TICARET LIMITED SIRKETI",
+        "handle": "MEOHOST"
+    },
+    "209708": {
+        "country_code": "TR",
+        "asn": "209708",
+        "description": "Turkiye Emlak Katilim Bankasi A.S.",
+        "handle": "EMLAKBANK"
+    },
+    "209711": {
+        "country_code": "TR",
+        "asn": "209711",
+        "description": "MUV Bilisim ve Telekomunikasyon Hizmetleri Ltd. Sti.",
+        "handle": "MUVHOST"
+    },
+    "209714": {
+        "country_code": "TR",
+        "asn": "209714",
+        "description": "CEREN NET BILISIM TELEKOMUNIKASYON HABERLESME TIC.LTD.STI.",
+        "handle": "CERENNET"
+    },
+    "209727": {
+        "country_code": "TR",
+        "asn": "209727",
+        "description": "UNIFREE DUTY FREE ISLETMECILIGI ANONIM SIRKETI",
+        "handle": "UNIFREE-AS"
+    },
+    "209737": {
+        "country_code": "TR",
+        "asn": "209737",
+        "description": "Meric Internet Teknolojileri A.S.",
+        "handle": "AS209737"
+    },
+    "209799": {
+        "country_code": "TR",
+        "asn": "209799",
+        "description": "Team Bilgi Teknolojileri Limited Sirketi",
+        "handle": "AS9121"
+    },
+    "209828": {
+        "country_code": "TR",
+        "asn": "209828",
+        "description": "Genc BT Bilisim Teknolojileri Limited Sirketi",
+        "handle": "ASGENCBT"
+    },
+    "209831": {
+        "country_code": "TR",
+        "asn": "209831",
+        "description": "PRIZMA YAZILIM BILISIM SISTEMLERI MUHENDISLIK INSAAT SANAYI VE TICARET ANONIM SIRKETI",
+        "handle": "PRIZMA"
+    },
+    "209853": {
+        "country_code": "TR",
+        "asn": "209853",
+        "description": "Veridyen Bilisim Teknolojileri Sanayi ve Ticaret Limited Sirketi",
+        "handle": "VERIDYEN"
+    },
+    "209956": {
+        "country_code": "TR",
+        "asn": "209956",
+        "description": "Telkoturk Iletisim Hizmetleri A.S.",
+        "handle": "TELKOTURK"
+    },
+    "210020": {
+        "country_code": "TR",
+        "asn": "210020",
+        "description": "MODEXI VERI HIZMETLERI LIMITED SIRKETI",
+        "handle": "MODEXI"
+    },
+    "210107": {
+        "country_code": "TR",
+        "asn": "210107",
+        "description": "Mahsum Celik trading as ServerPlusInternet Sunucu Hizmetleri",
+        "handle": "PLUSWEB"
+    },
+    "210174": {
+        "country_code": "TR",
+        "asn": "210174",
+        "description": "Taha Mertcan Akbaba",
+        "handle": "AS210174"
+    },
+    "210178": {
+        "country_code": "TR",
+        "asn": "210178",
+        "description": "Skyfibernet Telekomunikasyon Internet ve Iletisim Hizmetleri Ticaret Limited Sirketi",
+        "handle": "SKYFIBERNET"
+    },
+    "210202": {
+        "country_code": "TR",
+        "asn": "210202",
+        "description": "BYSU TEKNOLOJI DANISMANLIGI ANONIM SIRKETI",
+        "handle": "AS201086"
+    },
+    "210289": {
+        "country_code": "TR",
+        "asn": "210289",
+        "description": "AKNET internet ve bilisim sistemleri limited sirketi",
+        "handle": "AKNET-CORE"
+    },
+    "210331": {
+        "country_code": "TR",
+        "asn": "210331",
+        "description": "FIRAT SENEM",
+        "handle": "AS210331"
+    },
+    "210388": {
+        "country_code": "TR",
+        "asn": "210388",
+        "description": "Hayal Host Internet Ve Bilisim Teknolojileri Sanayi Ticaret Limited Sirketi",
+        "handle": "HAYALHOST"
+    },
+    "210410": {
+        "country_code": "TR",
+        "asn": "210410",
+        "description": "NETPRIME TELEKOM SAN. ve TIC. LTD.STI",
+        "handle": "NETPRIME"
+    },
+    "210458": {
+        "country_code": "TR",
+        "asn": "210458",
+        "description": "YAKANET ELEKTRONIK HABERLESME HIZMETLERI TICARET LIMITED SIRKETI",
+        "handle": "YAKANET"
+    },
+    "210479": {
+        "country_code": "TR",
+        "asn": "210479",
+        "description": "SNI Teknoloji Hizmetleri A.S.",
+        "handle": "SNITECHNOLOGY-SOL"
+    },
+    "210484": {
+        "country_code": "TR",
+        "asn": "210484",
+        "description": "MISLI ELEKTRONIK SANS OYUNLARI VE YAYINCILIK ANONIM SIRKETI",
+        "handle": "MISLI-AS"
+    },
+    "210497": {
+        "country_code": "TR",
+        "asn": "210497",
+        "description": "Anadolu Birlik Holding Anonim Sirketi",
+        "handle": "ABHOLDING"
+    },
+    "210517": {
+        "country_code": "TR",
+        "asn": "210517",
+        "description": "FUZUL TASARRUF FINANSMAN A.S.",
+        "handle": "FUZULEV"
+    },
+    "210529": {
+        "country_code": "TR",
+        "asn": "210529",
+        "description": "CE2 BILGI TEKNOLOJILERI TICARET LIMITED SIRKETI",
+        "handle": "C2BILISIM"
+    },
+    "210538": {
+        "country_code": "TR",
+        "asn": "210538",
+        "description": "KEYUBU Internet ve Bilisim Tic. Ltd. Sti.",
+        "handle": "KEYUBU"
+    },
+    "210563": {
+        "country_code": "TR",
+        "asn": "210563",
+        "description": "Teletek Bulut Bilisim ve Iletisim Hizmetleri A.S.",
+        "handle": "TLT-ANATOLIA"
+    },
+    "210566": {
+        "country_code": "TR",
+        "asn": "210566",
+        "description": "HOSTINGET TELEKOMUNIKASYON TICARET LTD. STI.",
+        "handle": "HOSTINGET-DE"
+    },
+    "210574": {
+        "country_code": "TR",
+        "asn": "210574",
+        "description": "PH Bilisim Teknolojileri Limited Sirketi",
+        "handle": "POYRAZ"
+    },
+    "210588": {
+        "country_code": "TR",
+        "asn": "210588",
+        "description": "Mugla Buyuksehir Belediyesi",
+        "handle": "MBB"
+    },
+    "210594": {
+        "country_code": "TR",
+        "asn": "210594",
+        "description": "TURK HAVA KURUMU UNIVERSITESI",
+        "handle": "THK-EDU-AS"
+    },
+    "210608": {
+        "country_code": "TR",
+        "asn": "210608",
+        "description": "NETBUDUR TELEKOMUNIKASYON LIMITED SIRKETI",
+        "handle": "NETBUDUR-AS"
+    },
+    "210618": {
+        "country_code": "TR",
+        "asn": "210618",
+        "description": "EXODUS DANISMANLIK SANAYI VE TICARET LTD STI",
+        "handle": "EXODUS"
+    },
+    "210628": {
+        "country_code": "TR",
+        "asn": "210628",
+        "description": "DOGUS CAY VE GIDA MADDELERI URETIM PAZARLAMA ITHALAT IHRACAT ANONIM SIRKETI",
+        "handle": "DOGUSCAY"
+    },
+    "210658": {
+        "country_code": "TR",
+        "asn": "210658",
+        "description": "TEKNOBIL TELEKOM INTERNET BILISIM VE ILETISIM HIZMETLERI Ltd. Sti.",
+        "handle": "TEKNOBILTELEKOM"
+    },
+    "210681": {
+        "country_code": "TR",
+        "asn": "210681",
+        "description": "ALTIPARMAK TELEKOMUNIKASYON TEK.BILISIM HIZM.SAN.TIC.LTD.STI",
+        "handle": "ALTIPARMAK-CORE"
+    },
+    "210690": {
+        "country_code": "TR",
+        "asn": "210690",
+        "description": "Istanbul Arel Universitesi",
+        "handle": "AREL-UNIVERSITY-AS"
+    },
+    "210708": {
+        "country_code": "TR",
+        "asn": "210708",
+        "description": "Feniks internet ve iletisim hiz.san.tic.ltd.",
+        "handle": "FENIKSNET"
+    },
+    "210714": {
+        "country_code": "TR",
+        "asn": "210714",
+        "description": "Orhan Turkan",
+        "handle": "WORLD-NET"
+    },
+    "210816": {
+        "country_code": "TR",
+        "asn": "210816",
+        "description": "Netviser Bilisim Teknolojileri San. Ve Tic. Ltd. Sti.",
+        "handle": "NETVISER"
+    },
+    "210835": {
+        "country_code": "TR",
+        "asn": "210835",
+        "description": "WARPIRIS BILISIM TEKNOLOJILERI ANONIM SIRKETI",
+        "handle": "WARPIRIS-NET"
+    },
+    "210853": {
+        "country_code": "TR",
+        "asn": "210853",
+        "description": "IDEASOFT YAZILIM SANAYI VE TICARET AS.",
+        "handle": "IDEA-AS"
+    },
+    "210854": {
+        "country_code": "TR",
+        "asn": "210854",
+        "description": "EBEBEK MAGAZACILIK ANONIM SIRKETI",
+        "handle": "EBEBEK"
+    },
+    "210880": {
+        "country_code": "TR",
+        "asn": "210880",
+        "description": "Arda Daglioglu",
+        "handle": "ARDADAGLIOGLU"
+    },
+    "210943": {
+        "country_code": "TR",
+        "asn": "210943",
+        "description": "INTERNET KUTUSU TELEKOMUNIKASYON BILISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI",
+        "handle": "INTERNETKUTUSU-TR"
+    },
+    "210949": {
+        "country_code": "TR",
+        "asn": "210949",
+        "description": "SANAL SANTRAL TELEKOMUNIKASYON TICARET ANONIM SIRKETI",
+        "handle": "SANALSANTRAL"
+    },
+    "210955": {
+        "country_code": "TR",
+        "asn": "210955",
+        "description": "OBUGEN TEKNOLOJI YAZILIM DONANIM TELEKOMUNIKASYON VE DANISMANLIK HIZMETLERI LIMITED SIRKETI",
+        "handle": "OBUGEN"
+    },
+    "210981": {
+        "country_code": "TR",
+        "asn": "210981",
+        "description": "Mehmet Uzunca",
+        "handle": "BULDC"
+    },
+    "211006": {
+        "country_code": "TR",
+        "asn": "211006",
+        "description": "Fibernet Telekomunikasyon AS",
+        "handle": "FIBERNET"
+    },
+    "211104": {
+        "country_code": "TR",
+        "asn": "211104",
+        "description": "BATI EGE BILISIM VE ILETISIM HIZMETLERI SANAYI VE TICARET LTD.STI.",
+        "handle": "BATIEGE"
+    },
+    "211201": {
+        "country_code": "TR",
+        "asn": "211201",
+        "description": "SANS DIJITAL VE INTERAKTIF HIZMETLER TEKNOLOJI YATIRIM ANONIM SIRKETI",
+        "handle": "SANS"
+    },
+    "211225": {
+        "country_code": "TR",
+        "asn": "211225",
+        "description": "Ecozum Bilgi Teknolojileri A.S",
+        "handle": "ECOZUM"
+    },
+    "211241": {
+        "country_code": "TR",
+        "asn": "211241",
+        "description": "Ayberk Kebiroglu",
+        "handle": "TEKDORA"
+    },
+    "211249": {
+        "country_code": "TR",
+        "asn": "211249",
+        "description": "Yildiz Teknik Universitesi",
+        "handle": "YILDIZ-EDU-NET"
+    },
+    "211264": {
+        "country_code": "TR",
+        "asn": "211264",
+        "description": "Jetnet Telekom Int. Bil.Hiz. San and Tic. LTD",
+        "handle": "AYTELEKOM"
+    },
+    "211335": {
+        "country_code": "TR",
+        "asn": "211335",
+        "description": "BINBIR NET INTERNET BILISIM VE HABERLESME TEKNOLOJI SANAYI TICARET LIMITED SIRKETI",
+        "handle": "BINBIRNET"
+    },
+    "211346": {
+        "country_code": "TR",
+        "asn": "211346",
+        "description": "VTS TEKNOLOJI VE BILISIM LTD STI",
+        "handle": "VTSBULUT"
+    },
+    "211378": {
+        "country_code": "TR",
+        "asn": "211378",
+        "description": "Sysrun Teknoloji Hiz. San. Tic. Ltd. Sti.",
+        "handle": "SYSRUN"
+    },
+    "211384": {
+        "country_code": "TR",
+        "asn": "211384",
+        "description": "LTS BILISIM TEKNOLOJILERI TICARET LIMITED SIRKETI",
+        "handle": "LTSBILISIM"
+    },
+    "211401": {
+        "country_code": "TR",
+        "asn": "211401",
+        "description": "Atak Domain Bilgi Teknolojileri A.S.",
+        "handle": "ATAK-AS"
+    },
+    "211422": {
+        "country_code": "TR",
+        "asn": "211422",
+        "description": "Emre Aydogan",
+        "handle": "ONLINEINTERNET"
+    },
+    "211425": {
+        "country_code": "TR",
+        "asn": "211425",
+        "description": "Lodosnet Bilisim Elektronik Haberlesme Ithalat Ihracat Sanayi ve Ticaret Ltd. Sti.",
+        "handle": "LODOSNET"
+    },
+    "211467": {
+        "country_code": "TR",
+        "asn": "211467",
+        "description": "Filika Internet ve Iletisim Hizmetleri A.S.",
+        "handle": "FILIKANET"
+    },
+    "211496": {
+        "country_code": "TR",
+        "asn": "211496",
+        "description": "SURNET ILETISIM TEKNOLOJI TIC VE SAN LTD STI",
+        "handle": "SURNET-GETE"
+    },
+    "211539": {
+        "country_code": "TR",
+        "asn": "211539",
+        "description": "YUSUF OZTURK",
+        "handle": "VERSA-ASN"
+    },
+    "211557": {
+        "country_code": "TR",
+        "asn": "211557",
+        "description": "TAYNET TEKNOLOJI TICARET LIMITED SIRKETI",
+        "handle": "TAYNET"
+    },
+    "211558": {
+        "country_code": "TR",
+        "asn": "211558",
+        "description": "MICRONET ILETISIM HIZMETLERI TIC. LTD.STI.",
+        "handle": "MICRONET"
+    },
+    "211560": {
+        "country_code": "TR",
+        "asn": "211560",
+        "description": "Datafex Bilisim Teknolojileri Ticaret Limited Sirketi",
+        "handle": "UGUR-OZTURK"
+    },
+    "211567": {
+        "country_code": "TR",
+        "asn": "211567",
+        "description": "Bitwise Yazilim Internet Ve Ticaret Limited Sirketi",
+        "handle": "BITWISE"
+    },
+    "211648": {
+        "country_code": "TR",
+        "asn": "211648",
+        "description": "GNCNET TELEKOMUNIKASYON SAN. VE TIC. LTD.STI",
+        "handle": "GNC-VAE"
+    },
+    "211682": {
+        "country_code": "TR",
+        "asn": "211682",
+        "description": "NEXT TELEKOMUNIKASYON LIMITED SIRKETI",
+        "handle": "NEXT-TELEKOMUNIKASYON"
+    },
+    "211686": {
+        "country_code": "TR",
+        "asn": "211686",
+        "description": "NETCORE BILISIM HIZMETLERI AS",
+        "handle": "NETCORE"
+    },
+    "211709": {
+        "country_code": "TR",
+        "asn": "211709",
+        "description": "TURBO NET TELEKOMUNIKASYON ELEKTRONIK HABERLESME BILISIM HIZMETLERI SANAYI TICARET LTD STI",
+        "handle": "TURBONET"
+    },
+    "211711": {
+        "country_code": "TR",
+        "asn": "211711",
+        "description": "FIBERNET TELEKOMUNIKASYON A.S.",
+        "handle": "FIBERNET-TELEKOM"
+    },
+    "211735": {
+        "country_code": "TR",
+        "asn": "211735",
+        "description": "KOCAELI INTERNET SANAYI VE TICARET LIMITED SIRKETI",
+        "handle": "KOCAELIINTERNET"
+    },
+    "211804": {
+        "country_code": "TR",
+        "asn": "211804",
+        "description": "Ozan Yildiz trading as Sistemdc webhosting and server services",
+        "handle": "SISTEMDC"
+    },
+    "211814": {
+        "country_code": "TR",
+        "asn": "211814",
+        "description": "Fortis Telekomunikasyon Sanayi Ticaret Ltd Sti",
+        "handle": "FORTISTLKM"
+    },
+    "211819": {
+        "country_code": "TR",
+        "asn": "211819",
+        "description": "CCELL ILETISIM HIZMETLERI TICARET LIMITED SIRKETI",
+        "handle": "CCELL-TR"
+    },
+    "211851": {
+        "country_code": "TR",
+        "asn": "211851",
+        "description": "SECKIN CAN CELENK trading as RODOS MEDYA",
+        "handle": "WEB9-YAZILIM-BILISIM-HIZMETLERI"
+    },
+    "211859": {
+        "country_code": "TR",
+        "asn": "211859",
+        "description": "Ozkula Internet Hizmetleri Tic. LTD. STI.",
+        "handle": "OZKULA"
+    },
+    "211863": {
+        "country_code": "TR",
+        "asn": "211863",
+        "description": "KOBIKOM TELEKOMUNIKASYON BILISIM HIZMETLER SAN VE TIC AS",
+        "handle": "KOBIKOM-TELEKOM"
+    },
+    "211871": {
+        "country_code": "TR",
+        "asn": "211871",
+        "description": "OWEB Bilisim Teknolojileri A.S.",
+        "handle": "OWEB"
+    },
+    "211887": {
+        "country_code": "TR",
+        "asn": "211887",
+        "description": "CABUKNET TELEKOM VE BILGI TEKNOLOJILERI LIMITED STI.",
+        "handle": "CABUKNET"
+    },
+    "211905": {
+        "country_code": "TR",
+        "asn": "211905",
+        "description": "Kuveyt Turk Yatirim Menkul Degerler A.S.",
+        "handle": "KUVEYTTURKYATIRIM"
+    },
+    "211953": {
+        "country_code": "TR",
+        "asn": "211953",
+        "description": "HIPERNET TELEKOMUNIKASYON BILISIM SANAYI VE TICARET LIMITED SIRKETI",
+        "handle": "HIPERNET"
+    },
+    "211961": {
+        "country_code": "TR",
+        "asn": "211961",
+        "description": "HEDEF GLOBAL BILISIM TEKNOLOJILERI SANAYI TICARET LIMITED SIRKETI",
+        "handle": "AS209737"
+    },
+    "211964": {
+        "country_code": "TR",
+        "asn": "211964",
+        "description": "WEBHELP CAGRI MERKEZI ve MUSTERI HIZMETLERI A.S",
+        "handle": "ORG-WCMV1-RIPE"
+    },
+    "211996": {
+        "country_code": "TR",
+        "asn": "211996",
+        "description": "VAKIF YATIRIM MENKUL DEGERLER ANONIM SIRKETI",
+        "handle": "VKFYTRM"
+    },
+    "212058": {
+        "country_code": "TR",
+        "asn": "212058",
+        "description": "Istanbul Bilgi University",
+        "handle": "BILGI"
+    },
+    "212066": {
+        "country_code": "TR",
+        "asn": "212066",
+        "description": "Buyuk Reklam Cozumleri LLC",
+        "handle": "YANDEX-COM-TR"
+    },
+    "212069": {
+        "country_code": "TR",
+        "asn": "212069",
+        "description": "Hostixo Internet Bilisim Yazilim Hizmetleri Tic. ve San. Ltd. Sti.",
+        "handle": "HOSTIXO"
+    },
+    "212110": {
+        "country_code": "TR",
+        "asn": "212110",
+        "description": "NETMAX TELEKOMUNIKASYON ILETISIM HIZMETLERI TICARET LIMITED SIRKETI",
+        "handle": "NETMAX-INTERNATIONAL"
+    },
+    "212146": {
+        "country_code": "TR",
+        "asn": "212146",
+        "description": "Ticimax Bilisim Teknolojileri A.S.",
+        "handle": "TICIMAX"
+    },
+    "212167": {
+        "country_code": "TR",
+        "asn": "212167",
+        "description": "Pamukkale University",
+        "handle": "PAU-EDU-AS"
+    },
+    "212193": {
+        "country_code": "TR",
+        "asn": "212193",
+        "description": "VIVA INTERNET LIMITED SIRKETI",
+        "handle": "VIVANET"
+    },
+    "212219": {
+        "country_code": "TR",
+        "asn": "212219",
+        "description": "HOSTING DUNYAM BILISIM TEKNOLOJILERI TICARET LIMITED SIRKETI",
+        "handle": "HOSTINGDUNYAM"
+    },
+    "212249": {
+        "country_code": "TR",
+        "asn": "212249",
+        "description": "EG Veri Merkezi Teknoloji Ltd. Sti.",
+        "handle": "EG-VERI-MERKEZI"
+    },
+    "212269": {
+        "country_code": "TR",
+        "asn": "212269",
+        "description": "AY TELEKOM BILGI TEKNOLOJILERI LIMITED SIRKETI",
+        "handle": "AS-AYTELEKOM"
+    },
+    "212285": {
+        "country_code": "TR",
+        "asn": "212285",
+        "description": "Linyit Net Telekomunikasyon Hizmetleri Sanayi ve Ticaret Ltd. Sti.",
+        "handle": "LINYITNET"
+    },
+    "212289": {
+        "country_code": "TR",
+        "asn": "212289",
+        "description": "NODE BILISIM SANAYI VE TICARET LIMITED SIRKETI",
+        "handle": "NODEBILISIM"
+    },
+    "212301": {
+        "country_code": "TR",
+        "asn": "212301",
+        "description": "Makdos Bilisim Teknolojileri Sanayi Ticaret Limited Sirketi",
+        "handle": "MAKDOS"
+    },
+    "212418": {
+        "country_code": "TR",
+        "asn": "212418",
+        "description": "DSM Odeme ve Elektronik Para Hizmetleri Anonim Sirketi",
+        "handle": "DSM-ODEME-AS"
+    },
+    "212448": {
+        "country_code": "TR",
+        "asn": "212448",
+        "description": "Turkbil Teknoloji Ltd. Sti.",
+        "handle": "TURKBIL"
+    },
+    "212501": {
+        "country_code": "TR",
+        "asn": "212501",
+        "description": "DEYTEK BILISIM MUHENDISLIK SANAYI VE TIC. A.S.",
+        "handle": "DEYTEK"
+    },
+    "212513": {
+        "country_code": "TR",
+        "asn": "212513",
+        "description": "Osnet Telekomunikasyon Dis Ticaret Limited Sirketi",
+        "handle": "OSNET-TELEKOM"
+    },
+    "212521": {
+        "country_code": "TR",
+        "asn": "212521",
+        "description": "BLURPX TEKNOLOJI YAZILIM LIMITED SIRKETI",
+        "handle": "BLURPX"
+    },
+    "212538": {
+        "country_code": "TR",
+        "asn": "212538",
+        "description": "Poyrazwifi Telekomunikasyon iletisim San.Tic.Ltd.Sti",
+        "handle": "POYRAZNET"
+    },
+    "212549": {
+        "country_code": "TR",
+        "asn": "212549",
+        "description": "KOYCEGIZ BILISIM HAB.TEK.SAN.TIC.LTD.STI.",
+        "handle": "KOYCEGIZNET-TR"
+    },
+    "212584": {
+        "country_code": "TR",
+        "asn": "212584",
+        "description": "VIONET BILISIM TEKNOLOJILERI LIMITED SIRKETI",
+        "handle": "VIONET"
+    },
+    "212598": {
+        "country_code": "TR",
+        "asn": "212598",
+        "description": "SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.",
+        "handle": "SFCTEK"
+    },
+    "212666": {
+        "country_code": "TR",
+        "asn": "212666",
+        "description": "Sabire Irmak Mala",
+        "handle": "IPV4-NET"
+    },
+    "212684": {
+        "country_code": "TR",
+        "asn": "212684",
+        "description": "SOCAR TURKEY ENERJI A.S.",
+        "handle": "SOCARTR"
+    },
+    "212685": {
+        "country_code": "TR",
+        "asn": "212685",
+        "description": "SANS DIJITAL VE INTERAKTIF HIZMETLER TEKNOLOJI YATIRIM ANONIM SIRKETI",
+        "handle": "SANSTECH"
+    },
+    "212742": {
+        "country_code": "TR",
+        "asn": "212742",
+        "description": "PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi",
+        "handle": "AS48678"
+    },
+    "212757": {
+        "country_code": "TR",
+        "asn": "212757",
+        "description": "Gamegami Bilisim A.S.",
+        "handle": "GAMEGAMI"
+    },
+    "212770": {
+        "country_code": "TR",
+        "asn": "212770",
+        "description": "AKILLI BULUT YAZILIM ELEKTRONIK ARASTIRMA VE GELISTIRME ITHALAT IHRACAT TICARET ANONIM SIRKETI",
+        "handle": "AKILLIBULUT"
+    },
+    "212805": {
+        "country_code": "TR",
+        "asn": "212805",
+        "description": "SAMSUN YURT SAVUNMA SANAYI VE TICARET ANONIM SIRKETI",
+        "handle": "CANIK"
+    },
+    "212829": {
+        "country_code": "TR",
+        "asn": "212829",
+        "description": "Strnet Iletisim Sanayi ve tic. Ltd. Sti",
+        "handle": "STRNET"
+    },
+    "212905": {
+        "country_code": "TR",
+        "asn": "212905",
+        "description": "SPEED NET INTERNET ILETISIM HABERLESME TIC.LTD.STI",
+        "handle": "SPEEDNET"
+    },
+    "212945": {
+        "country_code": "TR",
+        "asn": "212945",
+        "description": "INT TELEKOMUNIKASYON VE INTERNET HIZ.SAN.TIC.LTD.STI",
+        "handle": "AS212945"
+    },
+    "213002": {
+        "country_code": "TR",
+        "asn": "213002",
+        "description": "DH Bulut Bilisim Anonim Sirketi",
+        "handle": "DOMAINHIZMETLERI-COM"
+    },
+    "213020": {
+        "country_code": "TR",
+        "asn": "213020",
+        "description": "Dincer Bekir trading as Reinos Veri Merkezi Teknolojileri",
+        "handle": "REINOS"
+    },
+    "213083": {
+        "country_code": "TR",
+        "asn": "213083",
+        "description": "Telekomat Haberlesme ve Iletisim Hiz. Tic. Ltd. Sti.",
+        "handle": "TELEKOMAT"
+    },
+    "213107": {
+        "country_code": "TR",
+        "asn": "213107",
+        "description": "Topaloglu Bilisim ve Teknoloji Hiz. San. Tic. Ltd. Sti.",
+        "handle": "TOPALOGLU"
+    },
+    "213143": {
+        "country_code": "TR",
+        "asn": "213143",
+        "description": "URFA WIFI INTERNET ILETISIM HABERLESME TELEKOMINIKASYON TICARET LIMITED SIRKETI",
+        "handle": "URFAWIFI"
+    },
+    "213145": {
+        "country_code": "TR",
+        "asn": "213145",
+        "description": "FIBIM FIBERNET GSM SANAYI VE TICARET ANONIM SIRKETI",
+        "handle": "FIBIMNET"
+    },
+    "213157": {
+        "country_code": "TR",
+        "asn": "213157",
+        "description": "FI TELEKOMUNIKASYON VE BILISIM SISTEMLERI SAN. TIC. LTD. STI",
+        "handle": "FINET"
+    },
+    "213212": {
+        "country_code": "TR",
+        "asn": "213212",
+        "description": "FixCloud Teknoloji A.S.",
+        "handle": "FIXCLOUD"
+    },
+    "213234": {
+        "country_code": "TR",
+        "asn": "213234",
+        "description": "Hasan Berkay Cagir",
+        "handle": "HASAN-BERKAY-CAGIR"
+    },
+    "213239": {
+        "country_code": "TR",
+        "asn": "213239",
+        "description": "Piya Yazilim ve Bilisim Danismanlik San. Tic. Ltd. Sti.",
+        "handle": "PIYA-DIGITAL"
+    },
+    "213243": {
+        "country_code": "TR",
+        "asn": "213243",
+        "description": "OZGUR EFE YILANCI",
+        "handle": "BAGLANTI-NET"
+    },
+    "213245": {
+        "country_code": "TR",
+        "asn": "213245",
+        "description": "ICT TELEKOMUNIKASYON SANAYI TICARET A.S.",
+        "handle": "ICTNET"
+    },
+    "213248": {
+        "country_code": "TR",
+        "asn": "213248",
+        "description": "BOND PARTNERS NETWORK VE SISTEM GUVENLIGI LIMITED SIRKETI",
+        "handle": "AS213248"
+    },
+    "213252": {
+        "country_code": "TR",
+        "asn": "213252",
+        "description": "Cenuta Telekomunikasyon Anonim Sirketi",
+        "handle": "CENUTA"
+    },
+    "213257": {
+        "country_code": "TR",
+        "asn": "213257",
+        "description": "Meric Internet Teknolojileri A.S.",
+        "handle": "AS213257"
+    },
+    "213261": {
+        "country_code": "TR",
+        "asn": "213261",
+        "description": "SADENET TELEKOMUNIKASYON HIZMETLERI ANONIM SIRKETI",
+        "handle": "SADENET"
+    },
+    "213274": {
+        "country_code": "TR",
+        "asn": "213274",
+        "description": "Verinomi Bilisim Tek. San. ve Tic. Ltd. Sti.",
+        "handle": "VERINOMI"
+    },
+    "213282": {
+        "country_code": "TR",
+        "asn": "213282",
+        "description": "Ada Yuksek Teknoloji Limited Sirketi",
+        "handle": "ADAHOST"
+    },
+    "213301": {
+        "country_code": "TR",
+        "asn": "213301",
+        "description": "SURVIVOR Bilisim Teknolojileri A.S.",
+        "handle": "SURVIVOR"
+    },
+    "213309": {
+        "country_code": "TR",
+        "asn": "213309",
+        "description": "Marmara University",
+        "handle": "MARMARA-EDU-NET"
+    },
+    "213332": {
+        "country_code": "TR",
+        "asn": "213332",
+        "description": "MOBISMART TELEKOMUNIKASYON ILETISIM SANAYI VE TICARET ANONIM SIRKETI",
+        "handle": "MOBISMART"
+    },
+    "213377": {
+        "country_code": "TR",
+        "asn": "213377",
+        "description": "Serhat Esmer",
+        "handle": "DMESG-ICT-LTD"
+    },
+    "213407": {
+        "country_code": "TR",
+        "asn": "213407",
+        "description": "Adem Celik trading as Uzmansoft Bilisim Web Yazilim Hizmetleri",
+        "handle": "UZMANSOFT"
+    },
+    "213417": {
+        "country_code": "TR",
+        "asn": "213417",
+        "description": "Trabzon Buyuksehir Belediyesi",
+        "handle": "TBB"
+    },
+    "213421": {
+        "country_code": "TR",
+        "asn": "213421",
+        "description": "Kuveyt Turk Portfoy Yonetimi A.S.",
+        "handle": "KTPORTFOY"
+    },
+    "213429": {
+        "country_code": "TR",
+        "asn": "213429",
+        "description": "Oguz Ozturk trading as ARGE ICT",
+        "handle": "ARGE-ICT"
+    },
+    "213440": {
+        "country_code": "TR",
+        "asn": "213440",
+        "description": "Netx Bilisim Anonim Sirketi",
+        "handle": "NETX"
+    },
+    "213454": {
+        "country_code": "TR",
+        "asn": "213454",
+        "description": "Hamza Tanik",
+        "handle": "YER-BILISIM"
+    },
+    "213477": {
+        "country_code": "TR",
+        "asn": "213477",
+        "description": "PaasGO Teknoloji Bilisim Cozumleri Anonim Sirketi",
+        "handle": "PAASGO"
+    },
+    "213488": {
+        "country_code": "TR",
+        "asn": "213488",
+        "description": "Mustafa Gunes trading as Inoxweb Datacenter ve Hosting Bilisim Teknolojileri",
+        "handle": "INOXWEB"
+    },
+    "213489": {
+        "country_code": "TR",
+        "asn": "213489",
+        "description": "AYD TELEKOMUNIKASYON BILISIM TEKNOLOJI SAN. TIC. LTD. STI.",
+        "handle": "AYD"
+    },
+    "213500": {
+        "country_code": "TR",
+        "asn": "213500",
+        "description": "HEDEF YATIRIM BANKASI A.S.",
+        "handle": "HEDEFBANK"
+    },
+    "213537": {
+        "country_code": "TR",
+        "asn": "213537",
+        "description": "INCEPTION GAME AND MEDIA SERVICES LTD",
+        "handle": "INCEPTION-GAME-AND-MEDIA-SERVICES"
+    },
+    "213568": {
+        "country_code": "TR",
+        "asn": "213568",
+        "description": "Muhammed Ali Yalcin",
+        "handle": "ROVETEKNOLOJI"
+    },
+    "213570": {
+        "country_code": "TR",
+        "asn": "213570",
+        "description": "ALPEREN KARABIYIK",
+        "handle": "HOSTLUYORUZ"
+    },
+    "213588": {
+        "country_code": "TR",
+        "asn": "213588",
+        "description": "MANK TELEKOMUNIKASYON ILETISIM TICARET ANONIM SIRKETI",
+        "handle": "MANK"
+    },
+    "213596": {
+        "country_code": "TR",
+        "asn": "213596",
+        "description": "FSEC Teknoloji Ltd. Sti.",
+        "handle": "FSEC"
+    },
+    "213616": {
+        "country_code": "TR",
+        "asn": "213616",
+        "description": "TIKLANET INTERNET HIZMETLERI SAN. VE TIC. LTD.STI.",
+        "handle": "TIKLANET"
+    },
+    "213637": {
+        "country_code": "TR",
+        "asn": "213637",
+        "description": "Siberdizayn Bilisim Teknolojileri A.S.",
+        "handle": "SIBERDIZAYN"
+    },
+    "213642": {
+        "country_code": "TR",
+        "asn": "213642",
+        "description": "Coretech Bilisim Hizmetleri Sanayi Ticaret Limited Sirketi",
+        "handle": "CORETTECH"
+    },
+    "213652": {
+        "country_code": "TR",
+        "asn": "213652",
+        "description": "Sunucun Bilgi Iletisim Teknolojileri ve Ticaret Ltd. Sti.",
+        "handle": "SUNUCUN-CLOUD"
+    },
+    "213654": {
+        "country_code": "TR",
+        "asn": "213654",
+        "description": "ESA LIVA Bilgi Teknolojileri San. Ve Tic. LTD. STI",
+        "handle": "AS209737"
+    },
+    "213657": {
+        "country_code": "TR",
+        "asn": "213657",
+        "description": "HZD TEKNOLOJI VE INOVASYON SAN. VE TIC. LTD. STI.",
+        "handle": "VPS-COM-TR-HOSTAVRUPA-NET"
+    },
+    "213658": {
+        "country_code": "TR",
+        "asn": "213658",
+        "description": "EXPRESNET ELEKTRONIK HABERLESME BILISIM VE TICARET LIMITED SIRKETI",
+        "handle": "EXPRESNET"
+    },
+    "213676": {
+        "country_code": "TR",
+        "asn": "213676",
+        "description": "ONCU BILGI TEKNOLOJILERI ILETISIM BILISIM HIZMETLERI LIMITED SIRKETI",
+        "handle": "NEO-INTERNET"
+    },
+    "213685": {
+        "country_code": "TR",
+        "asn": "213685",
+        "description": "NarDatabank Bilisim ve Teknoloji Anonim Sirketi",
+        "handle": "NARDATABANK"
+    },
+    "213697": {
+        "country_code": "TR",
+        "asn": "213697",
+        "description": "KERNZEN TELEKOMUNIKASYON BILISIM YAZILIM VE BILGISAYAR LIMITED SIRKETI",
+        "handle": "KERNZEN"
+    },
+    "213708": {
+        "country_code": "TR",
+        "asn": "213708",
+        "description": "AE Olfe Teknoloji ve Ticaret Limited Sirketi",
+        "handle": "OLFE-DATA-CENTER"
+    },
+    "213714": {
+        "country_code": "TR",
+        "asn": "213714",
+        "description": "Mert Dikmen",
+        "handle": "UPLAYER"
+    },
+    "213719": {
+        "country_code": "TR",
+        "asn": "213719",
+        "description": "Netuv Bilisim A.S.",
+        "handle": "NETUV"
+    },
+    "213722": {
+        "country_code": "TR",
+        "asn": "213722",
+        "description": "Mirac Dogan trading as Perminet Technology",
+        "handle": "AS209737"
+    },
+    "213730": {
+        "country_code": "TR",
+        "asn": "213730",
+        "description": "Muhammet Soyoglu",
+        "handle": "ANATOLIA-BROADBAND"
+    },
+    "213739": {
+        "country_code": "TR",
+        "asn": "213739",
+        "description": "Hayat Finans Katilim Bankasi Anonim Sirketi",
+        "handle": "HAYATFINANS-GH-AS"
+    },
+    "213751": {
+        "country_code": "TR",
+        "asn": "213751",
+        "description": "YALNIZ BILISIM TEKNOLOJILERI TIC. LTD.STI.",
+        "handle": "YALNIZ"
+    },
+    "213795": {
+        "country_code": "TR",
+        "asn": "213795",
+        "description": "Mustafa cakir",
+        "handle": "MUSTAFA-CAKIR"
+    },
+    "213796": {
+        "country_code": "TR",
+        "asn": "213796",
+        "description": "Ahmet Cevik",
+        "handle": "ASHOSTOPYA"
+    },
+    "213799": {
+        "country_code": "TR",
+        "asn": "213799",
+        "description": "CONHOST BILGI TEKNOLOJILERI VERI MERKEZI HIZMETLERI VE DANISMANLIK LIMITED SIRKETI",
+        "handle": "CONHOST-ASN"
+    },
+    "213826": {
+        "country_code": "TR",
+        "asn": "213826",
+        "description": "Dincer Bilisim Teknoloji ve Egitim A.S.",
+        "handle": "DINCER"
+    },
+    "213858": {
+        "country_code": "TR",
+        "asn": "213858",
+        "description": "AYTEMIZ YATIRIM BANKASI ANONIM SIRKETI",
+        "handle": "AYTEMIZBANK"
+    },
+    "213865": {
+        "country_code": "TR",
+        "asn": "213865",
+        "description": "Nurullah Ates",
+        "handle": "NURULLAH-ATES"
+    },
+    "213908": {
+        "country_code": "TR",
+        "asn": "213908",
+        "description": "NETZONE TEKNOLOJI ve SAVUNMA SANAYI TICARET ANONIM SIRKETI",
+        "handle": "NETZONE-TR"
+    },
+    "213945": {
+        "country_code": "TR",
+        "asn": "213945",
+        "description": "DATA HOME YAZILIM BILGI TEKNOLOJILERI TICARET LIMITED SIRKETI",
+        "handle": "AS213945"
+    },
+    "213958": {
+        "country_code": "TR",
+        "asn": "213958",
+        "description": "Furkan Kasap",
+        "handle": "PHOENIXSUNUCUM"
+    },
+    "214000": {
+        "country_code": "TR",
+        "asn": "214000",
+        "description": "Voxnet Bilisim Teknolojileri Sanayi Ve Ticaret Limited Sirketi",
+        "handle": "VOXNET"
+    },
+    "214021": {
+        "country_code": "TR",
+        "asn": "214021",
+        "description": "TPSIS TEKNOLOJI VE HABERLESME ANONIM SIRKETI",
+        "handle": "TPSIS-TELEKOM"
+    },
+    "214038": {
+        "country_code": "TR",
+        "asn": "214038",
+        "description": "NETINTERNET VERI MERKEZI TEKNOLOJILERI ANONIM SIRKETI",
+        "handle": "NETINTERNET-ISP"
+    },
+    "214041": {
+        "country_code": "TR",
+        "asn": "214041",
+        "description": "Dokunmatik Ekran Teknolojileri Bilisim Insaat Tic. Ltd. Sti.",
+        "handle": "TREAS"
+    },
+    "214058": {
+        "country_code": "TR",
+        "asn": "214058",
+        "description": "COCA-COLA ICECEK ANONIM SIRKETI",
+        "handle": "ASN-CCI"
+    },
+    "214067": {
+        "country_code": "TR",
+        "asn": "214067",
+        "description": "KUZEY VERI MERKEZI ANONIM SIRKETI",
+        "handle": "KUZEYDC"
+    },
+    "214107": {
+        "country_code": "TR",
+        "asn": "214107",
+        "description": "Eksim Yatirim Holding AS",
+        "handle": "EKSIM"
+    },
+    "214112": {
+        "country_code": "TR",
+        "asn": "214112",
+        "description": "POZITIFTECH BILISIM TEKNOLOJILERI ANONIM SIRKETI",
+        "handle": "AS209500"
+    },
+    "214114": {
+        "country_code": "TR",
+        "asn": "214114",
+        "description": "Atakan Telekomunikasyon Internet Bilisim Turizm Tasimacilik Temizlik Sanayi Ticaret Limited Sirketi",
+        "handle": "ATASUNUCUM"
+    },
+    "214135": {
+        "country_code": "TR",
+        "asn": "214135",
+        "description": "Oguz Emre Solmaz",
+        "handle": "OGUZ-EMRE-SOLMAZ"
+    },
+    "214140": {
+        "country_code": "TR",
+        "asn": "214140",
+        "description": "Yusuf Yaman",
+        "handle": "YAMAN-HOSTING-LLC"
+    },
+    "214195": {
+        "country_code": "TR",
+        "asn": "214195",
+        "description": "Tres Teknoloji A.S.",
+        "handle": "LINK-IX"
+    },
+    "214211": {
+        "country_code": "TR",
+        "asn": "214211",
+        "description": "ADRIYATECH BILISIM TEKNOLOJILERI ANONIM SIRKETI",
+        "handle": "ADRIYATECH"
+    },
+    "214247": {
+        "country_code": "TR",
+        "asn": "214247",
+        "description": "Enpara Bank Anonim Sirketi",
+        "handle": "ENPARA"
+    },
+    "214250": {
+        "country_code": "TR",
+        "asn": "214250",
+        "description": "KC YAZILIM GELISTIRME VE BILISIM HIZMETLERI TICARET SANAYI LIMITED SIRKETI",
+        "handle": "KCYAZILIM"
+    },
+    "214252": {
+        "country_code": "TR",
+        "asn": "214252",
+        "description": "ITCARE BILGI TEKNOLOJI DANISMANLIK VE TICARET LIMITED SIRKETI",
+        "handle": "ITCARE"
+    },
+    "214267": {
+        "country_code": "TR",
+        "asn": "214267",
+        "description": "Server Sistemleri Bilisim San. Tic. Ltd. Sti.",
+        "handle": "SERVERSISTEMLERI"
+    },
+    "214281": {
+        "country_code": "TR",
+        "asn": "214281",
+        "description": "Mayasoft Bilgi Sistemleri A.S.",
+        "handle": "MAYASOFT-BILGI-SISTEMLERI"
+    },
+    "214297": {
+        "country_code": "TR",
+        "asn": "214297",
+        "description": "Eureko Sigorta A.S.",
+        "handle": "EUREKOSIGORTA"
+    },
+    "214305": {
+        "country_code": "TR",
+        "asn": "214305",
+        "description": "YUNUS EMRE OZEREN",
+        "handle": "YALINHOST"
+    },
+    "214321": {
+        "country_code": "TR",
+        "asn": "214321",
+        "description": "IMAJWEB Internet Teknoloji Hiz. Ltd. Sti.",
+        "handle": "IMAJWEB"
+    },
+    "214381": {
+        "country_code": "TR",
+        "asn": "214381",
+        "description": "Vaultr Veri Merkezi Hizmetleri Anonim Sirketi",
+        "handle": "VAULTR"
+    },
+    "214382": {
+        "country_code": "TR",
+        "asn": "214382",
+        "description": "Bulent Aydin trading as Hostlayici",
+        "handle": "HOSTLAYICI"
+    },
+    "214447": {
+        "country_code": "TR",
+        "asn": "214447",
+        "description": "B5 YAZILIM BILGI TEKNOLOJILERI SANAYI VE TICARET LTD.STI",
+        "handle": "B5YAZILIM"
+    },
+    "214449": {
+        "country_code": "TR",
+        "asn": "214449",
+        "description": "VERA BYTE Telekomunikasyon Anonim Sirketi",
+        "handle": "VERABYTE"
+    },
+    "214460": {
+        "country_code": "TR",
+        "asn": "214460",
+        "description": "Can Bilgi Teknolojileri ve Telekomunikasyon Ltd.Sti.",
+        "handle": "CANONLINE"
+    },
+    "214466": {
+        "country_code": "TR",
+        "asn": "214466",
+        "description": "AE Olfe Teknoloji ve Ticaret Limited Sirketi",
+        "handle": "OLFE"
+    },
+    "214509": {
+        "country_code": "TR",
+        "asn": "214509",
+        "description": "ASIR YATIRIM BANKASI A.S.",
+        "handle": "ASIR-BANK"
+    },
+    "214528": {
+        "country_code": "TR",
+        "asn": "214528",
+        "description": "Emir Baskopru",
+        "handle": "RASVIUS"
+    },
+    "214539": {
+        "country_code": "TR",
+        "asn": "214539",
+        "description": "iSIM Platform Teknoloji A.S.",
+        "handle": "ISIMAS"
+    },
+    "214547": {
+        "country_code": "TR",
+        "asn": "214547",
+        "description": "ISTANBUL SABIHA GOKCEN ULUSLARARASI HAVALIMANI YATIRIM YAPIM VE ISLETME ANONIM SIRKETI",
+        "handle": "SGIA"
+    },
+    "214577": {
+        "country_code": "TR",
+        "asn": "214577",
+        "description": "AHMET ALAGEYIK",
+        "handle": "GUVENHOST"
+    },
+    "214584": {
+        "country_code": "TR",
+        "asn": "214584",
+        "description": "OSMAN ALTINTAS",
+        "handle": "NETHUB"
+    },
+    "214588": {
+        "country_code": "TR",
+        "asn": "214588",
+        "description": "ICS Bilisim Teknolojileri Danismanlik Hizmetleri A.S.",
+        "handle": "ICSTEKNOLOJI"
+    },
+    "214593": {
+        "country_code": "TR",
+        "asn": "214593",
+        "description": "Dias Bilisim ve Teknoloji Hizmetleri AS",
+        "handle": "DIAS-TECH"
+    },
+    "214608": {
+        "country_code": "TR",
+        "asn": "214608",
+        "description": "Gazinet Internet Iletisim teknolojileri ltd. Sti.",
+        "handle": "GAZINET"
+    },
+    "214755": {
+        "country_code": "TR",
+        "asn": "214755",
+        "description": "NOKTAONLINE TELEKOMUNIKASYON LIMITED SIRKETI",
+        "handle": "NOKTA"
+    },
+    "214796": {
+        "country_code": "TR",
+        "asn": "214796",
+        "description": "COMNET FIBER ALTYAPI HIZMETLERI ANONIM SIRKETI",
+        "handle": "COMNETFIBER"
+    },
+    "214800": {
+        "country_code": "TR",
+        "asn": "214800",
+        "description": "Yigit Ulker",
+        "handle": "YIGIT-ULKER"
+    },
+    "214803": {
+        "country_code": "TR",
+        "asn": "214803",
+        "description": "Baran Cirak",
+        "handle": "BRNCHOST"
+    },
+    "214823": {
+        "country_code": "TR",
+        "asn": "214823",
+        "description": "NOVA HOSTING VE BILISIM TEKNOLOJILERI A.S.",
+        "handle": "AS214823"
+    },
+    "214846": {
+        "country_code": "TR",
+        "asn": "214846",
+        "description": "TARIM SIGORTALARI HAVUZ ISLETMELESI ANONIM SIRKETI",
+        "handle": "TARSIM"
+    },
+    "214854": {
+        "country_code": "TR",
+        "asn": "214854",
+        "description": "VULUT BILISIM TEKNOLOJILERI LIMITED SIRKETI",
+        "handle": "VULUT"
+    },
+    "214876": {
+        "country_code": "TR",
+        "asn": "214876",
+        "description": "Ahmet Aydogan trading as APRILSOFT YAZILIM VE HOSTING",
+        "handle": "APRILSOFT"
+    },
+    "214907": {
+        "country_code": "TR",
+        "asn": "214907",
+        "description": "NOKTAWIFI TELEKOMUNIKASYON TICARET LIMITED SIRKETI",
+        "handle": "NOKTAWIFI-TR"
+    },
+    "214941": {
+        "country_code": "TR",
+        "asn": "214941",
+        "description": "UPCELL TELEKOMUNIKASYON LIMITED SIRKETI",
+        "handle": "TR-UPCELL-TELEKOM"
+    },
+    "214972": {
+        "country_code": "TR",
+        "asn": "214972",
+        "description": "Lobi Bilgi Teknolojileri A.S.",
+        "handle": "LOBI"
+    },
+    "214995": {
+        "country_code": "TR",
+        "asn": "214995",
+        "description": "Altay Celik",
+        "handle": "VOMECLOUD"
+    },
+    "215027": {
+        "country_code": "TR",
+        "asn": "215027",
+        "description": "OVABIL INTERNET VE BILISIM HIZMETLERI LIMITED SIRKETI",
+        "handle": "AS215027"
+    },
+    "215033": {
+        "country_code": "TR",
+        "asn": "215033",
+        "description": "SYNCHRON BILISIM ILETISIM INTERNET SANAYI VE TICARET LIMITED SIRKETI",
+        "handle": "SYNCHRON-TR"
+    },
+    "215068": {
+        "country_code": "TR",
+        "asn": "215068",
+        "description": "ENIYISUNUCUM VERI MERKEZI BILISIM HIZMETLERI TICARET VE SANAYI LIMITED SIRKETI",
+        "handle": "ENIYISUNUCUM"
+    },
+    "215073": {
+        "country_code": "TR",
+        "asn": "215073",
+        "description": "Erhan Yigit Er trading as IP ve Yazilim Hizmetleri",
+        "handle": "AS215073"
+    },
+    "215130": {
+        "country_code": "TR",
+        "asn": "215130",
+        "description": "DUNYA KATILIM BANKASI ANONIM SIRKETI",
+        "handle": "DUNYA-KATILIM-BANKASI"
+    },
+    "215145": {
+        "country_code": "TR",
+        "asn": "215145",
+        "description": "OSAWI TELEKOMUNIKASYON TEKNOLOJI BILISIM HIZMETLERI VE TICARET LTD.STI",
+        "handle": "OSAWI-N1"
+    },
+    "215155": {
+        "country_code": "TR",
+        "asn": "215155",
+        "description": "HALIL OMER TEKIN",
+        "handle": "HALIL-OMER-TEKIN"
+    },
+    "215180": {
+        "country_code": "TR",
+        "asn": "215180",
+        "description": "MAXX DC BILISIM HIZMETLERI TICARET ANONIM SIRKETI",
+        "handle": "MAXXDC"
+    },
+    "215181": {
+        "country_code": "TR",
+        "asn": "215181",
+        "description": "Cafer Latif",
+        "handle": "AS215181"
+    },
+    "215238": {
+        "country_code": "TR",
+        "asn": "215238",
+        "description": "IRFAN TUGRA ONEM",
+        "handle": "ONEMBILISIM"
+    },
+    "215249": {
+        "country_code": "TR",
+        "asn": "215249",
+        "description": "GOZEN HOLDING ANONIM SIRKETI",
+        "handle": "GOZEN-ASN"
+    },
+    "215264": {
+        "country_code": "TR",
+        "asn": "215264",
+        "description": "TEKNOSA IC VE DIS TIC A.S.",
+        "handle": "TEKNOSA"
+    },
+    "215267": {
+        "country_code": "TR",
+        "asn": "215267",
+        "description": "Efekan Rasit Zeybek",
+        "handle": "EFEKAN-RASIT-ZEYBEK"
+    },
+    "215312": {
+        "country_code": "TR",
+        "asn": "215312",
+        "description": "BBS BILISIM TEKNOLOJILERI SAN. VE TIC. LTD. STI.",
+        "handle": "BBSTEKNOLOJI"
+    },
+    "215347": {
+        "country_code": "TR",
+        "asn": "215347",
+        "description": "AY WIFI TELEKOMUNIKASYON SANAYI VE TICARET LIMITED SIRKETI",
+        "handle": "AS60446"
+    },
+    "215352": {
+        "country_code": "TR",
+        "asn": "215352",
+        "description": "Fullnet Telekomunikasyon Ltd Sti",
+        "handle": "FULLNET"
+    },
+    "215371": {
+        "country_code": "TR",
+        "asn": "215371",
+        "description": "TC Cumhurbaskanligi Idari Isler Baskanligi",
+        "handle": "CUMHURBASKANLIK-AS"
+    },
+    "215383": {
+        "country_code": "TR",
+        "asn": "215383",
+        "description": "TYG TURKEY Elektronik Ticaret Hizmetleri ve Yatirimlari Anonim Sirketi",
+        "handle": "TYG-AS"
+    },
+    "215391": {
+        "country_code": "TR",
+        "asn": "215391",
+        "description": "CAFER ESER",
+        "handle": "HOSTABIL"
+    },
+    "215409": {
+        "country_code": "TR",
+        "asn": "215409",
+        "description": "Mucahid Selvi trading as Yaztek Yazilim Teknolojileri ve Bilgisayar Sisteml",
+        "handle": "HOSTAGEN"
+    },
+    "215411": {
+        "country_code": "TR",
+        "asn": "215411",
+        "description": "danis danisman",
+        "handle": "VERUNIX"
+    },
+    "215430": {
+        "country_code": "TR",
+        "asn": "215430",
+        "description": "OBUGEN TEKNOLOJI YAZILIM DONANIM TELEKOMUNIKASYON VE DANISMANLIK HIZMETLERI LIMITED SIRKETI",
+        "handle": "OBUGEN2"
+    },
+    "215454": {
+        "country_code": "TR",
+        "asn": "215454",
+        "description": "Cyprus Sky Network Global Ltd.",
+        "handle": "SKYNETWORK"
+    },
+    "215516": {
+        "country_code": "TR",
+        "asn": "215516",
+        "description": "Sebnem Kilinc",
+        "handle": "AS215516"
+    },
+    "215531": {
+        "country_code": "TR",
+        "asn": "215531",
+        "description": "Komuta Savunma Yuksek Teknoloji Limited Sirketi",
+        "handle": "KOMUTA-ASN"
+    },
+    "215555": {
+        "country_code": "TR",
+        "asn": "215555",
+        "description": "PLATFORM SANS OYUNLARI ANONIM SIRKETI",
+        "handle": "PLATFORM-SANS"
+    },
+    "215559": {
+        "country_code": "TR",
+        "asn": "215559",
+        "description": "GETIR TEKNOLOJIK HIZMETLER A.S.",
+        "handle": "TR-GETIR"
+    },
+    "215566": {
+        "country_code": "TR",
+        "asn": "215566",
+        "description": "Uyumsoft Bilgi Sistemleri ve Teknolojileri Tic. A.S.",
+        "handle": "UYUMSOFT"
+    },
+    "215567": {
+        "country_code": "TR",
+        "asn": "215567",
+        "description": "Berk Ermis",
+        "handle": "NETVAY"
+    },
+    "215585": {
+        "country_code": "TR",
+        "asn": "215585",
+        "description": "WIFITURK INTERNET VE BILISIM TEKNOLOJILERI TIC.LTD.STI.",
+        "handle": "WIFITURK"
+    },
+    "215612": {
+        "country_code": "TR",
+        "asn": "215612",
+        "description": "TOM DIGITAL TEKNOLOJI VE DANISMANLIK ANONIM SIRKETI",
+        "handle": "TOM-DIGITAL"
+    },
+    "215618": {
+        "country_code": "TR",
+        "asn": "215618",
+        "description": "Oksitweb Bilisim Teknolojileri Sanayi Ticaret Limited Sirketi",
+        "handle": "OKSITWEB"
+    },
+    "215620": {
+        "country_code": "TR",
+        "asn": "215620",
+        "description": "Alp Furkan Kolan",
+        "handle": "KOLAN-BILISIM-TEKNOLOJILERI"
+    },
+    "215622": {
+        "country_code": "TR",
+        "asn": "215622",
+        "description": "FATIH SANLI",
+        "handle": "MECRA-BILISIM"
+    },
+    "215625": {
+        "country_code": "TR",
+        "asn": "215625",
+        "description": "HASNET Bilgi Teknolojileri Ticaret Ltd. Sti.",
+        "handle": "TE-BILISIM"
+    },
+    "215640": {
+        "country_code": "TR",
+        "asn": "215640",
+        "description": "GAMEGAMI BILISIM ANONIM SIRKETI",
+        "handle": "GAMEGAMI2"
+    },
+    "215645": {
+        "country_code": "TR",
+        "asn": "215645",
+        "description": "Kayizer Teknoloji Ltd. Sti.",
+        "handle": "AS209737"
+    },
+    "215710": {
+        "country_code": "TR",
+        "asn": "215710",
+        "description": "HDM Dijital Hizmetleri Ticaret Limited Sirketi",
+        "handle": "HDMDIGITAL"
+    },
+    "215723": {
+        "country_code": "TR",
+        "asn": "215723",
+        "description": "FIBA TELEKOM Anonim Sirketi",
+        "handle": "FIBATELEKOM-TR"
+    },
+    "215739": {
+        "country_code": "TR",
+        "asn": "215739",
+        "description": "BULUTSA BILISIM SANAYI VE TICARET ANONIM SIRKETI",
+        "handle": "BULUTSA"
+    },
+    "215749": {
+        "country_code": "TR",
+        "asn": "215749",
+        "description": "Bilhost Bilisim Teknolojileri A.S.",
+        "handle": "BILHOST"
+    },
+    "215761": {
+        "country_code": "TR",
+        "asn": "215761",
+        "description": "Muhammed Fatih ASAN",
+        "handle": "MFATIHASAN"
+    },
+    "215790": {
+        "country_code": "TR",
+        "asn": "215790",
+        "description": "UNLU MENKUL DEGERLER A.S.",
+        "handle": "UNLUMENKUL"
+    },
+    "215803": {
+        "country_code": "TR",
+        "asn": "215803",
+        "description": "Ege Ensar",
+        "handle": "EGEENSAR"
+    },
+    "215812": {
+        "country_code": "TR",
+        "asn": "215812",
+        "description": "EnkiTech Bilisim Limited Sirketi",
+        "handle": "ENKITECH"
+    },
+    "215822": {
+        "country_code": "TR",
+        "asn": "215822",
+        "description": "DSM Grup Danismanlik Iletisim ve Satis Ticaret Anonim Sirketi",
+        "handle": "DSM-WP-AS"
+    },
+    "215864": {
+        "country_code": "TR",
+        "asn": "215864",
+        "description": "VATAN TELEKOMUNIKASYON HABERLESME INTERNET VE BILISIM TEKNOLOJILERI TICARET LIMITED SIRKETI",
+        "handle": "VATANTELEKOM"
+    },
+    "215880": {
+        "country_code": "TR",
+        "asn": "215880",
+        "description": "Netadim Bilisim Bilgisayar Yazilim Donanimlari Iletisim Ith. Ihr. San. Ve Tic. Ltd. Sti.",
+        "handle": "NETADIM"
+    },
+    "215898": {
+        "country_code": "TR",
+        "asn": "215898",
+        "description": "Saganetwork Telekomunikasyon A.S.",
+        "handle": "SAGANETWORK"
+    },
+    "215900": {
+        "country_code": "TR",
+        "asn": "215900",
+        "description": "Tulip Group Internet Erisim Hizmetleri Sanayi Ticaret Limited Sirketi",
+        "handle": "TULIPGROUP"
+    },
+    "215902": {
+        "country_code": "TR",
+        "asn": "215902",
+        "description": "MARTELEKOM ILETISIM TELEKOMUNIKASYON HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI",
+        "handle": "TR-MARTELEKOM"
+    },
+    "215906": {
+        "country_code": "TR",
+        "asn": "215906",
+        "description": "Firatnet Telekom Internet Hizmetleri Sanayi Ve Ticaret Limited Sirketi",
+        "handle": "FIRATNET"
+    },
+    "215911": {
+        "country_code": "TR",
+        "asn": "215911",
+        "description": "MYWIFI TELEKOMUNIKASYON SANAYI TICARET LIMITED SIRKETI",
+        "handle": "AS60446"
+    },
+    "215919": {
+        "country_code": "TR",
+        "asn": "215919",
+        "description": "Sunucupark Bilgi Teknolojileri ve Iletisim Sanayi Ticaret Ltd. Sirketi",
+        "handle": "SUNUCUPARK"
+    },
+    "215961": {
+        "country_code": "TR",
+        "asn": "215961",
+        "description": "BTEXPER BILISIM DANISMANLIK ve DESTEK HIZMETLERI LTD STI",
+        "handle": "BTEXPER"
+    },
+    "215971": {
+        "country_code": "TR",
+        "asn": "215971",
+        "description": "Gokturk Host Internet Hizmetleri Turizm Sanayi ve Ticaret Limited Sirketi",
+        "handle": "GOKTURKHOST"
+    },
+    "215977": {
+        "country_code": "TR",
+        "asn": "215977",
+        "description": "TUBITAK MAM",
+        "handle": "TUBITAK-MAM-AS"
+    },
+    "216018": {
+        "country_code": "TR",
+        "asn": "216018",
+        "description": "HASNET Bilgi Teknolojileri Ticaret Ltd. Sti.",
+        "handle": "ASNET"
+    },
+    "216045": {
+        "country_code": "TR",
+        "asn": "216045",
+        "description": "HASAN YAVUZ",
+        "handle": "HASANYAVUZASN"
+    },
+    "216064": {
+        "country_code": "TR",
+        "asn": "216064",
+        "description": "NOWA GAMES TEKNOLOJI ANONIM SIRKETI",
+        "handle": "NOWAGAMESTEKNOLOJIAS"
+    },
+    "216076": {
+        "country_code": "TR",
+        "asn": "216076",
+        "description": "EFSANENET BILISIM TEKNOLOJILERI TICARET LIMITED SIRKETI",
+        "handle": "EFSANENET-TR"
+    },
+    "216082": {
+        "country_code": "TR",
+        "asn": "216082",
+        "description": "MOBILISIM ILETISIM A.S.",
+        "handle": "MOBILISIM-TR"
+    },
+    "216084": {
+        "country_code": "TR",
+        "asn": "216084",
+        "description": "Kerem Uluboy",
+        "handle": "KEREM-ULUBOY"
+    },
+    "216095": {
+        "country_code": "TR",
+        "asn": "216095",
+        "description": "Kartaca Bilisim A.S.",
+        "handle": "KARTACA"
+    },
+    "216099": {
+        "country_code": "TR",
+        "asn": "216099",
+        "description": "EMRE ANIL ARSLAN",
+        "handle": "HOSTINODE"
+    },
+    "216132": {
+        "country_code": "TR",
+        "asn": "216132",
+        "description": "Yahya Murat Turgut",
+        "handle": "VA29677-AS"
+    },
+    "216146": {
+        "country_code": "TR",
+        "asn": "216146",
+        "description": "NESNET INTERNET HIZMETLERI TICARET ANONIM SIRKETI",
+        "handle": "NESNET"
+    },
+    "216163": {
+        "country_code": "TR",
+        "asn": "216163",
+        "description": "Yemek Pay Elektronik Para ve Odeme Hizmetleri Anonim Sirketi",
+        "handle": "YEMEKPAY-AS"
+    },
+    "216184": {
+        "country_code": "TR",
+        "asn": "216184",
+        "description": "CNC BILISIM HIZMETLERI INSAAT SANAYI VE TICARET LIMITED SIRKETI",
+        "handle": "NETVISER"
+    },
+    "216192": {
+        "country_code": "TR",
+        "asn": "216192",
+        "description": "hiperonline iletisim hizmetleri san. tic. ltd. sti.",
+        "handle": "HIPERONLINE"
+    },
+    "216199": {
+        "country_code": "TR",
+        "asn": "216199",
+        "description": "Ibrahim TUNCIL",
+        "handle": "ONEDC-IBRAHIMTUNCIL"
+    },
+    "216209": {
+        "country_code": "TR",
+        "asn": "216209",
+        "description": "CELIL KILIC",
+        "handle": "NETKREATIF"
+    },
+    "216210": {
+        "country_code": "TR",
+        "asn": "216210",
+        "description": "DIDIM NET ELEKTRONIK HABERLESME TICARET LIMITED SIRKETI",
+        "handle": "DIDIMNET"
+    },
+    "216227": {
+        "country_code": "TR",
+        "asn": "216227",
+        "description": "Architecht Bilisim Sistemleri ve Pazarlama Ticaret A.S.",
+        "handle": "ARCHITECHT-ASN"
+    },
+    "216244": {
+        "country_code": "TR",
+        "asn": "216244",
+        "description": "Omur Akgun trading as Data TR Bilisim Teknoloji Hizmetleri",
+        "handle": "DATATR"
+    },
+    "216308": {
+        "country_code": "TR",
+        "asn": "216308",
+        "description": "Mustafa-ILICAN-INCIRCI",
+        "handle": "MUSTAFA-ILICAN-INCIRCI"
+    },
+    "216343": {
+        "country_code": "TR",
+        "asn": "216343",
+        "description": "Mertcan Gokgoz",
+        "handle": "MERTCANGOKGOZ-AS"
+    },
+    "216356": {
+        "country_code": "TR",
+        "asn": "216356",
+        "description": "TURKIYEM NET ILETISIM VE TELEKOMUNIKASYON HIZMETLERI A.S.",
+        "handle": "TURKIYEMNET"
+    },
+    "216383": {
+        "country_code": "TR",
+        "asn": "216383",
+        "description": "ONLINE SERVER TELEKOMUNIKASYON LIMITED SIRKETI",
+        "handle": "ONLINESERVER2"
+    },
+    "216385": {
+        "country_code": "TR",
+        "asn": "216385",
+        "description": "Dijital Bilisim Teknoloji Hizmetleri San. Tic. Ltd. Sti.",
+        "handle": "DIJITALBILISIM"
+    },
+    "216389": {
+        "country_code": "TR",
+        "asn": "216389",
+        "description": "FORALTO BILGI TEKNOLOJILERI ANONIM SIRKETI",
+        "handle": "FORALTO"
+    },
+    "216394": {
+        "country_code": "TR",
+        "asn": "216394",
+        "description": "Netlen Internet Hizmetleri Ltd. Sti.",
+        "handle": "NETLEN"
+    },
+    "216422": {
+        "country_code": "TR",
+        "asn": "216422",
+        "description": "Pratik Islem Odeme ve Elektronik Para A.S.",
+        "handle": "PRATIK-ISLEM"
+    },
+    "216436": {
+        "country_code": "TR",
+        "asn": "216436",
+        "description": "Surface Net Limited",
+        "handle": "SURFACE"
+    },
+    "216445": {
+        "country_code": "TR",
+        "asn": "216445",
+        "description": "BURAK BAHADIR EGEMEN",
+        "handle": "EGEMENHOSTING"
+    }
+}

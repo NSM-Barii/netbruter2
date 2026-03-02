@@ -1,0 +1,80 @@
+{
+    "8014": {
+        "country_code": "BS",
+        "asn": "8014",
+        "description": "Bahamas Telecommunications Corporation",
+        "handle": "BATELNET"
+    },
+    "15146": {
+        "country_code": "BS",
+        "asn": "15146",
+        "description": "Cable Bahamas",
+        "handle": "CABLEBAHAMAS"
+    },
+    "18635": {
+        "country_code": "BS",
+        "asn": "18635",
+        "description": "Secure Hosting Ltd.",
+        "handle": "SECUREHOST"
+    },
+    "19128": {
+        "country_code": "BS",
+        "asn": "19128",
+        "description": "TTN Global Operations Limited",
+        "handle": "TTN"
+    },
+    "19377": {
+        "country_code": "BS",
+        "asn": "19377",
+        "description": "Cloud Carib Limited",
+        "handle": "CLOUD-CARIB-LTD"
+    },
+    "22357": {
+        "country_code": "BS",
+        "asn": "22357",
+        "description": "Secure Shores Data Center",
+        "handle": "SECURE-SHORE-ASN"
+    },
+    "26855": {
+        "country_code": "BS",
+        "asn": "26855",
+        "description": "IndiGO Networks",
+        "handle": "IBL-ASN"
+    },
+    "26929": {
+        "country_code": "BS",
+        "asn": "26929",
+        "description": "Colina Insurance Limited",
+        "handle": "COLINA-INSURANCE-LTD"
+    },
+    "394601": {
+        "country_code": "BS",
+        "asn": "394601",
+        "description": "Global Nexus",
+        "handle": "GNX-ASN"
+    },
+    "397914": {
+        "country_code": "BS",
+        "asn": "397914",
+        "description": "Commonwealth Bank Ltd",
+        "handle": "AS-CBL-152"
+    },
+    "397972": {
+        "country_code": "BS",
+        "asn": "397972",
+        "description": "Baha Mar",
+        "handle": "CTF-BM-LTD"
+    },
+    "398165": {
+        "country_code": "BS",
+        "asn": "398165",
+        "description": "Chances",
+        "handle": "JAROL-01"
+    },
+    "401451": {
+        "country_code": "BS",
+        "asn": "401451",
+        "description": "Knowles Consulting Group",
+        "handle": "KCG-BAHAMAS"
+    }
+}

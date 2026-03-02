@@ -1,0 +1,1034 @@
+{
+    "3176": {
+        "country_code": "LB",
+        "asn": "3176",
+        "description": "Banque Du Liban",
+        "handle": "BDL"
+    },
+    "3290": {
+        "country_code": "LB",
+        "asn": "3290",
+        "description": "WIFAST SARL",
+        "handle": "WIFAST"
+    },
+    "8699": {
+        "country_code": "LB",
+        "asn": "8699",
+        "description": "Fiberwaves S.A.L",
+        "handle": "FIBERWAVES-AS"
+    },
+    "9051": {
+        "country_code": "LB",
+        "asn": "9051",
+        "description": "IncoNet Data Management sal",
+        "handle": "INCONET-DATA-MANAGEMENT-SAL"
+    },
+    "12376": {
+        "country_code": "LB",
+        "asn": "12376",
+        "description": "Ministry of finance",
+        "handle": "MOF"
+    },
+    "12590": {
+        "country_code": "LB",
+        "asn": "12590",
+        "description": "THE DOT SPOT NET SARL",
+        "handle": "DOTSPOT"
+    },
+    "12812": {
+        "country_code": "LB",
+        "asn": "12812",
+        "description": "AMERICAN UNIVERSITY of BEIRUT",
+        "handle": "ASN-AUBNET"
+    },
+    "13044": {
+        "country_code": "LB",
+        "asn": "13044",
+        "description": "Aoun.net s.a.r.l",
+        "handle": "ASAOUN"
+    },
+    "15511": {
+        "country_code": "LB",
+        "asn": "15511",
+        "description": "iconnect sarl",
+        "handle": "LB-ICONNECT"
+    },
+    "15739": {
+        "country_code": "LB",
+        "asn": "15739",
+        "description": "Berytech SCAL",
+        "handle": "BERYTECH-AS"
+    },
+    "16130": {
+        "country_code": "LB",
+        "asn": "16130",
+        "description": "New Com SAL",
+        "handle": "NEW-COM-SAL"
+    },
+    "16169": {
+        "country_code": "LB",
+        "asn": "16169",
+        "description": "BITAR NET SARL",
+        "handle": "AS-BITAR"
+    },
+    "20874": {
+        "country_code": "LB",
+        "asn": "20874",
+        "description": "Information Systems Company",
+        "handle": "INFOSYS"
+    },
+    "24634": {
+        "country_code": "LB",
+        "asn": "24634",
+        "description": "Transmog Inc S.A.L",
+        "handle": "CYBERIA-AS"
+    },
+    "24892": {
+        "country_code": "LB",
+        "asn": "24892",
+        "description": "Libalink SARL",
+        "handle": "ASLIBALINK"
+    },
+    "24982": {
+        "country_code": "LB",
+        "asn": "24982",
+        "description": "BankMed sal",
+        "handle": "BANKMED"
+    },
+    "25281": {
+        "country_code": "LB",
+        "asn": "25281",
+        "description": "MTM s.a.r.l",
+        "handle": "MTM-AS"
+    },
+    "25471": {
+        "country_code": "LB",
+        "asn": "25471",
+        "description": "B SMART.NET S.A.R.L",
+        "handle": "ASBSMART"
+    },
+    "25491": {
+        "country_code": "LB",
+        "asn": "25491",
+        "description": "Basic ISP s.a.r.l.",
+        "handle": "ASBASIC"
+    },
+    "28958": {
+        "country_code": "LB",
+        "asn": "28958",
+        "description": "Capital Outsourcing SAL",
+        "handle": "TRINEC-AS"
+    },
+    "29027": {
+        "country_code": "LB",
+        "asn": "29027",
+        "description": "CHAWICH GROUP LTD",
+        "handle": "CHAWICH"
+    },
+    "29070": {
+        "country_code": "LB",
+        "asn": "29070",
+        "description": "GIGABIT S.A.L",
+        "handle": "GIGABIT-ISP-LB"
+    },
+    "29099": {
+        "country_code": "LB",
+        "asn": "29099",
+        "description": "Matrix International SARL",
+        "handle": "MATRIX-LB"
+    },
+    "29623": {
+        "country_code": "LB",
+        "asn": "29623",
+        "description": "T.H. Global Vision SARL",
+        "handle": "HSPL"
+    },
+    "31037": {
+        "country_code": "LB",
+        "asn": "31037",
+        "description": "Wave Net LLC",
+        "handle": "WAVENET"
+    },
+    "31126": {
+        "country_code": "LB",
+        "asn": "31126",
+        "description": "SODETEL S.A.L.",
+        "handle": "SODETEL-AS"
+    },
+    "31390": {
+        "country_code": "LB",
+        "asn": "31390",
+        "description": "BRAVENET S.A.R.L",
+        "handle": "BRAVENETLB"
+    },
+    "31587": {
+        "country_code": "LB",
+        "asn": "31587",
+        "description": "AHN s.a.r.l",
+        "handle": "AHN"
+    },
+    "34032": {
+        "country_code": "LB",
+        "asn": "34032",
+        "description": "SPIDER NET & CO. SARL",
+        "handle": "SPIDER"
+    },
+    "34062": {
+        "country_code": "LB",
+        "asn": "34062",
+        "description": "GCGROUP S.A.R.L",
+        "handle": "GCGROUP-AS"
+    },
+    "34113": {
+        "country_code": "LB",
+        "asn": "34113",
+        "description": "Real-ISP SARL",
+        "handle": "NS-REALISP1"
+    },
+    "34370": {
+        "country_code": "LB",
+        "asn": "34370",
+        "description": "CSCBank SAL",
+        "handle": "CSC"
+    },
+    "34447": {
+        "country_code": "LB",
+        "asn": "34447",
+        "description": "My ISP SARL",
+        "handle": "ASMYISPLB"
+    },
+    "34458": {
+        "country_code": "LB",
+        "asn": "34458",
+        "description": "Smart Networks S.a.r.l",
+        "handle": "SMARTNETSLB"
+    },
+    "34741": {
+        "country_code": "LB",
+        "asn": "34741",
+        "description": "Bank of Beirut s.a.l.",
+        "handle": "BOB"
+    },
+    "34763": {
+        "country_code": "LB",
+        "asn": "34763",
+        "description": "X.O.L Broadband sal",
+        "handle": "XOL"
+    },
+    "34884": {
+        "country_code": "LB",
+        "asn": "34884",
+        "description": "iShack SAL",
+        "handle": "ISHACK"
+    },
+    "35197": {
+        "country_code": "LB",
+        "asn": "35197",
+        "description": "Virtual ISP s.a.l.",
+        "handle": "VISP-LB-AS"
+    },
+    "35732": {
+        "country_code": "LB",
+        "asn": "35732",
+        "description": "EarthLinks S.A.R.L",
+        "handle": "AS-EARTH"
+    },
+    "38999": {
+        "country_code": "LB",
+        "asn": "38999",
+        "description": "Mobile Interim Company no.2 sal",
+        "handle": "MTCTOUCH"
+    },
+    "39010": {
+        "country_code": "LB",
+        "asn": "39010",
+        "description": "TerraNet sal",
+        "handle": "TERRANET-AS"
+    },
+    "39190": {
+        "country_code": "LB",
+        "asn": "39190",
+        "description": "Ahmad Mahmoud Hassan trading as Nour El Houda Trading & Telecommunications",
+        "handle": "NOURELHOUDA-ISP-AS"
+    },
+    "39275": {
+        "country_code": "LB",
+        "asn": "39275",
+        "description": "Byblos Bank S.A.L.",
+        "handle": "BYBLOS"
+    },
+    "39402": {
+        "country_code": "LB",
+        "asn": "39402",
+        "description": "Ferrari-Networks SARL",
+        "handle": "FERRARINETWORKS-AS"
+    },
+    "39868": {
+        "country_code": "LB",
+        "asn": "39868",
+        "description": "FRANSABANK SAL",
+        "handle": "FRANSABANK"
+    },
+    "39918": {
+        "country_code": "LB",
+        "asn": "39918",
+        "description": "Azadea Group Holding SAL",
+        "handle": "AZALGROUP"
+    },
+    "41068": {
+        "country_code": "LB",
+        "asn": "41068",
+        "description": "SPEEDBIT s.a.r.l",
+        "handle": "SPEEDBIT"
+    },
+    "41211": {
+        "country_code": "LB",
+        "asn": "41211",
+        "description": "La Banque Libano-Francaise S.A.L.",
+        "handle": "BLF"
+    },
+    "41833": {
+        "country_code": "LB",
+        "asn": "41833",
+        "description": "Moscanet SAL",
+        "handle": "MOSCANET"
+    },
+    "41956": {
+        "country_code": "LB",
+        "asn": "41956",
+        "description": "M Nets SAL",
+        "handle": "MNETS"
+    },
+    "42003": {
+        "country_code": "LB",
+        "asn": "42003",
+        "description": "OGERO",
+        "handle": "OGERONET"
+    },
+    "42020": {
+        "country_code": "LB",
+        "asn": "42020",
+        "description": "OGERO",
+        "handle": "LIBANTELECOM"
+    },
+    "42183": {
+        "country_code": "LB",
+        "asn": "42183",
+        "description": "NET 360 S.A.R.L",
+        "handle": "NET360"
+    },
+    "42334": {
+        "country_code": "LB",
+        "asn": "42334",
+        "description": "Broadband Plus S.a.l.",
+        "handle": "BBP-AS"
+    },
+    "42828": {
+        "country_code": "LB",
+        "asn": "42828",
+        "description": "Top Net SARL",
+        "handle": "TOPNETLB-AS"
+    },
+    "42835": {
+        "country_code": "LB",
+        "asn": "42835",
+        "description": "Masco Group LLC",
+        "handle": "MASCO-AS2"
+    },
+    "42852": {
+        "country_code": "LB",
+        "asn": "42852",
+        "description": "Societe Libanaise pour le developpement et la reconstruction du centre ville de de Beyrouth (Solidere)",
+        "handle": "BCDBBN-AS"
+    },
+    "43004": {
+        "country_code": "LB",
+        "asn": "43004",
+        "description": "Smart Secure Solutions S.A.R.L.",
+        "handle": "SS-SOLUTIONS"
+    },
+    "43019": {
+        "country_code": "LB",
+        "asn": "43019",
+        "description": "Farah Net S.a.r.l.",
+        "handle": "FARAHNET"
+    },
+    "43056": {
+        "country_code": "LB",
+        "asn": "43056",
+        "description": "iShack SAL",
+        "handle": "I-SHACK"
+    },
+    "43791": {
+        "country_code": "LB",
+        "asn": "43791",
+        "description": "STN SARL",
+        "handle": "STN"
+    },
+    "43824": {
+        "country_code": "LB",
+        "asn": "43824",
+        "description": "Masco Group LLC",
+        "handle": "MASCO-AS"
+    },
+    "44189": {
+        "country_code": "LB",
+        "asn": "44189",
+        "description": "Middle East Airlines AirLiban S.A.L. (M.E.A)",
+        "handle": "MEA"
+    },
+    "44870": {
+        "country_code": "LB",
+        "asn": "44870",
+        "description": "Advanced IX SAL",
+        "handle": "A-IX"
+    },
+    "44979": {
+        "country_code": "LB",
+        "asn": "44979",
+        "description": "ADMINS LEBANON S.A.R.L",
+        "handle": "ADMINS-LB-ASN"
+    },
+    "47701": {
+        "country_code": "LB",
+        "asn": "47701",
+        "description": "BEIRUT ARAB UNIVERSITY(BAU)",
+        "handle": "BAU-AS"
+    },
+    "47719": {
+        "country_code": "LB",
+        "asn": "47719",
+        "description": "Switch Telecom s.a.r.l",
+        "handle": "SWITCHTEL-AS"
+    },
+    "47760": {
+        "country_code": "LB",
+        "asn": "47760",
+        "description": "CSCBank SAL",
+        "handle": "CSCBL"
+    },
+    "48206": {
+        "country_code": "LB",
+        "asn": "48206",
+        "description": "Net Pro sarl",
+        "handle": "NETPRO"
+    },
+    "48253": {
+        "country_code": "LB",
+        "asn": "48253",
+        "description": "SAADWNET SARL",
+        "handle": "FIBERTECH"
+    },
+    "48418": {
+        "country_code": "LB",
+        "asn": "48418",
+        "description": "SKYNET S.A.R.L",
+        "handle": "ASSKYNET"
+    },
+    "48629": {
+        "country_code": "LB",
+        "asn": "48629",
+        "description": "ICLIK SARL",
+        "handle": "ICLIK"
+    },
+    "48740": {
+        "country_code": "LB",
+        "asn": "48740",
+        "description": "Online Money Transfer S.A.L.",
+        "handle": "OMT-AS"
+    },
+    "48847": {
+        "country_code": "LB",
+        "asn": "48847",
+        "description": "WAVES S.A.L",
+        "handle": "CONNECT"
+    },
+    "49020": {
+        "country_code": "LB",
+        "asn": "49020",
+        "description": "Elie Achkar trading as FiberSkynet",
+        "handle": "FIBERSKYNET-ASN"
+    },
+    "50500": {
+        "country_code": "LB",
+        "asn": "50500",
+        "description": "BITAR NET SARL",
+        "handle": "BITARISP2016"
+    },
+    "50770": {
+        "country_code": "LB",
+        "asn": "50770",
+        "description": "FIBER FAST SARL",
+        "handle": "FIBERFAST"
+    },
+    "51104": {
+        "country_code": "LB",
+        "asn": "51104",
+        "description": "VIP GROUP (S.A.R.L)",
+        "handle": "REMINI-TELECOM"
+    },
+    "51938": {
+        "country_code": "LB",
+        "asn": "51938",
+        "description": "GlobeMed Solutions SAL",
+        "handle": "MEDSYSTEMS"
+    },
+    "52100": {
+        "country_code": "LB",
+        "asn": "52100",
+        "description": "Lebanon Services Company L.L.C. Cable One",
+        "handle": "CABLEONE-AS"
+    },
+    "56337": {
+        "country_code": "LB",
+        "asn": "56337",
+        "description": "Wave Net LLC",
+        "handle": "WAVENET"
+    },
+    "56530": {
+        "country_code": "LB",
+        "asn": "56530",
+        "description": "PROTEL SAL OFFSHORE",
+        "handle": "PRTL"
+    },
+    "56902": {
+        "country_code": "LB",
+        "asn": "56902",
+        "description": "Energy Bridge Sarl",
+        "handle": "ENERGY"
+    },
+    "57133": {
+        "country_code": "LB",
+        "asn": "57133",
+        "description": "CONTROL PANEL SARL",
+        "handle": "CONTROL-PANEL-SARL"
+    },
+    "57256": {
+        "country_code": "LB",
+        "asn": "57256",
+        "description": "Pros-Services S.A.R.L.",
+        "handle": "PROS"
+    },
+    "57513": {
+        "country_code": "LB",
+        "asn": "57513",
+        "description": "Mobile interim company 1 S.A.L.",
+        "handle": "MIC1-ALFA-AS"
+    },
+    "57778": {
+        "country_code": "LB",
+        "asn": "57778",
+        "description": "Elie Achkar trading as Micro Smart System",
+        "handle": "MICROSMARTLB"
+    },
+    "57852": {
+        "country_code": "LB",
+        "asn": "57852",
+        "description": "CLOUD S P SARL",
+        "handle": "CSP"
+    },
+    "57914": {
+        "country_code": "LB",
+        "asn": "57914",
+        "description": "Bank Audi SAL - Audi Saradar Group",
+        "handle": "ODEA-BANK-AS"
+    },
+    "57937": {
+        "country_code": "LB",
+        "asn": "57937",
+        "description": "Sama S.A.L. Offshore",
+        "handle": "SAMA"
+    },
+    "59931": {
+        "country_code": "LB",
+        "asn": "59931",
+        "description": "Lebanon Online SARL",
+        "handle": "LEBOL-AS"
+    },
+    "59989": {
+        "country_code": "LB",
+        "asn": "59989",
+        "description": "T.H. Global Vision SARL",
+        "handle": "THGLOBALVISION16"
+    },
+    "60372": {
+        "country_code": "LB",
+        "asn": "60372",
+        "description": "EagleNet s.a.r.l.",
+        "handle": "EAGLENET"
+    },
+    "60398": {
+        "country_code": "LB",
+        "asn": "60398",
+        "description": "Communication and International Trading Company S.A.R.L",
+        "handle": "CITCO"
+    },
+    "60406": {
+        "country_code": "LB",
+        "asn": "60406",
+        "description": "ALJADEED S.A.L",
+        "handle": "ALJADEED"
+    },
+    "60524": {
+        "country_code": "LB",
+        "asn": "60524",
+        "description": "Lebanese Armed Forces",
+        "handle": "LAF1"
+    },
+    "60972": {
+        "country_code": "LB",
+        "asn": "60972",
+        "description": "iShack SAL",
+        "handle": "LBIX-ASN"
+    },
+    "60999": {
+        "country_code": "LB",
+        "asn": "60999",
+        "description": "Libatech SAL",
+        "handle": "LIBATECH-AS"
+    },
+    "61113": {
+        "country_code": "LB",
+        "asn": "61113",
+        "description": "Capital Outsourcing SAL",
+        "handle": "CAPITALOUTSOURCING"
+    },
+    "61172": {
+        "country_code": "LB",
+        "asn": "61172",
+        "description": "SME S.A.R.L",
+        "handle": "AS-SME"
+    },
+    "61252": {
+        "country_code": "LB",
+        "asn": "61252",
+        "description": "Bernard Sadaka",
+        "handle": "EVOLIUVO-AS"
+    },
+    "62100": {
+        "country_code": "LB",
+        "asn": "62100",
+        "description": "Fiber Networks Services S.A.R.L",
+        "handle": "ASKASSIR"
+    },
+    "62144": {
+        "country_code": "LB",
+        "asn": "62144",
+        "description": "BBAC S.A.L.",
+        "handle": "BBAC-AS"
+    },
+    "64443": {
+        "country_code": "LB",
+        "asn": "64443",
+        "description": "Sky Waves SARL",
+        "handle": "SKYWAVES"
+    },
+    "197674": {
+        "country_code": "LB",
+        "asn": "197674",
+        "description": "WIN DSL s.a.r.l",
+        "handle": "WIN-DSL-ASN"
+    },
+    "198065": {
+        "country_code": "LB",
+        "asn": "198065",
+        "description": "CSCBank SAL",
+        "handle": "CSCOVERSEAS"
+    },
+    "198867": {
+        "country_code": "LB",
+        "asn": "198867",
+        "description": "Computel SAL",
+        "handle": "COMPUTEL"
+    },
+    "199239": {
+        "country_code": "LB",
+        "asn": "199239",
+        "description": "Khodor Kanso trading as Access Lebanon",
+        "handle": "ACCESSLB"
+    },
+    "199557": {
+        "country_code": "LB",
+        "asn": "199557",
+        "description": "Elsanet S.A.R.L",
+        "handle": "LB-ELSANET"
+    },
+    "199643": {
+        "country_code": "LB",
+        "asn": "199643",
+        "description": "Lebanese American University",
+        "handle": "ALU-LB-AS"
+    },
+    "201107": {
+        "country_code": "LB",
+        "asn": "201107",
+        "description": "GIACOM S.A.R.L",
+        "handle": "GIACOM-ISP"
+    },
+    "201120": {
+        "country_code": "LB",
+        "asn": "201120",
+        "description": "Chadi Kannir trading as Lebex First International Trading",
+        "handle": "LEBANON"
+    },
+    "201544": {
+        "country_code": "LB",
+        "asn": "201544",
+        "description": "Cimenterie Nationale SAL",
+        "handle": "CIMNAT-AS"
+    },
+    "202772": {
+        "country_code": "LB",
+        "asn": "202772",
+        "description": "AXA Middle East SAL",
+        "handle": "AXA-AS"
+    },
+    "202987": {
+        "country_code": "LB",
+        "asn": "202987",
+        "description": "Fiber Networks Services S.A.R.L",
+        "handle": "FNS"
+    },
+    "203134": {
+        "country_code": "LB",
+        "asn": "203134",
+        "description": "T.H. Global Vision SARL",
+        "handle": "SPINESYSTEMS-AS"
+    },
+    "203586": {
+        "country_code": "LB",
+        "asn": "203586",
+        "description": "Holy Spirit University of Kaslik",
+        "handle": "USEK-AS"
+    },
+    "203615": {
+        "country_code": "LB",
+        "asn": "203615",
+        "description": "DATA CONSULT SAL",
+        "handle": "DATACONSULT"
+    },
+    "203637": {
+        "country_code": "LB",
+        "asn": "203637",
+        "description": "BSL BANK SAL",
+        "handle": "BSLBANK"
+    },
+    "203763": {
+        "country_code": "LB",
+        "asn": "203763",
+        "description": "Emirates Lebanon Bank S.A.L",
+        "handle": "ELBANK"
+    },
+    "203827": {
+        "country_code": "LB",
+        "asn": "203827",
+        "description": "Professional Network Corporation",
+        "handle": "PRONET"
+    },
+    "204122": {
+        "country_code": "LB",
+        "asn": "204122",
+        "description": "American Community School",
+        "handle": "ACSBEIRUT"
+    },
+    "204352": {
+        "country_code": "LB",
+        "asn": "204352",
+        "description": "FAST MEGA NETWORKS SARL",
+        "handle": "FASTMEGA"
+    },
+    "204356": {
+        "country_code": "LB",
+        "asn": "204356",
+        "description": "HI SPEED NET WORK S.A.R.L",
+        "handle": "HIGHSPEED"
+    },
+    "204429": {
+        "country_code": "LB",
+        "asn": "204429",
+        "description": "Smart City SARL",
+        "handle": "SMARTCITY"
+    },
+    "204434": {
+        "country_code": "LB",
+        "asn": "204434",
+        "description": "Hani Khaled Hamdan",
+        "handle": "MATRIXNETWORK"
+    },
+    "204565": {
+        "country_code": "LB",
+        "asn": "204565",
+        "description": "RobioNet S.A.R.L",
+        "handle": "ROBIONET"
+    },
+    "204566": {
+        "country_code": "LB",
+        "asn": "204566",
+        "description": "Web Lite S.A.L",
+        "handle": "WEBLITE"
+    },
+    "205015": {
+        "country_code": "LB",
+        "asn": "205015",
+        "description": "Northern Telecom SARL",
+        "handle": "NORTHERN"
+    },
+    "205348": {
+        "country_code": "LB",
+        "asn": "205348",
+        "description": "Lebanese Swiss Bank s.a.l",
+        "handle": "LSB"
+    },
+    "205410": {
+        "country_code": "LB",
+        "asn": "205410",
+        "description": "Antoine Melhem trading as LIBAN-COM",
+        "handle": "LIBAN-COM"
+    },
+    "205423": {
+        "country_code": "LB",
+        "asn": "205423",
+        "description": "CONNEXIONS SAL-HOLDING",
+        "handle": "CONNEXIONSERVICES"
+    },
+    "205578": {
+        "country_code": "LB",
+        "asn": "205578",
+        "description": "Directorate General of General Security",
+        "handle": "ORG-GSL24-RIPE"
+    },
+    "206169": {
+        "country_code": "LB",
+        "asn": "206169",
+        "description": "Societe Generale De Banque Au Liban SAL",
+        "handle": "SGBL"
+    },
+    "206197": {
+        "country_code": "LB",
+        "asn": "206197",
+        "description": "BLOM BANK S.A.L.",
+        "handle": "BLOM-AS"
+    },
+    "206360": {
+        "country_code": "LB",
+        "asn": "206360",
+        "description": "Pesco Telecom s.a.l.",
+        "handle": "PESCOTEL"
+    },
+    "206406": {
+        "country_code": "LB",
+        "asn": "206406",
+        "description": "C BEYOND s.a.l",
+        "handle": "CBEY"
+    },
+    "206472": {
+        "country_code": "LB",
+        "asn": "206472",
+        "description": "Saint-Joseph University of Beirut",
+        "handle": "USJ"
+    },
+    "206485": {
+        "country_code": "LB",
+        "asn": "206485",
+        "description": "SONIC INC SAL",
+        "handle": "SONICASN"
+    },
+    "206494": {
+        "country_code": "LB",
+        "asn": "206494",
+        "description": "Christelle Chamoun",
+        "handle": "LIBAN-COM"
+    },
+    "206519": {
+        "country_code": "LB",
+        "asn": "206519",
+        "description": "ZINA sarl",
+        "handle": "ZINA"
+    },
+    "206550": {
+        "country_code": "LB",
+        "asn": "206550",
+        "description": "CTC SAL",
+        "handle": "CTCSAL"
+    },
+    "206911": {
+        "country_code": "LB",
+        "asn": "206911",
+        "description": "Creditbank S.A.L.",
+        "handle": "CREDITBANK-AS"
+    },
+    "207445": {
+        "country_code": "LB",
+        "asn": "207445",
+        "description": "Vincent Maroun",
+        "handle": "AS-VAMH"
+    },
+    "207493": {
+        "country_code": "LB",
+        "asn": "207493",
+        "description": "GE-net sarl",
+        "handle": "GE-NET"
+    },
+    "208007": {
+        "country_code": "LB",
+        "asn": "208007",
+        "description": "Libanpost S.A.L",
+        "handle": "LIBANPOST"
+    },
+    "208122": {
+        "country_code": "LB",
+        "asn": "208122",
+        "description": "TRACTUM FOR CONTRACTING LLC",
+        "handle": "TRACTUM-ISP"
+    },
+    "208234": {
+        "country_code": "LB",
+        "asn": "208234",
+        "description": "Wimax Company SARL",
+        "handle": "WIMAX-ISP-LB"
+    },
+    "208326": {
+        "country_code": "LB",
+        "asn": "208326",
+        "description": "Capital Outsourcing Consulting Services (Off-shore) SAL",
+        "handle": "CO-CS-AS"
+    },
+    "208403": {
+        "country_code": "LB",
+        "asn": "208403",
+        "description": "TediNet S.A.R.L",
+        "handle": "TEDINET"
+    },
+    "208669": {
+        "country_code": "LB",
+        "asn": "208669",
+        "description": "Safawi Net S.A.L.",
+        "handle": "SAFAWINET"
+    },
+    "208815": {
+        "country_code": "LB",
+        "asn": "208815",
+        "description": "Prevision S.A.R.L",
+        "handle": "PREVISION"
+    },
+    "208923": {
+        "country_code": "LB",
+        "asn": "208923",
+        "description": "LEBANON SERVICES COMPANY SARL",
+        "handle": "CABLEONE-AS"
+    },
+    "209211": {
+        "country_code": "LB",
+        "asn": "209211",
+        "description": "Entelligence SARL",
+        "handle": "ENTELLIGENCE"
+    },
+    "209354": {
+        "country_code": "LB",
+        "asn": "209354",
+        "description": "MA Global Company S.A.R.L.",
+        "handle": "MAGLOBAL"
+    },
+    "209654": {
+        "country_code": "LB",
+        "asn": "209654",
+        "description": "FIBER net lb s.a.r.l",
+        "handle": "FIBERNETLB"
+    },
+    "209685": {
+        "country_code": "LB",
+        "asn": "209685",
+        "description": "INDEVCO SAL",
+        "handle": "INDEVCO"
+    },
+    "209948": {
+        "country_code": "LB",
+        "asn": "209948",
+        "description": "Power Vision ISP S.a.r.l.",
+        "handle": "AS"
+    },
+    "209969": {
+        "country_code": "LB",
+        "asn": "209969",
+        "description": "CSCBank SAL",
+        "handle": "CSCGR"
+    },
+    "210264": {
+        "country_code": "LB",
+        "asn": "210264",
+        "description": "Gega Telecom SAL",
+        "handle": "GEGATELECOM"
+    },
+    "210292": {
+        "country_code": "LB",
+        "asn": "210292",
+        "description": "Data Plus SARL",
+        "handle": "DATAPLUS"
+    },
+    "210318": {
+        "country_code": "LB",
+        "asn": "210318",
+        "description": "CAPITAL OUTSOURCING SAL",
+        "handle": "C-O-AS"
+    },
+    "210823": {
+        "country_code": "LB",
+        "asn": "210823",
+        "description": "CINCO. NET s.a.r.l",
+        "handle": "CINCONETAS"
+    },
+    "212435": {
+        "country_code": "LB",
+        "asn": "212435",
+        "description": "High Net ISP S.A.R.L",
+        "handle": "HD-90100"
+    },
+    "212851": {
+        "country_code": "LB",
+        "asn": "212851",
+        "description": "CT VISION Sarl",
+        "handle": "CTVISION"
+    },
+    "212946": {
+        "country_code": "LB",
+        "asn": "212946",
+        "description": "Fiber-X S.A.R.L.",
+        "handle": "FIBERX-AS"
+    },
+    "213962": {
+        "country_code": "LB",
+        "asn": "213962",
+        "description": "Middle East Services LLC",
+        "handle": "MES"
+    },
+    "214728": {
+        "country_code": "LB",
+        "asn": "214728",
+        "description": "Coin.net SAL",
+        "handle": "COINNET"
+    },
+    "215650": {
+        "country_code": "LB",
+        "asn": "215650",
+        "description": "Storm Net S.A.R.L",
+        "handle": "STORMNET1"
+    },
+    "215868": {
+        "country_code": "LB",
+        "asn": "215868",
+        "description": "Atria Solutions SAL",
+        "handle": "ATRIASOLUTIONSSAL"
+    },
+    "215937": {
+        "country_code": "LB",
+        "asn": "215937",
+        "description": "Omega Smart Systems (OSS) SAL",
+        "handle": "OSS"
+    },
+    "216159": {
+        "country_code": "LB",
+        "asn": "216159",
+        "description": "GLOBAL INTERNET PROVIDERS SARL",
+        "handle": "GIPIX"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "11816": {
+        "country_code": "AW",
+        "asn": "11816",
+        "description": "SERVICIO DI TELECOMUNICACION DI ARUBA (SETAR) N.V.",
+        "handle": "SERVICIO-DI-TELECOMUNICACION"
+    },
+    "52231": {
+        "country_code": "AW",
+        "asn": "52231",
+        "description": "DTH Television and Telecommunication N.V.",
+        "handle": "DTH-TELEVISION"
+    },
+    "264645": {
+        "country_code": "AW",
+        "asn": "264645",
+        "description": "NEW MILLENNIUM TELECOM SERVICES N.V.",
+        "handle": "NEW-MILLENNIUM-TELECOM"
+    },
+    "272844": {
+        "country_code": "AW",
+        "asn": "272844",
+        "description": "ENNIA CARIBE LEVEN (ARUBA) N.V.",
+        "handle": "ENNIA-CARIBE-LEVEN-NV"
+    }
+}

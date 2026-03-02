@@ -1,0 +1,74 @@
+{
+    "19711": {
+        "country_code": "SZ",
+        "asn": "19711",
+        "description": "SWAZILAND PTC",
+        "handle": "SWAZINET"
+    },
+    "32398": {
+        "country_code": "SZ",
+        "asn": "32398",
+        "description": "Real Image Internet",
+        "handle": "REALNET-ASN-1"
+    },
+    "37510": {
+        "country_code": "SZ",
+        "asn": "37510",
+        "description": "Posix Swaziland",
+        "handle": "POSIX-SZ"
+    },
+    "37696": {
+        "country_code": "SZ",
+        "asn": "37696",
+        "description": "Mbabane Internet Exchange Association",
+        "handle": "MBABANE-IXP"
+    },
+    "327762": {
+        "country_code": "SZ",
+        "asn": "327762",
+        "description": "SWAZILAND PTC",
+        "handle": "SPTC"
+    },
+    "327765": {
+        "country_code": "SZ",
+        "asn": "327765",
+        "description": "Swazi MTN Ltd",
+        "handle": "SWAZIMTN-LTD"
+    },
+    "328169": {
+        "country_code": "SZ",
+        "asn": "328169",
+        "description": "Swazi Mobile Limited",
+        "handle": "SWAZI-MOBILE"
+    },
+    "328531": {
+        "country_code": "SZ",
+        "asn": "328531",
+        "description": "Eswatini Revenue Authority",
+        "handle": "ESWATINI-REVENUE-AUTHORITY-AS"
+    },
+    "328628": {
+        "country_code": "SZ",
+        "asn": "328628",
+        "description": "Wanderport Swaziland",
+        "handle": "WANDERPORT"
+    },
+    "328690": {
+        "country_code": "SZ",
+        "asn": "328690",
+        "description": "Royal Science and Technology Park",
+        "handle": "ROYAL-SCIENCE-AND-TECHNOLOGY-PARK"
+    },
+    "329095": {
+        "country_code": "SZ",
+        "asn": "329095",
+        "description": "AFRIMETRO INVESTMENTS (PROPRIETARY) LIMITED",
+        "handle": "AFRIMETRO-AS"
+    },
+    "329223": {
+        "country_code": "SZ",
+        "asn": "329223",
+        "description": "Chakaza Holdings (PTY) Ltd",
+        "handle": "CHAKAZA-HOLDINGS"
+    }
+}

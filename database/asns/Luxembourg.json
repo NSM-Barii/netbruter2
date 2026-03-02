@@ -1,0 +1,818 @@
+{
+    "2602": {
+        "country_code": "LU",
+        "asn": "2602",
+        "description": "Fondation RESTENA",
+        "handle": "RESTENA"
+    },
+    "3347": {
+        "country_code": "LU",
+        "asn": "3347",
+        "description": "Worldline Financial Services (Europe) S.A.",
+        "handle": "CETREL-LU-AS1"
+    },
+    "5577": {
+        "country_code": "LU",
+        "asn": "5577",
+        "description": "root SA",
+        "handle": "ROOT"
+    },
+    "6661": {
+        "country_code": "LU",
+        "asn": "6661",
+        "description": "POST Luxembourg",
+        "handle": "EPT-LU"
+    },
+    "6891": {
+        "country_code": "LU",
+        "asn": "6891",
+        "description": "Infeurope S.A.",
+        "handle": "INFEUROPE-AS"
+    },
+    "8632": {
+        "country_code": "LU",
+        "asn": "8632",
+        "description": "Luxembourg Online S.A.",
+        "handle": "LOL-AS"
+    },
+    "9008": {
+        "country_code": "LU",
+        "asn": "9008",
+        "description": "Visual Online S.A.",
+        "handle": "ASN-VO"
+    },
+    "12684": {
+        "country_code": "LU",
+        "asn": "12684",
+        "description": "SES ASTRA S.A.",
+        "handle": "SES-LUX-AS"
+    },
+    "13088": {
+        "country_code": "LU",
+        "asn": "13088",
+        "description": "Proximus Luxembourg S.A.",
+        "handle": "AS-ADTS-BE"
+    },
+    "15780": {
+        "country_code": "LU",
+        "asn": "15780",
+        "description": "Luxembourg Amateur Radio Union A.s.b.l.",
+        "handle": "LARU"
+    },
+    "15814": {
+        "country_code": "LU",
+        "asn": "15814",
+        "description": "Clearstream Services S.A.",
+        "handle": "AS15814"
+    },
+    "15965": {
+        "country_code": "LU",
+        "asn": "15965",
+        "description": "CEGECOM S.A.",
+        "handle": "AS15965"
+    },
+    "20501": {
+        "country_code": "LU",
+        "asn": "20501",
+        "description": "BANQUE DE LUXEMBOURG SA",
+        "handle": "BANQUE-DE-LUXEMBOURG-SA"
+    },
+    "21179": {
+        "country_code": "LU",
+        "asn": "21179",
+        "description": "Logwin AG",
+        "handle": "LOGWIN-AS"
+    },
+    "21484": {
+        "country_code": "LU",
+        "asn": "21484",
+        "description": "BT Global Services Luxembourg S.a.r.l",
+        "handle": "BT-LUXEMBOURG"
+    },
+    "24611": {
+        "country_code": "LU",
+        "asn": "24611",
+        "description": "Datacenter Luxembourg S.A.",
+        "handle": "DCLUX-AS"
+    },
+    "25094": {
+        "country_code": "LU",
+        "asn": "25094",
+        "description": "Centre des technologies de l'information de l'Etat",
+        "handle": "CTIE"
+    },
+    "25273": {
+        "country_code": "LU",
+        "asn": "25273",
+        "description": "Broadcasting Center Europe (an RTL Group Company)",
+        "handle": "BCELU"
+    },
+    "25367": {
+        "country_code": "LU",
+        "asn": "25367",
+        "description": "Proximus Luxembourg S.A.",
+        "handle": "AS-ADTS-LU"
+    },
+    "29467": {
+        "country_code": "LU",
+        "asn": "29467",
+        "description": "LUXNETWORK S.A.",
+        "handle": "LUXNETWORK"
+    },
+    "34655": {
+        "country_code": "LU",
+        "asn": "34655",
+        "description": "JWE S.a r.l.",
+        "handle": "DOCLER-AS"
+    },
+    "34683": {
+        "country_code": "LU",
+        "asn": "34683",
+        "description": "TELKEA TELECOM SA",
+        "handle": "AS-TELKEATELECOM"
+    },
+    "34769": {
+        "country_code": "LU",
+        "asn": "34769",
+        "description": "Orange Communications Luxembourg S.A",
+        "handle": "ORANGE"
+    },
+    "35446": {
+        "country_code": "LU",
+        "asn": "35446",
+        "description": "Netcompany - Intrasoft S.A.",
+        "handle": "ISOFT-AS"
+    },
+    "41273": {
+        "country_code": "LU",
+        "asn": "41273",
+        "description": "Antenne Collective Ettelbruck ASBL",
+        "handle": "ACETT"
+    },
+    "41589": {
+        "country_code": "LU",
+        "asn": "41589",
+        "description": "Lux Green Technologies Sarl",
+        "handle": "LGTECH-AS"
+    },
+    "42848": {
+        "country_code": "LU",
+        "asn": "42848",
+        "description": "European Commission",
+        "handle": "EC-AS"
+    },
+    "43375": {
+        "country_code": "LU",
+        "asn": "43375",
+        "description": "EUROPEAN PARLIAMENT",
+        "handle": "EP-AS"
+    },
+    "43719": {
+        "country_code": "LU",
+        "asn": "43719",
+        "description": "Kyndryl Luxembourg Sarl",
+        "handle": "KYNDRYL-LUXEMBOURG-AS"
+    },
+    "44295": {
+        "country_code": "LU",
+        "asn": "44295",
+        "description": "Lab Luxembourg S.A.",
+        "handle": "LAB-AS"
+    },
+    "44708": {
+        "country_code": "LU",
+        "asn": "44708",
+        "description": "PAUL WURTH S.A.",
+        "handle": "PAULWURTH-AS"
+    },
+    "44818": {
+        "country_code": "LU",
+        "asn": "44818",
+        "description": "LuxConnect S.A.",
+        "handle": "LUXCONNECT"
+    },
+    "47137": {
+        "country_code": "LU",
+        "asn": "47137",
+        "description": "CHAMP Cargosystems S.A.",
+        "handle": "CHAMP-CARGOSYSTEMS-AS"
+    },
+    "47944": {
+        "country_code": "LU",
+        "asn": "47944",
+        "description": "Chambre des Deputes Luxembourg",
+        "handle": "CHD-AS"
+    },
+    "48526": {
+        "country_code": "LU",
+        "asn": "48526",
+        "description": "Proximus Luxembourg S.A.",
+        "handle": "TANGO-PROXIMUS-NXT"
+    },
+    "48968": {
+        "country_code": "LU",
+        "asn": "48968",
+        "description": "dnx network sarl",
+        "handle": "DNXNETWORK-AS"
+    },
+    "49624": {
+        "country_code": "LU",
+        "asn": "49624",
+        "description": "LU-CIX Management G.I.E.",
+        "handle": "LUCIX"
+    },
+    "49813": {
+        "country_code": "LU",
+        "asn": "49813",
+        "description": "Innova Co S.A.R.L.",
+        "handle": "INNOVA"
+    },
+    "50184": {
+        "country_code": "LU",
+        "asn": "50184",
+        "description": "cybersecure S.a.r.l",
+        "handle": "SECURED-LU"
+    },
+    "50754": {
+        "country_code": "LU",
+        "asn": "50754",
+        "description": "C2D System House Luxembourg SA",
+        "handle": "C2D"
+    },
+    "51405": {
+        "country_code": "LU",
+        "asn": "51405",
+        "description": "Voipgate S.A.",
+        "handle": "MIXVOIPALT"
+    },
+    "51497": {
+        "country_code": "LU",
+        "asn": "51497",
+        "description": "Innova Co S.A.R.L.",
+        "handle": "INNOVA-LU"
+    },
+    "51966": {
+        "country_code": "LU",
+        "asn": "51966",
+        "description": "Fondation RESTENA",
+        "handle": "RESTENA-ANYCAST-AS"
+    },
+    "56665": {
+        "country_code": "LU",
+        "asn": "56665",
+        "description": "Proximus Luxembourg S.A.",
+        "handle": "TANGO-PROXIMUS-NXT"
+    },
+    "57205": {
+        "country_code": "LU",
+        "asn": "57205",
+        "description": "Telkea Soft S.A.",
+        "handle": "ARIANESOFT"
+    },
+    "57231": {
+        "country_code": "LU",
+        "asn": "57231",
+        "description": "Innova Co S.A.R.L.",
+        "handle": "INNOVA-AM"
+    },
+    "57644": {
+        "country_code": "LU",
+        "asn": "57644",
+        "description": "GhiShin S.A.",
+        "handle": "GHISHIN"
+    },
+    "58049": {
+        "country_code": "LU",
+        "asn": "58049",
+        "description": "Erinix Sarl",
+        "handle": "MTXS"
+    },
+    "59245": {
+        "country_code": "LU",
+        "asn": "59245",
+        "description": "G-Core Labs S.A",
+        "handle": "GCORELABSSA-AS-AP"
+    },
+    "60288": {
+        "country_code": "LU",
+        "asn": "60288",
+        "description": "Eurobase GmbH",
+        "handle": "EUROBASEGMBH"
+    },
+    "60319": {
+        "country_code": "LU",
+        "asn": "60319",
+        "description": "POST Luxembourg",
+        "handle": "POST-TELECOM-ASN"
+    },
+    "60391": {
+        "country_code": "LU",
+        "asn": "60391",
+        "description": "Papa-Razzi Media Group A.s.b.l.",
+        "handle": "PRMG"
+    },
+    "60497": {
+        "country_code": "LU",
+        "asn": "60497",
+        "description": "Uwe Zeidler",
+        "handle": "ICT-MEDIA"
+    },
+    "60525": {
+        "country_code": "LU",
+        "asn": "60525",
+        "description": "Innova Co S.A.R.L.",
+        "handle": "INNOVA"
+    },
+    "60725": {
+        "country_code": "LU",
+        "asn": "60725",
+        "description": "SES ASTRA S.A.",
+        "handle": "O3B-AS"
+    },
+    "60752": {
+        "country_code": "LU",
+        "asn": "60752",
+        "description": "AOSSIA S.A.",
+        "handle": "AOSSIA-AS"
+    },
+    "61327": {
+        "country_code": "LU",
+        "asn": "61327",
+        "description": "MTX Connect S. a r.l.",
+        "handle": "MTXC-AS"
+    },
+    "62192": {
+        "country_code": "LU",
+        "asn": "62192",
+        "description": "Compagnie Financiere Roger Zannier SA",
+        "handle": "EFFI-NET"
+    },
+    "62219": {
+        "country_code": "LU",
+        "asn": "62219",
+        "description": "MTX Connect S. a r.l.",
+        "handle": "MTXC-GRX"
+    },
+    "62285": {
+        "country_code": "LU",
+        "asn": "62285",
+        "description": "Canal+ Luxembourg Sarl",
+        "handle": "M7GROUP-NL"
+    },
+    "197264": {
+        "country_code": "LU",
+        "asn": "197264",
+        "description": "LUXNETWORK S.A.",
+        "handle": "LUXNETWORK-PRIVATE-OPERATOR"
+    },
+    "197415": {
+        "country_code": "LU",
+        "asn": "197415",
+        "description": "CROSSCOMM R SARL",
+        "handle": "CROSSINGTELECOM"
+    },
+    "197692": {
+        "country_code": "LU",
+        "asn": "197692",
+        "description": "Conostix S.A.",
+        "handle": "CONOSTIX"
+    },
+    "197869": {
+        "country_code": "LU",
+        "asn": "197869",
+        "description": "Luxembourg House of Cybersecurity",
+        "handle": "CIRCL"
+    },
+    "197925": {
+        "country_code": "LU",
+        "asn": "197925",
+        "description": "European Commission",
+        "handle": "EC-AS-TESTA"
+    },
+    "198095": {
+        "country_code": "LU",
+        "asn": "198095",
+        "description": "POST Telecom S.A.",
+        "handle": "EBRC"
+    },
+    "198097": {
+        "country_code": "LU",
+        "asn": "198097",
+        "description": "Skype Communications Sarl",
+        "handle": "XBOX"
+    },
+    "198191": {
+        "country_code": "LU",
+        "asn": "198191",
+        "description": "Global Media Systems S.A.",
+        "handle": "GMS"
+    },
+    "198290": {
+        "country_code": "LU",
+        "asn": "198290",
+        "description": "Global IT Services PSF SA",
+        "handle": "AS-GITS"
+    },
+    "199245": {
+        "country_code": "LU",
+        "asn": "199245",
+        "description": "PricewaterhouseCoopers Societe cooperative",
+        "handle": "PWCLU"
+    },
+    "199511": {
+        "country_code": "LU",
+        "asn": "199511",
+        "description": "dnx network sarl",
+        "handle": "DAGENCY"
+    },
+    "199524": {
+        "country_code": "LU",
+        "asn": "199524",
+        "description": "G-Core Labs S.A.",
+        "handle": "GCORE"
+    },
+    "200126": {
+        "country_code": "LU",
+        "asn": "200126",
+        "description": "Epic Games International S.a r.l.",
+        "handle": "EPICGA-B1-AS"
+    },
+    "200129": {
+        "country_code": "LU",
+        "asn": "200129",
+        "description": "LHISP S.A.",
+        "handle": "LHISP"
+    },
+    "200331": {
+        "country_code": "LU",
+        "asn": "200331",
+        "description": "IQ EQ (Luxembourg) S.A.",
+        "handle": "SGG"
+    },
+    "200617": {
+        "country_code": "LU",
+        "asn": "200617",
+        "description": "CEBI International SA",
+        "handle": "CEBI-INTERNATIONAL"
+    },
+    "200949": {
+        "country_code": "LU",
+        "asn": "200949",
+        "description": "European Public Prosecutor's Office",
+        "handle": "EPPO"
+    },
+    "201043": {
+        "country_code": "LU",
+        "asn": "201043",
+        "description": "Emma Technologies Sarl",
+        "handle": "EMMATECH"
+    },
+    "201187": {
+        "country_code": "LU",
+        "asn": "201187",
+        "description": "TELEDISTRIBUTION WALFERDANGE ASBL",
+        "handle": "ASWALFERDANGE"
+    },
+    "201441": {
+        "country_code": "LU",
+        "asn": "201441",
+        "description": "European Investment Bank",
+        "handle": "EIB-AS"
+    },
+    "201507": {
+        "country_code": "LU",
+        "asn": "201507",
+        "description": "Sardina Systems Sarl",
+        "handle": "SARDINA01"
+    },
+    "201554": {
+        "country_code": "LU",
+        "asn": "201554",
+        "description": "SES ASTRA S.A.",
+        "handle": "SES-PS"
+    },
+    "201740": {
+        "country_code": "LU",
+        "asn": "201740",
+        "description": "SODRU S.A.",
+        "handle": "SODRU-LU"
+    },
+    "201973": {
+        "country_code": "LU",
+        "asn": "201973",
+        "description": "European Court of Justice",
+        "handle": "CURIA-AS"
+    },
+    "202422": {
+        "country_code": "LU",
+        "asn": "202422",
+        "description": "G-Core Labs S.A.",
+        "handle": "GHOST"
+    },
+    "202438": {
+        "country_code": "LU",
+        "asn": "202438",
+        "description": "Encevo S.A",
+        "handle": "ENCEVO"
+    },
+    "203055": {
+        "country_code": "LU",
+        "asn": "203055",
+        "description": "Datacenter Luxembourg S.A.",
+        "handle": "MEGA-LIMITED-AS"
+    },
+    "203143": {
+        "country_code": "LU",
+        "asn": "203143",
+        "description": "Banque et Caisse d'Epargne de l'Etat Luxembourg",
+        "handle": "BCEE-LU"
+    },
+    "203398": {
+        "country_code": "LU",
+        "asn": "203398",
+        "description": "Rotarex S.A.",
+        "handle": "ROTAREX"
+    },
+    "203789": {
+        "country_code": "LU",
+        "asn": "203789",
+        "description": "LUXNETWORK S.A.",
+        "handle": "LUXNETWORK-INTERNATIONAL"
+    },
+    "203793": {
+        "country_code": "LU",
+        "asn": "203793",
+        "description": "OPG Online Personals Group AG",
+        "handle": "BE2"
+    },
+    "203944": {
+        "country_code": "LU",
+        "asn": "203944",
+        "description": "NTT Luxembourg PSF S.A.",
+        "handle": "LU-DIDATA"
+    },
+    "204025": {
+        "country_code": "LU",
+        "asn": "204025",
+        "description": "Centre de Telecommunications et Teleinformatiques Luxembourgeois s.a.",
+        "handle": "CMD"
+    },
+    "204279": {
+        "country_code": "LU",
+        "asn": "204279",
+        "description": "Eltrona Interdiffusion S.A.",
+        "handle": "ELTRONA"
+    },
+    "204299": {
+        "country_code": "LU",
+        "asn": "204299",
+        "description": "KPMG Audit S.a r.l.",
+        "handle": "KPMG-LU"
+    },
+    "204313": {
+        "country_code": "LU",
+        "asn": "204313",
+        "description": "Proximus Luxembourg S.A.",
+        "handle": "PROXIMUS-LUX-IPX"
+    },
+    "204403": {
+        "country_code": "LU",
+        "asn": "204403",
+        "description": "HOTCITY SA",
+        "handle": "HOTCITY"
+    },
+    "204803": {
+        "country_code": "LU",
+        "asn": "204803",
+        "description": "Societe Generale Luxembourg S.A.",
+        "handle": "SOCGEN-LU"
+    },
+    "205267": {
+        "country_code": "LU",
+        "asn": "205267",
+        "description": "MikeNetworks S.a r.l.-S.",
+        "handle": "NOVALINK-NETWORKS"
+    },
+    "206504": {
+        "country_code": "LU",
+        "asn": "206504",
+        "description": "RCARRE S.A.",
+        "handle": "RCARRE"
+    },
+    "206609": {
+        "country_code": "LU",
+        "asn": "206609",
+        "description": "Mixvoip S.A.",
+        "handle": "MIXVOIP"
+    },
+    "206610": {
+        "country_code": "LU",
+        "asn": "206610",
+        "description": "Mixvoip S.A.",
+        "handle": "MIXVOIP"
+    },
+    "206722": {
+        "country_code": "LU",
+        "asn": "206722",
+        "description": "LUXAIR Societe Luxembourgeoise de Navigation Aerienne S.A.",
+        "handle": "LUXAIR-AS"
+    },
+    "207188": {
+        "country_code": "LU",
+        "asn": "207188",
+        "description": "Clearstream Services S.A.",
+        "handle": "AS207188"
+    },
+    "207845": {
+        "country_code": "LU",
+        "asn": "207845",
+        "description": "Epic Games International S.a r.l.",
+        "handle": "EPICGA-DC5-AS"
+    },
+    "207870": {
+        "country_code": "LU",
+        "asn": "207870",
+        "description": "Epic Games International S.a r.l.",
+        "handle": "EPICGA-DC4-AS"
+    },
+    "207917": {
+        "country_code": "LU",
+        "asn": "207917",
+        "description": "CEL S.A.",
+        "handle": "CEL"
+    },
+    "208374": {
+        "country_code": "LU",
+        "asn": "208374",
+        "description": "LU-CIX Management G.I.E.",
+        "handle": "LU-CIX-2"
+    },
+    "209305": {
+        "country_code": "LU",
+        "asn": "209305",
+        "description": "Societe Nationale Des Chemins De Fer Luxembourgeois ET. D'UTIL. PUB",
+        "handle": "CFL"
+    },
+    "209333": {
+        "country_code": "LU",
+        "asn": "209333",
+        "description": "Osy Technologies S.a r.l.",
+        "handle": "OSY-TECHNOLOGIES"
+    },
+    "209879": {
+        "country_code": "LU",
+        "asn": "209879",
+        "description": "CEF (W) SA",
+        "handle": "YESSS"
+    },
+    "210103": {
+        "country_code": "LU",
+        "asn": "210103",
+        "description": "Cedric Dasnois",
+        "handle": "DDPO"
+    },
+    "210145": {
+        "country_code": "LU",
+        "asn": "210145",
+        "description": "Societe de la Bourse de Luxembourg S.A.",
+        "handle": "BOURSELUX"
+    },
+    "210559": {
+        "country_code": "LU",
+        "asn": "210559",
+        "description": "G-Core Labs S.A.",
+        "handle": "MOONAIR"
+    },
+    "210834": {
+        "country_code": "LU",
+        "asn": "210834",
+        "description": "LU-CIX Management G.I.E.",
+        "handle": "LU-CIX-IT"
+    },
+    "210872": {
+        "country_code": "LU",
+        "asn": "210872",
+        "description": "NATO SUPPORT AND PROCUREMENT AGENCY",
+        "handle": "NSPA"
+    },
+    "211018": {
+        "country_code": "LU",
+        "asn": "211018",
+        "description": "Administration Communale Luxemberg",
+        "handle": "VDL"
+    },
+    "211093": {
+        "country_code": "LU",
+        "asn": "211093",
+        "description": "Zitro International SARL",
+        "handle": "ZITRO"
+    },
+    "211435": {
+        "country_code": "LU",
+        "asn": "211435",
+        "description": "Trustteam Luxembourg S.A.",
+        "handle": "SYSTEMSOLUTIONS"
+    },
+    "211719": {
+        "country_code": "LU",
+        "asn": "211719",
+        "description": "CA Indosuez Wealth (Europe) S.A.",
+        "handle": "LU-CAINDOSUEZ"
+    },
+    "211999": {
+        "country_code": "LU",
+        "asn": "211999",
+        "description": "LuxProvide S.A.",
+        "handle": "LUXPROVIDE"
+    },
+    "212218": {
+        "country_code": "LU",
+        "asn": "212218",
+        "description": "Dennemeyer TechSys S.A.",
+        "handle": "LU-DENNEMEYER"
+    },
+    "212389": {
+        "country_code": "LU",
+        "asn": "212389",
+        "description": "MikeNetworks S.a r.l.-S.",
+        "handle": "MIKENETWORKS-AS2"
+    },
+    "212541": {
+        "country_code": "LU",
+        "asn": "212541",
+        "description": "MikeNetworks S.a r.l.-S.",
+        "handle": "MIKENETWORKSCORP-AS"
+    },
+    "212568": {
+        "country_code": "LU",
+        "asn": "212568",
+        "description": "David Moes",
+        "handle": "AS-LUXNET"
+    },
+    "212630": {
+        "country_code": "LU",
+        "asn": "212630",
+        "description": "Societe de l'aeroport de Luxembourg SA",
+        "handle": "AS-LUXAIRPORT"
+    },
+    "212814": {
+        "country_code": "LU",
+        "asn": "212814",
+        "description": "European Commission",
+        "handle": "EC-TAXUD-AS"
+    },
+    "212882": {
+        "country_code": "LU",
+        "asn": "212882",
+        "description": "dnx network sarl",
+        "handle": "DNXNETWORK"
+    },
+    "213216": {
+        "country_code": "LU",
+        "asn": "213216",
+        "description": "LuxChan S.A R.L.-S",
+        "handle": "LUXCHAN"
+    },
+    "213632": {
+        "country_code": "LU",
+        "asn": "213632",
+        "description": "e-LUX Mobile Telecommunication Services S.A.",
+        "handle": "ELX-ASN"
+    },
+    "213785": {
+        "country_code": "LU",
+        "asn": "213785",
+        "description": "Banque Internationale a Luxembourg societe anonyme",
+        "handle": "BIL-LU"
+    },
+    "214004": {
+        "country_code": "LU",
+        "asn": "214004",
+        "description": "Deloitte General Services sarl",
+        "handle": "DELOITTE-LU"
+    },
+    "214418": {
+        "country_code": "LU",
+        "asn": "214418",
+        "description": "ITech28 S.a.r.l.",
+        "handle": "ITECH28"
+    },
+    "214587": {
+        "country_code": "LU",
+        "asn": "214587",
+        "description": "Rulx Alexis",
+        "handle": "RULX-PHILOME-ALEXIS"
+    },
+    "215667": {
+        "country_code": "LU",
+        "asn": "215667",
+        "description": "Cyclop S.a r.l.",
+        "handle": "CYCLOP"
+    },
+    "215669": {
+        "country_code": "LU",
+        "asn": "215669",
+        "description": "La Provencale Sarl",
+        "handle": "LAPROVENCALESARL"
+    }
+}

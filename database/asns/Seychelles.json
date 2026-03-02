@@ -1,0 +1,560 @@
+{
+    "20180": {
+        "country_code": "SC",
+        "asn": "20180",
+        "description": "1tel S.A.",
+        "handle": "SA-1TEL"
+    },
+    "21242": {
+        "country_code": "SC",
+        "asn": "21242",
+        "description": "AfriTel Corporation",
+        "handle": "AFRITEL-AS"
+    },
+    "34046": {
+        "country_code": "SC",
+        "asn": "34046",
+        "description": "ShieldTelecom Ltd.",
+        "handle": "SHIELD-AS"
+    },
+    "34888": {
+        "country_code": "SC",
+        "asn": "34888",
+        "description": "Global-Data System IT Corporation",
+        "handle": "SWISSNETWORK01"
+    },
+    "36867": {
+        "country_code": "SC",
+        "asn": "36867",
+        "description": "Kokonet Ltd",
+        "handle": "KOKONET-BGP"
+    },
+    "36902": {
+        "country_code": "SC",
+        "asn": "36902",
+        "description": "Intelvision Ltd",
+        "handle": "ASINTELVISION"
+    },
+    "36958": {
+        "country_code": "SC",
+        "asn": "36958",
+        "description": "Cable & Wireless (Seychelles) Ltd",
+        "handle": "CWSEYCHELLES-AS"
+    },
+    "37343": {
+        "country_code": "SC",
+        "asn": "37343",
+        "description": "Telecom Seychelles Limited",
+        "handle": "AIRTELSEYCHELLES"
+    },
+    "37518": {
+        "country_code": "SC",
+        "asn": "37518",
+        "description": "Fiber Grid INC",
+        "handle": "FIBERGRID"
+    },
+    "37707": {
+        "country_code": "SC",
+        "asn": "37707",
+        "description": "SEYCHELLES INTERNET EXCHANGE POINT ASSOCIATION",
+        "handle": "SEY-IX-PEERING"
+    },
+    "37740": {
+        "country_code": "SC",
+        "asn": "37740",
+        "description": "IPTP Inc",
+        "handle": "AS-IPTP"
+    },
+    "42375": {
+        "country_code": "SC",
+        "asn": "42375",
+        "description": "iNet Ltd",
+        "handle": "INET-AS"
+    },
+    "42624": {
+        "country_code": "SC",
+        "asn": "42624",
+        "description": "Global-Data System IT Corporation",
+        "handle": "SWISSNETWORK02"
+    },
+    "42745": {
+        "country_code": "SC",
+        "asn": "42745",
+        "description": "Safe Value Limited",
+        "handle": "SAFEVALUE-AS"
+    },
+    "43180": {
+        "country_code": "SC",
+        "asn": "43180",
+        "description": "Trunk Networks LTD",
+        "handle": "TRUNKNETWORKS-AS"
+    },
+    "44372": {
+        "country_code": "SC",
+        "asn": "44372",
+        "description": "Dainsleif Ltd",
+        "handle": "DAINSLEIF"
+    },
+    "44893": {
+        "country_code": "SC",
+        "asn": "44893",
+        "description": "iNet Ltd",
+        "handle": "SI-AS"
+    },
+    "46805": {
+        "country_code": "SC",
+        "asn": "46805",
+        "description": "Angelnet Limited",
+        "handle": "AS-46805"
+    },
+    "47464": {
+        "country_code": "SC",
+        "asn": "47464",
+        "description": "Address Management Inc.",
+        "handle": "AM-AS"
+    },
+    "47739": {
+        "country_code": "SC",
+        "asn": "47739",
+        "description": "Aphrodite Limited",
+        "handle": "THEABYSS-AS"
+    },
+    "48780": {
+        "country_code": "SC",
+        "asn": "48780",
+        "description": "Fiber Ltd",
+        "handle": "FIBER48780-AS"
+    },
+    "49111": {
+        "country_code": "SC",
+        "asn": "49111",
+        "description": "iNet Ltd",
+        "handle": "INET-AS"
+    },
+    "51370": {
+        "country_code": "SC",
+        "asn": "51370",
+        "description": "Interlink Internet Services Limited",
+        "handle": "INTERLINK"
+    },
+    "51381": {
+        "country_code": "SC",
+        "asn": "51381",
+        "description": "1337TEAM LIMITED",
+        "handle": "ELITETEAM-PEERING-AZ1"
+    },
+    "51711": {
+        "country_code": "SC",
+        "asn": "51711",
+        "description": "iNet Ltd",
+        "handle": "INSYS-AS"
+    },
+    "51837": {
+        "country_code": "SC",
+        "asn": "51837",
+        "description": "iNet Ltd",
+        "handle": "NETEX-51837-AS"
+    },
+    "52208": {
+        "country_code": "SC",
+        "asn": "52208",
+        "description": "Fiber Ltd",
+        "handle": "FIBER-AS"
+    },
+    "56434": {
+        "country_code": "SC",
+        "asn": "56434",
+        "description": "Fiber Ltd",
+        "handle": "FIBER-AS"
+    },
+    "56873": {
+        "country_code": "SC",
+        "asn": "56873",
+        "description": "1337TEAM LIMITED",
+        "handle": "ELITETEAM-ANTIDDOS"
+    },
+    "56897": {
+        "country_code": "SC",
+        "asn": "56897",
+        "description": "iNet Ltd",
+        "handle": "IPC-AS"
+    },
+    "57858": {
+        "country_code": "SC",
+        "asn": "57858",
+        "description": "Angelnet Limited",
+        "handle": "AS57858"
+    },
+    "57972": {
+        "country_code": "SC",
+        "asn": "57972",
+        "description": "Angelnet Limited",
+        "handle": "JINGYUN"
+    },
+    "60039": {
+        "country_code": "SC",
+        "asn": "60039",
+        "description": "Geotelco Limited",
+        "handle": "GEOTELCO"
+    },
+    "60326": {
+        "country_code": "SC",
+        "asn": "60326",
+        "description": "0xDEADBEEF LTD",
+        "handle": "DEADBEEF-AS"
+    },
+    "60485": {
+        "country_code": "SC",
+        "asn": "60485",
+        "description": "Angelnet Limited",
+        "handle": "AS-60485"
+    },
+    "61336": {
+        "country_code": "SC",
+        "asn": "61336",
+        "description": "Island Servers LTD",
+        "handle": "ISLANDSERVERS-AS"
+    },
+    "63119": {
+        "country_code": "SC",
+        "asn": "63119",
+        "description": "Angelnet Limited",
+        "handle": "AS-63119"
+    },
+    "64494": {
+        "country_code": "SC",
+        "asn": "64494",
+        "description": "Fiber Ltd",
+        "handle": "FIBRE-AS"
+    },
+    "133772": {
+        "country_code": "SC",
+        "asn": "133772",
+        "description": "New Eagle Ltd",
+        "handle": "NELNET-AS-AP"
+    },
+    "134684": {
+        "country_code": "SC",
+        "asn": "134684",
+        "description": "NetConn Services Ltd",
+        "handle": "NSL-AS-AP"
+    },
+    "134979": {
+        "country_code": "SC",
+        "asn": "134979",
+        "description": "New Eagle Ltd",
+        "handle": "NELNET-AS-AP"
+    },
+    "139637": {
+        "country_code": "SC",
+        "asn": "139637",
+        "description": "SINO UP TECHNOLOGY LTD.",
+        "handle": "SUTL-AS-AP"
+    },
+    "198738": {
+        "country_code": "SC",
+        "asn": "198738",
+        "description": "Smarttelecom LTD",
+        "handle": "SMARTTELECOM-AS"
+    },
+    "199834": {
+        "country_code": "SC",
+        "asn": "199834",
+        "description": "IP Solus Inc",
+        "handle": "IPSOLUS"
+    },
+    "200195": {
+        "country_code": "SC",
+        "asn": "200195",
+        "description": "Verasel Inc.",
+        "handle": "VERASEL"
+    },
+    "200699": {
+        "country_code": "SC",
+        "asn": "200699",
+        "description": "Datashield Inc.",
+        "handle": "DATASHIELD-NL"
+    },
+    "201118": {
+        "country_code": "SC",
+        "asn": "201118",
+        "description": "Intelcom Group Ltd",
+        "handle": "INTELCOM"
+    },
+    "201162": {
+        "country_code": "SC",
+        "asn": "201162",
+        "description": "Bizmark Enterprises Ltd",
+        "handle": "ASBIZMARK"
+    },
+    "201744": {
+        "country_code": "SC",
+        "asn": "201744",
+        "description": "ByteFlare LTD",
+        "handle": "BYTEFLARE"
+    },
+    "201936": {
+        "country_code": "SC",
+        "asn": "201936",
+        "description": "REDSTART GROUP HOLDING LTD",
+        "handle": "RGHL1-AS"
+    },
+    "202412": {
+        "country_code": "SC",
+        "asn": "202412",
+        "description": "Omegatech LTD",
+        "handle": "OMEGATECH-AS"
+    },
+    "202425": {
+        "country_code": "SC",
+        "asn": "202425",
+        "description": "IP Volume inc",
+        "handle": "INT-NETWORK"
+    },
+    "202492": {
+        "country_code": "SC",
+        "asn": "202492",
+        "description": "SILVERHILL GROUP HOLDING LTD",
+        "handle": "SGHL1-AS"
+    },
+    "202959": {
+        "country_code": "SC",
+        "asn": "202959",
+        "description": "Lushu Limited",
+        "handle": "AS-LUSHU"
+    },
+    "203429": {
+        "country_code": "SC",
+        "asn": "203429",
+        "description": "Zeal Capital Market (Seychelles) Limited",
+        "handle": "ZEAL-GROUP-01"
+    },
+    "203538": {
+        "country_code": "SC",
+        "asn": "203538",
+        "description": "Social Discovery Ventures Ltd.",
+        "handle": "SODI-AS"
+    },
+    "203802": {
+        "country_code": "SC",
+        "asn": "203802",
+        "description": "Nexmont Services Ltd",
+        "handle": "NEXMONT-AS"
+    },
+    "204615": {
+        "country_code": "SC",
+        "asn": "204615",
+        "description": "IP Fiber Inc",
+        "handle": "IPFIB-AS"
+    },
+    "204740": {
+        "country_code": "SC",
+        "asn": "204740",
+        "description": "Noventix Ltd",
+        "handle": "NOVENTIX-AS"
+    },
+    "205083": {
+        "country_code": "SC",
+        "asn": "205083",
+        "description": "Datashield Inc.",
+        "handle": "DATASHIELD-FILTER"
+    },
+    "205125": {
+        "country_code": "SC",
+        "asn": "205125",
+        "description": "Network Management Ltd",
+        "handle": "IPV6-TUNNELBROKER-ASN"
+    },
+    "206264": {
+        "country_code": "SC",
+        "asn": "206264",
+        "description": "Amarutu Technology Ltd",
+        "handle": "AMARUTU-TECHNOLOGY"
+    },
+    "206317": {
+        "country_code": "SC",
+        "asn": "206317",
+        "description": "Aphrodite Group Ltd",
+        "handle": "APHRODITE2-AS"
+    },
+    "206776": {
+        "country_code": "SC",
+        "asn": "206776",
+        "description": "Ophidian Network Limited",
+        "handle": "OPHIDIAN"
+    },
+    "207557": {
+        "country_code": "SC",
+        "asn": "207557",
+        "description": "BeetleNetwork Ltd.",
+        "handle": "BEETLENETWORK"
+    },
+    "207616": {
+        "country_code": "SC",
+        "asn": "207616",
+        "description": "Altrosky Technology Ltd.",
+        "handle": "ALTROSKY"
+    },
+    "208220": {
+        "country_code": "SC",
+        "asn": "208220",
+        "description": "Offerhost Solutions Inc",
+        "handle": "OFFERHOSTINC"
+    },
+    "208273": {
+        "country_code": "SC",
+        "asn": "208273",
+        "description": "SecuNET INC",
+        "handle": "SECUNET"
+    },
+    "209101": {
+        "country_code": "SC",
+        "asn": "209101",
+        "description": "IP Vendetta Inc.",
+        "handle": "IPVENDETTAINC"
+    },
+    "209132": {
+        "country_code": "SC",
+        "asn": "209132",
+        "description": "Alviva Holding Limited",
+        "handle": "AS209132"
+    },
+    "209272": {
+        "country_code": "SC",
+        "asn": "209272",
+        "description": "Alviva Holding Limited",
+        "handle": "AS-ALVIVA"
+    },
+    "210334": {
+        "country_code": "SC",
+        "asn": "210334",
+        "description": "Synertech Network Inc.",
+        "handle": "SYNERTECH"
+    },
+    "210530": {
+        "country_code": "SC",
+        "asn": "210530",
+        "description": "IP Connect Inc",
+        "handle": "IP2CON"
+    },
+    "210848": {
+        "country_code": "SC",
+        "asn": "210848",
+        "description": "Telkom Internet LTD",
+        "handle": "TK-NET"
+    },
+    "211238": {
+        "country_code": "SC",
+        "asn": "211238",
+        "description": "Dedicated Cyber Limited",
+        "handle": "DCYBER"
+    },
+    "211323": {
+        "country_code": "SC",
+        "asn": "211323",
+        "description": "0xDEADBEEF LTD",
+        "handle": "MRSHEEPNET-AS"
+    },
+    "211632": {
+        "country_code": "SC",
+        "asn": "211632",
+        "description": "Internet Solutions & Innovations LTD.",
+        "handle": "ORG-ISI14-RIPE"
+    },
+    "211720": {
+        "country_code": "SC",
+        "asn": "211720",
+        "description": "Datashield Inc.",
+        "handle": "DATASHIELD-CH"
+    },
+    "211922": {
+        "country_code": "SC",
+        "asn": "211922",
+        "description": "IP Connect Inc",
+        "handle": "IPDISTR"
+    },
+    "213355": {
+        "country_code": "SC",
+        "asn": "213355",
+        "description": "HOST GLOBAL NETWORKS LTD",
+        "handle": "HGN-AS"
+    },
+    "213373": {
+        "country_code": "SC",
+        "asn": "213373",
+        "description": "IP Connect Inc",
+        "handle": "IPCONNECT"
+    },
+    "213438": {
+        "country_code": "SC",
+        "asn": "213438",
+        "description": "ColocaTel Inc.",
+        "handle": "COLOCATEL-INC"
+    },
+    "216206": {
+        "country_code": "SC",
+        "asn": "216206",
+        "description": "Aphrodite Group Ltd",
+        "handle": "APHRODITE-AS"
+    },
+    "216213": {
+        "country_code": "SC",
+        "asn": "216213",
+        "description": "Lexistar Alliance Ltd.",
+        "handle": "LEXISTAR"
+    },
+    "327709": {
+        "country_code": "SC",
+        "asn": "327709",
+        "description": "Telecom Seychelles Limited",
+        "handle": "AIRTEL-SC"
+    },
+    "327837": {
+        "country_code": "SC",
+        "asn": "327837",
+        "description": "SEYCHELLES INTERNET EXCHANGE POINT ASSOCIATION",
+        "handle": "SEY-IX-MANAGEMENT"
+    },
+    "327861": {
+        "country_code": "SC",
+        "asn": "327861",
+        "description": "Department of ICT Government of Seychelles",
+        "handle": "ICT-DEPARTMENT-SEYCHELLES-GOVT"
+    },
+    "328247": {
+        "country_code": "SC",
+        "asn": "328247",
+        "description": "xTom Limited",
+        "handle": "XTOMLIMITED"
+    },
+    "328383": {
+        "country_code": "SC",
+        "asn": "328383",
+        "description": "xTom Limited",
+        "handle": "XTOM-LIMITED-AS"
+    },
+    "328543": {
+        "country_code": "SC",
+        "asn": "328543",
+        "description": "Sun Network Company Limited",
+        "handle": "SUN-ASN"
+    },
+    "328703": {
+        "country_code": "SC",
+        "asn": "328703",
+        "description": "Seven Network Inc.",
+        "handle": "SEVEN-NETWORK-SEYCHELLES-AS"
+    },
+    "328958": {
+        "country_code": "SC",
+        "asn": "328958",
+        "description": "cybrscrb ltd.",
+        "handle": "CL21-AS"
+    },
+    "329225": {
+        "country_code": "SC",
+        "asn": "329225",
+        "description": "Lexistar Alliance Ltd.",
+        "handle": "LAL1-AS"
+    }
+}

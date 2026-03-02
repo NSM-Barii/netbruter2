@@ -1,0 +1,182 @@
+{
+    "22690": {
+        "country_code": "RW",
+        "asn": "22690",
+        "description": "Axiom Networks Ltd",
+        "handle": "AXIOMNET-AS"
+    },
+    "36890": {
+        "country_code": "RW",
+        "asn": "36890",
+        "description": "MTN Rwandacell",
+        "handle": "MTNRW-ASN"
+    },
+    "36934": {
+        "country_code": "RW",
+        "asn": "36934",
+        "description": "Broadband Systems Corporation",
+        "handle": "BROADBAND-SYSTEMS-CORPORATION"
+    },
+    "37006": {
+        "country_code": "RW",
+        "asn": "37006",
+        "description": "Liquid Telecommunication Rwanda Limited",
+        "handle": "LIQUIDTELECOMMUNICATIONRWANDA"
+    },
+    "37010": {
+        "country_code": "RW",
+        "asn": "37010",
+        "description": "National University of Rwanda",
+        "handle": "NATIONAL-UNIVERSITY-RWANDA"
+    },
+    "37124": {
+        "country_code": "RW",
+        "asn": "37124",
+        "description": "Airtel Rwanda Ltd",
+        "handle": "TIGO-RW-AS"
+    },
+    "37224": {
+        "country_code": "RW",
+        "asn": "37224",
+        "description": "Rwanda Internet Exchange Point (RINEX) c/o RICTA",
+        "handle": "RINEX"
+    },
+    "37228": {
+        "country_code": "RW",
+        "asn": "37228",
+        "description": "KT RWANDA NETWORK Ltd",
+        "handle": "OLLEH-RWANDA-NETWORKS"
+    },
+    "37547": {
+        "country_code": "RW",
+        "asn": "37547",
+        "description": "ISPA Ltd",
+        "handle": "ISPA-RW"
+    },
+    "37619": {
+        "country_code": "RW",
+        "asn": "37619",
+        "description": "Broadband Systems Corporation",
+        "handle": "BSC-AS"
+    },
+    "37654": {
+        "country_code": "RW",
+        "asn": "37654",
+        "description": "Rwanda Ministry of Education",
+        "handle": "RWEDNET-AS"
+    },
+    "37736": {
+        "country_code": "RW",
+        "asn": "37736",
+        "description": "MCSWEEN TELECOM Limited",
+        "handle": "MCSWEEN-TELECOM-LIMITED"
+    },
+    "37737": {
+        "country_code": "RW",
+        "asn": "37737",
+        "description": "MCSWEEN TELECOM Limited",
+        "handle": "MCSWEEN-TELECOM-LIMITED"
+    },
+    "60306": {
+        "country_code": "RW",
+        "asn": "60306",
+        "description": "MCSWEEN TELECOM Limited",
+        "handle": "MCSWEEN-TELECOM-LIMITED"
+    },
+    "60712": {
+        "country_code": "RW",
+        "asn": "60712",
+        "description": "MCSWEEN TELECOM Limited",
+        "handle": "MCSWEEN"
+    },
+    "327707": {
+        "country_code": "RW",
+        "asn": "327707",
+        "description": "Airtel Rwanda Ltd",
+        "handle": "AIRTEL-RW"
+    },
+    "327708": {
+        "country_code": "RW",
+        "asn": "327708",
+        "description": "Airtel Rwanda Ltd",
+        "handle": "AIRTEL-RW"
+    },
+    "327755": {
+        "country_code": "RW",
+        "asn": "327755",
+        "description": "KT RWANDA NETWORK Ltd",
+        "handle": "ORNL"
+    },
+    "327899": {
+        "country_code": "RW",
+        "asn": "327899",
+        "description": "Broadband Systems Corporation",
+        "handle": "BSC"
+    },
+    "328014": {
+        "country_code": "RW",
+        "asn": "328014",
+        "description": "Rwanda Internet Exchange Point (RINEX) c/o RICTA",
+        "handle": "RINEX"
+    },
+    "328180": {
+        "country_code": "RW",
+        "asn": "328180",
+        "description": "Bank of Kigali Ltd",
+        "handle": "BANK-OF-KIGALI-AS"
+    },
+    "328385": {
+        "country_code": "RW",
+        "asn": "328385",
+        "description": "Rwanda Revenue Authority (RRA)",
+        "handle": "RRA-AS"
+    },
+    "328864": {
+        "country_code": "RW",
+        "asn": "328864",
+        "description": "DEVELOPMENT BANK OF RWANDA (B.R.D) Plc",
+        "handle": "DBOR-AS"
+    },
+    "328922": {
+        "country_code": "RW",
+        "asn": "328922",
+        "description": "National Bank Of Rwanda",
+        "handle": "NBOR-AS"
+    },
+    "329104": {
+        "country_code": "RW",
+        "asn": "329104",
+        "description": "AOS LTD",
+        "handle": "AL14-AS"
+    },
+    "329146": {
+        "country_code": "RW",
+        "asn": "329146",
+        "description": "EQUITY BANK RWANDA PLC",
+        "handle": "EBRP1-AS"
+    },
+    "329189": {
+        "country_code": "RW",
+        "asn": "329189",
+        "description": "Rwanda Development Board(RDB)",
+        "handle": "RWANDA-DEVELOPMENT-BOARD"
+    },
+    "329406": {
+        "country_code": "RW",
+        "asn": "329406",
+        "description": "RWANDA SOCIAL SECURITY BOARD (RSSB)",
+        "handle": "RWANDA-SOCIAL-SECURITY-BOARD-RSSB"
+    },
+    "329508": {
+        "country_code": "RW",
+        "asn": "329508",
+        "description": "BPR BANK RWANDA PLC",
+        "handle": "BANK-RWANDA"
+    },
+    "329521": {
+        "country_code": "RW",
+        "asn": "329521",
+        "description": "Rwanda Internet Exchange Point (RINEX) c/o RICTA",
+        "handle": "RW-CCTLD"
+    }
+}

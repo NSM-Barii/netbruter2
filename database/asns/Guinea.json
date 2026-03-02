@@ -1,0 +1,116 @@
+{
+    "37067": {
+        "country_code": "GN",
+        "asn": "37067",
+        "description": "Minist\u00e8re des Postes T\u00e9l\u00e9communications et de l'Economie Num\u00e9rique",
+        "handle": "GUINEE-IXP-AS"
+    },
+    "37141": {
+        "country_code": "GN",
+        "asn": "37141",
+        "description": "ETI SA",
+        "handle": "ETI-AS"
+    },
+    "37427": {
+        "country_code": "GN",
+        "asn": "37427",
+        "description": "Cellcom Guinea",
+        "handle": "CELLCOM"
+    },
+    "37430": {
+        "country_code": "GN",
+        "asn": "37430",
+        "description": "VDC Telecom",
+        "handle": "VDCTELECOM"
+    },
+    "37461": {
+        "country_code": "GN",
+        "asn": "37461",
+        "description": "ORANGE GUINEE",
+        "handle": "ORANGE-GN"
+    },
+    "37612": {
+        "country_code": "GN",
+        "asn": "37612",
+        "description": "AREEBA GUINEE SA",
+        "handle": "AREEBA-GUINEA-AS"
+    },
+    "37665": {
+        "country_code": "GN",
+        "asn": "37665",
+        "description": "MOUNA Group Technology Sa.",
+        "handle": "MOUNA"
+    },
+    "37784": {
+        "country_code": "GN",
+        "asn": "37784",
+        "description": "Minist\u00e8re des Postes T\u00e9l\u00e9communications et de l'Economie Num\u00e9rique",
+        "handle": "GUINEE-CONAKRY-IXP-AS"
+    },
+    "328107": {
+        "country_code": "GN",
+        "asn": "328107",
+        "description": "GUILAB SA",
+        "handle": "GUILAB-AS"
+    },
+    "328108": {
+        "country_code": "GN",
+        "asn": "328108",
+        "description": "Minist\u00e8re des Postes T\u00e9l\u00e9communications et de l'Economie Num\u00e9rique",
+        "handle": "GUINEE-IXP-AS-MGMT"
+    },
+    "328244": {
+        "country_code": "GN",
+        "asn": "328244",
+        "description": "Skyvision Guinee SA",
+        "handle": "SKYVISION-GUINEE-AS"
+    },
+    "328398": {
+        "country_code": "GN",
+        "asn": "328398",
+        "description": "Minist\u00e8re des Postes T\u00e9l\u00e9communications et de l'Economie Num\u00e9rique",
+        "handle": "GUINEE-CONAKRY-IXP-AS"
+    },
+    "328899": {
+        "country_code": "GN",
+        "asn": "328899",
+        "description": "Afribone - Guinee SA",
+        "handle": "AFRIBONE-AS"
+    },
+    "328923": {
+        "country_code": "GN",
+        "asn": "328923",
+        "description": "KAGNY TECHNOLOGIE SARL U",
+        "handle": "KTSU-AS"
+    },
+    "328965": {
+        "country_code": "GN",
+        "asn": "328965",
+        "description": "Leader Net Services Sarl",
+        "handle": "LNSS1-AS"
+    },
+    "329293": {
+        "country_code": "GN",
+        "asn": "329293",
+        "description": "SOGEB SA",
+        "handle": "SOGEB-SA"
+    },
+    "329399": {
+        "country_code": "GN",
+        "asn": "329399",
+        "description": "Societe Cajutel Guinee - SARLU",
+        "handle": "SOCIETE-CAJUTEL"
+    },
+    "329509": {
+        "country_code": "GN",
+        "asn": "329509",
+        "description": "WEBB FONTAINE GUINEE SA",
+        "handle": "ASN-WEBB-FONTAINE-GUINEE"
+    },
+    "329594": {
+        "country_code": "GN",
+        "asn": "329594",
+        "description": "AVISTA GROUPE SA",
+        "handle": "AVISTA"
+    }
+}

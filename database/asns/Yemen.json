@@ -1,0 +1,38 @@
+{
+    "12486": {
+        "country_code": "YE",
+        "asn": "12486",
+        "description": "TeleYemen",
+        "handle": "TELEYEMEN"
+    },
+    "30873": {
+        "country_code": "YE",
+        "asn": "30873",
+        "description": "Public Telecommunication Corporation",
+        "handle": "PTC-YEMENNET"
+    },
+    "51140": {
+        "country_code": "YE",
+        "asn": "51140",
+        "description": "Yemen Oman United Telecom CJSC",
+        "handle": "MTN-YEMEN"
+    },
+    "201051": {
+        "country_code": "YE",
+        "asn": "201051",
+        "description": "Yemen Mobile Company Public Yemeni Joint-Stock Company",
+        "handle": "YM"
+    },
+    "204317": {
+        "country_code": "YE",
+        "asn": "204317",
+        "description": "Aden net",
+        "handle": "ADENNET"
+    },
+    "212951": {
+        "country_code": "YE",
+        "asn": "212951",
+        "description": "Yemen Co. for Mobile Telephony (Sabafon) CJSC",
+        "handle": "SABAON-AS"
+    }
+}

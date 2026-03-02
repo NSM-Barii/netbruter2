@@ -1,0 +1,26 @@
+{
+    "6752": {
+        "country_code": "AD",
+        "asn": "6752",
+        "description": "ANDORRA TELECOM S.A.U.",
+        "handle": "ANDORRA"
+    },
+    "198246": {
+        "country_code": "AD",
+        "asn": "198246",
+        "description": "TALTUM SOLUTIONS S.L.U",
+        "handle": "TALTUM"
+    },
+    "208280": {
+        "country_code": "AD",
+        "asn": "208280",
+        "description": "Ashway Technologies SL",
+        "handle": "ASHWAY"
+    },
+    "216096": {
+        "country_code": "AD",
+        "asn": "216096",
+        "description": "Alex Terrats Ciberseguretat SLU",
+        "handle": "SECUREPEAK"
+    }
+}

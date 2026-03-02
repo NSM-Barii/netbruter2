@@ -1,0 +1,68 @@
+{
+    "21271": {
+        "country_code": "ML",
+        "asn": "21271",
+        "description": "Society of Mali's Telecommunications (SOTELMA)",
+        "handle": "SOTELMABGP"
+    },
+    "30985": {
+        "country_code": "ML",
+        "asn": "30985",
+        "description": "Orange Mali SA",
+        "handle": "IKATELNET"
+    },
+    "36864": {
+        "country_code": "ML",
+        "asn": "36864",
+        "description": "AFRIBONE MALI SA",
+        "handle": "AFRIBONEMALI-AS"
+    },
+    "37108": {
+        "country_code": "ML",
+        "asn": "37108",
+        "description": "CEFIB Internet",
+        "handle": "CEFIB-AS"
+    },
+    "37776": {
+        "country_code": "ML",
+        "asn": "37776",
+        "description": "Autorit\u00e9 Malienne de Regulation des T\u00e9l\u00e9commincations/TIC et Postes (AMRTP)",
+        "handle": "MLIX-PEERING-AS"
+    },
+    "327722": {
+        "country_code": "ML",
+        "asn": "327722",
+        "description": "COMSATES SARL",
+        "handle": "COMSATES"
+    },
+    "328253": {
+        "country_code": "ML",
+        "asn": "328253",
+        "description": "ALPHA TELECOMMUNICATION MALI-ATEL-S.A",
+        "handle": "MALI-ATEL"
+    },
+    "328277": {
+        "country_code": "ML",
+        "asn": "328277",
+        "description": "Autorit\u00e9 Malienne de Regulation des T\u00e9l\u00e9commincations/TIC et Postes (AMRTP)",
+        "handle": "MLIX-MGMT-AS"
+    },
+    "328284": {
+        "country_code": "ML",
+        "asn": "328284",
+        "description": "Soci\u00e9t\u00e9 Malienne de Transmission et de Diffusion",
+        "handle": "SMDT1-AS"
+    },
+    "328318": {
+        "country_code": "ML",
+        "asn": "328318",
+        "description": "R\u00e9seau National d'Education et de Recherche du Mali - MALIREN",
+        "handle": "MALIREN-AS"
+    },
+    "329428": {
+        "country_code": "ML",
+        "asn": "329428",
+        "description": "Agence des Technologies de lnformation et de la Communication (AGETIC)",
+        "handle": "AGET"
+    }
+}

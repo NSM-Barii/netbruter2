@@ -1,0 +1,6326 @@
+{
+    "1237": {
+        "country_code": "KR",
+        "asn": "1237",
+        "description": "KISTI",
+        "handle": "KREONET-AS"
+    },
+    "1704": {
+        "country_code": "KR",
+        "asn": "1704",
+        "description": "Korea Advanced Institute of Science and Technology",
+        "handle": "KAIST-SEOUL-AS"
+    },
+    "1781": {
+        "country_code": "KR",
+        "asn": "1781",
+        "description": "Korea Advanced Institute of Science and Technology",
+        "handle": "KAIST-DAEJEON-AS"
+    },
+    "2385": {
+        "country_code": "KR",
+        "asn": "2385",
+        "description": "KRIBB(Korea Research Institute of Bioscience Biotechnology)",
+        "handle": "KRIBB-AS"
+    },
+    "2563": {
+        "country_code": "KR",
+        "asn": "2563",
+        "description": "Seoul Christain University",
+        "handle": "SCU-AS"
+    },
+    "3357": {
+        "country_code": "KR",
+        "asn": "3357",
+        "description": "VLAN24",
+        "handle": "VLAN24-AS"
+    },
+    "3559": {
+        "country_code": "KR",
+        "asn": "3559",
+        "description": "Korea Telecom",
+        "handle": "KORNET-AS"
+    },
+    "3608": {
+        "country_code": "KR",
+        "asn": "3608",
+        "description": "Korea Rural Community Corporation",
+        "handle": "KRC-AS"
+    },
+    "3748": {
+        "country_code": "KR",
+        "asn": "3748",
+        "description": "Electronics and Telecommunications Research Institute",
+        "handle": "ETRI-AS"
+    },
+    "3757": {
+        "country_code": "KR",
+        "asn": "3757",
+        "description": "Korea Telecom",
+        "handle": "TRAN-AS"
+    },
+    "3784": {
+        "country_code": "KR",
+        "asn": "3784",
+        "description": "Pohang University of Science and Technology",
+        "handle": "POSTECH-AS"
+    },
+    "3786": {
+        "country_code": "KR",
+        "asn": "3786",
+        "description": "LG DACOM Corporation",
+        "handle": "LGDACOM"
+    },
+    "3813": {
+        "country_code": "KR",
+        "asn": "3813",
+        "description": "Sogang University",
+        "handle": "SOGANG-AS"
+    },
+    "3825": {
+        "country_code": "KR",
+        "asn": "3825",
+        "description": "Korea Telecom",
+        "handle": "HANANET-AS"
+    },
+    "3976": {
+        "country_code": "KR",
+        "asn": "3976",
+        "description": "I.Net Technologies Inc.",
+        "handle": "ERX-NURI-ASN"
+    },
+    "4040": {
+        "country_code": "KR",
+        "asn": "4040",
+        "description": "Korea Telecom",
+        "handle": "KORNET-PS-AS"
+    },
+    "4060": {
+        "country_code": "KR",
+        "asn": "4060",
+        "description": "Korea Telecom",
+        "handle": "KORNET-DJ-AS"
+    },
+    "4202": {
+        "country_code": "KR",
+        "asn": "4202",
+        "description": "ottogi.co.kr",
+        "handle": "OTTOGI-AS"
+    },
+    "4660": {
+        "country_code": "KR",
+        "asn": "4660",
+        "description": "Hansol Telecom",
+        "handle": "HANSOL-AS"
+    },
+    "4663": {
+        "country_code": "KR",
+        "asn": "4663",
+        "description": "ELIMNET INC.",
+        "handle": "ELIMNET-AS"
+    },
+    "4664": {
+        "country_code": "KR",
+        "asn": "4664",
+        "description": "Shinbiro",
+        "handle": "HIT-KR-AP"
+    },
+    "4665": {
+        "country_code": "KR",
+        "asn": "4665",
+        "description": "Yonsei University",
+        "handle": "YONSEI-AS"
+    },
+    "4666": {
+        "country_code": "KR",
+        "asn": "4666",
+        "description": "Samsung Electronics",
+        "handle": "SAMSUNGELECTRONICS-AS"
+    },
+    "4668": {
+        "country_code": "KR",
+        "asn": "4668",
+        "description": "LG CNS",
+        "handle": "LGNET-AS"
+    },
+    "4669": {
+        "country_code": "KR",
+        "asn": "4669",
+        "description": "SOOP Co. Ltd",
+        "handle": "NOWCOM-AS"
+    },
+    "4670": {
+        "country_code": "KR",
+        "asn": "4670",
+        "description": "Shinbiro",
+        "handle": "HYUNDAI"
+    },
+    "4671": {
+        "country_code": "KR",
+        "asn": "4671",
+        "description": "KTOA",
+        "handle": "KTOA-AS"
+    },
+    "4753": {
+        "country_code": "KR",
+        "asn": "4753",
+        "description": "LG DACOM Corporation",
+        "handle": "LGDACOM4753"
+    },
+    "4756": {
+        "country_code": "KR",
+        "asn": "4756",
+        "description": "Korea National Police University",
+        "handle": "KNPU1208-AS"
+    },
+    "4766": {
+        "country_code": "KR",
+        "asn": "4766",
+        "description": "Korea Telecom",
+        "handle": "KIXS-AS"
+    },
+    "4790": {
+        "country_code": "KR",
+        "asn": "4790",
+        "description": "Chosun ilbo Inc.",
+        "handle": "CHOSUN-AS"
+    },
+    "4791": {
+        "country_code": "KR",
+        "asn": "4791",
+        "description": "JoongAng Ilbo",
+        "handle": "JOONGANGLIBO-AS"
+    },
+    "4792": {
+        "country_code": "KR",
+        "asn": "4792",
+        "description": "NATE Communications Corporation",
+        "handle": "NATECOMMS-AS"
+    },
+    "4793": {
+        "country_code": "KR",
+        "asn": "4793",
+        "description": "Hyundai Heavy Industries",
+        "handle": "HHIAS-AS"
+    },
+    "4961": {
+        "country_code": "KR",
+        "asn": "4961",
+        "description": "Daewoo Information Systems",
+        "handle": "DISC-AS"
+    },
+    "5051": {
+        "country_code": "KR",
+        "asn": "5051",
+        "description": "Korea Telecom",
+        "handle": "KOLNET-AS"
+    },
+    "6068": {
+        "country_code": "KR",
+        "asn": "6068",
+        "description": "LG CNS",
+        "handle": "LGRND-AS"
+    },
+    "6619": {
+        "country_code": "KR",
+        "asn": "6619",
+        "description": "SamsungSDS Inc.",
+        "handle": "SAMSUNGSDS-AS"
+    },
+    "7557": {
+        "country_code": "KR",
+        "asn": "7557",
+        "description": "Korea Trade Network",
+        "handle": "KTNET-AS"
+    },
+    "7558": {
+        "country_code": "KR",
+        "asn": "7558",
+        "description": "Korean Broadcasting System (KBS)",
+        "handle": "KBS-AS"
+    },
+    "7559": {
+        "country_code": "KR",
+        "asn": "7559",
+        "description": "donga.com",
+        "handle": "DONGA-NET-AS"
+    },
+    "7560": {
+        "country_code": "KR",
+        "asn": "7560",
+        "description": "Jeonbuk National University",
+        "handle": "CHONBUK-AS"
+    },
+    "7561": {
+        "country_code": "KR",
+        "asn": "7561",
+        "description": "Samsung Electronics Co.",
+        "handle": "SAMSUNGELEC-AS"
+    },
+    "7562": {
+        "country_code": "KR",
+        "asn": "7562",
+        "description": "HCN Dongjak",
+        "handle": "HCNSEOCHO-AS"
+    },
+    "7563": {
+        "country_code": "KR",
+        "asn": "7563",
+        "description": "Korea Internet Security Agency",
+        "handle": "EDS"
+    },
+    "7564": {
+        "country_code": "KR",
+        "asn": "7564",
+        "description": "Korea Atomic Energy Research Institute",
+        "handle": "KAERINET-AS"
+    },
+    "7620": {
+        "country_code": "KR",
+        "asn": "7620",
+        "description": "Toss Bank",
+        "handle": "TOSSBANK-AS"
+    },
+    "7622": {
+        "country_code": "KR",
+        "asn": "7622",
+        "description": "Korea Advanced Institute of Science and Technology",
+        "handle": "ASN-KAIST-SAL"
+    },
+    "7623": {
+        "country_code": "KR",
+        "asn": "7623",
+        "description": "Gyeongbuk Cable TV",
+        "handle": "HCNGYEONGBUK-AS"
+    },
+    "7624": {
+        "country_code": "KR",
+        "asn": "7624",
+        "description": "jeonju university",
+        "handle": "JEONJU-AS"
+    },
+    "7625": {
+        "country_code": "KR",
+        "asn": "7625",
+        "description": "Kakao Corp",
+        "handle": "DAUM-AS"
+    },
+    "7626": {
+        "country_code": "KR",
+        "asn": "7626",
+        "description": "SCOURTFAMILY",
+        "handle": "SCOURTFAMILY-AS"
+    },
+    "7627": {
+        "country_code": "KR",
+        "asn": "7627",
+        "description": "Seoul Broadcasting System",
+        "handle": "SBS-AS"
+    },
+    "9270": {
+        "country_code": "KR",
+        "asn": "9270",
+        "description": "National Infomation Society Agency",
+        "handle": "APAN-KR-AS"
+    },
+    "9271": {
+        "country_code": "KR",
+        "asn": "9271",
+        "description": "Wonkwang University",
+        "handle": "WKUNET-AS"
+    },
+    "9272": {
+        "country_code": "KR",
+        "asn": "9272",
+        "description": "HANSOFT INC.",
+        "handle": "HANCOMNET-AS"
+    },
+    "9273": {
+        "country_code": "KR",
+        "asn": "9273",
+        "description": "ITCENENTEC CO. LTD.",
+        "handle": "SICC-AS"
+    },
+    "9274": {
+        "country_code": "KR",
+        "asn": "9274",
+        "description": "Pusan National University",
+        "handle": "PUSAN-AS"
+    },
+    "9275": {
+        "country_code": "KR",
+        "asn": "9275",
+        "description": "Korea Astronomy Observatory",
+        "handle": "KASI-AS"
+    },
+    "9276": {
+        "country_code": "KR",
+        "asn": "9276",
+        "description": "JT Chinae Savings Bank",
+        "handle": "CHINAE-AS"
+    },
+    "9277": {
+        "country_code": "KR",
+        "asn": "9277",
+        "description": "SK Broadband Co Ltd",
+        "handle": "SKB-T-AS"
+    },
+    "9286": {
+        "country_code": "KR",
+        "asn": "9286",
+        "description": "KINX",
+        "handle": "KINXIDC-AS"
+    },
+    "9316": {
+        "country_code": "KR",
+        "asn": "9316",
+        "description": "DACOM-PUBNETPLUS",
+        "handle": "DACOM-PUBNETPLUS-AS"
+    },
+    "9317": {
+        "country_code": "KR",
+        "asn": "9317",
+        "description": "INHA UNIVERSITY",
+        "handle": "ITISNET-AS"
+    },
+    "9318": {
+        "country_code": "KR",
+        "asn": "9318",
+        "description": "SK Broadband Co Ltd",
+        "handle": "SKB-AS"
+    },
+    "9319": {
+        "country_code": "KR",
+        "asn": "9319",
+        "description": "HCN CHUNGBUK CABLE TV SYSTEMS",
+        "handle": "HCNCHUNGJU-AS"
+    },
+    "9320": {
+        "country_code": "KR",
+        "asn": "9320",
+        "description": "Supreme Court of Korea",
+        "handle": "BREGISTRY-AS"
+    },
+    "9321": {
+        "country_code": "KR",
+        "asn": "9321",
+        "description": "Hanyang University",
+        "handle": "HYUNET-AS"
+    },
+    "9322": {
+        "country_code": "KR",
+        "asn": "9322",
+        "description": "Institute of Information and Computing EWHA WOMANS UNIV.",
+        "handle": "EWHANET1-AS"
+    },
+    "9323": {
+        "country_code": "KR",
+        "asn": "9323",
+        "description": "DONGGUK University",
+        "handle": "DGUNET-AS"
+    },
+    "9452": {
+        "country_code": "KR",
+        "asn": "9452",
+        "description": "Korea University",
+        "handle": "KUNET-AS"
+    },
+    "9453": {
+        "country_code": "KR",
+        "asn": "9453",
+        "description": "SoongSil University",
+        "handle": "SOONGSIL-AS"
+    },
+    "9454": {
+        "country_code": "KR",
+        "asn": "9454",
+        "description": "Watch Tower Bible and Tract Society of Korea",
+        "handle": "WTKR-AS"
+    },
+    "9455": {
+        "country_code": "KR",
+        "asn": "9455",
+        "description": "KERIS",
+        "handle": "EDUNET-AS"
+    },
+    "9456": {
+        "country_code": "KR",
+        "asn": "9456",
+        "description": "POSCO",
+        "handle": "POSCO-AS"
+    },
+    "9457": {
+        "country_code": "KR",
+        "asn": "9457",
+        "description": "DREAMLINE CO.",
+        "handle": "DREAMX-AS"
+    },
+    "9458": {
+        "country_code": "KR",
+        "asn": "9458",
+        "description": "Public Officials Benefit Association",
+        "handle": "POBA-AS"
+    },
+    "9459": {
+        "country_code": "KR",
+        "asn": "9459",
+        "description": "Konkuk University",
+        "handle": "ASKONKUK"
+    },
+    "9487": {
+        "country_code": "KR",
+        "asn": "9487",
+        "description": "Korea Technology Finance Corporation",
+        "handle": "KTFC1120-AS"
+    },
+    "9488": {
+        "country_code": "KR",
+        "asn": "9488",
+        "description": "Seoul National University",
+        "handle": "SNU-AS"
+    },
+    "9489": {
+        "country_code": "KR",
+        "asn": "9489",
+        "description": "Korea Aerospace Research Institute",
+        "handle": "KARINET-AS"
+    },
+    "9490": {
+        "country_code": "KR",
+        "asn": "9490",
+        "description": "Oscar Enterprise",
+        "handle": "NIS-AS"
+    },
+    "9491": {
+        "country_code": "KR",
+        "asn": "9491",
+        "description": "NICE",
+        "handle": "NICEHOLDINGS-AS"
+    },
+    "9492": {
+        "country_code": "KR",
+        "asn": "9492",
+        "description": "Maeil Business Newspaper",
+        "handle": "MAEKYUNG-AS"
+    },
+    "9493": {
+        "country_code": "KR",
+        "asn": "9493",
+        "description": "HMC SECURITIES CO. LTD.",
+        "handle": "SHS-AS"
+    },
+    "9494": {
+        "country_code": "KR",
+        "asn": "9494",
+        "description": "National Infomation Society Agency",
+        "handle": "KOSINET-AS"
+    },
+    "9521": {
+        "country_code": "KR",
+        "asn": "9521",
+        "description": "Korea Automotive Technology Institute",
+        "handle": "KATECH-AS"
+    },
+    "9522": {
+        "country_code": "KR",
+        "asn": "9522",
+        "description": "Shinhan Securities Co. Ltd.",
+        "handle": "GOODCYBER-AS"
+    },
+    "9523": {
+        "country_code": "KR",
+        "asn": "9523",
+        "description": "Mokwon University",
+        "handle": "MOKWON-AS"
+    },
+    "9524": {
+        "country_code": "KR",
+        "asn": "9524",
+        "description": "Hyundai Autoever Corp.",
+        "handle": "HMC-AS"
+    },
+    "9525": {
+        "country_code": "KR",
+        "asn": "9525",
+        "description": "DB Securities Co. Ltd.",
+        "handle": "DBFI-AS"
+    },
+    "9526": {
+        "country_code": "KR",
+        "asn": "9526",
+        "description": "KOSCOM",
+        "handle": "KOSCOM-AS"
+    },
+    "9527": {
+        "country_code": "KR",
+        "asn": "9527",
+        "description": "VP",
+        "handle": "VP01-AS"
+    },
+    "9528": {
+        "country_code": "KR",
+        "asn": "9528",
+        "description": "Chungcheongbuk-do Education Research and Information Institute",
+        "handle": "CBE-AS"
+    },
+    "9529": {
+        "country_code": "KR",
+        "asn": "9529",
+        "description": "hyundaicapital",
+        "handle": "HYUNDAICARD-AS"
+    },
+    "9530": {
+        "country_code": "KR",
+        "asn": "9530",
+        "description": "SHINSEGAE I C Co. Ltd.",
+        "handle": "SHINSEGAE-AS"
+    },
+    "9531": {
+        "country_code": "KR",
+        "asn": "9531",
+        "description": "Gwangju Education Research Information Service",
+        "handle": "GEDU-AS"
+    },
+    "9532": {
+        "country_code": "KR",
+        "asn": "9532",
+        "description": "MIRAE ASSET SECURITIES CO. LTD.",
+        "handle": "SECURITIES-AS"
+    },
+    "9568": {
+        "country_code": "KR",
+        "asn": "9568",
+        "description": "KOREA INSTITUTE OF MACHINERY MATERIALS (KIMM)",
+        "handle": "KIMM-AS"
+    },
+    "9569": {
+        "country_code": "KR",
+        "asn": "9569",
+        "description": "SEOCHO CABLE SYSTEMS CO. LTD.",
+        "handle": "HCNSEOCHOCATV-AS"
+    },
+    "9570": {
+        "country_code": "KR",
+        "asn": "9570",
+        "description": "Jeonbuk Bank",
+        "handle": "JBBANK1-AS"
+    },
+    "9571": {
+        "country_code": "KR",
+        "asn": "9571",
+        "description": "INICIS Co. Ltd",
+        "handle": "INICIS-AS"
+    },
+    "9572": {
+        "country_code": "KR",
+        "asn": "9572",
+        "description": "Hankuk University of Foreign Studies Computer Center",
+        "handle": "HUFSNET-AS"
+    },
+    "9573": {
+        "country_code": "KR",
+        "asn": "9573",
+        "description": "KR Futures Inc",
+        "handle": "KRFUTURES-AS"
+    },
+    "9574": {
+        "country_code": "KR",
+        "asn": "9574",
+        "description": "Teachers Pension",
+        "handle": "TP-AS"
+    },
+    "9575": {
+        "country_code": "KR",
+        "asn": "9575",
+        "description": "KCTC",
+        "handle": "KCTC-AS"
+    },
+    "9576": {
+        "country_code": "KR",
+        "asn": "9576",
+        "description": "SookMyung Womens university",
+        "handle": "SOOKMYUNG-AS"
+    },
+    "9577": {
+        "country_code": "KR",
+        "asn": "9577",
+        "description": "KYOBO SECURITIES",
+        "handle": "KYOBOTRADE-AS"
+    },
+    "9578": {
+        "country_code": "KR",
+        "asn": "9578",
+        "description": "Cheiljedang.Co.Inc.",
+        "handle": "CJNET-AS"
+    },
+    "9579": {
+        "country_code": "KR",
+        "asn": "9579",
+        "description": "Shinyoung Securities CO . LTD.",
+        "handle": "SHINYOUNG-AS"
+    },
+    "9628": {
+        "country_code": "KR",
+        "asn": "9628",
+        "description": "TONGYANG LIFE INSURANCE CO. LTD.",
+        "handle": "TONGYANGLIFE-AS"
+    },
+    "9629": {
+        "country_code": "KR",
+        "asn": "9629",
+        "description": "HYUNDAICARD CO.",
+        "handle": "HYUNDAICAPITAL-AS"
+    },
+    "9630": {
+        "country_code": "KR",
+        "asn": "9630",
+        "description": "SK Securities Limited",
+        "handle": "WEBTRADE-AS"
+    },
+    "9631": {
+        "country_code": "KR",
+        "asn": "9631",
+        "description": "youngsan university",
+        "handle": "YSU-AS"
+    },
+    "9632": {
+        "country_code": "KR",
+        "asn": "9632",
+        "description": "SEOUL DAIRY CO-OP",
+        "handle": "SDCNET-AS"
+    },
+    "9633": {
+        "country_code": "KR",
+        "asn": "9633",
+        "description": "SUDOKWON Landfill Site Management Corp",
+        "handle": "SLC-AS"
+    },
+    "9634": {
+        "country_code": "KR",
+        "asn": "9634",
+        "description": "Shinhan Securities Co. Ltd.",
+        "handle": "SHNS-AS"
+    },
+    "9635": {
+        "country_code": "KR",
+        "asn": "9635",
+        "description": "Pusan University of Foreign Studies",
+        "handle": "PUFS-AS"
+    },
+    "9636": {
+        "country_code": "KR",
+        "asn": "9636",
+        "description": "NHNPayco",
+        "handle": "NHNPAYCO-AS"
+    },
+    "9637": {
+        "country_code": "KR",
+        "asn": "9637",
+        "description": "Korea Basic Science Institute",
+        "handle": "KBSI-AS"
+    },
+    "9638": {
+        "country_code": "KR",
+        "asn": "9638",
+        "description": "National Agricultural Cooperative federation",
+        "handle": "NH-AS"
+    },
+    "9639": {
+        "country_code": "KR",
+        "asn": "9639",
+        "description": "Artist Company Inc.",
+        "handle": "ARTISTCOMPANY-AS"
+    },
+    "9640": {
+        "country_code": "KR",
+        "asn": "9640",
+        "description": "Korea Internet Security Agency",
+        "handle": "KRCERT-AS"
+    },
+    "9641": {
+        "country_code": "KR",
+        "asn": "9641",
+        "description": "Korea Development Bank",
+        "handle": "KDB-AS"
+    },
+    "9642": {
+        "country_code": "KR",
+        "asn": "9642",
+        "description": "Korea Internet Security Agency",
+        "handle": "KISA"
+    },
+    "9643": {
+        "country_code": "KR",
+        "asn": "9643",
+        "description": "KICA",
+        "handle": "SIGNGATE-AS"
+    },
+    "9644": {
+        "country_code": "KR",
+        "asn": "9644",
+        "description": "SK Telecom",
+        "handle": "SKTELECOM-NET-AS"
+    },
+    "9645": {
+        "country_code": "KR",
+        "asn": "9645",
+        "description": "NEXT SECURITIES CORPORATION",
+        "handle": "HYUNDAIFUTURES-AS"
+    },
+    "9646": {
+        "country_code": "KR",
+        "asn": "9646",
+        "description": "eGIOS",
+        "handle": "EGIOS-AS"
+    },
+    "9647": {
+        "country_code": "KR",
+        "asn": "9647",
+        "description": "Seoul Metropolitan Government",
+        "handle": "SEOULMETRO-AS"
+    },
+    "9683": {
+        "country_code": "KR",
+        "asn": "9683",
+        "description": "Seoul Facilities Corporation",
+        "handle": "SFMC-AS"
+    },
+    "9684": {
+        "country_code": "KR",
+        "asn": "9684",
+        "description": "HANWHA Corp. Information Service div.",
+        "handle": "HANWHA-AS"
+    },
+    "9685": {
+        "country_code": "KR",
+        "asn": "9685",
+        "description": "KOAT",
+        "handle": "FACT-AS"
+    },
+    "9686": {
+        "country_code": "KR",
+        "asn": "9686",
+        "description": "SungKyunKwan University (SKKU)",
+        "handle": "SKKUNET-AS"
+    },
+    "9687": {
+        "country_code": "KR",
+        "asn": "9687",
+        "description": "Korea Advanced Institute of Science and Technology",
+        "handle": "ICU-AS"
+    },
+    "9688": {
+        "country_code": "KR",
+        "asn": "9688",
+        "description": "LG DACOM Corporation",
+        "handle": "BORANET-AS"
+    },
+    "9689": {
+        "country_code": "KR",
+        "asn": "9689",
+        "description": "SK Broadband Co Ltd",
+        "handle": "SKB-FCABLE-AS"
+    },
+    "9690": {
+        "country_code": "KR",
+        "asn": "9690",
+        "description": "SMARTRO",
+        "handle": "SMARTRONET"
+    },
+    "9691": {
+        "country_code": "KR",
+        "asn": "9691",
+        "description": "KYUNGSUNG UNIVERSITY",
+        "handle": "KYUNGSUNG-AS"
+    },
+    "9692": {
+        "country_code": "KR",
+        "asn": "9692",
+        "description": "Hanwha Investment Securities Co. Ltd.",
+        "handle": "HWS-AS"
+    },
+    "9693": {
+        "country_code": "KR",
+        "asn": "9693",
+        "description": "KFTC",
+        "handle": "KFTCCA-AS"
+    },
+    "9694": {
+        "country_code": "KR",
+        "asn": "9694",
+        "description": "Seokyung Cable Television Co.. Ltd.",
+        "handle": "SEOKYUNG-CATV-AS"
+    },
+    "9695": {
+        "country_code": "KR",
+        "asn": "9695",
+        "description": "KISTI",
+        "handle": "KOEXP-AS"
+    },
+    "9696": {
+        "country_code": "KR",
+        "asn": "9696",
+        "description": "Oscar Enterprise",
+        "handle": "EDAS-AS"
+    },
+    "9697": {
+        "country_code": "KR",
+        "asn": "9697",
+        "description": "LG HelloVision Corp.",
+        "handle": "CJHAEUNDAEGIJANG-AS"
+    },
+    "9698": {
+        "country_code": "KR",
+        "asn": "9698",
+        "description": "LG HelloVision Corp.",
+        "handle": "YOUNGDOONG-AS"
+    },
+    "9699": {
+        "country_code": "KR",
+        "asn": "9699",
+        "description": "Standard Chartered",
+        "handle": "KFB-AS"
+    },
+    "9700": {
+        "country_code": "KR",
+        "asn": "9700",
+        "description": "Korea Internet Security Agency",
+        "handle": "KRNIC-AS"
+    },
+    "9701": {
+        "country_code": "KR",
+        "asn": "9701",
+        "description": "viaweb",
+        "handle": "VIAWEB-AS"
+    },
+    "9702": {
+        "country_code": "KR",
+        "asn": "9702",
+        "description": "Shinhan Bank",
+        "handle": "CHB-AS"
+    },
+    "9703": {
+        "country_code": "KR",
+        "asn": "9703",
+        "description": "Shinhan Bank",
+        "handle": "SHB-AS"
+    },
+    "9704": {
+        "country_code": "KR",
+        "asn": "9704",
+        "description": "Korea Investment Trust Management Securities Co. LTD",
+        "handle": "DONGWON-AS"
+    },
+    "9705": {
+        "country_code": "KR",
+        "asn": "9705",
+        "description": "SK Co.",
+        "handle": "OKSKHOME-AS"
+    },
+    "9706": {
+        "country_code": "KR",
+        "asn": "9706",
+        "description": "BUSAN EDUCATION RESEARCH & INFORMATION INSTITUTE",
+        "handle": "PETISNET-AS"
+    },
+    "9707": {
+        "country_code": "KR",
+        "asn": "9707",
+        "description": "Korea Employment Information Management Agency",
+        "handle": "WORKNET-AS"
+    },
+    "9708": {
+        "country_code": "KR",
+        "asn": "9708",
+        "description": "Pukyong National University",
+        "handle": "PKNU-AS"
+    },
+    "9709": {
+        "country_code": "KR",
+        "asn": "9709",
+        "description": "KIS Information Communication Inc",
+        "handle": "KISVAN-AS"
+    },
+    "9710": {
+        "country_code": "KR",
+        "asn": "9710",
+        "description": "NeoWiz Corporation",
+        "handle": "NEOWIZ-AS"
+    },
+    "9711": {
+        "country_code": "KR",
+        "asn": "9711",
+        "description": "Kyonggi provin educational information research institute",
+        "handle": "KERINET-AS"
+    },
+    "9712": {
+        "country_code": "KR",
+        "asn": "9712",
+        "description": "INet Technologies Co. Ltd.",
+        "handle": "KPIN-AS"
+    },
+    "9753": {
+        "country_code": "KR",
+        "asn": "9753",
+        "description": "Dong-A Universirty",
+        "handle": "DAU-AS"
+    },
+    "9754": {
+        "country_code": "KR",
+        "asn": "9754",
+        "description": "CHOSUN UNIVERSITY",
+        "handle": "CSU-AS"
+    },
+    "9755": {
+        "country_code": "KR",
+        "asn": "9755",
+        "description": "Korea Internet Security Agency",
+        "handle": "RPKINET1"
+    },
+    "9756": {
+        "country_code": "KR",
+        "asn": "9756",
+        "description": "SK Broadband Co Ltd",
+        "handle": "SKB-CHEONANVITSSEN-AS"
+    },
+    "9757": {
+        "country_code": "KR",
+        "asn": "9757",
+        "description": "CMB DONDAEMOON BROADCASTING",
+        "handle": "CMBI-AS"
+    },
+    "9758": {
+        "country_code": "KR",
+        "asn": "9758",
+        "description": "abcle",
+        "handle": "PURPLESTONES-AS"
+    },
+    "9759": {
+        "country_code": "KR",
+        "asn": "9759",
+        "description": "HIINVESTMENT SECURITIES CO. LTD",
+        "handle": "CJCYBER-AS"
+    },
+    "9760": {
+        "country_code": "KR",
+        "asn": "9760",
+        "description": "Korea Telecom",
+        "handle": "KTIS"
+    },
+    "9761": {
+        "country_code": "KR",
+        "asn": "9761",
+        "description": "ASIANAIDT",
+        "handle": "ASIANA-AS"
+    },
+    "9762": {
+        "country_code": "KR",
+        "asn": "9762",
+        "description": "kt HCN Co. Ltd.",
+        "handle": "HCN-AS"
+    },
+    "9763": {
+        "country_code": "KR",
+        "asn": "9763",
+        "description": "KIC for Agriculture",
+        "handle": "AFFIS-AS"
+    },
+    "9764": {
+        "country_code": "KR",
+        "asn": "9764",
+        "description": "Kakao Corp",
+        "handle": "DAUM-NET"
+    },
+    "9766": {
+        "country_code": "KR",
+        "asn": "9766",
+        "description": "SHINHAN LIFE INSURANCE CO. LTD.",
+        "handle": "SHINHANLIFE1"
+    },
+    "9767": {
+        "country_code": "KR",
+        "asn": "9767",
+        "description": "DB Inc.",
+        "handle": "DONGBUIT-AS"
+    },
+    "9768": {
+        "country_code": "KR",
+        "asn": "9768",
+        "description": "Korea Telecom",
+        "handle": "PUBNET1-AS"
+    },
+    "9769": {
+        "country_code": "KR",
+        "asn": "9769",
+        "description": "Sejong University",
+        "handle": "SEJONG-AS"
+    },
+    "9770": {
+        "country_code": "KR",
+        "asn": "9770",
+        "description": "LG HelloVision Corp.",
+        "handle": "SPEEDONSTV-AS"
+    },
+    "9771": {
+        "country_code": "KR",
+        "asn": "9771",
+        "description": "Media Synnara",
+        "handle": "SYNNARA-AS"
+    },
+    "9772": {
+        "country_code": "KR",
+        "asn": "9772",
+        "description": "Jeonbuk Bank",
+        "handle": "JBBANK-AS"
+    },
+    "9773": {
+        "country_code": "KR",
+        "asn": "9773",
+        "description": "HancomWITH",
+        "handle": "HANCOMWITH-AS"
+    },
+    "9774": {
+        "country_code": "KR",
+        "asn": "9774",
+        "description": "Dongseo University",
+        "handle": "DSU-AS"
+    },
+    "9775": {
+        "country_code": "KR",
+        "asn": "9775",
+        "description": "Hannam University",
+        "handle": "HANNAM-AS"
+    },
+    "9776": {
+        "country_code": "KR",
+        "asn": "9776",
+        "description": "KOOKMIN BANK",
+        "handle": "KBSTAR"
+    },
+    "9777": {
+        "country_code": "KR",
+        "asn": "9777",
+        "description": "Gyeongju University",
+        "handle": "KJU-NET-AS"
+    },
+    "9778": {
+        "country_code": "KR",
+        "asn": "9778",
+        "description": "DAEJIN UNIVERSITY",
+        "handle": "DAEJIN-AS"
+    },
+    "9779": {
+        "country_code": "KR",
+        "asn": "9779",
+        "description": "NH FUTURES",
+        "handle": "NHFUTURES-AS"
+    },
+    "9780": {
+        "country_code": "KR",
+        "asn": "9780",
+        "description": "INJE UNIVERSITY",
+        "handle": "INJE-AS"
+    },
+    "9781": {
+        "country_code": "KR",
+        "asn": "9781",
+        "description": "GREEN CABLE TELEVISION STATION",
+        "handle": "GCS-AS"
+    },
+    "9782": {
+        "country_code": "KR",
+        "asn": "9782",
+        "description": "WooSong University",
+        "handle": "WOOSONGEDU"
+    },
+    "9783": {
+        "country_code": "KR",
+        "asn": "9783",
+        "description": "KoROAD",
+        "handle": "DLA-AS"
+    },
+    "9784": {
+        "country_code": "KR",
+        "asn": "9784",
+        "description": "kbcard",
+        "handle": "KOOKMINCARD1-AS"
+    },
+    "9840": {
+        "country_code": "KR",
+        "asn": "9840",
+        "description": "INSPIRE Integrated Resort",
+        "handle": "INSPIREKOREA-AS"
+    },
+    "9841": {
+        "country_code": "KR",
+        "asn": "9841",
+        "description": "Korea Financial Investment Association",
+        "handle": "KOFIANET-AS"
+    },
+    "9842": {
+        "country_code": "KR",
+        "asn": "9842",
+        "description": "LOTTE INNOVATE Co. Ltd",
+        "handle": "LDCC-AS"
+    },
+    "9843": {
+        "country_code": "KR",
+        "asn": "9843",
+        "description": "NHINFORMATIONSYSTEM",
+        "handle": "NACFFUTURES-AS"
+    },
+    "9844": {
+        "country_code": "KR",
+        "asn": "9844",
+        "description": "Duruan",
+        "handle": "HANINTERNET-AS"
+    },
+    "9845": {
+        "country_code": "KR",
+        "asn": "9845",
+        "description": "LG HelloVision Corp.",
+        "handle": "CJCKN-AS"
+    },
+    "9846": {
+        "country_code": "KR",
+        "asn": "9846",
+        "description": "KPN",
+        "handle": "FIRSTDATA-AS"
+    },
+    "9847": {
+        "country_code": "KR",
+        "asn": "9847",
+        "description": "Korea Securities Finance Corporation",
+        "handle": "KSFC-AS"
+    },
+    "9848": {
+        "country_code": "KR",
+        "asn": "9848",
+        "description": "SEJONG NETWORKS",
+        "handle": "SEJONGTELECOM-AS"
+    },
+    "9849": {
+        "country_code": "KR",
+        "asn": "9849",
+        "description": "Office of the president",
+        "handle": "CWD-AS"
+    },
+    "9850": {
+        "country_code": "KR",
+        "asn": "9850",
+        "description": "WOW-TV",
+        "handle": "WOWTV-AS"
+    },
+    "9851": {
+        "country_code": "KR",
+        "asn": "9851",
+        "description": "KOREA UNIVERSITY OF MEDIA ARTS",
+        "handle": "PRO-AS"
+    },
+    "9852": {
+        "country_code": "KR",
+        "asn": "9852",
+        "description": "Samil PwC",
+        "handle": "SAMIL-AS"
+    },
+    "9853": {
+        "country_code": "KR",
+        "asn": "9853",
+        "description": "GORayNet",
+        "handle": "RAYNET-AS"
+    },
+    "9854": {
+        "country_code": "KR",
+        "asn": "9854",
+        "description": "KTO",
+        "handle": "KTO-AS"
+    },
+    "9855": {
+        "country_code": "KR",
+        "asn": "9855",
+        "description": "Korean Federation of Community Credit Cooperatives",
+        "handle": "KCCWF-AS"
+    },
+    "9856": {
+        "country_code": "KR",
+        "asn": "9856",
+        "description": "WOORI Investment @ Securities",
+        "handle": "WOORIWM-AS"
+    },
+    "9857": {
+        "country_code": "KR",
+        "asn": "9857",
+        "description": "KOREA GAS CORPORATION",
+        "handle": "KOGAS-AS"
+    },
+    "9858": {
+        "country_code": "KR",
+        "asn": "9858",
+        "description": "Korea Internet Security Agency",
+        "handle": "KRNICNET"
+    },
+    "9859": {
+        "country_code": "KR",
+        "asn": "9859",
+        "description": "ChungCheong University",
+        "handle": "CCCC-AS"
+    },
+    "9860": {
+        "country_code": "KR",
+        "asn": "9860",
+        "description": "National Health Insurance Service",
+        "handle": "NHIS-AS"
+    },
+    "9861": {
+        "country_code": "KR",
+        "asn": "9861",
+        "description": "Vi Asset Management Co. Ltd",
+        "handle": "HIAM-AS"
+    },
+    "9862": {
+        "country_code": "KR",
+        "asn": "9862",
+        "description": "GORayNet",
+        "handle": "RAYNET1"
+    },
+    "9863": {
+        "country_code": "KR",
+        "asn": "9863",
+        "description": "Hana Insurance Co. Ltd.",
+        "handle": "EDUCAR-AS"
+    },
+    "9864": {
+        "country_code": "KR",
+        "asn": "9864",
+        "description": "Korea Securities Depository",
+        "handle": "KSDNET-AS"
+    },
+    "9865": {
+        "country_code": "KR",
+        "asn": "9865",
+        "description": "KECA Inc.",
+        "handle": "CROSSCERT-AS"
+    },
+    "9866": {
+        "country_code": "KR",
+        "asn": "9866",
+        "description": "Shinhan card",
+        "handle": "LGCAPITAL-AS"
+    },
+    "9867": {
+        "country_code": "KR",
+        "asn": "9867",
+        "description": "VISION College of Jeonju",
+        "handle": "JTC-AS"
+    },
+    "9868": {
+        "country_code": "KR",
+        "asn": "9868",
+        "description": "Catholic University of DAEGU",
+        "handle": "CUTH-AS"
+    },
+    "9869": {
+        "country_code": "KR",
+        "asn": "9869",
+        "description": "Shinhan EZ General Insurance Ltd",
+        "handle": "DIRECT1-AS"
+    },
+    "9870": {
+        "country_code": "KR",
+        "asn": "9870",
+        "description": "DONG-EUI UNIVERSITY",
+        "handle": "DEUNET-AS"
+    },
+    "9871": {
+        "country_code": "KR",
+        "asn": "9871",
+        "description": "Gyeong Sang Buk-Do Office of Education",
+        "handle": "KBE-AS"
+    },
+    "9884": {
+        "country_code": "KR",
+        "asn": "9884",
+        "description": "Singapore Telecom Korea Ltd",
+        "handle": "SINGTEL"
+    },
+    "9943": {
+        "country_code": "KR",
+        "asn": "9943",
+        "description": "KangNam CableTV",
+        "handle": "KNCTV-AS"
+    },
+    "9944": {
+        "country_code": "KR",
+        "asn": "9944",
+        "description": "LG Home shopping Inc.",
+        "handle": "LGESHOP-AS"
+    },
+    "9945": {
+        "country_code": "KR",
+        "asn": "9945",
+        "description": "yoido full gaspel church",
+        "handle": "YFGC-AS"
+    },
+    "9946": {
+        "country_code": "KR",
+        "asn": "9946",
+        "description": "KCTV JEJU BROADCASTING",
+        "handle": "CABLENET-AS"
+    },
+    "9947": {
+        "country_code": "KR",
+        "asn": "9947",
+        "description": "kt cloud Co. Ltd",
+        "handle": "KTC-AS"
+    },
+    "9948": {
+        "country_code": "KR",
+        "asn": "9948",
+        "description": "NICE TCM",
+        "handle": "NICEMONEY-AS"
+    },
+    "9949": {
+        "country_code": "KR",
+        "asn": "9949",
+        "description": "Hoseo University",
+        "handle": "HOSEO-AS"
+    },
+    "9950": {
+        "country_code": "KR",
+        "asn": "9950",
+        "description": "DACOM-PUBNETPLUS",
+        "handle": "PUBNETPLUS2-AS"
+    },
+    "9951": {
+        "country_code": "KR",
+        "asn": "9951",
+        "description": "AMWAYKOREA",
+        "handle": "AMWAYKOREA-AS"
+    },
+    "9952": {
+        "country_code": "KR",
+        "asn": "9952",
+        "description": "Hostway IDC",
+        "handle": "HOSTWAY-AS"
+    },
+    "9953": {
+        "country_code": "KR",
+        "asn": "9953",
+        "description": "Hyundai Engineering Construction Co. Ltd.(HDEC)",
+        "handle": "HDVENTURE-AS"
+    },
+    "9954": {
+        "country_code": "KR",
+        "asn": "9954",
+        "description": "Kunsan National University (KNU)",
+        "handle": "KUNSAN-AS"
+    },
+    "9955": {
+        "country_code": "KR",
+        "asn": "9955",
+        "description": "Baekseok University",
+        "handle": "CHEONAN-AS"
+    },
+    "9956": {
+        "country_code": "KR",
+        "asn": "9956",
+        "description": "KONGJU NATIONAL UNIVERSITY",
+        "handle": "KONGJU-AS"
+    },
+    "9957": {
+        "country_code": "KR",
+        "asn": "9957",
+        "description": "KINX",
+        "handle": "KINX-AS"
+    },
+    "9958": {
+        "country_code": "KR",
+        "asn": "9958",
+        "description": "kakaogames",
+        "handle": "KAKAOGAMES-AS"
+    },
+    "9959": {
+        "country_code": "KR",
+        "asn": "9959",
+        "description": "KOREA STOCK EXCHANGE",
+        "handle": "KOREASTOCKEXCHANGE-AS"
+    },
+    "9960": {
+        "country_code": "KR",
+        "asn": "9960",
+        "description": "IM Bank",
+        "handle": "DGB-AS"
+    },
+    "9961": {
+        "country_code": "KR",
+        "asn": "9961",
+        "description": "KoreaFederationOfSavingsBanks",
+        "handle": "FSB-AS"
+    },
+    "9962": {
+        "country_code": "KR",
+        "asn": "9962",
+        "description": "Sunchon National University",
+        "handle": "SUNCHON-AS"
+    },
+    "9963": {
+        "country_code": "KR",
+        "asn": "9963",
+        "description": "BITNET",
+        "handle": "NETROPY-AS"
+    },
+    "9964": {
+        "country_code": "KR",
+        "asn": "9964",
+        "description": "Korea Telecom",
+        "handle": "KORNET-MO-AS"
+    },
+    "9965": {
+        "country_code": "KR",
+        "asn": "9965",
+        "description": "ANSAN COLLEGE",
+        "handle": "ANSAN-AS"
+    },
+    "9966": {
+        "country_code": "KR",
+        "asn": "9966",
+        "description": "TaeguTec",
+        "handle": "TAEGUTEC-AS"
+    },
+    "9967": {
+        "country_code": "KR",
+        "asn": "9967",
+        "description": "kbcard",
+        "handle": "KOOKMINCARD2-AS"
+    },
+    "9968": {
+        "country_code": "KR",
+        "asn": "9968",
+        "description": "KYOBO Life Insurance Co. Ltd.",
+        "handle": "KYOBO-AS"
+    },
+    "9969": {
+        "country_code": "KR",
+        "asn": "9969",
+        "description": "Korea National University of Cultural Heritage",
+        "handle": "NUCH-AS"
+    },
+    "9970": {
+        "country_code": "KR",
+        "asn": "9970",
+        "description": "Korea University of Technology and Education",
+        "handle": "KUT-AS"
+    },
+    "9971": {
+        "country_code": "KR",
+        "asn": "9971",
+        "description": "SK Broadband Co Ltd",
+        "handle": "SKB-DONGDAEMUNCABLEINTERNET-AS"
+    },
+    "9972": {
+        "country_code": "KR",
+        "asn": "9972",
+        "description": "INTMANAGEMENT Corp.",
+        "handle": "INTINFRA-AS"
+    },
+    "9973": {
+        "country_code": "KR",
+        "asn": "9973",
+        "description": "BSITC",
+        "handle": "BSITC-AS"
+    },
+    "9974": {
+        "country_code": "KR",
+        "asn": "9974",
+        "description": "Korea Racing Association",
+        "handle": "KRA-AS"
+    },
+    "9975": {
+        "country_code": "KR",
+        "asn": "9975",
+        "description": "Gyeongsangbuk-do Education Research Institute",
+        "handle": "KBISE-AS"
+    },
+    "9976": {
+        "country_code": "KR",
+        "asn": "9976",
+        "description": "Namincheon Brodcasting Co. Ltd.",
+        "handle": "ICNDP-AS"
+    },
+    "9977": {
+        "country_code": "KR",
+        "asn": "9977",
+        "description": "Korea Internet Security Agency",
+        "handle": "KISACERT-AS"
+    },
+    "9978": {
+        "country_code": "KR",
+        "asn": "9978",
+        "description": "The University of Seoul",
+        "handle": "UOS-AS"
+    },
+    "9980": {
+        "country_code": "KR",
+        "asn": "9980",
+        "description": "LOTTE INNOVATE Co. Ltd",
+        "handle": "LDCC-AS"
+    },
+    "9981": {
+        "country_code": "KR",
+        "asn": "9981",
+        "description": "Saero Network Service LTD",
+        "handle": "SAERONET-AS"
+    },
+    "9982": {
+        "country_code": "KR",
+        "asn": "9982",
+        "description": "PAICHAI UNIVERSITY",
+        "handle": "PAICHAI-AS"
+    },
+    "10034": {
+        "country_code": "KR",
+        "asn": "10034",
+        "description": "SEOUL AGRICULTURAL MARINE PRODUCTS CORP.",
+        "handle": "GARAK-AS"
+    },
+    "10035": {
+        "country_code": "KR",
+        "asn": "10035",
+        "description": "Hyundai Department Store Co. Ltd.",
+        "handle": "HYUNDAIDEPT-AS"
+    },
+    "10036": {
+        "country_code": "KR",
+        "asn": "10036",
+        "description": "DLIVE",
+        "handle": "CNM-AS"
+    },
+    "10037": {
+        "country_code": "KR",
+        "asn": "10037",
+        "description": "EUGENE INVESTMENT FUTURES Co. Ltd.",
+        "handle": "EGFS-AS"
+    },
+    "10038": {
+        "country_code": "KR",
+        "asn": "10038",
+        "description": "NHNCLOUD",
+        "handle": "NHNCLOUDSERVICE-AS"
+    },
+    "10039": {
+        "country_code": "KR",
+        "asn": "10039",
+        "description": "Korea Health Industry Development Institute",
+        "handle": "KHIDI-AS"
+    },
+    "10040": {
+        "country_code": "KR",
+        "asn": "10040",
+        "description": "NICE Information Telecommunication Inc",
+        "handle": "NICEVAN-AS"
+    },
+    "10042": {
+        "country_code": "KR",
+        "asn": "10042",
+        "description": "SUSEONG COLLEGE",
+        "handle": "DPC-AS"
+    },
+    "10043": {
+        "country_code": "KR",
+        "asn": "10043",
+        "description": "Ministry of Science and ICT",
+        "handle": "MIC-AS"
+    },
+    "10044": {
+        "country_code": "KR",
+        "asn": "10044",
+        "description": "Rural Development Administration (RDA)",
+        "handle": "RDA-AS"
+    },
+    "10045": {
+        "country_code": "KR",
+        "asn": "10045",
+        "description": "Hanbat National University",
+        "handle": "TNUTNET-AS"
+    },
+    "10046": {
+        "country_code": "KR",
+        "asn": "10046",
+        "description": "HOWON UNIVERSITY",
+        "handle": "HOWON-AS"
+    },
+    "10048": {
+        "country_code": "KR",
+        "asn": "10048",
+        "description": "ILINKKOREA",
+        "handle": "BITTEL-AS"
+    },
+    "10049": {
+        "country_code": "KR",
+        "asn": "10049",
+        "description": "SK Co.",
+        "handle": "SKNET-AS"
+    },
+    "10050": {
+        "country_code": "KR",
+        "asn": "10050",
+        "description": "The National Library of Korea",
+        "handle": "NL-AS"
+    },
+    "10051": {
+        "country_code": "KR",
+        "asn": "10051",
+        "description": "Korea Post Information Center",
+        "handle": "MICNET-AS"
+    },
+    "10052": {
+        "country_code": "KR",
+        "asn": "10052",
+        "description": "Kyungpook National University",
+        "handle": "KNU-AS"
+    },
+    "10053": {
+        "country_code": "KR",
+        "asn": "10053",
+        "description": "yeonsung University",
+        "handle": "AYTCNET-AS"
+    },
+    "10054": {
+        "country_code": "KR",
+        "asn": "10054",
+        "description": "CMB Kwangju Broadcasting",
+        "handle": "CMBKJ-AS"
+    },
+    "10055": {
+        "country_code": "KR",
+        "asn": "10055",
+        "description": "Korean National Railroad Administration",
+        "handle": "KORAIL-AS"
+    },
+    "10056": {
+        "country_code": "KR",
+        "asn": "10056",
+        "description": "Hyundai Marin Fire Insurance",
+        "handle": "HDMF-AS"
+    },
+    "10058": {
+        "country_code": "KR",
+        "asn": "10058",
+        "description": "NACUFOK",
+        "handle": "CU-AS"
+    },
+    "10059": {
+        "country_code": "KR",
+        "asn": "10059",
+        "description": "LG DACOM KIDC",
+        "handle": "KIDC-AS"
+    },
+    "10060": {
+        "country_code": "KR",
+        "asn": "10060",
+        "description": "YONSEI UNIVERSITY HEALTH SYSTEM",
+        "handle": "YONSEI01-AS"
+    },
+    "10061": {
+        "country_code": "KR",
+        "asn": "10061",
+        "description": "Financial Supervisory Service",
+        "handle": "FSS-AS"
+    },
+    "10062": {
+        "country_code": "KR",
+        "asn": "10062",
+        "description": "Branksome Hall Asia",
+        "handle": "BHA-AS"
+    },
+    "10063": {
+        "country_code": "KR",
+        "asn": "10063",
+        "description": "Korea Meteorological Administration",
+        "handle": "KMA-AS"
+    },
+    "10064": {
+        "country_code": "KR",
+        "asn": "10064",
+        "description": "expernet",
+        "handle": "EXPERNET-AS"
+    },
+    "10065": {
+        "country_code": "KR",
+        "asn": "10065",
+        "description": "NICE TCM",
+        "handle": "NICEMONEY2-AS"
+    },
+    "10066": {
+        "country_code": "KR",
+        "asn": "10066",
+        "description": "LG HelloVision Corp.",
+        "handle": "GAYANET-AS"
+    },
+    "10067": {
+        "country_code": "KR",
+        "asn": "10067",
+        "description": "LG CNS",
+        "handle": "LGNET-CHINA-AS"
+    },
+    "10068": {
+        "country_code": "KR",
+        "asn": "10068",
+        "description": "ILINKKOREA",
+        "handle": "PRONET-AS"
+    },
+    "10069": {
+        "country_code": "KR",
+        "asn": "10069",
+        "description": "Seoul Metro",
+        "handle": "SMLINE-AS"
+    },
+    "10070": {
+        "country_code": "KR",
+        "asn": "10070",
+        "description": "KRISS SubDAEJONnetworks connected to backbone",
+        "handle": "KRISS-AS"
+    },
+    "10071": {
+        "country_code": "KR",
+        "asn": "10071",
+        "description": "anyang University",
+        "handle": "ANYANG-AS"
+    },
+    "10072": {
+        "country_code": "KR",
+        "asn": "10072",
+        "description": "Shinhan Bank",
+        "handle": "CHOHUNGBANK-AS"
+    },
+    "10073": {
+        "country_code": "KR",
+        "asn": "10073",
+        "description": "Korea National Open University",
+        "handle": "KNOU-AS"
+    },
+    "10088": {
+        "country_code": "KR",
+        "asn": "10088",
+        "description": "KWANGWOON UNIVERSITY",
+        "handle": "KWANGWOON-AS"
+    },
+    "10154": {
+        "country_code": "KR",
+        "asn": "10154",
+        "description": "DUNAMU",
+        "handle": "DUNAMU-AS"
+    },
+    "10155": {
+        "country_code": "KR",
+        "asn": "10155",
+        "description": "KOSME",
+        "handle": "KOSME-AS"
+    },
+    "10156": {
+        "country_code": "KR",
+        "asn": "10156",
+        "description": "Seoul National University of Education",
+        "handle": "SNUE-AS"
+    },
+    "10157": {
+        "country_code": "KR",
+        "asn": "10157",
+        "description": "NHN Bugs",
+        "handle": "NHNBUGS-AS"
+    },
+    "10158": {
+        "country_code": "KR",
+        "asn": "10158",
+        "description": "Kakao Corp",
+        "handle": "KAKAO-10158-AS"
+    },
+    "10159": {
+        "country_code": "KR",
+        "asn": "10159",
+        "description": "Korea Aerospace University",
+        "handle": "HAUNET-AS"
+    },
+    "10160": {
+        "country_code": "KR",
+        "asn": "10160",
+        "description": "KDDI KOREA",
+        "handle": "KDDIKOREA-AS"
+    },
+    "10161": {
+        "country_code": "KR",
+        "asn": "10161",
+        "description": "QIA",
+        "handle": "QIA-AS"
+    },
+    "10162": {
+        "country_code": "KR",
+        "asn": "10162",
+        "description": "SNUH",
+        "handle": "SNUH-AS"
+    },
+    "10163": {
+        "country_code": "KR",
+        "asn": "10163",
+        "description": "HANKOOK TIRE CO. LTD.",
+        "handle": "HANTA-AS"
+    },
+    "10164": {
+        "country_code": "KR",
+        "asn": "10164",
+        "description": "SK Broadband Co Ltd",
+        "handle": "SKB-GSD-AS"
+    },
+    "10165": {
+        "country_code": "KR",
+        "asn": "10165",
+        "description": "KOREA CUSTOMS SERVICE",
+        "handle": "CUSTOMS-AS"
+    },
+    "10166": {
+        "country_code": "KR",
+        "asn": "10166",
+        "description": "Korea Water Resources Corporation",
+        "handle": "KOWANET-AS"
+    },
+    "10167": {
+        "country_code": "KR",
+        "asn": "10167",
+        "description": "HANVIT BANK",
+        "handle": "HANVIT-AS"
+    },
+    "10168": {
+        "country_code": "KR",
+        "asn": "10168",
+        "description": "Standard Chartered",
+        "handle": "NSKFB-AS"
+    },
+    "10169": {
+        "country_code": "KR",
+        "asn": "10169",
+        "description": "AMOREPACIFIC",
+        "handle": "AMOREPACIFIC-AS"
+    },
+    "10170": {
+        "country_code": "KR",
+        "asn": "10170",
+        "description": "The Bank of Korea",
+        "handle": "BOKNET-AS"
+    },
+    "10171": {
+        "country_code": "KR",
+        "asn": "10171",
+        "description": "SKTelink",
+        "handle": "SKTELINK-AS"
+    },
+    "10172": {
+        "country_code": "KR",
+        "asn": "10172",
+        "description": "KYOBO BOOK CENTER",
+        "handle": "KBBOOK-AS"
+    },
+    "10173": {
+        "country_code": "KR",
+        "asn": "10173",
+        "description": "KSNET.Inc",
+        "handle": "KSNET-AS"
+    },
+    "10174": {
+        "country_code": "KR",
+        "asn": "10174",
+        "description": "Munhwa Broadcasting Corporation",
+        "handle": "MBC-AS"
+    },
+    "10175": {
+        "country_code": "KR",
+        "asn": "10175",
+        "description": "Kumho Cable",
+        "handle": "HCNKUMHO-AS"
+    },
+    "10176": {
+        "country_code": "KR",
+        "asn": "10176",
+        "description": "Daejon Metropolitan Office of Education",
+        "handle": "DJE-AS"
+    },
+    "10177": {
+        "country_code": "KR",
+        "asn": "10177",
+        "description": "FUBON HYUNDAI LIFE INSURANCE CO. LTD",
+        "handle": "GREENCROSSLIFEINSURANCE-AS"
+    },
+    "10178": {
+        "country_code": "KR",
+        "asn": "10178",
+        "description": "Kakaopay Corp",
+        "handle": "KAKAOPAY-AS"
+    },
+    "10179": {
+        "country_code": "KR",
+        "asn": "10179",
+        "description": "Daehan Investment Trust Securities",
+        "handle": "DAETOO-AS"
+    },
+    "10180": {
+        "country_code": "KR",
+        "asn": "10180",
+        "description": "Duksung Womens University",
+        "handle": "DUKSUNG-AS"
+    },
+    "10181": {
+        "country_code": "KR",
+        "asn": "10181",
+        "description": "Korea Register of Shipping",
+        "handle": "KRS-AS"
+    },
+    "10183": {
+        "country_code": "KR",
+        "asn": "10183",
+        "description": "Korea Culture Information Service Agency",
+        "handle": "KCISA-AS"
+    },
+    "10184": {
+        "country_code": "KR",
+        "asn": "10184",
+        "description": "Korean Federation of Community Credit Cooperatives",
+        "handle": "KFCCC-AS"
+    },
+    "10185": {
+        "country_code": "KR",
+        "asn": "10185",
+        "description": "Hana Bank Co.",
+        "handle": "HNB-AS"
+    },
+    "10186": {
+        "country_code": "KR",
+        "asn": "10186",
+        "description": "Korean Red Cross",
+        "handle": "REDCROSSNET-AS"
+    },
+    "10187": {
+        "country_code": "KR",
+        "asn": "10187",
+        "description": "Korea Information Society Developement Institute",
+        "handle": "KISDI-AS"
+    },
+    "10188": {
+        "country_code": "KR",
+        "asn": "10188",
+        "description": "Songdo Chadwick international School",
+        "handle": "CHADWICK-AS"
+    },
+    "10189": {
+        "country_code": "KR",
+        "asn": "10189",
+        "description": "Hyundai Movex",
+        "handle": "HMM-AS"
+    },
+    "10190": {
+        "country_code": "KR",
+        "asn": "10190",
+        "description": "Joongbu University",
+        "handle": "JB-AS"
+    },
+    "10191": {
+        "country_code": "KR",
+        "asn": "10191",
+        "description": "SEEGENE MEDICAL FOUNDATION",
+        "handle": "SGMF-AS"
+    },
+    "10192": {
+        "country_code": "KR",
+        "asn": "10192",
+        "description": "kiwoom Securities.co. Ltd",
+        "handle": "KIWOOM-AS"
+    },
+    "10193": {
+        "country_code": "KR",
+        "asn": "10193",
+        "description": "BUSANBANK",
+        "handle": "BUSANBANK-AS"
+    },
+    "10194": {
+        "country_code": "KR",
+        "asn": "10194",
+        "description": "Doosan Enerbility co. LTD.",
+        "handle": "DOOSANHEAVY-AS"
+    },
+    "10195": {
+        "country_code": "KR",
+        "asn": "10195",
+        "description": "HAIonNet",
+        "handle": "HAIONNET-AS"
+    },
+    "10196": {
+        "country_code": "KR",
+        "asn": "10196",
+        "description": "KOOKMIN BANK",
+        "handle": "HNCBWORLD-AS"
+    },
+    "10197": {
+        "country_code": "KR",
+        "asn": "10197",
+        "description": "Chonnam National University",
+        "handle": "CNU-AS"
+    },
+    "10198": {
+        "country_code": "KR",
+        "asn": "10198",
+        "description": "Catholic University of Pusan",
+        "handle": "CUP-AS"
+    },
+    "17567": {
+        "country_code": "KR",
+        "asn": "17567",
+        "description": "Airport Railroad Co ltd",
+        "handle": "IREX-AS"
+    },
+    "17568": {
+        "country_code": "KR",
+        "asn": "17568",
+        "description": "A CAPITAL",
+        "handle": "SCCK-AS"
+    },
+    "17569": {
+        "country_code": "KR",
+        "asn": "17569",
+        "description": "24si infocall co. ltd",
+        "handle": "CALL24-AS"
+    },
+    "17570": {
+        "country_code": "KR",
+        "asn": "17570",
+        "description": "SK Global co. Ltd",
+        "handle": "SKGLOBAL-AS"
+    },
+    "17571": {
+        "country_code": "KR",
+        "asn": "17571",
+        "description": "ncsoft",
+        "handle": "NCSOFT-AS"
+    },
+    "17573": {
+        "country_code": "KR",
+        "asn": "17573",
+        "description": "SK Broadband Co Ltd",
+        "handle": "SKB-MINS-AS"
+    },
+    "17574": {
+        "country_code": "KR",
+        "asn": "17574",
+        "description": "Seoul Metropolitan Government Computer Center",
+        "handle": "SMGCC-AS"
+    },
+    "17575": {
+        "country_code": "KR",
+        "asn": "17575",
+        "description": "Chung-Ang University",
+        "handle": "CAUNET-AS"
+    },
+    "17576": {
+        "country_code": "KR",
+        "asn": "17576",
+        "description": "National Research Foundation of Korea",
+        "handle": "KOSEF-AS"
+    },
+    "17577": {
+        "country_code": "KR",
+        "asn": "17577",
+        "description": "LG HelloVision Corp.",
+        "handle": "GIGAPASS-AS"
+    },
+    "17578": {
+        "country_code": "KR",
+        "asn": "17578",
+        "description": "CHEJU HALLA UNIVERSITY",
+        "handle": "HALLA-AS"
+    },
+    "17579": {
+        "country_code": "KR",
+        "asn": "17579",
+        "description": "KISTI",
+        "handle": "KREONET2-AS"
+    },
+    "17580": {
+        "country_code": "KR",
+        "asn": "17580",
+        "description": "National Pension Service",
+        "handle": "NPS02-AS"
+    },
+    "17581": {
+        "country_code": "KR",
+        "asn": "17581",
+        "description": "MIRAE ASSET SECURITIES CO. LTD.",
+        "handle": "MIRAEASSET-AS"
+    },
+    "17582": {
+        "country_code": "KR",
+        "asn": "17582",
+        "description": "Korea Investment Corporation",
+        "handle": "KIC-AS"
+    },
+    "17583": {
+        "country_code": "KR",
+        "asn": "17583",
+        "description": "Keumgang Cable Network",
+        "handle": "KCNNET-AS"
+    },
+    "17584": {
+        "country_code": "KR",
+        "asn": "17584",
+        "description": "Inchon Metropolitan Office Of Education",
+        "handle": "ICE-AS"
+    },
+    "17585": {
+        "country_code": "KR",
+        "asn": "17585",
+        "description": "Public Procurement Service The Republic of Korea",
+        "handle": "PPS-AS"
+    },
+    "17586": {
+        "country_code": "KR",
+        "asn": "17586",
+        "description": "LG HelloVision Corp.",
+        "handle": "NARATV-AS"
+    },
+    "17587": {
+        "country_code": "KR",
+        "asn": "17587",
+        "description": "HANSOL GYOYOOK",
+        "handle": "EDUHANSOL-AS"
+    },
+    "17588": {
+        "country_code": "KR",
+        "asn": "17588",
+        "description": "IM Bank",
+        "handle": "DAEGUBANK-AS"
+    },
+    "17589": {
+        "country_code": "KR",
+        "asn": "17589",
+        "description": "GABIA Inc.",
+        "handle": "GABIA-AS"
+    },
+    "17590": {
+        "country_code": "KR",
+        "asn": "17590",
+        "description": "KOCCA",
+        "handle": "KGPC-AS"
+    },
+    "17591": {
+        "country_code": "KR",
+        "asn": "17591",
+        "description": "National Research Foundation of Korea",
+        "handle": "KRFNET-AS"
+    },
+    "17592": {
+        "country_code": "KR",
+        "asn": "17592",
+        "description": "Industrial Bank of Korea",
+        "handle": "IBK-AS"
+    },
+    "17593": {
+        "country_code": "KR",
+        "asn": "17593",
+        "description": "NDS Coporation",
+        "handle": "NONGSHIM-AS"
+    },
+    "17594": {
+        "country_code": "KR",
+        "asn": "17594",
+        "description": "SMBS",
+        "handle": "SMBS-AS"
+    },
+    "17595": {
+        "country_code": "KR",
+        "asn": "17595",
+        "description": "Korea Institute of Nuclear Safety",
+        "handle": "KINSNET-AS"
+    },
+    "17596": {
+        "country_code": "KR",
+        "asn": "17596",
+        "description": "PINE ASSET SERVICE",
+        "handle": "CST21-AS"
+    },
+    "17597": {
+        "country_code": "KR",
+        "asn": "17597",
+        "description": "SK Broadband Co Ltd",
+        "handle": "SKB-SAEROMNET-AS"
+    },
+    "17598": {
+        "country_code": "KR",
+        "asn": "17598",
+        "description": "LG HelloVision Corp.",
+        "handle": "YBNTV-AS"
+    },
+    "17600": {
+        "country_code": "KR",
+        "asn": "17600",
+        "description": "KOREA RESOURCES RECOVERY AND REUTILIZATION CORPORATION",
+        "handle": "ENVICO-AS"
+    },
+    "17601": {
+        "country_code": "KR",
+        "asn": "17601",
+        "description": "KOREA CREDIT GUARANTEE FUND",
+        "handle": "KCGF-AS"
+    },
+    "17602": {
+        "country_code": "KR",
+        "asn": "17602",
+        "description": "CRETEC CHEGIM",
+        "handle": "CRETEC-AS"
+    },
+    "17603": {
+        "country_code": "KR",
+        "asn": "17603",
+        "description": "Kum oh National University of Technology (KNUT)",
+        "handle": "KUMOH-AS"
+    },
+    "17604": {
+        "country_code": "KR",
+        "asn": "17604",
+        "description": "KINX",
+        "handle": "KINX"
+    },
+    "17605": {
+        "country_code": "KR",
+        "asn": "17605",
+        "description": "KTNG Coporation",
+        "handle": "KTNG-AS"
+    },
+    "17606": {
+        "country_code": "KR",
+        "asn": "17606",
+        "description": "SM LINE CORPORATION",
+        "handle": "SMLNET-AS"
+    },
+    "17607": {
+        "country_code": "KR",
+        "asn": "17607",
+        "description": "Mirae Asset Life Insurance Co. Ltd",
+        "handle": "AS5665-AS"
+    },
+    "17608": {
+        "country_code": "KR",
+        "asn": "17608",
+        "description": "ABN",
+        "handle": "ABN-AS"
+    },
+    "17609": {
+        "country_code": "KR",
+        "asn": "17609",
+        "description": "Silla Univ",
+        "handle": "SILLAUNIVERSITY-AS"
+    },
+    "17610": {
+        "country_code": "KR",
+        "asn": "17610",
+        "description": "LG DACOM Corporation",
+        "handle": "FIVEGNET-AS"
+    },
+    "17611": {
+        "country_code": "KR",
+        "asn": "17611",
+        "description": "Korea Housing Finance Corporation",
+        "handle": "KHFC-AS"
+    },
+    "17612": {
+        "country_code": "KR",
+        "asn": "17612",
+        "description": "Rinnai Korea",
+        "handle": "RINNAI-AS"
+    },
+    "17613": {
+        "country_code": "KR",
+        "asn": "17613",
+        "description": "KTE Information and Communications",
+        "handle": "KTEINFO-AS"
+    },
+    "17614": {
+        "country_code": "KR",
+        "asn": "17614",
+        "description": "Geumgang University",
+        "handle": "GEUMGANG-AS"
+    },
+    "17615": {
+        "country_code": "KR",
+        "asn": "17615",
+        "description": "Chongju University",
+        "handle": "CJU-AS"
+    },
+    "17616": {
+        "country_code": "KR",
+        "asn": "17616",
+        "description": "barofn",
+        "handle": "BAROFN-AS"
+    },
+    "17832": {
+        "country_code": "KR",
+        "asn": "17832",
+        "description": "Korea Internet Security Agency",
+        "handle": "SIXNGIX"
+    },
+    "17833": {
+        "country_code": "KR",
+        "asn": "17833",
+        "description": "NCOM ltd.",
+        "handle": "NCOM-AS"
+    },
+    "17834": {
+        "country_code": "KR",
+        "asn": "17834",
+        "description": "WOORICARD",
+        "handle": "WOORICARD-AS"
+    },
+    "17835": {
+        "country_code": "KR",
+        "asn": "17835",
+        "description": "Hanwha Investment Securities Co. Ltd.",
+        "handle": "HISC1-AS"
+    },
+    "17836": {
+        "country_code": "KR",
+        "asn": "17836",
+        "description": "IBK Securities",
+        "handle": "IBKS-AS"
+    },
+    "17837": {
+        "country_code": "KR",
+        "asn": "17837",
+        "description": "NHN KCP Corp.",
+        "handle": "KCP-AS"
+    },
+    "17838": {
+        "country_code": "KR",
+        "asn": "17838",
+        "description": "HYUNDAI HOMESHOPPING",
+        "handle": "E-HYUNDAI-AS"
+    },
+    "17839": {
+        "country_code": "KR",
+        "asn": "17839",
+        "description": "LG HelloVision Corp.",
+        "handle": "DREAMPLUS-AS"
+    },
+    "17840": {
+        "country_code": "KR",
+        "asn": "17840",
+        "description": "KECA Inc.",
+        "handle": "KOREACERT-AS"
+    },
+    "17841": {
+        "country_code": "KR",
+        "asn": "17841",
+        "description": "NATIONAL INFORMATION RESOURCES SERVICE",
+        "handle": "NCIA-AS"
+    },
+    "17842": {
+        "country_code": "KR",
+        "asn": "17842",
+        "description": "Kangwon Land Inc.",
+        "handle": "KANGWONLAND-AS"
+    },
+    "17843": {
+        "country_code": "KR",
+        "asn": "17843",
+        "description": "Sahmyook University",
+        "handle": "SAHMYOOK-AS"
+    },
+    "17844": {
+        "country_code": "KR",
+        "asn": "17844",
+        "description": "National Pension Service",
+        "handle": "NPS01-AS"
+    },
+    "17845": {
+        "country_code": "KR",
+        "asn": "17845",
+        "description": "Gyeonggi Technopark",
+        "handle": "GTP-AS"
+    },
+    "17846": {
+        "country_code": "KR",
+        "asn": "17846",
+        "description": "SK Broadband Co Ltd",
+        "handle": "SKB-H-AS"
+    },
+    "17847": {
+        "country_code": "KR",
+        "asn": "17847",
+        "description": "Financial Supervisory Service",
+        "handle": "FSS-AS"
+    },
+    "17848": {
+        "country_code": "KR",
+        "asn": "17848",
+        "description": "INAMES",
+        "handle": "INAMES-AS"
+    },
+    "17849": {
+        "country_code": "KR",
+        "asn": "17849",
+        "description": "SK Broadband Co Ltd",
+        "handle": "SKB-GINAMHANVIT-AS"
+    },
+    "17850": {
+        "country_code": "KR",
+        "asn": "17850",
+        "description": "Korea Federation of Banks",
+        "handle": "KFBBLOCKCHAIN-AS"
+    },
+    "17851": {
+        "country_code": "KR",
+        "asn": "17851",
+        "description": "KPETRO",
+        "handle": "KPETRO-AS"
+    },
+    "17852": {
+        "country_code": "KR",
+        "asn": "17852",
+        "description": "HANWHALIFE",
+        "handle": "KOREALIFE-AS"
+    },
+    "17853": {
+        "country_code": "KR",
+        "asn": "17853",
+        "description": "LGTELECOM",
+        "handle": "LGTELECOM-AS"
+    },
+    "17854": {
+        "country_code": "KR",
+        "asn": "17854",
+        "description": "SK Broadband Co Ltd",
+        "handle": "SKBCABLELINE-AS"
+    },
+    "17855": {
+        "country_code": "KR",
+        "asn": "17855",
+        "description": "HANNET Co. Ltd.",
+        "handle": "HANENT-AS"
+    },
+    "17856": {
+        "country_code": "KR",
+        "asn": "17856",
+        "description": "Konyang University",
+        "handle": "KONYANG-AS"
+    },
+    "17857": {
+        "country_code": "KR",
+        "asn": "17857",
+        "description": "SK Broadband Co Ltd",
+        "handle": "SKB-NAKDONGDIGITALBUSANNET-AS"
+    },
+    "17858": {
+        "country_code": "KR",
+        "asn": "17858",
+        "description": "LG POWERCOMM",
+        "handle": "POWERVIS-AS"
+    },
+    "17859": {
+        "country_code": "KR",
+        "asn": "17859",
+        "description": "NICEINFOMATIONSERVICE",
+        "handle": "CBNET-AS"
+    },
+    "17860": {
+        "country_code": "KR",
+        "asn": "17860",
+        "description": "Webzen Inc.",
+        "handle": "WEBZEN-AS"
+    },
+    "17861": {
+        "country_code": "KR",
+        "asn": "17861",
+        "description": "KyungNam College of Information Technology",
+        "handle": "KIT-AS"
+    },
+    "17862": {
+        "country_code": "KR",
+        "asn": "17862",
+        "description": "Kangwon National University",
+        "handle": "KWNU-AS"
+    },
+    "17863": {
+        "country_code": "KR",
+        "asn": "17863",
+        "description": "Yonhap News Agency",
+        "handle": "YONHAPNEWS-AS"
+    },
+    "17864": {
+        "country_code": "KR",
+        "asn": "17864",
+        "description": "SK Broadband Co Ltd",
+        "handle": "SKB-TBROAD-HANVIT-AS"
+    },
+    "17865": {
+        "country_code": "KR",
+        "asn": "17865",
+        "description": "Supreme Court of Korea",
+        "handle": "SCOURT-AS"
+    },
+    "17866": {
+        "country_code": "KR",
+        "asn": "17866",
+        "description": "Korea Institute of Science and Technology",
+        "handle": "KISTNET-AS"
+    },
+    "17867": {
+        "country_code": "KR",
+        "asn": "17867",
+        "description": "KOREA BANKING INSTITUTE",
+        "handle": "KBINET-AS"
+    },
+    "17868": {
+        "country_code": "KR",
+        "asn": "17868",
+        "description": "Hyupsung University",
+        "handle": "HYUPSUNG-NET-AS"
+    },
+    "17869": {
+        "country_code": "KR",
+        "asn": "17869",
+        "description": "Supreme Court of Korea",
+        "handle": "REGISTRY-AS"
+    },
+    "17870": {
+        "country_code": "KR",
+        "asn": "17870",
+        "description": "Kyung Hee University",
+        "handle": "KHU-AS"
+    },
+    "17871": {
+        "country_code": "KR",
+        "asn": "17871",
+        "description": "SK Broadband Co Ltd",
+        "handle": "SKB-DIGITALBUSANDONGNAM-AS"
+    },
+    "17872": {
+        "country_code": "KR",
+        "asn": "17872",
+        "description": "SUNGSHIN WOMENS UNIVERSITY",
+        "handle": "SUNGSHIN-AS"
+    },
+    "17873": {
+        "country_code": "KR",
+        "asn": "17873",
+        "description": "MIRAE ASSET SECURITIES CO. LTD.",
+        "handle": "BESTEZ-AS"
+    },
+    "17874": {
+        "country_code": "KR",
+        "asn": "17874",
+        "description": "National Pension Corporation",
+        "handle": "NPC-AS"
+    },
+    "17875": {
+        "country_code": "KR",
+        "asn": "17875",
+        "description": "ec-bank",
+        "handle": "ECBANK-AS"
+    },
+    "17876": {
+        "country_code": "KR",
+        "asn": "17876",
+        "description": "Ahnlab Inc.",
+        "handle": "AHNLAB-AS"
+    },
+    "17877": {
+        "country_code": "KR",
+        "asn": "17877",
+        "description": "KX NexG Co. LTD",
+        "handle": "NEXG-AS"
+    },
+    "17878": {
+        "country_code": "KR",
+        "asn": "17878",
+        "description": "DREAMMARK1",
+        "handle": "MARK1-AS"
+    },
+    "17879": {
+        "country_code": "KR",
+        "asn": "17879",
+        "description": "Rural Development Administration (RDA)",
+        "handle": "RDA2014"
+    },
+    "17881": {
+        "country_code": "KR",
+        "asn": "17881",
+        "description": "Inet Hosting Inc.",
+        "handle": "INETHOSTING-AS"
+    },
+    "18023": {
+        "country_code": "KR",
+        "asn": "18023",
+        "description": "Korea Maritime and Ocean University",
+        "handle": "KMU-AS"
+    },
+    "18026": {
+        "country_code": "KR",
+        "asn": "18026",
+        "description": "JEJU NATIONAL UNIVERSITY",
+        "handle": "CHEJU-AS"
+    },
+    "18027": {
+        "country_code": "KR",
+        "asn": "18027",
+        "description": "Namseoul university",
+        "handle": "NSU-AS"
+    },
+    "18028": {
+        "country_code": "KR",
+        "asn": "18028",
+        "description": "GyeongSang National University",
+        "handle": "GSNU-AS"
+    },
+    "18029": {
+        "country_code": "KR",
+        "asn": "18029",
+        "description": "Daejeon Helath Sciences College",
+        "handle": "HIT-AS"
+    },
+    "18031": {
+        "country_code": "KR",
+        "asn": "18031",
+        "description": "Sangmyung University",
+        "handle": "SANGMYUNG-AS"
+    },
+    "18032": {
+        "country_code": "KR",
+        "asn": "18032",
+        "description": "SHINHAN DS",
+        "handle": "SHINHANSYS-AS"
+    },
+    "18033": {
+        "country_code": "KR",
+        "asn": "18033",
+        "description": "CMB TAEGU BROADCASTING",
+        "handle": "CMBTGD-AS"
+    },
+    "18034": {
+        "country_code": "KR",
+        "asn": "18034",
+        "description": "Gangneung-Wonju National University",
+        "handle": "KANGNUNG-AS"
+    },
+    "18035": {
+        "country_code": "KR",
+        "asn": "18035",
+        "description": "HANSEO UNIVERSITY",
+        "handle": "HSU18035-AS"
+    },
+    "18038": {
+        "country_code": "KR",
+        "asn": "18038",
+        "description": "Korea National University of Education",
+        "handle": "KNUE-AS"
+    },
+    "18157": {
+        "country_code": "KR",
+        "asn": "18157",
+        "description": "OSBsavingsbank",
+        "handle": "OSB-AS"
+    },
+    "18158": {
+        "country_code": "KR",
+        "asn": "18158",
+        "description": "CHUNGBUK NATIONAL UNIVERSITY",
+        "handle": "CBNU-AS"
+    },
+    "18160": {
+        "country_code": "KR",
+        "asn": "18160",
+        "description": "Kakao Corp",
+        "handle": "AS18160-AS"
+    },
+    "18164": {
+        "country_code": "KR",
+        "asn": "18164",
+        "description": "Mokpo University",
+        "handle": "MOKPO-AS"
+    },
+    "18168": {
+        "country_code": "KR",
+        "asn": "18168",
+        "description": "CMB TAEGU BROADCAST SUSEONG",
+        "handle": "CMBTGS-AS"
+    },
+    "18169": {
+        "country_code": "KR",
+        "asn": "18169",
+        "description": "MEMC Korea",
+        "handle": "SUNESEMI-AS"
+    },
+    "18171": {
+        "country_code": "KR",
+        "asn": "18171",
+        "description": "KYUNGNAM-UNIVERSITY",
+        "handle": "KYUNGNAM-AS"
+    },
+    "18175": {
+        "country_code": "KR",
+        "asn": "18175",
+        "description": "KPS",
+        "handle": "KPSAS-AS"
+    },
+    "18176": {
+        "country_code": "KR",
+        "asn": "18176",
+        "description": "KOOKMIN UNIVERSITY",
+        "handle": "KOOKMIN-AS"
+    },
+    "18294": {
+        "country_code": "KR",
+        "asn": "18294",
+        "description": "SUHYUP BANK",
+        "handle": "NFFC-AS"
+    },
+    "18295": {
+        "country_code": "KR",
+        "asn": "18295",
+        "description": "ABL Life Insurance Co. Ltd.",
+        "handle": "ALLIANZ-AS"
+    },
+    "18297": {
+        "country_code": "KR",
+        "asn": "18297",
+        "description": "K-JIST",
+        "handle": "KJISTNET-AS"
+    },
+    "18298": {
+        "country_code": "KR",
+        "asn": "18298",
+        "description": "Chungnam National University",
+        "handle": "CNUNET-AS"
+    },
+    "18299": {
+        "country_code": "KR",
+        "asn": "18299",
+        "description": "BNK Securities Co. Ltd",
+        "handle": "BSFN-AS"
+    },
+    "18300": {
+        "country_code": "KR",
+        "asn": "18300",
+        "description": "KEPCO",
+        "handle": "KEPRI-AS"
+    },
+    "18301": {
+        "country_code": "KR",
+        "asn": "18301",
+        "description": "ILINKKOREA",
+        "handle": "DSNET-AS"
+    },
+    "18302": {
+        "country_code": "KR",
+        "asn": "18302",
+        "description": "SK Telecom",
+        "handle": "SKG-NW-AS"
+    },
+    "18303": {
+        "country_code": "KR",
+        "asn": "18303",
+        "description": "SMARTRO",
+        "handle": "SMARTRO-AS"
+    },
+    "18305": {
+        "country_code": "KR",
+        "asn": "18305",
+        "description": "POSCO DX",
+        "handle": "POSNET"
+    },
+    "18307": {
+        "country_code": "KR",
+        "asn": "18307",
+        "description": "SR",
+        "handle": "SRAIL-AS"
+    },
+    "18308": {
+        "country_code": "KR",
+        "asn": "18308",
+        "description": "POONGSAN",
+        "handle": "POONGSAN-AS"
+    },
+    "18309": {
+        "country_code": "KR",
+        "asn": "18309",
+        "description": "Korea VAn Service Co.LTD",
+        "handle": "KOVAN-AS"
+    },
+    "18310": {
+        "country_code": "KR",
+        "asn": "18310",
+        "description": "SK Broadband Co Ltd",
+        "handle": "SKB-VITSSEN-AS"
+    },
+    "18311": {
+        "country_code": "KR",
+        "asn": "18311",
+        "description": "CNCITY energy CO. LTD",
+        "handle": "CNCITY-AS"
+    },
+    "18312": {
+        "country_code": "KR",
+        "asn": "18312",
+        "description": "Korea Asset Management COrporation",
+        "handle": "KAMCO-AS"
+    },
+    "18313": {
+        "country_code": "KR",
+        "asn": "18313",
+        "description": "LG HelloVision Corp.",
+        "handle": "PCN-AS"
+    },
+    "18314": {
+        "country_code": "KR",
+        "asn": "18314",
+        "description": "Hana Card",
+        "handle": "KEBHANACARDNET-AS"
+    },
+    "18315": {
+        "country_code": "KR",
+        "asn": "18315",
+        "description": "Sorabol College",
+        "handle": "SORABOLNET-AS"
+    },
+    "18317": {
+        "country_code": "KR",
+        "asn": "18317",
+        "description": "SHINHAN DS",
+        "handle": "SHINHANSYS2-AS"
+    },
+    "18318": {
+        "country_code": "KR",
+        "asn": "18318",
+        "description": "LG HelloVision Corp.",
+        "handle": "SPEEDON-AS"
+    },
+    "18319": {
+        "country_code": "KR",
+        "asn": "18319",
+        "description": "YeungNam College of Science Technology",
+        "handle": "YJNET-AS"
+    },
+    "18320": {
+        "country_code": "KR",
+        "asn": "18320",
+        "description": "Kwangju National University of Education",
+        "handle": "GNUE-AS"
+    },
+    "18321": {
+        "country_code": "KR",
+        "asn": "18321",
+        "description": "KRAFTON INC",
+        "handle": "KRAFTON-AS"
+    },
+    "18322": {
+        "country_code": "KR",
+        "asn": "18322",
+        "description": "KUMHO TIRE",
+        "handle": "KTNET-AS"
+    },
+    "18323": {
+        "country_code": "KR",
+        "asn": "18323",
+        "description": "Seoul National University Bundang Hospital",
+        "handle": "SNUBH-AS"
+    },
+    "18324": {
+        "country_code": "KR",
+        "asn": "18324",
+        "description": "Masan College",
+        "handle": "MASANC-AS"
+    },
+    "18325": {
+        "country_code": "KR",
+        "asn": "18325",
+        "description": "Korea Christian University",
+        "handle": "KORCHRISTUNIV160-AS"
+    },
+    "18326": {
+        "country_code": "KR",
+        "asn": "18326",
+        "description": "Korea Sports Leisure Co. LTD",
+        "handle": "KOSPOLE-AS"
+    },
+    "18327": {
+        "country_code": "KR",
+        "asn": "18327",
+        "description": "Seoul Education Research Information Institute",
+        "handle": "SERIICENTER-AS"
+    },
+    "18328": {
+        "country_code": "KR",
+        "asn": "18328",
+        "description": "Dotname Korea Corp",
+        "handle": "DOTNAME-AS"
+    },
+    "18329": {
+        "country_code": "KR",
+        "asn": "18329",
+        "description": "Sangmyung University",
+        "handle": "SMUC-AS"
+    },
+    "18330": {
+        "country_code": "KR",
+        "asn": "18330",
+        "description": "HONGIK UNIVERSITY",
+        "handle": "HONGIK-AS"
+    },
+    "18331": {
+        "country_code": "KR",
+        "asn": "18331",
+        "description": "Daejeon Institute of Science and Technology",
+        "handle": "HCC-AS"
+    },
+    "18332": {
+        "country_code": "KR",
+        "asn": "18332",
+        "description": "postopia",
+        "handle": "POSTOPIA-AS"
+    },
+    "18333": {
+        "country_code": "KR",
+        "asn": "18333",
+        "description": "at(Korea Argo-Fisheries Food Trade Corporation)",
+        "handle": "ATNET-AS"
+    },
+    "18334": {
+        "country_code": "KR",
+        "asn": "18334",
+        "description": "Gyounggidongbu cable tv co. Ltd.",
+        "handle": "GCNCATV-AS"
+    },
+    "18335": {
+        "country_code": "KR",
+        "asn": "18335",
+        "description": "Seoul Women University",
+        "handle": "SWU-NET-AS"
+    },
+    "18336": {
+        "country_code": "KR",
+        "asn": "18336",
+        "description": "Korea Institute of Oriental Medicine",
+        "handle": "KIOM-AS"
+    },
+    "18337": {
+        "country_code": "KR",
+        "asn": "18337",
+        "description": "KyungSan University",
+        "handle": "KSUCC-AS"
+    },
+    "18338": {
+        "country_code": "KR",
+        "asn": "18338",
+        "description": "DAOUDATA",
+        "handle": "STARVAN-AS"
+    },
+    "18339": {
+        "country_code": "KR",
+        "asn": "18339",
+        "description": "daewonpharm",
+        "handle": "DAEWONJINCHEON-AS"
+    },
+    "18340": {
+        "country_code": "KR",
+        "asn": "18340",
+        "description": "SBKorea",
+        "handle": "SBKOREA-AS"
+    },
+    "18341": {
+        "country_code": "KR",
+        "asn": "18341",
+        "description": "Gumi College",
+        "handle": "GUMI-AS"
+    },
+    "18342": {
+        "country_code": "KR",
+        "asn": "18342",
+        "description": "Kunjang University College",
+        "handle": "KJTJC-AS"
+    },
+    "18343": {
+        "country_code": "KR",
+        "asn": "18343",
+        "description": "Daegu Technical College",
+        "handle": "TAEGUTECH-AS"
+    },
+    "18373": {
+        "country_code": "KR",
+        "asn": "18373",
+        "description": "KOOKMIN BANK",
+        "handle": "KOOKMINBANK-AS"
+    },
+    "18401": {
+        "country_code": "KR",
+        "asn": "18401",
+        "description": "DAEGU UNIVERSITY",
+        "handle": "AS18401-AS"
+    },
+    "23552": {
+        "country_code": "KR",
+        "asn": "23552",
+        "description": "Korea Nazarene University",
+        "handle": "KORNU-AS"
+    },
+    "23553": {
+        "country_code": "KR",
+        "asn": "23553",
+        "description": "National IT Industry Promotion Agency",
+        "handle": "IITA-AS"
+    },
+    "23554": {
+        "country_code": "KR",
+        "asn": "23554",
+        "description": "Shinhan Bank",
+        "handle": "SHB"
+    },
+    "23555": {
+        "country_code": "KR",
+        "asn": "23555",
+        "description": "Shinhan Bank",
+        "handle": "SHB1"
+    },
+    "23556": {
+        "country_code": "KR",
+        "asn": "23556",
+        "description": "ININext",
+        "handle": "BANKTOWN-AS"
+    },
+    "23557": {
+        "country_code": "KR",
+        "asn": "23557",
+        "description": "Elice inc.",
+        "handle": "ELICE-AS"
+    },
+    "23558": {
+        "country_code": "KR",
+        "asn": "23558",
+        "description": "KepcoNF",
+        "handle": "KNFC-AS"
+    },
+    "23560": {
+        "country_code": "KR",
+        "asn": "23560",
+        "description": "MetLife Korea",
+        "handle": "METLIFEKOREA-AS"
+    },
+    "23561": {
+        "country_code": "KR",
+        "asn": "23561",
+        "description": "Yongin University",
+        "handle": "YONGINUNIVERSITY-AS"
+    },
+    "23562": {
+        "country_code": "KR",
+        "asn": "23562",
+        "description": "BUSAN CITY ENVIRONMENTAL INSTALLATIONS CORP",
+        "handle": "BCRC-AS"
+    },
+    "23563": {
+        "country_code": "KR",
+        "asn": "23563",
+        "description": "SK Broadband Co Ltd",
+        "handle": "SKB-VITSSEN-SUWON-AS"
+    },
+    "23564": {
+        "country_code": "KR",
+        "asn": "23564",
+        "description": "Citibank Korea",
+        "handle": "CITIBANKKOREA-AS"
+    },
+    "23568": {
+        "country_code": "KR",
+        "asn": "23568",
+        "description": "CycleBoat Racing Business Division",
+        "handle": "CRA-AS"
+    },
+    "23569": {
+        "country_code": "KR",
+        "asn": "23569",
+        "description": "SEOJEONG COLLEGE",
+        "handle": "SEOJEONG-AS"
+    },
+    "23570": {
+        "country_code": "KR",
+        "asn": "23570",
+        "description": "UNIVERSITY OF INCHEON",
+        "handle": "INCHEON-AS"
+    },
+    "23571": {
+        "country_code": "KR",
+        "asn": "23571",
+        "description": "Gangwon State Office of Education",
+        "handle": "GWED-AS"
+    },
+    "23572": {
+        "country_code": "KR",
+        "asn": "23572",
+        "description": "American International Assurance Company Korea",
+        "handle": "AIAK-AS"
+    },
+    "23573": {
+        "country_code": "KR",
+        "asn": "23573",
+        "description": "OCI Information Communication",
+        "handle": "OCIC-AS"
+    },
+    "23574": {
+        "country_code": "KR",
+        "asn": "23574",
+        "description": "KISPricing",
+        "handle": "KISPRICING-AS"
+    },
+    "23575": {
+        "country_code": "KR",
+        "asn": "23575",
+        "description": "SK Broadband Co Ltd",
+        "handle": "SKB-GOV"
+    },
+    "23576": {
+        "country_code": "KR",
+        "asn": "23576",
+        "description": "NAVER Cloud Corp.",
+        "handle": "NHN-AS"
+    },
+    "23577": {
+        "country_code": "KR",
+        "asn": "23577",
+        "description": "Korea Telecom",
+        "handle": "ATM-MPLS-AS"
+    },
+    "23578": {
+        "country_code": "KR",
+        "asn": "23578",
+        "description": "SK Broadband Co Ltd",
+        "handle": "SKB-NAMDONGNET-AS"
+    },
+    "23579": {
+        "country_code": "KR",
+        "asn": "23579",
+        "description": "Seoul Metropolitan Office Of Education",
+        "handle": "SENNEIS-AS"
+    },
+    "23580": {
+        "country_code": "KR",
+        "asn": "23580",
+        "description": "DAILY SPORTSWORLD",
+        "handle": "SEGYE-AS"
+    },
+    "23581": {
+        "country_code": "KR",
+        "asn": "23581",
+        "description": "Hynix Semiconductor Inc.",
+        "handle": "HYNIX-AS"
+    },
+    "23582": {
+        "country_code": "KR",
+        "asn": "23582",
+        "description": "Doosan Corporation Digital Innovation",
+        "handle": "DOOSAN-AS"
+    },
+    "23584": {
+        "country_code": "KR",
+        "asn": "23584",
+        "description": "PUSAN CABLE TV SYSTEM CO. LTD.",
+        "handle": "HYROADPUSAN-AS"
+    },
+    "23585": {
+        "country_code": "KR",
+        "asn": "23585",
+        "description": "Ministry of Justice",
+        "handle": "MOJNET-AS"
+    },
+    "23586": {
+        "country_code": "KR",
+        "asn": "23586",
+        "description": "Korean Council for University Education",
+        "handle": "KCUE-AS"
+    },
+    "23587": {
+        "country_code": "KR",
+        "asn": "23587",
+        "description": "Korea Credit Bureau",
+        "handle": "KCB-AS"
+    },
+    "23588": {
+        "country_code": "KR",
+        "asn": "23588",
+        "description": "KAKAO Enterprise",
+        "handle": "KEP-AS"
+    },
+    "23589": {
+        "country_code": "KR",
+        "asn": "23589",
+        "description": "KERIS",
+        "handle": "MOEDR-AS"
+    },
+    "23590": {
+        "country_code": "KR",
+        "asn": "23590",
+        "description": "IBKCapital",
+        "handle": "IBKC-AS"
+    },
+    "23591": {
+        "country_code": "KR",
+        "asn": "23591",
+        "description": "LS ITC",
+        "handle": "LS-AS"
+    },
+    "23592": {
+        "country_code": "KR",
+        "asn": "23592",
+        "description": "Ministry of Food and Drug Safety",
+        "handle": "MFDSNET-AS"
+    },
+    "23593": {
+        "country_code": "KR",
+        "asn": "23593",
+        "description": "bkl LLC",
+        "handle": "BKLNETWORK-AS"
+    },
+    "23594": {
+        "country_code": "KR",
+        "asn": "23594",
+        "description": "YKK KOREA CO. LTD.",
+        "handle": "YKKNET-AS"
+    },
+    "23596": {
+        "country_code": "KR",
+        "asn": "23596",
+        "description": "Korea Internet Security Agency",
+        "handle": "EDNSKR"
+    },
+    "23599": {
+        "country_code": "KR",
+        "asn": "23599",
+        "description": "Korea Internet Security Agency",
+        "handle": "DDNSKR"
+    },
+    "23600": {
+        "country_code": "KR",
+        "asn": "23600",
+        "description": "Korea Internet Security Agency",
+        "handle": "GDNSKR"
+    },
+    "23601": {
+        "country_code": "KR",
+        "asn": "23601",
+        "description": "tsis",
+        "handle": "TAEKWANG-AS"
+    },
+    "23668": {
+        "country_code": "KR",
+        "asn": "23668",
+        "description": "TECH UNIVERSITY OF KOREA",
+        "handle": "KPU-AS"
+    },
+    "23714": {
+        "country_code": "KR",
+        "asn": "23714",
+        "description": "Keimyung University",
+        "handle": "KMUCC-AS"
+    },
+    "23743": {
+        "country_code": "KR",
+        "asn": "23743",
+        "description": "KOREA MIDLAND POWER",
+        "handle": "KOMIPO1-AS"
+    },
+    "23759": {
+        "country_code": "KR",
+        "asn": "23759",
+        "description": "TechnoMart Information Communication Company",
+        "handle": "PRIMENET-AS"
+    },
+    "23908": {
+        "country_code": "KR",
+        "asn": "23908",
+        "description": "IIAC",
+        "handle": "AIRPORT-AS"
+    },
+    "23971": {
+        "country_code": "KR",
+        "asn": "23971",
+        "description": "CHUGYE UNIVERSITY FOR THE ARTS",
+        "handle": "CHUGYE-AS"
+    },
+    "23972": {
+        "country_code": "KR",
+        "asn": "23972",
+        "description": "HANA INVESTOR SERVICES",
+        "handle": "KEBIS-AS"
+    },
+    "23975": {
+        "country_code": "KR",
+        "asn": "23975",
+        "description": "Yonam Institute of Technology",
+        "handle": "YC-AS"
+    },
+    "23980": {
+        "country_code": "KR",
+        "asn": "23980",
+        "description": "Yeungnam University",
+        "handle": "YU-AS"
+    },
+    "23982": {
+        "country_code": "KR",
+        "asn": "23982",
+        "description": "NAVER Cloud Corp.",
+        "handle": "NCP-AS"
+    },
+    "23983": {
+        "country_code": "KR",
+        "asn": "23983",
+        "description": "Daejeon University",
+        "handle": "DJU-AS"
+    },
+    "23990": {
+        "country_code": "KR",
+        "asn": "23990",
+        "description": "MigumCableNetwork",
+        "handle": "MIGUM-AS"
+    },
+    "24026": {
+        "country_code": "KR",
+        "asn": "24026",
+        "description": "KOREA INSTITUTE OF FUSION ENERGY",
+        "handle": "KFE-AS"
+    },
+    "24027": {
+        "country_code": "KR",
+        "asn": "24027",
+        "description": "Chinju National University of Education",
+        "handle": "CUE-AS"
+    },
+    "38087": {
+        "country_code": "KR",
+        "asn": "38087",
+        "description": "BUSANBANK",
+        "handle": "BUSANBANK2-AS"
+    },
+    "38088": {
+        "country_code": "KR",
+        "asn": "38088",
+        "description": "KOREA EAST-WEST POWER",
+        "handle": "EWP-AS"
+    },
+    "38089": {
+        "country_code": "KR",
+        "asn": "38089",
+        "description": "kbank",
+        "handle": "KBANK-AS"
+    },
+    "38090": {
+        "country_code": "KR",
+        "asn": "38090",
+        "description": "pearlabyss",
+        "handle": "PEARLABYSS-AS"
+    },
+    "38091": {
+        "country_code": "KR",
+        "asn": "38091",
+        "description": "LG HelloVision Corp.",
+        "handle": "HELLONET-AS"
+    },
+    "38093": {
+        "country_code": "KR",
+        "asn": "38093",
+        "description": "HANATI",
+        "handle": "HANAINS1-AS"
+    },
+    "38095": {
+        "country_code": "KR",
+        "asn": "38095",
+        "description": "SK Broadband Co Ltd",
+        "handle": "SKB-QRIXNETSDM-AS"
+    },
+    "38096": {
+        "country_code": "KR",
+        "asn": "38096",
+        "description": "SK Broadband Co Ltd",
+        "handle": "QRIXNET-AS"
+    },
+    "38097": {
+        "country_code": "KR",
+        "asn": "38097",
+        "description": "SK Broadband Co Ltd",
+        "handle": "SKB-QRIXNETJJ-AS"
+    },
+    "38098": {
+        "country_code": "KR",
+        "asn": "38098",
+        "description": "NICE Information Telecommunication Inc",
+        "handle": "NICEVAN04-AS"
+    },
+    "38099": {
+        "country_code": "KR",
+        "asn": "38099",
+        "description": "Kakao Corp",
+        "handle": "KAKAO-AS"
+    },
+    "38100": {
+        "country_code": "KR",
+        "asn": "38100",
+        "description": "INICIS Co. Ltd",
+        "handle": "INICIS-AS"
+    },
+    "38101": {
+        "country_code": "KR",
+        "asn": "38101",
+        "description": "Yulchon LLC",
+        "handle": "YULCHON-AS"
+    },
+    "38102": {
+        "country_code": "KR",
+        "asn": "38102",
+        "description": "SCOURTFAMILY",
+        "handle": "SCOURTFAMILYDR"
+    },
+    "38103": {
+        "country_code": "KR",
+        "asn": "38103",
+        "description": "SK Broadband Co Ltd",
+        "handle": "SKB-QRIXNETKS-AS"
+    },
+    "38104": {
+        "country_code": "KR",
+        "asn": "38104",
+        "description": "Hyejeon University",
+        "handle": "HYEJEON-AS"
+    },
+    "38105": {
+        "country_code": "KR",
+        "asn": "38105",
+        "description": "SOON CHUN HYANG UNIVERSITY",
+        "handle": "SCH-AS"
+    },
+    "38106": {
+        "country_code": "KR",
+        "asn": "38106",
+        "description": "Korea Security Technology Co. Ltd.",
+        "handle": "SECUREIDC-AS"
+    },
+    "38107": {
+        "country_code": "KR",
+        "asn": "38107",
+        "description": "CDNetworks",
+        "handle": "CDNETWORKS-AS"
+    },
+    "38108": {
+        "country_code": "KR",
+        "asn": "38108",
+        "description": "NEXINNO",
+        "handle": "NEX-AS"
+    },
+    "38109": {
+        "country_code": "KR",
+        "asn": "38109",
+        "description": "SK Broadband Co Ltd",
+        "handle": "SKB-TCNINTERNET-AS"
+    },
+    "38110": {
+        "country_code": "KR",
+        "asn": "38110",
+        "description": "Chungwoon University",
+        "handle": "CWUIC"
+    },
+    "38111": {
+        "country_code": "KR",
+        "asn": "38111",
+        "description": "HANA TI",
+        "handle": "HANACLOUD-AS"
+    },
+    "38112": {
+        "country_code": "KR",
+        "asn": "38112",
+        "description": "Korea Housing Urban Guarantee Corporation",
+        "handle": "HUGC-AS"
+    },
+    "38113": {
+        "country_code": "KR",
+        "asn": "38113",
+        "description": "KUMC",
+        "handle": "KUMC-AS"
+    },
+    "38114": {
+        "country_code": "KR",
+        "asn": "38114",
+        "description": "Shinjin Network",
+        "handle": "TERANET-AS"
+    },
+    "38116": {
+        "country_code": "KR",
+        "asn": "38116",
+        "description": "KCTC",
+        "handle": "SEOICHEON-AS"
+    },
+    "38117": {
+        "country_code": "KR",
+        "asn": "38117",
+        "description": "jin san cable net company ltd",
+        "handle": "JS89005-AS"
+    },
+    "38118": {
+        "country_code": "KR",
+        "asn": "38118",
+        "description": "Riot Games Inc.",
+        "handle": "RIOTGAMES-AS"
+    },
+    "38119": {
+        "country_code": "KR",
+        "asn": "38119",
+        "description": "WITHSYSTEMS",
+        "handle": "WITHSYSTEMS-AS"
+    },
+    "38120": {
+        "country_code": "KR",
+        "asn": "38120",
+        "description": "LG HelloVision Corp.",
+        "handle": "GBNTV-AS"
+    },
+    "38121": {
+        "country_code": "KR",
+        "asn": "38121",
+        "description": "LG HelloVision Corp.",
+        "handle": "UPASSTV-AS"
+    },
+    "38122": {
+        "country_code": "KR",
+        "asn": "38122",
+        "description": "Seoul Guarantee Insurance Company",
+        "handle": "SGIC-AS"
+    },
+    "38123": {
+        "country_code": "KR",
+        "asn": "38123",
+        "description": "asan medical center",
+        "handle": "AMCSEOUL-AS"
+    },
+    "38124": {
+        "country_code": "KR",
+        "asn": "38124",
+        "description": "iM DS Co. Ltd.",
+        "handle": "DGBDATASYSTEM-AS"
+    },
+    "38125": {
+        "country_code": "KR",
+        "asn": "38125",
+        "description": "Korea Expressway Corporation",
+        "handle": "FREEWAY-AS"
+    },
+    "38126": {
+        "country_code": "KR",
+        "asn": "38126",
+        "description": "Seoul Information Service Inc.",
+        "handle": "SCI-AS"
+    },
+    "38128": {
+        "country_code": "KR",
+        "asn": "38128",
+        "description": "Gyeonggi Hosing Urban Development Corporation",
+        "handle": "GICO-AS"
+    },
+    "38129": {
+        "country_code": "KR",
+        "asn": "38129",
+        "description": "S1 CORPORATION",
+        "handle": "S1-AS"
+    },
+    "38130": {
+        "country_code": "KR",
+        "asn": "38130",
+        "description": "SamsungSDS Inc.",
+        "handle": "SAMSUNGGROUP"
+    },
+    "38131": {
+        "country_code": "KR",
+        "asn": "38131",
+        "description": "Mokpo National Maritime University",
+        "handle": "MMU-AS"
+    },
+    "38133": {
+        "country_code": "KR",
+        "asn": "38133",
+        "description": "CMB",
+        "handle": "MULTINET-AS"
+    },
+    "38134": {
+        "country_code": "KR",
+        "asn": "38134",
+        "description": "INCHEON MUSIC BROADCASTING.CO. LTD",
+        "handle": "IMUB-AS"
+    },
+    "38135": {
+        "country_code": "KR",
+        "asn": "38135",
+        "description": "KDB Life Insurance Co. Ltd",
+        "handle": "KLNET-AS"
+    },
+    "38387": {
+        "country_code": "KR",
+        "asn": "38387",
+        "description": "CMB Sejong Broadcasting Co .Ltd",
+        "handle": "CMBSEJONG-AS"
+    },
+    "38388": {
+        "country_code": "KR",
+        "asn": "38388",
+        "description": "Korea Copyright Protection Agency",
+        "handle": "KCOPA-AS"
+    },
+    "38389": {
+        "country_code": "KR",
+        "asn": "38389",
+        "description": "FAMOUS WORKER",
+        "handle": "FWORKER-AS"
+    },
+    "38390": {
+        "country_code": "KR",
+        "asn": "38390",
+        "description": "Goyang Office of Education",
+        "handle": "GOEGY-AS"
+    },
+    "38391": {
+        "country_code": "KR",
+        "asn": "38391",
+        "description": "Gyeonggi provincial gimpo office of education",
+        "handle": "GOEG-AS"
+    },
+    "38392": {
+        "country_code": "KR",
+        "asn": "38392",
+        "description": "KYONGGI YANGPYEONG OFFICE OF EDUCATION",
+        "handle": "GOEYP-AS"
+    },
+    "38393": {
+        "country_code": "KR",
+        "asn": "38393",
+        "description": "Homeplus Co. Ltd.",
+        "handle": "HOMEPLUS-AS"
+    },
+    "38394": {
+        "country_code": "KR",
+        "asn": "38394",
+        "description": "Gyeonggido Seongnam Office of Education",
+        "handle": "GOESN-AS"
+    },
+    "38395": {
+        "country_code": "KR",
+        "asn": "38395",
+        "description": "GwangJuHaNam Office of Education",
+        "handle": "GOE-AS"
+    },
+    "38396": {
+        "country_code": "KR",
+        "asn": "38396",
+        "description": "Paju office of Education Gyeonggi Province",
+        "handle": "GOEPJ-AS"
+    },
+    "38398": {
+        "country_code": "KR",
+        "asn": "38398",
+        "description": "Gyeonggi Uijeongbu office of Education",
+        "handle": "GOEUJB-AS"
+    },
+    "38399": {
+        "country_code": "KR",
+        "asn": "38399",
+        "description": "Gyeonggi-do Yeoju Office of Education",
+        "handle": "GOEYJ-AS"
+    },
+    "38400": {
+        "country_code": "KR",
+        "asn": "38400",
+        "description": "Gyeonggi-do Pyongtaek Office Education",
+        "handle": "GOEPT-AS"
+    },
+    "38401": {
+        "country_code": "KR",
+        "asn": "38401",
+        "description": "Gyeonggi Provincial Anseong Office of Education",
+        "handle": "GOEAN-AS"
+    },
+    "38402": {
+        "country_code": "KR",
+        "asn": "38402",
+        "description": "Gyeonggi Provincial Suwon Office of Education",
+        "handle": "GOESW-AS"
+    },
+    "38403": {
+        "country_code": "KR",
+        "asn": "38403",
+        "description": "GunpoUiwang Office of Education",
+        "handle": "GOEGU-AS"
+    },
+    "38404": {
+        "country_code": "KR",
+        "asn": "38404",
+        "description": "Gyeonggi Provincial Bucheon Office of Education",
+        "handle": "GOEBC-AS"
+    },
+    "38405": {
+        "country_code": "KR",
+        "asn": "38405",
+        "description": "Gwang Myeong Office of Education",
+        "handle": "GOEKM-AS"
+    },
+    "38406": {
+        "country_code": "KR",
+        "asn": "38406",
+        "description": "Kyeonggi-Do Hwaseong Office of Education",
+        "handle": "GOEHS-AS"
+    },
+    "38407": {
+        "country_code": "KR",
+        "asn": "38407",
+        "description": "Gyeonggi-Do Ansan Office of Education",
+        "handle": "GOEAS-AS"
+    },
+    "38408": {
+        "country_code": "KR",
+        "asn": "38408",
+        "description": "GYEONGGI PROVINCIAL ANYANG OFFICE OF EDUCATION",
+        "handle": "GOEAY-AS"
+    },
+    "38409": {
+        "country_code": "KR",
+        "asn": "38409",
+        "description": "Dongducheonyangju office of Education",
+        "handle": "GOEDY-AS"
+    },
+    "38410": {
+        "country_code": "KR",
+        "asn": "38410",
+        "description": "Pocheon Office of Education",
+        "handle": "GOEPC-AS"
+    },
+    "38411": {
+        "country_code": "KR",
+        "asn": "38411",
+        "description": "Yongin office of education",
+        "handle": "GOEYI-AS"
+    },
+    "38412": {
+        "country_code": "KR",
+        "asn": "38412",
+        "description": "Gyeonggi-Do Icheon office of Education",
+        "handle": "GOEIC-AS"
+    },
+    "38413": {
+        "country_code": "KR",
+        "asn": "38413",
+        "description": "Gyeonggi Do Provincial Institute for Lifelong Learning",
+        "handle": "GILL-AS"
+    },
+    "38414": {
+        "country_code": "KR",
+        "asn": "38414",
+        "description": "Gyeonggi siheung office of education",
+        "handle": "GOESH-AS"
+    },
+    "38415": {
+        "country_code": "KR",
+        "asn": "38415",
+        "description": "Guri Namyangju Office Of Education",
+        "handle": "GOEGN-AS"
+    },
+    "38416": {
+        "country_code": "KR",
+        "asn": "38416",
+        "description": "Gyeonggi Yeoncheon Office of Education",
+        "handle": "GOEYC-AS"
+    },
+    "38417": {
+        "country_code": "KR",
+        "asn": "38417",
+        "description": "Gyeonggi Province Gapyeong office of Education",
+        "handle": "GOEGP-AS"
+    },
+    "38418": {
+        "country_code": "KR",
+        "asn": "38418",
+        "description": "KOREA APPRAISAL BOARD",
+        "handle": "APPLYHOME-AS"
+    },
+    "38419": {
+        "country_code": "KR",
+        "asn": "38419",
+        "description": "Kyobo Lifeplanet Life Insurance Company",
+        "handle": "AS0999-AS"
+    },
+    "38420": {
+        "country_code": "KR",
+        "asn": "38420",
+        "description": "BCCARD",
+        "handle": "BCCARD-AS"
+    },
+    "38421": {
+        "country_code": "KR",
+        "asn": "38421",
+        "description": "Mirae Asset Investment Management Co. Ltd.",
+        "handle": "MIRAEASSETUY-AS"
+    },
+    "38422": {
+        "country_code": "KR",
+        "asn": "38422",
+        "description": "Seowon University",
+        "handle": "SEOWON-AS"
+    },
+    "38424": {
+        "country_code": "KR",
+        "asn": "38424",
+        "description": "KOREA CABLE TELECOM",
+        "handle": "KCT-AS"
+    },
+    "38425": {
+        "country_code": "KR",
+        "asn": "38425",
+        "description": "SEJONG NETWORKS",
+        "handle": "SEJONGTELECOM-AS"
+    },
+    "38426": {
+        "country_code": "KR",
+        "asn": "38426",
+        "description": "KOREA RURAL ECONOMIC INSTITUTE",
+        "handle": "KREI-AS"
+    },
+    "38427": {
+        "country_code": "KR",
+        "asn": "38427",
+        "description": "FORCETEC Co. LTD.",
+        "handle": "STXIDC-AS"
+    },
+    "38428": {
+        "country_code": "KR",
+        "asn": "38428",
+        "description": "Korea Information Communicaions Co.",
+        "handle": "KICC-AS"
+    },
+    "38429": {
+        "country_code": "KR",
+        "asn": "38429",
+        "description": "Boryung Pharmaceutical Co. Ltd.",
+        "handle": "BORYUNG-AS"
+    },
+    "38430": {
+        "country_code": "KR",
+        "asn": "38430",
+        "description": "Shinhan card",
+        "handle": "SHINHANCARD-AS"
+    },
+    "38431": {
+        "country_code": "KR",
+        "asn": "38431",
+        "description": "KB Insurance",
+        "handle": "LIGINSURE-AS"
+    },
+    "38433": {
+        "country_code": "KR",
+        "asn": "38433",
+        "description": "Korea Fund Administration Compliance",
+        "handle": "KFAC-AS"
+    },
+    "38434": {
+        "country_code": "KR",
+        "asn": "38434",
+        "description": "POLARISOFFICE",
+        "handle": "POLARISOFFICE-AS"
+    },
+    "38435": {
+        "country_code": "KR",
+        "asn": "38435",
+        "description": "KOLON BENIT",
+        "handle": "KOLON"
+    },
+    "38436": {
+        "country_code": "KR",
+        "asn": "38436",
+        "description": "HANATI",
+        "handle": "HANADOCU-AS"
+    },
+    "38660": {
+        "country_code": "KR",
+        "asn": "38660",
+        "description": "KHNP",
+        "handle": "KHNP-AS"
+    },
+    "38661": {
+        "country_code": "KR",
+        "asn": "38661",
+        "description": "abcle",
+        "handle": "HCLC-AS"
+    },
+    "38662": {
+        "country_code": "KR",
+        "asn": "38662",
+        "description": "JND Communication",
+        "handle": "JUNGWOOCOMNET-AS"
+    },
+    "38663": {
+        "country_code": "KR",
+        "asn": "38663",
+        "description": "NICEINFOMATIONSERVICE",
+        "handle": "BINET-AS"
+    },
+    "38664": {
+        "country_code": "KR",
+        "asn": "38664",
+        "description": "Ulsan education Science research institute",
+        "handle": "UESRI-AS"
+    },
+    "38665": {
+        "country_code": "KR",
+        "asn": "38665",
+        "description": "KCTC",
+        "handle": "SHINDUCKPYUNG-AS"
+    },
+    "38667": {
+        "country_code": "KR",
+        "asn": "38667",
+        "description": "KakaoBank Corp.",
+        "handle": "KAKAOBANK-AS"
+    },
+    "38668": {
+        "country_code": "KR",
+        "asn": "38668",
+        "description": "Konkuk University Hospital",
+        "handle": "KONKUKHOSPITAL-AS"
+    },
+    "38669": {
+        "country_code": "KR",
+        "asn": "38669",
+        "description": "LG HelloVision Corp.",
+        "handle": "CNBTV-AS"
+    },
+    "38670": {
+        "country_code": "KR",
+        "asn": "38670",
+        "description": "CDNetworks AP Network ( now only used in Japan Taiwan and India)",
+        "handle": "CDNETWORKS-AS-AP"
+    },
+    "38671": {
+        "country_code": "KR",
+        "asn": "38671",
+        "description": "S-OIL Corp. Ltd",
+        "handle": "SOIL-AS"
+    },
+    "38672": {
+        "country_code": "KR",
+        "asn": "38672",
+        "description": "KOREA HOUSING MANAGEMENT",
+        "handle": "KOHOMNET-AS"
+    },
+    "38673": {
+        "country_code": "KR",
+        "asn": "38673",
+        "description": "Korea Cable TV Kwangju Broadcasting",
+        "handle": "KCTVNET-AS"
+    },
+    "38674": {
+        "country_code": "KR",
+        "asn": "38674",
+        "description": "NLCS Jeju",
+        "handle": "NLCSJEJU-AS"
+    },
+    "38676": {
+        "country_code": "KR",
+        "asn": "38676",
+        "description": "flexnetworks",
+        "handle": "FLEXNET-AS"
+    },
+    "38677": {
+        "country_code": "KR",
+        "asn": "38677",
+        "description": "SMHiplus Corporation",
+        "handle": "HIPLUS-AS"
+    },
+    "38678": {
+        "country_code": "KR",
+        "asn": "38678",
+        "description": "Kakao Corp",
+        "handle": "DAUMKAKAOKR3"
+    },
+    "38679": {
+        "country_code": "KR",
+        "asn": "38679",
+        "description": "KPN",
+        "handle": "FDKRELAY-AS"
+    },
+    "38680": {
+        "country_code": "KR",
+        "asn": "38680",
+        "description": "CMB",
+        "handle": "CMBHK-AS"
+    },
+    "38681": {
+        "country_code": "KR",
+        "asn": "38681",
+        "description": "Jeollanamdo Educational Research Information Institute",
+        "handle": "JNEINET-AS"
+    },
+    "38682": {
+        "country_code": "KR",
+        "asn": "38682",
+        "description": "National Institute of Environmental Research",
+        "handle": "NIERNET-AS"
+    },
+    "38683": {
+        "country_code": "KR",
+        "asn": "38683",
+        "description": "National Electoin Commission",
+        "handle": "NEC-AS"
+    },
+    "38684": {
+        "country_code": "KR",
+        "asn": "38684",
+        "description": "CMB Daejeon Broadcasting Co .Ltd",
+        "handle": "CMBDAEJEON-AS"
+    },
+    "38686": {
+        "country_code": "KR",
+        "asn": "38686",
+        "description": "Tmoney co. ltd",
+        "handle": "KSCC-AS"
+    },
+    "38687": {
+        "country_code": "KR",
+        "asn": "38687",
+        "description": "Financial Security Institute",
+        "handle": "FSI-AS"
+    },
+    "38688": {
+        "country_code": "KR",
+        "asn": "38688",
+        "description": "GSNeotek",
+        "handle": "WISEN-AS"
+    },
+    "38690": {
+        "country_code": "KR",
+        "asn": "38690",
+        "description": "HyosungITX",
+        "handle": "HYOSUNGITX-AS"
+    },
+    "38691": {
+        "country_code": "KR",
+        "asn": "38691",
+        "description": "KITA",
+        "handle": "KITA-AS"
+    },
+    "38692": {
+        "country_code": "KR",
+        "asn": "38692",
+        "description": "Jeonbuk State office of Education Future Education Research Institute",
+        "handle": "JBES-AS"
+    },
+    "38693": {
+        "country_code": "KR",
+        "asn": "38693",
+        "description": "Korea Transportation Safety Authority",
+        "handle": "TSNET-AS"
+    },
+    "38694": {
+        "country_code": "KR",
+        "asn": "38694",
+        "description": "CHEONGJU NATIONAL UNIVERSITY OF EDCATION",
+        "handle": "CJE-AS"
+    },
+    "38695": {
+        "country_code": "KR",
+        "asn": "38695",
+        "description": "bucheon university",
+        "handle": "BC-AS"
+    },
+    "38696": {
+        "country_code": "KR",
+        "asn": "38696",
+        "description": "Korea Brain Research Institute",
+        "handle": "KBRI-AS"
+    },
+    "38697": {
+        "country_code": "KR",
+        "asn": "38697",
+        "description": "Hankyong National Univercity",
+        "handle": "MOK9882-AS"
+    },
+    "38698": {
+        "country_code": "KR",
+        "asn": "38698",
+        "description": "UBASE",
+        "handle": "UBASE-AS"
+    },
+    "38699": {
+        "country_code": "KR",
+        "asn": "38699",
+        "description": "F U Credit Information",
+        "handle": "FNUSBPP-AS"
+    },
+    "38700": {
+        "country_code": "KR",
+        "asn": "38700",
+        "description": "SMILESERV",
+        "handle": "SMILESERV-AS"
+    },
+    "38701": {
+        "country_code": "KR",
+        "asn": "38701",
+        "description": "Piranha Systems",
+        "handle": "PIRANHA-AS"
+    },
+    "38702": {
+        "country_code": "KR",
+        "asn": "38702",
+        "description": "Hana Bank Co.",
+        "handle": "KEBHANAATM-AS"
+    },
+    "38704": {
+        "country_code": "KR",
+        "asn": "38704",
+        "description": "IDIS powertel",
+        "handle": "IDISPOWERTEL-AS"
+    },
+    "38705": {
+        "country_code": "KR",
+        "asn": "38705",
+        "description": "KOREA DATA",
+        "handle": "DACOM-AS"
+    },
+    "38707": {
+        "country_code": "KR",
+        "asn": "38707",
+        "description": "Tosspayments",
+        "handle": "TOSSPAYMENTS-AS"
+    },
+    "38708": {
+        "country_code": "KR",
+        "asn": "38708",
+        "description": "EXPORT-IMPORT BANK OF KOREA",
+        "handle": "KOREAEXIM-AS"
+    },
+    "38709": {
+        "country_code": "KR",
+        "asn": "38709",
+        "description": "NICE Information Telecommunication Inc",
+        "handle": "NICEVAN03-AS"
+    },
+    "44992": {
+        "country_code": "KR",
+        "asn": "44992",
+        "description": "KeonWoo PARK",
+        "handle": "DOGE-NETWORK-AS"
+    },
+    "45360": {
+        "country_code": "KR",
+        "asn": "45360",
+        "description": "SSANGYONG CEMENT INDUSTRY CO. LTD",
+        "handle": "SSYC-AS"
+    },
+    "45361": {
+        "country_code": "KR",
+        "asn": "45361",
+        "description": "Ulsan Jung-Ang Broadcasting Network",
+        "handle": "JCN-AS"
+    },
+    "45362": {
+        "country_code": "KR",
+        "asn": "45362",
+        "description": "TRUSTONASSET",
+        "handle": "TRUSTONASSET-AS"
+    },
+    "45363": {
+        "country_code": "KR",
+        "asn": "45363",
+        "description": "SunMoon University",
+        "handle": "SUNMOON-AS"
+    },
+    "45364": {
+        "country_code": "KR",
+        "asn": "45364",
+        "description": "YTN",
+        "handle": "YTN-AS"
+    },
+    "45365": {
+        "country_code": "KR",
+        "asn": "45365",
+        "description": "LG HelloVision Corp.",
+        "handle": "JBTV-AS"
+    },
+    "45366": {
+        "country_code": "KR",
+        "asn": "45366",
+        "description": "cyberlogitec",
+        "handle": "CLTNET-AS"
+    },
+    "45368": {
+        "country_code": "KR",
+        "asn": "45368",
+        "description": "KYONGNAMBANK",
+        "handle": "KNB-AS"
+    },
+    "45370": {
+        "country_code": "KR",
+        "asn": "45370",
+        "description": "BROADBANDIDC",
+        "handle": "BROADBANDIDC-AS"
+    },
+    "45371": {
+        "country_code": "KR",
+        "asn": "45371",
+        "description": "HANATI",
+        "handle": "HANACEDA-AS"
+    },
+    "45372": {
+        "country_code": "KR",
+        "asn": "45372",
+        "description": "ULNetworks Co. Ltd.",
+        "handle": "ULN-AS"
+    },
+    "45373": {
+        "country_code": "KR",
+        "asn": "45373",
+        "description": "Korea Finance for Construction",
+        "handle": "KSCFC-AS"
+    },
+    "45374": {
+        "country_code": "KR",
+        "asn": "45374",
+        "description": "CCS",
+        "handle": "CCS-AS"
+    },
+    "45375": {
+        "country_code": "KR",
+        "asn": "45375",
+        "description": "Firstfire Marine Insurance",
+        "handle": "JEIL-AS"
+    },
+    "45376": {
+        "country_code": "KR",
+        "asn": "45376",
+        "description": "HL Holdings Corporation",
+        "handle": "HALLAHOLDINGS-AS"
+    },
+    "45377": {
+        "country_code": "KR",
+        "asn": "45377",
+        "description": "Jeju Special Self Governing Provincial office of Education",
+        "handle": "JJE-AS"
+    },
+    "45379": {
+        "country_code": "KR",
+        "asn": "45379",
+        "description": "Ulsan National Institute of Science and Technology",
+        "handle": "UNIST-AS"
+    },
+    "45380": {
+        "country_code": "KR",
+        "asn": "45380",
+        "description": "MMAAC C",
+        "handle": "MMAACNC-AS"
+    },
+    "45381": {
+        "country_code": "KR",
+        "asn": "45381",
+        "description": "Seoul Housing Communities Corporation",
+        "handle": "SHNET-AS"
+    },
+    "45382": {
+        "country_code": "KR",
+        "asn": "45382",
+        "description": "Hostcenter",
+        "handle": "EHOSTIDC-AS"
+    },
+    "45384": {
+        "country_code": "KR",
+        "asn": "45384",
+        "description": "Korea trade insurance corporation",
+        "handle": "EXTKSURE-AS"
+    },
+    "45385": {
+        "country_code": "KR",
+        "asn": "45385",
+        "description": "Daelim Co. Ltd.",
+        "handle": "DAELIM"
+    },
+    "45387": {
+        "country_code": "KR",
+        "asn": "45387",
+        "description": "KOCES",
+        "handle": "KOCES-AS"
+    },
+    "45389": {
+        "country_code": "KR",
+        "asn": "45389",
+        "description": "Jeonbuk State office of Education Future Education Research Institute",
+        "handle": "JBEDUNET-AS"
+    },
+    "45391": {
+        "country_code": "KR",
+        "asn": "45391",
+        "description": "American Home Assurance Korea",
+        "handle": "AHAKOREA-AS"
+    },
+    "45392": {
+        "country_code": "KR",
+        "asn": "45392",
+        "description": "Korailretail",
+        "handle": "KORAILRETAIL-AS"
+    },
+    "45393": {
+        "country_code": "KR",
+        "asn": "45393",
+        "description": "SFS",
+        "handle": "SFS-AS"
+    },
+    "45394": {
+        "country_code": "KR",
+        "asn": "45394",
+        "description": "KERIS",
+        "handle": "EPKINET"
+    },
+    "45395": {
+        "country_code": "KR",
+        "asn": "45395",
+        "description": "GDSYS",
+        "handle": "AS45555-AS"
+    },
+    "45397": {
+        "country_code": "KR",
+        "asn": "45397",
+        "description": "KOREA ADVANCING SCHOOLS FOUNDATION",
+        "handle": "KFPP-AS"
+    },
+    "45398": {
+        "country_code": "KR",
+        "asn": "45398",
+        "description": "HiLine Internet Service Inc.",
+        "handle": "HINETWORKS-AS"
+    },
+    "45399": {
+        "country_code": "KR",
+        "asn": "45399",
+        "description": "Hanjin Information Systems Telecommunication Co. Ltd",
+        "handle": "KAL-AS"
+    },
+    "45400": {
+        "country_code": "KR",
+        "asn": "45400",
+        "description": "Korea Telecom",
+        "handle": "NICNET"
+    },
+    "45401": {
+        "country_code": "KR",
+        "asn": "45401",
+        "description": "NICE Information Telecommunication Inc",
+        "handle": "NICEVAN02-AS"
+    },
+    "45402": {
+        "country_code": "KR",
+        "asn": "45402",
+        "description": "SAMSUNG LIFE SERVICE",
+        "handle": "SAMSUNGLIFESERVICE-AS"
+    },
+    "45403": {
+        "country_code": "KR",
+        "asn": "45403",
+        "description": "INCHEON TECHNOPARK",
+        "handle": "IITPA-AS"
+    },
+    "45404": {
+        "country_code": "KR",
+        "asn": "45404",
+        "description": "SHINHAN LIFE INSURANCE CO. LTD.",
+        "handle": "SHINHANLIFE-AS"
+    },
+    "45406": {
+        "country_code": "KR",
+        "asn": "45406",
+        "description": "AJU Internet Technology",
+        "handle": "AJU-AS"
+    },
+    "45407": {
+        "country_code": "KR",
+        "asn": "45407",
+        "description": "DONGWON INDUSTRIES",
+        "handle": "DONGWON-AS"
+    },
+    "45408": {
+        "country_code": "KR",
+        "asn": "45408",
+        "description": "KOSAF",
+        "handle": "KOSAF-AS"
+    },
+    "45409": {
+        "country_code": "KR",
+        "asn": "45409",
+        "description": "KBCAPITAL",
+        "handle": "KBCAPITAL-AS"
+    },
+    "45560": {
+        "country_code": "KR",
+        "asn": "45560",
+        "description": "Top Global",
+        "handle": "TOPNET-IPT-AS-AP"
+    },
+    "45963": {
+        "country_code": "KR",
+        "asn": "45963",
+        "description": "KIRAMS (Korea Institute of Radiological Medical Sciences)",
+        "handle": "KIRAMS-AS"
+    },
+    "45964": {
+        "country_code": "KR",
+        "asn": "45964",
+        "description": "Edwards korea Limited",
+        "handle": "EDWARDSKOREA-AS"
+    },
+    "45965": {
+        "country_code": "KR",
+        "asn": "45965",
+        "description": "SHINSEGAE I C",
+        "handle": "SSEN-AS"
+    },
+    "45968": {
+        "country_code": "KR",
+        "asn": "45968",
+        "description": "KONAI",
+        "handle": "KONACENTER-AS"
+    },
+    "45969": {
+        "country_code": "KR",
+        "asn": "45969",
+        "description": "INICIS Co. Ltd",
+        "handle": "INIVAN-AS"
+    },
+    "45970": {
+        "country_code": "KR",
+        "asn": "45970",
+        "description": "Toyo Engineering Korea",
+        "handle": "TOYOKOREA-AS"
+    },
+    "45971": {
+        "country_code": "KR",
+        "asn": "45971",
+        "description": "Financial Security Institute",
+        "handle": "FSIISAC-AS"
+    },
+    "45972": {
+        "country_code": "KR",
+        "asn": "45972",
+        "description": "KOREA LAND AND GEOSPATIAL INFORMATIX CORPORATION",
+        "handle": "KOREALX-AS"
+    },
+    "45973": {
+        "country_code": "KR",
+        "asn": "45973",
+        "description": "KOTRA",
+        "handle": "KOTRA-AS"
+    },
+    "45974": {
+        "country_code": "KR",
+        "asn": "45974",
+        "description": "NHNCLOUD",
+        "handle": "NHN-AS"
+    },
+    "45975": {
+        "country_code": "KR",
+        "asn": "45975",
+        "description": "SamsungSDS Inc.",
+        "handle": "SAMSUNGSEC2-AS"
+    },
+    "45977": {
+        "country_code": "KR",
+        "asn": "45977",
+        "description": "CANON KOREA INC.",
+        "handle": "CKBS-AS"
+    },
+    "45978": {
+        "country_code": "KR",
+        "asn": "45978",
+        "description": "KIS Information Communication Inc",
+        "handle": "KISDFS-AS"
+    },
+    "45979": {
+        "country_code": "KR",
+        "asn": "45979",
+        "description": "KB DATA SYSTEMS",
+        "handle": "KBDATA-AS"
+    },
+    "45981": {
+        "country_code": "KR",
+        "asn": "45981",
+        "description": "SamsungSDS Inc.",
+        "handle": "SAMSUNGSEC-AS"
+    },
+    "45982": {
+        "country_code": "KR",
+        "asn": "45982",
+        "description": "BOSUNG-CABLE-NETWORK",
+        "handle": "BOSUNGNET-AS"
+    },
+    "45984": {
+        "country_code": "KR",
+        "asn": "45984",
+        "description": "Dongnam Institute of Radiologycal Sciences",
+        "handle": "DIRS-AS"
+    },
+    "45985": {
+        "country_code": "KR",
+        "asn": "45985",
+        "description": "SamsungSDS Inc.",
+        "handle": "SAMSUNGCLOUDPLATFORM-AS"
+    },
+    "45986": {
+        "country_code": "KR",
+        "asn": "45986",
+        "description": "Korea Internet Security Agency",
+        "handle": "KISANET"
+    },
+    "45987": {
+        "country_code": "KR",
+        "asn": "45987",
+        "description": "Dongwha Enterprise Co. Ltd.",
+        "handle": "DONGWHA-AS"
+    },
+    "45988": {
+        "country_code": "KR",
+        "asn": "45988",
+        "description": "KOREA CREDIT GUARANTEE FUND",
+        "handle": "KODIT-AS"
+    },
+    "45989": {
+        "country_code": "KR",
+        "asn": "45989",
+        "description": "KL-Net Corp.",
+        "handle": "KLNETCO-AS"
+    },
+    "45990": {
+        "country_code": "KR",
+        "asn": "45990",
+        "description": "Health Insurance Review Assessment Service",
+        "handle": "HIRANET-AS"
+    },
+    "45991": {
+        "country_code": "KR",
+        "asn": "45991",
+        "description": "Kakao Corp",
+        "handle": "KAKAO-45991-AS"
+    },
+    "45992": {
+        "country_code": "KR",
+        "asn": "45992",
+        "description": "Construction Guarantee Cooperative",
+        "handle": "CG-AS"
+    },
+    "45993": {
+        "country_code": "KR",
+        "asn": "45993",
+        "description": "SHINBUNDANG RAILROAD",
+        "handle": "SBDNET-AS"
+    },
+    "45994": {
+        "country_code": "KR",
+        "asn": "45994",
+        "description": "incheon city",
+        "handle": "INCHEONNET-AS"
+    },
+    "45995": {
+        "country_code": "KR",
+        "asn": "45995",
+        "description": "SK planet",
+        "handle": "SKPLANET-AS"
+    },
+    "45996": {
+        "country_code": "KR",
+        "asn": "45996",
+        "description": "DAOU TECHNOLOGY",
+        "handle": "DAOU-AS"
+    },
+    "45998": {
+        "country_code": "KR",
+        "asn": "45998",
+        "description": "National Medical Center",
+        "handle": "NMC-AS"
+    },
+    "45999": {
+        "country_code": "KR",
+        "asn": "45999",
+        "description": "Korea Transportation Safety Authority",
+        "handle": "CAR"
+    },
+    "46000": {
+        "country_code": "KR",
+        "asn": "46000",
+        "description": "KB Insurance",
+        "handle": "KBINSURE-AS"
+    },
+    "46002": {
+        "country_code": "KR",
+        "asn": "46002",
+        "description": "PHIS",
+        "handle": "PHIS-AS"
+    },
+    "46003": {
+        "country_code": "KR",
+        "asn": "46003",
+        "description": "CONNECTWAVE",
+        "handle": "KOREACENTER-AS"
+    },
+    "46004": {
+        "country_code": "KR",
+        "asn": "46004",
+        "description": "SK Broadband Co Ltd",
+        "handle": "SKBMIL"
+    },
+    "46006": {
+        "country_code": "KR",
+        "asn": "46006",
+        "description": "Cafe24 Corp.",
+        "handle": "SIMPLEXINTERNET-AS"
+    },
+    "46007": {
+        "country_code": "KR",
+        "asn": "46007",
+        "description": "RXN",
+        "handle": "RXN-AS"
+    },
+    "46009": {
+        "country_code": "KR",
+        "asn": "46009",
+        "description": "YABESK",
+        "handle": "YABESK-AS"
+    },
+    "46010": {
+        "country_code": "KR",
+        "asn": "46010",
+        "description": "SAMJUNG DATA SERVICE",
+        "handle": "DIRECT-AS"
+    },
+    "46011": {
+        "country_code": "KR",
+        "asn": "46011",
+        "description": "LX",
+        "handle": "LX-AS"
+    },
+    "46012": {
+        "country_code": "KR",
+        "asn": "46012",
+        "description": "Induk University",
+        "handle": "INDUK-AS"
+    },
+    "55584": {
+        "country_code": "KR",
+        "asn": "55584",
+        "description": "Korea Power Exchange",
+        "handle": "KPX-AS"
+    },
+    "55585": {
+        "country_code": "KR",
+        "asn": "55585",
+        "description": "CAPE Investment Securitie Co. Ltd.",
+        "handle": "LIGSTOCK-AS"
+    },
+    "55586": {
+        "country_code": "KR",
+        "asn": "55586",
+        "description": "THE CATHOLIC UNIVERSITY OF KOREA SONGSIM",
+        "handle": "CATHOLIC-AS"
+    },
+    "55588": {
+        "country_code": "KR",
+        "asn": "55588",
+        "description": "Information Technology Center",
+        "handle": "NFCF-AS"
+    },
+    "55589": {
+        "country_code": "KR",
+        "asn": "55589",
+        "description": "Korea Institute of Industrial Technology",
+        "handle": "KITECH-AS"
+    },
+    "55590": {
+        "country_code": "KR",
+        "asn": "55590",
+        "description": "Sony Korea",
+        "handle": "SONYKOREA-AS"
+    },
+    "55591": {
+        "country_code": "KR",
+        "asn": "55591",
+        "description": "Korea Institute for Curriculum and Evaluation",
+        "handle": "KICE-AS"
+    },
+    "55592": {
+        "country_code": "KR",
+        "asn": "55592",
+        "description": "Korea Data Telecommunication Co. Ltd.",
+        "handle": "KDT-AS"
+    },
+    "55593": {
+        "country_code": "KR",
+        "asn": "55593",
+        "description": "netmarble",
+        "handle": "NETMARBLE-AS"
+    },
+    "55594": {
+        "country_code": "KR",
+        "asn": "55594",
+        "description": "KOOKMIN BANK",
+        "handle": "KBPHYINT-AS"
+    },
+    "55595": {
+        "country_code": "KR",
+        "asn": "55595",
+        "description": "American International Assurance Company Korea",
+        "handle": "AIAKR-AS"
+    },
+    "55596": {
+        "country_code": "KR",
+        "asn": "55596",
+        "description": "Gachon University Gil Hospital",
+        "handle": "GILHOSP-AS"
+    },
+    "55597": {
+        "country_code": "KR",
+        "asn": "55597",
+        "description": "National Cancer Center",
+        "handle": "NCC-AS"
+    },
+    "55598": {
+        "country_code": "KR",
+        "asn": "55598",
+        "description": "Korea Environmental Technology Industry Institute",
+        "handle": "KEITI-AS"
+    },
+    "55599": {
+        "country_code": "KR",
+        "asn": "55599",
+        "description": "namyang",
+        "handle": "NAMYANGI-AS"
+    },
+    "55601": {
+        "country_code": "KR",
+        "asn": "55601",
+        "description": "Electric Contractors Financial Cooperative",
+        "handle": "ECFC-AS"
+    },
+    "55603": {
+        "country_code": "KR",
+        "asn": "55603",
+        "description": "Korea Internet Security Agency",
+        "handle": "KISA118"
+    },
+    "55604": {
+        "country_code": "KR",
+        "asn": "55604",
+        "description": "KOMSCO",
+        "handle": "KOMSCO-AS"
+    },
+    "55605": {
+        "country_code": "KR",
+        "asn": "55605",
+        "description": "daewonpharm",
+        "handle": "DAEWONPHARM-AS"
+    },
+    "55606": {
+        "country_code": "KR",
+        "asn": "55606",
+        "description": "Hanwha Ocean Co. Ltd.",
+        "handle": "DSME-AS"
+    },
+    "55608": {
+        "country_code": "KR",
+        "asn": "55608",
+        "description": "KB Life Insurance Co. Ltd.",
+        "handle": "KBLIFE-AS"
+    },
+    "55609": {
+        "country_code": "KR",
+        "asn": "55609",
+        "description": "Financial Security Institute",
+        "handle": "FSICERT-AS"
+    },
+    "55610": {
+        "country_code": "KR",
+        "asn": "55610",
+        "description": "KAIT",
+        "handle": "MSAFER-AS"
+    },
+    "55611": {
+        "country_code": "KR",
+        "asn": "55611",
+        "description": "kyungmin university",
+        "handle": "KYUNGMIN-AS"
+    },
+    "55613": {
+        "country_code": "KR",
+        "asn": "55613",
+        "description": "KOREA APPRAISAL BOARD",
+        "handle": "KAB-AS"
+    },
+    "55614": {
+        "country_code": "KR",
+        "asn": "55614",
+        "description": "danal.co",
+        "handle": "DANAL-AS"
+    },
+    "55615": {
+        "country_code": "KR",
+        "asn": "55615",
+        "description": "DOUZONEBIZON",
+        "handle": "DUZONBIZON-AS"
+    },
+    "55616": {
+        "country_code": "KR",
+        "asn": "55616",
+        "description": "DGIST",
+        "handle": "DGIST-AS"
+    },
+    "55617": {
+        "country_code": "KR",
+        "asn": "55617",
+        "description": "The Kwangju Bank Ltd.",
+        "handle": "KB55617-AS"
+    },
+    "55618": {
+        "country_code": "KR",
+        "asn": "55618",
+        "description": "UNIVERSITY OF ULSAN",
+        "handle": "UOU-AS"
+    },
+    "55619": {
+        "country_code": "KR",
+        "asn": "55619",
+        "description": "Hana Life Insurance Co. Ltd.",
+        "handle": "HANALIFE-AS"
+    },
+    "55620": {
+        "country_code": "KR",
+        "asn": "55620",
+        "description": "KNOC",
+        "handle": "KNOC-AS"
+    },
+    "55621": {
+        "country_code": "KR",
+        "asn": "55621",
+        "description": "Jeonju National University Of Education",
+        "handle": "JNUE-AS"
+    },
+    "55622": {
+        "country_code": "KR",
+        "asn": "55622",
+        "description": "CNUE",
+        "handle": "CNUE-AS"
+    },
+    "55623": {
+        "country_code": "KR",
+        "asn": "55623",
+        "description": "Korea Insurance Development Institute",
+        "handle": "KIDI-AS"
+    },
+    "55624": {
+        "country_code": "KR",
+        "asn": "55624",
+        "description": "DAELIM",
+        "handle": "DAELIM-AS"
+    },
+    "55625": {
+        "country_code": "KR",
+        "asn": "55625",
+        "description": "Chungwoon University",
+        "handle": "CWUNET-AS"
+    },
+    "55626": {
+        "country_code": "KR",
+        "asn": "55626",
+        "description": "Kyungin Womens college",
+        "handle": "KYUNGIN-AS"
+    },
+    "55627": {
+        "country_code": "KR",
+        "asn": "55627",
+        "description": "Dongduk Womens University",
+        "handle": "DONGDUK-AS"
+    },
+    "55628": {
+        "country_code": "KR",
+        "asn": "55628",
+        "description": "Incheon Free Economic Zone",
+        "handle": "SGUC-AS"
+    },
+    "55629": {
+        "country_code": "KR",
+        "asn": "55629",
+        "description": "TMON",
+        "handle": "TMON-AS"
+    },
+    "55630": {
+        "country_code": "KR",
+        "asn": "55630",
+        "description": "KSNET.Inc",
+        "handle": "KSNET-AS"
+    },
+    "55632": {
+        "country_code": "KR",
+        "asn": "55632",
+        "description": "Sejong City Office of Education",
+        "handle": "SJEDU-AS"
+    },
+    "55633": {
+        "country_code": "KR",
+        "asn": "55633",
+        "description": "pundang jesaeng general hospital",
+        "handle": "DMC-AS"
+    },
+    "131093": {
+        "country_code": "KR",
+        "asn": "131093",
+        "description": "viva republica",
+        "handle": "VIVATOSS-AS"
+    },
+    "131094": {
+        "country_code": "KR",
+        "asn": "131094",
+        "description": "HYUNDAI MOTOR CO",
+        "handle": "HYUNDAIMOTORCO-AS"
+    },
+    "131095": {
+        "country_code": "KR",
+        "asn": "131095",
+        "description": "HanwhalifeFinancialService",
+        "handle": "HANWHALIFEFS-AS"
+    },
+    "131096": {
+        "country_code": "KR",
+        "asn": "131096",
+        "description": "Master Motors Management",
+        "handle": "MASTERCAR-AS"
+    },
+    "131097": {
+        "country_code": "KR",
+        "asn": "131097",
+        "description": "KEAD",
+        "handle": "KEAD-AS"
+    },
+    "131098": {
+        "country_code": "KR",
+        "asn": "131098",
+        "description": "Korea Internet Security Agency",
+        "handle": "BDNSKR-AS"
+    },
+    "131099": {
+        "country_code": "KR",
+        "asn": "131099",
+        "description": "Korea Internet Security Agency",
+        "handle": "CDNSKR-AS"
+    },
+    "131100": {
+        "country_code": "KR",
+        "asn": "131100",
+        "description": "Korea Internet Security Agency",
+        "handle": "FDNSKR-AS"
+    },
+    "131101": {
+        "country_code": "KR",
+        "asn": "131101",
+        "description": "BNK SYSTEM",
+        "handle": "BNKSYS-AS"
+    },
+    "131791": {
+        "country_code": "KR",
+        "asn": "131791",
+        "description": "Korea Asset Pricing",
+        "handle": "KAP-AS"
+    },
+    "131792": {
+        "country_code": "KR",
+        "asn": "131792",
+        "description": "IM Bank",
+        "handle": "DGBDRCENTER-AS"
+    },
+    "131793": {
+        "country_code": "KR",
+        "asn": "131793",
+        "description": "Green Technology Center",
+        "handle": "GTCK-AS"
+    },
+    "131794": {
+        "country_code": "KR",
+        "asn": "131794",
+        "description": "KYOBO AXA INVESTMENT MANAGERS Co. Ltd.",
+        "handle": "KYOBOAXA-AS"
+    },
+    "131795": {
+        "country_code": "KR",
+        "asn": "131795",
+        "description": "KOREA INSTITUTE OF ENERGY RESEARCH",
+        "handle": "KIER-AS"
+    },
+    "131797": {
+        "country_code": "KR",
+        "asn": "131797",
+        "description": "National Medical Center",
+        "handle": "NEMC-AS"
+    },
+    "131798": {
+        "country_code": "KR",
+        "asn": "131798",
+        "description": "Sangsang Networks Co. Ltd.",
+        "handle": "SSNW-AS"
+    },
+    "131799": {
+        "country_code": "KR",
+        "asn": "131799",
+        "description": "korea workers compensation welfare service",
+        "handle": "COMWEL-AS"
+    },
+    "131800": {
+        "country_code": "KR",
+        "asn": "131800",
+        "description": "Korea Internet Security Agency",
+        "handle": "KRNIC-NET"
+    },
+    "131802": {
+        "country_code": "KR",
+        "asn": "131802",
+        "description": "NongHyup Life Insurance",
+        "handle": "NHLIFE-AS"
+    },
+    "131803": {
+        "country_code": "KR",
+        "asn": "131803",
+        "description": "HOBAN CONSTRUSION",
+        "handle": "HOBAN-AS"
+    },
+    "131804": {
+        "country_code": "KR",
+        "asn": "131804",
+        "description": "Seoul Regional Correction Headquarters",
+        "handle": "CORR-AS"
+    },
+    "131805": {
+        "country_code": "KR",
+        "asn": "131805",
+        "description": "NHSAVINGSBANK",
+        "handle": "NHSAVINGSBANK-AS"
+    },
+    "131806": {
+        "country_code": "KR",
+        "asn": "131806",
+        "description": "KCTC",
+        "handle": "BUBAL-AS"
+    },
+    "131807": {
+        "country_code": "KR",
+        "asn": "131807",
+        "description": "NHcapital",
+        "handle": "NHCAPITAL-AS"
+    },
+    "131808": {
+        "country_code": "KR",
+        "asn": "131808",
+        "description": "KOREA WESTERN POWER",
+        "handle": "WESTERNPOWER-AS"
+    },
+    "131809": {
+        "country_code": "KR",
+        "asn": "131809",
+        "description": "Korea Credit Information Services",
+        "handle": "KCISMYDATA-AS"
+    },
+    "131810": {
+        "country_code": "KR",
+        "asn": "131810",
+        "description": "KOOKMIN BANK",
+        "handle": "KBONECLOUDGP-AS"
+    },
+    "131811": {
+        "country_code": "KR",
+        "asn": "131811",
+        "description": "KOOKMIN BANK",
+        "handle": "KBONECLOUDYD-AS"
+    },
+    "131812": {
+        "country_code": "KR",
+        "asn": "131812",
+        "description": "Humax Networks INC.",
+        "handle": "HUMAXNETWORKS-AS"
+    },
+    "131813": {
+        "country_code": "KR",
+        "asn": "131813",
+        "description": "bicxy",
+        "handle": "BICXYNETWORK-AS"
+    },
+    "131814": {
+        "country_code": "KR",
+        "asn": "131814",
+        "description": "Presbyterian Medical Center",
+        "handle": "PMC-AS"
+    },
+    "131815": {
+        "country_code": "KR",
+        "asn": "131815",
+        "description": "Nonghyup Property and Casualty Insurance Co. Ltd",
+        "handle": "NHFIRE-AS"
+    },
+    "131816": {
+        "country_code": "KR",
+        "asn": "131816",
+        "description": "IBK Insurance",
+        "handle": "IBKI-AS"
+    },
+    "131817": {
+        "country_code": "KR",
+        "asn": "131817",
+        "description": "Hecto Innovation Co. Ltd",
+        "handle": "MINWISE-AS"
+    },
+    "131818": {
+        "country_code": "KR",
+        "asn": "131818",
+        "description": "YONHAP INFOMAX",
+        "handle": "YONHAPINFOMAX-AS"
+    },
+    "131819": {
+        "country_code": "KR",
+        "asn": "131819",
+        "description": "Doosan Engineering Construction Co. Ltd",
+        "handle": "DSC-AS"
+    },
+    "131820": {
+        "country_code": "KR",
+        "asn": "131820",
+        "description": "HMM",
+        "handle": "HMM21-AS"
+    },
+    "131821": {
+        "country_code": "KR",
+        "asn": "131821",
+        "description": "Korea Investment Real Asset Management Co. Ltd",
+        "handle": "KIRA-AS"
+    },
+    "131822": {
+        "country_code": "KR",
+        "asn": "131822",
+        "description": "Korea National University of Transportation",
+        "handle": "KNUT-AS"
+    },
+    "131823": {
+        "country_code": "KR",
+        "asn": "131823",
+        "description": "korea Institute for Animal Products Quality Evaluation",
+        "handle": "EKAPE-AS"
+    },
+    "131824": {
+        "country_code": "KR",
+        "asn": "131824",
+        "description": "OKDATASYSTEM",
+        "handle": "BROADNNET-AS"
+    },
+    "131825": {
+        "country_code": "KR",
+        "asn": "131825",
+        "description": "KCTC",
+        "handle": "BAEKSA-AS"
+    },
+    "131826": {
+        "country_code": "KR",
+        "asn": "131826",
+        "description": "hy",
+        "handle": "HY-AS"
+    },
+    "131827": {
+        "country_code": "KR",
+        "asn": "131827",
+        "description": "jejubank",
+        "handle": "JEJUBANK-AS"
+    },
+    "131828": {
+        "country_code": "KR",
+        "asn": "131828",
+        "description": "KAKAO Enterprise",
+        "handle": "KEPSEL21-AS"
+    },
+    "131829": {
+        "country_code": "KR",
+        "asn": "131829",
+        "description": "SBI SAVINGS BANK",
+        "handle": "SBISB-AS"
+    },
+    "131830": {
+        "country_code": "KR",
+        "asn": "131830",
+        "description": "Institute for Basic Science",
+        "handle": "IBS-AS"
+    },
+    "131831": {
+        "country_code": "KR",
+        "asn": "131831",
+        "description": "NEXON KOREA",
+        "handle": "NEXONKOREA-AS"
+    },
+    "131832": {
+        "country_code": "KR",
+        "asn": "131832",
+        "description": "HD Construction Equipment Co. Ltd.",
+        "handle": "HDI-AS"
+    },
+    "131833": {
+        "country_code": "KR",
+        "asn": "131833",
+        "description": "Kia Corporation",
+        "handle": "KIACOR-AS"
+    },
+    "131834": {
+        "country_code": "KR",
+        "asn": "131834",
+        "description": "LeeKo",
+        "handle": "LEEKO-AS"
+    },
+    "131835": {
+        "country_code": "KR",
+        "asn": "131835",
+        "description": "samyangfoods.co",
+        "handle": "SAMYANGFOODS-AS"
+    },
+    "131836": {
+        "country_code": "KR",
+        "asn": "131836",
+        "description": "Firstfire Marine Insurance",
+        "handle": "HWGI-AS"
+    },
+    "131837": {
+        "country_code": "KR",
+        "asn": "131837",
+        "description": "Korea Fire Safety Institute",
+        "handle": "KFSI-AS"
+    },
+    "131838": {
+        "country_code": "KR",
+        "asn": "131838",
+        "description": "eBEST INVESTMENTSECURITIES",
+        "handle": "EBEST-AS"
+    },
+    "131839": {
+        "country_code": "KR",
+        "asn": "131839",
+        "description": "mmaa",
+        "handle": "MMAA-AS"
+    },
+    "131840": {
+        "country_code": "KR",
+        "asn": "131840",
+        "description": "JT Savings Bank",
+        "handle": "JTSB-AS"
+    },
+    "131841": {
+        "country_code": "KR",
+        "asn": "131841",
+        "description": "Pulmuone",
+        "handle": "PULMUONE-AS"
+    },
+    "131842": {
+        "country_code": "KR",
+        "asn": "131842",
+        "description": "Office of the president",
+        "handle": "YSP-AS"
+    },
+    "131843": {
+        "country_code": "KR",
+        "asn": "131843",
+        "description": "Korea Investment Management CO.",
+        "handle": "KIM-AS"
+    },
+    "131844": {
+        "country_code": "KR",
+        "asn": "131844",
+        "description": "Nonghyup Property and Casualty Insurance Co. Ltd",
+        "handle": "NHFIREFO-AS"
+    },
+    "131845": {
+        "country_code": "KR",
+        "asn": "131845",
+        "description": "KOREA INVESTMENT VALUE ASSET MANAGEMENT Co. Ltd.",
+        "handle": "VAM-AS"
+    },
+    "131846": {
+        "country_code": "KR",
+        "asn": "131846",
+        "description": "GYEONGGI-DO FIRE SERVICES",
+        "handle": "GGFS2023-AS"
+    },
+    "131847": {
+        "country_code": "KR",
+        "asn": "131847",
+        "description": "Korea District Heating Corporation",
+        "handle": "KDHC-AS"
+    },
+    "131848": {
+        "country_code": "KR",
+        "asn": "131848",
+        "description": "YUHAN",
+        "handle": "YUHANAS-AS"
+    },
+    "131849": {
+        "country_code": "KR",
+        "asn": "131849",
+        "description": "JOBIS Villains Inc",
+        "handle": "JOBISNVILLAINS-AS"
+    },
+    "131850": {
+        "country_code": "KR",
+        "asn": "131850",
+        "description": "Hana Insurance Co. Ltd.",
+        "handle": "HANAINSDMZ-AS"
+    },
+    "131851": {
+        "country_code": "KR",
+        "asn": "131851",
+        "description": "Hana Insurance Co. Ltd.",
+        "handle": "HANAINSEXT-AS"
+    },
+    "131852": {
+        "country_code": "KR",
+        "asn": "131852",
+        "description": "EUGENE INVESTMENT FUTURES Co. Ltd.",
+        "handle": "EUGENEFUTURES-AS"
+    },
+    "131853": {
+        "country_code": "KR",
+        "asn": "131853",
+        "description": "MYONGJI HOSPITAL",
+        "handle": "MYONGJIHOSPITAL-AS"
+    },
+    "131854": {
+        "country_code": "KR",
+        "asn": "131854",
+        "description": "Saemangeum Development and Investment Agency",
+        "handle": "SAEMANGEUM-AS"
+    },
+    "131855": {
+        "country_code": "KR",
+        "asn": "131855",
+        "description": "viva republica",
+        "handle": "TOSSCB-AS"
+    },
+    "131856": {
+        "country_code": "KR",
+        "asn": "131856",
+        "description": "WONJU SEVERANCE CHRISTIAN HOSPITAL",
+        "handle": "YONSEIWONJU-AS"
+    },
+    "131857": {
+        "country_code": "KR",
+        "asn": "131857",
+        "description": "KCTC",
+        "handle": "YEOJU-AS"
+    },
+    "131858": {
+        "country_code": "KR",
+        "asn": "131858",
+        "description": "kakaopay insurance",
+        "handle": "KAKAOPAYINSURE-AS"
+    },
+    "131859": {
+        "country_code": "KR",
+        "asn": "131859",
+        "description": "HYUNDAI COMMERCIAL INC.",
+        "handle": "HCI01-AS"
+    },
+    "131860": {
+        "country_code": "KR",
+        "asn": "131860",
+        "description": "Nonghyup Property and Casualty Insurance Co. Ltd",
+        "handle": "NHFIREPN-AS"
+    },
+    "131861": {
+        "country_code": "KR",
+        "asn": "131861",
+        "description": "Han Sung Motor Co. Ltd",
+        "handle": "HSMC-AS"
+    },
+    "131862": {
+        "country_code": "KR",
+        "asn": "131862",
+        "description": "Nonghyup Property and Casualty Insurance Co. Ltd",
+        "handle": "NHFIREUPMU-AS"
+    },
+    "131863": {
+        "country_code": "KR",
+        "asn": "131863",
+        "description": "KB Credit Information",
+        "handle": "KBCI-AS"
+    },
+    "131864": {
+        "country_code": "KR",
+        "asn": "131864",
+        "description": "Firstfire Marine Insurance",
+        "handle": "HWDMZ-AS"
+    },
+    "131865": {
+        "country_code": "KR",
+        "asn": "131865",
+        "description": "stibee",
+        "handle": "STIBEE-AS"
+    },
+    "131866": {
+        "country_code": "KR",
+        "asn": "131866",
+        "description": "Digital Edge Korea",
+        "handle": "DEK-AS"
+    },
+    "131867": {
+        "country_code": "KR",
+        "asn": "131867",
+        "description": "Sinokor Merchant Marine Co. Ltd.",
+        "handle": "SINOKOR-AS"
+    },
+    "131868": {
+        "country_code": "KR",
+        "asn": "131868",
+        "description": "SeoulEnergyCorporation",
+        "handle": "S2640-AS"
+    },
+    "131869": {
+        "country_code": "KR",
+        "asn": "131869",
+        "description": "UST",
+        "handle": "USTKREONET-AS"
+    },
+    "131870": {
+        "country_code": "KR",
+        "asn": "131870",
+        "description": "KSPO",
+        "handle": "KSPO-AS"
+    },
+    "131871": {
+        "country_code": "KR",
+        "asn": "131871",
+        "description": "HYUNDAICARD CO.",
+        "handle": "HCC01-AS"
+    },
+    "131872": {
+        "country_code": "KR",
+        "asn": "131872",
+        "description": "IITP",
+        "handle": "IITP-AS"
+    },
+    "131873": {
+        "country_code": "KR",
+        "asn": "131873",
+        "description": "HARIM",
+        "handle": "HARIM-AS"
+    },
+    "131874": {
+        "country_code": "KR",
+        "asn": "131874",
+        "description": "KDB CAPITAL CORPORATION",
+        "handle": "KDBC-AS"
+    },
+    "131876": {
+        "country_code": "KR",
+        "asn": "131876",
+        "description": "Daejeon Transportation Corporation",
+        "handle": "DJTC-AS"
+    },
+    "131877": {
+        "country_code": "KR",
+        "asn": "131877",
+        "description": "sangsangin savings bank",
+        "handle": "SANGSANGINSB-AS"
+    },
+    "131878": {
+        "country_code": "KR",
+        "asn": "131878",
+        "description": "HYUNDAICARD CO.",
+        "handle": "HCC02-AS"
+    },
+    "131879": {
+        "country_code": "KR",
+        "asn": "131879",
+        "description": "TDCX Korea",
+        "handle": "TDCX19F-AS"
+    },
+    "131880": {
+        "country_code": "KR",
+        "asn": "131880",
+        "description": "KOREA FEDERATION OF CREDIT GUARANTEE FOUNDATIONS",
+        "handle": "KOREG-AS"
+    },
+    "131881": {
+        "country_code": "KR",
+        "asn": "131881",
+        "description": "National Medical Center",
+        "handle": "NIDNET-AS"
+    },
+    "131882": {
+        "country_code": "KR",
+        "asn": "131882",
+        "description": "Chungnam National University Hospital",
+        "handle": "CNUH-AS"
+    },
+    "131883": {
+        "country_code": "KR",
+        "asn": "131883",
+        "description": "INSTITUTES OF GREENBIO SCIENCE AND TECHNOLOGY",
+        "handle": "GBST-AS"
+    },
+    "131884": {
+        "country_code": "KR",
+        "asn": "131884",
+        "description": "Korea Internet Security Agency",
+        "handle": "GDX10-AS"
+    },
+    "131885": {
+        "country_code": "KR",
+        "asn": "131885",
+        "description": "National Research Council of Science and Technology",
+        "handle": "NST-AS"
+    },
+    "131886": {
+        "country_code": "KR",
+        "asn": "131886",
+        "description": "tosscx",
+        "handle": "TOSSCX-AS"
+    },
+    "131887": {
+        "country_code": "KR",
+        "asn": "131887",
+        "description": "ECOUNT Inc.",
+        "handle": "ECOUNT-AS"
+    },
+    "131888": {
+        "country_code": "KR",
+        "asn": "131888",
+        "description": "Korea Internet Security Agency",
+        "handle": "GDX1-AS"
+    },
+    "131889": {
+        "country_code": "KR",
+        "asn": "131889",
+        "description": "Korea Internet Security Agency",
+        "handle": "GDX2-AS"
+    },
+    "131890": {
+        "country_code": "KR",
+        "asn": "131890",
+        "description": "Tmoney co. ltd",
+        "handle": "TMONEYMOBILITY-AS"
+    },
+    "133059": {
+        "country_code": "KR",
+        "asn": "133059",
+        "description": "BNZO MULTIMEDIA CO. LTD.",
+        "handle": "BNZOMULTIMEDIA-AS-AP"
+    },
+    "133463": {
+        "country_code": "KR",
+        "asn": "133463",
+        "description": "HO JUNG CO. LTD.",
+        "handle": "HOJUNGCOLTD-AS-AP"
+    },
+    "135120": {
+        "country_code": "KR",
+        "asn": "135120",
+        "description": "PROJECT ELIV",
+        "handle": "PROJECTELIV-AS-AP"
+    },
+    "135605": {
+        "country_code": "KR",
+        "asn": "135605",
+        "description": "MOACK.Co.LTD",
+        "handle": "MOACKCOLTD-AS-AP"
+    },
+    "135669": {
+        "country_code": "KR",
+        "asn": "135669",
+        "description": "KCInfra",
+        "handle": "KCINFRA-AS-AP"
+    },
+    "136747": {
+        "country_code": "KR",
+        "asn": "136747",
+        "description": "MOACK.Co.LTD",
+        "handle": "MOACKCOLTD-AS-AP"
+    },
+    "136800": {
+        "country_code": "KR",
+        "asn": "136800",
+        "description": "MOACK.Co.LTD",
+        "handle": "MOACKCOLTD-AS-AP"
+    },
+    "138195": {
+        "country_code": "KR",
+        "asn": "138195",
+        "description": "MOACK.Co.LTD",
+        "handle": "MOACKCOLTD-AS-AP"
+    },
+    "138380": {
+        "country_code": "KR",
+        "asn": "138380",
+        "description": "VOLVO GROUP KOREA CO LTD Construction Equipment Seoul",
+        "handle": "VOLVO-GROUP-IT-APNIC-AS-AP"
+    },
+    "139281": {
+        "country_code": "KR",
+        "asn": "139281",
+        "description": "Equinix Korea LLC",
+        "handle": "EQUINIX-AS-AP"
+    },
+    "139286": {
+        "country_code": "KR",
+        "asn": "139286",
+        "description": "Equinix Korea LLC",
+        "handle": "EQUINIX-AS-AP"
+    },
+    "139311": {
+        "country_code": "KR",
+        "asn": "139311",
+        "description": "Stella IT Inc",
+        "handle": "STELLAIT-AS-AP"
+    },
+    "139648": {
+        "country_code": "KR",
+        "asn": "139648",
+        "description": "CloudNX",
+        "handle": "PACKETSTREAM-AS-AP"
+    },
+    "141191": {
+        "country_code": "KR",
+        "asn": "141191",
+        "description": "Creativelab Corp.",
+        "handle": "CLOUDNX-ENT"
+    },
+    "142262": {
+        "country_code": "KR",
+        "asn": "142262",
+        "description": "434480",
+        "handle": "MCL-AS-AP"
+    },
+    "142273": {
+        "country_code": "KR",
+        "asn": "142273",
+        "description": "Digital Realty Korea Ltd.",
+        "handle": "DRKL-AS-AP"
+    },
+    "149522": {
+        "country_code": "KR",
+        "asn": "149522",
+        "description": "OneCubit Co. Ltd.",
+        "handle": "ONECUBITCOLTD-AS-AP"
+    },
+    "150414": {
+        "country_code": "KR",
+        "asn": "150414",
+        "description": "OneCubit Co. Ltd.",
+        "handle": "DATABROOK-AS-AP"
+    },
+    "150805": {
+        "country_code": "KR",
+        "asn": "150805",
+        "description": "A-FIN KOREA CORP",
+        "handle": "A-FIN-KR-AS"
+    },
+    "151349": {
+        "country_code": "KR",
+        "asn": "151349",
+        "description": "Yuki Network Ltd",
+        "handle": "YUKI-NET-AS-AP"
+    },
+    "151490": {
+        "country_code": "KR",
+        "asn": "151490",
+        "description": "GaonIT",
+        "handle": "GAONIT-AS"
+    },
+    "151810": {
+        "country_code": "KR",
+        "asn": "151810",
+        "description": "Phylaxis Inc.",
+        "handle": "PHYLAXISINC-AS-AP"
+    },
+    "152196": {
+        "country_code": "KR",
+        "asn": "152196",
+        "description": "WEMADE",
+        "handle": "WEMADE-AS"
+    },
+    "152197": {
+        "country_code": "KR",
+        "asn": "152197",
+        "description": "Busan Port Authority",
+        "handle": "BUSANPA-AS"
+    },
+    "152198": {
+        "country_code": "KR",
+        "asn": "152198",
+        "description": "Gangwon State University",
+        "handle": "GWACKR-AS"
+    },
+    "152199": {
+        "country_code": "KR",
+        "asn": "152199",
+        "description": "Kakao Corp",
+        "handle": "KAKAOCORP-AS"
+    },
+    "152200": {
+        "country_code": "KR",
+        "asn": "152200",
+        "description": "SMBS",
+        "handle": "FXSEOUL-AS"
+    },
+    "152201": {
+        "country_code": "KR",
+        "asn": "152201",
+        "description": "NongHyup Agribusiness Group inc.",
+        "handle": "NHAG-AS"
+    },
+    "152202": {
+        "country_code": "KR",
+        "asn": "152202",
+        "description": "NCIDS",
+        "handle": "NCHQ-AS"
+    },
+    "152203": {
+        "country_code": "KR",
+        "asn": "152203",
+        "description": "KOREA SOUTH EAST POWER",
+        "handle": "KOEN-AS"
+    },
+    "152204": {
+        "country_code": "KR",
+        "asn": "152204",
+        "description": "JW Holdings",
+        "handle": "JWGROUP-AS"
+    },
+    "152205": {
+        "country_code": "KR",
+        "asn": "152205",
+        "description": "imobi inc",
+        "handle": "IMOBI-AS"
+    },
+    "152206": {
+        "country_code": "KR",
+        "asn": "152206",
+        "description": "KCTC",
+        "handle": "SHINDUCKPYUNG2-AS"
+    },
+    "152207": {
+        "country_code": "KR",
+        "asn": "152207",
+        "description": "KART KIDI",
+        "handle": "AOSDMZ-AS"
+    },
+    "152208": {
+        "country_code": "KR",
+        "asn": "152208",
+        "description": "KART KIDI",
+        "handle": "AOSVPN-AS"
+    },
+    "152209": {
+        "country_code": "KR",
+        "asn": "152209",
+        "description": "Eromnet Inc",
+        "handle": "EROMNET-AS"
+    },
+    "152210": {
+        "country_code": "KR",
+        "asn": "152210",
+        "description": "HyosungITX",
+        "handle": "HYOSUNGITX2-AS"
+    },
+    "152211": {
+        "country_code": "KR",
+        "asn": "152211",
+        "description": "Toss Securities Co. Ltd.",
+        "handle": "TOSSSECURITIES-AS"
+    },
+    "152212": {
+        "country_code": "KR",
+        "asn": "152212",
+        "description": "Korea Institute of Science and Technology Evaluation and Planning",
+        "handle": "IRIS-AS"
+    },
+    "152213": {
+        "country_code": "KR",
+        "asn": "152213",
+        "description": "MogSoft Co. Ltd.",
+        "handle": "HOSHINO-AS"
+    },
+    "152214": {
+        "country_code": "KR",
+        "asn": "152214",
+        "description": "Korean Air Lines",
+        "handle": "KOREANAIRLINES-AS"
+    },
+    "152215": {
+        "country_code": "KR",
+        "asn": "152215",
+        "description": "Korea Insurance Development Institute",
+        "handle": "KACRHR-AS"
+    },
+    "152216": {
+        "country_code": "KR",
+        "asn": "152216",
+        "description": "Korea Insurance Development Institute",
+        "handle": "KACRPR-AS"
+    },
+    "152217": {
+        "country_code": "KR",
+        "asn": "152217",
+        "description": "Korea Gas Safety Corporation",
+        "handle": "KGS-AS"
+    },
+    "152218": {
+        "country_code": "KR",
+        "asn": "152218",
+        "description": "HANA CAPITAL",
+        "handle": "HANACAPITAL-AS"
+    },
+    "152219": {
+        "country_code": "KR",
+        "asn": "152219",
+        "description": "nextrade",
+        "handle": "NEXTRADE-AS"
+    },
+    "152220": {
+        "country_code": "KR",
+        "asn": "152220",
+        "description": "Hanwha Asset Management",
+        "handle": "HWPE-AS"
+    },
+    "152221": {
+        "country_code": "KR",
+        "asn": "152221",
+        "description": "YonhapnewsTV",
+        "handle": "YONHAPNEWSTV-AS"
+    },
+    "152222": {
+        "country_code": "KR",
+        "asn": "152222",
+        "description": "HYUNDAI COMMERCIAL INC.",
+        "handle": "HCI02-AS"
+    },
+    "152223": {
+        "country_code": "KR",
+        "asn": "152223",
+        "description": "AIRZETA CO. LTD",
+        "handle": "AIRINCHEON-AS"
+    },
+    "152224": {
+        "country_code": "KR",
+        "asn": "152224",
+        "description": "HYUNDAI COMMERCIAL INC.",
+        "handle": "HCI03-AS"
+    },
+    "152225": {
+        "country_code": "KR",
+        "asn": "152225",
+        "description": "VNTG",
+        "handle": "SEAH-AS"
+    },
+    "152226": {
+        "country_code": "KR",
+        "asn": "152226",
+        "description": "PARADISE",
+        "handle": "PARADISE-AS"
+    },
+    "152227": {
+        "country_code": "KR",
+        "asn": "152227",
+        "description": "KENTECH",
+        "handle": "KENTECH-AS"
+    },
+    "152228": {
+        "country_code": "KR",
+        "asn": "152228",
+        "description": "Woowa Brothers Corp.",
+        "handle": "WOOWA1-AS"
+    },
+    "152229": {
+        "country_code": "KR",
+        "asn": "152229",
+        "description": "Coupang Inc",
+        "handle": "COUPANGCIC-AS"
+    },
+    "152230": {
+        "country_code": "KR",
+        "asn": "152230",
+        "description": "Woowa Brothers Corp.",
+        "handle": "WOOWA2-AS"
+    },
+    "152231": {
+        "country_code": "KR",
+        "asn": "152231",
+        "description": "Quantil Inc. Korea",
+        "handle": "QUANTIL-AS"
+    },
+    "152232": {
+        "country_code": "KR",
+        "asn": "152232",
+        "description": "kt cloud Co. Ltd",
+        "handle": "KTCC-AS"
+    },
+    "152233": {
+        "country_code": "KR",
+        "asn": "152233",
+        "description": "trizn inc.",
+        "handle": "TRIZN-AS"
+    },
+    "152234": {
+        "country_code": "KR",
+        "asn": "152234",
+        "description": "GYEONGGI TRANSPORT CORPORATION",
+        "handle": "GGSTS-AS"
+    },
+    "152282": {
+        "country_code": "KR",
+        "asn": "152282",
+        "description": "National Fire Hospital",
+        "handle": "NFH-AS"
+    },
+    "152283": {
+        "country_code": "KR",
+        "asn": "152283",
+        "description": "Korea Elevator Safety Agency",
+        "handle": "KOELSA-AS"
+    },
+    "152284": {
+        "country_code": "KR",
+        "asn": "152284",
+        "description": "Daewoo Information Systems",
+        "handle": "WOORIFCAPITAL-AS"
+    },
+    "152285": {
+        "country_code": "KR",
+        "asn": "152285",
+        "description": "welcomepayments",
+        "handle": "GYWP-AS"
+    },
+    "152286": {
+        "country_code": "KR",
+        "asn": "152286",
+        "description": "Meritz Securities Co. Ltd.",
+        "handle": "MERITZ-AS"
+    },
+    "152287": {
+        "country_code": "KR",
+        "asn": "152287",
+        "description": "HANWHALIFE",
+        "handle": "HANWHALIFE-AS"
+    },
+    "152288": {
+        "country_code": "KR",
+        "asn": "152288",
+        "description": "KOSPO",
+        "handle": "KOSPO-AS"
+    },
+    "152289": {
+        "country_code": "KR",
+        "asn": "152289",
+        "description": "KIMCHANG",
+        "handle": "KIMCHANG-AS"
+    },
+    "152290": {
+        "country_code": "KR",
+        "asn": "152290",
+        "description": "Jejuair",
+        "handle": "JEJUAIR-AS"
+    },
+    "152291": {
+        "country_code": "KR",
+        "asn": "152291",
+        "description": "NHNCLOUD",
+        "handle": "NHNGPUSERVICE-AS"
+    },
+    "152292": {
+        "country_code": "KR",
+        "asn": "152292",
+        "description": "BCCARD",
+        "handle": "BCVISA-AS"
+    },
+    "152293": {
+        "country_code": "KR",
+        "asn": "152293",
+        "description": "HAESUNGDS",
+        "handle": "HDSNET-AS"
+    },
+    "152294": {
+        "country_code": "KR",
+        "asn": "152294",
+        "description": "KIS Information Communication Inc",
+        "handle": "KISMSG-AS"
+    },
+    "152295": {
+        "country_code": "KR",
+        "asn": "152295",
+        "description": "Celltrion",
+        "handle": "CELLTRION-AS"
+    },
+    "152671": {
+        "country_code": "KR",
+        "asn": "152671",
+        "description": "SPARCS",
+        "handle": "SPARCS-AS"
+    },
+    "152878": {
+        "country_code": "KR",
+        "asn": "152878",
+        "description": "Luna",
+        "handle": "LUNA-AS-AP"
+    },
+    "152911": {
+        "country_code": "KR",
+        "asn": "152911",
+        "description": "SY ICT",
+        "handle": "SYICT-AS"
+    },
+    "153461": {
+        "country_code": "KR",
+        "asn": "153461",
+        "description": "Digital Layer Co. Ltd.",
+        "handle": "DIGITAL-LAYER-AS"
+    },
+    "153589": {
+        "country_code": "KR",
+        "asn": "153589",
+        "description": "VOLVO GROUP KOREA CO LTD Construction Equipment Seoul",
+        "handle": "VOLVO-GROUP-IT-APNIC-AS-AP"
+    },
+    "153782": {
+        "country_code": "KR",
+        "asn": "153782",
+        "description": "Com2Math Inc.",
+        "handle": "COM2MATHINC-AS-AP"
+    },
+    "153894": {
+        "country_code": "KR",
+        "asn": "153894",
+        "description": "Bada Communications",
+        "handle": "BADACOMMUNICATIONS-AS-AP"
+    },
+    "153993": {
+        "country_code": "KR",
+        "asn": "153993",
+        "description": "SKH Systems",
+        "handle": "SKH-AS-AP"
+    },
+    "153997": {
+        "country_code": "KR",
+        "asn": "153997",
+        "description": "PROJECT ELIV",
+        "handle": "PROJECTELIV-AS-AP"
+    },
+    "154270": {
+        "country_code": "KR",
+        "asn": "154270",
+        "description": "VOLVO GROUP KOREA CO LTD Construction Equipment Seoul",
+        "handle": "VOLVO-GROUP-IT-APNIC-AS-AP"
+    },
+    "198959": {
+        "country_code": "KR",
+        "asn": "198959",
+        "description": "Jongmin Park trading as Oneroom Developer",
+        "handle": "ONEROOMNETWORK"
+    },
+    "198989": {
+        "country_code": "KR",
+        "asn": "198989",
+        "description": "HYEONGWOO JEN trading as Stardust",
+        "handle": "STARDUST"
+    },
+    "200965": {
+        "country_code": "KR",
+        "asn": "200965",
+        "description": "Dongmin Lee",
+        "handle": "DONGMIN"
+    },
+    "200983": {
+        "country_code": "KR",
+        "asn": "200983",
+        "description": "YoungSeo Kim",
+        "handle": "YOUNGSEOAS"
+    },
+    "201159": {
+        "country_code": "KR",
+        "asn": "201159",
+        "description": "Kawaii Beer Network",
+        "handle": "KBN-RIPE"
+    },
+    "201423": {
+        "country_code": "KR",
+        "asn": "201423",
+        "description": "Seojun Yun",
+        "handle": "LUNALIGHT-NETWORK"
+    },
+    "201666": {
+        "country_code": "KR",
+        "asn": "201666",
+        "description": "Yoonsu Son trading as YSSOFT",
+        "handle": "YSSOFT"
+    },
+    "202002": {
+        "country_code": "KR",
+        "asn": "202002",
+        "description": "Jihun Lee",
+        "handle": "JIHUN-AS"
+    },
+    "202348": {
+        "country_code": "KR",
+        "asn": "202348",
+        "description": "Young Min Kim trading as Ylem",
+        "handle": "YLEM"
+    },
+    "202437": {
+        "country_code": "KR",
+        "asn": "202437",
+        "description": "Heo Jun trading as ParkAppsHouse",
+        "handle": "PARKAPPSHOUSEIDC"
+    },
+    "203040": {
+        "country_code": "KR",
+        "asn": "203040",
+        "description": "Sangmyoung Lee",
+        "handle": "AS203040"
+    },
+    "206439": {
+        "country_code": "KR",
+        "asn": "206439",
+        "description": "Minseo Kim",
+        "handle": "QUBIT"
+    },
+    "210138": {
+        "country_code": "KR",
+        "asn": "210138",
+        "description": "Yang Hyeokjun",
+        "handle": "MINATO-VIRTUAL-NETWORK"
+    },
+    "210528": {
+        "country_code": "KR",
+        "asn": "210528",
+        "description": "Navox co. Ltd",
+        "handle": "NAVOX"
+    },
+    "210576": {
+        "country_code": "KR",
+        "asn": "210576",
+        "description": "Sangmin Lee trading as YAGUMYAGUM",
+        "handle": "AS-YAGUMYAGUM"
+    },
+    "210919": {
+        "country_code": "KR",
+        "asn": "210919",
+        "description": "Navox co. Ltd",
+        "handle": "KOREA"
+    },
+    "211977": {
+        "country_code": "KR",
+        "asn": "211977",
+        "description": "ko geumpil",
+        "handle": "GEUMPILKO"
+    },
+    "212388": {
+        "country_code": "KR",
+        "asn": "212388",
+        "description": "Auraz Corporation Co. Ltd.",
+        "handle": "AURAZCORP"
+    },
+    "213800": {
+        "country_code": "KR",
+        "asn": "213800",
+        "description": "JAIYEON SIM",
+        "handle": "ASDF"
+    },
+    "213977": {
+        "country_code": "KR",
+        "asn": "213977",
+        "description": "SeungHoon Baek",
+        "handle": "SEUNGHOON-AS"
+    },
+    "214166": {
+        "country_code": "KR",
+        "asn": "214166",
+        "description": "Woojin Roh",
+        "handle": "WOOJINROH-AS"
+    },
+    "214189": {
+        "country_code": "KR",
+        "asn": "214189",
+        "description": "Doyeon Lee",
+        "handle": "DOYEONLEE-AS"
+    },
+    "214510": {
+        "country_code": "KR",
+        "asn": "214510",
+        "description": "Rhajune Park",
+        "handle": "WEBTACULAR"
+    },
+    "214765": {
+        "country_code": "KR",
+        "asn": "214765",
+        "description": "Sanghui Park",
+        "handle": "ALEX4386-RIPE-NET"
+    },
+    "215087": {
+        "country_code": "KR",
+        "asn": "215087",
+        "description": "Dongwon Lee",
+        "handle": "UIHARU-NETWORK"
+    },
+    "215190": {
+        "country_code": "KR",
+        "asn": "215190",
+        "description": "JAESUNG JEONG",
+        "handle": "HOGOK-NETWORK"
+    },
+    "215343": {
+        "country_code": "KR",
+        "asn": "215343",
+        "description": "Minjae Kim",
+        "handle": "MINJAE-AS"
+    },
+    "216042": {
+        "country_code": "KR",
+        "asn": "216042",
+        "description": "Jihyuk Lee",
+        "handle": "JIHYUKLAB"
+    },
+    "216216": {
+        "country_code": "KR",
+        "asn": "216216",
+        "description": "Euiseo Cha",
+        "handle": "EUISEO-AS"
+    },
+    "216278": {
+        "country_code": "KR",
+        "asn": "216278",
+        "description": "TopMania Corp.",
+        "handle": "TOPMANIA-AS"
+    },
+    "216294": {
+        "country_code": "KR",
+        "asn": "216294",
+        "description": "Minjae Kim",
+        "handle": "XTT"
+    },
+    "216362": {
+        "country_code": "KR",
+        "asn": "216362",
+        "description": "Ham Jun Hyeong",
+        "handle": "CLAST"
+    },
+    "401631": {
+        "country_code": "KR",
+        "asn": "401631",
+        "description": "DataForge Solutions LLC",
+        "handle": "DATAF"
+    },
+    "401843": {
+        "country_code": "KR",
+        "asn": "401843",
+        "description": "Synthetix Labs LLC",
+        "handle": "SYNTHETIX-LABS-NETWORK"
+    }
+}

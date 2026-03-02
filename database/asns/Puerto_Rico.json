@@ -1,0 +1,734 @@
+{
+    "3682": {
+        "country_code": "PR",
+        "asn": "3682",
+        "description": "CRACIN",
+        "handle": "RACIN"
+    },
+    "3838": {
+        "country_code": "PR",
+        "asn": "3838",
+        "description": "Ubinet Wireless",
+        "handle": "UBINET-WIRELESS"
+    },
+    "5106": {
+        "country_code": "PR",
+        "asn": "5106",
+        "description": "WinPR Inc.",
+        "handle": "DGCALL"
+    },
+    "5786": {
+        "country_code": "PR",
+        "asn": "5786",
+        "description": "University of Puerto Rico",
+        "handle": "UPRENET"
+    },
+    "6208": {
+        "country_code": "PR",
+        "asn": "6208",
+        "description": "FiberX",
+        "handle": "FIBERX"
+    },
+    "10396": {
+        "country_code": "PR",
+        "asn": "10396",
+        "description": "DATACOM CARIBE INC.",
+        "handle": "COQUI-NET"
+    },
+    "10524": {
+        "country_code": "PR",
+        "asn": "10524",
+        "description": "GOYA DE PUERTO RICO",
+        "handle": "GOYAD-02"
+    },
+    "10937": {
+        "country_code": "PR",
+        "asn": "10937",
+        "description": "Liberty Mobile Puerto Rico Inc.",
+        "handle": "CENTENNIAL-PR"
+    },
+    "11367": {
+        "country_code": "PR",
+        "asn": "11367",
+        "description": "WorldNet Telecommunications LLC",
+        "handle": "ICENET"
+    },
+    "11653": {
+        "country_code": "PR",
+        "asn": "11653",
+        "description": "Puerto Rico Webmasters",
+        "handle": "ESS-PR-WEBMASTERS"
+    },
+    "11907": {
+        "country_code": "PR",
+        "asn": "11907",
+        "description": "GM Security Technologies Inc.",
+        "handle": "GMST-PR"
+    },
+    "11992": {
+        "country_code": "PR",
+        "asn": "11992",
+        "description": "Liberty Mobile Puerto Rico Inc.",
+        "handle": "LIBERTY-MOB-PR"
+    },
+    "12043": {
+        "country_code": "PR",
+        "asn": "12043",
+        "description": "DM Wireless LLC",
+        "handle": "DMWIRELESS-FIBER"
+    },
+    "12206": {
+        "country_code": "PR",
+        "asn": "12206",
+        "description": "DNP Networks",
+        "handle": "DNPNE"
+    },
+    "13568": {
+        "country_code": "PR",
+        "asn": "13568",
+        "description": "Evertec",
+        "handle": "EVERTEC"
+    },
+    "14534": {
+        "country_code": "PR",
+        "asn": "14534",
+        "description": "UNONET CORP",
+        "handle": "UNONET-CORP"
+    },
+    "14920": {
+        "country_code": "PR",
+        "asn": "14920",
+        "description": "Evertec",
+        "handle": "EVERTEC"
+    },
+    "14957": {
+        "country_code": "PR",
+        "asn": "14957",
+        "description": "Puerto Rico Electric Power Authority",
+        "handle": "PREPA-UUNT1"
+    },
+    "14974": {
+        "country_code": "PR",
+        "asn": "14974",
+        "description": "Virtual Inc.",
+        "handle": "VIRTUAL-INC"
+    },
+    "14979": {
+        "country_code": "PR",
+        "asn": "14979",
+        "description": "Aeronet Wireless",
+        "handle": "AERONET-WIRELESS"
+    },
+    "15261": {
+        "country_code": "PR",
+        "asn": "15261",
+        "description": "Zellius Telecommunications Inc.",
+        "handle": "ZT"
+    },
+    "16649": {
+        "country_code": "PR",
+        "asn": "16649",
+        "description": "Interamerican University of Puerto Rico",
+        "handle": "IUPR-AS"
+    },
+    "18804": {
+        "country_code": "PR",
+        "asn": "18804",
+        "description": "Puerto Rico Internet Exchange Inc.",
+        "handle": "PR-IX"
+    },
+    "18895": {
+        "country_code": "PR",
+        "asn": "18895",
+        "description": "Nustream Communications",
+        "handle": "NUSTREAM-COMMUNICATIONS"
+    },
+    "19163": {
+        "country_code": "PR",
+        "asn": "19163",
+        "description": "CONEX",
+        "handle": "CONEX"
+    },
+    "20372": {
+        "country_code": "PR",
+        "asn": "20372",
+        "description": "Office of Management and Budget",
+        "handle": "GOBIERNOPR-AS"
+    },
+    "21559": {
+        "country_code": "PR",
+        "asn": "21559",
+        "description": "OSNET",
+        "handle": "OSNET"
+    },
+    "21944": {
+        "country_code": "PR",
+        "asn": "21944",
+        "description": "VelocityNet PR",
+        "handle": "VELOCITYNET"
+    },
+    "22162": {
+        "country_code": "PR",
+        "asn": "22162",
+        "description": "IP SOLUTIONS INC.",
+        "handle": "IP-SOLUTIONS-AYU"
+    },
+    "22555": {
+        "country_code": "PR",
+        "asn": "22555",
+        "description": "Smart Networks LLC",
+        "handle": "SMARTNETWORKS"
+    },
+    "22888": {
+        "country_code": "PR",
+        "asn": "22888",
+        "description": "Sistema Universitario Ana G. Mendez",
+        "handle": "SUAGM"
+    },
+    "23114": {
+        "country_code": "PR",
+        "asn": "23114",
+        "description": "Critical Hub Networks",
+        "handle": "CRITICALHUBNET"
+    },
+    "23379": {
+        "country_code": "PR",
+        "asn": "23379",
+        "description": "Blackburn Technologies II LLC",
+        "handle": "AS-BBT"
+    },
+    "23534": {
+        "country_code": "PR",
+        "asn": "23534",
+        "description": "Puerto Rico Medical Services Administration",
+        "handle": "PRMSA-ASEMNET-ASN"
+    },
+    "26027": {
+        "country_code": "PR",
+        "asn": "26027",
+        "description": "Big Dog Internet",
+        "handle": "BDIASN"
+    },
+    "27024": {
+        "country_code": "PR",
+        "asn": "27024",
+        "description": "Cloudsmash LLC",
+        "handle": "CLOUDSMASH"
+    },
+    "27213": {
+        "country_code": "PR",
+        "asn": "27213",
+        "description": "PRC Internet Corp",
+        "handle": "PRCINTERNET-GATEWAY"
+    },
+    "29857": {
+        "country_code": "PR",
+        "asn": "29857",
+        "description": "UGSWORLD",
+        "handle": "UGSWORLD-AS"
+    },
+    "30201": {
+        "country_code": "PR",
+        "asn": "30201",
+        "description": "MILE Inc.",
+        "handle": "MILE-INC"
+    },
+    "30294": {
+        "country_code": "PR",
+        "asn": "30294",
+        "description": "Familynet Inc.",
+        "handle": "FAMILYNETPR"
+    },
+    "30440": {
+        "country_code": "PR",
+        "asn": "30440",
+        "description": "Xapiens Corporation",
+        "handle": "XAPIENS"
+    },
+    "30526": {
+        "country_code": "PR",
+        "asn": "30526",
+        "description": "Neptuno Media Inc.",
+        "handle": "NEPTUNO-NET"
+    },
+    "30684": {
+        "country_code": "PR",
+        "asn": "30684",
+        "description": "WhiteHat Security Corp.",
+        "handle": "WSC"
+    },
+    "33315": {
+        "country_code": "PR",
+        "asn": "33315",
+        "description": "First BanCorp",
+        "handle": "FIRSTBANK-PUERTO-RICO"
+    },
+    "35892": {
+        "country_code": "PR",
+        "asn": "35892",
+        "description": "DREYFOUS & ASSOCIATES",
+        "handle": "DREYFOUS"
+    },
+    "36064": {
+        "country_code": "PR",
+        "asn": "36064",
+        "description": "Vamos",
+        "handle": "VMT-01"
+    },
+    "36435": {
+        "country_code": "PR",
+        "asn": "36435",
+        "description": "M.S. Wifi Zone Inc.",
+        "handle": "MSWIFIPR"
+    },
+    "36810": {
+        "country_code": "PR",
+        "asn": "36810",
+        "description": "Gauss Research Laboratory Inc.",
+        "handle": "NICPR"
+    },
+    "39963": {
+        "country_code": "PR",
+        "asn": "39963",
+        "description": "IP SOLUTIONS INC.",
+        "handle": "IP-SOLUTIONS"
+    },
+    "40414": {
+        "country_code": "PR",
+        "asn": "40414",
+        "description": "Optivon Inc.",
+        "handle": "OPTIVON"
+    },
+    "40880": {
+        "country_code": "PR",
+        "asn": "40880",
+        "description": "NAICOM CORPORATION",
+        "handle": "NAICOM"
+    },
+    "40906": {
+        "country_code": "PR",
+        "asn": "40906",
+        "description": "MICROJURIS.COM INC.",
+        "handle": "MICROJURIS-AS"
+    },
+    "46793": {
+        "country_code": "PR",
+        "asn": "46793",
+        "description": "ReallyMe LLC",
+        "handle": "REALLYME"
+    },
+    "46839": {
+        "country_code": "PR",
+        "asn": "46839",
+        "description": "Airport Shoppes and Hotel Corp",
+        "handle": "AIRPORT-SHOPPES-HOTEL"
+    },
+    "46865": {
+        "country_code": "PR",
+        "asn": "46865",
+        "description": "ODN INC.",
+        "handle": "ODN"
+    },
+    "46868": {
+        "country_code": "PR",
+        "asn": "46868",
+        "description": "VPNET INC",
+        "handle": "VPNET-2"
+    },
+    "46869": {
+        "country_code": "PR",
+        "asn": "46869",
+        "description": "AWV Communications Inc.",
+        "handle": "AWV-UU1"
+    },
+    "46931": {
+        "country_code": "PR",
+        "asn": "46931",
+        "description": "ONNET",
+        "handle": "ONNETASN"
+    },
+    "46941": {
+        "country_code": "PR",
+        "asn": "46941",
+        "description": "Xairnet",
+        "handle": "XAIRNET-CORP"
+    },
+    "46962": {
+        "country_code": "PR",
+        "asn": "46962",
+        "description": "HRCOM",
+        "handle": "HRCOM"
+    },
+    "53764": {
+        "country_code": "PR",
+        "asn": "53764",
+        "description": "DM Wireless LLC",
+        "handle": "DMWIRELESS"
+    },
+    "53992": {
+        "country_code": "PR",
+        "asn": "53992",
+        "description": "Oriental Bank",
+        "handle": "OFG"
+    },
+    "54123": {
+        "country_code": "PR",
+        "asn": "54123",
+        "description": "COSVI'S-ASSET MANAGEMENT CORP.",
+        "handle": "CAMC-NET"
+    },
+    "54835": {
+        "country_code": "PR",
+        "asn": "54835",
+        "description": "SafeNet Corporation",
+        "handle": "SAFE-NET"
+    },
+    "54848": {
+        "country_code": "PR",
+        "asn": "54848",
+        "description": "Universidad Central del Caribe",
+        "handle": "UNIVERSIDAD-CENTRAL-DEL-CARIBE-PR"
+    },
+    "55068": {
+        "country_code": "PR",
+        "asn": "55068",
+        "description": "SMARTNET LLC",
+        "handle": "SMARTNET-01"
+    },
+    "62627": {
+        "country_code": "PR",
+        "asn": "62627",
+        "description": "WorldNet Telecommunications LLC",
+        "handle": "WORLDNET-TELECOMMUNICATIONS"
+    },
+    "62913": {
+        "country_code": "PR",
+        "asn": "62913",
+        "description": "SpeedyNet",
+        "handle": "SPEEDYNET"
+    },
+    "62931": {
+        "country_code": "PR",
+        "asn": "62931",
+        "description": "Plaza Las Americas Inc.",
+        "handle": "PLAZA-LAS-AMERICAS"
+    },
+    "63058": {
+        "country_code": "PR",
+        "asn": "63058",
+        "description": "HRCOM",
+        "handle": "HRCOM"
+    },
+    "63240": {
+        "country_code": "PR",
+        "asn": "63240",
+        "description": "OSNET",
+        "handle": "OSNPRW"
+    },
+    "63308": {
+        "country_code": "PR",
+        "asn": "63308",
+        "description": "Pharmpix",
+        "handle": "PHARMPIXSUPERNAP"
+    },
+    "63393": {
+        "country_code": "PR",
+        "asn": "63393",
+        "description": "BOOM NET",
+        "handle": "BOOMNETPR01"
+    },
+    "393573": {
+        "country_code": "PR",
+        "asn": "393573",
+        "description": "Fuse Telecom LLC",
+        "handle": "FUSE"
+    },
+    "393678": {
+        "country_code": "PR",
+        "asn": "393678",
+        "description": "XDAR Wireless LLC",
+        "handle": "XDNETPRS"
+    },
+    "393937": {
+        "country_code": "PR",
+        "asn": "393937",
+        "description": "Medical Card System Inc.",
+        "handle": "MCS-PUBLIC-NET"
+    },
+    "394590": {
+        "country_code": "PR",
+        "asn": "394590",
+        "description": "SkyTech",
+        "handle": "SKYTECH"
+    },
+    "394743": {
+        "country_code": "PR",
+        "asn": "394743",
+        "description": "Gigifi",
+        "handle": "GIGIFIBER"
+    },
+    "394963": {
+        "country_code": "PR",
+        "asn": "394963",
+        "description": "Multinational Life Insurance Company",
+        "handle": "MLIC-AS01"
+    },
+    "395471": {
+        "country_code": "PR",
+        "asn": "395471",
+        "description": "Data@ccess Communication Inc.",
+        "handle": "DATACCESSPR"
+    },
+    "395902": {
+        "country_code": "PR",
+        "asn": "395902",
+        "description": "TRIPLE - S SALUD INC",
+        "handle": "GRUPO-TRIPLE-S"
+    },
+    "395968": {
+        "country_code": "PR",
+        "asn": "395968",
+        "description": "FJ Internet",
+        "handle": "FJ-INTERNET"
+    },
+    "396055": {
+        "country_code": "PR",
+        "asn": "396055",
+        "description": "FiberX",
+        "handle": "FIBERXPR1"
+    },
+    "396082": {
+        "country_code": "PR",
+        "asn": "396082",
+        "description": "COSOTNET INC",
+        "handle": "COSOT"
+    },
+    "396899": {
+        "country_code": "PR",
+        "asn": "396899",
+        "description": "Natural G.C. Inc.",
+        "handle": "ASN-NGC"
+    },
+    "397072": {
+        "country_code": "PR",
+        "asn": "397072",
+        "description": "InNet Connections",
+        "handle": "INNET-CONNECTION"
+    },
+    "397359": {
+        "country_code": "PR",
+        "asn": "397359",
+        "description": "InfinityNet Wireless LLC",
+        "handle": "SANINFI-01"
+    },
+    "397399": {
+        "country_code": "PR",
+        "asn": "397399",
+        "description": "Veloz Wireless Corp",
+        "handle": "VELOZ-WIRELESS"
+    },
+    "397470": {
+        "country_code": "PR",
+        "asn": "397470",
+        "description": "Antoniol Electronic",
+        "handle": "ALE-NET"
+    },
+    "397566": {
+        "country_code": "PR",
+        "asn": "397566",
+        "description": "Urban Wifi Networks LLC",
+        "handle": "URBANWIFINETWORKS"
+    },
+    "397598": {
+        "country_code": "PR",
+        "asn": "397598",
+        "description": "OSNET",
+        "handle": "GONET"
+    },
+    "397674": {
+        "country_code": "PR",
+        "asn": "397674",
+        "description": "Skynet Wireless",
+        "handle": "NIGGER-AS01"
+    },
+    "397920": {
+        "country_code": "PR",
+        "asn": "397920",
+        "description": "Everyday Data Inc.",
+        "handle": "EDD-01"
+    },
+    "397939": {
+        "country_code": "PR",
+        "asn": "397939",
+        "description": "BBR IT Synergy LLC",
+        "handle": "AS-SYNERGY"
+    },
+    "398317": {
+        "country_code": "PR",
+        "asn": "398317",
+        "description": "FIREFI LLC",
+        "handle": "FIRE-FI"
+    },
+    "398326": {
+        "country_code": "PR",
+        "asn": "398326",
+        "description": "IM Internet LLC",
+        "handle": "IMINTERNET"
+    },
+    "399126": {
+        "country_code": "PR",
+        "asn": "399126",
+        "description": "I COMM NETWORKS LLC",
+        "handle": "ICOMMNET"
+    },
+    "399291": {
+        "country_code": "PR",
+        "asn": "399291",
+        "description": "Puerto Rico Fiber Network Inc",
+        "handle": "PRFIBERNET"
+    },
+    "399294": {
+        "country_code": "PR",
+        "asn": "399294",
+        "description": "4NET INC",
+        "handle": "4NETPR"
+    },
+    "399412": {
+        "country_code": "PR",
+        "asn": "399412",
+        "description": "KsXpress.Net",
+        "handle": "KS-NETWORK"
+    },
+    "399444": {
+        "country_code": "PR",
+        "asn": "399444",
+        "description": "DWireless & More Inc.",
+        "handle": "DWIRELESS"
+    },
+    "399599": {
+        "country_code": "PR",
+        "asn": "399599",
+        "description": "G&B Networks Solutions",
+        "handle": "GB-NETWORKS-SOLUTIONS"
+    },
+    "399826": {
+        "country_code": "PR",
+        "asn": "399826",
+        "description": "Webiffi LLC",
+        "handle": "WEBIFFI"
+    },
+    "399831": {
+        "country_code": "PR",
+        "asn": "399831",
+        "description": "REAL LINK NETWORK LLC",
+        "handle": "REAL-LINK-NETWORK"
+    },
+    "400154": {
+        "country_code": "PR",
+        "asn": "400154",
+        "description": "Thundernet Wireless",
+        "handle": "THUNDERNET-AS-01"
+    },
+    "400266": {
+        "country_code": "PR",
+        "asn": "400266",
+        "description": "Wind Net",
+        "handle": "WFIBER-ASN"
+    },
+    "400333": {
+        "country_code": "PR",
+        "asn": "400333",
+        "description": "JR Network PR",
+        "handle": "JRNETWORKPR"
+    },
+    "400354": {
+        "country_code": "PR",
+        "asn": "400354",
+        "description": "ALPHANET CORP",
+        "handle": "ALPHANET-WIRELESS"
+    },
+    "400443": {
+        "country_code": "PR",
+        "asn": "400443",
+        "description": "NOVANET",
+        "handle": "NOVANET"
+    },
+    "400939": {
+        "country_code": "PR",
+        "asn": "400939",
+        "description": "Cooperativa de Telecomunicaciones de Puerto Rico (CTPR COOP)",
+        "handle": "CTPR-ASN1"
+    },
+    "401007": {
+        "country_code": "PR",
+        "asn": "401007",
+        "description": "C&C Wireless Puerto Rico",
+        "handle": "GIGANET-WIRELESS-PUERTO-RICO"
+    },
+    "401013": {
+        "country_code": "PR",
+        "asn": "401013",
+        "description": "BNET",
+        "handle": "BNET"
+    },
+    "401022": {
+        "country_code": "PR",
+        "asn": "401022",
+        "description": "PR FIBER",
+        "handle": "PR-FIBER"
+    },
+    "401140": {
+        "country_code": "PR",
+        "asn": "401140",
+        "description": "Helvetia Del Caribe LLC",
+        "handle": "HELVETIA-DEL-CARIBE-LLC"
+    },
+    "401421": {
+        "country_code": "PR",
+        "asn": "401421",
+        "description": "Yireh Networks Services",
+        "handle": "YIREH-NETWORKS"
+    },
+    "401436": {
+        "country_code": "PR",
+        "asn": "401436",
+        "description": "Dimelo Network",
+        "handle": "DIMELONETWORK"
+    },
+    "401831": {
+        "country_code": "PR",
+        "asn": "401831",
+        "description": "VuvaNet LLC",
+        "handle": "VUVANET"
+    },
+    "401866": {
+        "country_code": "PR",
+        "asn": "401866",
+        "description": "Master IT Support",
+        "handle": "MITSUPP"
+    },
+    "401868": {
+        "country_code": "PR",
+        "asn": "401868",
+        "description": "ITConsultantsPR Inc",
+        "handle": "ASN-ITCPR-24"
+    },
+    "401871": {
+        "country_code": "PR",
+        "asn": "401871",
+        "description": "Hospital UPR - Dr. Federico Trilla",
+        "handle": "SERVICIOS-MEDICOS-UNIVERSITARIOS-INC"
+    },
+    "401934": {
+        "country_code": "PR",
+        "asn": "401934",
+        "description": "Alpine Health Technologies",
+        "handle": "ALPINE-HEALTH-TECHNOLOGIES"
+    },
+    "402024": {
+        "country_code": "PR",
+        "asn": "402024",
+        "description": "Bluenet Communication",
+        "handle": "BLUENET-PR-COGEPURI"
+    }
+}

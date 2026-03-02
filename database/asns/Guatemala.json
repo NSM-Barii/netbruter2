@@ -1,0 +1,602 @@
+{
+    "6133": {
+        "country_code": "GT",
+        "asn": "6133",
+        "description": "Red Nacional de Guatemala MAYANet",
+        "handle": "RED-NACIONAL-GUATEMALA-MAYANET"
+    },
+    "6458": {
+        "country_code": "GT",
+        "asn": "6458",
+        "description": "TELECOMUNICACIONES DE GUATEMALA SOCIEDAD ANONIMA",
+        "handle": "TELECOMUNICACIONES-GUATEMALA-SOCIEDAD"
+    },
+    "6487": {
+        "country_code": "GT",
+        "asn": "6487",
+        "description": "Servicios Innovadores de Comunicaci\u00f3n y Entretenimiento S.A.",
+        "handle": "SERVICIOS-INNOVADORES-COMUNICACION"
+    },
+    "10586": {
+        "country_code": "GT",
+        "asn": "10586",
+        "description": "OSI de Guatemala",
+        "handle": "OSI-GUATEMALA"
+    },
+    "13682": {
+        "country_code": "GT",
+        "asn": "13682",
+        "description": "TELECOMUNICACIONES DE GUATEMALA SOCIEDAD ANONIMA",
+        "handle": "TELECOMUNICACIONES-GUATEMALA-SOCIEDAD"
+    },
+    "14754": {
+        "country_code": "GT",
+        "asn": "14754",
+        "description": "TELECOMUNICACIONES DE GUATEMALA SOCIEDAD ANONIMA",
+        "handle": "TELECOMUNICACIONES-GUATEMALA-SOCIEDAD"
+    },
+    "19767": {
+        "country_code": "GT",
+        "asn": "19767",
+        "description": "Global One Guatemala",
+        "handle": "GLOBAL-ONE-GUATEMALA"
+    },
+    "20299": {
+        "country_code": "GT",
+        "asn": "20299",
+        "description": "Newcom Limited",
+        "handle": "NEWCOM-LIMITED"
+    },
+    "23243": {
+        "country_code": "GT",
+        "asn": "23243",
+        "description": "COMCEL GUATEMALA S.A.",
+        "handle": "COMCEL-GUATEMALA"
+    },
+    "26617": {
+        "country_code": "GT",
+        "asn": "26617",
+        "description": "Navega.com S.A.",
+        "handle": "NAVEGACOM"
+    },
+    "27654": {
+        "country_code": "GT",
+        "asn": "27654",
+        "description": "Universidad Francisco Marroquin",
+        "handle": "UNIVERSIDAD-FRANCISCO-MARROQUIN"
+    },
+    "27737": {
+        "country_code": "GT",
+        "asn": "27737",
+        "description": "Cablenet S. A.",
+        "handle": "CABLENET-S-A"
+    },
+    "27799": {
+        "country_code": "GT",
+        "asn": "27799",
+        "description": "Amnet Guatemala S.A.",
+        "handle": "AMNET-GUATEMALA"
+    },
+    "27825": {
+        "country_code": "GT",
+        "asn": "27825",
+        "description": "Ventana Networks S.A.",
+        "handle": "VENTANA-NETWORKS"
+    },
+    "27910": {
+        "country_code": "GT",
+        "asn": "27910",
+        "description": "Banco Industrial",
+        "handle": "BANCO-INDUSTRIAL"
+    },
+    "27929": {
+        "country_code": "GT",
+        "asn": "27929",
+        "description": "RED AVANZADA GUATEMALTECA PARA LA INVESTIGACI\u00d3N Y LA EDUCACI\u00d3N",
+        "handle": "RED-AVANZADA-GUATEMALTECA"
+    },
+    "27933": {
+        "country_code": "GT",
+        "asn": "27933",
+        "description": "Universidad Galileo",
+        "handle": "UNIVERSIDAD-GALILEO"
+    },
+    "28049": {
+        "country_code": "GT",
+        "asn": "28049",
+        "description": "ISP SOLUTIONS S.A.",
+        "handle": "ISP-SOLUTIONS"
+    },
+    "28069": {
+        "country_code": "GT",
+        "asn": "28069",
+        "description": "Banco Azteca de Guatemala S.A.",
+        "handle": "BANCO-AZTECA-GUATEMALA"
+    },
+    "28087": {
+        "country_code": "GT",
+        "asn": "28087",
+        "description": "COMNET S.A.",
+        "handle": "COMNET"
+    },
+    "28105": {
+        "country_code": "GT",
+        "asn": "28105",
+        "description": "DENIMATRIX",
+        "handle": "DENIMATRIX"
+    },
+    "52276": {
+        "country_code": "GT",
+        "asn": "52276",
+        "description": "UFINET Guatemala S. A.",
+        "handle": "UFINET-GUATEMALA-S-A"
+    },
+    "52286": {
+        "country_code": "GT",
+        "asn": "52286",
+        "description": "LIBERTY NETWORKS GUATEMALA LIMITADA",
+        "handle": "LIBERTY-NETWORKS-GUATEMALA"
+    },
+    "52362": {
+        "country_code": "GT",
+        "asn": "52362",
+        "description": "Servicios Innovadores de Comunicaci\u00f3n y Entretenimiento S.A.",
+        "handle": "SERVICIOS-INNOVADORES-COMUNICACION"
+    },
+    "52451": {
+        "country_code": "GT",
+        "asn": "52451",
+        "description": "Superintendencia de Administraci\u00f3n tributaria",
+        "handle": "SUPERINTENDENCIA-ADMINISTRACION-TRIBUTARIA"
+    },
+    "52454": {
+        "country_code": "GT",
+        "asn": "52454",
+        "description": "Servicios de TI",
+        "handle": "SERVICIOS-TI"
+    },
+    "61472": {
+        "country_code": "GT",
+        "asn": "61472",
+        "description": "UFINET Guatemala S. A.",
+        "handle": "UFINET-GUATEMALA-S-A"
+    },
+    "64157": {
+        "country_code": "GT",
+        "asn": "64157",
+        "description": "PUNTO DE TRAFICO DE INTERCAMBIO DE INTERNET GUATEMALA S.A. (PIT GUATEMALA)",
+        "handle": "PUNTO-TRAFICO-INTERCAMBIO"
+    },
+    "64158": {
+        "country_code": "GT",
+        "asn": "64158",
+        "description": "PUNTO DE TRAFICO DE INTERCAMBIO DE INTERNET GUATEMALA S.A. (PIT GUATEMALA)",
+        "handle": "PUNTO-TRAFICO-INTERCAMBIO"
+    },
+    "211604": {
+        "country_code": "GT",
+        "asn": "211604",
+        "description": "Mario Enrique Lopez Guzman",
+        "handle": "MARIO-GUZMAN"
+    },
+    "262166": {
+        "country_code": "GT",
+        "asn": "262166",
+        "description": "Universidad del Valle de Guatemala",
+        "handle": "UNIVERSIDAD-VALLE-GUATEMALA"
+    },
+    "262206": {
+        "country_code": "GT",
+        "asn": "262206",
+        "description": "COMCEL GUATEMALA S.A.",
+        "handle": "COMCEL-GUATEMALA"
+    },
+    "262207": {
+        "country_code": "GT",
+        "asn": "262207",
+        "description": "Corporacion de Internet Sociedad Anonima",
+        "handle": "CORPORACION-INTERNET-SOCIEDAD"
+    },
+    "263218": {
+        "country_code": "GT",
+        "asn": "263218",
+        "description": "INTERNET TELECOMUNICATION COMPANY DE GUATEMALA S.A.",
+        "handle": "INTERNET-TELECOMUNICATION-COMPANY"
+    },
+    "263231": {
+        "country_code": "GT",
+        "asn": "263231",
+        "description": "MOBILE WORLD S.A.",
+        "handle": "MOBILE-WORLD"
+    },
+    "263247": {
+        "country_code": "GT",
+        "asn": "263247",
+        "description": "BANRURAL S.A.",
+        "handle": "BANRURAL"
+    },
+    "263714": {
+        "country_code": "GT",
+        "asn": "263714",
+        "description": "APICASA S.A. (MEGAPACA)",
+        "handle": "APICASA"
+    },
+    "263761": {
+        "country_code": "GT",
+        "asn": "263761",
+        "description": "Broadcom Group S.A",
+        "handle": "BROADCOM-GROUP"
+    },
+    "263763": {
+        "country_code": "GT",
+        "asn": "263763",
+        "description": "REDES HIBRIDAS S. A.",
+        "handle": "REDES-HIBRIDAS-S-A"
+    },
+    "263781": {
+        "country_code": "GT",
+        "asn": "263781",
+        "description": "ONNO NETWORKS SOCIEDAD AN\u00d3NIMA",
+        "handle": "ONNO-NETWORKS-SOCIEDAD-ANONIMA"
+    },
+    "264637": {
+        "country_code": "GT",
+        "asn": "264637",
+        "description": "Blue Consulting Group S. A.",
+        "handle": "BLUE-CONSULTING-GROUP-S-A"
+    },
+    "264639": {
+        "country_code": "GT",
+        "asn": "264639",
+        "description": "CLOUD2NUBE S.A.",
+        "handle": "CLOUD2NUBE"
+    },
+    "264764": {
+        "country_code": "GT",
+        "asn": "264764",
+        "description": "Innova Outsourcing S.A",
+        "handle": "INNOVA-OUTSOURCING"
+    },
+    "265684": {
+        "country_code": "GT",
+        "asn": "265684",
+        "description": "INFINITUM S.A.",
+        "handle": "INFINITUM"
+    },
+    "266678": {
+        "country_code": "GT",
+        "asn": "266678",
+        "description": "Servicios Innovadores de Comunicaci\u00f3n y Entretenimiento S.A.",
+        "handle": "SERVICIOS-INNOVADORES-COMUNICACION"
+    },
+    "266688": {
+        "country_code": "GT",
+        "asn": "266688",
+        "description": "CG Investment Sociedad Anonima",
+        "handle": "CG-INVESTMENT-SOCIEDAD-ANONIMA"
+    },
+    "266696": {
+        "country_code": "GT",
+        "asn": "266696",
+        "description": "TANGLE NETWORK S.A.",
+        "handle": "TANGLE-NETWORK"
+    },
+    "266755": {
+        "country_code": "GT",
+        "asn": "266755",
+        "description": "CONECTIVIDAD Y TECNOLOGIA S.A.",
+        "handle": "CONECTIVIDAD-TECNOLOGIA"
+    },
+    "267713": {
+        "country_code": "GT",
+        "asn": "267713",
+        "description": "JORGE MARIO MENDOZA LUX (PUNTO-NET)",
+        "handle": "JORGE-MARIO-MENDOZA-LUX"
+    },
+    "267715": {
+        "country_code": "GT",
+        "asn": "267715",
+        "description": "RED CENTROAMERICANA DE TELECOMUNICACIONES S.A SUCURSAL GUATEMALA SOCIEDAD EXTRANJERA",
+        "handle": "RED-CENTROAMERICANA-TELECOMUNICACIONES"
+    },
+    "267774": {
+        "country_code": "GT",
+        "asn": "267774",
+        "description": "TECNOCOLOR S.A.",
+        "handle": "TECNOCOLOR"
+    },
+    "267828": {
+        "country_code": "GT",
+        "asn": "267828",
+        "description": "Se\u00f1al Nacional S.A.",
+        "handle": "SENAL-NACIONAL"
+    },
+    "267927": {
+        "country_code": "GT",
+        "asn": "267927",
+        "description": "KNOAH SOLUTIONS GUATEMALA S.A.",
+        "handle": "KNOAH-SOLUTIONS-GUATEMALA"
+    },
+    "269740": {
+        "country_code": "GT",
+        "asn": "269740",
+        "description": "ISTMO ENTERTAINMENT SA.",
+        "handle": "ISTMO-ENTERTAINMENT"
+    },
+    "269745": {
+        "country_code": "GT",
+        "asn": "269745",
+        "description": "PLUS NETWORKS",
+        "handle": "PLUS-NETWORKS"
+    },
+    "269824": {
+        "country_code": "GT",
+        "asn": "269824",
+        "description": "INFINITUM S.A.",
+        "handle": "INFINITUM"
+    },
+    "269830": {
+        "country_code": "GT",
+        "asn": "269830",
+        "description": "ESTRATEGIAS Y TELECOMUNICACIONES S.A. (ETELECOM)",
+        "handle": "ESTRATEGIAS-TELECOMUNICACIONES"
+    },
+    "269840": {
+        "country_code": "GT",
+        "asn": "269840",
+        "description": "SUPERWIFI DE GUATEMALA S.A",
+        "handle": "SUPERWIFI-GUATEMALA"
+    },
+    "269899": {
+        "country_code": "GT",
+        "asn": "269899",
+        "description": "TECNOLOGIA EN TELECOMUNICACIONES ABIERTAS S.A.",
+        "handle": "TECNOLOGIA-TELECOMUNICACIONES-ABIERTAS"
+    },
+    "269923": {
+        "country_code": "GT",
+        "asn": "269923",
+        "description": "IHA Futura S.A.",
+        "handle": "IHA-FUTURA"
+    },
+    "269926": {
+        "country_code": "GT",
+        "asn": "269926",
+        "description": "SKYWAY",
+        "handle": "SKYWAY"
+    },
+    "269951": {
+        "country_code": "GT",
+        "asn": "269951",
+        "description": "Banco Promerica Sociedad An\u00f3nima",
+        "handle": "BANCO-PROMERICA-SOCIEDAD"
+    },
+    "269964": {
+        "country_code": "GT",
+        "asn": "269964",
+        "description": "TV CABLE UNIVERSAL S.A",
+        "handle": "TV-CABLE-UNIVERSAL"
+    },
+    "269989": {
+        "country_code": "GT",
+        "asn": "269989",
+        "description": "FIBERNET S.A",
+        "handle": "FIBERNET"
+    },
+    "270036": {
+        "country_code": "GT",
+        "asn": "270036",
+        "description": "NORTVCOM SOCIEDAD ANONIMA",
+        "handle": "NORTVCOM-SOCIEDAD-ANONIMA"
+    },
+    "271885": {
+        "country_code": "GT",
+        "asn": "271885",
+        "description": "ASOCIACI\u00d3N DE RED AVANZADA GUATEMALTECA PARA LA INVESTIGACI\u00d3N Y LA EDUCACI\u00d3N (IXP GT)",
+        "handle": "ASOCIACION-RED-AVANZADA"
+    },
+    "271946": {
+        "country_code": "GT",
+        "asn": "271946",
+        "description": "EMPRESA GUATEMALTECA DE TELECOMUNICACIONES - GUATEL",
+        "handle": "EMPRESA-GUATEMALTECA-TELECOMUNICACIONES"
+    },
+    "271990": {
+        "country_code": "GT",
+        "asn": "271990",
+        "description": "AIRNET COPROPIEDAD",
+        "handle": "AIRNET-COPROPIEDAD"
+    },
+    "272012": {
+        "country_code": "GT",
+        "asn": "272012",
+        "description": "U ENERGY CORP S. A.",
+        "handle": "U-ENERGY-CORP-S-A"
+    },
+    "272013": {
+        "country_code": "GT",
+        "asn": "272013",
+        "description": "DARWIN LEONEL VARGAS PORTILLO (VCONNECTION)",
+        "handle": "DARWIN-LEONEL-VARGAS-PORTILLO"
+    },
+    "272061": {
+        "country_code": "GT",
+        "asn": "272061",
+        "description": "CROSS CONNECT LAC S.A.",
+        "handle": "CROSS-CONNECT-LAC"
+    },
+    "272089": {
+        "country_code": "GT",
+        "asn": "272089",
+        "description": "WAYFI SOCIEDAD ANONIMA",
+        "handle": "WAYFI-SOCIEDAD-ANONIMA"
+    },
+    "272818": {
+        "country_code": "GT",
+        "asn": "272818",
+        "description": "CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA SOCIEDAD ANONIMA",
+        "handle": "CENTRAL-REDES-COMUNICACIONES"
+    },
+    "272832": {
+        "country_code": "GT",
+        "asn": "272832",
+        "description": "CIBERNET S.A.",
+        "handle": "CIBERNET"
+    },
+    "272853": {
+        "country_code": "GT",
+        "asn": "272853",
+        "description": "CORPORACION MALFA SOCIEDAD ANONIMA",
+        "handle": "CORPORACION-MALFA-SOCIEDAD"
+    },
+    "272860": {
+        "country_code": "GT",
+        "asn": "272860",
+        "description": "TRADING CORPORATION GUATEMALA S.A.",
+        "handle": "TRADING-CORPORATION-GUATEMALA"
+    },
+    "272876": {
+        "country_code": "GT",
+        "asn": "272876",
+        "description": "EDWIN RAYMUNDO HERN\u00c1NDEZ PEC (IMPORTADORA Y EXPORTADORA INTERCEL)",
+        "handle": "EDWIN-RAYMUNDO-HERNANDEZ-PEC"
+    },
+    "272969": {
+        "country_code": "GT",
+        "asn": "272969",
+        "description": "HOGARES INTELIGENTES S. A.",
+        "handle": "HOGARES-INTELIGENTES-S-A"
+    },
+    "273041": {
+        "country_code": "GT",
+        "asn": "273041",
+        "description": "Universidad de San Carlos de Guatemala",
+        "handle": "UNIVERSIDAD-SAN-CARLOS"
+    },
+    "273149": {
+        "country_code": "GT",
+        "asn": "273149",
+        "description": "PUNTO DE TRAFICO DE INTERCAMBIO DE INTERNET GUATEMALA S.A. (PIT GUATEMALA)",
+        "handle": "PUNTO-TRAFICO-INTERCAMBIO"
+    },
+    "273150": {
+        "country_code": "GT",
+        "asn": "273150",
+        "description": "PUNTO DE TRAFICO DE INTERCAMBIO DE INTERNET GUATEMALA S.A. (PIT GUATEMALA)",
+        "handle": "PUNTO-TRAFICO-INTERCAMBIO"
+    },
+    "273152": {
+        "country_code": "GT",
+        "asn": "273152",
+        "description": "MARCO ANTONIO IXCOY VARGAS",
+        "handle": "MARCO-ANTONIO-IXCOY-VARGAS"
+    },
+    "273228": {
+        "country_code": "GT",
+        "asn": "273228",
+        "description": "GUILLERMO ANTONIO MENDOZA TRUJILLO (TECH NET INTERCOMUNICACIONES)",
+        "handle": "GUILLERMO-ANTONIO-MENDOZA"
+    },
+    "273243": {
+        "country_code": "GT",
+        "asn": "273243",
+        "description": "JUAN MANUEL ABRAHAM CHUC TONOC (ORALE)",
+        "handle": "JUAN-MANUEL-ABRAHAM-CHUC-TONOC"
+    },
+    "273831": {
+        "country_code": "GT",
+        "asn": "273831",
+        "description": "TELEPROGRESO SOCIEDAD ANONIMA",
+        "handle": "TELEPROGRESO-SOCIEDAD-ANONIMA"
+    },
+    "273842": {
+        "country_code": "GT",
+        "asn": "273842",
+        "description": "PUBLICHIQUI SOCIEDAD ANONIMA",
+        "handle": "PUBLICHIQUI-SOCIEDAD-ANONIMA"
+    },
+    "273871": {
+        "country_code": "GT",
+        "asn": "273871",
+        "description": "SERVICIOS E INSTALACIONES INTEGRADAS VIA SATELITAL S.A.",
+        "handle": "SERVICIOS-INSTALACIONES-INTEGRADAS"
+    },
+    "273884": {
+        "country_code": "GT",
+        "asn": "273884",
+        "description": "SISTECOM S.A.",
+        "handle": "SISTECOM"
+    },
+    "273897": {
+        "country_code": "GT",
+        "asn": "273897",
+        "description": "BACK OFFICE SMART SOLUTION SOCIEDAD ANONIMA",
+        "handle": "BACK-OFFICE-SMART"
+    },
+    "274033": {
+        "country_code": "GT",
+        "asn": "274033",
+        "description": "DEVEL SECURITY S.A.",
+        "handle": "DEVEL-SECURITY"
+    },
+    "274038": {
+        "country_code": "GT",
+        "asn": "274038",
+        "description": "INVERSIONES Y NEGOCIOS IOT DE GUATEMALA SOCIEDAD AN\u00d3NIMA",
+        "handle": "INVERSIONES-NEGOCIOS-IOT"
+    },
+    "274121": {
+        "country_code": "GT",
+        "asn": "274121",
+        "description": "OPTINET S.A.",
+        "handle": "OPTINET"
+    },
+    "274151": {
+        "country_code": "GT",
+        "asn": "274151",
+        "description": "PAKAL SECURITY LABS SOCIEDAD ANONIMA",
+        "handle": "PAKAL-SECURITY-LABS"
+    },
+    "274182": {
+        "country_code": "GT",
+        "asn": "274182",
+        "description": "ROSA MARIA MENDEZ AVILA DE MALDONADO (CABLE SAMAYAC)",
+        "handle": "ROSA-MARIA-MENDEZ"
+    },
+    "274229": {
+        "country_code": "GT",
+        "asn": "274229",
+        "description": "Empresa Electrica de Guatemala S.A.",
+        "handle": "EMPRESA-ELECTRICA-GUATEMALA"
+    },
+    "274277": {
+        "country_code": "GT",
+        "asn": "274277",
+        "description": "SERVICIOS INNOVADORES EN TELECOMUNICACIONES Y ENTRETENIMIENTO YEIGO Y FIBRANET SA",
+        "handle": "SERVICIOS-INNOVADORES-TELECOMUNICACIONES"
+    },
+    "274295": {
+        "country_code": "GT",
+        "asn": "274295",
+        "description": "SISTEMAS INFORMATICOS DE APLICACIONES SOCIEDAD ANONIMA",
+        "handle": "SISTEMAS-INFORMATICOS-APLICACIONES"
+    },
+    "274315": {
+        "country_code": "GT",
+        "asn": "274315",
+        "description": "UNICABLE SOCIEDAD ANONIMA",
+        "handle": "UNICABLE-SOCIEDAD-ANONIMA"
+    },
+    "274322": {
+        "country_code": "GT",
+        "asn": "274322",
+        "description": "RED INTERNACIONAL DE TELEVISION VIA SATELITAL SOCIEDAD ANONIMA",
+        "handle": "RED-INTERNACIONAL-TELEVISION"
+    },
+    "274846": {
+        "country_code": "GT",
+        "asn": "274846",
+        "description": "INTEGRADORA DE COMUNICACION SATELITAL SOCIEDAD ANONIMA",
+        "handle": "INTEGRADORA-COMUNICACION-SATELITAL"
+    }
+}

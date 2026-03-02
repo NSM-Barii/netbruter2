@@ -159,6 +159,273 @@ class Database():
         "onvif",
         "surveillance"
     ]
+     
+
+
+
+    country_zones = [
+    "af.zone","ax.zone","al.zone","dz.zone","as.zone","ad.zone","ao.zone","ai.zone","aq.zone","ag.zone",
+    "ar.zone","am.zone","aw.zone","au.zone","at.zone","az.zone","bs.zone","bh.zone","bd.zone","bb.zone",
+    "by.zone","be.zone","bz.zone","bj.zone","bm.zone","bt.zone","bo.zone","ba.zone","bw.zone","br.zone",
+    "io.zone","bn.zone","bg.zone","bf.zone","bi.zone","kh.zone","cm.zone","ca.zone","cv.zone","ky.zone",
+    "cf.zone","td.zone","cl.zone","cn.zone","cc.zone","co.zone","km.zone","cg.zone","cd.zone","ck.zone",
+    "cr.zone","ci.zone","hr.zone","cu.zone","cy.zone","cz.zone","dk.zone","dj.zone","dm.zone","do.zone",
+    "ec.zone","eg.zone","sv.zone","gq.zone","er.zone","ee.zone","et.zone","fk.zone","fo.zone","fj.zone",
+    "fi.zone","fr.zone","gf.zone","pf.zone","ga.zone","gm.zone","ge.zone","de.zone","gh.zone","gi.zone",
+    "gr.zone","gl.zone","gd.zone","gp.zone","gu.zone","gt.zone","gn.zone","gw.zone","gy.zone","ht.zone",
+    "va.zone","hn.zone","hk.zone","hu.zone","is.zone","in.zone","id.zone","ir.zone","iq.zone","ie.zone",
+    "im.zone","il.zone","it.zone","jm.zone","jp.zone","je.zone","jo.zone","kz.zone","ke.zone","ki.zone",
+    "kp.zone","kr.zone","kw.zone","kg.zone","la.zone","lv.zone","lb.zone","ls.zone","lr.zone","ly.zone",
+    "li.zone","lt.zone","lu.zone","mo.zone","mk.zone","mg.zone","mw.zone","my.zone","mv.zone","ml.zone",
+    "mt.zone","mh.zone","mq.zone","mr.zone","mu.zone","yt.zone","mx.zone","fm.zone","md.zone","mc.zone",
+    "mn.zone","me.zone","ms.zone","ma.zone","mz.zone","mm.zone","na.zone","nr.zone","np.zone","nl.zone",
+    "nc.zone","nz.zone","ni.zone","ne.zone","ng.zone","nu.zone","nf.zone","mp.zone","no.zone","om.zone",
+    "pk.zone","pw.zone","ps.zone","pa.zone","pg.zone","py.zone","pe.zone","ph.zone","pl.zone","pt.zone",
+    "pr.zone","qa.zone","re.zone","ro.zone","ru.zone","rw.zone","kn.zone","lc.zone","pm.zone","vc.zone",
+    "ws.zone","sm.zone","st.zone","sa.zone","sn.zone","rs.zone","sc.zone","sl.zone","sg.zone","sk.zone",
+    "si.zone","sb.zone","so.zone","za.zone","es.zone","lk.zone","sd.zone","sr.zone","sz.zone","se.zone",
+    "ch.zone","sy.zone","tw.zone","tj.zone","tz.zone","th.zone","tl.zone","tg.zone","tk.zone","to.zone",
+    "tt.zone","tn.zone","tr.zone","tm.zone","tc.zone","tv.zone","ug.zone","ua.zone","ae.zone","gb.zone",
+    "us.zone","um.zone","uy.zone","uz.zone","vu.zone","ve.zone","vn.zone","vg.zone","vi.zone","wf.zone",
+    "ye.zone","zm.zone","zw.zone"
+    ]
+
+    zone_to_country = {
+        "af.zone": "Afghanistan",
+        "ax.zone": "Aland Islands",
+        "al.zone": "Albania",
+        "dz.zone": "Algeria",
+        "as.zone": "American Samoa",
+        "ad.zone": "Andorra",
+        "ao.zone": "Angola",
+        "ai.zone": "Anguilla",
+        "aq.zone": "Antarctica",
+        "ag.zone": "Antigua and Barbuda",
+        "ar.zone": "Argentina",
+        "am.zone": "Armenia",
+        "aw.zone": "Aruba",
+        "au.zone": "Australia",
+        "at.zone": "Austria",
+        "az.zone": "Azerbaijan",
+        "bs.zone": "Bahamas",
+        "bh.zone": "Bahrain",
+        "bd.zone": "Bangladesh",
+        "bb.zone": "Barbados",
+        "by.zone": "Belarus",
+        "be.zone": "Belgium",
+        "bz.zone": "Belize",
+        "bj.zone": "Benin",
+        "bm.zone": "Bermuda",
+        "bt.zone": "Bhutan",
+        "bo.zone": "Bolivia",
+        "ba.zone": "Bosnia and Herzegovina",
+        "bw.zone": "Botswana",
+        "br.zone": "Brazil",
+        "io.zone": "British Indian Ocean Territory",
+        "bn.zone": "Brunei",
+        "bg.zone": "Bulgaria",
+        "bf.zone": "Burkina Faso",
+        "bi.zone": "Burundi",
+        "kh.zone": "Cambodia",
+        "cm.zone": "Cameroon",
+        "ca.zone": "Canada",
+        "cv.zone": "Cape Verde",
+        "ky.zone": "Cayman Islands",
+        "cf.zone": "Central African Republic",
+        "td.zone": "Chad",
+        "cl.zone": "Chile",
+        "cn.zone": "China",
+        "cc.zone": "Cocos Islands",
+        "co.zone": "Colombia",
+        "km.zone": "Comoros",
+        "cg.zone": "Congo",
+        "cd.zone": "Democratic Republic of the Congo",
+        "ck.zone": "Cook Islands",
+        "cr.zone": "Costa Rica",
+        "ci.zone": "Cote d'Ivoire",
+        "hr.zone": "Croatia",
+        "cu.zone": "Cuba",
+        "cy.zone": "Cyprus",
+        "cz.zone": "Czech Republic",
+        "dk.zone": "Denmark",
+        "dj.zone": "Djibouti",
+        "dm.zone": "Dominica",
+        "do.zone": "Dominican Republic",
+        "ec.zone": "Ecuador",
+        "eg.zone": "Egypt",
+        "sv.zone": "El Salvador",
+        "gq.zone": "Equatorial Guinea",
+        "er.zone": "Eritrea",
+        "ee.zone": "Estonia",
+        "et.zone": "Ethiopia",
+        "fk.zone": "Falkland Islands",
+        "fo.zone": "Faroe Islands",
+        "fj.zone": "Fiji",
+        "fi.zone": "Finland",
+        "fr.zone": "France",
+        "gf.zone": "French Guiana",
+        "pf.zone": "French Polynesia",
+        "ga.zone": "Gabon",
+        "gm.zone": "Gambia",
+        "ge.zone": "Georgia",
+        "de.zone": "Germany",
+        "gh.zone": "Ghana",
+        "gi.zone": "Gibraltar",
+        "gr.zone": "Greece",
+        "gl.zone": "Greenland",
+        "gd.zone": "Grenada",
+        "gp.zone": "Guadeloupe",
+        "gu.zone": "Guam",
+        "gt.zone": "Guatemala",
+        "gn.zone": "Guinea",
+        "gw.zone": "Guinea-Bissau",
+        "gy.zone": "Guyana",
+        "ht.zone": "Haiti",
+        "va.zone": "Vatican City",
+        "hn.zone": "Honduras",
+        "hk.zone": "Hong Kong",
+        "hu.zone": "Hungary",
+        "is.zone": "Iceland",
+        "in.zone": "India",
+        "id.zone": "Indonesia",
+        "ir.zone": "Iran",
+        "iq.zone": "Iraq",
+        "ie.zone": "Ireland",
+        "im.zone": "Isle of Man",
+        "il.zone": "Israel",
+        "it.zone": "Italy",
+        "jm.zone": "Jamaica",
+        "jp.zone": "Japan",
+        "je.zone": "Jersey",
+        "jo.zone": "Jordan",
+        "kz.zone": "Kazakhstan",
+        "ke.zone": "Kenya",
+        "ki.zone": "Kiribati",
+        "kp.zone": "North Korea",
+        "kr.zone": "South Korea",
+        "kw.zone": "Kuwait",
+        "kg.zone": "Kyrgyzstan",
+        "la.zone": "Laos",
+        "lv.zone": "Latvia",
+        "lb.zone": "Lebanon",
+        "ls.zone": "Lesotho",
+        "lr.zone": "Liberia",
+        "ly.zone": "Libya",
+        "li.zone": "Liechtenstein",
+        "lt.zone": "Lithuania",
+        "lu.zone": "Luxembourg",
+        "mo.zone": "Macao",
+        "mk.zone": "North Macedonia",
+        "mg.zone": "Madagascar",
+        "mw.zone": "Malawi",
+        "my.zone": "Malaysia",
+        "mv.zone": "Maldives",
+        "ml.zone": "Mali",
+        "mt.zone": "Malta",
+        "mh.zone": "Marshall Islands",
+        "mq.zone": "Martinique",
+        "mr.zone": "Mauritania",
+        "mu.zone": "Mauritius",
+        "yt.zone": "Mayotte",
+        "mx.zone": "Mexico",
+        "fm.zone": "Micronesia",
+        "md.zone": "Moldova",
+        "mc.zone": "Monaco",
+        "mn.zone": "Mongolia",
+        "me.zone": "Montenegro",
+        "ms.zone": "Montserrat",
+        "ma.zone": "Morocco",
+        "mz.zone": "Mozambique",
+        "mm.zone": "Myanmar",
+        "na.zone": "Namibia",
+        "nr.zone": "Nauru",
+        "np.zone": "Nepal",
+        "nl.zone": "Netherlands",
+        "nc.zone": "New Caledonia",
+        "nz.zone": "New Zealand",
+        "ni.zone": "Nicaragua",
+        "ne.zone": "Niger",
+        "ng.zone": "Nigeria",
+        "nu.zone": "Niue",
+        "nf.zone": "Norfolk Island",
+        "mp.zone": "Northern Mariana Islands",
+        "no.zone": "Norway",
+        "om.zone": "Oman",
+        "pk.zone": "Pakistan",
+        "pw.zone": "Palau",
+        "ps.zone": "Palestine",
+        "pa.zone": "Panama",
+        "pg.zone": "Papua New Guinea",
+        "py.zone": "Paraguay",
+        "pe.zone": "Peru",
+        "ph.zone": "Philippines",
+        "pl.zone": "Poland",
+        "pt.zone": "Portugal",
+        "pr.zone": "Puerto Rico",
+        "qa.zone": "Qatar",
+        "re.zone": "Reunion",
+        "ro.zone": "Romania",
+        "ru.zone": "Russia",
+        "rw.zone": "Rwanda",
+        "kn.zone": "Saint Kitts and Nevis",
+        "lc.zone": "Saint Lucia",
+        "pm.zone": "Saint Pierre and Miquelon",
+        "vc.zone": "Saint Vincent and the Grenadines",
+        "ws.zone": "Samoa",
+        "sm.zone": "San Marino",
+        "st.zone": "Sao Tome and Principe",
+        "sa.zone": "Saudi Arabia",
+        "sn.zone": "Senegal",
+        "rs.zone": "Serbia",
+        "sc.zone": "Seychelles",
+        "sl.zone": "Sierra Leone",
+        "sg.zone": "Singapore",
+        "sk.zone": "Slovakia",
+        "si.zone": "Slovenia",
+        "sb.zone": "Solomon Islands",
+        "so.zone": "Somalia",
+        "za.zone": "South Africa",
+        "es.zone": "Spain",
+        "lk.zone": "Sri Lanka",
+        "sd.zone": "Sudan",
+        "sr.zone": "Suriname",
+        "sz.zone": "Eswatini",
+        "se.zone": "Sweden",
+        "ch.zone": "Switzerland",
+        "sy.zone": "Syria",
+        "tw.zone": "Taiwan",
+        "tj.zone": "Tajikistan",
+        "tz.zone": "Tanzania",
+        "th.zone": "Thailand",
+        "tl.zone": "Timor-Leste",
+        "tg.zone": "Togo",
+        "tk.zone": "Tokelau",
+        "to.zone": "Tonga",
+        "tt.zone": "Trinidad and Tobago",
+        "tn.zone": "Tunisia",
+        "tr.zone": "Turkey",
+        "tm.zone": "Turkmenistan",
+        "tc.zone": "Turks and Caicos Islands",
+        "tv.zone": "Tuvalu",
+        "ug.zone": "Uganda",
+        "ua.zone": "Ukraine",
+        "ae.zone": "United Arab Emirates",
+        "gb.zone": "United Kingdom",
+        "us.zone": "United States",
+        "um.zone": "US Minor Outlying Islands",
+        "uy.zone": "Uruguay",
+        "uz.zone": "Uzbekistan",
+        "vu.zone": "Vanuatu",
+        "ve.zone": "Venezuela",
+        "vn.zone": "Vietnam",
+        "vg.zone": "British Virgin Islands",
+        "vi.zone": "US Virgin Islands",
+        "wf.zone": "Wallis and Futuna",
+        "ye.zone": "Yemen",
+        "zm.zone": "Zambia",
+        "zw.zone": "Zimbabwe",
+    }
+            
 
 
     
@@ -433,274 +700,10 @@ class Database():
 
     
     # WARNING
-    @staticmethod
-    def _download_ip_blocks_for_each_country():
+    @classmethod
+    def _download_ip_blocks_for_each_country(cls):
         """This will be a one time use method to automate downloading blocks for each country from ipdeny.com"""
 
-
-        country_zones = [
-        "af.zone","ax.zone","al.zone","dz.zone","as.zone","ad.zone","ao.zone","ai.zone","aq.zone","ag.zone",
-        "ar.zone","am.zone","aw.zone","au.zone","at.zone","az.zone","bs.zone","bh.zone","bd.zone","bb.zone",
-        "by.zone","be.zone","bz.zone","bj.zone","bm.zone","bt.zone","bo.zone","ba.zone","bw.zone","br.zone",
-        "io.zone","bn.zone","bg.zone","bf.zone","bi.zone","kh.zone","cm.zone","ca.zone","cv.zone","ky.zone",
-        "cf.zone","td.zone","cl.zone","cn.zone","cc.zone","co.zone","km.zone","cg.zone","cd.zone","ck.zone",
-        "cr.zone","ci.zone","hr.zone","cu.zone","cy.zone","cz.zone","dk.zone","dj.zone","dm.zone","do.zone",
-        "ec.zone","eg.zone","sv.zone","gq.zone","er.zone","ee.zone","et.zone","fk.zone","fo.zone","fj.zone",
-        "fi.zone","fr.zone","gf.zone","pf.zone","ga.zone","gm.zone","ge.zone","de.zone","gh.zone","gi.zone",
-        "gr.zone","gl.zone","gd.zone","gp.zone","gu.zone","gt.zone","gn.zone","gw.zone","gy.zone","ht.zone",
-        "va.zone","hn.zone","hk.zone","hu.zone","is.zone","in.zone","id.zone","ir.zone","iq.zone","ie.zone",
-        "im.zone","il.zone","it.zone","jm.zone","jp.zone","je.zone","jo.zone","kz.zone","ke.zone","ki.zone",
-        "kp.zone","kr.zone","kw.zone","kg.zone","la.zone","lv.zone","lb.zone","ls.zone","lr.zone","ly.zone",
-        "li.zone","lt.zone","lu.zone","mo.zone","mk.zone","mg.zone","mw.zone","my.zone","mv.zone","ml.zone",
-        "mt.zone","mh.zone","mq.zone","mr.zone","mu.zone","yt.zone","mx.zone","fm.zone","md.zone","mc.zone",
-        "mn.zone","me.zone","ms.zone","ma.zone","mz.zone","mm.zone","na.zone","nr.zone","np.zone","nl.zone",
-        "nc.zone","nz.zone","ni.zone","ne.zone","ng.zone","nu.zone","nf.zone","mp.zone","no.zone","om.zone",
-        "pk.zone","pw.zone","ps.zone","pa.zone","pg.zone","py.zone","pe.zone","ph.zone","pl.zone","pt.zone",
-        "pr.zone","qa.zone","re.zone","ro.zone","ru.zone","rw.zone","kn.zone","lc.zone","pm.zone","vc.zone",
-        "ws.zone","sm.zone","st.zone","sa.zone","sn.zone","rs.zone","sc.zone","sl.zone","sg.zone","sk.zone",
-        "si.zone","sb.zone","so.zone","za.zone","es.zone","lk.zone","sd.zone","sr.zone","sz.zone","se.zone",
-        "ch.zone","sy.zone","tw.zone","tj.zone","tz.zone","th.zone","tl.zone","tg.zone","tk.zone","to.zone",
-        "tt.zone","tn.zone","tr.zone","tm.zone","tc.zone","tv.zone","ug.zone","ua.zone","ae.zone","gb.zone",
-        "us.zone","um.zone","uy.zone","uz.zone","vu.zone","ve.zone","vn.zone","vg.zone","vi.zone","wf.zone",
-        "ye.zone","zm.zone","zw.zone"
-        ]
-
-        zone_to_country = {
-            "af.zone": "Afghanistan",
-            "ax.zone": "Aland Islands",
-            "al.zone": "Albania",
-            "dz.zone": "Algeria",
-            "as.zone": "American Samoa",
-            "ad.zone": "Andorra",
-            "ao.zone": "Angola",
-            "ai.zone": "Anguilla",
-            "aq.zone": "Antarctica",
-            "ag.zone": "Antigua and Barbuda",
-            "ar.zone": "Argentina",
-            "am.zone": "Armenia",
-            "aw.zone": "Aruba",
-            "au.zone": "Australia",
-            "at.zone": "Austria",
-            "az.zone": "Azerbaijan",
-            "bs.zone": "Bahamas",
-            "bh.zone": "Bahrain",
-            "bd.zone": "Bangladesh",
-            "bb.zone": "Barbados",
-            "by.zone": "Belarus",
-            "be.zone": "Belgium",
-            "bz.zone": "Belize",
-            "bj.zone": "Benin",
-            "bm.zone": "Bermuda",
-            "bt.zone": "Bhutan",
-            "bo.zone": "Bolivia",
-            "ba.zone": "Bosnia and Herzegovina",
-            "bw.zone": "Botswana",
-            "br.zone": "Brazil",
-            "io.zone": "British Indian Ocean Territory",
-            "bn.zone": "Brunei",
-            "bg.zone": "Bulgaria",
-            "bf.zone": "Burkina Faso",
-            "bi.zone": "Burundi",
-            "kh.zone": "Cambodia",
-            "cm.zone": "Cameroon",
-            "ca.zone": "Canada",
-            "cv.zone": "Cape Verde",
-            "ky.zone": "Cayman Islands",
-            "cf.zone": "Central African Republic",
-            "td.zone": "Chad",
-            "cl.zone": "Chile",
-            "cn.zone": "China",
-            "cc.zone": "Cocos Islands",
-            "co.zone": "Colombia",
-            "km.zone": "Comoros",
-            "cg.zone": "Congo",
-            "cd.zone": "Democratic Republic of the Congo",
-            "ck.zone": "Cook Islands",
-            "cr.zone": "Costa Rica",
-            "ci.zone": "Cote d'Ivoire",
-            "hr.zone": "Croatia",
-            "cu.zone": "Cuba",
-            "cy.zone": "Cyprus",
-            "cz.zone": "Czech Republic",
-            "dk.zone": "Denmark",
-            "dj.zone": "Djibouti",
-            "dm.zone": "Dominica",
-            "do.zone": "Dominican Republic",
-            "ec.zone": "Ecuador",
-            "eg.zone": "Egypt",
-            "sv.zone": "El Salvador",
-            "gq.zone": "Equatorial Guinea",
-            "er.zone": "Eritrea",
-            "ee.zone": "Estonia",
-            "et.zone": "Ethiopia",
-            "fk.zone": "Falkland Islands",
-            "fo.zone": "Faroe Islands",
-            "fj.zone": "Fiji",
-            "fi.zone": "Finland",
-            "fr.zone": "France",
-            "gf.zone": "French Guiana",
-            "pf.zone": "French Polynesia",
-            "ga.zone": "Gabon",
-            "gm.zone": "Gambia",
-            "ge.zone": "Georgia",
-            "de.zone": "Germany",
-            "gh.zone": "Ghana",
-            "gi.zone": "Gibraltar",
-            "gr.zone": "Greece",
-            "gl.zone": "Greenland",
-            "gd.zone": "Grenada",
-            "gp.zone": "Guadeloupe",
-            "gu.zone": "Guam",
-            "gt.zone": "Guatemala",
-            "gn.zone": "Guinea",
-            "gw.zone": "Guinea-Bissau",
-            "gy.zone": "Guyana",
-            "ht.zone": "Haiti",
-            "va.zone": "Vatican City",
-            "hn.zone": "Honduras",
-            "hk.zone": "Hong Kong",
-            "hu.zone": "Hungary",
-            "is.zone": "Iceland",
-            "in.zone": "India",
-            "id.zone": "Indonesia",
-            "ir.zone": "Iran",
-            "iq.zone": "Iraq",
-            "ie.zone": "Ireland",
-            "im.zone": "Isle of Man",
-            "il.zone": "Israel",
-            "it.zone": "Italy",
-            "jm.zone": "Jamaica",
-            "jp.zone": "Japan",
-            "je.zone": "Jersey",
-            "jo.zone": "Jordan",
-            "kz.zone": "Kazakhstan",
-            "ke.zone": "Kenya",
-            "ki.zone": "Kiribati",
-            "kp.zone": "North Korea",
-            "kr.zone": "South Korea",
-            "kw.zone": "Kuwait",
-            "kg.zone": "Kyrgyzstan",
-            "la.zone": "Laos",
-            "lv.zone": "Latvia",
-            "lb.zone": "Lebanon",
-            "ls.zone": "Lesotho",
-            "lr.zone": "Liberia",
-            "ly.zone": "Libya",
-            "li.zone": "Liechtenstein",
-            "lt.zone": "Lithuania",
-            "lu.zone": "Luxembourg",
-            "mo.zone": "Macao",
-            "mk.zone": "North Macedonia",
-            "mg.zone": "Madagascar",
-            "mw.zone": "Malawi",
-            "my.zone": "Malaysia",
-            "mv.zone": "Maldives",
-            "ml.zone": "Mali",
-            "mt.zone": "Malta",
-            "mh.zone": "Marshall Islands",
-            "mq.zone": "Martinique",
-            "mr.zone": "Mauritania",
-            "mu.zone": "Mauritius",
-            "yt.zone": "Mayotte",
-            "mx.zone": "Mexico",
-            "fm.zone": "Micronesia",
-            "md.zone": "Moldova",
-            "mc.zone": "Monaco",
-            "mn.zone": "Mongolia",
-            "me.zone": "Montenegro",
-            "ms.zone": "Montserrat",
-            "ma.zone": "Morocco",
-            "mz.zone": "Mozambique",
-            "mm.zone": "Myanmar",
-            "na.zone": "Namibia",
-            "nr.zone": "Nauru",
-            "np.zone": "Nepal",
-            "nl.zone": "Netherlands",
-            "nc.zone": "New Caledonia",
-            "nz.zone": "New Zealand",
-            "ni.zone": "Nicaragua",
-            "ne.zone": "Niger",
-            "ng.zone": "Nigeria",
-            "nu.zone": "Niue",
-            "nf.zone": "Norfolk Island",
-            "mp.zone": "Northern Mariana Islands",
-            "no.zone": "Norway",
-            "om.zone": "Oman",
-            "pk.zone": "Pakistan",
-            "pw.zone": "Palau",
-            "ps.zone": "Palestine",
-            "pa.zone": "Panama",
-            "pg.zone": "Papua New Guinea",
-            "py.zone": "Paraguay",
-            "pe.zone": "Peru",
-            "ph.zone": "Philippines",
-            "pl.zone": "Poland",
-            "pt.zone": "Portugal",
-            "pr.zone": "Puerto Rico",
-            "qa.zone": "Qatar",
-            "re.zone": "Reunion",
-            "ro.zone": "Romania",
-            "ru.zone": "Russia",
-            "rw.zone": "Rwanda",
-            "kn.zone": "Saint Kitts and Nevis",
-            "lc.zone": "Saint Lucia",
-            "pm.zone": "Saint Pierre and Miquelon",
-            "vc.zone": "Saint Vincent and the Grenadines",
-            "ws.zone": "Samoa",
-            "sm.zone": "San Marino",
-            "st.zone": "Sao Tome and Principe",
-            "sa.zone": "Saudi Arabia",
-            "sn.zone": "Senegal",
-            "rs.zone": "Serbia",
-            "sc.zone": "Seychelles",
-            "sl.zone": "Sierra Leone",
-            "sg.zone": "Singapore",
-            "sk.zone": "Slovakia",
-            "si.zone": "Slovenia",
-            "sb.zone": "Solomon Islands",
-            "so.zone": "Somalia",
-            "za.zone": "South Africa",
-            "es.zone": "Spain",
-            "lk.zone": "Sri Lanka",
-            "sd.zone": "Sudan",
-            "sr.zone": "Suriname",
-            "sz.zone": "Eswatini",
-            "se.zone": "Sweden",
-            "ch.zone": "Switzerland",
-            "sy.zone": "Syria",
-            "tw.zone": "Taiwan",
-            "tj.zone": "Tajikistan",
-            "tz.zone": "Tanzania",
-            "th.zone": "Thailand",
-            "tl.zone": "Timor-Leste",
-            "tg.zone": "Togo",
-            "tk.zone": "Tokelau",
-            "to.zone": "Tonga",
-            "tt.zone": "Trinidad and Tobago",
-            "tn.zone": "Tunisia",
-            "tr.zone": "Turkey",
-            "tm.zone": "Turkmenistan",
-            "tc.zone": "Turks and Caicos Islands",
-            "tv.zone": "Tuvalu",
-            "ug.zone": "Uganda",
-            "ua.zone": "Ukraine",
-            "ae.zone": "United Arab Emirates",
-            "gb.zone": "United Kingdom",
-            "us.zone": "United States",
-            "um.zone": "US Minor Outlying Islands",
-            "uy.zone": "Uruguay",
-            "uz.zone": "Uzbekistan",
-            "vu.zone": "Vanuatu",
-            "ve.zone": "Venezuela",
-            "vn.zone": "Vietnam",
-            "vg.zone": "British Virgin Islands",
-            "vi.zone": "US Virgin Islands",
-            "wf.zone": "Wallis and Futuna",
-            "ye.zone": "Yemen",
-            "zm.zone": "Zambia",
-            "zw.zone": "Zimbabwe",
-        }
-                
 
 
         """
@@ -716,10 +719,10 @@ class Database():
             os.chdir(ip_block_dir)
             console.print(f"[bold green][+] Successfully changed DIR to: {ip_block_dir}")
             
-            for zone in country_zones:
+            for zone in cls.country_zones:
 
                 url = f"https://www.ipdeny.com/ipblocks/data/countries/{zone}"
-                country  = zone_to_country.get(zone, False)
+                country  = cls.zone_to_country.get(zone, False)
                 if not country: pass
                 safe_country = country.replace(" ", "_")
                 
@@ -729,7 +732,7 @@ class Database():
                 
                 if response.status_code in [200, 204]:
                     with open(f"{safe_country}.txt", "w") as file: file.write(str(response.text))
-                    console.print(f"[bold green][+] Successfully downloaded:[bold yellow] {country}/{zone} <-> {url}")
+                    console.print(f"[bold green][+] Successfully downloaded:[bold yellow] {cls.country}/{cls.zone} <-> {url}")
                 
                 #time.sleep(0.01)
 
@@ -738,8 +741,8 @@ class Database():
         except Exception as e: console.print(f"[bold red][-] Exception Error:[bold yellow] {e}")
     
 
-    @staticmethod
-    def _download_asns_within_each_country():
+    @classmethod
+    def _download_asns_within_each_country(cls):
         """This will be used to download asns for each domain within a country"""
 
         import csv
@@ -747,42 +750,56 @@ class Database():
         try:
 
             country_code = "US"
-            asns = {}
 
             asn_file = str(Path(__file__).parent.parent / "database" / "asns" / "info.txt")
-            save_file = str(Path(__file__).parent.parent / "database" / "asns" / "US" / "asns.json")
 
             console.print(f"[bold green][+] Reading ASN database from: {asn_file}")
-
-            with open(asn_file, 'r') as file:
-                reader = csv.DictReader(file)
-
-                for row in reader:
-                    if row['country-code'] == country_code:
-                        
-
-                        # DATA
-                        country_code = row["country-code"]
-                        asn          = row["asn"]
-                        description  = row["description"]
-                        handle       = row["handle"]
-
-                        data = {
-                            "country_code": country_code,
-                            "asn": asn,
-                            "description": description,
-                            "handle": handle
-                        }
-
-                        asns[row["asn"]] = data
             
-            with open(save_file, "w") as file:
-                json.dump(asns, file, indent=4)
-                console.print(f"[bold green][+] Successfully saved asns: {save_file}")
+
+
+            for code in cls.country_zones:
+
+
+                asns = {}
+                country = cls.zone_to_country.get(code, False)
+                country = country.replace(" ", "_")
+                code = code.split('.')[0]
+
+                if not country: pass
+
+                with open(asn_file, 'r') as file:
+                    reader = csv.DictReader(file)
+
+
+
+
+                    for row in reader:
+                        if row['country-code'].lower() == code:
+                            
+
+                            # DATA
+                            country_code = row["country-code"]
+                            asn          = row["asn"]
+                            description  = row["description"]
+                            handle       = row["handle"]
+
+                            data = {
+                                "country_code": country_code,
+                                "asn": asn,
+                                "description": description,
+                                "handle": handle
+                            }
+
+                            asns[row["asn"]] = data
                 
+                save_file = str(Path(__file__).parent.parent / "database" / "asns" / f"{country}.json")
+                with open(save_file, "w") as file:
+                    json.dump(asns, file, indent=4)
+                    console.print(f"[bold green][+] Successfully saved asns: {save_file}")
+                    
                 
       
-            console.print(f"[bold green][+] Found {len(asns)} ASNs for country code: {country_code}")
+                console.print(f"[bold green][+] Found {len(asns)} ASNs for country code: {code}")
 
 
 
@@ -804,24 +821,14 @@ class Database():
         try:
 
             asns = [
-                "AS34592",
-                "AS16018",
-                "AS197946",
-                "AS29077",
-                "AS35570",
-                "AS31303",
-                "AS42867",
-                "AS48159",
-                "AS49666",
-                "AS51119"
+                "AS5661"
             ]
-
-
+            
 
             # 233 COUNTRYS
             package = {}
 
-            ip_block_dir = str(Path(__file__).parent.parent / "database" / "asns" / "iran")
+            ip_block_dir = str(Path(__file__).parent.parent / "database" / "asns" / "US")
             os.chdir(ip_block_dir)
             console.print(f"[bold green][+] Successfully changed DIR to: {ip_block_dir}")
             
@@ -860,21 +867,6 @@ class Database():
 
         
         except Exception as e: console.print(f"[bold red][-] Exception Error:[bold yellow] {e}")
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     
 
     @classmethod
@@ -957,9 +949,6 @@ class File_Saver():
                 file.write(data)
         
         except Exception as e: CONSOLE.print(f"[bold red][-] Exception Error:[bold yellow] {e}")
-
-
-
 
 
 class Deappreciated():

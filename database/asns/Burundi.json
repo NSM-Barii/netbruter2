@@ -1,0 +1,56 @@
+{
+    "25429": {
+        "country_code": "BI",
+        "asn": "25429",
+        "description": "CBINET Burundi",
+        "handle": "CBINET-AS"
+    },
+    "37336": {
+        "country_code": "BI",
+        "asn": "37336",
+        "description": "Econet - Leo SA",
+        "handle": "UCOM-WIC"
+    },
+    "37429": {
+        "country_code": "BI",
+        "asn": "37429",
+        "description": "SPIDERNET SPRL BURUNDI",
+        "handle": "SPIDERNET"
+    },
+    "37545": {
+        "country_code": "BI",
+        "asn": "37545",
+        "description": "Burundi Backbone System SM",
+        "handle": "BBSS"
+    },
+    "37695": {
+        "country_code": "BI",
+        "asn": "37695",
+        "description": "BurundiX A.S.B.L.",
+        "handle": "BURUNDIX"
+    },
+    "327734": {
+        "country_code": "BI",
+        "asn": "327734",
+        "description": "Econet-Leo SA",
+        "handle": "ECONET"
+    },
+    "327798": {
+        "country_code": "BI",
+        "asn": "327798",
+        "description": "BURUNDI EDUCATION AND RESEARCH NETWORK - BERNET",
+        "handle": "BERNET"
+    },
+    "327799": {
+        "country_code": "BI",
+        "asn": "327799",
+        "description": "VIETTEL BURUNDI SA",
+        "handle": "VIETTEL-BURUNDI"
+    },
+    "328563": {
+        "country_code": "BI",
+        "asn": "328563",
+        "description": "Centre Burundais de l'Internet (CBINET SA)",
+        "handle": "CBINET"
+    }
+}

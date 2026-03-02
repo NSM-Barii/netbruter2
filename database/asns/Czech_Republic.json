@@ -1,0 +1,4256 @@
+{
+    "2118": {
+        "country_code": "CZ",
+        "asn": "2118",
+        "description": "Reliable Communications s.r.o.",
+        "handle": "RELCOM-AS"
+    },
+    "2571": {
+        "country_code": "CZ",
+        "asn": "2571",
+        "description": "DHL Information Services (Europe) s.r.o",
+        "handle": "DHLNET"
+    },
+    "2605": {
+        "country_code": "CZ",
+        "asn": "2605",
+        "description": "CESNET z.s.p.o.",
+        "handle": "CESNET"
+    },
+    "2819": {
+        "country_code": "CZ",
+        "asn": "2819",
+        "description": "T-Mobile Czech Republic a.s.",
+        "handle": "GTSCZ"
+    },
+    "2852": {
+        "country_code": "CZ",
+        "asn": "2852",
+        "description": "CESNET z.s.p.o.",
+        "handle": "CESNET2"
+    },
+    "3161": {
+        "country_code": "CZ",
+        "asn": "3161",
+        "description": "IT PROFI s.r.o.",
+        "handle": "ASITPROFI"
+    },
+    "3234": {
+        "country_code": "CZ",
+        "asn": "3234",
+        "description": "Parliament of the Czech Republic",
+        "handle": "PARLIAMENT-OF-THE"
+    },
+    "5588": {
+        "country_code": "CZ",
+        "asn": "5588",
+        "description": "T-Mobile Czech Republic a.s.",
+        "handle": "GTSCE"
+    },
+    "5610": {
+        "country_code": "CZ",
+        "asn": "5610",
+        "description": "O2 Czech Republic a.s.",
+        "handle": "O2-CZECH-REPUBLIC"
+    },
+    "6740": {
+        "country_code": "CZ",
+        "asn": "6740",
+        "description": "CEZNET s.r.o.",
+        "handle": "INEXT-CZ-ADA"
+    },
+    "6881": {
+        "country_code": "CZ",
+        "asn": "6881",
+        "description": "NIX.CZ z.s.p.o.",
+        "handle": "NIXCZ"
+    },
+    "8251": {
+        "country_code": "CZ",
+        "asn": "8251",
+        "description": "FreeTel s.r.o.",
+        "handle": "NFX-ZSPO"
+    },
+    "8646": {
+        "country_code": "CZ",
+        "asn": "8646",
+        "description": "cloudinfrastack s.r.o.",
+        "handle": "CLOUDINFRASTACK"
+    },
+    "8747": {
+        "country_code": "CZ",
+        "asn": "8747",
+        "description": "Quantcom a.s.",
+        "handle": "DIAL-TELECOM-SPECIAL"
+    },
+    "8882": {
+        "country_code": "CZ",
+        "asn": "8882",
+        "description": "AS8882 s.r.o.",
+        "handle": "AS8882"
+    },
+    "8913": {
+        "country_code": "CZ",
+        "asn": "8913",
+        "description": "Mopos Communications A.S.",
+        "handle": "IPNET"
+    },
+    "9053": {
+        "country_code": "CZ",
+        "asn": "9053",
+        "description": "VSHosting s.r.o.",
+        "handle": "VSHOSTING-CDN"
+    },
+    "9080": {
+        "country_code": "CZ",
+        "asn": "9080",
+        "description": "Ipex A.S",
+        "handle": "GIN"
+    },
+    "12344": {
+        "country_code": "CZ",
+        "asn": "12344",
+        "description": "CZECH IT CLUSTER druzstvo",
+        "handle": "CZECHITC"
+    },
+    "12570": {
+        "country_code": "CZ",
+        "asn": "12570",
+        "description": "O2 Czech Republic a.s.",
+        "handle": "ITSELF"
+    },
+    "12608": {
+        "country_code": "CZ",
+        "asn": "12608",
+        "description": "IGLG Network CZ s.r.o.",
+        "handle": "DATALABS-TRANSPORT-AS"
+    },
+    "12767": {
+        "country_code": "CZ",
+        "asn": "12767",
+        "description": "T-Mobile Czech Republic a.s.",
+        "handle": "PRAGONET-AS"
+    },
+    "12984": {
+        "country_code": "CZ",
+        "asn": "12984",
+        "description": "PilsFree z. s.",
+        "handle": "PILSFREE"
+    },
+    "13036": {
+        "country_code": "CZ",
+        "asn": "13036",
+        "description": "T-Mobile Czech Republic a.s.",
+        "handle": "TMOBILE-CZ"
+    },
+    "13199": {
+        "country_code": "CZ",
+        "asn": "13199",
+        "description": "Jaroslav Doubrava",
+        "handle": "DOUBRAVA-NET"
+    },
+    "15380": {
+        "country_code": "CZ",
+        "asn": "15380",
+        "description": "Air Navigation Services of the Czech Republic state enterprise",
+        "handle": "ANSCZ"
+    },
+    "15425": {
+        "country_code": "CZ",
+        "asn": "15425",
+        "description": "PODA a.s.",
+        "handle": "COMA"
+    },
+    "15485": {
+        "country_code": "CZ",
+        "asn": "15485",
+        "description": "T-Mobile Czech Republic a.s.",
+        "handle": "GTSNOVERA"
+    },
+    "15512": {
+        "country_code": "CZ",
+        "asn": "15512",
+        "description": "Vodafone Czech Republic a.s.",
+        "handle": "VODAFONE-CZ-AS-3"
+    },
+    "15614": {
+        "country_code": "CZ",
+        "asn": "15614",
+        "description": "Dragon Internet a.s.",
+        "handle": "DRAGON"
+    },
+    "15685": {
+        "country_code": "CZ",
+        "asn": "15685",
+        "description": "CASABLANCA INT a.s.",
+        "handle": "CASABLANCA-AS"
+    },
+    "15935": {
+        "country_code": "CZ",
+        "asn": "15935",
+        "description": "ha-vel internet s.r.o.",
+        "handle": "HA-VEL-LOCAL-AS"
+    },
+    "16019": {
+        "country_code": "CZ",
+        "asn": "16019",
+        "description": "Vodafone Czech Republic a.s.",
+        "handle": "VODAFONE-CZ-AS"
+    },
+    "16246": {
+        "country_code": "CZ",
+        "asn": "16246",
+        "description": "O2 Czech Republic a.s.",
+        "handle": "AS16246"
+    },
+    "20609": {
+        "country_code": "CZ",
+        "asn": "20609",
+        "description": "KAZA.cz s.r.o.",
+        "handle": "KAZACZSRO"
+    },
+    "20643": {
+        "country_code": "CZ",
+        "asn": "20643",
+        "description": "PilsFree servis s.r.o.",
+        "handle": "CZ-PILSFREESERVIS-AS"
+    },
+    "20701": {
+        "country_code": "CZ",
+        "asn": "20701",
+        "description": "CZ.NIC z.s.p.o.",
+        "handle": "CZNIC-AS3"
+    },
+    "20708": {
+        "country_code": "CZ",
+        "asn": "20708",
+        "description": "SKODA AUTO a.s.",
+        "handle": "SKODA-AUTO"
+    },
+    "20723": {
+        "country_code": "CZ",
+        "asn": "20723",
+        "description": "AVONET s.r.o.",
+        "handle": "MGI"
+    },
+    "20884": {
+        "country_code": "CZ",
+        "asn": "20884",
+        "description": "O2 Czech Republic a.s.",
+        "handle": "CZ-CTNET-AS"
+    },
+    "21045": {
+        "country_code": "CZ",
+        "asn": "21045",
+        "description": "K-net Technical International Group s.r.o.",
+        "handle": "QNETCZ"
+    },
+    "21082": {
+        "country_code": "CZ",
+        "asn": "21082",
+        "description": "Reliable Communications s.r.o.",
+        "handle": "AS-CZVP"
+    },
+    "21142": {
+        "country_code": "CZ",
+        "asn": "21142",
+        "description": "T-Mobile Czech Republic a.s.",
+        "handle": "PRAGONET-TRANSIT-AS"
+    },
+    "21241": {
+        "country_code": "CZ",
+        "asn": "21241",
+        "description": "Global Payments Europe s.r.o.",
+        "handle": "MUZO-AS"
+    },
+    "21430": {
+        "country_code": "CZ",
+        "asn": "21430",
+        "description": "WIA spol. s.r.o.",
+        "handle": "WIA-AS"
+    },
+    "24641": {
+        "country_code": "CZ",
+        "asn": "24641",
+        "description": "FASTER CZ spol. s r.o.",
+        "handle": "FASTER-AS"
+    },
+    "24806": {
+        "country_code": "CZ",
+        "asn": "24806",
+        "description": "INTERNET CZ a.s.",
+        "handle": "INTERNET-CZ"
+    },
+    "24971": {
+        "country_code": "CZ",
+        "asn": "24971",
+        "description": "MasterDC s.r.o.",
+        "handle": "MASTER-AS"
+    },
+    "25036": {
+        "country_code": "CZ",
+        "asn": "25036",
+        "description": "O2 Czech Republic a.s.",
+        "handle": "TERMSNET-AS"
+    },
+    "25093": {
+        "country_code": "CZ",
+        "asn": "25093",
+        "description": "Ceska sporitelna a.s.",
+        "handle": "CSAS-CZ"
+    },
+    "25192": {
+        "country_code": "CZ",
+        "asn": "25192",
+        "description": "CZ.NIC z.s.p.o.",
+        "handle": "CZNIC-AS"
+    },
+    "25234": {
+        "country_code": "CZ",
+        "asn": "25234",
+        "description": "ACTIVE 24 s.r.o.",
+        "handle": "ACTIVE24-AS"
+    },
+    "25238": {
+        "country_code": "CZ",
+        "asn": "25238",
+        "description": "MONETA Money Bank a.s.",
+        "handle": "MONETA-CZ"
+    },
+    "25248": {
+        "country_code": "CZ",
+        "asn": "25248",
+        "description": "RADIOKOMUNIKACE a.s.",
+        "handle": "BLUETONE-AS"
+    },
+    "25321": {
+        "country_code": "CZ",
+        "asn": "25321",
+        "description": "Brink's Cash Solutions (CZ) a.s.",
+        "handle": "G4S-NET"
+    },
+    "25424": {
+        "country_code": "CZ",
+        "asn": "25424",
+        "description": "CEZNET s.r.o.",
+        "handle": "INEXT-CZ"
+    },
+    "25512": {
+        "country_code": "CZ",
+        "asn": "25512",
+        "description": "CD-Telematika a.s.",
+        "handle": "CDT-AS"
+    },
+    "28725": {
+        "country_code": "CZ",
+        "asn": "28725",
+        "description": "CETIN a.s.",
+        "handle": "CETIN-AS"
+    },
+    "28755": {
+        "country_code": "CZ",
+        "asn": "28755",
+        "description": "ha-vel internet s.r.o.",
+        "handle": "HA-VEL-TRANSIT-AS"
+    },
+    "28892": {
+        "country_code": "CZ",
+        "asn": "28892",
+        "description": "Cesky urad zememericky a katastralni",
+        "handle": "CUZK-NET"
+    },
+    "28905": {
+        "country_code": "CZ",
+        "asn": "28905",
+        "description": "OMEGA plus Chrudim s.r.o.",
+        "handle": "BECOLINK-AS"
+    },
+    "28972": {
+        "country_code": "CZ",
+        "asn": "28972",
+        "description": "M-SOFT spol. s r.o.",
+        "handle": "MSOFT-AS"
+    },
+    "29086": {
+        "country_code": "CZ",
+        "asn": "29086",
+        "description": "GiTy a.s.",
+        "handle": "GITY-AS"
+    },
+    "29113": {
+        "country_code": "CZ",
+        "asn": "29113",
+        "description": "Vodafone Czech Republic a.s.",
+        "handle": "VODAFONE-CZ-AS-5"
+    },
+    "29134": {
+        "country_code": "CZ",
+        "asn": "29134",
+        "description": "Webglobe s.r.o.",
+        "handle": "IGNUM-AS"
+    },
+    "29208": {
+        "country_code": "CZ",
+        "asn": "29208",
+        "description": "Quantcom a.s.",
+        "handle": "QUANTCOM-AS"
+    },
+    "29321": {
+        "country_code": "CZ",
+        "asn": "29321",
+        "description": "O2 Czech Republic a.s.",
+        "handle": "CENTRONETAS"
+    },
+    "29401": {
+        "country_code": "CZ",
+        "asn": "29401",
+        "description": "SH.cz s.r.o.",
+        "handle": "SUPERNETWORKSK-AS"
+    },
+    "29504": {
+        "country_code": "CZ",
+        "asn": "29504",
+        "description": "Freenet Liberec z.s.",
+        "handle": "LBCFREE"
+    },
+    "29583": {
+        "country_code": "CZ",
+        "asn": "29583",
+        "description": "Spinoco a.s.",
+        "handle": "UNIENT-AS"
+    },
+    "30738": {
+        "country_code": "CZ",
+        "asn": "30738",
+        "description": "NetArt Group s.r.o.",
+        "handle": "NETART-AS"
+    },
+    "30764": {
+        "country_code": "CZ",
+        "asn": "30764",
+        "description": "PODA a.s.",
+        "handle": "PODA-AS"
+    },
+    "31246": {
+        "country_code": "CZ",
+        "asn": "31246",
+        "description": "O2 Czech Republic a.s.",
+        "handle": "NETBOX-AS"
+    },
+    "31349": {
+        "country_code": "CZ",
+        "asn": "31349",
+        "description": "a-net Liberec s.r.o.",
+        "handle": "A-NET"
+    },
+    "31461": {
+        "country_code": "CZ",
+        "asn": "31461",
+        "description": "Moravia IT s.r.o.",
+        "handle": "MORAVIA-IT-AS"
+    },
+    "31559": {
+        "country_code": "CZ",
+        "asn": "31559",
+        "description": "Pe3ny Net s.r.o.",
+        "handle": "ASHORACKO"
+    },
+    "33877": {
+        "country_code": "CZ",
+        "asn": "33877",
+        "description": "Druzstvo OFX",
+        "handle": "ASOFX"
+    },
+    "33883": {
+        "country_code": "CZ",
+        "asn": "33883",
+        "description": "TRIOPTIMUM s.r.o.",
+        "handle": "TRIONET-CZ-AS"
+    },
+    "33943": {
+        "country_code": "CZ",
+        "asn": "33943",
+        "description": "Eri Internet s.r.o.",
+        "handle": "CBEZDRAT-AS"
+    },
+    "34040": {
+        "country_code": "CZ",
+        "asn": "34040",
+        "description": "TTNET s.r.o.",
+        "handle": "CZTTNET-AS"
+    },
+    "34049": {
+        "country_code": "CZ",
+        "asn": "34049",
+        "description": "H-data spol. s r.o.",
+        "handle": "WOSACZ-AS"
+    },
+    "34070": {
+        "country_code": "CZ",
+        "asn": "34070",
+        "description": "BACKER COMPUTER s.r.o.",
+        "handle": "DATIN-AS"
+    },
+    "34080": {
+        "country_code": "CZ",
+        "asn": "34080",
+        "description": "MIRAMO spol. s.r.o.",
+        "handle": "MIRAMO-AS"
+    },
+    "34222": {
+        "country_code": "CZ",
+        "asn": "34222",
+        "description": "ZONER a.s.",
+        "handle": "ZONER-AS"
+    },
+    "34475": {
+        "country_code": "CZ",
+        "asn": "34475",
+        "description": "Agrostroj Pelhrimov a.s.",
+        "handle": "AGROSTROJ"
+    },
+    "34487": {
+        "country_code": "CZ",
+        "asn": "34487",
+        "description": "SouthPrague.Net z.s.",
+        "handle": "SOUTHPRAGUENET"
+    },
+    "34596": {
+        "country_code": "CZ",
+        "asn": "34596",
+        "description": "HVfree.net servis. s.r.o.",
+        "handle": "HVFREE"
+    },
+    "34819": {
+        "country_code": "CZ",
+        "asn": "34819",
+        "description": "H17 Networks s.r.o.",
+        "handle": "H17"
+    },
+    "34911": {
+        "country_code": "CZ",
+        "asn": "34911",
+        "description": "ELDATA prazska s.r.o.",
+        "handle": "ASELDATA"
+    },
+    "34955": {
+        "country_code": "CZ",
+        "asn": "34955",
+        "description": "Martin Vicenik",
+        "handle": "ASVICENIK"
+    },
+    "35046": {
+        "country_code": "CZ",
+        "asn": "35046",
+        "description": "OMEGA plus Chrudim s.r.o.",
+        "handle": "OMEGAPLUS-AS"
+    },
+    "35096": {
+        "country_code": "CZ",
+        "asn": "35096",
+        "description": "Alef Nula a.s.",
+        "handle": "ALEFNULA"
+    },
+    "35136": {
+        "country_code": "CZ",
+        "asn": "35136",
+        "description": "Global Tech Distribution s.r.o.",
+        "handle": "LVIV-IX-AS"
+    },
+    "35214": {
+        "country_code": "CZ",
+        "asn": "35214",
+        "description": "O2 Czech Republic a.s.",
+        "handle": "CZ-NORDICTELECOMREGIONAL"
+    },
+    "35236": {
+        "country_code": "CZ",
+        "asn": "35236",
+        "description": "UVT Internet s.r.o.",
+        "handle": "AS35236"
+    },
+    "35361": {
+        "country_code": "CZ",
+        "asn": "35361",
+        "description": "GREPA Networks s.r.o.",
+        "handle": "GREPNET"
+    },
+    "35592": {
+        "country_code": "CZ",
+        "asn": "35592",
+        "description": "Coolhousing s.r.o.",
+        "handle": "COOLHOUSING-AS"
+    },
+    "35613": {
+        "country_code": "CZ",
+        "asn": "35613",
+        "description": "FASTER CZ spol. s r.o.",
+        "handle": "NETDATACOMM"
+    },
+    "38952": {
+        "country_code": "CZ",
+        "asn": "38952",
+        "description": "MAFRA a.s.",
+        "handle": "MAFRA-CZ-AS"
+    },
+    "39050": {
+        "country_code": "CZ",
+        "asn": "39050",
+        "description": "NET service solution s.r.o.",
+        "handle": "NETSERVICE-AS"
+    },
+    "39392": {
+        "country_code": "CZ",
+        "asn": "39392",
+        "description": "SH.cz s.r.o.",
+        "handle": "SUPERNETWORK"
+    },
+    "39453": {
+        "country_code": "CZ",
+        "asn": "39453",
+        "description": "Ustav zdravotnickych informaci a statistiky Ceske republiky",
+        "handle": "UZIS-AS"
+    },
+    "39455": {
+        "country_code": "CZ",
+        "asn": "39455",
+        "description": "Jiri Tlapak",
+        "handle": "TLAPNET-SK-AS"
+    },
+    "39736": {
+        "country_code": "CZ",
+        "asn": "39736",
+        "description": "ICT Support s.r.o.",
+        "handle": "ICTSUPPORT"
+    },
+    "39761": {
+        "country_code": "CZ",
+        "asn": "39761",
+        "description": "ABAK Co.Ltd.",
+        "handle": "ABAK"
+    },
+    "39790": {
+        "country_code": "CZ",
+        "asn": "39790",
+        "description": "Web4U s.r.o.",
+        "handle": "WEB4U"
+    },
+    "39791": {
+        "country_code": "CZ",
+        "asn": "39791",
+        "description": "Telco Pro Services a. s.",
+        "handle": "TPS-AS"
+    },
+    "39817": {
+        "country_code": "CZ",
+        "asn": "39817",
+        "description": "OvaNet a.s.",
+        "handle": "OVANET"
+    },
+    "39896": {
+        "country_code": "CZ",
+        "asn": "39896",
+        "description": "FIBER TELECOM s.r.o.",
+        "handle": "XHOSTING"
+    },
+    "39904": {
+        "country_code": "CZ",
+        "asn": "39904",
+        "description": "MERIT GROUP a.s",
+        "handle": "MERIT-AS"
+    },
+    "39906": {
+        "country_code": "CZ",
+        "asn": "39906",
+        "description": "CoProSys a.s.",
+        "handle": "COPROSYS"
+    },
+    "40964": {
+        "country_code": "CZ",
+        "asn": "40964",
+        "description": "ASTELNET s.r.o.",
+        "handle": "ASTELNET"
+    },
+    "41030": {
+        "country_code": "CZ",
+        "asn": "41030",
+        "description": "Jaroslav Novotny",
+        "handle": "ASNOVOTNYCZ"
+    },
+    "41046": {
+        "country_code": "CZ",
+        "asn": "41046",
+        "description": "O2 Czech Republic a.s.",
+        "handle": "NEJTV-AS"
+    },
+    "41088": {
+        "country_code": "CZ",
+        "asn": "41088",
+        "description": "N SYS s.r.o.",
+        "handle": "CZNSYS"
+    },
+    "41359": {
+        "country_code": "CZ",
+        "asn": "41359",
+        "description": "Telefonzentrale s.r.o.",
+        "handle": "TELEFONZENTRALE-AS"
+    },
+    "41453": {
+        "country_code": "CZ",
+        "asn": "41453",
+        "description": "SITEL spol. s r.o.",
+        "handle": "TRESTEL-CZ-ASN"
+    },
+    "41456": {
+        "country_code": "CZ",
+        "asn": "41456",
+        "description": "STARNET s.r.o.",
+        "handle": "SMARTBOX-AS"
+    },
+    "41509": {
+        "country_code": "CZ",
+        "asn": "41509",
+        "description": "Patria Finance a.s.",
+        "handle": "EQUIT-AS"
+    },
+    "41670": {
+        "country_code": "CZ",
+        "asn": "41670",
+        "description": "hkfree.org z.s.",
+        "handle": "HKFREE-AS"
+    },
+    "41711": {
+        "country_code": "CZ",
+        "asn": "41711",
+        "description": "FreeTel s.r.o.",
+        "handle": "FREETEL-AS"
+    },
+    "41779": {
+        "country_code": "CZ",
+        "asn": "41779",
+        "description": "LajsiNET s.r.o.",
+        "handle": "LAJSINET"
+    },
+    "41824": {
+        "country_code": "CZ",
+        "asn": "41824",
+        "description": "O2 Czech Republic a.s.",
+        "handle": "IH-LOSAN-NET"
+    },
+    "42000": {
+        "country_code": "CZ",
+        "asn": "42000",
+        "description": "Futruy s.r.o.",
+        "handle": "KAORA"
+    },
+    "42189": {
+        "country_code": "CZ",
+        "asn": "42189",
+        "description": "Druzstvo EUROSIGNAL",
+        "handle": "EUROSIGNAL-AS"
+    },
+    "42306": {
+        "country_code": "CZ",
+        "asn": "42306",
+        "description": "Edera Group a.s.",
+        "handle": "EDERA-GROUP"
+    },
+    "42422": {
+        "country_code": "CZ",
+        "asn": "42422",
+        "description": "SecurityNet.cz s.r.o.",
+        "handle": "SECURITYNET-AS"
+    },
+    "42726": {
+        "country_code": "CZ",
+        "asn": "42726",
+        "description": "BusinessCom CZ spol. s r.o.",
+        "handle": "BUSINESSCOM"
+    },
+    "42908": {
+        "country_code": "CZ",
+        "asn": "42908",
+        "description": "O2 Czech Republic a.s.",
+        "handle": "CZ-NORDICTELECOMREGIONAL"
+    },
+    "43037": {
+        "country_code": "CZ",
+        "asn": "43037",
+        "description": "Seznam.cz a.s.",
+        "handle": "SEZNAM-CZ"
+    },
+    "43070": {
+        "country_code": "CZ",
+        "asn": "43070",
+        "description": "JAW.cz s.r.o.",
+        "handle": "JAW-AS"
+    },
+    "43413": {
+        "country_code": "CZ",
+        "asn": "43413",
+        "description": "NEW TELEKOM spol. s r.o.",
+        "handle": "ASNEW"
+    },
+    "43500": {
+        "country_code": "CZ",
+        "asn": "43500",
+        "description": "HBO Europe s.r.o.",
+        "handle": "WBD-AS"
+    },
+    "43507": {
+        "country_code": "CZ",
+        "asn": "43507",
+        "description": "RETE internet s.r.o.",
+        "handle": "RETE-AS"
+    },
+    "43523": {
+        "country_code": "CZ",
+        "asn": "43523",
+        "description": "A.T.S. INTERNATIONAL s.r.o",
+        "handle": "DESIGN-AS"
+    },
+    "43541": {
+        "country_code": "CZ",
+        "asn": "43541",
+        "description": "VSHosting s.r.o.",
+        "handle": "VSHOSTING"
+    },
+    "43542": {
+        "country_code": "CZ",
+        "asn": "43542",
+        "description": "OptoNet Communication spol. s.r.o.",
+        "handle": "OPTONET-AS"
+    },
+    "43614": {
+        "country_code": "CZ",
+        "asn": "43614",
+        "description": "Economia a.s.",
+        "handle": "ECONOMIA-CZ"
+    },
+    "43708": {
+        "country_code": "CZ",
+        "asn": "43708",
+        "description": "DATAMAT CZ s.r.o.",
+        "handle": "METRONET"
+    },
+    "43709": {
+        "country_code": "CZ",
+        "asn": "43709",
+        "description": "SilesNet s.r.o.",
+        "handle": "SILESNET"
+    },
+    "43757": {
+        "country_code": "CZ",
+        "asn": "43757",
+        "description": "ICZ a.s.",
+        "handle": "ICZAS-CZ"
+    },
+    "43866": {
+        "country_code": "CZ",
+        "asn": "43866",
+        "description": "Altron a.s.",
+        "handle": "ALTRON"
+    },
+    "43895": {
+        "country_code": "CZ",
+        "asn": "43895",
+        "description": "Zentiva Group a.s",
+        "handle": "ZENTIVA-NET"
+    },
+    "44002": {
+        "country_code": "CZ",
+        "asn": "44002",
+        "description": "Sys-DataCom s.r.o.",
+        "handle": "SYS-DATACOM"
+    },
+    "44065": {
+        "country_code": "CZ",
+        "asn": "44065",
+        "description": "NETAIR s.r.o.",
+        "handle": "NETAIR-AS"
+    },
+    "44070": {
+        "country_code": "CZ",
+        "asn": "44070",
+        "description": "O2 Czech Republic a.s.",
+        "handle": "MCNET-AS"
+    },
+    "44104": {
+        "country_code": "CZ",
+        "asn": "44104",
+        "description": "LCJ Invest a.s.",
+        "handle": "LCJ-AS"
+    },
+    "44424": {
+        "country_code": "CZ",
+        "asn": "44424",
+        "description": "Allegro Retail a.s.",
+        "handle": "AS44424"
+    },
+    "44430": {
+        "country_code": "CZ",
+        "asn": "44430",
+        "description": "MaRcom-Eko s.r.o.",
+        "handle": "MARCOM-EKO-AS"
+    },
+    "44489": {
+        "country_code": "CZ",
+        "asn": "44489",
+        "description": "STARNET s.r.o.",
+        "handle": "STARNET"
+    },
+    "44500": {
+        "country_code": "CZ",
+        "asn": "44500",
+        "description": "Vlasimnet s.r.o.",
+        "handle": "VLASIMNET"
+    },
+    "44546": {
+        "country_code": "CZ",
+        "asn": "44546",
+        "description": "ALFA TELECOM s.r.o.",
+        "handle": "ALFATELECOM-AS"
+    },
+    "44672": {
+        "country_code": "CZ",
+        "asn": "44672",
+        "description": "Cloud4com s.r.o.",
+        "handle": "DATASPRING3"
+    },
+    "44712": {
+        "country_code": "CZ",
+        "asn": "44712",
+        "description": "eHAMnet s.r.o.",
+        "handle": "EHAMNET-AS"
+    },
+    "44770": {
+        "country_code": "CZ",
+        "asn": "44770",
+        "description": "Savvy s.r.o.",
+        "handle": "SAVVY-AS"
+    },
+    "44984": {
+        "country_code": "CZ",
+        "asn": "44984",
+        "description": "Fortion Networks s.r.o.",
+        "handle": "FORTION"
+    },
+    "46553": {
+        "country_code": "CZ",
+        "asn": "46553",
+        "description": "AS46553 s.r.o.",
+        "handle": "AS46553"
+    },
+    "47110": {
+        "country_code": "CZ",
+        "asn": "47110",
+        "description": "Cloud4com s.r.o.",
+        "handle": "CLOUD4COM-AS"
+    },
+    "47114": {
+        "country_code": "CZ",
+        "asn": "47114",
+        "description": "SychrovNET s.r.o",
+        "handle": "ZLINNET"
+    },
+    "47131": {
+        "country_code": "CZ",
+        "asn": "47131",
+        "description": "PH spol. s r. o.",
+        "handle": "PH"
+    },
+    "47200": {
+        "country_code": "CZ",
+        "asn": "47200",
+        "description": "NIX.CZ z.s.p.o.",
+        "handle": "NIXCZ-RS"
+    },
+    "47232": {
+        "country_code": "CZ",
+        "asn": "47232",
+        "description": "ISP Alliance a.s.",
+        "handle": "ISPALLIANCE"
+    },
+    "47269": {
+        "country_code": "CZ",
+        "asn": "47269",
+        "description": "Core4Net s.r.o.",
+        "handle": "HLUCIN-NET-AS"
+    },
+    "47317": {
+        "country_code": "CZ",
+        "asn": "47317",
+        "description": "Web4ce s.r.o.",
+        "handle": "WEB4CE"
+    },
+    "47493": {
+        "country_code": "CZ",
+        "asn": "47493",
+        "description": "CEZNET s.r.o.",
+        "handle": "WMS-AS"
+    },
+    "47627": {
+        "country_code": "CZ",
+        "asn": "47627",
+        "description": "NIX.CZ z.s.p.o.",
+        "handle": "NIXSK-RS"
+    },
+    "47681": {
+        "country_code": "CZ",
+        "asn": "47681",
+        "description": "O2 Czech Republic a.s.",
+        "handle": "RIOMEDIA"
+    },
+    "47727": {
+        "country_code": "CZ",
+        "asn": "47727",
+        "description": "Warnet.cz s.r.o.",
+        "handle": "WARNETCZ-AS"
+    },
+    "47749": {
+        "country_code": "CZ",
+        "asn": "47749",
+        "description": "ORIFLAME SOFTWARE s.r.o.",
+        "handle": "ORIFLAME-AS"
+    },
+    "47767": {
+        "country_code": "CZ",
+        "asn": "47767",
+        "description": "Regionalni centrum Olomouc s.r.o.",
+        "handle": "RCO-AS"
+    },
+    "47834": {
+        "country_code": "CZ",
+        "asn": "47834",
+        "description": "SOFTEX NCP s.r.o.",
+        "handle": "SOFTEXNCP-AS"
+    },
+    "47868": {
+        "country_code": "CZ",
+        "asn": "47868",
+        "description": "AVONET s.r.o.",
+        "handle": "SUPRO-AS"
+    },
+    "47949": {
+        "country_code": "CZ",
+        "asn": "47949",
+        "description": "gsnet.cz s.r.o.",
+        "handle": "GSNETCZ"
+    },
+    "48091": {
+        "country_code": "CZ",
+        "asn": "48091",
+        "description": "Kraj Vysocina",
+        "handle": "ROWANET-AS"
+    },
+    "48131": {
+        "country_code": "CZ",
+        "asn": "48131",
+        "description": "IXOXI s.r.o.",
+        "handle": "IXOXI"
+    },
+    "48298": {
+        "country_code": "CZ",
+        "asn": "48298",
+        "description": "MINISTERSTVO VNITRA CR",
+        "handle": "GOVCZ"
+    },
+    "48364": {
+        "country_code": "CZ",
+        "asn": "48364",
+        "description": "Radim Pytela trading as AC Vyskov",
+        "handle": "ACVYSKOV-AS"
+    },
+    "48405": {
+        "country_code": "CZ",
+        "asn": "48405",
+        "description": "CGI IT Czech Republic s.r.o.",
+        "handle": "CGI-CZ-AS1"
+    },
+    "48417": {
+        "country_code": "CZ",
+        "asn": "48417",
+        "description": "ITS akciova spolecnost",
+        "handle": "ITS-CZ"
+    },
+    "48451": {
+        "country_code": "CZ",
+        "asn": "48451",
+        "description": "Prazska energetika a.s.",
+        "handle": "PRE-AS"
+    },
+    "48574": {
+        "country_code": "CZ",
+        "asn": "48574",
+        "description": "T-Mobile Czech Republic a.s.",
+        "handle": "ASN-CZ-PLANET-A-48574"
+    },
+    "48602": {
+        "country_code": "CZ",
+        "asn": "48602",
+        "description": "Connect plus s.r.o.",
+        "handle": "CONNECTPLUS"
+    },
+    "48661": {
+        "country_code": "CZ",
+        "asn": "48661",
+        "description": "AIRWAYNET a.s.",
+        "handle": "AIRWAYNET"
+    },
+    "48889": {
+        "country_code": "CZ",
+        "asn": "48889",
+        "description": "GLOBECORP a.s.",
+        "handle": "GLOBECORP-AS-CZ"
+    },
+    "48926": {
+        "country_code": "CZ",
+        "asn": "48926",
+        "description": "Pe3ny Net s.r.o.",
+        "handle": "PE3NY-AS"
+    },
+    "48960": {
+        "country_code": "CZ",
+        "asn": "48960",
+        "description": "AQUA a.s.",
+        "handle": "MORAVANET"
+    },
+    "49013": {
+        "country_code": "CZ",
+        "asn": "49013",
+        "description": "Fusion Media s.r.o.",
+        "handle": "FUSION-MEDIA"
+    },
+    "49025": {
+        "country_code": "CZ",
+        "asn": "49025",
+        "description": "PRO-ZETA a.s.",
+        "handle": "PROZETA-NET"
+    },
+    "49095": {
+        "country_code": "CZ",
+        "asn": "49095",
+        "description": "PRAHA12.com s.r.o.",
+        "handle": "P12COM"
+    },
+    "49101": {
+        "country_code": "CZ",
+        "asn": "49101",
+        "description": "CEZNET s.r.o.",
+        "handle": "KTCT-ASN"
+    },
+    "49121": {
+        "country_code": "CZ",
+        "asn": "49121",
+        "description": "Infinity Telecom s.r.o.",
+        "handle": "INFTELE-AS"
+    },
+    "49142": {
+        "country_code": "CZ",
+        "asn": "49142",
+        "description": "HBO Europe s.r.o.",
+        "handle": "HBO"
+    },
+    "49244": {
+        "country_code": "CZ",
+        "asn": "49244",
+        "description": "Scancom s.r.o.",
+        "handle": "SCANCOM"
+    },
+    "49262": {
+        "country_code": "CZ",
+        "asn": "49262",
+        "description": "Ataccama Software s.r.o.",
+        "handle": "ATCCZ1"
+    },
+    "49573": {
+        "country_code": "CZ",
+        "asn": "49573",
+        "description": "JimmyNet s.r.o.",
+        "handle": "ASJIMMY"
+    },
+    "49580": {
+        "country_code": "CZ",
+        "asn": "49580",
+        "description": "Monet + a.s.",
+        "handle": "MONETPLUS-AS"
+    },
+    "49767": {
+        "country_code": "CZ",
+        "asn": "49767",
+        "description": "O2 Czech Republic a.s.",
+        "handle": "INTERNETPB-AS"
+    },
+    "49890": {
+        "country_code": "CZ",
+        "asn": "49890",
+        "description": "ABLE agency s.r.o.",
+        "handle": "ADA-NET-AS"
+    },
+    "49931": {
+        "country_code": "CZ",
+        "asn": "49931",
+        "description": "STARNET s.r.o.",
+        "handle": "SITKOM-AS"
+    },
+    "49985": {
+        "country_code": "CZ",
+        "asn": "49985",
+        "description": "IP4ISP z.s.p.o",
+        "handle": "IP4ISP"
+    },
+    "50067": {
+        "country_code": "CZ",
+        "asn": "50067",
+        "description": "CESAL s.r.o.",
+        "handle": "CESAL"
+    },
+    "50097": {
+        "country_code": "CZ",
+        "asn": "50097",
+        "description": "IPVOIP s.r.o.",
+        "handle": "IPVOIP-AS"
+    },
+    "50100": {
+        "country_code": "CZ",
+        "asn": "50100",
+        "description": "SychrovNET s.r.o",
+        "handle": "MODERNTV-SK"
+    },
+    "50163": {
+        "country_code": "CZ",
+        "asn": "50163",
+        "description": "Altnet s.r.o.",
+        "handle": "ALTNET-SKVELYNET"
+    },
+    "50301": {
+        "country_code": "CZ",
+        "asn": "50301",
+        "description": "BrazdimNET s.r.o.",
+        "handle": "ASN-BRAZDIMNET"
+    },
+    "50338": {
+        "country_code": "CZ",
+        "asn": "50338",
+        "description": "GamerHost s.r.o.",
+        "handle": "GAMERHOST"
+    },
+    "50348": {
+        "country_code": "CZ",
+        "asn": "50348",
+        "description": "KVADOS a.s.",
+        "handle": "KVADOS"
+    },
+    "50398": {
+        "country_code": "CZ",
+        "asn": "50398",
+        "description": "Fast Communication s.r.o.",
+        "handle": "FASTCOMMUNICATIONS"
+    },
+    "50415": {
+        "country_code": "CZ",
+        "asn": "50415",
+        "description": "Ahosting a.s.",
+        "handle": "AHOSTING"
+    },
+    "50491": {
+        "country_code": "CZ",
+        "asn": "50491",
+        "description": "T-Mobile Czech Republic a.s.",
+        "handle": "ASN-CZ-PLANET-A-50491"
+    },
+    "50651": {
+        "country_code": "CZ",
+        "asn": "50651",
+        "description": "HBO Europe s.r.o.",
+        "handle": "WBD-EDGE-AS"
+    },
+    "50695": {
+        "country_code": "CZ",
+        "asn": "50695",
+        "description": "VLTAVA LABE MEDIA a.s.",
+        "handle": "VLP-AS"
+    },
+    "50698": {
+        "country_code": "CZ",
+        "asn": "50698",
+        "description": "TETA s.r.o.",
+        "handle": "TETA"
+    },
+    "50784": {
+        "country_code": "CZ",
+        "asn": "50784",
+        "description": "Intraweb servis s.r.o.",
+        "handle": "INTRAWEB"
+    },
+    "50825": {
+        "country_code": "CZ",
+        "asn": "50825",
+        "description": "UVT Internet s.r.o.",
+        "handle": "UVT"
+    },
+    "50833": {
+        "country_code": "CZ",
+        "asn": "50833",
+        "description": "FIBER TELECOM s.r.o.",
+        "handle": "FIBERTEL-AS"
+    },
+    "50971": {
+        "country_code": "CZ",
+        "asn": "50971",
+        "description": "JHComp s.r.o.",
+        "handle": "JHCOMP-AS"
+    },
+    "50975": {
+        "country_code": "CZ",
+        "asn": "50975",
+        "description": "KYOCERA AVX Components s.r.o.",
+        "handle": "AVX-AS"
+    },
+    "50980": {
+        "country_code": "CZ",
+        "asn": "50980",
+        "description": "cloudinfrastack s.r.o.",
+        "handle": "NET3"
+    },
+    "51025": {
+        "country_code": "CZ",
+        "asn": "51025",
+        "description": "VSHosting s.r.o.",
+        "handle": "CONNECT-TST-AS"
+    },
+    "51134": {
+        "country_code": "CZ",
+        "asn": "51134",
+        "description": "Development 777 s.r.o.",
+        "handle": "INTACTO-AS"
+    },
+    "51210": {
+        "country_code": "CZ",
+        "asn": "51210",
+        "description": "KRAXNET s.r.o.",
+        "handle": "KRAXNET-AS"
+    },
+    "51248": {
+        "country_code": "CZ",
+        "asn": "51248",
+        "description": "Host-Telecom.com s.r.o.",
+        "handle": "HOST-TELECOM"
+    },
+    "51278": {
+        "country_code": "CZ",
+        "asn": "51278",
+        "description": "Webglobe s.r.o.",
+        "handle": "IGNUM-ANYCAST-AS"
+    },
+    "51331": {
+        "country_code": "CZ",
+        "asn": "51331",
+        "description": "SychrovNET s.r.o",
+        "handle": "MODERNTV"
+    },
+    "51382": {
+        "country_code": "CZ",
+        "asn": "51382",
+        "description": "Ing. Leos Janouch",
+        "handle": "COMANET-NETWORK"
+    },
+    "51400": {
+        "country_code": "CZ",
+        "asn": "51400",
+        "description": "SPOJE.NET s.r.o.",
+        "handle": "ASSPOJENET"
+    },
+    "51420": {
+        "country_code": "CZ",
+        "asn": "51420",
+        "description": "cyrilek.net z.s.",
+        "handle": "CYRILEK-AS"
+    },
+    "51424": {
+        "country_code": "CZ",
+        "asn": "51424",
+        "description": "Jiri Sperl",
+        "handle": "ASAGNET"
+    },
+    "51449": {
+        "country_code": "CZ",
+        "asn": "51449",
+        "description": "Kabelova televize Usti nad Orlici spol. s r. o.",
+        "handle": "KTUO-AS"
+    },
+    "51463": {
+        "country_code": "CZ",
+        "asn": "51463",
+        "description": "FAJNCOM s.r.o.",
+        "handle": "ASFAJNCOMCZ"
+    },
+    "51521": {
+        "country_code": "CZ",
+        "asn": "51521",
+        "description": "Resident Control Telco s.r.o.",
+        "handle": "ASKMNET"
+    },
+    "51524": {
+        "country_code": "CZ",
+        "asn": "51524",
+        "description": "Ales Tesacek",
+        "handle": "ASNETDELUXE"
+    },
+    "51586": {
+        "country_code": "CZ",
+        "asn": "51586",
+        "description": "ServerZone s.r.o.",
+        "handle": "SERVERZONECZ"
+    },
+    "51661": {
+        "country_code": "CZ",
+        "asn": "51661",
+        "description": "UVT Internet s.r.o.",
+        "handle": "ALLSTARNET"
+    },
+    "51727": {
+        "country_code": "CZ",
+        "asn": "51727",
+        "description": "Doosan Skoda Power s.r.o",
+        "handle": "SKODAPOWER-AS"
+    },
+    "51744": {
+        "country_code": "CZ",
+        "asn": "51744",
+        "description": "Non-profit organization Jablonka.cz",
+        "handle": "ASJABLONKA"
+    },
+    "51800": {
+        "country_code": "CZ",
+        "asn": "51800",
+        "description": "FIBER Network s.r.o.",
+        "handle": "FIBERNET-ASN"
+    },
+    "51968": {
+        "country_code": "CZ",
+        "asn": "51968",
+        "description": "NEOS v.o.s.",
+        "handle": "NEOS-AS"
+    },
+    "52029": {
+        "country_code": "CZ",
+        "asn": "52029",
+        "description": "Palanet s.r.o.",
+        "handle": "ASNOVOSEDLY"
+    },
+    "52058": {
+        "country_code": "CZ",
+        "asn": "52058",
+        "description": "za200.cz s.r.o.",
+        "handle": "PETRKOVICE-NET"
+    },
+    "52084": {
+        "country_code": "CZ",
+        "asn": "52084",
+        "description": "ISP Alliance a.s.",
+        "handle": "ATLELEKTROCZ"
+    },
+    "52092": {
+        "country_code": "CZ",
+        "asn": "52092",
+        "description": "Alf servis s.r.o.",
+        "handle": "ALFSERVIS-AS"
+    },
+    "52095": {
+        "country_code": "CZ",
+        "asn": "52095",
+        "description": "Netassist International s.r.o.",
+        "handle": "NETASSIST-GREECE"
+    },
+    "52115": {
+        "country_code": "CZ",
+        "asn": "52115",
+        "description": "JaroNet-services s.r.o.",
+        "handle": "JARONET-AS"
+    },
+    "52130": {
+        "country_code": "CZ",
+        "asn": "52130",
+        "description": "LiveSport s.r.o.",
+        "handle": "ARTCOMPANYCZ"
+    },
+    "52154": {
+        "country_code": "CZ",
+        "asn": "52154",
+        "description": "mjanik.net s.r.o.",
+        "handle": "ASMJANIK"
+    },
+    "52176": {
+        "country_code": "CZ",
+        "asn": "52176",
+        "description": "TTC TELEKOMUNIKACE s.r.o.",
+        "handle": "TTC-CZ"
+    },
+    "54444": {
+        "country_code": "CZ",
+        "asn": "54444",
+        "description": "AS54444 s.r.o.",
+        "handle": "AS54444"
+    },
+    "56344": {
+        "country_code": "CZ",
+        "asn": "56344",
+        "description": "Viridium.cz s.r.o.",
+        "handle": "ASVIRIDIUM"
+    },
+    "56353": {
+        "country_code": "CZ",
+        "asn": "56353",
+        "description": "First Line Software s.r.o.",
+        "handle": "FIRSTLINE-AS"
+    },
+    "56360": {
+        "country_code": "CZ",
+        "asn": "56360",
+        "description": "TRINITY CZECH REPUBLIC s.r.o.",
+        "handle": "MSTR-AS"
+    },
+    "56427": {
+        "country_code": "CZ",
+        "asn": "56427",
+        "description": "Michal Hradil",
+        "handle": "ASHRADIL"
+    },
+    "56450": {
+        "country_code": "CZ",
+        "asn": "56450",
+        "description": "Alberon Letohrad s.r.o",
+        "handle": "ALBERON-AS"
+    },
+    "56456": {
+        "country_code": "CZ",
+        "asn": "56456",
+        "description": "C2NET s.r.o.",
+        "handle": "C2NET"
+    },
+    "56566": {
+        "country_code": "CZ",
+        "asn": "56566",
+        "description": "SATT a.s.",
+        "handle": "SATT-AS"
+    },
+    "56624": {
+        "country_code": "CZ",
+        "asn": "56624",
+        "description": "Rtyne.net s.r.o.",
+        "handle": "ASRTYNENET"
+    },
+    "56717": {
+        "country_code": "CZ",
+        "asn": "56717",
+        "description": "OG Soft s.r.o.",
+        "handle": "RESAL-AS"
+    },
+    "56821": {
+        "country_code": "CZ",
+        "asn": "56821",
+        "description": "KnVnet services s.r.o.",
+        "handle": "KNVNET1-AS"
+    },
+    "56827": {
+        "country_code": "CZ",
+        "asn": "56827",
+        "description": "mirnet s.r.o.",
+        "handle": "ASMIRNETCZ"
+    },
+    "56891": {
+        "country_code": "CZ",
+        "asn": "56891",
+        "description": "Narodni rozvojova banka a.s.",
+        "handle": "ASCZRB"
+    },
+    "56973": {
+        "country_code": "CZ",
+        "asn": "56973",
+        "description": "VITKOVICE IT SOLUTIONS a.s.",
+        "handle": "VITSOL"
+    },
+    "57007": {
+        "country_code": "CZ",
+        "asn": "57007",
+        "description": "NITEX ISP s.r.o.",
+        "handle": "ASNITEX"
+    },
+    "57069": {
+        "country_code": "CZ",
+        "asn": "57069",
+        "description": "Dempsey and Clark s.r.o.",
+        "handle": "ASDCC"
+    },
+    "57077": {
+        "country_code": "CZ",
+        "asn": "57077",
+        "description": "AB-NET s.r.o.",
+        "handle": "AB-NET"
+    },
+    "57081": {
+        "country_code": "CZ",
+        "asn": "57081",
+        "description": "Scarfbot Technologies s.r.o.",
+        "handle": "SCARFBOT"
+    },
+    "57158": {
+        "country_code": "CZ",
+        "asn": "57158",
+        "description": "ISP Alliance a.s.",
+        "handle": "ASMELVI"
+    },
+    "57188": {
+        "country_code": "CZ",
+        "asn": "57188",
+        "description": "ORKA systems s.r.o.",
+        "handle": "RNET-AS"
+    },
+    "57279": {
+        "country_code": "CZ",
+        "asn": "57279",
+        "description": "Sauron CZ s.r.o.",
+        "handle": "SAURONNET"
+    },
+    "57287": {
+        "country_code": "CZ",
+        "asn": "57287",
+        "description": "OtavaNet s.r.o.",
+        "handle": "OTAVANET-AS"
+    },
+    "57288": {
+        "country_code": "CZ",
+        "asn": "57288",
+        "description": "StaMPi spol. s r.o.",
+        "handle": "ASSTAMPI"
+    },
+    "57294": {
+        "country_code": "CZ",
+        "asn": "57294",
+        "description": "Internet Expert s.r.o.",
+        "handle": "INTERNET-EXPERT-CZ"
+    },
+    "57472": {
+        "country_code": "CZ",
+        "asn": "57472",
+        "description": "JR-NET s.r.o.",
+        "handle": "JRNET"
+    },
+    "57496": {
+        "country_code": "CZ",
+        "asn": "57496",
+        "description": "Praha1.net z.s.p.o.",
+        "handle": "PRAHA1NET-AS"
+    },
+    "57560": {
+        "country_code": "CZ",
+        "asn": "57560",
+        "description": "XLNET s.r.o.",
+        "handle": "ASXLNET"
+    },
+    "57707": {
+        "country_code": "CZ",
+        "asn": "57707",
+        "description": "Greendata s.r.o.",
+        "handle": "GREENDATA"
+    },
+    "57728": {
+        "country_code": "CZ",
+        "asn": "57728",
+        "description": "CEZNET s.r.o.",
+        "handle": "CEZNET-AS"
+    },
+    "57823": {
+        "country_code": "CZ",
+        "asn": "57823",
+        "description": "Libor Kotoucek",
+        "handle": "ASKKNET"
+    },
+    "57825": {
+        "country_code": "CZ",
+        "asn": "57825",
+        "description": "MoravanyNET s.r.o.",
+        "handle": "MORAVANYNET-AS"
+    },
+    "57904": {
+        "country_code": "CZ",
+        "asn": "57904",
+        "description": "Vevynet s.r.o.",
+        "handle": "ASVEVYNET"
+    },
+    "58215": {
+        "country_code": "CZ",
+        "asn": "58215",
+        "description": "Omniline Investment s.r.o.",
+        "handle": "OMNILINE-NET-AS"
+    },
+    "58220": {
+        "country_code": "CZ",
+        "asn": "58220",
+        "description": "Tomas Budai",
+        "handle": "PEGASNET"
+    },
+    "58239": {
+        "country_code": "CZ",
+        "asn": "58239",
+        "description": "hanspaul-city.net s.r.o.",
+        "handle": "ASHANSPAULCITY"
+    },
+    "59479": {
+        "country_code": "CZ",
+        "asn": "59479",
+        "description": "GEMNET s.r.o.",
+        "handle": "ASGEMNET"
+    },
+    "59664": {
+        "country_code": "CZ",
+        "asn": "59664",
+        "description": "Opton s.r.o.",
+        "handle": "ASOPTON"
+    },
+    "59747": {
+        "country_code": "CZ",
+        "asn": "59747",
+        "description": "NIX.CZ z.s.p.o.",
+        "handle": "NIX-DR"
+    },
+    "59871": {
+        "country_code": "CZ",
+        "asn": "59871",
+        "description": "Heureka Group a.s.",
+        "handle": "HEUREKA-GROUP"
+    },
+    "59925": {
+        "country_code": "CZ",
+        "asn": "59925",
+        "description": "Seonet Multimedia s.r.o.",
+        "handle": "GIGASERVER"
+    },
+    "59959": {
+        "country_code": "CZ",
+        "asn": "59959",
+        "description": "SferiaNET.cz s.r.o.",
+        "handle": "SFERIA"
+    },
+    "59970": {
+        "country_code": "CZ",
+        "asn": "59970",
+        "description": "AmigoNet s.r.o.",
+        "handle": "AMIGONET"
+    },
+    "59984": {
+        "country_code": "CZ",
+        "asn": "59984",
+        "description": "KLFREE NETWORKS s.r.o.",
+        "handle": "KLFREE-NETWORKS"
+    },
+    "60086": {
+        "country_code": "CZ",
+        "asn": "60086",
+        "description": "Valvera s.r.o.",
+        "handle": "VALVERA"
+    },
+    "60143": {
+        "country_code": "CZ",
+        "asn": "60143",
+        "description": "Brno University of Technology",
+        "handle": "BR-IX-RS"
+    },
+    "60208": {
+        "country_code": "CZ",
+        "asn": "60208",
+        "description": "J&T BANKA a.s.",
+        "handle": "JTBANKA-AS"
+    },
+    "60218": {
+        "country_code": "CZ",
+        "asn": "60218",
+        "description": "IT8 - Informacni technologie s.r.o.",
+        "handle": "ASIT8"
+    },
+    "60266": {
+        "country_code": "CZ",
+        "asn": "60266",
+        "description": "EmbedIT s.r.o.",
+        "handle": "EMBEDIT-AS"
+    },
+    "60275": {
+        "country_code": "CZ",
+        "asn": "60275",
+        "description": "RVTech s.r.o.",
+        "handle": "AS-RVTECH"
+    },
+    "60529": {
+        "country_code": "CZ",
+        "asn": "60529",
+        "description": "Miroslav Klement",
+        "handle": "PRASLAVICENET"
+    },
+    "60584": {
+        "country_code": "CZ",
+        "asn": "60584",
+        "description": "Prime Studio s.r.o.",
+        "handle": "PRIME-AS"
+    },
+    "60592": {
+        "country_code": "CZ",
+        "asn": "60592",
+        "description": "Gransy s.r.o.",
+        "handle": "GRANSY"
+    },
+    "60606": {
+        "country_code": "CZ",
+        "asn": "60606",
+        "description": "PRO-ZETA a.s.",
+        "handle": "BLINDSPOT"
+    },
+    "60724": {
+        "country_code": "CZ",
+        "asn": "60724",
+        "description": "Sicuro Services s. r. o.",
+        "handle": "SICUROCZ"
+    },
+    "60727": {
+        "country_code": "CZ",
+        "asn": "60727",
+        "description": "K2 atmitec s.r.o.",
+        "handle": "K2-CLOUD"
+    },
+    "61110": {
+        "country_code": "CZ",
+        "asn": "61110",
+        "description": "Sprava informacnich technologii mesta Plzne p.o.",
+        "handle": "SITMP"
+    },
+    "61169": {
+        "country_code": "CZ",
+        "asn": "61169",
+        "description": "O2 Czech Republic a.s.",
+        "handle": "SPORKNET"
+    },
+    "61195": {
+        "country_code": "CZ",
+        "asn": "61195",
+        "description": "Peering.cz s.r.o.",
+        "handle": "PEERINGCZ-AS"
+    },
+    "61296": {
+        "country_code": "CZ",
+        "asn": "61296",
+        "description": "TechCom s.r.o.",
+        "handle": "TECHCOM-AS"
+    },
+    "61425": {
+        "country_code": "CZ",
+        "asn": "61425",
+        "description": "AdminIT s. r. o.",
+        "handle": "MLADAFRONTA"
+    },
+    "61973": {
+        "country_code": "CZ",
+        "asn": "61973",
+        "description": "Netassist International s.r.o.",
+        "handle": "OLEKSANDRA-AS"
+    },
+    "61981": {
+        "country_code": "CZ",
+        "asn": "61981",
+        "description": "KLFREE NETWORKS s.r.o.",
+        "handle": "MACH3NET"
+    },
+    "62011": {
+        "country_code": "CZ",
+        "asn": "62011",
+        "description": "UNHfree.net z.s.",
+        "handle": "ASUNHFREE"
+    },
+    "62083": {
+        "country_code": "CZ",
+        "asn": "62083",
+        "description": "Fio banka a.s.",
+        "handle": "FIO-BANKA-AS"
+    },
+    "62099": {
+        "country_code": "CZ",
+        "asn": "62099",
+        "description": "JM-Networks s.r.o.",
+        "handle": "JMNET"
+    },
+    "62102": {
+        "country_code": "CZ",
+        "asn": "62102",
+        "description": "Prazska plynarenska a.s.",
+        "handle": "ISE-AS"
+    },
+    "62159": {
+        "country_code": "CZ",
+        "asn": "62159",
+        "description": "Happy Technik s.r.o.",
+        "handle": "ASHAPPY"
+    },
+    "62176": {
+        "country_code": "CZ",
+        "asn": "62176",
+        "description": "DWDNEJ a.s.",
+        "handle": "EZETRADING"
+    },
+    "62178": {
+        "country_code": "CZ",
+        "asn": "62178",
+        "description": "MASTER IT Technologies a.s.",
+        "handle": "MASTER-IT-TECHNOLOGIES"
+    },
+    "62298": {
+        "country_code": "CZ",
+        "asn": "62298",
+        "description": "Computer Systems Consulting s.r.o.",
+        "handle": "CSC"
+    },
+    "62405": {
+        "country_code": "CZ",
+        "asn": "62405",
+        "description": "Brouzdal s.r.o.",
+        "handle": "BROUZDAL"
+    },
+    "63113": {
+        "country_code": "CZ",
+        "asn": "63113",
+        "description": "Globecorp Networks",
+        "handle": "GLOBECORP-NETWORKS"
+    },
+    "196653": {
+        "country_code": "CZ",
+        "asn": "196653",
+        "description": "BEST-NET s.r.o.",
+        "handle": "ASBESTNETCZ"
+    },
+    "196684": {
+        "country_code": "CZ",
+        "asn": "196684",
+        "description": "VITALATIV s.r.o.",
+        "handle": "VITALATIV-CZ-AS"
+    },
+    "196735": {
+        "country_code": "CZ",
+        "asn": "196735",
+        "description": "JON.CZ s.r.o.",
+        "handle": "AS-JONCZ"
+    },
+    "196762": {
+        "country_code": "CZ",
+        "asn": "196762",
+        "description": "ALKOM Security a.s.",
+        "handle": "ASALKOM"
+    },
+    "196815": {
+        "country_code": "CZ",
+        "asn": "196815",
+        "description": "LAN servis s.r.o.",
+        "handle": "LANSERVIS-AS"
+    },
+    "196822": {
+        "country_code": "CZ",
+        "asn": "196822",
+        "description": "SELECT SYSTEM s.r.o.",
+        "handle": "SELECTSYSTEM-AS"
+    },
+    "196843": {
+        "country_code": "CZ",
+        "asn": "196843",
+        "description": "KHnet.info z.s.",
+        "handle": "KHNET"
+    },
+    "196849": {
+        "country_code": "CZ",
+        "asn": "196849",
+        "description": "MO BYRTUS s.r.o.",
+        "handle": "ASBARTYSOVA"
+    },
+    "196861": {
+        "country_code": "CZ",
+        "asn": "196861",
+        "description": "DIGITAL ACTION s.r.o.",
+        "handle": "DIGIACT-AS"
+    },
+    "196873": {
+        "country_code": "CZ",
+        "asn": "196873",
+        "description": "Netlancers s.r.o.",
+        "handle": "NETLANCERS-AS"
+    },
+    "196916": {
+        "country_code": "CZ",
+        "asn": "196916",
+        "description": "BusinessCom CZ spol. s r.o.",
+        "handle": "BUSINESSCOM-AS"
+    },
+    "196943": {
+        "country_code": "CZ",
+        "asn": "196943",
+        "description": "Vissado s.r.o.",
+        "handle": "ASVISSADO"
+    },
+    "196952": {
+        "country_code": "CZ",
+        "asn": "196952",
+        "description": "BEZVANET s.r.o.",
+        "handle": "ASBEZVANET"
+    },
+    "197013": {
+        "country_code": "CZ",
+        "asn": "197013",
+        "description": "Sprintel s.r.o.",
+        "handle": "SPRINTEL-SRO"
+    },
+    "197019": {
+        "country_code": "CZ",
+        "asn": "197019",
+        "description": "WEDOS Internet a.s.",
+        "handle": "WEDOS"
+    },
+    "197029": {
+        "country_code": "CZ",
+        "asn": "197029",
+        "description": "LAM plus s.r.o.",
+        "handle": "LAM-AS"
+    },
+    "197046": {
+        "country_code": "CZ",
+        "asn": "197046",
+        "description": "FIXnet s.r.o.",
+        "handle": "AS-FIXNET"
+    },
+    "197083": {
+        "country_code": "CZ",
+        "asn": "197083",
+        "description": "K2 atmitec s.r.o.",
+        "handle": "K2ATMITEC"
+    },
+    "197197": {
+        "country_code": "CZ",
+        "asn": "197197",
+        "description": "CETIN a.s.",
+        "handle": "M-NET"
+    },
+    "197206": {
+        "country_code": "CZ",
+        "asn": "197206",
+        "description": "BusinessCom CZ spol. s r.o.",
+        "handle": "EU1-BUSINESSCOM"
+    },
+    "197277": {
+        "country_code": "CZ",
+        "asn": "197277",
+        "description": "State Institute for Drug Control",
+        "handle": "SUKL-AS"
+    },
+    "197296": {
+        "country_code": "CZ",
+        "asn": "197296",
+        "description": "United Networks SE",
+        "handle": "UNITED-NETWORKS-SE"
+    },
+    "197307": {
+        "country_code": "CZ",
+        "asn": "197307",
+        "description": "Core4Net s.r.o.",
+        "handle": "BNET-INTERNET-CZ"
+    },
+    "197353": {
+        "country_code": "CZ",
+        "asn": "197353",
+        "description": "NN Management Services s.r.o.",
+        "handle": "INGMS-CZ"
+    },
+    "197376": {
+        "country_code": "CZ",
+        "asn": "197376",
+        "description": "Cloud4com s.r.o.",
+        "handle": "TEST-TRANSIT-AS-IPV6PROJECT-EU"
+    },
+    "197393": {
+        "country_code": "CZ",
+        "asn": "197393",
+        "description": "ISP Alliance a.s.",
+        "handle": "ASRUDOLFNET"
+    },
+    "197412": {
+        "country_code": "CZ",
+        "asn": "197412",
+        "description": "Jiri Tlapak",
+        "handle": "ASBESKYDNET"
+    },
+    "197426": {
+        "country_code": "CZ",
+        "asn": "197426",
+        "description": "Marek Hradil",
+        "handle": "CYBRIXA"
+    },
+    "197444": {
+        "country_code": "CZ",
+        "asn": "197444",
+        "description": "COMFEEL s.r.o.",
+        "handle": "COMFEEL"
+    },
+    "197451": {
+        "country_code": "CZ",
+        "asn": "197451",
+        "description": "Brno University of Technology",
+        "handle": "VUTBR-AS"
+    },
+    "197542": {
+        "country_code": "CZ",
+        "asn": "197542",
+        "description": "Jan Saulich",
+        "handle": "COMUNITED"
+    },
+    "197550": {
+        "country_code": "CZ",
+        "asn": "197550",
+        "description": "Internet4you.cz spol. s r.o.",
+        "handle": "ASINET4YOU"
+    },
+    "197565": {
+        "country_code": "CZ",
+        "asn": "197565",
+        "description": "NHK Solutions s.r.o.",
+        "handle": "ASDIGISERVICE"
+    },
+    "197566": {
+        "country_code": "CZ",
+        "asn": "197566",
+        "description": "Livady s.r.o.",
+        "handle": "ASOKNET"
+    },
+    "197694": {
+        "country_code": "CZ",
+        "asn": "197694",
+        "description": "Municipal Office of the City Prague",
+        "handle": "MEPNET-AS"
+    },
+    "197798": {
+        "country_code": "CZ",
+        "asn": "197798",
+        "description": "Net-Connect s.r.o.",
+        "handle": "NET-CONNECT"
+    },
+    "197846": {
+        "country_code": "CZ",
+        "asn": "197846",
+        "description": "Radovan Ochvat trading as SAO Computers",
+        "handle": "SAOCOMP-AS"
+    },
+    "197875": {
+        "country_code": "CZ",
+        "asn": "197875",
+        "description": "ORLEN Unipetrol RPA s.r.o.",
+        "handle": "UNIPETROLRPA"
+    },
+    "197879": {
+        "country_code": "CZ",
+        "asn": "197879",
+        "description": "HelaPC s.r.o.",
+        "handle": "HELAPC"
+    },
+    "197895": {
+        "country_code": "CZ",
+        "asn": "197895",
+        "description": "ONYX engineering spol. s r.o.",
+        "handle": "ONYX-AS"
+    },
+    "197920": {
+        "country_code": "CZ",
+        "asn": "197920",
+        "description": "SKODA ICT s.r.o.",
+        "handle": "SKODA-ICT"
+    },
+    "197963": {
+        "country_code": "CZ",
+        "asn": "197963",
+        "description": "Jiri Vitak",
+        "handle": "BLAZEHOST"
+    },
+    "198002": {
+        "country_code": "CZ",
+        "asn": "198002",
+        "description": "CEZNET s.r.o.",
+        "handle": "CEZNET-AS"
+    },
+    "198031": {
+        "country_code": "CZ",
+        "asn": "198031",
+        "description": "Trustica s.r.o.",
+        "handle": "TRUSTICA-AS"
+    },
+    "198101": {
+        "country_code": "CZ",
+        "asn": "198101",
+        "description": "Kooperativa pojistovna a.s. Vienna Insurance Group",
+        "handle": "KOOPERATIVA-AS"
+    },
+    "198103": {
+        "country_code": "CZ",
+        "asn": "198103",
+        "description": "CCS Ceska spolecnost pro platebni karty s.r.o.",
+        "handle": "CCS-CZ"
+    },
+    "198121": {
+        "country_code": "CZ",
+        "asn": "198121",
+        "description": "Whalebone s.r.o.",
+        "handle": "DNS4EU"
+    },
+    "198143": {
+        "country_code": "CZ",
+        "asn": "198143",
+        "description": "Ceska Posta s.p.",
+        "handle": "CESKAPOSTA-AS"
+    },
+    "198161": {
+        "country_code": "CZ",
+        "asn": "198161",
+        "description": "Sokolovska uhelna pravni nastupce a.s.",
+        "handle": "CZ-SUAS"
+    },
+    "198167": {
+        "country_code": "CZ",
+        "asn": "198167",
+        "description": "Apptc.me s.r.o.",
+        "handle": "APPTOCLOUD"
+    },
+    "198171": {
+        "country_code": "CZ",
+        "asn": "198171",
+        "description": "Webglobe s.r.o.",
+        "handle": "WEBGLOBERS"
+    },
+    "198248": {
+        "country_code": "CZ",
+        "asn": "198248",
+        "description": "Richard Filip",
+        "handle": "ASCSERVIS"
+    },
+    "198282": {
+        "country_code": "CZ",
+        "asn": "198282",
+        "description": "CAH Building s.r.o.",
+        "handle": "CABLENET"
+    },
+    "198284": {
+        "country_code": "CZ",
+        "asn": "198284",
+        "description": "Mesto Velka Bystrice",
+        "handle": "ASBYSTRICE"
+    },
+    "198346": {
+        "country_code": "CZ",
+        "asn": "198346",
+        "description": "NETFORMS s.r.o.",
+        "handle": "NETFORMS-AS"
+    },
+    "198403": {
+        "country_code": "CZ",
+        "asn": "198403",
+        "description": "Pe3ny Net s.r.o.",
+        "handle": "MATRIGO-AS"
+    },
+    "198494": {
+        "country_code": "CZ",
+        "asn": "198494",
+        "description": "PREGIS a.s",
+        "handle": "PREGIS"
+    },
+    "198500": {
+        "country_code": "CZ",
+        "asn": "198500",
+        "description": "Masarykova univerzita - Ustav vypocetni techniky",
+        "handle": "MUNINET-AS"
+    },
+    "198519": {
+        "country_code": "CZ",
+        "asn": "198519",
+        "description": "Raiffeisenbank a.s.",
+        "handle": "RBCZ"
+    },
+    "198564": {
+        "country_code": "CZ",
+        "asn": "198564",
+        "description": "STARNET s.r.o.",
+        "handle": "ASELCOMA"
+    },
+    "198605": {
+        "country_code": "CZ",
+        "asn": "198605",
+        "description": "AVAST Software s.r.o.",
+        "handle": "AVAST-AS-DC"
+    },
+    "198627": {
+        "country_code": "CZ",
+        "asn": "198627",
+        "description": "Shoptet a.s.",
+        "handle": "SHOPTET"
+    },
+    "198668": {
+        "country_code": "CZ",
+        "asn": "198668",
+        "description": "Tlapnet s.r.o.",
+        "handle": "TLAPNET"
+    },
+    "198725": {
+        "country_code": "CZ",
+        "asn": "198725",
+        "description": "Ultimum Technologies a.s.",
+        "handle": "ULTIMUM-AS"
+    },
+    "198813": {
+        "country_code": "CZ",
+        "asn": "198813",
+        "description": "SychrovNET s.r.o",
+        "handle": "SYCHROVNET"
+    },
+    "198814": {
+        "country_code": "CZ",
+        "asn": "198814",
+        "description": "ALPHA StylSoft s.r.o.",
+        "handle": "ASALPHASTYLSOFT"
+    },
+    "198882": {
+        "country_code": "CZ",
+        "asn": "198882",
+        "description": "Karlovarsky Kraj",
+        "handle": "KVKRAJ"
+    },
+    "198977": {
+        "country_code": "CZ",
+        "asn": "198977",
+        "description": "UnArtel s.r.o.",
+        "handle": "UNART"
+    },
+    "198991": {
+        "country_code": "CZ",
+        "asn": "198991",
+        "description": "TV Nova sro",
+        "handle": "TV-NOVA-SRO"
+    },
+    "199059": {
+        "country_code": "CZ",
+        "asn": "199059",
+        "description": "Maurice Ward & Co. s.r.o.",
+        "handle": "MAURICEWARD"
+    },
+    "199220": {
+        "country_code": "CZ",
+        "asn": "199220",
+        "description": "KrU Stredoceskeho kraje",
+        "handle": "KRS-AS-CZ"
+    },
+    "199298": {
+        "country_code": "CZ",
+        "asn": "199298",
+        "description": "Jan Stetina",
+        "handle": "GIGANETCZ"
+    },
+    "199350": {
+        "country_code": "CZ",
+        "asn": "199350",
+        "description": "Ministerstvo financi",
+        "handle": "MFCR"
+    },
+    "199405": {
+        "country_code": "CZ",
+        "asn": "199405",
+        "description": "Oslavany.NET spolek",
+        "handle": "OSLAVANY-NET-AS"
+    },
+    "199490": {
+        "country_code": "CZ",
+        "asn": "199490",
+        "description": "INTERCONNECT s.r.o.",
+        "handle": "INTERCONNECT"
+    },
+    "199600": {
+        "country_code": "CZ",
+        "asn": "199600",
+        "description": "Virtis s.r.o.",
+        "handle": "VIRTIS"
+    },
+    "199604": {
+        "country_code": "CZ",
+        "asn": "199604",
+        "description": "OLOMOUCKY KRAJ",
+        "handle": "KU-AS"
+    },
+    "199630": {
+        "country_code": "CZ",
+        "asn": "199630",
+        "description": "Municipal Office of the City Prague",
+        "handle": "MEPPR"
+    },
+    "199657": {
+        "country_code": "CZ",
+        "asn": "199657",
+        "description": "TNtech s.r.o.",
+        "handle": "TOUSKOVNET"
+    },
+    "199665": {
+        "country_code": "CZ",
+        "asn": "199665",
+        "description": "Hana Juzkova",
+        "handle": "RADIOLINKPLUS1-NETWORK"
+    },
+    "199711": {
+        "country_code": "CZ",
+        "asn": "199711",
+        "description": "National Cyber and Information Security Agency",
+        "handle": "NCISA-AS"
+    },
+    "199722": {
+        "country_code": "CZ",
+        "asn": "199722",
+        "description": "Sberbank CZ a.s. v likvidaci",
+        "handle": "SBERBANKCZ"
+    },
+    "199803": {
+        "country_code": "CZ",
+        "asn": "199803",
+        "description": "ComSource s.r.o.",
+        "handle": "COMSOURCE"
+    },
+    "199806": {
+        "country_code": "CZ",
+        "asn": "199806",
+        "description": "DCIT a.s.",
+        "handle": "DCIT-AS-CZ"
+    },
+    "200059": {
+        "country_code": "CZ",
+        "asn": "200059",
+        "description": "ISP Alliance a.s.",
+        "handle": "AIRWEB-ISP"
+    },
+    "200070": {
+        "country_code": "CZ",
+        "asn": "200070",
+        "description": "CZ.NIC z.s.p.o.",
+        "handle": "CZNIC-AS2"
+    },
+    "200114": {
+        "country_code": "CZ",
+        "asn": "200114",
+        "description": "JON.CZ s.r.o.",
+        "handle": "PROCOM"
+    },
+    "200449": {
+        "country_code": "CZ",
+        "asn": "200449",
+        "description": "Qrator Labs CZ s.r.o.",
+        "handle": "QRATOR-CZ"
+    },
+    "200474": {
+        "country_code": "CZ",
+        "asn": "200474",
+        "description": "CRFreeNet z.s.",
+        "handle": "CRFREENET"
+    },
+    "200600": {
+        "country_code": "CZ",
+        "asn": "200600",
+        "description": "Seznam.cz datova centra s.r.o.",
+        "handle": "SEZNAM-CZ-DC"
+    },
+    "200635": {
+        "country_code": "CZ",
+        "asn": "200635",
+        "description": "pragmatel s.r.o.",
+        "handle": "INTERCONNECT"
+    },
+    "200646": {
+        "country_code": "CZ",
+        "asn": "200646",
+        "description": "BH securities a.s.",
+        "handle": "BHSEC-PRG"
+    },
+    "200678": {
+        "country_code": "CZ",
+        "asn": "200678",
+        "description": "Komplet NET s.r.o.",
+        "handle": "ARENIS"
+    },
+    "200717": {
+        "country_code": "CZ",
+        "asn": "200717",
+        "description": "ISP Alliance a.s.",
+        "handle": "STENCZ-AS"
+    },
+    "200806": {
+        "country_code": "CZ",
+        "asn": "200806",
+        "description": "BOHEMIA ENERGY entity s.r.o.",
+        "handle": "BEE"
+    },
+    "200828": {
+        "country_code": "CZ",
+        "asn": "200828",
+        "description": "TERMS a.s.",
+        "handle": "THOSTING-AS"
+    },
+    "200844": {
+        "country_code": "CZ",
+        "asn": "200844",
+        "description": "STUDENT AGENCY k.s.",
+        "handle": "SA-AS"
+    },
+    "200848": {
+        "country_code": "CZ",
+        "asn": "200848",
+        "description": "ISP Alliance a.s.",
+        "handle": "LUMINET2"
+    },
+    "200871": {
+        "country_code": "CZ",
+        "asn": "200871",
+        "description": "RockawayX Infra s.r.o.",
+        "handle": "ROCKAWAYX-EU"
+    },
+    "200874": {
+        "country_code": "CZ",
+        "asn": "200874",
+        "description": "Liberecky kraj",
+        "handle": "LBC-AS-CZ"
+    },
+    "200918": {
+        "country_code": "CZ",
+        "asn": "200918",
+        "description": "Pavel Zizka",
+        "handle": "ORELSOFT"
+    },
+    "200985": {
+        "country_code": "CZ",
+        "asn": "200985",
+        "description": "TNtech s.r.o.",
+        "handle": "BOKNET"
+    },
+    "201007": {
+        "country_code": "CZ",
+        "asn": "201007",
+        "description": "Tesco Stores CR a.s.",
+        "handle": "CZ-TESCO"
+    },
+    "201049": {
+        "country_code": "CZ",
+        "asn": "201049",
+        "description": "UNT Cernovice NET s.r.o.",
+        "handle": "UNT-CERNOVICE"
+    },
+    "201116": {
+        "country_code": "CZ",
+        "asn": "201116",
+        "description": "Vybezek.NET s.r.o.",
+        "handle": "VYBEZEKNET"
+    },
+    "201163": {
+        "country_code": "CZ",
+        "asn": "201163",
+        "description": "Komercni banka a.s.",
+        "handle": "KB-AS-CZ"
+    },
+    "201263": {
+        "country_code": "CZ",
+        "asn": "201263",
+        "description": "Brno University of Technology",
+        "handle": "AS-BRIX-CDN"
+    },
+    "201265": {
+        "country_code": "CZ",
+        "asn": "201265",
+        "description": "ANAFRA a.s.",
+        "handle": "ANAFRA-AS"
+    },
+    "201348": {
+        "country_code": "CZ",
+        "asn": "201348",
+        "description": "SIZEK Networks s.r.o",
+        "handle": "SIZEKNET"
+    },
+    "201447": {
+        "country_code": "CZ",
+        "asn": "201447",
+        "description": "The Czech National Bank",
+        "handle": "AS-CNB"
+    },
+    "201457": {
+        "country_code": "CZ",
+        "asn": "201457",
+        "description": "Kooperativa pojistovna a.s. Vienna Insurance Group",
+        "handle": "KOOPERATIVA-AS2"
+    },
+    "201464": {
+        "country_code": "CZ",
+        "asn": "201464",
+        "description": "ISP Alliance a.s.",
+        "handle": "OK-NET"
+    },
+    "201476": {
+        "country_code": "CZ",
+        "asn": "201476",
+        "description": "ISP Alliance a.s.",
+        "handle": "WOLFNET"
+    },
+    "201533": {
+        "country_code": "CZ",
+        "asn": "201533",
+        "description": "United Networks SE",
+        "handle": "UNITED-NETWORKS-SE"
+    },
+    "201548": {
+        "country_code": "CZ",
+        "asn": "201548",
+        "description": "Milan Zelenka",
+        "handle": "MILAN-ZELENKA"
+    },
+    "201559": {
+        "country_code": "CZ",
+        "asn": "201559",
+        "description": "United Networks SE",
+        "handle": "UNITED-NETWORKS-SE"
+    },
+    "201594": {
+        "country_code": "CZ",
+        "asn": "201594",
+        "description": "Czech Telecommunication Office",
+        "handle": "CTU-AS4"
+    },
+    "201608": {
+        "country_code": "CZ",
+        "asn": "201608",
+        "description": "HovNet-SERVIS s.r.o.",
+        "handle": "HOVNET-AS"
+    },
+    "201625": {
+        "country_code": "CZ",
+        "asn": "201625",
+        "description": "United Networks SE",
+        "handle": "UNITED-NETWORKS-SE"
+    },
+    "201648": {
+        "country_code": "CZ",
+        "asn": "201648",
+        "description": "Plzensky kraj",
+        "handle": "PLZ-AS-CZ"
+    },
+    "201654": {
+        "country_code": "CZ",
+        "asn": "201654",
+        "description": "CEZNET s.r.o.",
+        "handle": "CEZNET-AS"
+    },
+    "201727": {
+        "country_code": "CZ",
+        "asn": "201727",
+        "description": "Blond & Brown s.r.o.",
+        "handle": "AS-BUBAKOV"
+    },
+    "201730": {
+        "country_code": "CZ",
+        "asn": "201730",
+        "description": "Cloud4com s.r.o.",
+        "handle": "DATASPRING"
+    },
+    "201761": {
+        "country_code": "CZ",
+        "asn": "201761",
+        "description": "ISP Alliance a.s.",
+        "handle": "GS-NET"
+    },
+    "201922": {
+        "country_code": "CZ",
+        "asn": "201922",
+        "description": "mapnet IT services s.r.o.",
+        "handle": "AMCCOMP-TURANY"
+    },
+    "201931": {
+        "country_code": "CZ",
+        "asn": "201931",
+        "description": "LBnet.cz s.r.o.",
+        "handle": "LBNET"
+    },
+    "201934": {
+        "country_code": "CZ",
+        "asn": "201934",
+        "description": "HD Internet s.r.o.",
+        "handle": "SATAN-NET"
+    },
+    "202073": {
+        "country_code": "CZ",
+        "asn": "202073",
+        "description": "Itego a.s.",
+        "handle": "ABS-ACLOUD-CLIENTS1"
+    },
+    "202131": {
+        "country_code": "CZ",
+        "asn": "202131",
+        "description": "ISP Alliance a.s.",
+        "handle": "WAVE-NET"
+    },
+    "202237": {
+        "country_code": "CZ",
+        "asn": "202237",
+        "description": "Wic-Net s.r.o.",
+        "handle": "WICNET-AS"
+    },
+    "202522": {
+        "country_code": "CZ",
+        "asn": "202522",
+        "description": "O2 Czech Republic a.s.",
+        "handle": "CZ-NORDICTELECOMREGIONAL"
+    },
+    "202551": {
+        "country_code": "CZ",
+        "asn": "202551",
+        "description": "INERA.CZ s.r.o.",
+        "handle": "INERA"
+    },
+    "202556": {
+        "country_code": "CZ",
+        "asn": "202556",
+        "description": "Blond & Brown s.r.o.",
+        "handle": "ASKRIVONET"
+    },
+    "202605": {
+        "country_code": "CZ",
+        "asn": "202605",
+        "description": "EMPECOM s.r.o.",
+        "handle": "MORNET-CZ"
+    },
+    "202618": {
+        "country_code": "CZ",
+        "asn": "202618",
+        "description": "Rychly drat s.r.o.",
+        "handle": "RYCHLYDRAT"
+    },
+    "202643": {
+        "country_code": "CZ",
+        "asn": "202643",
+        "description": "NetSERV s.r.o.",
+        "handle": "NETSERV-AS"
+    },
+    "202657": {
+        "country_code": "CZ",
+        "asn": "202657",
+        "description": "Pavel Jochim",
+        "handle": "HNOJNIK"
+    },
+    "202682": {
+        "country_code": "CZ",
+        "asn": "202682",
+        "description": "Geetoo Technology s.r.o.",
+        "handle": "GEETOO-CZ"
+    },
+    "202719": {
+        "country_code": "CZ",
+        "asn": "202719",
+        "description": "Pranet s.r.o.",
+        "handle": "PRANET"
+    },
+    "202733": {
+        "country_code": "CZ",
+        "asn": "202733",
+        "description": "OK COMP s.r.o.",
+        "handle": "OKCOMP"
+    },
+    "202774": {
+        "country_code": "CZ",
+        "asn": "202774",
+        "description": "ISP Alliance a.s.",
+        "handle": "COMTEX"
+    },
+    "202857": {
+        "country_code": "CZ",
+        "asn": "202857",
+        "description": "INIZIO Internet Media s.r.o.",
+        "handle": "CZ-AS"
+    },
+    "202872": {
+        "country_code": "CZ",
+        "asn": "202872",
+        "description": "KME spol. s r. o.",
+        "handle": "KMENET"
+    },
+    "202874": {
+        "country_code": "CZ",
+        "asn": "202874",
+        "description": "Zlinsky Kraj",
+        "handle": "ZL-AS-CZ"
+    },
+    "202877": {
+        "country_code": "CZ",
+        "asn": "202877",
+        "description": "VEJNET.CZ s.r.o.",
+        "handle": "VEJNET"
+    },
+    "202895": {
+        "country_code": "CZ",
+        "asn": "202895",
+        "description": "TFnet s.r.o.",
+        "handle": "TFNET"
+    },
+    "202906": {
+        "country_code": "CZ",
+        "asn": "202906",
+        "description": "Ministerstvo Obrany",
+        "handle": "CZ-ACR"
+    },
+    "202912": {
+        "country_code": "CZ",
+        "asn": "202912",
+        "description": "Petr Hadraba",
+        "handle": "PETR-HADRABA"
+    },
+    "202921": {
+        "country_code": "CZ",
+        "asn": "202921",
+        "description": "CC INTERNET s.r.o.",
+        "handle": "CC-INTERNET"
+    },
+    "202948": {
+        "country_code": "CZ",
+        "asn": "202948",
+        "description": "FORTUNA GAME a.s.",
+        "handle": "PL-FORTUNA-GAME-DC"
+    },
+    "202979": {
+        "country_code": "CZ",
+        "asn": "202979",
+        "description": "NGA Services spol. s r.o.",
+        "handle": "NGASERVICES"
+    },
+    "202996": {
+        "country_code": "CZ",
+        "asn": "202996",
+        "description": "Ondrej Vrana",
+        "handle": "HELKOR"
+    },
+    "203018": {
+        "country_code": "CZ",
+        "asn": "203018",
+        "description": "PAMICO CZECH s.r.o.",
+        "handle": "PAMICO"
+    },
+    "203072": {
+        "country_code": "CZ",
+        "asn": "203072",
+        "description": "DomaTV s.r.o.",
+        "handle": "DOMATV"
+    },
+    "203165": {
+        "country_code": "CZ",
+        "asn": "203165",
+        "description": "Statni pokladna Centrum sdilenych sluzeb s.p.",
+        "handle": "SPCSS"
+    },
+    "203208": {
+        "country_code": "CZ",
+        "asn": "203208",
+        "description": "Czech Telecommunication Office",
+        "handle": "CTU-AS4-2"
+    },
+    "203299": {
+        "country_code": "CZ",
+        "asn": "203299",
+        "description": "NetX Networks a.s.",
+        "handle": "IHNET"
+    },
+    "203328": {
+        "country_code": "CZ",
+        "asn": "203328",
+        "description": "PVfree.net z. s.",
+        "handle": "PVFREENET"
+    },
+    "203342": {
+        "country_code": "CZ",
+        "asn": "203342",
+        "description": "ISP Alliance a.s.",
+        "handle": "RUDOLFNET"
+    },
+    "203365": {
+        "country_code": "CZ",
+        "asn": "203365",
+        "description": "Optet network s. r. o.",
+        "handle": "OPTETNETWORK"
+    },
+    "203376": {
+        "country_code": "CZ",
+        "asn": "203376",
+        "description": "Mailkit s.r.o.",
+        "handle": "MAILKIT"
+    },
+    "203385": {
+        "country_code": "CZ",
+        "asn": "203385",
+        "description": "Pernix systems s.r.o.",
+        "handle": "ASCZPERNIX"
+    },
+    "203411": {
+        "country_code": "CZ",
+        "asn": "203411",
+        "description": "FORTUNA GAME a.s.",
+        "handle": "FORTUNA-GAME-PUB"
+    },
+    "203450": {
+        "country_code": "CZ",
+        "asn": "203450",
+        "description": "Edera Group a.s.",
+        "handle": "LOGICPRIM"
+    },
+    "203488": {
+        "country_code": "CZ",
+        "asn": "203488",
+        "description": "DaLuNET s.r.o.",
+        "handle": "DALUNET"
+    },
+    "203550": {
+        "country_code": "CZ",
+        "asn": "203550",
+        "description": "i2net cz s.r.o.",
+        "handle": "I2NET"
+    },
+    "203629": {
+        "country_code": "CZ",
+        "asn": "203629",
+        "description": "SIBNET s.r.o.",
+        "handle": "SIBNET-EU"
+    },
+    "203645": {
+        "country_code": "CZ",
+        "asn": "203645",
+        "description": "Jan Ryznar",
+        "handle": "RYZNAR-AS"
+    },
+    "203743": {
+        "country_code": "CZ",
+        "asn": "203743",
+        "description": "ISP Alliance a.s.",
+        "handle": "BROUMNET"
+    },
+    "204007": {
+        "country_code": "CZ",
+        "asn": "204007",
+        "description": "Kleissner Investments s.r.o.",
+        "handle": "KLEISSNER"
+    },
+    "204064": {
+        "country_code": "CZ",
+        "asn": "204064",
+        "description": "CEZNET s.r.o.",
+        "handle": "CEZNET-AS"
+    },
+    "204080": {
+        "country_code": "CZ",
+        "asn": "204080",
+        "description": "Apelby Solutions s.r.o.",
+        "handle": "MEG-AS"
+    },
+    "204084": {
+        "country_code": "CZ",
+        "asn": "204084",
+        "description": "IGLG Network CZ s.r.o.",
+        "handle": "DATALAE"
+    },
+    "204113": {
+        "country_code": "CZ",
+        "asn": "204113",
+        "description": "Security Information Service",
+        "handle": "CSIS"
+    },
+    "204150": {
+        "country_code": "CZ",
+        "asn": "204150",
+        "description": "David Zakoucky",
+        "handle": "STORMHOST"
+    },
+    "204165": {
+        "country_code": "CZ",
+        "asn": "204165",
+        "description": "Cznet s.r.o.",
+        "handle": "CZNETSRO-AS"
+    },
+    "204172": {
+        "country_code": "CZ",
+        "asn": "204172",
+        "description": "TTC TELEKOMUNIKACE s.r.o.",
+        "handle": "TTCINFRA-CZ"
+    },
+    "204183": {
+        "country_code": "CZ",
+        "asn": "204183",
+        "description": "Omnivery s.r.o.",
+        "handle": "OMNIVERY-EU"
+    },
+    "204216": {
+        "country_code": "CZ",
+        "asn": "204216",
+        "description": "netsearch s.r.o.",
+        "handle": "NETSEARCH"
+    },
+    "204332": {
+        "country_code": "CZ",
+        "asn": "204332",
+        "description": "TKC system s.r.o.",
+        "handle": "TKCSYSTEM"
+    },
+    "204351": {
+        "country_code": "CZ",
+        "asn": "204351",
+        "description": "NAM system a.s.",
+        "handle": "NAM"
+    },
+    "204372": {
+        "country_code": "CZ",
+        "asn": "204372",
+        "description": "PPF banka a.s.",
+        "handle": "PPFBANKA"
+    },
+    "204383": {
+        "country_code": "CZ",
+        "asn": "204383",
+        "description": "SPCom s.r.o.",
+        "handle": "CZ-SPCOM-AS"
+    },
+    "204394": {
+        "country_code": "CZ",
+        "asn": "204394",
+        "description": "Cortex a.s.",
+        "handle": "CORTEX"
+    },
+    "204405": {
+        "country_code": "CZ",
+        "asn": "204405",
+        "description": "Durnet.cz sro",
+        "handle": "DURNETCZ"
+    },
+    "204409": {
+        "country_code": "CZ",
+        "asn": "204409",
+        "description": "Prestonet s.r.o.",
+        "handle": "CZ-PRESTONET"
+    },
+    "204543": {
+        "country_code": "CZ",
+        "asn": "204543",
+        "description": "Filip Hruska",
+        "handle": "FHRNET"
+    },
+    "204567": {
+        "country_code": "CZ",
+        "asn": "204567",
+        "description": "PCKBnet s.r.o.",
+        "handle": "ASPCKBNET"
+    },
+    "204570": {
+        "country_code": "CZ",
+        "asn": "204570",
+        "description": "KAZA.cz s.r.o.",
+        "handle": "HORNACKYNET"
+    },
+    "204666": {
+        "country_code": "CZ",
+        "asn": "204666",
+        "description": "Jiri Tlapak",
+        "handle": "CZJIRITLAPAK"
+    },
+    "204668": {
+        "country_code": "CZ",
+        "asn": "204668",
+        "description": "ASTANA Technologies s.r.o.",
+        "handle": "ASTANACZ"
+    },
+    "204772": {
+        "country_code": "CZ",
+        "asn": "204772",
+        "description": "Reditelstvi silnic a dalnic s.p.",
+        "handle": "RSD-CZ"
+    },
+    "204860": {
+        "country_code": "CZ",
+        "asn": "204860",
+        "description": "NetX Networks a.s.",
+        "handle": "NETX"
+    },
+    "204886": {
+        "country_code": "CZ",
+        "asn": "204886",
+        "description": "Metropolitni sit Humpolec spol. s r.o.",
+        "handle": "METRO-HU"
+    },
+    "204907": {
+        "country_code": "CZ",
+        "asn": "204907",
+        "description": "Air Bank a.s.",
+        "handle": "AS204907"
+    },
+    "204917": {
+        "country_code": "CZ",
+        "asn": "204917",
+        "description": "Mi-Ja Javornik s.r.o.",
+        "handle": "MIJA-AS"
+    },
+    "204943": {
+        "country_code": "CZ",
+        "asn": "204943",
+        "description": "NTV cable s.r.o.",
+        "handle": "NTVCABLE"
+    },
+    "204949": {
+        "country_code": "CZ",
+        "asn": "204949",
+        "description": "CMIS s.r.o.",
+        "handle": "CMIS"
+    },
+    "205002": {
+        "country_code": "CZ",
+        "asn": "205002",
+        "description": "CUBESOL s.r.o.",
+        "handle": "AS-IWAO"
+    },
+    "205004": {
+        "country_code": "CZ",
+        "asn": "205004",
+        "description": "HCNET s.r.o.",
+        "handle": "AS-HCNET"
+    },
+    "205026": {
+        "country_code": "CZ",
+        "asn": "205026",
+        "description": "wvg solution s.r.o.",
+        "handle": "WVG-CLOUD-AS"
+    },
+    "205044": {
+        "country_code": "CZ",
+        "asn": "205044",
+        "description": "MOSES Internet s.r.o.",
+        "handle": "MOSES"
+    },
+    "205064": {
+        "country_code": "CZ",
+        "asn": "205064",
+        "description": "RockawayX Infra s.r.o.",
+        "handle": "ROCKAWAYX-UAE"
+    },
+    "205234": {
+        "country_code": "CZ",
+        "asn": "205234",
+        "description": "Brnenske komunikace a.s.",
+        "handle": "BKOM"
+    },
+    "205248": {
+        "country_code": "CZ",
+        "asn": "205248",
+        "description": "Netassist International s.r.o.",
+        "handle": "TRIAR"
+    },
+    "205300": {
+        "country_code": "CZ",
+        "asn": "205300",
+        "description": "Sunfox s.r.o.",
+        "handle": "ASSUNFOX"
+    },
+    "205345": {
+        "country_code": "CZ",
+        "asn": "205345",
+        "description": "HoralNET s.r.o.",
+        "handle": "HORALNET"
+    },
+    "205400": {
+        "country_code": "CZ",
+        "asn": "205400",
+        "description": "VIVO CONNECTION spol. s r.o.",
+        "handle": "VIVOCONNECTION"
+    },
+    "205535": {
+        "country_code": "CZ",
+        "asn": "205535",
+        "description": "Windyghoul s.r.o.",
+        "handle": "WINDYGHOUL"
+    },
+    "205551": {
+        "country_code": "CZ",
+        "asn": "205551",
+        "description": "Blep.cz z. s.",
+        "handle": "BLEPCZ"
+    },
+    "205619": {
+        "country_code": "CZ",
+        "asn": "205619",
+        "description": "Jiri Chalabala",
+        "handle": "ASVESNET"
+    },
+    "205724": {
+        "country_code": "CZ",
+        "asn": "205724",
+        "description": "T.S.BOHEMIA a.s.",
+        "handle": "TSB-AS"
+    },
+    "205863": {
+        "country_code": "CZ",
+        "asn": "205863",
+        "description": "Stepan Pokorny",
+        "handle": "POKORNY"
+    },
+    "205910": {
+        "country_code": "CZ",
+        "asn": "205910",
+        "description": "McKinsey & Company Inc.",
+        "handle": "ASNEW"
+    },
+    "205947": {
+        "country_code": "CZ",
+        "asn": "205947",
+        "description": "NDC ICT Solutions s.r.o.",
+        "handle": "NDC-ICT-SOLUTIONS"
+    },
+    "205968": {
+        "country_code": "CZ",
+        "asn": "205968",
+        "description": "GeneralNet s.r.o.",
+        "handle": "ASGENERALNET"
+    },
+    "205982": {
+        "country_code": "CZ",
+        "asn": "205982",
+        "description": "Mraknet s.r.o.",
+        "handle": "ASMRAKNET"
+    },
+    "206159": {
+        "country_code": "CZ",
+        "asn": "206159",
+        "description": "Fresh Data s.r.o.",
+        "handle": "CZ-FRESH"
+    },
+    "206177": {
+        "country_code": "CZ",
+        "asn": "206177",
+        "description": "SitePark s.r.o.",
+        "handle": "SITEPARK"
+    },
+    "206234": {
+        "country_code": "CZ",
+        "asn": "206234",
+        "description": "FORTUNA GAME a.s.",
+        "handle": "RO-FORTUNA-GAME"
+    },
+    "206270": {
+        "country_code": "CZ",
+        "asn": "206270",
+        "description": "ISP Alliance a.s.",
+        "handle": "TNETCZ-AS"
+    },
+    "206287": {
+        "country_code": "CZ",
+        "asn": "206287",
+        "description": "LysaFree z.s.",
+        "handle": "LYSAFREE-NET"
+    },
+    "206321": {
+        "country_code": "CZ",
+        "asn": "206321",
+        "description": "STARTECH spol. s r.o.",
+        "handle": "STARTECH"
+    },
+    "206344": {
+        "country_code": "CZ",
+        "asn": "206344",
+        "description": "Fortion Networks s.r.o.",
+        "handle": "AUKRO"
+    },
+    "206414": {
+        "country_code": "CZ",
+        "asn": "206414",
+        "description": "TechCenter s.r.o.",
+        "handle": "TECHCENTER-CZ"
+    },
+    "206420": {
+        "country_code": "CZ",
+        "asn": "206420",
+        "description": "KABEL servis Praha spol. s r.o.",
+        "handle": "KABELSERVIS"
+    },
+    "206429": {
+        "country_code": "CZ",
+        "asn": "206429",
+        "description": "CORSAT s.r.o",
+        "handle": "CORSAT"
+    },
+    "206438": {
+        "country_code": "CZ",
+        "asn": "206438",
+        "description": "MX-NET Telekomunikace s.r.o.",
+        "handle": "MXNET-AS"
+    },
+    "206468": {
+        "country_code": "CZ",
+        "asn": "206468",
+        "description": "Treboradice.net z.s.",
+        "handle": "TREBORADICENET-AS"
+    },
+    "206548": {
+        "country_code": "CZ",
+        "asn": "206548",
+        "description": "ZCOM.cz s.r.o",
+        "handle": "TLAP-ZCOM"
+    },
+    "206566": {
+        "country_code": "CZ",
+        "asn": "206566",
+        "description": "Webglobe s.r.o.",
+        "handle": "SAVANACZ"
+    },
+    "206587": {
+        "country_code": "CZ",
+        "asn": "206587",
+        "description": "Daktela s.r.o.",
+        "handle": "DAKTELA-CZ"
+    },
+    "206591": {
+        "country_code": "CZ",
+        "asn": "206591",
+        "description": "Alza.cz a.s.",
+        "handle": "ALZACZ-AS"
+    },
+    "206601": {
+        "country_code": "CZ",
+        "asn": "206601",
+        "description": "FASTER CZ spol. s r.o.",
+        "handle": "ZELENADATA-AS"
+    },
+    "206613": {
+        "country_code": "CZ",
+        "asn": "206613",
+        "description": "Tipsport.net a.s.",
+        "handle": "TIPSPORT-NET-AS"
+    },
+    "206683": {
+        "country_code": "CZ",
+        "asn": "206683",
+        "description": "Moravskoslezske inovacni centrum Ostrava a.s.",
+        "handle": "MSIC-AS"
+    },
+    "206703": {
+        "country_code": "CZ",
+        "asn": "206703",
+        "description": "Netcom Solutions s.r.o.",
+        "handle": "BOXNET"
+    },
+    "206712": {
+        "country_code": "CZ",
+        "asn": "206712",
+        "description": "FELDSAM s.r.o.",
+        "handle": "FELDHOST-AS"
+    },
+    "206784": {
+        "country_code": "CZ",
+        "asn": "206784",
+        "description": "Internet Praha Josefov s.r.o.",
+        "handle": "JOSEFOV"
+    },
+    "206785": {
+        "country_code": "CZ",
+        "asn": "206785",
+        "description": "Magistrat mesta Brna",
+        "handle": "BRNO"
+    },
+    "206908": {
+        "country_code": "CZ",
+        "asn": "206908",
+        "description": "FORTUNA GAME a.s.",
+        "handle": "PL-FORTUNA-GAME"
+    },
+    "206951": {
+        "country_code": "CZ",
+        "asn": "206951",
+        "description": "BMB-Green s.r.o.",
+        "handle": "BMBGREEN"
+    },
+    "207015": {
+        "country_code": "CZ",
+        "asn": "207015",
+        "description": "Position s.r.o.",
+        "handle": "POSITION"
+    },
+    "207095": {
+        "country_code": "CZ",
+        "asn": "207095",
+        "description": "FORTUNA GAME a.s.",
+        "handle": "SK-FORTUNA-GAME"
+    },
+    "207153": {
+        "country_code": "CZ",
+        "asn": "207153",
+        "description": "Stream-iT s.r.o.",
+        "handle": "CZ-STREAM-IT"
+    },
+    "207167": {
+        "country_code": "CZ",
+        "asn": "207167",
+        "description": "mapnet IT services s.r.o.",
+        "handle": "AMCCOMP-MASTER-BRNO"
+    },
+    "207187": {
+        "country_code": "CZ",
+        "asn": "207187",
+        "description": "TKR Jasek s.r.o.",
+        "handle": "TKRJASEK"
+    },
+    "207198": {
+        "country_code": "CZ",
+        "asn": "207198",
+        "description": "Kabelova televize Koprivnice s.r.o.",
+        "handle": "KTKCZ"
+    },
+    "207231": {
+        "country_code": "CZ",
+        "asn": "207231",
+        "description": "FuturNET s.r.o.",
+        "handle": "FUTURNET-AS"
+    },
+    "207242": {
+        "country_code": "CZ",
+        "asn": "207242",
+        "description": "NOEL s.r.o.",
+        "handle": "NOEL"
+    },
+    "207272": {
+        "country_code": "CZ",
+        "asn": "207272",
+        "description": "Vojtech Linhart",
+        "handle": "SPICY-TELECOMMUNICATIONS"
+    },
+    "207354": {
+        "country_code": "CZ",
+        "asn": "207354",
+        "description": "Teleconnect CZ s.r.o.",
+        "handle": "TELECONNECT"
+    },
+    "207391": {
+        "country_code": "CZ",
+        "asn": "207391",
+        "description": "E LINKX a.s.",
+        "handle": "EDGROUP"
+    },
+    "207434": {
+        "country_code": "CZ",
+        "asn": "207434",
+        "description": "Generalni reditelstvi cel",
+        "handle": "GRC"
+    },
+    "207451": {
+        "country_code": "CZ",
+        "asn": "207451",
+        "description": "Ales Hruska",
+        "handle": "PEARHOST-AS"
+    },
+    "207575": {
+        "country_code": "CZ",
+        "asn": "207575",
+        "description": "Zahradnicke centrum Brabec s.r.o.",
+        "handle": "BRABECZC-AS"
+    },
+    "207576": {
+        "country_code": "CZ",
+        "asn": "207576",
+        "description": "KOVO - PLAZMA s.r.o.",
+        "handle": "KOVOPLAZMA-AS"
+    },
+    "207583": {
+        "country_code": "CZ",
+        "asn": "207583",
+        "description": "Technologicke centrum a.s.",
+        "handle": "TECHNOLOGICKE-CENTRUM-AS"
+    },
+    "207632": {
+        "country_code": "CZ",
+        "asn": "207632",
+        "description": "Jan Betik",
+        "handle": "SVINE"
+    },
+    "207696": {
+        "country_code": "CZ",
+        "asn": "207696",
+        "description": "Dopravni podnik hl.m. Prahy a.s.",
+        "handle": "DPP-AS"
+    },
+    "207700": {
+        "country_code": "CZ",
+        "asn": "207700",
+        "description": "Reliable Communications s.r.o.",
+        "handle": "RELIABLE-COMMUNICATIONS"
+    },
+    "207850": {
+        "country_code": "CZ",
+        "asn": "207850",
+        "description": "HovNet-SERVIS s.r.o.",
+        "handle": "USTINET-AS"
+    },
+    "207855": {
+        "country_code": "CZ",
+        "asn": "207855",
+        "description": "SychrovNET s.r.o",
+        "handle": "MODERNTV-ANYCAST"
+    },
+    "207886": {
+        "country_code": "CZ",
+        "asn": "207886",
+        "description": "ECOMP spol s r.o.",
+        "handle": "ECOMPEU-CZ"
+    },
+    "207887": {
+        "country_code": "CZ",
+        "asn": "207887",
+        "description": "Fio banka a.s.",
+        "handle": "FIOBANKA-AS"
+    },
+    "207945": {
+        "country_code": "CZ",
+        "asn": "207945",
+        "description": "CNI Group s.r.o.",
+        "handle": "CNI"
+    },
+    "208060": {
+        "country_code": "CZ",
+        "asn": "208060",
+        "description": "Dr. Max BDC s.r.o.",
+        "handle": "DRMAX-BDC"
+    },
+    "208093": {
+        "country_code": "CZ",
+        "asn": "208093",
+        "description": "Moravskoslezsky kraj",
+        "handle": "MSK"
+    },
+    "208143": {
+        "country_code": "CZ",
+        "asn": "208143",
+        "description": "mapnet IT services s.r.o.",
+        "handle": "AMCCOMP-UNIN"
+    },
+    "208329": {
+        "country_code": "CZ",
+        "asn": "208329",
+        "description": "Ceska televize",
+        "handle": "CESKA-TELEVIZE"
+    },
+    "208387": {
+        "country_code": "CZ",
+        "asn": "208387",
+        "description": "Blond & Brown s.r.o.",
+        "handle": "AS-BLONDBROWN"
+    },
+    "208414": {
+        "country_code": "CZ",
+        "asn": "208414",
+        "description": "WEDOS Internet a.s.",
+        "handle": "WEDOS-GLOBAL"
+    },
+    "208422": {
+        "country_code": "CZ",
+        "asn": "208422",
+        "description": "Infinity Telecom s.r.o.",
+        "handle": "INFINITY-AS"
+    },
+    "208466": {
+        "country_code": "CZ",
+        "asn": "208466",
+        "description": "EG.D s.r.o.",
+        "handle": "EGDSRO"
+    },
+    "208648": {
+        "country_code": "CZ",
+        "asn": "208648",
+        "description": "Playground HUB s.r.o.",
+        "handle": "PGHUB"
+    },
+    "208659": {
+        "country_code": "CZ",
+        "asn": "208659",
+        "description": "INNC s.r.o.",
+        "handle": "INNC"
+    },
+    "208663": {
+        "country_code": "CZ",
+        "asn": "208663",
+        "description": "Martin Ph. D. Pustka",
+        "handle": "MTU-NET"
+    },
+    "208712": {
+        "country_code": "CZ",
+        "asn": "208712",
+        "description": "CENDIS s.p.",
+        "handle": "CENDIS"
+    },
+    "208790": {
+        "country_code": "CZ",
+        "asn": "208790",
+        "description": "Stepan Duda",
+        "handle": "STEPAN-DUDA"
+    },
+    "208805": {
+        "country_code": "CZ",
+        "asn": "208805",
+        "description": "INTERCONNECT s.r.o.",
+        "handle": "SPOLNET"
+    },
+    "208816": {
+        "country_code": "CZ",
+        "asn": "208816",
+        "description": "It services company s.r.o.",
+        "handle": "AS208816"
+    },
+    "208845": {
+        "country_code": "CZ",
+        "asn": "208845",
+        "description": "Telefonzentrale s.r.o.",
+        "handle": "GLAVREGIONELEKTROSVYAZ-AS"
+    },
+    "208847": {
+        "country_code": "CZ",
+        "asn": "208847",
+        "description": "Martin Fryzl",
+        "handle": "ASFRYZL"
+    },
+    "208906": {
+        "country_code": "CZ",
+        "asn": "208906",
+        "description": "SYNOT ICT Services a.s.",
+        "handle": "SYNOT-CZ"
+    },
+    "208950": {
+        "country_code": "CZ",
+        "asn": "208950",
+        "description": "Ezpada s.r.o",
+        "handle": "ASEZPADASRO"
+    },
+    "208962": {
+        "country_code": "CZ",
+        "asn": "208962",
+        "description": "Nextremum s.r.o.",
+        "handle": "NEXTREMUM"
+    },
+    "209055": {
+        "country_code": "CZ",
+        "asn": "209055",
+        "description": "W.A.G. PAYMENT SOLUTIONS A.S.",
+        "handle": "AS-WAG"
+    },
+    "209135": {
+        "country_code": "CZ",
+        "asn": "209135",
+        "description": "Flowmon Networks a.s.",
+        "handle": "FLOWMONNETWORKS"
+    },
+    "209155": {
+        "country_code": "CZ",
+        "asn": "209155",
+        "description": "Onehostplanet s.r.o.",
+        "handle": "ONEHOSTPLANET"
+    },
+    "209369": {
+        "country_code": "CZ",
+        "asn": "209369",
+        "description": "The Cloud Provider s.r.o.",
+        "handle": "TCPRO"
+    },
+    "209431": {
+        "country_code": "CZ",
+        "asn": "209431",
+        "description": "PharoCom s.r.o.",
+        "handle": "PHAROCOM"
+    },
+    "209621": {
+        "country_code": "CZ",
+        "asn": "209621",
+        "description": "DOBNET z.s.",
+        "handle": "DOBNET"
+    },
+    "209671": {
+        "country_code": "CZ",
+        "asn": "209671",
+        "description": "Qrator Labs CZ s.r.o.",
+        "handle": "QRATOR-SW"
+    },
+    "209680": {
+        "country_code": "CZ",
+        "asn": "209680",
+        "description": "JetBrains s. r. o.",
+        "handle": "JETBRAINS-AS"
+    },
+    "209692": {
+        "country_code": "CZ",
+        "asn": "209692",
+        "description": "FOXCONN CZ s.r.o.",
+        "handle": "CZFOXCONN"
+    },
+    "209719": {
+        "country_code": "CZ",
+        "asn": "209719",
+        "description": "Ministerstvo Obrany",
+        "handle": "CZ-MOD"
+    },
+    "209795": {
+        "country_code": "CZ",
+        "asn": "209795",
+        "description": "SPC-net s.r.o.",
+        "handle": "SPC-NET"
+    },
+    "209810": {
+        "country_code": "CZ",
+        "asn": "209810",
+        "description": "Netcore services s.r.o.",
+        "handle": "NETCORESERVICES"
+    },
+    "209834": {
+        "country_code": "CZ",
+        "asn": "209834",
+        "description": "KAZA.cz s.r.o.",
+        "handle": "BRNONET"
+    },
+    "209947": {
+        "country_code": "CZ",
+        "asn": "209947",
+        "description": "M-wifi internet s.r.o.",
+        "handle": "MWIFI"
+    },
+    "210061": {
+        "country_code": "CZ",
+        "asn": "210061",
+        "description": "Ladislav Kepl",
+        "handle": "VINARICENET"
+    },
+    "210111": {
+        "country_code": "CZ",
+        "asn": "210111",
+        "description": "Netcraft Solutions s.r.o.",
+        "handle": "NETCRAFTSOLUTIONS"
+    },
+    "210139": {
+        "country_code": "CZ",
+        "asn": "210139",
+        "description": "DPT s.r.o.",
+        "handle": "DPT"
+    },
+    "210306": {
+        "country_code": "CZ",
+        "asn": "210306",
+        "description": "SferiaNET.cz s.r.o.",
+        "handle": "ADVNET"
+    },
+    "210325": {
+        "country_code": "CZ",
+        "asn": "210325",
+        "description": "ISP Alliance a.s.",
+        "handle": "AIRNETWORKS"
+    },
+    "210367": {
+        "country_code": "CZ",
+        "asn": "210367",
+        "description": "Krajska zdravotni a.s.",
+        "handle": "KZCR"
+    },
+    "210401": {
+        "country_code": "CZ",
+        "asn": "210401",
+        "description": "Batlify Internet s.r.o.",
+        "handle": "BATLIFY-INTERNET"
+    },
+    "210436": {
+        "country_code": "CZ",
+        "asn": "210436",
+        "description": "IT Globe s.r.o.",
+        "handle": "ASITGLOBE"
+    },
+    "210498": {
+        "country_code": "CZ",
+        "asn": "210498",
+        "description": "Kraj Vysocina",
+        "handle": "VYSOCINA-HSOC"
+    },
+    "210604": {
+        "country_code": "CZ",
+        "asn": "210604",
+        "description": "Pernix systems s.r.o.",
+        "handle": "ASCZPERNIX-NEZA"
+    },
+    "210631": {
+        "country_code": "CZ",
+        "asn": "210631",
+        "description": "SafeDX s.r.o.",
+        "handle": "SAFEDX"
+    },
+    "210712": {
+        "country_code": "CZ",
+        "asn": "210712",
+        "description": "ISP Alliance a.s.",
+        "handle": "GRAPESC-ISP"
+    },
+    "210811": {
+        "country_code": "CZ",
+        "asn": "210811",
+        "description": "AK SYSTEM s.r.o.",
+        "handle": "AKSYSTEM"
+    },
+    "210915": {
+        "country_code": "CZ",
+        "asn": "210915",
+        "description": "Dominik Pastorek",
+        "handle": "DOMINIKPASTO"
+    },
+    "210951": {
+        "country_code": "CZ",
+        "asn": "210951",
+        "description": "Josef Miegl",
+        "handle": "MIEGLNET"
+    },
+    "210958": {
+        "country_code": "CZ",
+        "asn": "210958",
+        "description": "Fastport a.s.",
+        "handle": "FASTPORT"
+    },
+    "210984": {
+        "country_code": "CZ",
+        "asn": "210984",
+        "description": "Zerops s.r.o.",
+        "handle": "ZEROPS-IO"
+    },
+    "211085": {
+        "country_code": "CZ",
+        "asn": "211085",
+        "description": "mapnet IT services s.r.o.",
+        "handle": "AMCCOMP-MASTER-PRAHA"
+    },
+    "211137": {
+        "country_code": "CZ",
+        "asn": "211137",
+        "description": "ISP Services spol. s.r.o.",
+        "handle": "ISPSERVICES"
+    },
+    "211193": {
+        "country_code": "CZ",
+        "asn": "211193",
+        "description": "Jiri Tlapak",
+        "handle": "TLAPNET-CZ-AS"
+    },
+    "211248": {
+        "country_code": "CZ",
+        "asn": "211248",
+        "description": "Artemis NET s.r.o.",
+        "handle": "CZ-ARTEMIS4"
+    },
+    "211274": {
+        "country_code": "CZ",
+        "asn": "211274",
+        "description": "Quadruple a.s.",
+        "handle": "QCZ"
+    },
+    "211334": {
+        "country_code": "CZ",
+        "asn": "211334",
+        "description": "MASTER IT Technologies a.s.",
+        "handle": "MASTER-IT-TECHNOLOGIES-2"
+    },
+    "211445": {
+        "country_code": "CZ",
+        "asn": "211445",
+        "description": "Mesto Kralupy nad Vltavou",
+        "handle": "MEUKRALUPY"
+    },
+    "211546": {
+        "country_code": "CZ",
+        "asn": "211546",
+        "description": "Mesto Odry",
+        "handle": "ODRY"
+    },
+    "211594": {
+        "country_code": "CZ",
+        "asn": "211594",
+        "description": "Kleissner Investments s.r.o.",
+        "handle": "PEERNET"
+    },
+    "211693": {
+        "country_code": "CZ",
+        "asn": "211693",
+        "description": "NolimitCloud s.r.o",
+        "handle": "NOLIMITNET"
+    },
+    "211700": {
+        "country_code": "CZ",
+        "asn": "211700",
+        "description": "Dexus Internet s.r.o.",
+        "handle": "DEXUS"
+    },
+    "211731": {
+        "country_code": "CZ",
+        "asn": "211731",
+        "description": "Ministry of labour and social affairs",
+        "handle": "MPSV-AS-CZ"
+    },
+    "211774": {
+        "country_code": "CZ",
+        "asn": "211774",
+        "description": "ign.cz internet s.r.o.",
+        "handle": "IGN"
+    },
+    "211816": {
+        "country_code": "CZ",
+        "asn": "211816",
+        "description": "ERON X s.r.o.",
+        "handle": "ASERONX"
+    },
+    "211890": {
+        "country_code": "CZ",
+        "asn": "211890",
+        "description": "ProfiSMS s.r.o.",
+        "handle": "PROFISMS-AS"
+    },
+    "211898": {
+        "country_code": "CZ",
+        "asn": "211898",
+        "description": "vpsFree.cz z.s.",
+        "handle": "VPSFREE"
+    },
+    "212074": {
+        "country_code": "CZ",
+        "asn": "212074",
+        "description": "Ondrej Filip",
+        "handle": "FEELA-NET"
+    },
+    "212138": {
+        "country_code": "CZ",
+        "asn": "212138",
+        "description": "Technicke site Brno akciova spolecnost",
+        "handle": "AS-TSB"
+    },
+    "212204": {
+        "country_code": "CZ",
+        "asn": "212204",
+        "description": "FORTUNA GAME a.s.",
+        "handle": "PSK-CRO"
+    },
+    "212224": {
+        "country_code": "CZ",
+        "asn": "212224",
+        "description": "Coolhousing s.r.o.",
+        "handle": "TRAVELIANA"
+    },
+    "212234": {
+        "country_code": "CZ",
+        "asn": "212234",
+        "description": "SMEJKALOVA Marketa",
+        "handle": "SMEJKALOVA"
+    },
+    "212315": {
+        "country_code": "CZ",
+        "asn": "212315",
+        "description": "Frantisek Toman",
+        "handle": "FTCZ-NET"
+    },
+    "212325": {
+        "country_code": "CZ",
+        "asn": "212325",
+        "description": "ADC Systems s.r.o.",
+        "handle": "ADCSYSTEMS"
+    },
+    "212362": {
+        "country_code": "CZ",
+        "asn": "212362",
+        "description": "INERA.CZ s.r.o.",
+        "handle": "TREFCON-NET"
+    },
+    "212453": {
+        "country_code": "CZ",
+        "asn": "212453",
+        "description": "FORTUNA GAME a.s.",
+        "handle": "HR-FORTUNA-GAME-DC"
+    },
+    "212859": {
+        "country_code": "CZ",
+        "asn": "212859",
+        "description": "KXCOMM s.r.o.",
+        "handle": "KRONOSNET"
+    },
+    "212876": {
+        "country_code": "CZ",
+        "asn": "212876",
+        "description": "Pardubicky Kraj",
+        "handle": "CZ-PARDUBICKYKRAJ"
+    },
+    "212906": {
+        "country_code": "CZ",
+        "asn": "212906",
+        "description": "Moneroj s.r.o.",
+        "handle": "MONEROJ-CA"
+    },
+    "212975": {
+        "country_code": "CZ",
+        "asn": "212975",
+        "description": "TeamCity s.r.o.",
+        "handle": "TEAMCITY-AS"
+    },
+    "213057": {
+        "country_code": "CZ",
+        "asn": "213057",
+        "description": "innogy Ceska republika a.s",
+        "handle": "INNOGYCZ"
+    },
+    "213104": {
+        "country_code": "CZ",
+        "asn": "213104",
+        "description": "FIBER TELECOM s.r.o.",
+        "handle": "WIREIX"
+    },
+    "213152": {
+        "country_code": "CZ",
+        "asn": "213152",
+        "description": "Narodni bezpecnostni urad Czech Republic",
+        "handle": "NBU"
+    },
+    "213223": {
+        "country_code": "CZ",
+        "asn": "213223",
+        "description": "GasNet s.r.o.",
+        "handle": "GASNET"
+    },
+    "213359": {
+        "country_code": "CZ",
+        "asn": "213359",
+        "description": "Jan Korinek",
+        "handle": "MAZEL-BIZ-AS"
+    },
+    "213387": {
+        "country_code": "CZ",
+        "asn": "213387",
+        "description": "TeSuNet s.r.o.",
+        "handle": "TESUNET"
+    },
+    "213395": {
+        "country_code": "CZ",
+        "asn": "213395",
+        "description": "NetX Networks a.s.",
+        "handle": "NTXN"
+    },
+    "213558": {
+        "country_code": "CZ",
+        "asn": "213558",
+        "description": "Spinoco a.s.",
+        "handle": "SPINOCO-USHC"
+    },
+    "213559": {
+        "country_code": "CZ",
+        "asn": "213559",
+        "description": "MyOffice s.r.o.",
+        "handle": "ASMYBV1"
+    },
+    "213594": {
+        "country_code": "CZ",
+        "asn": "213594",
+        "description": "TECHart systems s.r.o.",
+        "handle": "TECHART"
+    },
+    "213770": {
+        "country_code": "CZ",
+        "asn": "213770",
+        "description": "GTT a.s.",
+        "handle": "GTTCZ1"
+    },
+    "213776": {
+        "country_code": "CZ",
+        "asn": "213776",
+        "description": "TeleConnect CZ s.r.o.",
+        "handle": "ASTELECONNECT"
+    },
+    "213813": {
+        "country_code": "CZ",
+        "asn": "213813",
+        "description": "MaSON z. s.",
+        "handle": "MASON-CZ-AS"
+    },
+    "213874": {
+        "country_code": "CZ",
+        "asn": "213874",
+        "description": "Jakub Krsa",
+        "handle": "NSIX-ROUTE-SERVERS"
+    },
+    "213927": {
+        "country_code": "CZ",
+        "asn": "213927",
+        "description": "FIBER CONNECTIONS s.r.o.",
+        "handle": "FIBERCZ"
+    },
+    "214032": {
+        "country_code": "CZ",
+        "asn": "214032",
+        "description": "BUDOVIT s.r.o",
+        "handle": "BUDOVIT"
+    },
+    "214224": {
+        "country_code": "CZ",
+        "asn": "214224",
+        "description": "CeskaSit.net Networks s.r.o.",
+        "handle": "CESKASITNET"
+    },
+    "214272": {
+        "country_code": "CZ",
+        "asn": "214272",
+        "description": "David Barta",
+        "handle": "BARTANET-AS"
+    },
+    "214703": {
+        "country_code": "CZ",
+        "asn": "214703",
+        "description": "Core4Net s.r.o.",
+        "handle": "FAKAHEDA-AS"
+    },
+    "214757": {
+        "country_code": "CZ",
+        "asn": "214757",
+        "description": "Jakub Krsa",
+        "handle": "JAKUB-KRSA"
+    },
+    "214886": {
+        "country_code": "CZ",
+        "asn": "214886",
+        "description": "Green hosting s.r.o.",
+        "handle": "ASGREENHOSTING"
+    },
+    "214945": {
+        "country_code": "CZ",
+        "asn": "214945",
+        "description": "Ministerstvo zahranicnich veci Ceske Republiky",
+        "handle": "MZVCR"
+    },
+    "214952": {
+        "country_code": "CZ",
+        "asn": "214952",
+        "description": "mjanik.net s.r.o.",
+        "handle": "MJANIK-AS"
+    },
+    "215260": {
+        "country_code": "CZ",
+        "asn": "215260",
+        "description": "Emerald Group s.r.o.",
+        "handle": "EMERALDG-NET"
+    },
+    "215308": {
+        "country_code": "CZ",
+        "asn": "215308",
+        "description": "Spolek PASKOV.net",
+        "handle": "DIMCZNET"
+    },
+    "215353": {
+        "country_code": "CZ",
+        "asn": "215353",
+        "description": "Josef Hrabe",
+        "handle": "ATROPOLNETWORK"
+    },
+    "215354": {
+        "country_code": "CZ",
+        "asn": "215354",
+        "description": "ENTRANOVA IT s.r.o.",
+        "handle": "ENTRANOVA-AS"
+    },
+    "215571": {
+        "country_code": "CZ",
+        "asn": "215571",
+        "description": "ITIXO s.r.o.",
+        "handle": "ITIXO"
+    },
+    "215582": {
+        "country_code": "CZ",
+        "asn": "215582",
+        "description": "Jan Kalista",
+        "handle": "IPV6PROJECT-EU"
+    },
+    "215588": {
+        "country_code": "CZ",
+        "asn": "215588",
+        "description": "Notino s.r.o.",
+        "handle": "NOTINO-ASN"
+    },
+    "215602": {
+        "country_code": "CZ",
+        "asn": "215602",
+        "description": "sikmo s.r.o.",
+        "handle": "SIKMO"
+    },
+    "215676": {
+        "country_code": "CZ",
+        "asn": "215676",
+        "description": "GoodHost s.r.o.",
+        "handle": "GOODHOST"
+    },
+    "215704": {
+        "country_code": "CZ",
+        "asn": "215704",
+        "description": "NGN CZ s.r.o.",
+        "handle": "NGN-CZ"
+    },
+    "215711": {
+        "country_code": "CZ",
+        "asn": "215711",
+        "description": "The Ministry of Agriculture of the Czech Republic",
+        "handle": "MZE"
+    },
+    "215718": {
+        "country_code": "CZ",
+        "asn": "215718",
+        "description": "IBA Group a.s.",
+        "handle": "IBAGROUP"
+    },
+    "215757": {
+        "country_code": "CZ",
+        "asn": "215757",
+        "description": "Carrier Refrigeration Operation Czech Republic s.r.o.",
+        "handle": "CARRIER-EMEA"
+    },
+    "215777": {
+        "country_code": "CZ",
+        "asn": "215777",
+        "description": "Jiri Cincura",
+        "handle": "CINCURA"
+    },
+    "215806": {
+        "country_code": "CZ",
+        "asn": "215806",
+        "description": "Albert Ceska republika s.r.o.",
+        "handle": "CZ-ALBERT-AS"
+    },
+    "215846": {
+        "country_code": "CZ",
+        "asn": "215846",
+        "description": "PRO-ZETA a.s.",
+        "handle": "BLINDSPOT-RESEARCH"
+    },
+    "216021": {
+        "country_code": "CZ",
+        "asn": "216021",
+        "description": "Stefan Johannes Mayer",
+        "handle": "STEVIJO-AS"
+    },
+    "216241": {
+        "country_code": "CZ",
+        "asn": "216241",
+        "description": "Vysoka skola banska - Technicka univerzita Ostrava",
+        "handle": "VSB-CZ"
+    },
+    "216339": {
+        "country_code": "CZ",
+        "asn": "216339",
+        "description": "Mald Entertainment Studio s.r.o.",
+        "handle": "MALD-ENTERTAINMENT-STUDIO"
+    },
+    "216450": {
+        "country_code": "CZ",
+        "asn": "216450",
+        "description": "Letiste Praha a. s.",
+        "handle": "PRGAERO"
+    }
+}

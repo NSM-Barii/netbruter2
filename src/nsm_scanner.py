@@ -71,21 +71,19 @@ class Mass_IP_Scanner():
 
                 # CONVERT THAT INTEGER BACK INTO A NORMAL X.X.X.X IPV4 ADDRESS
                 random_ip     = ipaddress.IPv4Address(random_ip_int)
-                if random_ip in bf: return False
-                bf.add(random_ip)
                  
 
             else: random_ip = (f"{random.randint(0,255)}.{random.randint(0,255)}.{random.randint(0,255)}.{random.randint(0,255)}")
 
+            if random_ip in bf: return False
+            bf.add(random_ip)
 
 
             if verbose: console.print(f"[bold green]Generated IP:[bold yellow] {random_ip}")
 
 
-        except Exception as e: print(e)
-
-        cls.scanned_ips += 1
-        return str(random_ip)
+        except Exception as e: print(e); return False
+        
     
     
     @classmethod

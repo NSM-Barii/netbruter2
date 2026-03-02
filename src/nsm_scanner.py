@@ -24,7 +24,7 @@ from nsm_database import File_Saver, Database
 
 console = Console()
 LOCK = threading.Lock()
-bf = BloomFilter(capacity=100000000, error_rate=0.001)
+bf = BloomFilter(capacity=1000000000, error_rate=0.001)
 
 
 class Mass_IP_Scanner():
@@ -83,7 +83,7 @@ class Mass_IP_Scanner():
 
 
         except Exception as e: print(e); return False
-        
+
     
     
     @classmethod

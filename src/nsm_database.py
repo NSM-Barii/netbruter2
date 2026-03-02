@@ -743,6 +743,10 @@ class Database():
         # 5.202.86.0/24, 91.233.56.0/24, 91.233.59.0/24, 91.233.58.0/24, 91.233.57.0/24, 195.20.136.0/24
         # web panels, remote access, SCADA/ICS protocols
 
+        # ST. LUCIA TEST
+        # sudo venv/bin/python main.py --country "Saint Lucia" --asn 33582,395561,399724 -p 80,443,8080,8443,22,23,21,3389 --save --geo local -t 250
+        # web, SSH, Telnet, FTP, RDP
+
         
 
         # COLORS

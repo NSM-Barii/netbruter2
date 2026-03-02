@@ -31,10 +31,12 @@ class Mass_IP_Scanner():
 
     
     # ARGS
+    country = False
+    asn     = False
+    lookup  = False 
+
     all     = False
     save    = False
-    country = False
-    lookup  = False 
 
 
     # MODES
@@ -123,9 +125,7 @@ class Mass_IP_Scanner():
                 Database.errors += 1
                 console.print(f"[bold red]Exception Error:[bold yellow] {e}")
     
-    
-
-    
+   
     @classmethod
     def _ip_threader(cls, ports, max_workers=250, timeout=1):
         """This will start a multi-proccess thread"""
@@ -197,6 +197,7 @@ class Mass_IP_Scanner():
         print("\n")
         if cls.country: cls.blocks = Database.get_ip_block(country=cls.country, CONSOLE=console)
         if cls.save:    File_Saver.push_ips_found(data=False, CONSOLE=console)
+        if cls.asn:     data, cls.blocks = Database.get_asn(country=cls.country, asns=cls.asn)
 
 
         if not port:

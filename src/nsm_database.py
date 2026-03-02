@@ -6,7 +6,7 @@ from rich.console import Console
 
 # ETC IMPORTS
 from pathlib import Path
-import json, requests, mmh3, re, threading, geoip2.database, subprocess, os, time, sys
+import json, requests, mmh3, re, threading, geoip2.database, subprocess, os, time, sys, ipaddress
 from pymongo import MongoClient
 from urllib.parse import urljoin, urlparse
 from datetime import datetime
@@ -649,7 +649,7 @@ class Database():
 
 
     @classmethod
-    def validate_country(cls, country, CONSOLE=console):
+    def validate_country(cls, country, CONSOLE=console, verbose=True):
         """This will be used to validate user inputted country"""
 
 
@@ -660,7 +660,10 @@ class Database():
 
             for path in path_ip_blocks.iterdir():
                 
-                if path_country == path: CONSOLE.print(f"[bold green][+] Found country.txt:[/bold green] {path_country}"); cls.country=country; return path_country
+                if path_country == path: 
+
+                    if verbose: CONSOLE.print(f"[bold green][+] Found country.txt:[/bold green] {path_country}")
+                    cls.country=country; return path_country
             
 
             CONSOLE.print(f"\n[bold red][-] Invalid country given, please check documentation if your having trouble finding your country")
@@ -669,6 +672,36 @@ class Database():
         CONSOLE.print(f"\n[bold red][-] Seems like your missing the ip_blocks directory, please check Documentation for fix")
         sys.exit()
   
+
+    @classmethod
+    def validate_asn(cls, country, asns, CONSOLE=console):
+        """This will be used to validate user inputted country"""
+
+
+        path_asn = Path(__file__).parent.parent / "database" / "asns" / f"{country}.json"
+        presets    = []
+        valid_asn  = []
+
+        if path_asn.exists:
+
+            CONSOLE.print(f"[bold green][+] Found asn.json:[/bold green] {path_asn}\n")
+
+            with open(path_asn, "r") as file: data = json.load(file)
+
+            for key, value in data.items(): presets.append(int(key))
+
+            for asn in asns:
+                
+                if asn in presets: CONSOLE.print(f"[bold green][+] Validated ASN:[yellow] {asn}"); valid_asn.append(asn)
+                else: CONSOLE.print(f"[bold red][-] Failed to Validated ASN:[yellow] {asn}")
+            
+            return path_asn, valid_asn
+        
+        
+        CONSOLE.print(f"\n[bold red][-] Seems like your missing the asns directory, please check Documentation for fix")
+        sys.exit()
+
+
 
     @classmethod
     def get_ip_block(cls, country, CONSOLE=console, verbose=False):
@@ -703,16 +736,32 @@ class Database():
     @classmethod
     def get_asn(cls, country, asns, CONSOLE=console, verbose=True):
         """This is going to be cool // pass the country and then filter through said country for asns"""
+        
 
-
-        path_asn = Path(__file__).parent.parent / "database" / "asns" / f"{country}.json"
-        base     = {}
+        # COLORS
+        c1 = "bold red"
+        c2 = "bold yellow"
+        c3 = "bold blue"
+        c4 = "bold green"
+        c5 = "white"
+        c6 = "yellow"
+        space = "    "
+        total_blocks = []
 
 
         try: asns  = [int(asn) for asn in asns.split(',')]
         except Exception: asns = list(asns)      
 
-        CONSOLE.print(f"[yellow][*] Target asns:[/yellow] {asns}")
+
+        Database.validate_country(country=country, CONSOLE=console, verbose=False)
+        path_asn, asns = Database.validate_asn(country=country, asns=asns, CONSOLE=console)
+
+
+        base     = {}
+
+
+
+        CONSOLE.print(f"\n[yellow][*] Target asns:[/yellow] {asns}")
         
 
 
@@ -720,31 +769,66 @@ class Database():
 
 
             with open(path_asn, "r") as file: data = json.load(file)
-            if verbose: CONSOLE.print(f"[bold green][+] Successfully Pulled:[/bold green] {path_asn}") 
+            CONSOLE.print(f"[yellow][+] Pulling blocks <-- asn(s), Please standby\n") 
                 
 
 
             for key, value in data.items():
+                
 
                 asn = int(key)
                 country_code = value["country_code"]
                 description  = value["description"]
                 handle       = value["handle"]
+
                 
                 if asn in asns:
 
-                    base[asn] = {
-                        "asn": asn,
-                        "country_code": country_code,
-                        "description": description,
-                        "handle": handle
-                    }
 
-                    CONSOLE.print(f"[bold green][+] ASN:[bold yellow] {value}")
-    
+                    url = f"https://stat.ripe.net/data/announced-prefixes/data.json?resource={asn}"
 
-            #CONSOLE.print(f"[bold green][+] Pulled asns:[/bold green] {base}")
+                    response = requests.get(url=url)
+                    data     = response.json()
+                    block    = []
+                    
+                    if response.status_code in [200, 204]:
+                        
+                        prefixes = data["data"]["prefixes"]
+
+                        for cidr in prefixes:
+
+                            prefix = cidr['prefix']
+                            
+
+                            try:
+                                if ipaddress.IPv4Network(prefix):
+
+                                    block.append(prefix);  total_blocks.append(prefix)
+                            
+                            except Exception as e: CONSOLE.print(f"IPV6: {e}")
+                                
+                        base[asn] = {
+                            "asn": asn,
+                            "country_code": country_code,
+                            "description": description,
+                            "handle": handle,
+                            "block": block
+                        }
+
+                        CONSOLE.print(
+                            f"[{c1}]{"=" * 25}"
+                            f"\n[{c4}][+] asn:[{c6}] {asn}"
+                            f"\n[{c4}][+] country_code:[{c6}] {country_code}"
+                            f"\n[{c4}][+] description:[{c6}] {description}"
+                            f"\n[{c4}][+] handle:[{c6}] {handle}"
+                            f"\n[{c4}][+] prefix(s):[{c5}] {'\n   '.join(block)}"
+                            f"\n[{c1}]{"=" * 25}"
+                            )
             
+
+            CONSOLE.print(f"\n\n[{c1}][+] Total IP Blocks:[{c6}] {len(total_blocks)}"); return base, total_blocks
+    
+        
         except Exception as e: CONSOLE.print(f"[bold red][-] Exception Error:[bold yellow] {e}")
 
 
@@ -800,8 +884,7 @@ class Database():
 
         try:
 
-            country_code = "US"
-
+   
             asn_file = str(Path(__file__).parent.parent / "database" / "asns" / "info.txt")
 
             console.print(f"[bold green][+] Reading ASN database from: {asn_file}")
@@ -884,9 +967,6 @@ class Database():
             for asn in asns:
 
                 url = f"https://stat.ripe.net/data/announced-prefixes/data.json?resource={asn}"
-                #country  = zone_to_country.get(zone, False)
-                #if not country: pass
-                #safe_country = country.replace(" ", "_")
 
                 response = requests.get(url=url)
                 data = response.json()
@@ -1059,11 +1139,6 @@ class Deappreciated():
         return paths
 
     
-
-
-
-
-
 
 
 if __name__ == "__main__":

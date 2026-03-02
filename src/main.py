@@ -51,6 +51,13 @@ class Main():
 
     parser.add_argument("--save", action="store_true", help="Save all active IPs to database/ips.txt.")
 
+
+    parser.add_argument("--country", help="Only create IP Blocks within x Country")
+    parser.add_argument("--asn", help="Pass asn value(s) Example: 215892, 214735, 214145, 213727, 212056")
+ 
+    parser.add_argument("--geo", choices=["local", "ipinfo"], help="Enable IP geolocation lookup.")  
+    parser.add_argument("--ipinfo", help="Optional ipinfo.io API key. Defaults to none.")
+
     parser.add_argument("--iot",    action="store_true", help="Scan for IoT devices (MQTT, CoAP, mDNS).")
     parser.add_argument("--nas",    action="store_true", help="Scan for NAS devices (SMB, Synology, web panels).")
     parser.add_argument("--camera", action="store_true", help="Scan for IP cameras (RTSP, ONVIF, web interfaces).")
@@ -58,13 +65,8 @@ class Main():
     parser.add_argument("--remote", action="store_true", help="Scan for remote access services (RDP, VNC, SSH, FTP).")
     parser.add_argument("--database", action="store_true", help="Scan for open databases (3306, 5432, 27017, 6379, 9200).")
     
-
-    parser.add_argument("--country", help="Only create IP Blocks within x Country")
     parser.add_argument("--show-all", action="store_true", help="Show all active IPS")
     parser.add_argument("--paths",  help="Manually set path for directory bruteforcing (nas, router, camera).")
- 
-    parser.add_argument("--geo", choices=["local", "ipinfo"], help="Enable IP geolocation lookup.")  
-    parser.add_argument("--ipinfo", help="Optional ipinfo.io API key. Defaults to none.")
 
 
     args = parser.parse_args()
@@ -81,13 +83,13 @@ class Main():
 
 
     # ADDITIONS
-    save           = args.save        or False
-    paths          = args.paths       or False
     country        = args.country     or False
-    all            = args.show_all    or False
+    asn            = args.asn         or False
     lookup         = args.geo         or False
     api_key_ipinfo = args.ipinfo      or False
-    
+    save           = args.save        or False
+
+
 
     # PRESET OPTIONS
     iot      = args.iot        or False
@@ -97,11 +99,17 @@ class Main():
     camera   = args.camera     or False
     database = args.database   or False
 
+
+    # FOR PRESETS    
+    paths          = args.paths       or False
+    all            = args.show_all    or False
     
+
     # SET CONSTANTS
+    Mass_IP_Scanner.country = country
+    Mass_IP_Scanner.asn     = asn
     Mass_IP_Scanner.all     = all
     Mass_IP_Scanner.save    = save
-    Mass_IP_Scanner.country = country
 
 
     # ASSIGN PRESETS

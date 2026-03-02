@@ -78,8 +78,10 @@ class Mass_IP_Scanner():
             if random_ip in bf: return False
             bf.add(random_ip)
 
-
             if verbose: console.print(f"[bold green]Generated IP:[bold yellow] {random_ip}")
+
+            return str(random_ip)
+
 
 
         except Exception as e: print(e); return False

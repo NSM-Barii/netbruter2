@@ -76,7 +76,7 @@ class Mass_IP_Scanner():
             else: random_ip = (f"{random.randint(0,255)}.{random.randint(0,255)}.{random.randint(0,255)}.{random.randint(0,255)}")
 
             if random_ip in bf: return False
-            bf.add(random_ip)
+            bf.add(random_ip); cls.scanned_ips += 1
 
             if verbose: console.print(f"[bold green]Generated IP:[bold yellow] {random_ip}")
 
